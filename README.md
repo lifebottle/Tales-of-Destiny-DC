@@ -1,16 +1,17 @@
 # Tales of Destiny DC
 Tales of Destiny - Director's Cut (Patch)
 Video on how to use exisiting tools to extract files: https://www.youtube.com/watch?v=FyYQGVAKSUc
+Spreadsheet with HEX to Symbol Mapping: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10
 
-Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.
+Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  Note: Changes to this doesn't appear to affect Leon's side.
 
-199900 - names  
-19c380 - artes  
-1a0fa0 - ???  
-1a6870 - world map names  
-1ab670 - menu  
-1ab910 - materials  
-1bf2f0 - categories  
-19a190 - synopsis titles  
+00199900 - names  
+0019c380 - artes  
+001a0fa0 - ???  
+001a6870 - world map names  
+001ab670 - menu  
+001ab910 - materials  
+001bf2f0 - categories  
+0019a190 - synopsis titles  
 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce
