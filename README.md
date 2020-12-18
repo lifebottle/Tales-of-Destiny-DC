@@ -16,3 +16,5 @@ Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file. 
 0019a190 - synopsis titles  
 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce
+
+![alt text](https://github.com/pnvnd/Tales-of_Destiny-DC/raw/master/menu_patch_0.0.2.png "Sample menu patch.")
