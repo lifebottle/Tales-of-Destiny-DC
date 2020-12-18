@@ -6,14 +6,14 @@ Use xdelta to patch your ROM.  Patch works with default ISO ripped from ImgBurn.
 
 Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  Note: Changes to this doesn't appear to affect Leon's side.
 
-00199900 - names  
-0019c380 - artes  
-001a0fa0 - ???  
-001a6870 - world map names  
-001ab670 - menu  
-001ab910 - materials  
-001bf2f0 - categories  
-0019a190 - synopsis titles  
+00199900 - Names  
+0019C380 - Artes  
+001A0FA0 - ???  
+001A6870 - World Map Names  
+001AB670 - Menu  
+001Ab910 - Materials  
+001BF2F0 - Categories  
+0019A190 - Synopsis Titles  
 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce
 
