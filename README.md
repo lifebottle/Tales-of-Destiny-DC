@@ -1,7 +1,7 @@
 # Tales of Destiny DC
 Tales of Destiny - Director's Cut (Patch)
 
-Discord: https://discord.com/channels/789882485029732363/789882485655339069  
+Discord: https://discord.gg/YQSB5qY7h6
 Video on how to use exisiting tools to extract files: https://www.youtube.com/watch?v=FyYQGVAKSUc  
 Spreadsheet with HEX to Symbol Mapping: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Use xdelta to patch your ROM.  Patch works with default ISO ripped from ImgBurn.
