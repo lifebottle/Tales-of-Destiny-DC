@@ -4,6 +4,174 @@ def toHex(word):
     for i in jap:
         if i == "ー":
             List.append("99 A7")
+        # Hiragana Start
+        elif i =="ぁ":
+            List.append("99 A8")
+        elif i =="あ":
+            List.append("99 A9")
+        elif i =="ぃ":
+            List.append("99 AA")
+        elif i =="い":
+            List.append("99 AB")
+        elif i =="ぅ":
+            List.append("99 AC")
+        elif i =="う":
+            List.append("99 AD")
+        elif i =="ぇ":
+            List.append("99 AE")
+        elif i =="え":
+            List.append("99 AF")
+        elif i =="ぉ":
+            List.append("99 B0")
+        elif i =="お":
+            List.append("99 B1")
+        elif i =="か":
+            List.append("99 B2")
+        elif i =="が":
+            List.append("99 B3")
+        elif i =="き":
+            List.append("99 B4")
+        elif i =="ぎ":
+            List.append("99 B5")
+        elif i =="く":
+            List.append("99 B6")
+        elif i =="ぐ":
+            List.append("99 B7")
+        elif i =="け":
+            List.append("99 B8")
+        elif i =="げ":
+            List.append("99 B9")
+        elif i =="こ":
+            List.append("99 BA")
+        elif i =="ご":
+            List.append("99 BB")
+        elif i =="さ":
+            List.append("99 BC")
+        elif i =="ざ":
+            List.append("99 BD")
+        elif i =="し":
+            List.append("99 BE")
+        elif i =="じ":
+            List.append("99 BF")
+        elif i =="す":
+            List.append("99 C0")
+        elif i =="ず":
+            List.append("99 C1")
+        elif i =="せ":
+            List.append("99 C2")
+        elif i =="ぜ":
+            List.append("99 C3")
+        elif i =="そ":
+            List.append("99 C4")
+        elif i =="ぞ":
+            List.append("99 C5")
+        elif i =="た":
+            List.append("99 C6")
+        elif i =="だ":
+            List.append("99 C7")
+        elif i =="ち":
+            List.append("99 C8")
+        elif i =="ぢ":
+            List.append("99 C9")
+        elif i =="っ":
+            List.append("99 CA")
+        elif i =="つ":
+            List.append("99 CB")
+        elif i =="づ":
+            List.append("99 CC")
+        elif i =="て":
+            List.append("99 CD")
+        elif i =="で":
+            List.append("99 CE")
+        elif i =="と":
+            List.append("99 CF")
+        elif i =="ど":
+            List.append("99 D0")
+        elif i =="な":
+            List.append("99 D1")
+        elif i =="に":
+            List.append("99 D2")
+        elif i =="ぬ":
+            List.append("99 D3")
+        elif i =="ね":
+            List.append("99 D4")
+        elif i =="の":
+            List.append("99 D5")
+        elif i =="は":
+            List.append("99 D6")
+        elif i =="ば":
+            List.append("99 D7")
+        elif i =="ぱ":
+            List.append("99 D8")
+        elif i =="ひ":
+            List.append("99 D9")
+        elif i =="び":
+            List.append("99 DA")
+        elif i =="ぴ":
+            List.append("99 DB")
+        elif i =="ふ":
+            List.append("99 DC")
+        elif i =="ぶ":
+            List.append("99 DD")
+        elif i =="ぷ":
+            List.append("99 DE")
+        elif i =="へ":
+            List.append("99 DF")
+        elif i =="べ":
+            List.append("99 E0")
+        elif i =="ぺ":
+            List.append("99 E1")
+        elif i =="ほ":
+            List.append("99 E2")
+        elif i =="ぼ":
+            List.append("99 E3")
+        elif i =="ぽ":
+            List.append("99 E4")
+        elif i =="ま":
+            List.append("99 E5")
+        elif i =="み":
+            List.append("99 E6")
+        elif i =="む":
+            List.append("99 E7")
+        elif i =="め":
+            List.append("99 E8")
+        elif i =="も":
+            List.append("99 E9")
+        elif i =="ゃ":
+            List.append("99 EA")
+        elif i =="や":
+            List.append("99 EB")
+        elif i =="ゅ":
+            List.append("99 EC")
+        elif i =="ゆ":
+            List.append("99 ED")
+        elif i =="ょ":
+            List.append("99 EE")
+        elif i =="よ":
+            List.append("99 EF")
+        elif i =="ら":
+            List.append("99 F0")
+        elif i =="り":
+            List.append("99 F1")
+        elif i =="る":
+            List.append("99 F2")
+        elif i =="れ":
+            List.append("99 F3")
+        elif i =="ろ":
+            List.append("99 F4")
+        elif i =="ゎ":
+            List.append("99 F5")
+        elif i =="わ":
+            List.append("99 F6")
+        elif i =="ゐ":
+            List.append("99 F7")
+        elif i =="ゑ":
+            List.append("99 F8")
+        elif i =="を":
+            List.append("99 F9")
+        elif i =="ん":
+            List.append("99 FA")
+        # Katakana Start
         elif i == "ァ":
             List.append("99 FB")
         elif i == "ア":
@@ -172,6 +340,9 @@ def toHex(word):
             List.append("9A 92")
         elif i == "ヴ":
             List.append("9A 93")
+        # Kanji Start
+        # Alphabet Start
+        # Greek Start
         else:
             List.append(i)
     return " ".join(List)
