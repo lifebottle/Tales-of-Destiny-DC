@@ -1,0 +1,196 @@
+        elif i =="剣":
+            List.append("9B 4C")
+        elif i =="魔":
+            List.append("9B 4D")
+        elif i =="神":
+            List.append("9B 4E")
+        elif i =="烈":
+            List.append("9B 56")
+        elif i =="空":
+            List.append("9B 57")
+        elif i =="戦":
+            List.append("9B 65")
+        elif i =="天":
+            List.append("9B 6C")
+        elif i =="風":
+            List.append("9B 73")
+        elif i =="撃":
+            List.append("9B 76")
+        elif i =="火":
+            List.append("9B 79")
+        elif i =="人":
+            List.append("9B 7E")
+        elif i =="地":
+            List.append("9B 81")
+        elif i =="御":
+            List.append("9B 84")
+        elif i =="豪":
+            List.append("9B 8B")
+        elif i =="疾":
+            List.append("9B 8C")
+        elif i =="滅":
+            List.append("9B AB")
+        elif i =="殺":
+            List.append("9B AC")
+        elif i =="弓":
+            List.append("9B AD")
+        elif i =="覚":
+            List.append("9B B5")
+        elif i =="業":
+            List.append("9B BB")
+        elif i =="激":
+            List.append("9B C5")
+        elif i =="山":
+            List.append("9B C9")
+        elif i =="小":
+            List.append("9B CA")
+        elif i =="入":
+            List.append("9B D9")
+        elif i =="出":
+            List.append("9B DB")
+        elif i =="首":
+            List.append("9B DC")
+        elif i =="都":
+            List.append("9B DD")
+        elif i =="術":
+            List.append("9B E8")
+        elif i =="技":
+            List.append("9B E9")
+        elif i =="上":
+            List.append("9B F1")
+        elif i =="力":
+            List.append("9C 50")
+        elif i =="中":
+            List.append("9C 53")
+        elif i =="定":
+            List.append("9C 5F")
+        elif i =="今":
+            List.append("9C 67")
+        elif i =="器":
+            List.append("9C 71")
+        elif i =="回":
+            List.append("9C 77")
+        elif i =="晶":
+            List.append("9C 79")
+        elif i =="合":
+            List.append("9C 7B")
+        elif i =="攻":
+            List.append("9C 94")
+        elif i =="村":
+            List.append("9C 9D")
+        elif i =="警":
+            List.append("9C A8")
+        elif i =="石":
+            List.append("9C B0")
+        elif i =="大":
+            List.append("9C BA")
+        elif i =="手":
+            List.append("9C C3")
+        elif i =="育":
+            List.append("9D 51")
+        elif i =="押":
+            List.append("9D BB")
+        elif i =="戒":
+            List.append("9E 4D")
+        elif i =="開":
+            List.append("9E 56")
+        elif i =="革":
+            List.append("9E 81")
+        elif i =="楽":
+            List.append("9E 84")
+        elif i =="鑑":
+            List.append("9E D8")
+        elif i =="揮":
+            List.append("9E F7")
+        elif i =="筋":
+            List.append("9F D0")
+        elif i =="金":
+            List.append("9F D8")
+        elif i =="銀":
+            List.append("9F DA")
+        elif i =="傑":
+            List.append("E0 73")
+        elif i =="択":
+            List.append("E0 75")
+        elif i =="堅":
+            List.append("E0 83")
+        elif i =="原":
+            List.append("E0 9C ")
+        elif i =="古":
+            List.append("E0 AA")
+        elif i =="公":
+            List.append("E0 D9")
+        elif i =="号":
+            List.append("E1 60")
+        elif i =="最":
+            List.append("E1 98")
+        elif i =="指":
+            List.append("E1 FC")
+        elif i =="次":
+            List.append("E2 64")
+        elif i =="実":
+            List.append("E2 83")
+        elif i =="主":
+            List.append("E2 A3")
+        elif i =="種":
+            List.append("E2 A9")
+        elif i =="勝":
+            List.append("E3 4E")
+        elif i =="称":
+            List.append("E3 75")
+        elif i =="飾":
+            List.append("E3 9D")
+        elif i =="寝":
+            List.append("E3 AE")
+        elif i =="図":
+            List.append("E3 CF")
+        elif i =="水":
+            List.append("E3 D6")
+        elif i =="醒":
+            List.append("E4 4D")
+        elif i =="体":
+            List.append("E5 47")
+        elif i =="替":
+            List.append("E5 4F")
+        elif i =="探":
+            List.append("E5 89")
+        elif i =="調":
+            List.append("E5 E0")
+        elif i =="長":
+            List.append("E5 E4")
+        elif i =="鉄":
+            List.append("E6 7B")
+        elif i =="闘":
+            List.append("E6 C5")
+        elif i =="銅":
+            List.append("E6 D0")
+        elif i =="必":
+            List.append("E8 49")
+        elif i =="品":
+            List.append("E8 67")
+        elif i =="斧":
+            List.append("E8 7D")
+        elif i =="宝":
+            List.append("E8 E1")
+        elif i =="棒":
+            List.append("E9 48")
+        elif i =="防":
+            List.append("E9 51")
+        elif i =="磨":
+            List.append("E9 68")
+        elif i =="味":
+            List.append("E9 88")
+        elif i =="命":
+            List.append("E9 A0")
+        elif i =="戻":
+            List.append("E9 BF")
+        elif i =="料":
+            List.append("EA 8E")
+        elif i =="練":
+            List.append("EA C3")
+        elif i =="路":
+            List.append("EA CB")
+        elif i =="牢":
+            List.append("EA D6")
+        elif i =="話":
+            List.append("EA E4")
