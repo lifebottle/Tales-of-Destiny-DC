@@ -4,6 +4,8 @@ def eHex(word):
     for i in eng:
         if i == " ":
             List.append("20")
+        elif i == "-":
+            List.append("2D")
         elif i == "A":
             List.append("41")
         elif i == "B":
