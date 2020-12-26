@@ -56,6 +56,8 @@
             List.append("9B C9")
         elif i =="小":
             List.append("9B CA")
+        elif i =="所":
+            List.append("9B D4")
         elif i =="海":
             List.append("9B D5")
         elif i =="入":
@@ -72,6 +74,10 @@
             List.append("9B E9")
         elif i =="装":
             List.append("9B EA")
+        elif i =="備":
+            List.append("9B EB")
+        elif i =="作":
+            List.append("9B EC")
         elif i =="上":
             List.append("9B F1")
         elif i =="一":
@@ -128,14 +134,16 @@
             List.append("9C D7")
         elif i =="圧":
             List.append("9C DF")
-        elif i =="黄":
-            List.append("9D C4")
+        elif i =="位":
+            List.append("9C F4")
         elif i =="育":
             List.append("9D 51")
         elif i =="液":
             List.append("9D 96")
         elif i =="押":
             List.append("9D BB")
+        elif i =="黄":
+            List.append("9D C4")
         elif i =="仮":
             List.append("9D D5")
         elif i =="戒":
@@ -180,7 +188,7 @@
             List.append("E0 73")
         elif i =="欠":
             List.append("E0 74")
-        elif i =="択":
+        elif i =="決":
             List.append("E0 75")
         elif i =="結":
             List.append("E0 77")
@@ -190,14 +198,14 @@
             List.append("E0 97")
         elif i =="原":
             List.append("E0 9C")
+        elif i =="現":
+            List.append("E0 A2")
         elif i =="古":
             List.append("E0 AA")
         elif i =="公":
             List.append("E0 D9")
         elif i =="好":
             List.append("E0 E3")
-        elif i =="黒":
-            List.append("E1 6C")
         elif i =="鉱":
             List.append("E1 55")
         elif i =="香":
@@ -206,12 +214,16 @@
             List.append("E1 5D")
         elif i =="号":
             List.append("E1 60")
+        elif i =="黒":
+            List.append("E1 6C")
         elif i =="砂":
             List.append("E1 8F")
         elif i =="最":
             List.append("E1 98")
         elif i =="剤":
             List.append("E1 AC")
+        elif i =="在":
+            List.append("E1 AD")
         elif i =="刺":
             List.append("E1 EF")
         elif i =="司":
@@ -220,8 +232,12 @@
             List.append("E1 FC")
         elif i =="紫":
             List.append("E2 4B")
+        elif i =="持":
+            List.append("E2 62")
         elif i =="次":
             List.append("E2 64")
+        elif i =="示":
+            List.append("E2 6A")
         elif i =="漆":
             List.append("E2 81")
         elif i =="実":
@@ -262,14 +278,16 @@
             List.append("E3 CF")
         elif i =="水":
             List.append("E3 D6")
-        elif i =="青":
-            List.append("E4 4E")
-        elif i =="赤":
-            List.append("E4 60")
         elif i =="盛":
             List.append("E4 45")
         elif i =="醒":
             List.append("E4 4D")
+        elif i =="青":
+            List.append("E4 4E")
+        elif i =="赤":
+            List.append("E4 60")
+        elif i =="切":
+            List.append("E4 64")
         elif i =="雪":
             List.append("E4 6C")
         elif i =="鮮":
@@ -322,6 +340,8 @@
             List.append("E7 F8")
         elif i =="必":
             List.append("E8 49")
+        elif i =="表":
+            List.append("E8 59")
         elif i =="品":
             List.append("E8 67")
         elif i =="斧":
@@ -330,6 +350,8 @@
             List.append("E8 9D")
         elif i =="噴":
             List.append("E8 A0")
+        elif i =="並":
+            List.append("E8 B3")
         elif i =="片":
             List.append("E8 C1")
         elif i =="弁":
