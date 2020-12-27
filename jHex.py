@@ -343,28 +343,98 @@ def jHex(word):
         elif i == "ヴ":
             List.append("9A 93")
         # Kanji Start
+        elif i =="爆":
+            List.append("9B 4A")
+        elif i =="炎":
+            List.append("9B 4B")
         elif i =="剣":
             List.append("9B 4C")
         elif i =="魔":
             List.append("9B 4D")
         elif i =="神":
             List.append("9B 4E")
+        elif i =="飛":
+            List.append("9B 4F")
+        elif i =="燕":
+            List.append("9B 50")
+        elif i =="連":
+            List.append("9B 51")
+        elif i =="脚":
+            List.append("9B 52")
+        elif i =="蒼":
+            List.append("9B 53")
+        elif i =="破":
+            List.append("9B 54")
+        elif i =="刃":
+            List.append("9B 55")
         elif i =="烈":
             List.append("9B 56")
         elif i =="空":
             List.append("9B 57")
+        elif i =="斬":
+            List.append("9B 58")
+        elif i =="真":
+            List.append("9B 59")
+        elif i =="裂":
+            List.append("9B 5A")
+        elif i =="虎":
+            List.append("9B 5B")
+        elif i =="牙":
+            List.append("9B 5D")
+        elif i =="屠":
+            List.append("9B 5E")
+        elif i =="龍":
+            List.append("9B 5F")
+        elif i =="閃":
+            List.append("9B 60")
+        elif i =="断":
+            List.append("9B 61")
+        elif i =="双":
+            List.append("9B 62")
+        elif i =="獅":
+            List.append("9B 63")
         elif i =="子":
             List.append("9B 64")
         elif i =="戦":
             List.append("9B 65")
+        elif i =="吼":
+            List.append("9B 66")
+        elif i =="爪":
+            List.append("9B 67")
+        elif i =="竜":
+            List.append("9B 68")
+        elif i =="光":
+            List.append("9B 69")
+        elif i =="鳳":
+            List.append("9B 6A")
+        elif i =="凰":
+            List.append("9B 6B")
         elif i =="天":
             List.append("9B 6C")
+        elif i =="駆":
+            List.append("9B 6D")
+        elif i =="紅":
+            List.append("9B 6E")
+        elif i =="蓮":
+            List.append("9B 6F")
+        elif i =="昇":
+            List.append("9B 70")
+        elif i =="熱":
+            List.append("9B 71")
+        elif i =="旋":
+            List.append("9B 72")
         elif i =="風":
             List.append("9B 73")
+        elif i =="陣":
+            List.append("9B 74")
         elif i =="王":
             List.append("9B 75")
         elif i =="撃":
             List.append("9B 76")
+        elif i =="波":
+            List.append("9B 77")
+        elif i =="翔":
+            List.append("9B 78")
         elif i =="火":
             List.append("9B 79")
         elif i =="人":
@@ -377,10 +447,16 @@ def jHex(word):
             List.append("9B 83")
         elif i =="御":
             List.append("9B 84")
+        elif i =="月":
+            List.append("9B 87")
         elif i =="豪":
             List.append("9B 8B")
         elif i =="疾":
             List.append("9B 8C")
+        elif i =="絶":
+            List.append("9B 94")
+        elif i =="衝":
+            List.append("9B A3")
         elif i =="滅":
             List.append("9B AB")
         elif i =="殺":
@@ -389,12 +465,26 @@ def jHex(word):
             List.append("9B AD")
         elif i =="覚":
             List.append("9B B5")
+        elif i =="皇":
+            List.append("9B B6")
+        elif i =="翼":
+            List.append("9B B7")
+        elif i =="劇":
+            List.append("9B B8")
+        elif i =="舞":
+            List.append("9B B9")
+        elif i =="荒":
+            List.append("9B BA")
         elif i =="業":
             List.append("9B BB")
         elif i =="灰":
             List.append("9B BC")
+        elif i =="燼":
+            List.append("9B BD")
         elif i =="焼":
             List.append("9B C0")
+        elif i =="緋":
+            List.append("9B C3")
         elif i =="激":
             List.append("9B C5")
         elif i =="山":
@@ -413,6 +503,10 @@ def jHex(word):
             List.append("9B DC")
         elif i =="都":
             List.append("9B DD")
+        elif i =="灼":
+            List.append("9B DF")
+        elif i =="拳":
+            List.append("9B E0")
         elif i =="術":
             List.append("9B E8")
         elif i =="技":
@@ -447,8 +541,12 @@ def jHex(word):
             List.append("9C 7B")
         elif i =="白":
             List.append("9C 84")
+        elif i =="氷":
+            List.append("9C 89")
         elif i =="攻":
             List.append("9C 94")
+        elif i =="震":
+            List.append("9C 95")
         elif i =="三":
             List.append("9C 96")
         elif i =="国":
