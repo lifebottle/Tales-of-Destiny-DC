@@ -381,7 +381,7 @@ def jHex(word):
             List.append("9B 5B")
         elif i =="牙":
             List.append("9B 5D")
-        elif i =="屠":
+        elif i =="刹":
             List.append("9B 5E")
         elif i =="龍":
             List.append("9B 5F")
@@ -437,6 +437,12 @@ def jHex(word):
             List.append("9B 78")
         elif i =="火":
             List.append("9B 79")
+        elif i =="招":
+            List.append("9B 7B")
+        elif i =="来":
+            List.append("9B 7C")
+        elif i =="襲":
+            List.append("9B 7D")
         elif i =="人":
             List.append("9B 7E")
         elif i =="闇":
@@ -447,14 +453,22 @@ def jHex(word):
             List.append("9B 83")
         elif i =="御":
             List.append("9B 84")
+        elif i =="臥":
+            List.append("9B 86")
         elif i =="月":
             List.append("9B 87")
+        elif i =="虚":
+            List.append("9B 88")
+        elif i =="崩":
+            List.append("9B 89")
         elif i =="豪":
             List.append("9B 8B")
         elif i =="疾":
             List.append("9B 8C")
         elif i =="絶":
             List.append("9B 94")
+        elif i =="影":
+            List.append("9B 95")
         elif i =="衝":
             List.append("9B A3")
         elif i =="滅":
@@ -481,8 +495,14 @@ def jHex(word):
             List.append("9B BC")
         elif i =="燼":
             List.append("9B BD")
+        elif i =="浄":
+            List.append("9B BF")
         elif i =="焼":
             List.append("9B C0")
+        elif i =="煉":
+            List.append("9B C1")
+        elif i =="獄":
+            List.append("9B C2")
         elif i =="緋":
             List.append("9B C3")
         elif i =="激":
@@ -507,6 +527,8 @@ def jHex(word):
             List.append("9B DF")
         elif i =="拳":
             List.append("9B E0")
+        elif i =="幻":
+            List.append("9B E4")
         elif i =="術":
             List.append("9B E8")
         elif i =="技":
@@ -695,6 +717,8 @@ def jHex(word):
             List.append("E2 C3")
         elif i =="舟":
             List.append("E2 C4")
+        elif i =="柔":
+            List.append("E2 D1")
         elif i =="縮":
             List.append("E2 DC")
         elif i =="書":
