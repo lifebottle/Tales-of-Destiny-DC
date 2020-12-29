@@ -66,6 +66,7 @@ jHex, Kanji
 9BAB, 滅
 9BAC, 殺
 9BAD, 弓
+9BB3, 者
 9BB5, 覚
 9BB6, 皇
 9BB7, 翼
@@ -83,6 +84,7 @@ jHex, Kanji
 9BC5, 激
 9BC9, 山
 9BCA, 小
+9BCD, 密
 9BD4, 所
 9BD5, 海
 9BD9, 入
@@ -121,6 +123,7 @@ jHex, Kanji
 9CAA, 状
 9CB0, 石
 9CB7, 粉
+9CB8, 動
 9CBA, 大
 9CBF, 線
 9CC3, 手
@@ -163,6 +166,7 @@ E0A2, 現
 E0AA, 古
 E0D9, 公
 E0E3, 好
+E14E, 航
 E155, 鉱
 E15B, 香
 E15D, 高
@@ -181,6 +185,7 @@ E264, 次
 E26A, 示
 E281, 漆
 E283, 実
+E28C, 舎
 E2A3, 主
 E2A9, 種
 E2B0, 寿
@@ -200,6 +205,7 @@ E3BE, 親
 E3C0, 身
 E3CF, 図
 E3D6, 水
+E442, 正
 E445, 盛
 E44D, 醒
 E44E, 青
@@ -212,18 +218,22 @@ E547, 体
 E54F, 替
 E589, 探
 E58E, 炭
+E58F, 短
 E5A6, 置
 E5B3, 茶
 E5E0, 調
 E5E4, 長
+E5E9, 直
 E5F5, 通
 E5FB, 漬
 E67B, 鉄
+E688, 田
 E6A4, 島
 E6C5, 闘
 E6D0, 銅
 E6F7, 鍋
 E748, 肉
+E75A, 年
 E773, 琶
 E7A0, 漠
 E7B4, 髪
@@ -254,6 +264,7 @@ EA9B, 緑
 EAC3, 練
 EACB, 路
 EAD6, 牢
+EAD7, 篭
 EAE3, 和
 EAE4, 話
 EB80, 丼
