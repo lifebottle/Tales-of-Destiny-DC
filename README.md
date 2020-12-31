@@ -27,3 +27,22 @@ Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file. 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
+
+## Resrouces
+- http://todrtrans.pbworks.com/w/page/22323479/FrontPage
+- https://aselia.fandom.com/wiki/Tales_of_Destiny
+- https://w.atwiki.jp/tod_remake/
+- https://gamers-high.com/toddc/
+- http://restalittle.blog.fc2.com/blog-category-5.html
+- https://hyouta.com/vesperia/
+
+## Tools
+- Visual Studio Code + Hex Editor extension from Microsoft
+- https://translate.google.com
+- https://www.deepl.com/en/translator
+- https://www.bing.com/translator
+
+## Credits
+- Thanks to dizzycrunch and chucho1224 for sending me resources to speed up the patch
+- Thanks to Alizor for helping me get started with wonderful resources
+- Thanks to everyone on the Absolute Zero discord who offered advice
