@@ -419,7 +419,7 @@ def jHex(word):
             List.append("9B 6F")
         elif i =="昇":
             List.append("9B 70")
-        elif i =="熱":
+        elif i =="石":
             List.append("9B 71")
         elif i =="旋":
             List.append("9B 72")
@@ -617,6 +617,8 @@ def jHex(word):
             List.append("9B EC")
         elif i =="星":
             List.append("9B ED")
+        elif i =="集":
+            List.append("9B EF")
         elif i =="上":
             List.append("9B F1")
         elif i =="一":
@@ -625,18 +627,24 @@ def jHex(word):
             List.append("9B FB")
         elif i =="生":
             List.append("9C 4A")
+        elif i =="化":
+            List.append("9C 4C")
         elif i =="力":
             List.append("9C 50")
         elif i =="中":
             List.append("9C 53")
         elif i =="敵":
             List.append("9C 58")
+        elif i =="眠":
+            List.append("9C 59")
         elif i =="定":
             List.append("9C 5F")
         elif i =="今":
             List.append("9C 67")
         elif i =="器":
             List.append("9C 71")
+        elif i =="軽":
+            List.append("9C 72")
         elif i =="回":
             List.append("9C 77")
         elif i =="晶":
@@ -645,6 +653,8 @@ def jHex(word):
             List.append("9C 7B")
         elif i =="華":
             List.append("9C 7D")
+        elif i =="射":
+            List.append("9C 7E")
         elif i =="白":
             List.append("9C 84")
         elif i =="薙":
@@ -671,8 +681,16 @@ def jHex(word):
             List.append("9C A9")
         elif i =="状":
             List.append("9C AA")
-        elif i =="石":
+        elif i =="熱":
             List.append("9C B0")
+        elif i =="睡":
+            List.append("9C B2")
+        elif i =="衰":
+            List.append("9C B3")
+        elif i =="弱":
+            List.append("9C B4")
+        elif i =="印":
+            List.append("9C B5")
         elif i =="粉":
             List.append("9C B7")
         elif i =="動":
@@ -699,6 +717,8 @@ def jHex(word):
             List.append("9D BB")
         elif i =="黄":
             List.append("9D C4")
+        elif i =="音":
+            List.append("9D D3")
         elif i =="仮":
             List.append("9D D5")
         elif i =="戒":
@@ -753,6 +773,8 @@ def jHex(word):
             List.append("E0 97")
         elif i =="原":
             List.append("E0 9C")
+        elif i =="減":
+            List.append("E0 9F")
         elif i =="現":
             List.append("E0 A2")
         elif i =="古":
@@ -789,6 +811,8 @@ def jHex(word):
             List.append("E1 F0")
         elif i =="指":
             List.append("E1 FC")
+        elif i =="止":
+            List.append("E2 45")
         elif i =="紫":
             List.append("E2 4B")
         elif i =="持":
@@ -841,6 +865,8 @@ def jHex(word):
             List.append("E3 CF")
         elif i =="水":
             List.append("E3 D6")
+        elif i =="性":
+            List.append("E3 F9")
         elif i =="正":
             List.append("E4 42")
         elif i =="盛":
@@ -859,6 +885,10 @@ def jHex(word):
             List.append("E4 90")
         elif i =="草":
             List.append("E4 CF")
+        elif i =="属":
+            List.append("E4 E9")
+        elif i =="打":
+            List.append("E5 40")
         elif i =="体":
             List.append("E5 47")
         elif i =="替":
@@ -909,6 +939,8 @@ def jHex(word):
             List.append("E7 BF")
         elif i =="版":
             List.append("E7 C7")
+        elif i =="避":
+            List.append("E7 F0")
         elif i =="琵":
             List.append("E7 F8")
         elif i =="必":
@@ -939,38 +971,6 @@ def jHex(word):
             List.append("E9 68")
         elif i =="味":
             List.append("E9 88")
-        elif i =="命":
-            List.append("E9 A0")
-        elif i =="明":
-            List.append("E9 A1")
-        elif i =="面":
-            List.append("E9 AC")
-        elif i =="戻":
-            List.append("E9 BF")
-        elif i =="様":
-            List.append("EA 4A")
-        elif i =="料":
-            List.append("EA 8E")
-        elif i =="緑":
-            List.append("EA 9B")
-        elif i =="練":
-            List.append("EA C3")
-        elif i =="路":
-            List.append("EA CB")
-        elif i =="牢":
-            List.append("EA D6")
-        elif i =="篭":
-            List.append("EA D7")
-        elif i =="和":
-            List.append("EA E3")
-        elif i =="話":
-            List.append("EA E4")
-        elif i =="丼":
-            List.append("EB 80")
-        elif i =="隕":
-            List.append("EB 81")
-        elif i =="橙":
-            List.append("EB 84")
         # Alphabet Start
         # Greek Start
         else:
