@@ -42,8 +42,10 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 - https://translate.google.com
 - https://www.deepl.com/en/translator
 - https://www.bing.com/translator
+- https://www.psx-place.com/threads/apache.19171/
 
 ## Credits
 - Thanks to dizzycrunch and chucho1224 for sending me resources to speed up the patch
+- Thanks to saito for sending me tools for packaging ISO files properly
 - Thanks to Alizor for helping me get started with wonderful resources
 - Thanks to everyone on the Absolute Zero discord who offered advice
