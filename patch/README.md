@@ -1,5 +1,5 @@
 # Tales of Destiny DC - Patch Instructions
-Get xdelta from https://www.romhacking.net/utilities/598/
+Get xdeltaUI from https://www.romhacking.net/utilities/598/
 1. Open xdeltaUI.exe
 1. Select original ISO file
 1. Select patch file .xdelta
