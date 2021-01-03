@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>423</ID>
+      <Description>"Stahn name"</Description>
+      <LastState Value="15 116 97 104 110 131 153 138 153 144 0 0 0 154 69 154 138 154 140 154" RealAddress="202C1E02"/>
+      <Color>C0C0C0</Color>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>20</ByteLength>
+      <Address>202C1E02</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>424</ID>
+      <Description>"No description"</Description>
+      <LastState Value="15" RealAddress="202C1E02"/>
+      <VariableType>Byte</VariableType>
+      <Address>202C1E02</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>35</Key>
+          </Keys>
+          <Value>1</Value>
+          <Description>plus 1</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>46</Key>
+          </Keys>
+          <Value>1</Value>
+          <Description>minus 1</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
