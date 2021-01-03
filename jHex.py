@@ -625,6 +625,8 @@ def jHex(word):
             List.append("9B F8")
         elif i =="怒":
             List.append("9B FB")
+        elif i =="都":
+            List.append("9C 20")
         elif i =="生":
             List.append("9C 4A")
         elif i =="化":
@@ -923,6 +925,8 @@ def jHex(word):
             List.append("E6 C5")
         elif i =="銅":
             List.append("E6 D0")
+        elif i =="読":
+            List.append("E6 DA")
         elif i =="鍋":
             List.append("E6 F7")
         elif i =="肉":
@@ -971,6 +975,40 @@ def jHex(word):
             List.append("E9 68")
         elif i =="味":
             List.append("E9 88")
+        elif i =="命":
+            List.append("E9 A0")
+        elif i =="明":
+            List.append("E9 A1")
+        elif i =="面":
+            List.append("E9 AC")
+        elif i =="戻":
+            List.append("E9 BF")
+        elif i =="様":
+            List.append("EA 4A")
+        elif i =="率":
+            List.append("EA 7A")
+        elif i =="料":
+            List.append("EA 8E")
+        elif i =="緑":
+            List.append("EA 9B")
+        elif i =="練":
+            List.append("EA C3")
+        elif i =="路":
+            List.append("EA CB")
+        elif i =="牢":
+            List.append("EA D6")
+        elif i =="篭":
+            List.append("EA D7")
+        elif i =="和":
+            List.append("EA E3")
+        elif i =="話":
+            List.append("EA E4")
+        elif i =="丼":
+            List.append("EB 80")
+        elif i =="隕":
+            List.append("EB 81")
+        elif i =="橙":
+            List.append("EB 84")
         # Alphabet Start
         # Greek Start
         else:
