@@ -11,7 +11,7 @@ Spreadsheet with HEX to Symbol Mapping:
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
 
-Use xdelta to patch your ROM.  Patch works with **SLPS_258.42** and ISO created from ImgBurn.  
+Use xdelta to patch your ROM with a clean ISO.  
 
 Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  Note: Changes to this doesn't appear to affect Leon's side.
 
