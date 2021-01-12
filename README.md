@@ -28,7 +28,9 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
 
-## Resrouces
+Game script (~1/4 complete): https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA/edit?usp=sharing
+
+## Resources
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
 - https://w.atwiki.jp/tod_remake/
