@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=FyYQGVAKSUc
 Spreadsheet with HEX to Symbol Mapping:  
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
+Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
 
 Use xdelta to patch your ROM with a clean ISO.  
 
