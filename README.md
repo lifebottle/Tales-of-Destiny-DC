@@ -37,6 +37,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
 - https://w.atwiki.jp/tod_remake/
+- https://w.atwiki.jp/talesofdic/pages/4602.html
 - https://gamers-high.com/toddc/
 - http://restalittle.blog.fc2.com/blog-category-5.html
 - https://hyouta.com/vesperia/
