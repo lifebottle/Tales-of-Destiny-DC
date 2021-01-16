@@ -903,6 +903,14 @@ def HexToJpn(word):
             List.append("射")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 7F"):
             List.append("漢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 80"):
+            List.append("漢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 81"):
+            List.append("立")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 82"):
+            List.append("支")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 83"):
+            List.append("歌")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 84"):
             List.append("白")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 85"):
@@ -911,26 +919,86 @@ def HexToJpn(word):
             List.append("凍")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 89"):
             List.append("氷")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8A"):
+            List.append("発")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8B"):
+            List.append("掘")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8C"):
+            List.append("食")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8D"):
+            List.append("別")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8E"):
+            List.append("腹")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 8F"):
+            List.append("負")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 90"):
+            List.append("磁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 91"):
+            List.append("院")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 92"):
+            List.append("政")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 93"):
+            List.append("無")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 94"):
             List.append("攻")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 95"):
             List.append("震")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 96"):
             List.append("三")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 97"):
+            List.append("二")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 98"):
+            List.append("段")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 99"):
+            List.append("返")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9A"):
             List.append("国")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9B"):
+            List.append("境")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9C"):
+            List.append("街")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9D"):
             List.append("村")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9E"):
+            List.append("港")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C 9F"):
+            List.append("町")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A0"):
+            List.append("市")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A1"):
+            List.append("暴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A2"):
+            List.append("旅")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A3"):
             List.append("行")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A4"):
+            List.append("基")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A5"):
+            List.append("穴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A6"):
+            List.append("兜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A7"):
+            List.append("転")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A8"):
             List.append("警")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C A9"):
             List.append("丸")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AA"):
             List.append("状")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AB"):
+            List.append("態")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AC"):
+            List.append("異")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AD"):
+            List.append("常")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AE"):
+            List.append("強")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C AF"):
+            List.append("落")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B0"):
             List.append("熱")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B1"):
+            List.append("化")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B2"):
             List.append("睡")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B3"):
@@ -939,36 +1007,630 @@ def HexToJpn(word):
             List.append("弱")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B5"):
             List.append("印")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B6"):
+            List.append("燐")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B7"):
             List.append("粉")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B8"):
             List.append("動")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C B9"):
+            List.append("砲")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BA"):
             List.append("大")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BB"):
+            List.append("吸")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BC"):
+            List.append("込")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BD"):
+            List.append("進")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BE"):
+            List.append("壊")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C BF"):
             List.append("線")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C0"):
+            List.append("乱")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C1"):
+            List.append("胞")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C2"):
+            List.append("両")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C3"):
             List.append("手")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C4"):
+            List.append("弾")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C5"):
+            List.append("千")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C6"):
+            List.append("引")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C7"):
             List.append("怪")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C8"):
+            List.append("槍")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C C9"):
+            List.append("五")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CA"):
+            List.append("十")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CB"):
+            List.append("亜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CC"):
+            List.append("唖")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CD"):
+            List.append("娃")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CE"):
+            List.append("阿")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C CF"):
+            List.append("哀")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D0"):
+            List.append("愛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D1"):
+            List.append("挨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D2"):
+            List.append("姶")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D3"):
+            List.append("逢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D4"):
+            List.append("葵")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D5"):
+            List.append("茜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D6"):
+            List.append("穐")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D7"):
             List.append("悪")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D8"):
+            List.append("握")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C D9"):
+            List.append("渥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DA"):
+            List.append("旭")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DB"):
+            List.append("葦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DC"):
+            List.append("芦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DD"):
+            List.append("鯵")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DE"):
+            List.append("梓")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C DF"):
             List.append("圧")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F0"):
+            List.append("鞍")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F1"):
+            List.append("杏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F2"):
+            List.append("以")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F3"):
+            List.append("伊")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F4"):
             List.append("位")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F5"):
+            List.append("依")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F6"):
+            List.append("偉")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F7"):
+            List.append("囲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F8"):
+            List.append("夷")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C F9"):
+            List.append("委")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FA"):
+            List.append("威")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FB"):
+            List.append("尉")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FC"):
+            List.append("惟")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FD"):
+            List.append("意")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FE"):
+            List.append("慰")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9C FF"):
+            List.append("椅")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 00"):
+            List.append("進")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 01"):
+            List.append("壊")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 02"):
+            List.append("線")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 03"):
+            List.append("乱")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 04"):
+            List.append("胞")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 05"):
+            List.append("両")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 06"):
+            List.append("手")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 07"):
+            List.append("弾")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 08"):
+            List.append("千")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 09"):
+            List.append("引")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0A"):
+            List.append("怪")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0B"):
+            List.append("槍")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0C"):
+            List.append("五")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0D"):
+            List.append("十")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0E"):
+            List.append("亜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 0F"):
+            List.append("唖")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 10"):
+            List.append("娃")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 11"):
+            List.append("阿")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 12"):
+            List.append("哀")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 13"):
+            List.append("愛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 14"):
+            List.append("挨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 15"):
+            List.append("姶")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 16"):
+            List.append("逢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 17"):
+            List.append("葵")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 18"):
+            List.append("茜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 19"):
+            List.append("穐")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1A"):
+            List.append("悪")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1B"):
+            List.append("握")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1C"):
+            List.append("渥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1D"):
+            List.append("旭")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1E"):
+            List.append("葦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 1F"):
+            List.append("芦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 20"):
+            List.append("鯵")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 21"):
+            List.append("梓")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 22"):
+            List.append("圧")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 23"):
+            List.append("斡")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 24"):
+            List.append("扱")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 25"):
+            List.append("宛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 26"):
+            List.append("姐")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 27"):
+            List.append("虻")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 28"):
+            List.append("飴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 29"):
+            List.append("絢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2A"):
+            List.append("綾")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2B"):
+            List.append("鮎")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2C"):
+            List.append("或")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2D"):
+            List.append("粟")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2E"):
+            List.append("袷")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 2F"):
+            List.append("安")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 30"):
+            List.append("按")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 31"):
+            List.append("暗")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 32"):
+            List.append("案")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 33"):
+            List.append("鞍")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 34"):
+            List.append("杏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 35"):
+            List.append("以")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 36"):
+            List.append("伊")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 37"):
+            List.append("位")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 38"):
+            List.append("依")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 39"):
+            List.append("偉")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 3A"):
+            List.append("囲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 3B"):
+            List.append("夷")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 3C"):
+            List.append("委")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 3D"):
+            List.append("威")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 3F"):
+            List.append("惟")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 40"):
+            List.append("意")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 41"):
+            List.append("慰")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 42"):
+            List.append("椅")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 43"):
+            List.append("為")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 44"):
+            List.append("畏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 45"):
+            List.append("移")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 46"):
+            List.append("維")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 47"):
+            List.append("緯")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 48"):
+            List.append("胃")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 49"):
+            List.append("萎")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4A"):
+            List.append("謂")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4B"):
+            List.append("違")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4C"):
+            List.append("遺")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4D"):
+            List.append("医")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4E"):
+            List.append("井")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 4F"):
+            List.append("亥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 50"):
+            List.append("域")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 51"):
             List.append("育")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 52"):
+            List.append("郁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 53"):
+            List.append("磯")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 54"):
+            List.append("壱")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 55"):
+            List.append("溢")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 56"):
+            List.append("逸")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 57"):
+            List.append("稲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 58"):
+            List.append("茨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 59"):
+            List.append("芋")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5A"):
+            List.append("鰯")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5B"):
+            List.append("允")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5C"):
+            List.append("咽")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5D"):
+            List.append("咽")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5E"):
+            List.append("員")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 5F"):
+            List.append("因")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 60"):
+            List.append("姻")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 61"):
+            List.append("飲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 62"):
+            List.append("淫")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 63"):
+            List.append("胤")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 64"):
+            List.append("蔭")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 65"):
+            List.append("陰")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 66"):
+            List.append("韻")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 67"):
+            List.append("吋")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 68"):
+            List.append("右")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 69"):
+            List.append("宇")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6A"):
+            List.append("烏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6B"):
+            List.append("羽")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6C"):
+            List.append("迂")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6D"):
+            List.append("卯")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6E"):
+            List.append("鵜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 6F"):
+            List.append("窺")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 70"):
+            List.append("丑")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 71"):
+            List.append("碓")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 72"):
+            List.append("臼")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 73"):
+            List.append("渦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 74"):
+            List.append("嘘")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 75"):
+            List.append("唄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 76"):
+            List.append("欝")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 77"):
+            List.append("蔚")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 78"):
+            List.append("鰻")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 79"):
+            List.append("姥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7A"):
+            List.append("厩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7B"):
+            List.append("浦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7C"):
+            List.append("瓜")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7D"):
+            List.append("閏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7E"):
+            List.append("噂")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 7F"):
+            List.append("云")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 80"):
+            List.append("云")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 81"):
+            List.append("運")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 82"):
+            List.append("雲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 83"):
+            List.append("荏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 84"):
+            List.append("餌")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 85"):
+            List.append("叡")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 86"):
+            List.append("営")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 87"):
+            List.append("嬰")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 88"):
+            List.append("映")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 89"):
+            List.append("曳")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8A"):
+            List.append("栄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8B"):
+            List.append("永")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8C"):
+            List.append("泳")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8D"):
+            List.append("洩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8E"):
+            List.append("瑛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 8F"):
+            List.append("盈")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 90"):
+            List.append("穎")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 91"):
+            List.append("頴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 92"):
+            List.append("英")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 93"):
+            List.append("衛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 94"):
+            List.append("詠")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 95"):
+            List.append("鋭")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 96"):
             List.append("液")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 97"):
+            List.append("疫")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 98"):
+            List.append("益")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 99"):
+            List.append("駅")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9A"):
+            List.append("悦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9B"):
+            List.append("謁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9C"):
+            List.append("越")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9D"):
+            List.append("閲")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9E"):
+            List.append("榎")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D 9F"):
+            List.append("厭")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A0"):
+            List.append("円")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A1"):
+            List.append("園")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A2"):
+            List.append("堰")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A3"):
+            List.append("奄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A4"):
+            List.append("宴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A5"):
+            List.append("延")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A6"):
+            List.append("怨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A7"):
+            List.append("掩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A8"):
+            List.append("沿")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D A9"):
+            List.append("演")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AA"):
+            List.append("焔")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AB"):
+            List.append("猿")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AC"):
+            List.append("縁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AD"):
+            List.append("艶")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AE"):
+            List.append("苑")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D AF"):
+            List.append("薗")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BO"):
+            List.append("遠")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B1"):
+            List.append("鉛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B2"):
+            List.append("鴛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B3"):
+            List.append("塩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B4"):
+            List.append("於")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B5"):
+            List.append("汚")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B6"):
+            List.append("甥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B7"):
+            List.append("凹")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B8"):
+            List.append("央")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D B9"):
+            List.append("奥")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BA"):
+            List.append("往")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BB"):
             List.append("押")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BC"):
+            List.append("旺")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BD"):
+            List.append("横")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BE"):
+            List.append("欧")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D BF"):
+            List.append("殴")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C0"):
+            List.append("翁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C1"):
+            List.append("襖")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C2"):
+            List.append("鴬")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C3"):
+            List.append("鴎")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C4"):
             List.append("黄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C5"):
+            List.append("岡")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C6"):
+            List.append("沖")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C7"):
+            List.append("荻")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C8"):
+            List.append("億")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D C9"):
+            List.append("憶")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CA"):
+            List.append("臆")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CB"):
+            List.append("桶")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CC"):
+            List.append("牡")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CD"):
+            List.append("乙")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CE"):
+            List.append("俺")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D CF"):
+            List.append("卸")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D0"):
+            List.append("恩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D1"):
+            List.append("温")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D2"):
+            List.append("穏")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D3"):
             List.append("音")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D4"):
+            List.append("下")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D5"):
             List.append("仮")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D6"):
+            List.append("何")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D7"):
+            List.append("伽")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D8"):
+            List.append("価")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D D9"):
+            List.append("佳")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DA"):
+            List.append("加")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DB"):
+            List.append("可")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DC"):
+            List.append("嘉")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DD"):
+            List.append("夏")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DE"):
+            List.append("嫁")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D DF"):
+            List.append("家")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E0"):
+            List.append("寡")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E1"):
+            List.append("科")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E2"):
+            List.append("暇")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E3"):
+            List.append("果")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E4"):
+            List.append("架")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E5"):
+            List.append("河")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E6"):
+            List.append("珂")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E7"):
+            List.append("禍")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E8"):
+            List.append("禾")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D E9"):
+            List.append("稼")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D EA"):
+            List.append("箇")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D EB"):
+            List.append("花")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D EC"):
+            List.append("苛")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D ED"):
+            List.append("茄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D EF"):
+            List.append("菓")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F0"):
+            List.append("蝦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F1"):
+            List.append("課")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F2"):
+            List.append("嘩")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F3"):
+            List.append("貨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F4"):
+            List.append("迦")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F5"):
+            List.append("過")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F6"):
+            List.append("霞")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F7"):
+            List.append("蚊")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F8"):
+            List.append("俄")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D F9"):
+            List.append("峨")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FA"):
+            List.append("我")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FB"):
+            List.append("画")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FC"):
+            List.append("芽")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FD"):
+            List.append("蛾")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FE"):
+            List.append("賀")
+        elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9D FF"):
+            List.append("雅")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9E 4D"):
             List.append("戒")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9E 56"):
@@ -1270,9 +1932,10 @@ def HexToJpn(word):
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "00 00"):
             List.append(" ")
         else:
-            List.append(i)
+            List.append(str(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4]))
     return "".join(List)
 
 # Test on Demon Fang
 print(HexToJpn("9B 4D 9B 4E 9B 4C 00 00 00 00 00"))
+print(HexToJpn("99 FC 20 9A 41 20 9A 64 20 9A 7E 20 99 D1 20 99 C5 20 9B C4 20 99 CA 20 99 CD 20 99 FA 20 99 BF 20 99 EA 20 99 D4 20 99 AF 20 99 41"))
 
