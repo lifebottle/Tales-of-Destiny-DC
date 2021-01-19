@@ -42,6 +42,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 - http://restalittle.blog.fc2.com/blog-category-5.html
 - https://hyouta.com/vesperia/
 - https://gamefaqs.gamespot.com/ps2/934092-tales-of-destiny/faqs/47931
+- https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
 
 ## Tools
 - https://code.visualstudio.com/download
