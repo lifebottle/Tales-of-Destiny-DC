@@ -2,7 +2,7 @@
 Tales of Destiny - Director's Cut (Patch)
 
 Discord: 
-https://discord.gg/vVTHGjajy9  
+https://discord.gg/r2ApPegDfx 
 
 Video on how to use exisiting tools to extract files:  
 https://www.youtube.com/watch?v=FyYQGVAKSUc  
