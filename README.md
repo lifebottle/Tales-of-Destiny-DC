@@ -15,7 +15,7 @@ Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbN
 
 Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).  
 
-Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  Note: Changes to this doesn't appear to affect Leon's side.
+Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  
 
 00199900 - Names  
 0019C380 - Artes  
@@ -26,7 +26,10 @@ Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file. 
 001BF2F0 - Categories  
 0019A190 - Synopsis Titles  
 
-The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce
+The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  
+
+Stahn's Side - 13558_61.rsce  
+Leon's Side - 13736_65.rsce  
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
 
@@ -46,6 +49,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 ## Tools
 - https://pnvnd.github.io/Tales-of-Destiny-DC/hexToJpn
+- http://temple-tales.ru/translations/tools/ToDDCTools_v1.1_by_RangerRus.rar
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
 - https://translate.google.com
