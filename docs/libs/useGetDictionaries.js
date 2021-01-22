@@ -12,25 +12,31 @@ export const useGetDictionaries = () => {
           "https://cdn.statically.io/gh/" +
             process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
             process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/api/dictionary/kanji.txt"
+            "/gh-pages/" +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/api/dictionary/kanji.txt"
         ),
         axios.get(
           "https://cdn.statically.io/gh/" +
             process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
             process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/api/dictionary/katakana.txt"
+            "/gh-pages/" +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/api/dictionary/katakana.txt"
         ),
         axios.get(
           "https://cdn.statically.io/gh/" +
             process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
             process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/api/dictionary/symbols.txt"
+            "/gh-pages/" +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/api/dictionary/symbols.txt"
         ),
         axios.get(
           "https://cdn.statically.io/gh/" +
             process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
             process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/api/dictionary/hiragana.txt"
+            "/api/dictionary/hiragana.txt"
         ),
       ])
       .then(
