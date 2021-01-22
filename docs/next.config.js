@@ -6,6 +6,7 @@ module.exports = {
   assetPrefix: isProd
     ? "https://cdn.statically.io/gh/" +
       process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
+      process.env.NEXT_PUBLIC_BASE_PATH +
       "/gh-pages/"
     : "",
 };
