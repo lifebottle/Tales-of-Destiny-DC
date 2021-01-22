@@ -2,7 +2,7 @@
 Tales of Destiny - Director's Cut (Patch)
 
 Discord: 
-https://discord.gg/vVTHGjajy9  
+https://discord.gg/r2ApPegDfx 
 
 Video on how to use exisiting tools to extract files:  
 https://www.youtube.com/watch?v=FyYQGVAKSUc  
@@ -33,7 +33,6 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 ## Resources
 - https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA
-- https://docs.google.com/document/d/1juyHSSsSiBpQbqAkwcJbK0YuQWhrRGUsECM9mPRcENA
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
 - https://w.atwiki.jp/tod_remake/
