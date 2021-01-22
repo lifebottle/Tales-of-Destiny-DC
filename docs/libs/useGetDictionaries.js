@@ -8,36 +8,10 @@ export const useGetDictionaries = () => {
     setLoading(true);
     axios
       .all([
-        axios.get(
-          "https://cdn.statically.io/gh/" +
-            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/" +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/api/dictionary/kanji.txt"
-        ),
-        axios.get(
-          "https://cdn.statically.io/gh/" +
-            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/" +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/api/dictionary/katakana.txt"
-        ),
-        axios.get(
-          "https://cdn.statically.io/gh/" +
-            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/gh-pages/" +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/api/dictionary/symbols.txt"
-        ),
-        axios.get(
-          "https://cdn.statically.io/gh/" +
-            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
-            process.env.NEXT_PUBLIC_BASE_PATH +
-            "/api/dictionary/hiragana.txt"
-        ),
+        axios.get("/api/dictionary/kanji.txt"),
+        axios.get("/api/dictionary/katakana.txt"),
+        axios.get("/api/dictionary/symbols.txt"),
+        axios.get("/api/dictionary/hiragana.txt"),
       ])
       .then(
         axios.spread((...responses) => {
