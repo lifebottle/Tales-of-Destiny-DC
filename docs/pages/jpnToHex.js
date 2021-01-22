@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useContext } from "react";
 import { Flex } from "@chakra-ui/react";
 import { ConversionBox } from "components";
 import { LayoutContext } from "components/MainLayout";
