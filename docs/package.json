@@ -1,0 +1,21 @@
+{
+  "name": "docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "postbuild": "cp -a out/. ../build"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.1.5",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "feather-icons": "^4.28.0",
+    "framer-motion": "^3.2.1",
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
