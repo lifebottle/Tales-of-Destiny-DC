@@ -8,18 +8,10 @@ export const useGetDictionaries = () => {
     setLoading(true);
     axios
       .all([
-        axios.get(
-          "http://localhost:3000/Tales-of-Destiny-DC/api/dictionary/kanji.txt"
-        ),
-        axios.get(
-          "http://localhost:3000/Tales-of-Destiny-DC/api/dictionary/katakana.txt"
-        ),
-        axios.get(
-          "http://localhost:3000/Tales-of-Destiny-DC/api/dictionary/symbols.txt"
-        ),
-        axios.get(
-          "http://localhost:3000/Tales-of-Destiny-DC/api/dictionary/hiragana.txt"
-        ),
+        axios.get("/Tales-of-Destiny-DC/api/dictionary/kanji.txt"),
+        axios.get("/Tales-of-Destiny-DC/api/dictionary/katakana.txt"),
+        axios.get("/Tales-of-Destiny-DC/api/dictionary/symbols.txt"),
+        axios.get("/Tales-of-Destiny-DC/api/dictionary/hiragana.txt"),
       ])
       .then(
         axios.spread((...responses) => {
