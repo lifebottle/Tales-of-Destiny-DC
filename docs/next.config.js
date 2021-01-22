@@ -5,7 +5,8 @@ module.exports = {
   // Use the CDN in production and localhost for development.
   assetPrefix: isProd
     ? process.env.NEXT_PUBLIC_GITHUB_PAGES_URL +
-      process.env.NEXT_PUBLIC_BASE_PATH +
+      "https://cdn.statically.io/gh/" +
+      process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
       "/gh-pages/"
     : "",
 };
