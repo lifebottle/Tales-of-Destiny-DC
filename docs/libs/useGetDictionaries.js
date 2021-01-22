@@ -8,10 +8,30 @@ export const useGetDictionaries = () => {
     setLoading(true);
     axios
       .all([
-        axios.get("/Tales-of-Destiny-DC/api/dictionary/kanji.txt"),
-        axios.get("/Tales-of-Destiny-DC/api/dictionary/katakana.txt"),
-        axios.get("/Tales-of-Destiny-DC/api/dictionary/symbols.txt"),
-        axios.get("/Tales-of-Destiny-DC/api/dictionary/hiragana.txt"),
+        axios.get(
+          "https://cdn.statically.io/gh/" +
+            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/gh-pages/api/dictionary/kanji.txt"
+        ),
+        axios.get(
+          "https://cdn.statically.io/gh/" +
+            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/gh-pages/api/dictionary/katakana.txt"
+        ),
+        axios.get(
+          "https://cdn.statically.io/gh/" +
+            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/gh-pages/api/dictionary/symbols.txt"
+        ),
+        axios.get(
+          "https://cdn.statically.io/gh/" +
+            process.env.NEXT_PUBLIC_GITHUB_USER_NAME +
+            process.env.NEXT_PUBLIC_BASE_PATH +
+            "/gh-pages/api/dictionary/hiragana.txt"
+        ),
       ])
       .then(
         axios.spread((...responses) => {
