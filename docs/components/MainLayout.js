@@ -14,12 +14,17 @@ import {
 } from "@chakra-ui/react";
 import { Icon, Link } from "@/components/index";
 import { useRouter } from "next/router";
-
-const LayoutContext = createContext();
+import { useGetDictionaries } from "libs";
+export const LayoutContext = createContext();
 
 const MainLayout = ({ children, ...props }) => {
+  const {
+    data: dictionaries,
+    loading: dictionariesLoading,
+  } = useGetDictionaries();
+
   const [isNavOpen, setNavOpen] = useState(false);
-  const context = { isNavOpen, setNavOpen };
+  const context = { isNavOpen, setNavOpen, dictionaries, dictionariesLoading };
   return (
     <Box {...props}>
       <LayoutContext.Provider value={context}>

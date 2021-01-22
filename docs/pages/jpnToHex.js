@@ -1,9 +1,11 @@
 import { useState } from "react";
 import { Flex } from "@chakra-ui/react";
 import { ConversionBox } from "components";
+import { LayoutContext } from "components/MainLayout";
 import { jpnToHex } from "libs";
 
 export default function Page() {
+  const { dictionaries } = useContext(LayoutContext);
   const [japaneseValue, setJapaneseValue] = useState("");
   const handleChange = (e) => setJapaneseValue(e.target.value);
   return (
@@ -16,7 +18,7 @@ export default function Page() {
         label="Japanese"
       />
       <ConversionBox
-        value={jpnToHex(japaneseValue)}
+        value={jpnToHex(japaneseValue, dictionaries)}
         onChange={handleChange}
         id="hex"
         label="Hex"
