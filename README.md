@@ -32,7 +32,8 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 
 ## Resources
-- https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA
+- https://docs.google.com/document/d/16QIdezbUgxQ7HcBHYi4B35mmSOgsjyRxrLnYIVATVqs (Leon)
+- https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA (Stahn)
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
 - https://w.atwiki.jp/tod_remake/
@@ -44,6 +45,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 - https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
 
 ## Tools
+- https://pnvnd.github.io/Tales-of-Destiny-DC/hexToJpn
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
 - https://translate.google.com
