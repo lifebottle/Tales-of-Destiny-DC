@@ -1,25 +1,25 @@
 import { useState } from "react";
 import { Flex } from "@chakra-ui/react";
 import { ConversionBox } from "components";
-import { hexToJpn } from "libs";
+import { jpnToHex } from "libs";
 
 export default function Page() {
-  const [hexValue, setHexValue] = useState("");
-  const handleChange = (e) => setHexValue(e.target.value);
+  const [japaneseValue, setJapaneseValue] = useState("");
+  const handleChange = (e) => setJapaneseValue(e.target.value);
   return (
     <Flex>
       <ConversionBox
         mr={4}
-        value={hexValue}
-        onChange={handleChange}
-        id="hex"
-        label="Hex"
-      />
-      <ConversionBox
-        value={hexToJpn(hexValue)}
+        value={japaneseValue}
         onChange={handleChange}
         id="japanese"
         label="Japanese"
+      />
+      <ConversionBox
+        value={jpnToHex(japaneseValue)}
+        onChange={handleChange}
+        id="hex"
+        label="Hex"
         readOnly={true}
       />
     </Flex>

@@ -1,3 +1,7 @@
+export const jpnToHex = (word) => {
+  return word;
+}
+
 export const hexToJpn = (word) => {
   const list = [];
   const hex = word.split("")
