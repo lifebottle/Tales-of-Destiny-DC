@@ -45,6 +45,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 - https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
 
 ## Tools
+- https://pnvnd.github.io/Tales-of-Destiny-DC/hexToJpn
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
 - https://translate.google.com
