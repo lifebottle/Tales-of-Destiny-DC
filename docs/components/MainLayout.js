@@ -13,12 +13,18 @@ import {
   DrawerFooter,
 } from "@chakra-ui/react";
 import { Icon, Link } from "@/components/index";
-
-const LayoutContext = createContext();
+import { useRouter } from "next/router";
+import { useGetDictionaries } from "libs";
+export const LayoutContext = createContext();
 
 const MainLayout = ({ children, ...props }) => {
+  const {
+    data: dictionaries,
+    loading: dictionariesLoading,
+  } = useGetDictionaries();
+
   const [isNavOpen, setNavOpen] = useState(false);
-  const context = { isNavOpen, setNavOpen };
+  const context = { isNavOpen, setNavOpen, dictionaries, dictionariesLoading };
   return (
     <Box {...props}>
       <LayoutContext.Provider value={context}>
@@ -53,6 +59,17 @@ const TopNav = () => {
 
 const NavDrawer = () => {
   const { isNavOpen, setNavOpen } = useContext(LayoutContext);
+  const { pathname } = useRouter();
+  const links = [
+    {
+      href: "/hexToJpn",
+      title: "Hex to Japanese",
+    },
+    {
+      href: "/jpnToHex",
+      title: "Japanese to Hex",
+    },
+  ];
   return (
     <Drawer
       placement="right"
@@ -64,17 +81,26 @@ const NavDrawer = () => {
           <DrawerHeader borderBottomWidth="1px">Basic Drawer</DrawerHeader>
           <DrawerCloseButton />
           <DrawerBody p={0}>
-            <Link
-              sx={{
-                display: "block",
-                p: 4,
-                borderBottom: "1px solid transparent",
-                borderColor: "gray.100",
-              }}
-              href="/hexToJpn"
-            >
-              Hex to Japanese
-            </Link>
+            {links?.map(({ title, href }) => {
+              const isCurrent = pathname == href;
+              return (
+                <Link
+                  key={href}
+                  sx={{
+                    display: "block",
+                    p: 4,
+                    borderLeft: "5px solid transparent",
+                    borderBottom: "1px solid transparent",
+                    borderBottomColor: "gray.100",
+                    borderLeftColor: isCurrent ? "orange.200" : "transparent",
+                  }}
+                  href={href}
+                  onClick={() => setNavOpen(false)}
+                >
+                  {title}
+                </Link>
+              );
+            })}
           </DrawerBody>
           <DrawerFooter></DrawerFooter>
         </DrawerContent>
