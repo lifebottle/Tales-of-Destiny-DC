@@ -1,0 +1,18 @@
+name: deploy website
+on: [deploy]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: amondnet/vercel-action@v19
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+          github-token: ${{ secrets.GITHUB_TOKEN }} #Optional
+          vercel-args: "--prod" #Optional
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}} #Required
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
+          working-directory: ./docs #Your Working Directory, Optional
+          alias-domains: | #Optional
+            staging.tales-of-destiny-dc.vercel.app
+            pr-{{PR_NUMBER}}.staging.tales-of-destiny-dc.vercel.app

@@ -1,2 +1,6 @@
 .DS_Store
+<<<<<<< HEAD
 .vercel
+=======
+.vercel
+>>>>>>> feat: vercel action
