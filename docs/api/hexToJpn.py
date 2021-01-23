@@ -1,7 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 from datetime import datetime
 import json
-import cgi
 
 
 def HexToJpn(word):
@@ -1950,12 +1949,6 @@ print(HexToJpn("99 FC 20 9A 41 20 9A 64 20 9A 7E 20 99 D1 20 99 C5 20 9B C4 20 9
 class handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
-        ctype, pdict = cgi.parse_header(self.headers.getheader('content-type'))
-        # refuse to receive non-json content
-        if ctype != 'application/json':
-            self.send_response(400)
-            self.end_headers()
-            return
         # read the message and convert it into a python dictionary
         length = int(self.headers.getheader('content-length'))
         message = json.loads(self.rfile.read(length))
