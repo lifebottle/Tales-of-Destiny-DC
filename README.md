@@ -48,7 +48,7 @@ Leon's Side - 13736_65.rsce
 - https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
 
 ## Tools
-- https://pnvnd.github.io/Tales-of-Destiny-DC/hexToJpn
+- https://tales-of-destiny-dc.vercel.app/hexToJpn
 - http://temple-tales.ru/translations/tools/ToDDCTools_v1.1_by_RangerRus.rar
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
