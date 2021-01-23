@@ -17,6 +17,3 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID}} #Required
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
           working-directory: ./docs #Your Working Directory, Optional
-          alias-domains: | #Optional
-            staging.tales-of-destiny-dc.vercel.app
-            pr-{{PR_NUMBER}}.staging.tales-of-destiny-dc.vercel.app
