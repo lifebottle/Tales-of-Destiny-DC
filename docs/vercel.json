@@ -1,7 +1,3 @@
 {
-  "builds": [
-    { "src": "*.html", "use": "@now/static" },
-    { "src": "pages/api/*.py", "use": "@now/python" }
-  ],
   "routes": [{ "src": "/api/date", "dest": "/pages/api/date.py" }]
 }
