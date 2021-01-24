@@ -1964,6 +1964,6 @@ class handler(BaseHTTPRequestHandler):
         message = json.loads(self.rfile.read(length))
         # add a property to the object, just to mess with data
         message['received'] = 'ok'
-        self.wfile.write(json.dumps(message))
-
+        print(message)
+        self.wfile.write(str(json.dumps(message)))
         return
