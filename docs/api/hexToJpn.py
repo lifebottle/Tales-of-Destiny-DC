@@ -1953,14 +1953,14 @@ class handler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header('Content-type', 'text/plain')
         self.end_headers()
-        ctype, pdict = cgi.parse_header(self.getheader('content-type'))
+        ctype, pdict = cgi.parse_header(self.headers.get('content-type'))
         # refuse to receive non-json content
         if ctype != 'application/json':
             self.send_response(400)
             self.end_headers()
             return
         # read the message and convert it into a python dictionary
-        length = int(self.getheader('content-length'))
+        length = int(self.headers.get('content-length'))
         message = json.loads(self.rfile.read(length))
         # add a property to the object, just to mess with data
         message['received'] = 'ok'
