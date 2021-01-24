@@ -4,10 +4,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: amondnet/vercel-action@v19
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: deploy
+        uses: amondnet/vercel-action@v20
         with:
-          name: tales-of-destiny-dc
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
           github-token: ${{ secrets.GITHUB_TOKEN }} #Optional
           vercel-args: "--prod" #Optional
