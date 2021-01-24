@@ -175,7 +175,7 @@ def HexToJpn(word):
             List.append("を")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "99 FA"):
             List.append("ん")
-        #KATAKANA
+        # KATAKANA
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "99 A7"):
             List.append("ー")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "99 FB"):
@@ -346,7 +346,7 @@ def HexToJpn(word):
             List.append("ン")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9A 93"):
             List.append("ヴ")
-        #KANJI
+        # KANJI
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9B 4A"):
             List.append("爆")
         elif(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4] == "9B 4B"):
@@ -1935,7 +1935,7 @@ def HexToJpn(word):
             List.append(str(Hex[i] + Hex[i+1] + " " + Hex[i+3] + Hex[i+4]))
     return "".join(List)
 
+
 # Test on Demon Fang
 print(HexToJpn("9B 4D 9B 4E 9B 4C 00 00 00 00 00"))
 print(HexToJpn("99 FC 20 9A 41 20 9A 64 20 9A 7E 20 99 D1 20 99 C5 20 9B C4 20 99 CA 20 99 CD 20 99 FA 20 99 BF 20 99 EA 20 99 D4 20 99 AF 20 99 41"))
-

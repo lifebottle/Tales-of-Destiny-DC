@@ -2,6 +2,8 @@ import axios from "axios";
 import { useMemo, useState } from "react";
 
 export const useGetDictionaries = () => {
+  // TODO: Need a better way to get data serverside instead of just cancelling serverside
+  if (typeof window === "undefined") return false;
   const [data, setData] = useState();
   const [loading, setLoading] = useState(true);
   useMemo(async () => {
@@ -24,7 +26,6 @@ export const useGetDictionaries = () => {
           combined.map((c) => {
             if (c[0] !== "hex") data[c[0]] = c[1].trim();
           });
-          console.log(data);
           setData(data);
           setLoading(false);
         })
