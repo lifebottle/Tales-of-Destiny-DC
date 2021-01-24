@@ -12,6 +12,7 @@ jobs:
           vercel-args: "--prod" #Optional
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID}} #Required
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
+          vercel-project-name: tales-of-destiny-dc
           working-directory: ./docs #Your Working Directory, Optional
           alias-domains: | #Optional
             tales-of-destiny-dc.vercel.app
