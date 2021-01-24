@@ -21,7 +21,12 @@ const MainLayout = ({ children, ...props }) => {
   const {
     data: dictionaryJapan,
     loading: dictionaryJapanLoading,
-  } = useGetDictionaries(["kanji.txt", "katakana.txt", "hiragana.txt"]);
+  } = useGetDictionaries([
+    "kanji.txt",
+    "katakana.txt",
+    "hiragana.txt",
+    "symbols.txt",
+  ]);
   const {
     data: dictionaryEnglish,
     loading: dictionaryEnglishLoading,
