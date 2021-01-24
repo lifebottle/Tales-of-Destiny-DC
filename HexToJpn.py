@@ -1,8 +1,3 @@
-from http.server import BaseHTTPRequestHandler
-import json
-import cgi
-
-
 def HexToJpn(word):
     Hex = list(word)
     List = []
@@ -1944,26 +1939,3 @@ def HexToJpn(word):
 # Test on Demon Fang
 print(HexToJpn("9B 4D 9B 4E 9B 4C 00 00 00 00 00"))
 print(HexToJpn("99 FC 20 9A 41 20 9A 64 20 9A 7E 20 99 D1 20 99 C5 20 9B C4 20 99 CA 20 99 CD 20 99 FA 20 99 BF 20 99 EA 20 99 D4 20 99 AF 20 99 41"))
-
-
-class handler(BaseHTTPRequestHandler):
-
-    def do_POST(self):
-        # send the message back
-        self.send_response(200)
-        self.send_header('Content-type', 'text/plain')
-        self.end_headers()
-        ctype, pdict = cgi.parse_header(self.headers.get('content-type'))
-        # refuse to receive non-json content
-        if ctype != 'application/json':
-            self.send_response(400)
-            self.end_headers()
-            return
-        # read the message and convert it into a python dictionary
-        length = int(self.headers.get('content-length'))
-        message = json.loads(self.rfile.read(length))
-        # add a property to the object, just to mess with data
-        message['received'] = 'ok'
-        print(message)
-        self.wfile.write(str(json.dumps(message)).encode())
-        return
