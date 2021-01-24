@@ -33,7 +33,8 @@ module.exports = async (req, res) => {
   } = req;
 
   let parsedData = await parseFile(
-    process.env.NEXT_PUBLIC_DICTIONARY_URL + "/" + fileName
+    "https://raw.githubusercontent.com/asyndesis/Tales-of-Destiny-DC/master/dictionary/" +
+      fileName
   );
   res.statusCode = 200;
   res.json(parsedData);
