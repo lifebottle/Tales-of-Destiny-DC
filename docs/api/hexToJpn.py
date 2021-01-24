@@ -1,5 +1,4 @@
-from http.server import BaseHTTPRequestHandler,BaseHTTPServer
-from datetime import datetime
+from http.server import BaseHTTPRequestHandler
 import json
 import cgi
 
@@ -1950,6 +1949,10 @@ print(HexToJpn("99 FC 20 9A 41 20 9A 64 20 9A 7E 20 99 D1 20 99 C5 20 9B C4 20 9
 class handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
+        # send the message back
+        self.send_response(200)
+        self.send_header('Content-type', 'text/plain')
+        self.end_headers()
         ctype, pdict = cgi.parse_header(self.headers.getheader('content-type'))
         # refuse to receive non-json content
         if ctype != 'application/json':
@@ -1961,10 +1964,6 @@ class handler(BaseHTTPRequestHandler):
         message = json.loads(self.rfile.read(length))
         # add a property to the object, just to mess with data
         message['received'] = 'ok'
-        # send the message back
-        self.send_response(200)
-        self.send_header('Content-type', 'text/plain')
-        self.end_headers()
         self.wfile.write(json.dumps(message))
 
         return
