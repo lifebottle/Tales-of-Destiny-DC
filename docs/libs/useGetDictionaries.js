@@ -1,8 +1,6 @@
 import axios from "axios";
 import { useMemo, useState } from "react";
 export const useGetDictionaries = (files = []) => {
-  // TODO: Need a better way to get data serverside instead of just cancelling serverside
-  if (typeof window !== "undefined") return false;
   const [data, setData] = useState();
   const [loading, setLoading] = useState(true);
   useMemo(async () => {
