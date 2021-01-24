@@ -27,7 +27,7 @@ const parseFile = (fileUrl) => {
   }
 };
 
-export default async (req, res) => {
+module.exports = async (req, res) => {
   const {
     query: { fileName },
   } = req;
