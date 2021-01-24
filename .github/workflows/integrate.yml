@@ -1,13 +1,11 @@
-name: Build and Deploy
+name: deploy website
 on: [pull_request]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-        - uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-        with:
-          persist-credentials: false
-        - uses: amondnet/vercel-action@v19
+      - uses: actions/checkout@v2
+      - uses: amondnet/vercel-action@v19
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
           github-token: ${{ secrets.GITHUB_TOKEN }} #Optional
