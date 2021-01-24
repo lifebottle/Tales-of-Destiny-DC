@@ -8,7 +8,7 @@ jobs:
         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
         with:
           persist-credentials: false
-      - name: Vercel Deploy x
+      - name: Vercel Deploy
         uses: amondnet/vercel-action@v19
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
