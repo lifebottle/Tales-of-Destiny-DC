@@ -1,4 +1,3 @@
-import { useState } from "react";
 import {
   Box,
   FormLabel,
@@ -43,6 +42,7 @@ const ConversionBox = ({
         </Flex>
       </FormLabel>
       <Textarea
+        fontFamily="mono"
         readOnly={readOnly}
         placeholder={label}
         rows={10}

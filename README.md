@@ -49,6 +49,7 @@ Leon's Side - 13736_65.rsce
 
 ## Tools
 - https://tales-of-destiny-dc.vercel.app/hexToJpn
+- https://tales-of-destiny-dc.vercel.app/jpnToHex
 - http://temple-tales.ru/translations/tools/ToDDCTools_v1.1_by_RangerRus.rar
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
@@ -60,6 +61,7 @@ Leon's Side - 13736_65.rsce
 - https://www.romhacking.net/utilities/1419/
 
 ## Credits
+- Thanks to the Temple of Tales Translations team (http://temple-tales.ru/translations.html) for providing tools to edit story and skits
 - Thanks to dizzycrunch and chucho1224 for sending me resources to speed up the patch
 - Thanks to saito for sending me tools for packaging ISO files properly
 - Thanks to Alizor for helping me get started with wonderful resources

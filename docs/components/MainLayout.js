@@ -19,12 +19,28 @@ export const LayoutContext = createContext();
 
 const MainLayout = ({ children, ...props }) => {
   const {
-    data: dictionaries,
-    loading: dictionariesLoading,
-  } = useGetDictionaries();
+    data: dictionaryJapan,
+    loading: dictionaryJapanLoading,
+  } = useGetDictionaries([
+    "kanji.txt",
+    "katakana.txt",
+    "hiragana.txt",
+    "symbols.txt",
+  ]);
+  const {
+    data: dictionaryEnglish,
+    loading: dictionaryEnglishLoading,
+  } = useGetDictionaries(["symbols.txt"]);
 
   const [isNavOpen, setNavOpen] = useState(false);
-  const context = { isNavOpen, setNavOpen, dictionaries, dictionariesLoading };
+  const context = {
+    isNavOpen,
+    setNavOpen,
+    dictionaryJapan,
+    dictionaryJapanLoading,
+    dictionaryEnglish,
+    dictionaryEnglishLoading,
+  };
   return (
     <Box {...props}>
       <LayoutContext.Provider value={context}>

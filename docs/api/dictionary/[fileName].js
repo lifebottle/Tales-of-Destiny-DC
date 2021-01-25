@@ -27,13 +27,14 @@ const parseFile = (fileUrl) => {
   }
 };
 
-export default async (req, res) => {
+module.exports = async (req, res) => {
   const {
     query: { fileName },
   } = req;
 
   let parsedData = await parseFile(
-    process.env.NEXT_PUBLIC_DICTIONARY_URL + "/" + fileName
+    "https://raw.githubusercontent.com/asyndesis/Tales-of-Destiny-DC/master/dictionary/" +
+      fileName
   );
   res.statusCode = 200;
   res.json(parsedData);
