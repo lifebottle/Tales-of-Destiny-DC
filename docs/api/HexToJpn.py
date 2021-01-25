@@ -35,7 +35,7 @@ def HexToJpn(word):
     outputText = []
     i = 0
     while i < len(Hex)-1:
-        if i + 3 > len(Hex):
+        if i + 6 > len(Hex):
             break
         if(Hex[i] + Hex[i+1] + Hex[i+3] + Hex[i+4] in mapping):
             outputText.append(mapping[Hex[i] + Hex[i+1] + Hex[i+3] + Hex[i+4]])
