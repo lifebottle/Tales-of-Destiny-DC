@@ -84,15 +84,15 @@ No Response...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚±‚Ì‚Ü‚Ü‚¶‚á‚â‚ç‚ê‚écc<__>‚Ç‚±‚©‚É•Ší‚Í‚È‚¢‚Ì‚©H<__><00>
+If I don't do something, I'm gonna get killed...<__>Isn't there a weapon somewhere?<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‚±‚Ì—l‚È“¹‚ðÇ‚®áŠQ•¨‚Ì’†‚É‚Í<Circle_ani>‚Å’Í‚ÝA<__><L+U+R+D_blink>–”‚Í<L_stick_Press>‚Å‰Ÿ‚µˆø‚«‰Â”\‚È‚à‚Ì‚ª‚ ‚è‚Ü‚·B<00>
+<TAG_007>Some obstacles blocking the path like this can be grabbed with<Circle_ani><__>and pushed and pulled with<L+U+R+D_blink>or<L_stick_Press>.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>–Ú‚Ì‘O‚ÌÏ‰×‚ðˆÚ“®‚³‚¹‚Ä<__>’Ê˜H‚ðŠm•Û‚µ‚Ü‚µ‚å‚¤B<00>
+<TAG_007>Move the cargo in front<__>of you to clear the way.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -100,7 +100,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -118,7 +118,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -126,49 +126,49 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qI<04>˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qI<04>?€<00>
 [ENDBLOCK]
 <18>eY<0_0><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚Í<00>
+<19>iH?‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eXø<00>€<__><18>eXü<00>€<00>
+<TAG_007><18>eX?<00>€<__><18>eX?<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
