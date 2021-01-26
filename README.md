@@ -28,7 +28,21 @@ Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file. 
 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  
 
-Stahn's Side - 13558_61.rsce  
+Stahn's Side - 13558_61.rsce 
+13559_88  first room after the start of the game
+13569_44  draconis like eating the curry or interacting with the dead 
+13562_82 dialogue for dead body captain
+13558_61 escape pod room
+13582_61 Chelsea bedroom after draconis
+13583_76  line 301- Main room chelsea house
+13586_76 line 201-221
+13581_54 line 287  outside cabin(text about skit)
+13592_106 line 285 first conversation with chelsea next to tree 
+13581_54 line 375-415 return of the party to front of chelsea house
+13583_76 line 301-433 Main room chelsea house
+13581_54 line419-439 outside cabin
+13603_53 line 369-437fandaria moutiain trail 
+ 
 Leon's Side - 13736_65.rsce  
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
