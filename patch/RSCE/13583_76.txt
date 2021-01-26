@@ -198,7 +198,7 @@ select<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>There is a splendid makeup table.<__>However, the essential cosmetics are quite few...<00>
+<TAG_005>There is a splendid makeup table.However, <__>the essential cosmetics are quite few...<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -210,7 +210,7 @@ select<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-Perhaps<Chelsea>is in the Hills<__> behind the house<00>
+Perhaps <Chelsea> is in the Hills<__> behind the house<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -218,11 +218,11 @@ Thanks in advance<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-If you're tired, you can rest.<__>Yes__>No<00>
+If you're tired, you can rest.<__>Yes<__>No<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-Perhaps<Chelsea>is in the Hills<__> behind the house<00>
+Perhaps <Chelsea> is in the Hills<__> behind the house<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -238,7 +238,7 @@ Take care of <Chelsea> for me,<__>will you?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-If you're tired, you can rest.<__>Yes__>No<00>
+If you're tired, you can rest.<__>Yes<__>No<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
