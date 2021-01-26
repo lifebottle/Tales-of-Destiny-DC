@@ -2,9 +2,9 @@
 [ENDBLOCK]
 <TAG_005>Test 1<00>
 [ENDBLOCK]
-Test 2<00>
+<TAG_005>Test 2<00>
 [ENDBLOCK]
-No Response...<00>
+<TAG_005>No Response...<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
