@@ -71,7 +71,7 @@ Leon's Side - 13736_65.rsce
 
 
 ## Resources
-- https://docs.google.com/document/d/16QIdezbUgxQ7HcBHYi4B35mmSOgsjyRxrLnYIVATVqs (Leon)
+- https://drive.google.com/file/d/1o-z7mNttpQI8nW4TmApNxIPguTY2RJYN (Leon)
 - https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA (Stahn)
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
