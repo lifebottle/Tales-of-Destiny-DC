@@ -14,32 +14,13 @@ import {
 } from "@chakra-ui/react";
 import { Icon, Link } from "@/components/index";
 import { useRouter } from "next/router";
-import { useGetDictionaries } from "libs";
 export const LayoutContext = createContext();
 
 const MainLayout = ({ children, ...props }) => {
-  const {
-    data: dictionaryJapan,
-    loading: dictionaryJapanLoading,
-  } = useGetDictionaries([
-    "kanji.txt",
-    "katakana.txt",
-    "hiragana.txt",
-    "symbols.txt",
-  ]);
-  const {
-    data: dictionaryEnglish,
-    loading: dictionaryEnglishLoading,
-  } = useGetDictionaries(["symbols.txt"]);
-
   const [isNavOpen, setNavOpen] = useState(false);
   const context = {
     isNavOpen,
     setNavOpen,
-    dictionaryJapan,
-    dictionaryJapanLoading,
-    dictionaryEnglish,
-    dictionaryEnglishLoading,
   };
   return (
     <Box {...props}>
@@ -84,6 +65,10 @@ const NavDrawer = () => {
     {
       href: "/jpnToHex",
       title: "Japanese to Hex",
+    },
+    {
+      href: "/engToHex",
+      title: "English to Hex",
     },
   ];
   return (
