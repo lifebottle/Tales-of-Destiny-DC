@@ -67,8 +67,6 @@ Janos
 
 Leon's Side - 13736_65.rsce
 
-Leon's Side - 13736_65.rsce
-
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
 
 ## Resources
@@ -89,7 +87,6 @@ Leon's Side - 13736_65.rsce
 
 - https://tales-of-destiny-dc.vercel.app/hexToJpn
 - https://tales-of-destiny-dc.vercel.app/jpnToHex
-- https://tales-of-destiny-dc.vercel.app/engToHex
 - http://temple-tales.ru/translations/tools/ToDDCTools_v1.1_by_RangerRus.rar
 - https://code.visualstudio.com/download
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
