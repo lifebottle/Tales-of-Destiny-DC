@@ -2,7 +2,7 @@ from http.server import BaseHTTPRequestHandler
 from datetime import datetime
 from urllib.parse import urlparse
 import json
-from .scripts.HexToJpn import HexToJpn
+from .scripts.eHex import eHex
 
 
 class handler(BaseHTTPRequestHandler):
@@ -11,7 +11,7 @@ class handler(BaseHTTPRequestHandler):
         post_body = self.rfile.read(content_len)
         data = json.loads(post_body)
         parsed_path = urlparse(self.path)
-        converted = HexToJpn(data['input'])
+        converted = eHex(data['input'])
         self.send_response(200)
         self.end_headers()
         self.wfile.write(json.dumps({

@@ -4,12 +4,12 @@ import { ConversionBox } from "components";
 import { fetchRoute } from "components";
 
 export default function Page() {
-  const [jpnValue, setJpnValue] = useState("");
+  const [engValue, setEngValue] = useState("");
   const [hexValue, setHexValue] = useState("");
 
   const handleChange = async (e) => {
-    setJpnValue(e.target.value);
-    const data = await fetchRoute("api/jpnToHex", { input: e.target.value });
+    setEngValue(e.target.value);
+    const data = await fetchRoute("api/engToHex", { input: e.target.value });
     setHexValue(data?.body || "");
   };
 
@@ -17,10 +17,10 @@ export default function Page() {
     <Flex>
       <ConversionBox
         mr={4}
-        value={jpnValue}
+        value={engValue}
         onChange={handleChange}
-        id="japanese"
-        label="Japanese"
+        id="english"
+        label="English"
       />
       <ConversionBox value={hexValue} id="hex" label="Hex" readOnly={true} />
     </Flex>

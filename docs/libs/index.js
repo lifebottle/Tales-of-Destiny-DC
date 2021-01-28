@@ -1,1 +1,0 @@
-export { useGetDictionaries } from "./useGetDictionaries";
