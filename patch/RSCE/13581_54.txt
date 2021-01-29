@@ -276,7 +276,7 @@
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Œ®‚ª‚©‚©‚Á‚Ä‚¢‚éB<__><00>
+It's Locked.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -284,15 +284,15 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>u<yellow>ƒGƒ‚[ƒVƒ‡ƒiƒ‹ƒJ[ƒhEƒ`ƒƒƒbƒg</color>iˆÈ‰ºƒ`ƒƒƒbƒgjv‚Æ‚ÍA<__>’‡ŠÔ‚ÌƒLƒƒƒ‰ƒNƒ^[‚½‚¿‚Ì‚¨‚µ‚á‚×‚è‚ğA<__>Œ©‚é–‚ªo—ˆ‚éƒVƒXƒeƒ€‚Ì–‚Å‚·B<__><00>
+<TAG_007>u<yellow>Emotional Chat System</color> (referred<__>to as Chats) is a system that lets<__>you watch conversations between<__>your party members.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>[ƒ{ƒ^ƒ“‘€ì]<__><Select_ani>Fƒ`ƒƒƒbƒg‚ğ‹N“®‚µ‚Ü‚·B<__><06>?<0_0_0>@<TAG_002><L2_ani>F‹N“®‚·‚éƒ`ƒƒƒbƒg‚ğ‘I‘ğ‚µ‚Ü‚·B<__>[ƒ`ƒƒƒbƒg‚Ìí—Ş]<__><06>?<0_0_0>@<TAG_002><N_Skit>Fƒiƒrƒ`ƒƒƒbƒg<__><06>?<0_0_0>@@<TAG_002>@@’‡ŠÔ‚ªs‚«æ‚È‚Ç‚ğ‹³‚¦‚Ä‚­‚ê‚Ü‚·B<__><06>?<0_0_0>@<TAG_002><F_Skit>FƒtƒŠ[ƒ`ƒƒƒbƒg<__><06>?<0_0_0>@@<TAG_002>@@å‚É’‡ŠÔ‚½‚¿‚ÌG’k‚Å‚·B<__><06>?<0_0_0>@<TAG_002><R_Skit>FƒŒƒAƒ`ƒƒƒbƒg<__><06>?<0_0_0>@@<TAG_002>@@“Áê‚ÈğŒ‚ğƒNƒŠƒA‚·‚é‚Æ”­¶‚µ‚Ü‚·B<00>
+<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>FWatch a Chat.<__><06>?<0_0_0>@<TAG_002><L2_ani>FSelect a Chat to watch<__>[Chat Types]<__><06>?<0_0_0>@<TAG_002><N_Skit>FNavigational Chat<__><06>?<0_0_0>@@<TAG_002>A party member will tell you where to go.<__><06>?<0_0_0>@<TAG_002><F_Skit>FFree Chat<__><06>?<0_0_0>@@<TAG_002>Idle chit-chat among your party members.<06>?<0_0_0>@<TAG_002><R_Skit>FRare Chat<__><06>?<0_0_0>@@<TAG_002>Will trigger after clearing a special condition.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>’Êíƒ}ƒbƒv‚âƒtƒB[ƒ‹ƒh‚ÌˆÚ“®‚É‚ÍA<__>ƒ`ƒƒƒbƒg‚Ìƒ^ƒCƒgƒ‹‚ª‰æ–Ê¶‰º‚É•\¦‚³‚ê‚Ä‚¢‚Ü‚·B<__>D‚«‚ÈêŠAD‚«‚Èƒ^ƒCƒ~ƒ“ƒO‚ÅA<__>•·‚«‚½‚¢ƒ`ƒƒƒbƒg‚ğ•·‚­–‚ªo—ˆ‚Ü‚·B<00>
+<TAG_007>When moving around a map<__>or the field, Chat titles will<__>appear in the bottom left corner of<__>the screen. You can watch them<__>whichever ones you'd like, at<__>whatever time you'd like.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
@@ -300,7 +300,7 @@ There are many ferocious monsters<__>in this area. Don't let your guard down.<__
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-I'm confident in my sword. I'll<__>let you take care of it! <__><00>
+I have confidence in this sword.<__>Please leave it to me!<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -308,23 +308,23 @@ Don't be conceited just because<__>you've become my master.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-First of all, I can use Crystal<__>Artes?In my case, it's fire based.00>__><00>
+You're so full of yourself.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-Before we get into a real fight, I'll teach you how to use the Swordian.<00>
+Before we get into a real fight,<__>I'll teach you how to use the Swordian.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-You don't have to tell me that. <__>You just slice and stab, right?<00>
+You don't have to tell me that.<__>You just slice and stab, right?<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-If it was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with Sodian.<00>
+If I was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with Swordian.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-First of all, I can use Crystal<__>Artes?In my case, it's fire based.<00>
+First of all, I can use Crystal<__>Artes? In my case, it's fire based.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -364,7 +364,7 @@ Phew...<__><00><00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-No, I just thought it looked like<__>a lot of fun.Are you ready to go?<__><00>
+No, I just thought it looked like<__>a lot of fun. Are you ready to go?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -376,7 +376,7 @@ Oh <Chelsea>,<__>I was getting impatient.<__><00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
- The waistband on my pants tore.<__>Won?ft you hurry and fix it for me?<00>
+ The waistband on my pants tore.<__>Won't you hurry and fix it for me?<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
@@ -388,69 +388,69 @@ You should be able to fix your<__>waistband yourself!<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-So you won?ft do it? Well, I<__>guess it?fs no big deal.<00>
+So you won't do it? Well, I<__>guess it's no big deal.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-‚»‚¤‚¢‚¤–â‘è‚¶‚á‚ ‚è‚Ü‚¹‚ñI<__><00>
+That's not the problem here!!<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚ ‚ ‚¢‚¤‚Ì‚ğA<__>‰Æ‘°‚ÌG‚ê‡‚¢‚ÆŒ¾‚¤‚Ì‚¾‚ë‚¤‚ÈB<__><00>
+ I guess that's what youfd<__>call familial love.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¤‚¿‚à—‚½‚æ‚¤‚È‚à‚ñ‚Å‚·B<__>‚¶‚Á‚¿‚á‚ñ‚Æ–…‚ª‚¢‚Ü‚·‚©‚çB<__><00>
+My family is the same way. I<__>have a grandpa and a little sister<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Woodrow>‚³‚ñ‚Ì‚Æ‚±‚ë‚ÍA<__>‚Ç‚¤‚È‚ñ‚Å‚·‚©H<__><00>
+<Woodrow>, what's your family like?<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-„‚ª‰Æ‘°‚ÆŒÄ‚×‚é‚Ì‚Í•ƒ‚¾‚¯‚¾‚©‚ç‚ÈB<__>‚µ‚©‚àAÚ‚·‚é‹@‰ï‚Í‚»‚¤‘½‚­‚È‚¢B<__><00>
+I have a father who I call my<__>family. But it's been a while<__>since I've heard from him.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-ccŠO‚Å—§‚¿˜b‚ğ‚·‚é‚Ì‚à‰½‚¾B<__>„‚½‚¿‚à’†‚É“ü‚ë‚¤B<__><00>
+...What are we doing just standing around talking? Let's go inside.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ƒWƒFƒmƒX‚ÌŠX‚Á‚ÄA‰“‚¢‚ñ‚Å‚·‚©H<__>“r’†‚Å• ‚ªŒ¸‚ç‚È‚«‚á‚¢‚¢‚¯‚ÇB<__><00>
+Is Janos far from here? I don't wanna get hungry on the way.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-<Stahn>ŒN‚É‚±‚ê‚ğ‚ ‚°‚æ‚¤B<__>uƒt[ƒhƒTƒbƒNv‚¾B<__><00>
+<Stahn> take this. It's a food sack<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚±‚ê‚ª‚ ‚ê‚ÎAí‚¢‚ğI‚¦‚½‚ÉA<__>‘Ì—Í‚ğ‰ñ•œ‚µ‚Ä‚­‚ê‚éB<__><00>
+ If you have this, then you'll<__>be able to replenish your stamina<__>after battle.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-ŠX‚Åƒt[ƒh‚ğ•â[‚·‚é–‚ÅA<__>ŒJ‚èœ‚—¾g‚¦‚é—D‚ê‚à‚Ì‚¾‚æB<__><00>
+You'll get used to refilling<__>your food in town as you use it up<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚Ö‚¦A•Ö—˜‚Å‚·‚ËB‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·I<__><00>
+Ohh, that's super convenient.<__>Thanks a bunch!<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚³‚ÄAs‚­‚Æ‚µ‚æ‚¤‚©B<__>ƒWƒFƒmƒX‚ÌŠX‚ÍA“ì¼‚Ì•ûŠp‚¾B<__><00>
+Now, let's go. Janos is to the<__>southwest of here.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-‚µ‚©‚µI@‚»‚ê‚Íl—Ş‚É‚Æ‚Á‚ÄA<__>’v–½“I‚ÈŒë‚è‚¾‚Á‚½‚ÆŒ¾‚Á‚Ä‚¨‚±‚¤B<00>
+But! Let's just say that it was a fatal mistake for humanity.<00>
 [ENDBLOCK]
-<00>’nã¢ŠE‚Ì–¯‚æI@©•ª‚½‚¿‚Ì‚¢‚éA<__>¡‚Ì¢ŠE‚ğŒ©‚Ä‚İ‚é‚ª‚¢‚¢B<00>
+<00>People of the Earthly world!<__>Take a look at the world<__>you live in.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-‹Zp—Í‚Íç”N‘O‚É‰“‚­‹y‚Î‚¸A<__>‘ˆ‚¢‚â•n¢‚ªŒã‚ğâ‚½‚È‚¢A–ì”Ø‚È¢ŠE‚ğI<00>
+A barbaric world where technology<__>is not even close to what it was<__>a thousand years ago, and where<__>strife and poverty continue unabated!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>Œ»İ‚ÌŠƒKƒ‹ƒh:<17>r<08>€ƒKƒ‹ƒh<00>
+<TAG_007>Gald in Possession:<17>r<08>€Gald<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
@@ -522,31 +522,31 @@ camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>?€‚Í<__>‚·‚Å‚É‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€Already have an ID<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ğ”­s‚µ‚Ü‚·B<__>‚±‚ÌID‚ÆƒpƒXƒ[ƒh‚ğ˜A“®ƒEƒFƒuƒTƒCƒg‚Å<__>“ü—Í‚·‚é–‚ÅAƒfƒXƒeƒBƒj[‚Ì¢ŠE‚ª<__>‚³‚ç‚ÉL‚ª‚è‚Ü‚·B<00>
+<TAG_007>You will be issued a<__>link ID and game password. By<__>entering this ID and password on<__>the linked website, you can expand<__>the world of Destiny even further.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>Ú‚µ‚­‚Í‰º‹L‚ÌURL‚Å‚²Šm”F‚­‚¾‚³‚¢B<__><0E><__><__><00>€http://www.to-destiny.jp<0E><__><__><00>@<00>
+<TAG_007>For more information<__>please visit the following URL.<__><0E><__><__><00>€http://www.to-destiny.jp<0E><__><__><00>@<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>˜A“®ID‚Í<turquoise><0E><__><__><00>€<0C><0_0><07><00><0E><__><__><00>@<__></color>ƒQ[ƒ€ƒpƒXƒ[ƒh‚Í<turquoise><0E><__><__><00>€<0C><__><00><07><00><0E><__><__><00>@<__></color>‚Å‚·B<00>
+<TAG_007>Link ID<turquoise><0E><__><__><00>€<0C><0_0><07><00><0E><__><__><00>@<__></color>Game Password<turquoise><0E><__><__><00>€<0C><__><00><07><00><0E><__><__><00>@<__></color>‚Å‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ƒQ[ƒ€’†‚ÌƒCƒxƒ“ƒg‚âƒ~ƒjƒQ[ƒ€‚ğ<__>ƒNƒŠƒA‚·‚é‚Æ˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ª<__>”­s‚³‚ê‚é–‚ª‚ ‚è‚Ü‚·B<00>
+<TAG_007>When you complete an<__>event or mini-game in the game, you<__>may be issued a link ID<__>and game password.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‚±‚Ì˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ğ<__>ƒEƒFƒuƒTƒCƒg‚Å“ü—Í‚·‚é–‚ÅƒfƒXƒeƒBƒj[<__>‚Ì¢ŠE‚ª‚³‚ç‚ÉL‚ª‚è‚Ü‚·B<00>
+<TAG_007>By entering this ID<__>and Password into the website,<__>you will be able to expand<__>the world of Destiny. <00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ƒEƒFƒuƒTƒCƒg‚Å“ü—Í‚·‚é<__>˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ğ–Y‚ê‚Ä‚µ‚Ü‚Á‚½ê‡‚Í<__>ƒtƒBƒbƒcƒKƒ‹ƒh‚É‚ ‚é—·l‚Ì¬‰®‚Å<__>Šm”F‚·‚é–‚ª‚Å‚«‚Ü‚·B<00>
+<TAG_007>If you have forgotten<__>your ID and password, you can<__>find them at the traveler's<__> hut in Fitzgald.<00>
 [ENDBLOCK]
 ŠOŠk‚È‚µ‚Ì‹P“xİ’è‚Í(RGBA)=(128, 128, 128, 128)‚Å‚·<__><00>
 [ENDBLOCK]
@@ -558,15 +558,15 @@ notice<00>
 [ENDBLOCK]
 ÅI’iŠK‚Ì‹P“xİ’è‚Í(RGBA)=(<17>r<0C>€, <17>r<08>€, <17>r<04>€, <17>r<00>€)‚Å‚·<__><00>
 [ENDBLOCK]
-İ’è‚ª‚È‚³‚ê‚Ü‚¹‚ñIitod=<17>qD<00>€j<__><00>
+It has not set!itod=<17>qD<00>€j<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-‘•’u‚Í‹N“®‚µ‚Ä‚¢‚È‚¢B<00>
+The warp device has not been activated.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-ƒ[ƒv‘•’u‚ª‹N“®‚µ‚Ü‚µ‚½B<00>
+The warp device has been activated.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -574,43 +574,43 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><TAG_013c>Ä€‚Ìƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>g—p‰Â”\‚É‚È‚è‚Ü‚µ‚½B<00>
+<TAG_007><TAG_013c>€The Swordian Device is now available.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>uÌ†‚Ìà–¾v<__>Ì†‚Æ‚ÍƒLƒƒƒ‰ƒNƒ^[‚ÉƒZƒbƒg‚·‚é–‚Ìo—ˆ‚éA<__>ƒLƒƒƒ‰ƒNƒ^[ƒpƒ‰ƒ[ƒ^‚Ì‚Ğ‚Æ‚Â‚Å‚·B<__>‹ï‘Ì“I‚ÈƒZƒbƒg•û–@‚ÍŸ‚Ì’Ê‚è‚Å‚·B<00>
+<TAG_007>Setting titles for the<__>characters will affect the character<__>parameters. Next, Ifll explain<__>how to set titles.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ƒƒCƒ“ƒƒjƒ…[‚ğŠJ‚¢‚½ŒãAƒLƒƒƒ‰ƒNƒ^[‚Ì<__>ƒXƒe[ƒ^ƒX‚ğ•\¦‚µ‚Ü‚·B<__>‚»‚Ì‰æ–Ê‚Ì‚Ü‚Ü<Square_ani>‚ğ‰Ÿ‚·‚ÆAƒLƒƒƒ‰ƒNƒ^[‚Ì<__>ƒXƒe[ƒ^ƒX•\¦‚ğØ‚è‘Ö‚¦‚é–‚ªo—ˆ‚Ü‚·B<__><00>
+<TAG_007>After opening the<__>main menu, select status. On this<__>screen, hit the square button and<__>youfll be able to change the<__>character status.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ƒXƒe[ƒ^ƒX‚Ìˆê”Ôã‚ÉAuÌ†v‚Æ‘‚©‚ê‚½<__>ƒy[ƒW‚ª‚ ‚è‚Ü‚·B‚»‚Ì‰æ–Ê‚Å<Triangle_ani>‚ğ‰Ÿ‚·‚ÆA<__>æ“¾‚µ‚½Ì†‚ğØ‚è‘Ö‚¦‚é–‚ªo—ˆ‚Ü‚·B<__><00>
+<TAG_007>At the top of this<__>screen, you'll see "Titles". On<__>this screen, press <Triangle_ani><__>to pick from all the titles<__>youfve acquired.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>Ì†‚Ìg‚¢“¹‚É‚ÍA“ñ’Ê‚è‚ ‚è‚Ü‚·B<__>‚Ğ‚Æ‚Â–Ú‚Ícc<__>uÌ†‚ğƒZƒbƒg‚µ‚ÄAŠXl‚É˜b‚µŠ|‚¯‚æ‚¤v<00>
+<TAG_007>There are two purposes<__>to titles. The first isc townspeople<__>will address you as the<__>title you set!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ŠXl‚Ì’†‚É‚ÍAÌ†‚ğƒZƒbƒg‚µ‚Ä˜b‚µŠ|‚¯‚é–‚ÅA<__>‚ ‚È‚½‚É‹»–¡‚ğ‚Âl‚ª‚¢‚Ü‚·BŠXl‚É‰½“x‚©<__>˜b‚µŠ|‚¯‚½ÛA•sv‹c‚ÈŒ¾“®‚ğ‚·‚é–‚ª‚ ‚è‚Ü‚·B<__>‚»‚Ì‚ÍA‚Á‚Ä‚¢‚éÌ†‚ğƒZƒbƒg‚µ’¼‚µ‚Ä‚©‚çA<__>‚à‚¤ˆê“x˜b‚µŠ|‚¯‚Ä‚İ‚Ü‚µ‚å‚¤B<00>
+<TAG_007>By setting a title, certain<__>townspeople will take interest in you.<__>When you talk to them several times,<__>you might get interesting responses.<__>When that happens, reset the title<__>you have on and try talking<__>to them one more time.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ƒqƒ“ƒgFŠXl‚É˜b‚µŠ|‚¯‚½ÛAƒvƒŒƒCƒ„[‚Ì<__>“ª‚Ìã‚ÉuHv‚ªo‚é–‚ª‚ ‚è‚Ü‚·B<__>‚»‚Ì‚ÍAŠXl‚ÌƒZƒŠƒt‚ÆŠÖ˜A‚µ‚»‚¤‚È<__>Ì†‚ğƒZƒbƒg‚µ‚ÄAÄ“xA˜b‚µŠ|‚¯‚Ä‚İ‚Ü‚µ‚å‚¤B<__>‰½‚©Šğ‚µ‚¢–‚ª‹N‚±‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB<00>
+<TAG_007>HintFWhen talking to townspeople,<__>a g?h will appear over your<__>characterfs head. When that happens, the<__>townspersonfs speech will change to be<__>relevant to the title you have<__>equipped?so try talking to them<__>again. Maybe something fun will happen!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>g‚¢“¹‚Ì‚Ó‚½‚Â–Ú‚Ícc<__>uƒXƒe[ƒ^ƒX‰æ–Ê‚ğ‚©‚Á‚±—Ç‚­‚µ‚æ‚¤v<__>W‚ß‚½Ì†‚Ì’†‚ÅA‚à‚µ‹C‚É“ü‚Á‚½‚à‚Ì‚ª‚ ‚ê‚ÎA<__>ƒZƒbƒg‚µ‚ÄƒXƒe[ƒ^ƒX‰æ–Ê‚ğ‚©‚Á‚±—Ç‚­‰‰o‚µ‚Ü‚µ‚å‚¤B<00>
+<TAG_007>The second purpose is...to make<__>your status screen look cool! When<__>collecting titles, you might pick<__>up one you like, so you can set<__>it on your status for a little flair!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>uÎR‚è—V‚Ñv‚Æ‚ÍA<__>ƒtƒB[ƒ‹ƒh‚É‚ ‚éÎ‚ğR‚Á‚ÄA<__>“Á’è‚ÌğŒ‚ğƒNƒŠƒA‚·‚é—V‚Ñ‚Å‚·B<__><00>
+<TAG_007>A "kicking game" is a game in<__>which you kick stones on the<__>field to clear specific conditions.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>Šî–{“I‚Èƒ‹[ƒ‹‚ğà–¾‚µ‚Ü‚·B<__>‚PFŠX‚ÌŠO‚É‚ ‚é“Á’è‚ÌÎ‚ğR‚é‚ÆA<__>@@ƒQ[ƒ€ƒXƒ^[ƒg‚É‚È‚è‚Ü‚·B<__>‚QFí“¬‚ÍAÎR‚è—V‚Ñ‚ÌƒNƒŠƒAğŒ‚É<__>@@‰e‹¿‚µ‚Ü‚¹‚ñB<__>‚RFŠX‚âƒ_ƒ“ƒWƒ‡ƒ“‚ğo“ü‚è‚·‚é‚ÆA<__>@@Î‚ÍŒ³‚ÌêŠ‚É–ß‚è‚Ü‚·B<__><00>
+<TAG_007><0E><__><0_0_0>Here are the basic rules.<__>1: Kicking a specific stone outside the city will start the game.<__>2: Combat does not affect the clearing condition of the stone kicking game.<__>3: When you go in and out of the city<__>or dungeon, the stone will return to its original place.<00>
 [ENDBLOCK]
 yBGM : no=<17>r<00>€ - vol=<17>r<04>€z<00>
 [ENDBLOCK]
