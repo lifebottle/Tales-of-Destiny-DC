@@ -12,7 +12,7 @@ import {
   DrawerCloseButton,
   DrawerFooter,
 } from "@chakra-ui/react";
-import { Icon, Link } from "@/components/index";
+import { Icon, Link, TOOL_LINKS } from "@/components/index";
 import { useRouter } from "next/router";
 export const LayoutContext = createContext();
 
@@ -57,20 +57,7 @@ const TopNav = () => {
 const NavDrawer = () => {
   const { isNavOpen, setNavOpen } = useContext(LayoutContext);
   const { pathname } = useRouter();
-  const links = [
-    {
-      href: "/hexToJpn",
-      title: "Hex to Japanese",
-    },
-    {
-      href: "/jpnToHex",
-      title: "Japanese to Hex",
-    },
-    {
-      href: "/engToHex",
-      title: "English to Hex",
-    },
-  ];
+
   return (
     <Drawer
       placement="right"
@@ -82,7 +69,7 @@ const NavDrawer = () => {
           <DrawerHeader borderBottomWidth="1px">Basic Drawer</DrawerHeader>
           <DrawerCloseButton />
           <DrawerBody p={0}>
-            {links?.map(({ title, href }) => {
+            {TOOL_LINKS?.map(({ title, href }) => {
               const isCurrent = pathname == href;
               return (
                 <Link
