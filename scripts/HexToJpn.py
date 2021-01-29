@@ -39,6 +39,7 @@ def HexToJpn(word):
             mapping[line[0:2]] = line[4]
 
     mapping["00"] = " "
+    mapping["01"] = "\n"
 
     Hex = list(word)
     outputText = []
