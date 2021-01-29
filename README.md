@@ -64,6 +64,11 @@ Janos
 13633_34 janos inn
 13643_26 janos inn same and with different dialogue than13633_34
 
+Janos Temple
+13657_63 - Inside Temple: Main room with broken pillars & Former Lens Hunter convo w/ Stahn & Rutee
+13658_85 - Inside Temple: 821-1037 Trap Room convo 1041-1049 Leon/Chaltier Short convo
+
+
  
 Leon's Side - 13736_65.rsce  
 
