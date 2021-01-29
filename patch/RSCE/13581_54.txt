@@ -288,7 +288,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>：Watch a Chat.<__><06>?<0_0_0>　<TAG_002><L2_ani>：Select a Chat to watch<__>[Chat Types]<__><06>?<0_0_0>　<TAG_002><N_Skit>：Navigational Chat<__><06>?<0_0_0>　　<TAG_002>A party member will tell you where to go.<__><06>?<0_0_0>　<TAG_002><F_Skit>：Free Chat<__><06>?<0_0_0>　　<TAG_002>Idle chit-chat among your party members.<06>?<0_0_0>　<TAG_002><R_Skit>：Rare Chat<__><06>?<0_0_0>　　<TAG_002>Will trigger after clearing a special condition.<00>
+<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>：Watch a Chat.<__><06>?<0_0_0>　<TAG_002><L2_ani>：Select a Chat to watch.<__>[Chat Types]<__><06>?<0_0_0>　<TAG_002><N_Skit>：Navigational Chat<__><06>?<0_0_0>　　<TAG_002>A party member will tell<__>you where to go.<__><06>?<0_0_0>　<TAG_002><F_Skit>：Free Chat<__><06>?<0_0_0>　　<TAG_002>Chit-chat among your party members.<06>?<0_0_0>　<TAG_002><R_Skit>：Rare Chat<__><06>?<0_0_0>　　<TAG_002>Will trigger after clearing<__>a special condition.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -320,7 +320,7 @@ You don't have to tell me that.<__>You just slice and stab, right?<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-If I was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with Swordian.<00>
+If I was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with a Swordian.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -328,11 +328,11 @@ First of all, I can use Crystal<__>Artes? In my case, it's fire based.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-It requires chanting time, but<__>is often more powerful than specialties.<00>
+It requires chanting time,<__>but is often more powerful<__>than specialties.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-And the performance of the<__>Swordian can be changed with the Swordian Device.<00>
+And the performance of the<__>Swordian can be changed with<__>the Swordian Device.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -352,7 +352,7 @@ Okayyy!<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-You're still not good enough. You<__>have to be aware of that and be diligent.<__><00>
+You're still not good enough. You<__>have to be aware of that<__>and be diligent.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
