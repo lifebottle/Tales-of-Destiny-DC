@@ -1,8 +1,10 @@
-export { default as MainLayout } from "./MainLayout";
+export { default as MainLayout, MainContext } from "./MainLayout";
 export { default as Icon } from "./Icon";
 export { default as Link } from "./Link";
 export { default as ConversionBox } from "./ConversionBox";
+export { default as HistoryItem } from "./HistoryItem";
 export { default as fetchRoute } from "./fetchRoute";
+export { default as useClipboard } from "./useClipboard";
 export const TOOL_LINKS = [
   {
     icon: "home",

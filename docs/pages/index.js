@@ -1,4 +1,4 @@
-import { Grid, Link, Flex, Text } from "@chakra-ui/react";
+import { Grid, Link, Text } from "@chakra-ui/react";
 import { TOOL_LINKS, Icon } from "@/components/index";
 export default function Home() {
   return (
