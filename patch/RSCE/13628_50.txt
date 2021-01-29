@@ -276,7 +276,7 @@
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-That area is forbiden<00>
+That area is forbidden.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
@@ -284,39 +284,39 @@ Go back.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-This is Janos, a city between Seinegald and Phandaria.<00>
+This is Janos, a city between<__>Seinegald and Phandaria.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-It part of them but neither too.<00>
+It's part of them but neither too.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-This is Janos, a city between Seinegald and Phandaria.<00>
+This is Janos, a city between<__>Seinegald and Phandaria.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-There is a hunting mountain but it is forbidden to go there<__>.<00>
+There is a hunting mountain but <__>it is forbidden to go there<__>.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-The disturbance makes,<__>the city in chaos<00>
+The disturbance makes,<__>the city in chaos.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-The disturbance at Phandaria makes<__>the city in chaos<00>
+The disturbance at Phandaria makes<__>the city in chaos.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-My duty nearly up.<__>Very excited to back home <00>
+My duty nearly up. <__>Very excited to back home.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-My duty was extended.<__>It seems i can't back home now.<00>
+My duty was extended. <__>It seems i can't back home now.<00>
 [ENDBLOCK]
 Phandaria Soldier<00>
 [ENDBLOCK]
-I'm worry about my home.<__>Hope nothing bad happens.<00>
+I'm worry about my home. <__>Hope nothing bad happens.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
@@ -364,11 +364,11 @@ Isn't somewhere safe?<00>
 [ENDBLOCK]
 Granny<00>
 [ENDBLOCK]
-There's no choice.<__>I have go to Seinegald.<00>
+There's no choice. <__>I have go to Seinegald.<00>
 [ENDBLOCK]
 Granny<00>
 [ENDBLOCK]
-Have you been here to collect lens?<__>It's a lot of work to do.<00>
+Have you been here to collect lens? <__>It's a lot of work to do.<00>
 [ENDBLOCK]
 Granny<00>
 [ENDBLOCK]
@@ -384,7 +384,7 @@ I'm done at Phandaria.<__>I have go to Seinegald right now.<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
-I think i won't be going to Seinegald<__>for a whileÅB<00>
+I think i can't back to <__>Seinegald for a whileÅB<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
@@ -392,7 +392,7 @@ What the kings of each contry<__>doing right now?<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
-We also give all lens<__>that we have.<00>
+We also give all of our lens.<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
@@ -400,7 +400,7 @@ You must win!<00>
 [ENDBLOCK]
 Lady<00>
 [ENDBLOCK]
-Snow is very usual here,<__>why she's so exited?<00>
+Snow is very usual here,<__>why he's so exited?<00>
 [ENDBLOCK]
 Lady<00>
 [ENDBLOCK]
@@ -408,7 +408,7 @@ They don't even know what's going on.<00>
 [ENDBLOCK]
 Lady<00>
 [ENDBLOCK]
-What do you mean with "a new heaven and earth war"?<00>
+What do you mean with<__>"a new heaven and earth war"?<00>
 [ENDBLOCK]
 Lady<00>
 [ENDBLOCK]
@@ -432,7 +432,7 @@ If you want to go to Seinegald,<__>head toward the north gate.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-IÅfm going toward Phandaria,<__>so our journey together ends her.<00>
+IÅfm going toward Phandaria,<__>so our journey together ends here.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -444,11 +444,11 @@ Well, take care.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-<Stahn>that sword your holding is definitely something special.<00>
+<Stahn> your sword is <__>definitely something special.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-Your life changed in a huge way when you took up that sword.<00>
+Your life will changed <__>when you took up that sword.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -456,7 +456,7 @@ Y-yeahÅc<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-I hope you can become a person worthy to that sword<__>without forget your earnest feelings<00>
+I hope you can become a person worthy<__>to that sword without forget your earnest feelings<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -468,11 +468,11 @@ Hey, he called you <Woodrow> right?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Hey, donÅft be so rude to him.<__>You should apologize<__><00>
+Hey, donÅft be so rude to him. <__>You should apologize<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-If he can hear my voice, IÅfll apologize.<__>If he canÅft, it doesnÅft matter<__><00>
+If he hear my voice iÅfll apologize, <__> but if not it's ok then.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -484,7 +484,7 @@ Until next time.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-ÅcÅcWas it my imagination?<__>I sworn he realized i'm alive<__><00>
+ÅcÅcWas it my imagination?<__>I sworn he realized i'm alive.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -492,7 +492,7 @@ YouÅfre thinking too much.<__>Don't worry.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-Still, that man isn't ordinary guy.<__>He seems very dignified.<__><00> .
+Still, that man isn't ordinary guy. <__>He seems very dignified.<__><00> .
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
