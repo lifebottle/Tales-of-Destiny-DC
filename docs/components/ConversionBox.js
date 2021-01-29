@@ -5,10 +5,9 @@ import {
   Textarea,
   Flex,
   Button,
-  useClipboard,
   Tooltip,
 } from "@chakra-ui/react";
-import { Icon } from "components";
+import { Icon, useClipboard } from "components";
 
 const ConversionBox = ({
   value,
