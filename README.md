@@ -28,49 +28,48 @@ Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file. 
 
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  
 
- Draconis
-13558_61  Start of the game and escape pod room
-13559_88  main hall after the start of the game
-13569_44  draconis kitchen room 
-13564_89  draconis room before sword with screen 
-13563_32 hall outside sword oh! shoot moment
-13570_117 sword room draconis
-13563_32 hall outside sword room Rutee first convo
-13562_82 draconis helm room
-13558_61  escape pod room and Start of the game 
+## Draconis
+13558_61  Start of the game and escape pod room  
+13559_88  main hall after the start of the game  
+13569_44  draconis kitchen room  
+13564_89  draconis room before sword with screen  
+13563_32 hall outside sword oh! shoot moment  
+13570_117 sword room draconis  
+13563_32 hall outside sword room Rutee first convo  
+13562_82 draconis helm room  
+13558_61  escape pod room and Start of the game  
 
-Chelsea hut's
-13582_61 Chelsea bedroom after draconis
-13583_76  line 301- Main room chelsea house
-13586_76 line 201-221
-13581_54 line 287  outside cabin(text about skit)
-13592_106 line 285 first conversation with chelsea next to tree 
-13581_54 line 375-415 return of the party to front of chelsea house
-13583_76 line 301-433 Main room chelsea house
-13581_54 line419-439 outside cabin
+## Chelsea hut's
+13582_61 Chelsea bedroom after draconis  
+13583_76  line 301- Main room chelsea house  
+13586_76 line 201-221  
+13581_54 line 287  outside cabin(text about skit)  
+13592_106 line 285 first conversation with chelsea next to tree  
+13581_54 line 375-415 return of the party to front of chelsea house  
+13583_76 line 301-433 Main room chelsea house  
+13581_54 line419-439 outside cabin  
 
-Road to Jenos
-13603_53 line 369-437fandaria moutiain trail 
-13610_92 line 13-53 Lens merchant 
-13611_92 line 13-53 same line lens merchant
+## Road to Jenos
+13603_53 line 369-437fandaria moutiain trail  
+13610_92 line 13-53 Lens merchant  
+13611_92 line 13-53 same line lens merchant  
 
-Janos
-13630_27  lower town Janos 
-13627_84  line 277-1075 upper Town Janos huge dialogue file 
-13629_17  line 15-155 Janos shopping street
-13639_17  same text than 13629_17 Janos shopping street
-13634_35 house in janos with 2 npcs
-13644_35 same has 13634_35 house janos 2 npc
-13633_34 janos inn
-13643_26 janos inn same and with different dialogue than13633_34
+## Janos
+13630_27  lower town Janos  
+13627_84  line 277-1075 upper Town Janos huge dialogue file  
+13629_17  line 15-155 Janos shopping street  
+13639_17  same text than 13629_17 Janos shopping street  
+13634_35 house in janos with 2 npcs  
+13644_35 same has 13634_35 house janos 2 npc  
+13633_34 janos inn  
+13643_26 janos inn same and with different dialogue than 13633_34  
 
-Janos Temple
-13657_63 - Inside Temple: Main room with broken pillars & Former Lens Hunter convo w/ Stahn & Rutee
-13658_85 - Inside Temple: 821-1037 Trap Room convo 1041-1049 Leon/Chaltier Short convo
+## Janos Temple
+13657_63 - Inside Temple: Main room with broken pillars & Former Lens Hunter convo w/ Stahn & Rutee  
+13658_85 - Inside Temple: 821-1037 Trap Room convo 1041-1049 Leon/Chaltier Short convo  
 
-
- 
-Leon's Side - 13736_65.rsce  
+## Leon's Side
+13736_65.rsce  
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
 

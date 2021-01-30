@@ -288,7 +288,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>ÅFWatch a Chat.<__><06>?<0_0_0>Å@<TAG_002><L2_ani>ÅFSelect a Chat to watch<__>[Chat Types]<__><06>?<0_0_0>Å@<TAG_002><N_Skit>ÅFNavigational Chat<__><06>?<0_0_0>Å@Å@<TAG_002>A party member will tell you where to go.<__><06>?<0_0_0>Å@<TAG_002><F_Skit>ÅFFree Chat<__><06>?<0_0_0>Å@Å@<TAG_002>Idle chit-chat among your party members.<06>?<0_0_0>Å@<TAG_002><R_Skit>ÅFRare Chat<__><06>?<0_0_0>Å@Å@<TAG_002>Will trigger after clearing a special condition.<00>
+<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>ÅFWatch a Chat.<__><06>?<0_0_0>Å@<TAG_002><L2_ani>ÅFSelect a Chat to watch.<__>[Chat Types]<__><06>?<0_0_0>Å@<TAG_002><N_Skit>ÅFNavigational Chat<__><06>?<0_0_0>Å@Å@<TAG_002>A party member will tell<__>you where to go.<__><06>?<0_0_0>Å@<TAG_002><F_Skit>ÅFFree Chat<__><06>?<0_0_0>Å@Å@<TAG_002>Chit-chat among your party members.<__><06>?<0_0_0>Å@<TAG_002><R_Skit>ÅFRare Chat<__><06>?<0_0_0>Å@Å@<TAG_002>Will trigger after clearing<__>a special condition.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -320,7 +320,7 @@ You don't have to tell me that.<__>You just slice and stab, right?<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-If I was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with Swordian.<00>
+If I was an ordinary sword, that<__>would be the end of it, but <__>that's not the case with a Swordian.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -328,11 +328,11 @@ First of all, I can use Crystal<__>Artes? In my case, it's fire based.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-It requires chanting time, but<__>is often more powerful than specialties.<00>
+It requires chanting time,<__>but is often more powerful<__>than specialties.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-And the performance of the<__>Swordian can be changed with the Swordian Device.<00>
+And the performance of the<__>Swordian can be changed with<__>the Swordian Device.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -352,7 +352,7 @@ Okayyy!<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-You're still not good enough. You<__>have to be aware of that and be diligent.<__><00>
+You're still not good enough. You<__>have to be aware of that<__>and be diligent.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -372,7 +372,7 @@ Ah, yes. Let's go!<__><00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-Oh <Chelsea>,<__>I was getting impatient.<__><00>
+Oh <Chelsea>,I was<__>getting impatient.<__><00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -412,15 +412,15 @@ I have a father who I call my<__>family. But it's been a while<__>since I've hea
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-...What are we doing just standing around talking? Let's go inside.<00>
+...What are we doing just<__>standing around talking?<__>Let's go inside.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Is Janos far from here? I don't wanna get hungry on the way.<00>
+Is Janos far from here? I don't<__>wanna get hungry on the way.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-<Stahn> take this. It's a food sack<00>
+<Stahn> take this. It's a Food Sack<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
@@ -454,9 +454,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>´Ä<18>f<10>+D<1C><03>´!ãË(Ä<__>ÇÕÇ¢<__>Ç¢Ç¢Ç¶<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ…â¡ÇÌÇËÇ‹ÇµÇΩÅB<00>
+has joined the party.<00>
 [ENDBLOCK]
 íáä‘Ç…Ç»ÇËÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
@@ -472,9 +472,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ©ÇÁî≤ÇØÇ‹ÇµÇΩÅB<00>
+has left the party.<00>
 [ENDBLOCK]
 <18>eY¥<00>Ä<18>eY∏<00>Ä<00>
 [ENDBLOCK]
@@ -482,7 +482,7 @@ notice<00>
 [ENDBLOCK]
 èÃçÜÅF<turquoise><1A>,<0_0><05><00>qIï¢Ä<00>
 [ENDBLOCK]
-<18>eY?<00><TAG_014>ÇéÊìæÇµÇ‹ÇµÇΩÅB<__><00>
+<18>eY?<00><TAG_014>has been aquired.<__><00>
 [ENDBLOCK]
 <19>iIÿÄÇΩÇøÇÕ<00>
 [ENDBLOCK]
