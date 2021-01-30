@@ -83,7 +83,42 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 
 ## Leon's Side
-13736_65.rsce  
+## !(if you see duplicate file you need to do both file if you translate this part or else we will have to come back to fix it later)!
+
+## Darilsheid
+13736_65 Start of leon side with maria dialogue hugo manor dining room 
+
+13735_49 main hugo manor room with npc  (line 153+205)
+  13754_36 duplicate 13735_49 main hugo manor room with npc (line93-145)
+
+13737_40 Manor Upper bedroom (1+7+15)
+  13756_39 duplicate 13737_40 Manor Upper bedroom (1+7+15)
+
+13738_51 line 5 Manor Main bedroom 
+  13757_43 line 7 duplicate 13738_51 Manor Main bedroom
+
+13725_28 outside manor convo with maria line 297-361 npc line59-65+109+121
+
+13661_36 npc outside manor 
+13725_28 npc outside manor  
+13744_35 npc outside manor   
+  
+13721_77 Darishield shopping street 
+  13740_84 Darishield shopping street duplicate
+
+13730_63 Darishield bar 
+13749_84Darishield bar
+13727_35 Darishield bar annex
+13746_32 Darishield bar annex
+
+13723_64 Darilshield shopping street annex 22:55
+  13742_63  dupplicate 13723_64 Darilshield shopping street annex 22:55
+
+13734_31 Darilshield shopping street annex house 22:18
+  13753_32  dupplicate 13723_31 Darilshield shopping street annex house 22:18
+
+
+
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
 
