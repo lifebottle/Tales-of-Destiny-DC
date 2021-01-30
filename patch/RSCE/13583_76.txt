@@ -198,15 +198,15 @@ select<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>There is a splendid makeup table. However, <__>the essential cosmetics are quite few...<00>
+<TAG_005>There is a splendid makeup table.<__>However, the essential cosmetics<__>are quite few...<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚È‚ñ‚¶‚áA¬‘mB<__>‚í‚µ‚É‚Ü‚½‰ï‚¢‚É—ˆ‚½‚Ì‚©H<00>
+What is it, boy? why have you<__>come to see me again?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚Í‚ÄA‚Ç‚±‚©‚Å‰ï‚Á‚½‚©‚ÌH<00>
+Well, Where have we met?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -234,7 +234,7 @@ Take care of <Chelsea> for me,<__>will you?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-ƒWƒFƒmƒX‚Ü‚Å‹C‚ğ‚Â‚¯‚Ä‚¢‚­‚Ì‚¶‚á‚¼B<00>
+Be careful on your way to Janos.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -242,195 +242,195 @@ If you're tired, you can rest.<__>Yes<__>No<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚ ‚Ü‚è–³—‚·‚é‚Å‚È‚¢‚¼B<00>
+Don't be too hard on yourself.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-ƒWƒFƒmƒX‚Ü‚Å‚Í‰“‚¢B<__>‚ ‚Ü‚è–³—‚·‚é‚Å‚È‚¢‚¼B<00>
+It's a long way to Janos. Don't<__>be too hard on yourself.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚¾‚¢‚Ôî¨‚à—‚¿’…‚¢‚½‚Ì‚Å‚ÈB<__>‚±‚¤‚µ‚Ä‰Æ‚É–ß‚Á‚Ä‚«‚½‚Ì‚¶‚á‚æB<00>
+The situation has calmed down<__>a lot. This is how I was<__>able to come home.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-<Chelsea>‚Í‚Ü‚¾é‚¶‚áB<__>—Ç‚©‚Á‚½‚çŠç‚ğo‚µ‚Ä‚â‚Á‚Ä‚­‚ê‚ñ‚©B<00>
+<Chelsea> is still at the castle.<__>You can go and visit if you like.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-<Chelsea>‚Í‚Ü‚¾é‚¶‚áB<__>—Ç‚©‚Á‚½‚çŠç‚ğo‚µ‚Ä‚­‚ê‚ñ‚©B<00>
+<Chelsea> is still at the castle.<__>You can go and visit if you like.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚È‚ñ‚¶‚áA<Woodrow>B<__>‰¤‚Ìd–‚ğ“Š‚°o‚µ‚½‚Ì‚©H<00>
+Why <Woodrow>? Did you throw<__>away your right as king?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-ç’k‚¶‚á‚æA‚Ù‚Á‚Ù‚Á‚ÙB<__><Chelsea>‚ğ—Š‚Ş‚¼‚¢B<00>
+I'm only kidding, hahaha,<__>take care of <Chelsea>.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-<Chelsea>‚âA‹C‚ğ‚Â‚¯‚é‚Ì‚¶‚á‚¼B<00>
+<Chelsea>. Be carefull, my dear.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚İ‚È‚³‚ñA<Chelsea>‚Ì–A<__>‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·‚¶‚áB<00>
+Thank you all, for your<__>support of <Chelsea>.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚í‚µ‚É‚Å‚«‚é–‚ª‚ ‚ê‚ÎŒ¾‚Á‚Ä‚­‚êB<00>
+If there is anything I can do<__>to help, let me know.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚±‚ñ‚È˜V‚¢‚Ú‚ê‚Å‚àA<__>­‚µ‚Í–ğ‚É—§‚Ä‚é‚¶‚á‚ëB<00>
+Even an old man like me can<__>be of use sometimes.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-<Stahn>‚³‚ñI@‚Ü‚½‚¨–Ú‚É‚©‚©‚ê‚ÄA<__>Šğ‚µ‚¢‚Å‚·B<00>
+<Stahn>-kun!It's nice to<__>see you again.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-‚ ‚êA‚Ç‚¿‚ç—l‚Å‚·‚©H<00>
+Oh, who are you?<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-‚Ü‚½—V‚Ñ‚É‚«‚Ä‚­‚¾‚³‚¢‚ËB<00>
+Please come back and<__>visit us again.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚É¬‘mB<__>‚Ê‚µ‚Í‚±‚ê‚©‚ç‚Ç‚¤‚·‚é‹C‚¶‚áH<__><00>
+By the way, boy. What are you<__>going to do now?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ƒZƒCƒ“ƒKƒ‹ƒh‰¤‘‚Ìñ“sA<__>ƒ_ƒŠƒ‹ƒVƒFƒCƒh‚Ös‚±‚¤‚Æv‚Á‚Ä‚Ü‚·B<__><00>
+I want to go to the capital city<__>of Seinegald, Darilsheid.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚È‚ºƒ_ƒŠƒ‹ƒVƒFƒCƒh‚Ös‚«‚½‚¢‚Ì‚©‚ÈH<__><00>
+Why do you want to go to Darilsheid?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ƒZƒCƒ“ƒKƒ‹ƒh‚Ì•ºm‚É‚È‚è‚½‚¢‚ñ‚Å‚·B<__><00>
+I want to become a knight of Seinegald.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-•ºmccH<__><00>
+A knight...?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‰´‚Ì‚¶‚Á‚¿‚á‚ñ‚àAÌ‚Í•ºm‚¾‚Á‚½‚ñ‚Å‚·B<__><00>
+My gramps was a knight too,<__>a long time ago.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-q‹Ÿ‚Ì‚±‚ë‚©‚ç˜b‚ğ•·‚©‚³‚ê‚Ä‚ÄA<__>‚¢‚Â‚©‚Í‰´‚à‚Á‚Äv‚Á‚Ä‚½‚ñ‚ÅB<__><00>
+Growing up, I would always listen<__>to the stories he told me.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-¶‚Ê‚é‚¢l‚¦‚Å–±‚Ü‚é‚Ù‚ÇA<__>ŠÃ‚¢‚à‚Ì‚Å‚Í‚È‚¢‚¼B<__><00>
+You shouldn't base your goals on such lukewarm thoughts.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚â‚Á‚Ä‚İ‚È‚­‚¿‚á‚í‚©‚ç‚È‚¢‚¾‚ëB<__><00>
+Why shouldn't I go for it?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-’N‚ÉŒü‚©‚Á‚Ä˜b‚µ‚Æ‚é‚ñ‚¶‚áH<__><00>
+Who are you talking to?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ cc<__><00>
+Uh...<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚Ó‚Ó‚Ócc<__><00>
+Fufufu...<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚ A‚¢‚âB<Stahn>ŒN‚ÌdŠ¯‚ªA<__>‚¤‚Ü‚­‚¢‚­–‚ğ‹F‚Á‚Ä‚¢‚é‚æB<__><00>
+Ahem, sorry. <Stahn>-kun, I hope<__>you are successful in<__>enter the service.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·I<__><00>
+Thank you!<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-cccc<__><00>
+.....<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-ƒZƒCƒ“ƒKƒ‹ƒh‚Ös‚­‚È‚çA<__>ƒWƒFƒmƒX‚ÌŠX‚ğŒo—R‚·‚é•K—v‚ª‚ ‚é‚ÈB<__><00>
+If youfre heading toward Seinegald,<__>youfll need to pass through Janos.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-ƒWƒFƒmƒX‚Íƒtƒ@ƒ“ƒ_ƒŠƒA‚ÆA<__>ƒZƒCƒ“ƒKƒ‹ƒh‚ÌœƒÅ›‚É‚ ‚é‚ñ‚Å‚·‚æB<__><00>
+ Janos is a town along the border<__>of Phandalia and Seinegald.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-‚±‚±‚©‚ç‚¾‚ÆA“ì¼‚Ì•ûŠp‚É‚ ‚½‚è‚Ü‚·B<__><00>
+From here, you wanna<__>head southwest.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-„‚ªƒWƒFƒmƒX‚Ü‚ÅAˆê‚És‚±‚¤B<__>‚¿‚å‚¤‚ÇœƒÈ’‚Ö‹A‚ë‚¤‚Æv‚Á‚Ä‚¢‚½B<__><00>
+I'll come with you to Janos. I was<__>thinking about returning<__>to my hometown.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-‚¦‚¦[‚Á!?@<Woodrow>‚³‚ÜA<__>‚à‚¤s‚Á‚Ä‚µ‚Ü‚í‚ê‚é‚ñ‚Å‚·‚©H<__><00>
+Eehh?! <Woodrow>You're leaving already?<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‘ŠÈ‚ª“Í‚¢‚½‚à‚Ì‚Å‚ËB<__>ŒÄ‚Ñ–ß‚³‚ê‚½‚Æ‚ ‚Á‚Ä‚Íd•û‚ª‚È‚¢B<__><00>
+I received a letter calling me back<__>home. I canft ignore it.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-–{“–‚Í‚à‚¤­‚µA<__>æ¶‚Ì‹³‚¦‚ğ¿‚¢‚½‚©‚Á‚½‚Ì‚¾‚ªB<__><00>
+Even though I wanted to study<__>under Master Alba a little longer.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚¢‚Â‚Ü‚Å‚»‚¤‚â‚Á‚ÄA<__>ƒtƒ‰ƒtƒ‰‚µ‚Ä‚¨‚é‹C‚¶‚áB<__><00>
+How long are you going<__>to be so indecisive?<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚³‚Á‚³‚ÆŠoŒå‚ğŒˆ‚ß‚ÄA<__>e•ƒ‚ÌŒã‚ğŒp‚ª‚ñ‚©B<__><00>
+Hurry up and make a decision.<__>Arenft you going to succeed<__>your father?<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚Ü‚Á‚½‚­Aæ¶‚É‚Í‚©‚È‚¢‚Ü‚¹‚ñB<__><00>
+Jeez, I could never live up to<__>your expectations, Master.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-‚»‚ê‚Å‚Í€”õ‚ª‚Å‚«Ÿ‘æA<__>o”­‚µ‚æ‚¤‚©B<Stahn>ŒNB<__><00>
+Anyway, wefll set out after we've<__>finished our preparations, <Stahn>-kun.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¦‚¦B<__><00>
+Sure.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-<Chelsea>Bæ¶‚ÌŒ¾‚¤–‚ğA<__>‚æ‚­•·‚­‚ñ‚¾‚æB<__><00>
+<Chelsea>. Listen to what<__>Master Alba says.<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-<Woodrow>‚³‚ÜB‚«‚Á‚Æ‚Ü‚½A<__>‚±‚±‚Ö‚¨‰z‚µ‚­‚¾‚³‚¢‚ËB<__><00>
+<Woodrow> please, make sure<__>you come back.<__><00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-<Chelsea>‚Íˆê“úçH‚Ìv‚¢‚ÅA<__>‚¨‘Ò‚¿\‚µã‚°‚Ä‚¨‚è‚Ü‚·B<__><00>
+Each moment will seem like a<__>thousand years while Ifm waiting<__>for your return!<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¢‚¿‚¶‚ÂccH<__><00>
+That doesn't add up...<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-‰ä‚Í«‘‚Å‚Í‚È‚¢‚Ì‚¾‚ª‚ÈB<__>cc‘Ò‚¿‰“‚µ‚¢A‚ÌˆÓ–¡‚¾B<__><00>
+I am not a dictionary...But it just<__>means that shefll be eagerly<__>awaiting him.<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
-‚Å‚Íà’ÆD‚Å‚ÌA¬‘mB<__><00>
+Well then, take care, boy.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ A‚Í‚¢B‚Ó‚½‚è‚Æ‚à‚¨à’ÆD‚ÅB<__>‚²‰¶‚Í–Y‚ê‚Ü‚¹‚ñI<__><00>
+Oh, of course. We'll be fine.<__>I won't forget your kindness!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -438,9 +438,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><1C><TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013c><1C><TAG_014><00>
 [ENDBLOCK]
-ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
+has joined the party.<00>
 [ENDBLOCK]
 ’‡ŠÔ‚É‚È‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -456,9 +456,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><1C><TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013c><1C><TAG_014><00>
 [ENDBLOCK]
-ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
+has left the party.<00>
 [ENDBLOCK]
 <18>eY<0C><00>€<18>eY<10><00>€<00>
 [ENDBLOCK]
