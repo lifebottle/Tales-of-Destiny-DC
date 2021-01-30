@@ -288,7 +288,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>：Watch a Chat.<__><06>?<0_0_0>　<TAG_002><L2_ani>：Select a Chat to watch.<__>[Chat Types]<__><06>?<0_0_0>　<TAG_002><N_Skit>：Navigational Chat<__><06>?<0_0_0>　　<TAG_002>A party member will tell<__>you where to go.<__><06>?<0_0_0>　<TAG_002><F_Skit>：Free Chat<__><06>?<0_0_0>　　<TAG_002>Chit-chat among your party members.<__><06>?<0_0_0>　<TAG_002><R_Skit>：Rare Chat<__><06>?<0_0_0>　　<TAG_002>Will trigger after clearing<__>a special condition.<00>
+<TAG_007><0E><__><0_0_0>[Button Usage]<__><Select_ani>：Watch a Chat.<__><06>?<0_0_0>　<TAG_002><L2_ani>：Select a Chat to watch.<__>[Chat Types]<__><06>?<0_0_0>　<TAG_002><N_Skit>：Navigational Chat<__><06>?<0_0_0>　　<TAG_002>Destination revealed by party member.<__><06>?<0_0_0>　<TAG_002><F_Skit>：Free Chat<__><06>?<0_0_0>　　<TAG_002>Chit-chat among your party members.<__><06>?<0_0_0>　<TAG_002><R_Skit>：Rare Chat<__><06>?<0_0_0>　　<TAG_002>Triggered once condition is met.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
