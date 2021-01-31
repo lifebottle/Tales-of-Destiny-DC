@@ -1,92 +1,92 @@
-E½E½SafePac
+ SafePac
 [ENDBLOCK]
 
 [ENDBLOCK]
 k Level 1 Get<__><00>
 [ENDBLOCK]
-E½E½SafePack Level 2 Get<__><00>
+ SafePack Level 2 Get<__><00>
 [ENDBLOCK]
-E½E½SafePack Level 3 Get<__><00>
+ SafePack Level 3 Get<__><00>
 [ENDBLOCK]
-E½E½SafePack Level 4 Get<__><00>
+ SafePack Level 4 Get<__><00>
 [ENDBLOCK]
-E½E½SafePack not buy<__><00>
+ SafePack not buy<__><00>
 [ENDBLOCK]
-<TAG_005>E½E½E½×‚Ä‚ï¿½E½E½cE½AE½E½E½×‚Ä‚Ì•xE½AE½E½E½×‚Ä‚Ìï¿½E½E½E½E½<__>E½E½É‚ï¿½E½E½Ì‚Í‰ï¿½E½Ì‚Í‚ï¿½E½E½E½E½E½E½E½cE½c<00>
+<TAG_005>‚·‚×‚Ä‚Ìé‹úcA‚·‚×‚Ä‚Ì•xA‚·‚×‚Ä‚ÌŸ—˜‚ð<__>Žè‚É‚·‚é‚Ì‚Í‰´‚Ì‚Í‚¸‚¾‚Á‚½cc<00>
 [ENDBLOCK]
-<TAG_005>E½E½E½E½E½E½E½E½E½E½ÌAE½E½E½E½ÍˆØ•|E½E½E½E½E½E½E½cE½c<00>
+<TAG_005>Ž©‚ç‚ðŽç‚é‚à‚ÌA‚»‚ê‚ÍˆØ•|‚¾‚¯‚¾cc<00>
 [ENDBLOCK]
-<TAG_005>E½E½E½E½E½E½Ë‚ï¿½E½cE½cE½E½E½E½E½~E½E½E½E½Ì‚ÍuE½Å‹ï¿½E½vE½E½E½E½E½E½E½cE½c<00>
+<TAG_005>‚­‚¾‚ç‚Ë‚¥cc‰´‚ª—~‚·‚é‚Ì‚ÍuÅ‹¥v‚¾‚¯‚¾cc<00>
 [ENDBLOCK]
-<TAG_005>E½ã‚«E½E½E½Ý‚ï¿½E½E½E½E½E½AE½E½E½E½E½Æ‚È‚ï¿½E½CE½tE½E½E½ÊcE½c<00>
+<TAG_005>Žã‚«‘¶Ý‚±‚»‚ªAˆ«‚¾‚Æ‚È‚º‹C•t‚©‚Êcc<00>
 [ENDBLOCK]
-<TAG_005>E½uE½E½E½`E½vE½È‚ÇAE½E½E½Ì’zE½E½E½E½E½rE½ÌŽRE½Å’mE½E½cE½c<00>
+<TAG_005>u³‹`v‚È‚ÇA‰´‚Ì’z‚¢‚½Žr‚ÌŽR‚Å’m‚êcc<00>
 [ENDBLOCK]
-<TAG_005>E½Ä‚ß‚ï¿½E½E½E½E½E½Íï¿½Î‚É‹ï¿½E½E½E½Ë‚ï¿½E½cE½cE½I<00>
+<TAG_005>‚Ä‚ß‚¦‚¾‚¯‚Íâ‘Î‚É‹–‚³‚Ë‚¦ccI<00>
 [ENDBLOCK]
-<TAG_005>E½E½E½E½AE½E½E½E½E½ÆŽï¿½E½E½E½dE½Ë‚æ‚¤E½Æ‚ï¿½E½A<__>E½ä‚ªE½E½E½lE½E½E½E½E½Íï¿½E½E½E½Ê‚ï¿½E½cE½c<00>
+<TAG_005>ŠôçAŠô–œ‚ÆŽž‚ðd‚Ë‚æ‚¤‚Æ‚àA<__>‰ä‚ª‰…šl‚¾‚¯‚ÍÁ‚¦‚Ê‚¼cc<00>
 [ENDBLOCK]
-<TAG_005><Dymlos>E½cE½cE½E½E½E½E½E½E½ME½lE½ÌÅŠï¿½E½Ì’nE½Æ‚È‚ï¿½Ì‚ï¿½E½I<00>
+<TAG_005><Dymlos>cc‚±‚±‚ª‹M—l‚ÌÅŠú‚Ì’n‚Æ‚È‚é‚Ì‚¾I<00>
 [ENDBLOCK]
-E½E½E½E½iE½ZE½Å‚ï¿½E½@param = <1D>v<00>E½<__><00>
+’¼åŠÝiŽZ‚Å‚·@param = <1D>v<00>€<__><00>
 [ENDBLOCK]
-E½E½E½Ý’lE½F<17>r<0C>E½, E½Å‘ï¿½lE½F<17>r@<10>E½, E½E½E½ZE½F<17>r@<14>E½, <1D>v<00>E½<__><00>
+Œ»Ý’lF<17>r<0C>€, Å‘å’lF<17>r@<10>€, ‰ÁŽZF<17>r@<14>€, <1D>v<00>€<__><00>
 [ENDBLOCK]
-E½vE½ZE½lE½F<1D>v<00>E½E½@E½Ú•WE½F<17>r@<18>E½<__><00>
+ŒvŽZ’lF<1D>v<00>€@–Ú•WF<17>r@<18>€<__><00>
 [ENDBLOCK]
-E½VE½E½E½E½E½lE½F<17>r<0C>E½E½@E½crE½E½E½E½E½F<1D>v<00>E½<__><00>
+V‚µ‚¢’lF<17>r<0C>€@åŠcrŠ„‡F<1D>v<00>€<__><00>
 [ENDBLOCK]
-E½^E½E½ÌÝ’uE½cE½cE½Ôï¿½E½F<17>f<10><0B>p<00>E½E½, E½fE½[E½^E½F<17>f<10><0B>p<04>E½E½, <17>f<10><0B>p<08>E½E½<__><00>
+èŽ^¦‚ÌÝ’ucc”Ô†F<17>f<10><0B>p<00>«€, ƒf[ƒ^F<17>f<10><0B>p<04>«€, <17>f<10><0B>p<08>«€<__><00>
 [ENDBLOCK]
-E½E½E½WE½F<1D>f<14><0F>t<00>E½E½, <1D>f<14><0F>t<04>E½E½, <1D>f<14><0F>t<08>E½E½, Rot:<17>f<14><0F>l<0C>E½E½, No:<17>fP<18><0B>p<04>E½E½<__><00>
+À•WF<1D>f<14><0F>t<00>«€, <1D>f<14><0F>t<04>«€, <1D>f<14><0F>t<08>«€, Rot:<17>f<14><0F>l<0C>«€, No:<17>fP<18><0B>p<04>«€<__><00>
 [ENDBLOCK]
-E½^E½E½AE½NE½VE½E½E½E½E½ÌŠJE½nE½@<17>f<10><0B>p<04>E½E½<__><00>
+èŽ^¦ƒAƒNƒVƒ‡ƒ“‚ÌŠJŽn@<17>f<10><0B>p<04>«€<__><00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<18>f<1C><00>E½E½E½E½^E½E½É‚ÍA<__>E½E½E½Ê‚ÈŒï¿½E½Ê‚ð”­Šï¿½E½E½E½E½E½E½Ì‚ï¿½E½E½E½E½Ü‚ï¿½E½B<__><00>
+<18>f<1C><00>€‚ÌèŽ^¦‚É‚ÍA<__>“Á•Ê‚ÈŒø‰Ê‚ð”­Šö‚·‚é‚à‚Ì‚ª‚ ‚è‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½Ì—Í‚Ì‰ñ•œ‚ï¿½HE½E½E½Ì•â‹‹E½E½E½E½E½Å‚È‚ï¿½E½A<__>E½E½E½Î‚É‘Ì—Í‚Ìï¿½E½Õ‚ï¿½HE½E½E½Ì‹ï¿½E½DE½È‚Ç‚ï¿½<__>E½E½E½Ê‚ï¿½E½E½E½Â‚ï¿½E½Ì‚ï¿½E½E½E½E½Ü‚ï¿½E½B<__><00>
+‘Ì—Í‚Ì‰ñ•œ‚âH—¿‚Ì•â‹‹‚¾‚¯‚Å‚È‚­A<__>”½‘Î‚É‘Ì—Í‚ÌÁ–Õ‚âH—¿‚Ì‹­’D‚È‚Ç‚Ì<__>Œø‰Ê‚ðŽ‚Â‚à‚Ì‚à‚ ‚è‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½E½E½E½E½FE½E½E½E½E½E½E½^E½E½ÍA<__>E½E½E½ÌŠKE½Å‚Í“ï¿½E½E½E½E½E½Ê‚ï¿½E½E½E½E½E½Ü‚ï¿½E½B<__>E½E½xE½AE½JE½E½E½Ä‚Ý‚ï¿½Æ—Ç‚ï¿½E½Å‚ï¿½E½å‚¤E½B<__><00>
+“¯‚¶F‚ð‚µ‚½èŽ^¦‚ÍA<__>‚»‚ÌŠK‚Å‚Í“¯‚¶Œø‰Ê‚ðŽ‚¿‚Ü‚·B<__>ˆê“xAŠJ‚¢‚Ä‚Ý‚é‚Æ—Ç‚¢‚Å‚µ‚å‚¤B<__><00>
 [ENDBLOCK]
-E½~E½@ActExTBoxE½E½E½É–ï¿½E½E½E½È’lE½E½E½E½E½E½E½@<17>fP<10><07>f<10><0B>p<08>E½E½E½E½p<00>E½E½E½@E½~<__><00>
+~@ActExTBoxŽž‚É–³Œø‚È’l‚ª”­¶@<17>fP<10><07>f<10><0B>p<08>«‹•ßp<00>ª€@~<__><00>
 [ENDBLOCK]
-E½^E½E½FE½gE½oE½E½<__><00>
+èŽ^¦F‚g‚o‰ñ•œ<__><00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½Í‘Ì—Í‚ï¿½E½ñ•œ‚E½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚Í‘Ì—Í‚ð‰ñ•œ‚·‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-E½^E½E½FE½gE½oE½E½?Z<__><00>
+èŽ^¦F‚g‚oà‹?Z<__><00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½Í‘Ì—Í‚ï¿½DE½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚Í‘Ì—Í‚ð’D‚¤‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½Í‚dE½wE½|E½CE½E½E½gE½ð‘‚â‚·E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚Í‚d‚wƒ|ƒCƒ“ƒg‚ð‘‚â‚·‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-E½^E½E½FE½dE½oE½E½E½E½E½@E½lE½F<17>r<04>E½E½@E½E½E½ÝF<17>r<0C>E½<__><00>
+èŽ^¦F‚d‚o‘‰Á@’lF<17>r<04>€@Œ»ÝF<17>r<0C>€<__><00>
 [ENDBLOCK]
-E½^E½E½FE½dE½oE½E½?ZE½@E½lE½F<17>r<04>E½E½@E½E½E½ÝF<17>r<0C>E½<__><00>
+èŽ^¦F‚d‚oà‹?Z@’lF<17>r<04>€@Œ»ÝF<17>r<0C>€<__><00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½Í‚dE½wE½|E½CE½E½E½gE½E½E½E½E½ç‚·E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚Í‚d‚wƒ|ƒCƒ“ƒg‚ðŒ¸‚ç‚·‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-E½^E½E½FE½tE½[E½hE½E½E½E½E½@E½E½E½ÝF<17>r<04>E½<__><00>
+èŽ^¦Fƒt[ƒh‘‰Á@Œ»ÝF<17>r<04>€<__><00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½ÍHE½E½E½E½â‹‹ï¿½E½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚ÍH—¿‚ð•â‹‹‚·‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-E½^E½E½FE½tE½[E½hE½E½?ZE½@E½E½E½ÝF<17>r<04>E½<__><00>
+èŽ^¦Fƒt[ƒhà‹?Z@Œ»ÝF<17>r<04>€<__><00>
 [ENDBLOCK]
-E½E½E½ÌFE½E½E½^E½E½ÍHE½E½E½E½DE½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+‚±‚ÌF‚ÌèŽ^¦‚ÍH—¿‚ð’D‚¤‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-<18>fP<10><00>This is the first time<__>I've meet you.<__><00>
+<18>fP<10><00>€This is the first time<__>i meet you.<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -94,7 +94,7 @@ I will help you<__>in your traveling.<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-Of course, I will need to charge a fee.<__>I'll charge you using EX points.<00>
+Of course, it will take some charge.<__>I'll charge you using EX pont.<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -108,13 +108,13 @@ Cyglorg <00>
 [ENDBLOCK]
 Let's do our deal then.<__><00>
 [ENDBLOCK]
-E½GE½E½E½[E½^E½CE½v<00>
+ƒGƒ‰[ƒ^ƒCƒv<00>
 [ENDBLOCK]
-E½E½E½gE½oE½ñ•œŠJE½n<__><00>
+š‚g‚o‰ñ•œŠJŽn<__><00>
 [ENDBLOCK]
-E½E½E½Ý‚dE½oE½F<17>r@<10>E½E½iE½E½E½E½dE½oE½F<17>r<0C>E½E½j<__><00>
+Œ»Ý‚d‚oF<17>r@<10>€iÁ”ï‚d‚oF<17>r<0C>€j<__><00>
 [ENDBLOCK]
-E½E½E½ÝŠKE½wE½F<17>r@<1C>E½<__><00>
+Œ»ÝŠK‘wF<17>r@<1C>€<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -122,11 +122,11 @@ I can also restore your <__>health to full.<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-And the price is<__>EX points<17>r<0C>E½I'll take it<__>Wonderful isn't it?<00>
+And the price is<__>EX points<17>r<0C>€I'll take it<__>Wonderful isn't it?<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>Remaining EX pointsE½@<17>r@<10>E½<__>Please<__>No, thanks<__><00>
+<TAG_007>Remaining EX points@<17>r@<10>€<__>Please<__>No, thanks<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -152,17 +152,17 @@ Cyglorg <00>
 [ENDBLOCK]
 We hope to see you again soon.<00>
 [ENDBLOCK]
-E½E½E½gE½oE½ñ•œIE½E½<__><00>
+š‚g‚o‰ñ•œI—¹<__><00>
 [ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½E½E½dE½oE½JE½n<__><00>
+šƒAƒCƒeƒ€¨‚d‚oŠJŽn<__><00>
 [ENDBLOCK]
-<1A>r@<14>E½<17>r@$E½E½Â‚ï¿½ã‰¿E½E½<17>r@<1C>E½E½E½E½á‚¦E½Ü‚ï¿½<__><00>
+<1A>r@<14>€<17>r@$€ŒÂ‚ð‘ã‰¿‚É<17>r@<1C>€‚ª–á‚¦‚Ü‚·<__><00>
 [ENDBLOCK]
-E½E½E½Ý‘ÎÛƒAE½CE½eE½E½E½E½<17>r@ E½E½ÂŽï¿½E½E½E½Ä‚ï¿½E½Ü‚ï¿½<__><00>
+Œ»Ý‘ÎÛƒAƒCƒeƒ€‚Í<17>r@ €ŒÂŽ‚Á‚Ä‚¢‚Ü‚·<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-<TAG_007>You have<1A>r@<14>E½<17>r@$E½E½Â‚ï¿½E½A<__>You can get it with EX<00>
+<TAG_007>You have<1A>r@<14>€<17>r@$€ŒÂ‚ðA<__>You can get it with EX<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -170,7 +170,7 @@ How can I help you?<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½ÎÛ@<1A>r@<14>E½E½@<17>r@$E½E½Â@E½iE½E½E½E½<17>r@<14> $<02><15>@E½E½Âj<__>E½E½E½E½<__>E½E½E½Ü‚È‚ï¿½<__><00>
+‘ÎÛ@<1A>r@<14>€@<17>r@$€ŒÂ@iŒ»Ý<17>r@<14> $<02><15>@€ŒÂj<__>—Š‚Þ<__>—Š‚Ü‚È‚¢<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -182,11 +182,11 @@ We hope to see you again soon.<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚ÍA<1A>r@<14>E½<17>r@$E½E½Â‚ð’¸‚ï¿½E½Ü‚ï¿½E½B<00>
+‚»‚ê‚Å‚ÍA<1A>r@<14>€<17>r@$€ŒÂ‚ð’¸‚«‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½<17>r@<1C>E½E½æ“¾E½E½E½Ü‚ï¿½E½E½E½B<00>
+‚d‚wƒ|ƒCƒ“ƒg‚ð<17>r@<1C>€Žæ“¾‚µ‚Ü‚µ‚½B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -196,45 +196,45 @@ Cyglorg <00>
 [ENDBLOCK]
 We hope to see you again soon.<00>
 [ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½E½E½dE½oE½IE½E½<__><00>
+šƒAƒCƒeƒ€¨‚d‚oI—¹<__><00>
 [ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½æ“¾E½JE½n<__><00>
+šƒAƒCƒeƒ€Žæ“¾ŠJŽn<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½ME½E½E½E½<1A>r@<14>E½E½E½<__>E½E½E½E½E½ã‚°E½Ü‚ï¿½E½å‚¤E½B<00>
+‹M•û‚É<1A>r@<14>€‚ð<__>·‚µã‚°‚Ü‚µ‚å‚¤B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A>r@<14>E½E½E½<17>r<0C>E½E½ÂA<__>E½á‚¢E½Ü‚ï¿½E½E½E½B<00>
+<1A>r@<14>€‚ð<17>r<0C>€ŒÂA<__>–á‚¢‚Ü‚µ‚½B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚ÍAE½Ü‚ï¿½E½Ì‹@E½E½É‚ï¿½E½Ú‚É‚ï¿½E½E½E½E½Ü‚ï¿½E½å‚¤E½B<00>
+‚»‚ê‚Å‚ÍA‚Ü‚½‚Ì‹@‰ï‚É‚¨–Ú‚É‚©‚©‚è‚Ü‚µ‚å‚¤B<00>
 [ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½æ“¾E½IE½E½<__><00>
+šƒAƒCƒeƒ€Žæ“¾I—¹<__><00>
 [ENDBLOCK]
-E½E½E½dE½oE½E½E½AE½CE½eE½E½E½JE½n<__><00>
+š‚d‚o¨ƒAƒCƒeƒ€ŠJŽn<__><00>
 [ENDBLOCK]
-<1A>r@<14>E½<17>r<0C>E½E½Â‚ï¿½E½á‚¦E½Ü‚ï¿½E½iE½AE½CE½eE½E½E½E½E½[E½g<17>r@<18>E½E½j<__><00>
+<1A>r@<14>€<17>r<0C>€ŒÂ‚ª–á‚¦‚Ü‚·iƒAƒCƒeƒ€ƒŒ[ƒg<17>r@<18>€j<__><00>
 [ENDBLOCK]
-E½E½E½E½EP<17>r@ E½E½AE½E½?ZEP<17>r@<1C>E½<__><00>
-[ENDBLOCK]
-Cyglorg <00>
-[ENDBLOCK]
-E½ME½E½E½E½E½E½E½E½E½Ä‚ï¿½E½E½dE½wE½|E½CE½E½E½g<17>r@<1C>E½E½E½<__><1A>r@<14>E½<17>r<0C>E½E½Â‚ÆŒï¿½E½E½E½E½E½Äï¿½E½E½E½ã‚°E½E½E½Ü‚ï¿½E½B<__><00>
+Œ»ÝEP<17>r@ €Aà‹?ZEP<17>r@<1C>€<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½E½E½E½E½E½E½Ü‚ï¿½E½å‚¤E½H<00>
+‹M•û‚ªŽ‚Á‚Ä‚¢‚é‚d‚wƒ|ƒCƒ“ƒg<17>r@<1C>€‚ð<__><1A>r@<14>€<17>r<0C>€ŒÂ‚ÆŒðŠ·‚µ‚Ä·‚µã‚°‚ç‚ê‚Ü‚·B<__><00>
+[ENDBLOCK]
+Cyglorg <00>
+[ENDBLOCK]
+‚¢‚©‚ª‚¢‚½‚µ‚Ü‚µ‚å‚¤H<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½cE½E½dE½wE½|E½CE½E½E½gE½@E½@<17>r@ E½<__>E½E½E½E½<__>E½E½E½Ü‚È‚ï¿½<__><00>
+Žc‚è‚d‚wƒ|ƒCƒ“ƒg@@<17>r@ €<__>—Š‚Þ<__>—Š‚Ü‚È‚¢<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½cE½OE½È‚ï¿½E½E½AE½ã‰¿E½E½E½sE½E½E½E½E½Ä‚ï¿½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+Žc”O‚È‚ª‚çA‘ã‰¿‚ª•s‘«‚µ‚Ä‚¢‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -242,83 +242,83 @@ We hope to see you again soon.<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚ÍAE½dE½wE½|E½CE½E½E½gE½E½<17>r@<1C>E½E½E½E½E½E½Ü‚ï¿½E½B<00>
+‚»‚ê‚Å‚ÍA‚d‚wƒ|ƒCƒ“ƒg‚ð<17>r@<1C>€’¸‚«‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A>r@<14>E½E½E½<17>r<0C>E½E½ÂA<__>E½á‚¢E½Ü‚ï¿½E½E½E½B<00>
+<1A>r@<14>€‚ð<17>r<0C>€ŒÂA<__>–á‚¢‚Ü‚µ‚½B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½@E½EªE½E½E½E½Ü‚ï¿½E½E½E½E½A<__>E½Ü‚ï¿½E½E½E½E½E½pE½E½E½E½E½E½E½E½E½B<00>
+‹@‰ï‚ª‚ ‚è‚Ü‚µ‚½‚çA<__>‚Ü‚½‚²—˜—p‚­‚¾‚³‚¢B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
 We hope to see you again soon.<00>
 [ENDBLOCK]
-E½E½E½dE½oE½E½E½AE½CE½eE½E½E½IE½E½<__><00>
+š‚d‚o¨ƒAƒCƒeƒ€I—¹<__><00>
 [ENDBLOCK]
-E½E½<00>
+Ô<00>
 [ENDBLOCK]
-E½E½E½^E½E½E½E½JE½n<__><00>
+šèŽ^¦î•ñŠJŽn<__><00>
 [ENDBLOCK]
-<red>E½E½<00>
+<red>Ô<00>
 [ENDBLOCK]
-<blue>E½E½<00>
+<blue>Â<00>
 [ENDBLOCK]
-<green>E½E½<00>
+<green>—Î<00>
 [ENDBLOCK]
-<red>E½E½<00>
+<red>Ô<00>
 [ENDBLOCK]
-E½Ì—Í‚ï¿½E½ñ•œ‚E½E½Ü‚ï¿½E½B<00>
+‘Ì—Í‚ð‰ñ•œ‚µ‚Ü‚·B<00>
 [ENDBLOCK]
-E½Ì—Í‚ï¿½DE½E½E½Ü‚ï¿½E½B<00>
+‘Ì—Í‚ð’D‚¢‚Ü‚·B<00>
 [ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½E½E½E½E½E½Ä‚ï¿½E½Ü‚ï¿½E½B<00>
+‚d‚wƒ|ƒCƒ“ƒg‚ª“ü‚Á‚Ä‚¢‚Ü‚·B<00>
 [ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½DE½E½E½Ü‚ï¿½E½B<00>
+‚d‚wƒ|ƒCƒ“ƒg‚ð’D‚¢‚Ü‚·B<00>
 [ENDBLOCK]
-E½HE½E½E½E½Ç‰ï¿½E½E½E½Ü‚ï¿½E½B<00>
+H—¿‚ð’Ç‰Á‚µ‚Ü‚·B<00>
 [ENDBLOCK]
-E½HE½E½E½E½DE½E½E½Ü‚ï¿½E½B<00>
+H—¿‚ð’D‚¢‚Ü‚·B<00>
 [ENDBLOCK]
-E½E½E½Ì’l<17>fP <07>r@<10>E½E½E½p<00>E½E½E½Í–ï¿½E½E½E½Ì’lE½Å‚ï¿½E½B<00>
-[ENDBLOCK]
-Cyglorg <00>
-[ENDBLOCK]
-E½E½E½ÌŠKE½E½E½^E½E½É‚Â‚ï¿½E½Ä‚Ìï¿½E½E½<__>E½E½E½E½E½Äï¿½E½E½E½ã‚°E½Ü‚ï¿½E½å‚¤E½B<00>
+‚±‚Ì’l<17>fP <07>r@<10>‹•ßp<00>ª€‚Í–³Œø‚Ì’l‚Å‚·B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½ÌŠKE½É‚ï¿½E½E½<18>fP<18><00>E½E½FE½E½E½^E½</color>E½ÍA<__><18>fP<1C><00>E½<00>
+‚±‚ÌŠK‚ÌèŽ^¦‚É‚Â‚¢‚Ä‚Ìî•ñ‚ð<__>‹³‚¦‚Ä·‚µã‚°‚Ü‚µ‚å‚¤B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚ÍAE½Ü‚ï¿½E½Ì‹@E½E½É‚ï¿½E½Ú‚É‚ï¿½E½E½E½E½Ü‚ï¿½E½å‚¤E½B<00>
-[ENDBLOCK]
-E½E½E½^E½E½E½E½IE½E½<__><00>
-[ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½E½E½tE½[E½hE½TE½bE½NE½JE½n<__><00>
-[ENDBLOCK]
-<1A>r@<1C>E½<17>r@<14>E½E½Â‚ï¿½E½KE½vE½Å‚ï¿½E½iE½E½E½Ýï¿½E½E½E½E½E½F<17>r@<18>E½E½Âj<__><00>
-[ENDBLOCK]
-E½Å’ï¿½Å‚ï¿½<17>r@$E½E½Â‚ï¿½E½KE½vE½Å‚ï¿½<__><00>
+‚±‚ÌŠK‚É‚ ‚é<18>fP<18><00>€F‚ÌèŽ^¦</color>‚ÍA<__><18>fP<1C><00>€<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½ME½E½E½E½E½E½E½E½E½Ä‚ï¿½E½E½<1A>r@<1C>E½<17>r@<14>E½E½Â‚ÅA<__>E½HE½E½E½E½E½E½E½Ä‚é‚¾E½E½E½E½[E½E½E½Äï¿½E½E½E½ã‚°E½E½E½Ü‚ï¿½E½B<00>
+‚»‚ê‚Å‚ÍA‚Ü‚½‚Ì‹@‰ï‚É‚¨–Ú‚É‚©‚©‚è‚Ü‚µ‚å‚¤B<00>
+[ENDBLOCK]
+šèŽ^¦î•ñI—¹<__><00>
+[ENDBLOCK]
+šƒAƒCƒeƒ€¨ƒt[ƒhƒTƒbƒNŠJŽn<__><00>
+[ENDBLOCK]
+<1A>r@<1C>€<17>r@<14>€ŒÂ‚ª•K—v‚Å‚·iŒ»ÝŠŽ”F<17>r@<18>€ŒÂj<__><00>
+[ENDBLOCK]
+Å’á‚Å‚à<17>r@$€ŒÂ‚ª•K—v‚Å‚·<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½E½E½E½E½E½E½Ü‚ï¿½E½å‚¤E½H<00>
+‹M•û‚ªŽ‚Á‚Ä‚¢‚é<1A>r@<1C>€<17>r@<14>€ŒÂ‚ÅA<__>H—¿‚ðŽ‚Ä‚é‚¾‚¯•â[‚µ‚Ä·‚µã‚°‚ç‚ê‚Ü‚·B<00>
+[ENDBLOCK]
+Cyglorg <00>
+[ENDBLOCK]
+‚¢‚©‚ª‚¢‚½‚µ‚Ü‚µ‚å‚¤H<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½ÎÛ@<1A>r@<1C>E½E½@<17>r@<14>E½E½Â@E½iE½E½E½E½<17>r@<1C> $<02><15>@E½E½Âj<__>E½E½E½E½<__>E½E½E½Ü‚È‚ï¿½<__><00>
+‘ÎÛ@<1A>r@<1C>€@<17>r@<14>€ŒÂ@iŒ»Ý<17>r@<1C> $<02><15>@€ŒÂj<__>—Š‚Þ<__>—Š‚Ü‚È‚¢<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½cE½OE½È‚ï¿½E½E½AE½ã‰¿E½E½E½sE½E½E½E½E½Ä‚ï¿½E½E½æ‚¤E½Å‚ï¿½E½B<00>
+Žc”O‚È‚ª‚çA‘ã‰¿‚ª•s‘«‚µ‚Ä‚¢‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
@@ -326,221 +326,221 @@ We hope to see you again soon.<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚ÍA<1A>r@<1C>E½<17>r@<14>E½E½Â‚ð’¸‚ï¿½E½Ü‚ï¿½E½B<00>
+‚»‚ê‚Å‚ÍA<1A>r@<1C>€<17>r@<14>€ŒÂ‚ð’¸‚«‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½tE½[E½hE½E½E½E½E½^E½E½E½É‚È‚ï¿½Ü‚ï¿½E½E½E½B<__><00>
+ƒt[ƒh‚ª–žƒ^ƒ“‚É‚È‚è‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½@E½EªE½E½E½E½Ü‚ï¿½E½E½E½E½A<__>E½Ü‚ï¿½E½E½E½E½E½pE½E½E½E½E½E½E½E½E½B<00>
+‹@‰ï‚ª‚ ‚è‚Ü‚µ‚½‚çA<__>‚Ü‚½‚²—˜—p‚­‚¾‚³‚¢B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
 We hope to see you again soon.<00>
 [ENDBLOCK]
-E½E½E½AE½CE½eE½E½E½E½E½tE½[E½hE½TE½bE½NE½IE½E½<__><00>
+šƒAƒCƒeƒ€¨ƒt[ƒhƒTƒbƒNI—¹<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½u<18>f<10><00>E½E½vE½ÌƒCE½xE½E½E½gE½E½<__>E½pE½Ó‚ï¿½E½E½Ä‚ï¿½E½Ü‚ï¿½E½E½B<00>
+u<18>f<10><00>€v‚ÌƒCƒxƒ“ƒg‚Í<__>—pˆÓ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB<00>
 [ENDBLOCK]
-<17>r<00>E½E½Í–ï¿½E½E½E½lE½Å‚ï¿½E½BE½AE½bE½vE½E½E½OE½~E½Ì”Ôï¿½E½E½pqE½E½E½Ü‚ï¿½E½B<__><00>
+<17>r<00>€‚Í–³Œø’l‚Å‚·BƒAƒbƒvƒ‹ƒOƒ~‚Ì”Ô†‚ðœpq‚µ‚Ü‚·B<__><00>
 [ENDBLOCK]
-<17>r<00>E½E½Í–ï¿½E½E½E½lE½Å‚ï¿½E½BE½AE½bE½vE½E½E½OE½~E½Ì”Ôï¿½E½E½pqE½E½E½Ü‚ï¿½E½B<__><00>
+<17>r<00>€‚Í–³Œø’l‚Å‚·BƒAƒbƒvƒ‹ƒOƒ~‚Ì”Ô†‚ðœpq‚µ‚Ü‚·B<__><00>
 [ENDBLOCK]
-<17>r<00>E½E½Í–ï¿½E½E½E½lE½Å‚ï¿½E½BE½E½E½[E½gE½E½E½OE½Æ‚ï¿½E½Ü‚ï¿½E½B<__><00>
+<17>r<00>€‚Í–³Œø’l‚Å‚·BƒŒ[ƒg‚ð‚O‚Æ‚µ‚Ü‚·B<__><00>
 [ENDBLOCK]
-<17>r<00>E½E½Í–ï¿½E½E½E½lE½Å‚ï¿½E½BE½Å’á”E½E½15E½Æ‚ï¿½E½Ü‚ï¿½E½B<__><00>
+<17>r<00>€‚Í–³Œø’l‚Å‚·BÅ’á”‚ð15‚Æ‚µ‚Ü‚·B<__><00>
 [ENDBLOCK]
-E½E½E½CE½â‚©E½ç•œï¿½AE½FE½pE½bE½hE½E½E½ÍŠJE½n<__><00>
+›‹Câ‚©‚ç•œ‹AFƒpƒbƒh“ü—ÍŠJŽn<__><00>
 [ENDBLOCK]
-E½E½E½E½E½ô‚©‚ç•œE½AE½FE½pE½bE½hE½E½E½ÍŠJE½n<__><00>
+›’µ–ô‚©‚ç•œ‹AFƒpƒbƒh“ü—ÍŠJŽn<__><00>
 [ENDBLOCK]
-E½E½E½]E½|E½E½E½ç•œï¿½AE½FE½pE½bE½hE½E½E½ÍŠJE½n<__><00>
+›“]“|‚©‚ç•œ‹AFƒpƒbƒh“ü—ÍŠJŽn<__><00>
 [ENDBLOCK]
-E½E½E½ÌŠKE½ÖiE½E½<00>
+ŽŸ‚ÌŠK‚Öi‚Þ<00>
 [ENDBLOCK]
-E½ZE½[E½uE½E½E½ÄŽï¿½E½ÌŠKE½ÖiE½Þi<17>r@<1C><08>E½u<00>E½E½|E½CE½E½E½gE½KE½vE½j<00>
+ƒZ[ƒu‚µ‚ÄŽŸ‚ÌŠK‚Öi‚Þi<17>r@<1C><08>Éu<00>€ƒ|ƒCƒ“ƒg•K—vj<00>
 [ENDBLOCK]
-Arcana RuinE½E½E½E½EE½o<00>
+Arcana Ruin‚©‚ç’Eo<00>
 [ENDBLOCK]
-E½LE½E½E½E½E½ZE½E½<00>
-[ENDBLOCK]
-select<00>
-[ENDBLOCK]
-<TAG_007>E½dE½wE½|E½CE½E½E½gE½@<17><08>E½t<00>E½<__><18>fP$<00>E½<__><18>fP(<00>E½<__><18>fP,<00>E½<__><18>fP0<00>E½<__><00>
+ƒLƒƒƒ“ƒZƒ‹<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>E½{E½E½E½É‚ï¿½EµE½E½E½Å‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+<TAG_007>‚d‚wƒ|ƒCƒ“ƒg@<17><08>–t<00>€<__><18>fP$<00>€<__><18>fP(<00>€<__><18>fP,<00>€<__><18>fP0<00>€<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>E½{E½E½E½É‚ï¿½EµE½E½E½Å‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+<TAG_007>–{“–‚É‚æ‚ë‚µ‚¢‚Å‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>E½{E½E½E½É‚ï¿½EµE½E½E½Å‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+<TAG_007>–{“–‚É‚æ‚ë‚µ‚¢‚Å‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
+[ENDBLOCK]
+select<00>
+[ENDBLOCK]
+<TAG_007>–{“–‚É‚æ‚ë‚µ‚¢‚Å‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½E½sE½E½E½E½E½Ä‚ï¿½E½Ü‚ï¿½E½B<00>
+‚d‚wƒ|ƒCƒ“ƒg‚ª•s‘«‚µ‚Ä‚¢‚Ü‚·B<00>
 [ENDBLOCK]
-E½E½IE½E½E½E½ÌŠï¿½E½èžï¿½ÝÝ’ï¿½<__><00>
+íI—¹Œã‚ÌŠ„‚èž‚ÝÝ’è<__><00>
 [ENDBLOCK]
-E½NE½E½E½AE½^E½CE½E½E½FE½tE½E½E½[E½E½E½E½<17>r<04>E½<__><00>
+ƒNƒŠƒAƒ^ƒCƒ€FƒtƒŒ[ƒ€<17>r<04>€<__><00>
 [ENDBLOCK]
-E½NE½E½E½AE½^E½CE½E½E½FE½E½E½PE½Ê@E½E½<17>r<04>E½<__><00>
+ƒNƒŠƒAƒ^ƒCƒ€F•ª’PˆÊ@<17>r<04>€<__><00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½{E½[E½iE½XE½F<17>r@<14>E½<__><00>
+ƒp[ƒeƒBƒ{[ƒiƒXF<17>r@<14>€<__><00>
 [ENDBLOCK]
-E½SE½ÅŠï¿½E½èžï¿½E½<__><00>
+‘S–ÅŠ„‚èž‚Ý<__><00>
 [ENDBLOCK]
-<TAG_005>E½E½Ò‚È‚Ç—vE½E½Ê‚ï¿½B<00>
+<TAG_005>ŽãŽÒ‚È‚Ç—v‚ç‚Ê‚íB<00>
 [ENDBLOCK]
-<17>r<00>E½E½E½EXE½_E½E½E½WE½E½E½E½E½Ôï¿½E½Å‚Í‚ï¿½E½E½Ü‚ï¿½E½E½B<__><00>
+<17>r<00>€‚ÍEXƒ_ƒ“ƒWƒ‡ƒ“”Ô†‚Å‚Í‚ ‚è‚Ü‚¹‚ñB<__><00>
 [ENDBLOCK]
-<17>r<04>E½E½ÍŠKE½wE½Ôï¿½E½Å‚Í‚ï¿½E½E½Ü‚ï¿½E½E½B<__><00>
+<17>r<04>€‚ÍŠK‘w”Ô†‚Å‚Í‚ ‚è‚Ü‚¹‚ñB<__><00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
-E½@<17>r<04>E½F<00>
+@<17>r<04>€F<00>
 [ENDBLOCK]
-E½HE½HE½HE½HE½HE½HE½HE½H<00>
+HHHHHHHH<00>
 [ENDBLOCK]
-E½}E½bE½vE½?uE½ÌÝ’ï¿½<__><00>
+ƒ}ƒbƒvé‹?u‚ÌÝ’è<__><00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
-EXE½|E½CE½E½E½g-><17>r<04>E½, E½E½E½Z-><17>r<00>E½<__><00>
+EXƒ|ƒCƒ“ƒg-><17>r<04>€, ‰ÁŽZ-><17>r<00>€<__><00>
 [ENDBLOCK]
-EXE½|E½CE½E½E½gE½â³ <17>qE?E½ -> <09>E½E½<__><00><__><00>
+EXƒ|ƒCƒ“ƒg•â³ <17>qE?€ -> <09>‹‰<__><00><__><00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½KE½wE½NE½E½E½AE½E½E½ÌƒpE½[E½eE½BE½[E½{E½[E½iE½XE½F<17>r<04>E½<__><00>
+›››ŠK‘wƒNƒŠƒAŽž‚Ìƒp[ƒeƒB[ƒ{[ƒiƒXF<17>r<04>€<__><00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½KE½wE½NE½E½E½AE½E½E½Ô‚ï¿½E½ç“¾E½E½E½E½|E½CE½E½E½gE½F<17>r<08>E½<__><00>
+›››ŠK‘wƒNƒŠƒAŽžŠÔ‚©‚ç“¾‚ç‚ê‚éƒ|ƒCƒ“ƒgF<17>r<08>€<__><00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½ÌlE½E½E½F<17> <14>#E½<__><00>
+ƒp[ƒeƒB‚Ìl”F<17> <14>#€<__><00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½KE½wE½NE½E½E½AE½E½E½ÌƒpE½[E½eE½BE½[E½{E½[E½iE½XE½F<17>r<00>E½<__><00>
+›››ŠK‘wƒNƒŠƒAŽž‚Ìƒp[ƒeƒB[ƒ{[ƒiƒXF<17>r<00>€<__><00>
 [ENDBLOCK]
-Party: Lilith <17>r<00>E½<__><00>
+Party: Lilith <17>r<00>€<__><00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½IE½E½<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-<TAG_007><06>?<0_0_0>E½E½E½ÌŠKE½ÌUE½E½E½E½E½E½E½oE½[E½E½E½E½E½è‚µE½Ä‚ï¿½E½E½E½E½E½E½E½B<__>E½IE½E½E½Å‚ï¿½E½éƒE¿½E½E½oE½[E½Í‚PE½lE½E½E½E½TE½lE½Ü‚Å‚Å‚ï¿½E½B<__><00>
-[ENDBLOCK]
-<19>!r<00>E½E½, <17>EV?<00>r<00>E½E½BE½<__><00>
-[ENDBLOCK]
-E½pE½[E½eE½BE½QE½E½E½lE½E½E½F<17>r@dE½E½AE½ú¯¬E½QE½E½E½F<17>r@hE½E½AE½TE½|E½[E½gE½F<17>r@8E½<__><00>
-[ENDBLOCK]
-party_list[0] = <17>j@E½E½E½iE½pE½[E½eE½BE½lE½E½E½j<__><00>
-[ENDBLOCK]
-party_list[<17>r<00>E½] = <17>FP?<00>r<00>E½E½BE½E½i<19>FP?<00>r<00>E½E½BE½E½j<__><00>
+ƒp[ƒeƒB‘I‘ð<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½pE½[E½eE½BE½E½Òï¿½E½E½E½Ü‚ï¿½E½E½E½B<00>
+<TAG_007><06>?<0_0_0>‚±‚ÌŠK‚ÌU—ªƒƒ“ƒo[‚ðŒˆ’è‚µ‚Ä‚­‚¾‚³‚¢B<__>‘I‘ð‚Å‚«‚éƒƒ“ƒo[‚Í‚Pl‚©‚ç‚Tl‚Ü‚Å‚Å‚·B<__><00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½IE½E½<00>
+<19>!r<00>‹€, <17>EV?<00>r<00>‹•B€<__><00>
 [ENDBLOCK]
-<grey1>E½E½E½E½<00>
+ƒp[ƒeƒBŽQ‰Ál”F<17>r@d€Aí“¬ŽQ‰ÁF<17>r@h€AƒTƒ|[ƒgF<17>r@8€<__><00>
 [ENDBLOCK]
-E½@<__><00>
+party_list[0] = <17>j@Š¿iƒp[ƒeƒBl”j<__><00>
 [ENDBLOCK]
-<00>
+party_list[<17>r<00>€] = <17>FP?<00>r<00>‹•B€i<19>FP?<00>r<00>‹•B€j<__><00>
 [ENDBLOCK]
-<19>!r<08>E½E½E½E½<17>EV?<00>r<08>E½E½BE½<__><00>
+notice<00>
 [ENDBLOCK]
-<TAG_007><06>?<0_0_0><18>fPL<00>E½<18>fPP<00>E½<18>fPT<00>E½<18>fPX<00>E½<18>fP\<00>E½<18>fP`<00>E½<18>fPd<00>E½<18>fPh<00>E½<18>fPl<00>E½<18>fPp<00>E½<18>fPt<00>E½<__><00>
+<TAG_007>ƒp[ƒeƒB‚ð•Ò¬‚µ‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-select<00>
+ƒp[ƒeƒB‘I‘ð<00>
 [ENDBLOCK]
-<TAG_007>E½E½E½ÌE¿½E½E½E½oE½[E½Å‚ï¿½E½E½E½Å‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+<grey1>Œˆ’è<00>
 [ENDBLOCK]
-</color>E½E½E½E½<00>
-[ENDBLOCK]
-<grey1>E½E½E½E½<00>
-[ENDBLOCK]
-<TAG_007><06>?<0_0_0><18>fPL<00>E½<18>fPP<00>E½<18>fPT<00>E½<18>fPX<00>E½<18>fP\<00>E½<18>fP`<00>E½<18>fPd<00>E½<18>fPh<00>E½<18>fPl<00>E½<18>fPp<00>E½<18>fPt<00>E½<__><00>
-[ENDBLOCK]
-<TAG_007><06>?<0_0_0><18>fPL<00>E½<18>fPP<00>E½<18>fPT<00>E½<18>fPX<00>E½<18>fP\<00>E½<18>fP`<00>E½<18>fPd<00>E½<18>fPh<00>E½<18>fPl<00>E½<18>fPp<00>E½<18>fPt<00>E½<__><00>
-[ENDBLOCK]
-E½TE½|E½[E½gE½LE½E½E½E½E½NE½^E½[E½IE½E½<00>
+@<__><00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
+<19>!r<08>‹€‚Í<17>EV?<00>r<08>‹•B€<__><00>
+[ENDBLOCK]
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+[ENDBLOCK]
+select<00>
+[ENDBLOCK]
+<TAG_007>‚±‚Ìƒƒ“ƒo[‚Å‚¢‚¢‚Å‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
+[ENDBLOCK]
+</color>Œˆ’è<00>
+[ENDBLOCK]
+<grey1>Œˆ’è<00>
+[ENDBLOCK]
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+[ENDBLOCK]
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+[ENDBLOCK]
+ƒTƒ|[ƒgƒLƒƒƒ‰ƒNƒ^[‘I‘ð<00>
+[ENDBLOCK]
 <00>
 [ENDBLOCK]
-E½Ý’è‚µE½È‚ï¿½<__><00>
+<00>
 [ENDBLOCK]
-<TAG_007><06>?<0_0_0><18>fP@<00>E½<18>fPD<00>E½<18>fPH<00>E½<18>fPL<00>E½<18>fPP<00>E½<18>fPT<00>E½E½pE½[E½eE½BE½IE½E½E½É–ß‚ï¿½<00>
+Ý’è‚µ‚È‚¢<__><00>
 [ENDBLOCK]
-E½Ý’ï¿½È‚ï¿½<00>
+<TAG_007><06>?<0_0_0><18>fP@<00>€<18>fPD<00>€<18>fPH<00>€<18>fPL<00>€<18>fPP<00>€<18>fPT<00>€ƒp[ƒeƒB‘I‘ð‚É–ß‚é<00>
 [ENDBLOCK]
-select<00>
-[ENDBLOCK]
-<TAG_007>E½pE½[E½eE½BE½IE½E½E½É–ß‚ï¿½Ü‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+Ý’è‚È‚µ<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007><18>fPX<00>E½E½Å‚ï¿½E½E½E½Å‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<__><00>
+<TAG_007>ƒp[ƒeƒB‘I‘ð‚É–ß‚è‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
 [ENDBLOCK]
-<17>r@<18>E½ = <19>r@<18>!E½E½<__><00>
+select<00>
 [ENDBLOCK]
-party_list[<17>j<__>E½] = <17>F<13><00>j<__>E½E½BE½ = <19>F<13><00>j<__>E½E½BE½<__><00>
+<TAG_007><18>fPX<00>€‚Å‚¢‚¢‚Å‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
 [ENDBLOCK]
-j = <17>j<02>E½E½@HPE½E½E½PE½É•ÏX<__><00>
+<17>r@<18>€ = <19>r@<18>!‹€<__><00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½E½E½Ä•Òï¿½E½E½E½Ü‚ï¿½<__><00>
+party_list[<17>j<__>€] = <17>F<13><00>j<__>‹•B€ = <19>F<13><00>j<__>‹•B€<__><00>
 [ENDBLOCK]
-E½XE½VE½lE½E½E½F<17>j<02>!E½E½E½AE½ú¯¬E½vE½E½E½F<17>iIE½E½<__><00>
+j = <17>j<02>€@HP‚ð‚P‚É•ÏX<__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Stahn><__><00>
+ƒp[ƒeƒB‚ðÄ•Ò¬‚µ‚Ü‚·<__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iF?E½E½E½jE½@<Stahn><__><00>
+XVl”F<17>j<02>!Œ€Aí“¬—vˆõF<17>iI‘€<__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Rutee><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Stahn><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½OE½E½jE½@<Rutee><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF?€‰ñj@<Stahn><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iFE½ÕŒï¿½E½E½jE½@E½@<Philia><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Rutee><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½E½E½E½jE½@<Philia><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iFO‰ñj@<Rutee><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iFE½E½E½E½E½E½jE½@E½@<Woodrow><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF‚ÕŒ€‰ñj@@<Philia><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½Å‰ï¿½jE½@<Woodrow><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iFƒ‰ñj@<Philia><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Lion><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF™Œ€‰ñj@@<Woodrow><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½E½E½E½jE½@<Lion><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iFˆÅ‰ñj@<Woodrow><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Mary><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Lion><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½]E½E½jE½@<Mary><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iFŠ¿‰ñj@<Lion><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Chelsea><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Mary><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½uE½E½jE½@<Chelsea><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF‰]‰ñj@<Mary><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Johnny><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Chelsea><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½E½E½E½jE½@<Johnny><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iFŠu‰ñj@<Chelsea><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iF?!E½E½E½E½jE½@E½@<Kongman><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Johnny><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iF?E½E½E½jE½@<Kongman><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF‹‚‰ñj@<Johnny><__><00>
 [ENDBLOCK]
-<yellow>E½QE½E½E½iE½cE½E½<17>iFE½!E½E½E½E½jE½@E½@<Lilith><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Kongman><__><00>
 [ENDBLOCK]
-<grey1>E½sE½QE½E½E½iE½cE½E½<17>iFE½E½E½E½jE½@<Lilith><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF?€‰ñj@<Kongman><__><00>
+[ENDBLOCK]
+<yellow>ŽQ‰ÁiŽc‚è<17>iF¡!Œ€‰ñj@@<Lilith><__><00>
+[ENDBLOCK]
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF¡€‰ñj@<Lilith><__><00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -590,35 +590,35 @@ j = <17>j<02>E½E½@HPE½E½E½PE½É•ÏX<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½sE½vE½cE½È—Í‚Å•ï¿½E½E½E½E½E½Ä‚ï¿½E½E½B<00>
+•sŽv‹c‚È—Í‚Å••‚¶‚ç‚ê‚Ä‚¢‚éB<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½IE½xE½E½E½E½E½é–§E½HE½E½Ö–ß‚ï¿½Ü‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<00>
+ƒIƒxƒƒ“”é–§Hê‚Ö–ß‚è‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½é–§E½ÌŽ{E½Ý‚ÖsE½E½E½Ü‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<00>
+”é–§‚ÌŽ{Ý‚Ös‚«‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½E½E½ZE½E½ÖsE½E½E½Ü‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<00>
+“¬‹Zê‚Ös‚«‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-E½\E½[E½fE½BE½AE½E½E½E½E½E½E½E½E½ÖsE½E½E½Ü‚ï¿½E½E½E½H<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<00>
+ƒ\[ƒfƒBƒAƒ“Œ¤‹†Š‚Ös‚«‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½Â‚Å‚ï¿½E½E½E½Ò‚ï¿½E½E½E½Ä‚ï¿½E½E½Ü‚ï¿½E½B<00>
+‚¢‚Â‚Å‚à‚¨‘Ò‚¿‚µ‚Ä‚¨‚è‚Ü‚·B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½cE½OE½È‚ï¿½E½E½E½E½zE½E½E½E½E½E½Ä‚ï¿½E½È‚ï¿½E½æ‚¤E½Å‚ï¿½E½B<__><00>
+Žc”O‚È‚ª‚ç‹àŠz‚ª‘«‚è‚Ä‚¢‚È‚¢‚æ‚¤‚Å‚·B<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½Å‚Í‚ï¿½E½E½E½E½E½E½E½E½ó‚¯Žï¿½è‰ºE½E½E½E½E½Ü‚ï¿½E½B<__><00>
+‚»‚ê‚Å‚Í‚±‚¿‚ç‚ð‚¨Žó‚¯Žæ‚è‰º‚³‚¢‚Ü‚¹B<__><00>
 [ENDBLOCK]
 ERROR<00>
 [ENDBLOCK]
@@ -626,23 +626,21 @@ Undefined Msg ID...<__><00>
 [ENDBLOCK]
 Undefined Msg ID<__><00>
 [ENDBLOCK]
-E½~<00>
+”~<00>
 [ENDBLOCK]
-E½~<00>
+”~<00>
 [ENDBLOCK]
-E½|<00>
+’|<00>
 [ENDBLOCK]
-E½|<00>
+’|<00>
 [ENDBLOCK]
-E½E½<00>
+¼<00>
 [ENDBLOCK]
-E½E½<00>
+¼<00>
 [ENDBLOCK]
-E½E½E½E½<00>
+–¢’è<00>
 [ENDBLOCK]
-E½E½E½E½<00>
-[ENDBLOCK]
- <00>
+–¢’è<00>
 [ENDBLOCK]
  <00>
 [ENDBLOCK]
@@ -650,45 +648,47 @@ Undefined Msg ID<__><00>
 [ENDBLOCK]
  <00>
 [ENDBLOCK]
-E½@<00>
+ <00>
 [ENDBLOCK]
-<18>fRPE½DP<14><00>E½E½E½E½<__><00>
+@<00>
 [ENDBLOCK]
-<18>fRPE½d<10><00>E½E½<18>fRPE½DP<14><00>E½E½<17>fRPE½p<04>E½E½E½KE½E½E½h<__><00>
+<18>fRP“DP<14><00>«€‚ <__><00>
+[ENDBLOCK]
+<18>fRP“d<10><00>«€<18>fRP“DP<14><00>«€<17>fRP“p<04>«€ƒKƒ‹ƒh<__><00>
 [ENDBLOCK]
 Text buffer<__><00>
 [ENDBLOCK]
-E½Ç‚ï¿½ð”ƒ‚E½E½Ü‚ï¿½E½E½E½H<__><00>
+‚Ç‚ê‚ð”ƒ‚¢‚Ü‚·‚©H<__><00>
 [ENDBLOCK]
-E½E½E½úž¸E½ÉiE½E½<__><00>
+”ƒ‚í‚¸‚Éi‚Þ<__><00>
 [ENDBLOCK]
-E½E½Í‚ï¿½sE½E½E½È‚ï¿½<__><00>
+‚â‚Í‚ès‚©‚È‚¢<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-<18>fT?<00>E½<18>FR?<00>E½<18>fT?<00>E½<18>fT?<00>E½<00>
+<18>fT?<00>€<18>FR?<00>€<18>fT?<00>€<18>fT?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½E½E½Ý‚Ìï¿½E½E½E½KE½E½E½h:<17>rB`E½E½KE½E½E½h<__><00>
+<TAG_007>Œ»Ý‚ÌŠŽƒKƒ‹ƒh:<17>rB`€ƒKƒ‹ƒh<__><00>
 [ENDBLOCK]
-Undefined select no<__>  (select no = <17>rBpE½)<__>  (not judge = <17>rB|E½)<__><00>
+Undefined select no<__>  (select no = <17>rBp€)<__>  (not judge = <17>rB|€)<__><00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
-E½Í‚ï¿½<__><00>
+‚Í‚¢<__><00>
 [ENDBLOCK]
-E½E½E½E½E½E½<__><00>
+‚¢‚¢‚¦<__><00>
 [ENDBLOCK]
-E½Í‚ï¿½E½iE½E½E½ÜwE½E½E½j<__><00>
-[ENDBLOCK]
-Cyglorg <00>
-[ENDBLOCK]
-E½{E½E½E½É‚ï¿½EµE½E½E½Å‚ï¿½E½E½E½H<__><18>f<18><00>E½<18>f<1C><00>E½<18>fP<10><00>E½<00>
+‚Í‚¢i•Ÿ‘Üw“üj<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½tE½tE½tE½cE½cE½E½E½yE½E½E½Ý‚ï¿½E½E½E½E½E½E½E½Ü‚ï¿½E½B<00>
+–{“–‚É‚æ‚ë‚µ‚¢‚Å‚·‚©H<__><18>f<18><00>€<18>f<1C><00>€<18>fP<10><00>€<00>
+[ENDBLOCK]
+Cyglorg <00>
+[ENDBLOCK]
+ƒtƒtƒtcc‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢‚Ü‚¹B<00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
@@ -698,115 +698,115 @@ Arcana Ruin<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-<18>f<10><00>E½E½Æ‚ÍAE½SE½PE½OE½KE½wE½Å\E½E½E½E½E½E½E½<__>E½IE½Î‚ê‚½E½Ò‚Ì‚Ý‚ï¿½E½AE½E½E½E½E½E½E½éŽ–ï¿½E½E½E½E½E½E½ê‚½E½Ìˆï¿½B<00>
+<18>f<10><00>€‚Æ‚ÍA‘S‚P‚OŠK‘w‚Å\¬‚³‚ê‚é<__>‘I‚Î‚ê‚½ŽÒ‚Ì‚Ý‚ªA—§‚¿“ü‚éŽ–‚ð‹–‚³‚ê‚½—ÌˆæB<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½ã‚«E½Ò‚Ì‘ï¿½E½Ý‚ï¿½E½A<18>f<10><00>E½E½E½<__>E½E½E½â‚µE½Ü‚ï¿½E½B<00>
+Žã‚«ŽÒ‚Ì‘¶Ý‚ðA<18>f<10><00>€‚Í<__>‹‘â‚µ‚Ü‚·B<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½E½Å‚Ìï¿½E½`E½E½<__>E½E½E½E½E½uE½E½E½E½E½vE½E½E½cE½c<00>
+‚±‚±‚Å‚Ì³‹`‚Í<__>‚½‚¾u‹­‚«vŽ–...<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½E½Ä‚ï¿½E½YE½E½È‚ï¿½E½BE½uE½E½E½E½E½vE½E½E½Ì‚Ý‚ï¿½E½A<__><18>f<10><00>E½E½Ì‘ï¿½E½ÝØ–ï¿½E½Å‚ï¿½E½E½E½E½E½Ü‚ï¿½E½B<00>
-[ENDBLOCK]
-Arcana Ruin<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-<18>f<10><00>E½E½ÌŠeE½KE½ÌUE½E½E½ÍA<__>E½Å‘ï¿½TE½lE½Ü‚Å‚ÌƒpE½[E½eE½BE½E½<__>E½E½E½E½Òï¿½E½E½E½ÄsE½E½E½Ü‚ï¿½E½B<__><00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½E½E½E½E½E½E½AE½LE½E½E½E½E½NE½^E½[E½É‚ï¿½E½A<__>E½UE½E½E½ÉŽQE½E½E½E½E½éŽ–ï¿½Ì‚Å‚ï¿½E½E½<__>E½ñ”‚E½E½E½E½Ü‚ï¿½E½Ä‚ï¿½E½Ü‚ï¿½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½È‚ï¿½E½AE½QE½lE½Èï¿½ÌƒpE½[E½eE½BE½E½gE½ñ‚¾ê‡E½A<__>E½TE½|E½[E½gE½LE½E½E½E½E½NE½^E½[E½E½E½E½E½ß‚éŽ–E½E½E½Â”\E½Å‚ï¿½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½E½E½E½E½E½E½AE½TE½lE½IE½E½E½E½E½E½E½êE¿½E½<__>E½E½E½E½E½IE½É‚PE½lE½E½E½TE½|E½[E½gE½LE½E½E½E½E½NE½^E½[E½E½<__>E½IE½Î‚È‚ï¿½E½Ä‚Í‚È‚ï¿½Ü‚ï¿½E½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½Ü‚ï¿½E½AE½UE½E½E½E½E½ÍƒTE½|E½[E½gE½LE½E½E½E½E½NE½^E½[E½ÆA<__>E½ú¯¬E½E½E½E½E½oE½[E½Æ‚Ì“ï¿½E½E½Ö‚ï¿½E½E½E½oE½E½E½È‚ï¿½E½_E½E½<__>E½E½E½Ó‚ï¿½E½Ä‰ï¿½E½E½E½E½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½SE½PE½OE½KE½wE½E½<18>f<10><00>E½E½ÅAE½Å‰ï¿½E½wE½Ü‚ï¿½<__>E½E½E½Ç‚è’…E½E½E½É‚ÍAE½æ‚­E½lE½E½E½ÄƒpE½[E½eE½BE½IE½E½E½E½<__>E½E½E½E½KE½vE½E½E½E½E½E½Ü‚ï¿½E½B<00>
+Œˆ‚µ‚Ä‚¨–Y‚ê‚È‚­Bu‹­‚«vŽ–‚Ì‚Ý‚ªA<__><18>f<10><00>€‚Ì‘¶ÝØ–¾‚Å‚²‚´‚¢‚Ü‚·B<00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<18>f<10><00>E½E½Ìí“¬E½Å‚ÍA<__>E½Ó‚ï¿½E½Â‚Ì“ï¿½E½E½Èï¿½E½ñ‚ª•tE½E½E½E½E½E½Ü‚ï¿½E½B<00>
+<18>f<10><00>€‚ÌŠeŠK‚ÌU—ª‚ÍA<__>Å‘å‚Tl‚Ü‚Å‚Ìƒp[ƒeƒB‚ð<__>Ž©‚ç•Ò¬‚µ‚Äs‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½Ð‚Æ‚Â–Ú‚ÍAE½SE½Ä‚ÌŠKE½wE½É‚ï¿½E½E½E½ÄAE½ú¯¬E½sE½\E½Ì’ï¿½E½Ô‚ï¿½<__>E½E½E½E½E½Ô‚Åí“¬E½E½E½IE½E½E½E½E½E½E½êE¿½AE½E½E½Ì’ï¿½E½Ô‚Í‹ï¿½E½E½E½IE½E½<__>E½pE½[E½eE½BE½AE½EE½gE½E½E½Ü‚ï¿½E½B<00>
+‚µ‚©‚µAƒLƒƒƒ‰ƒNƒ^[‚É‚æ‚èA<__>U—ª‚ÉŽQ‰Á‚·‚éŽ–‚Ì‚Å‚«‚é<__>‰ñ”‚ªŒˆ‚Ü‚Á‚Ä‚¢‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½Ó‚ï¿½E½Â–Ú‚ÍAE½pE½[E½eE½BE½E½E½SE½Å‚ï¿½E½E½E½êE¿½A<__>E½E½E½E½E½IE½ÉŒï¿½E½Ý‚ï¿½E½E½AE½E½E½ÌêŠE½Ö‚Æ–ß‚ï¿½E½E½Ü‚ï¿½E½B<__><00>
+‚È‚¨A‚QlˆÈã‚Ìƒp[ƒeƒB‚ð‘g‚ñ‚¾ê‡A<__>ƒTƒ|[ƒgƒLƒƒƒ‰ƒNƒ^[‚ðŒˆ‚ß‚éŽ–‚ª‰Â”\‚Å‚·B<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+‚½‚¾‚µA‚Tl‘I‘ð‚µ‚½ê‡‚Í<__>‹­§“I‚É‚Pl‚ðƒTƒ|[ƒgƒLƒƒƒ‰ƒNƒ^[‚É<__>‘I‚Î‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñB<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+‚Ü‚½AU—ª’†‚ÍƒTƒ|[ƒgƒLƒƒƒ‰ƒNƒ^[‚ÆA<__>í“¬ƒƒ“ƒo[‚Æ‚Ì“ü‚ê‘Ö‚¦‚ªo—ˆ‚È‚¢“_‚É<__>’ˆÓ‚µ‚Ä‰º‚³‚¢B<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+‘S‚P‚OŠK‘w‚Ì<18>f<10><00>€‚ÅAÅ‰º‘w‚Ü‚Å<__>‚½‚Ç‚è’…‚­‚É‚ÍA‚æ‚­l‚¦‚Äƒp[ƒeƒB‘I‘ð‚ð<__>‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B<00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<18>f<10><00>E½E½E½iE½Þ‚ÆAE½dE½wE½|E½CE½E½E½gE½E½<__>E½Ä‚Î‚ï¿½E½E½E½Ì‚ï¿½E½E½è‚·E½éŽ–ï¿½E½E½oE½E½E½Ü‚ï¿½E½B<00>
+<18>f<10><00>€‚Ìí“¬‚Å‚ÍA<__>‚Ó‚½‚Â‚Ì“ÁŽê‚È§–ñ‚ª•t‰Á‚³‚ê‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½<18>f<10><00>E½E½É“ï¿½E½E½E½Ä‚ï¿½E½E½A<__>E½oE½Ä‚ï¿½E½E½Ü‚Å‚ÌŠÔ‚ÉAE½lE½XE½Èï¿½E½E½E½E½E½NE½E½E½AE½E½E½éŽ–ï¿½E½<__>E½WE½ß‚éŽ–E½E½E½oE½E½E½Ü‚ï¿½E½B<00>
+‚Ð‚Æ‚Â–Ú‚ÍA‘S‚Ä‚ÌŠK‘w‚É‚¨‚¢‚ÄAí“¬•s”\‚Ì’‡ŠÔ‚ª<__>‚¢‚éó‘Ô‚Åí“¬‚ðI—¹‚µ‚½ê‡A‚»‚Ì’‡ŠÔ‚Í‹­§“I‚É<__>ƒp[ƒeƒBƒAƒEƒg‚µ‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½E½E½E½E½AE½SE½Å‚ï¿½E½E½Æ‚ï¿½E½ÌŽï¿½E½ÉWE½ß‚ï¿½E½dE½wE½|E½CE½E½E½gE½E½<__>E½[E½E½E½É‚È‚ï¿½E½Ä‚ï¿½E½Ü‚ï¿½E½AE½ÝÏ‚ï¿½E½E½Ü‚ï¿½E½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½E½E½WE½ß‚ï¿½E½E½E½êE¿½ÍAE½E½E½E½E½E½E½E½E½E½E½E½<__>E½E½E½E½E½É–ß‚ï¿½E½Ä‚ï¿½E½éŽ–ï¿½E½E½E½E½E½E½E½E½ß‚ï¿½E½Ü‚ï¿½E½B<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-E½E½E½E½E½Cyglorg E½É˜bE½E½E½|E½E½E½ÄA<__>E½uE½AE½CE½eE½E½E½E½E½E½E½E½E½E½E½E½vE½E½IE½E½E½E½E½E½ÆA<__>E½WE½ß‚ï¿½E½dE½wE½|E½CE½E½E½gE½ÆƒAE½CE½eE½E½E½ÌŒï¿½E½E½E½E½E½Â”\E½Å‚ï¿½E½B<00>
-[ENDBLOCK]
-Arcana RuinE½Æ‚ï¿½<__><00>
-[ENDBLOCK]
-E½pE½[E½eE½BE½Òï¿½E½É‚Â‚ï¿½E½E½<__><00>
-[ENDBLOCK]
-E½ú¯¬E½É‚Â‚ï¿½E½E½<__><00>
-[ENDBLOCK]
-E½dE½wE½|E½CE½E½E½gE½É‚Â‚ï¿½E½E½<__><00>
-[ENDBLOCK]
-E½E½ß‚ï¿½<__><00>
-[ENDBLOCK]
-Cyglorg <00>
-[ENDBLOCK]
-E½E½E½É‚Â‚ï¿½E½Ä‚ï¿½E½E½E½E½E½E½E½Ü‚ï¿½E½å‚¤E½E½E½H<__><18>FP(<00>E½<00>
+‚Ó‚½‚Â–Ú‚ÍAƒp[ƒeƒB‚ª‘S–Å‚µ‚½ê‡A<__>‹­§“I‚ÉŒ»Ý‚¢‚éA‚±‚ÌêŠ‚Ö‚Æ–ß‚³‚ê‚Ü‚·B<__><00>
 [ENDBLOCK]
 Arcana Ruin<00>
 [ENDBLOCK]
-Arcana RuinE½Ö‚ÆiE½E½<00>
+notice<00>
 [ENDBLOCK]
-E½E½E½E½E½E½E½E½E½E½E½E½<00>
+<18>f<10><00>€‚ði‚Þ‚ÆA‚d‚wƒ|ƒCƒ“ƒg‚Æ<__>ŒÄ‚Î‚ê‚é‚à‚Ì‚ð“üŽè‚·‚éŽ–‚ªo—ˆ‚Ü‚·B<00>
 [ENDBLOCK]
-E½AE½CE½eE½E½E½E½E½E½E½E½E½E½E½E½<00>
+notice<00>
 [ENDBLOCK]
-Arcana RuinE½É‚Â‚ï¿½E½E½<00>
+‚d‚wƒ|ƒCƒ“ƒg‚Í<18>f<10><00>€‚É“ü‚Á‚Ä‚©‚çA<__>o‚Ä‚­‚é‚Ü‚Å‚ÌŠÔ‚ÉA—lX‚ÈðŒ‚ðƒNƒŠƒA‚·‚éŽ–‚Å<__>W‚ß‚éŽ–‚ªo—ˆ‚Ü‚·B<00>
 [ENDBLOCK]
-E½È‚É‚ï¿½E½E½E½È‚ï¿½<00>
+notice<00>
+[ENDBLOCK]
+‚½‚¾A‘S–Å‚·‚é‚Æ‚»‚ÌŽž‚ÉW‚ß‚½‚d‚wƒ|ƒCƒ“ƒg‚Í<__>ƒ[ƒ‚É‚È‚Á‚Ä‚µ‚Ü‚¢A—ÝÏ‚³‚ê‚Ü‚¹‚ñB<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+‚d‚wƒ|ƒCƒ“ƒg‚ðW‚ß‚½‚¢ê‡‚ÍA–³—‚ð‚¹‚¸‚É<__>‚±‚±‚É–ß‚Á‚Ä‚­‚éŽ–‚ð‚¨‚·‚·‚ß‚µ‚Ü‚·B<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+‚³‚ç‚ÉCyglorg ‚É˜b‚µŠ|‚¯‚ÄA<__>uƒAƒCƒeƒ€‚ðŒðŠ·‚·‚év‚ð‘I‘ð‚·‚é‚ÆA<__>W‚ß‚½‚d‚wƒ|ƒCƒ“ƒg‚ÆƒAƒCƒeƒ€‚ÌŒðŠ·‚ª‰Â”\‚Å‚·B<00>
+[ENDBLOCK]
+Arcana Ruin‚Æ‚Í<__><00>
+[ENDBLOCK]
+ƒp[ƒeƒB•Ò¬‚É‚Â‚¢‚Ä<__><00>
+[ENDBLOCK]
+í“¬‚É‚Â‚¢‚Ä<__><00>
+[ENDBLOCK]
+‚d‚wƒ|ƒCƒ“ƒg‚É‚Â‚¢‚Ä<__><00>
+[ENDBLOCK]
+‚â‚ß‚é<__><00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½E½E½E½È‚ï¿½[E½Ý‚Ö‚ï¿½<__>E½E½E½Ä“ï¿½E½E½E½éŽ–ï¿½E½E½E½E½Ì–ï¿½E½ßB<__><00>
+‰½‚É‚Â‚¢‚Ä‚¨“š‚¦‚µ‚Ü‚µ‚å‚¤‚©H<__><18>FP(<00>€<00>
+[ENDBLOCK]
+Arcana Ruin<00>
+[ENDBLOCK]
+Arcana Ruin‚Ö‚Æi‚Þ<00>
+[ENDBLOCK]
+”ƒ‚¢•¨‚ð‚·‚é<00>
+[ENDBLOCK]
+ƒAƒCƒeƒ€‚ðŒðŠ·‚·‚é<00>
+[ENDBLOCK]
+Arcana Ruin‚É‚Â‚¢‚Ä<00>
+[ENDBLOCK]
+‚È‚É‚à‚µ‚È‚¢<00>
 [ENDBLOCK]
 Cyglorg <00>
 [ENDBLOCK]
-E½Ç‚Ì‚æ‚¤E½ÈŒï¿½pE½Å‚ï¿½E½å‚¤E½E½E½H<__><18>f<18><00>E½<__><18>f<1C><00>E½<__><18>fP<10><00>E½<__><18>fP<14><00>E½<__><18>fP<18><00>E½<__><00>
+‚³‚ç‚È‚é[‚Ý‚Ö‚Æ<__>‚²ˆÄ“à‚·‚éŽ–‚ªŽ„‚Ì–±‚ßB<__><00>
+[ENDBLOCK]
+Cyglorg <00>
+[ENDBLOCK]
+‚Ç‚Ì‚æ‚¤‚ÈŒä—p‚Å‚µ‚å‚¤‚©H<__><18>f<18><00>€<__><18>f<1C><00>€<__><18>fP<10><00>€<__><18>fP<14><00>€<__><18>fP<18><00>€<__><00>
 [ENDBLOCK]
 Oberon employee<00>
 [ENDBLOCK]
@@ -818,7 +818,7 @@ Tell me if you need anything.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-That's...<00>
+Thatfs...<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -826,15 +826,15 @@ That's...<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-<Mary>! Where did you go? Don't go leaving me!!<__><00>
+<Mary>! Where did you go? Donft go leave me!!<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-I couldn't get you out on my own. <__>I went back to town to <__>find someone to help.<__><00>
+I couldnft get you out on my own. <__>I went back to town to <__>find someone to help.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Wow she's floating in midair. <__>How does this thing work?<__><00>
+Wow... shefs floating in midair. <__>How does this thing work?<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -846,7 +846,7 @@ Introduce me later! Hurry up and <__>get me out of here!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Hmmm, I feel like I've heard <__>that voice before.<__><00>
+Hmmm, I feel like Ifve heard <__>that voice before.<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -858,7 +858,7 @@ Oh, yeah, got it.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Ahh... I don't know who you are, <__>but thank you so much. <__><00>
+Ahh... I donft know who you are, <__>but thank you so much. <__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -866,7 +866,7 @@ It's okay, no need to thank me.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Hang on?!<00>
+Don't touch itI<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -878,7 +878,7 @@ What the! How the hell did <__>you get caught too!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Well, I didn't know what<__>would happen, so<00>
+Well I didnft know what <__>would happen, so...<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
@@ -886,11 +886,11 @@ You screw-up! How dumb you are!
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-Wait a sec, <Stahn>. <__>I'll get you down.<00>
+Wait a sec, <Stahn>. <__>Ifll get you down<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Ahhh...<00>
+Ahhh...<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -906,11 +906,11 @@ Fuu, thanks for saving me, <Mary>.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Hmm?<__><00>
+Hmmm<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Wait, I think I've seen your face before.<__><00>
+Wait, i think i've seen your face before.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -922,11 +922,11 @@ Ahhhhh!<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-YOU!<__><00>
+You!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-YOU!<__><00>
+You!<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -934,27 +934,27 @@ Do you know each other?<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-<Mary>, don't you remember?<__><00>
+<Mary>, donft you remember?<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-This was the guy who got in our<__>way on the Draconis!<__><00>
+This was the guy who got in our<__>way on the flying dragon!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-I didn't get in your way!<__><00>
+I didnft get in your way!<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-No way, you totally did! We can't <__>get what we want <__>because of you!<__><00>
+No way, you totally did! We canft <__>get what we want <__>because of you!<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-<Rutee>, you're happy, aren't you. <__>I'm glad I picked <Stahn> up.<__><00>
+<Rutee>, youfre happy, arenft you. <__>Ifm glad I picked <Stahn> up.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Who's happy!<__><00>
+Whofs happy!<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
@@ -962,19 +962,19 @@ Hey you, that sword!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-This? I found it inside the <__>Draconis. Itfs kinda a funny<__>shape, doesn't it?<00>
+This? I found it inside the <__>flying dragon. It has a <__>uniqe shape, isnft it?<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-Youfre handling a<__>precious artifact here.<00>
+Don't treat me as a relic.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Doesnft change that youfre<__>kinda a funny shape.<00>
+But you really has uniqe shape.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-You're talking with a Swordian! <__>Did you become its master?<__><00>
+Youfre talking with a swordian! <__>Did you become its master?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -990,7 +990,7 @@ Yeah, check this out!<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
-Dymlos, I've missed you!<__><00>
+Dymlos, Ifve missed you!<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -998,11 +998,11 @@ Atwight!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-I can hear a voice! Does that mean<__><Rutee> has a Swordian too?<__><00>
+I can hear a voice! Does that mean<__><Rutee> has a swordian too?<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-Someone's coming!<__><00>
+Someonefs coming!<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
@@ -1014,11 +1014,11 @@ Why did we have to hide?<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-They are has gone. Let's get <__>back to town, quick.<__><00>
+They are has gone. Letfs get <__>back to town, quick.<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-You're right.<__><00>
+Youfre right.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -1026,23 +1026,23 @@ Hey, why...<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-All right, you're coming with us. <__>You can't stay here!<__><00>
+All right, youfre coming with us. <__>You canft stay here!<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Oh? okay.<__><00>
+Oh?okay<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Other than the hidden passage,<__>there's a front entrance.<__><00>
+Other than the hidden passage, <__>let's take the front entrance.<__><00>
 [ENDBLOCK]
 <Chaltier><00>
 [ENDBLOCK]
-Young master, don't do this. What<__>will happen if we break the seal<__> of the Eye of Atamoni?<00>
+Young master, don't do this. What <__>will happen if we break the seal <__> of the Eye of Atamoni?<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-I didn't ask for your opinion.<__>I'm going to take <Marian> back.<00>
+I didn't ask for your opinion. <__>I'm going to take <Marian> back.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
@@ -1050,169 +1050,169 @@ I'll do anything for that...<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½E½E½Ý‚Ìï¿½E½E½E½KE½E½E½h:<17>r<08>E½E½KE½E½E½h<00>
+<TAG_007>Œ»Ý‚ÌŠŽƒKƒ‹ƒh:<17>r<08>€ƒKƒ‹ƒh<00>
 [ENDBLOCK]
-<TAG_007><17>f<10>+p<04>E½E½<18>f<10>+D<1C><03>E½!E½E½(E½<__>E½Í‚ï¿½<__>E½E½E½E½E½E½<00>
+<TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>E½E½<00>
+<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>‚ª<00>
 [ENDBLOCK]
- has joined the party.<00>
+ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-E½E½E½Ô‚É‚È‚ï¿½Ü‚ï¿½E½E½E½B<00>
+’‡ŠÔ‚É‚È‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-E½ú¯¬E½ÉŽQE½E½E½Å‚ï¿½E½Ü‚ï¿½E½B<00>
+í“¬‚ÉŽQ‰Á‚Å‚«‚Ü‚·B<00>
 [ENDBLOCK]
-E½E½E½sE½E½E½Ü‚ï¿½E½B<00>
+“¯s‚µ‚Ü‚·B<00>
 [ENDBLOCK]
-E½pE½[E½eE½BE½É•ï¿½E½AE½E½E½Ü‚ï¿½E½E½E½B<00>
+ƒp[ƒeƒB‚É•œ‹A‚µ‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-<18>eYE½<00>E½<18>eYE½<00>E½<00>
-[ENDBLOCK]
-notice<00>
+<18>eYÐ<00>€<18>eYÔ<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>E½E½<00>
+notice<00>
 [ENDBLOCK]
- has left the party.<00>
+<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>‚ª<00>
 [ENDBLOCK]
-<18>eYE½<00>E½<18>eYE½<00>E½<00>
+ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
+[ENDBLOCK]
+<18>eYÐ<00>€<18>eYÔ<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½Ìï¿½E½F<turquoise><1A>,<0_0><05><00>qJ<04>?E½<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qJ<04>?€<00>
 [ENDBLOCK]
-<18>eZ<0_0><TAG_014>E½E½E½æ“¾E½E½E½Ü‚ï¿½E½E½E½B<__><00>
+<18>eZ<0_0><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-<turquoise>E½E½E½ÕÌï¿½<00>
+<turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-<turquoise>E½E½E½E½Ìï¿½<00>
+<turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-<turquoise>E½E½E½RE½Ìï¿½<00>
+<turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-E½Ìï¿½E½F<turquoise>E½iE½`E½E½E½E½E½E½E½WE½E½E½[<00>
+Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-E½Ìï¿½E½F<turquoise>E½_E½bE½VE½E½E½VE½E½E½[E½Y<00>
+Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-<turquoise>E½Å‹ï¿½E½ÌÌï¿½<00>
+<turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iI?E½E½E½E½E½E½<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
-<turquoise>E½NE½CE½YE½Ìï¿½<00>
+<turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iI?E½E½<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-<TAG_007><18>eY?<00>E½<__><18>eY?<00>E½<00>
-[ENDBLOCK]
-camtgt -><17>r@<14>E½/<09><10>'<0_0><__><00>
+<19>iI?‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>?E½E½E½<__>E½E½E½Å‚ÉŽï¿½E½E½E½Ä‚ï¿½E½Ü‚ï¿½E½B<__><00>
+<TAG_007><18>eY?<00>€<__><18>eY?<00>€<00>
+[ENDBLOCK]
+camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½AE½E½IDE½ÆƒQE½[E½E½E½pE½XE½E½E½[E½hE½ð”­sE½E½E½Ü‚ï¿½E½B<__>E½E½E½E½IDE½ÆƒpE½XE½E½E½[E½hE½E½AE½E½E½EE½FE½uE½TE½CE½gE½E½<__>E½E½E½Í‚ï¿½E½éŽ–ï¿½ÅAE½fE½XE½eE½BE½jE½[E½Ìï¿½E½EE½E½<__>E½E½E½E½ÉLE½E½E½E½Ü‚ï¿½E½B<00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½Ú‚ï¿½E½E½E½Í‰ï¿½E½LE½E½URLE½Å‚ï¿½E½mE½FE½E½E½E½E½E½E½E½E½B<__><0E><__><__><00>E½http://www.to-destiny.jp<0E><__><__><00>@<00>
+<TAG_007>˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ð”­s‚µ‚Ü‚·B<__>‚±‚ÌID‚ÆƒpƒXƒ[ƒh‚ð˜A“®ƒEƒFƒuƒTƒCƒg‚Å<__>“ü—Í‚·‚éŽ–‚ÅAƒfƒXƒeƒBƒj[‚Ì¢ŠE‚ª<__>‚³‚ç‚ÉL‚ª‚è‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½AE½E½IDE½E½<turquoise><0E><__><__><00>E½<0C><0_0><07><00><0E><__><__><00>@<__></color>E½QE½[E½E½E½pE½XE½E½E½[E½hE½E½<turquoise><0E><__><__><00>E½<0C><__><00><07><00><0E><__><__><00>@<__></color>E½Å‚ï¿½E½B<00>
+<TAG_007>Ú‚µ‚­‚Í‰º‹L‚ÌURL‚Å‚²Šm”F‚­‚¾‚³‚¢B<__><0E><__><__><00>€http://www.to-destiny.jp<0E><__><__><00>@<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½QE½[E½E½E½E½E½ÌƒCE½xE½E½E½gE½E½~E½jE½QE½[E½E½E½E½<__>E½NE½E½E½AE½E½E½E½Æ˜AE½E½IDE½ÆƒQE½[E½E½E½pE½XE½E½E½[E½hE½E½<__>E½E½E½sE½E½E½E½éŽ–ï¿½E½E½E½E½E½Ü‚ï¿½E½B<00>
+<TAG_007>˜A“®ID‚Í<turquoise><0E><__><__><00>€<0C><0_0><07><00><0E><__><__><00>@<__></color>ƒQ[ƒ€ƒpƒXƒ[ƒh‚Í<turquoise><0E><__><__><00>€<0C><__><00><07><00><0E><__><__><00>@<__></color>‚Å‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½E½E½Ì˜AE½E½IDE½ÆƒQE½[E½E½E½pE½XE½E½E½[E½hE½E½<__>E½EE½FE½uE½TE½CE½gE½Å“ï¿½E½Í‚ï¿½E½éŽ–ï¿½ÅƒfE½XE½eE½BE½jE½[<__>E½Ìï¿½E½EE½E½E½E½E½E½ÉLE½E½E½E½Ü‚ï¿½E½B<00>
+<TAG_007>ƒQ[ƒ€’†‚ÌƒCƒxƒ“ƒg‚âƒ~ƒjƒQ[ƒ€‚ð<__>ƒNƒŠƒA‚·‚é‚Æ˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ª<__>”­s‚³‚ê‚éŽ–‚ª‚ ‚è‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½EE½FE½uE½TE½CE½gE½Å“ï¿½E½Í‚ï¿½E½E½<__>E½AE½E½IDE½ÆƒQE½[E½E½E½pE½XE½E½E½[E½hE½E½YE½E½Ä‚ï¿½E½Ü‚ï¿½E½E½E½êE¿½E½<__>E½tE½BE½bE½cE½KE½E½E½hE½É‚ï¿½E½é—·E½lE½Ìï¿½E½E½E½E½<__>E½mE½FE½E½E½éŽ–ï¿½E½E½Å‚ï¿½E½Ü‚ï¿½E½B<00>
-[ENDBLOCK]
-E½OE½kE½È‚ï¿½E½Ì‹PE½xE½Ý’ï¿½E½(RGBA)=(128, 128, 128, 128)E½Å‚ï¿½<__><00>
-[ENDBLOCK]
-E½E½E½iE½KE½Ì‹PE½xE½Ý’ï¿½E½(RGBA)=(<17>r@<1C>E½, <17>r@<18>E½, <17>r@<14>E½, <17>r@<10>E½)E½Å‚ï¿½<__><00>
-[ENDBLOCK]
-E½E½E½iE½KE½Ì‹PE½xE½Ý’ï¿½E½(RGBA)=(<17>r<0C>E½, <17>r<08>E½, <17>r<04>E½, <17>r<00>E½)E½Å‚ï¿½<__><00>
-[ENDBLOCK]
-E½E½OE½iE½KE½Ì‹PE½xE½Ý’ï¿½E½(RGBA)=(<17>r@<1C>E½, <17>r@<18>E½, <17>r@<14>E½, <17>r@<10>E½)E½Å‚ï¿½<__><00>
-[ENDBLOCK]
-E½ÅIE½iE½KE½Ì‹PE½xE½Ý’ï¿½E½(RGBA)=(<17>r<0C>E½, <17>r<08>E½, <17>r<04>E½, <17>r<00>E½)E½Å‚ï¿½<__><00>
-[ENDBLOCK]
-E½Ý’è‚ªE½È‚ï¿½E½E½Ü‚ï¿½E½E½IE½itod=<17>qD<00>E½E½j<__><00>
+<TAG_007>‚±‚Ì˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ð<__>ƒEƒFƒuƒTƒCƒg‚Å“ü—Í‚·‚éŽ–‚ÅƒfƒXƒeƒBƒj[<__>‚Ì¢ŠE‚ª‚³‚ç‚ÉL‚ª‚è‚Ü‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½E½E½uE½Í‹NE½E½E½E½E½Ä‚ï¿½E½È‚ï¿½E½B<00>
+<TAG_007>ƒEƒFƒuƒTƒCƒg‚Å“ü—Í‚·‚é<__>˜A“®ID‚ÆƒQ[ƒ€ƒpƒXƒ[ƒh‚ð–Y‚ê‚Ä‚µ‚Ü‚Á‚½ê‡‚Í<__>ƒtƒBƒbƒcƒKƒ‹ƒh‚É‚ ‚é—·l‚Ì¬‰®‚Å<__>Šm”F‚·‚éŽ–‚ª‚Å‚«‚Ü‚·B<00>
+[ENDBLOCK]
+ŠOŠk‚È‚µ‚Ì‹P“xÝ’è‚Í(RGBA)=(128, 128, 128, 128)‚Å‚·<__><00>
+[ENDBLOCK]
+‘æˆê’iŠK‚Ì‹P“xÝ’è‚Í(RGBA)=(<17>r@<1C>€, <17>r@<18>€, <17>r@<14>€, <17>r@<10>€)‚Å‚·<__><00>
+[ENDBLOCK]
+‘æ“ñ’iŠK‚Ì‹P“xÝ’è‚Í(RGBA)=(<17>r<0C>€, <17>r<08>€, <17>r<04>€, <17>r<00>€)‚Å‚·<__><00>
+[ENDBLOCK]
+‘æŽO’iŠK‚Ì‹P“xÝ’è‚Í(RGBA)=(<17>r@<1C>€, <17>r@<18>€, <17>r@<14>€, <17>r@<10>€)‚Å‚·<__><00>
+[ENDBLOCK]
+ÅI’iŠK‚Ì‹P“xÝ’è‚Í(RGBA)=(<17>r<0C>€, <17>r<08>€, <17>r<04>€, <17>r<00>€)‚Å‚·<__><00>
+[ENDBLOCK]
+Ý’è‚ª‚È‚³‚ê‚Ü‚¹‚ñIitod=<17>qD<00>€j<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-E½E½E½[E½vE½E½E½uE½E½E½NE½E½E½E½E½Ü‚ï¿½E½E½E½B<00>
+‘•’u‚Í‹N“®‚µ‚Ä‚¢‚È‚¢B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<18>f<10><00>E½<00>
+ƒ[ƒv‘•’u‚ª‹N“®‚µ‚Ü‚µ‚½B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><TAG_013c>E½E½E½Ìƒ\E½[E½fE½BE½AE½E½E½fE½oE½CE½XE½E½<__>E½gE½pE½Â”\E½É‚È‚ï¿½Ü‚ï¿½E½E½E½B<00>
+<18>f<10><00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½uE½Ìï¿½E½Ìï¿½E½E½E½v<__>E½Ìï¿½E½Æ‚ÍƒLE½E½E½E½E½NE½^E½[E½ÉƒZE½bE½gE½E½E½éŽ–ï¿½ÌoE½E½E½E½A<__>E½LE½E½E½E½E½NE½^E½[E½pE½E½E½E½E½[E½^E½Ì‚Ð‚Æ‚Â‚Å‚ï¿½E½B<__>E½E½Ì“IE½ÈƒZE½bE½gE½E½E½@E½ÍŽï¿½E½Ì’Ê‚ï¿½Å‚ï¿½E½B<00>
+<TAG_007><TAG_013c>Œ”‚Ìƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>Žg—p‰Â”\‚É‚È‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½E½E½CE½E½E½E½E½jE½E½E½[E½E½E½JE½E½E½E½E½E½AE½LE½E½E½E½E½NE½^E½[E½E½<__>E½XE½eE½[E½^E½XE½E½\E½E½E½E½E½Ü‚ï¿½E½B<__>E½E½E½Ì‰ï¿½Ê‚Ì‚Ü‚ï¿½<Square_ani>E½E½E½E½E½E½E½ÆAE½LE½E½E½E½E½NE½^E½[E½E½<__>E½XE½eE½[E½^E½XE½\E½E½E½E½Ø‚ï¿½Ö‚ï¿½E½éŽ–ï¿½E½E½oE½E½E½Ü‚ï¿½E½B<__><00>
+<TAG_007>uÌ†‚Ìà–¾v<__>Ì†‚Æ‚ÍƒLƒƒƒ‰ƒNƒ^[‚ÉƒZƒbƒg‚·‚éŽ–‚Ìo—ˆ‚éA<__>ƒLƒƒƒ‰ƒNƒ^[ƒpƒ‰ƒ[ƒ^‚Ì‚Ð‚Æ‚Â‚Å‚·B<__>‹ï‘Ì“I‚ÈƒZƒbƒg•û–@‚ÍŽŸ‚Ì’Ê‚è‚Å‚·B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½XE½eE½[E½^E½XE½Ìˆï¿½Ôï¿½ÉAE½uE½Ìï¿½E½vE½Æï¿½E½E½E½ê‚½<__>E½yE½[E½WE½E½E½E½E½E½Ü‚ï¿½E½BE½E½E½Ì‰ï¿½Ê‚ï¿½<Triangle_ani>E½E½E½E½E½E½E½ÆA<__>E½æ“¾E½E½E½E½E½Ìï¿½E½E½Ø‚ï¿½Ö‚ï¿½E½éŽ–ï¿½E½E½oE½E½E½Ü‚ï¿½E½B<__><00>
+<TAG_007>ƒƒCƒ“ƒƒjƒ…[‚ðŠJ‚¢‚½ŒãAƒLƒƒƒ‰ƒNƒ^[‚Ì<__>ƒXƒe[ƒ^ƒX‚ð•\Ž¦‚µ‚Ü‚·B<__>‚»‚Ì‰æ–Ê‚Ì‚Ü‚Ü<Square_ani>‚ð‰Ÿ‚·‚ÆAƒLƒƒƒ‰ƒNƒ^[‚Ì<__>ƒXƒe[ƒ^ƒX•\Ž¦‚ðØ‚è‘Ö‚¦‚éŽ–‚ªo—ˆ‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½Ìï¿½E½ÌŽgE½E½E½E½E½É‚ÍAE½E½Ê‚è‚ E½E½Ü‚ï¿½E½B<__>E½Ð‚Æ‚Â–Ú‚ÍcE½c<__>E½uE½Ìï¿½E½E½E½ZE½bE½gE½E½E½ÄAE½XE½lE½É˜bE½E½E½|E½E½E½æ‚¤E½v<00>
+<TAG_007>ƒXƒe[ƒ^ƒX‚Ìˆê”Ôã‚ÉAuÌ†v‚Æ‘‚©‚ê‚½<__>ƒy[ƒW‚ª‚ ‚è‚Ü‚·B‚»‚Ì‰æ–Ê‚Å<Triangle_ani>‚ð‰Ÿ‚·‚ÆA<__>Žæ“¾‚µ‚½Ì†‚ðØ‚è‘Ö‚¦‚éŽ–‚ªo—ˆ‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½XE½lE½Ì’ï¿½E½É‚ÍAE½Ìï¿½E½E½E½ZE½bE½gE½E½E½Ä˜bE½E½E½|E½E½E½éŽ–ï¿½ÅA<__>E½E½E½È‚ï¿½E½É‹ï¿½E½E½E½E½E½E½E½ÂlE½E½E½E½E½Ü‚ï¿½E½BE½XE½lE½É‰ï¿½E½xE½E½<__>E½bE½E½E½|E½E½E½E½E½ÛAE½sE½vE½cE½ÈŒï¿½E½E½E½E½E½E½E½éŽ–ï¿½E½E½E½E½E½Ü‚ï¿½E½B<__>E½E½E½ÌŽï¿½E½ÍAE½E½E½E½E½Ä‚ï¿½E½E½Ìï¿½E½E½E½ZE½bE½gE½E½E½E½E½E½E½Ä‚ï¿½E½E½A<__>E½E½E½E½E½E½xE½bE½E½E½|E½E½E½Ä‚Ý‚Ü‚ï¿½E½å‚¤E½B<00>
+<TAG_007>Ì†‚ÌŽg‚¢“¹‚É‚ÍA“ñ’Ê‚è‚ ‚è‚Ü‚·B<__>‚Ð‚Æ‚Â–Ú‚Ícc<__>uÌ†‚ðƒZƒbƒg‚µ‚ÄAŠXl‚É˜b‚µŠ|‚¯‚æ‚¤v<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½qE½E½E½gE½FE½XE½lE½É˜bE½E½E½|E½E½E½E½E½ÛAE½vE½E½E½CE½E½E½[E½E½<__>E½E½E½Ìï¿½ÉuE½HE½vE½E½E½oE½éŽ–ï¿½E½E½E½E½E½Ü‚ï¿½E½B<__>E½E½E½ÌŽï¿½E½ÍAE½XE½lE½ÌƒZE½E½E½tE½ÆŠÖ˜AE½E½E½E½E½E½E½E½<__>E½Ìï¿½E½E½E½ZE½bE½gE½E½E½ÄAE½Ä“xE½AE½bE½E½E½|E½E½E½Ä‚Ý‚Ü‚ï¿½E½å‚¤E½B<__>E½E½E½E½E½E½E½E½E½E½E½E½E½E½E½NE½E½E½é‚©E½E½E½E½E½E½Ü‚ï¿½E½E½B<00>
+<TAG_007>ŠXl‚Ì’†‚É‚ÍAÌ†‚ðƒZƒbƒg‚µ‚Ä˜b‚µŠ|‚¯‚éŽ–‚ÅA<__>‚ ‚È‚½‚É‹»–¡‚ðŽ‚Âl‚ª‚¢‚Ü‚·BŠXl‚É‰½“x‚©<__>˜b‚µŠ|‚¯‚½ÛA•sŽv‹c‚ÈŒ¾“®‚ð‚·‚éŽ–‚ª‚ ‚è‚Ü‚·B<__>‚»‚ÌŽž‚ÍAŽ‚Á‚Ä‚¢‚éÌ†‚ðƒZƒbƒg‚µ’¼‚µ‚Ä‚©‚çA<__>‚à‚¤ˆê“x˜b‚µŠ|‚¯‚Ä‚Ý‚Ü‚µ‚å‚¤B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½gE½E½E½E½E½Ì‚Ó‚ï¿½E½Â–Ú‚ÍcE½c<__>E½uE½XE½eE½[E½^E½XE½E½Ê‚ï¿½E½E½E½E½E½E½E½Ç‚ï¿½E½E½E½æ‚¤E½v<__>E½WE½ß‚ï¿½E½Ìï¿½E½Ì’ï¿½E½ÅAE½E½E½E½E½CE½É“ï¿½E½E½E½E½E½E½E½Ì‚ï¿½E½E½E½E½ÎA<__>E½ZE½bE½gE½E½E½ÄƒXE½eE½[E½^E½XE½E½Ê‚ï¿½E½E½E½E½E½E½E½Ç‚ï¿½E½E½E½oE½E½E½Ü‚ï¿½E½å‚¤E½B<00>
+<TAG_007>ƒqƒ“ƒgFŠXl‚É˜b‚µŠ|‚¯‚½ÛAƒvƒŒƒCƒ„[‚Ì<__>“ª‚Ìã‚ÉuHv‚ªo‚éŽ–‚ª‚ ‚è‚Ü‚·B<__>‚»‚ÌŽž‚ÍAŠXl‚ÌƒZƒŠƒt‚ÆŠÖ˜A‚µ‚»‚¤‚È<__>Ì†‚ðƒZƒbƒg‚µ‚ÄAÄ“xA˜b‚µŠ|‚¯‚Ä‚Ý‚Ü‚µ‚å‚¤B<__>‰½‚©Šð‚µ‚¢Ž–‚ª‹N‚±‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>E½uE½ÎRE½E½VE½ÑvE½Æ‚ÍA<__>E½tE½BE½[E½E½E½hE½É‚ï¿½E½E½Î‚ï¿½E½RE½E½E½ÄA<__>E½E½E½E½Ìï¿½E½E½E½E½E½NE½E½E½AE½E½E½E½VE½Ñ‚Å‚ï¿½E½B<__><00>
+<TAG_007>Žg‚¢“¹‚Ì‚Ó‚½‚Â–Ú‚Ícc<__>uƒXƒe[ƒ^ƒX‰æ–Ê‚ð‚©‚Á‚±—Ç‚­‚µ‚æ‚¤v<__>W‚ß‚½Ì†‚Ì’†‚ÅA‚à‚µ‹C‚É“ü‚Á‚½‚à‚Ì‚ª‚ ‚ê‚ÎA<__>ƒZƒbƒg‚µ‚ÄƒXƒe[ƒ^ƒX‰æ–Ê‚ð‚©‚Á‚±—Ç‚­‰‰o‚µ‚Ü‚µ‚å‚¤B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><0E><__><0_0_0>E½E½{E½IE½ÈE¿½E½[E½E½E½E½E½E½E½E½E½E½Ü‚ï¿½E½B<__>E½PE½FE½XE½ÌŠOE½É‚ï¿½E½E½E½E½E½ÌÎ‚ï¿½E½RE½E½ÆA<__>E½@E½@E½QE½[E½E½E½XE½^E½[E½gE½É‚È‚ï¿½Ü‚ï¿½E½B<__>E½QE½FE½ú¯¬E½ÍAE½ÎRE½E½VE½Ñ‚ÌƒNE½E½E½AE½E½E½E½E½E½<__>E½@E½@E½eE½E½E½E½E½Ü‚ï¿½E½E½B<__>E½RE½FE½XE½E½_E½E½E½WE½E½E½E½E½E½E½oE½E½E½è‚·E½E½ÆA<__>E½@E½@E½Î‚ÍŒï¿½E½ÌêŠE½É–ß‚ï¿½Ü‚ï¿½E½B<__><00>
+<TAG_007>uÎR‚è—V‚Ñv‚Æ‚ÍA<__>ƒtƒB[ƒ‹ƒh‚É‚ ‚éÎ‚ðR‚Á‚ÄA<__>“Á’è‚ÌðŒ‚ðƒNƒŠƒA‚·‚é—V‚Ñ‚Å‚·B<__><00>
 [ENDBLOCK]
-E½yBGM : no=<17>r<00>E½ - vol=<17>r<04>E½E½z<00>
+notice<00>
+[ENDBLOCK]
+<TAG_007><0E><__><0_0_0>Šî–{“I‚Èƒ‹[ƒ‹‚ðà–¾‚µ‚Ü‚·B<__>‚PFŠX‚ÌŠO‚É‚ ‚é“Á’è‚ÌÎ‚ðR‚é‚ÆA<__>@@ƒQ[ƒ€ƒXƒ^[ƒg‚É‚È‚è‚Ü‚·B<__>‚QFí“¬‚ÍAÎR‚è—V‚Ñ‚ÌƒNƒŠƒAðŒ‚É<__>@@‰e‹¿‚µ‚Ü‚¹‚ñB<__>‚RFŠX‚âƒ_ƒ“ƒWƒ‡ƒ“‚ðo“ü‚è‚·‚é‚ÆA<__>@@Î‚ÍŒ³‚ÌêŠ‚É–ß‚è‚Ü‚·B<__><00>
+[ENDBLOCK]
+yBGM : no=<17>r<00>€ - vol=<17>r<04>€z<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
