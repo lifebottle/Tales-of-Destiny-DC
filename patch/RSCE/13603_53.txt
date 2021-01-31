@@ -322,7 +322,7 @@ I guess.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Do you have any clues about your past?<00>
+Do you have any clues<__>about your past?<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -334,7 +334,7 @@ But, the best clue I have<__>is this short sword<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-There's some letters carved into<__>it. D.V. I wonder if<__>they're initial<00>
+There's some letters<__>carved into it. D.V. I wonder<__>if they're initial<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -358,7 +358,7 @@ I appreciate the sentiment.<__>Now then<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-Just beyond here is the entrance<__>to the hidden passage that leads<__> to the temple.<00>
+Just beyond here is the entrance<__>to the hidden passage that leads<__>to the temple.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -382,7 +382,7 @@ I wanted to ask you a question,<__>but I don't want you to get angry.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Woodrow>, Do you not like the<__>idea of succeeding your dad?00>
+<Woodrow>, Do you not like the<__>idea of succeeding your dad?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -442,9 +442,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>´Ä<18>f<10>+D<1C><03>´!ãË(Ä<__>ÇÕÇ¢<__>Ç¢Ç¢Ç¶<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>¿<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>¿<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ…â¡ÇÌÇËÇ‹ÇµÇΩÅB<00>
+ has joined the party.<00>
 [ENDBLOCK]
 íáä‘Ç…Ç»ÇËÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
@@ -460,9 +460,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>¿<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>¿<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ©ÇÁî≤ÇØÇ‹ÇµÇΩÅB<00>
+ has left the party.<00>
 [ENDBLOCK]
 <18>eY∞<00>Ä<18>eY¥<00>Ä<00>
 [ENDBLOCK]

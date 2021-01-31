@@ -14,11 +14,11 @@ Hey, <Chelsea>B<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Chelsea>ccH<00>
+<Chelsea>...H<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-<Stahn> I want, go homecc<00>
+<Stahn> I want, go home...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -48,11 +48,11 @@ Innkeeper<00>
 [ENDBLOCK]
 Do you want to stay?<00>
 [ENDBLOCK]
-May i take your gald?<00>
+ Gald is it <__>ok then?<00>
 [ENDBLOCK]
 Enjoy your stay.<00>
 [ENDBLOCK]
-Please, back anytime<00>
+Please, back anytime.<00>
 [ENDBLOCK]
 Have a nice day.<00>
 [ENDBLOCK]
@@ -68,7 +68,7 @@ I heard king of Seinegald wants <__>treasure from that temple.<00>
 [ENDBLOCK]
 Traveler<00>
 [ENDBLOCK]
-é‹ú­‚ÍƒEƒHƒ‹cc‚È‚ñ‚Æ‚©‚¢‚Á‚½‚ÈB<00>
+é‹ú­‚ÍƒEƒHƒ‹...‚È‚ñ‚Æ‚©‚¢‚Á‚½‚ÈB<00>
 [ENDBLOCK]
 Traveler<00>
 [ENDBLOCK]
@@ -140,7 +140,7 @@ All right. Now letfs <__>head to the temple.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>Œ»İ‚ÌŠƒKƒ‹ƒh:<17>r<08>€ƒKƒ‹ƒh<00>
+<TAG_007>Current Possession:<17>r<08>€Gald<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>Yes<__>No<00>
 [ENDBLOCK]
@@ -328,7 +328,7 @@ select<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€ƒKƒ‹ƒh<__>d–‚ğˆø‚«ó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
+<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€Gald<__>d–‚ğˆø‚«ó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
 [ENDBLOCK]
 ‚Æ‚è‚ ‚¦‚¸•ñV‚Ìˆê•”‚ğ<__>‘O‹à‚Æ‚µ‚Ä“n‚µ‚Ä‚¨‚­B<__><00>
 [ENDBLOCK]
