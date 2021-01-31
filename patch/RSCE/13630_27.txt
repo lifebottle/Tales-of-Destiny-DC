@@ -48,7 +48,7 @@ Innkeeper<00>
 [ENDBLOCK]
 Do you want to stay?<00>
 [ENDBLOCK]
-ƒKƒ‹ƒh‚É‚È‚è‚Ü‚·‚ªA<__>‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©H<00>
+ Gald is it <__>ok then?<00>
 [ENDBLOCK]
 Enjoy your stay.<00>
 [ENDBLOCK]
@@ -140,7 +140,7 @@ All right. Now letfs <__>head to the temple.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>Œ»Ý‚ÌŠŽƒKƒ‹ƒh:<17>r<08>€ƒKƒ‹ƒh<00>
+<TAG_007>Current Possession:<17>r<08>€Gald<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>Yes<__>No<00>
 [ENDBLOCK]
@@ -328,7 +328,7 @@ select<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ð<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€ƒKƒ‹ƒh<__>ŽdŽ–‚ðˆø‚«Žó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
+<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ð<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€Gald<__>ŽdŽ–‚ðˆø‚«Žó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
 [ENDBLOCK]
 ‚Æ‚è‚ ‚¦‚¸•ñV‚Ìˆê•”‚ð<__>‘O‹à‚Æ‚µ‚Ä“n‚µ‚Ä‚¨‚­B<__><00>
 [ENDBLOCK]
