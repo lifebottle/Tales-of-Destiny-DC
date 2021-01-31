@@ -432,7 +432,7 @@ If you want to go to Seinegald,<__>head toward the north gate.<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-I'm going toward Phandaria, <__>so our journey  ends here.<00>
+I'm going toward Phandaria, <__>so our journey ends here.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -456,7 +456,7 @@ Y-yeahÅc<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-I hope you can become a person worthy<__>to that sword without forget <__>your earnest feelings.<00>
+I hope you can become a person<__>worthy of that sword without<__>forgetting those straightforward,<__>earnest feelings you have now.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -468,11 +468,11 @@ Hey, he called you <Woodrow> right?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Hey, don't be so rude to him. <__>You should apologize.<__><00>
+Hey, don't be so rude to him.<__>You should apologize.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-If he hear my voice iÅfll apologize, <__>but if not it's ok then.<__><00>
+If he hear my voice IÅfll apologize,<__>but if not it's ok then.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -480,19 +480,19 @@ Well, can you hear me or not?<__><00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
-Till next time.<__><00>
+Until next time.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-Was it my imagination? I swear<__>he realized that i'm alive.<__><00>
+Was it my imagination? I swear<__>he realized that I was alive.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-You're thinking too much.<__>Don't worry.<__><00>
+You're thinking too much into<__>it. Don't worry.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-That man isn't an ordinary guy. <__>He seems very dignified.<__><00> .
+That man isn't an ordinary guy.<__>He seems very dignified.<00> .
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -514,11 +514,11 @@ Grocery<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-A food sack. Sounds pretty<__>convenient.<__><00>
+A Food Sack. Sounds pretty<__>convenient.<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-I do my own cooking alone, <__>so i never used it before.<__><00>
+I do my own cooking alone, <__>so I never used it before.<__><00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -548,9 +548,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>´Ä<18>f<10>+D<1C><03>´!ãË(Ä<__>ÇÕÇ¢<__>Ç¢Ç¢Ç¶<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ…â¡ÇÌÇËÇ‹ÇµÇΩÅB<00>
+has joined the party.<00>
 [ENDBLOCK]
 íáä‘Ç…Ç»ÇËÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
@@ -566,9 +566,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013c>ƒ<TAG_014><00>
 [ENDBLOCK]
-ÉpÅ[ÉeÉBÇ©ÇÁî≤ÇØÇ‹ÇµÇΩÅB<00>
+has left the party.<00>
 [ENDBLOCK]
 <18>eY¥<00>Ä<18>eY∏<00>Ä<00>
 [ENDBLOCK]
