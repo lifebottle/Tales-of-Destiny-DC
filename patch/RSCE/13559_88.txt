@@ -4,7 +4,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-No Response...<00>
+There is no reponse...<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -12,7 +12,7 @@ No Response...<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>The captain's logbook is kept.<__><00>
+<TAG_005>The captain's logbook is kept here.<__><00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -20,79 +20,79 @@ No Response...<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Stahn>‚³‚ñcc<Lion>‚³‚ñ‚Ì—lŽq‚ÍH<00>
+Mr. <Stahn>...How is <Lion> doing?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-¡A<Rutee>‚ª–Êæˆ´‘‚Ä‚éB<00>
+<Rutee> is looking<__>after him right now.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Rutee>‚³‚ñ‚ªccH<__>’¿‚µ‚¢‚Å‚·‚ËB<00>
+<Rutee> is...?<__>That's unusual.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚Å‚à‚Ó‚½‚è‚Æ‚àA¦‚­Ž©‘R‚¾‚Á‚½‚æB<__>”C‚¹‚Ä‚¨‚¢‚Ä•½‹C‚¾‚ÆŽv‚¤B<00>
+They seem to be getting along.<__>It should be fine to leave<__>them alone.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚¨‚Ó‚½‚è‚ª’‡—Ç‚­‚È‚Á‚½‚Ì‚¾‚Æ‚µ‚½‚çA<__>‚«‚Á‚ÆA<Stahn>‚³‚ñ‚Ì‚¨‰A‚Å‚·‚ËB<00>
+If they're getting along so<__>well, I'm sure it's thanks<__>to you, <Stahn>.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‰½‚ªH<00>
+What?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Stahn>‚³‚ñ‚ÆÚ‚µ‚Ä‚¢‚é‚¤‚¿‚ÉA<__>‚Ý‚ñ‚È­‚µ‚¸‚ÂA•Ï‚í‚Á‚½‚ñ‚Å‚·‚æB<00>
+We've all changed some, thanks to you <Stahn>.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚»‚¤‚©‚ÈH<00>
+Really?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚¦‚¦B<Lion>‚³‚ñ‚àA<Rutee>‚³‚ñ‚àB<__>‚»‚ê‚ÉccŽ„‚àB<00>
+Yes. <Lion>, <Rutee>...and even me too.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-“Á‚É‰½‚©‚ð‚µ‚½Šo‚¦‚Í‚È‚¢‚¯‚Ç‚È‚ B<00>
+I don't recall doing anything?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚»‚ê‚Å‚¢‚¢‚ñ‚Å‚·‚æB‚»‚ÌŽ©‘R‚³‚ªA<__><Stahn>‚³‚ñ‚Ì–£—Í‚Å‚·B<00>
+That's okay. It comes natural. It's the <Stahn> charm.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚»‚ñ‚È•—‚ÉŒ¾‚í‚ê‚é‚ÆÆ‚ê‚é‚ÈB<__>‚Å‚àcc‚ ‚è‚ª‚Æ‚¤B<00>
+You're making me blush...<__>But thank you.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Stahn>‚³‚ñccŽ„‚Ícc<00>
+<Stahn> I...<00>
 [ENDBLOCK]
 <Chelsea><00>
 [ENDBLOCK]
-ƒZƒCƒ“ƒKƒ‹ƒh‚Ì‚¨é‚ªA<__>‹ß‚Ã‚¢‚Ä‚«‚Ü‚µ‚½‚æI<00>
+We're approaching<__>Seinegald!<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¨‚ÁA‚¢‚æ‚¢‚æ‚©B<__><Philia>AŒ©‚És‚±‚¤B<00>
+Well <Philia>, seems like it's time to go.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚¦A‚¦‚¦cc‚»‚¤‚Å‚·‚ËB<00>
+Yes...I see.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚±‚Ì‚Ü‚Ü‚¶‚á‚â‚ç‚ê‚écc<__>‚Ç‚±‚©‚É•Ší‚Í‚È‚¢‚Ì‚©H<__><00>
+If I keep going like this<__>I...I'll need a weapon!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‚±‚Ì—l‚È“¹‚ðÇ‚®áŠQ•¨‚Ì’†‚É‚Í<Circle_ani>‚Å’Í‚ÝA<__><L+U+R+D_blink>–”‚Í<L_stick_Press>‚Å‰Ÿ‚µˆø‚«‰Â”\‚È‚à‚Ì‚ª‚ ‚è‚Ü‚·B<00>
+<TAG_007>Some obstacles blocking the path like<__>this can be grabbed with <Circle_ani> and pushed<__>and pulled with <L+U+R+D_blink> or <L_stick_Press>.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>–Ú‚Ì‘O‚ÌÏ‰×‚ðˆÚ“®‚³‚¹‚Ä<__>’Ê˜H‚ðŠm•Û‚µ‚Ü‚µ‚å‚¤B<00>
+<TAG_007>Move the cargo in front<__>of you to clear the way.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -100,7 +100,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -118,7 +118,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -126,49 +126,49 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qI<04>˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qI<04>?€<00>
 [ENDBLOCK]
 <18>eY<0_0><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iHô€‚Í<00>
+<19>iH?‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eXø<00>€<__><18>eXü<00>€<00>
+<TAG_007><18>eX?<00>€<__><18>eX?<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]

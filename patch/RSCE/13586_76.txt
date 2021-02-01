@@ -22,7 +22,7 @@
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007><18>eXh<00>€<18>eXl<00>€<18>eXp<00>€<18>eXt<00>€<18>eXx<00>€<18>eX|<00>€<18>eX€<00>€<18>eX„<00>€<18>eXˆ<00>€<18>eXŒ<00>€<18>eX<00>€<18>eX”<00>€<00>
+<TAG_007><18>eXh<00>€<18>eXl<00>€<18>eXp<00>€<18>eXt<00>€<18>eXx<00>€<18>eX|<00>€<18>eX€<00>€<18>eX?<00>€<18>eX?<00>€<18>eX?<00>€<18>eX?<00>€<18>eX?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -314,11 +314,11 @@ select<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>’·‚¢ŠÔAŠG‚Ì•`‚©‚ê‚½Œ`Õ‚Í‚È‚¢B<__>‚·‚Å‚É•”‰®‚ÌƒIƒuƒWƒF‚Æ‰»‚µ‚Ä‚¢‚éB<00>
+<TAG_005>Looks like the canvas hasn't<__>been used for a long time.<__>It's now just another<__>object in the room.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>—§”h‚È‰»Ï‘ä‚ª‚ ‚éB<__>‚µ‚©‚µAŠÌS‚Ì‰»Ï•i‚Í‚©‚È‚è­‚È‚¢cc<00>
+<TAG_005>There is a splendid makeup table.<__>However, the essential cosmetics are quite few...<00>
 [ENDBLOCK]
 <Alba><00>
 [ENDBLOCK]
@@ -448,7 +448,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qI@˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qI@?€<00>
 [ENDBLOCK]
 <18>eY<<00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
@@ -490,7 +490,7 @@ camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
