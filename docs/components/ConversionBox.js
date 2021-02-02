@@ -6,6 +6,7 @@ import {
   Flex,
   Button,
   Tooltip,
+  Text,
 } from "@chakra-ui/react";
 import { Icon, useClipboard } from "components";
 
@@ -15,9 +16,21 @@ const ConversionBox = ({
   id,
   label,
   readOnly = false,
+  rows = 10,
+  maxLength,
+  buttons = <></>,
   ...props
 }) => {
   const { hasCopied, onCopy } = useClipboard(value);
+  const showCharsLeft = () => {
+    if (maxLength)
+      return (
+        <Text sx={{ float: "right", mt: -9, mr: 3 }} color="gray.300">{` ${
+          maxLength - (value?.length || 0)
+        } characters left`}</Text>
+      );
+    else return "";
+  };
   return (
     <FormControl id={id} {...props}>
       <FormLabel mr={0}>
@@ -33,6 +46,7 @@ const ConversionBox = ({
               </Button>
             </Tooltip>
           )}
+          {buttons}
           <Tooltip hasArrow label={hasCopied ? "Copied" : "Copy"}>
             <Button size="sm" onClick={onCopy} ml={2}>
               <Icon size="sm" name={hasCopied ? "check-circle" : "copy"} />
@@ -44,11 +58,13 @@ const ConversionBox = ({
         fontFamily="mono"
         readOnly={readOnly}
         placeholder={label}
-        rows={10}
+        rows={rows}
         value={value}
         onChange={onChange}
+        maxLength
         sx={{ bg: readOnly ? "gray.50" : "transparent" }}
       />
+      {showCharsLeft()}
     </FormControl>
   );
 };
