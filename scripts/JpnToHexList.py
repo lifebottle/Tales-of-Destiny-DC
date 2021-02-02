@@ -22,7 +22,7 @@ def jpnToHexList(japText):
 
     # Load the HEX mapping tables from a path
     pathTables = os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                              '..', 'dictionary'))
+                                              '..', '_dictionary'))
 
     dfKanji = pd.read_csv(pathTables + "//kanji.txt", sep=",",
                           header=None, names=['hex', 'value'])
