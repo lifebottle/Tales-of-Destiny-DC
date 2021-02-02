@@ -6,14 +6,14 @@ def HexToJpn(word):
     mapping = {}
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '.', 'dictionary//kanji.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//kanji.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
         mapping[line[0:4]] = line[6]
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '.', 'dictionary//katakana.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//katakana.txt')), "r", encoding="utf8")
 
     Lines = fo.readlines()
 
@@ -21,14 +21,14 @@ def HexToJpn(word):
         mapping[line[0:4]] = line[6]
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '.', 'dictionary//hiragana.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//hiragana.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
         mapping[line[0:4]] = line[6]
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '.', 'dictionary//symbols.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//symbols.txt')), "r", encoding="utf8")
 
     Lines = fo.readlines()
 
