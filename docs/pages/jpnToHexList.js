@@ -8,6 +8,7 @@ export default function Page() {
   const [hexValue, setHexValue] = useState("");
   const [curBody, setCurBody] = useState([]);
   const [curIndex, setCurIndex] = useState(0);
+  const MAX_INPUT_LENGTH = 64;
 
   const handleChange = async (e) => {
     setJpnValue(e.target.value);
@@ -48,7 +49,8 @@ export default function Page() {
         value={jpnValue}
         onChange={handleChange}
         id="japanese"
-        label="Japanese"
+        label={`Japanese`}
+        maxLength={MAX_INPUT_LENGTH}
       />
       <ConversionBox
         value={hexValue}
