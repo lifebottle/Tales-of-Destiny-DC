@@ -38,12 +38,13 @@ def jpnToHexList(japText):
     # Make a big table with all the elements
     dfAllPoss = pd.concat([dfKanji, dfHiragana, dfKatakana, dfSymbols])
     dfAllPoss['value'] = dfAllPoss['value'].str.replace(' ', '')
+    dfAllPoss['hex'] = dfAllPoss['hex'].str.slice(0,2) + ' ' + dfAllPoss['hex'].str.slice(2,4)
 
     # List all the different possible ways of HEX for this text
     df = [dfAllPoss.loc[dfAllPoss['value'] == character, 'hex'].tolist()
           for character in japText]
     listValues = []
     for element in itertools.product(*df):
-        listValues.append(('').join(element).lower())
+        listValues.append((' ').join(element).lower())
 
     return listValues
