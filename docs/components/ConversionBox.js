@@ -15,6 +15,8 @@ const ConversionBox = ({
   id,
   label,
   readOnly = false,
+  rows = 10,
+  buttons = <></>,
   ...props
 }) => {
   const { hasCopied, onCopy } = useClipboard(value);
@@ -33,6 +35,7 @@ const ConversionBox = ({
               </Button>
             </Tooltip>
           )}
+          {buttons}
           <Tooltip hasArrow label={hasCopied ? "Copied" : "Copy"}>
             <Button size="sm" onClick={onCopy} ml={2}>
               <Icon size="sm" name={hasCopied ? "check-circle" : "copy"} />
@@ -44,7 +47,7 @@ const ConversionBox = ({
         fontFamily="mono"
         readOnly={readOnly}
         placeholder={label}
-        rows={10}
+        rows={rows}
         value={value}
         onChange={onChange}
         sx={{ bg: readOnly ? "gray.50" : "transparent" }}
