@@ -2,7 +2,7 @@ from http.server import BaseHTTPRequestHandler
 from datetime import datetime
 from urllib.parse import urlparse
 import json
-from .scripts.jHex import jHex
+from ._scripts.jHex import jHex
 
 
 class handler(BaseHTTPRequestHandler):
