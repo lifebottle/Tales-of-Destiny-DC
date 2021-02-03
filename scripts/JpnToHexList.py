@@ -22,7 +22,7 @@ def jpnToHexList(japText):
 
     # Load the HEX mapping tables from a path
     pathTables = os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                              '.', 'dictionary'))
+                                              '..', '_dictionary'))
 
     dfKanji = pd.read_csv(pathTables + "//kanji.txt", sep=",",
                           header=None, names=['hex', 'value'])
@@ -38,7 +38,8 @@ def jpnToHexList(japText):
     # Make a big table with all the elements
     dfAllPoss = pd.concat([dfKanji, dfHiragana, dfKatakana, dfSymbols])
     dfAllPoss['value'] = dfAllPoss['value'].str.replace(' ', '')
-    dfAllPoss['hex'] = dfAllPoss['hex'].str.slice(0,2) + ' ' + dfAllPoss['hex'].str.slice(2,4)
+    dfAllPoss['hex'] = dfAllPoss['hex'].str.slice(
+        0, 2) + ' ' + dfAllPoss['hex'].str.slice(2, 4)
 
     # List all the different possible ways of HEX for this text
     df = [dfAllPoss.loc[dfAllPoss['value'] == character, 'hex'].tolist()
