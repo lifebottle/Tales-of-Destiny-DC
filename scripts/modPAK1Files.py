@@ -21,7 +21,8 @@ def read_from_hex_offset(fileIte, hex_offset):
         f.close()
 
 hex_search = '00000004'
-pathPAK1 = os.path.abspath( os.path.join(os.path.dirname(__file__), 'DAT','PAK1'))
+pathPAK1 = os.path.abspath( os.path.dirname(__file__))
+print(pathPAK1)
 listFiles = os.listdir(pathPAK1)
 listFilesWithPath = [os.path.join(pathPAK1, file) for file in listFiles]
 
