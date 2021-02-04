@@ -74,29 +74,29 @@
 [ENDBLOCK]
 ‚ [!!@‚¤‚»‚¤‚»B<__>“dŒ‚‚¾‚¯‚ÍAŠ¨•Ù‚µ‚ÄI<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-‚±‚¿‚ç‚Í‚¨é‚É‹Î‚ß‚é•ûX‚Ì‚½‚ß‚ÌA<__>H“°‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B<00>
+This is a dining room for people<__>who work in the castle.<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-<Lion>—lA‚æ‚­‚¨‰z‚µ‚­‚¾‚³‚¢‚Ü‚µ‚½B<__>‰½‚©‚¨H‚×‚É‚È‚è‚Ü‚·H<00>
+Mr. Lion, thank you very much.<__>Would you like something to eat?<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-‚·‚Ý‚Ü‚¹‚ñB‚±‚±‚Í‚¨é‚Ì•û‚Ì‚Ý‚Ì<__>‚²—˜—p‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B<00>
+Excuse me. This is only available<__>for castle members.<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-”ñíŽ–‘Ô‚Æ‚¢‚¤Ž–‚ÅA<__>‚±‚ÌH“°‚É‚àŒ–ñ—ß‚ªo‚³‚ê‚Ü‚µ‚½B<00>
+Because of the emergency, a thrift<__>order was issued to this dining room.<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-‚¢‚Â‚Ü‚Å‚±‚ñ‚Èó‘Ô‚ª‘±‚­‚Ì‚â‚çcc<00>
+How long will this state last?...<00>
 [ENDBLOCK]
-—«<00>
+Woman<00>
 [ENDBLOCK]
-j‰ê‰ï‚Ì€”õ‚ði‚ß‚Ä‚¨‚«‚Ü‚·B<__>–³Ž–‚Ì‚¨‹A‚è‚ð‚¨‘Ò‚¿‚µ‚Ä‚¢‚Ü‚·B<00>
+Prepare for the celebration. We<__>look forward to your safe return.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -130,7 +130,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qH¤˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qH¤E<00>
 [ENDBLOCK]
 <18>eX <00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
@@ -166,13 +166,13 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eX˜<00>€<__><18>eXœ<00>€<00>
+<TAG_007><18>eXE00>€<__><18>eXE00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>E‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
