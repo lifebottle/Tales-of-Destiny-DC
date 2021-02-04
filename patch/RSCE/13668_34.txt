@@ -230,7 +230,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>„<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>ETAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -248,7 +248,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>„<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>ETAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -256,49 +256,49 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qH¨˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qH¨E<00>
 [ENDBLOCK]
 <18>eX¤<00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iH˜€‚½‚¿‚Í<00>
+<19>iHE‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iH˜€‚Í<00>
+<19>iHE‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eXœ<00>€<__><18>eX <00>€<00>
+<TAG_007><18>eXE00>€<__><18>eX <00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>E‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -400,15 +400,9 @@ notice<00>
 [ENDBLOCK]
 ‚í‚½‚µ‚Í<18>fP<18><00>€‚ÅŒðˆÕ‚ð‚â‚Á‚Ä‚¢‚é<__><18>fP<14><00>€‚Æ‚¢‚¤ŽÒ‚¾B<00>
 [ENDBLOCK]
-<<<<<<< HEAD
-<<<<<<< HEAD
 I'm Honeywell, I'm a<__>trader in Harmentz.<00>
-=======
+[ENDBLOCK]
 ‚Ü‚¾I‚í‚Á‚Ä‚È‚¢‚Ì‚©H<__>‚â‚ß‚é‚Æ‚©Œ¾‚í‚È‚¢‚Å‚­‚ê‚æB<00>
->>>>>>> parent of 60871f7... Update 13668_34.txt
-=======
-You're not done yet? Please don't<__>tell me you're quitting.00>
->>>>>>> parent of 1267eb9... Update 13668_34.txt
 [ENDBLOCK]
 ‚à‚µ‰É‚¾‚Á‚½‚çA<__>ŽdŽ–‚ðŽè“`‚Á‚Ä‚­‚ê‚È‚¢‚©H<__><00>
 [ENDBLOCK]
@@ -418,15 +412,7 @@ select<00>
 [ENDBLOCK]
 <18>fP,<00>€‚Ì<18>fP(<00>€‚É<__><1A>qD4€‚ð<17>r@<10>€ŒÂ’²’B‚µ‚Ä‚­‚êB<00>
 [ENDBLOCK]
-<<<<<<< HEAD
-<<<<<<< HEAD
-Reward <17>r<04>€ Gald<__>It's an easy job for you, isn't it?<__><00>
-=======
 •ñV‚Í<17>r<04>€ƒKƒ‹ƒh‚¾B<__>‚ ‚ñ‚½‚È‚çŠÈ’P‚ÈŽdŽ–‚¾‚ëH<__><00>
->>>>>>> parent of f8be3c6... Update 13668_34.txt
-=======
-Reward<17>r<04>€ Gald<__>It's an easy job for you, isn't it?<__><00>
->>>>>>> parent of 259657f... Update 13668_34.txt
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
