@@ -398,7 +398,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<00>
 [ENDBLOCK]
-‚í‚½‚µ‚Í<18>fP<18><00>€‚ÅŒğˆÕ‚ğ‚â‚Á‚Ä‚¢‚é<__><18>fP<14><00>€‚Æ‚¢‚¤Ò‚¾B<00>
+I am<18>fP<18><00>€ They're trading in.<__><18>fP<14><00>€ It's called.<00>
 [ENDBLOCK]
 I'm Honeywell, I'm a<__>trader in Harmentz.<00>
 [ENDBLOCK]
@@ -406,25 +406,21 @@ If you're not too busy, maybe you<__>could help me with my work.<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>d–‚ğˆø‚«ó‚¯‚é<__>‰É‚¶‚á‚È‚¢<__>‚Ç‚ñ‚Èd–H<__><00>
+<TAG_007>Take on a job?<__>I don't have time for this.<__>What's the job?<__><00>
 [ENDBLOCK]
-<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__><1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚µ‚Ä‚­‚êB<00>
+<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__><1A>qD4€‚ğ<17>r@<10>€ Procure me one.<00>
 [ENDBLOCK]
-<<<<<<< HEAD
 Reward <17>r<04>€ Gald<__>It's an easy job for you, isn't it?<__><00>
-=======
-•ñV‚Í<17>r<04>€ƒKƒ‹ƒh‚¾B<__>‚ ‚ñ‚½‚È‚çŠÈ’P‚Èd–‚¾‚ëH<__><00>
->>>>>>> parent of f8be3c6... Update 13668_34.txt
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€ƒKƒ‹ƒh<__>d–‚ğˆø‚«ó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
+<TAG_007>RequestF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ğ<17>r@<10>€ Procure one.<__>RewardF<17>r<04>€ Gald<__>Do you want to take the job?<__>I'll do it<__>I'll stop<00>
 [ENDBLOCK]
-‚Æ‚è‚ ‚¦‚¸•ñV‚Ìˆê•”‚ğ<__>‘O‹à‚Æ‚µ‚Ä“n‚µ‚Ä‚¨‚­B<__><00>
+In the meantime, I'll give you<__>a portion of the reward<__>as an advance.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‘O“n‚µ‹à‚Æ‚µ‚Ä<__><17>r<04>€ƒKƒ‹ƒhó‚¯æ‚è‚Ü‚µ‚½B<__><00>
+<TAG_007>As advance payment<__><17>r<04>€ Gald Received.<__><00>
 [ENDBLOCK]
 I'm counting on you.<00>
 [ENDBLOCK]
@@ -440,15 +436,15 @@ I mean, there's money to be made<__>in this, so why not do it, right?<00>
 [ENDBLOCK]
 Please do as much as Z.<00>
 [ENDBLOCK]
-<18>fP <00>€‚Ì<18>fP<1C><00>€‚©‚ç<__>ˆË—Š‚ğó‚¯‚Ä‚¢‚é‚æ‚¤‚¾‚ÈB<00>
+<18>fP <00>€‚Ì<18>fP<1C><00>€ since<__>I see you've been commissioned.<00>
 [ENDBLOCK]
-’•¶‚Ì•i‚Ícc<__><1A>r<0C>€‚ğ<17>r@<10>€ŒÂ‚¾‚ÈB<__><00>
+What to order...<__><1A>r<0C>€‚ğ<17>r@<10>€ One.<__><00>
 [ENDBLOCK]
-‘‚ß‚É—Š‚Ş‚ºB<__><00>
+I'll be quick about it.<00>
 [ENDBLOCK]
-<18>fP <00>€‚Í<18>fP$<00>€‚É‚¢‚éB<__><00>
+<18>fP <00>€‚Í<18>fP$<00>€I'm in.<__><00>
 [ENDBLOCK]
-<1A>r<0C>€‚ğ<17>r@<10>€ŒÂA<__>ŠÔˆá‚¢‚È‚­’²’B‚µ‚Ä‚­‚ê‚æB<__><00>
+<1A>r<0C>€‚ğ<17>r@<10>€ individual,<__>Definitely procure me one.<__><00>
 [ENDBLOCK]
 Good luck with the procurement!<__><00>
 [ENDBLOCK]
@@ -458,7 +454,7 @@ Reward<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP,<00>€‚Æ‚µ‚Ä<__><17>r@<1C>€ƒKƒ‹ƒh‚à‚ç‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007><18>fP,<00>€‚Æ‚µ‚Ä<__><17>r@<1C>€ I got Gald.<__><00>
 [ENDBLOCK]
 You're short of the specified number of items...<00>
 [ENDBLOCK]
@@ -482,7 +478,7 @@ penalty for contract breach<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP(<00>€‚Æ‚µ‚Ä<__><17>r@<18>€ƒKƒ‹ƒh•¥‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007><18>fP(<00>€‚Æ‚µ‚Ä<__><17>r@<18>€ I paid Gald.<__><00>
 [ENDBLOCK]
 You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
@@ -490,7 +486,7 @@ In the meantime, I'm going to<__>get a stray rodent to pay<__>for what I have.<0
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>–Àê–@‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒhx•¥‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007>In a way that is difficult to understand<__><17>r@<14>€ Gald paid.<__><00>
 [ENDBLOCK]
 You don't have enough money. Come<__>back when you have it.<00>
 [ENDBLOCK]
@@ -506,7 +502,7 @@ penalty for contract breach<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP(<00>€‚Æ‚µ‚Ä<__><17>r@<18>€ƒKƒ‹ƒh•¥‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007><18>fP(<00>€‚Æ‚µ‚Ä<__><17>r@<18>€ I paid Gald.<__><00>
 [ENDBLOCK]
 I can't cancel the contract unless<__>you pay me the penalty for contract breach.<00>
 [ENDBLOCK]
@@ -514,7 +510,7 @@ In the meantime, I'm going to make<__>him a stray rodent and have him<__>pay me 
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>–Àê–@‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒh•¥‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007>In a way that is difficult to understand<__><17>r@<14>€ I paid Gald.<__><00>
 [ENDBLOCK]
 Get the money ready and then come back.<00>
 [ENDBLOCK]
