@@ -6,7 +6,7 @@ def jHex(word):
     mapping = {}
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '..', 'dictionary//kanji.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//kanji.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
@@ -14,19 +14,19 @@ def jHex(word):
             mapping[line[6]] = line[0:2] + " " + line[2:4]
 
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '..', 'dictionary//katakana.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//katakana.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
         mapping[line[6]] = line[0:2] + " " + line[2:4]
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '..', 'dictionary//hiragana.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//hiragana.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
         mapping[line[6]] = line[0:2] + " " + line[2:4]
     fo = open(os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                           '..', 'dictionary//symbols.txt')), "r", encoding="utf8")
+                                           '..', '_dictionary//symbols.txt')), "r", encoding="utf8")
     Lines = fo.readlines()
 
     for line in Lines:
