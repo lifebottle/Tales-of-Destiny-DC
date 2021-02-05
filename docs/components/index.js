@@ -22,6 +22,11 @@ export const TOOL_LINKS = [
     title: "Japanese to Hex",
   },
   {
+    icon: "list",
+    href: "/jpnToHexList",
+    title: "Japanese to Hex List",
+  },
+  {
     icon: "tool",
     href: "/engToHex",
     title: "English to Hex",
