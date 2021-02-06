@@ -86,27 +86,29 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 
 ## Armeida
 
-## Darilseid Port 
-video : https://drive.google.com/file/d/1cWVikWCpV3IS9NCwPGbUeS1l1lgXnntc/view?usp=sharing
-13739_48 - line 279 (before boarding the boat) 0:20
-13739_48 - line 319 Hugo speaking 2:16
+## Darilsheid Port 
+video : https://drive.google.com/file/d/1cWVikWCpV3IS9NCwPGbUeS1l1lgXnntc/view?usp=sharing  
+13739_48 - line 279 (before boarding the boat) 0:20  
+13739_48 - line 319 Hugo speaking 2:16  
 
 ## On the boat
-13874_32 - line 1 (downstairs) 2:33
-13871_56 - line 379 (other scene on boat) 4:25
-13871_56 - line 395 (scene after cutscene) 4:40
-Finish at line 451
+13874_32 - line 1 (downstairs) 2:33  
+13871_56 - line 379 (other scene on boat) 4:25  
+13871_56 - line 395 (scene after cutscene) 4:40  
+Finish at line 451  
 
 ## Sunken base (Finding the 4th swordian)
-video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?usp=sharing
-13882_114 - line 389 0:00
-13884_56 - line 25 to 29 1:15
-13882_114 - line 417 Philia walking alone 1:48
-Scene using the pickaxe :
-Search for さっきの<ITEM_149>を使えば in multiple files 3:12
-13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06
-13890_71 - line 27 7:14
-13882_114 - line 445 7: 20
+video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?usp=sharing  
+13882_114 - line 389 0:00  
+13884_56 - line 25 to 29 1:15  
+13882_114 - line 417 Philia walking alone 1:48  
+
+Scene using the pickaxe :  
+Search for さっきの<ITEM_149>を使えば in multiple files 3:12  
+13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06  
+13890_71 - line 27 7:14  
+13882_114 - line 445 7: 20  
+
 ## Leon's Side
 ## !(if you see duplicate file you need to do both file if you translate this part or else we will have to come back to fix it later)!
 
