@@ -1,16 +1,18 @@
 import { useState } from "react";
 import { Flex } from "@chakra-ui/react";
 import { ConversionBox } from "components";
-import { fetchRoute } from "components";
+import { useFetch } from "components";
 
 export default function Page() {
-  const [jpnValue, setJpnValue] = useState("");
   const [hexValue, setHexValue] = useState("");
+  const { loading, data: jpnValue, doFetch, error } = useFetch();
 
   const handleChange = async (e) => {
     setHexValue(e.target.value);
-    const data = await fetchRoute("api/hexToJpn", { input: e.target.value });
-    setJpnValue(data?.body || "");
+    doFetch({
+      url: "api/hexToJpn",
+      body: { input: e.target.value },
+    });
   };
 
   return (
@@ -23,9 +25,11 @@ export default function Page() {
         label="Hex"
       />
       <ConversionBox
+        error={error}
         value={jpnValue}
         id="japanese"
         label="Japanese"
+        isLoading={loading}
         readOnly={true}
       />
     </Flex>

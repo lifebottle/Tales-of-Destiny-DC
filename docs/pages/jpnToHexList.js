@@ -1,23 +1,22 @@
 import { useEffect, useState } from "react";
 import { Flex, Tooltip, Button } from "@chakra-ui/react";
 import { ConversionBox, Icon } from "components";
-import { fetchRoute } from "components";
+import { useFetch } from "components";
 
 export default function Page() {
   const [jpnValue, setJpnValue] = useState("");
-  const [hexValue, setHexValue] = useState("");
+  const [hexValue, setHexValue] = useState([]);
+  const { loading, data, doFetch, error } = useFetch();
   const [curBody, setCurBody] = useState([]);
   const [curIndex, setCurIndex] = useState(0);
   const MAX_INPUT_LENGTH = 64;
 
   const handleChange = async (e) => {
     setJpnValue(e.target.value);
-    const data = await fetchRoute("api/jpnToHexList", {
-      input: e.target.value,
+    doFetch({
+      url: "api/jpnToHexList",
+      body: { input: e.target.value },
     });
-    setCurIndex(0);
-    setCurBody(data?.body || []);
-    setHexValue(data?.body?.[curIndex] || "");
   };
 
   const navigateIndex = () => {
@@ -27,6 +26,12 @@ export default function Page() {
       setCurIndex(0);
     }
   };
+
+  useEffect(() => {
+    setCurIndex(0);
+    setCurBody(data || []);
+    setHexValue(data?.[curIndex] || "");
+  }, [data]);
 
   useEffect(() => {
     setHexValue(curBody?.[curIndex] || "");
@@ -55,6 +60,8 @@ export default function Page() {
       <ConversionBox
         value={hexValue}
         id="hex"
+        isLoading={loading}
+        error={error}
         label={
           hexValue !== ""
             ? `Hex Option ${curIndex + 1} of ${curBody?.length}`
