@@ -284,15 +284,19 @@ Did you lose something?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I lose my passport to <__>get through Phandaria.<00>
+<<<<<<< HEAD
+I lost my passport...<__>Now I can't get<__>through to Phandaria.<00>
+=======
+I lost my passport to <__>get through Phandaria.<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-If you have a passport for Seinegald <__>it should be fine. <00>
+If you have a passport for Seinegald <__>you should be fine. <00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I can't go homeÅcÅc<00>
+I can't go home...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -308,7 +312,7 @@ Did you remember?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-ÅcÅcToilet.<00>
+...Toilet.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -316,19 +320,19 @@ So, you must pick it up immediately.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-Maybe it's already been flushedÅcÅc<00>
+Maybe it's already been flushed...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I'll think of another wayÅcÅc<00>
+I'll think of another way...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I'm like bird in the cageÅcÅc<00>
+I'm like bird in the cage...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-HahÅcÅc<00>
+Hah...<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
@@ -348,7 +352,7 @@ Like bird in the cage.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Huh? ButÅcÅc<00>
+Huh? But...<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
@@ -356,7 +360,7 @@ Please don't give up!<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-I know you can get out from hereÅcÅc<00>
+I know you can get out from here...<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
@@ -376,7 +380,7 @@ Miss, thank you <__>I've got my spirit back.
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-Even i don't leave from inn.<00>
+Even I don't leave from inn.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
@@ -388,7 +392,7 @@ Yes, I believe so.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I believe, i will back to Phandaria!<00>
+I believe, I will go<__>back to Phandaria!<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
@@ -396,11 +400,11 @@ I only can give it, thank you.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-ReallyÅcÅc Thank you very much.<00>
+Really... Thank you very much.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-You knowÅcÅc <Philia>ÅH<00>
+You know... <Philia>ÅH<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
@@ -408,7 +412,7 @@ Now you can get in and out to<__>Janos with this passport.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-SorryÅcÅcI know thatÅcÅc<00>
+Sorry...I know that...<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -424,11 +428,11 @@ Yeah.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Hey, are youÅcÅc Master <Lion>?<00>
+Hey, are you... Master <Lion>?<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-How can you become a member of <_>the King's Swordsmen?<00>
+How can you become a member of<__>the King's Swordsmen?<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -452,11 +456,11 @@ What?<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-I was Lady Chris childhood friend.<00>
+I was Lady Chris's<__>childhood friend.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Lady Chris is very cute and kind.<00>
+Lady Chris is very<__>cute and kind.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -468,11 +472,11 @@ You were one of them, right?<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Oh, i'm not.<00>
+Oh, I'm not.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-HuhÅcÅc<00>
+Huh...<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
@@ -484,11 +488,11 @@ HahÅH<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Oh, i'm so sorry to hear that.<00>
+Oh, I'm so sorry to hear that.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-It's okay, beside thatÅcÅc<00>
+It's okay, beside that...<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -496,7 +500,7 @@ Beside that?<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-NoÅcÅcIt's doesn't matter.<__>Thank you.<00>
+No...It's doesn't matter.<__>Thank you.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -508,15 +512,15 @@ How do you know that?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ActuallyÅcÅc<00>
+Actually...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-YeahÅcÅc<00>
+Yeah...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-Ok, i'll do this.<00>
+Ok, I'll do this.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -524,7 +528,7 @@ Thank you.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-If i had met you sooner.<00>
+If I had met you sooner.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
@@ -532,7 +536,7 @@ Let's do our best!<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I'm sure some Calvalese's people <__>still live at Cyril.<00>
+I'm sure some Calvalese people <__>still live in Cyril.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
@@ -548,11 +552,11 @@ His body is very weak.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>úÉ≈õÇ?zÇ¶ÇÈëOÇ…ÇÕ<__>èhâÆÇ≈ÇµÇ¡Ç©ÇËãxÇ›Ç‹ÇµÇÂÇ§ÅB<__>-----ÉWÉFÉmÉXèhÁÇŸBê›ã¶âÔ<00>
+<TAG_005>Before zipping off to the border,<__>take a good night's rest.<__>-----Janos Lodging Association<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>Ç®éÇÕëÂêlÇ…Ç»Ç¡ÇƒÇ©ÇÁÅB<00>
+<TAG_005>Alcohol is for Adults.<00>
 [ENDBLOCK]
 debug<00>
 [ENDBLOCK]
@@ -564,7 +568,7 @@ Beyond this gate is Seinegald Kingdom, <__>Darilsheid the capital is quite <__> 
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Without the passport, we can't <__>let you get through.<00>
+Without a passport, we can't <__>let you go through.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -588,7 +592,7 @@ This area is forbiden.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Whoever you are, i still <__>can't let you get through.<00>
+Whoever you are, I still <__>can't let you get through.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -616,11 +620,11 @@ I'm counting on you guys.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-Do you want go to Seinegald.<00>
+Do you want to<__>go to Seinegald.<00>
 [ENDBLOCK]
 <19><15>VÄ<00>
 [ENDBLOCK]
-Yes i do.<00>
+Yes I do.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -628,11 +632,11 @@ Do you have a passport?<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-There is no way to get through <__>Seinegald because this <__>situation.<00>
+There is no way to get through <__>Seinegald because of this <__>situation.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-There is no way to get through <__>Seinegald because this <__>situation.<00>
+There is no way to get through <__>Seinegald because of this <__>situation.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -640,11 +644,11 @@ I can't do anything for you.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-You have a passport, now<__>you can get through.<00>.
+You have a passport, now<__>you can come and go.<00>.
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
-You don't need passport anymore.<__>Phandaria is safe now.<00>
+You don't need passports anymore.<__>Phandaria is safe now.<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -664,7 +668,7 @@ We trust you.00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
-To get Harmentz, you must take<__>the north gate and go<__>northwest from there.<00>
+To get to Harmentz, you must take<__>the north gate and go<__>northwest from there.<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
@@ -672,7 +676,7 @@ Is it true that Phandaria <__>was destroyed?<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
-What will happen if i lose my passport?<00>
+What will happen if I lose my passport?<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
@@ -680,7 +684,7 @@ What's that weird thing in the sky?<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
-Why the sky is being dark?<00>
+Why is the sky becoming dark?<00>
 [ENDBLOCK]
 Girl<00>
 [ENDBLOCK]
@@ -688,7 +692,7 @@ Good luck guys.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-I heard, prince of Phandaria is <__>a pretty silver haired man.<00>
+I heard that the prince of<__>Phandaria is a pretty<__>silver-haired man.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
@@ -720,35 +724,51 @@ I believe that Lord <Woodrow><__>will bring back the peace.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I want to talk with <__>that beautiful womanÅcÅc<00>
+<<<<<<< HEAD
+Do you see that<__>beautiful woman over there?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-What i must say to her?<00>
+What should I say to her..?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I want to talk with <__>that beautiful womanÅcÅc<00>
+Do you see that<__>beautiful woman over there?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I try so hard to talk with her,<__>but i can'tÅcÅc<00>
+I want so badly to talk to her,<__>but I just can't do it...<00>
+=======
+I want to talk with <__>that beautiful woman...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I need to talk with herÅcÅc<00>
+What should I say to her?<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I will always protect her.<__>I hope i can say it.<00>
+I want to talk with <__>that beautiful woman...<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-I wonder if i can't talk with<__>her like this forever.<00>
+I try so hard to talk with her,<__>but I can't...<00>
+>>>>>>> upstream/master
+[ENDBLOCK]
+Man<00>
+[ENDBLOCK]
+I need to talk with her...<00>
+[ENDBLOCK]
+Man<00>
+[ENDBLOCK]
+I will always protect her.<__>I hope I can say it.<00>
+[ENDBLOCK]
+Man<00>
+[ENDBLOCK]
+I wonder if I'll ever be<__>able to talk to her.<00>
 [ENDBLOCK]
 Young man<00>
 [ENDBLOCK]
-I saw a flying dragon the other day. <__>It was flying very low.<00>
+I saw the Draconis the other day. <__>It was flying awfully low.<00>
 [ENDBLOCK]
 Young man<00>
 [ENDBLOCK]
@@ -764,7 +784,7 @@ I saw something shining in the <__>Seinegald area. Is it Belcrant?<00>
 [ENDBLOCK]
 Young man<00>
 [ENDBLOCK]
-Wherever we go, human kind <__>will perishedÅcÅc<00>
+Wherever we go, human kind <__>will perished...<00>
 [ENDBLOCK]
 Young man<00>
 [ENDBLOCK]
@@ -774,25 +794,29 @@ Young man<00>
 [ENDBLOCK]
 All we can do is pray.<__>Hope our world is save.<00>
 [ENDBLOCK]
-Grandpa<00>
+Old Man<00>
 [ENDBLOCK]
-I'm afraid you catch a cold.<__>Please come inside.<00>
+<<<<<<< HEAD
+You'll catch a cold standin' out here.<__>You should come inside.<00>
+=======
+I'm afraid you'll catch a cold.<__>Please come inside.<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
-Grandpa<00>
+Old Man<00>
 [ENDBLOCK]
 Don't get flustered. <__>Have a dry towel and calm yourself.<00>
 [ENDBLOCK]
-Grandpa<00>
+Old Man<00>
 [ENDBLOCK]
 If the monsters attack, I'll attack using that.<00>
 [ENDBLOCK]
-Grandpa<00>
+Old Man<00>
 [ENDBLOCK]
 If you feel bad, use that thing. <__>Do your best.<00>
 [ENDBLOCK]
 Man<00>
 [ENDBLOCK]
-We'll find a wayÅcÅc<00>
+We'll find a way...<00>
 [ENDBLOCK]
 Seinegald Soldier<00>
 [ENDBLOCK]
@@ -800,13 +824,13 @@ If you want get through, <__>show me your passport.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-A passport? I don't have any.<__><00>
+A passport? I don't have one.<__><00>
 [ENDBLOCK]
 Then we can't let you through.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-But,<__>i've come all this way.<__><00>
+But, I've come<__>all this way.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -818,19 +842,19 @@ Do you want to be fugitive in Seinegald?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Of course no, <__>hmm it's so bad.<__><00>
+Of course not, <__>hmm... this is a problem.<__><00>
 [ENDBLOCK]
 ÅHÅHÅH<00>
 [ENDBLOCK]
-Hmm, it's so bad.<__><00>
+Hmm, this is a problem.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-HahÅcÅc<__><00>
+Hah...<__><00>
 [ENDBLOCK]
 ÅHÅHÅH<00>
 [ENDBLOCK]
-HahÅcÅc<__><00>
+Hah...<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -850,15 +874,15 @@ My friend got trapped at the <__>temple near town.<00>
 [ENDBLOCK]
 ÅHÅHÅH<00>
 [ENDBLOCK]
-I canÅft do anything on my own, so <__>i come to town looking for<__>help but,<__><00>
+I canÅft do anything on my own, so <__>I've come to town looking for<__>help but...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ThatÅfs awful! If itÅfs okay with you, <__>iÅfll help you.<__><00>
+ThatÅfs awful! If itÅfs okay<__>with you, IÅfll help you.<__><00>
 [ENDBLOCK]
 ÅHÅHÅH<00>
 [ENDBLOCK]
-Seriously? ItÅfd be a huge help.<__><00>
+Seriously? that'd be<__>a huge help.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -866,11 +890,15 @@ ArenÅft we going to Seinegald?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ÅgNever abandon a person in need.Åh <__>ThatÅfs Aileron mottos.<__><00>
+<<<<<<< HEAD
+ÅgNever abandon a person in need.Åh <__>ThatÅfs the Aileron<__>family motto!<__><00>
+=======
+ÅgNever abandon a person in need.Åh <__>ThatÅfs the Aileron Family Motto.<__><00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-What a bunch of do-gooders.<__><00>
+Your family sure is trusting.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -878,11 +906,15 @@ Yeah, I guess.<__><00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-ÅcÅcÅcÅc<__><00>
+......<__><00>
 [ENDBLOCK]
 ÅHÅHÅH<00>
 [ENDBLOCK]
-Take the east gate and going through <__>the snowy mountains to <__>get the temple.<__><00>
+<<<<<<< HEAD
+We can get to the temple by<__>going through the East gate, and<__>then passing through the mountains.<00>
+=======
+Take the east gate and go through <__>the snowy mountains to <__>get the temple.<__><00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -908,15 +940,15 @@ Ok, IÅfll use it now.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-W-wait a sec. Don't leave in such a hurry.<__><00>
+W-wait a sec. Don't leave<__>in such a hurry.<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-We want to thank you for your help.<__><00>
+We want to thank you<__>for your help.<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-IÅfm sure Atwight and Dymlos have <__>so much thing to talk about. <__>Right?<__><00>
+IÅfm sure Atwight and Dymlos have <__>so much thing to talk about. <__>Right?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -928,11 +960,11 @@ LetÅfs go to the tavern. ItÅfs <__>in the same building as the inn.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
-<Stahn>, do you know what is ÅuReriseÅv?<__><00>
+<Stahn>, do you<__>know what ÅuReriseÅv is?<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ÅuReriseÅv? Never heard that.<__><00>
+ÅuReriseÅv? Never heard of it.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
@@ -940,7 +972,7 @@ Dymlos must not have explained. <__>Fine, IÅfll explain it.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
-ÅuReriseÅv is one of a swordianÅfs abilities.<__><00>
+ÅuReriseÅv is one of a SwordianÅfs abilities.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
@@ -948,7 +980,7 @@ You can transform your weapons<__>and armor using lens.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
-Based on what it will becomes, <__>the amount of consumed lens <__>will also different.<__><00>
+The amount of lens consumed varies<__>based on what it transforms into.<00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
@@ -956,11 +988,11 @@ Careful not to overuse your lens.<__><00>
 [ENDBLOCK]
 <Atwight><00>
 [ENDBLOCK]
-Anyway, you canÅft transform<__>your swordian.<__><00>
+Anyway, you canÅft transform<__>your Swordian.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-So i can use lens to transform any <__>armor and weapons except swordian.<__><00>
+So I can use lens to transform any<__>armor and weapons except Swordians.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -988,15 +1020,23 @@ Seinegald Soldier<00>
 [ENDBLOCK]
 Why!! Why are you blocking our way!<__><00>
 [ENDBLOCK]
-I'm already tell you, if you donÅft<__>have a passport you can't <__>get through!<__><00>
+<<<<<<< HEAD
+I already told you! If you donÅft<__>have a passport, I'm not<__>letting you through!<00>
 [ENDBLOCK]
 ÅHÅHÅHÅH<00>
 [ENDBLOCK]
-So i must use my face as a pass? <__>Look at my face!<__><00>
+Oh, really? Well, look<__>closely at my face! Once you realize<__>who I am, you'll change your tune!<00>
+=======
+I've already told you, if you donÅft<__>have a passport you can't<__>get through!<00>
+[ENDBLOCK]
+ÅHÅHÅHÅH<00>
+[ENDBLOCK]
+Then how about a face pass?<__>If you're as renowned as me,<__>that should be enough!<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Wow, those people must be famous.<__><00>
+Wow, those people<__>must be famous.<00>
 [ENDBLOCK]
 ÅHÅHÅHÅH<00>
 [ENDBLOCK]
@@ -1004,15 +1044,15 @@ ThatÅfs right! WeÅfre the most <__>famous lens hunters!<__><00>
 [ENDBLOCK]
 Milly<00>
 [ENDBLOCK]
-Milly the GaleÅI<__><00>
+Milly the Gale!<__><00>
 [ENDBLOCK]
 John<00>
 [ENDBLOCK]
-John the GluttonousÅI<__><00>
+John the Gluttonous!<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
-And me! Grid the Ultrasonic Scion!<__><00>
+And me! Grid the Omnipotent!!<__><00>
 [ENDBLOCK]
 Milly<00>
 [ENDBLOCK]
@@ -1020,21 +1060,31 @@ And the three of us are!<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
-We are the Dark Wings.<__><00>
+<<<<<<< HEAD
+We are the Onyx Wings,<__>the famous Onyx Wings, YEAH!<00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
-You must already find many group <__>that imitate us, but we are <__>the originals.<__><00>
+You must already have met many<__>that imitate us, but we are <__>the genuine article!<00>
 [ENDBLOCK]
-I don't know you.<__><00>
+Never heard of you.<00>
+=======
+We are the<__>Dark Wings.<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
-Are you nuts!<__><00>
+You must already find many groups<__>that imitate us, but we are<__>the originals.<00>
+[ENDBLOCK]
+I've never heard of you.<__><00>
+>>>>>>> upstream/master
+[ENDBLOCK]
+Grid<00>
+[ENDBLOCK]
+Impossible!!!<__><00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-Yeah, IÅfve never heard these performers.<__><00>
+Yeah, IÅfve never heard of these performers.<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
@@ -1044,7 +1094,7 @@ We are a lens hunter group! <__>Not a performers.<__><00>
 [ENDBLOCK]
 We have a passport. Look.<__><00>
 [ENDBLOCK]
-Ok. You can get through.<__><00>
+Ok. You can go through.<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
@@ -1052,7 +1102,7 @@ How laborious your roles must be. <__>Let us encourage you from here.<__><00>
 [ENDBLOCK]
 Milly<00>
 [ENDBLOCK]
-Give it to me<__><00>
+Give it to me.<__><00>
 [ENDBLOCK]
 John<00>
 [ENDBLOCK]
@@ -1064,7 +1114,7 @@ If you keep this ruckus up, <__>I have an idea for you!<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
-No, thatÅfs a bitÅcÅc<__><00>
+No, thatÅfs a bit...<__><00>
 [ENDBLOCK]
 Grid<00>
 [ENDBLOCK]
@@ -1220,7 +1270,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>èÃçÜÇÃégÇ¢ìπÇ…ÇÕÅAìÒí ÇËÇ†ÇËÇ‹Ç∑ÅB<__>Ç–Ç∆Ç¬ñ⁄ÇÕÅcÅc<__>ÅuèÃçÜÇÉZÉbÉgÇµÇƒÅAäXêlÇ…òbÇµä|ÇØÇÊÇ§Åv<00>
+<TAG_007>èÃçÜÇÃégÇ¢ìπÇ…ÇÕÅAìÒí ÇËÇ†ÇËÇ‹Ç∑ÅB<__>Ç–Ç∆Ç¬ñ⁄ÇÕ...<__>ÅuèÃçÜÇÉZÉbÉgÇµÇƒÅAäXêlÇ…òbÇµä|ÇØÇÊÇ§Åv<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -1232,7 +1282,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>égÇ¢ìπÇÃÇ”ÇΩÇ¬ñ⁄ÇÕÅcÅc<__>ÅuÉXÉeÅ[É^ÉXâÊñ ÇÇ©Ç¡Ç±ó«Ç≠ÇµÇÊÇ§Åv<__>èWÇﬂÇΩèÃçÜÇÃíÜÇ≈ÅAÇ‡ÇµãCÇ…ì¸Ç¡ÇΩÇ‡ÇÃÇ™Ç†ÇÍÇŒÅA<__>ÉZÉbÉgÇµÇƒÉXÉeÅ[É^ÉXâÊñ ÇÇ©Ç¡Ç±ó«Ç≠ââèoÇµÇ‹ÇµÇÂÇ§ÅB<00>
+<TAG_007>égÇ¢ìπÇÃÇ”ÇΩÇ¬ñ⁄ÇÕ...<__>ÅuÉXÉeÅ[É^ÉXâÊñ ÇÇ©Ç¡Ç±ó«Ç≠ÇµÇÊÇ§Åv<__>èWÇﬂÇΩèÃçÜÇÃíÜÇ≈ÅAÇ‡ÇµãCÇ…ì¸Ç¡ÇΩÇ‡ÇÃÇ™Ç†ÇÍÇŒÅA<__>ÉZÉbÉgÇµÇƒÉXÉeÅ[É^ÉXâÊñ ÇÇ©Ç¡Ç±ó«Ç≠ââèoÇµÇ‹ÇµÇÂÇ§ÅB<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
