@@ -312,7 +312,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<00>
 [ENDBLOCK]
-I'm a trader in<18>fP<18><00>€<__>My name is<18>fP<14><00>€Genera.<00>
+I trade here in <18>fP<18><00>€<__>My name is <18>fP<14><00>€.<00>
 [ENDBLOCK]
 You're not done yet?<__>Please don't tell me you're quitting.<00>
 [ENDBLOCK]
@@ -322,27 +322,27 @@ select<00>
 [ENDBLOCK]
 <TAG_007>Take on a job<__>I don't have time for this.<__>What kind of work?<__><00>
 [ENDBLOCK]
-<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__><1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚µ‚Ä‚­‚êB<00>
+Go to <18>fP,<00>€ and give <18>fP(<00>€<__><1A>qD4€ x<17>r@<10>€.<00>
 [ENDBLOCK]
-•ñV‚Í<17>r<04>€ƒKƒ‹ƒh‚¾B<__>‚ ‚ñ‚½‚È‚çŠÈ’P‚Èd–‚¾‚ëH<__><00>
+The reward is <17>r<04>€ Gald.<__>It was an easy job, right?<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ğ<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€Gald<__>d–‚ğˆø‚«ó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
+<TAG_007>JobFGo to <18>fP,<00>€ and give <18>fP(<00>€<__><1A>qD4€ x<17>r@<10>€.<__>RewardF<17>r<04>€ Gald<__>Want the job?<__>Accept<__>Decline<00>
 [ENDBLOCK]
 In the meantime, I'll give you<__>a portion of the reward as<__>an advance.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‘O“n‚µ‹à‚Æ‚µ‚Ä<__><17>r<04>€ƒKƒ‹ƒhó‚¯æ‚è‚Ü‚µ‚½B<__><00>
+<TAG_007>You will receive<17>r<04><__>€ Gald as advanced payment.<__><00>
 [ENDBLOCK]
 I'm counting<__>on you!<00>
 [ENDBLOCK]
 What a pity.<__>Maybe next time.<00>
 [ENDBLOCK]
-Well, I'll see you when I get a chance.<00>
+Well, I'll see you the next time.<00>
 [ENDBLOCK]
-No, it's an easy job.<__><00>
+It's an easy job.<__><00>
 [ENDBLOCK]
 Just buy the designated items<__>and bring them to my cohort<__>in another city!<00>
 [ENDBLOCK]
@@ -356,9 +356,9 @@ Please do as much as you can.<00>
 [ENDBLOCK]
 I'll be quick about it.<__><00>
 [ENDBLOCK]
-<18>fP <00>€‚Í<18>fP$<00>€‚É‚¢‚éB<__><00>
+<18>fP <00>€He is in <18>fP$<00>€.<00>
 [ENDBLOCK]
-<1A>r<0C>€‚ğ<17>r@<10>€ŒÂA<__>ŠÔˆá‚¢‚È‚­’²’B‚µ‚Ä‚­‚ê‚æB<__><00>
+<1A>r<0C>€x<17>r@<10>€1<__>Please procure it.<__><00>
 [ENDBLOCK]
 Good luck with the procurement!<00>
 [ENDBLOCK]
@@ -402,7 +402,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007>–Àê–@‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒhx•¥‚¢‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-‹à‚ª‘«‚è‚È‚¢‚¼B<__>—pˆÓ‚µ‚Ä‚©‚ç—ˆ‚Ä‚­‚êB<00>
+You're short on Gald. Come back<__>when you have enough.<00>
 [ENDBLOCK]
 ‚æ‚ë‚µ‚­—Š‚Ş‚º<__><00>
 [ENDBLOCK]
@@ -432,23 +432,23 @@ notice<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—Š‚ğ‹s‚·‚é<__>ˆË—Š‚ğŠm”F‚·‚é<__>ˆË—Š‚ğ”jŠü‚·‚é<__><00>
+<TAG_007>Continue the job<__>Confirm Details<__>Quit the job<__><00>
 [ENDBLOCK]
 Janos<00>
 [ENDBLOCK]
-ƒn[ƒƒ“ƒc<00>
+Harmentz<00>
 [ENDBLOCK]
-ƒAƒ‹ƒƒCƒ_<00>
+Almeida<00>
 [ENDBLOCK]
-ƒ_ƒŠƒ‹ƒVƒFƒCƒh<00>
+Darilsheid<00>
 [ENDBLOCK]
-ƒNƒŒƒXƒ^<00>
+Cresta<00>
 [ENDBLOCK]
-ƒ`ƒFƒŠƒN<00>
+Cherik<00>
 [ENDBLOCK]
-ƒJƒ‹ƒrƒIƒ‰<00>
+Kalviola<00>
 [ENDBLOCK]
-ƒWƒƒƒ“ƒNƒ‰ƒ“ƒh<00>
+Junkland<00>
 [ENDBLOCK]
 ƒmƒCƒVƒ…ƒ^ƒbƒg<00>
 [ENDBLOCK]
@@ -456,53 +456,53 @@ Janos<00>
 [ENDBLOCK]
 ƒXƒm[ƒtƒŠƒA<00>
 [ENDBLOCK]
-ƒVƒfƒ“<00>
+Sheeden<00>
 [ENDBLOCK]
-ƒ‚ƒŠƒ…ƒE<00>
+Moreau<00>
 [ENDBLOCK]
 ƒgƒEƒPƒC<00>
 [ENDBLOCK]
-ƒTƒCƒŠƒ‹<00>
+Cyril<00>
 [ENDBLOCK]
-ƒnƒCƒfƒ‹ƒxƒ‹ƒO<00>
+Heidelberg<00>
 [ENDBLOCK]
 ‚Ë‚±‚É‚ñŠî’n<00>
 [ENDBLOCK]
-HHH<00>
+???<00>
 [ENDBLOCK]
 Genera<00>
 [ENDBLOCK]
-ƒnƒlƒEƒFƒ‹<00>
+Honeywell<00>
 [ENDBLOCK]
-ƒAƒƒNƒX<00>
+Amex<00>
 [ENDBLOCK]
 ƒVƒeƒB<00>
 [ENDBLOCK]
-ƒfƒ…ƒ|ƒ“<00>
+DuPont<00>
 [ENDBLOCK]
-ƒ^ƒsƒ‰<00>
+Tapira<00>
 [ENDBLOCK]
-ƒAƒ‹ƒRƒA<00>
+Alcoa<00>
 [ENDBLOCK]
-ƒWƒ‡ƒ“ƒ\ƒ“<00>
+Johnson<00>
 [ENDBLOCK]
-ƒtƒ@ƒCƒU<00>
+Pfizer<00>
 [ENDBLOCK]
-ƒtƒBƒŠƒbƒv<00>
+Philip<00>
 [ENDBLOCK]
-ƒxƒ‰ƒCƒ]ƒ“<00>
+Verizon<00>
 [ENDBLOCK]
-ƒGƒNƒ\ƒ“<00>
+Exxon<00>
 [ENDBLOCK]
-ƒ‚ƒ‹ƒKƒ“<00>
+Morgan<00>
 [ENDBLOCK]
-ƒAƒCƒr[<00>
+Ivy<00>
 [ENDBLOCK]
-ƒpƒbƒJ[ƒh<00>
+Packard<00>
 [ENDBLOCK]
-ƒƒ‹ƒN<00>
+Merick<00>
 [ENDBLOCK]
-ƒfƒ|<00>
+Depot<00>
 [ENDBLOCK]
 HHH<0_0>
 [ENDBLOCK]

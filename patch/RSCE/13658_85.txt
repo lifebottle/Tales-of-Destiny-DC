@@ -12,7 +12,7 @@ k Level 1 Get<__><00>
 [ENDBLOCK]
  SafePack not buy<__><00>
 [ENDBLOCK]
-<TAG_005>‚·‚×‚Ä‚Ìé‹íGA‚·‚×‚Ä‚Ì•xA‚·‚×‚Ä‚ÌŸ—˜‚ð<__>Žè‚É‚·‚é‚Ì‚Í‰´‚Ì‚Í‚¸‚¾‚Á‚½cc<00>
+<TAG_005>‚·‚×‚Ä‚Ìé‹úcA‚·‚×‚Ä‚Ì•xA‚·‚×‚Ä‚ÌŸ—˜‚ð<__>Žè‚É‚·‚é‚Ì‚Í‰´‚Ì‚Í‚¸‚¾‚Á‚½cc<00>
 [ENDBLOCK]
 <TAG_005>Ž©‚ç‚ðŽç‚é‚à‚ÌA‚»‚ê‚ÍˆØ•|‚¾‚¯‚¾cc<00>
 [ENDBLOCK]
@@ -62,7 +62,7 @@ notice<00>
 [ENDBLOCK]
 ‚±‚ÌF‚ÌèŽ^¦‚Í‘Ì—Í‚ð‰ñ•œ‚·‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-èŽ^¦F‚g‚oà‹ëZ<__><00>
+èŽ^¦F‚g‚oà‹?Z<__><00>
 [ENDBLOCK]
 ‚±‚ÌF‚ÌèŽ^¦‚Í‘Ì—Í‚ð’D‚¤‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
@@ -70,7 +70,7 @@ notice<00>
 [ENDBLOCK]
 èŽ^¦F‚d‚o‘‰Á@’lF<17>r<04>€@Œ»ÝF<17>r<0C>€<__><00>
 [ENDBLOCK]
-èŽ^¦F‚d‚oà‹ëZ@’lF<17>r<04>€@Œ»ÝF<17>r<0C>€<__><00>
+èŽ^¦F‚d‚oà‹?Z@’lF<17>r<04>€@Œ»ÝF<17>r<0C>€<__><00>
 [ENDBLOCK]
 ‚±‚ÌF‚ÌèŽ^¦‚Í‚d‚wƒ|ƒCƒ“ƒg‚ðŒ¸‚ç‚·‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
@@ -78,7 +78,7 @@ notice<00>
 [ENDBLOCK]
 ‚±‚ÌF‚ÌèŽ^¦‚ÍH—¿‚ð•â‹‹‚·‚é‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
-èŽ^¦Fƒt[ƒhà‹ëZ@Œ»ÝF<17>r<04>€<__><00>
+èŽ^¦Fƒt[ƒhà‹?Z@Œ»ÝF<17>r<04>€<__><00>
 [ENDBLOCK]
 ‚±‚ÌF‚ÌèŽ^¦‚ÍH—¿‚ð’D‚¤‚æ‚¤‚Å‚·B<00>
 [ENDBLOCK]
@@ -218,7 +218,7 @@ notice<00>
 [ENDBLOCK]
 <1A>r@<14>€<17>r<0C>€ŒÂ‚ª–á‚¦‚Ü‚·iƒAƒCƒeƒ€ƒŒ[ƒg<17>r@<18>€j<__><00>
 [ENDBLOCK]
-Œ»ÝEP<17>r@ €Aà‹ëZEP<17>r@<1C>€<__><00>
+Œ»ÝEP<17>r@ €Aà‹?ZEP<17>r@<1C>€<__><00>
 [ENDBLOCK]
 ƒTƒCƒOƒ[ƒO<00>
 [ENDBLOCK]
@@ -412,13 +412,13 @@ notice<00>
 [ENDBLOCK]
 HHHHHHHH<00>
 [ENDBLOCK]
-ƒ}ƒbƒvé‹ëu‚ÌÝ’è<__><00>
+ƒ}ƒbƒvé‹?u‚ÌÝ’è<__><00>
 [ENDBLOCK]
 ƒAƒ‹ƒJƒiƒ‹ƒCƒ“<00>
 [ENDBLOCK]
 EXƒ|ƒCƒ“ƒg-><17>r<04>€, ‰ÁŽZ-><17>r<00>€<__><00>
 [ENDBLOCK]
-EXƒ|ƒCƒ“ƒg•â³ <17>qEˆ€ -> <09>‹‰<__><00><__><00>
+EXƒ|ƒCƒ“ƒg•â³ <17>qE?€ -> <09>‹‰<__><00><__><00>
 [ENDBLOCK]
 ›››ŠK‘wƒNƒŠƒAŽž‚Ìƒp[ƒeƒB[ƒ{[ƒiƒXF<17>r<04>€<__><00>
 [ENDBLOCK]
@@ -434,15 +434,15 @@ Party: Lilith <17>r<00>€<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><06>ø<0_0_0>‚±‚ÌŠK‚ÌU—ªƒƒ“ƒo[‚ðŒˆ’è‚µ‚Ä‚­‚¾‚³‚¢B<__>‘I‘ð‚Å‚«‚éƒƒ“ƒo[‚Í‚Pl‚©‚ç‚Tl‚Ü‚Å‚Å‚·B<__><00>
+<TAG_007><06>?<0_0_0>‚±‚ÌŠK‚ÌU—ªƒƒ“ƒo[‚ðŒˆ’è‚µ‚Ä‚­‚¾‚³‚¢B<__>‘I‘ð‚Å‚«‚éƒƒ“ƒo[‚Í‚Pl‚©‚ç‚Tl‚Ü‚Å‚Å‚·B<__><00>
 [ENDBLOCK]
-<19>!r<00>‹€, <17>EV˜<00>r<00>‹•B€<__><00>
+<19>!r<00>‹€, <17>EV?<00>r<00>‹•B€<__><00>
 [ENDBLOCK]
 ƒp[ƒeƒBŽQ‰Ál”F<17>r@d€Aí“¬ŽQ‰ÁF<17>r@h€AƒTƒ|[ƒgF<17>r@8€<__><00>
 [ENDBLOCK]
 party_list[0] = <17>j@Š¿iƒp[ƒeƒBl”j<__><00>
 [ENDBLOCK]
-party_list[<17>r<00>€] = <17>FPœ<00>r<00>‹•B€i<19>FPœ<00>r<00>‹•B€j<__><00>
+party_list[<17>r<00>€] = <17>FP?<00>r<00>‹•B€i<19>FP?<00>r<00>‹•B€j<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -456,9 +456,9 @@ notice<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<19>!r<08>‹€‚Í<17>EV˜<00>r<08>‹•B€<__><00>
+<19>!r<08>‹€‚Í<17>EV?<00>r<08>‹•B€<__><00>
 [ENDBLOCK]
-<TAG_007><06>ø<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
@@ -468,9 +468,9 @@ select<00>
 [ENDBLOCK]
 <grey1>Œˆ’è<00>
 [ENDBLOCK]
-<TAG_007><06>ø<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
 [ENDBLOCK]
-<TAG_007><06>ø<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
+<TAG_007><06>?<0_0_0><18>fPL<00>€<18>fPP<00>€<18>fPT<00>€<18>fPX<00>€<18>fP\<00>€<18>fP`<00>€<18>fPd<00>€<18>fPh<00>€<18>fPl<00>€<18>fPp<00>€<18>fPt<00>€<__><00>
 [ENDBLOCK]
 ƒTƒ|[ƒgƒLƒƒƒ‰ƒNƒ^[‘I‘ð<00>
 [ENDBLOCK]
@@ -480,7 +480,7 @@ select<00>
 [ENDBLOCK]
 Ý’è‚µ‚È‚¢<__><00>
 [ENDBLOCK]
-<TAG_007><06>ø<0_0_0><18>fP@<00>€<18>fPD<00>€<18>fPH<00>€<18>fPL<00>€<18>fPP<00>€<18>fPT<00>€ƒp[ƒeƒB‘I‘ð‚É–ß‚é<00>
+<TAG_007><06>?<0_0_0><18>fP@<00>€<18>fPD<00>€<18>fPH<00>€<18>fPL<00>€<18>fPP<00>€<18>fPT<00>€ƒp[ƒeƒB‘I‘ð‚É–ß‚é<00>
 [ENDBLOCK]
 Ý’è‚È‚µ<00>
 [ENDBLOCK]
@@ -502,11 +502,11 @@ j = <17>j<02>€@HP‚ð‚P‚É•ÏX<__><00>
 [ENDBLOCK]
 XVl”F<17>j<02>!Œ€Aí“¬—vˆõF<17>iI‘€<__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iF˜!Œ€‰ñj@@<Stahn><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Stahn><__><00>
 [ENDBLOCK]
-<grey1>•sŽQ‰ÁiŽc‚è<17>iF˜€‰ñj@<Stahn><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF?€‰ñj@<Stahn><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iF™!Œ€‰ñj@@<Rutee><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Rutee><__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iFO‰ñj@<Rutee><__><00>
 [ENDBLOCK]
@@ -518,25 +518,25 @@ j = <17>j<02>€@HP‚ð‚P‚É•ÏX<__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iFˆÅ‰ñj@<Woodrow><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iFœ!Œ€‰ñj@@<Lion><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Lion><__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iFŠ¿‰ñj@<Lion><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iF!Œ€‰ñj@@<Mary><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Mary><__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iF‰]‰ñj@<Mary><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iFž!Œ€‰ñj@@<Chelsea><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Chelsea><__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iFŠu‰ñj@<Chelsea><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iFŸ!Œ€‰ñj@@<Johnny><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Johnny><__><00>
 [ENDBLOCK]
 <grey1>•sŽQ‰ÁiŽc‚è<17>iF‹‚‰ñj@<Johnny><__><00>
 [ENDBLOCK]
-<yellow>ŽQ‰ÁiŽc‚è<17>iF !Œ€‰ñj@@<Kongman><__><00>
+<yellow>ŽQ‰ÁiŽc‚è<17>iF?!Œ€‰ñj@@<Kongman><__><00>
 [ENDBLOCK]
-<grey1>•sŽQ‰ÁiŽc‚è<17>iF €‰ñj@<Kongman><__><00>
+<grey1>•sŽQ‰ÁiŽc‚è<17>iF?€‰ñj@<Kongman><__><00>
 [ENDBLOCK]
 <yellow>ŽQ‰ÁiŽc‚è<17>iF¡!Œ€‰ñj@@<Lilith><__><00>
 [ENDBLOCK]
@@ -666,7 +666,7 @@ Text buffer<__><00>
 [ENDBLOCK]
 ƒTƒCƒOƒ[ƒO<00>
 [ENDBLOCK]
-<18>fT<00>€<18>FRŒ<00>€<18>fT”<00>€<18>fT˜<00>€<00>
+<18>fT?<00>€<18>FR?<00>€<18>fT?<00>€<18>fT?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -1014,7 +1014,7 @@ Why did we have to hide?<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-They are has gone. Let's get<__>back to town, quick.<00>
+OK, the coast is clear.<__>Let's hurry back to Janos.<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
@@ -1054,7 +1054,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -1072,7 +1072,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c>à<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013c>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -1080,49 +1080,49 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qJ<04>˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qJ<04>?€<00>
 [ENDBLOCK]
 <18>eZ<0_0><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iIô€‚½‚¿‚Í<00>
+<19>iI?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iIô€‚Í<00>
+<19>iI?‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eYø<00>€<__><18>eYü<00>€<00>
+<TAG_007><18>eY?<00>€<__><18>eY?<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]

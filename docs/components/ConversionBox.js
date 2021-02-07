@@ -7,6 +7,7 @@ import {
   Button,
   Tooltip,
   Text,
+  Spinner,
 } from "@chakra-ui/react";
 import { Icon, useClipboard } from "components";
 
@@ -17,25 +18,50 @@ const ConversionBox = ({
   label,
   readOnly = false,
   rows = 10,
-  maxLength,
+  maxLength = 100,
   buttons = <></>,
+  error = false,
+  isLoading,
   ...props
 }) => {
   const { hasCopied, onCopy } = useClipboard(value);
   const showCharsLeft = () => {
-    if (maxLength)
+    return (
+      <Text sx={{ float: "right", mt: -9, mr: 3 }} color="gray.300">{` ${
+        maxLength - (value?.length || 0)
+      } characters left`}</Text>
+    );
+  };
+  const Status = () => {
+    if (!readOnly) return "";
+    else if (isLoading) {
       return (
-        <Text sx={{ float: "right", mt: -9, mr: 3 }} color="gray.300">{` ${
-          maxLength - (value?.length || 0)
-        } characters left`}</Text>
+        <Tooltip hasArrow label={"It will load. Be patient."}>
+          <Spinner
+            ml={2}
+            thickness="2px"
+            speed="1s"
+            emptyColor="gray.200"
+            color="blue.500"
+            size="sm"
+          />
+        </Tooltip>
       );
-    else return "";
+    } else if (value !== "" && !error) {
+      return <Icon ml={2} color="green.500" size="sm" name="check" />;
+    } else if (error) {
+      return <Icon ml={2} color="red.500" size="sm" name="x" />;
+    }
+    return "";
   };
   return (
     <FormControl id={id} {...props}>
       <FormLabel mr={0}>
         <Flex alignItems="center">
-          <Box sx={{ flex: 1 }}>{label}</Box>
+          <Flex alignItems="center" sx={{ flex: 1 }}>
+            <Text>{label}</Text>
+            <Status />
+          </Flex>
           {!readOnly && (
             <Tooltip hasArrow label={"Clear"}>
               <Button
@@ -55,13 +81,14 @@ const ConversionBox = ({
         </Flex>
       </FormLabel>
       <Textarea
+        isInvalid={error}
         fontFamily="mono"
         readOnly={readOnly}
         placeholder={label}
         rows={rows}
         value={value}
         onChange={onChange}
-        maxLength
+        maxLength={maxLength}
         sx={{ bg: readOnly ? "gray.50" : "transparent" }}
       />
       {showCharsLeft()}

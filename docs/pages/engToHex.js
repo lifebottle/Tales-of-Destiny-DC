@@ -1,16 +1,18 @@
 import { useState } from "react";
 import { Flex } from "@chakra-ui/react";
 import { ConversionBox } from "components";
-import { fetchRoute } from "components";
+import { useFetch } from "components";
 
 export default function Page() {
   const [engValue, setEngValue] = useState("");
-  const [hexValue, setHexValue] = useState("");
+  const { loading, data: hexValue, doFetch, error } = useFetch();
 
   const handleChange = async (e) => {
     setEngValue(e.target.value);
-    const data = await fetchRoute("api/engToHex", { input: e.target.value });
-    setHexValue(data?.body || "");
+    doFetch({
+      url: "api/engToHex",
+      body: { input: e.target.value },
+    });
   };
 
   return (
@@ -22,7 +24,14 @@ export default function Page() {
         id="english"
         label="English"
       />
-      <ConversionBox value={hexValue} id="hex" label="Hex" readOnly={true} />
+      <ConversionBox
+        isLoading={loading}
+        error={error}
+        value={hexValue}
+        id="hex"
+        label="Hex"
+        readOnly={true}
+      />
     </Flex>
   );
 }
