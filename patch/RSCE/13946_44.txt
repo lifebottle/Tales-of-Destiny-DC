@@ -196,7 +196,7 @@
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
-‘f°‚η‚µ‚ΆI@‚ ‚Θ‚½‚½‚Ώ‚±‚»<__>‚±‚Μ–Ό‚πι‹λ‚ι‚Μ‚Ι‚Σ‚³‚ν‚µ‚ΆI<00>
+‘f°‚η‚µ‚ΆI@‚ ‚Θ‚½‚½‚Ώ‚±‚»<__>‚±‚Μ–Ό‚πι‹?‚ι‚Μ‚Ι‚Σ‚³‚ν‚µ‚ΆI<00>
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
@@ -236,7 +236,7 @@
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
-θ“n‚·‰Τ‚ªη‚Ά‚Δ‚Ά‚ά‚·B<__>‰Τ‚Μι‹ν‘‚Νcc<00>
+θ“n‚·‰Τ‚ªη‚Ά‚Δ‚Ά‚ά‚·B<__>‰Τ‚Μι‹ϊ­‚Νcc<00>
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
@@ -280,23 +280,23 @@ notice<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-–l‚Ν‚±‚κ‚©‚ηX‚Μ—lq‚π’T‚Α‚Δ‚­‚ιB<__>‚¨‚ά‚¦‚½‚Ώ‚ΝA–ι‚Ι‚Θ‚ι‚ά‚Ε‚±‚±‚Ι‚Ά‚λB<00>
+I'm going to go look<__>around the town. The rest<__>of you, wait here until nightfall.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚³‚ΔA‰΄‚Ν‚»‚λ‚»‚λQ‚ι€”υ‚π‚µ‚ζ‚¤‚©‚ΘB<00>
+Welp, guess I'll get<__>ready to hit the hay..<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-‚Ώ‚ε‚Α‚Ζ<Stahn>A‚ΰ‚¤Q‚ι‚ΜH<__>‘‚·‚¬‚ι‚ρ‚¶‚α‚Θ‚ΆB<00>
+Wait a sec, <Stahn>, you're going<__>to sleep? It's still early!<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-‚Ε‚ΝA‚ν‚½‚µ‚ΰQ‚ι‚Ζ‚µ‚ζ‚¤B<00>
+Well then, I should<__>get some sleep, too.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-‚¦‚¥I@<Mary>‚ΰQ‚Ώ‚α‚¤‚ΜI<00>
+What!? You too, <Mary>??<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -330,9 +330,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Μ†F<turquoise><1A>,<0_0><05><00>qGμ€<00>
+Μ†F<turquoise><1A>,<0_0><05><00>qG??€<00>
 [ENDBLOCK]
-<18>eWθ<00><TAG_014>‚πζ“Ύ‚µ‚ά‚µ‚½B<__><00>
+<18>eW?<00><TAG_014>‚πζ“Ύ‚µ‚ά‚µ‚½B<__><00>
 [ENDBLOCK]
 <19>iGά€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
@@ -366,13 +366,13 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eWΰ<00>€<__><18>eWδ<00>€<00>
+<TAG_007><18>eW?<00>€<__><18>eW?<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
+<1A> r<0C>?€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
