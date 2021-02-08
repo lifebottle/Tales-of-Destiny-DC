@@ -18,7 +18,7 @@ const ConversionBox = ({
   label,
   readOnly = false,
   rows = 10,
-  maxLength = 100,
+  maxLength = "auto",
   buttons = <></>,
   error = false,
   isLoading,
@@ -26,6 +26,7 @@ const ConversionBox = ({
 }) => {
   const { hasCopied, onCopy } = useClipboard(value);
   const showCharsLeft = () => {
+    if (maxLength === "auto") return;
     return (
       <Text sx={{ float: "right", mt: -9, mr: 3 }} color="gray.300">{` ${
         maxLength - (value?.length || 0)

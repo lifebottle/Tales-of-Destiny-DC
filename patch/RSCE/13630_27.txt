@@ -324,11 +324,11 @@ select<00>
 [ENDBLOCK]
 Go to <18>fP,<00>Ä and give <18>fP(<00>Ä<__><1A>qD4Ä x<17>r@<10>Ä.<00>
 [ENDBLOCK]
-The reward is <17>r<04>Ä Gald.<__>It was an easy job, right?<__><00>
+The reward is <17>r<04>Ä Gald.<__>It's an easy job.<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>JobÅFGo to <18>fP,<00>Ä and give <18>fP(<00>Ä<__><1A>qD4Ä x<17>r@<10>Ä.<__>RewardÅF<17>r<04>Ä Gald<__>Want the job?<__>Accept<__>Decline<00>
+<TAG_007>JobÅFGo to <18>fP,<00>Ä.<__>Deliver to <18>fP(<00>Ä<__><1A>qD4Ä x<17>r@<10>Ä.<__>RewardÅF<17>r<04>Ä Gald<__>Want the job?<__>Accept<__>Decline<00>
 [ENDBLOCK]
 In the meantime, I'll give you<__>a portion of the reward as<__>an advance.<00>
 [ENDBLOCK]
@@ -358,7 +358,7 @@ I'll be quick about it.<__><00>
 [ENDBLOCK]
 <18>fP <00>ÄHe is in <18>fP$<00>Ä.<00>
 [ENDBLOCK]
-<1A>r<0C>Äx<17>r@<10>Ä1<__>Please procure it.<__><00>
+<1A>r<0C>Äx<17>r@<10>Ä<__>Please procure it.<__><00>
 [ENDBLOCK]
 Good luck with the procurement!<00>
 [ENDBLOCK]
@@ -368,11 +368,11 @@ Reward<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP,<00>ÄÇ∆ÇµÇƒ<__><17>r@<1C>ÄÉKÉãÉhÇ‡ÇÁÇ¢Ç‹ÇµÇΩÅB<__><00>
+<TAG_007><18>fP,<00>ÄI have charged a<__><17>r@<1C>ÄGald penalty for refunding<__>the payment advance.<00>
 [ENDBLOCK]
 You're short the requested number of items<__><00>
 [ENDBLOCK]
-â¥Ç™ïKóvÇ»ÇÃÇÕ<1A>r@<10>ÄÇ<__><17>r@<14>Äå¬ÇæÇºÅB<00>
+All I need is <1A>r@<10>ÄÇ<__><17>r@<14>Äå¬ÇæÇºÅB<00>
 [ENDBLOCK]
 There'll be a penalty,<__>if you quit the job.<00>
 [ENDBLOCK]
@@ -404,7 +404,7 @@ notice<00>
 [ENDBLOCK]
 You're short on Gald. Come back<__>when you have enough.<00>
 [ENDBLOCK]
-ÇÊÇÎÇµÇ≠óäÇﬁÇ∫<__><00>
+Give my regards.<__><00>
 [ENDBLOCK]
 Ç®Ç¢Ç®Ç¢ñ{ãCÇ©Ç¢ÅH<__>ç°Ç»ÇÁçlÇ¶Ç»Ç®ÇπÇÈÇºÅH<00>
 [ENDBLOCK]
@@ -450,23 +450,23 @@ Kalviola<00>
 [ENDBLOCK]
 Junkland<00>
 [ENDBLOCK]
-ÉmÉCÉVÉÖÉ^ÉbÉg<00>
+Neuestadt<00>
 [ENDBLOCK]
-ÉäÅ[Él<00>
+Lienea<00>
 [ENDBLOCK]
-ÉXÉmÅ[ÉtÉäÉA<00>
+Frostheim<00>
 [ENDBLOCK]
 Sheeden<00>
 [ENDBLOCK]
 Moreau<00>
 [ENDBLOCK]
-ÉgÉEÉPÉC<00>
+Terazzi<00>
 [ENDBLOCK]
 Cyril<00>
 [ENDBLOCK]
 Heidelberg<00>
 [ENDBLOCK]
-ÇÀÇ±Ç…ÇÒäÓín<00>
+Calvalese<00>
 [ENDBLOCK]
 ???<00>
 [ENDBLOCK]
@@ -476,7 +476,7 @@ Honeywell<00>
 [ENDBLOCK]
 Amex<00>
 [ENDBLOCK]
-ÉVÉeÉB<00>
+Sidey<00>
 [ENDBLOCK]
 DuPont<00>
 [ENDBLOCK]
