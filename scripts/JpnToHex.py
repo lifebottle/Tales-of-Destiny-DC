@@ -1,7 +1,8 @@
 import os
+import sys
 
 
-def jHex(word):
+def jpnToHex(word):
 
     mapping = {}
 
@@ -44,6 +45,11 @@ def jHex(word):
 
     return "".join(List)
 
+
+# running the file defaults to this def (needed for node API)
+if __name__ == '__main__':
+    data = jpnToHex(sys.argv[1])
+    print(data)
 
 # TEST
 # print(jHex("ア イ テ ム な ぞ 使 っ て ん じ ゃ ね え ！"))

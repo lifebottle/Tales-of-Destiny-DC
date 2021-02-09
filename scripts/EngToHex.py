@@ -1,4 +1,7 @@
-def eHex(word):
+import sys
+
+
+def engToHex(word):
     eng = list(word)
     List = []
     for i in eng:
@@ -113,3 +116,9 @@ def eHex(word):
         else:
             List.append(i)
     return " ".join(List)
+
+
+# running the file defaults to this def (needed for node API)
+if __name__ == '__main__':
+    data = engToHex(sys.argv[1])
+    print(data)
