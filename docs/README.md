@@ -2,25 +2,25 @@
 
 #### 1.) Install python3
 
-OSX
+###### OSX
 
 ```bash
   brew install python3
 ```
 
-Windows
+###### Windows
 
 - https://www.python.org/downloads/windows/
 
 #### 2.) Install node (npm):
 
-OSX
+###### OSX
 
 ```bash
 brew install node
 ```
 
-Windows
+###### Windows
 
 - https://nodejs.org/en/download/package-manager/
 
@@ -32,7 +32,19 @@ npm -g install yarn
 
 #### 4.) Run the server
 
-Run the development server:
+###### a.) navigate to `/docs` directory:
+
+```bash
+cd docs
+```
+
+###### b.) install required node libraries
+
+```bash
+yarn
+```
+
+###### c.) Run the development server:
 
 ```bash
 npm run dev
