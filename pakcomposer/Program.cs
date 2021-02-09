@@ -465,7 +465,7 @@ namespace pakcomposer
                 }
                 else
                 {
-                    Program.ColorWrite(ConsoleColor.Green, "Assebmling '{0}'...", (object)path);
+                    Program.ColorWrite(ConsoleColor.Green, "Assembling '{0}'...", (object)path);
                     Program.DoAssemble();
                     Program.ColorWritePlus(ConsoleColor.White, ConsoleColor.Gray, "All work done!");
                 }
