@@ -12,13 +12,13 @@ Get xdeltaUI from https://www.romhacking.net/utilities/598/
 1. Get xdeltaUI from https://www.romhacking.net/utilities/598/
 1. Open xDeltaUI.exe
 1. Click on `Create Patch` tab
-![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta_01.png "Create xdeltaUI patch step 1.")
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta/xdelta_01.png "Create xdeltaUI patch step 1.")
 1. Original File: Browse to a clean ISO
 1. Modified File: Browse to a patched ISO
 1. Patch Destination: Browse to a location to save the patch
-![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta_02.png "Create xdeltaUI patch step 2.")
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta/xdelta_02.png "Create xdeltaUI patch step 2.")
 1. Click `Patch` and wait about 1 minute.
-![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta_03.png "Create xdeltaUI patch step 3.")
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta/xdelta_03.png "Create xdeltaUI patch step 3.")
 1. If patch takes longer than 5 minutes, the patched ISO might me too different from the original, resulting in large patch size.
 1. Upload patch somewhere and share it!
 
