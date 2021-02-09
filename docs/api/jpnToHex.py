@@ -1,7 +1,7 @@
 from http.server import BaseHTTPRequestHandler
 from urllib.parse import urlparse
 import json
-from ._scripts.jHex import jHex
+from ._scripts.JpnToHex import jpnToHex
 
 
 class handler(BaseHTTPRequestHandler):
@@ -10,7 +10,7 @@ class handler(BaseHTTPRequestHandler):
         post_body = self.rfile.read(content_len)
         data = json.loads(post_body)
         parsed_path = urlparse(self.path)
-        converted = jHex(data['input'])
+        converted = jpnToHex(data['input'])
         self.send_response(200)
         self.end_headers()
         self.wfile.write(json.dumps({
