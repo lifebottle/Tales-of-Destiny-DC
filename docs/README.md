@@ -1,18 +1,18 @@
 ## Tales of Destiny DC Toolkit
 
-#### 1.) Install python3
+#### Install python version 3+
 
 ###### OSX
 
 ```bash
-  brew install python3
+brew install python3
 ```
 
 ###### Windows
 
 - https://www.python.org/downloads/windows/
 
-#### 2.) Install node (npm):
+#### Install node (npm):
 
 ###### OSX
 
@@ -24,27 +24,27 @@ brew install node
 
 - https://nodejs.org/en/download/package-manager/
 
-#### 3.) Install yarn (optional)
+#### Install yarn (optional)
 
 ```bash
 npm -g install yarn
 ```
 
-#### 4.) Run the server
+#### Run the server
 
-###### a.) navigate to `/docs` directory:
+###### Navigate to `/docs` directory:
 
 ```bash
 cd docs
 ```
 
-###### b.) install required node libraries
+###### Install required node libraries
 
 ```bash
 yarn
 ```
 
-###### c.) Run the development server:
+###### Run the development server:
 
 ```bash
 npm run dev
@@ -52,12 +52,12 @@ npm run dev
 yarn dev
 ```
 
-#### 5.) Wheeeee
+#### You are ready
 
 Server will be live at [http://localhost:3000](http://localhost:3000)
 
 ## FAQ
 
-#### 1.) Python is not found
+#### Python is not found
 
-edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_PATH` equal to your python path
+Edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_PATH` equal to your python path
