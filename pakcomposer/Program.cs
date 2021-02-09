@@ -505,7 +505,7 @@ namespace pakcomposer
             if (args.Length == 0 || args[0] == "-help")
             {
                 string processName = Process.GetCurrentProcess().ProcessName;
-                Program.ColorWrite(ConsoleColor.Green, "Pakomposer clone by Peter Nguyen, v1.9fix2");
+                Program.ColorWrite(ConsoleColor.Green, "Pakcomposer Clone Decompiled by Peter Nguyen, v1.9fix2");
                 Program.ColorWrite(ConsoleColor.White, "Program that disassembles and assembles archives from Tales of... game series.");
                 Console.WriteLine("Usage:");
                 Console.WriteLine(processName + ".exe ([action flag] [file/folder name]) ([mode flag]) ([addictional flags])");
@@ -523,9 +523,11 @@ namespace pakcomposer
                 Console.WriteLine("-v - verbose mode");
                 Console.WriteLine("-u - automatically use comptoe.exe (needs comptoe.exe be in the same folder as {0}.exe)", (object)processName);
                 Console.WriteLine("-tod2_ps2_skit_padding - padding addition mode");
+                Console.WriteLine("-toddc_skit_fix - change offset at 0x00000004 from 24 to 30 - To be implemented");
+                Console.WriteLine("-toddc_tm2_fix - pad with 00 and update header - To be implemented");
                 Console.WriteLine(" ");
-                Program.ColorWritePlus(ConsoleColor.Red, ConsoleColor.Blue, "WARNING! DON'T WORK WITH FILES WITH");
-                Program.ColorWritePlus(ConsoleColor.Red, ConsoleColor.Blue, "EXTENSIONS WHEN COMPRESSING BACK! BE CAREFUL!");
+                Program.ColorWritePlus(ConsoleColor.Yellow, ConsoleColor.Blue, "WARNING! DON'T WORK WITH FILES WITH");
+                Program.ColorWritePlus(ConsoleColor.Yellow, ConsoleColor.Blue, "EXTENSIONS WHEN COMPRESSING BACK! BE CAREFUL!");
                 Console.WriteLine(" ");
                 Console.WriteLine("Examples of usage:");
                 Console.WriteLine(processName + ".exe -d 00000.pak0 -0 -u");
