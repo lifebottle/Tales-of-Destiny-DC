@@ -312,9 +312,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<00>
 [ENDBLOCK]
-I trade here in <18>fP<18><00>Ä<__>My name is <18>fP<14><00>Ä.<00>
+The name is <18>fP<14><00>. I manage the trading here in <18>fP<18><00>.<00>
 [ENDBLOCK]
-You're not done yet?<__>Please don't tell me you're quitting.<00>
+You haven't finished yet?<__>Don't tell me you're quitting.<00>
 [ENDBLOCK]
 If you're not too busy, maybe you<__>could help me with my work.<00>
 [ENDBLOCK]
@@ -388,11 +388,11 @@ I'm a little disappointed...<__><00>
 [ENDBLOCK]
 I am charging<00>
 [ENDBLOCK]
-<00>
+a cancellation fee of <00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP(<00>Ä<__><17>r@<18>Ä Gald<__>as penalty for the advanced<__>payment refund.<00>
+<TAG_007><18>fP(<00>Ä<__><17>r@<18>Ä Gald.<00>
 [ENDBLOCK]
 You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
@@ -428,7 +428,7 @@ notice<00>
 [ENDBLOCK]
 ã‡ÇèÄîıÇµÇƒÇ©ÇÁÅA<__>Ç‹ÇΩóàÇƒÇ≠ÇÍÅB<00>
 [ENDBLOCK]
-ÇªÇÍÇ∂Ç·ÅAäÊí£ÇÍÇÊÅB<__><00>
+Then, do your best.<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
