@@ -3,9 +3,12 @@ from os.path import join
 import pandas as pd
 import itertools
 import ntpath
-
+import sys
+import json
 
 # Search if a file is containing one of the elements from the list
+
+
 def lookForHex(listValues, fileName):
 
     with open(fileName, 'rb') as f:
@@ -49,3 +52,9 @@ def jpnToHexList(japText):
         listValues.append((' ').join(element).lower())
 
     return listValues
+
+
+# running the file defaults to this def (needed for node API)
+if __name__ == '__main__':
+    data = jpnToHexList(sys.argv[1])
+    print(json.dumps(data))

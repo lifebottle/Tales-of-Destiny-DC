@@ -8,6 +8,20 @@ Get xdeltaUI from https://www.romhacking.net/utilities/598/
 
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/xdelta_patch.png "xdeltaUI patching instructions.")
 
+# Creating xDelta Patch
+1. Get xdeltaUI from https://www.romhacking.net/utilities/598/
+1. Open xDeltaUI.exe
+1. Click on `Create Patch` tab  
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/XDELTA/xdelta_01.png "Create xdeltaUI patch step 1.")
+1. Original File: Browse to a clean ISO
+1. Modified File: Browse to a patched ISO
+1. Patch Destination: Browse to a location to save the patch  
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/XDELTA/xdelta_02.png "Create xdeltaUI patch step 2.")
+1. Click `Patch` and wait about 1 minute.  
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/XDELTA/xdelta_03.png "Create xdeltaUI patch step 3.")
+1. If patch takes longer than 5 minutes, the patched ISO might me too different from the original, resulting in large patch size.
+1. Upload patch somewhere and share it!
+
 # Working with ToDDCTools_v1.1_by_RangerRus
 1. Download ToDDCTools_v1.1_by_RangerRus and extract contents.
 1. Copy `ToDDCTools_v1.1.exe` and `ToDDCTools_v1.1_unpack_(DAT.BIN).bat` to the same directory as `TOD_DC\DAT.BIN` and `TOD_DC\DAT.TBL`
