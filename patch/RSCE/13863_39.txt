@@ -420,17 +420,17 @@
 [ENDBLOCK]
 ふん。勝手にしろ。<00>
 [ENDBLOCK]
-行商人<00>
+Peddler<00>
 [ENDBLOCK]
-参拝ついでに商売に来たんだが……<__>なんだか様子が変じゃないか？<00>
+I stumbled into completing some<__>sales after worshipping... Isn't<__>that strange?<00>
 [ENDBLOCK]
-行商人<00>
+Peddler<00>
 [ENDBLOCK]
-まあ、そんな事より<__>商売だな。<00>
+Well, it's more business<__>than that.<00>
 [ENDBLOCK]
-行商人<00>
+Peddler<00>
 [ENDBLOCK]
-まいどあり。<00>
+Thanks for your business<00>
 [ENDBLOCK]
 グラス<00>
 [ENDBLOCK]
@@ -790,7 +790,7 @@ notice<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Not even a single<__>trace of anyone.<00>
+It looks deserted.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
