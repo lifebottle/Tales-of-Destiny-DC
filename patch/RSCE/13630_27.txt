@@ -376,7 +376,7 @@ All I need is <1A>r@<10>ÄÇ<__><17>r@<14>Äå¬ÇæÇºÅB<00>
 [ENDBLOCK]
 There'll be a penalty,<__>if you quit the job.<00>
 [ENDBLOCK]
-You know you'll have to pay<__>a penalty to cancel a job.<00>
+You know, you'll have to pay<__>a penalty to cancel a job.<00>
 [ENDBLOCK]
 I'm looking forward to<__>working with you.<00>
 [ENDBLOCK]
@@ -386,13 +386,13 @@ Are you serious? If you're having<__>second thoughts, now's the<__>time, okay?<0
 [ENDBLOCK]
 I'm a little disappointed...<__><00>
 [ENDBLOCK]
-I am charging<00>
+I am charging a cancellation<__><00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP(<00>Ä<__><17>r@<18>Ä Gald<__>as penalty for the advanced<__>payment refund.<00>
+<TAG_007>fee of <18>fP(<00>Ä<__><17>r@<18>Ä Gald.<00>
 [ENDBLOCK]
 You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
@@ -400,7 +400,7 @@ You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>I am charging <17>r@<14>ÄGald<__>as penalty for the advanced<__>payment refund.<__><00>
+<TAG_007>I am charging a cancellation fee of <17>r@<14>Ä Gald.<__><00>
 [ENDBLOCK]
 You're short on Gald. Come back<__>when you have enough.<00>
 [ENDBLOCK]
