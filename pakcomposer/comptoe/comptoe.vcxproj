@@ -78,9 +78,9 @@
     <NMakePreprocessorDefinitions>_DEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <NMakeBuildCommandLine>complib.c compto.c</NMakeBuildCommandLine>
+    <NMakeBuildCommandLine>cl complib.c compto.c /link /out:comptoe.exe</NMakeBuildCommandLine>
     <NMakeOutput>comptoe.exe</NMakeOutput>
-    <NMakeCleanCommandLine>rm -f comptoe</NMakeCleanCommandLine>
+    <NMakeCleanCommandLine>rm -f comptoe.exe</NMakeCleanCommandLine>
     <NMakePreprocessorDefinitions>WIN32;NDEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -97,6 +97,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="complib.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
