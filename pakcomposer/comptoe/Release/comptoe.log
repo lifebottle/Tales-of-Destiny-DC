@@ -1,0 +1,17 @@
+﻿  Microsoft (R) C/C++ Optimizing Compiler Version 19.28.29337 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  complib.c
+complib.c(162): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned char *'
+complib.c(162): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned char *'
+complib.c(273): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned char *'
+complib.c(273): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned char *'
+  compto.c
+  Generating Code...
+  Microsoft (R) Incremental Linker Version 14.28.29337.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  /out:complib.exe 
+  /out:comptoe.exe 
+  complib.obj 
+  compto.obj 
