@@ -1,7 +1,8 @@
 import os
+import sys
 
 
-def HexToJpn(word):
+def hexToJpn(word):
 
     mapping = {}
 
@@ -58,3 +59,9 @@ def HexToJpn(word):
             i += 3
 
     return "".join(outputText)
+
+
+# running the file defaults to this def (needed for node API)
+if __name__ == '__main__':
+    data = hexToJpn(sys.argv[1])
+    print(data)

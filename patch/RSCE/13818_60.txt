@@ -54,7 +54,7 @@ select<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>uƒIƒbƒg[γ‹ς‰}Mv‚Ζ‚Ά‚¤γ‹ς‚Μα‹ρ…‚β<__>β“`q‚π¤‹†‚µ‚½ƒVƒ[ƒY–{‚ª‚ ‚ιB<00>
+<TAG_005>uƒIƒbƒg[γ‹?}Mv‚Ζ‚Ά‚¤γ‹?‚Μα‹?‚β<__>β“`q‚π¤‹†‚µ‚½ƒVƒ[ƒY–{‚ª‚ ‚ιB<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -184,33 +184,33 @@ select<00>
 [ENDBLOCK]
 <TAG_005>γ‚Ι’m‚ι–‚Ζ‚Θ‚Α‚½‚ªA<__>‚±‚Μ“ϊA–l‚η‚Μ―‚Ι‚Ν”•S‚ΰ‚Μθ¦Ξ‚ª<__>~‚θ’‚Ά‚Ύcc<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
-‘εΉ“°‚Φ‚Ν‚±‚Μ•”‰®‚πo‚Δ<__>κK‚Μ”ΰ‚πi‚ρ‚Ε‚­‚Ύ‚³‚ΆB<00>
+To get to the cathedral, leave this<__>room and proceed to the first<__>floor door.<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
-ƒ‚ƒ“ƒXƒ^[‚ΰ‚ά‚Ύ‚Ά‚ι‚ζ‚¤‚Ε‚·‚©‚η<__>‹C‚π‚Β‚―‚Δ‰Ί‚³‚ΆB<00>
+It seems that there are still<__>monsters, so please be careful.<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
-<Philia>AN‚ªΣ”C‚π΄‚¶‚ι–‚Ε‚Ν<__>‚Θ‚Ά‚Ζv‚¤‚―‚Ηcc<00>
+<Philia>Ayou are not responsible...<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
-ω‚Ι‚ί‚½–‚Θ‚ηA<__>‰‰‡‚³‚Ή‚Δ‚ΰ‚η‚¤‚ζB<00>
+If you have already decided,<__>I will support you.<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
-<Ayles>—l‚©‚η‚¨b‚Νf‚Ά‚ά‚µ‚½B<__>‚¨‹C‚π‚Β‚―‰Ί‚³‚ΆB<00>
-[ENDBLOCK]
-<Ayles><00>
-[ENDBLOCK]
-<Philia>A‹C‚π‚Β‚―‚Δs‚­‚Μ‚Ε‚·‚ζB<__><00>
+We heard from <Ayles>.<__>Please be carful.<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-F‚³‚ρA<Philia>‚π‚ζ‚λ‚µ‚­<__>‚¨θ‚Ά‚µ‚ά‚·B<00>
+<Philia>, be careful.<__><00>
+[ENDBLOCK]
+<Ayles><00>
+[ENDBLOCK]
+Thank you everyone,<__>For saving <Philia>.<00>
 [ENDBLOCK]
 -----flag_check<__><00>
 [ENDBLOCK]
@@ -268,23 +268,23 @@ discovery:<17><15>{€<__><00>
 [ENDBLOCK]
 l‚ªl‚π‘I•Κ‚µA–½‚π‚ΰ‚Δ‚ ‚»‚Τ‚Θ‚ΗA<__>’f‚¶‚Δ‚ ‚Α‚Δ‚Ν‚Θ‚η‚Θ‚Ά–‚Ε‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 <Ayles>i‹³—l‚Ι‚²‹¦—Ν‚µ‚ΔA<__>κ“ϊ‚ΰ‘‚­_“a‚π³‚Ι–ί‚³‚Λ‚ΞB<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 •\ό‚«‚Ν•‹»‚µ‚ά‚µ‚½‚ªA<__>”½—‚ΜΥ‚Ν‚ά‚Ύc‚Α‚Δ‚Ά‚ά‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ζ‚Μ”½—‚Μ‚ΰ–ό‚¦‚Κ‚ά‚άA<__>‚±‚Μ‚ζ‚¤‚Θ–‘Τ‚Ι‚Θ‚ι‚Ζ‚Νcc<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ”‘½‚­‚ΜlX‚ªA‹~‚Ά‚π‹‚ίA<__>‚±‚Μ_“a‚π–K‚κ‚Δ‚Ά‚ά‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ‚»‚¤‚µ‚½lX‚πΐS‚³‚Ή‚ι‚Χ‚­A<__>‰δX‚ΰ‘S—Ν‚πs‚­‚µ‚ά‚·B<00>
 [ENDBLOCK]
@@ -312,101 +312,101 @@ discovery:<17><15>{€<__><00>
 [ENDBLOCK]
 ƒAƒ^ƒ‚ƒj_‚ζA‚Η‚¤‚©‹~‚Ά‚πcc<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 <Philia>A‚»‚κ‚Ι‘Ό‚ΜF—l•ϋB<__>_‚Μα‚π‚ζ‚λ‚µ‚­‚¨θ‚Ά‚µ‚ά‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 _‚Μα‚πζ‚θ–ί‚µ‚Δ‰Ί‚³‚ΆB<__>‚ζ‚λ‚µ‚­‚¨θ‚Ά‚µ‚ά‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ‚±‚Μ_“a‚Ι‚Ν”‘½‚­‚Μ•¶£‚ª‚ ‚θ‚ά‚·B<__>‚Ά‚ν‚ΞAl—ή‚Μ‰p’m‚Μ“a“°‚Θ‚Μ‚Ε‚·B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 “V’nν‘‚Ζ‚Ά‚¤Ύ—t‚ΝA<__>m‚©‚Ι•¶£‚Μ’†‚Ι‚ ‚θ‚ά‚µ‚½B<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ‚½‚Ύ‚Μ“`ΰ‚Ζv‚Ά‚ρ‚Ε‚Ά‚ά‚µ‚½‚ªA<__>–ΐ‚Ύ‚Α‚½‚Μ‚Ε‚·‚ΛB<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ζ‚Μ“V’nν‘‚Ε‚Ν‹~Άε‚ª»‚κ‚ΔA<__>’nγ‚Μ‹‡’n‚π‹~‚Α‚½‚»‚¤‚Ε‚·‚ªcc<00>
 [ENDBLOCK]
-iΥ<00>
+Priest<00>
 [ENDBLOCK]
 ‚ ‚Θ‚½•ϋ‚π©‚Δ‚Ά‚ι‚ΖA‚Θ‚Ί‚©A<__>ζ‚Μ“V’nν‘‚Μ‹~Άε‚πv‚Άo‚µ‚ά‚·B<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‘εδ•v‚Ε‚·‚©AF‚³‚ρH<00>
+Are you guys OK?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‰΄‚½‚Ώ‚Ν‰¤—l‚Μ–½—ί‚Ε—‚ά‚µ‚½B<__>‚ΰ‚¤•½‹C‚Ε‚·‚ζB<00>
+We're here under the King's<__>orders. You're safe, now.<00>
 [ENDBLOCK]
-HHHH<00>
+????<00>
 [ENDBLOCK]
-‚¨‚¨A•‚©‚θ‚ά‚µ‚½B<00>
+Aah, we are saved!<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-„‚Ν“–_“a‚Μi‹³‚π–±‚ί‚ιA<__>ƒAƒCƒ‹ƒc‚ΖΎ‚Ά‚ά‚·B<00>
+I serve this sacred temple as<__>a Bishop. My name is <Ayles>.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-‰½‚ª‹N‚±‚Α‚½‚Μ‚©A<__>‹³‚¦‚Δ‚ΰ‚η‚¦‚ιH<00>
+What exactly happened here?<__>You mind filling us in?<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-‘εiΥƒOƒƒoƒ€‚ªA<__>“Λ‘RA”½—‚π‹N‚±‚µ‚½‚Μ‚Ε‚·I<00>
+High Priest <Greybum> suddenly began<__>an uprising here at the temple!<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-‚»‚µ‚Δ~‚ί‚Ι“ό‚Α‚½‘εi‹³—l‚πccI<__>‚ ‚ cc‚Θ‚ρ‚Ζ‚¨‚Ά‚½‚ν‚µ‚Άcc<00>
+The Archbishop tried to intervene,<__>but...Oh, Atamoni preserve us!<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-‰δ‚η‚Ν‚β‚ή‚Θ‚­ƒOƒƒoƒ€‚Ι“~‚µA<__>΅‚Ι‚ι‚Ζ‚Ά‚¤‚ν‚―‚Θ‚Μ‚Ε‚·B<00>
+We had no choice but to surrender<__>to <Greybum>. He had us<__>locked in here, as you see us now.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-_‚Μα‚Ν‚Η‚¤‚Θ‚Α‚½H<00>
+What happened to<__>the Eye of Atamoni?<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-‚Θ‚Ί‚ ‚Θ‚½‚ª‚»‚Μ–Ό‚π!?<00>
+Why do you<__>know that name!?<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-ΰ–Ύ‚Μ•K—v‚Ν‚Θ‚ΆB<00>
+You don't need<__>to know that.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-–l‚½‚Ώ‚Μ–Ϊ“I‚ΝA_‚Μα‚Μέ‚Μm”F‚ΎB<__>‚³‚Α‚»‚­©‚Ή‚Δ‚ΰ‚η‚¨‚¤‚©B<00>
+Our objective is to confirm the<__>whereabouts of the Eye of Atamoni.<__>Now, will you take us to see it?<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-‚Θ‚θ‚ά‚Ή‚ΚB‚ ‚κ‚Ν“–_“a‚ΜΕ‚‹@–§B<__>ΦW‚Θ‚Ά•ϋ‚π‚²Δ“ΰ‚·‚ι‚ν‚―‚Ι‚ΝB<00>
+I will not. You're talking about<__>the greatest secret of this temple.<__>I cannot show it to outsiders.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-–l‚Ν’Ί–½‚πσ‚―‚Δ‚±‚±‚Φ‚β‚Α‚Δ—‚½B<00>
+I've told you already that<__>we were ordered to do this.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-–l‚ΜΎ—t‚Ι‹t‚η‚¤–‚ªA<__>‰½‚πΣ–΅‚·‚ι‚©A‚ν‚©‚ι‚ΘH<00>
+You know the consequences of<__>obstructing official<__>Kingdom business, don't you?<00>
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
-cc‚ν‚©‚θ‚ά‚µ‚½B‚²Δ“ΰ‚Ά‚½‚µ‚ά‚·B<__>‘εΉ“°‚ά‚Ε‚¨i‚έ‚­‚Ύ‚³‚ΆB<00>
+...I do. Very well.<__>I shall guide you. Please<__>take me to the Cathedral.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ ‚θ‚ª‚Ζ‚¤‚²‚΄‚Ά‚ά‚·I<00>
+Thank you so much!<00>
 [ENDBLOCK]
 <Batista><00>
 [ENDBLOCK]
@@ -436,7 +436,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹θ(€<__>‚Ν‚Ά<__>‚Ά‚Ά‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a>μ<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013a>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚Ι‰Α‚ν‚θ‚ά‚µ‚½B<00>
 [ENDBLOCK]
@@ -448,21 +448,21 @@ notice<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚Ι•‹A‚µ‚ά‚µ‚½B<00>
 [ENDBLOCK]
-<18>eWά<00>€<18>eWΰ<00>€<00>
+<18>eWά<00>€<18>eW?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a>μ<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013a>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚η”²‚―‚ά‚µ‚½B<00>
 [ENDBLOCK]
-<18>eWά<00>€<18>eWΰ<00>€<00>
+<18>eWά<00>€<18>eW?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Μ†F<turquoise><1A>,<0_0><05><00>qH<10>€<00>
+Μ†F<turquoise><1A>,<0_0><05><00>qH<10>?€<00>
 [ENDBLOCK]
 <18>eX<0C><00><TAG_014>‚πζ“Ύ‚µ‚ά‚µ‚½B<__><00>
 [ENDBLOCK]
@@ -504,7 +504,7 @@ camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
+<1A> r<0C>?€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -556,7 +556,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><TAG_013a>μ€‚Μƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>g—p‰Β”\‚Ι‚Θ‚θ‚ά‚µ‚½B<00>
+<TAG_007><TAG_013a>?€‚Μƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>g—p‰Β”\‚Ι‚Θ‚θ‚ά‚µ‚½B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -634,7 +634,7 @@ notice<00>
 [ENDBLOCK]
 ƒtƒ‰ƒ“ƒc<00>
 [ENDBLOCK]
-–l‚Μι‹ν‘‚Νƒtƒ‰ƒ“ƒcB<__>‚±‚κ‚Ε‚ΰlΓwÒ‚Θ‚ρ‚Ε‚·B<00>
+–l‚Μι‹ϊ­‚Νƒtƒ‰ƒ“ƒcB<__>‚±‚κ‚Ε‚ΰlΓwÒ‚Θ‚ρ‚Ε‚·B<00>
 [ENDBLOCK]
 <Woodrow><00>
 [ENDBLOCK]
@@ -710,7 +710,7 @@ notice<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-„‚Με‹πq—~‹‚ªA<__>‚¤‚Έ‚«‚ά‚·‚νI<00>
+„‚Με‹?—~‹‚ªA<__>‚¤‚Έ‚«‚ά‚·‚νI<00>
 [ENDBLOCK]
 ƒtƒ‰ƒ“ƒc<00>
 [ENDBLOCK]

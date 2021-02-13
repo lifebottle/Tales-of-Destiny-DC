@@ -204,25 +204,25 @@
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>Œ‹ŠEÎ‚ð”j‰ó‚µ‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<__><00>
+<TAG_007>Destroy the barrier stone?<__>Yes<__>No<__><00>
 [ENDBLOCK]
-‚±‚ê‚Å”à‚ªŠJ‚­‚¼B<__>•Â‚¶ž‚ß‚ç‚ê‚Ä‚¢‚½l‚ð•‚¯‚æ‚¤B<00>
+That should've opened the door.<__>Let's go rescue the people inside.<00>
 [ENDBLOCK]
-‚±‚ê‚Å‚æ‚¤‚â‚­”à‚ªŠJ‚­‚í‚ËB<__>‚³‚Á‚«‚Ìl‚ÌŠ‚Ö–ß‚è‚Ü‚µ‚å‚¤B<00>
+This will finally unseal the door.<__>Let's hurry back.<00>
 [ENDBLOCK]
-‚Í‚â‚­”à‚Ü‚Å–ß‚è‚Ü‚µ‚å‚¤B<00>
+Let's hurry back to the door.<00>
 [ENDBLOCK]
-‹}‚¢‚Å•Â‚¶ž‚ß‚ç‚ê‚Ä‚¢‚½l‚ð<__>•‚¯‚æ‚¤B<00>
+Let's hurry back and<__>help those people.<00>
 [ENDBLOCK]
-‚æ‚µA‚±‚ê‚Å”à‚ªŠJ‚­‚¼B<00>
+Alright, this will<__>unseal the door.<00>
 [ENDBLOCK]
-‚±‚ê‚Å”à‚ªŠJ‚¢‚½‚Ì‚©H<00>
+Will this unseal the door?<00>
 [ENDBLOCK]
-‹}‚¢‚Å”à‚Ì‚Æ‚±‚ë‚Ü‚Å<__>–ß‚è‚Ü‚µ‚å‚¤B<00>
+Hurry back to the door.<00>
 [ENDBLOCK]
-‚³‚ A”à‚Ü‚Å–ß‚é‚Æ‚µ‚æ‚¤‚©B<00>
+Let's go back to the door.<00>
 [ENDBLOCK]
-‚æ‚Á‚µ‚á‚ I<__>”à‚Ì••ˆó‚ª‰ð‚¯‚½‚ºB<00>
+Alright! The door has been unsealed.<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -236,7 +236,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>œ<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -248,21 +248,21 @@ notice<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É•œ‹A‚µ‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-<18>eXŒ<00>€<18>eX<00>€<00>
+<18>eX?<00>€<18>eX?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>œ<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
-<18>eXŒ<00>€<18>eX<00>€<00>
+<18>eX?<00>€<18>eX?<00>€<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qHÀ˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qHÀ?€<00>
 [ENDBLOCK]
 <18>eX¼<00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
@@ -304,7 +304,7 @@ camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]

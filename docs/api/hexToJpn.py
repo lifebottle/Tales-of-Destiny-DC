@@ -1,7 +1,7 @@
 from http.server import BaseHTTPRequestHandler
 from urllib.parse import urlparse
 import json
-from ._scripts.HexToJpn import HexToJpn
+from ._scripts.HexToJpn import hexToJpn
 
 
 class handler(BaseHTTPRequestHandler):
@@ -10,7 +10,7 @@ class handler(BaseHTTPRequestHandler):
         post_body = self.rfile.read(content_len)
         data = json.loads(post_body)
         parsed_path = urlparse(self.path)
-        converted = HexToJpn(data['input'])
+        converted = hexToJpn(data['input'])
         self.send_response(200)
         self.end_headers()
         self.wfile.write(json.dumps({

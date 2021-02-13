@@ -109,6 +109,22 @@ Search for さっきの<ITEM_149>を使えば in multiple files 3:12
 13890_71 - line 27 7:14  
 13882_114 - line 445 7: 20  
 
+## Cherik
+video : https://drive.google.com/file/d/12FzQLQw4a4z9YCPIne9BvpEUk9GvQRpx/view?usp=sharing  
+13927_79 - line 107 to 159 0:00  
+13927_79 - line 99 + 13933_73 - line 101  NPC 1:07  
+
+Second screen :  
+13931_38 - line 161 + 13925_36 - line 163 First NPC 1:51  
+13929_32 - line 9 + 13935_32 - line 9 House 2:48  
+13928_45 - line 333 + 13934_45 - line 333 Inn 3:06  
+Some of these files looks like the same file.  
+
+Third screen :  
+13926_76 line 353, 365 + 13932_66 line 345, 357 NPC 3:41  
+13930_55 line 139 to 311 Barok 4:41-8:08  
+13930_55 line 91 + 13936_49 lne 173 If you speak again to Barok 9:31  
+
 ## Leon's Side
 ## !(if you see duplicate file you need to do both file if you translate this part or else we will have to come back to fix it later)!
 
