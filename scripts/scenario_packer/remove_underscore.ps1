@@ -1,0 +1,1 @@
+Get-ChildItem C:\temp\scenarios -Directory -Recurse | Rename-Item  -NewName {$_.Name -replace '_',''} -ErrorAction:SilentlyContinue
