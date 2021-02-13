@@ -128,7 +128,7 @@ Ehhh, seriously?!<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-The source of the AethÅfer Wars,<__>that Eye of Atamoni?!<00>
+The cause of the AethÅfer Wars,<__>that Eye of Atamoni?!<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -150,11 +150,11 @@ Right now, we are listening<__>to your story.<00>
 [ENDBLOCK]
 Y-yes. Alright...<00>
 [ENDBLOCK]
-ÅHÅHÅHÅH<00>
+????<00>
 [ENDBLOCK]
 <Philia>... Are you saying you<__>refuse to come with me?<00>
 [ENDBLOCK]
-ÅHÅHÅHÅH<00>
+????<00>
 [ENDBLOCK]
 You are a disappointment... Then<__>I will turn you to stone in<__>this place!<00>
 [ENDBLOCK]
@@ -220,7 +220,7 @@ Can the Eye of Atamoni really do<__>something like summoning monsters?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Then if he's interested in<__>something like that<00>
+Then, if he's interested in<__>something like that...<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
@@ -240,7 +240,11 @@ Lydon can't just do as he likes<__>with the Eye of Atamoni! We have<__>to captur
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-YouÅfre right, <Stahn>ÅIThat is the<__>just conclusion.<00>
+<<<<<<< HEAD
+You're right, <Stahn>! That is the<__>just conclusion.<00>
+=======
+YouÅfre right, <Stahn>! That is the<__>just conclusion.<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -248,7 +252,7 @@ Let's go back to<__>Darilshied!<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-Woman. You will<__>accompany us.<00>
+You. You're coming with us.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
@@ -256,7 +260,11 @@ Huh?<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-You know Lydon's face. If youÅfre<__>not with us, you'll be in<__>danger.<00>
+<<<<<<< HEAD
+You know what <Greybum> looks like.<__>We'll need you as a witness.<00>
+=======
+You know Lydon's face. If youÅfre<__>not with us, you'll be in danger.<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
@@ -268,15 +276,19 @@ No... I will go with<__>these people.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-I was unwittingly complicit in<__>the High Priest's plans.<00>
+Unwitting or no, I was still<__>complicit in the High Priest's plan.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-I must take responsibility for releasing the seal on the Eye of Atamoni...!<00>
+<<<<<<< HEAD
+I must take responsibility for<__>releasing the seal<__>on the Eye of Atamoni...!<00>
+=======
+I must take responsibility for<__>releasing the seal on the<__>Eye of Atamoni...!<00>
+>>>>>>> upstream/master
 [ENDBLOCK]
 <Ayles><00>
 [ENDBLOCK]
- I understand...<Philia>, you may<__>go with them.<00>
+I understand...<Philia>, you may<__>go with them.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
