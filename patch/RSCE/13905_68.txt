@@ -232,11 +232,11 @@ notice<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
-<TAG_005>¶–½—Í‰ñ•œ‘•’u‚Æ<__>‹L‚³‚ê‚Ä‚¢‚éB<00>
+<TAG_005>It is described as a vitality<__>recovery apparatus.<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-Žg‚¢‚Ü‚·‚©H<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
+Use it?<__>Yes<__>No<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -270,9 +270,9 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qH¤˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qH¤?€<00>
 [ENDBLOCK]
-<18>eX <00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
+<18>eX?<00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
 <19>iH”€‚½‚¿‚Í<00>
 [ENDBLOCK]
@@ -306,13 +306,13 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eX˜<00>€<__><18>eXœ<00>€<00>
+<TAG_007><18>eX?<00>€<__><18>eX?<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -352,11 +352,11 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-‘•’u‚Í‹N“®‚µ‚Ä‚¢‚È‚¢B<00>
+The device is not active<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-ƒ[ƒv‘•’u‚ª‹N“®‚µ‚Ü‚µ‚½B<00>
+Warp devices are now active.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
