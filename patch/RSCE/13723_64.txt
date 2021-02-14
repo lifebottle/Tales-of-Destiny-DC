@@ -554,35 +554,35 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>「称号の説明」<__>称号とはキャラクターにセットする事の出来る、<__>キャラクターパラメータのひとつです。<__>具体的なセット方法は次の通りです。<00>
+<TAG_007>「Titles Description」<__>Titles are one of the character parameters<__>that can be set on a character. The<__>specific set method is as follows.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの<__>ステータスを表示します。<__>その画面のまま<Square_ani>を押すと、キャラクターの<__>ステータス表示を切り替える事が出来ます。<__><00>
+<TAG_007>After opening the main menu,<__>the character status will display.<__>On this screen, hit <Square_ani> and you’ll<__> be able to change the character status.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた<__>ページがあります。その画面で<Triangle_ani>を押すと、<__>取得した称号を切り替える事が出来ます。<__><00>
+<TAG_007>At the top of this screen, you’ll see<__>「Titles」On this screen, press <Triangle_ani> <__>and it’ll let you pick from all the<__>titles you’ve acquired.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。<__>ひとつ目は……<__>「称号をセットして、街人に話し掛けよう」<00>
+<TAG_007>There are two purposes to titles. The first<__>is… townspeople will address you as<__>the title you set!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、<__>あなたに興味を持つ人がいます。街人に何度か<__>話し掛けた際、不思議な言動をする事があります。<__>その時は、持っている称号をセットし直してから、<__>もう一度話し掛けてみましょう。<00>
+<TAG_007>By setting a title, certain townspeople will<__>take interest in you. When you talk<__>to them several times, you might get<__>interesting responses. When that<__>happens, reset the title you have on and<__>try talking to them one more time.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの<__>頭の上に「？」が出る事があります。<__>その時は、街人のセリフと関連しそうな<__>称号をセットして、再度、話し掛けてみましょう。<__>何か嬉しい事が起こるかもしれません。<00>
+<TAG_007>Hint: When talking to townspeople, a<__>"?" will appear over your character's<__>head. When that happens, the townsperson’s<__>speech will change to be relevant to<__>the title you have equipped?so try<__>talking to them again. Maybe something<__>fun will happen!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……<__>「ステータス画面をかっこ良くしよう」<__>集めた称号の中で、もし気に入ったものがあれば、<__>セットしてステータス画面をかっこ良く演出しましょう。<00>
+<TAG_007>The second purpose of titles<__>is...to make your status screen look<__>cool! When collecting titles, you<__>might pick up one you like, so you<__>can set it on your status for a<__>little flair!<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、<__>フィールドにある石を蹴って、<__>特定の条件をクリアする遊びです。<__><00>
+<TAG_007>「Rock Rally」<__>is a play that kicks stones in the field<__>to clear certain conditions.<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
