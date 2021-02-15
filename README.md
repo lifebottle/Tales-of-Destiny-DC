@@ -191,6 +191,7 @@ Third screen :
 - https://www.psx-place.com/threads/apache.19171/
 - https://www.romhacking.net/utilities/598/
 - https://www.romhacking.net/utilities/1419/
+- http://www.romhacking.net/utilities/659
 
 ## Credits
 - Thanks to the Temple of Tales Translations team (http://temple-tales.ru/translations.html) for providing tools to edit story and skits
