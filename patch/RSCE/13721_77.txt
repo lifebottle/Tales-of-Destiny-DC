@@ -610,11 +610,11 @@ Lens Shopkeeper<00>
 [ENDBLOCK]
 We accept purchase<__>of lens.<00>
 [ENDBLOCK]
-Oberon employee<00>
+Oberon Employee<00>
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、<__><ITEM_067>、<ITEM_068>、<__><ITEM_069>をお持ちでしょうか？<00>
+<ITEM_065>、<ITEM_066>、<__><ITEM_067>、<ITEM_068>、<__><ITEM_069>Do you have one?<00>
 [ENDBLOCK]
-If you prepare everything and bring it with you, we will<__>mix them and give you <ITEM_Elixir>.<00>
+If you prepare everything and<__>bring it with you, we will<__>mix them and give you <ITEM_Elixir>.<00>
 [ENDBLOCK]
 You have all the<__>ingredients.<__><00>
 [ENDBLOCK]
@@ -636,9 +636,9 @@ See you again.<__><00>
 [ENDBLOCK]
 Come back at<__>any time.<__><00>
 [ENDBLOCK]
-材料がそろいましたら、<__>おこしください。<__><00>
+Once you have the ingredients,<__>please return.<__><00>
 [ENDBLOCK]
-<ITEM_Elixir>はこれ以上<__>持てないようです。<__><00>
+<ITEM_Elixir>You can't seem to hold anymore.<__><00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
