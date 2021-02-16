@@ -198,7 +198,7 @@
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
-‘f°‚η‚µ‚ΆI@‚ ‚Θ‚½‚½‚Ώ‚±‚»<__>‚±‚Μ–Ό‚πι‹λ‚ι‚Μ‚Ι‚Σ‚³‚ν‚µ‚ΆI<00>
+‘f°‚η‚µ‚ΆI@‚ ‚Θ‚½‚½‚Ώ‚±‚»<__>‚±‚Μ–Ό‚πι‹?‚ι‚Μ‚Ι‚Σ‚³‚ν‚µ‚ΆI<00>
 [ENDBLOCK]
 ‚²‰B‹<00>
 [ENDBLOCK]
@@ -284,19 +284,19 @@ notice<00>
 [ENDBLOCK]
 ‚½‚ΎA‚ª‰ί‚¬‚½‚Ζ‚µ‚Δ‚ΰ<__>„‚ª‚±‚±‚Ι‚Ά‚½–‚Ν<__>–Y‚κ‚Θ‚Ά‚Ε‚­‚Ύ‚³‚Ά‚ΛB<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-‚ί‚Έ‚η‚µ‚Ά‚β‚Β‚η‚Ύ‚ΘB<00>
+Y'all are a rare lot, ain'tcha.<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-‚±‚ρ‚Θ‚Ζ‚±‚Ε‚ζ‚―‚θ‚αB<00>
+If that's okay with you.<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-η‚—ς‚Μ‚©H<00>
+Are you going to stay?<00>
 [ENDBLOCK]
-ƒKƒ‹ƒh‚ΎB\‚ν‚Θ‚Ά‚©H<00>
+ Gald. Is that okay?<00>
 [ENDBLOCK]
 •”‰®‚ΝK’i‚π‚¨‚θ‚½‚Ζ‚±‚λ‚ΎB<00>
 [ENDBLOCK]
@@ -306,19 +306,19 @@ notice<00>
 [ENDBLOCK]
 ‹ΰ‚ª‚½‚θ‚Θ‚Ά‚ζB<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-‚ί‚Έ‚η‚µ‚Ά‚β‚Β‚η‚Ύ‚ΘB<00>
+Y'all are a rare lot, ain'tcha.<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-‚±‚ρ‚Θ‚Ζ‚±‚Ε‚ζ‚―‚θ‚αB<00>
+If that's okay with you.<00>
 [ENDBLOCK]
-h‰®<00>
+Innkeeper<00>
 [ENDBLOCK]
-η‚—ς‚Μ‚©H<00>
+Are you going to stay?<00>
 [ENDBLOCK]
-ƒKƒ‹ƒh‚ΎB\‚ν‚Θ‚Ά‚©H<00>
+ Gald. Is that okay?<00>
 [ENDBLOCK]
 •”‰®‚ΝK’i‚π‚¨‚θ‚½‚Ζ‚±‚λ‚ΎB<00>
 [ENDBLOCK]
@@ -338,11 +338,11 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>»έ‚ΜƒKƒ‹ƒh:<17>r<08>€ƒKƒ‹ƒh<00>
+<TAG_007>Current Gald: <17>r<08>€ Gald<00>
 [ENDBLOCK]
-<TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹θ(€<__>‚Ν‚Ά<__>‚Ά‚Ά‚¦<00>
+<TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹θ(€<__>Yes<__>No<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚Ι‰Α‚ν‚θ‚ά‚µ‚½B<00>
 [ENDBLOCK]
@@ -360,7 +360,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚η”²‚―‚ά‚µ‚½B<00>
 [ENDBLOCK]
@@ -368,7 +368,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Μ†F<turquoise><1A>,<0_0><05><00>qH¬€<00>
+Μ†F<turquoise><1A>,<0_0><05><00>qH¬?€<00>
 [ENDBLOCK]
 <18>eX¨<00><TAG_014>‚πζ“Ύ‚µ‚ά‚µ‚½B<__><00>
 [ENDBLOCK]
@@ -404,13 +404,13 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eX <00>€<__><18>eX¤<00>€<00>
+<TAG_007><18>eX?<00>€<__><18>eX¤<00>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
+<1A> r<0C>?€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -462,7 +462,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><TAG_013b>€‚Μƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>g—p‰Β”\‚Ι‚Θ‚θ‚ά‚µ‚½B<00>
+<TAG_007><TAG_013b>?€‚Μƒ\[ƒfƒBƒAƒ“ƒfƒoƒCƒX‚ª<__>g—p‰Β”\‚Ι‚Θ‚θ‚ά‚µ‚½B<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
