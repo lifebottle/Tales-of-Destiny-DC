@@ -42,6 +42,8 @@ cd docs
 
 ```bash
 yarn
+# or
+npm install
 ```
 
 ###### Run the development server:
