@@ -1,0 +1,60 @@
+@credits
+00=A
+01=B
+02=C
+03=D
+04=E
+05=F
+06=G
+07=H
+08=I
+09=J
+0A=K
+0B=L
+0C=M
+0D=N
+0E=O
+0F=P
+10=Q
+11=R
+12=S
+13=T
+14=U
+15=V
+16=W
+17=X
+18=Y
+19=Z
+1A=0
+1B=1
+1C=2
+1D=3
+1E=4
+1F=5
+20=6
+21=7
+22=8
+23=9
+24252627=[CHUN]
+28=-
+29=[right triangle]
+2A=©
+2B2C2D=[enix logo line 1]
+2E2F3031=[enix logo line 2]
+32333435=[enix logo line 3]
+36373839=[enix logo line 4]
+3A3B3C3D=[enix logo line 5]
+
+5F= 
+
+6B=.
+6C=&
+
+6E=?
+6F=!
+
+!FF00=<[palette for preceeding line: green]>,-1
+!FF01=<[palette for preceeding line: orange]>,-1
+!FF02=<[palette for preceeding line: pink]>,-1
+!FF03=<[palette for preceeding line: blue]>,-1
+!FFFF=<[palette for preceeding line: specified by next 16 bytes:]>,16,-1

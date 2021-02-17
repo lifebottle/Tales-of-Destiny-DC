@@ -1,0 +1,55 @@
+//GAME NAME:		Battle of Olympus, The (U) <!>.nes
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(functions, TABLE)
+#ADDTBL("functions.tbl", functions)
+#VAR(Table_1, TABLE)
+#ADDTBL("NPCs.tbl", Table_1)
+#VAR(Table_2, TABLE)
+#ADDTBL("flags.tbl", Table_2)
+#VAR(Table_3, TABLE)
+#ADDTBL("bytes.tbl", Table_3)
+#VAR(Table_4, TABLE)
+#ADDTBL("items.tbl", Table_4)
+#VAR(Table_5, TABLE)
+#ADDTBL("OneBytePascalString.tbl", Table_5)
+#VAR(upper, TABLE)
+#ADDTBL("upper.tbl", upper)
+#VAR(Table_7, TABLE)
+#ADDTBL("lower.tbl", Table_7)
+#VAR(Table_8, TABLE)
+#ADDTBL("symbols.tbl", Table_8)
+
+// The Battle of Olympus' pascal strings use 1 byte to store their length and count by number of tokens, not number of bytes
+#PASCALLEN(1)
+#PASCALTYPE("TOKENS")
+
+//BLOCK #000 NAME:		Arcadia
+#JMP($15E48, $15E90) // Jump to insertion point
+#HDR($C010) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $158F2 - STRING #0 @ $15E48
+#W16($158F2)
+#ACTIVETBL(functions)
+#STRTYPE("ENDTERM")
+[NPC:][Old bald man with white beard and staff]
+[if flag X is not set, skip Y bytes][flag: Zeus met][bytes: $16]
+#SKIP(-1)
+#EMBTYPE("POINTER_RELATIVE", 8, $0)
+#EMBSET(0)
+<$09>
+#ACTIVETBL(upper)
+#STRTYPE("PASCAL")
+[HERO],[LINE]
+don't be discouraged!
+// current address: $15E62
+
+//EMBEDDED POINTER #0 @ $15E4C - SUB-STRING #0 @ $15E62
+#EMBWRITE(0)
+#STRTYPE("ENDTERM")
+<$09>
+#STRTYPE("PASCAL")
+[HERO], first you must[LINE]
+go to the Temple of[LINE]
+Arcadia to meet Zeus.
+// current address: $15E90
