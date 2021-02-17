@@ -7,7 +7,9 @@
 //BLOCK #000 NAME:		Title_Block
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
 
-#JMP($1BB930, $1BF0E4) // Jump to insertion point
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+#JMP($1BB930) // Jump to insertion point
 #HDR($FF000) // Difference between ROM and RAM addresses for pointer value calculations
 
 //POINTER #0 @ $1946A0 - STRING #0 @ $1BB990
