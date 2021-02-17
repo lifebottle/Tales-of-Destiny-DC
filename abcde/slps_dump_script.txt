@@ -11,5 +11,5 @@
 #ATLAS PTRS:			Yes
 #BASE POINTER:			$FF000		//add $FF000 to each pointer to get
 #TABLE:				toddc.tbl	//the string address
-#COMMENTS:			Yes
+#COMMENTS:			Both
 #END BLOCK
