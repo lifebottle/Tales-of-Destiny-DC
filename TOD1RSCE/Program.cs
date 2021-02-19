@@ -134,7 +134,7 @@ namespace sceWork
             if (!File.Exists(path))
                 return;
             Console.WriteLine(string.Format("Repack {0}", (object)Path.GetFileName(fileName)));
-            string[] strArray = File.ReadAllLines(path, Encoding.GetEncoding(1251));
+            // Original: string[] strArray = File.ReadAllLines(path, Encoding.GetEncoding(1251));
             /*This fixes the issue with the code assuming that instances of 0D are linebreaks and converting them to Windows 0D 0A linebreaks. 
             Credit to Ethanol for being smart and knowing how to code :) */
             string[] stringSeparators = new string[] { "\r\n" };
