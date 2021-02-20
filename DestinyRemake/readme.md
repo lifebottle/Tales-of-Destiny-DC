@@ -11,7 +11,7 @@ As well, icon was added to make the executable look cool.
 1. `DestinyRemake.exe` to see available options
 1. `DestinyRemake.exe Tales.DestinyRemake.TblBin.Extract DAT.TBL DAT.BIN` to extract all files from `DAT.BIN`
 1. This is basically equivalent to `ToDDCTools_v1.1.exe unpack DAT.BIN DAT.TBL` but with no extensions or folder organization.  
-1. 'DestinyRemake.exe Tales.DestinyRemake.MglkExtract.Extract .\DAT.BIN.ex\0#####` to extract .sce file from MGLK file.
+1. `DestinyRemake.exe Tales.DestinyRemake.MglkExtract.Extract .\DAT.BIN.ex\0#####` to extract .sce file from MGLK file.
 1. This is equivalent to `ToDDCTools_v1.1.exe unmglk #####` + `comptoe.exe -d1 0#####.sce #####.rsce`
 
 ## Next Steps
