@@ -134,7 +134,16 @@ namespace sceWork
             if (!File.Exists(path))
                 return;
             Console.WriteLine(string.Format("Repack {0}", (object)Path.GetFileName(fileName)));
-            string[] strArray = File.ReadAllLines(path, Encoding.GetEncoding(1251));
+            // string[] strArray = File.ReadAllLines(path, Encoding.GetEncoding(1251));
+            /* This fixes the issue with the code assuming that instances of 0D are linebreaks and converting them to Windows 0D 0A linebreaks. 
+            Credit to Ethanol for being smart and knowing how to code :) */
+            string[] stringSeparators = new string[] { "\r\n" };
+            string[] strArray = File.ReadAllText(path, Encoding.GetEncoding(1251)).Split(stringSeparators, StringSplitOptions.None);
+            // Make it not die if the last thing of the txt isn't a new line
+            if (strArray[strArray.Length - 1].Equals(String.Empty))
+            {
+                Array.Resize(ref strArray, strArray.Length - 1);
+            }
             List<string> stringList = new List<string>();
             string str = "";
             for (int index = 0; index < strArray.Length; ++index)
