@@ -1,0 +1,3 @@
+[submodule "wxMEdit"]
+	path = wxMEdit
+	url = https://github.com/pnvnd/wxMEdit.git
