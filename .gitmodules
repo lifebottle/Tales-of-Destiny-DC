@@ -1,3 +1,6 @@
 [submodule "wxMEdit"]
 	path = wxMEdit
 	url = https://github.com/pnvnd/wxMEdit.git
+[submodule "wxMEdit"]
+	path = HyoutaTools
+	url = https://github.com/pnvnd/HyoutaTools.git
