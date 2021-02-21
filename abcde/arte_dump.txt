@@ -1,0 +1,31 @@
+//GAME NAME:		Tales of Destiny DC
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:		Title_Block
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($1A0F38, $1A0F9B) // Jump to insertion point
+#HDR($FF000) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $182FE8 - STRING #0 @ $1A0F90
+#W32($182FE8)
+//[Sign_5]爆炎剣[END]
+[Sign_5]爆炎剣[END]
+// current address: $1A0F9C
+
+//POINTER #1 @ $182FEC - STRING #1 @ $1A0F80
+#W32($182FEC)
+//バクエンケン[END]
+バクエンケン[END]
+// current address: $1A0F8D
+
+//POINTER #2 @ $182FF0 - STRING #2 @ $1A0F38
+#W32($182FF0)
+//爆発力を込めた剣を振るい、爆風を起こす[NLINE]
+//術剣技。[Sign_Wing]：空中発動が可能[END]
+爆発力を込めた剣を振るい、爆風を起こす[NLINE]
+術剣技。[Sign_Wing]：空中発動が可能[END]
+// current address: $1A0F7D
