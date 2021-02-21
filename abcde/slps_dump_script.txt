@@ -12,4 +12,5 @@
 #BASE POINTER:			$FF000		//add $FF000 to each pointer to get
 #TABLE:				toddc.tbl	//the string address
 #COMMENTS:			Both
+#SORT OUTPUT BY STRING ADDRESS: Yes
 #END BLOCK
