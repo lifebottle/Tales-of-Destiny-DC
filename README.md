@@ -159,7 +159,7 @@ If you see duplicate file you need to do both file if you translate this part or
 13740_84 Darishield shopping street duplicate  
 
 13730_63 Darishield bar  
-13749_84Darishield bar  
+13749_84 Darishield bar  
 13727_35 Darishield bar annex  
 13746_32 Darishield bar annex  
 
