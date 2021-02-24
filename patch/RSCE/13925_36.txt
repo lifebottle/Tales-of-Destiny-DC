@@ -46,29 +46,29 @@ Boy<00>
 [ENDBLOCK]
 I took out a lens.<__>It's only one.<00>
 [ENDBLOCK]
-Pawn Shop<00>
+Item Shop<00>
 [ENDBLOCK]
 How may I help you?<00>
 [ENDBLOCK]
-Pawn Shop<00>
+Item Shop<00>
 [ENDBLOCK]
 How may I help you?<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-I really don't want to<__>sell to a stranger.<00>
+I really don't want to<__>sell to a foreigner.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-...I'm not in a situation where<__>I can say I'm a stranger or anything.<00>
+...I'm not in a position where<__>I can turn down foreigners.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-I really don't want to<__>sell to a stranger.<00>
+I really don't want to<__>sell to a foreigners.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-...I'm not in a situation where<__>I can say I'm a stranger or anything.<00>
+...I'm not in a position where<__>I can turn down foreigners.<00>
 [ENDBLOCK]
 Child<00>
 [ENDBLOCK]
@@ -86,27 +86,27 @@ Child<00>
 [ENDBLOCK]
 So, I can trust you guys?<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 That <Baruk> guy, looks like<__>someone I used to know...<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 ...Well, It's probably<__>just my imagination.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 <Baruk> Foundation? ...hmm.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 I haven't seen <Baruk> lately. <__>Not that I care.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 Why should Calvalese be subjected to<__>the same treatment as the stranger<__>countries?<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 It doesn't matter if you're a stranger<__>or not. I'm looking forward to working<__>with you.<00>
 [ENDBLOCK]
@@ -164,11 +164,11 @@ That's right. This is no<__>place for foreigners.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-Where are we? The city of Cherik, the port city to Calvalese.<00>
+Where are we? The city of Cherik,<__>the port city to Calvalese.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-Where are we? The city of Cherik, the port city to Calvalese.<00>
+Where are we? The city of Cherik,<__>the port city to Calvalese.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
@@ -240,7 +240,7 @@ Hone your skill a little more<__>and then come back.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>åªç›ÇÃèäéùÉKÉãÉh:<17>r<08>ÄÉKÉãÉh<00>
+<TAG_007>Current Gald: <17>r<08>Ä Gald<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>´Ä<18>f<10>+D<1C><03>´!ãË(Ä<__>ÇÕÇ¢<__>Ç¢Ç¢Ç¶<00>
 [ENDBLOCK]
