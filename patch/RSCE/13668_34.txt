@@ -60,11 +60,11 @@
 [ENDBLOCK]
 â‘Î‚É‚İ‚ñ‚ÈA<__>”Ş‚ÆŠ¨ˆá‚¢‚·‚é‚Í‚¸‚³B<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
 ‚ ‚êAŒN‚ÆˆÈ‘O‚É‰ï‚Á‚½‚æ‚ËB<__>‚ñ‚ñA‚æ‚­Œ©‚é‚Æˆá‚¤cc‚©H<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
 ‚ ‚¢‚Â‚Í‚à‚Á‚ÆˆÃ‚¢Š´‚¶<__>‚¾‚Á‚½‚©‚ÈB<00>
 [ENDBLOCK]
@@ -96,29 +96,29 @@ Armor Shop<00>
 [ENDBLOCK]
 You must arm yourself for any<__>unforseen circumstances<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-<Walt>‚É‚ÍˆâÕ‚Ì•ó‚ğˆÅ‚Å”„”ƒ‚µ‚ÄA<__>‹Šz‚Ì•x‚ğ“¾‚Ä‚¢‚é‚Æ‚Ì‰\‚ª‚ ‚éB<00>
+There are rumors that <Walt> is making<__>a huge fortune by secretly trading the<__>treaure of the ruins.<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-‚ ‚¢‚Â‚Ì‰Æ‚É‚Í‹Md‚Èà•ó‚ªA<__>‚¢‚­‚Â‚à–°‚Á‚Ä‚¢‚é‚»‚¤‚¾B<__><00>
+I heard that he has a lot of<__>valuable treasures in his house.<__><00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-‚Ç‚¤‚¹<Walt>‚ÍA©•ª‚¾‚¯A<__>ˆÀ‘S‚ÈŠ‚Ö“¦‚°‚é‹C‚È‚ñ‚¾‚ë‚¤‚ÈB<00>
+<Walt> is probably just trying to get<__>himself out of harms way, anyway.<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-‚±‚ÌŠX‚¶‚áA<Walt>‚ª—¦æ‚µ‚ÄA<__>ƒŒƒ“ƒY‚ğŸ“Û‚µ‚½‚ñ‚¾B<00>
+In this town, <Walt> took the<__>initiative to gather the lens.<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-‰´‚Í‚ ‚¢‚Â‚Ì–‚ğA<__>Œë‰ğ‚µ‚Ä‚¢‚½‚Ì‚©‚à‚µ‚ê‚È‚¢cc<00>
+Maybe I was wrong,<__>about that guy...<00>
 [ENDBLOCK]
-áÒ<00>
+Young Man<00>
 [ENDBLOCK]
-<Walt>‚É‚Î‚©‚è‚¢‚¢Šç‚Í‚³‚¹‚È‚¢B<__>‰´‚àŠæ’£‚Á‚Ä‘º‚ğç‚Á‚Ä‚İ‚¹‚éB<00>
+I'm not going to let <Walt> get the better<__>of me. I'll do my best to protect the village.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
@@ -212,17 +212,17 @@ notice<00>
 [ENDBLOCK]
 ‚Ü‚½Definite Strike‚ªuONv‚Ì<__>ó‘Ô‚Å‚ ‚ê‚Îƒ‚ƒ“ƒXƒ^[}ŠÓ‚©‚çŠeƒ‚ƒ“ƒXƒ^[‚Ì<__>Definite Strike‚ğŒ©‚é–‚ª‚Å‚«‚Ü‚·B<__><00>
 [ENDBLOCK]
-’j<00>
+Man<00>
 [ENDBLOCK]
-‚ñH@‚à‚¤‚ ‚°‚é‚à‚Ì‚Í<__>‚È‚¢‚¼B<00>
+Hmm?@I've got nothing more<__>to give you.<00>
 [ENDBLOCK]
-’j<00>
+Man<00>
 [ENDBLOCK]
-¡‚ÌŒN‚É‚Í‰½‚à˜b‚·–‚Í‚È‚¢B<00>
+I have nothing to say to you now.<00>
 [ENDBLOCK]
-’j<00>
+Man<00>
 [ENDBLOCK]
-‚à‚¤­‚µ˜r‚ğ–‚¢‚Ä‚©‚ç‚¾‚ÈB<00>
+Come back once you have honed<__>your skills some more.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -398,9 +398,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<00>
 [ENDBLOCK]
-I trade here in <18>fP<18><00>€<__>My name is <18>fP<14><00>€.<00>
+Hello, my name is <18>fP<14><00>€.<__>I manage the trading in <18>fP<18><00>€.<00>
 [ENDBLOCK]
-You're not done yet?<__>Please don't tell me you're quitting.<00>
+You're not done yet? Please don't<__>tell me you're quitting.<00>
 [ENDBLOCK]
 If you're not too busy, maybe you<__>could help me with my work.<00>
 [ENDBLOCK]
@@ -408,13 +408,13 @@ select<00>
 [ENDBLOCK]
 <TAG_007>Take on a job<__>I don't have time for this.<__>What kind of work?<__><00>
 [ENDBLOCK]
-Go to <18>fP,<00>€ and give <18>fP(<00>€<__><1A>qD4€ x<17>r@<10>€.<00>
+Collect <17>r@<10>€ <1A>qD4€ and<__>take it to <18>fP(<00>€ in <18>fP,<00>€.<00>
 [ENDBLOCK]
 The reward is <17>r<04>€ Gald.<__>It's an easy job.<__><00>
 [ENDBLOCK]
-select<00>
+Job<00>
 [ENDBLOCK]
-<TAG_007>JobFGo to <18>fP,<00>€.<__>Deliver to <18>fP(<00>€<__><1A>qD4€ x<17>r@<10>€.<__>RewardF<17>r<04>€ Gald<__>Want the job?<__>Accept<__>Decline<00>
+<TAG_007>Obtain and deliver<__><17>r@<10>€ <1A>qD4€ to<__><18>fP(<00>€ in <18>fP,<00>€<__>Reward: <17>r<04>€ Gald<__>Want the job?<__>Accept<__>Decline<00>
 [ENDBLOCK]
 In the meantime, I'll give you<__>a portion of the reward as<__>an advance.<00>
 [ENDBLOCK]
@@ -422,7 +422,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007>You will receive<17>r<04><__>€ Gald as advanced payment.<__><00>
 [ENDBLOCK]
-I'm counting<__>on you!<00>
+I'm counting on you!<00>
 [ENDBLOCK]
 What a pity.<__>Maybe next time.<00>
 [ENDBLOCK]
@@ -430,7 +430,7 @@ Well, I'll see you the next time.<00>
 [ENDBLOCK]
 It's an easy job.<__><00>
 [ENDBLOCK]
-Just buy the designated items<__>and bring them to my cohort<__>in another city!<00>
+Just obtain the designated items<__>and take them to my cohort<__>in another city!<00>
 [ENDBLOCK]
 I mean, there's money to be made<__>in this, so why not do it, right?<00>
 [ENDBLOCK]
@@ -442,9 +442,9 @@ Please do as much as you can.<00>
 [ENDBLOCK]
 I'll be quick about it.<__><00>
 [ENDBLOCK]
-<18>fP <00>€He is in <18>fP$<00>€.<00>
+<18>fP <00>€Delivery location is <18>fP$<00>€.<00>
 [ENDBLOCK]
-<1A>r<0C>€x<17>r@<10>€<__>Please procure it.<__><00>
+Please deliver (<17>r@<10>€) <1A>r<0C>€.<00>
 [ENDBLOCK]
 Good luck with the procurement!<00>
 [ENDBLOCK]
@@ -462,7 +462,7 @@ All I need is <1A>r@<10>€‚ğ<__><17>r@<14>€ŒÂ‚¾‚¼B<00>
 [ENDBLOCK]
 There'll be a penalty,<__>if you quit the job.<00>
 [ENDBLOCK]
-You know you'll have to pay<__>a penalty to cancel a job.<00>
+You know, you'll have to pay<__>a penalty to cancel a job.<00>
 [ENDBLOCK]
 I'm looking forward to<__>working with you.<00>
 [ENDBLOCK]
@@ -478,7 +478,7 @@ I am charging a cancellation<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>fee of <18>fP(<00>€<__><17>r@<18>€ Gald.<00>
+<TAG_007><18>fP(<00>€fee of <17>r@<18>€ Gald.<__><00>
 [ENDBLOCK]
 You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
@@ -486,7 +486,7 @@ You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>I am charging a cancellation fee of <17>r@<14>€ Gald.<__><00>
+<TAG_007>–Àê–@‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒhx•¥‚¢‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
 You're short on Gald. Come back<__>when you have enough.<00>
 [ENDBLOCK]
@@ -512,9 +512,9 @@ notice<00>
 [ENDBLOCK]
 <TAG_007>–Àê–@‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒh•¥‚¢‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-‹à‚ğ€”õ‚µ‚Ä‚©‚çA<__>‚Ü‚½—ˆ‚Ä‚­‚êB<00>
+Get the funds, and<__>then come back.<00>
 [ENDBLOCK]
-‚»‚ê‚¶‚áAŠæ’£‚ê‚æB<__><00>
+Well, good luck with that.<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
@@ -524,7 +524,7 @@ Janos<00>
 [ENDBLOCK]
 Harmentz<00>
 [ENDBLOCK]
-Almeida<00>
+Armeida<00>
 [ENDBLOCK]
 Darilsheid<00>
 [ENDBLOCK]
@@ -590,5 +590,5 @@ Merick<00>
 [ENDBLOCK]
 Depot<00>
 [ENDBLOCK]
-HHH<0_0>
+???<0_0>
 [ENDBLOCK]
