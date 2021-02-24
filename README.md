@@ -17,17 +17,52 @@ Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlB
 
 Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).  
 
+# SLPS_258.42
 Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  
 
-00199900 - Names  
-0019C380 - Artes  
-001A0FA0 - ???  
-001A6870 - World Map Names  
-001AB670 - Menu  
-001AB910 - Materials  
-001BF2F0 - Categories  
-0019A190 - Synopsis Titles  
+Offset   | Data                      | Notes
+---------|---------------------------|------------------
+00199900 | Character Names           | 50%
+0019A190 | Chapter Titles            | 0%
+0019AC90 | Movie Subtitles           | 50%
+0019B110 | "notice" dialogs          | 20%
+0019B370 | Support Abilities         | No Descriptions
+0019BA10 | Game Over dialog          | 0%
+0019BDC0 | Menu bar buttons          | Done
+0019C1A0 | New Game Menu             | Done
+0019C380 | Director's Cut Artes      | No Descriptions
+0019C630 | Blast Calibers            | No Descriptions
+0019D350 | Spells / Artes            | No Descriptions
+001A0FD8 | Strategy                  | Done
+001A1A78 | Gauntlet Effects          | 0%
+001A1BA8 | Special Effects           | Done
+001A2858 | Locations                 | 0%
+001A50B0 | Attribute, Enemy Type     | Done
+001A5330 | Special Weapons (dup?)    | 0%
+001A5EF0 | World Map Locations       | 0%
+001A6870 | Locations, Map Book       | 0%
+001A7870 | Discovery Points          | 0%
+001AB578 | Menu bar buttons          | Done
+001AB680 | Top Menu                  | Done
+001AB970 | Rerise Tutorial           | 0%
+001AC050 | S. Device Tutorial        | 0%
+001AC530 | Items - Materials         | No Descriptions
+001AD750 | Items - Sellable          | No Descriptions
+001ADD80 | Items - Spheres           | No Descriptions
+001AE1A0 | Items - Misc.             | No Descriptions
+001AFD10 | Accessories               | No Descriptions
+001B0AF0 | Weapons                   | No Descriptions
+001B2D40 | Armor                     | No Descriptions
+001B5F20 | Unique Equip              | No Descriptions
+001B8408 | Food                      | No Descriptions
+001BA220 | Valuable / Key Items      | No Descriptions
+001BB0A0 | Meal Collaboration?       | No Descriptions
+001BB920 | Food Effects              | Done
+001BBC00 | Titles                    | No Descriptions
+001BF2F0 | Item Categories           | Done
 
+
+# Stahn's Side
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  
 
 ## Draconis
@@ -105,7 +140,7 @@ video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?u
 13882_114 - line 417 Philia walking alone 1:48  
 
 Scene using the pickaxe :  
-Search for さっきの<ITEM_149>を使えば in multiple files 3:12  
+Search for さっき�?�<ITEM_149>を使え�?� in multiple files 3:12  
 13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06  
 13890_71 - line 27 7:14  
 13882_114 - line 445 7: 20  
@@ -126,8 +161,15 @@ Third screen :
 13930_55 line 139 to 311 Barok 4:41-8:08  
 13930_55 line 91 + 13936_49 lne 173 If you speak again to Barok 9:31  
 
-## Leon's Side
-### !(if you see duplicate file you need to do both file if you translate this part or else we will have to come back to fix it later)!
+# Leon's Side
+If you see duplicate file you need to do both file if you translate this part or else we will have to come back to fix it later!
+
+| TXT        | Story           | Location
+| ---------- |-----------------| -------------------------
+| 13736_65   | Leon Side Start | Hugo's Manor
+| 13754_36   | Leon Side Start | Hugo's Manor (Duplicate)
+| 13737_40   | Leon Side Start | Hugo's Manor (Bedroom)
+
 
 ## Darilsheid
 13736_65 Start of leon side with maria dialogue hugo manor dining room  
@@ -151,7 +193,7 @@ Third screen :
 13740_84 Darishield shopping street duplicate  
 
 13730_63 Darishield bar  
-13749_84Darishield bar  
+13749_84 Darishield bar  
 13727_35 Darishield bar annex  
 13746_32 Darishield bar annex  
 
@@ -168,6 +210,7 @@ Third screen :
 ## Resources
 - https://drive.google.com/file/d/1o-z7mNttpQI8nW4TmApNxIPguTY2RJYN (Leon)
 - https://docs.google.com/document/d/1af6OWsV6cugbeIi1Z-d3DCvp_jQuzJE0YfR2zCOihrA (Stahn)
+- https://drive.google.com/file/d/1LXpeVLp1kQkQ9zt-lQgf1N6NS9_bnXX_ (Ending)
 - http://todrtrans.pbworks.com/w/page/22323479/FrontPage
 - https://aselia.fandom.com/wiki/Tales_of_Destiny
 - https://w.atwiki.jp/tod_remake/
@@ -192,6 +235,7 @@ Third screen :
 - https://www.romhacking.net/utilities/598/
 - https://www.romhacking.net/utilities/1419/
 - http://www.romhacking.net/utilities/659
+- https://wxmedit.github.io/downloads.html
 
 ## Credits
 - Thanks to the Temple of Tales Translations team (http://temple-tales.ru/translations.html) for providing tools to edit story and skits
