@@ -62,7 +62,7 @@
 [ENDBLOCK]
 Â”N<00>
 [ENDBLOCK]
-‚ ‚êcc‚ ‚ñ‚½‚Ìé‹í‘‚ÍccH<__>‚¨‚Á‚ÆAŒ¾‚¤‚ñ‚¶‚á‚Ë‚¦‚æB<__>¡AŽv‚¢o‚µ‚Ä‚Ý‚¹‚é‚©‚ç‚ÈB<00>
+‚ ‚êcc‚ ‚ñ‚½‚Ìé‹ú­‚ÍccH<__>‚¨‚Á‚ÆAŒ¾‚¤‚ñ‚¶‚á‚Ë‚¦‚æB<__>¡AŽv‚¢o‚µ‚Ä‚Ý‚¹‚é‚©‚ç‚ÈB<00>
 [ENDBLOCK]
 Â”N<00>
 [ENDBLOCK]
@@ -154,7 +154,7 @@
 [ENDBLOCK]
 ƒƒƒj<00>
 [ENDBLOCK]
-‰´‚Ìé‹í‘‚ÍI<__>cc‚Á‚Ä‚Ç‚¤‚Å‚à‚¢‚¢‚ºB<00>
+‰´‚Ìé‹ú­‚ÍI<__>cc‚Á‚Ä‚Ç‚¤‚Å‚à‚¢‚¢‚ºB<00>
 [ENDBLOCK]
 ƒƒƒj<00>
 [ENDBLOCK]
@@ -232,51 +232,51 @@ select<00>
 [ENDBLOCK]
 ‚±‚±‚ÍA<Rutee>‚³‚ñ‚Ì‚¨‘î‚Å‚Í<__>‚È‚¢‚æ‚¤‚Å‚·‚íB<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 —·‚Ì•û‚Å‚·‚©H<__>ƒNƒŒƒXƒ^‚ÌŠX‚Ö‚æ‚¤‚±‚»B<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 —·‚Ì•û‚Å‚·‚©H<__>ƒNƒŒƒXƒ^‚ÌŠX‚Ö‚æ‚¤‚±‚»B<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‚¦AƒZƒCƒ“ƒKƒ‹ƒhŒR‚Ì’“Ý•º‚ª<__>‚Ç‚±‚É‚¢‚é‚©‚Å‚·‚Á‚ÄH<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‚ ‚ A”Þ‚È‚ç•¬…Lê‚Ì<__>‚»‚Î‚Å•é‚µ‚Ä‚¢‚Ü‚·‚æB<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 —·‚Ì•û‚Å‚·‚©H<__>ƒNƒŒƒXƒ^‚ÌŠX‚Ö‚æ‚¤‚±‚»B<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‚æ‚¤A<Rutee>‚¶‚á‚È‚¢‚©B<__>ƒŒƒ“ƒYƒnƒ“ƒ^[‚Í”p‹Æ‚µ‚½‚Á‚ÄH<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 —·‚Ì•û‚Å‚·‚©H<__>ƒNƒŒƒXƒ^‚ÌŠX‚Ö‚æ‚¤‚±‚»B<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‚ ‚Ì‹ó’†“sŽs‚Á‚Ä‚Ì‚ÍA<__>ŠC‚Ì’†‚©‚ço‚Ä‚«‚½‚Ì‚©H<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‚È‚º‚±‚ñ‚È‚Éƒ‚ƒ“ƒXƒ^[‚ª‚¢‚é‚ñ‚¾I<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ‰¤“s‚©‚ç‰‡ŒR‚³‚¦—ˆ‚Ä‚­‚ê‚ê‚ÎA<__>‚È‚ñ‚Æ‚©Ž‚¿‚±‚½‚¦‚ç‚ê‚é‚©cc<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ƒŒƒ“ƒY‚È‚ç‰¤“s‚Ö‰^‚ñ‚¾‚ºB<__>‚æ‚ë‚µ‚­‚ÈA<Rutee>I<00>
 [ENDBLOCK]
-åˆ·ù<00>
+åˆ·?<00>
 [ENDBLOCK]
 ƒŒƒ“ƒY‚Í‰¤“s‚É‰^‚Ñ‚Ü‚µ‚½B<__>¢ŠE‚ð‹~‚Á‚Ä‚­‚¾‚³‚¢I<00>
 [ENDBLOCK]
@@ -382,7 +382,7 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>«€<18>f<10>+D<1C><03>«!‹è(€<__>‚Í‚¢<__>‚¢‚¢‚¦<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>ä<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚É‰Á‚í‚è‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -400,7 +400,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>ä<TAG_014>‚ª<00>
+<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>‚ª<00>
 [ENDBLOCK]
 ƒp[ƒeƒB‚©‚ç”²‚¯‚Ü‚µ‚½B<00>
 [ENDBLOCK]
@@ -408,49 +408,49 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Ì†F<turquoise><1A>,<0_0><05><00>qI<08>˜€<00>
+Ì†F<turquoise><1A>,<0_0><05><00>qI<08>?€<00>
 [ENDBLOCK]
 <18>eY<04><00><TAG_014>‚ðŽæ“¾‚µ‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ŒðˆÕÌ†<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>‰·òÌ†<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Ž©—RÌ†<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒiƒ`ƒ…ƒŒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 Ì†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒŠ[ƒY<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>Å‹­‚ÌÌ†<00>
 [ENDBLOCK]
-<19>iHø€‚½‚¿‚Í<00>
+<19>iH?‚½‚¿‚Í<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYÌ†<00>
 [ENDBLOCK]
-<19>iHø€‚Í<00>
+<19>iH?‚Í<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eXü<00>€<__><18>eY<0_0>€<00>
+<TAG_007><18>eX?<00>€<__><18>eY<0_0>€<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>˜€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
+<1A> r<0C>?€‚Í<__>‚·‚Å‚ÉŽ‚Á‚Ä‚¢‚Ü‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -550,89 +550,89 @@ notice<00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<00>
 [ENDBLOCK]
-‚í‚½‚µ‚Í<18>fP<18><00>€‚ÅŒðˆÕ‚ð‚â‚Á‚Ä‚¢‚é<__><18>fP<14><00>€‚Æ‚¢‚¤ŽÒ‚¾B<00>
+Hello, my name is <18>fP<14><00>€.<__>I manage the trading in <18>fP<18><00>€.<00>
 [ENDBLOCK]
-‚Ü‚¾I‚í‚Á‚Ä‚È‚¢‚Ì‚©H<__>‚â‚ß‚é‚Æ‚©Œ¾‚í‚È‚¢‚Å‚­‚ê‚æB<00>
+You're not done yet? Please don't<__>tell me you're quitting.<00>
 [ENDBLOCK]
-‚à‚µ‰É‚¾‚Á‚½‚çA<__>ŽdŽ–‚ðŽè“`‚Á‚Ä‚­‚ê‚È‚¢‚©H<__><00>
-[ENDBLOCK]
-select<00>
-[ENDBLOCK]
-<TAG_007>ŽdŽ–‚ðˆø‚«Žó‚¯‚é<__>‰É‚¶‚á‚È‚¢<__>‚Ç‚ñ‚ÈŽdŽ–H<__><00>
-[ENDBLOCK]
-<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__><1A>qD4€‚ð<17>r@<10>€ŒÂ’²’B‚µ‚Ä‚­‚êB<00>
-[ENDBLOCK]
-•ñV‚Í<17>r<04>€ƒKƒ‹ƒh‚¾B<__>‚ ‚ñ‚½‚È‚çŠÈ’P‚ÈŽdŽ–‚¾‚ëH<__><00>
+If you're not too busy, maybe you<__>could help me with my work.<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—ŠF<18>fP,<00>€‚Ì<18>fP(<00>€‚É<__>@@@<1A>qD4€‚ð<17>r@<10>€ŒÂ’²’B‚·‚éB<__>•ñVF<17>r<04>€ƒKƒ‹ƒh<__>ŽdŽ–‚ðˆø‚«Žó‚¯‚Ü‚·‚©H<__>‚â‚è‚Ü‚·<__>‚â‚ß‚Æ‚«‚Ü‚·<00>
+<TAG_007>Take on a job<__>I don't have time for this.<__>What kind of work?<__><00>
 [ENDBLOCK]
-‚Æ‚è‚ ‚¦‚¸•ñV‚Ìˆê•”‚ð<__>‘O‹à‚Æ‚µ‚Ä“n‚µ‚Ä‚¨‚­B<__><00>
+Collect <17>r@<10>€ <1A>qD4€ and<__>take it to <18>fP(<00>€ in <18>fP,<00>€.<00>
+[ENDBLOCK]
+The reward is <17>r<04>€ Gald.<__>It's an easy job.<__><00>
+[ENDBLOCK]
+Job<00>
+[ENDBLOCK]
+<TAG_007>Obtain and deliver<__><17>r@<10>€ <1A>qD4€ to<__><18>fP(<00>€ in <18>fP,<00>€<__>Reward: <17>r<04>€ Gald<__>Want the job?<__>Accept<__>Decline<00>
+[ENDBLOCK]
+In the meantime, I'll give you<__>a portion of the reward as<__>an advance.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>‘O“n‚µ‹à‚Æ‚µ‚Ä<__><17>r<04>€ƒKƒ‹ƒhŽó‚¯Žæ‚è‚Ü‚µ‚½B<__><00>
+<TAG_007>You will receive<17>r<04><__>€ Gald as advanced payment.<__><00>
 [ENDBLOCK]
-‚æ‚ë‚µ‚­—Š‚Þ‚ºI<00>
+I'm counting on you!<00>
 [ENDBLOCK]
-‚È‚ñ‚¾Žc”O‚¾‚ÈB<__>‚Ü‚½—Š‚Þ‚ºB<00>
+What a pity.<__>Maybe next time.<00>
 [ENDBLOCK]
-‚»‚ê‚¶‚á‚ A‰É‚ªo—ˆ‚½‚ç—Š‚Þ‚ºB<00>
+Well, I'll see you the next time.<00>
 [ENDBLOCK]
-‚È‚ÉAŠÈ’P‚ÈŽdŽ–‚³B<__><00>
+It's an easy job.<__><00>
 [ENDBLOCK]
-•Ê‚ÌŠX‚É‚¢‚é“¯‹Æ‚Ì’‡ŠÔ‚É<__>Žw’è‚Ì•i‚ð”ƒ‚Á‚ÄŽ‚Á‚Ä‚¢‚­‚¾‚¯I<00>
+Just obtain the designated items<__>and take them to my cohort<__>in another city!<00>
 [ENDBLOCK]
-‚±‚ê‚Å‹à‚É‚È‚é‚ñ‚¾‚©‚ç<__>‚â‚ç‚È‚¢Žè‚Í‚È‚¢‚æ‚ÈH<00>
+I mean, there's money to be made<__>in this, so why not do it, right?<00>
 [ENDBLOCK]
-œ‚ÙZ‚­‚ç‚¢‚µ‚Ä‚­‚ê‚æB<00>
+Please do as much as you can.<00>
 [ENDBLOCK]
 <18>fP <00>€‚Ì<18>fP<1C><00>€‚©‚ç<__>ˆË—Š‚ðŽó‚¯‚Ä‚¢‚é‚æ‚¤‚¾‚ÈB<00>
 [ENDBLOCK]
 ’•¶‚Ì•i‚Ícc<__><1A>r<0C>€‚ð<17>r@<10>€ŒÂ‚¾‚ÈB<__><00>
 [ENDBLOCK]
-‘‚ß‚É—Š‚Þ‚ºB<__><00>
+I'll be quick about it.<__><00>
 [ENDBLOCK]
-<18>fP <00>€‚Í<18>fP$<00>€‚É‚¢‚éB<__><00>
+<18>fP <00>€Delivery location is <18>fP$<00>€.<00>
 [ENDBLOCK]
-<1A>r<0C>€‚ð<17>r@<10>€ŒÂA<__>ŠÔˆá‚¢‚È‚­’²’B‚µ‚Ä‚­‚ê‚æB<__><00>
+Please deliver (<17>r@<10>€) <1A>r<0C>€.<00>
 [ENDBLOCK]
-’²’B‚²‹ê˜J‚³‚ñI<__><00>
+Good luck with the procurement!<00>
 [ENDBLOCK]
-•ñV‚ÌŽc‹à<00>
+Remainder of Reward<00>
 [ENDBLOCK]
-•ñV<00>
-[ENDBLOCK]
-notice<00>
-[ENDBLOCK]
-<TAG_007><18>fP,<00>€‚Æ‚µ‚Ä<__><17>r@<1C>€ƒKƒ‹ƒh‚à‚ç‚¢‚Ü‚µ‚½B<__><00>
-[ENDBLOCK]
-Žw’è‚Ì•i”‚É‘«‚è‚È‚¢‚Ècc<__><00>
-[ENDBLOCK]
-‰´‚ª•K—v‚È‚Ì‚Í<1A>r@<10>€‚ð<__><17>r@<14>€ŒÂ‚¾‚¼B<00>
-[ENDBLOCK]
-ˆø‚«Žó‚¯‚½ˆË—Š‚ð‚â‚ß‚é‚È‚ç<__>ˆá–ñ‹à‚ð•¥‚Á‚Ä‚à‚ç‚¤Ž–‚É‚È‚é‚¼B<00>
-[ENDBLOCK]
-ˆø‚«Žó‚¯‚½ˆË—Š‚ðŽæ‚èÁ‚·‚É‚Í<__>ˆá–ñ‹à‚ª•K—v‚¾‚ºH<00>
-[ENDBLOCK]
-‚æ‚ë‚µ‚­—Š‚Þ‚ºB<00>
-[ENDBLOCK]
-‚»‚ê‚¶‚áŠæ’£‚ê‚æB<00>
-[ENDBLOCK]
-–{‹C‚ÅŒ¾‚Á‚Ä‚é‚Ì‚©H<__>l‚¦’¼‚·‚È‚ç¡‚Ì‚¤‚¿‚¾‚¼H<00>
-[ENDBLOCK]
-‚¿‚å‚Á‚ÆƒKƒbƒJƒŠ‚¾cc<__><00>
-[ENDBLOCK]
-‘O‹àœpq‚Æˆá–ñ‹à<00>
-[ENDBLOCK]
-ˆá–ñ‹à<00>
+Reward<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>fP(<00>€‚Æ‚µ‚Ä<__><17>r@<18>€ƒKƒ‹ƒh•¥‚¢‚Ü‚µ‚½B<__><00>
+<TAG_007><18>fP,<00>€I have charged a<__><17>r@<1C>€Gald penalty for refunding<__>the payment advance.<00>
 [ENDBLOCK]
-ˆá–ñ‹à‚ð•¥‚Á‚Ä‚­‚ê‚È‚¢‚Æ<__>Œ_–ñ‰ðœ‚Í‚Å‚«‚È‚¢‚¼B<00>
+You're short the requested number of items<__><00>
+[ENDBLOCK]
+All I need is <1A>r@<10>€‚ð<__><17>r@<14>€ŒÂ‚¾‚¼B<00>
+[ENDBLOCK]
+There'll be a penalty,<__>if you quit the job.<00>
+[ENDBLOCK]
+You know, you'll have to pay<__>a penalty to cancel a job.<00>
+[ENDBLOCK]
+I'm looking forward to<__>working with you.<00>
+[ENDBLOCK]
+Good luck then.<00>
+[ENDBLOCK]
+Are you serious? If you're having<__>second thoughts, now's the<__>time, okay?<00>
+[ENDBLOCK]
+I'm a little disappointed...<__><00>
+[ENDBLOCK]
+I am charging a cancellation<__><00>
+[ENDBLOCK]
+<00>
+[ENDBLOCK]
+notice<00>
+[ENDBLOCK]
+<TAG_007><18>fP(<00>€fee of <17>r@<18>€ Gald.<__><00>
+[ENDBLOCK]
+You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
 ‚Æ‚è‚ ‚¦‚¸–Àê–@Ž‚Æ‚µ‚Ä<__>ŽèŽ‚¿‚Ì‹à‚ðŽx•¥‚Á‚Ä‚à‚ç‚¤‚ºB<00>
 [ENDBLOCK]
@@ -640,11 +640,11 @@ notice<00>
 [ENDBLOCK]
 <TAG_007>–Àê–@Ž‚Æ‚µ‚Ä<__><17>r@<14>€ƒKƒ‹ƒhŽx•¥‚¢‚Ü‚µ‚½B<__><00>
 [ENDBLOCK]
-‹à‚ª‘«‚è‚È‚¢‚¼B<__>—pˆÓ‚µ‚Ä‚©‚ç—ˆ‚Ä‚­‚êB<00>
+You're short on Gald. Come back<__>when you have enough.<00>
 [ENDBLOCK]
-‚æ‚ë‚µ‚­—Š‚Þ‚º<__><00>
+Give my regards.<__><00>
 [ENDBLOCK]
-‚¨‚¢‚¨‚¢–{‹C‚©‚¢H<__>¡‚È‚çl‚¦‚È‚¨‚¹‚é‚¼H<00>
+Are you serious?<__>This is your last chance?<00>
 [ENDBLOCK]
 ¢‚Á‚½ƒ„ƒc‚¾‚Ècc<__><00>
 [ENDBLOCK]
@@ -670,77 +670,77 @@ notice<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>ˆË—Š‚ð‹s‚·‚é<__>ˆË—Š‚ðŠm”F‚·‚é<__>ˆË—Š‚ð”jŠü‚·‚é<__><00>
+<TAG_007>Continue the job<__>Confirm Details<__>Quit the job<__><00>
 [ENDBLOCK]
-ƒWƒFƒmƒX<00>
+Janos<00>
 [ENDBLOCK]
-ƒn[ƒƒ“ƒc<00>
+Harmentz<00>
 [ENDBLOCK]
-ƒAƒ‹ƒƒCƒ_<00>
+Almeida<00>
 [ENDBLOCK]
-ƒ_ƒŠƒ‹ƒVƒFƒCƒh<00>
+Darilsheid<00>
 [ENDBLOCK]
-ƒNƒŒƒXƒ^<00>
+Cresta<00>
 [ENDBLOCK]
-ƒ`ƒFƒŠƒN<00>
+Cherik<00>
 [ENDBLOCK]
-ƒJƒ‹ƒrƒIƒ‰<00>
+Kalviola<00>
 [ENDBLOCK]
-ƒWƒƒƒ“ƒNƒ‰ƒ“ƒh<00>
+Junkland<00>
 [ENDBLOCK]
-ƒmƒCƒVƒ…ƒ^ƒbƒg<00>
+Neuestadt<00>
 [ENDBLOCK]
-ƒŠ[ƒl<00>
+Lienea<00>
 [ENDBLOCK]
-ƒXƒm[ƒtƒŠƒA<00>
+Frostheim<00>
 [ENDBLOCK]
-ƒVƒfƒ“<00>
+Sheeden<00>
 [ENDBLOCK]
-ƒ‚ƒŠƒ…ƒE<00>
+Moreau<00>
 [ENDBLOCK]
-ƒgƒEƒPƒC<00>
+Terazzi<00>
 [ENDBLOCK]
-ƒTƒCƒŠƒ‹<00>
+Cyril<00>
 [ENDBLOCK]
-ƒnƒCƒfƒ‹ƒxƒ‹ƒO<00>
+Heidelberg<00>
 [ENDBLOCK]
-‚Ë‚±‚É‚ñŠî’n<00>
+Calvalese<00>
 [ENDBLOCK]
-HHH<00>
+???<00>
 [ENDBLOCK]
-ƒWƒFƒlƒ‰<00>
+Genera<00>
 [ENDBLOCK]
-ƒnƒlƒEƒFƒ‹<00>
+Honeywell<00>
 [ENDBLOCK]
-ƒAƒƒNƒX<00>
+Amex<00>
 [ENDBLOCK]
-ƒVƒeƒB<00>
+Siti<00>
 [ENDBLOCK]
-ƒfƒ…ƒ|ƒ“<00>
+DuPont<00>
 [ENDBLOCK]
-ƒ^ƒsƒ‰<00>
+Tapira<00>
 [ENDBLOCK]
-ƒAƒ‹ƒRƒA<00>
+Alcoa<00>
 [ENDBLOCK]
-ƒWƒ‡ƒ“ƒ\ƒ“<00>
+Johnson<00>
 [ENDBLOCK]
-ƒtƒ@ƒCƒU<00>
+Pfizer<00>
 [ENDBLOCK]
-ƒtƒBƒŠƒbƒv<00>
+Philip<00>
 [ENDBLOCK]
-ƒxƒ‰ƒCƒ]ƒ“<00>
+Verizon<00>
 [ENDBLOCK]
-ƒGƒNƒ\ƒ“<00>
+Exxon<00>
 [ENDBLOCK]
-ƒ‚ƒ‹ƒKƒ“<00>
+Morgan<00>
 [ENDBLOCK]
-ƒAƒCƒr[<00>
+Ivy<00>
 [ENDBLOCK]
-ƒpƒbƒJ[ƒh<00>
+Packard<00>
 [ENDBLOCK]
-ƒƒ‹ƒN<00>
+Merick<00>
 [ENDBLOCK]
-ƒfƒ|<00>
+Depot<00>
 [ENDBLOCK]
-HHH<0_0>
+???<0_0>
 [ENDBLOCK]
