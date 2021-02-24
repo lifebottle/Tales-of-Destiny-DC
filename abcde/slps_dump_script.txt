@@ -1,16 +1,16 @@
-#GAME NAME:			Tales of Destiny DC
+GAME NAME:            Tales of Destiny DC
 
-#BLOCK NAME:			Title_Block
-#TYPE:				NORMAL
-#METHOD:			POINTER_RELATIVE
-#POINTER ENDIAN:		LITTLE
-#POINTER TABLE START:		$182FE8
-#POINTER TABLE STOP:		$182FF2
-#POINTER SIZE:			$04
-#POINTER SPACE:			$00
-#ATLAS PTRS:			Yes
-#BASE POINTER:			$FF000		//add $FF000 to each pointer to get
-#TABLE:				toddc.tbl	//the string address
-#COMMENTS:			Both
+#BLOCK NAME:            Title_Block
+#TYPE:                NORMAL
+#METHOD:            POINTER_RELATIVE
+#POINTER ENDIAN:        LITTLE
+#POINTER TABLE START:        $181040
+#POINTER TABLE STOP:        $18108F
+#POINTER SIZE:            $04
+#POINTER SPACE:            $00
+#ATLAS PTRS:            Yes
+#BASE POINTER:            $-FF000
 #SORT OUTPUT BY STRING ADDRESS: Yes
+#TABLE:                toddc.tbl
+#COMMENTS:            Both
 #END BLOCK
