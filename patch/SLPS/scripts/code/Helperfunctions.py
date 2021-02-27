@@ -171,6 +171,8 @@ def reinsertText_Block(blockId, slpsName):
         )
     
     #Copy the new SLPS back to Google drive
+    print( "Source: " + os.path.join(path, "SLPS_258.42"))
+    print( "Destination: " + os.path.join(path,"..","..", slpsName))
     shutil.copyfile( os.path.join(path, "SLPS_258.42"), os.path.join(path,"..","..", slpsName))
     
 def reinsertText_All(fileFull, slpsName):
