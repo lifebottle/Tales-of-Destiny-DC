@@ -1,0 +1,137 @@
+﻿//GAME NAME:		Dragon Quest IV - Michibikareshi Monotachi (J) (PRG1) <!>.nes
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("hira.tbl", Table_0)
+#VAR(Table_1, TABLE)
+#ADDTBL("kata.tbl", Table_1)
+#VAR(Table_2, TABLE)
+#ADDTBL("dict.tbl", Table_2)
+
+#VAR(pointerNum, CALCVAR) // create a CALCVAR variable named pointerNum
+#CALC(pointerNum, "0") // initialize pointerNum to 0
+
+// auto-commands:
+// jump over each $4000 bank's RAM $BFD8-$BFFF to the next bank's $8000 (or $A500 for the final jump)
+// update the pointer offsets
+// update the table that controls which pointers start a new bank
+#AUTOCMD($3FE8, #JMP($4010))
+#AUTOCMD($3FE8, #HDR($-3FF0))
+#AUTOCMD($3FE8, #WLB(pointerNum, $58970))
+#AUTOCMD($7FE8, #JMP($8010))
+#AUTOCMD($7FE8, #HDR($10))
+#AUTOCMD($7FE8, #WLB(pointerNum, $58971))
+#AUTOCMD($BFE8, #JMP($C010))
+#AUTOCMD($BFE8, #HDR($4010))
+#AUTOCMD($BFE8, #WLB(pointerNum, $58972))
+#AUTOCMD($FFE8, #JMP($10010))
+#AUTOCMD($FFE8, #HDR($8010))
+#AUTOCMD($FFE8, #WLB(pointerNum, $58973))
+#AUTOCMD($13FE8, #JMP($6E510))
+#AUTOCMD($13FE8, #HDR($64010))
+#AUTOCMD($13FE8, #WLB(pointerNum, $58974))
+
+//BLOCK #000 NAME:		Script
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($10, $6FBA3) // Jump to insertion point
+#HDR($-7FF0) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $588C0 - STRING #0 @ $10
+
+#W16($588C0)
+#CALC(pointerNum, "!pointerNum + 1")
+ばしゃがいない[end]
+ＭＰがたりない[end]
+[F6]は　どうぐを　もっていない[end]
+[F6]は　のろわれていて　つけかえができない[end]
+しかし　まわりこまれてしまった！[end]
+[F6]が　あらわれた[end]
+ミス！[FC]
+[F6]は　ダメージをうけない[end]
+ミス！[FC]
+[F6]に　ダメージをあたえられない[FC]
+[FF][end]
+[F6]を　やっつけた[end]
+まもののむれを　やっつけた[end]
+[F6]は　いなくなった[end]
+まもののむれは　いなくなった[end]
+[F6]は[FC]
+[F8]ポイントのけいけんちをかくとく[end]
+それぞれ[FC]
+[F8]ポイントのけいけんちをかくとく[end]
+[F6]には　じゅもんがとどかない！[end]
+じゅもんは　ひかりのかべに　はじかれた！[end]
+しかし　じゅもんは　ふうじこまれている[end]
+[F6]は[FC]
+からだが　しびれて　うごけない[end]
+[F6]は　めをさました。[end]
+[F6]は　ねむっている[end]
+[F6]は　こんらんしている[end]
+[F6]は　ちからつきて　いきたえた[FC]
+[FF][end]
+[F6]に　[F8]のダメージ！[end]
+[F6]は　[F8]のダメージを　うけた！[end]
+[F6]には　きかなかった！[end]
+[F6]は　しななかった！[end]
+しかし　なにも　おこらなかった！[end]
+[F6]は　しんでしまった！[end]
+[F6]は　くだけちった！[end]
+[F6]は　にげだした！[end]
+[F6]たちは　にげだした！[end]
+しかし　[F6]は　ねむっている！[F4][end]
+
+// current address: $182
+
+//POINTER #1 @ $588C2 - STRING #1 @ $183
+
+#W16($588C2)
+#CALC(pointerNum, "!pointerNum + 1")
+しかし　[F6]は[FC]
+からだが　しびれて　うごけない！[F4][end]
+しかし　[F6]は　こんらんしている[F4][end]
+[F6]の　からだから[FC]
+あやしいひかりが　ふりそそいだ！[F4][end]
+[F6]は　ねがえりを　うった！[end]
+[F6]は　わらいころげている！[end]
+[F6]は　ころんで　もがいている！[end]
+[F6]は[FC]
+あなから　でられず　もがいている！[F4][end]
+[F6]は[FC]
+おどろき　すくみあがっている！[F4][end]
+[F6]「ねーねー　[F6]さん[FC]
+コイン　くださらない？[FC]
+あら　ここカジノじゃないの？[F4][F4][F4][end]
+[F6]は　ばしゃに　かけこんだ！[end]
+[F6]は[FC]
+[F6]の　ひつぎを　ばしゃに　おしこんだ！[F4][end]
+[F6]が　ばしゃから　とびだした！[end]
+[F6]は[FC]
+[F6]の　ひつぎを　ばしゃから　ひきずりだした[F4][end]
+[F6]は　[F7]を　てにとった！[end]
+[F6]は　みをまもっている！[end]
+[F6]が[FC]
+たすけに　あらわれた！[end]
+[F6]は　なかまを　よんだ！[end]
+しかし　たすけは　こなかった！[end]
+[F6]は　ようすをみている[end]
+[F6]は　まごまごしている[end]
+[F6]は　ちからをためている[end]
+[F6]は[FC]
+おおきく　いきを　すいこんだ！[end]
+[F6]は　しずかに　めいそうした。[F4][F4][end]
+なんと　[F6]の　キズが[FC]
+みるみる　かいふくした！[F4][end]
+[F6]の　かおいろが　かわった！[F4][end]
+[F6]は　ほんきを　だしてきた！[F4][end]
+[F6]に　おびえの　いろが　みえる！[F4][end]
+[F6]は[FC]
+さいごの　ちからを　ふりしぼった！[F4][end]
+？！！　[F6]たちが………[F4][end]
+[F6]は[FC]
+ふしぎな　おどりを　おどった！[end]
+[F6]のＭＰが　[F8]さがった！[end]
+[F6]の　ゆびから[FC]
+いてつく　はどうが　ほとばしる！[F4][end]
+
+// current address: $37D

@@ -1,0 +1,95 @@
+{
+	"items":[
+	{
+		"BlockId":			1,
+		"TextStartBlock":	"",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Character Name",
+			"GoogleDocId": 	"",
+			"TextStart":	"199900",
+			"TextEnd":		"199C30",
+			"PointerStart":	"D7C80",
+			"PointerEnd":	"D7D68"
+		}]
+	},	
+	{
+		"BlockId":			2,
+		"TextStartBlock":	"",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Chapter Name",
+			"GoogleDocId":	"188JJnJxlvqbKkL9ubvJzxTLBnWg87vb_-okQ5EqTsGc",
+			"TextStart":	"19A190",
+			"TextEnd":		"19A5A8",
+			"PointerStart":	"D8780",
+			"PointerEnd":	"D88AC"
+		}]
+	},
+	{
+		"BlockId":			3,
+		"BlockDesc":		"Support",
+		"TextStartBlock":	"19B370",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Support",
+			"GoogleDocId":	"1fg-A1u718ph7UE5eKj8t8Sq8modvaFrtrIgak5Gcx1M",
+			"TextStart":	"19B370",
+			"TextEnd":		"19B738",
+			"PointerStart":	"181040",
+			"PointerEnd":	"18108F"
+		}]
+	},
+	{
+		"BlockId":			4,
+		"BlockDesc":		"Title",
+		"TextStartBlock":	"1BBC00",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Title",
+			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
+			"TextStart":	"1BBC00",
+			"TextEnd":		"",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
+	},
+	{
+		"BlockId":			5,
+		"BlockDesc":		"Artes_Other",
+		"TextStartBlock":	"19D388",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Other_Items",
+			"GoogleSheetId":	"",
+			"TextStart":	"19C380",
+			"TextEnd":		"1A1808",
+			"PointerStart":	"184788",
+			"PointerEnd":	"184DA8"
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Artes",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"19D388",
+			"TextEnd":		"1A0F90",
+			"PointerStart":	"182FE8",
+			"PointerEnd":	"184770"
+		},
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Strategy",
+			"GoogleSheetId":	"",
+			"TextStart":	"1A0FA0",
+			"TextEnd":		"1A1808",
+			"PointerStart":	"184F1C",
+			"PointerEnd":	"1858D0"
+		}]
+	}
+	]
+}
