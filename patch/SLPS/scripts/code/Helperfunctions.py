@@ -158,7 +158,7 @@ def reinsertText_Block(blockId, slpsName):
     f = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),"sectionsSLPS.json"))
     data = json.load(f)
     dataItems = data['items']
-    
+    print("Path: "+path)
     #Copy the original SLPS file first
     shutil.copyfile( os.path.join(path,"SLPS_original","SLPS_258.42"), os.path.join(path,"SLPS_258.42"))
     
