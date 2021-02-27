@@ -171,7 +171,7 @@ Can be linked to various actions.[END]
 
 //Text $1A0B50
 #WRITE(ptr,$18316C)
-Senkoureppa[END]
+[END]
 
 //Text $1A0B08
 #WRITE(ptr,$183170)
