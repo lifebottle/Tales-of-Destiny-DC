@@ -42,7 +42,7 @@ dfAllPoss['value'] = dfAllPoss['value'].str.replace(' ', '')
 
 
 #Stuff to search
-japText = '頭部が再生した！'
+japText = '売り子'
 #List all the different possible ways of HEX for this text
 df = [ dfAllPoss.loc[dfAllPoss['value'] == character, 'hex'].tolist() for character in japText]
 listValues = []
