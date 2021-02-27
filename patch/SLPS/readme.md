@@ -44,9 +44,11 @@ to validate your translation in the game :
 1) Open PCSX2 emulator
 2) In the menu, click on System then "Run ELF"
 3) In the dialog box, make sure to show "All files" then go to the path of the new SLPS file
-4) Select it and the game should launch with this file
+
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/SLPS/ELF1.png "PS2 emulator")
 ![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/SLPS/ELF2.png "Choosing the file")
+
+4) Select it and the game should launch with this file
 
 ## Multiple blocks in the SLPS file
 
