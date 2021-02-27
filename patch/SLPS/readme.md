@@ -27,8 +27,26 @@ When you made a bunch of changes in the google sheet and you want to view your t
 the subfolder "Tales-of-Destiny-DC/scripts/SLPS_Updates". To use these script, you'll need to have Python installed on your computer
 with some packages.
 
-Install python from this site https://www.python.org/downloads/release/python-379/
-To install the packages, run the script Install_requirements.bat in "SLPS/scripts"
+Install python from this site https://www.python.org/downloads/release/python-379/   
+To install the packages, double click on Install_requirements.bat in "SLPS/scripts"
+
+Other scripts in "SLPS/scripts" will update one of the block/section. They are named as "TODDC_update_xxx.bat". 
+Once a script is ran, it will generate a new SLPS_xxx.42 file for you to test
+
+Ex:
+If you are working on Artes, you need to use the script "TODDC_update_Artes.bat". You can then use the
+new SLPS to test in the game (see next section).
+
+## Validation of the translation using the new SLPS
+
+Once you have used one of the script, you'll have a new SLPS file under the folder "SLPS/scripts". You are now ready
+to validate your translation in the game :
+1) Open PCSX2 emulator
+2) In the menu, click on System then "Run ELF"
+3) In the dialog box, make sure to show "All files" then go to the path of the new SLPS file
+4) Select it and the game should launch with this file
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/SLPS/ELF1.png "PS2 emulator")
+![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/patch/SLPS/ELF2.png "Choosing the file")
 
 ## Multiple blocks in the SLPS file
 
