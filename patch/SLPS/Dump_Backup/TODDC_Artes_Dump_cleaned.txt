@@ -1,0 +1,3387 @@
+//GAME NAME:		Tales of destiny - DC (PS2)
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("F:\PythonCode\TOD_GoogleDoc\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $1A0F90
+#WRITE(ptr,$182FE8)
+[Sign_5]Hell Sword[END]
+// current address: $1A0FA0
+
+//Text $1A0F80
+#WRITE(ptr,$182FEC)
+Bakuenken[END]
+// current address: $1A0F8A
+
+//Text $1A0F38
+#WRITE(ptr,$182FF0)
+爆発力を込めた剣を振るい、爆風を起こす[LINE]
+術剣技。[Sign_Wing]：空中発動が可能[END]
+// current address: $1A0F7D
+
+
+
+
+
+//Text $1A0F28
+#WRITE(ptr,$183008)
+[Sign_4]Demon Fang[END]
+// current address: $1A0F38
+
+//Text $1A0F18
+#WRITE(ptr,$18300C)
+Majinken[END]
+// current address: $1A0F21
+
+//Text $1A0ED0
+#WRITE(ptr,$183010)
+Release a cutting shockwave[LINE]
+along the ground.[END]
+// current address: $1A0EFE
+
+
+
+
+
+//Text $1A0EBD
+#WRITE(ptr,$183028)
+[Sign_4]Swallow Dance[END]
+// current address: $1A0ED0
+
+//Text $1A0EA8
+#WRITE(ptr,$18302C)
+Hienrenkyaku[END]
+// current address: $1A0EB5
+
+//Text $1A0E70
+#WRITE(ptr,$183030)
+Strike an enemy with[LINE]
+a flurry of spinning kicks.[END]
+// current address: $1A0EA1
+
+
+
+
+
+//Text $1A0E60
+#WRITE(ptr,$183048)
+[Sign_5]Azure Edge[END]
+// current address: $1A0E70
+
+//Text $1A0E50
+#WRITE(ptr,$18304C)
+Souhajin[END]
+// current address: $1A0E59
+
+//Text $1A0E18
+#WRITE(ptr,$183050)
+Pummel foes by spawning[LINE]
+waves of distortion.[END]
+// current address: $1A0E45
+
+
+
+
+
+//Text $1A0E04
+#WRITE(ptr,$183068)
+[Sign_4]Tempest Strike[END]
+// current address: $1A0E18
+
+//Text $1A0DF8
+#WRITE(ptr,$18306C)
+Rekkuuzan[END]
+// current address: $1A0E02
+
+//Text $1A0DD0
+#WRITE(ptr,$183070)
+Attack the enemy with spinning slashes.[END]
+// current address: $1A0DF8
+
+
+
+
+
+//Text $1A0DBD
+#WRITE(ptr,$183088)
+[Sign_4]Omega Tempest[END]
+// current address: $1A0DD0
+
+//Text $1A0DA8
+#WRITE(ptr,$18308C)
+Shinkuuretsuzan[END]
+// current address: $1A0DB8
+
+//Text $1A0D80
+#WRITE(ptr,$183090)
+Sheer the foe with spinning blades.[END]
+// current address: $1A0DA4
+
+
+
+
+
+//Text $1A0D6E
+#WRITE(ptr,$1830A8)
+[Sign_4]Tiger Blade[END]
+// current address: $1A0D7F
+
+//Text $1A0D60
+#WRITE(ptr,$1830AC)
+Kogahazan[END]
+// current address: $1A0D6A
+
+//Text $1A0D30
+#WRITE(ptr,$1830B0)
+Slice the enemy up, then cut them down.[END]
+// current address: $1A0D58
+
+
+
+
+
+//Text $1A0D1C
+#WRITE(ptr,$1830C8)
+[Sign_5]Dragon Buster[END]
+// current address: $1A0D2F
+
+//Text $1A0D10
+#WRITE(ptr,$1830CC)
+Toryuusen[END]
+// current address: $1A0D1A
+
+//Text $1A0CE8
+#WRITE(ptr,$1830D0)
+上空まで発生する炎撃を繰り出す術剣技。[LINE]
+[END]
+// current address: $1A0D10
+
+
+
+
+
+//Text $1A0CD3
+#WRITE(ptr,$1830E8)
+[Sign_5]Severing Wind[END]
+// current address: $1A0CE6
+
+//Text $1A0CC8
+#WRITE(ptr,$1830EC)
+Dankuuken[END]
+// current address: $1A0CD2
+
+//Text $1A0C88
+#WRITE(ptr,$1830F0)
+A high upward slash that[LINE]
+ensnares nearby opponents.[END]
+// current address: $1A0CBC
+
+
+
+
+
+//Text $1A0C6F
+#WRITE(ptr,$183108)
+[Sign_4]Demonic Tiger Blade[END]
+// current address: $1A0C88
+
+//Text $1A0C60
+#WRITE(ptr,$18310C)
+Majin Souhazan[END]
+// current address: $1A0C6F
+
+//Text $1A0C28
+#WRITE(ptr,$183110)
+A combination of[LINE]
+Demon Fang and Tiger Blade.[END]
+// current address: $1A0C55
+
+
+
+
+
+//Text $1A0C18
+#WRITE(ptr,$183128)
+[Sign_4]Beast[END]
+// current address: $1A0C23
+
+//Text $1A0C08
+#WRITE(ptr,$18312C)
+Shishisenkou[END]
+// current address: $1A0C15
+
+//Text $1A0BC8
+#WRITE(ptr,$183130)
+Knock down the enemy with[LINE]
+the force of a charging lion.[END]
+// current address: $1A0C00
+
+
+
+
+
+//Text $1A0BB4
+#WRITE(ptr,$183148)
+[Sign_4]Dragon Swarm[END]
+// current address: $1A0BC6
+
+//Text $1A0BA0
+#WRITE(ptr,$18314C)
+Souryuurengazan[END]
+// current address: $1A0BB0
+
+//Text $1A0B70
+#WRITE(ptr,$183150)
+Charge the enemy with[LINE]
+a chain of four slashes.[END]
+// current address: $1A0B9F
+
+
+
+
+
+//Text $1A0B58
+#WRITE(ptr,$183168)
+[Sign_5]Light Spear Blast[END]
+// current address: $1A0B6F
+
+//Text $1A0B4C
+#WRITE(ptr,$18316C)
+Senkoureppa[END]
+// current address: $1A0B58
+
+//Text $1A0B08
+#WRITE(ptr,$183170)
+Rapid thrusts become a beam that[LINE]
+runs an enemy through.[END]
+// current address: $1A0B40
+
+
+
+
+
+//Text $1A0AF6
+#WRITE(ptr,$183188)
+[Sign_4]Light Spear[END]
+// current address: $1A0B07
+
+//Text $1A0AE8
+#WRITE(ptr,$18318C)
+Senkuuretsuha[END]
+// current address: $1A0AF6
+
+//Text $1A0AB8
+#WRITE(ptr,$183190)
+Lift a foe with a spinning slash, then thrust.[END]
+// current address: $1A0AE7
+
+
+
+
+
+//Text $1A0AA4
+#WRITE(ptr,$1831A8)
+[Sign_5]Rising Phoenix[END]
+// current address: $1A0AB8
+
+//Text $1A0A98
+#WRITE(ptr,$1831AC)
+Houou Tenku[END]
+// current address: $1A0AA4
+
+//Text $1A0A50
+#WRITE(ptr,$1831B0)
+Unlease a blazing descent upon[LINE]
+an enemy from up high.[END]
+// current address: $1A0A86
+
+
+
+
+
+//Text $1A0A40
+#WRITE(ptr,$1831C8)
+[Sign_5]Hell Pyre[END]
+// current address: $1A0A4F
+
+//Text $1A0A30
+#WRITE(ptr,$1831CC)
+Gurenken[END]
+// current address: $1A0A39
+
+//Text $1A09F0
+#WRITE(ptr,$1831D0)
+Throw a fireball at an enemy[LINE]
+from mid-air.[END]
+// current address: $1A0A1B
+
+
+
+
+
+//Text $1A09DB
+#WRITE(ptr,$1831E8)
+[Sign_5]Wyvern Dance[END]
+// current address: $1A09ED
+
+//Text $1A09C0
+#WRITE(ptr,$1831EC)
+Kuuga Shouryuukyaku[END]
+// current address: $1A09D4
+
+//Text $1A0980
+#WRITE(ptr,$1831F0)
+A series of flaming,[LINE]
+mid-air spin-kicks.[END]
+// current address: $1A09A9
+
+
+
+
+
+//Text $1A096E
+#WRITE(ptr,$183208)
+[Sign_5]Searing Gale[END]
+// current address: $1A0980
+
+//Text $1A0958
+#WRITE(ptr,$18320C)
+Neppa Senpuujin[END]
+// current address: $1A0968
+
+//Text $1A0930
+#WRITE(ptr,$183210)
+Engulf an enemy in a fiery vortex.[END]
+// current address: $1A0953
+
+
+
+
+
+//Text $1A091A
+#WRITE(ptr,$183228)
+[Sign_5]Infernal Torrent[END]
+// current address: $1A0930
+
+//Text $1A0908
+#WRITE(ptr,$18322C)
+Maou Engekiha[END]
+// current address: $1A0916
+
+//Text $1A08D0
+#WRITE(ptr,$183230)
+Send forth a fiery shockwave[LINE]
+towards the enemy.[END]
+// current address: $1A0900
+
+
+
+
+
+//Text $1A08BD
+#WRITE(ptr,$183248)
+[Sign_5]Fiery Beast[END]
+// current address: $1A08CE
+
+//Text $1A08A8
+#WRITE(ptr,$18324C)
+Shikou Bakuenjin[END]
+// current address: $1A08B9
+
+//Text $1A0878
+#WRITE(ptr,$183250)
+爆炎の気を放出、周囲を焼き尽くす術剣技。[LINE]
+[END]
+// current address: $1A08A2
+
+
+
+
+
+//Text $1A0865
+#WRITE(ptr,$183268)
+[Sign_5]Phoenix Blast[END]
+// current address: $1A0878
+
+//Text $1A0850
+#WRITE(ptr,$18326C)
+Shouourekka[END]
+// current address: $1A085C
+
+//Text $1A0810
+#WRITE(ptr,$183270)
+Harness the power of fire and[LINE]
+release it in a devastating blast[END]
+// current address: $1A0850
+
+
+
+
+
+//Text $1A07F8
+#WRITE(ptr,$183288)
+[Sign_5]Flame Shoot[END]
+// current address: $1A0809
+
+//Text $1A07E8
+#WRITE(ptr,$183290)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $1A07D3
+#WRITE(ptr,$1832A8)
+[Sign_5]Scorching Fist[END]
+// current address: $1A07E7
+
+//Text $1A07C8
+#WRITE(ptr,$1832AC)
+Shakkouken[END]
+// current address: $1A07D3
+
+//Text $1A0780
+#WRITE(ptr,$1832B0)
+晶力を込めた拳を突き出し、捕らえた[LINE]
+敵を爆砕する、打撃属性を持つ術技。[END]
+// current address: $1A07C6
+
+
+
+
+
+//Text $1A0768
+#WRITE(ptr,$1832C8)
+[Sign_5]Blaze Beast[END]
+// current address: $1A0779
+
+//Text $1A07E8
+#WRITE(ptr,$1832D0)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $1A0750
+#WRITE(ptr,$1832E8)
+[Sign_5]Raging Flare[END]
+// current address: $1A0762
+
+//Text $1A07E8
+#WRITE(ptr,$1832F0)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $1A0730
+#WRITE(ptr,$183308)
+[Sign_5]Volcanic Rage[END]
+// current address: $1A0743
+
+//Text $1A07E8
+#WRITE(ptr,$183310)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $1A0718
+#WRITE(ptr,$183328)
+[Sign_4]Soaring Demon Fang[END]
+// current address: $1A0730
+
+//Text $1A0700
+#WRITE(ptr,$18332C)
+Majinken Shouga[END]
+// current address: $1A0710
+
+//Text $1A06C0
+#WRITE(ptr,$183330)
+魔神剣を斜め下に繰り出す剣技。[LINE]
+着弾時にも追加ダメージを与える。[END]
+// current address: $1A0700
+
+
+
+
+
+//Text $1A06A8
+#WRITE(ptr,$183348)
+[Sign_4]Search Gald[END]
+// current address: $1A06B9
+
+//Text $1A0668
+#WRITE(ptr,$183350)
+落ちているガルドをゲットする特技。[LINE]
+回復晶術の回復率にも影響？[END]
+// current address: $1A06A6
+
+
+
+
+
+//Text $1A0650
+#WRITE(ptr,$183368)
+[Sign_4]Snipe Air[END]
+// current address: $1A065F
+
+//Text $1A0620
+#WRITE(ptr,$183370)
+斬り上げた敵を空中からすかさず貫く剣技。[LINE]
+[END]
+// current address: $1A064A
+
+
+
+
+
+//Text $1A0608
+#WRITE(ptr,$183388)
+[Sign_4]Thievery[END]
+// current address: $1A0616
+
+//Text $1A05C0
+#WRITE(ptr,$183390)
+敵の所持アイテムを攻撃のスキにいただく[LINE]
+特技。敵の防御などおかまいなし。[END]
+// current address: $1A0608
+
+
+
+
+
+//Text $1A05A8
+#WRITE(ptr,$1833A8)
+[Sign_4]Escape Air[END]
+// current address: $1A05B8
+
+//Text $1A0568
+#WRITE(ptr,$1833B0)
+煙と共に空中へ瞬間移動する特技。[LINE]
+攻撃後の回避にも使える。[END]
+// current address: $1A05A2
+
+
+
+
+
+//Text $1A0550
+#WRITE(ptr,$1833C8)
+[Sign_4]Snipe Roar[END]
+// current address: $1A0560
+
+//Text $1A0518
+#WRITE(ptr,$1833D0)
+高速移動と共に敵を貫き、返しの空中斬りに[LINE]
+巻き込む剣技。[END]
+// current address: $1A0550
+
+
+
+
+
+//Text $1A0500
+#WRITE(ptr,$1833E8)
+[Sign_4]Bloody Rose[END]
+// current address: $1A0511
+
+//Text $1A04D0
+#WRITE(ptr,$1833F0)
+A dance of rapid atacks[LINE]
+paints a rose in blood.[END]
+// current address: $1A0500
+
+
+
+
+
+//Text $1A04B8
+#WRITE(ptr,$183408)
+[Sign_5]Slash Rain[END]
+// current address: $1A04C8
+
+//Text $1A0498
+#WRITE(ptr,$183410)
+空中から水流を放射する術剣技。[LINE]
+[END]
+// current address: $1A04B8
+
+
+
+
+
+//Text $1A0480
+#WRITE(ptr,$183428)
+[Sign_5]Serpent Edge[END]
+// current address: $1A0492
+
+//Text $1A0440
+#WRITE(ptr,$183430)
+遠距離から絡みつくような連撃を加え、[LINE]
+近距離に引き寄せる術剣技。[END]
+// current address: $1A0480
+
+
+
+
+
+//Text $1A0F28
+#WRITE(ptr,$183448)
+[Sign_4]Demon Fang[END]
+// current address: $1A0F38
+
+//Text $1A0F18
+#WRITE(ptr,$18344C)
+Majinken[END]
+// current address: $1A0F21
+
+//Text $1A03F8
+#WRITE(ptr,$183450)
+剣圧による斬撃の飛び道具を繰り出す剣技。[LINE]
+離れた間合いから攻撃できる。[END]
+// current address: $1A043E
+
+
+
+
+
+//Text $1A03E0
+#WRITE(ptr,$183468)
+[Sign_4]Double Demon Fang[END]
+// current address: $1A03F7
+
+//Text $1A03C8
+#WRITE(ptr,$18346C)
+Majinken Souga[END]
+// current address: $1A03D7
+
+//Text $1A03B8
+#WRITE(ptr,$183470)
+※連携専用[LINE]
+[END]
+// current address: $1A03C4
+
+
+
+
+
+//Text $1A03A5
+#WRITE(ptr,$183488)
+[Sign_4]Swallow Talon[END]
+// current address: $1A03B8
+
+//Text $1A0398
+#WRITE(ptr,$18348C)
+Hienrenzan[END]
+// current address: $1A03A3
+
+//Text $1A0358
+#WRITE(ptr,$183490)
+空中での連続斬りを繰り出す剣技。[LINE]
+２段目、３段目で連携が可能。[END]
+// current address: $1A0396
+
+
+
+
+
+//Text $1A0D6E
+#WRITE(ptr,$1834A8)
+[Sign_4]Tiger Blade[END]
+// current address: $1A0D7F
+
+//Text $1A0D60
+#WRITE(ptr,$1834AC)
+Kogahazan[END]
+// current address: $1A0D6A
+
+//Text $1A0D30
+#WRITE(ptr,$1834B0)
+Slice the enemy up, then cut them down.[END]
+// current address: $1A0D58
+
+
+
+
+
+//Text $1A0BB4
+#WRITE(ptr,$1834C8)
+[Sign_4]Dragon Swarm[END]
+// current address: $1A0BC6
+
+//Text $1A0BA0
+#WRITE(ptr,$1834CC)
+Souryuurengazan[END]
+// current address: $1A0BB0
+
+//Text $1A0B70
+#WRITE(ptr,$1834D0)
+Charge the enemy with[LINE]
+a chain of four slashes.[END]
+// current address: $1A0B9F
+
+
+
+
+
+//Text $1A0345
+#WRITE(ptr,$1834E8)
+[Sign_4]Flying Dragon[END]
+// current address: $1A0358
+
+//Text $1A0338
+#WRITE(ptr,$1834EC)
+Kuushuuken[END]
+// current address: $1A0343
+
+//Text $1A0300
+#WRITE(ptr,$1834F0)
+ダッシュ突きから跳ね上げるように[LINE]
+斬り抜ける剣技。[END]
+// current address: $1A0332
+
+
+
+
+
+//Text $1A02F0
+#WRITE(ptr,$183508)
+[Sign_5]Marian[END]
+// current address: $1A02FC
+
+//Text $1A02C3
+#WRITE(ptr,$183510)
+闇の力を集中させ、前方に突き出す[LINE]
+術剣技。[END]
+// current address: $1A02ED
+
+
+
+
+
+//Text $1A02A9
+#WRITE(ptr,$183528)
+[Sign_5]Demonic Obliteration[END]
+// current address: $1A02C3
+
+//Text $1A0298
+#WRITE(ptr,$18352C)
+Majin Messatsuen[END]
+// current address: $1A02A9
+
+//Text $1A0270
+#WRITE(ptr,$183530)
+滅殺する暗黒の炎で焼き尽くす術剣技。[LINE]
+[END]
+// current address: $1A0296
+
+
+
+
+
+//Text $1A0260
+#WRITE(ptr,$183548)
+[Sign_4]Fang Blade[END]
+// current address: $1A0270
+
+//Text $1A0250
+#WRITE(ptr,$18354C)
+Sougazan[END]
+// current address: $1A0259
+
+//Text $1A0220
+#WRITE(ptr,$183550)
+斬り下ろし、斬り上げと流れるように[LINE]
+繋ぐ剣技。[END]
+// current address: $1A024E
+
+
+
+
+
+//Text $1A020B
+#WRITE(ptr,$183568)
+[Sign_5]Phantom Edge[END]
+// current address: $1A021D
+
+//Text $1A0200
+#WRITE(ptr,$18356C)
+Geneijin[END]
+// current address: $1A0209
+
+//Text $1A01D0
+#WRITE(ptr,$183570)
+相手の攻撃を受け流し、瞬時に[LINE]
+斬り抜ける術剣技。[END]
+// current address: $1A0200
+
+
+
+
+
+//Text $1A01BB
+#WRITE(ptr,$183588)
+[Sign_5]Glimmer Dragon[END]
+// current address: $1A01CF
+
+//Text $1A01B0
+#WRITE(ptr,$18358C)
+Garyuusen[END]
+// current address: $1A01BA
+
+//Text $1A0188
+#WRITE(ptr,$183590)
+空中から真空波の一閃を薙ぐ術剣技。[LINE]
+[END]
+// current address: $1A01AC
+
+
+
+
+
+//Text $1A0178
+#WRITE(ptr,$1835A8)
+[Sign_5]Moon Glare[END]
+// current address: $1A0188
+
+//Text $1A0168
+#WRITE(ptr,$1835AC)
+Gessenkou[END]
+// current address: $1A0172
+
+//Text $1A0138
+#WRITE(ptr,$1835B0)
+軌跡が月を描く広範囲多段斬撃を繰り出す[LINE]
+術剣技。[END]
+// current address: $1A0168
+
+
+
+
+
+//Text $1A0128
+#WRITE(ptr,$1835C8)
+[Sign_5]Moon Fall[END]
+// current address: $1A0137
+
+//Text $1A0118
+#WRITE(ptr,$1835CC)
+Gessenkohou[END]
+// current address: $1A0124
+
+//Text $1A03B8
+#WRITE(ptr,$1835D0)
+※連携専用[LINE]
+[END]
+// current address: $1A03C4
+
+
+
+
+
+//Text $1A0104
+#WRITE(ptr,$1835E8)
+[Sign_5]Shining Dragon[END]
+// current address: $1A0118
+
+//Text $1A00F8
+#WRITE(ptr,$1835EC)
+Garyuumeppa[END]
+// current address: $1A0104
+
+//Text $1A03B8
+#WRITE(ptr,$1835F0)
+※連携専用[LINE]
+[END]
+// current address: $1A03C4
+
+
+
+
+
+//Text $1A00E2
+#WRITE(ptr,$183608)
+[Sign_5]Dragon Glare[END]
+// current address: $1A00F4
+
+//Text $1A00D0
+#WRITE(ptr,$18360C)
+Houryuu Zankouken[END]
+// current address: $1A00E2
+
+//Text $1A0098
+#WRITE(ptr,$183610)
+超高速空中斬撃。常人では動きを追うこと[LINE]
+すらかなわない。[END]
+// current address: $1A00D0
+
+
+
+
+
+//Text $1A0080
+#WRITE(ptr,$183628)
+[Sign_4]Inspect[END]
+// current address: $1A008D
+
+//Text $1A0050
+#WRITE(ptr,$183630)
+術者の術攻撃力を一定時間上昇[LINE]
+させる特技。[END]
+// current address: $1A007A
+
+
+
+
+
+//Text $1A0038
+#WRITE(ptr,$183648)
+[Sign_5]Philia Bomb[END]
+// current address: $1A0049
+
+//Text $19FFF8
+#WRITE(ptr,$183650)
+炸裂する液体を仕込んだビンを投げる術技。[LINE]
+睡眠の追加効果を持つ。[END]
+// current address: $1A0038
+
+
+
+
+
+//Text $19FFE0
+#WRITE(ptr,$183668)
+[Sign_5]Force Field[END]
+// current address: $19FFF1
+
+//Text $19FF90
+#WRITE(ptr,$183670)
+術者の周囲に障壁を張り巡らし、敵の侵入[LINE]
+を防ぐ術技。攻撃力減少の追加効果を持つ。[END]
+// current address: $19FFE0
+
+
+
+
+
+//Text $19FF80
+#WRITE(ptr,$183688)
+[Sign_5]Twin Bomb[END]
+// current address: $19FF8F
+
+//Text $19FF40
+#WRITE(ptr,$183690)
+炸裂するビンを続けて投げ込む術技。[LINE]
+封印の追加効果を持つ。[END]
+// current address: $19FF7A
+
+
+
+
+
+//Text $19FF28
+#WRITE(ptr,$1836A8)
+[Sign_5]Cloak[END]
+// current address: $19FF33
+
+//Text $19FEE0
+#WRITE(ptr,$1836B0)
+味方全体を短時間敵の攻撃から護る術技。[LINE]
+術防御力も同時に上昇させる。[END]
+// current address: $19FF24
+
+
+
+
+
+//Text $19FED0
+#WRITE(ptr,$1836C8)
+[Sign_5]Bomb Rain[END]
+// current address: $19FEDF
+
+//Text $19FE98
+#WRITE(ptr,$1836D0)
+有象無象にビンを投げつける術技。[LINE]
+石化の追加効果を持つ。[END]
+// current address: $19FED0
+
+
+
+
+
+//Text $19FE80
+#WRITE(ptr,$1836E8)
+[Sign_5]Identify[END]
+// current address: $19FE8E
+
+//Text $19FE48
+#WRITE(ptr,$1836F0)
+雷の力で敵に裁きを下す術技。[LINE]
+追加効果でＨＰが回復する。[END]
+// current address: $19FE80
+
+
+
+
+
+//Text $19FE38
+#WRITE(ptr,$183708)
+[Sign_5]Inferno[END]
+// current address: $19FE45
+
+//Text $19FE28
+#WRITE(ptr,$18370C)
+Gouretsu[END]
+// current address: $19FE31
+
+//Text $19FDE8
+#WRITE(ptr,$183710)
+気合を込めた矢の一撃を放つ術弓技。[LINE]
+矢は敵一体を貫通する。[END]
+// current address: $19FE22
+
+
+
+
+
+//Text $19FDD2
+#WRITE(ptr,$183728)
+[Sign_4]Hurricane Thrust[END]
+// current address: $19FDE8
+
+//Text $19FDC8
+#WRITE(ptr,$18372C)
+Fuujinken[END]
+// current address: $19FDD2
+
+//Text $19FDA0
+#WRITE(ptr,$183730)
+突きによる風圧の飛び道具を放つ剣技。[LINE]
+[END]
+// current address: $19FDC6
+
+
+
+
+
+//Text $19FD90
+#WRITE(ptr,$183748)
+[Sign_5]Gale Shot[END]
+// current address: $19FD9F
+
+//Text $19FD88
+#WRITE(ptr,$18374C)
+Hayate[END]
+// current address: $19FD8F
+
+//Text $19FD68
+#WRITE(ptr,$183750)
+矢を素早く３連射する術弓技。[LINE]
+[END]
+// current address: $19FD86
+
+
+
+
+
+//Text $1A0CD3
+#WRITE(ptr,$183768)
+[Sign_5]Severing Wind[END]
+// current address: $1A0CE6
+
+//Text $1A0CC8
+#WRITE(ptr,$18376C)
+Dankuuken[END]
+// current address: $1A0CD2
+
+//Text $1A0C88
+#WRITE(ptr,$183770)
+A high upward slash that[LINE]
+ensnares nearby opponents.[END]
+// current address: $1A0CBC
+
+
+
+
+
+//Text $19FD58
+#WRITE(ptr,$183788)
+[Sign_5]Mirage[END]
+// current address: $19FD64
+
+//Text $19FD48
+#WRITE(ptr,$18378C)
+Kagerou[END]
+// current address: $19FD50
+
+//Text $19FCF8
+#WRITE(ptr,$183790)
+残像を残して消え、不意打ちを加える術剣技。[LINE]
+敵の攻撃を見切って繰り出すのが有効。[END]
+// current address: $19FD48
+
+
+
+
+
+//Text $19FCE8
+#WRITE(ptr,$1837A8)
+[Sign_5]Hail[END]
+// current address: $19FCF2
+
+//Text $19FCE0
+#WRITE(ptr,$1837AC)
+Hakuu[END]
+// current address: $19FCE6
+
+//Text $19FCB0
+#WRITE(ptr,$1837B0)
+敵の頭上に降り注ぐ大量の矢を放つ術弓技。[LINE]
+[END]
+// current address: $19FCDA
+
+
+
+
+
+//Text $19FCA0
+#WRITE(ptr,$1837C8)
+[Sign_4]Void Sword[END]
+// current address: $19FCB0
+
+//Text $19FC90
+#WRITE(ptr,$1837CC)
+Rekkuujin[END]
+// current address: $19FC9A
+
+//Text $19FC58
+#WRITE(ptr,$1837D0)
+斬撃による真空波を大量に繰り出し、[LINE]
+敵を切り刻む剣技。[END]
+// current address: $19FC8E
+
+
+
+
+
+//Text $19FC41
+#WRITE(ptr,$1837E8)
+[Sign_4]Sword Rain: Alpha[END]
+// current address: $19FC58
+
+//Text $19FC37
+#WRITE(ptr,$1837EC)
+Akisazame[END]
+// current address: $19FC41
+
+//Text $19FC10
+#WRITE(ptr,$1837F0)
+無数の突きの連打を繰り出す剣技。[LINE]
+[END]
+// current address: $19FC32
+
+
+
+
+
+//Text $19FC00
+#WRITE(ptr,$183808)
+[Sign_4]Crush Fang[END]
+// current address: $19FC10
+
+//Text $19FBF0
+#WRITE(ptr,$18380C)
+Bassaiga[END]
+// current address: $19FBF9
+
+//Text $19FBA0
+#WRITE(ptr,$183810)
+弓矢の幻惑から瞬速の斬り抜けを繰り出す[LINE]
+剣技。一定確率で対象を衰弱状態にする。[END]
+// current address: $19FBEE
+
+
+
+
+
+//Text $19FB8B
+#WRITE(ptr,$183828)
+[Sign_5]Dark Projection[END]
+// current address: $19FBA0
+
+//Text $19FB83
+#WRITE(ptr,$18382C)
+Zetsuei[END]
+// current address: $19FB8B
+
+//Text $19FB41
+#WRITE(ptr,$183830)
+敵の頭上から真空波で切り刻む術剣技。[LINE]
+ＣＣ３で繰り出せる極悪技。[END]
+// current address: $19FB81
+
+
+
+
+
+//Text $19FB2A
+#WRITE(ptr,$183848)
+[Sign_4]Mega Sonic Thrust[END]
+// current address: $19FB41
+
+//Text $19FB18
+#WRITE(ptr,$18384C)
+Kuuha Zesshougeki[END]
+// current address: $19FB2A
+
+//Text $19FAD8
+#WRITE(ptr,$183850)
+瞬速の２連突き。敵の背後に回る特性と共に、[LINE]
+音波属性を持つ剣技。[END]
+// current address: $19FB18
+
+
+
+
+
+//Text $19FAC8
+#WRITE(ptr,$183868)
+[Sign_4]Gleam[END]
+// current address: $19FAD3
+
+//Text $19FAB8
+#WRITE(ptr,$18386C)
+Kourinshou[END]
+// current address: $19FAC3
+
+//Text $19FA70
+#WRITE(ptr,$183870)
+抜刀による剣撃で敵を長時間浮かす剣技。[LINE]
+対空技で追撃を決めるべし。[END]
+// current address: $19FAB2
+
+
+
+
+
+//Text $19FA60
+#WRITE(ptr,$183888)
+[Sign_4]Transience[END]
+// current address: $19FA70
+
+//Text $19FA58
+#WRITE(ptr,$18388C)
+Setsuna[END]
+// current address: $19FA60
+
+//Text $19FA28
+#WRITE(ptr,$183890)
+空を瞬時に駆ける対空斬撃を繰り出す剣技。[LINE]
+[END]
+// current address: $19FA52
+
+
+
+
+
+//Text $19FA18
+#WRITE(ptr,$1838A8)
+[Sign_5]Void Seal[END]
+// current address: $19FA27
+
+//Text $19FA10
+#WRITE(ptr,$1838AC)
+Kofuu[END]
+// current address: $19FA16
+
+//Text $19F9E0
+#WRITE(ptr,$1838B0)
+超高速弾道により衝撃波を発生させる術弓技。[LINE]
+[END]
+// current address: $19FA0C
+
+
+
+
+
+//Text $19F9CE
+#WRITE(ptr,$1838C8)
+[Sign_4]Beast Blade[END]
+// current address: $19F9DF
+
+//Text $19F9C0
+#WRITE(ptr,$1838CC)
+Moushuuken[END]
+// current address: $19F9CB
+
+//Text $19F978
+#WRITE(ptr,$1838D0)
+タックルから切り上げに繋ぐ剣技。[LINE]
+斧による斬撃は打撃属性も備える。[END]
+// current address: $19F9BA
+
+
+
+
+
+//Text $19F960
+#WRITE(ptr,$1838E8)
+[Sign_4]Daemon Fang[END]
+// current address: $19F971
+
+//Text $19F950
+#WRITE(ptr,$1838EC)
+Majinken Kai[END]
+// current address: $19F95D
+
+//Text $19F908
+#WRITE(ptr,$1838F0)
+叩き下ろす剣圧により、魔神剣より[LINE]
+射程は短いものの、高威力の剣技。[END]
+// current address: $19F94A
+
+
+
+
+
+//Text $19F8F6
+#WRITE(ptr,$183908)
+[Sign_5]Double Blade[END]
+// current address: $19F908
+
+//Text $19F8E8
+#WRITE(ptr,$18390C)
+Gouraiken[END]
+// current address: $19F8F2
+
+//Text $19F8B8
+#WRITE(ptr,$183910)
+雷撃を生じる鋭い二連斬りを繰り出す[LINE]
+術剣技。[END]
+// current address: $19F8E4
+
+
+
+
+
+//Text $19F8A1
+#WRITE(ptr,$183928)
+[Sign_4]Fierce Demon Fang[END]
+// current address: $19F8B8
+
+//Text $19F890
+#WRITE(ptr,$18392C)
+Gou Majinken[END]
+// current address: $19F89D
+
+//Text $19F848
+#WRITE(ptr,$183930)
+魔神剣の改良剣技で、衰弱の追加効果を[LINE]
+持ち、速度を犠牲に威力が上昇。[END]
+// current address: $19F88C
+
+
+
+
+
+//Text $1A0C18
+#WRITE(ptr,$183948)
+[Sign_4]Beast[END]
+// current address: $1A0C23
+
+//Text $1A0C08
+#WRITE(ptr,$18394C)
+Shishisenkou[END]
+// current address: $1A0C15
+
+//Text $19F808
+#WRITE(ptr,$183950)
+体にエネルギーを溜め、一気に放出して[LINE]
+敵を吹き飛ばす特技。[END]
+// current address: $19F842
+
+
+
+
+
+//Text $19FD58
+#WRITE(ptr,$183968)
+[Sign_5]Mirage[END]
+// current address: $19FD64
+
+//Text $19FD48
+#WRITE(ptr,$18396C)
+Kagerou[END]
+// current address: $19FD50
+
+//Text $19FCF8
+#WRITE(ptr,$183970)
+残像を残して消え、不意打ちを加える術剣技。[LINE]
+敵の攻撃を見切って繰り出すのが有効。[END]
+// current address: $19FD48
+
+
+
+
+
+//Text $19F7F5
+#WRITE(ptr,$183988)
+[Sign_4]Maniacal Fang[END]
+// current address: $19F808
+
+//Text $19F7E0
+#WRITE(ptr,$18398C)
+Retsu Majinken[END]
+// current address: $19F7EF
+
+//Text $19F790
+#WRITE(ptr,$183990)
+魔神剣の改良剣技で、射程は短いが、[LINE]
+マヒに加え、敵の防御を崩す効果を持つ。[END]
+// current address: $19F7DA
+
+
+
+
+
+//Text $19F780
+#WRITE(ptr,$1839A8)
+[Sign_4]Slide Kick[END]
+// current address: $19F790
+
+//Text $19F770
+#WRITE(ptr,$1839AC)
+Shittoushuu[END]
+// current address: $19F77C
+
+//Text $19F728
+#WRITE(ptr,$1839B0)
+鋭い足払いで敵を転倒させつつ背後に[LINE]
+回る特技。敵の回避率も減少させる。[END]
+// current address: $19F76E
+
+
+
+
+
+//Text $19F70E
+#WRITE(ptr,$1839C8)
+[Sign_5]Bomb God Mad Temple[END]
+// current address: $19F727
+
+//Text $19F6FC
+#WRITE(ptr,$1839CC)
+Bakujin Kyousatsu[END]
+// current address: $19F70E
+
+//Text $19F6C0
+#WRITE(ptr,$1839D0)
+剣圧の衝撃を瞬時に爆発させる術剣技。[LINE]
+熱毒の追加効果を持つ。[END]
+// current address: $19F6FC
+
+
+
+
+
+//Text $19F6AD
+#WRITE(ptr,$1839E8)
+[Sign_4]Roaring Havoc[END]
+// current address: $19F6C0
+
+//Text $19F6A0
+#WRITE(ptr,$1839EC)
+Houtsuishou[END]
+// current address: $19F6AC
+
+//Text $19F660
+#WRITE(ptr,$1839F0)
+貫いた敵を奥へ放り投げる剣技。[LINE]
+邪魔な前衛をのかすのに有効。[END]
+// current address: $19F69C
+
+
+
+
+
+//Text $19F649
+#WRITE(ptr,$183A08)
+[Sign_4]Roaring Explosion[END]
+// current address: $19F660
+
+//Text $19F638
+#WRITE(ptr,$183A0C)
+Kappabakusougeki[END]
+// current address: $19F649
+
+//Text $19F600
+#WRITE(ptr,$183A10)
+割破して爆走する撃な剣技。[LINE]
+ＣＣ３で使える爆走技。[END]
+// current address: $19F632
+
+
+
+
+
+//Text $19F5ED
+#WRITE(ptr,$183A28)
+[Sign_4]Tornado Blade[END]
+// current address: $19F600
+
+//Text $19F5E0
+#WRITE(ptr,$183A2C)
+Senhoushou[END]
+// current address: $19F5EB
+
+//Text $19F598
+#WRITE(ptr,$183A30)
+斧を回転させて薙ぎ払う剣技。[LINE]
+敵に囲まれたときに最大の威力を発揮。[END]
+// current address: $19F5DA
+
+
+
+
+
+//Text $19F57B
+#WRITE(ptr,$183A48)
+[Sign_5]Lightning Double Blade[END]
+// current address: $19F597
+
+//Text $19F56C
+#WRITE(ptr,$183A4C)
+Shin Gouraiken[END]
+// current address: $19F57B
+
+//Text $19F538
+#WRITE(ptr,$183A50)
+落雷の力を武器に溜め、斬撃とともに[LINE]
+解放する術剣技。[END]
+// current address: $19F56C
+
+
+
+
+
+//Text $19F520
+#WRITE(ptr,$183A68)
+[Sign_4]Wolf Fang Blade[END]
+// current address: $19F535
+
+//Text $19F510
+#WRITE(ptr,$183A6C)
+Shunjinrouga[END]
+// current address: $19F51D
+
+//Text $19F4C0
+#WRITE(ptr,$183A70)
+鋭い踏み込みからの切り上げを繰り出す剣技。[LINE]
+敵の近くで出すと敵の背後を取る。[END]
+// current address: $19F50C
+
+
+
+
+
+//Text $19F4A8
+#WRITE(ptr,$183A88)
+[Sign_4]Lion King Attack[END]
+// current address: $19F4BE
+
+//Text $19F498
+#WRITE(ptr,$183A8C)
+Shishiou Messai[END]
+// current address: $19F4A8
+
+//Text $19F468
+#WRITE(ptr,$183A90)
+獅子戦吼を斜め上に放ち、追撃で切り刻む[LINE]
+剣技。[END]
+// current address: $19F496
+
+
+
+
+
+//Text $19FE38
+#WRITE(ptr,$183AA8)
+[Sign_5]Inferno[END]
+// current address: $19FE45
+
+//Text $19FE28
+#WRITE(ptr,$183AAC)
+Gouretsu[END]
+// current address: $19FE31
+
+//Text $19F418
+#WRITE(ptr,$183AB0)
+気合を込めた矢の一撃を放つ術弓技。[LINE]
+しゃがんで撃つため、低い敵にも当たる。[END]
+// current address: $19F462
+
+
+
+
+
+//Text $19FD90
+#WRITE(ptr,$183AC8)
+[Sign_5]Gale Shot[END]
+// current address: $19FD9F
+
+//Text $19FD88
+#WRITE(ptr,$183ACC)
+Hayate[END]
+// current address: $19FD8F
+
+//Text $19F3E8
+#WRITE(ptr,$183AD0)
+弓を素早く３連射する術弓技。[LINE]
+空中発動も可能。[END]
+// current address: $19F416
+
+
+
+
+
+//Text $19F3D8
+#WRITE(ptr,$183AE8)
+[Sign_5]Thunder[END]
+// current address: $19F3E5
+
+//Text $19F3C8
+#WRITE(ptr,$183AEC)
+Jinrai[END]
+// current address: $19F3CF
+
+//Text $19F398
+#WRITE(ptr,$183AF0)
+ヒット時に落雷し、周囲の敵を巻き込む[LINE]
+術弓技。[END]
+// current address: $19F3C6
+
+
+
+
+
+//Text $19F388
+#WRITE(ptr,$183B08)
+[Sign_5]Delphinium[END]
+// current address: $19F398
+
+//Text $19F380
+#WRITE(ptr,$183B0C)
+Hien[END]
+// current address: $19F385
+
+//Text $19F348
+#WRITE(ptr,$183B10)
+ジャンプ後、風属性を持つ矢を滑空する[LINE]
+ように放つ術弓技。[END]
+// current address: $19F380
+
+
+
+
+
+//Text $19FCE8
+#WRITE(ptr,$183B28)
+[Sign_5]Hail[END]
+// current address: $19FCF2
+
+//Text $19FCE0
+#WRITE(ptr,$183B2C)
+Hakuu[END]
+// current address: $19FCE6
+
+//Text $19FCB0
+#WRITE(ptr,$183B30)
+敵の頭上に降り注ぐ大量の矢を放つ術弓技。[LINE]
+[END]
+// current address: $19FCDA
+
+
+
+
+
+//Text $19F338
+#WRITE(ptr,$183B48)
+[Sign_5]Force Shot[END]
+// current address: $19F348
+
+//Text $19F320
+#WRITE(ptr,$183B4C)
+Shiten Messatsukyuu[END]
+// current address: $19F334
+
+//Text $19F2F0
+#WRITE(ptr,$183B50)
+敵を再度狙う貫通エネルギーを放つ術弓技。[LINE]
+[END]
+// current address: $19F31A
+
+
+
+
+
+//Text $19F2E0
+#WRITE(ptr,$183B68)
+[Sign_5]Kalanchoe[END]
+// current address: $19F2EF
+
+//Text $19F2D0
+#WRITE(ptr,$183B6C)
+Shuren[END]
+// current address: $19F2D7
+
+//Text $19F288
+#WRITE(ptr,$183B70)
+火薬を込めた矢を放ち、命中した敵に[LINE]
+連続してダメージを与える術弓技。[END]
+// current address: $19F2CC
+
+
+
+
+
+//Text $19F270
+#WRITE(ptr,$183B88)
+[Sign_5]Cupid Arrow[END]
+// current address: $19F281
+
+//Text $19F248
+#WRITE(ptr,$183B90)
+刺さるとＨＰが回復する愛の矢を放つ。[LINE]
+[END]
+// current address: $19F26E
+
+
+
+
+
+//Text $19F238
+#WRITE(ptr,$183BA8)
+[Sign_5]Sonic Bash[END]
+// current address: $19F248
+
+//Text $19F228
+#WRITE(ptr,$183BAC)
+Shouha[END]
+// current address: $19F22F
+
+//Text $19F1F0
+#WRITE(ptr,$183BB0)
+ジャンプ後、地面を吹き飛ばす程の強力な[LINE]
+矢を放つ術弓技。[END]
+// current address: $19F228
+
+
+
+
+
+//Text $19F1E0
+#WRITE(ptr,$183BC8)
+[Sign_5]Spiral[END]
+// current address: $19F1EC
+
+//Text $19F1D8
+#WRITE(ptr,$183BCC)
+Rasen[END]
+// current address: $19F1DE
+
+//Text $19F1A0
+#WRITE(ptr,$183BD0)
+広範囲をカバーする同時射撃。[LINE]
+ＣＣ３で撃てる極悪技。[END]
+// current address: $19F1D4
+
+
+
+
+
+//Text $19F190
+#WRITE(ptr,$183BE8)
+[Sign_5]Star Queen[END]
+// current address: $19F1A0
+
+//Text $19F188
+#WRITE(ptr,$183BEC)
+Seiha[END]
+// current address: $19F18E
+
+//Text $19F160
+#WRITE(ptr,$183BF0)
+素早い連続射撃で敵を浮かす術弓技。[LINE]
+[END]
+// current address: $19F184
+
+
+
+
+
+//Text $19F150
+#WRITE(ptr,$183C08)
+[Sign_4]Sunset[END]
+// current address: $19F15C
+
+//Text $19F140
+#WRITE(ptr,$183C0C)
+Shayou[END]
+// current address: $19F147
+
+//Text $19F0F0
+#WRITE(ptr,$183C10)
+近接用特技で、敵を階段状に踏みつける[LINE]
+打撃技。敵の回避率減少の追加効果も。[END]
+// current address: $19F13A
+
+
+
+
+
+//Text $19F0E0
+#WRITE(ptr,$183C28)
+[Sign_5]Moon Rose[END]
+// current address: $19F0EF
+
+//Text $19F0D8
+#WRITE(ptr,$183C2C)
+Gekka[END]
+// current address: $19F0DE
+
+//Text $19F098
+#WRITE(ptr,$183C30)
+天空から降り注ぐ多段射撃を繰り出す術弓技。[LINE]
+闇属性を持つ。[END]
+// current address: $19F0D2
+
+
+
+
+
+//Text $19F080
+#WRITE(ptr,$183C48)
+[Sign_5]Symphony[END]
+// current address: $19F08E
+
+//Text $19F040
+#WRITE(ptr,$183C50)
+味方の連携率を高めるシンフォニー。[LINE]
+支援歌技は味方のＣＣも増加。[END]
+// current address: $19F080
+
+
+
+
+
+//Text $19F028
+#WRITE(ptr,$183C68)
+[Sign_5]Samba[END]
+// current address: $19F033
+
+//Text $19EFE0
+#WRITE(ptr,$183C70)
+味方の術攻撃力を高めるサンバ。[LINE]
+支援歌技は連携することで効果が上昇。[END]
+// current address: $19F024
+
+
+
+
+
+//Text $19EFC8
+#WRITE(ptr,$183C88)
+[Sign_5]March[END]
+// current address: $19EFD3
+
+//Text $19EF88
+#WRITE(ptr,$183C90)
+回避率に応じて敵の攻撃を回避できる[LINE]
+マーチ。支援歌技のひとつ。[END]
+// current address: $19EFC6
+
+
+
+
+
+//Text $19EF70
+#WRITE(ptr,$183CA8)
+[Sign_5]Rumba[END]
+// current address: $19EF7B
+
+//Text $19EF40
+#WRITE(ptr,$183CB0)
+範囲内の敵を痺れさせるルンバ（←巻き舌推奨）。[LINE]
+[END]
+// current address: $19EF70
+
+
+
+
+
+//Text $19EF28
+#WRITE(ptr,$183CC8)
+[Sign_5]Lullaby[END]
+// current address: $19EF35
+
+//Text $19EF08
+#WRITE(ptr,$183CD0)
+範囲内の敵を眠らせるララバイ。[LINE]
+[END]
+// current address: $19EF28
+
+
+
+
+
+//Text $19EEF0
+#WRITE(ptr,$183CE8)
+[Sign_5]Waltz[END]
+// current address: $19EEFB
+
+//Text $19EEC8
+#WRITE(ptr,$183CF0)
+周囲の味方のHPを回復させるワルツ。[LINE]
+[END]
+// current address: $19EEEC
+
+
+
+
+
+//Text $19EEB0
+#WRITE(ptr,$183D08)
+[Sign_5]Golden Voice[END]
+// current address: $19EEC2
+
+//Text $19EE80
+#WRITE(ptr,$183D10)
+究極の肺活量で脳に響くシャウトをかますボイス。[LINE]
+[END]
+// current address: $19EEB0
+
+
+
+
+
+//Text $19EE68
+#WRITE(ptr,$183D28)
+[Sign_5]Sonic Rave[END]
+// current address: $19EE78
+
+//Text $19EE18
+#WRITE(ptr,$183D30)
+音波による衝撃波を正面に放つ特技。[LINE]
+貫通効果があり、近距離ほどヒット数が増える。[END]
+// current address: $19EE68
+
+
+
+
+
+//Text $19EE00
+#WRITE(ptr,$183D48)
+[Sign_5]Beat Heaven[END]
+// current address: $19EE11
+
+//Text $19EDD8
+#WRITE(ptr,$183D50)
+音波による衝撃波を真上に放つ特技。[LINE]
+[END]
+// current address: $19EDFC
+
+
+
+
+
+//Text $19EDC0
+#WRITE(ptr,$183D68)
+[Sign_5]Maware Rondo[END]
+// current address: $19EDD2
+
+//Text $19ED70
+#WRITE(ptr,$183D70)
+廻る音波を生み出すロンド。防御的に[LINE]
+使ってもよいが、近接時のヒット数がひどい。[END]
+// current address: $19EDBE
+
+
+
+
+
+//Text $19ED58
+#WRITE(ptr,$183D88)
+[Sign_5]Reverb Soul[END]
+// current address: $19ED69
+
+//Text $19ED10
+#WRITE(ptr,$183D90)
+多段攻撃判定のある音符を設置する特技。[LINE]
+術攻撃力低下の追加効果を持つ。[END]
+// current address: $19ED56
+
+
+
+
+
+//Text $19ECF8
+#WRITE(ptr,$183DA8)
+[Sign_5]Reflect Rage[END]
+// current address: $19ED0A
+
+//Text $19ECB0
+#WRITE(ptr,$183DB0)
+音波障壁の中で音符を躍らせる特技。[LINE]
+術攻撃力低下の追加効果を持つ。[END]
+// current address: $19ECF2
+
+
+
+
+
+//Text $19EC98
+#WRITE(ptr,$183DC8)
+[Sign_5]Volt Thrust[END]
+// current address: $19ECA9
+
+//Text $19EC40
+#WRITE(ptr,$183DD0)
+ナックルを重ね合わせて衝撃波を起こし、[LINE]
+浮かせた敵にストレートをお見舞いする特技。[END]
+// current address: $19EC92
+
+
+
+
+
+//Text $19EC28
+#WRITE(ptr,$183DE8)
+[Sign_4]1-2 Combo[END]
+// current address: $19EC37
+
+//Text $19EBE0
+#WRITE(ptr,$183DF0)
+ショルダータックル・アッパーの[LINE]
+コンビネーションで敵を浮かせる特技。[END]
+// current address: $19EC24
+
+
+
+
+
+//Text $19EBC8
+#WRITE(ptr,$183E08)
+[Sign_4]Uppercut[END]
+// current address: $19EBD6
+
+//Text $19EB70
+#WRITE(ptr,$183E10)
+左右のアッパーで敵を空へ吹っ飛ばす特技。[LINE]
+空中で出せば天に届かんばかりにスカイハイ。[END]
+// current address: $19EBC4
+
+
+
+
+
+//Text $19EB58
+#WRITE(ptr,$183E28)
+[Sign_4]Hurricane[END]
+// current address: $19EB67
+
+//Text $19EB10
+#WRITE(ptr,$183E30)
+体に似合わぬ高速ラッシュを叩き込む。[LINE]
+空中で出すとヘルズなハリケーン。[END]
+// current address: $19EB56
+
+
+
+
+
+//Text $19EAF8
+#WRITE(ptr,$183E48)
+[Sign_4]Hip Attack[END]
+// current address: $19EB08
+
+//Text $19EAB0
+#WRITE(ptr,$183E50)
+イカスヒップによる降下爆撃。[LINE]
+より上空で出すほどイカス具合がアップ！[END]
+// current address: $19EAF4
+
+
+
+
+
+//Text $19EA98
+#WRITE(ptr,$183E68)
+[Sign_5]Ballistic[END]
+// current address: $19EAA7
+
+//Text $19EA48
+#WRITE(ptr,$183E70)
+圧縮した気を練り上げ、更に練り上げて[LINE]
+シャレにならないくらい膨張させる技。[END]
+// current address: $19EA92
+
+
+
+
+
+//Text $19EA30
+#WRITE(ptr,$183E88)
+[Sign_4]Resurrect Kiai[END]
+// current address: $19EA44
+
+//Text $19E9E0
+#WRITE(ptr,$183E90)
+超気合を叩き込むことで戦闘不能な誰かを[LINE]
+へろへろ気絶状態で復活させる有難迷惑技。[END]
+// current address: $19EA30
+
+
+
+
+
+//Text $19E9C8
+#WRITE(ptr,$183EA8)
+[Sign_5]Muscle Hit[END]
+// current address: $19E9D8
+
+//Text $19E988
+#WRITE(ptr,$183EB0)
+自分自身の攻撃力を増大させすぎて[LINE]
+熱毒状態にもなるやな技。[END]
+// current address: $19E9C2
+
+
+
+
+
+//Text $19E970
+#WRITE(ptr,$183EC8)
+[Sign_4]Metal Body[END]
+// current address: $19E980
+
+//Text $19E920
+#WRITE(ptr,$183ED0)
+敵からの物理攻撃にのけぞらなくなる特技。[LINE]
+効果が切れると衰弱するやせ我慢技。[END]
+// current address: $19E96C
+
+
+
+
+
+//Text $19E908
+#WRITE(ptr,$183EE8)
+[Sign_4]Falcon Fledge[END]
+// current address: $19E91B
+
+//Text $19E8D0
+#WRITE(ptr,$183EF0)
+天駆ける膝蹴り。連続使用で[LINE]
+リアルに天に近づく雰囲気。[END]
+// current address: $19E906
+
+
+
+
+
+//Text $19E8B8
+#WRITE(ptr,$183F08)
+[Sign_5]Earth Crusher[END]
+// current address: $19E8CB
+
+//Text $19E868
+#WRITE(ptr,$183F10)
+ナイスボディプレスで大地をかっさばく。[LINE]
+丹田に込めた超腹式呼吸が成せる技。かも。[END]
+// current address: $19E8B8
+
+
+
+
+
+//Text $19E850
+#WRITE(ptr,$183F28)
+[Sign_4]Heartbreak[END]
+// current address: $19E860
+
+//Text $19E800
+#WRITE(ptr,$183F30)
+超遠心力（怪）から繰り出す究極パンチ。[LINE]
+打ち抜かれた敵は文字通り時間が停止する。[END]
+// current address: $19E850
+
+
+
+
+
+//Text $19E7E8
+#WRITE(ptr,$183F48)
+[Sign_4]Messa Throw[END]
+// current address: $19E7F9
+
+//Text $19E790
+#WRITE(ptr,$183F50)
+つかんでぶんなげるシンプルイズベスト技。[LINE]
+投げ技らしく防御不可。ゆえにかっこいい。[END]
+// current address: $19E7E2
+
+
+
+
+
+//Text $19E778
+#WRITE(ptr,$183F68)
+[Sign_4]Lilith Slash[END]
+// current address: $19E78A
+
+//Text $19E738
+#WRITE(ptr,$183F70)
+流れるような４連続攻撃。[LINE]
+流れるといっても水には流さない。[END]
+// current address: $19E772
+
+
+
+
+
+//Text $19E720
+#WRITE(ptr,$183F88)
+[Sign_5]Rainbow Arch[END]
+// current address: $19E732
+
+//Text $19E700
+#WRITE(ptr,$183F90)
+水をまいたら虹ができました。[LINE]
+[END]
+// current address: $19E71E
+
+
+
+
+
+//Text $19E6E8
+#WRITE(ptr,$183FA8)
+[Sign_4]Sunfish Screech[END]
+// current address: $19E6FD
+
+//Text $19E6D0
+#WRITE(ptr,$183FAC)
+Manbou Senkou[END]
+// current address: $19E6DE
+
+//Text $19E680
+#WRITE(ptr,$183FB0)
+「まんぼうなんてどうすればいいのよ」[LINE]
+に対する答えがここにある。気もする。[END]
+// current address: $19E6CA
+
+
+
+
+
+//Text $19E668
+#WRITE(ptr,$183FC8)
+[Sign_5]Aqua Smite[END]
+// current address: $19E678
+
+//Text $19E630
+#WRITE(ptr,$183FD0)
+夏の暑い日は水うちをして地表温度を[LINE]
+下げましょう。[END]
+// current address: $19E662
+
+
+
+
+
+//Text $19E618
+#WRITE(ptr,$183FE8)
+[Sign_4]Wake the Dead[END]
+// current address: $19E62B
+
+//Text $19E608
+#WRITE(ptr,$183FEC)
+Shisha Mezame[END]
+// current address: $19E616
+
+//Text $19E5C0
+#WRITE(ptr,$183FF0)
+フライパンを打ち鳴らして音波攻撃する[LINE]
+近所迷惑技。寝る子も起きると評判。[END]
+// current address: $19E608
+
+
+
+
+
+//Text $19E5A8
+#WRITE(ptr,$184008)
+[Sign_5]Steak Flare[END]
+// current address: $19E5B9
+
+//Text $19E560
+#WRITE(ptr,$184010)
+ジューシーな火属性対空攻撃。[LINE]
+タイミングとかに熟達の技が光るらしい。[END]
+// current address: $19E5A4
+
+
+
+
+
+//Text $19E548
+#WRITE(ptr,$184028)
+[Sign_4]Turn Over[END]
+// current address: $19E557
+
+//Text $19E510
+#WRITE(ptr,$184030)
+空中から襲い掛かるフライパンの恐怖。[LINE]
+たたけたたけ。[END]
+// current address: $19E544
+
+
+
+
+
+//Text $19E4F8
+#WRITE(ptr,$184048)
+[Sign_4]Flashback[END]
+// current address: $19E507
+
+//Text $19E4A8
+#WRITE(ptr,$184050)
+閃光に紛れて近所の奥様方には見せられない[LINE]
+あんなことやこんなことをする特技。[END]
+// current address: $19E4F4
+
+
+
+
+
+//Text $19E490
+#WRITE(ptr,$184068)
+[Sign_4]Kick Rock[END]
+// current address: $19E49F
+
+//Text $19E468
+#WRITE(ptr,$184070)
+石を適当に蹴る特技、[LINE]
+のようなもの。[END]
+// current address: $19E48C
+
+
+
+
+
+//Text $19E450
+#WRITE(ptr,$184088)
+[Sign_4]Sunfish Stride[END]
+// current address: $19E464
+
+//Text $19E418
+#WRITE(ptr,$184090)
+すっかりまんぼうとお友達、[LINE]
+かどうかは知らないけれど。[END]
+// current address: $19E44E
+
+
+
+
+
+//Text $19E400
+#WRITE(ptr,$1840A8)
+[Sign_6]Fireball[END]
+// current address: $19E40E
+
+//Text $19E3D0
+#WRITE(ptr,$1840B0)
+火炎弾を放つ晶術。[LINE]
+使用すると攻撃力が上昇する。[END]
+// current address: $19E400
+
+
+
+
+
+//Text $19E3B8
+#WRITE(ptr,$1840C8)
+[Sign_6]Eruption[END]
+// current address: $19E3C6
+
+//Text $19E390
+#WRITE(ptr,$1840D0)
+地面に小規模の溶岩を噴出させる晶術。[LINE]
+[END]
+// current address: $19E3B6
+
+
+
+
+
+//Text $19E378
+#WRITE(ptr,$1840E8)
+[Sign_6]Firewall[END]
+// current address: $19E386
+
+//Text $19E338
+#WRITE(ptr,$1840F0)
+術者の周囲に炎の壁を発生させ、[LINE]
+範囲の敵を吹き飛ばす晶術。[END]
+// current address: $19E372
+
+
+
+
+
+//Text $19E320
+#WRITE(ptr,$184108)
+[Sign_6]Firestorm[END]
+// current address: $19E32F
+
+//Text $19E2F0
+#WRITE(ptr,$184110)
+対象の周囲の地面から炎を巻き起こす[LINE]
+晶術。[END]
+// current address: $19E31A
+
+
+
+
+
+//Text $19E2D8
+#WRITE(ptr,$184128)
+[Sign_6]Fear Flare[END]
+// current address: $19E2E8
+
+//Text $19E298
+#WRITE(ptr,$184130)
+上空から無数の火炎弾を撃ち出す晶術。[LINE]
+追加効果で敵を熱毒にする。[END]
+// current address: $19E2D8
+
+
+
+
+
+//Text $19E280
+#WRITE(ptr,$184148)
+[Sign_6]Flare Tornado[END]
+// current address: $19E293
+
+//Text $19E258
+#WRITE(ptr,$184150)
+地面から火炎弾を噴出させる晶術。[LINE]
+[END]
+// current address: $19E27A
+
+
+
+
+
+//Text $19E240
+#WRITE(ptr,$184168)
+[Sign_6]Explosion[END]
+// current address: $19E24F
+
+//Text $19E200
+#WRITE(ptr,$184170)
+晶力を極限まで圧縮し、地面に着弾させて[LINE]
+爆発を起こす晶術。[END]
+// current address: $19E23A
+
+
+
+
+
+//Text $19E1E8
+#WRITE(ptr,$184188)
+[Sign_6]Ice Needle[END]
+// current address: $19E1F8
+
+//Text $19E1A8
+#WRITE(ptr,$184190)
+対象の頭上から氷針を降らせる晶術。[LINE]
+使用すると防御力が上昇する。[END]
+// current address: $19E1E8
+
+
+
+
+
+//Text $19E190
+#WRITE(ptr,$1841A8)
+[Sign_6]Ice Tornado[END]
+// current address: $19E1A1
+
+//Text $19E170
+#WRITE(ptr,$1841B0)
+冷気の渦を巻き起こす晶術。[LINE]
+[END]
+// current address: $19E18C
+
+
+
+
+
+//Text $19E158
+#WRITE(ptr,$1841C8)
+[Sign_6]Ice Wall[END]
+// current address: $19E166
+
+//Text $19E130
+#WRITE(ptr,$1841D0)
+術者の前面に氷壁を出現させる晶術。[LINE]
+[END]
+// current address: $19E154
+
+
+
+
+
+//Text $19E120
+#WRITE(ptr,$1841E8)
+[Sign_6]Icicle[END]
+// current address: $19E12C
+
+//Text $19E0F0
+#WRITE(ptr,$1841F0)
+巨大な氷の塊を生み出し、連続して[LINE]
+撃ち出す晶術。[END]
+// current address: $19E120
+
+
+
+
+
+//Text $19E0E0
+#WRITE(ptr,$184208)
+[Sign_6]Blizzard[END]
+// current address: $19E0EE
+
+//Text $19E098
+#WRITE(ptr,$184210)
+猛吹雪が敵に襲い掛かる晶術。[LINE]
+追加効果で敵を睡眠にする。寒いから。[END]
+// current address: $19E0DA
+
+
+
+
+
+//Text $19E080
+#WRITE(ptr,$184228)
+[Sign_6]Maelstrom[END]
+// current address: $19E08F
+
+//Text $19E038
+#WRITE(ptr,$184230)
+大渦巻を発生させ、敵を巻き込む晶術。[LINE]
+クリティカルが発生しやすい。[END]
+// current address: $19E07A
+
+
+
+
+
+//Text $19E020
+#WRITE(ptr,$184248)
+[Sign_6]Tidal Wave[END]
+// current address: $19E030
+
+//Text $19DFF8
+#WRITE(ptr,$184250)
+大津波を発生させ、敵を飲み込む晶術。[LINE]
+[END]
+// current address: $19E01E
+
+
+
+
+
+//Text $19DFE0
+#WRITE(ptr,$184268)
+[Sign_6]Wind Arrow[END]
+// current address: $19DFF0
+
+//Text $19DF98
+#WRITE(ptr,$184270)
+術者の頭上から風の刃を生み出す晶術。[LINE]
+使用すると回避率が上昇する。[END]
+// current address: $19DFDA
+
+
+
+
+
+//Text $19DF88
+#WRITE(ptr,$184288)
+[Sign_6]Storm[END]
+// current address: $19DF93
+
+//Text $19DF68
+#WRITE(ptr,$184290)
+奥から突風を巻き起こす晶術。[LINE]
+[END]
+// current address: $19DF86
+
+
+
+
+
+//Text $19DF50
+#WRITE(ptr,$1842A8)
+[Sign_6]Stream Arrow[END]
+// current address: $19DF62
+
+//Text $19DF28
+#WRITE(ptr,$1842B0)
+対象を狙う風の刃を、数度繰り出す晶術。[LINE]
+[END]
+// current address: $19DF50
+
+
+
+
+
+//Text $19DF10
+#WRITE(ptr,$1842C8)
+[Sign_6]Whirlwind[END]
+// current address: $19DF1F
+
+//Text $19DEC0
+#WRITE(ptr,$1842D0)
+術者の前方を横に薙ぎ払う風圧の衝撃を放つ晶術。[LINE]
+追加効果で敵を衰弱にする。[END]
+// current address: $19DF0A
+
+
+
+
+
+//Text $19DEA8
+#WRITE(ptr,$1842E8)
+[Sign_6]Air Slash[END]
+// current address: $19DEB7
+
+//Text $19DE60
+#WRITE(ptr,$1842F0)
+風の刃を無数に生み出し、範囲内を飛び交わせる[LINE]
+晶術で、斬撃属性も持つ。[END]
+// current address: $19DEA6
+
+
+
+
+
+//Text $19DE50
+#WRITE(ptr,$184308)
+[Sign_6]Cyclone[END]
+// current address: $19DE5D
+
+//Text $19DE20
+#WRITE(ptr,$184310)
+双頭の竜巻が融合し巨大な衝撃を巻き[LINE]
+起こす晶術。[END]
+// current address: $19DE50
+
+
+
+
+
+//Text $19DE08
+#WRITE(ptr,$184328)
+[Sign_6]Divine Wind[END]
+// current address: $19DE19
+
+//Text $19DDD0
+#WRITE(ptr,$184330)
+天空に魔法陣を紡ぎ、強大な風の力を[LINE]
+呼び込む晶術。[END]
+// current address: $19DE02
+
+
+
+
+
+//Text $19DDB8
+#WRITE(ptr,$184348)
+[Sign_6]Stone Blast[END]
+// current address: $19DDC9
+
+//Text $19DD78
+#WRITE(ptr,$184350)
+石つぶてを連続して撃ち込む晶術。[LINE]
+使用すると術攻撃力が上昇する。[END]
+// current address: $19DDB8
+
+
+
+
+
+//Text $19DD68
+#WRITE(ptr,$184368)
+[Sign_6]Spike[END]
+// current address: $19DD73
+
+//Text $19DD30
+#WRITE(ptr,$184370)
+地面から石の槍を出現させ、[LINE]
+対象を貫き浮かす晶術。[END]
+// current address: $19DD62
+
+
+
+
+
+//Text $19DD18
+#WRITE(ptr,$184388)
+[Sign_6]Stone Wall[END]
+// current address: $19DD28
+
+//Text $19DCC8
+#WRITE(ptr,$184390)
+石の槍を術者の前方に生み出し、敵の侵入を[LINE]
+阻む晶術。追加効果で敵を封印にする。[END]
+// current address: $19DD16
+
+
+
+
+
+//Text $19DCB0
+#WRITE(ptr,$1843A8)
+[Sign_6]Air Pressure[END]
+// current address: $19DCC2
+
+//Text $19DC88
+#WRITE(ptr,$1843B0)
+重力場を生み出し、敵を押しつぶす晶術。[LINE]
+[END]
+// current address: $19DCB0
+
+
+
+
+
+//Text $19DC70
+#WRITE(ptr,$1843C8)
+[Sign_6]Ground Dasher[END]
+// current address: $19DC83
+
+//Text $19DC48
+#WRITE(ptr,$1843D0)
+大地の力を解放し、敵を巻き込む晶術。[LINE]
+[END]
+// current address: $19DC6E
+
+
+
+
+
+//Text $19DC30
+#WRITE(ptr,$1843E8)
+[Sign_6]Lightning[END]
+// current address: $19DC3F
+
+//Text $19DC08
+#WRITE(ptr,$1843F0)
+対象の頭上に小さな雷を落とす晶術。[LINE]
+[END]
+// current address: $19DC2C
+
+
+
+
+
+//Text $19DBF0
+#WRITE(ptr,$184408)
+[Sign_6]Thunder Blade[END]
+// current address: $19DC03
+
+//Text $19DBA8
+#WRITE(ptr,$184410)
+術者から生み出される稲妻の剣で薙ぎ払う[LINE]
+晶術。追加効果で敵を麻痺にする。[END]
+// current address: $19DBF0
+
+
+
+
+
+//Text $19DB98
+#WRITE(ptr,$184428)
+[Sign_6]Ray[END]
+// current address: $19DBA1
+
+//Text $19DB58
+#WRITE(ptr,$184430)
+光の晶力を一点に集め、そこから無数の[LINE]
+レーザーを打ち込む晶術。[END]
+// current address: $19DB96
+
+
+
+
+
+//Text $19DB40
+#WRITE(ptr,$184448)
+[Sign_6]Holy Lance[END]
+// current address: $19DB50
+
+//Text $19DB10
+#WRITE(ptr,$184450)
+聖なる加護を受けた無数の槍で敵を貫く[LINE]
+晶術。[END]
+// current address: $19DB3C
+
+
+
+
+
+//Text $19DAF0
+#WRITE(ptr,$184468)
+[Sign_6]Holy Wrath[END]
+// current address: $19DB00
+
+//Text $19DAD0
+#WRITE(ptr,$184470)
+Cast "Indignation" spell.[END]
+// current address: $19DAEA
+
+
+
+
+
+//Text $19DAC0
+#WRITE(ptr,$184488)
+[Sign_6]Big Bang[END]
+// current address: $19DACE
+
+//Text $19DA80
+#WRITE(ptr,$184490)
+光系最上位の晶術。全ての敵を一瞬で[LINE]
+葬り去るほどの力を持つ。[END]
+// current address: $19DABC
+
+
+
+
+
+//Text $19DA68
+#WRITE(ptr,$1844A8)
+[Sign_6]Demon's Lance[END]
+// current address: $19DA7B
+
+//Text $19DA38
+#WRITE(ptr,$1844B0)
+魔神の槍を召喚して敵を粉砕する闇系晶術。[LINE]
+[END]
+// current address: $19DA62
+
+
+
+
+
+//Text $19DA20
+#WRITE(ptr,$1844C8)
+[Sign_6]Black Hole[END]
+// current address: $19DA30
+
+//Text $19D9F0
+#WRITE(ptr,$1844D0)
+闇系最上位の晶術。一撃粉砕の[LINE]
+追加効果も持つ。[END]
+// current address: $19DA1E
+
+
+
+
+
+//Text $19D9D8
+#WRITE(ptr,$1844E8)
+[Sign_6]Tractor Beam[END]
+// current address: $19D9EA
+
+//Text $19D990
+#WRITE(ptr,$1844F0)
+敵を持ち上げる、無属性晶術。[LINE]
+無属性→敵の属性耐性に影響されない属性[END]
+// current address: $19D9D4
+
+
+
+
+
+//Text $19D978
+#WRITE(ptr,$184508)
+[Sign_6]Cursed Cries[END]
+// current address: $19D98A
+
+//Text $19D968
+#WRITE(ptr,$184510)
+Enemy Arte[END]
+// current address: $19D973
+
+
+
+
+
+//Text $19D950
+#WRITE(ptr,$184528)
+[Sign_6]Meteor Swarm[END]
+// current address: $19D962
+
+//Text $19D930
+#WRITE(ptr,$184530)
+隕石群を飛来させる無属性晶術。[LINE]
+[END]
+// current address: $19D950
+
+
+
+
+
+//Text $19D918
+#WRITE(ptr,$184548)
+[Sign_6]Extension[END]
+// current address: $19D927
+
+//Text $19D8C8
+#WRITE(ptr,$184550)
+敵一体を一定確率で一撃のもとに撃破する[LINE]
+晶術。敵のHPが少ないほど成功しやすい。[END]
+// current address: $19D916
+
+
+
+
+
+//Text $19D8A8
+#WRITE(ptr,$184568)
+[Sign_6]Guilty Resolver[END]
+// current address: $19D8BD
+
+//Text $19D8A0
+#WRITE(ptr,$184570)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D888
+#WRITE(ptr,$184588)
+[Sign_10]First Aid[END]
+// current address: $19D897
+
+//Text $19D858
+#WRITE(ptr,$184590)
+味方一人のHPを２０％前後回復させる晶術。[LINE]
+[END]
+// current address: $19D882
+
+
+
+
+
+//Text $19D848
+#WRITE(ptr,$1845A8)
+[Sign_10]Heal[END]
+// current address: $19D852
+
+//Text $19D818
+#WRITE(ptr,$1845B0)
+味方一人のHPを４０％前後回復させる晶術。[LINE]
+[END]
+// current address: $19D842
+
+
+
+
+
+//Text $19D808
+#WRITE(ptr,$1845C8)
+[Sign_10]Cure[END]
+// current address: $19D812
+
+//Text $19D7D8
+#WRITE(ptr,$1845D0)
+味方一人のHPを８０％前後回復させる晶術。[LINE]
+[END]
+// current address: $19D802
+
+
+
+
+
+//Text $19D7C8
+#WRITE(ptr,$1845E8)
+[Sign_10]Nurse[END]
+// current address: $19D7D3
+
+//Text $19D798
+#WRITE(ptr,$1845F0)
+味方全員のHPを３０％前後回復させる晶術。[LINE]
+[END]
+// current address: $19D7C2
+
+
+
+
+
+//Text $19D780
+#WRITE(ptr,$184608)
+[Sign_10]Revive[END]
+// current address: $19D78C
+
+//Text $19D738
+#WRITE(ptr,$184610)
+効果範囲の味方のHPを５０％前後回復させる[LINE]
+晶術。みんなで集まろう。[END]
+// current address: $19D77A
+
+
+
+
+
+//Text $19D720
+#WRITE(ptr,$184628)
+[Sign_10]Antidote[END]
+// current address: $19D72E
+
+//Text $19D6F8
+#WRITE(ptr,$184630)
+味方の熱毒・衰弱を解除する晶術。[LINE]
+[END]
+// current address: $19D71A
+
+
+
+
+
+//Text $19D6E8
+#WRITE(ptr,$184648)
+[Sign_10]Recover[END]
+// current address: $19D6F5
+
+//Text $19D6A8
+#WRITE(ptr,$184650)
+味方の熱毒・衰弱・石化・睡眠・マヒ・封印[LINE]
+を解除する晶術。[END]
+// current address: $19D6E2
+
+
+
+
+
+//Text $19D690
+#WRITE(ptr,$184668)
+[Sign_10]Raise Dead[END]
+// current address: $19D6A0
+
+//Text $19D648
+#WRITE(ptr,$184670)
+戦闘不能になった味方を復活させる晶術。[LINE]
+HPは７０％前後で回復する。[END]
+// current address: $19D68A
+
+
+
+
+
+//Text $19D638
+#WRITE(ptr,$184688)
+[Sign_6]Hammer[END]
+// current address: $19D644
+
+//Text $19D600
+#WRITE(ptr,$184690)
+小型ハンマーを投げつけて敵を時々気絶させる[LINE]
+晶術。晶術？[END]
+// current address: $19D638
+
+
+
+
+
+//Text $19D5E8
+#WRITE(ptr,$1846A8)
+[Sign_6]Strong Hammer[END]
+// current address: $19D5FB
+
+//Text $19D5A0
+#WRITE(ptr,$1846B0)
+大型ハンマーを振り下ろしてピコピコする[LINE]
+ハンマー。そういえば晶術。[END]
+// current address: $19D5E2
+
+
+
+
+
+//Text $19D588
+#WRITE(ptr,$1846C8)
+[Sign_6]Deep Mist[END]
+// current address: $19D597
+
+//Text $19D540
+#WRITE(ptr,$1846D0)
+周囲に霧を発生させ、敵の攻撃の[LINE]
+特殊効果・クリティカル率を下げる晶術。[END]
+// current address: $19D586
+
+
+
+
+
+//Text $19D528
+#WRITE(ptr,$1846E8)
+[Sign_6]Acid Rain[END]
+// current address: $19D537
+
+//Text $19D4D8
+#WRITE(ptr,$1846F0)
+範囲内の敵の術防御力を減少させる晶術。[LINE]
+敵の能力上昇効果も同時に解除できる。[END]
+// current address: $19D524
+
+
+
+
+
+//Text $19D4C8
+#WRITE(ptr,$184708)
+[Sign_6]Silence[END]
+// current address: $19D4D5
+
+//Text $19D498
+#WRITE(ptr,$184710)
+敵一体の晶術・一部の特殊行動を[LINE]
+封印する晶術。[END]
+// current address: $19D4C6
+
+
+
+
+
+//Text $19D488
+#WRITE(ptr,$184728)
+[Sign_10]Barrier[END]
+// current address: $19D495
+
+//Text $19D438
+#WRITE(ptr,$184730)
+味方一人の防御力を一定時間上昇させる晶術。[LINE]
+能力低下効果も同時に解除できる。[END]
+// current address: $19D484
+
+
+
+
+
+//Text $19D420
+#WRITE(ptr,$184748)
+[Sign_10]Sharpness[END]
+// current address: $19D42F
+
+//Text $19D3D0
+#WRITE(ptr,$184750)
+味方一人の攻撃力を一定時間上昇させる晶術。[LINE]
+能力低下効果も同時に解除できる。[END]
+// current address: $19D41C
+
+
+
+
+
+//Text $19D3C0
+#WRITE(ptr,$184768)
+[Sign_10]Dispel[END]
+// current address: $19D3CC
+
+//Text $19D388
+#WRITE(ptr,$184770)
+味方全員にかけられた全ての特殊効果を解除[LINE]
+する晶術。[END]
+// current address: $19D3BC
+
+
+
+
+
+//Text $19D370
+#WRITE(ptr,$184788)
+[Sign_6]Prism Shine[END]
+// current address: $19D381
+
+//Text $19D8A0
+#WRITE(ptr,$184790)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D358
+#WRITE(ptr,$1847A8)
+[Sign_6]Stop Flow[END]
+// current address: $19D367
+
+//Text $19D310
+#WRITE(ptr,$1847B0)
+３秒間、敵の動きを停止させる晶術。[LINE]
+短時間だし踊るヒマはありません。[END]
+// current address: $19D354
+
+
+
+
+
+//Text $19D2F8
+#WRITE(ptr,$1847C8)
+[Sign_6]Amニvalence[END]
+// current address: $19D309
+
+//Text $19D8A0
+#WRITE(ptr,$1847D0)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D2E0
+#WRITE(ptr,$1847E8)
+[Sign_6]Black Wing[END]
+// current address: $19D2F0
+
+//Text $19D8A0
+#WRITE(ptr,$1847F0)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D2C0
+#WRITE(ptr,$184808)
+[Sign_6]Demon's Lance Zero[END]
+// current address: $19D2D8
+
+//Text $19D280
+#WRITE(ptr,$184810)
+魔神の槍を召喚すると共に、禁呪の力を[LINE]
+我が物とする闇系晶術。[END]
+// current address: $19D2BC
+
+
+
+
+
+//Text $19D268
+#WRITE(ptr,$184828)
+[Sign_6]Spoil Weaponェポン[END]
+// current address: $19D280
+
+//Text $19D8A0
+#WRITE(ptr,$184830)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D250
+#WRITE(ptr,$184848)
+[Sign_6]Spoil Armor[END]
+// current address: $19D261
+
+//Text $19D8A0
+#WRITE(ptr,$184850)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D238
+#WRITE(ptr,$184868)
+[Sign_6]Spoil Mind[END]
+// current address: $19D248
+
+//Text $19D8A0
+#WRITE(ptr,$184870)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D220
+#WRITE(ptr,$184888)
+[Sign_6]Spoil Resist[END]
+// current address: $19D232
+
+//Text $19D8A0
+#WRITE(ptr,$184890)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D208
+#WRITE(ptr,$1848A8)
+[Sign_6]Arcangel[END]
+// current address: $19D216
+
+//Text $19D8A0
+#WRITE(ptr,$1848B0)
+Enemies[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D1E8
+#WRITE(ptr,$1848C8)
+[Sign_6]Seraphic Feather[END]
+// current address: $19D1FE
+
+//Text $19D8A0
+#WRITE(ptr,$1848D0)
+Enemies[END]
+// current address: $19D8A8
