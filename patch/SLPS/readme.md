@@ -1,5 +1,5 @@
 # Translation of the menu (SLPS file)
-Files available for now :
+Files available for now :   
 Artes : https://docs.google.com/spreadsheets/d/1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM/edit#gid=956154887
 
 ## Working in the google sheet
@@ -52,7 +52,7 @@ to validate your translation in the game :
 
 ## Multiple blocks in the SLPS file
 
-When we work on these translations, we splitted the SPLS in multiple blocks. Each block contain different sections ( 1 or more).
+We splitted the SPLS in multiple blocks. Each block contain different sections ( 1 or more).
 Each section will probably have his own Google sheet. The google sheets information will always be at the top of this file.
 
 Ex:
