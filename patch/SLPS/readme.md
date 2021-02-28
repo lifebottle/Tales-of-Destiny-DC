@@ -1,7 +1,10 @@
 # Translation of the menu (SLPS file)
 Files available for now :   
-Artes : https://docs.google.com/spreadsheets/d/1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM/edit#gid=956154887
+Block :
+- Artes https://docs.google.com/spreadsheets/d/1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM/edit#gid=956154887
 
+Block :
+- Item Consumable 
 ## Working in the google sheet
 
 In the google sheet, you have two columns. One is the original Japanese text in the game and the second one is 
@@ -25,13 +28,15 @@ Ex: [Sign5] is a Sword in the Artes menu
 
 When you made a bunch of changes in the google sheet and you want to view your translation, you can use the scripts in
 the subfolder "Tales-of-Destiny-DC/scripts/SLPS_Updates". To use these script, you'll need to have Python installed on your computer
-with some packages.
+with some packages and Strawberry Perl on windows.
 
-Install python from this site https://www.python.org/downloads/release/python-379/   
-To install the packages, double click on Install_requirements.bat in "SLPS/scripts"
+1) Install python from this site https://www.python.org/downloads/release/python-379/   
+2) Install strawberry perl on https://strawberryperl.com/
+3) Install the packages with Install_requirements.bat in "SLPS/scripts"
 
 Other scripts in "SLPS/scripts" will update one of the block/section. They are named as "TODDC_update_xxx.bat". 
-Once a script is ran, it will generate a new SLPS_xxx.42 file for you to test
+Once a script is ran, it will generate a new SLPS_xxx.42 file for you to test.
+** Always make sure to have the last recent version of the code from Github inside your local repo.
 
 Ex:
 If you are working on Artes, you need to use the script "TODDC_update_Artes.bat". You can then use the

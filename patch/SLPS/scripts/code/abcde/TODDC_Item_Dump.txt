@@ -1,0 +1,1110 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+
+#JMP($1AC530)
+//Section Food
+
+//Text $1BA218
+#WRITE(ptr,$191D98)
+[Sign_3]Onigiri[END]
+
+//Text $1BA1C8
+#WRITE(ptr,$191D9C)
+おにぎりが出るストラップ。[LINE]
+愛情を込めて丁寧に握りました。[LINE]
+旅のお供に最適。[END]
+
+//Text $1BA180
+#WRITE(ptr,$191DC8)
+[Sign_3]サンドイッチ[END]
+
+//Text $1BA120
+#WRITE(ptr,$191DCC)
+サンドイッチが出るストラップ。[LINE]
+野菜とハムをサンドしたもの。[LINE]
+どこでも手軽に食べられます。[END]
+
+//Text $1BA0C8
+#WRITE(ptr,$191DF8)
+[Sign_3]ハンバーガー[END]
+
+//Text $1BA068
+#WRITE(ptr,$191DFC)
+ハンバーガーが出るストラップ。[LINE]
+ジューシーなハンバーグをパンで[LINE]
+挟みました。ボリューム満点！[END]
+
+//Text $1BA020
+#WRITE(ptr,$191E28)
+[Sign_3]ホットドッグ[END]
+
+//Text $1B9FC0
+#WRITE(ptr,$191E2C)
+ホットドッグが出るストラップ。[LINE]
+細長いパンに切れ目を入れ、温めた[LINE]
+ソーセージをはさんだもの。[END]
+
+//Text $1B9F88
+#WRITE(ptr,$191E58)
+[Sign_3]ブリトー[END]
+
+//Text $1B9F30
+#WRITE(ptr,$191E5C)
+ブリトーが出るストラップ。[LINE]
+ライス・肉・豆・野菜などの具を[LINE]
+トルティーヤで巻いたもの。[END]
+
+//Text $1B9EF8
+#WRITE(ptr,$191E88)
+[Sign_3]ケバブ[END]
+
+//Text $1B9EA0
+#WRITE(ptr,$191E8C)
+ケバブが出るストラップ。[LINE]
+串に刺した肉をゆっくりと回しなが[LINE]
+らじっくり焼き上げたもの。[END]
+
+//Text $1B9E68
+#WRITE(ptr,$191EB8)
+[Sign_3]いなり寿司[END]
+
+//Text $1B9E10
+#WRITE(ptr,$191EBC)
+いなり寿司が出るストラップ。[LINE]
+甘く煮た油揚げの中にすし飯を詰め[LINE]
+たもの。お子様にも人気。[END]
+
+//Text $1B9DD8
+#WRITE(ptr,$191EE8)
+[Sign_3]一夜漬け[END]
+
+//Text $1B9D90
+#WRITE(ptr,$191EEC)
+一夜漬けが出るストラップ。[LINE]
+一夜で漬けた漬物。[LINE]
+あっさりして食べやすい。[END]
+
+//Text $1B9D58
+#WRITE(ptr,$191F18)
+[Sign_3]お茶漬け[END]
+
+//Text $1B9CF8
+#WRITE(ptr,$191F1C)
+お茶漬けが出るストラップ。[LINE]
+ご飯に薄味のだし汁をかけて食べる[LINE]
+もの。さらさらっとかっ込めます。[END]
+
+//Text $1B9CC0
+#WRITE(ptr,$191F48)
+[Sign_3]チャーハン[END]
+
+//Text $1B9C60
+#WRITE(ptr,$191F4C)
+チャーハンが出るストラップ。[LINE]
+肉や野菜・卵などをまぜて油で炒め[LINE]
+味をつけた焼き飯。単品でも満足。[END]
+
+//Text $1B9C20
+#WRITE(ptr,$191F78)
+[Sign_3]オムライス[END]
+
+//Text $1B9BC0
+#WRITE(ptr,$191F7C)
+オムライスが出るストラップ。[LINE]
+ケチャップご飯にトロトロ卵を被せ[LINE]
+たもの。子供たちの大好物。[END]
+
+//Text $1B9B78
+#WRITE(ptr,$191FA8)
+[Sign_3]カレーライス[END]
+
+//Text $1B9B18
+#WRITE(ptr,$191FAC)
+カレーライスが出るストラップ。[LINE]
+リンゴとハチミツ入り。甘くて少し[LINE]
+スパイシー。家庭の味です。[END]
+
+//Text $1B9AE0
+#WRITE(ptr,$191FD8)
+[Sign_3]オムハヤシ[END]
+
+//Text $1B9A78
+#WRITE(ptr,$191FDC)
+オムハヤシが出るストラップ。[LINE]
+オムライスとハヤシライスの合体！[LINE]
+ボリュームタップリで贅沢な味です。[END]
+
+//Text $1B9A40
+#WRITE(ptr,$192008)
+[Sign_3]パエリア[END]
+
+//Text $1B99E0
+#WRITE(ptr,$19200C)
+パエリアが出るストラップ。[LINE]
+米に肉や魚介類を入れ、オリーブ油[LINE]
+とサフランを加えて煮込んだもの。[END]
+
+//Text $1B99A0
+#WRITE(ptr,$192038)
+[Sign_3]オリエンタルライス[END]
+
+//Text $1B9948
+#WRITE(ptr,$19203C)
+オリエンタルライスが出るストラップ。[LINE]
+にらと豚バラ肉をご飯にのせ[LINE]
+たもの。スタミナ抜群！[END]
+
+//Text $1B9908
+#WRITE(ptr,$192068)
+[Sign_3]マフィン[END]
+
+//Text $1B98A8
+#WRITE(ptr,$19206C)
+マフィンが出るストラップ。[LINE]
+ふくらませた小さな丸い菓子パン。[LINE]
+生クリームをつけるのもお勧め。[END]
+
+//Text $1B9870
+#WRITE(ptr,$192098)
+[Sign_3]キムチ[END]
+
+//Text $1B9820
+#WRITE(ptr,$19209C)
+キムチが出るストラップ。[LINE]
+辛いものが苦手な人は要注意。[LINE]
+匂いも味も刺激的。[END]
+
+//Text $1B97E0
+#WRITE(ptr,$1920C8)
+[Sign_3]肉まん[END]
+
+//Text $1B9788
+#WRITE(ptr,$1920CC)
+肉まんが出るストラップ。[LINE]
+一口食べれば口いっぱいに肉汁が！[LINE]
+寒い日は食べたくなる一品。[END]
+
+//Text $1B9750
+#WRITE(ptr,$1920F8)
+[Sign_3]ロコモコ[END]
+
+//Text $1B96F0
+#WRITE(ptr,$1920FC)
+ロコモコが出るストラップ。[LINE]
+ご飯の上にハンバーグと目玉焼き。[LINE]
+シンプルだけどめちゃうまい！[END]
+
+//Text $1B96B8
+#WRITE(ptr,$192128)
+[Sign_3]牛丼[END]
+
+//Text $1B9660
+#WRITE(ptr,$19212C)
+牛丼が出るストラップ。[LINE]
+牛肉をネギなどと煮て、汁とともに[LINE]
+どんぶり飯に。忘れられない味。[END]
+
+//Text $1B9628
+#WRITE(ptr,$192158)
+[Sign_3]親子丼[END]
+
+//Text $1B95D0
+#WRITE(ptr,$19215C)
+親子丼が出るストラップ。[LINE]
+甘く煮た鶏肉を卵でとじました。[LINE]
+白飯と一緒にお食べください。[END]
+
+//Text $1B9598
+#WRITE(ptr,$192188)
+[Sign_3]海鮮丼[END]
+
+//Text $1B9538
+#WRITE(ptr,$19218C)
+海鮮丼が出るストラップ。[LINE]
+新鮮な魚介類をご飯の上へ。季節に[LINE]
+よって素材も変わる。贅沢な一品。[END]
+
+//Text $1B94F8
+#WRITE(ptr,$1921B8)
+[Sign_3]クラムチャウダー[END]
+
+//Text $1B9490
+#WRITE(ptr,$1921BC)
+クラムチャウダーが出るストラップ。[LINE]
+ハマグリとベーコン・野菜などを[LINE]
+煮込んだスープ。寒い日にどうぞ。[END]
+
+//Text $1B9450
+#WRITE(ptr,$1921E8)
+[Sign_3]リゾット[END]
+
+//Text $1B93F8
+#WRITE(ptr,$1921EC)
+リゾットが出るストラップ。[LINE]
+油で炒めた米に肉や魚、キノコで炒[LINE]
+めたスープを含ませたもの。[END]
+
+//Text $1B93B0
+#WRITE(ptr,$192218)
+[Sign_3]ビーフストロガノフ[END]
+
+//Text $1B9348
+#WRITE(ptr,$19221C)
+ビーフストロガノフが出るストラップ。[LINE]
+牛肉をサワークリームのソースで煮[LINE]
+込んだもの。贅沢で上品なお味。[END]
+
+//Text $1B9300
+#WRITE(ptr,$192248)
+[Sign_3]ミートソース[END]
+
+//Text $1B92A8
+#WRITE(ptr,$19224C)
+ミートソースが出るストラップ。[LINE]
+タマネギとひき肉はたっぷりと。[LINE]
+ソースの跳ねに要注意。[END]
+
+//Text $1B9268
+#WRITE(ptr,$192278)
+[Sign_3]グラタン[END]
+
+//Text $1B9208
+#WRITE(ptr,$19227C)
+グラタンが出るストラップ。[LINE]
+たっぷり具材にたっぷりチーズ。焦[LINE]
+げたチーズの香りは空腹を誘います。[END]
+
+//Text $1B91D0
+#WRITE(ptr,$1922A8)
+[Sign_3]グラスパ[END]
+
+//Text $1B9178
+#WRITE(ptr,$1922AC)
+グラスパが出るストラップ。[LINE]
+グラタンとスパゲッティを同時に[LINE]
+楽しめる逸品！まずは一口。[END]
+
+//Text $1B9140
+#WRITE(ptr,$1922D8)
+[Sign_3]ハンバーグ[END]
+
+//Text $1B90E0
+#WRITE(ptr,$1922DC)
+ハンバーグが出るストラップ。[LINE]
+つけ合わせは甘く煮たにんじんを。[LINE]
+よく捏ねるほど美味しくなります。[END]
+
+//Text $1B9098
+#WRITE(ptr,$192308)
+[Sign_3]ステーキ[END]
+
+//Text $1B9040
+#WRITE(ptr,$19230C)
+ステーキが出るストラップ。[LINE]
+厚く切った肉をただ焼くだけ！[LINE]
+肉の素晴らしさが実感できます。[END]
+
+//Text $1B8FF8
+#WRITE(ptr,$192338)
+[Sign_3]お好み焼き[END]
+
+//Text $1B8F98
+#WRITE(ptr,$19233C)
+お好み焼きが出るストラップ。[LINE]
+水で溶いた小麦粉にお好みの具を。[LINE]
+トッピングにかつお節と青ノリを。[END]
+
+//Text $1B8F60
+#WRITE(ptr,$192368)
+[Sign_3]すき焼き[END]
+
+//Text $1B8F00
+#WRITE(ptr,$19236C)
+すき焼きが出るストラップ。[LINE]
+牛肉を鉄鍋で甘辛く焼いて煮たもの。[LINE]
+お米と一緒に食べても合います。[END]
+
+//Text $1B8EC8
+#WRITE(ptr,$192398)
+[Sign_3]お刺身[END]
+
+//Text $1B8E70
+#WRITE(ptr,$19239C)
+お刺身が出るストラップ。[LINE]
+新鮮な魚介類を薄く切ったもの。[LINE]
+プリプリとした身がたまらない。[END]
+
+//Text $1B8E30
+#WRITE(ptr,$1923C8)
+[Sign_3]舟盛り[END]
+
+//Text $1B8DD0
+#WRITE(ptr,$1923CC)
+舟盛りが出るストラップ。[LINE]
+新鮮な魚介類を伝統にのっとって[LINE]
+盛りつけました。まだ生きてます。[END]
+
+//Text $1B8D90
+#WRITE(ptr,$1923F8)
+[Sign_3]フルーツパフェ[END]
+
+//Text $1B8D28
+#WRITE(ptr,$1923FC)
+フルーツパフェが出るストラップ。[LINE]
+色々なフルーツを生クリームや[LINE]
+アイスにトッピング。甘くてウマイ。[END]
+
+//Text $1B8CE8
+#WRITE(ptr,$192428)
+[Sign_3]フルーツチーズ[END]
+
+//Text $1B8C80
+#WRITE(ptr,$19242C)
+フルーツチーズが出るストラップ。[LINE]
+すり潰したフルーツと牛乳を混ぜて[LINE]
+チーズにする。おやつにピッタリ！[END]
+
+//Text $1B8C38
+#WRITE(ptr,$192458)
+[Sign_3]フルーツとうふ[END]
+
+//Text $1B8BD8
+#WRITE(ptr,$19245C)
+フルーツとうふが出るストラップ。[LINE]
+とうふとフルーツを混ぜた、[LINE]
+なんともいえない食感の食べ物。[END]
+
+//Text $1B8BA0
+#WRITE(ptr,$192488)
+[Sign_3]肉鍋[END]
+
+//Text $1B8B48
+#WRITE(ptr,$19248C)
+肉鍋が出るストラップ。[LINE]
+お肉がメインの鍋。肉の出汁が[LINE]
+たまりません。残りはうどんでも。[END]
+
+//Text $1B8B10
+#WRITE(ptr,$1924B8)
+[Sign_3]魚鍋[END]
+
+//Text $1B8AB8
+#WRITE(ptr,$1924BC)
+魚鍋が出るストラップ。[LINE]
+魚がメインの鍋。魚の出汁がたまり[LINE]
+ません。残りは雑炊にどうぞ。[END]
+
+//Text $1B8A78
+#WRITE(ptr,$1924E8)
+[Sign_3]まんぼうの串焼き[END]
+
+//Text $1B8A30
+#WRITE(ptr,$1924EC)
+まんぼうの串焼きが出るストラップ。[LINE]
+美味しく食べる事が大事です。[LINE]
+[END]
+
+//Text $1B89F0
+#WRITE(ptr,$192518)
+[Sign_3]みそおでん[END]
+
+//Text $1B8988
+#WRITE(ptr,$19251C)
+みそおでんが出るストラップ。[LINE]
+甘みのある上質な味噌たれが口の中[LINE]
+で染み渡る。お酒の共にも最適です。[END]
+
+//Text $1B8948
+#WRITE(ptr,$192548)
+[Sign_3]マーボーカレー[END]
+
+//Text $1B88E8
+#WRITE(ptr,$19254C)
+マーボーカレーが出るストラップ。[LINE]
+軍に伝わる秘伝の味。二つの辛味が[LINE]
+織り成す究極のハーモニー！[END]
+
+//Text $1B88A8
+#WRITE(ptr,$192578)
+[Sign_3]カチカチおにぎり[END]
+
+//Text $1B8858
+#WRITE(ptr,$19257C)
+カチカチおにぎりが出るストラップ。[LINE]
+歯が弱い人は要注意。[LINE]
+顎が鍛えられます。[END]
+
+//Text $1B8818
+#WRITE(ptr,$1925A8)
+[Sign_3]パサパサンドイッチ[END]
+
+//Text $1B87B8
+#WRITE(ptr,$1925AC)
+パサパサンドイッチが出るストラップ。[LINE]
+なるべく早くに食べましょう。[LINE]
+喉につまってしょうがない。[END]
+
+//Text $1B8778
+#WRITE(ptr,$1925D8)
+[Sign_3]圧縮ハンバーガー[END]
+
+//Text $1B8710
+#WRITE(ptr,$1925DC)
+圧縮ハンバーガーが出るストラップ。[LINE]
+誰かのお尻の下敷きになったに違い[LINE]
+ない。食べやすくはなりました。[END]
+
+//Text $1B86D8
+#WRITE(ptr,$192608)
+[Sign_3]炭ドッグ[END]
+
+//Text $1B8680
+#WRITE(ptr,$19260C)
+炭ドッグが出るストラップ。[LINE]
+焼きすぎた！すっかり焦げた[LINE]
+ソーセージは苦い味がした。[END]
+
+//Text $1B8640
+#WRITE(ptr,$192638)
+[Sign_3]Soggy Burrito[END]
+
+//Text $1B85E0
+#WRITE(ptr,$19263C)
+しなしなブリトーが出るストラップ。[LINE]
+だいぶ時間が過ぎちゃった？[LINE]
+溶けて固くなったチーズが悲しい。[END]
+
+//Text $1B85B0
+#WRITE(ptr,$192668)
+[Sign_3]半生ケバブ[END]
+
+//Text $1B8550
+#WRITE(ptr,$19266C)
+半生ケバブが出るストラップ。[LINE]
+お肉はしっかり焼いてください。[LINE]
+お腹が痛くなりませんように……[END]
+
+//Text $1B8518
+#WRITE(ptr,$192698)
+[Sign_3]闇丼[END]
+
+//Text $1B84B8
+#WRITE(ptr,$19269C)
+闇丼が出るストラップ。[LINE]
+様々なものがつっこまれた恐怖の丼。[LINE]
+まずい日もあれば美味い日もある？[END]
+
+//Text $1B8480
+#WRITE(ptr,$1926C8)
+[Sign_3]闇鍋[END]
+
+//Text $1B8430
+#WRITE(ptr,$1926CC)
+闇鍋が出るストラップ。[LINE]
+何が入っているのかわからない！[LINE]
+食べる時は暗闇で。[END]
+
+//Text $1BA1B8
+#WRITE(ptr,$191DAC)
+のりパリ[END]
+
+//Text $1BA1A8
+#WRITE(ptr,$191DB0)
+コラボのりパリ[END]
+
+//Text $1BA198
+#WRITE(ptr,$191DB4)
+手巻き寿司[END]
+
+//Text $1BA110
+#WRITE(ptr,$191DDC)
+シャキシャキ[END]
+
+//Text $1BA0F8
+#WRITE(ptr,$191DE0)
+コラボシャキシャキ[END]
+
+//Text $1BA0E0
+#WRITE(ptr,$191DE4)
+ハムエッグサンド[END]
+
+//Text $1BA058
+#WRITE(ptr,$191E0C)
+黄金比率[END]
+
+//Text $1BA048
+#WRITE(ptr,$191E10)
+コラボ黄金比率[END]
+
+//Text $1BA038
+#WRITE(ptr,$191E14)
+ダブルバーガー[END]
+
+//Text $1B9FB8
+#WRITE(ptr,$191E3C)
+ダブル[END]
+
+//Text $1B9FA8
+#WRITE(ptr,$191E40)
+コラボダブル[END]
+
+//Text $1B9F98
+#WRITE(ptr,$191E44)
+チリドッグ[END]
+
+//Text $1B9F20
+#WRITE(ptr,$191E6C)
+ほくほく[END]
+
+//Text $1B9F10
+#WRITE(ptr,$191E70)
+コラボほくほく[END]
+
+//Text $1B9F08
+#WRITE(ptr,$191E74)
+春巻き[END]
+
+//Text $1B9E90
+#WRITE(ptr,$191E9C)
+あつあつ[END]
+
+//Text $1B9E80
+#WRITE(ptr,$191EA0)
+コラボあつあつ[END]
+
+//Text $1B9E78
+#WRITE(ptr,$191EA4)
+焼き鳥[END]
+
+//Text $1B9E08
+#WRITE(ptr,$191ECC)
+すご[END]
+
+//Text $1B9DF8
+#WRITE(ptr,$191ED0)
+コラボすご[END]
+
+//Text $1B9DE8
+#WRITE(ptr,$191ED4)
+きつねうどん[END]
+
+//Text $1B9D88
+#WRITE(ptr,$191EFC)
+千夜[END]
+
+//Text $1B9D78
+#WRITE(ptr,$191F00)
+コラボ千夜[END]
+
+//Text $1B9D68
+#WRITE(ptr,$191F04)
+みそ漬け[END]
+
+//Text $1B9CF0
+#WRITE(ptr,$191F2C)
+かつ[END]
+
+//Text $1B9CE0
+#WRITE(ptr,$191F30)
+コラボかつ[END]
+
+//Text $1B9CD0
+#WRITE(ptr,$191F34)
+さけ茶漬け[END]
+
+//Text $1B9C50
+#WRITE(ptr,$191F5C)
+パラパラ[END]
+
+//Text $1B9C40
+#WRITE(ptr,$191F60)
+コラボパラパラ[END]
+
+//Text $1B9C30
+#WRITE(ptr,$191F64)
+エビピラフ[END]
+
+//Text $1B9BB0
+#WRITE(ptr,$191F8C)
+ふわふわ[END]
+
+//Text $1B9BA0
+#WRITE(ptr,$191F90)
+コラボふわふわ[END]
+
+//Text $1B9B90
+#WRITE(ptr,$191F94)
+クレープ[END]
+
+//Text $1B9B10
+#WRITE(ptr,$191FBC)
+辛口[END]
+
+//Text $1B9B00
+#WRITE(ptr,$191FC0)
+コラボ辛口[END]
+
+//Text $1B9AF0
+#WRITE(ptr,$191FC4)
+カレーうどん[END]
+
+//Text $1B9A70
+#WRITE(ptr,$191FEC)
+思わず[END]
+
+//Text $1B9A60
+#WRITE(ptr,$191FF0)
+コラボ思わず[END]
+
+//Text $1B9A50
+#WRITE(ptr,$191FF4)
+チーズオムレツ[END]
+
+//Text $1B99D8
+#WRITE(ptr,$19201C)
+山の幸[END]
+
+//Text $1B99C8
+#WRITE(ptr,$192020)
+コラボ山の幸[END]
+
+//Text $1B99B8
+#WRITE(ptr,$192024)
+煮込みラーメン[END]
+
+//Text $1B9940
+#WRITE(ptr,$19204C)
+武勇[END]
+
+//Text $1B9930
+#WRITE(ptr,$192050)
+コラボ武勇[END]
+
+//Text $1B9918
+#WRITE(ptr,$192054)
+豚のしょうが焼き[END]
+
+//Text $1B98A0
+#WRITE(ptr,$19207C)
+マフ[END]
+
+//Text $1B9890
+#WRITE(ptr,$192080)
+コラボマフ[END]
+
+//Text $1B9880
+#WRITE(ptr,$192084)
+蒸しぱん[END]
+
+//Text $1B9818
+#WRITE(ptr,$1920AC)
+激辛[END]
+
+//Text $1B9808
+#WRITE(ptr,$1920B0)
+コラボ激辛[END]
+
+//Text $1B97F0
+#WRITE(ptr,$1920B4)
+キムチチャーハン[END]
+
+//Text $1B9780
+#WRITE(ptr,$1920DC)
+回鍋[END]
+
+//Text $1B9770
+#WRITE(ptr,$1920E0)
+コラボ回鍋[END]
+
+//Text $1B9760
+#WRITE(ptr,$1920E4)
+カレーまん[END]
+
+//Text $1B96E8
+#WRITE(ptr,$19210C)
+コロコ[END]
+
+//Text $1B96D8
+#WRITE(ptr,$192110)
+コラボコロコ[END]
+
+//Text $1B96C8
+#WRITE(ptr,$192114)
+ライスバーガー[END]
+
+//Text $1B9658
+#WRITE(ptr,$19213C)
+特盛[END]
+
+//Text $1B9648
+#WRITE(ptr,$192140)
+コラボ特盛[END]
+
+//Text $1B9638
+#WRITE(ptr,$192144)
+まんぼう丼[END]
+
+//Text $1B95C8
+#WRITE(ptr,$19216C)
+二代目[END]
+
+//Text $1B95B8
+#WRITE(ptr,$192170)
+コラボ二代目[END]
+
+//Text $1B95A8
+#WRITE(ptr,$192174)
+いくら丼[END]
+
+//Text $1B9528
+#WRITE(ptr,$19219C)
+とびきり[END]
+
+//Text $1B9518
+#WRITE(ptr,$1921A0)
+コラボとびきり[END]
+
+//Text $1B9510
+#WRITE(ptr,$1921A4)
+うに丼[END]
+
+//Text $1B9480
+#WRITE(ptr,$1921CC)
+こってり[END]
+
+//Text $1B9470
+#WRITE(ptr,$1921D0)
+コラボこってり[END]
+
+//Text $1B9460
+#WRITE(ptr,$1921D4)
+ビーフシチュー[END]
+
+//Text $1B93E8
+#WRITE(ptr,$1921FC)
+リゾート[END]
+
+//Text $1B93D8
+#WRITE(ptr,$192200)
+コラボリゾート[END]
+
+//Text $1B93C8
+#WRITE(ptr,$192204)
+カルビクッパ[END]
+
+//Text $1B9338
+#WRITE(ptr,$19222C)
+とろとろ[END]
+
+//Text $1B9328
+#WRITE(ptr,$192230)
+コラボとろとろ[END]
+
+//Text $1B9318
+#WRITE(ptr,$192234)
+豚の角煮[END]
+
+//Text $1B92A0
+#WRITE(ptr,$19225C)
+特製[END]
+
+//Text $1B9290
+#WRITE(ptr,$192260)
+コラボ特製[END]
+
+//Text $1B9278
+#WRITE(ptr,$192264)
+トマトスパゲッティ[END]
+
+//Text $1B91F8
+#WRITE(ptr,$19228C)
+オニオン[END]
+
+//Text $1B91E8
+#WRITE(ptr,$192290)
+コラボオニオン[END]
+
+//Text $1B91E0
+#WRITE(ptr,$192294)
+ドリア[END]
+
+//Text $1B9170
+#WRITE(ptr,$1922BC)
+デミ[END]
+
+//Text $1B9160
+#WRITE(ptr,$1922C0)
+コラボデミ[END]
+
+//Text $1B9150
+#WRITE(ptr,$1922C4)
+カルボナーラ[END]
+
+//Text $1B90D0
+#WRITE(ptr,$1922EC)
+半端ない[END]
+
+//Text $1B90C0
+#WRITE(ptr,$1922F0)
+コラボ半端ない[END]
+
+//Text $1B90A8
+#WRITE(ptr,$1922F4)
+チーズハンバーグ[END]
+
+//Text $1B9030
+#WRITE(ptr,$19231C)
+１ポンド[END]
+
+//Text $1B9020
+#WRITE(ptr,$192320)
+コラボ１ポンド[END]
+
+//Text $1B9008
+#WRITE(ptr,$192324)
+サイコロステーキ[END]
+
+//Text $1B8F90
+#WRITE(ptr,$19234C)
+かなり[END]
+
+//Text $1B8F80
+#WRITE(ptr,$192350)
+コラボかなり[END]
+
+//Text $1B8F70
+#WRITE(ptr,$192354)
+たこ焼き[END]
+
+//Text $1B8EF8
+#WRITE(ptr,$19237C)
+結構[END]
+
+//Text $1B8EE8
+#WRITE(ptr,$192380)
+コラボ結構[END]
+
+//Text $1B8ED8
+#WRITE(ptr,$192384)
+しゃぶしゃぶ[END]
+
+//Text $1B8E68
+#WRITE(ptr,$1923AC)
+お[END]
+
+//Text $1B8E58
+#WRITE(ptr,$1923B0)
+コラボお[END]
+
+//Text $1B8E40
+#WRITE(ptr,$1923B4)
+トロのあぶり握り[END]
+
+//Text $1B8DC8
+#WRITE(ptr,$1923DC)
+大[END]
+
+//Text $1B8DB8
+#WRITE(ptr,$1923E0)
+コラボ大[END]
+
+//Text $1B8DA8
+#WRITE(ptr,$1923E4)
+特上にぎり寿司[END]
+
+//Text $1B8D20
+#WRITE(ptr,$19240C)
+ワンダ[END]
+
+//Text $1B8D10
+#WRITE(ptr,$192410)
+コラボワンダ[END]
+
+//Text $1B8D00
+#WRITE(ptr,$192414)
+フルーツサラダ[END]
+
+//Text $1B8C70
+#WRITE(ptr,$19243C)
+ビューチ[END]
+
+//Text $1B8C60
+#WRITE(ptr,$192440)
+コラボビューチ[END]
+
+//Text $1B8C50
+#WRITE(ptr,$192444)
+くんせいチーズ[END]
+
+//Text $1B8BD0
+#WRITE(ptr,$19246C)
+パワ[END]
+
+//Text $1B8BC0
+#WRITE(ptr,$192470)
+コラボパワ[END]
+
+//Text $1B8BB0
+#WRITE(ptr,$192474)
+とうふステーキ[END]
+
+//Text $1B8B40
+#WRITE(ptr,$19249C)
+魚[END]
+
+//Text $1B8B30
+#WRITE(ptr,$1924A0)
+コラボ魚[END]
+
+//Text $1B8B20
+#WRITE(ptr,$1924A4)
+みそ煮込み[END]
+
+//Text $1B8AB0
+#WRITE(ptr,$1924CC)
+深海[END]
+
+//Text $1B8AA0
+#WRITE(ptr,$1924D0)
+コラボ深海[END]
+
+//Text $1B8A90
+#WRITE(ptr,$1924D4)
+魚肉ソーセージ[END]
+
+//Text $1B8A28
+#WRITE(ptr,$1924FC)
+親[END]
+
+//Text $1B8A18
+#WRITE(ptr,$192500)
+コラボ親[END]
+
+//Text $1B8A00
+#WRITE(ptr,$192504)
+まんぼうの天ぷら[END]
+
+//Text $1B8980
+#WRITE(ptr,$19252C)
+あわせ[END]
+
+//Text $1B8970
+#WRITE(ptr,$192530)
+コラボあわせ[END]
+
+//Text $1B8960
+#WRITE(ptr,$192534)
+みそ田楽[END]
+
+//Text $1B88E0
+#WRITE(ptr,$19255C)
+ウ[END]
+
+//Text $1B88D0
+#WRITE(ptr,$192560)
+コラボウ[END]
+
+//Text $1B88C0
+#WRITE(ptr,$192564)
+マーボー豆腐[END]
+
+//Text $1B8850
+#WRITE(ptr,$19258C)
+目がチ[END]
+
+//Text $1B8840
+#WRITE(ptr,$192590)
+コラボ目がチ[END]
+
+//Text $1B8830
+#WRITE(ptr,$192594)
+焼きおにぎり[END]
+
+//Text $1B87B0
+#WRITE(ptr,$1925BC)
+パサ[END]
+
+//Text $1B87A0
+#WRITE(ptr,$1925C0)
+コラボパサ[END]
+
+//Text $1B8790
+#WRITE(ptr,$1925C4)
+クラッカー[END]
+
+//Text $1B8708
+#WRITE(ptr,$1925EC)
+非[END]
+
+//Text $1B86F8
+#WRITE(ptr,$1925F0)
+コラボ非[END]
+
+//Text $1B86E8
+#WRITE(ptr,$1925F4)
+カツサンド[END]
+
+//Text $1B8678
+#WRITE(ptr,$19261C)
+活性[END]
+
+//Text $1B8668
+#WRITE(ptr,$192620)
+コラボ活性[END]
+
+//Text $1B8658
+#WRITE(ptr,$192624)
+こんがりドッグ[END]
+
+//Text $1B85D8
+#WRITE(ptr,$19264C)
+懐か[END]
+
+//Text $1B85C8
+#WRITE(ptr,$192650)
+コラボ懐か[END]
+
+//Text $1B85C0
+#WRITE(ptr,$192654)
+ナン[END]
+
+//Text $1B8548
+#WRITE(ptr,$19267C)
+四[END]
+
+//Text $1B8538
+#WRITE(ptr,$192680)
+コラボ四[END]
+
+//Text $1B8528
+#WRITE(ptr,$192684)
+バーベキュー[END]
+
+//Text $1B84B0
+#WRITE(ptr,$1926AC)
+光と[END]
+
+//Text $1B84A0
+#WRITE(ptr,$1926B0)
+コラボ光と[END]
+
+//Text $1B8490
+#WRITE(ptr,$1926B4)
+究極暗黒鍋[END]
+
+//Text $1B8428
+#WRITE(ptr,$1926DC)
+深[END]
+
+//Text $1B8418
+#WRITE(ptr,$1926E0)
+コラボ深[END]
+
+//Text $1B8408
+#WRITE(ptr,$1926E4)
+至高暗黒丼[END]
