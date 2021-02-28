@@ -1,0 +1,37 @@
+###
+open FDDE "tbl"
+open FDDE "bin" 1
+
+comtype lzss0
+xmath MASK  "1 << 6"
+get FILES asize
+math FILES / 8
+for i = 0 < FILES
+    get OFFSET long
+    get SIZE threebyte
+    get DUMMY byte # ???
+
+    xmath DIFF   "OFFSET & (MASK-1)"
+    xmath OFFSET "OFFSET & (-MASK)"
+    putarray 0 i OFFSET
+    putarray 1 i SIZE
+    putarray 2 i DIFF
+next i
+    get OFFSET asize 1  # useless since it's FILES-1
+    putarray 0 i OFFSET
+
+for i = 0 < FILES
+    getarray OFFSET 0 i
+    getarray SIZE   1 i # in some files it's the decompression size
+                        # in others doesn't have any sense
+    getarray DIFF   2 i
+    math i + 1
+    getarray ZSIZE  0 i
+    math ZSIZE - OFFSET
+    math ZSIZE - DIFF
+    if ZSIZE != 0
+        print "INFO %OFFSET|x% %ZSIZE|x% %SIZE|x%"
+        #log "" OFFSET ZSIZE 1
+    endif
+next
+###

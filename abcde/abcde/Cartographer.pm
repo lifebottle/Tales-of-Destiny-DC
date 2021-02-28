@@ -426,7 +426,7 @@ sub processBlocks {
 				} # else: bytes are already in the right order
 				$stringAddress_bit = oct('0b'.$stringAddress_bit) * 8; # convert from ROM's byte address to our bit address
 				if ($block->{'METHOD'} eq 'POINTER_RELATIVE') {
-					$stringAddress_bit -= $block->{'BASE POINTER'};
+					$stringAddress_bit += $block->{'BASE POINTER'};
 				} elsif ($block->{'METHOD'} eq 'POINTER_RELATIVE_PC') {
 					# Cartographer's #METHOD: POINTER_RELATIVE_PC appears to be completely broken:
 					# the documentation is self-contradictory and the code appears to reject any attempt at using POINTER_RELATIVE_PC with any of the documented commands.

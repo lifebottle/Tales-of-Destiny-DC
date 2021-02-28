@@ -338,7 +338,7 @@ select<00>
 [ENDBLOCK]
 κF<1D>fP<14><13>d<10>o«D<10><0F>«•ΰ<0F>t<00>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«•ΰ<0F>t<04>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«•ΰ<0F>t<08>ª€<__><00>
 [ENDBLOCK]
-κF<1D>fP<14><13>d<10>o«D<10><0F>«!‹•ΰ<0F>t<00>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«!‹•ΰ<0F>t<04>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«!‹•ΰ<0F>t<08>ª€<__><00>
+κF<1D>fP<14><13>d<10>o«D<10><0F>«!‹•?<0F>t<00>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«!‹•?<0F>t<04>ª€, <1D>fP<14><13>d<10>o«D<10><0F>«!‹•?<0F>t<08>ª€<__><00>
 [ENDBLOCK]
 ƒMƒ~ƒbƒNF<17>f<10><0F>p<08>«€<__><00>
 [ENDBLOCK]
@@ -362,7 +362,7 @@ select<00>
 [ENDBLOCK]
 TZƒƒ‚ƒΑ”οF<17>r<00>€ƒoƒCƒgiΐΫ‚Ν‚ΰ‚Α‚ΖΈ‚Α‚Δ‚Ά‚ά‚·j<__><00>
 [ENDBLOCK]
-cκ‚€ƒ‚ƒΑ”οF<17>r<00>€ƒoƒCƒgiΐΫ‚Ν‚ΰ‚Α‚ΖΈ‚Α‚Δ‚Ά‚ά‚·j<__><00>
+cκ‚?€ƒ‚ƒΑ”οF<17>r<00>€ƒoƒCƒgiΐΫ‚Ν‚ΰ‚Α‚ΖΈ‚Α‚Δ‚Ά‚ά‚·j<__><00>
 [ENDBLOCK]
 ­”N<00>
 [ENDBLOCK]
@@ -668,21 +668,21 @@ select<00>
 [ENDBLOCK]
 ƒvƒƒCƒ„[-----><__><00>
 [ENDBLOCK]
-»έσ‘ΤF<17>q€ΰ<15>€<__><00>
+»έσ‘ΤF<17>q€?<15>€<__><00>
 [ENDBLOCK]
-»έό”F<17>q€δ<15>€<__><00>
+»έό”F<17>q€?<15>€<__><00>
 [ENDBLOCK]
-»ƒtƒ‰ƒOF<17>q€θ<15>€<__><00>
+»ƒtƒ‰ƒOF<17>q€?<15>€<__><00>
 [ENDBLOCK]
 –Ϊ•Wΐ•WF<1D>eπ<15><13>d<10>o«xP <0F>«t<00>ª€, <1D>eπ<15><13>d<10>o«xP <0F>«t<04>ª€, <1D>eπ<15><13>d<10>o«xP <0F>«t<08>ª€<__><00>
 [ENDBLOCK]
 ƒ}ƒbƒn­”N-----><__><00>
 [ENDBLOCK]
-»έσ‘ΤF<17>q€<15>€<__><00>
+»έσ‘ΤF<17>q€?<15>€<__><00>
 [ENDBLOCK]
-»έό”F<17>q€<15>€<__><00>
+»έό”F<17>q€?<15>€<__><00>
 [ENDBLOCK]
-»ƒtƒ‰ƒOF<17>q€”<15>€<__><00>
+»ƒtƒ‰ƒOF<17>q€?<15>€<__><00>
 [ENDBLOCK]
 –Ϊ•Wΐ•WF<1D>e΄<15><13>d<10>o«xP <0F>«t<00>ª€, <1D>e΄<15><13>d<10>o«xP <0F>«t<04>ª€, <1D>e΄<15><13>d<10>o«xP <0F>«t<08>ª€<__><00>
 [ENDBLOCK]
@@ -870,11 +870,11 @@ select<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚¬‚αA‹t‚Ιε·ω‚Ν‰ί‹‚Μ–‚π<__>‚ΆA‚Ά‚Β‚ά‚Ε‚ΰψ‚«‚Έ‚ι‚»‚¤‚Ε‚·‚νB<00>
+‚¬‚αA‹t‚Ιε·?‚Ν‰ί‹‚Μ–‚π<__>‚ΆA‚Ά‚Β‚ά‚Ε‚ΰψ‚«‚Έ‚ι‚»‚¤‚Ε‚·‚νB<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚±A‚±‚Με·ω‚Μs“®‚Ν’Κΰ“I‚Ι‚Ν<__>‚¶‚εA—«‚Ι™‚νcc<00>
+‚±A‚±‚Με·?‚Μs“®‚Ν’Κΰ“I‚Ι‚Ν<__>‚¶‚εA—«‚Ι™‚νcc<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -974,7 +974,7 @@ select<00>
 [ENDBLOCK]
 <Lilith><00>
 [ENDBLOCK]
-ι‹ν‘‹³‚¦‚Δ—~‚µ‚©‚Α‚½‚Μ‚Ιcc<00>
+ι‹ϊ­‹³‚¦‚Δ—~‚µ‚©‚Α‚½‚Μ‚Ιcc<00>
 [ENDBLOCK]
 <00>
 [ENDBLOCK]
@@ -1154,7 +1154,7 @@ select<00>
 [ENDBLOCK]
 q‹<00>
 [ENDBLOCK]
-ƒAƒCƒXƒLƒƒƒ“ƒfƒB[‚Α‚Δ’m‚Α‚Δ‚ιH<__>‚±‚ΜX‚Μι‹ς‚ζB<00>
+ƒAƒCƒXƒLƒƒƒ“ƒfƒB[‚Α‚Δ’m‚Α‚Δ‚ιH<__>‚±‚ΜX‚Μι‹?‚ζB<00>
 [ENDBLOCK]
 q‹<00>
 [ENDBLOCK]
@@ -1372,31 +1372,31 @@ notice<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚«‚κ‚Ά‚Θ’¬•ΐ‚έ‚Ε‚·‚ΛB<__>V‚µ‚­‚Δ—§”h‚Θ•¨‚ª‚½‚­‚³‚ρB<00>
+What a magnificent town. There are<__>so many new, beautiful buildings.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-ƒIƒxƒƒ“Π‚Μ‘–{‚ª“ό‚Α‚ΔA<__>‚±‚±Ε‹ί‚Ε‹}¬’·‚µ‚½‚η‚µ‚Ά‚ν‚ζB<00>
+With the Oberon Company funding, it<__>looks like there's been a lot of<__>rapid growth here recently.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚±‚ρ‚Θ‚Ι”­“W‚µ‚Δ‚Ά‚ι‚Θ‚ρ‚ΔA<__>v‚Ά‚ά‚Ή‚ρ‚Ε‚µ‚½B‚ΰ‚Α‚Ζcc<00>
+I had no idea it was this developed...<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-“cΙ‚Ύ‚Ζv‚Α‚Δ‚½‚ν‚―‚ΛH<00>
+ What, did you think it was all rural?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚»A‚»‚ρ‚Θ–‚ΝB<00>
+Th-that's?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-‚·A‚·‚έ‚ά‚Ή‚ρA<Stahn>‚³‚ρB<00>
+S-sorry, <Stahn>.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ ‚κA‚ ‚Ά‚Βcc<00>
+Hey, that guy...<00>
 [ENDBLOCK]
 HHHH<00>
 [ENDBLOCK]
@@ -1404,167 +1404,167 @@ notice<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Bacchus>‚¶‚α‚Θ‚Ά‚©I<00>
+Hey, <Bacchus>!<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-’N‚ΎH<00>
+Who?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-ƒ[ƒl‚Μ‘Ί‚Μ—c‚Θ‚¶‚έ‚³B<__>‚Ά‚β‚ A‹τ‘R‚Ύ‚Θ‚ I<00>
+He's a childhood friend from Lienea.<__>Wow, what a coincidence!!<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-ƒmƒCƒVƒ…ƒ^ƒbƒg‚Φ”ƒo‚µ‚Ι—‚ΔA<__>‚¨‚ά‚¦‚Ι‰ο‚¤‚Ζ‚Νv‚ν‚Θ‚©‚Α‚½‚ΌI<00>
+I came to Neuestadt to shop, but I<__>never thought I'd meet you here!<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚Ά‚«‚Θ‚θ‘Ί‚π”ς‚Ρo‚µ‚β‚ª‚Α‚ΔB<__>‚ ‚κ‚©‚η‘ε‘›‚¬‚Ύ‚Α‚½‚ρ‚Ύ‚©‚η‚ΘB<00>
+You took off so suddenly,<__>It kicked up a huge fuss.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¤cc‚»‚¤‚©cc<00>
+Ah? yeah...<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-‚Β‚ά‚θ‰Ζo‚©B•π‚κ‚½“z‚ΎB<00>
+In other words, you ran away from<__>home. You really are something else.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚¤‚ι‚³‚ΆB<00>
+Shut up.<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚»‚κ‚ΕA‚Ά‚Β‘Ί‚Ι–ί‚Α‚Δ‚­‚ι‹C‚ΎH<00>
+So yeah, when are you coming<__>back to the village?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-cc–ί‚ι‚Β‚ΰ‚θ‚Ν‚Θ‚ΆB<00>
+...I'm probably not coming back.<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚¨‚Άcc<00>
+Hey...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‰΄A‚Η‚¤‚µ‚Δ‚ΰA<__>‚β‚η‚Θ‚­‚Ώ‚α‚Ά‚―‚Θ‚Ά–‚ª‚ ‚ι‚ρ‚ΎB<00>
+There's something I have<__>to do no matter what.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-Ϊ‚µ‚Ά–ξ‚Νb‚Ή‚Θ‚Ά‚―‚Ηcc<__>‚Ζ‚Ι‚©‚­A΅‚Ν–ί‚η‚Θ‚ΆB<00>
+I can't really tell you the details...<__>But at any rate, I can't come<__>home right now.<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚β‚κ‚β‚κB‚¨‚ά‚¦‚Νκ“xΎ‚Άo‚µ‚½‚ηA<__>•·‚©‚Θ‚Ά‚©‚η‚ΘB<00>
+Jeez. If you say it like that,<__>I'm not gonna ask.<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚Ύ‚Α‚½‚η‚Ή‚ί‚ΔA‰Ζ‘°‚Ιθ†‚Ε‚ΰ‘‚―B<__><Lilith>‚Ώ‚α‚ρAS”z‚µ‚Δ‚ι‚ΌH<00>
+But you should at least write a<__>letter to your family. Lilith is<__>worried, you know?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-cc‚ν‚©‚Α‚½B<00>
+...Sure.<00>
 [ENDBLOCK]
 <Bacchus><00>
 [ENDBLOCK]
-‚¶‚α‚ A‰΄‚Νs‚­‚©‚η‚ΘB<00>
+Well, I'll be going now.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-‚ ‚ Aΰ’ΖD‚Ε‚ΘB<00>
+Okay, see you around.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-—]v‚ΘS”z‚©‚―‚½‚­‚Θ‚­‚ΔA<__><Greybum>‚Μ––Ω‚Α‚Δ‚½‚―‚Ηcc<00>
+I didn't want to needlessly worry<__>them, so Ifve kept quiet about<__><Greybum>...<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-‚»‚κ‚Ε³‰π‚ΎB<00>
+That's the right choice.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-<Mary>‚Μp‚ª©‚¦‚Θ‚Ά‚ν‚ΛB<00>
+I don't see <Mary> anymore.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-‚Η‚±s‚Α‚Δ‚½‚ΜH<00>
+Where did you go?<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-ƒAƒCƒXƒLƒƒƒ“ƒfƒB[‰®B<00>
+Ice cream stand.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-‰½‚Π‚Ζ‚θ‚Ε”ƒ‚ΆH‚Ά‚µ‚Δ‚ρ‚Μ‚ζB<00>
+Why are you going off and getting<__>one by yourself?<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-‚¨‚Ά‚µ‚©‚Α‚½B<00>
+It was yummy...<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚³‚Α‚³‚Ζ<Ilene>‚Μ‰®•~‚Φs‚­‚ΌB<00>
+Can we get going to <Ilene>'s estate now.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚¨‚ΆA‚¨‚ά‚¦B<__>‚±‚κ‚Ν‚Η‚¤‚Ά‚¤–‚Ύ!?<00>
+Hey, you. What the<__>hell is this!?<00>
 [ENDBLOCK]
-Β”N<00>
+Child<00>
 [ENDBLOCK]
-‚µA’m‚θ‚ά‚Ή‚ρ‚ζBC‚©‚η‹}‚Ι<__>ƒ‚ƒ“ƒXƒ^[‚ª‰‚µρ‚Ή‚Δ‚«‚ΔI<00>
-[ENDBLOCK]
-<Lion><00>
-[ENDBLOCK]
-ƒ‚ƒ“ƒXƒ^[‚Μ”‚Ν‚Η‚Μ‚­‚η‚Ά‚ΎB<00>
-[ENDBLOCK]
-Β”N<00>
-[ENDBLOCK]
-‚ΰ‚¤A‚¤‚¶‚α‚¤‚¶‚α‚Ε‚·‚ζI<00>
+Shh... I don't know. Monsters came<__>rushing in from the ocean!<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚­‚»A<Stahn>‚½‚Ώ‚Ν‚Η‚±‚Φs‚Α‚½‚ρ‚ΎB<__>‚³‚·‚ª‚Ι–l‚Π‚Ζ‚θ‚¶‚αA‚Η‚¤‚Ι‚ΰ‚Θ‚η‚Θ‚Ά‚ΌB<00>
+How many were there?<00>
+[ENDBLOCK]
+Child<00>
+[ENDBLOCK]
+I don't know, they were<__>all over the place.<00>
+[ENDBLOCK]
+<Lion><00>
+[ENDBLOCK]
+Damn, where are Stahn and the others?<__>I can't manage this on my own, you know.<00>
 [ENDBLOCK]
 <Chaltier><00>
 [ENDBLOCK]
-cc‚Σ‚ΣB<00>
+...haha<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚±‚ρ‚Θ‚Ι‰½‚πΞ‚Α‚Δ‚Ά‚ι‚ρ‚ΎAƒVƒƒƒ‹B<00>
+What are you laughing about<__>at a time like this, Char?<00>
 [ENDBLOCK]
 <Chaltier><00>
 [ENDBLOCK]
-‚ A‚Ά‚¦‚Ά‚¦B‚»‚¤‚Ε‚·‚ΛB<__>‚έ‚ρ‚ΘA‚Η‚±‚Φs‚Α‚½‚ρ‚Ε‚µ‚ε‚¤B<00>
+Oh, no, no. That's right. I wonder<__>where everyone went.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚»‚κ‚ΙA<Ilene>‚Μ–‚ΰS”z‚ΎB<__>–³–‚Ε‚Ά‚Δ‚­‚κ‚ι‚Ζ‚Ά‚Ά‚ªcc<00>
+And I'm also worried about <Ilene>.<__>I hope she's okay...<00>
 [ENDBLOCK]
-Β”N<00>
+Child<00>
 [ENDBLOCK]
-<Ilene>‚³‚ρ‚Θ‚ηA‚³‚Α‚«©‚½–‚Θ‚ΆA’†‚Ζ<__>“¬‹Zκ‚Ιό‚©‚Ά‚ά‚µ‚½‚ζB<00>
-[ENDBLOCK]
-<Lion><00>
-[ENDBLOCK]
-–{“–‚©I<00>
-[ENDBLOCK]
-Β”N<00>
-[ENDBLOCK]
-‚»‚ρ‚Θ–A‰R‚Β‚«‚ά‚Ή‚ρ‚ζB<__>‚ΰ‚¤A„s‚Α‚Δ‚Ά‚Ά‚Ε‚·‚©!?<00>
+<Ilene> just left for the arena<__>with a group of people I've never<__>seen before.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚ζ‚µAs‚―B<00>
+Really?!<00>
+[ENDBLOCK]
+Child<00>
+[ENDBLOCK]
+I wouldn't lie to you about<__>that. Can I go now?<00>
+[ENDBLOCK]
+<Lion><00>
+[ENDBLOCK]
+Okay, go.<00>
 [ENDBLOCK]
 <Chaltier><00>
 [ENDBLOCK]
-<Ilene>‚Ζκ‚Ι‚Ά‚ιA’†‚Α‚ΔA<__><Stahn>‚½‚Ώ‚Ύ‚Ζv‚Ά‚ά‚Ή‚ρH<00>
+Do you think the people with <Ilene>,<__>are <Stahn> and the others?<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-‚ή‚µ‚λ‚»‚¤‚ ‚Α‚Δ—~‚µ‚Ά‚Ζ‚±‚λ‚ΎB<__>‚ζ‚µ“¬‹Zκ‚Φό‚©‚¤‚ΌB<00>
+I'd rather that be the case. All<__>right, let's head for the arena.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -1598,39 +1598,39 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-Μ†F<turquoise><1A>,<0_0><05><00>q€<00><19>€<00>
+Μ†F<turquoise><1A>,<0_0><05><00>q€<00><19>?€<00>
 [ENDBLOCK]
 <18>eό<18><00><TAG_014>‚πζ“Ύ‚µ‚ά‚µ‚½B<__><00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 <turquoise>πΥΜ†<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 <turquoise>‰·ςΜ†<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 <turquoise>©—RΜ†<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 Μ†F<turquoise>ƒiƒ`ƒ…ƒƒ“ƒWƒƒ[<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 Μ†F<turquoise>ƒ_ƒbƒVƒ…ƒVƒ[ƒY<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 <turquoise>Ε‹­‚ΜΜ†<00>
 [ENDBLOCK]
-<19>i€π<18>€‚½‚Ώ‚Ν<00>
+<19>i€?<18>€‚½‚Ώ‚Ν<00>
 [ENDBLOCK]
 <turquoise>ƒNƒCƒYΜ†<00>
 [ENDBLOCK]
-<19>i€π<18>€‚Ν<00>
+<19>i€?<18>€‚Ν<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -1640,7 +1640,7 @@ camtgt -><17>r@<14>€/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
+<1A> r<0C>?€‚Ν<__>‚·‚Ε‚Ι‚Α‚Δ‚Ά‚ά‚·B<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]

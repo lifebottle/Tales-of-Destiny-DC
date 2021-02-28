@@ -1,4 +1,4 @@
-Å~Å~Å~Å~Å~Å~ãÛ?
+Å~Å~Å~Å~Å~Å~ãÛû
 [ENDBLOCK]
 VénÅ~Å~Å~Å~Å~Å~<__><00>
 [ENDBLOCK]
@@ -24,7 +24,7 @@ If you leave the city and head north,<__>you'll find the capital city, Kalviola.
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-...Why, do I have to,<__>teach this to strangers!<00>
+...Why, do I have to,<__>teach this to foreigners!<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
@@ -46,29 +46,29 @@ Boy<00>
 [ENDBLOCK]
 I took out a lens.<__>It's only one.<00>
 [ENDBLOCK]
-Pawn Shop<00>
+Item Shop<00>
 [ENDBLOCK]
 How may I help you?<00>
 [ENDBLOCK]
-Pawn Shop<00>
+Item Shop<00>
 [ENDBLOCK]
 How may I help you?<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-I really don't want to<__>sell to a stranger.<00>
+I really don't want to<__>sell to a foreigner.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-...I'm not in a situation where<__>I can say I'm a stranger or anything.<00>
+...I'm not in a position where<__>I can turn down foreigners.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-I really don't want to<__>sell to a stranger.<00>
+I really don't want to<__>sell to a foreigners.<00>
 [ENDBLOCK]
-Dojo<00>
+Armor Shop<00>
 [ENDBLOCK]
-...I'm not in a situation where<__>I can say I'm a stranger or anything.<00>
+...I'm not in a position where<__>I can turn down foreigners.<00>
 [ENDBLOCK]
 Child<00>
 [ENDBLOCK]
@@ -86,27 +86,27 @@ Child<00>
 [ENDBLOCK]
 So, I can trust you guys?<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 That <Baruk> guy, looks like<__>someone I used to know...<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 ...Well, It's probably<__>just my imagination.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 <Baruk> Foundation? ...hmm.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 I haven't seen <Baruk> lately. <__>Not that I care.<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 Why should Calvalese be subjected to<__>the same treatment as the stranger<__>countries?<00>
 [ENDBLOCK]
-Uncle<00>
+Man<00>
 [ENDBLOCK]
 It doesn't matter if you're a stranger<__>or not. I'm looking forward to working<__>with you.<00>
 [ENDBLOCK]
@@ -160,15 +160,15 @@ I can only cheer for you, though.<__>Good luck to you.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-That's right. This is no<__>place for strangers.<00>
+That's right. This is no<__>place for foreigners.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-Where are we? The city of Cherik, the port city to Calvalese.<00>
+Where are we? The city of Cherik,<__>the port city to Calvalese.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
-Where are we? The city of Cherik, the port city to Calvalese.<00>
+Where are we? The city of Cherik,<__>the port city to Calvalese.<00>
 [ENDBLOCK]
 Boy<00>
 [ENDBLOCK]
@@ -240,11 +240,11 @@ Hone your skill a little more<__>and then come back.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>åªç›ÇÃèäéùÉKÉãÉh:<17>r<08>ÄÉKÉãÉh<00>
+<TAG_007>Current Gald: <17>r<08>Ä Gald<00>
 [ENDBLOCK]
 <TAG_007><17>f<10>+p<04>´Ä<18>f<10>+D<1C><03>´!ãË(Ä<__>ÇÕÇ¢<__>Ç¢Ç¢Ç¶<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>Ç™<00>
 [ENDBLOCK]
 ÉpÅ[ÉeÉBÇ…â¡ÇÌÇËÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
@@ -262,7 +262,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>?<TAG_014>Ç™<00>
+<TAG_007><S03><turquoise><TAG_013b>à<TAG_014>Ç™<00>
 [ENDBLOCK]
 ÉpÅ[ÉeÉBÇ©ÇÁî≤ÇØÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
@@ -270,7 +270,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-èÃçÜÅF<turquoise><1A>,<0_0><05><00>qH¨?Ä<00>
+èÃçÜÅF<turquoise><1A>,<0_0><05><00>qH¨òÄ<00>
 [ENDBLOCK]
 <18>eX®<00><TAG_014>ÇéÊìæÇµÇ‹ÇµÇΩÅB<__><00>
 [ENDBLOCK]
@@ -306,13 +306,13 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><18>eX?<00>Ä<__><18>eX§<00>Ä<00>
+<TAG_007><18>eX†<00>Ä<__><18>eX§<00>Ä<00>
 [ENDBLOCK]
 camtgt -><17>r@<14>Ä/<09><10>'<0_0><__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<1A> r<0C>?ÄÇÕ<__>Ç∑Ç≈Ç…éùÇ¡ÇƒÇ¢Ç‹Ç∑ÅB<__><00>
+<1A> r<0C>òÄÇÕ<__>Ç∑Ç≈Ç…éùÇ¡ÇƒÇ¢Ç‹Ç∑ÅB<__><00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -364,7 +364,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007><TAG_013b>?ÄÇÃÉ\Å[ÉfÉBÉAÉìÉfÉoÉCÉXÇ™<__>égópâ¬î\Ç…Ç»ÇËÇ‹ÇµÇΩÅB<00>
+<TAG_007><TAG_013b>àÄÇÃÉ\Å[ÉfÉBÉAÉìÉfÉoÉCÉXÇ™<__>égópâ¬î\Ç…Ç»ÇËÇ‹ÇµÇΩÅB<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]

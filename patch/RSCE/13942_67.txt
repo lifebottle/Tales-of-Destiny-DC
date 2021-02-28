@@ -412,21 +412,21 @@ notice<00>
 [ENDBLOCK]
 <ITEM_Elixir>はこれ以上<__>持てないようです。<__><00>
 [ENDBLOCK]
-神官<00>
+Priest<00>
 [ENDBLOCK]
-神殿内は祭礼の準備のため、関係者と<__>巡礼者以外の立ち入りを禁止しています。<00>
+Due to preparations for the festival,<__>the temple is closed to the public.<00>
 [ENDBLOCK]
-神官<00>
+Priest<00>
 [ENDBLOCK]
-申し訳ないが、出直してください。<00>
+I'm sorry, you'll have to<__>come back another time.<00>
 [ENDBLOCK]
-神官<00>
+Priest<00>
 [ENDBLOCK]
-夜の神殿への出入りは<__>禁止されています。<00>
+Entering the temple at night,<__>is not allowed.<00>
 [ENDBLOCK]
-神官<00>
+Priest<00>
 [ENDBLOCK]
-お引取り下さい。<00>
+Please pick it up.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
@@ -510,11 +510,11 @@ Let's go wait at the Inn, then.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-ほら、起きなさい<Stahn>……<00>
+Wake up, <Stahn>...<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Stahn>さん……<00>
+<Stahn>...<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
@@ -526,159 +526,159 @@ Let's go wait at the Inn, then.<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-<Stahn>、しっかりしろ！<00>
+<Stahn>, get a hold of yourself!<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-あれ、ここは……？<00>
+Huh, where...?<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-やれやれ。元に戻ったみたいね。<00>
+Good grief. Looks like<__>you're back to normal.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-いつの間にか、朝になってたんだ……<00>
+The sun came up while<__>I was out of it...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-そうだ、グレバムは!?<00>
+Wait, what about Lydon?<00>
 [ENDBLOCK]
 <Dymlos><00>
 [ENDBLOCK]
-逃げられた。<00>
+He got away.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-間に合わなかったか……<00>
+We didn't make it...<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-<Stahn>君、具合は大丈夫かね。<00>
+<Stahn>, you've recovered.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-バルックさん、どうしてここへ？<00>
+Baruk, why are you here?<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-君たちがチェリクを出たと聞いてね。<__>心配になって後を追って来たのだ。<00>
+I heard you all had left Cherik. I got<__>worried and followed after you.<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-傭兵部隊を同行させてよかった。<__>神殿内のモンスターは、全て片付けたぞ。<00>
+I had a group of mercenaries accompany<__>me. They finished off the monsters<__>inside the temple.<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-<Stahn>は知らないでしょうけど、<__>あれから大変だったんだからね。<00>
+<Stahn> doesn't know it, but it's<__>been pretty tough since then.<00>
 [ENDBLOCK]
 <Mary><00>
 [ENDBLOCK]
-バルックが来てくれなかったら、<__>わたしたちも危なかった。<00>
+If Baruk hadn't come, we would<__>have been in danger.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-<Lion>さんがバルックさんに、<__>神殿へ向かうよう頼んでくれたんです。<00>
+<Lion> helped lead Baruk<__>to the temple.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Lion>が……？<00>
+<Lion> did...?<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-たまたま私たちが街に到着した時、<__><Lion>と会えたのでね。<00>
+Unexpectedly, we met up with,<__><Lion> when we arrived in town.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-そうだったのか……<00>
+Is that so...<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-みんなを助けてくれたんだな。<__>ありがとう、<Lion>。<00>
+You saved all of us. Thanks, <Lion>.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-……ふん、だから言っただろう。<__>おまえたちは足手まといだと。<00>
+...Hmph, it's just as I said.<__>You're all a burden.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-本当ならバルックに協力させて、<__>グレバムを捕らえられたはずなんだ。<00>
+If I had worked with Baruk from the<__>beginning, Lydon would already have<__>been caught.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-お陰でいちからやり直しだ。<__>まったく、くだらんな。<00>
+Thanks to you, everything we did was<__>useless. Seriously, how annoying.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-聞いているのか、<Stahn>。<__>いちからやり直しだと言ってるんだ。<00>
+Are you listening <Stahn>?<__>I said it was useless.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-あ、ああ。<00>
+O-oh, yeah.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-次にグレバムと会った時は、<__>こうは行かない。<00>
+The next time Lydon shows himself,<__>things will not go this way.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-その時こそ、僕たちの実力を、<__>見せつけてやる。いいな？<00>
+Next time, we will show him<__>our true power. Okay?<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-<Lion>……！<00>
+<Lion>...!<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-バルック！<__>グレバムの行き先はわかったか？<00>
+Baruk! Do you know<__>Lydon's whereabouts?<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-巨大なレンズらしき濶ﾍGを運ぶ、<__>モンスターの姿が目撃されている。<00>
+Monsters have been sighted carrying<__>what looks to be a giant lens.<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-そのモンスターはどうやら、<__>ノイシュタット方面へ向かったようだ。<00>
+Those monsters are probably headed<__>toward the Neuestadt area.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-船で追いかけるしかないか……<__>バルック、手配を頼む。<00>
+We'll have to pursue him by ship then...<__>Baruk, I'm relying on you for the<__>preparations.<00>
 [ENDBLOCK]
 <Lion><00>
 [ENDBLOCK]
-僕たちはカルバレイス港から出て、<__>ノイシュタットへ向かう。<00>
+We will leave for Neuestadt from<__>the Port of Calvalese.<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-了解した。私の権限内で、<__>協力できる事は協力しよう。<00>
+Understood. I'll do everything in<__>my power to help you.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-よし！　みんな、すぐに出発だ！<00>
+Alright! Everyone, let's go!<00>
 [ENDBLOCK]
 <Rutee><00>
 [ENDBLOCK]
-待ちなさいよ、あんたたち！<__>あわてすぎだって！<00>
+Hang on, you two!<__>Don't just rush off!<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-やれやれ、あわただしい事だ。<00>
+Oh my, they're in such a rush.<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-だが……<__>これで納得したのではないかね？<00>
+However...<__>Isn't this convincing?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-何がでしょう？<00>
+What do you mean?<00>
 [ENDBLOCK]
 <Baruk><00>
 [ENDBLOCK]
-<Lion>は案外わかりやすいと、<__>前に言った事だよ。<00>
+What I said before. <Lion> is<__>surprisingly easy to understand.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-……そうかもしれませんね。<00>
+...That may be true.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
