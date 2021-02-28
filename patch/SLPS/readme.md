@@ -32,7 +32,8 @@ with some packages and Strawberry Perl on windows.
 3) Install the packages with Install_requirements.bat in "SLPS/scripts"
 
 Other scripts in "SLPS/scripts" will update one of the block/section. They are named as "TODDC_update_xxx.bat". 
-Once a script is ran, it will generate a new SLPS_xxx.42 file for you to test
+Once a script is ran, it will generate a new SLPS_xxx.42 file for you to test.
+** Always make sure to have the last recent version of the code from Github inside your local repo.
 
 Ex:
 If you are working on Artes, you need to use the script "TODDC_update_Artes.bat". You can then use the
