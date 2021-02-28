@@ -314,41 +314,41 @@ Item Shop<00>
 [ENDBLOCK]
 I'm not going to lose just because<__>the sun is shining a little bit!<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-この前、お屋敷街へ行った時、<__>すごく素敵な蛻ｷ?を見かけたの。<00>
+The other day, when I went to the<__>mansion district, I saw a very nice<__>exhilarating tree. There was also a<__>very nice shed.<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-あの人と親しくなれたら……<__>でもそんなの、無理よね。<00>
+I wish I could get close to him...<__>But that's just not possible, is it?<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-あの人、驪岺はなんていうのかしら……<00>
+I wonder what his name is...<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-あの人、ケガをしていないかしら。<__>心配だわ……<00>
+I wonder if that person is injured.<__>I'm worried about him...<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-この間、あの人がきれいな女の人と、<__>一緒にいるのを見ました。<00>
+The other day, I saw him<__>with a beautiful woman.<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-とてもお似合いでした。私なんか、<__>相手になるはずがありませんね……<00>
+It was a great match. There's<__>no way I'd be a match for her...<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-こんな時にあの人がいてくれれば……<__>もちろん、ありえませんけど……<00>
+If only that man had been there at<__>a time like this... Of course, that's<__>not possible. <00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-あの人が私を助けに来てくれたんです！<__>私……夢でも見ている気分です！<00>
+That man has come to my rescue!<__>I... feel like I'm dreaming!<00>
 [ENDBLOCK]
-女の子<00>
+Girl<00>
 [ENDBLOCK]
-今度は私がこの人を助けられるよう、<__>頑張ろうと思います。<00>
+Now I will try my best<__>to help this person.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
@@ -402,29 +402,29 @@ Wealthy Man<00>
 [ENDBLOCK]
 Please, let me gut the evil master!<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-やあ、皆さん。<__>ここで会うのは初めてですね。<00>
+Hello, Everyone. It's<__>nice to meet you.<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-実は横にいるこの人の事が心配で、<__>下町に様子を見に来たんです。<00>
+I was actually worried about this<__>guy beside me, so I came downtown<__>to check on him.<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-危うくモンスターに襲われるところを、<__>なんとか助ける事ができました。<00>
+I got attacked by a monster, but was<__>able to protect myself.<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-まだ安心はできません。<__>引き続きここで様子を見ます。<00>
+I don't feel safe yet. We will continue<__>to monitor the situation here.<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-自分が下町の人たちと、<__>仲良くなるとは思いませんでした。<00>
+I never thought I would get along<__>with the people of downtown.<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-同じ街の住人同士、<__>話せばわかりあえるんですね。<00>
+The different people here can<__>understand each other if they<__>just talk.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -684,7 +684,7 @@ notice<00>
 [ENDBLOCK]
 You can't cancel the contract<__>unless you pay the penalty.<00>
 [ENDBLOCK]
-とりあえず迷齧@獅ﾆして<__>手持ちの金を支払ってもらうぜ。<00>
+If you wish to cancel the job,<__>you'll have to pay a fee.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
@@ -706,17 +706,17 @@ notice<00>
 [ENDBLOCK]
 <TAG_007><18>fP(<00>として<__><17>r@<18>ガルド払いました。<__><00>
 [ENDBLOCK]
-違約金を払ってもらわないと<__>契約解除はできないんだ。<00>
+If you wish to cancel the job,<__>you'll have to pay a fee.<00>
 [ENDBLOCK]
-とりあえず迷齧@獅ﾆして<__>有り金全部支払ってもらうよ。<00>
+Get enough Gald and then come back.<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
 <TAG_007>迷齧@獅ﾆして<__><17>r@<14>ガルド払いました。<__><00>
 [ENDBLOCK]
-金を準備してから、<__>また来てくれ。<00>
+Get enough Gald and then come back.<00>
 [ENDBLOCK]
-それじゃ、頑張れよ。<__><00>
+Well, Good luck with that.<__><00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
@@ -804,11 +804,11 @@ Yes...?<00>
 [ENDBLOCK]
 select<00>
 [ENDBLOCK]
-<TAG_007>私の……眼鏡ですか？<__>私が……何か？<00>
+<TAG_007>My... Glasses?<__>I'm... What is it?<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-It's Rare.<__>I've never seen it befoer.<00>
+They're Rare. I've never<__>seen them before.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
@@ -819,153 +819,154 @@ Woman<00>
 You're a priest of<__>Straylize, aren't you?<00>
 [ENDBLOCK]
 <Philia><00>
+[ENDBLOCK]
 Well, do you understand?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-神殿のないこの地で、<__>我々をご存知なのですね！<00>
+Did you know that we<__>don't have a temple!<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-一瞬、見間違えかと思ったけどね。<00>
+For a moment, I thouht I was mistaken.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-あんたみたいな強い意志の眼をもった<__>神官がいると思わなかったからさ。<00>
+I didn't expect to find a priest with<__>such strong-willed eyes as yours.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-お分かりになるのですか？<00>
+Do you understand?<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-そうさね。あんたは何か強い思いで<__>行動しているんだろ？<00>
+That's right. You're letting your<__>emotions control your actions.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-それはすばらしい事だよ。<__>頑張りな。<00>
+That's great.<__>Good luck.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-あんた確か……<00>
+I'm pretty sure.<00>
 [ENDBLOCK]
-select<00>
+Remember Me?<00>
 [ENDBLOCK]
-<TAG_007>どなたでしょうか？<__>あなたは以前の！<00>
+<TAG_007>Who are you?<__>You're the one from before!<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-……うんうん。<00>
+...Yeah, yeah.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-あの……何か？<00>
+What is that... thing?<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-私を知らないんだね？<__>結構結構！<00>
+You don't remember me do you?<__>No, thank you!<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-なんだいなんだい<__>すっかり見違えたね？<00>
+What's the matter with you?<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-そう……でしょうか？<00>
+Well... isn't it?<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-私もあんたに気付かなかったし、<__>あんたも私に気付かなかったろ？<00>
+I didn't recognize you, and<__>you didn't recognize me.<00>
 [ENDBLOCK]
 <Philia><00>
 [ENDBLOCK]
-あの、それは……<00>
+Um, it's...<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-気にするんじゃないよ。<__>それで良いんだから。<00>
+Don't worry about it. It's okay.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-あんた自身の心が変わったのさ。<00>
+You've changed your mind.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-だからあんたの瞳に映る世界が<__>違って見えるのさ。<00>
+That's why the world looks<__>different in your eyes.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-以前よりずっとずっと<__>良い瞳をしているよ。<00>
+You have even better eyes than before.<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-今のあんたの瞳は……<00>
+Now your eyes are like...<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-……乙女のまなざし。<__>誰かいい人でも出来たのかい？<00>
+...a maiden's gaze. Did you find<__>someone better to be with?<00>
 [ENDBLOCK]
 Woman<00>
 [ENDBLOCK]
-ま、頑張りな。<00>
+Well, good luck with that.<00>
 [ENDBLOCK]
-子供<00>
+Child<00>
 [ENDBLOCK]
-わー、<Kongman>が<__>遊びに来てくれたぞぉ！<00>
+Wow, <Kongman>'s here to play!<00>
 [ENDBLOCK]
 <Kongman><00>
 [ENDBLOCK]
 よう、おまえら熬ﾆDに<__>していたか？<00>
 [ENDBLOCK]
-男の子<00>
+Boy<00>
 [ENDBLOCK]
-ねえねえ、<Kongman>。<__>どうしてこの前の試合の時、<__>武器を使わなかったの？<00>
+Hey, hey, <Kongman>. Why didn't you<__>use a weapon in the last match?<00>
 [ENDBLOCK]
-子供<00>
+Child<00>
 [ENDBLOCK]
-そうだよ、相手はあんなに大きな<__>剣を持っていたのに。<00>
-[ENDBLOCK]
-<Stahn><00>
-[ENDBLOCK]
-そういやそうだよな。<__>どうして<Kongman>は、拳で戦うの？<00>
-[ENDBLOCK]
-<Kongman><00>
-[ENDBLOCK]
-俺様が子供の頃にな、<__>無敵のチャンピオンがいたんだ。<__>そいつが素手で戦っていた。<00>
-[ENDBLOCK]
-<Kongman><00>
-[ENDBLOCK]
-どんな相手だろうが、<__>決して武器を使わなかった。<00>
-[ENDBLOCK]
-<Kongman><00>
-[ENDBLOCK]
-それが俺様たちに<__>どれだけの勇気をくれたか……<00>
-[ENDBLOCK]
-<Kongman><00>
-[ENDBLOCK]
-俺様の憧れだった……<00>
-[ENDBLOCK]
-<Kongman><00>
-[ENDBLOCK]
-なのに……<00>
+Yes, even though the other guy had such a big sword.<00>
 [ENDBLOCK]
 <Stahn><00>
 [ENDBLOCK]
-……<Kongman>？<00>
+Oh yeah, that's right. Why does<__><Kongman> fight with his fists?<00>
 [ENDBLOCK]
 <Kongman><00>
 [ENDBLOCK]
-おっとすまねえな。<__>ついボーっとしちまったぜ。<00>
+When I was a kid, there was this<__>champion. He seemed invincible.<__>He fought with his bare hands.<00>
 [ENDBLOCK]
 <Kongman><00>
 [ENDBLOCK]
-つーわけで、<__>俺様は武器をつかわねんだー。<00>
-[ENDBLOCK]
-男の子<00>
-[ENDBLOCK]
-なーんだ、<Kongman>も<__>まねっこなんだね。<00>
+No matter how strong the opponent,<__>he never used a weapon.<00>
 [ENDBLOCK]
 <Kongman><00>
 [ENDBLOCK]
-うるせぃやい、<__>バカにすんなっ。<0_0>
+You can see how much<__>courage it gave us at...<00>
+[ENDBLOCK]
+<Kongman><00>
+[ENDBLOCK]
+It was my dream...<00>
+[ENDBLOCK]
+<Kongman><00>
+[ENDBLOCK]
+And yet...<00>
+[ENDBLOCK]
+<Stahn><00>
+[ENDBLOCK]
+...<Kongman>?<00>
+[ENDBLOCK]
+<Kongman><00>
+[ENDBLOCK]
+Oops, sorry about that. I got<__>caught up in the memory.<00>
+[ENDBLOCK]
+<Kongman><00>
+[ENDBLOCK]
+That's why I don't use weapons.<00>
+[ENDBLOCK]
+Boy<00>
+[ENDBLOCK]
+I see, <Kongman> is an imitator.<00>
+[ENDBLOCK]
+<Kongman><00>
+[ENDBLOCK]
+Shut up, Don't<__>make fun of me.<0_0>
 [ENDBLOCK]
