@@ -164,10 +164,11 @@ def reinsertText_Block(blockId, slpsName):
     
     #Run Atlas in command line
     blockDesc = [ele['BlockDesc'] for ele in dataItems if ele['BlockId'] == int(blockId)][0]
-    print(blockDesc)
+    
     args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", "SLPS_258.42", "TODDC_"+blockDesc+"_Dump.txt"]
     listFile = subprocess.run(
-        args
+        args,
+        cwd=path,
         )
     
     #Copy the new SLPS back to Google drive
