@@ -301,12 +301,12 @@ in a devastating blast.[END]
 
 //Text $1A0780
 #WRITE(ptr,$1832B0)
-晶力を込めた拳を突き出し、捕らえた[LINE]
-敵を爆砕する、打撃属性を持つ術技。[END]
+This is a striking Arte shattering[LINE]
+the captured enemy with your fist.[END]
 
 //Text $1A0768
 #WRITE(ptr,$1832C8)
-[Sign_5]ブレイズビースト[END]
+[Sign_5]Blaze Beast[END]
 
 //Text $1A07E8
 #WRITE(ptr,$1832D0)
@@ -315,7 +315,7 @@ in a devastating blast.[END]
 
 //Text $1A0750
 #WRITE(ptr,$1832E8)
-[Sign_5]レイジングフレア[END]
+[Sign_5]Raging Flare[END]
 
 //Text $1A07E8
 #WRITE(ptr,$1832F0)
@@ -324,7 +324,7 @@ in a devastating blast.[END]
 
 //Text $1A0730
 #WRITE(ptr,$183308)
-[Sign_5]ヴォルカニックレイジ[END]
+[Sign_5]Volcanic Rage[END]
 
 //Text $1A07E8
 #WRITE(ptr,$183310)
@@ -341,8 +341,8 @@ in a devastating blast.[END]
 
 //Text $1A06C0
 #WRITE(ptr,$183330)
-魔神剣を斜め下に繰り出す剣技。[LINE]
-着弾時にも追加ダメージを与える。[END]
+A Diagonal Demon Fang Technique.[LINE]
+When it hits deals additional damage.[END]
 
 //Text $1A06A8
 #WRITE(ptr,$183348)
