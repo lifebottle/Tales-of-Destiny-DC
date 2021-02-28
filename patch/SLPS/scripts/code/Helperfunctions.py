@@ -130,7 +130,7 @@ def createBlock(dataItems, blockId):
         
         if googleId != "":
             #googleDump = grabGoogleDocToText(googleId)
-            googleDump = getGoogleSheetTranslation(gc, googleId, "Block{} - {}".format(blockId,sectionDesc))
+            googleDump = getGoogleSheetTranslation(gc, googleId, sectionDesc)
             blockText += "//Section {}\n\n".format(sectionDesc)
             blockText += googleDump
         
@@ -185,7 +185,10 @@ def updateBlock(blockId, SLPSName):
     reinsertText_Block(blockId, SLPSName)
 
 
-
-
+#googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
+#fileName = 'TODDC_Item_Consumable_Dump_cleaned.txt'
+#finalList = parseText(fileName)
+#writeColumn(finalList, googleId)
+    
 
 
