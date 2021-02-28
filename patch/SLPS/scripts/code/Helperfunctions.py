@@ -38,13 +38,14 @@ def parseText(fileName):
     
     return finalList
 
-def writeColumn(finalList):
+def writeColumn(finalList, googleId):
     
     gc = pygsheets.authorize(service_file='gsheet.json')
-    sh = gc.open('Artes Test')
+    sh = gc.open_by_key(googleId)
 
-    #select the first sheet 
-    wks = sh[1]
+    #Look for Dump sheet 
+    wks = sh.worksheet('title','Dump')
+    
     
     #update the first sheet with df, starting at cell B2. 
     df=pd.DataFrame({"Japanese":finalList, "English":finalList})
@@ -129,7 +130,7 @@ def createBlock(dataItems, blockId):
         
         if googleId != "":
             #googleDump = grabGoogleDocToText(googleId)
-            googleDump = getGoogleSheetTranslation(gc, googleId, sectionDesc)
+            googleDump = getGoogleSheetTranslation(gc, googleId, "Block{} - {}".format(blockId,sectionDesc))
             blockText += "//Section {}\n\n".format(sectionDesc)
             blockText += googleDump
         
@@ -183,7 +184,8 @@ def updateBlock(blockId, SLPSName):
     createAtlasScript_Block(blockId)
     reinsertText_Block(blockId, SLPSName)
 
-    
+
+
 
 
 

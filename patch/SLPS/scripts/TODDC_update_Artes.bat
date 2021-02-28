@@ -1,1 +1,2 @@
-python "code/updateBlock.py" 5 SLPS_Artes.42
+python "code/updateBlock.py" 4 SLPS_Artes.42
+pause

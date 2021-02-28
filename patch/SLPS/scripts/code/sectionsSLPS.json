@@ -43,30 +43,16 @@
 			"PointerEnd":	"18108F"
 		}]
 	},
+	
 	{
 		"BlockId":			4,
-		"BlockDesc":		"Title",
-		"TextStartBlock":	"1BBC00",
-		"Sections":[
-		{
-			"SectionId":	1,
-			"SectionDesc":	"Title",
-			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
-			"TextStart":	"1BBC00",
-			"TextEnd":		"",
-			"PointerStart":	"",
-			"PointerEnd":	""
-		}]
-	},
-	{
-		"BlockId":			5,
 		"BlockDesc":		"Artes_Other",
 		"TextStartBlock":	"19D388",
 		"Sections":[
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Other_Items",
-			"GoogleSheetId":	"",
+			"GoogleSheetId":"",
 			"TextStart":	"19C380",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184788",
@@ -84,12 +70,55 @@
 		{
 			"SectionId":	3,
 			"SectionDesc":	"Strategy",
-			"GoogleSheetId":	"",
+			"GoogleSheetId":"",
 			"TextStart":	"1A0FA0",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184F1C",
 			"PointerEnd":	"1858D0"
 		}]
+	},
+	
+	{
+		"BlockId":			5,
+		"BlockDesc":		"Item",
+		"TextStartBlock":	"1AC530",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Item",
+			"GoogleSheetId":"",
+			"TextStart":	"",
+			"TextEnd":		"",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Food",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B8408",
+			"TextEnd":		"1BA218",
+			"PointerStart":	"191D98",
+			"PointerEnd":	"1926E4"
+		}]
+	},
+	
+	{
+		"BlockId":			6,
+		"BlockDesc":		"Title",
+		"TextStartBlock":	"1BBC00",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Title",
+			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
+			"TextStart":	"1BBC00",
+			"TextEnd":		"",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
 	}
+	
 	]
 }

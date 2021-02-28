@@ -45,21 +45,21 @@ Can be linked to various actions.[END]
 
 //Text $1A0E70
 #WRITE(ptr,$183030)
-回転蹴りから突きを繰り出す特技。[LINE]
-打撃に弱い敵に有効。[END]
+Strike an enemy with a flurry of spinning kicks.[LINE]
+Effective to foes weak against blow。[END]
 
 //Text $1A0E60
 #WRITE(ptr,$183048)
-[Sign_5]蒼破刃[END]
+[Sign_5]Azure Edge[END]
 
 //Text $1A0E50
 #WRITE(ptr,$18304C)
-ソウハジン[END]
+[END]
 
 //Text $1A0E18
 #WRITE(ptr,$183050)
-疾風の衝撃波を放つ術剣技。[LINE]
-敵の弾幕を貫いて攻撃できる。[END]
+Pummel foes by spawning waves of distortion.[LINE]
+It can penetrate a foe's guard.[END]
 
 //Text $1A0E08
 #WRITE(ptr,$183068)
@@ -67,11 +67,11 @@ Can be linked to various actions.[END]
 
 //Text $1A0DF8
 #WRITE(ptr,$18306C)
-レックウザン[END]
+[END]
 
 //Text $1A0DD0
 #WRITE(ptr,$183070)
-空中回転斬りで敵を切り刻む剣技。[LINE]
+Attack the enemy with spinning slashes.[LINE]
 [END]
 
 //Text $1A0DC0
@@ -80,11 +80,11 @@ Can be linked to various actions.[END]
 
 //Text $1A0DA8
 #WRITE(ptr,$18308C)
-シンクウレツザン[END]
+[END]
 
 //Text $1A0D80
 #WRITE(ptr,$183090)
-烈空斬の倍の速度で敵を刻み尽くす剣技。[LINE]
+Shear the enemy with a vacuum formed by the spinning blades.[LINE]
 [END]
 
 //Text $1A0D70
@@ -93,11 +93,11 @@ Can be linked to various actions.[END]
 
 //Text $1A0D60
 #WRITE(ptr,$1830AC)
-コガハザン[END]
+[END]
 
 //Text $1A0D30
 #WRITE(ptr,$1830B0)
-流れるような上下段の斬りを繰り出す剣技。[LINE]
+Slice the enemy up, then cut them down.[LINE]
 [END]
 
 //Text $1A0D20
@@ -106,25 +106,25 @@ Can be linked to various actions.[END]
 
 //Text $1A0D10
 #WRITE(ptr,$1830CC)
-トリュウセン[END]
+[END]
 
 //Text $1A0CE8
 #WRITE(ptr,$1830D0)
-上空まで発生する炎撃を繰り出す術剣技。[LINE]
+Unleashes a burning strike that rises.[LINE]
 [END]
 
 //Text $1A0CD8
 #WRITE(ptr,$1830E8)
-[Sign_5]断空剣[END]
+[Sign_5]Severing Wind[END]
 
 //Text $1A0CC8
 #WRITE(ptr,$1830EC)
-ダンクウケン[END]
+[END]
 
 //Text $1A0C88
 #WRITE(ptr,$1830F0)
-回転斬りによって竜巻を生じさせながら[LINE]
-敵を斬り上げる術剣技。[END]
+A high upward slash that ensnares[LINE]
+nearby opponents.[END]
 
 //Text $1A0C78
 #WRITE(ptr,$183108)
@@ -132,25 +132,25 @@ Can be linked to various actions.[END]
 
 //Text $1A0C60
 #WRITE(ptr,$18310C)
-マジンソウハザン[END]
+[END]
 
 //Text $1A0C28
 #WRITE(ptr,$183110)
-浮かし効果のある魔神剣を放ち、[LINE]
-虎牙破斬で追撃する剣技。[END]
+A combination of Demon Fang and[LINE]
+Tiger Blade.[END]
 
 //Text $1A0C18
 #WRITE(ptr,$183128)
-[Sign_4]獅子戦吼[END]
+[Sign_4]Beast[END]
 
 //Text $1A0C08
 #WRITE(ptr,$18312C)
-シシセンコウ[END]
+[END]
 
 //Text $1A0BC8
 #WRITE(ptr,$183130)
-拳にエネルギーを溜め、一気に放出して[LINE]
-敵を吹き飛ばす特技。[END]
+Down the enemy with the force of[LINE]
+a charging lion.[END]
 
 //Text $1A0BB8
 #WRITE(ptr,$183148)
@@ -158,12 +158,12 @@ Can be linked to various actions.[END]
 
 //Text $1A0BA0
 #WRITE(ptr,$18314C)
-ソウリュウレンガザン[END]
+[END]
 
 //Text $1A0B70
 #WRITE(ptr,$183150)
-踏み込みからの斬撃を４連続で繰り出す[LINE]
-剣技。[END]
+Advances while delivering 4[LINE]
+consecutive slashes.[END]
 
 //Text $1A0B60
 #WRITE(ptr,$183168)
@@ -175,8 +175,8 @@ Can be linked to various actions.[END]
 
 //Text $1A0B08
 #WRITE(ptr,$183170)
-高速突きが光となり敵を貫く術剣技。[LINE]
-属性が光と射撃になる特殊な技。[END]
+Light speed thrusts pierce the enemy.[LINE]
+Has light and shoot attributes.[END]
 
 //Text $1A0AF8
 #WRITE(ptr,$183188)
@@ -184,12 +184,12 @@ Can be linked to various actions.[END]
 
 //Text $1A0AE8
 #WRITE(ptr,$18318C)
-センクウレツハ[END]
+[END]
 
 //Text $1A0AB8
 #WRITE(ptr,$183190)
-空を閃く回転斬りから斬り落としに[LINE]
-連携する剣技。[END]
+Lift an enemy with a spinning slash, finishing[LINE]
+with a powerful thrust.[END]
 
 //Text $1A0AA8
 #WRITE(ptr,$1831A8)
@@ -197,16 +197,16 @@ Can be linked to various actions.[END]
 
 //Text $1A0A98
 #WRITE(ptr,$1831AC)
-ホウオウテンク[END]
+[END]
 
 //Text $1A0A50
 #WRITE(ptr,$1831B0)
-鳳凰の気をまとい、空中から特攻する[LINE]
-術剣技。ダウン中の敵にも追撃可能。[END]
+Unleash a blazing descent upon an enemy[LINE]
+from on high. Lifts downed enemies.[END]
 
 //Text $1A0A40
 #WRITE(ptr,$1831C8)
-[Sign_5]紅蓮剣[END]
+[Sign_5]Hell Pyre[END]
 
 //Text $1A0A30
 #WRITE(ptr,$1831CC)
@@ -214,21 +214,21 @@ Can be linked to various actions.[END]
 
 //Text $1A09F0
 #WRITE(ptr,$1831D0)
-炎の斬り上げから、回転斬りにより[LINE]
-生じる獄炎弾を撃ち出す術剣技。[END]
+Throws a flaming spinning slash at[LINE]
+an enemy from midair.[END]
 
 //Text $1A09E0
 #WRITE(ptr,$1831E8)
-[Sign_5]Wyvern Dance[END]
+[Sign_5]Dragon Toss[END]
 
 //Text $1A09C0
 #WRITE(ptr,$1831EC)
-クウガショウリュウキャク[END]
+[END]
 
 //Text $1A0980
 #WRITE(ptr,$1831F0)
-灼熱の空中回転蹴りを繰り出す術技。[LINE]
-空中戦に持ち込むのに有用。[END]
+A series of flaming midair spin-kicks.[LINE]
+Useful for aerial combat.[END]
 
 //Text $1A0970
 #WRITE(ptr,$183208)
@@ -236,11 +236,11 @@ Can be linked to various actions.[END]
 
 //Text $1A0958
 #WRITE(ptr,$18320C)
-ネッパセンプウジン[END]
+[END]
 
 //Text $1A0930
 #WRITE(ptr,$183210)
-熱波の回転斬りに敵を巻き込む術剣技。[LINE]
+Engulf an enemy in a fiery vortex.[LINE]
 [END]
 
 //Text $1A0920
@@ -249,12 +249,12 @@ Can be linked to various actions.[END]
 
 //Text $1A0908
 #WRITE(ptr,$18322C)
-マオウエンゲキハ[END]
+[END]
 
 //Text $1A08D0
 #WRITE(ptr,$183230)
-炎の晶力を剣に溜め、一気に解放しながら[LINE]
-薙ぎ払う術剣技。[END]
+Send forth a fiery shockwave towards the enemy.[LINE]
+[END]
 
 //Text $1A08C0
 #WRITE(ptr,$183248)
@@ -262,11 +262,11 @@ Can be linked to various actions.[END]
 
 //Text $1A08A8
 #WRITE(ptr,$18324C)
-シコウバクエンジン[END]
+[END]
 
 //Text $1A0878
 #WRITE(ptr,$183250)
-爆炎の気を放出、周囲を焼き尽くす術剣技。[LINE]
+Release a burst of fiery energy, burning your surroundings.[LINE]
 [END]
 
 //Text $1A0868
@@ -275,16 +275,16 @@ Can be linked to various actions.[END]
 
 //Text $1A0850
 #WRITE(ptr,$18326C)
-ショウオウレッカ[END]
+[END]
 
 //Text $1A0810
 #WRITE(ptr,$183270)
-炎の晶力を巻き込み一気に放出する術剣技。[LINE]
-ＣＣ３で撃てる極悪技。[END]
+Harness the power of fire and release it[LINE]
+in a devastating blast.[END]
 
 //Text $1A07F8
 #WRITE(ptr,$183288)
-[Sign_5]フレイムシュート[END]
+[Sign_5]Flame Shoot[END]
 
 //Text $1A07E8
 #WRITE(ptr,$183290)
