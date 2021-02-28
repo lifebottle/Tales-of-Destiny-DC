@@ -167,8 +167,7 @@ def reinsertText_Block(blockId, slpsName):
     print(blockDesc)
     args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", "SLPS_258.42", "TODDC_"+blockDesc+"_Dump.txt"]
     listFile = subprocess.run(
-        args,
-        cwd=path,
+        args
         )
     
     #Copy the new SLPS back to Google drive
