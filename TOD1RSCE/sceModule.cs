@@ -30,6 +30,7 @@ namespace sceWork
             return str;
         }
 
+
         public void SetBlock(int idx, byte[] data)
         {
             this.header.str[idx].data.Clear();
