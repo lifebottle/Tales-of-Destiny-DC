@@ -56,7 +56,7 @@ namespace sceWork
                         Program.Extract(fileName);
                 }
                 Console.WriteLine("Complete!");
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             else
             {
@@ -84,7 +84,7 @@ namespace sceWork
         private static void Die(string message)
         {
             Console.WriteLine(message);
-            Console.ReadKey();
+            //Console.ReadKey();
             Environment.Exit(-1);
         }
 
