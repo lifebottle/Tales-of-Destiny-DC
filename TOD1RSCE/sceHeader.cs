@@ -20,24 +20,26 @@ namespace sceWork
             sfa.PositionStream = (long)this.offsetScript;
             while (sfa.PositionStream < (long)this.offsetStrings)
             {
-                if (sfa.ReadByte() == (byte)71)
+                if (sfa.ReadByte() == 0x47)
                 {
                     byte num = sfa.ReadByte();
                     if ((int)num >> 4 == 1 && sfa.ReadByte() == (byte)0)
-                        this.str.Add(new sceStrings((uint)sfa.PositionStream, this.offsetStrings)
+                    {
+                        this.str.Add(new sceStrings((uint)sfa.PositionStream-1, this.offsetStrings)
                         {
-                            offset = ((uint)num & 15U) + this.offsetStrings,
+                            offset = ((uint)num & 0xF) + this.offsetStrings,
                             typeOffset = (byte)1
                         });
+                    }
                     if ((int)num >> 4 == 5)
                     {
                         sceStrings sceStrings = new sceStrings((uint)sfa.PositionStream, this.offsetStrings);
-                        sceStrings.offset = (uint)(((int)num & 15) << 8) + (uint)sfa.ReadByte() + this.offsetStrings;
+                        sceStrings.offset = (uint)(((int)num & 0xF) << 8) + (uint)sfa.ReadByte() + this.offsetStrings;
                         sceStrings.typeOffset = (byte)2;
                         if (sfa.ReadByte() == (byte)0)
                             this.str.Add(sceStrings);
                     }
-                    if (num == (byte)144)
+                    if (num == 0x90)
                     {
                         sceStrings sceStrings = new sceStrings((uint)sfa.PositionStream, this.offsetStrings);
                         sceStrings.offset = (uint)sfa.ReadUInt16() + this.offsetStrings;
@@ -70,22 +72,22 @@ namespace sceWork
                 {
                     uint num1 = this.str[index].offset - this.offsetStrings;
                     sfa.PositionStream = (long)(this.str[index].myOffset - 1U);
-                    if (num1 < 16U)
+                    if (num1 < 0x10)
                     {
-                        byte num2 = (byte)(16U + num1);
+                        byte num2 = (byte)(0x10 + num1);
                         sfa.WriteByte(num2);
                         sfa.WriteByte((byte)0);
                     }
-                    else if (num1 < 4096U)
+                    else if (num1 < 0x1000)
                     {
-                        byte num2 = (byte)(80U + (num1 >> 8));
+                        byte num2 = (byte)(0x50 + (num1 >> 8));
                         sfa.WriteByte(num2);
                         byte num3 = (byte)(num1 & (uint)byte.MaxValue);
                         sfa.WriteUInt16((ushort)num3);
                     }
-                    else if (num1 > 4095U)
+                    else if (num1 > 0xFFF)
                     {
-                        sfa.WriteByte((byte)144);
+                        sfa.WriteByte(0x90);
                         sfa.WriteUInt16((ushort)num1);
                     }
                     sfa.PositionStream = sfa.LengthStream;
