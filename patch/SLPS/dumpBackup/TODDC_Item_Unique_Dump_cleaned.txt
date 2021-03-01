@@ -1,0 +1,1451 @@
+//Text $1B83F0
+#WRITE(ptr,$191208)
+[Sign_1]レザーガントレット[END]
+// current address: $1B8408
+
+//Text $1B83A8
+#WRITE(ptr,$19120C)
+革で繋ぎ合わせたガントレット。[LINE]
+軽くてそこそこ丈夫。[LINE]
+見習剣士の必需品。[END]
+// current address: $1B83EF
+
+
+
+
+
+//Text $1B8388
+#WRITE(ptr,$191228)
+[Sign_1]ブロンズガントレット[END]
+// current address: $1B83A2
+
+//Text $1B8338
+#WRITE(ptr,$19122C)
+薄い銅板で作られたガントレット。[LINE]
+天地戦争時代から使われていた、[LINE]
+伝統ある篭手。[END]
+// current address: $1B8387
+
+
+
+
+
+//Text $1B8318
+#WRITE(ptr,$191248)
+[Sign_1]アイアンガントレット[END]
+// current address: $1B8332
+
+//Text $1B82D0
+#WRITE(ptr,$19124C)
+鉄板で作られたガントレット。[LINE]
+重いが堅くて丈夫。[LINE]
+もっとも身近な金属。[END]
+// current address: $1B8315
+
+
+
+
+
+//Text $1B82B0
+#WRITE(ptr,$191268)
+[Sign_1]スチールガントレット[END]
+// current address: $1B82CA
+
+//Text $1B8278
+#WRITE(ptr,$19126C)
+鋼板で作られたガントレット。[LINE]
+騎士見習たちの愛用品。[LINE]
+[END]
+// current address: $1B82AD
+
+
+
+
+
+//Text $1B8260
+#WRITE(ptr,$191288)
+[Sign_1]チタンガントレット[END]
+// current address: $1B8278
+
+//Text $1B8218
+#WRITE(ptr,$19128C)
+チタン合金で強化したガントレット。[LINE]
+非常に軽く、並外れた耐食性を持つ。[LINE]
+[END]
+// current address: $1B825F
+
+
+
+
+
+//Text $1B81F8
+#WRITE(ptr,$1912A8)
+[Sign_1]シルバーガントレット[END]
+// current address: $1B8212
+
+//Text $1B81C0
+#WRITE(ptr,$1912AC)
+銀細工で装飾されたガントレット。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+// current address: $1B81F5
+
+
+
+
+
+//Text $1B81A0
+#WRITE(ptr,$1912C8)
+[Sign_1]ゴールドガントレット[END]
+// current address: $1B81BA
+
+//Text $1B8160
+#WRITE(ptr,$1912CC)
+金細工で装飾したガントレット。[LINE]
+別名「豪華なガントレット」。[LINE]
+[END]
+// current address: $1B819D
+
+
+
+
+
+//Text $1B8140
+#WRITE(ptr,$1912E8)
+[Sign_1]ミスリルガントレット[END]
+// current address: $1B815A
+
+//Text $1B8100
+#WRITE(ptr,$1912EC)
+ミスリル細工のガントレット。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+// current address: $1B813F
+
+
+
+
+
+//Text $1B80E0
+#WRITE(ptr,$191308)
+[Sign_1]ハイパーガントレット[END]
+// current address: $1B80FA
+
+//Text $1B8090
+#WRITE(ptr,$19130C)
+獅子の牙と火鼠の皮で加工した[LINE]
+ガントレット。[LINE]
+百獣の王の力が込められている。[END]
+// current address: $1B80DB
+
+
+
+
+
+//Text $1B8078
+#WRITE(ptr,$191328)
+[Sign_1]レアガントレット[END]
+// current address: $1B808E
+
+//Text $1B5880
+#WRITE(ptr,$19132C)
+名工ギースの魂のこもった[LINE]
+無二の傑作。[LINE]
+きわめて希少価値が高い。[END]
+// current address: $1B58BF
+
+
+
+
+
+//Text $1B8060
+#WRITE(ptr,$191348)
+[Sign_1]バトルガントレット[END]
+// current address: $1B8078
+
+//Text $1B8000
+#WRITE(ptr,$19134C)
+戦闘用に特化したガントレット。[LINE]
+機能性が良いだけではなく、[LINE]
+装備者の力を限界まで引き上げる。[END]
+// current address: $1B805B
+
+
+
+
+
+//Text $1B7FE8
+#WRITE(ptr,$191368)
+[Sign_1]グリムガントレット[END]
+// current address: $1B8000
+
+//Text $1B7F90
+#WRITE(ptr,$19136C)
+伝説に登場する幻想の力を秘めた[LINE]
+ガントレット。口伝を書物に[LINE]
+まとめた兄弟の名を冠する。[END]
+// current address: $1B7FE5
+
+
+
+
+
+//Text $1B7F78
+#WRITE(ptr,$191388)
+[Sign_1]レザーグローブ[END]
+// current address: $1B7F8C
+
+//Text $1B7F30
+#WRITE(ptr,$19138C)
+革で繋ぎ合わせたグローブ。[LINE]
+少し固いが丈夫で安全。[LINE]
+女性の旅のお供に。[END]
+// current address: $1B7F75
+
+
+
+
+
+//Text $1B7F18
+#WRITE(ptr,$1913A8)
+[Sign_1]プリティグローブ[END]
+// current address: $1B7F2E
+
+//Text $1B7EC0
+#WRITE(ptr,$1913AC)
+まふまふの毛で作られたファーが[LINE]
+ついてる可愛い手袋。[LINE]
+寒くてもお洒落したいあなたへ。[END]
+// current address: $1B7F13
+
+
+
+
+
+//Text $1B7EA8
+#WRITE(ptr,$1913C8)
+[Sign_1]ホワイトグローブ[END]
+// current address: $1B7EBE
+
+//Text $1B7E48
+#WRITE(ptr,$1913CC)
+シルクで作られた美しいグローブ。[LINE]
+滑らかな手触りに上品な刺繍。[LINE]
+身に付けるだけであなたも淑女に。[END]
+// current address: $1B7EA7
+
+
+
+
+
+//Text $1B7E30
+#WRITE(ptr,$1913E8)
+[Sign_1]ムーングローブ[END]
+// current address: $1B7E44
+
+//Text $1B7DD8
+#WRITE(ptr,$1913EC)
+月夜を意匠して作られたグローブ。[LINE]
+聖なる月の力が宿っている。[LINE]
+クロークとセットでどうぞ。[END]
+// current address: $1B7E2F
+
+
+
+
+
+//Text $1B7DC0
+#WRITE(ptr,$191408)
+[Sign_1]スターグローブ[END]
+// current address: $1B7DD4
+
+//Text $1B7D68
+#WRITE(ptr,$19140C)
+星を意匠して作られたグローブ。[LINE]
+指先はまるで流星のよう。[LINE]
+クロークとセットでどうぞ。[END]
+// current address: $1B7DBB
+
+
+
+
+
+//Text $1B7D50
+#WRITE(ptr,$191428)
+[Sign_1]ルーングローブ[END]
+// current address: $1B7D64
+
+//Text $1B7CF8
+#WRITE(ptr,$19142C)
+慈愛のルーンが刺繍されたグローブ。[LINE]
+触れる者全てを癒す力を、[LINE]
+身に付けた者に与える。[END]
+// current address: $1B7D4B
+
+
+
+
+
+//Text $1B7CE0
+#WRITE(ptr,$191448)
+[Sign_1]ミスティグローブ[END]
+// current address: $1B7CF6
+
+//Text $1B7C88
+#WRITE(ptr,$19144C)
+原料や生成が不明なグローブ。[LINE]
+見る角度により色が変化する。[LINE]
+クロークとセットでどうぞ。[END]
+// current address: $1B7CDD
+
+
+
+
+
+//Text $1B7C70
+#WRITE(ptr,$191468)
+[Sign_1]ミスリルグローブ[END]
+// current address: $1B7C86
+
+//Text $1B7C30
+#WRITE(ptr,$19146C)
+ミスリル細工のグローブ。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+// current address: $1B7C6B
+
+
+
+
+
+//Text $1B7C18
+#WRITE(ptr,$191488)
+[Sign_1]スティールグローブ[END]
+// current address: $1B7C30
+
+//Text $1B7BC0
+#WRITE(ptr,$19148C)
+伝承で伝わる伝説の義賊が使って[LINE]
+いたグローブ。気配を絶ち相手の[LINE]
+懐を掠め取る神業を得る。[END]
+// current address: $1B7C17
+
+
+
+
+
+//Text $1B7BA8
+#WRITE(ptr,$1914A8)
+[Sign_1]グリムグローブ[END]
+// current address: $1B7BBC
+
+//Text $1B7B50
+#WRITE(ptr,$1914AC)
+伝説に登場する幻想の力を秘めた[LINE]
+グローブ。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+// current address: $1B7BA1
+
+
+
+
+
+//Text $1B7B38
+#WRITE(ptr,$1914C8)
+[Sign_1]ストレイネックレス[END]
+// current address: $1B7B50
+
+//Text $1B7AE8
+#WRITE(ptr,$1914CC)
+ストレイライズ神殿の司祭に[LINE]
+与えられるネックレス。[LINE]
+集中力を高める効果がある。[END]
+// current address: $1B7B35
+
+
+
+
+
+//Text $1B7AC8
+#WRITE(ptr,$1914E8)
+[Sign_1]ウィズダムネックレス[END]
+// current address: $1B7AE2
+
+//Text $1B7A60
+#WRITE(ptr,$1914EC)
+地の精霊の加護を受けたネックレス。[LINE]
+揺るがぬ冷静な心を与える。[LINE]
+地属性晶術のダメージがアップする。[END]
+// current address: $1B7AC1
+
+
+
+
+
+//Text $1B7A40
+#WRITE(ptr,$191508)
+[Sign_1]アバタールネックレス[END]
+// current address: $1B7A5A
+
+//Text $1B79D0
+#WRITE(ptr,$19150C)
+風の精霊の加護を受けたネックレス。[LINE]
+理想を現実へと導く行動力を与える。[LINE]
+風属性晶術のダメージがアップする。[END]
+// current address: $1B7A39
+
+
+
+
+
+//Text $1B79B0
+#WRITE(ptr,$191528)
+[Sign_1]アーケインネックレス[END]
+// current address: $1B79CA
+
+//Text $1B7948
+#WRITE(ptr,$19152C)
+火の精霊の加護を受けたネックレス。[LINE]
+神秘なる者の声を聞く力を与える。[LINE]
+火属性晶術のダメージがアップする。[END]
+// current address: $1B79AF
+
+
+
+
+
+//Text $1B7930
+#WRITE(ptr,$191548)
+[Sign_1]マジカルネックレス[END]
+// current address: $1B7948
+
+//Text $1B78C8
+#WRITE(ptr,$19154C)
+水の精霊の加護を受けたネックレス。[LINE]
+精神力をより鋭く研ぎ澄まされる。[LINE]
+水属性晶術のダメージがアップする。[END]
+// current address: $1B792F
+
+
+
+
+
+//Text $1B78B0
+#WRITE(ptr,$191568)
+[Sign_1]マインドネックレス[END]
+// current address: $1B78C8
+
+//Text $1B7848
+#WRITE(ptr,$19156C)
+光の精霊の加護を受けたネックレス。[LINE]
+心に秘めた力を増加させる。[LINE]
+光属性晶術のダメージがアップする。[END]
+// current address: $1B78A9
+
+
+
+
+
+//Text $1B7830
+#WRITE(ptr,$191588)
+[Sign_1]メンタルネックレス[END]
+// current address: $1B7848
+
+//Text $1B77D0
+#WRITE(ptr,$19158C)
+大地母神の祝福を受けたネックレス。[LINE]
+大いなる祝福と深い慈愛を。[LINE]
+地属性晶術の詠唱時間が減少する。[END]
+// current address: $1B782F
+
+
+
+
+
+//Text $1B77B0
+#WRITE(ptr,$1915A8)
+[Sign_1]トランキルネックレス[END]
+// current address: $1B77CA
+
+//Text $1B7750
+#WRITE(ptr,$1915AC)
+風の王の祝福を受けたネックレス。[LINE]
+大いなる祝福と歪まぬ心を。[LINE]
+風属性晶術の詠唱時間が減少する。[END]
+// current address: $1B77AD
+
+
+
+
+
+//Text $1B7738
+#WRITE(ptr,$1915C8)
+[Sign_1]ミューズネックレス[END]
+// current address: $1B7750
+
+//Text $1B76D8
+#WRITE(ptr,$1915CC)
+炎の女神の祝福を受けたネックレス。[LINE]
+大いなる祝福と貫く意思を。[LINE]
+火属性晶術の詠唱時間が減少する。[END]
+// current address: $1B7737
+
+
+
+
+
+//Text $1B76B8
+#WRITE(ptr,$1915E8)
+[Sign_1]フェアリィネックレス[END]
+// current address: $1B76D2
+
+//Text $1B7658
+#WRITE(ptr,$1915EC)
+海の神の祝福を受けたネックレス。[LINE]
+大いなる祝福と惑わぬ心を。[LINE]
+水属性晶術の詠唱時間が減少する。[END]
+// current address: $1B76B5
+
+
+
+
+
+//Text $1B7638
+#WRITE(ptr,$191608)
+[Sign_1]リチュアルネックレス[END]
+// current address: $1B7652
+
+//Text $1B75D0
+#WRITE(ptr,$19160C)
+光の大神の祝福を受けたネックレス。[LINE]
+大いなる祝福と永久の忠誠を。[LINE]
+光属性晶術の詠唱時間が減少する。[END]
+// current address: $1B7631
+
+
+
+
+
+//Text $1B75C0
+#WRITE(ptr,$191628)
+[Sign_1]セルフボウ[END]
+// current address: $1B75D0
+
+//Text $1B7570
+#WRITE(ptr,$19162C)
+1本の木材で構成された長弓。[LINE]
+弓の道に進むのなら、[LINE]
+まずは自分の弓作りから。[END]
+// current address: $1B75BA
+
+
+
+
+
+//Text $1B7558
+#WRITE(ptr,$191648)
+[Sign_1]コンポジットボウ[END]
+// current address: $1B756E
+
+//Text $1B7508
+#WRITE(ptr,$19164C)
+複数の材料と材質を合わせた長弓。[LINE]
+軸がぶれず適度に柔軟。[LINE]
+弓に慣れてきた狩人用。[END]
+// current address: $1B7557
+
+
+
+
+
+//Text $1B74F0
+#WRITE(ptr,$191668)
+[Sign_1]ラップドボウ[END]
+// current address: $1B7502
+
+//Text $1B7498
+#WRITE(ptr,$19166C)
+風よりも速く、駆ける獣をも射る。[LINE]
+自らが狩った獣の体の一部を[LINE]
+使用して作るのが伝統。[END]
+// current address: $1B74EB
+
+
+
+
+
+//Text $1B7480
+#WRITE(ptr,$191688)
+[Sign_1]カスタムボウ[END]
+// current address: $1B7492
+
+//Text $1B7428
+#WRITE(ptr,$19168C)
+錬金術から生まれた特殊金属の長弓。[LINE]
+獲物の存在を感知すると、[LINE]
+熱を持って伝えるという。[END]
+// current address: $1B747D
+
+
+
+
+
+//Text $1B7410
+#WRITE(ptr,$1916A8)
+[Sign_1]ラピッドボウ[END]
+// current address: $1B7422
+
+//Text $1B73B8
+#WRITE(ptr,$1916AC)
+草原を駆ける獣よりも速く。[LINE]
+天高く飛ぶ鳥よりも遠くへ。[LINE]
+最高の腕を持つ狩人のための長弓。[END]
+// current address: $1B740F
+
+
+
+
+
+//Text $1B73A8
+#WRITE(ptr,$1916C8)
+[Sign_1]キラーボウ[END]
+// current address: $1B73B8
+
+//Text $1B7368
+#WRITE(ptr,$1916CC)
+一撃必中。[LINE]
+暗殺に特化された長弓。[LINE]
+音もなく放たれる死の一撃。[END]
+// current address: $1B73A5
+
+
+
+
+
+//Text $1B7358
+#WRITE(ptr,$1916E8)
+[Sign_1]バトルボウ[END]
+// current address: $1B7368
+
+//Text $1B7308
+#WRITE(ptr,$1916EC)
+その名の通り戦闘に特化した長弓。[LINE]
+強度もあり、その一撃は敵の装甲を[LINE]
+貫くほど。[END]
+// current address: $1B7355
+
+
+
+
+
+//Text $1B72F8
+#WRITE(ptr,$191708)
+[Sign_1]グリムボウ[END]
+// current address: $1B7308
+
+//Text $1B72A8
+#WRITE(ptr,$19170C)
+伝説に登場する幻想の力を秘めた[LINE]
+長弓。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+// current address: $1B72F5
+
+
+
+
+
+//Text $1B7298
+#WRITE(ptr,$191728)
+[Sign_1]ねぎ[END]
+// current address: $1B72A2
+
+//Text $1B7248
+#WRITE(ptr,$19172C)
+古くから薬用植物として重宝され、[LINE]
+体を温めたり、[LINE]
+疲労回復などの効果がある。[END]
+// current address: $1B7293
+
+
+
+
+
+//Text $1B7230
+#WRITE(ptr,$191748)
+[Sign_1]リングダガー[END]
+// current address: $1B7242
+
+//Text $1B71E0
+#WRITE(ptr,$19174C)
+柄頭の形状がリングになっている[LINE]
+短剣。輪に紐を通して[LINE]
+投げて使うことも可能。[END]
+// current address: $1B722B
+
+
+
+
+
+//Text $1B71C8
+#WRITE(ptr,$191768)
+[Sign_1]キドニーダガー[END]
+// current address: $1B71DC
+
+//Text $1B7168
+#WRITE(ptr,$19176C)
+騎士達が持つ切っ先の尖った短剣。[LINE]
+相手を傷つけることよりも[LINE]
+儀礼的なことで使われる事が多い。[END]
+// current address: $1B71C3
+
+
+
+
+
+//Text $1B7150
+#WRITE(ptr,$191788)
+[Sign_1]イヤードダガー[END]
+// current address: $1B7164
+
+//Text $1B7108
+#WRITE(ptr,$19178C)
+柄頭が耳のような形状をした短剣。[LINE]
+握りやすく、優れた貫通力を持つ。[LINE]
+[END]
+// current address: $1B714B
+
+
+
+
+
+//Text $1B70F0
+#WRITE(ptr,$1917A8)
+[Sign_1]パリーイングダガー[END]
+// current address: $1B7108
+
+//Text $1B7098
+#WRITE(ptr,$1917AC)
+二刀流剣士の必需品、左手用短剣。[LINE]
+硬い刀身を持ち、[LINE]
+相手の剣を受け止めることも可能。[END]
+// current address: $1B70EB
+
+
+
+
+
+//Text $1B7080
+#WRITE(ptr,$1917C8)
+[Sign_1]ポニャードダガー[END]
+// current address: $1B7096
+
+//Text $1B7038
+#WRITE(ptr,$1917CC)
+刺すことに力点を置いた短剣。[LINE]
+決闘で使われる殺傷能力の高い武器。[LINE]
+[END]
+// current address: $1B7079
+
+
+
+
+
+//Text $1B7020
+#WRITE(ptr,$1917E8)
+[Sign_1]クリスダガー[END]
+// current address: $1B7032
+
+//Text $1B6FB8
+#WRITE(ptr,$1917EC)
+世界中でもっとも洗練された武器。[LINE]
+刃は両刃で波形にうねっている。[LINE]
+身を守り、邪悪を退ける力を持つ。[END]
+// current address: $1B7019
+
+
+
+
+
+//Text $1B6FA8
+#WRITE(ptr,$191808)
+[Sign_1]まつたけ[END]
+// current address: $1B6FB6
+
+//Text $1B6F60
+#WRITE(ptr,$19180C)
+非常に高価なきのこの王様。[LINE]
+傘が開ききると[LINE]
+香りも味も落ちてしまう。[END]
+// current address: $1B6FA3
+
+
+
+
+
+//Text $1B6F48
+#WRITE(ptr,$191828)
+[Sign_1]必勝バンダナ[END]
+// current address: $1B6F5A
+
+//Text $1B6F08
+#WRITE(ptr,$19182C)
+『必勝』と描かれたバンダナ。[LINE]
+気が引き締まり、攻撃力アップ！[LINE]
+[END]
+// current address: $1B6F45
+
+
+
+
+
+//Text $1B6EF0
+#WRITE(ptr,$191848)
+[Sign_1]激烈バンダナ[END]
+// current address: $1B6F02
+
+//Text $1B6EA8
+#WRITE(ptr,$19184C)
+『激烈』と描かれたバンダナ。[LINE]
+熱毒を防止し、攻撃力を上昇させる。[LINE]
+[END]
+// current address: $1B6EE9
+
+
+
+
+
+//Text $1B6E90
+#WRITE(ptr,$191868)
+[Sign_1]堅牢バンダナ[END]
+// current address: $1B6EA2
+
+//Text $1B6E48
+#WRITE(ptr,$19186C)
+『堅牢』と描かれたバンダナ。[LINE]
+石化を防止し、防御力を上昇させる。[LINE]
+[END]
+// current address: $1B6E89
+
+
+
+
+
+//Text $1B6E30
+#WRITE(ptr,$191888)
+[Sign_1]天空バンダナ[END]
+// current address: $1B6E42
+
+//Text $1B6DF0
+#WRITE(ptr,$19188C)
+『天空』と描かれたバンダナ。[LINE]
+麻痺を防止し、体力を上昇させる。[LINE]
+[END]
+// current address: $1B6E2F
+
+
+
+
+
+//Text $1B6DD8
+#WRITE(ptr,$1918A8)
+[Sign_1]覚醒バンダナ[END]
+// current address: $1B6DEA
+
+//Text $1B6D90
+#WRITE(ptr,$1918AC)
+『覚醒』と描かれたバンダナ。[LINE]
+睡眠を防止し、集中力を上昇させる。[LINE]
+[END]
+// current address: $1B6DD1
+
+
+
+
+
+//Text $1B6D78
+#WRITE(ptr,$1918C8)
+[Sign_1]疾風バンダナ[END]
+// current address: $1B6D8A
+
+//Text $1B6D30
+#WRITE(ptr,$1918CC)
+『疾風』と描かれたバンダナ。[LINE]
+衰弱を防止し、回避率を上昇させる。[LINE]
+[END]
+// current address: $1B6D71
+
+
+
+
+
+//Text $1B6D18
+#WRITE(ptr,$1918E8)
+[Sign_1]滅殺バンダナ[END]
+// current address: $1B6D2A
+
+//Text $1B6CD0
+#WRITE(ptr,$1918EC)
+『滅殺』と描かれたバンダナ。[LINE]
+封印を防止し、命中率を上昇させる。[LINE]
+[END]
+// current address: $1B6D11
+
+
+
+
+
+//Text $1B6CB8
+#WRITE(ptr,$191908)
+[Sign_1]豪傑バンダナ[END]
+// current address: $1B6CCA
+
+//Text $1B6C80
+#WRITE(ptr,$19190C)
+『豪傑』と描かれたバンダナ。[LINE]
+攻撃力が大幅に上昇する。[LINE]
+[END]
+// current address: $1B6CB7
+
+
+
+
+
+//Text $1B6C68
+#WRITE(ptr,$191928)
+[Sign_1]革命バンダナ[END]
+// current address: $1B6C7A
+
+//Text $1B6C10
+#WRITE(ptr,$19192C)
+『革命』と描かれたバンダナ。[LINE]
+どんな事でも揺るがない！[LINE]
+全ての状態異常を防止する。[END]
+// current address: $1B6C61
+
+
+
+
+
+//Text $1B6BF8
+#WRITE(ptr,$191948)
+[Sign_1]レッドリボン[END]
+// current address: $1B6C0A
+
+//Text $1B6BB0
+#WRITE(ptr,$19194C)
+真っ赤なシンプルなリボン。[LINE]
+女の子の必需品。[LINE]
+火属性耐性を付加する。[END]
+// current address: $1B6BF3
+
+
+
+
+
+//Text $1B6B98
+#WRITE(ptr,$191968)
+[Sign_1]ブルーリボン[END]
+// current address: $1B6BAA
+
+//Text $1B6B48
+#WRITE(ptr,$19196C)
+水色のプリーツ状リボン。[LINE]
+ちょっとおしゃまな女の子向け。[LINE]
+水属性耐性を付加する。[END]
+// current address: $1B6B97
+
+
+
+
+
+//Text $1B6B30
+#WRITE(ptr,$191988)
+[Sign_1]オレンジリボン[END]
+// current address: $1B6B44
+
+//Text $1B6AE0
+#WRITE(ptr,$19198C)
+サテン生地のオレンジリボン。[LINE]
+お姉さんに憧れる女の子へ。[LINE]
+地属性耐性を付加する。[END]
+// current address: $1B6B2F
+
+
+
+
+
+//Text $1B6AC8
+#WRITE(ptr,$1919A8)
+[Sign_1]グリーンリボン[END]
+// current address: $1B6ADC
+
+//Text $1B6A70
+#WRITE(ptr,$1919AC)
+南国ちっくな緑のリボン。[LINE]
+人とは違った物をつけたい女の子向け。[LINE]
+風属性耐性を付加する。[END]
+// current address: $1B6AC5
+
+
+
+
+
+//Text $1B6A58
+#WRITE(ptr,$1919C8)
+[Sign_1]ホワイトリボン[END]
+// current address: $1B6A6C
+
+//Text $1B6A00
+#WRITE(ptr,$1919CC)
+天使のような羽つきリボン。[LINE]
+ワンランク上の女の子になれる！[LINE]
+光属性耐性を付加する。[END]
+// current address: $1B6A51
+
+
+
+
+
+//Text $1B69E8
+#WRITE(ptr,$1919E8)
+[Sign_1]ブラックリボン[END]
+// current address: $1B69FC
+
+//Text $1B6998
+#WRITE(ptr,$1919EC)
+神秘的な黒いリボン。[LINE]
+大人の女性も越えたいあなたへ。[LINE]
+闇属性耐性を付加する。[END]
+// current address: $1B69E3
+
+
+
+
+
+//Text $1B6980
+#WRITE(ptr,$191A08)
+[Sign_1]ウィアードリボン[END]
+// current address: $1B6996
+
+//Text $1B6920
+#WRITE(ptr,$191A0C)
+子供だけが身に付けられるリボン。[LINE]
+愛と夢と希望がいっぱい。[LINE]
+高ぶる気持ちでいっぱい動ける。[END]
+// current address: $1B6979
+
+
+
+
+
+//Text $1B6908
+#WRITE(ptr,$191A28)
+[Sign_1]フェザーハット[END]
+// current address: $1B691C
+
+//Text $1B68B0
+#WRITE(ptr,$191A2C)
+大きな羽を飾りにつけた帽子。[LINE]
+洒落た帽子でワンランク上の男を[LINE]
+目指す。それがジョニー流。[END]
+// current address: $1B6907
+
+
+
+
+
+//Text $1B6898
+#WRITE(ptr,$191A48)
+[Sign_1]アクレイムハット[END]
+// current address: $1B68AE
+
+//Text $1B6838
+#WRITE(ptr,$191A4C)
+強者のみが被ることを許される。[LINE]
+被れば称賛を浴びること間違いなし。[LINE]
+火属性の攻撃属性を付加する。[END]
+// current address: $1B6897
+
+
+
+
+
+//Text $1B6820
+#WRITE(ptr,$191A68)
+[Sign_1]エグザイルハット[END]
+// current address: $1B6836
+
+//Text $1B67B8
+#WRITE(ptr,$191A6C)
+世界を旅する冒険家が被っていたと[LINE]
+言われている帽子。放浪癖がつきます。[LINE]
+地属性の攻撃属性を付加する。[END]
+// current address: $1B681B
+
+
+
+
+
+//Text $1B67A0
+#WRITE(ptr,$191A88)
+[Sign_1]ハッピーハット[END]
+// current address: $1B67B4
+
+//Text $1B6738
+#WRITE(ptr,$191A8C)
+老いた魔術師が、帽子が風に飛ば[LINE]
+されないように作った帽子。それが幸せ。[LINE]
+風属性の攻撃属性を付加する。[END]
+// current address: $1B679B
+
+
+
+
+
+//Text $1B6720
+#WRITE(ptr,$191AA8)
+[Sign_1]ストリークハット[END]
+// current address: $1B6736
+
+//Text $1B66C0
+#WRITE(ptr,$191AAC)
+常に謎と戦う探求者のための帽子。[LINE]
+答えを導くと頭の上に何かが出る。[LINE]
+水属性の攻撃属性を付加する。[END]
+// current address: $1B671F
+
+
+
+
+
+//Text $1B66A8
+#WRITE(ptr,$191AC8)
+[Sign_1]シンガーハット[END]
+// current address: $1B66BC
+
+//Text $1B6648
+#WRITE(ptr,$191ACC)
+かつて「天使の合唱団」と呼ばれた[LINE]
+聖歌隊が被っていた由緒ある帽子。[LINE]
+光属性の攻撃属性を付加する。[END]
+// current address: $1B66A7
+
+
+
+
+
+//Text $1B6630
+#WRITE(ptr,$191AE8)
+[Sign_1]シャイフハット[END]
+// current address: $1B6644
+
+//Text $1B65D0
+#WRITE(ptr,$191AEC)
+その声は、混沌で眠る不死の王をも[LINE]
+魅了する。伝説に残る詩人の帽子。[LINE]
+闇属性の攻撃属性を付加する。[END]
+// current address: $1B662F
+
+
+
+
+
+//Text $1B65B8
+#WRITE(ptr,$191B08)
+[Sign_1]レプリカベルト[END]
+// current address: $1B65CC
+
+//Text $1B6560
+#WRITE(ptr,$191B0C)
+街を離れるため返還した[LINE]
+チャンピオンベルトのレプリカ。[LINE]
+また取り戻しゃーいいのよ！[END]
+// current address: $1B65B1
+
+
+
+
+
+//Text $1B6548
+#WRITE(ptr,$191B28)
+[Sign_1]フライベルト[END]
+// current address: $1B655A
+
+//Text $1B6508
+#WRITE(ptr,$191B2C)
+闘技場フライ級を制覇した証。[LINE]
+通常攻撃にダウン効果が少しつく。[LINE]
+[END]
+// current address: $1B6547
+
+
+
+
+
+//Text $1B64F0
+#WRITE(ptr,$191B48)
+[Sign_1]バンタムベルト[END]
+// current address: $1B6504
+
+//Text $1B64A8
+#WRITE(ptr,$191B4C)
+闘技場バンタム級を制覇した証。[LINE]
+通常攻撃にダウン効果がそこそこつく。[LINE]
+[END]
+// current address: $1B64ED
+
+
+
+
+
+//Text $1B6490
+#WRITE(ptr,$191B68)
+[Sign_1]ライトベルト[END]
+// current address: $1B64A2
+
+//Text $1B6448
+#WRITE(ptr,$191B6C)
+闘技場ライト級を制覇した証。[LINE]
+通常攻撃にダウン効果がだいぶつく。[LINE]
+[END]
+// current address: $1B6489
+
+
+
+
+
+//Text $1B6430
+#WRITE(ptr,$191B88)
+[Sign_1]ミドルベルト[END]
+// current address: $1B6442
+
+//Text $1B63E8
+#WRITE(ptr,$191B8C)
+闘技場ミドル級を制覇した証。[LINE]
+通常攻撃にダウン効果がけっこうつく。[LINE]
+[END]
+// current address: $1B642B
+
+
+
+
+
+//Text $1B63D0
+#WRITE(ptr,$191BA8)
+[Sign_1]ヘビーベルト[END]
+// current address: $1B63E2
+
+//Text $1B6388
+#WRITE(ptr,$191BAC)
+闘技場ヘビー級を制覇した証。[LINE]
+通常攻撃にダウン効果がかなりつく。[LINE]
+[END]
+// current address: $1B63C9
+
+
+
+
+
+//Text $1B6370
+#WRITE(ptr,$191BC8)
+[Sign_1]チャンピオンベルト[END]
+// current address: $1B6388
+
+//Text $1B6328
+#WRITE(ptr,$191BCC)
+闘技場を制覇した者に贈られる[LINE]
+最強の証！[LINE]
+不屈の闘志でピンチを跳ね返す！[END]
+// current address: $1B636F
+
+
+
+
+
+//Text $1B6310
+#WRITE(ptr,$191BE8)
+[Sign_1]セインガルドベルト[END]
+// current address: $1B6328
+
+//Text $1B62D8
+#WRITE(ptr,$191BEC)
+セインガルド地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+// current address: $1B630D
+
+
+
+
+
+//Text $1B62B8
+#WRITE(ptr,$191C08)
+[Sign_1]フィッツガルドベルト[END]
+// current address: $1B62D2
+
+//Text $1B6280
+#WRITE(ptr,$191C0C)
+フィッツガルド地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+// current address: $1B62B7
+
+
+
+
+
+//Text $1B6268
+#WRITE(ptr,$191C28)
+[Sign_1]カルバレイスベルト[END]
+// current address: $1B6280
+
+//Text $1B6230
+#WRITE(ptr,$191C2C)
+カルバレイス地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+// current address: $1B6265
+
+
+
+
+
+//Text $1B6210
+#WRITE(ptr,$191C48)
+[Sign_1]アクアヴェイルベルト[END]
+// current address: $1B622A
+
+//Text $1B61D8
+#WRITE(ptr,$191C4C)
+アクアヴェイル地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+// current address: $1B620F
+
+
+
+
+
+//Text $1B61C0
+#WRITE(ptr,$191C68)
+[Sign_1]ファンダリアベルト[END]
+// current address: $1B61D8
+
+//Text $1B6188
+#WRITE(ptr,$191C6C)
+ファンダリア地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+// current address: $1B61BD
+
+
+
+
+
+//Text $1B6168
+#WRITE(ptr,$191C88)
+[Sign_1]Ｗチャンピオンベルト[END]
+// current address: $1B6182
+
+//Text $1B6118
+#WRITE(ptr,$191C8C)
+全世界のモンスターを制覇した[LINE]
+チャンピオンの証！[LINE]
+どんなことにも屈しなくなる。[END]
+// current address: $1B6165
+
+
+
+
+
+//Text $1B6108
+#WRITE(ptr,$191CA8)
+[Sign_1]すいか[END]
+// current address: $1B6114
+
+//Text $1B60B8
+#WRITE(ptr,$191CAC)
+砂漠では水の供給源ともなるすいか。[LINE]
+昔は種も食用として扱われていたとか……[LINE]
+[END]
+// current address: $1B6103
+
+
+
+
+
+//Text $1B60A0
+#WRITE(ptr,$191CC8)
+[Sign_1]鉄のフライパン[END]
+// current address: $1B60B4
+
+//Text $1B6068
+#WRITE(ptr,$191CCC)
+鉄で作られたフライパン。[LINE]
+使い込むほど味が出る。[LINE]
+[END]
+// current address: $1B6099
+
+
+
+
+
+//Text $1B6050
+#WRITE(ptr,$191CE8)
+[Sign_1]銅のフライパン[END]
+// current address: $1B6064
+
+//Text $1B6008
+#WRITE(ptr,$191CEC)
+銅で作られたフライパン。[LINE]
+熱伝導がすばらしい。[LINE]
+料理時間が短縮されます。[END]
+// current address: $1B604F
+
+
+
+
+
+//Text $1B5FF0
+#WRITE(ptr,$191D08)
+[Sign_1]銀のフライパン[END]
+// current address: $1B6004
+
+//Text $1B5FA0
+#WRITE(ptr,$191D0C)
+銀で作られたフライパン。[LINE]
+白い輝きが美しい。[LINE]
+焦がしてしまうのがもったいない。[END]
+// current address: $1B5FED
+
+
+
+
+
+//Text $1B5F88
+#WRITE(ptr,$191D28)
+[Sign_1]金のフライパン[END]
+// current address: $1B5F9C
+
+//Text $1B5F30
+#WRITE(ptr,$191D2C)
+金で作られたフライパン。[LINE]
+別名「豪華なフライパン」。[LINE]
+これであなたも王族専属シェフ。[END]
+// current address: $1B5F83
+
+
+
+
+
+//Text $1B5F20
+#WRITE(ptr,$191D48)
+[Sign_1]かぶ[END]
+// current address: $1B5F2A
+
+//Text $1B5ED8
+#WRITE(ptr,$191D4C)
+非常に古くから栽培されている野菜。[LINE]
+漬物にして食べるのが一般的。[LINE]
+[END]
+// current address: $1B5F19

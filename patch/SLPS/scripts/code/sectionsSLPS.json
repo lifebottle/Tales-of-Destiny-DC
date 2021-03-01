@@ -85,22 +85,75 @@
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Item",
-			"GoogleSheetId":"",
-			"TextStart":	"",
-			"TextEnd":		"",
-			"PointerStart":	"",
-			"PointerEnd":	""
+			"SectionDesc":	"Consumable",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1AC530",
+			"TextEnd":		"1AFCF8",
+			"PointerStart":	"18C60C",
+			"PointerEnd":	"18D6CC"
 		
 		},
+		
 		{
 			"SectionId":	2,
+			"SectionDesc":	"Jewel",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1AFD10",
+			"TextEnd":		"1B09E0",
+			"PointerStart":	"18D720",
+			"PointerEnd":	"18DCD0"
+		},
+		
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Weapon",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B0A38",
+			"TextEnd":		"1B2CD0",
+			"PointerStart":	"18DD2C",
+			"PointerEnd":	"18F2C0"
+		
+		},
+		
+		{
+			"SectionId":	4,
+			"SectionDesc":	"Armor",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B2CE0",
+			"TextEnd":		"1B5EC0",
+			"PointerStart":	"18F334",
+			"PointerEnd":	"1911B0"
+		},
+		
+		{
+			"SectionId":	5,
+			"SectionDesc":	"Unique",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B5ED8",
+			"TextEnd":		"1B83F0",
+			"PointerStart":	"191208",
+			"PointerEnd":	"191D4C"
+		
+		},
+		
+		{
+			"SectionId":	6,
 			"SectionDesc":	"Food",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1B8408",
 			"TextEnd":		"1BA218",
 			"PointerStart":	"191D98",
 			"PointerEnd":	"1926E4"
+		},
+		
+		{
+			"SectionId":	7,
+			"SectionDesc":	"Key",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1BA258",
+			"TextEnd":		"1BAFD0",
+			"PointerStart":	"192714",
+			"PointerEnd":	"192B74"
 		}]
 	},
 	

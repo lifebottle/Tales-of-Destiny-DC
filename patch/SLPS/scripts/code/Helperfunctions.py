@@ -61,11 +61,10 @@ def getGoogleSheetTranslation(gc, googlesheetId, sheetName):
         wks = sh[idSheet]
         
         df = pd.DataFrame(wks.get_all_records())
-        translationText = "\n".join(df['English'].tolist())
         
         #with open("test.txt",encoding="utf-8", mode="w") as f:
         #    f.write(translationsText)
-        return translationText
+        return df['Japanese'].tolist(), df['English'].tolist()
     else:
         print("Cannot find the sheet name in the google sheet")
         return "No"
@@ -107,17 +106,21 @@ def getHeader(pathTable):
     
     return headerTxt
 
+def getSpaceOccupied(textList):
+    firstNb = int( textList[-1].split("\n")[0].replace("//Text $",""), 16)
+    lastNb  = int( textList[0].split("\n")[0].replace("//Text $",""), 16)
+    return lastNb - firstNb
     
 def createBlock(dataItems, blockId):
     
     #Authentification
     gc = pygsheets.authorize(service_file=os.path.join(os.path.abspath(os.path.dirname(__file__)),'gsheet.json'))
+    #gc = pygsheets.authorize(service_file="gsheet.json")
     
     #Go grab the TextStart for the jump
     block = [ele for ele in dataItems if ele['BlockId'] == int(blockId)][0]
 
     textStart = block['TextStartBlock']
-    
     jumpText = "#JMP(${})\n".format(textStart)
     
     #Loop over each section and grab the DumpText
@@ -127,12 +130,19 @@ def createBlock(dataItems, blockId):
     blockText = ""
     blockText += jumpText
     for sectionId, sectionDesc, googleId in sectionsList:
-        
+        print(sectionDesc)
         if googleId != "":
-            #googleDump = grabGoogleDocToText(googleId)
-            googleDump = getGoogleSheetTranslation(gc, googleId, sectionDesc)
+            
+            #Grab the text from google sheet
+            originalTextList, translatedTextList = getGoogleSheetTranslation(gc, googleId, sectionDesc)
+            
+            #Print Stats about space
+            originalSpace = getSpaceOccupied(originalTextList)
+            finalSpace = getSpaceOccupied(translatedTextList)
+            #print("Original space: {}     Final space: {}".format(originalSpace, finalSpace))
+            
             blockText += "//Section {}\n\n".format(sectionDesc)
-            blockText += googleDump
+            blockText += "\n".join(translatedTextList)
         
     return block['BlockDesc'], blockText
 
@@ -186,7 +196,7 @@ def updateBlock(blockId, SLPSName):
 
 
 #googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
-#fileName = 'TODDC_Item_Consumable_Dump_cleaned.txt'
+#fileName = 'TODDC_Item_Key_Dump_cleaned.txt'
 #finalList = parseText(fileName)
 #writeColumn(finalList, googleId)
     

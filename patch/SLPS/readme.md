@@ -3,8 +3,9 @@ Files available for now :
 Block :
 - Artes https://docs.google.com/spreadsheets/d/1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM/edit#gid=956154887
 
-Block :
-- Item Consumable 
+Block with Items:
+- Item Consumable
+- Food Name/description  
 ## Working in the google sheet
 
 In the google sheet, you have two columns. One is the original Japanese text in the game and the second one is 
