@@ -104,8 +104,14 @@ namespace sceWork
         public string ConvertAtoB(string str)
         {
             string str1 = "";
+            byte[] byteArr;
+            if (str == "")
+                return str;
 
-            byte[] byteArr = GetHexStringAsByteArray(str, 2);
+            if (str.EndsWith("00"))
+                byteArr = GetHexStringAsByteArray(str, 2);
+            else
+                byteArr = GetHexStringAsByteArray(str);
 
             for (int index = 0; index < byteArr.Length; ++index)
             {
@@ -205,6 +211,9 @@ namespace sceWork
         {
             string str1 = "";
             byte[] byteArr = GetHexStringAsByteArray(str);
+
+            if (str == "")
+                return str;
 
             for (int index = 0; index < byteArr.Length; ++index)
             {
