@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
+using System.Text;
 
 namespace sceWork
 {
@@ -12,7 +15,12 @@ namespace sceWork
             string[] strArray = File.ReadAllLines(fileName);
             this.entry = new List<tableEntry>();
             for (int index = 0; index < strArray.Length; ++index)
-                this.entry.Add(new tableEntry(strArray[index]));
+            {
+                if (!strArray[index].StartsWith("//") && !strArray[index].StartsWith("#"))
+                {
+                    this.entry.Add(new tableEntry(strArray[index]));
+                }
+            }
         }
 
         private string FindAtoB(string a)
@@ -95,18 +103,159 @@ namespace sceWork
 
         public string ConvertAtoB(string str)
         {
+            string str1 = "";
+            byte[] byteArr;
+            if (str == "")
+                return str;
+
+            if (str.EndsWith("00"))
+                byteArr = GetHexStringAsByteArray(str, 2);
+            else
+                byteArr = GetHexStringAsByteArray(str);
+
+            for (int index = 0; index < byteArr.Length; ++index)
+            {
+                //Canonical byte ranges for character are 0x9940 - 0x9FFF and then 0xE000 - 0xEC5F
+                //The ranges 0xA000-0xDFFF are technically correct too, so there are duplicates
+                if ((byteArr[index] >= 0x99 && byteArr[index] < 0xA0) || byteArr[index] >= 0xE0 && index - 2 <= index)
+                {
+                    string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
+
+                    int index2 = 0;
+                    while (index2 < this.entry.Count)
+                    {
+                        if (this.entry[index2].A.Equals(str2))
+                        {
+                            str1 += this.entry[index2].B;
+                            break;
+                        }
+                        index2++;
+                    }
+
+                    index++;
+                    continue;
+                }
+                if (byteArr[index] == 0x81 && byteArr[index + 1] == 0x40)
+                {
+                    str1 += "09";
+                    index++;
+                    continue;
+                }
+                else if (byteArr[index] < 0x20 && byteArr[index] > 0x01 && index + 4 < byteArr.Length)
+                {
+                    for (int j = 0; j < 5; j++)
+                    {
+                        str1 += "3C78" +
+                        System.BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                        + "3E";
+                        index++;
+                    }
+                    index--;
+                    continue;
+                }
+                else if (byteArr[index] < 0x7F && byteArr[index] > 0x01)
+                {
+                    str1 += System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
+                    continue;
+                }
+                else if (byteArr[index] == 0x01)
+                {
+                    str1 += "0D0A";
+                    continue;
+                }
+                else /*if (byteArr[index] < 0x7F) */
+                {
+                    str1 += "3C78" +
+                    System.BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                    + "3E";
+                    continue;
+                }
+
+            }
+
+            return str1;
+        }
+
+
+        public string ConvertTagsToNative(string str)
+        {
+            string str1 = str;
+            for (int index = 0; index < this.entry.Count; ++index)
+                str1 = this.Replace(str1, this.entry[index].B, this.entry[index].A);
+            return str1.Replace("[", "").Replace("]", "");
+        }
+
+        //This function replaces special byte sequences with a friendly name
+        //defined in CODES.txt, as the special sequences are always 3+
+        //bytes long and start with a byte < 0x20 it can be done once for all of the file
+        public string ConvertNativeToTags(string str)
+        {
             string str1 = str;
             for (int index = 0; index < this.entry.Count; ++index)
                 str1 = this.Replace(str1, this.entry[index].A, this.entry[index].B);
             return str1.Replace("[", "").Replace("]", "");
         }
 
+        private byte[] GetHexStringAsByteArray(string str, int toRemove = 0)
+        {
+            byte[] byteArr = new byte[(str.Length - toRemove) / 2];
+
+            for (int index = 0; index < str.Length - toRemove; index += 2)
+            {
+                byteArr[index / 2] += byte.Parse(str.Substring(index, 2), NumberStyles.HexNumber);
+            }
+            return byteArr;
+        }
+
         public string ConvertBtoA(string str)
         {
-            string str1 = str;
-            for (int index = 0; index < this.entry.Count; ++index)
-                str1 = this.Replace(str1, this.entry[index].B, this.entry[index].A);
-            return str1.Replace("[", "").Replace("]", "");
+            string str1 = "";
+            byte[] byteArr = GetHexStringAsByteArray(str);
+
+            if (str == "")
+                return str;
+
+            for (int index = 0; index < byteArr.Length; ++index)
+            {
+                if ((byteArr[index] & 0x80) != 0 /*&& index < byteArr.Length-2*/)
+                {
+                    string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
+                    int index2 = 0;
+                    while (index2 < this.entry.Count)
+                    {
+                        if (this.entry[index2].B.Equals(str2))
+                        {
+                            str1 += this.entry[index2].A;
+                            break;
+                        }
+                        index2++;
+                    }
+
+                    index++;
+                }
+                else if (index + 4 < byteArr.Length && byteArr[index] == 0x3C
+                    && byteArr[index + 1] == 0x78 && byteArr[index + 4] == 0x3E)
+                {
+                    str1 += Encoding.GetEncoding(1251).GetString(byteArr, index + 2, 2);
+                    index += 4;
+                }
+                else if (byteArr[index] == 0x0D && byteArr[index + 1] == 0x0A)
+                {
+                    str1 += "01";
+                    index++;
+                }
+                else if (byteArr[index] == 0x09)
+                {
+                    str1 += "8140";
+                }
+                else /*if (byteArr[index] < 0x7F) */
+                {
+                    str1 += System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
+                }
+
+            }
+
+            return str1 + "00";
         }
     }
 }

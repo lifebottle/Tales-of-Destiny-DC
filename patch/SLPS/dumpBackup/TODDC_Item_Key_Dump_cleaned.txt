@@ -1,0 +1,661 @@
+//GAME NAME:		Tales of destiny - DC (PS2)
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("F:\PythonCode\TOD_GoogleDoc\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $1BAFD0
+#WRITE(ptr,$192714)
+[Sign_Key]ワールドマップ[END]
+// current address: $1BAFE4
+
+//Text $1BAF80
+#WRITE(ptr,$192718)
+世界を旅する者には欠かせない地図。[LINE]
+フィールドを移動中、[LINE]
+[R3_ani]ボタンで起動する。[END]
+// current address: $1BAFD0
+
+
+
+
+
+//Text $1BAF68
+#WRITE(ptr,$192730)
+[Sign_Key]モンスター図鑑[END]
+// current address: $1BAF7C
+
+//Text $1BAF10
+#WRITE(ptr,$192734)
+今までの戦った敵をまとめた図鑑。[LINE]
+戦闘中[R1_copy]を押した状態で[LINE]
+[Circle_ani2]でも起動できる。[END]
+// current address: $1BAF61
+
+
+
+
+
+//Text $1BAF00
+#WRITE(ptr,$19274C)
+[Sign_Key]フード図鑑[END]
+// current address: $1BAF10
+
+//Text $1BAED0
+#WRITE(ptr,$192750)
+今まで食べたことのある[LINE]
+料理が載った図鑑。[LINE]
+[END]
+// current address: $1BAEFB
+
+
+
+
+
+//Text $1BAEB8
+#WRITE(ptr,$192768)
+[Sign_Key]ディスカバリー図鑑[END]
+// current address: $1BAED0
+
+//Text $1BAE70
+#WRITE(ptr,$19276C)
+世界中で発見したものをまとめた[LINE]
+図鑑。[LINE]
+旅の途中で出会った思い出の記録。[END]
+// current address: $1BAEB7
+
+
+
+
+
+//Text $1BAE58
+#WRITE(ptr,$192784)
+[Sign_Key]コレクター図鑑[END]
+// current address: $1BAE6C
+
+//Text $1BAE00
+#WRITE(ptr,$192788)
+入手したことのあるアイテムが[LINE]
+載った図鑑。全部集めれば何か[LINE]
+いいことがあるかも……[END]
+// current address: $1BAE51
+
+
+
+
+
+//Text $1BADE8
+#WRITE(ptr,$1927A0)
+[Sign_Key]あらすじブック[END]
+// current address: $1BADFC
+
+//Text $1BADB8
+#WRITE(ptr,$1927A4)
+ここまでの物語のあらすじを読む事[LINE]
+ができる本。[LINE]
+[END]
+// current address: $1BADE7
+
+
+
+
+
+//Text $1BADA0
+#WRITE(ptr,$1927BC)
+[Sign_Key]マニュアルの書[END]
+// current address: $1BADB4
+
+//Text $1BAD48
+#WRITE(ptr,$1927C0)
+移動・攻撃を自分で行う操作[LINE]
+「マニュアル」が術技メニューから[LINE]
+選択可能になる戦術書。[END]
+// current address: $1BAD9B
+
+
+
+
+
+//Text $1BAD30
+#WRITE(ptr,$1927D8)
+[Sign_Key]ディフィニット戦記[END]
+// current address: $1BAD48
+
+//Text $1BACD8
+#WRITE(ptr,$1927DC)
+カスタム設定でモンスター図鑑の[LINE]
+ディフィニットストライク表示を[LINE]
+変更できる戦術書。[END]
+// current address: $1BAD29
+
+
+
+
+
+//Text $1BACC0
+#WRITE(ptr,$1927F4)
+[Sign_Key]ソーサラーリング[END]
+// current address: $1BACD6
+
+//Text $1BAC80
+#WRITE(ptr,$1927F8)
+レンズの力で強い熱を発射する指輪。[LINE]
+[Square_ani]ボタンで発射する。[LINE]
+[END]
+// current address: $1BACBC
+
+
+
+
+
+//Text $1BAC68
+#WRITE(ptr,$192810)
+[Sign_Key]ダウジングロッド[END]
+// current address: $1BAC7E
+
+//Text $1BAC18
+#WRITE(ptr,$192814)
+かくれた気配を探り当てる占い棒。[LINE]
+フィールド移動中に[R2_ani]ボタンで[LINE]
+起動する。[END]
+// current address: $1BAC64
+
+
+
+
+
+//Text $1BAC00
+#WRITE(ptr,$19282C)
+[Sign_Key]フードサック[END]
+// current address: $1BAC12
+
+//Text $1BAB98
+#WRITE(ptr,$192830)
+自動的に料理が出てくる不思議な袋。[LINE]
+フード補充し忘れに注意しよう！[LINE]
+フードストラップを４個装着可能。[END]
+// current address: $1BABFB
+
+
+
+
+
+//Text $1BAB80
+#WRITE(ptr,$192848)
+[Sign_Key]フードバッグ[END]
+// current address: $1BAB92
+
+//Text $1BAB38
+#WRITE(ptr,$19284C)
+買い物などにも便利な[LINE]
+肩掛けのバッグ。[LINE]
+フードストラップを６個装着可能。[END]
+// current address: $1BAB7F
+
+
+
+
+
+//Text $1BAB20
+#WRITE(ptr,$192864)
+[Sign_Key]フードリュック[END]
+// current address: $1BAB34
+
+//Text $1BAAD8
+#WRITE(ptr,$192868)
+長旅にも安心なリュックサック。[LINE]
+フードストラップを８個装着可能。[LINE]
+[END]
+// current address: $1BAB19
+
+
+
+
+
+//Text $1BAAC0
+#WRITE(ptr,$192880)
+[Sign_Key]フードボックス[END]
+// current address: $1BAAD4
+
+//Text $1BAA78
+#WRITE(ptr,$192884)
+背負えるように改造された大型の箱。[LINE]
+フードストラップを１６個装着可能。[LINE]
+[END]
+// current address: $1BAABF
+
+
+
+
+
+//Text $1BAA68
+#WRITE(ptr,$19289C)
+[Sign_Key]通行証[END]
+// current address: $1BAA74
+
+//Text $1BAA18
+#WRITE(ptr,$1928A0)
+セインガルドからファンダリアへ[LINE]
+入るために必要な通行証。[LINE]
+これがないと大変……[END]
+// current address: $1BAA65
+
+
+
+
+
+//Text $1BAA08
+#WRITE(ptr,$1928B8)
+[Sign_Key]つるはし[END]
+// current address: $1BAA16
+
+//Text $1BA9B8
+#WRITE(ptr,$1928BC)
+堅い土地を掘り起こすのに使う道具。[LINE]
+先端の両端がくちばしのように[LINE]
+とがっている。[END]
+// current address: $1BAA07
+
+
+
+
+
+//Text $1BA9A8
+#WRITE(ptr,$1928D4)
+[Sign_Key]つのぶえ[END]
+// current address: $1BA9B6
+
+//Text $1BA968
+#WRITE(ptr,$1928D8)
+動物の角で作ったラッパ。[LINE]
+海の近くで使うと海竜が呼べる。[LINE]
+[END]
+// current address: $1BA9A1
+
+
+
+
+
+//Text $1BA958
+#WRITE(ptr,$1928F0)
+[Sign_Key]Ｒキー[END]
+// current address: $1BA964
+
+//Text $1BA928
+#WRITE(ptr,$1928F4)
+ラディスロウの機能を[LINE]
+復活させるための装置。[LINE]
+[END]
+// current address: $1BA955
+
+
+
+
+
+//Text $1BA910
+#WRITE(ptr,$19290C)
+[Sign_Key]エネルギーユニット[END]
+// current address: $1BA928
+
+//Text $1BA8D0
+#WRITE(ptr,$192910)
+アンスズーンのメインシステムに[LINE]
+エネルギーを供給するユニット。[LINE]
+[END]
+// current address: $1BA90F
+
+
+
+
+
+//Text $1BA8B8
+#WRITE(ptr,$192928)
+[Sign_Key]赤色カードキー[END]
+// current address: $1BA8CC
+
+//Text $1BA880
+#WRITE(ptr,$19292C)
+ヘルレイオスの扉を[LINE]
+開けるための赤色カードキー。[LINE]
+[END]
+// current address: $1BA8B1
+
+
+
+
+
+//Text $1BA868
+#WRITE(ptr,$192944)
+[Sign_Key]青色カードキー[END]
+// current address: $1BA87C
+
+//Text $1BA830
+#WRITE(ptr,$192948)
+ヘルレイオスの扉を[LINE]
+開けるための青色カードキー。[LINE]
+[END]
+// current address: $1BA861
+
+
+
+
+
+//Text $1BA818
+#WRITE(ptr,$192960)
+[Sign_Key]黄色カードキー[END]
+// current address: $1BA82C
+
+//Text $1BA7E0
+#WRITE(ptr,$192964)
+ヘルレイオスの扉を[LINE]
+開けるための黄色カードキー。[LINE]
+[END]
+// current address: $1BA811
+
+
+
+
+
+//Text $1BA7C8
+#WRITE(ptr,$19297C)
+[Sign_Key]灰色カードキー[END]
+// current address: $1BA7DC
+
+//Text $1BA790
+#WRITE(ptr,$192980)
+ヘルレイオスの扉を[LINE]
+開けるための灰色カードキー。[LINE]
+[END]
+// current address: $1BA7C1
+
+
+
+
+
+//Text $1BA770
+#WRITE(ptr,$192998)
+[Sign_Key]鏡面バリアー中和装置[END]
+// current address: $1BA78A
+
+//Text $1BA748
+#WRITE(ptr,$19299C)
+鏡面バリアーを中和するための装置。[LINE]
+[LINE]
+[END]
+// current address: $1BA76D
+
+
+
+
+
+//Text $1BA730
+#WRITE(ptr,$1929B4)
+[Sign_Key]ベルセリウム[END]
+// current address: $1BA742
+
+//Text $1BA6F8
+#WRITE(ptr,$1929B8)
+生体金属の原料の青い鉱石。[LINE]
+飛行竜を直すのに必要。[LINE]
+[END]
+// current address: $1BA72B
+
+
+
+
+
+//Text $1BA6E0
+#WRITE(ptr,$1929D0)
+[Sign_Key]マス・ベルセリウム[END]
+// current address: $1BA6F8
+
+//Text $1BA6A0
+#WRITE(ptr,$1929D4)
+生体金属の原料の青い鉱石。[LINE]
+飛行竜を直すのに十分な量がある。[LINE]
+[END]
+// current address: $1BA6DD
+
+
+
+
+
+//Text $1BA688
+#WRITE(ptr,$1929EC)
+[Sign_Key]新興国のレンズ[END]
+// current address: $1BA69C
+
+//Text $1BA638
+#WRITE(ptr,$1929F0)
+集積レンズ砲の出力を確保するため[LINE]
+にフィッツガルドの人たちが集めた[LINE]
+レンズ。[END]
+// current address: $1BA683
+
+
+
+
+
+//Text $1BA620
+#WRITE(ptr,$192A08)
+[Sign_Key]雪国のレンズ[END]
+// current address: $1BA632
+
+//Text $1BA5D0
+#WRITE(ptr,$192A0C)
+集積レンズ砲の出力を確保するため[LINE]
+にファンダリアの人たちが集めた[LINE]
+レンズ。[END]
+// current address: $1BA619
+
+
+
+
+
+//Text $1BA5B8
+#WRITE(ptr,$192A24)
+[Sign_Key]島国のレンズ[END]
+// current address: $1BA5CA
+
+//Text $1BA568
+#WRITE(ptr,$192A28)
+集積レンズ砲の出力を確保するため[LINE]
+にアクアヴェイルの人たちが集めた[LINE]
+レンズ。[END]
+// current address: $1BA5B3
+
+
+
+
+
+//Text $1BA550
+#WRITE(ptr,$192A40)
+[Sign_Key]砂漠のレンズ[END]
+// current address: $1BA562
+
+//Text $1BA500
+#WRITE(ptr,$192A44)
+集積レンズ砲の出力を確保するため[LINE]
+にカルバレイスの人たちが集めた[LINE]
+レンズ。[END]
+// current address: $1BA549
+
+
+
+
+
+//Text $1BA4E8
+#WRITE(ptr,$192A5C)
+[Sign_Key]アルカナキー[END]
+// current address: $1BA4FA
+
+//Text $1BA4B0
+#WRITE(ptr,$192A60)
+ＥＸダンジョン「アルカナルイン」[LINE]
+に入るための鍵。[LINE]
+[END]
+// current address: $1BA4E3
+
+
+
+
+
+//Text $1BA4A0
+#WRITE(ptr,$192A78)
+[Sign_Lens5]ラフレンズ[END]
+// current address: $1BA4B0
+
+//Text $1BA470
+#WRITE(ptr,$192A7C)
+傷のついたレンズ。[LINE]
+安価ではあるが取引は可能。[LINE]
+[END]
+// current address: $1BA49F
+
+
+
+
+
+//Text $1BA458
+#WRITE(ptr,$192A94)
+[Sign_Lens4]クリアレンズ[END]
+// current address: $1BA46A
+
+//Text $1BA418
+#WRITE(ptr,$192A98)
+傷のない精錬されたレンズ。[LINE]
+一般的にレンズといえばこれ。[LINE]
+[END]
+// current address: $1BA451
+
+
+
+
+
+//Text $1BA400
+#WRITE(ptr,$192AB0)
+[Sign_Lens3]ブルーレンズ[END]
+// current address: $1BA412
+
+//Text $1BA3B0
+#WRITE(ptr,$192AB4)
+やや珍しい、濃い青色のレンズ。[LINE]
+高価な家具などの飾りに[LINE]
+用いることもある。[END]
+// current address: $1BA3F9
+
+
+
+
+
+//Text $1BA3A0
+#WRITE(ptr,$192ACC)
+[Sign_Lens2]タフレンズ[END]
+// current address: $1BA3B0
+
+//Text $1BA360
+#WRITE(ptr,$192AD0)
+非常に強度の高いレンズ。[LINE]
+軍事用装甲などにも用いられる。[LINE]
+[END]
+// current address: $1BA399
+
+
+
+
+
+//Text $1BA348
+#WRITE(ptr,$192AE8)
+[Sign_Lens1]スフィアレンズ[END]
+// current address: $1BA35C
+
+//Text $1BA300
+#WRITE(ptr,$192AEC)
+完全球体の非常に珍しいレンズ。[LINE]
+富裕層のステータスとして扱われる。[LINE]
+[END]
+// current address: $1BA343
+
+
+
+
+
+//Text $1BA2F0
+#WRITE(ptr,$192B04)
+[Sign_Key]バルブ[END]
+// current address: $1BA2FC
+
+//Text $1BA2C0
+#WRITE(ptr,$192B08)
+モリュウ城の給水装置を[LINE]
+調節するためのバルブ。[LINE]
+[END]
+// current address: $1BA2EF
+
+
+
+
+
+//Text $1BA2A8
+#WRITE(ptr,$192B20)
+[Sign_Key]天地神明の石版・天[END]
+// current address: $1BA2C0
+
+//Text $1BA270
+#WRITE(ptr,$192B24)
+何かの紋章が書かれている石版。[LINE]
+不思議な力を感じる……[LINE]
+[END]
+// current address: $1BA2A7
+
+
+
+
+
+//Text $1BA258
+#WRITE(ptr,$192B3C)
+[Sign_Key]天地神明の石版・地[END]
+// current address: $1BA270
+
+//Text $1BA270
+#WRITE(ptr,$192B40)
+何かの紋章が書かれている石版。[LINE]
+不思議な力を感じる……[LINE]
+[END]
+// current address: $1BA2A7
+
+
+
+
+
+//Text $1BA240
+#WRITE(ptr,$192B58)
+[Sign_Key]天地神明の石版・神[END]
+// current address: $1BA258
+
+//Text $1BA270
+#WRITE(ptr,$192B5C)
+何かの紋章が書かれている石版。[LINE]
+不思議な力を感じる……[LINE]
+[END]
+// current address: $1BA2A7
+
+
+
+
+
+//Text $1BA228
+#WRITE(ptr,$192B74)
+[Sign_Key]天地神明の石版・明[END]
+// current address: $1BA240
+
+//Text $1BA270
+#WRITE(ptr,$192B78)
+何かの紋章が書かれている石版。[LINE]
+不思議な力を感じる……[LINE]
+[END]
+// current address: $1BA2A7

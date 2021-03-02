@@ -1,0 +1,1483 @@
+//Text $1B2CD0
+#WRITE(ptr,$18DD2C)
+[Sign_Sword]ディムロス[END]
+// current address: $1B2CE0
+
+//Text $1B2C80
+#WRITE(ptr,$18DD30)
+火属性の知能ある剣。[LINE]
+人格は、熱血漢の切り込み隊長。[LINE]
+ディムロス・ティンバー。[END]
+// current address: $1B2CCD
+
+
+
+
+
+//Text $1B2C70
+#WRITE(ptr,$18DD68)
+[Sign_Sword]アトワイト[END]
+// current address: $1B2C80
+
+//Text $1B2C20
+#WRITE(ptr,$18DD6C)
+水属性の知能ある剣。[LINE]
+人格は、激情を秘めた理知的な女性。[LINE]
+アトワイト・エックス。[END]
+// current address: $1B2C6F
+
+
+
+
+
+//Text $1B2C10
+#WRITE(ptr,$18DDA4)
+[Sign_Sword]クレメンテ[END]
+// current address: $1B2C20
+
+//Text $1B2BC0
+#WRITE(ptr,$18DDA8)
+光属性の知能ある剣。[LINE]
+人格は、知識と経験のある老人。[LINE]
+ラヴィル・クレメンテ。[END]
+// current address: $1B2C0B
+
+
+
+
+
+//Text $1B2BA8
+#WRITE(ptr,$18DDE0)
+[Sign_Sword]イクティノス[END]
+// current address: $1B2BBA
+
+//Text $1B2B50
+#WRITE(ptr,$18DDE4)
+風属性の知能ある剣。[LINE]
+人格は、知性と合理性を持った男性。[LINE]
+イクティノス・マイナード。[END]
+// current address: $1B2BA3
+
+
+
+
+
+//Text $1B2B38
+#WRITE(ptr,$18DE1C)
+[Sign_Sword]シャルティエ[END]
+// current address: $1B2B4A
+
+//Text $1B2AE0
+#WRITE(ptr,$18DE20)
+地属性の知能ある剣。[LINE]
+人格は、才能に恵まれた若き青年。[LINE]
+ピエール・ド・シャルティエ。[END]
+// current address: $1B2B33
+
+
+
+
+
+//Text $1B2AC8
+#WRITE(ptr,$18DE58)
+[Sign_Sword]ナイトブレイド[END]
+// current address: $1B2ADC
+
+//Text $1B2A80
+#WRITE(ptr,$18DE5C)
+各国の軍隊に採用されている剣。[LINE]
+シンプルな作りで非常に扱いやすい。[LINE]
+[END]
+// current address: $1B2AC3
+
+
+
+
+
+//Text $1B2A68
+#WRITE(ptr,$18DE94)
+[Sign_Sword]ロイヤルブレイド[END]
+// current address: $1B2A7E
+
+//Text $1B2A18
+#WRITE(ptr,$18DE98)
+ファンダリア王家に伝わる名剣。[LINE]
+見た目の豪華さとは裏腹に、[LINE]
+鋭い切れ味を持つ。[END]
+// current address: $1B2A65
+
+
+
+
+
+//Text $1B2A08
+#WRITE(ptr,$18DED0)
+[Sign_Sword]古びた剣[END]
+// current address: $1B2A16
+
+//Text $1B29A0
+#WRITE(ptr,$18DED4)
+飛行竜の船倉に厳重保管されていた、[LINE]
+変わった形の妙に手になじむ剣。[LINE]
+何か得体の知れない力を感じる……[END]
+// current address: $1B2A03
+
+
+
+
+
+//Text $1B2988
+#WRITE(ptr,$18DF0C)
+[Sign_Sword]ストーンアックス[END]
+// current address: $1B299E
+
+//Text $1B2940
+#WRITE(ptr,$18DF10)
+石を削って作られた石製の斧。[LINE]
+すでに時代遅れの武器だが[LINE]
+人の進化の証。[END]
+// current address: $1B2985
+
+
+
+
+
+//Text $1B2928
+#WRITE(ptr,$18DF48)
+[Sign_Sword]ブロンズアックス[END]
+// current address: $1B293E
+
+//Text $1B28E0
+#WRITE(ptr,$18DF4C)
+耐食性の優れた銅製の斧。[LINE]
+天地戦争時代から使われていた[LINE]
+優秀な金属。[END]
+// current address: $1B2923
+
+
+
+
+
+//Text $1B28C8
+#WRITE(ptr,$18DF84)
+[Sign_Sword]アイアンアックス[END]
+// current address: $1B28DE
+
+//Text $1B2888
+#WRITE(ptr,$18DF88)
+さまざまな構造物に使われる[LINE]
+鉄製の斧。[LINE]
+もっとも身近な金属。[END]
+// current address: $1B28C3
+
+
+
+
+
+//Text $1B2870
+#WRITE(ptr,$18DFC0)
+[Sign_Sword]スチールアックス[END]
+// current address: $1B2886
+
+//Text $1B2840
+#WRITE(ptr,$18DFC4)
+鉄に炭素を混ぜてできる合金。[LINE]
+鋼製の斧。[LINE]
+[END]
+// current address: $1B2869
+
+
+
+
+
+//Text $1B2828
+#WRITE(ptr,$18DFFC)
+[Sign_Sword]チタンアックス[END]
+// current address: $1B283C
+
+//Text $1B27D8
+#WRITE(ptr,$18E000)
+さまざまな用途に使われる[LINE]
+チタン製の斧。[LINE]
+非常に軽く、並外れた耐食性を持つ。[END]
+// current address: $1B2823
+
+
+
+
+
+//Text $1B27C0
+#WRITE(ptr,$18E038)
+[Sign_Sword]シルバーアックス[END]
+// current address: $1B27D6
+
+//Text $1B2790
+#WRITE(ptr,$18E03C)
+銀細工で装飾された斧。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+// current address: $1B27BB
+
+
+
+
+
+//Text $1B2778
+#WRITE(ptr,$18E074)
+[Sign_Sword]ゴールドアックス[END]
+// current address: $1B278E
+
+//Text $1B2740
+#WRITE(ptr,$18E078)
+金をふんだんに混ぜて作られた斧。[LINE]
+別名「豪華な斧」。[LINE]
+[END]
+// current address: $1B2775
+
+
+
+
+
+//Text $1B2728
+#WRITE(ptr,$18E0B0)
+[Sign_Sword]ミスリルアックス[END]
+// current address: $1B273E
+
+//Text $1B26E0
+#WRITE(ptr,$18E0B4)
+ミスリルを用いて鍛え上げた斧。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+// current address: $1B2721
+
+
+
+
+
+//Text $1B26C8
+#WRITE(ptr,$18E0EC)
+[Sign_Sword]ハンドアックス[END]
+// current address: $1B26DC
+
+//Text $1B2680
+#WRITE(ptr,$18E0F0)
+非常に扱いやすい小型の斧。[LINE]
+少し力があれば片手でも軽々[LINE]
+扱うことが可能。[END]
+// current address: $1B26C7
+
+
+
+
+
+//Text $1B2668
+#WRITE(ptr,$18E128)
+[Sign_Sword]バトルアックス[END]
+// current address: $1B267C
+
+//Text $1B2628
+#WRITE(ptr,$18E12C)
+切れ味鋭い肉厚の斧。[LINE]
+その名の通り、[LINE]
+戦闘用に特化されている。[END]
+// current address: $1B2665
+
+
+
+
+
+//Text $1B2610
+#WRITE(ptr,$18E164)
+[Sign_Sword]グレートアックス[END]
+// current address: $1B2626
+
+//Text $1B25B0
+#WRITE(ptr,$18E168)
+この斧を初めて見たキコリが、[LINE]
+「グレートだ！」と叫んだことから[LINE]
+この名がついた。切れ味も抜群。[END]
+// current address: $1B260D
+
+
+
+
+
+//Text $1B2598
+#WRITE(ptr,$18E1A0)
+[Sign_Sword]クレセントアックス[END]
+// current address: $1B25B0
+
+//Text $1B2548
+#WRITE(ptr,$18E1A4)
+三日月の形を模した斧。[LINE]
+乳白色の刃は闇で振るうと[LINE]
+より月のように見えるらしい。[END]
+// current address: $1B2595
+
+
+
+
+
+//Text $1B2530
+#WRITE(ptr,$18E1DC)
+[Sign_Sword]ヘッドアックス[END]
+// current address: $1B2544
+
+//Text $1B24D8
+#WRITE(ptr,$18E1E0)
+刃の反対側に尻尾のように伸びた[LINE]
+切っ先が特徴の斧。[LINE]
+地面に突き刺すために使われる。[END]
+// current address: $1B2529
+
+
+
+
+
+//Text $1B24C0
+#WRITE(ptr,$18E218)
+[Sign_Sword]ストライクアックス[END]
+// current address: $1B24D8
+
+//Text $1B2480
+#WRITE(ptr,$18E21C)
+対剣士用に作られた斧。[LINE]
+刃の隙間は剣を引っ掛け[LINE]
+折るためのもの。[END]
+// current address: $1B24BF
+
+
+
+
+
+//Text $1B2468
+#WRITE(ptr,$18E254)
+[Sign_Sword]ドライビンアックス[END]
+// current address: $1B2480
+
+//Text $1B2410
+#WRITE(ptr,$18E258)
+特徴的な薄く丸い刃を持つ斧。[LINE]
+力のない者が振るっても[LINE]
+容易く肉を裂けられるほど鋭い。[END]
+// current address: $1B2463
+
+
+
+
+
+//Text $1B23F8
+#WRITE(ptr,$18E290)
+[Sign_Sword]レアアックス[END]
+// current address: $1B240A
+
+//Text $1B23A0
+#WRITE(ptr,$18E294)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れの斧。[END]
+// current address: $1B23F3
+
+
+
+
+
+//Text $1B2388
+#WRITE(ptr,$18E2CC)
+[Sign_Sword]トマホークアックス[END]
+// current address: $1B23A0
+
+//Text $1B2338
+#WRITE(ptr,$18E2D0)
+「切るための道具」[LINE]
+という意味の名を持つ斧。[LINE]
+扱いが上手ければ投げることも可能。[END]
+// current address: $1B2387
+
+
+
+
+
+//Text $1B2320
+#WRITE(ptr,$18E308)
+[Sign_Sword]ポールアックス[END]
+// current address: $1B2334
+
+//Text $1B22E0
+#WRITE(ptr,$18E30C)
+非常に重く、鋭い切っ先を持つ斧。[LINE]
+重装備の鎧でさえ打ち砕ける。[LINE]
+[END]
+// current address: $1B231F
+
+
+
+
+
+//Text $1B22C0
+#WRITE(ptr,$18E344)
+[Sign_Sword]ジャッドバラアックス[END]
+// current address: $1B22DA
+
+//Text $1B2278
+#WRITE(ptr,$18E348)
+先端が槍状になっている斧。[LINE]
+斬るだけでなく[LINE]
+刺すこともできる優秀な斧。[END]
+// current address: $1B22BD
+
+
+
+
+
+//Text $1B2260
+#WRITE(ptr,$18E380)
+[Sign_Sword]ロコッバーアックス[END]
+// current address: $1B2278
+
+//Text $1B2220
+#WRITE(ptr,$18E384)
+斧刃と鈎爪を併せ持つ斧。[LINE]
+馬上の敵を引きずり下ろすのに有効。[LINE]
+[END]
+// current address: $1B225D
+
+
+
+
+
+//Text $1B2208
+#WRITE(ptr,$18E3BC)
+[Sign_Sword]アイアックス[END]
+// current address: $1B221A
+
+//Text $1B21C8
+#WRITE(ptr,$18E3C0)
+斧頭が目の形をしていることから[LINE]
+この名がつけられた大型の斧。[LINE]
+[END]
+// current address: $1B2205
+
+
+
+
+
+//Text $1B21B0
+#WRITE(ptr,$18E3F8)
+[Sign_Sword]イプシロンアックス[END]
+// current address: $1B21C8
+
+//Text $1B2160
+#WRITE(ptr,$18E3FC)
+アイアックスを[LINE]
+より扱いやすくした斧。[LINE]
+攻撃力もアップし軽量化も図られた。[END]
+// current address: $1B21A9
+
+
+
+
+
+//Text $1B2148
+#WRITE(ptr,$18E434)
+[Sign_Sword]ガイアアックス[END]
+// current address: $1B215C
+
+//Text $1B2100
+#WRITE(ptr,$18E438)
+大地の名で呼ばれる斧。[LINE]
+華奢な形状からは想像できない[LINE]
+威力を持つ。[END]
+// current address: $1B2141
+
+
+
+
+
+//Text $1B20E8
+#WRITE(ptr,$18E470)
+[Sign_Sword]グリムアックス[END]
+// current address: $1B20FC
+
+//Text $1B2098
+#WRITE(ptr,$18E474)
+伝説に登場する幻想の力を秘めた斧。[LINE]
+口伝を書物にまとめた兄弟の名を[LINE]
+冠する。[END]
+// current address: $1B20E3
+
+
+
+
+
+//Text $1B2088
+#WRITE(ptr,$18E4AC)
+[Sign_Sword]ガノ[END]
+// current address: $1B2092
+
+//Text $1B2048
+#WRITE(ptr,$18E4B0)
+三日月型の斧頭が特徴の戦斧。[LINE]
+少ない金属で作ることが可能な斧。[LINE]
+[END]
+// current address: $1B2087
+
+
+
+
+
+//Text $1B2038
+#WRITE(ptr,$18E4E8)
+[Sign_Sword]ショカ[END]
+// current address: $1B2044
+
+//Text $1B1FF0
+#WRITE(ptr,$18E4EC)
+金属で強化することで[LINE]
+強度を上げた斧。[LINE]
+日常の道具としても使用可能。[END]
+// current address: $1B2033
+
+
+
+
+
+//Text $1B1FE0
+#WRITE(ptr,$18E524)
+[Sign_Sword]セルティス[END]
+// current address: $1B1FF0
+
+//Text $1B1F98
+#WRITE(ptr,$18E528)
+斧頭がノミのようになっている斧。[LINE]
+見た目の優美さと異なり、[LINE]
+刃先は鋭い。[END]
+// current address: $1B1FDF
+
+
+
+
+
+//Text $1B1F88
+#WRITE(ptr,$18E560)
+[Sign_Sword]タバール[END]
+// current address: $1B1F96
+
+//Text $1B1F40
+#WRITE(ptr,$18E564)
+タフレンズが埋め込まれた[LINE]
+半月型の斧。豪華な作りだが[LINE]
+切れ味は鋭い。[END]
+// current address: $1B1F83
+
+
+
+
+
+//Text $1B1F30
+#WRITE(ptr,$18E59C)
+[Sign_Sword]タバンジル[END]
+// current address: $1B1F40
+
+//Text $1B1EE0
+#WRITE(ptr,$18E5A0)
+植物のような装飾をされた戦斧。[LINE]
+装飾のわりに軽量なため、[LINE]
+殴打武器としても優秀。[END]
+// current address: $1B1F2F
+
+
+
+
+
+//Text $1B1ED0
+#WRITE(ptr,$18E5D8)
+[Sign_Sword]タンギ[END]
+// current address: $1B1EDC
+
+//Text $1B1E78
+#WRITE(ptr,$18E5DC)
+刃が上向きになっている斧。[LINE]
+透明感のある美しい刃は、[LINE]
+祭事用に使われていた時の名残。[END]
+// current address: $1B1ECB
+
+
+
+
+
+//Text $1B1E68
+#WRITE(ptr,$18E614)
+[Sign_Sword]ブローバー[END]
+// current address: $1B1E78
+
+//Text $1B1E20
+#WRITE(ptr,$18E618)
+三日月型の幅広い斧頭を持つ戦斧。[LINE]
+敵を切断するのに特化している。[LINE]
+[END]
+// current address: $1B1E61
+
+
+
+
+
+//Text $1B1E08
+#WRITE(ptr,$18E650)
+[Sign_Sword]ルベリエアックス[END]
+// current address: $1B1E1E
+
+//Text $1B1DB8
+#WRITE(ptr,$18E654)
+空想を意味する斧。[LINE]
+手にした者の想いを力に変える。[LINE]
+選ばれた者のみが手にできる。[END]
+// current address: $1B1E07
+
+
+
+
+
+//Text $1B1DA8
+#WRITE(ptr,$18E68C)
+[Sign_Sword]さつまいも[END]
+// current address: $1B1DB8
+
+//Text $1B1D60
+#WRITE(ptr,$18E690)
+食物繊維が豊富なさつまいも。[LINE]
+低温でじっくり加熱すると[LINE]
+甘みが増す。[END]
+// current address: $1B1DA3
+
+
+
+
+
+//Text $1B1D48
+#WRITE(ptr,$18E6C8)
+[Sign_Sword]ウッドアロー[END]
+// current address: $1B1D5A
+
+//Text $1B1D10
+#WRITE(ptr,$18E6CC)
+木製の小型弓。[LINE]
+初心者用の弓として広く扱われる。[LINE]
+[END]
+// current address: $1B1D41
+
+
+
+
+
+//Text $1B1CF8
+#WRITE(ptr,$18E704)
+[Sign_Sword]スチールアロー[END]
+// current address: $1B1D0C
+
+//Text $1B1CC8
+#WRITE(ptr,$18E708)
+鉄に炭素を混ぜてできる合金、[LINE]
+鋼製の小型弓。[LINE]
+[END]
+// current address: $1B1CF5
+
+
+
+
+
+//Text $1B1CB0
+#WRITE(ptr,$18E740)
+[Sign_Sword]チタンアロー[END]
+// current address: $1B1CC2
+
+//Text $1B1C80
+#WRITE(ptr,$18E744)
+さまざまな用途に使われる、[LINE]
+チタン製の小型弓。[LINE]
+[END]
+// current address: $1B1CAF
+
+
+
+
+
+//Text $1B1C68
+#WRITE(ptr,$18E77C)
+[Sign_Sword]シルバーアロー[END]
+// current address: $1B1C7C
+
+//Text $1B1C38
+#WRITE(ptr,$18E780)
+銀細工で装飾された小型弓。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+// current address: $1B1C67
+
+
+
+
+
+//Text $1B1C20
+#WRITE(ptr,$18E7B8)
+[Sign_Sword]ゴールドアロー[END]
+// current address: $1B1C34
+
+//Text $1B1BE8
+#WRITE(ptr,$18E7BC)
+８割が金で作られた小型弓。[LINE]
+別名「豪華な小型弓」。[LINE]
+[END]
+// current address: $1B1C1B
+
+
+
+
+
+//Text $1B1BD0
+#WRITE(ptr,$18E7F4)
+[Sign_Sword]ミスリルアロー[END]
+// current address: $1B1BE4
+
+//Text $1B1B88
+#WRITE(ptr,$18E7F8)
+ミスリルを用いて鍛え上げた小型弓。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+// current address: $1B1BCD
+
+
+
+
+
+//Text $1B1B70
+#WRITE(ptr,$18E830)
+[Sign_Sword]ハンターアロー[END]
+// current address: $1B1B84
+
+//Text $1B1B38
+#WRITE(ptr,$18E834)
+猟師が好んで使う弓の小型版。[LINE]
+安価な割りに性能は高い。[LINE]
+[END]
+// current address: $1B1B6F
+
+
+
+
+
+//Text $1B1B20
+#WRITE(ptr,$18E86C)
+[Sign_Sword]バトルアロー[END]
+// current address: $1B1B32
+
+//Text $1B1AD0
+#WRITE(ptr,$18E870)
+その名の通り戦闘に特化した小型弓。[LINE]
+強度があり、敵の攻撃を受けても[LINE]
+歪みにくい。[END]
+// current address: $1B1B1F
+
+
+
+
+
+//Text $1B1AB8
+#WRITE(ptr,$18E8A8)
+[Sign_Sword]キラーアロー[END]
+// current address: $1B1ACA
+
+//Text $1B1A90
+#WRITE(ptr,$18E8AC)
+一撃必中。[LINE]
+暗殺に特化された小型弓。[LINE]
+[END]
+// current address: $1B1AB5
+
+
+
+
+
+//Text $1B1A78
+#WRITE(ptr,$18E8E4)
+[Sign_Sword]グリフィンアロー[END]
+// current address: $1B1A8E
+
+//Text $1B1A28
+#WRITE(ptr,$18E8E8)
+鷹の爪を模した弧を描いた小型弓。[LINE]
+天高く飛ぶ鳥も射ぬけると[LINE]
+言われている。[END]
+// current address: $1B1A71
+
+
+
+
+
+//Text $1B1A18
+#WRITE(ptr,$18E920)
+[Sign_Sword]レアアロー[END]
+// current address: $1B1A28
+
+//Text $1B19C0
+#WRITE(ptr,$18E924)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れの小型弓。[END]
+// current address: $1B1A17
+
+
+
+
+
+//Text $1B19A8
+#WRITE(ptr,$18E95C)
+[Sign_Sword]クレインアロー[END]
+// current address: $1B19BC
+
+//Text $1B1970
+#WRITE(ptr,$18E960)
+全てのパーツを異なった木材で[LINE]
+組み合わせた小型弓。[LINE]
+[END]
+// current address: $1B19A3
+
+
+
+
+
+//Text $1B1958
+#WRITE(ptr,$18E998)
+[Sign_Sword]エルヴンアロー[END]
+// current address: $1B196C
+
+//Text $1B1918
+#WRITE(ptr,$18E99C)
+エルフ族が愛用したと言われている[LINE]
+小型弓。羽のように軽い。[LINE]
+[END]
+// current address: $1B1953
+
+
+
+
+
+//Text $1B1900
+#WRITE(ptr,$18E9D4)
+[Sign_Sword]クレセントアロー[END]
+// current address: $1B1916
+
+//Text $1B18A8
+#WRITE(ptr,$18E9D8)
+三日月の形を模した小型弓。[LINE]
+その美しさに獣たちも動きを止める。[LINE]
+と、言われている。[END]
+// current address: $1B18F9
+
+
+
+
+
+//Text $1B1890
+#WRITE(ptr,$18EA10)
+[Sign_Sword]ベルセルクアロー[END]
+// current address: $1B18A6
+
+//Text $1B1838
+#WRITE(ptr,$18EA14)
+無敵を誇った弓兵が使用していた、[LINE]
+と言われる弓の小型版。[LINE]
+別名「狂戦士の弓」小型版。[END]
+// current address: $1B188B
+
+
+
+
+
+//Text $1B1820
+#WRITE(ptr,$18EA4C)
+[Sign_Sword]グリムアロー[END]
+// current address: $1B1832
+
+//Text $1B17D0
+#WRITE(ptr,$18EA50)
+伝説に登場する幻想の力を秘めた[LINE]
+小型弓。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+// current address: $1B181F
+
+
+
+
+
+//Text $1B17B0
+#WRITE(ptr,$18EA88)
+[Sign_Sword]スカーレットニードル[END]
+// current address: $1B17CA
+
+//Text $1B1750
+#WRITE(ptr,$18EA8C)
+情熱的で美しい女戦士が愛用して[LINE]
+いた弓の小型版。針の穴をも通す[LINE]
+ことから、この名がつけられた。[END]
+// current address: $1B17AD
+
+
+
+
+
+//Text $1B1738
+#WRITE(ptr,$18EAC4)
+[Sign_Sword]ストライクイーグル[END]
+// current address: $1B1750
+
+//Text $1B1700
+#WRITE(ptr,$18EAC8)
+必殺必中。稲妻のような速さで[LINE]
+狙った獲物を貫く小型弓。[LINE]
+[END]
+// current address: $1B1737
+
+
+
+
+
+//Text $1B16E8
+#WRITE(ptr,$18EB00)
+[Sign_Sword]ソウルスティール[END]
+// current address: $1B16FE
+
+//Text $1B16A0
+#WRITE(ptr,$18EB04)
+この弓で射抜いた者の魂を吸い上げ[LINE]
+所有者の力にすると言われている。[LINE]
+[END]
+// current address: $1B16E3
+
+
+
+
+
+//Text $1B1680
+#WRITE(ptr,$18EB3C)
+[Sign_Sword]セレスティアルスター[END]
+// current address: $1B169A
+
+//Text $1B1630
+#WRITE(ptr,$18EB40)
+遥か昔に落ちた隕石から作られた[LINE]
+小型弓。その素材の成分は[LINE]
+解明されていない。[END]
+// current address: $1B167B
+
+
+
+
+
+//Text $1B1610
+#WRITE(ptr,$18EB78)
+[Sign_Sword]フォーチューンアロー[END]
+// current address: $1B162A
+
+//Text $1B15B8
+#WRITE(ptr,$18EB7C)
+運命を意味する小型弓。[LINE]
+手にした者の望む運命を呼び寄せる。[LINE]
+選ばれた者のみが手にできる。[END]
+// current address: $1B160F
+
+
+
+
+
+//Text $1B15A8
+#WRITE(ptr,$18EBB4)
+[Sign_Sword]きゅうり[END]
+// current address: $1B15B6
+
+//Text $1B1558
+#WRITE(ptr,$18EBB8)
+いぼがチクチクするものほど新鮮な証。[LINE]
+未熟なうちに収穫するのがポイント。[LINE]
+[END]
+// current address: $1B15A1
+
+
+
+
+
+//Text $1B1540
+#WRITE(ptr,$18EBF0)
+[Sign_Sword]アイアンナックル[END]
+// current address: $1B1556
+
+//Text $1B1510
+#WRITE(ptr,$18EBF4)
+さまざまな構造物に使われる[LINE]
+鉄製のナックル。[LINE]
+[END]
+// current address: $1B153D
+
+
+
+
+
+//Text $1B14F8
+#WRITE(ptr,$18EC2C)
+[Sign_Sword]チタンナックル[END]
+// current address: $1B150C
+
+//Text $1B14C8
+#WRITE(ptr,$18EC30)
+さまざまな用途に使われる[LINE]
+チタン製のナックル。[LINE]
+[END]
+// current address: $1B14F7
+
+
+
+
+
+//Text $1B14B0
+#WRITE(ptr,$18EC68)
+[Sign_Sword]シルバーナックル[END]
+// current address: $1B14C6
+
+//Text $1B1478
+#WRITE(ptr,$18EC6C)
+銀細工で装飾されたナックル。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+// current address: $1B14A9
+
+
+
+
+
+//Text $1B1460
+#WRITE(ptr,$18ECA4)
+[Sign_Sword]ゴールドナックル[END]
+// current address: $1B1476
+
+//Text $1B1428
+#WRITE(ptr,$18ECA8)
+金をふんだんに混ぜて作られた。[LINE]
+別名「豪華な拳」。[LINE]
+[END]
+// current address: $1B145B
+
+
+
+
+
+//Text $1B1410
+#WRITE(ptr,$18ECE0)
+[Sign_Sword]ミスリルナックル[END]
+// current address: $1B1426
+
+//Text $1B13D0
+#WRITE(ptr,$18ECE4)
+ミスリルを用いて鍛え上げた。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+// current address: $1B140F
+
+
+
+
+
+//Text $1B13B8
+#WRITE(ptr,$18ED1C)
+[Sign_Sword]パワーナックル[END]
+// current address: $1B13CC
+
+//Text $1B1378
+#WRITE(ptr,$18ED20)
+拳の部分を厚く強化したナックル。[LINE]
+素の拳より３割増で強くなる。[LINE]
+[END]
+// current address: $1B13B7
+
+
+
+
+
+//Text $1B1360
+#WRITE(ptr,$18ED58)
+[Sign_Sword]ニードルナックル[END]
+// current address: $1B1376
+
+//Text $1B1308
+#WRITE(ptr,$18ED5C)
+殴るより刺すことに重点を置いた[LINE]
+ナックル。針の分リーチが長いので[LINE]
+大振りな人にお勧め。[END]
+// current address: $1B135D
+
+
+
+
+
+//Text $1B12F0
+#WRITE(ptr,$18ED94)
+[Sign_Sword]ダイヤナックル[END]
+// current address: $1B1304
+
+//Text $1B12A0
+#WRITE(ptr,$18ED98)
+ダイヤを磨き刃にした美しい[LINE]
+ナックル。鋭くて硬いため、[LINE]
+とてつもなく痛い。[END]
+// current address: $1B12E9
+
+
+
+
+
+//Text $1B1288
+#WRITE(ptr,$18EDD0)
+[Sign_Sword]レアナックル[END]
+// current address: $1B129A
+
+//Text $1B1228
+#WRITE(ptr,$18EDD4)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れのナックル。[END]
+// current address: $1B1281
+
+
+
+
+
+//Text $1B1210
+#WRITE(ptr,$18EE0C)
+[Sign_Sword]ベアナックル[END]
+// current address: $1B1222
+
+//Text $1B11C8
+#WRITE(ptr,$18EE10)
+熊の手を模したナックル。[LINE]
+使用されている獣毛は本物で、[LINE]
+ちょっと臭い。[END]
+// current address: $1B120D
+
+
+
+
+
+//Text $1B11B0
+#WRITE(ptr,$18EE48)
+[Sign_Sword]ドラゴンナックル[END]
+// current address: $1B11C6
+
+//Text $1B1150
+#WRITE(ptr,$18EE4C)
+アクアヴェイルの伝説に登場する、[LINE]
+ドラゴンをイメージしたナックル。[LINE]
+鉤爪があり、引掻くのも有効。[END]
+// current address: $1B11AF
+
+
+
+
+
+//Text $1B1138
+#WRITE(ptr,$18EE84)
+[Sign_Sword]カイザーナックル[END]
+// current address: $1B114E
+
+//Text $1B10F0
+#WRITE(ptr,$18EE88)
+初代チャンピオンが愛用していたと[LINE]
+言われている由緒あるナックル。[LINE]
+[END]
+// current address: $1B1131
+
+
+
+
+
+//Text $1B10D8
+#WRITE(ptr,$18EEC0)
+[Sign_Sword]グリムナックル[END]
+// current address: $1B10EC
+
+//Text $1B1080
+#WRITE(ptr,$18EEC4)
+伝説に登場する幻想の力を秘めた[LINE]
+ナックル。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+// current address: $1B10D1
+
+
+
+
+
+//Text $1B1070
+#WRITE(ptr,$18EEFC)
+[Sign_Sword]ヴェノム[END]
+// current address: $1B107E
+
+//Text $1B1018
+#WRITE(ptr,$18EF00)
+悪意を意味するナックル。[LINE]
+角で切り裂き、毒を注いで敵の[LINE]
+動きを麻痺させる凶悪な武器。[END]
+// current address: $1B106B
+
+
+
+
+
+//Text $1B1000
+#WRITE(ptr,$18EF38)
+[Sign_Sword]ウィズティース[END]
+// current address: $1B1014
+
+//Text $1B0FA8
+#WRITE(ptr,$18EF3C)
+どこで殴っても敵に致命傷を[LINE]
+与える恐ろしいナックル。[LINE]
+「威力組織」の意味を有する。[END]
+// current address: $1B0FF9
+
+
+
+
+
+//Text $1B0F90
+#WRITE(ptr,$18EF74)
+[Sign_Sword]ゴッドウェポン[END]
+// current address: $1B0FA4
+
+//Text $1B0F50
+#WRITE(ptr,$18EF78)
+神の兵器と名付けられたナックル。[LINE]
+輝く拳は全ての悪を打ち砕く。[LINE]
+[END]
+// current address: $1B0F8F
+
+
+
+
+
+//Text $1B0F38
+#WRITE(ptr,$18EFB0)
+[Sign_Sword]ウォルトナックル[END]
+// current address: $1B0F4E
+
+//Text $1B0EE0
+#WRITE(ptr,$18EFB4)
+世界を意味するナックル。[LINE]
+望めば世界を牛耳る力を得る。[LINE]
+選ばれた者のみが手にできる。[END]
+// current address: $1B0F33
+
+
+
+
+
+//Text $1B0ED0
+#WRITE(ptr,$18EFEC)
+[Sign_Sword]マンドリン[END]
+// current address: $1B0EE0
+
+//Text $1B0E90
+#WRITE(ptr,$18EFF0)
+撥弦楽器のひとつ。[LINE]
+鼈甲やセルロイド製の爪で弾いて[LINE]
+演奏する。[END]
+// current address: $1B0ECD
+
+
+
+
+
+//Text $1B0E80
+#WRITE(ptr,$18F028)
+[Sign_Sword]琵琶[END]
+// current address: $1B0E8A
+
+//Text $1B0E30
+#WRITE(ptr,$18F02C)
+口琴の一種。[LINE]
+アクアヴェイルで流行した楽器。[LINE]
+針のような鉄を指で弾いて鳴らす。[END]
+// current address: $1B0E7D
+
+
+
+
+
+//Text $1B0E20
+#WRITE(ptr,$18F064)
+[Sign_Sword]リュート[END]
+// current address: $1B0E2E
+
+//Text $1B0DE0
+#WRITE(ptr,$18F068)
+撥弦楽器のひとつ。[LINE]
+二本一組みに張られた[LINE]
+多数の弦をもつ。[END]
+// current address: $1B0E19
+
+
+
+
+
+//Text $1B0DD0
+#WRITE(ptr,$18F0A0)
+[Sign_Sword]ギター[END]
+// current address: $1B0DDC
+
+//Text $1B0D80
+#WRITE(ptr,$18F0A4)
+撥弦楽器のひとつ。[LINE]
+左手の指で弦を押さえて音程を調え、[LINE]
+爪やピックで弦を弾く。[END]
+// current address: $1B0DCD
+
+
+
+
+
+//Text $1B0D70
+#WRITE(ptr,$18F0DC)
+[Sign_Sword]三味線[END]
+// current address: $1B0D7C
+
+//Text $1B0D28
+#WRITE(ptr,$18F0E0)
+撥弦楽器のひとつ。[LINE]
+棹に貼った三弦を撥を用いて奏する。[LINE]
+ぺんぺん。[END]
+// current address: $1B0D69
+
+
+
+
+
+//Text $1B0D08
+#WRITE(ptr,$18F118)
+[Sign_Sword]インフィニティギター[END]
+// current address: $1B0D22
+
+//Text $1B0CB0
+#WRITE(ptr,$18F11C)
+無限を意味するギター。[LINE]
+その音色は銀河の彼方まで届く。[LINE]
+選ばれた者のみが手にできる。[END]
+// current address: $1B0D03
+
+
+
+
+
+//Text $1B0C98
+#WRITE(ptr,$18F154)
+[Sign_Sword]とうもろこし[END]
+// current address: $1B0CAA
+
+//Text $1B0C50
+#WRITE(ptr,$18F158)
+実に含まれる糖分が多い[LINE]
+とうもろこし。[LINE]
+新鮮なうちに食べるほど甘い。[END]
+// current address: $1B0C93
+
+
+
+
+
+//Text $1B0C40
+#WRITE(ptr,$18F190)
+[Sign_Sword]鉄のおたま[END]
+// current address: $1B0C50
+
+//Text $1B0BF8
+#WRITE(ptr,$18F194)
+どこの家庭にもある一般的なおたま。[LINE]
+叩かれたらそれなりに痛いです。[LINE]
+[END]
+// current address: $1B0C3B
+
+
+
+
+
+//Text $1B0BE8
+#WRITE(ptr,$18F1CC)
+[Sign_Sword]銅のおたま[END]
+// current address: $1B0BF8
+
+//Text $1B0BA8
+#WRITE(ptr,$18F1D0)
+ちょっと高価な銅製のおたま。[LINE]
+銅は熱伝導率が高いのですが……[LINE]
+[END]
+// current address: $1B0BE5
+
+
+
+
+
+//Text $1B0B98
+#WRITE(ptr,$18F208)
+[Sign_Sword]銀のおたま[END]
+// current address: $1B0BA8
+
+//Text $1B0B60
+#WRITE(ptr,$18F20C)
+珍しい銀製のおたま。[LINE]
+銀製品はこまめなお手入れが肝心！[LINE]
+[END]
+// current address: $1B0B97
+
+
+
+
+
+//Text $1B0B50
+#WRITE(ptr,$18F244)
+[Sign_Sword]金のおたま[END]
+// current address: $1B0B60
+
+//Text $1B0B10
+#WRITE(ptr,$18F248)
+金持ちの証し！<$81>@金製のおたま。[LINE]
+調理道具というより飾り用。[LINE]
+[END]
+// current address: $1B0B4B
+
+
+
+
+
+//Text $1B0AF0
+#WRITE(ptr,$18F280)
+[Sign_Sword]ファナティックおたま[END]
+// current address: $1B0B0A
+
+//Text $1B0A98
+#WRITE(ptr,$18F284)
+熱狂的な料理ファンのための[LINE]
+究極のおたま。実際に[LINE]
+料理が美味しくなるかどうかは不明。[END]
+// current address: $1B0AEB
+
+
+
+
+
+//Text $1B0A88
+#WRITE(ptr,$18F2BC)
+[Sign_Sword]にんじん[END]
+// current address: $1B0A96
+
+//Text $1B0A38
+#WRITE(ptr,$18F2C0)
+カロテンを豊富に含むにんじん。[LINE]
+バターや油で調理すると[LINE]
+吸収が促進される。[END]
+// current address: $1B0A81

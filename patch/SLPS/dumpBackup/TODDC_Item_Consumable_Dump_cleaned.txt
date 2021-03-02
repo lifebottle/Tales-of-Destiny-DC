@@ -1,0 +1,2469 @@
+//GAME NAME:		Tales of destiny - DC (PS2)
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("F:\PythonCode\TOD_GoogleDoc\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $1AFCF8
+#WRITE(ptr,$18C60C)
+[Sign_Apple_Gel]アップルグミ[END]
+// current address: $1AFD0A
+
+//Text $1AFCA8
+#WRITE(ptr,$18C610)
+フレッシュな甘さ、[LINE]
+アップル味のグミ。[LINE]
+最大ＨＰの３０％分ＨＰが回復する。[END]
+// current address: $1AFCF1
+
+
+
+
+
+//Text $1AFC98
+#WRITE(ptr,$18C628)
+[Sign_Apple_Gel]ピーチグミ[END]
+// current address: $1AFCA8
+
+//Text $1AFC50
+#WRITE(ptr,$18C62C)
+とろける甘さ、[LINE]
+ピーチ味のグミ。[LINE]
+最大ＨＰの５０％分ＨＰが回復する。[END]
+// current address: $1AFC93
+
+
+
+
+
+//Text $1AFC38
+#WRITE(ptr,$18C644)
+[Sign_Apple_Gel]グレープグミ[END]
+// current address: $1AFC4A
+
+//Text $1AFBE8
+#WRITE(ptr,$18C648)
+ジューシーな甘さ、[LINE]
+グレープ味のグミ。[LINE]
+最大ＨＰの７５％分ＨＰが回復する。[END]
+// current address: $1AFC31
+
+
+
+
+
+//Text $1AFBD0
+#WRITE(ptr,$18C660)
+[Sign_Apple_Gel]ドリアングミ[END]
+// current address: $1AFBE2
+
+//Text $1AFB88
+#WRITE(ptr,$18C664)
+クセになる甘さ、[LINE]
+ドリアン味のグミ。[LINE]
+ＨＰが全快するが、まれに……[END]
+// current address: $1AFBC9
+
+
+
+
+
+//Text $1AFB70
+#WRITE(ptr,$18C67C)
+[Sign_Apple_Gel]ドラゴングミ[END]
+// current address: $1AFB82
+
+//Text $1AFB28
+#WRITE(ptr,$18C680)
+ヘルシーな甘さ、[LINE]
+ドラゴンフルーツ味のグミ。[LINE]
+ブラストゲージが増える。[END]
+// current address: $1AFB6D
+
+
+
+
+
+//Text $1AFB18
+#WRITE(ptr,$18C698)
+[Sign_Apple_Gel]バクチグミ[END]
+// current address: $1AFB28
+
+//Text $1AFAD8
+#WRITE(ptr,$18C69C)
+ランダムな甘さ、[LINE]
+サイコロ印のグミ。[LINE]
+ＨＰがランダムで変動する。[END]
+// current address: $1AFB17
+
+
+
+
+
+//Text $1AFAC0
+#WRITE(ptr,$18C6B4)
+[Sign_Apple_Gel]ぽっちゃりグミ[END]
+// current address: $1AFAD4
+
+//Text $1AFA68
+#WRITE(ptr,$18C6B8)
+最大ＨＰが１．５倍になるが、[LINE]
+回復率が２分の１になる激甘なグミ。[LINE]
+戦闘中のみ有効。[END]
+// current address: $1AFAB9
+
+
+
+
+
+//Text $1AFA50
+#WRITE(ptr,$18C6D0)
+[Sign_Apple_Gel]げっそりグミ[END]
+// current address: $1AFA62
+
+//Text $1AFA00
+#WRITE(ptr,$18C6D4)
+最大ＨＰが７５％になるが、[LINE]
+回復率が２倍になる苦めなグミ。[LINE]
+戦闘中のみ有効。[END]
+// current address: $1AFA4B
+
+
+
+
+
+//Text $1AF9E8
+#WRITE(ptr,$18C6EC)
+[Sign_Apple_Gel]パナシーアボトル[END]
+// current address: $1AF9FE
+
+//Text $1AF9C8
+#WRITE(ptr,$18C6F0)
+全ての状態異常を回復する薬。[LINE]
+[LINE]
+[END]
+// current address: $1AF9E7
+
+
+
+
+
+//Text $1AF9B0
+#WRITE(ptr,$18C708)
+[Sign_Apple_Gel]リキュールボトル[END]
+// current address: $1AF9C6
+
+//Text $1AF970
+#WRITE(ptr,$18C70C)
+全ての状態異常・減少効果を[LINE]
+防止する薬。[LINE]
+戦闘中のみ有効。[END]
+// current address: $1AF9A9
+
+
+
+
+
+//Text $1AF958
+#WRITE(ptr,$18C724)
+[Sign_Apple_Gel]ライフボトル[END]
+// current address: $1AF96A
+
+//Text $1AF918
+#WRITE(ptr,$18C728)
+戦闘不能を回復し、[LINE]
+最大ＨＰの４０％分[LINE]
+ＨＰが回復する薬。[END]
+// current address: $1AF951
+
+
+
+
+
+//Text $1AF900
+#WRITE(ptr,$18C740)
+[Sign_Apple_Gel]エリクシール[END]
+// current address: $1AF912
+
+//Text $1AF8B8
+#WRITE(ptr,$18C744)
+戦闘不能を回復し、[LINE]
+ＨＰを全快にする薬。[LINE]
+不老長寿の霊薬とも言われる。[END]
+// current address: $1AF8FD
+
+
+
+
+
+//Text $1AF8A0
+#WRITE(ptr,$18C75C)
+[Sign_Apple_Gel]オールディバイド[END]
+// current address: $1AF8B6
+
+//Text $1AF860
+#WRITE(ptr,$18C760)
+敵味方が受けるダメージを半減する。[LINE]
+もう一度使うと元に戻る。[LINE]
+[END]
+// current address: $1AF89D
+
+
+
+
+
+//Text $1AF848
+#WRITE(ptr,$18C778)
+[Sign_Apple_Gel]アワーグラス[END]
+// current address: $1AF85A
+
+//Text $1AF808
+#WRITE(ptr,$18C77C)
+一定時間全ての敵の動きを止める。[LINE]
+ピンチのときに使うのもアリ！[LINE]
+[END]
+// current address: $1AF847
+
+
+
+
+
+//Text $1AF7F0
+#WRITE(ptr,$18C794)
+[Sign_9]オベロナミンＣ[END]
+// current address: $1AF804
+
+//Text $1AF798
+#WRITE(ptr,$18C798)
+オベロン社が開発した庶民の味方。[LINE]
+最大ＨＰの４０％分ＨＰが回復する。[LINE]
+元気ハツラツ！[END]
+// current address: $1AF7EB
+
+
+
+
+
+//Text $1AF780
+#WRITE(ptr,$18C7B0)
+[Sign_9]オベロナミンＥＸ[END]
+// current address: $1AF796
+
+//Text $1AF720
+#WRITE(ptr,$18C7B4)
+オベロン社が開発した働く人の味方。[LINE]
+最大ＨＰの６０％分ＨＰが回復する。[LINE]
+疲労時の栄養補給に。[END]
+// current address: $1AF77B
+
+
+
+
+
+//Text $1AF700
+#WRITE(ptr,$18C7CC)
+[Sign_9]オベロナミンＧＯＬＤ[END]
+// current address: $1AF71A
+
+//Text $1AF6A8
+#WRITE(ptr,$18C7D0)
+オベロン社が開発した戦う人の味方。[LINE]
+ＨＰが全快するドリンク。[LINE]
+今日のあなたに、この１本！[END]
+// current address: $1AF6FF
+
+
+
+
+
+//Text $1AF690
+#WRITE(ptr,$18C7E8)
+[Sign_9]アイスキャンディー[END]
+// current address: $1AF6A8
+
+//Text $1AF650
+#WRITE(ptr,$18C7EC)
+冷たくてあま～い氷菓子。[LINE]
+最大ＨＰの１０％分回復する氷菓子。[LINE]
+[END]
+// current address: $1AF68D
+
+
+
+
+
+//Text $1AF638
+#WRITE(ptr,$18C804)
+[Sign_9]ホーリィボトル[END]
+// current address: $1AF64C
+
+//Text $1AF5E8
+#WRITE(ptr,$18C808)
+敵とほとんど遭遇しなくなる。[LINE]
+一定時間経過か、[LINE]
+ダークボトルを使うと元に戻る。[END]
+// current address: $1AF635
+
+
+
+
+
+//Text $1AF5D0
+#WRITE(ptr,$18C820)
+[Sign_9]ダークボトル[END]
+// current address: $1AF5E2
+
+//Text $1AF580
+#WRITE(ptr,$18C824)
+敵と遭遇しやすくなる。[LINE]
+一定時間経過か、[LINE]
+ホーリィボトルを使うと元に戻る。[END]
+// current address: $1AF5C9
+
+
+
+
+
+//Text $1AF570
+#WRITE(ptr,$18C83C)
+[Sign_9]中和剤[END]
+// current address: $1AF57C
+
+//Text $1AF548
+#WRITE(ptr,$18C840)
+毒ガスを中和する薬剤。[LINE]
+時間制限あり。[LINE]
+[END]
+// current address: $1AF56F
+
+
+
+
+
+//Text $1AF538
+#WRITE(ptr,$18C858)
+[Sign_9]セージ[END]
+// current address: $1AF544
+
+//Text $1AF500
+#WRITE(ptr,$18C85C)
+体力が３上昇する薬草。[LINE]
+心地よい香りで気分を和ませる。[LINE]
+[END]
+// current address: $1AF537
+
+
+
+
+
+//Text $1AF4F0
+#WRITE(ptr,$18C874)
+[Sign_9]ラベンダー[END]
+// current address: $1AF500
+
+//Text $1AF4B8
+#WRITE(ptr,$18C878)
+攻撃力が１上昇する薬草。[LINE]
+ほのかに香るハーブの女王。[LINE]
+[END]
+// current address: $1AF4ED
+
+
+
+
+
+//Text $1AF4A8
+#WRITE(ptr,$18C890)
+[Sign_9]ベルベーヌ[END]
+// current address: $1AF4B8
+
+//Text $1AF470
+#WRITE(ptr,$18C894)
+防御力が１上昇する薬草。[LINE]
+レモンに似た香りがさわやか。[LINE]
+[END]
+// current address: $1AF4A7
+
+
+
+
+
+//Text $1AF458
+#WRITE(ptr,$18C8AC)
+[Sign_9]ローズマリー[END]
+// current address: $1AF46A
+
+//Text $1AF420
+#WRITE(ptr,$18C8B0)
+術攻撃力が１上昇する薬草。[LINE]
+若返りのハーブと言われる。[LINE]
+[END]
+// current address: $1AF457
+
+
+
+
+
+//Text $1AF410
+#WRITE(ptr,$18C8C8)
+[Sign_9]サフラン[END]
+// current address: $1AF41E
+
+//Text $1AF3D8
+#WRITE(ptr,$18C8CC)
+術防御力が１上昇する薬草。[LINE]
+サフランライスが有名。[LINE]
+[END]
+// current address: $1AF40B
+
+
+
+
+
+//Text $1AF3C8
+#WRITE(ptr,$18C8E4)
+[Sign_9]カモミール[END]
+// current address: $1AF3D8
+
+//Text $1AF388
+#WRITE(ptr,$18C8E8)
+命中率が１上昇する薬草。[LINE]
+古くから使われるハーブ療法の代表。[LINE]
+[END]
+// current address: $1AF3C5
+
+
+
+
+
+//Text $1AF378
+#WRITE(ptr,$18C900)
+[Sign_9]セボリー[END]
+// current address: $1AF386
+
+//Text $1AF330
+#WRITE(ptr,$18C904)
+回避率が１上昇する薬草。[LINE]
+辛味と強い芳香があり[LINE]
+料理などにも使われる。[END]
+// current address: $1AF375
+
+
+
+
+
+//Text $1AF320
+#WRITE(ptr,$18C91C)
+[Sign_9]ジャスミン[END]
+// current address: $1AF330
+
+//Text $1AF2E0
+#WRITE(ptr,$18C920)
+集中力が１上昇する薬草。[LINE]
+幸福をもたらす甘い香りのハーブ。[LINE]
+[END]
+// current address: $1AF31B
+
+
+
+
+
+//Text $1AF2C8
+#WRITE(ptr,$18C938)
+[Sign_9]ブルーセージ[END]
+// current address: $1AF2DA
+
+//Text $1AF2A8
+#WRITE(ptr,$18C93C)
+体力が６上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF2C1
+
+
+
+
+
+//Text $1AF290
+#WRITE(ptr,$18C954)
+[Sign_9]ブルーラベンダー[END]
+// current address: $1AF2A6
+
+//Text $1AF270
+#WRITE(ptr,$18C958)
+攻撃力が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF28B
+
+
+
+
+
+//Text $1AF258
+#WRITE(ptr,$18C970)
+[Sign_9]ブルーベルベーヌ[END]
+// current address: $1AF26E
+
+//Text $1AF238
+#WRITE(ptr,$18C974)
+防御力が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF253
+
+
+
+
+
+//Text $1AF220
+#WRITE(ptr,$18C98C)
+[Sign_9]ブルーローズマリー[END]
+// current address: $1AF238
+
+//Text $1AF200
+#WRITE(ptr,$18C990)
+術攻撃力が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF21D
+
+
+
+
+
+//Text $1AF1E8
+#WRITE(ptr,$18C9A8)
+[Sign_9]ブルーサフラン[END]
+// current address: $1AF1FC
+
+//Text $1AF1C8
+#WRITE(ptr,$18C9AC)
+術防御力が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF1E5
+
+
+
+
+
+//Text $1AF1B0
+#WRITE(ptr,$18C9C4)
+[Sign_9]ブルーカモミール[END]
+// current address: $1AF1C6
+
+//Text $1AF190
+#WRITE(ptr,$18C9C8)
+命中率が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF1AB
+
+
+
+
+
+//Text $1AF178
+#WRITE(ptr,$18C9E0)
+[Sign_9]ブルーセボリー[END]
+// current address: $1AF18C
+
+//Text $1AF158
+#WRITE(ptr,$18C9E4)
+回避率が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF173
+
+
+
+
+
+//Text $1AF140
+#WRITE(ptr,$18C9FC)
+[Sign_9]ブルージャスミン[END]
+// current address: $1AF156
+
+//Text $1AF120
+#WRITE(ptr,$18CA00)
+集中力が２上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF13B
+
+
+
+
+
+//Text $1AF108
+#WRITE(ptr,$18CA18)
+[Sign_9]レッドセージ[END]
+// current address: $1AF11A
+
+//Text $1AF0E8
+#WRITE(ptr,$18CA1C)
+体力が１０上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF103
+
+
+
+
+
+//Text $1AF0D0
+#WRITE(ptr,$18CA34)
+[Sign_9]レッドラベンダー[END]
+// current address: $1AF0E6
+
+//Text $1AF0B0
+#WRITE(ptr,$18CA38)
+攻撃力が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF0CB
+
+
+
+
+
+//Text $1AF098
+#WRITE(ptr,$18CA50)
+[Sign_9]レッドベルベーヌ[END]
+// current address: $1AF0AE
+
+//Text $1AF078
+#WRITE(ptr,$18CA54)
+防御力が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF093
+
+
+
+
+
+//Text $1AF060
+#WRITE(ptr,$18CA6C)
+[Sign_9]レッドローズマリー[END]
+// current address: $1AF078
+
+//Text $1AF040
+#WRITE(ptr,$18CA70)
+術攻撃力が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF05D
+
+
+
+
+
+//Text $1AF028
+#WRITE(ptr,$18CA88)
+[Sign_9]レッドサフラン[END]
+// current address: $1AF03C
+
+//Text $1AF008
+#WRITE(ptr,$18CA8C)
+術防御力が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AF025
+
+
+
+
+
+//Text $1AEFF0
+#WRITE(ptr,$18CAA4)
+[Sign_9]レッドカモミール[END]
+// current address: $1AF006
+
+//Text $1AEFD0
+#WRITE(ptr,$18CAA8)
+命中率が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AEFEB
+
+
+
+
+
+//Text $1AEFB8
+#WRITE(ptr,$18CAC0)
+[Sign_9]レッドセボリー[END]
+// current address: $1AEFCC
+
+//Text $1AEF98
+#WRITE(ptr,$18CAC4)
+回避率が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AEFB3
+
+
+
+
+
+//Text $1AEF80
+#WRITE(ptr,$18CADC)
+[Sign_9]レッドジャスミン[END]
+// current address: $1AEF96
+
+//Text $1AEF60
+#WRITE(ptr,$18CAE0)
+集中力が３上昇する薬草。[LINE]
+[LINE]
+[END]
+// current address: $1AEF7B
+
+
+
+
+
+//Text $1AEF48
+#WRITE(ptr,$18CAF8)
+[Sign_Box]ポムポムのたね[END]
+// current address: $1AEF5C
+
+//Text $1AEF00
+#WRITE(ptr,$18CAFC)
+初心者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEF41
+
+
+
+
+
+//Text $1AEEE8
+#WRITE(ptr,$18CB14)
+[Sign_Box]エステマのたね[END]
+// current address: $1AEEFC
+
+//Text $1AEEA0
+#WRITE(ptr,$18CB18)
+脱初心者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEEE3
+
+
+
+
+
+//Text $1AEE88
+#WRITE(ptr,$18CB30)
+[Sign_Box]ラナケアルのたね[END]
+// current address: $1AEE9E
+
+//Text $1AEE40
+#WRITE(ptr,$18CB34)
+初級者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEE81
+
+
+
+
+
+//Text $1AEE28
+#WRITE(ptr,$18CB4C)
+[Sign_Box]ドルゲニアのたね[END]
+// current address: $1AEE3E
+
+//Text $1AEDE0
+#WRITE(ptr,$18CB50)
+中級者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEE21
+
+
+
+
+
+//Text $1AEDC8
+#WRITE(ptr,$18CB68)
+[Sign_Box]ペンペンのたね[END]
+// current address: $1AEDDC
+
+//Text $1AED80
+#WRITE(ptr,$18CB6C)
+熟練者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEDC1
+
+
+
+
+
+//Text $1AED68
+#WRITE(ptr,$18CB84)
+[Sign_Box]オリオラのたね[END]
+// current address: $1AED7C
+
+//Text $1AED20
+#WRITE(ptr,$18CB88)
+上級者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AED61
+
+
+
+
+
+//Text $1AED08
+#WRITE(ptr,$18CBA0)
+[Sign_Box]チャラックのたね[END]
+// current address: $1AED1E
+
+//Text $1AECC0
+#WRITE(ptr,$18CBA4)
+超上級者用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AED03
+
+
+
+
+
+//Text $1AECA8
+#WRITE(ptr,$18CBBC)
+[Sign_Box]おうごんのたね[END]
+// current address: $1AECBC
+
+//Text $1AEC60
+#WRITE(ptr,$18CBC0)
+マスター用栽培セットの種。[LINE]
+「種育て」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AECA3
+
+
+
+
+
+//Text $1AEC50
+#WRITE(ptr,$18CBD8)
+[Sign_Box]リンゴ[END]
+// current address: $1AEC5C
+
+//Text $1AEC08
+#WRITE(ptr,$18CBDC)
+甘酸っぱい芳香がある果物。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEC49
+
+
+
+
+
+//Text $1AEBF8
+#WRITE(ptr,$18CBF4)
+[Sign_Box]モモ[END]
+// current address: $1AEC02
+
+//Text $1AEBB0
+#WRITE(ptr,$18CBF8)
+柔らかく多汁で甘い薄紅色の果物。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEBF7
+
+
+
+
+
+//Text $1AEBA0
+#WRITE(ptr,$18CC10)
+[Sign_Box]ブドウ[END]
+// current address: $1AEBAC
+
+//Text $1AEB58
+#WRITE(ptr,$18CC14)
+球形の液果が房状になる果物。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEB9B
+
+
+
+
+
+//Text $1AEB48
+#WRITE(ptr,$18CC2C)
+[Sign_Box]ドリアン[END]
+// current address: $1AEB56
+
+//Text $1AEB00
+#WRITE(ptr,$18CC30)
+全体がとげにおおわれている果物。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEB47
+
+
+
+
+
+//Text $1AEAE8
+#WRITE(ptr,$18CC48)
+[Sign_Box]ドラゴンフルーツ[END]
+// current address: $1AEAFE
+
+//Text $1AEAA0
+#WRITE(ptr,$18CC4C)
+ピタヤとも呼ばれる[LINE]
+サボテンの実。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEAE7
+
+
+
+
+
+//Text $1AEA88
+#WRITE(ptr,$18CC64)
+[Sign_Box]ディホンの実[END]
+// current address: $1AEA9A
+
+//Text $1AEA48
+#WRITE(ptr,$18CC68)
+熱帯に自生する果樹。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEA83
+
+
+
+
+
+//Text $1AEA38
+#WRITE(ptr,$18CC80)
+[Sign_Box]バインの実[END]
+// current address: $1AEA48
+
+//Text $1AE9E0
+#WRITE(ptr,$18CC84)
+山中に自生し、黄色に熟した実は[LINE]
+食べられる。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AEA31
+
+
+
+
+
+//Text $1AE9D0
+#WRITE(ptr,$18CC9C)
+[Sign_Box]センナの実[END]
+// current address: $1AE9E0
+
+//Text $1AE978
+#WRITE(ptr,$18CCA0)
+古くからお通じの良くなると[LINE]
+言われる医薬品。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE9C9
+
+
+
+
+
+//Text $1AE960
+#WRITE(ptr,$18CCB8)
+[Sign_Box]レメディの実[END]
+// current address: $1AE972
+
+//Text $1AE920
+#WRITE(ptr,$18CCBC)
+生薬として使われる植物。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE95F
+
+
+
+
+
+//Text $1AE908
+#WRITE(ptr,$18CCD4)
+[Sign_Box]エンデュアの実[END]
+// current address: $1AE91C
+
+//Text $1AE8B8
+#WRITE(ptr,$18CCD8)
+料理に香味を加えるとともに[LINE]
+消化も助ける。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE907
+
+
+
+
+
+//Text $1AE8A0
+#WRITE(ptr,$18CCF0)
+[Sign_Box]ニューマの実[END]
+// current address: $1AE8B2
+
+//Text $1AE848
+#WRITE(ptr,$18CCF4)
+肉や魚を保存するときに使う[LINE]
+スパイスの一種。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE899
+
+
+
+
+
+//Text $1AE838
+#WRITE(ptr,$18CD0C)
+[Sign_Box]トーチの実[END]
+// current address: $1AE848
+
+//Text $1AE7E0
+#WRITE(ptr,$18CD10)
+特有の芳香をもち、香料や薬として[LINE]
+使われる。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE831
+
+
+
+
+
+//Text $1AE7C8
+#WRITE(ptr,$18CD28)
+[Sign_Box]グルームの実[END]
+// current address: $1AE7DA
+
+//Text $1AE780
+#WRITE(ptr,$18CD2C)
+花の匂いで小動物を誘い捕食する。[LINE]
+「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE7C7
+
+
+
+
+
+//Text $1AE768
+#WRITE(ptr,$18CD44)
+[Sign_Box]イクオリの実[END]
+// current address: $1AE77A
+
+//Text $1AE718
+#WRITE(ptr,$18CD48)
+強い香りを放ち、大きな葉をもつ[LINE]
+ハーブ。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE765
+
+
+
+
+
+//Text $1AE700
+#WRITE(ptr,$18CD60)
+[Sign_Box]クウェルの実[END]
+// current address: $1AE712
+
+//Text $1AE6B0
+#WRITE(ptr,$18CD64)
+肉や魚の臭み取りに用いる[LINE]
+スパイスの一種。「調合」の[LINE]
+サポートタレントアイテム。[END]
+// current address: $1AE6FF
+
+
+
+
+
+//Text $1AE698
+#WRITE(ptr,$18CD7C)
+[Sign_Box]むしくいリンゴ[END]
+// current address: $1AE6AC
+
+//Text $1AE658
+#WRITE(ptr,$18CD80)
+虫に食われて売り物に[LINE]
+ならなくなったリンゴ。[LINE]
+食べられません！[END]
+// current address: $1AE695
+
+
+
+
+
+//Text $1AE640
+#WRITE(ptr,$18CD98)
+[Sign_Box]くさったモモ[END]
+// current address: $1AE652
+
+//Text $1AE600
+#WRITE(ptr,$18CD9C)
+腐ってヌルヌルするモモ。[LINE]
+持っただけで[LINE]
+嫌な液体が漏れてくる……[END]
+// current address: $1AE63F
+
+
+
+
+
+//Text $1AE5F0
+#WRITE(ptr,$18CDB4)
+[Sign_Box]悪臭の王様[END]
+// current address: $1AE600
+
+//Text $1AE5B0
+#WRITE(ptr,$18CDB8)
+腐るぐらいが食べごろ。[LINE]
+とは言っても……[LINE]
+臭すぎて近寄れません！[END]
+// current address: $1AE5EF
+
+
+
+
+
+//Text $1AE5A0
+#WRITE(ptr,$18CDD0)
+[Sign_Box]怪しげな粉[END]
+// current address: $1AE5B0
+
+//Text $1AE550
+#WRITE(ptr,$18CDD4)
+薬として使えそうだが[LINE]
+どうみても怪しい……[LINE]
+捨てる場所はよく考えましょう！[END]
+// current address: $1AE599
+
+
+
+
+
+//Text $1AE540
+#WRITE(ptr,$18CDEC)
+[Sign_Box]危険な液体[END]
+// current address: $1AE550
+
+//Text $1AE4F8
+#WRITE(ptr,$18CDF0)
+明らかに飲んではいけない色の液体。[LINE]
+捨てる場所はよく考えましょう！[LINE]
+[END]
+// current address: $1AE53B
+
+
+
+
+
+//Text $1AE4E0
+#WRITE(ptr,$18CE08)
+[Sign_Box]ゲル状の物体[END]
+// current address: $1AE4F2
+
+//Text $1AE498
+#WRITE(ptr,$18CE0C)
+行ってはいけない方向へ進んだ物質。[LINE]
+捨てる場所はよく考えましょう！[LINE]
+[END]
+// current address: $1AE4DB
+
+
+
+
+
+//Text $1AE480
+#WRITE(ptr,$18CE24)
+[Sign_Box]マジカルアロマ[END]
+// current address: $1AE494
+
+//Text $1AE438
+#WRITE(ptr,$18CE28)
+相手を惑わす不思議な香料。[LINE]
+持っている数×１％分[LINE]
+お店で割引される。[END]
+// current address: $1AE47B
+
+
+
+
+
+//Text $1AE420
+#WRITE(ptr,$18CE40)
+[Sign_Box]サポートハンド[END]
+// current address: $1AE434
+
+//Text $1AE3D8
+#WRITE(ptr,$18CE44)
+所持数に応じて、[LINE]
+ＥＸダンジョン内のみ[LINE]
+サポートタレントの時間が短縮！[END]
+// current address: $1AE41D
+
+
+
+
+
+//Text $1AE3C0
+#WRITE(ptr,$18CE5C)
+[Sign_Box]ロートリキッド[END]
+// current address: $1AE3D4
+
+//Text $1AE378
+#WRITE(ptr,$18CE60)
+変な臭いのする謎の赤色液体。[LINE]
+何かの薬品に[LINE]
+重宝されるという噂もある……[END]
+// current address: $1AE3BF
+
+
+
+
+
+//Text $1AE360
+#WRITE(ptr,$18CE78)
+[Sign_Box]ブラオリキッド[END]
+// current address: $1AE374
+
+//Text $1AE318
+#WRITE(ptr,$18CE7C)
+変な臭いのする謎の青色液体。[LINE]
+何かの薬品に[LINE]
+重宝されるという噂もある……[END]
+// current address: $1AE35F
+
+
+
+
+
+//Text $1AE300
+#WRITE(ptr,$18CE94)
+[Sign_Box]グリューンリキッド[END]
+// current address: $1AE318
+
+//Text $1AE2B8
+#WRITE(ptr,$18CE98)
+変な臭いのする謎の緑色液体。[LINE]
+何かの薬品に[LINE]
+重宝されるという噂もある……[END]
+// current address: $1AE2FF
+
+
+
+
+
+//Text $1AE2A0
+#WRITE(ptr,$18CEB0)
+[Sign_Box]ゲルプリキッド[END]
+// current address: $1AE2B4
+
+//Text $1AE258
+#WRITE(ptr,$18CEB4)
+変な臭いのする謎の黄色液体。[LINE]
+何かの薬品に[LINE]
+重宝されるという噂もある……[END]
+// current address: $1AE29F
+
+
+
+
+
+//Text $1AE238
+#WRITE(ptr,$18CECC)
+[Sign_Box]ヴィオレットリキッド[END]
+// current address: $1AE252
+
+//Text $1AE1F0
+#WRITE(ptr,$18CED0)
+変な臭いのする謎の紫色液体。[LINE]
+何かの薬品に[LINE]
+重宝されるという噂もある……[END]
+// current address: $1AE237
+
+
+
+
+
+//Text $1AE1E0
+#WRITE(ptr,$18CEE8)
+[Sign_Box]あたり棒[END]
+// current address: $1AE1EE
+
+//Text $1AE1B0
+#WRITE(ptr,$18CEEC)
+ラッキー！<$81>@もう１本もらえます。[LINE]
+お店にＧＯ！[LINE]
+[END]
+// current address: $1AE1DF
+
+
+
+
+
+//Text $1AE1A0
+#WRITE(ptr,$18CF04)
+[Sign_Box]はずれ棒[END]
+// current address: $1AE1AE
+
+//Text $1AE168
+#WRITE(ptr,$18CF08)
+残念、はずれです。[LINE]
+ちゃんとくずかごに捨てましょう。[LINE]
+[END]
+// current address: $1AE19D
+
+
+
+
+
+//Text $1AE150
+#WRITE(ptr,$18CF20)
+[Sign_Box]エナスフィア[END]
+// current address: $1AE162
+
+//Text $1AE100
+#WRITE(ptr,$18CF24)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「斧」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1AE14B
+
+
+
+
+
+//Text $1AE0E8
+#WRITE(ptr,$18CF3C)
+[Sign_Box]ディオスフィア[END]
+// current address: $1AE0FC
+
+//Text $1AE098
+#WRITE(ptr,$18CF40)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「小弓」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1AE0E5
+
+
+
+
+
+//Text $1AE080
+#WRITE(ptr,$18CF58)
+[Sign_Box]トゥリアスフィア[END]
+// current address: $1AE096
+
+//Text $1AE028
+#WRITE(ptr,$18CF5C)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「ナックル」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1AE079
+
+
+
+
+
+//Text $1AE010
+#WRITE(ptr,$18CF74)
+[Sign_Box]テセラスフィア[END]
+// current address: $1AE024
+
+//Text $1ADFC0
+#WRITE(ptr,$18CF78)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「楽器」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1AE00D
+
+
+
+
+
+//Text $1ADFA8
+#WRITE(ptr,$18CF90)
+[Sign_Box]ペンデスフィア[END]
+// current address: $1ADFBC
+
+//Text $1ADF58
+#WRITE(ptr,$18CF94)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「おたま」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADFA7
+
+
+
+
+
+//Text $1ADF40
+#WRITE(ptr,$18CFAC)
+[Sign_Box]エクシスフィア[END]
+// current address: $1ADF54
+
+//Text $1ADEE8
+#WRITE(ptr,$18CFB0)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「アーマー」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADF39
+
+
+
+
+
+//Text $1ADED0
+#WRITE(ptr,$18CFC8)
+[Sign_Box]エプタスフィア[END]
+// current address: $1ADEE4
+
+//Text $1ADE78
+#WRITE(ptr,$18CFCC)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「プレート」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADEC9
+
+
+
+
+
+//Text $1ADE60
+#WRITE(ptr,$18CFE4)
+[Sign_Box]オクトスフィア[END]
+// current address: $1ADE74
+
+//Text $1ADE10
+#WRITE(ptr,$18CFE8)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「ウェア」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADE5F
+
+
+
+
+
+//Text $1ADDF8
+#WRITE(ptr,$18D000)
+[Sign_Box]エンネアスフィア[END]
+// current address: $1ADE0E
+
+//Text $1ADDA0
+#WRITE(ptr,$18D004)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「クローク」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADDF1
+
+
+
+
+
+//Text $1ADD88
+#WRITE(ptr,$18D01C)
+[Sign_Box]デカスフィア[END]
+// current address: $1ADD9A
+
+//Text $1ADD38
+#WRITE(ptr,$18D020)
+「�」の文字が見える不思議な球体。[LINE]
+全ての「ローブ」を知りし者のみ[LINE]
+答えを知る。[END]
+// current address: $1ADD87
+
+
+
+
+
+//Text $1ADD28
+#WRITE(ptr,$18D038)
+[Sign_Box]まんぼう[END]
+// current address: $1ADD36
+
+//Text $1ADCE0
+#WRITE(ptr,$18D03C)
+まんぼう……<$81>@所持数に応じて[LINE]
+リリスのまんぼう戦吼の威力が[LINE]
+アップ！[END]
+// current address: $1ADD23
+
+
+
+
+
+//Text $1ADCC8
+#WRITE(ptr,$18D054)
+[Sign_Box]フェザーワッペン[END]
+// current address: $1ADCDE
+
+//Text $1ADC88
+#WRITE(ptr,$18D058)
+羽の紋様が入ったワッペン。[LINE]
+なりふり構わず英雄になりたくなる。[LINE]
+[END]
+// current address: $1ADCC7
+
+
+
+
+
+//Text $1ADC70
+#WRITE(ptr,$18D070)
+[Sign_Box]丸いペンダント[END]
+// current address: $1ADC84
+
+//Text $1ADC28
+#WRITE(ptr,$18D074)
+誰かが落としたと思われる[LINE]
+ペンダント。[LINE]
+時をかけるとかかけないとか……[END]
+// current address: $1ADC6D
+
+
+
+
+
+//Text $1ADC10
+#WRITE(ptr,$18D08C)
+[Sign_Box]青いスカーフ[END]
+// current address: $1ADC22
+
+//Text $1ADBC0
+#WRITE(ptr,$18D090)
+透き通るような青が美しいスカーフ。[LINE]
+身に着けている人は[LINE]
+さぞかし心が美しかろう。[END]
+// current address: $1ADC0F
+
+
+
+
+
+//Text $1ADBA8
+#WRITE(ptr,$18D0A8)
+[Sign_Box]仮面のようなもの[END]
+// current address: $1ADBBE
+
+//Text $1ADB68
+#WRITE(ptr,$18D0AC)
+仮面のようであって仮面でない？[LINE]
+つけてるやつの顔が見たい……[LINE]
+[END]
+// current address: $1ADBA5
+
+
+
+
+
+//Text $1ADB50
+#WRITE(ptr,$18D0C4)
+[Sign_Box]レッドウイッグ[END]
+// current address: $1ADB64
+
+//Text $1ADB00
+#WRITE(ptr,$18D0C8)
+着ける人を選ぶぐらい長いウイッグ。[LINE]
+ウイッグとは[LINE]
+女性用かつらみたいなものです。[END]
+// current address: $1ADB4F
+
+
+
+
+
+//Text $1ADAE8
+#WRITE(ptr,$18D0E0)
+[Sign_Box]漆黒のボンボン[END]
+// current address: $1ADAFC
+
+//Text $1ADAA8
+#WRITE(ptr,$18D0E4)
+悪巧みし放題な黒いボンボン。[LINE]
+どこに着けるかはお好みで！[LINE]
+[END]
+// current address: $1ADAE1
+
+
+
+
+
+//Text $1ADA90
+#WRITE(ptr,$18D0FC)
+[Sign_Box]巨大ではない人形[END]
+// current address: $1ADAA6
+
+//Text $1ADA40
+#WRITE(ptr,$18D100)
+かわいくはないが憎めない人形。[LINE]
+おなかを押すと[LINE]
+「ドスッ」と鈍い音がする。[END]
+// current address: $1ADA89
+
+
+
+
+
+//Text $1ADA28
+#WRITE(ptr,$18D118)
+[Sign_Box]火を噴く人形[END]
+// current address: $1ADA3A
+
+//Text $1AD9E0
+#WRITE(ptr,$18D11C)
+おなかを押すと、[LINE]
+火を噴く危険な人形。[LINE]
+なぜだか蹴飛ばしたくなる……[END]
+// current address: $1ADA23
+
+
+
+
+
+//Text $1AD9C8
+#WRITE(ptr,$18D134)
+[Sign_Box]みごとな弁髪[END]
+// current address: $1AD9DA
+
+//Text $1AD980
+#WRITE(ptr,$18D138)
+便利！<$81>@取り外し可！<$81>@自己発育！[LINE]
+１６個のまりもが生み出す[LINE]
+ハーモニー！[END]
+// current address: $1AD9C7
+
+
+
+
+
+//Text $1AD968
+#WRITE(ptr,$18D150)
+[Sign_Box]高そうな王冠[END]
+// current address: $1AD97A
+
+//Text $1AD930
+#WRITE(ptr,$18D154)
+いかにも高そうな王冠。[LINE]
+頭の上にどうやって載せるのか？[LINE]
+[END]
+// current address: $1AD967
+
+
+
+
+
+//Text $1AD920
+#WRITE(ptr,$18D16C)
+[Sign_Box]くずレンズ[END]
+// current address: $1AD930
+
+//Text $1AD8D8
+#WRITE(ptr,$18D170)
+レンズの欠片。使い道はないが[LINE]
+一応引き取ってもらえる。[LINE]
+換金アイテム。[END]
+// current address: $1AD91D
+
+
+
+
+
+//Text $1AD8C0
+#WRITE(ptr,$18D188)
+[Sign_Box]レンズの結晶[END]
+// current address: $1AD8D2
+
+//Text $1AD870
+#WRITE(ptr,$18D18C)
+加工されていないレンズの結晶。[LINE]
+非常に珍しいので高値で売れる[LINE]
+換金アイテム。[END]
+// current address: $1AD8BB
+
+
+
+
+
+//Text $1AD860
+#WRITE(ptr,$18D1A4)
+[Sign_Box]石ころ[END]
+// current address: $1AD86C
+
+//Text $1AD818
+#WRITE(ptr,$18D1A8)
+１ガルドを笑う者は１ガルドに泣く。[LINE]
+一応１ガルドで売れる換金アイテム。[LINE]
+[END]
+// current address: $1AD85F
+
+
+
+
+
+//Text $1AD808
+#WRITE(ptr,$18D1C0)
+[Sign_Box]天地鉱[END]
+// current address: $1AD814
+
+//Text $1AD7C0
+#WRITE(ptr,$18D1C4)
+天地戦争時代の建物に[LINE]
+使用されていたとされる鉱石。[LINE]
+換金アイテム。[END]
+// current address: $1AD801
+
+
+
+
+
+//Text $1AD7B0
+#WRITE(ptr,$18D1DC)
+[Sign_Box]金香草[END]
+// current address: $1AD7BC
+
+//Text $1AD768
+#WRITE(ptr,$18D1E0)
+金の香りがする雑草。[LINE]
+金に対する執着心がよく分かる一品。[LINE]
+換金アイテム。[END]
+// current address: $1AD7AF
+
+
+
+
+
+//Text $1AD758
+#WRITE(ptr,$18D1F8)
+[Sign_Box]隕石の欠片[END]
+// current address: $1AD768
+
+//Text $1AD710
+#WRITE(ptr,$18D1FC)
+天地戦争の発端たる隕石の欠片……[LINE]
+ということにして売れる[LINE]
+換金アイテム。[END]
+// current address: $1AD757
+
+
+
+
+
+//Text $1AD6F8
+#WRITE(ptr,$18D214)
+[Sign_8]ポイズンマテリアル[END]
+// current address: $1AD710
+
+//Text $1AD6A8
+#WRITE(ptr,$18D218)
+リライズで、ＨＰが減少していく[LINE]
+状態異常「熱毒」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD6F3
+
+
+
+
+
+//Text $1AD690
+#WRITE(ptr,$18D230)
+[Sign_8]スリープマテリアル[END]
+// current address: $1AD6A8
+
+//Text $1AD648
+#WRITE(ptr,$18D234)
+リライズで、行動不能になる[LINE]
+状態異常「睡眠」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD68F
+
+
+
+
+
+//Text $1AD630
+#WRITE(ptr,$18D24C)
+[Sign_8]ストーンマテリアル[END]
+// current address: $1AD648
+
+//Text $1AD5E8
+#WRITE(ptr,$18D250)
+リライズで、行動不能になる[LINE]
+状態異常「石化」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD62F
+
+
+
+
+
+//Text $1AD5C8
+#WRITE(ptr,$18D268)
+[Sign_8]ウェイストマテリアル[END]
+// current address: $1AD5E2
+
+//Text $1AD578
+#WRITE(ptr,$18D26C)
+リライズで、ＣＣの回復が遅くなる[LINE]
+状態異常「衰弱」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD5C5
+
+
+
+
+
+//Text $1AD560
+#WRITE(ptr,$18D284)
+[Sign_8]パラライマテリアル[END]
+// current address: $1AD578
+
+//Text $1AD518
+#WRITE(ptr,$18D288)
+リライズで、行動時に痺れる[LINE]
+状態異常「マヒ」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD55F
+
+
+
+
+
+//Text $1AD500
+#WRITE(ptr,$18D2A0)
+[Sign_8]シールマテリアル[END]
+// current address: $1AD516
+
+//Text $1AD4B0
+#WRITE(ptr,$18D2A4)
+リライズで、術技が使用不可になる[LINE]
+状態異常「封印」を防止する宝石に[LINE]
+変化する。[END]
+// current address: $1AD4FD
+
+
+
+
+
+//Text $1AD498
+#WRITE(ptr,$18D2BC)
+[Sign_8]フレアマテリアル[END]
+// current address: $1AD4AE
+
+//Text $1AD440
+#WRITE(ptr,$18D2C0)
+リライズで、火属性ダメージを半減[LINE]
+できる「火属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD491
+
+
+
+
+
+//Text $1AD428
+#WRITE(ptr,$18D2D8)
+[Sign_8]アクアマテリアル[END]
+// current address: $1AD43E
+
+//Text $1AD3D0
+#WRITE(ptr,$18D2DC)
+リライズで、水属性ダメージを半減[LINE]
+できる「水属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD421
+
+
+
+
+
+//Text $1AD3B8
+#WRITE(ptr,$18D2F4)
+[Sign_8]アースマテリアル[END]
+// current address: $1AD3CE
+
+//Text $1AD360
+#WRITE(ptr,$18D2F8)
+リライズで、地属性ダメージを半減[LINE]
+できる「地属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD3B1
+
+
+
+
+
+//Text $1AD348
+#WRITE(ptr,$18D310)
+[Sign_8]ゲイルマテリアル[END]
+// current address: $1AD35E
+
+//Text $1AD2F0
+#WRITE(ptr,$18D314)
+リライズで、風属性ダメージを半減[LINE]
+できる「風属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD341
+
+
+
+
+
+//Text $1AD2D8
+#WRITE(ptr,$18D32C)
+[Sign_8]ライトマテリアル[END]
+// current address: $1AD2EE
+
+//Text $1AD280
+#WRITE(ptr,$18D330)
+リライズで、光属性ダメージを半減[LINE]
+できる「光属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD2D1
+
+
+
+
+
+//Text $1AD268
+#WRITE(ptr,$18D348)
+[Sign_8]ダークマテリアル[END]
+// current address: $1AD27E
+
+//Text $1AD210
+#WRITE(ptr,$18D34C)
+リライズで、闇属性ダメージを半減[LINE]
+できる「闇属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD261
+
+
+
+
+
+//Text $1AD1F0
+#WRITE(ptr,$18D364)
+[Sign_8]スラッシュマテリアル[END]
+// current address: $1AD20A
+
+//Text $1AD198
+#WRITE(ptr,$18D368)
+リライズで、斬属性ダメージを半減[LINE]
+できる「斬属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD1E9
+
+
+
+
+
+//Text $1AD180
+#WRITE(ptr,$18D380)
+[Sign_8]ブロウマテリアル[END]
+// current address: $1AD196
+
+//Text $1AD128
+#WRITE(ptr,$18D384)
+リライズで、打属性ダメージを半減[LINE]
+できる「打属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD179
+
+
+
+
+
+//Text $1AD110
+#WRITE(ptr,$18D39C)
+[Sign_8]ショットマテリアル[END]
+// current address: $1AD128
+
+//Text $1AD0B8
+#WRITE(ptr,$18D3A0)
+リライズで、射属性ダメージを半減[LINE]
+できる「射属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD109
+
+
+
+
+
+//Text $1AD0A0
+#WRITE(ptr,$18D3B8)
+[Sign_8]ソニックマテリアル[END]
+// current address: $1AD0B8
+
+//Text $1AD048
+#WRITE(ptr,$18D3BC)
+リライズで、音属性ダメージを半減[LINE]
+できる「音属性耐性」を付加する[LINE]
+宝石に変化する。[END]
+// current address: $1AD099
+
+
+
+
+
+//Text $1AD030
+#WRITE(ptr,$18D3D4)
+[Sign_8]アタックマテリアル[END]
+// current address: $1AD048
+
+//Text $1ACFE0
+#WRITE(ptr,$18D3D8)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+攻撃力を一定時間上昇する宝石に[LINE]
+変化する。[END]
+// current address: $1AD02F
+
+
+
+
+
+//Text $1ACFC8
+#WRITE(ptr,$18D3F0)
+[Sign_8]マインドマテリアル[END]
+// current address: $1ACFE0
+
+//Text $1ACF70
+#WRITE(ptr,$18D3F4)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+術攻撃力を一定時間上昇する宝石に[LINE]
+変化する。[END]
+// current address: $1ACFC1
+
+
+
+
+
+//Text $1ACF50
+#WRITE(ptr,$18D40C)
+[Sign_8]プロテクトマテリアル[END]
+// current address: $1ACF6A
+
+//Text $1ACF00
+#WRITE(ptr,$18D410)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+防御力を一定時間上昇する宝石に[LINE]
+変化する。[END]
+// current address: $1ACF4F
+
+
+
+
+
+//Text $1ACEE8
+#WRITE(ptr,$18D428)
+[Sign_8]レジストマテリアル[END]
+// current address: $1ACF00
+
+//Text $1ACE90
+#WRITE(ptr,$18D42C)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+術防御力を一定時間上昇する宝石に[LINE]
+変化する。[END]
+// current address: $1ACEE1
+
+
+
+
+
+//Text $1ACE78
+#WRITE(ptr,$18D444)
+[Sign_8]リカバーマテリアル[END]
+// current address: $1ACE90
+
+//Text $1ACE20
+#WRITE(ptr,$18D448)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+高確率で状態異常を解除する宝石に[LINE]
+変化する。[END]
+// current address: $1ACE71
+
+
+
+
+
+//Text $1ACE08
+#WRITE(ptr,$18D460)
+[Sign_8]チェインマテリアル[END]
+// current address: $1ACE20
+
+//Text $1ACDC0
+#WRITE(ptr,$18D464)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+ＣＣを１加算する宝石に変化する。[LINE]
+[END]
+// current address: $1ACE07
+
+
+
+
+
+//Text $1ACDA0
+#WRITE(ptr,$18D47C)
+[Sign_8]フラッシュマテリアル[END]
+// current address: $1ACDBA
+
+//Text $1ACD50
+#WRITE(ptr,$18D480)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+短時間完全回避する宝石に変化する。[LINE]
+[END]
+// current address: $1ACD99
+
+
+
+
+
+//Text $1ACD38
+#WRITE(ptr,$18D498)
+[Sign_8]ブラストマテリアル[END]
+// current address: $1ACD50
+
+//Text $1ACCE8
+#WRITE(ptr,$18D49C)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+ブラストゲージを加算する宝石に[LINE]
+変化する。[END]
+// current address: $1ACD37
+
+
+
+
+
+//Text $1ACCD0
+#WRITE(ptr,$18D4B4)
+[Sign_8]サプライマテリアル[END]
+// current address: $1ACCE8
+
+//Text $1ACC78
+#WRITE(ptr,$18D4B8)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+自分以外の味方のＣＣを[LINE]
+加算させる宝石に変化する。[END]
+// current address: $1ACCCF
+
+
+
+
+
+//Text $1ACC60
+#WRITE(ptr,$18D4D0)
+[Sign_8]キュアマテリアル[END]
+// current address: $1ACC76
+
+//Text $1ACC18
+#WRITE(ptr,$18D4D4)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+ＨＰを回復する宝石に変化する。[LINE]
+[END]
+// current address: $1ACC5D
+
+
+
+
+
+//Text $1ACBF8
+#WRITE(ptr,$18D4EC)
+[Sign_8]フィジカルマテリアル[END]
+// current address: $1ACC12
+
+//Text $1ACBA0
+#WRITE(ptr,$18D4F0)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+敵の防御を崩す攻撃判定が[LINE]
+発生する宝石に変化する。[END]
+// current address: $1ACBF7
+
+
+
+
+
+//Text $1ACB80
+#WRITE(ptr,$18D508)
+[Sign_8]ディスペルマテリアル[END]
+// current address: $1ACB9A
+
+//Text $1ACB30
+#WRITE(ptr,$18D50C)
+リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
+減少効果を打ち消す宝石に変化する。[LINE]
+[END]
+// current address: $1ACB79
+
+
+
+
+
+//Text $1ACB18
+#WRITE(ptr,$18D524)
+[Sign_8]ライズマテリアル[END]
+// current address: $1ACB2E
+
+//Text $1ACAE0
+#WRITE(ptr,$18D528)
+リライズで、最小ＣＣを１増やす[LINE]
+宝石に変化する。[LINE]
+[END]
+// current address: $1ACB11
+
+
+
+
+
+//Text $1ACAC0
+#WRITE(ptr,$18D540)
+[Sign_8]エクシードマテリアル[END]
+// current address: $1ACADA
+
+//Text $1ACA88
+#WRITE(ptr,$18D544)
+リライズで、最大ＣＣを１増やす[LINE]
+宝石に変化する。[LINE]
+[END]
+// current address: $1ACAB9
+
+
+
+
+
+//Text $1ACA68
+#WRITE(ptr,$18D55C)
+[Sign_8]ゼクシードマテリアル[END]
+// current address: $1ACA82
+
+//Text $1ACA30
+#WRITE(ptr,$18D560)
+リライズで、最大ＣＣを２増やす[LINE]
+宝石に変化する。[LINE]
+[END]
+// current address: $1ACA61
+
+
+
+
+
+//Text $1ACA10
+#WRITE(ptr,$18D578)
+[Sign_8]バリアブルマテリアル[END]
+// current address: $1ACA2A
+
+//Text $1AC9D0
+#WRITE(ptr,$18D57C)
+リライズで、最小ＣＣと最大ＣＣを[LINE]
+１増やす宝石に変化する。[LINE]
+[END]
+// current address: $1ACA0B
+
+
+
+
+
+//Text $1AC9B0
+#WRITE(ptr,$18D594)
+[Sign_8]フィックスマテリアル[END]
+// current address: $1AC9CA
+
+//Text $1AC978
+#WRITE(ptr,$18D598)
+リライズで、ＣＣを常に１５にする[LINE]
+宝石に変化する。[LINE]
+[END]
+// current address: $1AC9AB
+
+
+
+
+
+//Text $1AC960
+#WRITE(ptr,$18D5B0)
+[Sign_8]フラットマテリアル[END]
+// current address: $1AC978
+
+//Text $1AC928
+#WRITE(ptr,$18D5B4)
+リライズで、ＣＣを平均で固定に[LINE]
+する宝石に変化する。[LINE]
+[END]
+// current address: $1AC95D
+
+
+
+
+
+//Text $1AC908
+#WRITE(ptr,$18D5CC)
+[Sign_8]チェイサーマテリアル[END]
+// current address: $1AC922
+
+//Text $1AC8C8
+#WRITE(ptr,$18D5D0)
+リライズで、クリティカル時に[LINE]
+ＣＣを＋１する宝石に変化する。[LINE]
+[END]
+// current address: $1AC905
+
+
+
+
+
+//Text $1AC8B0
+#WRITE(ptr,$18D5E8)
+[Sign_8]ホーリィマテリアル[END]
+// current address: $1AC8C8
+
+//Text $1AC870
+#WRITE(ptr,$18D5EC)
+リライズで、一定時間毎に[LINE]
+ＨＰが微量回復する宝石に変化する。[LINE]
+[END]
+// current address: $1AC8AD
+
+
+
+
+
+//Text $1AC858
+#WRITE(ptr,$18D604)
+[Sign_8]ゲインマテリアル[END]
+// current address: $1AC86E
+
+//Text $1AC818
+#WRITE(ptr,$18D608)
+リライズで、敵を倒したときに、[LINE]
+ＨＰが回復する宝石に変化する。[LINE]
+[END]
+// current address: $1AC857
+
+
+
+
+
+//Text $1AC800
+#WRITE(ptr,$18D620)
+[Sign_8]ラピッドマテリアル[END]
+// current address: $1AC818
+
+//Text $1AC7C0
+#WRITE(ptr,$18D624)
+リライズで、敵を倒したときに、[LINE]
+ＣＣを＋２する宝石に変化する。[LINE]
+[END]
+// current address: $1AC7FF
+
+
+
+
+
+//Text $1AC7A0
+#WRITE(ptr,$18D63C)
+[Sign_8]テンションマテリアル[END]
+// current address: $1AC7BA
+
+//Text $1AC750
+#WRITE(ptr,$18D640)
+リライズで、敵を倒したときに、[LINE]
+ブラストゲージが加算される宝石に[LINE]
+変化する。[END]
+// current address: $1AC79B
+
+
+
+
+
+//Text $1AC730
+#WRITE(ptr,$18D658)
+[Sign_8]アドバンスマテリアル[END]
+// current address: $1AC74A
+
+//Text $1AC6E8
+#WRITE(ptr,$18D65C)
+リライズで、エイミングダッシュ中[LINE]
+物理攻撃を防御できる宝石に[LINE]
+変化する。[END]
+// current address: $1AC72F
+
+
+
+
+
+//Text $1AC6C8
+#WRITE(ptr,$18D674)
+[Sign_8]ストリクトマテリアル[END]
+// current address: $1AC6E2
+
+//Text $1AC668
+#WRITE(ptr,$18D678)
+リライズで、フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＣＣが２加算する宝石に変化する。[END]
+// current address: $1AC6C7
+
+
+
+
+
+//Text $1AC648
+#WRITE(ptr,$18D690)
+[Sign_8]アブソーブマテリアル[END]
+// current address: $1AC662
+
+//Text $1AC5E8
+#WRITE(ptr,$18D694)
+リライズで、フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＨＰが回復する宝石に変化する。[END]
+// current address: $1AC645
+
+
+
+
+
+//Text $1AC5D0
+#WRITE(ptr,$18D6AC)
+[Sign_8]デモンズマテリアル[END]
+// current address: $1AC5E8
+
+//Text $1AC590
+#WRITE(ptr,$18D6B0)
+リライズで、獲得経験値が２倍に[LINE]
+なる宝石に変化する。ただし……[LINE]
+[END]
+// current address: $1AC5CF
+
+
+
+
+
+//Text $1AC578
+#WRITE(ptr,$18D6C8)
+[Sign_8]エッジマテリアル[END]
+// current address: $1AC58E
+
+//Text $1AC530
+#WRITE(ptr,$18D6CC)
+リライズで、与えるダメージが２倍[LINE]
+になる宝石に変化する。ただし……[LINE]
+[END]
+// current address: $1AC573

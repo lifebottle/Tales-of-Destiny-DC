@@ -1,0 +1,859 @@
+//Text $1B0A28
+#WRITE(ptr,$18D704)
+[Sign_2]ポイズン[END]
+// current address: $1B0A36
+
+//Text $1B09F0
+#WRITE(ptr,$18D708)
+ＨＰが減少していく状態異常[LINE]
+「熱毒」を防止する宝石。[LINE]
+[END]
+// current address: $1B0A25
+
+
+
+
+
+//Text $1B09E0
+#WRITE(ptr,$18D720)
+[Sign_2]スリープ[END]
+// current address: $1B09EE
+
+//Text $1B09A8
+#WRITE(ptr,$18D724)
+行動不能になる状態異常[LINE]
+「睡眠」を防止する宝石。[LINE]
+[END]
+// current address: $1B09D9
+
+
+
+
+
+//Text $1B0998
+#WRITE(ptr,$18D73C)
+[Sign_2]ストーン[END]
+// current address: $1B09A6
+
+//Text $1B0960
+#WRITE(ptr,$18D740)
+行動不能になる状態異常[LINE]
+「石化」を防止する宝石。[LINE]
+[END]
+// current address: $1B0991
+
+
+
+
+
+//Text $1B0950
+#WRITE(ptr,$18D758)
+[Sign_2]ウェイスト[END]
+// current address: $1B0960
+
+//Text $1B0918
+#WRITE(ptr,$18D75C)
+ＣＣの回復が遅くなる状態異常[LINE]
+「衰弱」を防止する宝石。[LINE]
+[END]
+// current address: $1B094F
+
+
+
+
+
+//Text $1B0908
+#WRITE(ptr,$18D774)
+[Sign_2]パラライ[END]
+// current address: $1B0916
+
+//Text $1B08D0
+#WRITE(ptr,$18D778)
+行動時に痺れる状態異常[LINE]
+「マヒ」を防止する宝石。[LINE]
+[END]
+// current address: $1B0901
+
+
+
+
+
+//Text $1B08C0
+#WRITE(ptr,$18D790)
+[Sign_2]シール[END]
+// current address: $1B08CC
+
+//Text $1B0888
+#WRITE(ptr,$18D794)
+術技が使用不可になる状態異常[LINE]
+「封印」を防止する宝石。[LINE]
+[END]
+// current address: $1B08BF
+
+
+
+
+
+//Text $1B0878
+#WRITE(ptr,$18D7AC)
+[Sign_2]フレア[END]
+// current address: $1B0884
+
+//Text $1B0838
+#WRITE(ptr,$18D7B0)
+火属性ダメージを半減できる[LINE]
+「火属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0873
+
+
+
+
+
+//Text $1B0828
+#WRITE(ptr,$18D7C8)
+[Sign_2]アクア[END]
+// current address: $1B0834
+
+//Text $1B07E8
+#WRITE(ptr,$18D7CC)
+水属性ダメージを半減できる[LINE]
+「水属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0823
+
+
+
+
+
+//Text $1B07D8
+#WRITE(ptr,$18D7E4)
+[Sign_2]アース[END]
+// current address: $1B07E4
+
+//Text $1B0798
+#WRITE(ptr,$18D7E8)
+地属性ダメージを半減できる[LINE]
+「地属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B07D3
+
+
+
+
+
+//Text $1B0788
+#WRITE(ptr,$18D800)
+[Sign_2]ゲイル[END]
+// current address: $1B0794
+
+//Text $1B0748
+#WRITE(ptr,$18D804)
+風属性ダメージを半減できる[LINE]
+「風属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0783
+
+
+
+
+
+//Text $1B0738
+#WRITE(ptr,$18D81C)
+[Sign_2]ライト[END]
+// current address: $1B0744
+
+//Text $1B06F8
+#WRITE(ptr,$18D820)
+光属性ダメージを半減できる[LINE]
+「光属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0733
+
+
+
+
+
+//Text $1B06E8
+#WRITE(ptr,$18D838)
+[Sign_2]ダーク[END]
+// current address: $1B06F4
+
+//Text $1B06A8
+#WRITE(ptr,$18D83C)
+闇属性ダメージを半減できる[LINE]
+「闇属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B06E3
+
+
+
+
+
+//Text $1B0698
+#WRITE(ptr,$18D854)
+[Sign_2]スラッシュ[END]
+// current address: $1B06A8
+
+//Text $1B0658
+#WRITE(ptr,$18D858)
+斬属性ダメージを半減できる[LINE]
+「斬属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0693
+
+
+
+
+
+//Text $1B0648
+#WRITE(ptr,$18D870)
+[Sign_2]ブロウ[END]
+// current address: $1B0654
+
+//Text $1B0608
+#WRITE(ptr,$18D874)
+打属性ダメージを半減できる[LINE]
+「打属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B0643
+
+
+
+
+
+//Text $1B05F8
+#WRITE(ptr,$18D88C)
+[Sign_2]ショット[END]
+// current address: $1B0606
+
+//Text $1B05B8
+#WRITE(ptr,$18D890)
+射属性ダメージを半減できる[LINE]
+「射属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B05F3
+
+
+
+
+
+//Text $1B05A8
+#WRITE(ptr,$18D8A8)
+[Sign_2]ソニック[END]
+// current address: $1B05B6
+
+//Text $1B0568
+#WRITE(ptr,$18D8AC)
+音属性ダメージを半減できる[LINE]
+「音属性耐性」を付加する宝石。[LINE]
+[END]
+// current address: $1B05A3
+
+
+
+
+
+//Text $1B0558
+#WRITE(ptr,$18D8C4)
+[Sign_2]アタック[END]
+// current address: $1B0566
+
+//Text $1B0520
+#WRITE(ptr,$18D8C8)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+攻撃力を一定時間上昇する宝石。[LINE]
+[END]
+// current address: $1B0557
+
+
+
+
+
+//Text $1B0510
+#WRITE(ptr,$18D8E0)
+[Sign_2]マインド[END]
+// current address: $1B051E
+
+//Text $1B04D0
+#WRITE(ptr,$18D8E4)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+術攻撃力を一定時間上昇する宝石。[LINE]
+[END]
+// current address: $1B0509
+
+
+
+
+
+//Text $1B04C0
+#WRITE(ptr,$18D8FC)
+[Sign_2]プロテクト[END]
+// current address: $1B04D0
+
+//Text $1B0488
+#WRITE(ptr,$18D900)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+防御力を一定時間上昇する宝石。[LINE]
+[END]
+// current address: $1B04BF
+
+
+
+
+
+//Text $1B0478
+#WRITE(ptr,$18D918)
+[Sign_2]レジスト[END]
+// current address: $1B0486
+
+//Text $1B0438
+#WRITE(ptr,$18D91C)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+術防御力を一定時間上昇する宝石。[LINE]
+[END]
+// current address: $1B0471
+
+
+
+
+
+//Text $1B0428
+#WRITE(ptr,$18D934)
+[Sign_2]リカバー[END]
+// current address: $1B0436
+
+//Text $1B03E8
+#WRITE(ptr,$18D938)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+高確率で状態異常を解除する宝石。[LINE]
+[END]
+// current address: $1B0421
+
+
+
+
+
+//Text $1B03D8
+#WRITE(ptr,$18D950)
+[Sign_2]チェイン[END]
+// current address: $1B03E6
+
+//Text $1B03A8
+#WRITE(ptr,$18D954)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ＣＣを１加算する宝石。[LINE]
+[END]
+// current address: $1B03D7
+
+
+
+
+
+//Text $1B0398
+#WRITE(ptr,$18D96C)
+[Sign_2]フラッシュ[END]
+// current address: $1B03A8
+
+//Text $1B0360
+#WRITE(ptr,$18D970)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+短時間完全回避する宝石。[LINE]
+[END]
+// current address: $1B0391
+
+
+
+
+
+//Text $1B0350
+#WRITE(ptr,$18D988)
+[Sign_2]ブラスト[END]
+// current address: $1B035E
+
+//Text $1B0318
+#WRITE(ptr,$18D98C)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ブラストゲージを加算する宝石。[LINE]
+[END]
+// current address: $1B034F
+
+
+
+
+
+//Text $1B0308
+#WRITE(ptr,$18D9A4)
+[Sign_2]サプライ[END]
+// current address: $1B0316
+
+//Text $1B02C8
+#WRITE(ptr,$18D9A8)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+自分以外の味方のＣＣを[LINE]
+加算させる宝石。[END]
+// current address: $1B0307
+
+
+
+
+
+//Text $1B02B8
+#WRITE(ptr,$18D9C0)
+[Sign_2]キュア[END]
+// current address: $1B02C4
+
+//Text $1B0288
+#WRITE(ptr,$18D9C4)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ＨＰを回復する宝石。[LINE]
+[END]
+// current address: $1B02B5
+
+
+
+
+
+//Text $1B0278
+#WRITE(ptr,$18D9DC)
+[Sign_2]フィジカル[END]
+// current address: $1B0288
+
+//Text $1B0238
+#WRITE(ptr,$18D9E0)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+敵の防御を崩す攻撃判定が[LINE]
+発生する宝石。[END]
+// current address: $1B0277
+
+
+
+
+
+//Text $1B0228
+#WRITE(ptr,$18D9F8)
+[Sign_2]ディスペル[END]
+// current address: $1B0238
+
+//Text $1B01F0
+#WRITE(ptr,$18D9FC)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+減少効果を打ち消す宝石。[LINE]
+[END]
+// current address: $1B0221
+
+
+
+
+
+//Text $1B01E0
+#WRITE(ptr,$18DA14)
+[Sign_2]ライズ[END]
+// current address: $1B01EC
+
+//Text $1B01C0
+#WRITE(ptr,$18DA18)
+最小ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B01DB
+
+
+
+
+
+//Text $1B01B0
+#WRITE(ptr,$18DA30)
+[Sign_2]エクシード[END]
+// current address: $1B01C0
+
+//Text $1B0190
+#WRITE(ptr,$18DA34)
+最大ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B01AB
+
+
+
+
+
+//Text $1B0180
+#WRITE(ptr,$18DA4C)
+[Sign_2]ゼクシード[END]
+// current address: $1B0190
+
+//Text $1B0160
+#WRITE(ptr,$18DA50)
+最大ＣＣを２増やす宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B017B
+
+
+
+
+
+//Text $1B0150
+#WRITE(ptr,$18DA68)
+[Sign_2]バリアブル[END]
+// current address: $1B0160
+
+//Text $1B0128
+#WRITE(ptr,$18DA6C)
+最小ＣＣと最大ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B014D
+
+
+
+
+
+//Text $1B0118
+#WRITE(ptr,$18DA84)
+[Sign_2]フィックス[END]
+// current address: $1B0128
+
+//Text $1B00F8
+#WRITE(ptr,$18DA88)
+ＣＣを常に１５にする宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B0115
+
+
+
+
+
+//Text $1B00E8
+#WRITE(ptr,$18DAA0)
+[Sign_2]フラット[END]
+// current address: $1B00F6
+
+//Text $1B00C8
+#WRITE(ptr,$18DAA4)
+ＣＣを平均で固定にする宝石。[LINE]
+[LINE]
+[END]
+// current address: $1B00E7
+
+
+
+
+
+//Text $1B00B8
+#WRITE(ptr,$18DABC)
+[Sign_2]チェイサー[END]
+// current address: $1B00C8
+
+//Text $1B0090
+#WRITE(ptr,$18DAC0)
+クリティカル時にＣＣを＋１する[LINE]
+宝石。[LINE]
+[END]
+// current address: $1B00B7
+
+
+
+
+
+//Text $1B0080
+#WRITE(ptr,$18DAD8)
+[Sign_2]ホーリィ[END]
+// current address: $1B008E
+
+//Text $1B0058
+#WRITE(ptr,$18DADC)
+一定時間毎にＨＰが微量回復する[LINE]
+宝石。[LINE]
+[END]
+// current address: $1B007F
+
+
+
+
+
+//Text $1B0048
+#WRITE(ptr,$18DAF4)
+[Sign_2]ゲイン[END]
+// current address: $1B0054
+
+//Text $1B0020
+#WRITE(ptr,$18DAF8)
+敵を倒したときにＨＰが回復する[LINE]
+宝石。[LINE]
+[END]
+// current address: $1B0047
+
+
+
+
+
+//Text $1B0010
+#WRITE(ptr,$18DB10)
+[Sign_2]ラピッド[END]
+// current address: $1B001E
+
+//Text $1AFFE8
+#WRITE(ptr,$18DB14)
+敵を倒したときにＣＣを＋２する[LINE]
+宝石。[LINE]
+[END]
+// current address: $1B000F
+
+
+
+
+
+//Text $1AFFD8
+#WRITE(ptr,$18DB2C)
+[Sign_2]テンション[END]
+// current address: $1AFFE8
+
+//Text $1AFFA0
+#WRITE(ptr,$18DB30)
+敵を倒したときにブラストゲージが[LINE]
+加算される宝石。[LINE]
+[END]
+// current address: $1AFFD3
+
+
+
+
+
+//Text $1AFF90
+#WRITE(ptr,$18DB48)
+[Sign_2]アドバンス[END]
+// current address: $1AFFA0
+
+//Text $1AFF58
+#WRITE(ptr,$18DB4C)
+エイミングダッシュ中[LINE]
+物理攻撃を防御できる宝石。[LINE]
+[END]
+// current address: $1AFF89
+
+
+
+
+
+//Text $1AFF48
+#WRITE(ptr,$18DB64)
+[Sign_2]ストリクト[END]
+// current address: $1AFF58
+
+//Text $1AFEF8
+#WRITE(ptr,$18DB68)
+フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＣＣが２加算する宝石。[END]
+// current address: $1AFF41
+
+
+
+
+
+//Text $1AFEE8
+#WRITE(ptr,$18DB80)
+[Sign_2]アブソーブ[END]
+// current address: $1AFEF8
+
+//Text $1AFEA0
+#WRITE(ptr,$18DB84)
+フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＨＰが回復する宝石。[END]
+// current address: $1AFEE7
+
+
+
+
+
+//Text $1AFE90
+#WRITE(ptr,$18DB9C)
+[Sign_2]デモンズ[END]
+// current address: $1AFE9E
+
+//Text $1AFE60
+#WRITE(ptr,$18DBA0)
+獲得経験値が２倍になる宝石。[LINE]
+ただし……[LINE]
+[END]
+// current address: $1AFE89
+
+
+
+
+
+//Text $1AFE50
+#WRITE(ptr,$18DBB8)
+[Sign_2]エッジ[END]
+// current address: $1AFE5C
+
+//Text $1AFE20
+#WRITE(ptr,$18DBBC)
+与えるダメージが２倍になる宝石。[LINE]
+ただし……[LINE]
+[END]
+// current address: $1AFE4D
+
+
+
+
+
+//Text $1AFE08
+#WRITE(ptr,$18DBD4)
+[Sign_2]なりきりスタン[END]
+// current address: $1AFE1C
+
+//Text $1AFDE8
+#WRITE(ptr,$18DBD8)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFDD0
+#WRITE(ptr,$18DBF0)
+[Sign_2]なりきりルーティ[END]
+// current address: $1AFDE6
+
+//Text $1AFDE8
+#WRITE(ptr,$18DBF4)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFDB8
+#WRITE(ptr,$18DC0C)
+[Sign_2]なりきりフィリア[END]
+// current address: $1AFDCE
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC10)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFDA0
+#WRITE(ptr,$18DC28)
+[Sign_2]なりきりウッドロウ[END]
+// current address: $1AFDB8
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC2C)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD88
+#WRITE(ptr,$18DC44)
+[Sign_2]なりきりリオン[END]
+// current address: $1AFD9C
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC48)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD70
+#WRITE(ptr,$18DC60)
+[Sign_2]なりきりマリー[END]
+// current address: $1AFD84
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC64)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD58
+#WRITE(ptr,$18DC7C)
+[Sign_2]なりきりチェルシー[END]
+// current address: $1AFD70
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC80)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD40
+#WRITE(ptr,$18DC98)
+[Sign_2]なりきりジョニー[END]
+// current address: $1AFD56
+
+//Text $1AFDE8
+#WRITE(ptr,$18DC9C)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD28
+#WRITE(ptr,$18DCB4)
+[Sign_2]なりきりコングマン[END]
+// current address: $1AFD40
+
+//Text $1AFDE8
+#WRITE(ptr,$18DCB8)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05
+
+
+
+
+
+//Text $1AFD10
+#WRITE(ptr,$18DCD0)
+[Sign_2]なりきりリリス[END]
+// current address: $1AFD24
+
+//Text $1AFDE8
+#WRITE(ptr,$18DCD4)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+// current address: $1AFE05

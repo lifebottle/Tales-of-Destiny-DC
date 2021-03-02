@@ -1,4 +1,6 @@
-﻿namespace sceWork
+﻿using System.Text;
+
+namespace sceWork
 {
     public class tableEntry
     {
@@ -9,11 +11,16 @@
         {
             str = str.Replace(" ", "");
             str = str.Replace("\t", "");
-            str = str.ToUpper();
-            int startIndex = str.IndexOf(';');
+            int startIndex = str.IndexOf('=');
+
             this.A = str.Remove(startIndex);
+            this.A = this.A.ToUpper();
             this.B = str.Remove(0, startIndex + 1);
-            this.B = this.B.Remove(this.B.IndexOf(';'));
+            int commentIndex = this.B.IndexOf(';');
+            if (commentIndex > 0)
+                this.B = this.B.Remove(commentIndex);
+            this.B = System.Text.RegularExpressions.Regex.Unescape(this.B);
+            this.B = System.BitConverter.ToString(Encoding.GetEncoding(932).GetBytes(this.B)).Replace("-", string.Empty);            
         }
     }
 }

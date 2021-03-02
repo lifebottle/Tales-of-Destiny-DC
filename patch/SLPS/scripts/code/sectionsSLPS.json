@@ -43,30 +43,16 @@
 			"PointerEnd":	"18108F"
 		}]
 	},
+	
 	{
 		"BlockId":			4,
-		"BlockDesc":		"Title",
-		"TextStartBlock":	"1BBC00",
-		"Sections":[
-		{
-			"SectionId":	1,
-			"SectionDesc":	"Title",
-			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
-			"TextStart":	"1BBC00",
-			"TextEnd":		"",
-			"PointerStart":	"",
-			"PointerEnd":	""
-		}]
-	},
-	{
-		"BlockId":			5,
 		"BlockDesc":		"Artes_Other",
 		"TextStartBlock":	"19D388",
 		"Sections":[
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Other_Items",
-			"GoogleSheetId":	"",
+			"GoogleSheetId":"",
 			"TextStart":	"19C380",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184788",
@@ -84,12 +70,108 @@
 		{
 			"SectionId":	3,
 			"SectionDesc":	"Strategy",
-			"GoogleSheetId":	"",
+			"GoogleSheetId":"",
 			"TextStart":	"1A0FA0",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184F1C",
 			"PointerEnd":	"1858D0"
 		}]
+	},
+	
+	{
+		"BlockId":			5,
+		"BlockDesc":		"Item",
+		"TextStartBlock":	"1AC530",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Consumable",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1AC530",
+			"TextEnd":		"1AFCF8",
+			"PointerStart":	"18C60C",
+			"PointerEnd":	"18D6CC"
+		
+		},
+		
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Jewel",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1AFD10",
+			"TextEnd":		"1B09E0",
+			"PointerStart":	"18D720",
+			"PointerEnd":	"18DCD0"
+		},
+		
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Weapon",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B0A38",
+			"TextEnd":		"1B2CD0",
+			"PointerStart":	"18DD2C",
+			"PointerEnd":	"18F2C0"
+		
+		},
+		
+		{
+			"SectionId":	4,
+			"SectionDesc":	"Armor",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B2CE0",
+			"TextEnd":		"1B5EC0",
+			"PointerStart":	"18F334",
+			"PointerEnd":	"1911B0"
+		},
+		
+		{
+			"SectionId":	5,
+			"SectionDesc":	"Unique",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B5ED8",
+			"TextEnd":		"1B83F0",
+			"PointerStart":	"191208",
+			"PointerEnd":	"191D4C"
+		
+		},
+		
+		{
+			"SectionId":	6,
+			"SectionDesc":	"Food",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1B8408",
+			"TextEnd":		"1BA218",
+			"PointerStart":	"191D98",
+			"PointerEnd":	"1926E4"
+		},
+		
+		{
+			"SectionId":	7,
+			"SectionDesc":	"Key",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1BA258",
+			"TextEnd":		"1BAFD0",
+			"PointerStart":	"192714",
+			"PointerEnd":	"192B74"
+		}]
+	},
+	
+	{
+		"BlockId":			6,
+		"BlockDesc":		"Title",
+		"TextStartBlock":	"1BBC00",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Title",
+			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
+			"TextStart":	"1BBC00",
+			"TextEnd":		"",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
 	}
+	
 	]
 }

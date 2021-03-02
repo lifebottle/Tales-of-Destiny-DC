@@ -38,13 +38,14 @@ def parseText(fileName):
     
     return finalList
 
-def writeColumn(finalList):
+def writeColumn(finalList, googleId):
     
     gc = pygsheets.authorize(service_file='gsheet.json')
-    sh = gc.open('Artes Test')
+    sh = gc.open_by_key(googleId)
 
-    #select the first sheet 
-    wks = sh[1]
+    #Look for Dump sheet 
+    wks = sh.worksheet('title','Dump')
+    
     
     #update the first sheet with df, starting at cell B2. 
     df=pd.DataFrame({"Japanese":finalList, "English":finalList})
@@ -60,11 +61,10 @@ def getGoogleSheetTranslation(gc, googlesheetId, sheetName):
         wks = sh[idSheet]
         
         df = pd.DataFrame(wks.get_all_records())
-        translationText = "\n".join(df['English'].tolist())
         
         #with open("test.txt",encoding="utf-8", mode="w") as f:
         #    f.write(translationsText)
-        return translationText
+        return df['Japanese'].tolist(), df['English'].tolist()
     else:
         print("Cannot find the sheet name in the google sheet")
         return "No"
@@ -106,17 +106,21 @@ def getHeader(pathTable):
     
     return headerTxt
 
+def getSpaceOccupied(textList):
+    firstNb = int( textList[-1].split("\n")[0].replace("//Text $",""), 16)
+    lastNb  = int( textList[0].split("\n")[0].replace("//Text $",""), 16)
+    return lastNb - firstNb
     
 def createBlock(dataItems, blockId):
     
     #Authentification
     gc = pygsheets.authorize(service_file=os.path.join(os.path.abspath(os.path.dirname(__file__)),'gsheet.json'))
+    #gc = pygsheets.authorize(service_file="gsheet.json")
     
     #Go grab the TextStart for the jump
     block = [ele for ele in dataItems if ele['BlockId'] == int(blockId)][0]
 
     textStart = block['TextStartBlock']
-    
     jumpText = "#JMP(${})\n".format(textStart)
     
     #Loop over each section and grab the DumpText
@@ -126,12 +130,19 @@ def createBlock(dataItems, blockId):
     blockText = ""
     blockText += jumpText
     for sectionId, sectionDesc, googleId in sectionsList:
-        
+        print(sectionDesc)
         if googleId != "":
-            #googleDump = grabGoogleDocToText(googleId)
-            googleDump = getGoogleSheetTranslation(gc, googleId, sectionDesc)
+            
+            #Grab the text from google sheet
+            originalTextList, translatedTextList = getGoogleSheetTranslation(gc, googleId, sectionDesc)
+            
+            #Print Stats about space
+            originalSpace = getSpaceOccupied(originalTextList)
+            finalSpace = getSpaceOccupied(translatedTextList)
+            #print("Original space: {}     Final space: {}".format(originalSpace, finalSpace))
+            
             blockText += "//Section {}\n\n".format(sectionDesc)
-            blockText += googleDump
+            blockText += "\n".join(translatedTextList)
         
     return block['BlockDesc'], blockText
 
@@ -158,12 +169,12 @@ def reinsertText_Block(blockId, slpsName):
     f = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),"sectionsSLPS.json"))
     data = json.load(f)
     dataItems = data['items']
-    
     #Copy the original SLPS file first
     shutil.copyfile( os.path.join(path,"SLPS_original","SLPS_258.42"), os.path.join(path,"SLPS_258.42"))
     
     #Run Atlas in command line
     blockDesc = [ele['BlockDesc'] for ele in dataItems if ele['BlockId'] == int(blockId)][0]
+    
     args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", "SLPS_258.42", "TODDC_"+blockDesc+"_Dump.txt"]
     listFile = subprocess.run(
         args,
@@ -171,6 +182,8 @@ def reinsertText_Block(blockId, slpsName):
         )
     
     #Copy the new SLPS back to Google drive
+    #print( "Source: " + os.path.join(path, "SLPS_258.42"))
+    #print( "Destination: " + os.path.join(path,"..","..", slpsName))
     shutil.copyfile( os.path.join(path, "SLPS_258.42"), os.path.join(path,"..","..", slpsName))
     
 def reinsertText_All(fileFull, slpsName):
@@ -181,7 +194,11 @@ def updateBlock(blockId, SLPSName):
     createAtlasScript_Block(blockId)
     reinsertText_Block(blockId, SLPSName)
 
-    
 
+#googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
+#fileName = 'TODDC_Item_Key_Dump_cleaned.txt'
+#finalList = parseText(fileName)
+#writeColumn(finalList, googleId)
+    
 
 
