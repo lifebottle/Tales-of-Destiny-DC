@@ -212,12 +212,12 @@ namespace sceWork
             string str1 = "";
             byte[] byteArr = GetHexStringAsByteArray(str);
 
-            if (str == "")
-                return str;
+            //if (str == "")
+            //    return str;
 
             for (int index = 0; index < byteArr.Length; ++index)
             {
-                if ((byteArr[index] & 0x80) != 0 && index-2 <= byteArr.Length)
+                if ((byteArr[index] & 0x80) != 0 && index+2 <= byteArr.Length)
                 {
                     string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
                     int index2 = 0;
