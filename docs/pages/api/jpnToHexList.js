@@ -1,6 +1,6 @@
 import { runPythonScript } from "components/runPythonScript";
 const handler = async (req, res) => {
-  const results = await runPythonScript("api/_scripts/JpnToHexList.py", [
+  const results = await runPythonScript("scripts/JpnToHexList.py", [
     req?.body?.input,
   ]);
   res.send(results);
