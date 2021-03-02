@@ -64,6 +64,10 @@ Server will be live at [http://localhost:3000](http://localhost:3000)
 
 Edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_PATH` equal to your python path
 
+#### Can't open `scripts\HexToJpn.py` [Errno 2] No such file or directory
+
+Edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_SCRIPTS_PATH` equal to your python path
+
 #### Adding a new python script
 
 - `scripts/*` - Raw python **def** functions go here.
