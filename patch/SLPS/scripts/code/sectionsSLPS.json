@@ -7,7 +7,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Character Name",
-			"GoogleDocId": 	"",
+			"GoogleSheetId": 	"",
 			"TextStart":	"199900",
 			"TextEnd":		"199C30",
 			"PointerStart":	"D7C80",
@@ -21,7 +21,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Chapter Name",
-			"GoogleDocId":	"188JJnJxlvqbKkL9ubvJzxTLBnWg87vb_-okQ5EqTsGc",
+			"GoogleSheetId":	"188JJnJxlvqbKkL9ubvJzxTLBnWg87vb_-okQ5EqTsGc",
 			"TextStart":	"19A190",
 			"TextEnd":		"19A5A8",
 			"PointerStart":	"D8780",
@@ -36,7 +36,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Support",
-			"GoogleDocId":	"1fg-A1u718ph7UE5eKj8t8Sq8modvaFrtrIgak5Gcx1M",
+			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"19B370",
 			"TextEnd":		"19B738",
 			"PointerStart":	"181040",

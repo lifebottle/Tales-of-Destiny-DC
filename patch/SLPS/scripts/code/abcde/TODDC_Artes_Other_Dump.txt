@@ -123,8 +123,8 @@ Unleashes a rising burning strike.[LINE]
 
 //Text $1A0C88
 #WRITE(ptr,$1830F0)
-A wind upward slash that pulls[LINE]
-nearby enemies.[END]
+An upward slash that pulls in[LINE]
+nearby foes.[END]
 
 //Text $1A0C78
 #WRITE(ptr,$183108)
@@ -162,7 +162,7 @@ a charging lion.[END]
 
 //Text $1A0B70
 #WRITE(ptr,$183150)
-Advances while delivering 4[LINE]
+Advance while delivering 4[LINE]
 consecutive slashes.[END]
 
 //Text $1A0B60
@@ -350,7 +350,7 @@ Deals additional damage on impact.[END]
 
 //Text $1A0668
 #WRITE(ptr,$183350)
-A gald stealing attack arte.[LINE]
+A gald stealing attack.[LINE]
 Increases recovery rate of spells?[END]
 
 //Text $1A0650
@@ -359,8 +359,8 @@ Increases recovery rate of spells?[END]
 
 //Text $1A0620
 #WRITE(ptr,$183370)
-A sword arte that quickly pierces[LINE]
-and slashes enemy into the air.[END]
+Quickly slash foes into the air,[LINE]
+then pierce them to the ground.[END]
 
 //Text $1A0608
 #WRITE(ptr,$183388)
@@ -465,7 +465,7 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0D30
 #WRITE(ptr,$1834B0)
-流れるような上下段の斬りを繰り出す剣技。[LINE]
+Slice the enemy up, then cut them down.[LINE]
 [END]
 
 //Text $1A0BB8
@@ -474,12 +474,12 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0BA0
 #WRITE(ptr,$1834CC)
-ソウリュウレンガザン[END]
+[END]
 
 //Text $1A0B70
 #WRITE(ptr,$1834D0)
-踏み込みからの斬撃を４連続で繰り出す[LINE]
-剣技。[END]
+Advance while delivering 4[LINE]
+consecutive slashes.[END]
 
 //Text $1A0348
 #WRITE(ptr,$1834E8)
@@ -487,21 +487,21 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0338
 #WRITE(ptr,$1834EC)
-クウシュウケン[END]
+[END]
 
 //Text $1A0300
 #WRITE(ptr,$1834F0)
-ダッシュ突きから跳ね上げるように[LINE]
-斬り抜ける剣技。[END]
+Slash through the foe and[LINE]
+return with a diagonal slash.[END]
 
 //Text $1A02F0
 #WRITE(ptr,$183508)
-[Sign_5]魔人闇[END]
+[Sign_5]Demon Attack[END]
 
 //Text $1A02C0
 #WRITE(ptr,$183510)
-闇の力を集中させ、前方に突き出す[LINE]
-術剣技。[END]
+Concentrate darkness and thrust[LINE]
+it forward.[END]
 
 //Text $1A02B0
 #WRITE(ptr,$183528)
@@ -509,25 +509,25 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0298
 #WRITE(ptr,$18352C)
-マジンメッサツエン[END]
+[END]
 
 //Text $1A0270
 #WRITE(ptr,$183530)
-滅殺する暗黒の炎で焼き尽くす術剣技。[LINE]
+Burn foes with a dark flame.[LINE]
 [END]
 
 //Text $1A0260
 #WRITE(ptr,$183548)
-[Sign_4]双牙斬[END]
+[Sign_4]Fang Blade[END]
 
 //Text $1A0250
 #WRITE(ptr,$18354C)
-ソウガザン[END]
+[END]
 
 //Text $1A0220
 #WRITE(ptr,$183550)
-斬り下ろし、斬り上げと流れるように[LINE]
-繋ぐ剣技。[END]
+Slash foes down, then up into the air.[LINE]
+[END]
 
 //Text $1A0210
 #WRITE(ptr,$183568)
@@ -535,12 +535,12 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0200
 #WRITE(ptr,$18356C)
-ゲンエイジン[END]
+[END]
 
 //Text $1A01D0
 #WRITE(ptr,$183570)
-相手の攻撃を受け流し、瞬時に[LINE]
-斬り抜ける術剣技。[END]
+Pass through enemy attacks and[LINE]
+slice them.[END]
 
 //Text $1A01C0
 #WRITE(ptr,$183588)
@@ -548,33 +548,33 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A01B0
 #WRITE(ptr,$18358C)
-ガリュウセン[END]
+[END]
 
 //Text $1A0188
 #WRITE(ptr,$183590)
-空中から真空波の一閃を薙ぐ術剣技。[LINE]
+Slash in midair to create a vacuum.[LINE]
 [END]
 
 //Text $1A0178
 #WRITE(ptr,$1835A8)
-[Sign_5]月閃光[END]
+[Sign_5]Moon Glare[END]
 
 //Text $1A0168
 #WRITE(ptr,$1835AC)
-ゲッセンコウ[END]
+[END]
 
 //Text $1A0138
 #WRITE(ptr,$1835B0)
-軌跡が月を描く広範囲多段斬撃を繰り出す[LINE]
-術剣技。[END]
+A slash that traces a waning[LINE]
+moon.[END]
 
 //Text $1A0128
 #WRITE(ptr,$1835C8)
-[Sign_5]月閃虚崩[END]
+[Sign_5]Moon Fall[END]
 
 //Text $1A0118
 #WRITE(ptr,$1835CC)
-ゲッセンコホウ[END]
+[END]
 
 //Text $1A03B8
 #WRITE(ptr,$1835D0)
@@ -587,7 +587,7 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A00F8
 #WRITE(ptr,$1835EC)
-ガリュウメッパ[END]
+[END]
 
 //Text $1A03B8
 #WRITE(ptr,$1835F0)
@@ -600,88 +600,88 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A00D0
 #WRITE(ptr,$18360C)
-ホウリュウザンコウケン[END]
+[END]
 
 //Text $1A0098
 #WRITE(ptr,$183610)
-超高速空中斬撃。常人では動きを追うこと[LINE]
-すらかなわない。[END]
+A high-speed aerial slash even the[LINE]
+eye can't see.[END]
 
 //Text $1A0080
 #WRITE(ptr,$183628)
-[Sign_4]インスペクトアイ[END]
+[Sign_4]Inspect[END]
 
 //Text $1A0050
 #WRITE(ptr,$183630)
-術者の術攻撃力を一定時間上昇[LINE]
-させる特技。[END]
+Raise the user's M. Atk temporarily.[LINE]
+[END]
 
 //Text $1A0038
 #WRITE(ptr,$183648)
-[Sign_5]フィリアボム[END]
+[Sign_5]Philia Bomb[END]
 
 //Text $19FFF8
 #WRITE(ptr,$183650)
-炸裂する液体を仕込んだビンを投げる術技。[LINE]
-睡眠の追加効果を持つ。[END]
+Throws a bottle with explosive liquid.[LINE]
+Inflicts sleep.[END]
 
 //Text $19FFE0
 #WRITE(ptr,$183668)
-[Sign_5]フォースフィールド[END]
+[Sign_5]Force Field[END]
 
 //Text $19FF90
 #WRITE(ptr,$183670)
-術者の周囲に障壁を張り巡らし、敵の侵入[LINE]
-を防ぐ術技。攻撃力減少の追加効果を持つ。[END]
+Creates a barrier around the user to[LINE]
+block attacks. Lowers P. Atk of foes.[END]
 
 //Text $19FF80
 #WRITE(ptr,$183688)
-[Sign_5]ツインボム[END]
+[Sign_5]Twin bomb[END]
 
 //Text $19FF40
 #WRITE(ptr,$183690)
-炸裂するビンを続けて投げ込む術技。[LINE]
-封印の追加効果を持つ。[END]
+Throw two bombs in succession.[LINE]
+Inflicts seal.[END]
 
 //Text $19FF28
 #WRITE(ptr,$1836A8)
-[Sign_5]ハイドパーティ[END]
+[Sign_5]Hide Party[END]
 
 //Text $19FEE0
 #WRITE(ptr,$1836B0)
-味方全体を短時間敵の攻撃から護る術技。[LINE]
-術防御力も同時に上昇させる。[END]
+Temporarily protects the party from[LINE]
+attacks and raises M. Def.[END]
 
 //Text $19FED0
 #WRITE(ptr,$1836C8)
-[Sign_5]ボムレイン[END]
+[Sign_5]Bomb Rain[END]
 
 //Text $19FE98
 #WRITE(ptr,$1836D0)
-有象無象にビンを投げつける術技。[LINE]
-石化の追加効果を持つ。[END]
+Throws bombs all around.[LINE]
+Inflicts petrify.[END]
 
 //Text $19FE80
 #WRITE(ptr,$1836E8)
-[Sign_5]ジャッジメント[END]
+[Sign_5]Judgement[END]
 
 //Text $19FE48
 #WRITE(ptr,$1836F0)
-雷の力で敵に裁きを下す術技。[LINE]
-追加効果でＨＰが回復する。[END]
+Strike lightning on the condemned.[LINE]
+Heals HP.[END]
 
 //Text $19FE38
 #WRITE(ptr,$183708)
-[Sign_5]豪烈[END]
+[Sign_5]Inferno[END]
 
 //Text $19FE28
 #WRITE(ptr,$18370C)
-ゴウレツ[END]
+[END]
 
 //Text $19FDE8
 #WRITE(ptr,$183710)
-気合を込めた矢の一撃を放つ術弓技。[LINE]
-矢は敵一体を貫通する。[END]
+Shoots a powerful shot.[LINE]
+The arrow penetrates one foe.[END]
 
 //Text $19FDD8
 #WRITE(ptr,$183728)
@@ -689,24 +689,24 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $19FDC8
 #WRITE(ptr,$18372C)
-フウジンケン[END]
+[END]
 
 //Text $19FDA0
 #WRITE(ptr,$183730)
-突きによる風圧の飛び道具を放つ剣技。[LINE]
+Unleash a wind-projectile from a thrust.[LINE]
 [END]
 
 //Text $19FD90
 #WRITE(ptr,$183748)
-[Sign_5]疾風[END]
+[Sign_5]Gale Shot[END]
 
 //Text $19FD88
 #WRITE(ptr,$18374C)
-ハヤテ[END]
+[END]
 
 //Text $19FD68
 #WRITE(ptr,$183750)
-矢を素早く３連射する術弓技。[LINE]
+Fire 3 shots consecutively.[LINE]
 [END]
 
 //Text $1A0CD8
@@ -715,51 +715,51 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $1A0CC8
 #WRITE(ptr,$18376C)
-ダンクウケン[END]
+[END]
 
 //Text $1A0C88
 #WRITE(ptr,$183770)
-回転斬りによって竜巻を生じさせながら[LINE]
-敵を斬り上げる術剣技。[END]
+An upward slash that pulls in[LINE]
+nearby foes.[END]
 
 //Text $19FD58
 #WRITE(ptr,$183788)
-[Sign_5]陽炎[END]
+[Sign_5]Mirage[END]
 
 //Text $19FD48
 #WRITE(ptr,$18378C)
-カゲロウ[END]
+[END]
 
 //Text $19FCF8
 #WRITE(ptr,$183790)
-残像を残して消え、不意打ちを加える術剣技。[LINE]
-敵の攻撃を見切って繰り出すのが有効。[END]
+A surprise attack from above that[LINE]
+leaves an after image.[END]
 
 //Text $19FCE8
 #WRITE(ptr,$1837A8)
-[Sign_5]雹雨[END]
+[Sign_5]Hail[END]
 
 //Text $19FCE0
 #WRITE(ptr,$1837AC)
-ハクウ[END]
+[END]
 
 //Text $19FCB0
 #WRITE(ptr,$1837B0)
-敵の頭上に降り注ぐ大量の矢を放つ術弓技。[LINE]
+Rain several arrows over foes.[LINE]
 [END]
 
 //Text $19FCA0
 #WRITE(ptr,$1837C8)
-[Sign_4]烈空刃[END]
+[Sign_4]Void Sword[END]
 
 //Text $19FC90
 #WRITE(ptr,$1837CC)
-レックウジン[END]
+[END]
 
 //Text $19FC58
 #WRITE(ptr,$1837D0)
-斬撃による真空波を大量に繰り出し、[LINE]
-敵を切り刻む剣技。[END]
+Slice enemies apart in a vacuum.[LINE]
+[END]
 
 //Text $19FC48
 #WRITE(ptr,$1837E8)
@@ -767,25 +767,25 @@ Can link after the 2nd or 3rd hit.[END]
 
 //Text $19FC38
 #WRITE(ptr,$1837EC)
-Akisazame[END]
+[END]
 
 //Text $19FC10
 #WRITE(ptr,$1837F0)
-無数の突きの連打を繰り出す剣技。[LINE]
+Cut enemies with a barrage of thrusts.[LINE]
 [END]
 
 //Text $19FC00
 #WRITE(ptr,$183808)
-[Sign_4]抜砕牙[END]
+[Sign_4]Crush Fang[END]
 
 //Text $19FBF0
 #WRITE(ptr,$18380C)
-バッサイガ[END]
+[END]
 
 //Text $19FBA0
 #WRITE(ptr,$183810)
-弓矢の幻惑から瞬速の斬り抜けを繰り出す[LINE]
-剣技。一定確率で対象を衰弱状態にする。[END]
+A feint with the bow that cuts foes[LINE]
+instantly. May inflict debilitate.[END]
 
 //Text $19FB90
 #WRITE(ptr,$183828)
@@ -793,12 +793,12 @@ Akisazame[END]
 
 //Text $19FB80
 #WRITE(ptr,$18382C)
-Zetsuei[END]
+[END]
 
 //Text $19FB40
 #WRITE(ptr,$183830)
-敵の頭上から真空波で切り刻む術剣技。[LINE]
-ＣＣ３で繰り出せる極悪技。[END]
+A multi-hit stab from above the[LINE]
+enemy.[END]
 
 //Text $19FB30
 #WRITE(ptr,$183848)
@@ -806,50 +806,50 @@ Zetsuei[END]
 
 //Text $19FB18
 #WRITE(ptr,$18384C)
-クウハゼッショウゲキ[END]
+[END]
 
 //Text $19FAD8
 #WRITE(ptr,$183850)
-瞬速の２連突き。敵の背後に回る特性と共に、[LINE]
-音波属性を持つ剣技。[END]
+Thrusts at the enemy, then thrust[LINE]
+at his back.[END]
 
 //Text $19FAC8
 #WRITE(ptr,$183868)
-[Sign_4]煌憐昇[END]
+[Sign_4]Gleam[END]
 
 //Text $19FAB8
 #WRITE(ptr,$18386C)
-コウレンショウ[END]
+[END]
 
 //Text $19FA70
 #WRITE(ptr,$183870)
-抜刀による剣撃で敵を長時間浮かす剣技。[LINE]
-対空技で追撃を決めるべし。[END]
+Lift foes with an upward strike from[LINE]
+his sheath. Follow up with anti-air artes.[END]
 
 //Text $19FA60
 #WRITE(ptr,$183888)
-[Sign_4]刹那[END]
+[Sign_4]Transience[END]
 
 //Text $19FA58
 #WRITE(ptr,$18388C)
-セツナ[END]
+[END]
 
 //Text $19FA28
 #WRITE(ptr,$183890)
-空を瞬時に駆ける対空斬撃を繰り出す剣技。[LINE]
+A rising slash through the air.[LINE]
 [END]
 
 //Text $19FA18
 #WRITE(ptr,$1838A8)
-[Sign_5]虚封[END]
+[Sign_5]Void Seal[END]
 
 //Text $19FA10
 #WRITE(ptr,$1838AC)
-コフウ[END]
+[END]
 
 //Text $19F9E0
 #WRITE(ptr,$1838B0)
-超高速弾道により衝撃波を発生させる術弓技。[LINE]
+Create shockwaves by shooting an arrow.[LINE]
 [END]
 
 //Text $19F9D0
@@ -858,12 +858,12 @@ Zetsuei[END]
 
 //Text $19F9C0
 #WRITE(ptr,$1838CC)
-モウシュウケン[END]
+[END]
 
 //Text $19F978
 #WRITE(ptr,$1838D0)
-タックルから切り上げに繋ぐ剣技。[LINE]
-斧による斬撃は打撃属性も備える。[END]
+A tackle followed by an upward slice,[LINE]
+Axes have the strike attribute.[END]
 
 //Text $19F968
 #WRITE(ptr,$1838E8)
@@ -871,25 +871,25 @@ Zetsuei[END]
 
 //Text $19F950
 #WRITE(ptr,$1838EC)
-マジンケン・カイ[END]
+[END]
 
 //Text $19F908
 #WRITE(ptr,$1838F0)
-叩き下ろす剣圧により、魔神剣より[LINE]
-射程は短いものの、高威力の剣技。[END]
+Stronger than Demon Fang, but[LINE]
+has less range.[END]
 
 //Text $19F8F8
 #WRITE(ptr,$183908)
-[Sign_5]Double Blade[END]
+[Sign_5]Lightning Assault[END]
 
 //Text $19F8E8
 #WRITE(ptr,$18390C)
-ゴウライケン[END]
+[END]
 
 //Text $19F8B8
 #WRITE(ptr,$183910)
-雷撃を生じる鋭い二連斬りを繰り出す[LINE]
-術剣技。[END]
+Two slashes infused with lightning.[LINE]
+[END]
 
 //Text $19F8A8
 #WRITE(ptr,$183928)
@@ -897,38 +897,38 @@ Zetsuei[END]
 
 //Text $19F890
 #WRITE(ptr,$18392C)
-ゴウ・マジンケン[END]
+[END]
 
 //Text $19F848
 #WRITE(ptr,$183930)
-魔神剣の改良剣技で、衰弱の追加効果を[LINE]
-持ち、速度を犠牲に威力が上昇。[END]
+Creates a shockwave in front that[LINE]
+may inflict debilitate.[END]
 
 //Text $1A0C18
 #WRITE(ptr,$183948)
-[Sign_4]獅子戦吼[END]
+[Sign_4]Beast[END]
 
 //Text $1A0C08
 #WRITE(ptr,$18394C)
-シシセンコウ[END]
+[END]
 
 //Text $19F808
 #WRITE(ptr,$183950)
-体にエネルギーを溜め、一気に放出して[LINE]
-敵を吹き飛ばす特技。[END]
+Releases built-up energy to blow[LINE]
+away foes.[END]
 
 //Text $19FD58
 #WRITE(ptr,$183968)
-[Sign_5]陽炎[END]
+[Sign_5]Mirage[END]
 
 //Text $19FD48
 #WRITE(ptr,$18396C)
-カゲロウ[END]
+[END]
 
 //Text $19FCF8
 #WRITE(ptr,$183970)
-残像を残して消え、不意打ちを加える術剣技。[LINE]
-敵の攻撃を見切って繰り出すのが有効。[END]
+A surprise attack from above that[LINE]
+leaves an after image.[END]
 
 //Text $19F7F8
 #WRITE(ptr,$183988)
@@ -936,38 +936,38 @@ Zetsuei[END]
 
 //Text $19F7E0
 #WRITE(ptr,$18398C)
-レツ・マジンケン[END]
+[END]
 
 //Text $19F790
 #WRITE(ptr,$183990)
-魔神剣の改良剣技で、射程は短いが、[LINE]
-マヒに加え、敵の防御を崩す効果を持つ。[END]
+Modified Demon Fang with shorter range,[LINE]
+but will break guards and paralyze.[END]
 
 //Text $19F780
 #WRITE(ptr,$1839A8)
-[Sign_4]疾刀蹴[END]
+[Sign_4]Swift Tackle[END]
 
 //Text $19F770
 #WRITE(ptr,$1839AC)
-シットウシュウ[END]
+[END]
 
 //Text $19F728
 #WRITE(ptr,$1839B0)
-鋭い足払いで敵を転倒させつつ背後に[LINE]
-回る特技。敵の回避率も減少させる。[END]
+Trip foes by sliding behind them.[LINE]
+Lowers foes' evasion.[END]
 
 //Text $19F718
 #WRITE(ptr,$1839C8)
-[Sign_5]Bomb God Mad Temple[END]
+[Sign_5]Infernal Rampage[END]
 
 //Text $19F700
 #WRITE(ptr,$1839CC)
-Bakujin Kyousatsu[END]
+[END]
 
 //Text $19F6C0
 #WRITE(ptr,$1839D0)
-剣圧の衝撃を瞬時に爆発させる術剣技。[LINE]
-熱毒の追加効果を持つ。[END]
+Slams the ground, creating an[LINE]
+explosion. Inflicts poison.[END]
 
 //Text $19F6B0
 #WRITE(ptr,$1839E8)
@@ -975,12 +975,12 @@ Bakujin Kyousatsu[END]
 
 //Text $19F6A0
 #WRITE(ptr,$1839EC)
-ホウツイショウ[END]
+[END]
 
 //Text $19F660
 #WRITE(ptr,$1839F0)
-貫いた敵を奥へ放り投げる剣技。[LINE]
-邪魔な前衛をのかすのに有効。[END]
+Throws pierced foes to their rear.[LINE]
+Used to move the vanguards.[END]
 
 //Text $19F650
 #WRITE(ptr,$183A08)
@@ -988,12 +988,12 @@ Bakujin Kyousatsu[END]
 
 //Text $19F638
 #WRITE(ptr,$183A0C)
-カッパバクソウゲキ[END]
+[END]
 
 //Text $19F600
 #WRITE(ptr,$183A10)
-割破して爆走する撃な剣技。[LINE]
-ＣＣ３で使える爆走技。[END]
+Slices, then charges while kicking up[LINE]
+rocks behind.[END]
 
 //Text $19F5F0
 #WRITE(ptr,$183A28)
@@ -1001,25 +1001,25 @@ Bakujin Kyousatsu[END]
 
 //Text $19F5E0
 #WRITE(ptr,$183A2C)
-センホウショウ[END]
+[END]
 
 //Text $19F598
 #WRITE(ptr,$183A30)
-斧を回転させて薙ぎ払う剣技。[LINE]
-敵に囲まれたときに最大の威力を発揮。[END]
+Cleaves nearby foes by spinning the[LINE]
+axe. Effective when surrounded.[END]
 
 //Text $19F588
 #WRITE(ptr,$183A48)
-[Sign_5]Lightning Double Blade[END]
+[Sign_5]Lightning Assault EX[END]
 
 //Text $19F570
 #WRITE(ptr,$183A4C)
-Shin Gouraiken[END]
+[END]
 
 //Text $19F538
 #WRITE(ptr,$183A50)
-落雷の力を武器に溜め、斬撃とともに[LINE]
-解放する術剣技。[END]
+Charges lightning before slashing[LINE]
+twice.[END]
 
 //Text $19F528
 #WRITE(ptr,$183A68)
@@ -1027,12 +1027,12 @@ Shin Gouraiken[END]
 
 //Text $19F510
 #WRITE(ptr,$183A6C)
-シュンジンロウガ[END]
+[END]
 
 //Text $19F4C0
 #WRITE(ptr,$183A70)
-鋭い踏み込みからの切り上げを繰り出す剣技。[LINE]
-敵の近くで出すと敵の背後を取る。[END]
+A dash followed by a rising slash.[LINE]
+Hits foes' back if used near them.[END]
 
 //Text $19F4B0
 #WRITE(ptr,$183A88)
@@ -1040,85 +1040,85 @@ Shin Gouraiken[END]
 
 //Text $19F498
 #WRITE(ptr,$183A8C)
-シシオウメッサイ[END]
+[END]
 
 //Text $19F468
 #WRITE(ptr,$183A90)
-獅子戦吼を斜め上に放ち、追撃で切り刻む[LINE]
-剣技。[END]
+Shoots a Beast diagonally and follows[LINE]
+up with a slice.[END]
 
 //Text $19FE38
 #WRITE(ptr,$183AA8)
-[Sign_5]豪烈[END]
+[Sign_5]Inferno[END]
 
 //Text $19FE28
 #WRITE(ptr,$183AAC)
-ゴウレツ[END]
+[END]
 
 //Text $19F418
 #WRITE(ptr,$183AB0)
-気合を込めた矢の一撃を放つ術弓技。[LINE]
-しゃがんで撃つため、低い敵にも当たる。[END]
+Shoots a powerful shot.[LINE]
+Her crouching lets her hit short foes.[END]
 
 //Text $19FD90
 #WRITE(ptr,$183AC8)
-[Sign_5]疾風[END]
+[Sign_5]Gale Shot[END]
 
 //Text $19FD88
 #WRITE(ptr,$183ACC)
-ハヤテ[END]
+[END]
 
 //Text $19F3E8
 #WRITE(ptr,$183AD0)
-弓を素早く３連射する術弓技。[LINE]
-空中発動も可能。[END]
+Fire 3 shots consecutively.[LINE]
+Can use in midair.[END]
 
 //Text $19F3D8
 #WRITE(ptr,$183AE8)
-[Sign_5]迅雷[END]
+[Sign_5]Shock Arrow[END]
 
 //Text $19F3C8
 #WRITE(ptr,$183AEC)
-ジンライ[END]
+[END]
 
 //Text $19F398
 #WRITE(ptr,$183AF0)
-ヒット時に落雷し、周囲の敵を巻き込む[LINE]
-術弓技。[END]
+Arrow that shocks surrounding foes[LINE]
+upon impact.[END]
 
 //Text $19F388
 #WRITE(ptr,$183B08)
-[Sign_5]飛燕[END]
+[Sign_5]Flying Swallow[END]
 
 //Text $19F380
 #WRITE(ptr,$183B0C)
-ヒエン[END]
+[END]
 
 //Text $19F348
 #WRITE(ptr,$183B10)
-ジャンプ後、風属性を持つ矢を滑空する[LINE]
-ように放つ術弓技。[END]
+Shoots curving arrows from midair.[LINE]
+[END]
 
 //Text $19FCE8
 #WRITE(ptr,$183B28)
-[Sign_5]雹雨[END]
+[Sign_5]Hail[END]
 
 //Text $19FCE0
 #WRITE(ptr,$183B2C)
-ハクウ[END]
+[END]
 
 //Text $19FCB0
 #WRITE(ptr,$183B30)
-敵の頭上に降り注ぐ大量の矢を放つ術弓技。[LINE]
+Rain several arrows over foes.[LINE]
 [END]
 
 //Text $19F338
 #WRITE(ptr,$183B48)
-[Sign_5]死天滅殺弓[END]
+[Sign_5]Force Arrow[END]
 
 //Text $19F320
 #WRITE(ptr,$183B4C)
-シテンメッサツキュウ[END]
+[END]
 
 //Text $19F2F0
 #WRITE(ptr,$183B50)
@@ -1127,94 +1127,94 @@ Shin Gouraiken[END]
 
 //Text $19F2E0
 #WRITE(ptr,$183B68)
-[Sign_5]朱蓮[END]
+[Sign_5]Red Lotus[END]
 
 //Text $19F2D0
 #WRITE(ptr,$183B6C)
-シュレン[END]
+[END]
 
 //Text $19F288
 #WRITE(ptr,$183B70)
-火薬を込めた矢を放ち、命中した敵に[LINE]
-連続してダメージを与える術弓技。[END]
+Foes hit by this arrow receive damage[LINE]
+over time.[END]
 
 //Text $19F270
 #WRITE(ptr,$183B88)
-[Sign_5]キューピッドアロゥ[END]
+[Sign_5]Cupid's Arrow[END]
 
 //Text $19F248
 #WRITE(ptr,$183B90)
-刺さるとＨＰが回復する愛の矢を放つ。[LINE]
+Heals 15% HP to an ally pierced by this arrow.[LINE]
 [END]
 
 //Text $19F238
 #WRITE(ptr,$183BA8)
-[Sign_5]衝破[END]
+[Sign_5]Sonic Bash[END]
 
 //Text $19F228
 #WRITE(ptr,$183BAC)
-ショウハ[END]
+[END]
 
 //Text $19F1F0
 #WRITE(ptr,$183BB0)
-ジャンプ後、地面を吹き飛ばす程の強力な[LINE]
-矢を放つ術弓技。[END]
+Fires a powerful arrow that blasts the[LINE]
+ground.[END]
 
 //Text $19F1E0
 #WRITE(ptr,$183BC8)
-[Sign_5]螺旋[END]
+[Sign_5]Spiral[END]
 
 //Text $19F1D8
 #WRITE(ptr,$183BCC)
-ラセン[END]
+[END]
 
 //Text $19F1A0
 #WRITE(ptr,$183BD0)
-広範囲をカバーする同時射撃。[LINE]
-ＣＣ３で撃てる極悪技。[END]
+Fires spiraling arrows that cover[LINE]
+a wide area.[END]
 
 //Text $19F190
 #WRITE(ptr,$183BE8)
-[Sign_5]星覇[END]
+[Sign_5]Celestial Conqueror[END]
 
 //Text $19F188
 #WRITE(ptr,$183BEC)
-セイハ[END]
+[END]
 
 //Text $19F160
 #WRITE(ptr,$183BF0)
-素早い連続射撃で敵を浮かす術弓技。[LINE]
+Rapidly shoots foes into the air.[LINE]
 [END]
 
 //Text $19F150
 #WRITE(ptr,$183C08)
-[Sign_4]斜陽[END]
+[Sign_4]Setting Sun[END]
 
 //Text $19F140
 #WRITE(ptr,$183C0C)
-シャヨウ[END]
+[END]
 
 //Text $19F0F0
 #WRITE(ptr,$183C10)
-近接用特技で、敵を階段状に踏みつける[LINE]
-打撃技。敵の回避率減少の追加効果も。[END]
+Stomp nearby foes with her feet.[LINE]
+Lower foes' evasion.[END]
 
 //Text $19F0E0
 #WRITE(ptr,$183C28)
-[Sign_5]月華[END]
+[Sign_5]Moon Flower[END]
 
 //Text $19F0D8
 #WRITE(ptr,$183C2C)
-ゲッカ[END]
+[END]
 
 //Text $19F098
 #WRITE(ptr,$183C30)
-天空から降り注ぐ多段射撃を繰り出す術弓技。[LINE]
-闇属性を持つ。[END]
+Jump and rain arrows from above.[LINE]
+Has a dark attribute.[END]
 
 //Text $19F080
 #WRITE(ptr,$183C48)
-[Sign_5]あたるシンフォニー[END]
+[Sign_5]Symphony[END]
 
 //Text $19F040
 #WRITE(ptr,$183C50)
@@ -1223,7 +1223,7 @@ Shin Gouraiken[END]
 
 //Text $19F028
 #WRITE(ptr,$183C68)
-[Sign_5]ごーごーサンバ[END]
+[Sign_5]Samba[END]
 
 //Text $19EFE0
 #WRITE(ptr,$183C70)

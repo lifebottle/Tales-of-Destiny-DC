@@ -106,6 +106,19 @@ def getHeader(pathTable):
     
     return headerTxt
 
+def getHex(text):
+    
+    path = r"G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code"
+    
+    dfTbl = pd.read_table(os.path.join(path, "abcde", "toddc.tbl"), encoding="utf-8", index_col=False)
+    
+    with open(os.path.join(path, "abcde", "toddc.tbl"), encoding="utf-8", mode="r") as tblfile:
+        lines=tblfile.readlines()
+        
+        
+    
+
+
 def getSpaceOccupied(textList):
     firstNb = int( textList[-1].split("\n")[0].replace("//Text $",""), 16)
     lastNb  = int( textList[0].split("\n")[0].replace("//Text $",""), 16)
