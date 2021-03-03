@@ -636,41 +636,41 @@ Softy Kreem Stand<00>
 [ENDBLOCK]
 ノイシュタット驪?、<__>アイスキャンディーはいかがですか？<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
-闘技場で有り金全部すっちまった。<__>お陰で飯代にも事欠く髞鍮さ。<00>
+I lost all my Gald in the arena. I<__>don't have Gald for food thanks<__>to this town.<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
-食い物はただで調達しないとな。<__>……おっ、引いたか？<00>
+You were able to get your food for<__>free. How'd you pull that off?<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 ……引いたと思ったが気のせいか。<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 いやあ、ここがすぐに復旧<__>してくれて助かったよ。<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 港で魚釣りなんかしていたら、<__>漁師たちに、にらまれるからな。<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 あんたたち、どこで放送を聞いた？<__>まったく、驚いたよなあ。<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 いつモンスターが襲ってくるかも<__>わからない。釣りも命がけだよ。<00>
 [ENDBLOCK]
-旅人<00>
+Traveler<00>
 [ENDBLOCK]
 あんたたち、レンズを集めてるって？<__>何に使うつもりなんだい？<00>
 [ENDBLOCK]
-男<00>
+Man<00>
 [ENDBLOCK]
-下町にすごく素敵な女性がいるんだ。<__>なんとか近づけないかなあ……<00>
+There is a luxury hotel in town.<__>I don't think I can afford it though...<00>
 [ENDBLOCK]
 男<00>
 [ENDBLOCK]
@@ -696,9 +696,9 @@ Softy Kreem Stand<00>
 [ENDBLOCK]
 うーん……どうしよう……<00>
 [ENDBLOCK]
-女<00>
+Woman<00>
 [ENDBLOCK]
-闘技場なんてなくしてしまえばいいのに。<__>がらの悪い連中が集まって困るわ。<00>
+They should close the arena.<__>I'm tired of dealing with hoodlums.<00>
 [ENDBLOCK]
 女<00>
 [ENDBLOCK]
@@ -756,27 +756,27 @@ Boy<00>
 [ENDBLOCK]
 パパが、これからは下町の連中とも<__>仲良くしろって。どうしてかな？<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
-…………<00>
+...<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
 あのお姉ちゃん、<__>ケガ、大丈夫かな……<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
 あのお姉ちゃん、<__>いなくなっちゃったんだって……<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
 わたしも新しい世界に行きたいな。<__>きっと幸せになれると思うから。<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
 あの空の天井の上は、<__>どうなっているのかな……<00>
 [ENDBLOCK]
-貧しい女の子<00>
+Poor Girl<00>
 [ENDBLOCK]
 わたしもレンズを集めたの。<__>役に立ててくれると嬉しいな。<00>
 [ENDBLOCK]
@@ -1332,7 +1332,7 @@ notice<00>
 [ENDBLOCK]
 notice<00>
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する<__>連動IDとゲームパスワードを忘れてしまった場合は<__>フィッツガルドにある旅人の小屋で<__>確認する事ができます。<00>
+<TAG_007>ウェブサイトで入力する<__>連動IDとゲームパスワードを忘れてしまった場合は<__>フィッツガルドにあるTravelerの小屋で<__>確認する事ができます。<00>
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です<__><00>
 [ENDBLOCK]
