@@ -160,16 +160,34 @@
 	{
 		"BlockId":			6,
 		"BlockDesc":		"Title",
-		"TextStartBlock":	"1BBC00",
+		"TextStartBlock":	"1BB628",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Title",
-			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
-			"TextStart":	"1BBC00",
+			"SectionDesc":	"Other Food",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1BB628",
+			"TextEnd":		"1BB920",
+			"PointerStart":	"194274",
+			"PointerEnd":	"194648"
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Food Effect",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"",
 			"TextEnd":		"",
-			"PointerStart":	"",
-			"PointerEnd":	""
+			"PointerStart":	"194660",
+			"PointerEnd":	"1946E4"
+		},
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Title",
+			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
+			"TextStart":	"1BBC00",
+			"TextEnd":		"1BF0E8",
+			"PointerStart":	"1946E8",
+			"PointerEnd":	"194B5C"
 		}]
 	}
 	

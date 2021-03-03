@@ -130,19 +130,19 @@ def createBlock(dataItems, blockId):
     blockText = ""
     blockText += jumpText
     for sectionId, sectionDesc, googleId in sectionsList:
-        print(sectionDesc)
+        
         if googleId != "":
-            
+            print(sectionDesc)
             #Grab the text from google sheet
             originalTextList, translatedTextList = getGoogleSheetTranslation(gc, googleId, sectionDesc)
             
             #Print Stats about space
-            originalSpace = getSpaceOccupied(originalTextList)
-            finalSpace = getSpaceOccupied(translatedTextList)
+            #originalSpace = getSpaceOccupied(originalTextList)
+            #finalSpace = getSpaceOccupied(translatedTextList)
             #print("Original space: {}     Final space: {}".format(originalSpace, finalSpace))
-            
+
             blockText += "//Section {}\n\n".format(sectionDesc)
-            blockText += "\n".join(translatedTextList)
+            blockText += "\n".join(translatedTextList).replace("\r","")
         
     return block['BlockDesc'], blockText
 
@@ -196,7 +196,7 @@ def updateBlock(blockId, SLPSName):
 
 
 #googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
-#fileName = 'TODDC_Item_Key_Dump_cleaned.txt'
+#fileName = 'TODDC_RecipeStuff2_Dump_cleaned.txt'
 #finalList = parseText(fileName)
 #writeColumn(finalList, googleId)
     

@@ -3,8 +3,13 @@ Files available for now :
 Block :
 - Artes https://docs.google.com/spreadsheets/d/1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM/edit#gid=956154887
 
-Block with Items:
+Block with Items: https://docs.google.com/spreadsheets/d/1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y/edit#gid=0
 - Item Consumable
+- Weapon
+- Armor
+- Unique
+- Jewel
+- Key
 - Food Name/description  
 ## Working in the google sheet
 
