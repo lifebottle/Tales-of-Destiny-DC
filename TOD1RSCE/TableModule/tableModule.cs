@@ -117,7 +117,7 @@ namespace sceWork
             {
                 //Canonical byte ranges for character are 0x9940 - 0x9FFF and then 0xE000 - 0xEC5F
                 //The ranges 0xA000-0xDFFF are technically correct too, so there are duplicates
-                if ((byteArr[index] >= 0x99 && byteArr[index] < 0xA0) || byteArr[index] >= 0xE0 && index - 2 <= index)
+                if ((byteArr[index] >= 0x99 && (byteArr[index] < 0xA0) || byteArr[index] >= 0xE0) && index + 2 <= byteArr.Length)
                 {
                     string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
 
@@ -212,12 +212,12 @@ namespace sceWork
             string str1 = "";
             byte[] byteArr = GetHexStringAsByteArray(str);
 
-            if (str == "")
-                return str;
+            //if (str == "")
+            //    return str;
 
             for (int index = 0; index < byteArr.Length; ++index)
             {
-                if ((byteArr[index] & 0x80) != 0 /*&& index < byteArr.Length-2*/)
+                if ((byteArr[index] & 0x80) != 0 && index+2 <= byteArr.Length)
                 {
                     string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
                     int index2 = 0;

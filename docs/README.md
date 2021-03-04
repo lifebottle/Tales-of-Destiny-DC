@@ -63,3 +63,16 @@ Server will be live at [http://localhost:3000](http://localhost:3000)
 #### Python is not found
 
 Edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_PATH` equal to your python path
+
+#### Can't open `scripts\HexToJpn.py` [Errno 2] No such file or directory
+
+Edit the `docs/.env` file and set `NEXT_PUBLIC_PYTHON_SCRIPTS_PATH` equal to your python path
+
+#### Adding a new python script
+
+- `scripts/*` - Raw python **def** functions go here.
+- `dictionary/*` CSV text language files go here.
+- `docs/api` - This is the folder **vercel** will look at to consume serverless python functions (endpoints).
+- `docs/api/_scripts` - This is a symbolic link to the root **scripts** directory so that vercel can access our raw python **defs**
+- `docs/api/_dictionary` - A symbolic link to the root **dictionary** folder.
+- `docs/pages/api` - Local version stores node endpoints here.

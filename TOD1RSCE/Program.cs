@@ -15,6 +15,7 @@ namespace sceWork
         public static Encoding SJIS = Encoding.GetEncoding(932);
         private static bool useSJIS = false;
         private static bool dumpRaw = false;
+        private static bool dumpCount = false;
         private static bool flag1 = false;
         private static bool flag2 = false;
 
@@ -56,7 +57,7 @@ namespace sceWork
                         Program.Extract(fileName);
                 }
                 Console.WriteLine("Complete!");
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             else
             {
@@ -75,8 +76,9 @@ namespace sceWork
                 Console.WriteLine("Add params:");
                 Console.WriteLine("    -as <count> : Add <count> bytes to start file");
                 Console.WriteLine("    -ae : Seek file to 16 bytes");
-                Console.WriteLine("    -sjis : use CP-932 (SHIFT-JIS) encoding");
-                Console.WriteLine("    -raw : dump/insert raw bytes ignoring JPCODES and CODES");
+                Console.WriteLine("    -sjis : Use CP-932 (SHIFT-JIS) encoding");
+                Console.WriteLine("    -count : Dump byte count");
+                Console.WriteLine("    -raw : Dump/insert raw bytes ignoring JPCODES and CODES");
                 Console.ReadKey();
             }
         }
@@ -98,6 +100,11 @@ namespace sceWork
                     {
                         useSJIS = true;
                         Console.WriteLine("using CP-932 (SHIFT-JIS) for this operation.");
+                    }
+                    if (args[index] == "-count")
+                    {
+                        dumpCount = true;
+                        Console.WriteLine("dumping byte count to file.");
                     }
                     if (args[index] == "-raw")
                     {
@@ -165,28 +172,51 @@ namespace sceWork
             if (!sceModule.isHaveText())
                 return;
             string path = !(Path.GetDirectoryName(fileName) != "") ? Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt" : Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            string pathCount = !(Path.GetDirectoryName(fileName) != "") ? Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt" : Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt";
             Console.WriteLine(string.Format("Extracting {0}...", Path.GetFileName(fileName)));
 
             if (jpcodes == null)
             {
                 Console.WriteLine("No JPCODES.txt file! Dumping raw bytes...");
             }
-            if (jpcodes == null || dumpRaw)
+            if (jpcodes == null || dumpRaw || dumpCount)
             {
                 List<byte> dump = new List<byte>();
+                List<string> byteInfo = new List<string>();
+                int total = 0;
+                bool switch1 = true;
                 for (int idx = 0; idx < sceModule.Count - 1; ++idx)
                 {
-                    dump.AddRange(sceModule.GetBlock(idx));
-                    dump.Add(0x0D); dump.Add(0x0A);
-                    dump.AddRange(Encoding.ASCII.GetBytes("[ENDBLOCK]"));
-                    dump.Add(0x0D); dump.Add(0x0A);
+                    if (dumpCount)
+                    {
+                        total += sceModule.GetBlock(idx).Length;
+                        if (total > 0xFFF && switch1)
+                        {
+                            byteInfo.Add("-----------CUT POINT-----------------------");
+                            byteInfo.Add("|       length average: " + (total / idx + 1));
+                            byteInfo.Add("-----------CUT POINT-----------------------");
+                            switch1 = false;
+                        }
+                        byteInfo.Add("Block: " + String.Format("{0:D3}", idx) + " | Line length: " + String.Format("{0:D3}", sceModule.GetBlock(idx).Length) + " total length: " + String.Format("{0:D4}", total));
+                    }
+                    else
+                    {
+                        dump.AddRange(sceModule.GetBlock(idx));
+                        dump.Add(0x0D); dump.Add(0x0A);
+                        dump.AddRange(Encoding.ASCII.GetBytes("[ENDBLOCK]"));
+                        dump.Add(0x0D); dump.Add(0x0A);
+
+                    }
                 }
-                File.WriteAllBytes(path, dump.ToArray());
+                if (dumpCount)
+                    File.WriteAllLines(pathCount, byteInfo.ToArray());
+                else
+                    File.WriteAllBytes(path, dump.ToArray());
                 return;
             }
 
             List<string> stringList = new List<string>();
-            for (int idx = 0; idx < sceModule.Count - 1; ++idx)
+            for (int idx = 0; idx < sceModule.Count; ++idx)
             {
                 string str = sceModule.GetStringBlock(idx);
                 if (codes != null)
