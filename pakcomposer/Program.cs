@@ -505,7 +505,9 @@ namespace pakcomposer
             if (args.Length == 0 || args[0] == "-help")
             {
                 string processName = Process.GetCurrentProcess().ProcessName;
-                Program.ColorWrite(ConsoleColor.Green, "Pakcomposer Clone Decompiled by Peter Nguyen, v1.9fix2");
+                Program.ColorWrite(ConsoleColor.Green, "Pakomposer v1.9fix2 Clone");
+                Program.ColorWrite(ConsoleColor.Green, "Generously donated by Temple of Tales Translations team");
+                Program.ColorWrite(ConsoleColor.Green, "http://temple-tales.ru/translations.html");
                 Program.ColorWrite(ConsoleColor.White, "Program that disassembles and assembles archives from Tales of... game series.");
                 Console.WriteLine("Usage:");
                 Console.WriteLine(processName + ".exe ([action flag] [file/folder name]) ([mode flag]) ([addictional flags])");

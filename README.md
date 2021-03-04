@@ -2,10 +2,13 @@
 Tales of Destiny - Director's Cut (Patch)
 
 Discord: 
-https://discord.gg/r2ApPegDfx 
+https://discord.gg/NUvvgUtdXW
 
 Video on how to use exisiting tools to extract files:  
 https://www.youtube.com/watch?v=FyYQGVAKSUc  
+
+Documentation:  
+https://sites.google.com/view/toddc-resources
 
 Spreadsheet with HEX to Symbol Mapping:  
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
@@ -140,7 +143,7 @@ video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?u
 13882_114 - line 417 Philia walking alone 1:48  
 
 Scene using the pickaxe :  
-Search for さっき�?�<ITEM_149>を使え�?� in multiple files 3:12  
+Search for ã•ã£ãã?®<ITEM_149>ã‚’ä½¿ãˆã?° in multiple files 3:12  
 13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06  
 13890_71 - line 27 7:14  
 13882_114 - line 445 7: 20  
