@@ -7,6 +7,9 @@ https://discord.gg/NUvvgUtdXW
 Video on how to use exisiting tools to extract files:  
 https://www.youtube.com/watch?v=FyYQGVAKSUc  
 
+Documentation:  
+https://sites.google.com/view/toddc-resources
+
 Spreadsheet with HEX to Symbol Mapping:  
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
