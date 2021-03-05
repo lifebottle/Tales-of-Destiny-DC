@@ -11,7 +11,7 @@
 
 //Text $19D370
 #WRITE(ptr,$184788)
-[Sign_6]プリズムシャイン[END]
+[Sign_6]Prism Shine[END]
 
 //Text $19D8A0
 #WRITE(ptr,$184790)
@@ -20,16 +20,16 @@
 
 //Text $19D358
 #WRITE(ptr,$1847A8)
-[Sign_6]ストップフロウ[END]
+[Sign_6]Stop Flow[END]
 
 //Text $19D310
 #WRITE(ptr,$1847B0)
-３秒間、敵の動きを停止させる晶術。[LINE]
-短時間だし踊るヒマはありません。[END]
+Stops enemy movement for 3 seconds.[LINE]
+Don't waste it.[END]
 
 //Text $19D2F8
 #WRITE(ptr,$1847C8)
-[Sign_6]アンビバレンス[END]
+[Sign_6]Ambivalence[END]
 
 //Text $19D8A0
 #WRITE(ptr,$1847D0)
@@ -38,7 +38,7 @@
 
 //Text $19D2E0
 #WRITE(ptr,$1847E8)
-[Sign_6]ブラックウィング[END]
+[Sign_6]Black Wing[END]
 
 //Text $19D8A0
 #WRITE(ptr,$1847F0)
@@ -47,16 +47,16 @@
 
 //Text $19D2C0
 #WRITE(ptr,$184808)
-[Sign_6]デモンズランス・ゼロ[END]
+[Sign_6]Demon's Lance Zero[END]
 
 //Text $19D280
 #WRITE(ptr,$184810)
-魔神の槍を召喚すると共に、禁呪の力を[LINE]
-我が物とする闇系晶術。[END]
+Throws the forbidden spear of[LINE]
+a demon god. Grants 10 iron stance.[END]
 
 //Text $19D268
 #WRITE(ptr,$184828)
-[Sign_6]スポイル・ウェポン[END]
+[Sign_6]Spoil Weapon[END]
 
 //Text $19D8A0
 #WRITE(ptr,$184830)
@@ -65,7 +65,7 @@
 
 //Text $19D250
 #WRITE(ptr,$184848)
-[Sign_6]スポイル・アーマー[END]
+[Sign_6]Spoil Armor[END]
 
 //Text $19D8A0
 #WRITE(ptr,$184850)
@@ -74,7 +74,7 @@
 
 //Text $19D238
 #WRITE(ptr,$184868)
-[Sign_6]スポイル・マインド[END]
+[Sign_6]Spoil Mind[END]
 
 //Text $19D8A0
 #WRITE(ptr,$184870)
@@ -83,7 +83,7 @@
 
 //Text $19D220
 #WRITE(ptr,$184888)
-[Sign_6]スポイル・レジスト[END]
+[Sign_6]Spoil Resist[END]
 
 //Text $19D8A0
 #WRITE(ptr,$184890)
@@ -92,7 +92,7 @@
 
 //Text $19D208
 #WRITE(ptr,$1848A8)
-[Sign_6]アークエンジェル[END]
+[Sign_6]Archangel[END]
 
 //Text $19D8A0
 #WRITE(ptr,$1848B0)
@@ -101,7 +101,7 @@
 
 //Text $19D1E8
 #WRITE(ptr,$1848C8)
-[Sign_6]セラフィックフェザー[END]
+[Sign_6]Seraphic Feathers[END]
 
 //Text $19D8A0
 #WRITE(ptr,$1848D0)
@@ -110,7 +110,7 @@
 
 //Text $19D1D0
 #WRITE(ptr,$1848E8)
-[Sign_6]ヘイトゥレッド[END]
+[Sign_6]Hatred[END]
 
 //Text $19D8A0
 #WRITE(ptr,$1848F0)
@@ -119,214 +119,214 @@
 
 //Text $19D1C0
 #WRITE(ptr,$184908)
-[Sign_7]皇王天翔翼[END]
+[Sign_7]Regal Phoenix[END]
 
 //Text $19D1A8
 #WRITE(ptr,$18490C)
-コウオウテンショウヨク[END]
+[END]
 
 //Text $19D158
 #WRITE(ptr,$184910)
-[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-天を翔ける紅蓮の鳳凰。[END]
+[turquoise]＜Consume 1 Bar[L1_copy][turquoise]Press＞[/color][LINE]
+Burn like a phoenix, scorching foes.[END]
 
 //Text $19D148
 #WRITE(ptr,$184928)
-[Sign_7]殺劇舞荒剣[END]
+[Sign_7]Final Fury[END]
 
 //Text $19D130
 #WRITE(ptr,$18492C)
-サツゲキブコウケン[END]
+[END]
 
 //Text $19D0E0
 #WRITE(ptr,$184930)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-業火を操る乱舞剣技。[END]
+A rush of fiery slashes.[END]
 
 //Text $19D0D0
 #WRITE(ptr,$184948)
-[Sign_7]業魔灰燼剣[END]
+[Sign_7]Blazing Apocalypse[END]
 
 //Text $19D0B8
 #WRITE(ptr,$18494C)
-ゴウマカイジンケン[END]
+[END]
 
 //Text $19D060
 #WRITE(ptr,$184950)
 [turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-劫炎の剣で全てを焼き尽くす。[END]
+His eternal flame scorches all.[END]
 
 //Text $19D048
 #WRITE(ptr,$184968)
-[Sign_7]トリックスター[END]
+[Sign_7]Trickster[END]
 
 //Text $19CFF0
 #WRITE(ptr,$184970)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-盗みの限りを尽くす瞬速斬撃。[END]
+Slashes quickly to steal gald.[END]
 
 //Text $19CFD0
 #WRITE(ptr,$184988)
-[Sign_7]ライフディスチャージ[END]
+[Sign_7]Life Discharge[END]
 
 //Text $19CF78
 #WRITE(ptr,$184990)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-味方全てを全快させる癒しの奇跡。[END]
+Call upon a miracle to fully heal the party.[END]
 
 //Text $19CF60
 #WRITE(ptr,$1849A8)
-[Sign_7]インブレイスエンド[END]
+[Sign_7]Final Embrace[END]
 
 //Text $19CF10
 #WRITE(ptr,$1849B0)
 [turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-終焉を与える冷気の抱擁。[END]
+A cold embrace that brings death.[END]
 
 //Text $19CEF0
 #WRITE(ptr,$1849C8)
-[Sign_7]セイクリッドブレイム[END]
+[Sign_7]Sacred Penance[END]
 
 //Text $19CE98
 #WRITE(ptr,$1849D0)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-邪悪な心に裁きを下す神聖なる光。[END]
+A divine light to pass judgement on the wicked.[END]
 
 //Text $19CE80
 #WRITE(ptr,$1849E8)
-[Sign_7]ディバインパウア[END]
+[Sign_7]Divine Power[END]
 
 //Text $19CE28
 #WRITE(ptr,$1849F0)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-次々と繰り出される四聖術。[END]
+Four elemental artes unleashed in succession.[END]
 
 //Text $19CE08
 #WRITE(ptr,$184A08)
-[Sign_7]リバースクルセイダー[END]
+[Sign_7]Heavenly Crusader[END]
 
 //Text $19CDB0
 #WRITE(ptr,$184A10)
 [turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-「再誕」を冠する最大の攻撃晶術。[END]
+Call upon the lightning of judgement.[END]
 
 //Text $19CDA0
 #WRITE(ptr,$184A28)
-[Sign_7]裂衝蒼破塵[END]
+[Sign_7]Azure Wave[END]
 
 //Text $19CD88
 #WRITE(ptr,$184A2C)
-レッショウソウハジン[END]
+[END]
 
 //Text $19CD30
 #WRITE(ptr,$184A30)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-敵を切り裂く巨大な真空波。[END]
+A vacuum wave that pierces foes.[END]
 
 //Text $19CD20
 #WRITE(ptr,$184A48)
-[Sign_7]皇舞旋煌閃[END]
+[Sign_7]Radiant Vortex[END]
 
 //Text $19CD08
 #WRITE(ptr,$184A4C)
-コウブセンコウセン[END]
+[END]
 
 //Text $19CCB0
 #WRITE(ptr,$184A50)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-風の力を解放して放つ乱撃。[END]
+Slices foes with a vortex of wind.[END]
 
 //Text $19CCA0
 #WRITE(ptr,$184A68)
-[Sign_7]刹華斬[END]
+[Sign_7]Terminal Flash[END]
 
 //Text $19CC90
 #WRITE(ptr,$184A6C)
-セッカザン[END]
+[END]
 
 //Text $19CC30
 #WRITE(ptr,$184A70)
 [turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-護るべき者のために力の全てを解放する。[END]
+Breaks his limiters to protect his comrades.[END]
 
 //Text $19CC20
 #WRITE(ptr,$184A88)
-[Sign_7]浄破滅焼闇[END]
+[Sign_7]Cleansing Inferno[END]
 
 //Text $19CC08
 #WRITE(ptr,$184A8C)
-ジョウハメッショウエン[END]
+[END]
 
 //Text $19CBB0
 #WRITE(ptr,$184A90)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-正邪を問わず浄化する双極の炎。[END]
+Flames that purify good and evil.[END]
 
 //Text $19CBA0
 #WRITE(ptr,$184AA8)
-[Sign_7]魔神煉獄殺[END]
+[Sign_7]Infernal Suffering[END]
 
 //Text $19CB88
 #WRITE(ptr,$184AAC)
-マジンレンゴクサツ[END]
+[END]
 
 //Text $19CB28
 #WRITE(ptr,$184AB0)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-精神力を全て破壊の力に転化した禁呪奥義。[END]
+Converts all his power to obliteration.[END]
 
 //Text $19CB10
 #WRITE(ptr,$184AC8)
-[Sign_7]ワイルドギース[END]
+[Sign_7]Wild Geese[END]
 
 //Text $19CAB8
 #WRITE(ptr,$184AD0)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-弓技の最高峰に位置する乱舞射撃。[END]
+The peak of archery: Rampant shooting.[END]
 
 //Text $19CAA0
 #WRITE(ptr,$184AE8)
-[Sign_7]レイヤースフィア[END]
+[Sign_7]Layer Sphere[END]
 
 //Text $19CA48
 #WRITE(ptr,$184AF0)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-歌が全てを覆い尽くす星となる。[END]
+His song becomes the star of the show.[END]
 
 //Text $19CA38
 #WRITE(ptr,$184B08)
-[Sign_7]斬！[END]
+[Sign_7]Slash![END]
 
 //Text $19CA30
 #WRITE(ptr,$184B0C)
-ザン！[END]
+[END]
 
 //Text $19C9D8
 #WRITE(ptr,$184B10)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-気合と共に繰り出す一刀両断。[END]
+A single cut, executed with vigor.[END]
 
 //Text $19C9C0
 #WRITE(ptr,$184B28)
-[Sign_7]サンダーソード[END]
+[Sign_7]Thunder Sword[END]
 
 //Text $19C960
 #WRITE(ptr,$184B30)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-浮かし技の連携後に繰り出される迅雷の剣。[END]
+Unleash the sword of thunder.[END]
 
 //Text $19C948
 #WRITE(ptr,$184B48)
-[Sign_7]ゴッツァブロゥ[END]
+[Sign_7]Gozza Blow[END]
 
 //Text $19C8F0
 #WRITE(ptr,$184B50)
 [turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-必殺になるまで殴る必勝の拳。[END]
+His series of punches spells a death sentence.[END]
 
 //Text $19C8E0
 #WRITE(ptr,$184B68)
-[Sign_7]緋凰絶炎衝[END]
+[Sign_7]Burning Phoenix[END]
 
 //Text $1A07E8
 #WRITE(ptr,$184B70)
@@ -335,7 +335,7 @@
 
 //Text $19C8D0
 #WRITE(ptr,$184B88)
-[Sign_7]斬空天翔剣[END]
+[Sign_7]Heavenward Thrust[END]
 
 //Text $1A07E8
 #WRITE(ptr,$184B90)
@@ -344,7 +344,7 @@
 
 //Text $19C898
 #WRITE(ptr,$184BA8)
-[Sign_7]ア イ テ ム な ぞ 使 っ て ん じ ゃ ね え ！[END]
+[Sign_7]Don't use the system![END]
 
 //Text $19C888
 #WRITE(ptr,$184BB0)
@@ -366,47 +366,47 @@
 
 //Text $19C840
 #WRITE(ptr,$184BEC)
-シンラバッサイ[END]
+Gaia's Fury[END]
 
 //Text $19C7E8
 #WRITE(ptr,$184BF0)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-射程内の敵を屠り去る奥義。[END]
+Slaughter all foes in range.[END]
 
 //Text $19C7D8
 #WRITE(ptr,$184C08)
-[Sign_7]白薙・凍華[END]
+[Sign_7]Icy Petal[END]
 
 //Text $19C7C0
 #WRITE(ptr,$184C0C)
-シラナギ・トウガ[END]
+[END]
 
 //Text $19C770
 #WRITE(ptr,$184C10)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-戦場に咲く氷輪の華。[END]
+A flower of ice blooms on the battlefield.[END]
 
 //Text $19C758
 #WRITE(ptr,$184C28)
-[Sign_7]ソニックストリーム[END]
+[Sign_7]Sonic Stream[END]
 
 //Text $19C700
 #WRITE(ptr,$184C30)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-多くの敵を巻き込む衝撃音波。[END]
+A shock wave that engulfs many foes.[END]
 
 //Text $19C6E8
 #WRITE(ptr,$184C48)
-[Sign_7]トレビアンヒップ[END]
+[Sign_7]Tres Bien Hip[END]
 
 //Text $19C690
 #WRITE(ptr,$184C50)
 [turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-主観的優雅を極める尻待機。[END]
+Uses his hips to pound foes down.[END]
 
 //Text $19C670
 #WRITE(ptr,$184C68)
-[Sign_7]レインティブ・オリオン[END]
+[Sign_7]Raining Orion[END]
 
 //Text $1A07E8
 #WRITE(ptr,$184C70)
@@ -415,7 +415,7 @@
 
 //Text $19C650
 #WRITE(ptr,$184C88)
-[Sign_7]サバイヴィング・ホリン[END]
+[Sign_7]Surviving Hollin[END]
 
 //Text $1A07E8
 #WRITE(ptr,$184C90)
@@ -424,7 +424,7 @@
 
 //Text $19C630
 #WRITE(ptr,$184CA8)
-[Sign_7]セレスティアル・アース[END]
+[Sign_7]Celestial Earth[END]
 
 //Text $1A07E8
 #WRITE(ptr,$184CB0)
@@ -433,71 +433,72 @@
 
 //Text $19C620
 #WRITE(ptr,$184CC8)
-[Sign_5]氷月翔閃[END]
+[Sign_5]Frigid Moon[END]
 
 //Text $19C608
 #WRITE(ptr,$184CCC)
-ヒョウゲツショウセン[END]
+[END]
 
 //Text $19C5B8
 #WRITE(ptr,$184CD0)
-A big laser beam is coming from the sky[END]
+Carve a frozen moon, then shatter it[LINE]
+with a slice.[END]
 
 //Text $19C5A8
 #WRITE(ptr,$184CE8)
-[Sign_5]烈震天衝[END]
+[Sign_5]Rending Quake[END]
 
 //Text $19C590
 #WRITE(ptr,$184CEC)
-レッシンテンショウ[END]
+[END]
 
 //Text $19C548
 #WRITE(ptr,$184CF0)
-死地をくぐり抜けた者が習得する術剣技。[LINE]
-溢れる気合が大地を揺るがす。[END]
+An arte for those who survived death.[LINE]
+His overflowing spirit shakes the earth.[END]
 
 //Text $19C538
 #WRITE(ptr,$184D08)
-[Sign_5]柔招来[END]
+[Sign_5]Focus[END]
 
 //Text $19C520
 #WRITE(ptr,$184D0C)
-ジュウショウライ[END]
+[END]
 
 //Text $19C4D0
 #WRITE(ptr,$184D10)
-自身の集中とＨＰが上昇する術剣技。打撃属性[LINE]
-を備え、連携中の使用で効果が高まる。[END]
+Increase accuracy and restores HP.[LINE]
+More effective at the end of an arte chain.[END]
 
 //Text $19C4C0
 #WRITE(ptr,$184D28)
-[Sign_5]臥竜斬月[END]
+[Sign_5]Awakened Dragon[END]
 
 //Text $19C4A8
 #WRITE(ptr,$184D2C)
-ガリュウザンゲツ[END]
+[END]
 
 //Text $19C478
 #WRITE(ptr,$184D30)
-弧を描く斬撃と共に、敵のＨＰを吸収する[LINE]
-術剣技。[END]
+Trace an arcing slash that absorbs[LINE]
+the target's HP.[END]
 
 //Text $19C460
 #WRITE(ptr,$184D48)
-[Sign_7]魔神剣・刹牙[END]
+[Sign_7]Infernal Demon Fang[END]
 
 //Text $19C448
 #WRITE(ptr,$184D4C)
-マジンケン・セツガ[END]
+[END]
 
 //Text $19C3E8
 #WRITE(ptr,$184D50)
 [turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
-一撃に全晶力を集中させて放つ瞬速奥義。[END]
+Gathers all his power into a single blow.[END]
 
 //Text $19C3D0
 #WRITE(ptr,$184D68)
-[Sign_5]アースビット[END]
+[Sign_5]Earth Beat[END]
 
 //Text $19C3C8
 #WRITE(ptr,$184D70)
@@ -515,7 +516,7 @@ A big laser beam is coming from the sky[END]
 
 //Text $19C380
 #WRITE(ptr,$184DA8)
-[Sign_5]デビルスピアー[END]
+[Sign_5]Devil's Spear[END]
 
 //Text $19C3C8
 #WRITE(ptr,$184DB0)
