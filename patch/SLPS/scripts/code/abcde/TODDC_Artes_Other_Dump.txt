@@ -7,6 +7,520 @@
 #CREATEPTR(ptr, "LINEAR", $-FF000, 32)
 
 #JMP($19D388)
+//Section Hidden Artes
+
+//Text $19D370
+#WRITE(ptr,$184788)
+[Sign_6]プリズムシャイン[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184790)
+※敵用[LINE]
+[END]
+
+//Text $19D358
+#WRITE(ptr,$1847A8)
+[Sign_6]ストップフロウ[END]
+
+//Text $19D310
+#WRITE(ptr,$1847B0)
+３秒間、敵の動きを停止させる晶術。[LINE]
+短時間だし踊るヒマはありません。[END]
+
+//Text $19D2F8
+#WRITE(ptr,$1847C8)
+[Sign_6]アンビバレンス[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1847D0)
+※敵用[LINE]
+[END]
+
+//Text $19D2E0
+#WRITE(ptr,$1847E8)
+[Sign_6]ブラックウィング[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1847F0)
+※敵用[LINE]
+[END]
+
+//Text $19D2C0
+#WRITE(ptr,$184808)
+[Sign_6]デモンズランス・ゼロ[END]
+
+//Text $19D280
+#WRITE(ptr,$184810)
+魔神の槍を召喚すると共に、禁呪の力を[LINE]
+我が物とする闇系晶術。[END]
+
+//Text $19D268
+#WRITE(ptr,$184828)
+[Sign_6]スポイル・ウェポン[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184830)
+※敵用[LINE]
+[END]
+
+//Text $19D250
+#WRITE(ptr,$184848)
+[Sign_6]スポイル・アーマー[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184850)
+※敵用[LINE]
+[END]
+
+//Text $19D238
+#WRITE(ptr,$184868)
+[Sign_6]スポイル・マインド[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184870)
+※敵用[LINE]
+[END]
+
+//Text $19D220
+#WRITE(ptr,$184888)
+[Sign_6]スポイル・レジスト[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184890)
+※敵用[LINE]
+[END]
+
+//Text $19D208
+#WRITE(ptr,$1848A8)
+[Sign_6]アークエンジェル[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848B0)
+※敵用[LINE]
+[END]
+
+//Text $19D1E8
+#WRITE(ptr,$1848C8)
+[Sign_6]セラフィックフェザー[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848D0)
+※敵用[LINE]
+[END]
+
+//Text $19D1D0
+#WRITE(ptr,$1848E8)
+[Sign_6]ヘイトゥレッド[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848F0)
+※敵用[LINE]
+[END]
+
+//Text $19D1C0
+#WRITE(ptr,$184908)
+[Sign_7]皇王天翔翼[END]
+
+//Text $19D1A8
+#WRITE(ptr,$18490C)
+コウオウテンショウヨク[END]
+
+//Text $19D158
+#WRITE(ptr,$184910)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+天を翔ける紅蓮の鳳凰。[END]
+
+//Text $19D148
+#WRITE(ptr,$184928)
+[Sign_7]殺劇舞荒剣[END]
+
+//Text $19D130
+#WRITE(ptr,$18492C)
+サツゲキブコウケン[END]
+
+//Text $19D0E0
+#WRITE(ptr,$184930)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+業火を操る乱舞剣技。[END]
+
+//Text $19D0D0
+#WRITE(ptr,$184948)
+[Sign_7]業魔灰燼剣[END]
+
+//Text $19D0B8
+#WRITE(ptr,$18494C)
+ゴウマカイジンケン[END]
+
+//Text $19D060
+#WRITE(ptr,$184950)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+劫炎の剣で全てを焼き尽くす。[END]
+
+//Text $19D048
+#WRITE(ptr,$184968)
+[Sign_7]トリックスター[END]
+
+//Text $19CFF0
+#WRITE(ptr,$184970)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+盗みの限りを尽くす瞬速斬撃。[END]
+
+//Text $19CFD0
+#WRITE(ptr,$184988)
+[Sign_7]ライフディスチャージ[END]
+
+//Text $19CF78
+#WRITE(ptr,$184990)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+味方全てを全快させる癒しの奇跡。[END]
+
+//Text $19CF60
+#WRITE(ptr,$1849A8)
+[Sign_7]インブレイスエンド[END]
+
+//Text $19CF10
+#WRITE(ptr,$1849B0)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+終焉を与える冷気の抱擁。[END]
+
+//Text $19CEF0
+#WRITE(ptr,$1849C8)
+[Sign_7]セイクリッドブレイム[END]
+
+//Text $19CE98
+#WRITE(ptr,$1849D0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+邪悪な心に裁きを下す神聖なる光。[END]
+
+//Text $19CE80
+#WRITE(ptr,$1849E8)
+[Sign_7]ディバインパウア[END]
+
+//Text $19CE28
+#WRITE(ptr,$1849F0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+次々と繰り出される四聖術。[END]
+
+//Text $19CE08
+#WRITE(ptr,$184A08)
+[Sign_7]リバースクルセイダー[END]
+
+//Text $19CDB0
+#WRITE(ptr,$184A10)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+「再誕」を冠する最大の攻撃晶術。[END]
+
+//Text $19CDA0
+#WRITE(ptr,$184A28)
+[Sign_7]裂衝蒼破塵[END]
+
+//Text $19CD88
+#WRITE(ptr,$184A2C)
+レッショウソウハジン[END]
+
+//Text $19CD30
+#WRITE(ptr,$184A30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+敵を切り裂く巨大な真空波。[END]
+
+//Text $19CD20
+#WRITE(ptr,$184A48)
+[Sign_7]皇舞旋煌閃[END]
+
+//Text $19CD08
+#WRITE(ptr,$184A4C)
+コウブセンコウセン[END]
+
+//Text $19CCB0
+#WRITE(ptr,$184A50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+風の力を解放して放つ乱撃。[END]
+
+//Text $19CCA0
+#WRITE(ptr,$184A68)
+[Sign_7]刹華斬[END]
+
+//Text $19CC90
+#WRITE(ptr,$184A6C)
+セッカザン[END]
+
+//Text $19CC30
+#WRITE(ptr,$184A70)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+護るべき者のために力の全てを解放する。[END]
+
+//Text $19CC20
+#WRITE(ptr,$184A88)
+[Sign_7]浄破滅焼闇[END]
+
+//Text $19CC08
+#WRITE(ptr,$184A8C)
+ジョウハメッショウエン[END]
+
+//Text $19CBB0
+#WRITE(ptr,$184A90)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+正邪を問わず浄化する双極の炎。[END]
+
+//Text $19CBA0
+#WRITE(ptr,$184AA8)
+[Sign_7]魔神煉獄殺[END]
+
+//Text $19CB88
+#WRITE(ptr,$184AAC)
+マジンレンゴクサツ[END]
+
+//Text $19CB28
+#WRITE(ptr,$184AB0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+精神力を全て破壊の力に転化した禁呪奥義。[END]
+
+//Text $19CB10
+#WRITE(ptr,$184AC8)
+[Sign_7]ワイルドギース[END]
+
+//Text $19CAB8
+#WRITE(ptr,$184AD0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+弓技の最高峰に位置する乱舞射撃。[END]
+
+//Text $19CAA0
+#WRITE(ptr,$184AE8)
+[Sign_7]レイヤースフィア[END]
+
+//Text $19CA48
+#WRITE(ptr,$184AF0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+歌が全てを覆い尽くす星となる。[END]
+
+//Text $19CA38
+#WRITE(ptr,$184B08)
+[Sign_7]斬！[END]
+
+//Text $19CA30
+#WRITE(ptr,$184B0C)
+ザン！[END]
+
+//Text $19C9D8
+#WRITE(ptr,$184B10)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+気合と共に繰り出す一刀両断。[END]
+
+//Text $19C9C0
+#WRITE(ptr,$184B28)
+[Sign_7]サンダーソード[END]
+
+//Text $19C960
+#WRITE(ptr,$184B30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+浮かし技の連携後に繰り出される迅雷の剣。[END]
+
+//Text $19C948
+#WRITE(ptr,$184B48)
+[Sign_7]ゴッツァブロゥ[END]
+
+//Text $19C8F0
+#WRITE(ptr,$184B50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+必殺になるまで殴る必勝の拳。[END]
+
+//Text $19C8E0
+#WRITE(ptr,$184B68)
+[Sign_7]緋凰絶炎衝[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184B70)
+※未修得[LINE]
+[END]
+
+//Text $19C8D0
+#WRITE(ptr,$184B88)
+[Sign_7]斬空天翔剣[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184B90)
+※未修得[LINE]
+[END]
+
+//Text $19C898
+#WRITE(ptr,$184BA8)
+[Sign_7]ア イ テ ム な ぞ 使 っ て ん じ ゃ ね え ！[END]
+
+//Text $19C888
+#WRITE(ptr,$184BB0)
+※バル専用[LINE]
+[END]
+
+//Text $19C870
+#WRITE(ptr,$184BC8)
+[Sign_7]メルティアス[END]
+
+//Text $19C860
+#WRITE(ptr,$184BD0)
+※ミク専用[LINE]
+[END]
+
+//Text $19C850
+#WRITE(ptr,$184BE8)
+[Sign_7]森羅爆砕[END]
+
+//Text $19C840
+#WRITE(ptr,$184BEC)
+シンラバッサイ[END]
+
+//Text $19C7E8
+#WRITE(ptr,$184BF0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+射程内の敵を屠り去る奥義。[END]
+
+//Text $19C7D8
+#WRITE(ptr,$184C08)
+[Sign_7]白薙・凍華[END]
+
+//Text $19C7C0
+#WRITE(ptr,$184C0C)
+シラナギ・トウガ[END]
+
+//Text $19C770
+#WRITE(ptr,$184C10)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+戦場に咲く氷輪の華。[END]
+
+//Text $19C758
+#WRITE(ptr,$184C28)
+[Sign_7]ソニックストリーム[END]
+
+//Text $19C700
+#WRITE(ptr,$184C30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+多くの敵を巻き込む衝撃音波。[END]
+
+//Text $19C6E8
+#WRITE(ptr,$184C48)
+[Sign_7]トレビアンヒップ[END]
+
+//Text $19C690
+#WRITE(ptr,$184C50)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+主観的優雅を極める尻待機。[END]
+
+//Text $19C670
+#WRITE(ptr,$184C68)
+[Sign_7]レインティブ・オリオン[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184C70)
+※未修得[LINE]
+[END]
+
+//Text $19C650
+#WRITE(ptr,$184C88)
+[Sign_7]サバイヴィング・ホリン[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184C90)
+※未修得[LINE]
+[END]
+
+//Text $19C630
+#WRITE(ptr,$184CA8)
+[Sign_7]セレスティアル・アース[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184CB0)
+※未修得[LINE]
+[END]
+
+//Text $19C620
+#WRITE(ptr,$184CC8)
+[Sign_5]氷月翔閃[END]
+
+//Text $19C608
+#WRITE(ptr,$184CCC)
+ヒョウゲツショウセン[END]
+
+//Text $19C5B8
+#WRITE(ptr,$184CD0)
+A big laser beam is coming from the sky[END]
+
+//Text $19C5A8
+#WRITE(ptr,$184CE8)
+[Sign_5]烈震天衝[END]
+
+//Text $19C590
+#WRITE(ptr,$184CEC)
+レッシンテンショウ[END]
+
+//Text $19C548
+#WRITE(ptr,$184CF0)
+死地をくぐり抜けた者が習得する術剣技。[LINE]
+溢れる気合が大地を揺るがす。[END]
+
+//Text $19C538
+#WRITE(ptr,$184D08)
+[Sign_5]柔招来[END]
+
+//Text $19C520
+#WRITE(ptr,$184D0C)
+ジュウショウライ[END]
+
+//Text $19C4D0
+#WRITE(ptr,$184D10)
+自身の集中とＨＰが上昇する術剣技。打撃属性[LINE]
+を備え、連携中の使用で効果が高まる。[END]
+
+//Text $19C4C0
+#WRITE(ptr,$184D28)
+[Sign_5]臥竜斬月[END]
+
+//Text $19C4A8
+#WRITE(ptr,$184D2C)
+ガリュウザンゲツ[END]
+
+//Text $19C478
+#WRITE(ptr,$184D30)
+弧を描く斬撃と共に、敵のＨＰを吸収する[LINE]
+術剣技。[END]
+
+//Text $19C460
+#WRITE(ptr,$184D48)
+[Sign_7]魔神剣・刹牙[END]
+
+//Text $19C448
+#WRITE(ptr,$184D4C)
+マジンケン・セツガ[END]
+
+//Text $19C3E8
+#WRITE(ptr,$184D50)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+一撃に全晶力を集中させて放つ瞬速奥義。[END]
+
+//Text $19C3D0
+#WRITE(ptr,$184D68)
+[Sign_5]アースビット[END]
+
+//Text $19C3C8
+#WRITE(ptr,$184D70)
+[LINE]
+[END]
+
+//Text $19C3B0
+#WRITE(ptr,$184D88)
+[Sign_6]デッドブルー[END]
+
+//Text $19C398
+#WRITE(ptr,$184D90)
+※ゲーム未使用[LINE]
+[END]
+
+//Text $19C380
+#WRITE(ptr,$184DA8)
+[Sign_5]デビルスピアー[END]
+
+//Text $19C3C8
+#WRITE(ptr,$184DB0)
+[LINE]
+[END]
 //Section Artes
 
 //Text $1A0F90
@@ -1122,8 +1636,8 @@ Rain several arrows over foes.[LINE]
 
 //Text $19F2F0
 #WRITE(ptr,$183B50)
-敵を再度狙う貫通エネルギーを放つ術弓技。[LINE]
-[END]
+Shoots homing arrows that hit[LINE]
+the target twice.[END]
 
 //Text $19F2E0
 #WRITE(ptr,$183B68)
@@ -1218,8 +1732,8 @@ Has a dark attribute.[END]
 
 //Text $19F040
 #WRITE(ptr,$183C50)
-味方の連携率を高めるシンフォニー。[LINE]
-支援歌技は味方のＣＣも増加。[END]
+Temporarily raise party's accuracy.[LINE]
+Gives 1 CC to each ally.[END]
 
 //Text $19F028
 #WRITE(ptr,$183C68)
@@ -1227,304 +1741,303 @@ Has a dark attribute.[END]
 
 //Text $19EFE0
 #WRITE(ptr,$183C70)
-味方の術攻撃力を高めるサンバ。[LINE]
-支援歌技は連携することで効果が上昇。[END]
+Temporarily raise party's M. Atk.[LINE]
+Effect is enhanced by cooperation.[END]
 
 //Text $19EFC8
 #WRITE(ptr,$183C88)
-[Sign_5]かわせマーチ[END]
+[Sign_5]March[END]
 
 //Text $19EF88
 #WRITE(ptr,$183C90)
-回避率に応じて敵の攻撃を回避できる[LINE]
-マーチ。支援歌技のひとつ。[END]
+Temporarily raise party's evasion.[LINE]
+One of the support singing artes.[END]
 
 //Text $19EF70
 #WRITE(ptr,$183CA8)
-[Sign_5]しびれルンバ[END]
+[Sign_5]Rumba[END]
 
 //Text $19EF40
 #WRITE(ptr,$183CB0)
-範囲内の敵を痺れさせるルンバ（←巻き舌推奨）。[LINE]
-[END]
+Paralyze foes within range.[LINE]
+(Rolling Rs required)[END]
 
 //Text $19EF28
 #WRITE(ptr,$183CC8)
-[Sign_5]ねむれララバイ[END]
+[Sign_5]Lullaby[END]
 
 //Text $19EF08
 #WRITE(ptr,$183CD0)
-範囲内の敵を眠らせるララバイ。[LINE]
+Inflicts sleep to foes in range.[LINE]
 [END]
 
 //Text $19EEF0
 #WRITE(ptr,$183CE8)
-[Sign_5]なかよしワルツ[END]
+[Sign_5]Waltz[END]
 
 //Text $19EEC8
 #WRITE(ptr,$183CF0)
-周囲の味方のHPを回復させるワルツ。[LINE]
+Restore HP to surrounding allies.[LINE]
 [END]
 
 //Text $19EEB0
 #WRITE(ptr,$183D08)
-[Sign_5]ミラクルボイス[END]
+[Sign_5]Golden Voice[END]
 
 //Text $19EE80
 #WRITE(ptr,$183D10)
-究極の肺活量で脳に響くシャウトをかますボイス。[LINE]
-[END]
-
+Shout out those lungs to manifest[LINE]
+"ワーオ!"[END]
 //Text $19EE68
 #WRITE(ptr,$183D28)
-[Sign_5]ソニックレイブ[END]
+[Sign_5]Sonic Rave[END]
 
 //Text $19EE18
 #WRITE(ptr,$183D30)
-音波による衝撃波を正面に放つ特技。[LINE]
-貫通効果があり、近距離ほどヒット数が増える。[END]
+Shoots a sonic shockwave in front.[LINE]
+It pierces and hits more up close.[END]
 
 //Text $19EE00
 #WRITE(ptr,$183D48)
-[Sign_5]ビートヘヴン[END]
+[Sign_5]Beat Heaven[END]
 
 //Text $19EDD8
 #WRITE(ptr,$183D50)
-音波による衝撃波を真上に放つ特技。[LINE]
+Shoots a sonic shockwave upward.[LINE]
 [END]
 
 //Text $19EDC0
 #WRITE(ptr,$183D68)
-[Sign_5]まわれロンド[END]
+[Sign_5]Revolving Rondo[END]
 
 //Text $19ED70
 #WRITE(ptr,$183D70)
-廻る音波を生み出すロンド。防御的に[LINE]
-使ってもよいが、近接時のヒット数がひどい。[END]
+Produces sound waves around the user.[LINE]
+Use defensively or hit hard up close.[END]
 
 //Text $19ED58
 #WRITE(ptr,$183D88)
-[Sign_5]リバーブソウル[END]
+[Sign_5]Reverb Soul[END]
 
 //Text $19ED10
 #WRITE(ptr,$183D90)
-多段攻撃判定のある音符を設置する特技。[LINE]
-術攻撃力低下の追加効果を持つ。[END]
+Place a damaging musical note in[LINE]
+front. Reduces M. Atk of foes.[END]
 
 //Text $19ECF8
 #WRITE(ptr,$183DA8)
-[Sign_5]リフレクトレイジ[END]
+[Sign_5]Reflect Rage[END]
 
 //Text $19ECB0
 #WRITE(ptr,$183DB0)
-音波障壁の中で音符を躍らせる特技。[LINE]
-術攻撃力低下の追加効果を持つ。[END]
+Creates a sound wave barrier. [LINE]
+Reduces M. Atk of foes.[END]
 
 //Text $19EC98
 #WRITE(ptr,$183DC8)
-[Sign_5]ボルトスラスト[END]
+[Sign_5]Volt Thrust[END]
 
 //Text $19EC40
 #WRITE(ptr,$183DD0)
-ナックルを重ね合わせて衝撃波を起こし、[LINE]
-浮かせた敵にストレートをお見舞いする特技。[END]
+Fist-clap to create an electric shockwave.[LINE]
+Uses a flying kick in midair.[END]
 
 //Text $19EC28
 #WRITE(ptr,$183DE8)
-[Sign_4]ロンブショルダー[END]
+[Sign_4]1-2 Combo[END]
 
 //Text $19EBE0
 #WRITE(ptr,$183DF0)
-ショルダータックル・アッパーの[LINE]
-コンビネーションで敵を浮かせる特技。[END]
+A shoulder tackle followed by an[LINE]
+uppercut to hit foes up.[END]
 
 //Text $19EBC8
 #WRITE(ptr,$183E08)
-[Sign_4]グレイトアッパー[END]
+[Sign_4]Great Upper[END]
 
 //Text $19EB70
 #WRITE(ptr,$183E10)
-左右のアッパーで敵を空へ吹っ飛ばす特技。[LINE]
-空中で出せば天に届かんばかりにスカイハイ。[END]
+Blow foes into the air with two[LINE]
+uppercuts. Use in midair to rise.[END]
 
 //Text $19EB58
 #WRITE(ptr,$183E28)
-[Sign_4]ヘルズハリケーン[END]
+[Sign_4]Hell's Hurricane[END]
 
 //Text $19EB10
 #WRITE(ptr,$183E30)
-体に似合わぬ高速ラッシュを叩き込む。[LINE]
-空中で出すとヘルズなハリケーン。[END]
+A high-speed rush that belies his physique.[LINE]
+A hurricane spin when used in midair.[END]
 
 //Text $19EAF8
 #WRITE(ptr,$183E48)
-[Sign_4]イカスヒップ[END]
+[Sign_4]Hip Attack[END]
 
 //Text $19EAB0
 #WRITE(ptr,$183E50)
-イカスヒップによる降下爆撃。[LINE]
-より上空で出すほどイカス具合がアップ！[END]
+A dive bomb with his hip.[LINE]
+The higher it's used, the more damage it does![END]
 
 //Text $19EA98
 #WRITE(ptr,$183E68)
-[Sign_5]ヘビィボンバー[END]
+[Sign_5]Heavy Bomber[END]
 
 //Text $19EA48
 #WRITE(ptr,$183E70)
-圧縮した気を練り上げ、更に練り上げて[LINE]
-シャレにならないくらい膨張させる技。[END]
+Compress and expand chi energy[LINE]
+to an incredible size. [END]
 
 //Text $19EA30
 #WRITE(ptr,$183E88)
-[Sign_4]リザレクトキアイ[END]
+[Sign_4]Revival Shout[END]
 
 //Text $19E9E0
 #WRITE(ptr,$183E90)
-超気合を叩き込むことで戦闘不能な誰かを[LINE]
-へろへろ気絶状態で復活させる有難迷惑技。[END]
+Revive an ally by shouting. If it fails,[LINE]
+the user will be stunned.[END]
 
 //Text $19E9C8
 #WRITE(ptr,$183EA8)
-[Sign_5]マッスルヒート[END]
+[Sign_5]Muscle Heat[END]
 
 //Text $19E988
 #WRITE(ptr,$183EB0)
-自分自身の攻撃力を増大させすぎて[LINE]
-熱毒状態にもなるやな技。[END]
+Increases the user's P. Atk, but[LINE]
+inflicts poison on himself.[END]
 
 //Text $19E970
 #WRITE(ptr,$183EC8)
-[Sign_4]メタルボディ[END]
+[Sign_4]Metal Body[END]
 
 //Text $19E920
 #WRITE(ptr,$183ED0)
-敵からの物理攻撃にのけぞらなくなる特技。[LINE]
-効果が切れると衰弱するやせ我慢技。[END]
+Grants iron stance for 10 seconds,[LINE]
+but debilitates after it ends.[END]
 
 //Text $19E908
 #WRITE(ptr,$183EE8)
-[Sign_4]ファルコンフレッジ[END]
+[Sign_4]Falcon Fledge[END]
 
 //Text $19E8D0
 #WRITE(ptr,$183EF0)
-天駆ける膝蹴り。連続使用で[LINE]
-リアルに天に近づく雰囲気。[END]
+Attack with a rising knee kick. Use[LINE]
+it consecutively to reach the heavens.[END]
 
 //Text $19E8B8
 #WRITE(ptr,$183F08)
-[Sign_5]クラッシュアース[END]
+[Sign_5]Earth Crusher[END]
 
 //Text $19E868
 #WRITE(ptr,$183F10)
-ナイスボディプレスで大地をかっさばく。[LINE]
-丹田に込めた超腹式呼吸が成せる技。かも。[END]
+Body slams the earth. His abdominal[LINE]
+training makes this work. Maybe...[END]
 
 //Text $19E850
 #WRITE(ptr,$183F28)
-[Sign_4]ハートブレイク[END]
+[Sign_4]Heartbreak[END]
 
 //Text $19E800
 #WRITE(ptr,$183F30)
-超遠心力（怪）から繰り出す究極パンチ。[LINE]
-打ち抜かれた敵は文字通り時間が停止する。[END]
+Spins quickly to land the ultimate[LINE]
+punch. Inflicts stop on foes hit.[END]
 
 //Text $19E7E8
 #WRITE(ptr,$183F48)
-[Sign_4]メッサスロウ[END]
+[Sign_4]Massive Throw[END]
 
 //Text $19E790
 #WRITE(ptr,$183F50)
-つかんでぶんなげるシンプルイズベスト技。[LINE]
-投げ技らしく防御不可。ゆえにかっこいい。[END]
+A simple grab and throw arte.[LINE]
+Amazingly, it can't be guarded.[END]
 
 //Text $19E778
 #WRITE(ptr,$183F68)
-[Sign_4]リリスラッシュ[END]
+[Sign_4]Lilith Rush[END]
 
 //Text $19E738
 #WRITE(ptr,$183F70)
-流れるような４連続攻撃。[LINE]
-流れるといっても水には流さない。[END]
+4 fluid, consecutive attacks. Just cause[LINE]
+it's fluid doesn't mean it's watered down.[END]
 
 //Text $19E720
 #WRITE(ptr,$183F88)
-[Sign_5]レインボーアーチ[END]
+[Sign_5]Rainbow Arch[END]
 
 //Text $19E700
 #WRITE(ptr,$183F90)
-水をまいたら虹ができました。[LINE]
+A rainbow arc from swinging water.[LINE]
 [END]
 
 //Text $19E6E8
 #WRITE(ptr,$183FA8)
-[Sign_4]まんぼう戦吼[END]
+[Sign_4]Sunfish Screech[END]
 
 //Text $19E6D0
 #WRITE(ptr,$183FAC)
-マンボウセンコウ[END]
+[END]
 
 //Text $19E680
 #WRITE(ptr,$183FB0)
-「まんぼうなんてどうすればいいのよ」[LINE]
-に対する答えがここにある。気もする。[END]
+I think this is her answer to[LINE]
+"What can I do with a sunfish?"[END]
 
 //Text $19E668
 #WRITE(ptr,$183FC8)
-[Sign_5]アクアスマイト[END]
+[Sign_5]Aqua Smite[END]
 
 //Text $19E630
 #WRITE(ptr,$183FD0)
-夏の暑い日は水うちをして地表温度を[LINE]
-下げましょう。[END]
+Water your plants on a hot,[LINE]
+summer day.[END]
 
 //Text $19E618
 #WRITE(ptr,$183FE8)
-[Sign_4]死者の目覚め[END]
+[Sign_4]Wake the Dead[END]
 
 //Text $19E608
 #WRITE(ptr,$183FEC)
-シシャノメザメ[END]
+[END]
 
 //Text $19E5C0
 #WRITE(ptr,$183FF0)
-フライパンを打ち鳴らして音波攻撃する[LINE]
-近所迷惑技。寝る子も起きると評判。[END]
+Bang a frying pan to attack with[LINE]
+sound waves. Wakes even the sleepiest.[END]
 
 //Text $19E5A8
 #WRITE(ptr,$184008)
-[Sign_5]ステイクフレア[END]
+[Sign_5]Steak Flare[END]
 
 //Text $19E560
 #WRITE(ptr,$184010)
-ジューシーな火属性対空攻撃。[LINE]
-タイミングとかに熟達の技が光るらしい。[END]
+A juicy, fiery anti-air arte.[LINE]
+Her timing reveals her mastery.[END]
 
 //Text $19E548
 #WRITE(ptr,$184028)
-[Sign_4]ターンオーバー[END]
+[Sign_4]Turn Over[END]
 
 //Text $19E510
 #WRITE(ptr,$184030)
-空中から襲い掛かるフライパンの恐怖。[LINE]
-たたけたたけ。[END]
+Experience the terror of being hit by[LINE]
+a frying pan from above. Tonk-Tonk-Tonk.[END]
 
 //Text $19E4F8
 #WRITE(ptr,$184048)
-[Sign_4]フラッシュバック[END]
+[Sign_4]Flash Back[END]
 
 //Text $19E4A8
 #WRITE(ptr,$184050)
-閃光に紛れて近所の奥様方には見せられない[LINE]
-あんなことやこんなことをする特技。[END]
+An arte hidden from neighborhood[LINE]
+wives under the cover of flashing lights.[END]
 
 //Text $19E490
 #WRITE(ptr,$184068)
-[Sign_4]キックラック[END]
+[Sign_4]Rock Kick[END]
 
 //Text $19E468
 #WRITE(ptr,$184070)
-石を適当に蹴る特技、[LINE]
-のようなもの。[END]
+Kicks a rock.[LINE]
+Err.., that's it.[END]
 
 //Text $19E450
 #WRITE(ptr,$184088)
@@ -1532,8 +2045,8 @@ Has a dark attribute.[END]
 
 //Text $19E418
 #WRITE(ptr,$184090)
-すっかりまんぼうとお友達、[LINE]
-かどうかは知らないけれど。[END]
+Is she a friend of sunfish or not?[LINE]
+[END]
 
 //Text $19E400
 #WRITE(ptr,$1840A8)
@@ -2029,3 +2542,1073 @@ removes negative ailments.[END]
 #WRITE(ptr,$184770)
 Removes status ailments for the party.[LINE]
 [END]
+//Section Strategy
+
+//Text $1A17E8
+#WRITE(ptr,$184DC8)
+Always Attack[END]
+
+//Text $1A17B8
+#WRITE(ptr,$184DCC)
+Ignore defense,[LINE]
+Attack in close-range.[END]
+
+//Text $1A17A8
+#WRITE(ptr,$184DD4)
+Cut Through[END]
+
+//Text $1A1760
+#WRITE(ptr,$184DD8)
+Fights in close range, will go on the defensive[LINE]
+if its HP gets low.[END]
+
+//Text $1A1750
+#WRITE(ptr,$184DE0)
+Balance[END]
+
+//Text $1A1700
+#WRITE(ptr,$184DE4)
+Fights in close range, go ranged, or[LINE]
+defensive if HP less than half.[END]
+
+//Text $1A16F0
+#WRITE(ptr,$184DEC)
+Protect[END]
+
+//Text $1A16B0
+#WRITE(ptr,$184DF0)
+Protect ally with the lowest HP[LINE]
+attacking enemies near them.[END]
+
+//Text $1A16A0
+#WRITE(ptr,$184DF8)
+Defend[END]
+
+//Text $1A1678
+#WRITE(ptr,$184DFC)
+Only defend and cast healing artes.[END]
+
+//Text $1A1668
+#WRITE(ptr,$184E04)
+Moderate Heal[END]
+
+//Text $1A1628
+#WRITE(ptr,$184E08)
+Focus on using healing artes on[LINE]
+allies with less than half HP.[END]
+
+//Text $1A1618
+#WRITE(ptr,$184E10)
+Heal[END]
+
+//Text $1A15D0
+#WRITE(ptr,$184E14)
+If an ally has taken any damage,[LINE]
+focus on using healing artes.[END]
+
+//Text $1A15B8
+#WRITE(ptr,$184E1C)
+好き勝手してよい[END]
+
+//Text $1A1580
+#WRITE(ptr,$184E20)
+サーチガルドとかを優先して使い、[LINE]
+回復も気分で使います。[END]
+
+//Text $1A156C
+#WRITE(ptr,$184E28)
+Attack Weak Enemy[END]
+
+//Text $1A1520
+#WRITE(ptr,$184E2C)
+Focus casting spells on low HP enemies,[LINE]
+then defend when HP is critical.[END]
+
+//Text $1A150A
+#WRITE(ptr,$184E34)
+Attack Strong Enemy[END]
+
+//Text $1A14C0
+#WRITE(ptr,$184E38)
+Focus on high-level enemies, then[LINE]
+defend against foes when HP [lessthan] 50%.[END]
+
+//Text $1A14B0
+#WRITE(ptr,$184E40)
+Attack Close[END]
+
+//Text $1A1468
+#WRITE(ptr,$184E44)
+Focus on nearest enemy, go melee[LINE]
+if they are close enough.[END]
+
+//Text $1A1458
+#WRITE(ptr,$184E4C)
+Disturb Enemy[END]
+
+//Text $1A1418
+#WRITE(ptr,$184E50)
+Aim at attacking/casting enemies[LINE]
+with fast spells or melee.[END]
+
+//Text $1A1408
+#WRITE(ptr,$184E58)
+Ranged Attack[END]
+
+//Text $1A13D8
+#WRITE(ptr,$184E5C)
+Stay in the rear, using ranged attacks.[END]
+
+//Text $1A13C0
+#WRITE(ptr,$184E64)
+Moderate Attacks[END]
+
+//Text $1A1388
+#WRITE(ptr,$184E68)
+Don't be aggressive but[LINE]
+counterattack nearby enemies.[END]
+
+//Text $1A1378
+#WRITE(ptr,$184E70)
+Attack Flying[END]
+
+//Text $1A1348
+#WRITE(ptr,$184E74)
+Focus on flying enemies.[END]
+
+//Text $1A1338
+#WRITE(ptr,$184E7C)
+Close Attack[END]
+
+//Text $1A12F0
+#WRITE(ptr,$184E80)
+Use melee artes.[END]
+
+//Text $1A12E0
+#WRITE(ptr,$184E88)
+Protect Rear[END]
+
+//Text $1A12B8
+#WRITE(ptr,$184E8C)
+Protect the leader's back.[END]
+
+//Text $1A12A8
+#WRITE(ptr,$184E94)
+Hit and Run[END]
+
+//Text $1A1278
+#WRITE(ptr,$184E98)
+Follow on the leader's attack.[END]
+
+//Text $1A1268
+#WRITE(ptr,$184EA0)
+Disturb Enemy[END]
+
+//Text $1A1238
+#WRITE(ptr,$184EA4)
+Move behind the enemies and attack them.[END]
+
+//Text $1A1228
+#WRITE(ptr,$184EAC)
+Attack Strong[END]
+
+//Text $1A11F8
+#WRITE(ptr,$184EB0)
+Target high-level enemies. Going all-out.[END]
+
+//Text $1A11E8
+#WRITE(ptr,$184EB8)
+Fire at Will[END]
+
+//Text $1A11B0
+#WRITE(ptr,$184EBC)
+Full on assault, attack without defending.[END]
+
+//Text $1A11A0
+#WRITE(ptr,$184EC4)
+Be Careful![END]
+
+//Text $1A1170
+#WRITE(ptr,$184EC8)
+Only attack from a safe distance preserving HP.[END]
+
+//Text $1A1160
+#WRITE(ptr,$184ED0)
+Support[END]
+
+//Text $1A1138
+#WRITE(ptr,$184ED4)
+Focus on casting supportive spells.[END]
+
+//Text $1A1128
+#WRITE(ptr,$184EDC)
+Balance[END]
+
+//Text $1A1100
+#WRITE(ptr,$184EE0)
+Focus using artes with status effects.[END]
+
+//Text $1A10F0
+#WRITE(ptr,$184EE8)
+Support[END]
+
+//Text $1A10A0
+#WRITE(ptr,$184EEC)
+Use support artes when at a safe distance[LINE]
+otherwise attack close enemies.[END]
+
+//Text $1A1090
+#WRITE(ptr,$184EF4)
+Attack Freely[END]
+
+//Text $1A1060
+#WRITE(ptr,$184EF8)
+Avoid normal attacks and[LINE]
+focus on using artes.[END]
+
+//Text $1A1050
+#WRITE(ptr,$184F00)
+Giant Wall[END]
+
+//Text $1A1018
+#WRITE(ptr,$184F04)
+Defend and prevent the[LINE]
+enemy from breaking through.[END]
+
+//Text $1A1008
+#WRITE(ptr,$184F0C)
+Running Target[END]
+
+//Text $1A0FD8
+#WRITE(ptr,$184F10)
+Change the target every time you move.[END]
+
+//Text $1A0FC8
+#WRITE(ptr,$184F18)
+まちがえた[END]
+
+//Text $1A0FA0
+#WRITE(ptr,$184F1C)
+ラベルをTAC_DOUBLEにかえてください[LINE]
+[END]
+//Section Swordian Device
+
+//Text $1A2840
+#WRITE(ptr,$184F3C)
+P. ATK  ＋[TAG_015][END]
+
+//Text $1A2830
+#WRITE(ptr,$184F44)
+Attack[END]
+
+//Text $1A2820
+#WRITE(ptr,$184F50)
+M. ATK  ＋[TAG_015][END]
+
+//Text $1A2810
+#WRITE(ptr,$184F58)
+Mind[END]
+
+//Text $1A2800
+#WRITE(ptr,$184F64)
+P. DEF＋[TAG_015][END]
+
+//Text $1A27F0
+#WRITE(ptr,$184F6C)
+Defence[END]
+
+//Text $1A27E0
+#WRITE(ptr,$184F78)
+M. DEF  ＋[TAG_015][END]
+
+//Text $1A27D0
+#WRITE(ptr,$184F80)
+Resist[END]
+
+//Text $1A27C0
+#WRITE(ptr,$184F8C)
+ACC   ＋[TAG_015][END]
+
+//Text $1A27B8
+#WRITE(ptr,$184F94)
+Hit[END]
+
+//Text $1A27A8
+#WRITE(ptr,$184FA0)
+EVA   ＋[TAG_015][END]
+
+//Text $1A2798
+#WRITE(ptr,$184FA8)
+Evasion[END]
+
+//Text $1A2788
+#WRITE(ptr,$184FB4)
+CRT   ＋[TAG_015][END]
+
+//Text $1A2778
+#WRITE(ptr,$184FBC)
+Critical[END]
+
+//Text $1A2768
+#WRITE(ptr,$184FC8)
+VIT ＋[TAG_015][END]
+
+//Text $1A2758
+#WRITE(ptr,$184FD0)
+Vitality[END]
+
+//Text $1A2748
+#WRITE(ptr,$184FDC)
+Stone Strike[END]
+
+//Text $1A2738
+#WRITE(ptr,$184FE4)
+Stone[END]
+
+//Text $1A2728
+#WRITE(ptr,$184FF0)
+Waste Strike[END]
+
+//Text $1A2718
+#WRITE(ptr,$184FF8)
+Waste[END]
+
+//Text $1A2708
+#WRITE(ptr,$185004)
+Poison Strike[END]
+
+//Text $1A26F8
+#WRITE(ptr,$18500C)
+Poison[END]
+
+//Text $1A26E8
+#WRITE(ptr,$185018)
+Sleep Strike[END]
+
+//Text $1A26D8
+#WRITE(ptr,$185020)
+Sleep[END]
+
+//Text $1A26C8
+#WRITE(ptr,$18502C)
+Paralyze Strike[END]
+
+//Text $1A26B8
+#WRITE(ptr,$185034)
+Paralyze[END]
+
+//Text $1A26A8
+#WRITE(ptr,$185040)
+Seal Strike[END]
+
+//Text $1A26A0
+#WRITE(ptr,$185048)
+Seal[END]
+
+//Text $1A2690
+#WRITE(ptr,$185054)
+Reduce Strike[END]
+
+//Text $1A2680
+#WRITE(ptr,$185068)
+Stop Strike[END]
+
+//Text $1A2670
+#WRITE(ptr,$18507C)
+Resist Stone[END]
+
+//Text $1A2660
+#WRITE(ptr,$185090)
+Resist Waste[END]
+
+//Text $1A2650
+#WRITE(ptr,$1850A4)
+Resist Poison[END]
+
+//Text $1A2640
+#WRITE(ptr,$1850B8)
+Resist Sleep[END]
+
+//Text $1A2630
+#WRITE(ptr,$1850CC)
+Resist Paralyze[END]
+
+//Text $1A2620
+#WRITE(ptr,$1850E0)
+Resist Seal[END]
+
+//Text $1A2610
+#WRITE(ptr,$1850F4)
+Resist Slash[END]
+
+//Text $1A2600
+#WRITE(ptr,$185108)
+Resist Blow[END]
+
+//Text $1A25F0
+#WRITE(ptr,$18511C)
+Resist Shot[END]
+
+//Text $1A25E0
+#WRITE(ptr,$185130)
+Resist Sonic[END]
+
+//Text $1A25D0
+#WRITE(ptr,$185144)
+Resist Earth[END]
+
+//Text $1A25C0
+#WRITE(ptr,$185158)
+Resist Wind[END]
+
+//Text $1A25B0
+#WRITE(ptr,$18516C)
+Resist Fire[END]
+
+//Text $1A25A0
+#WRITE(ptr,$185180)
+Resist Water[END]
+
+//Text $1A2590
+#WRITE(ptr,$185194)
+Resist Light[END]
+
+//Text $1A2580
+#WRITE(ptr,$1851A8)
+Resist Dark[END]
+
+//Text $1A2570
+#WRITE(ptr,$1851BC)
+HP Drain[END]
+
+//Text $1A2550
+#WRITE(ptr,$1851D0)
+Flash Guard raises  CC＋[TAG_015][END]
+
+//Text $1A2540
+#WRITE(ptr,$1851D4)
+PLUS CAPA[END]
+
+//Text $1A2520
+#WRITE(ptr,$1851E4)
+Recovers HP with Flash Guard[END]
+
+//Text $1A2518
+#WRITE(ptr,$1851E8)
+HEAL HP[END]
+
+//Text $1A2500
+#WRITE(ptr,$1851F8)
+P. ATK up with charge[END]
+
+//Text $1A24F0
+#WRITE(ptr,$1851FC)
+ATTACK UP[END]
+
+//Text $1A24D8
+#WRITE(ptr,$18520C)
+M. ATK up with charge[END]
+
+//Text $1A24D0
+#WRITE(ptr,$185210)
+MIND UP[END]
+
+//Text $1A24B8
+#WRITE(ptr,$185220)
+P. DEF up with charge[END]
+
+//Text $1A24A8
+#WRITE(ptr,$185224)
+DEFENCE UP[END]
+
+//Text $1A2490
+#WRITE(ptr,$185234)
+M. DEF up with charge[END]
+
+//Text $1A2480
+#WRITE(ptr,$185238)
+RESIST UP[END]
+
+//Text $1A2460
+#WRITE(ptr,$185248)
+Remove ailment with charge[END]
+
+//Text $1A2450
+#WRITE(ptr,$18524C)
+ALL CLEAR[END]
+
+//Text $1A2438
+#WRITE(ptr,$18525C)
+CC＋1 when charging[END]
+
+//Text $1A2428
+#WRITE(ptr,$185260)
+CHAIN CAPA +1[END]
+
+//Text $1A2408
+#WRITE(ptr,$185270)
+Invincible during charge[END]
+
+//Text $1A2400
+#WRITE(ptr,$185274)
+FLASH[END]
+
+//Text $1A23E0
+#WRITE(ptr,$185284)
+Fill Blast gauge when charging[END]
+
+//Text $1A23D0
+#WRITE(ptr,$185288)
+BLAST PLUS[END]
+
+//Text $1A23B0
+#WRITE(ptr,$185298)
+Give allies CC with Charge[END]
+
+//Text $1A23A0
+#WRITE(ptr,$18529C)
+CHAIN SUPPLY[END]
+
+//Text $1A2388
+#WRITE(ptr,$1852AC)
+Charge recovers HP[END]
+
+//Text $1A2518
+#WRITE(ptr,$1852B0)
+HEAL HP[END]
+
+//Text $1A2368
+#WRITE(ptr,$1852C0)
+Increase P. ATK when charging[END]
+
+//Text $1A2358
+#WRITE(ptr,$1852C4)
+CHARGE ATTACK[END]
+
+//Text $1A2338
+#WRITE(ptr,$1852D4)
+Remove de-buffs when charging[END]
+
+//Text $1A2328
+#WRITE(ptr,$1852D8)
+DESPEL EFFECT[END]
+
+//Text $1A2308
+#WRITE(ptr,$1852E8)
+Restore [TAG_015]％ HP every 2 sec.[END]
+
+//Text $1A2518
+#WRITE(ptr,$1852EC)
+HEAL HP[END]
+
+//Text $1A22F8
+#WRITE(ptr,$1852F0)
+Holy[END]
+
+//Text $1A22D8
+#WRITE(ptr,$1852FC)
+Fills blast gauge over time[END]
+
+//Text $1A23D0
+#WRITE(ptr,$185300)
+BLAST PLUS[END]
+
+//Text $1A22B8
+#WRITE(ptr,$185310)
+May heal [TAG_015]％HP near death[END]
+
+//Text $1A22B0
+#WRITE(ptr,$185314)
+RESCURE[END]
+
+//Text $1A22A0
+#WRITE(ptr,$185318)
+Rescue[END]
+
+//Text $1A2280
+#WRITE(ptr,$185324)
+Kill foe to heal HP[END]
+
+//Text $1A2278
+#WRITE(ptr,$185328)
+GAIN HP[END]
+
+//Text $1A2270
+#WRITE(ptr,$18532C)
+Gain[END]
+
+//Text $1A2250
+#WRITE(ptr,$185338)
+Kill foe to gain  CC＋[TAG_015][END]
+
+//Text $1A2240
+#WRITE(ptr,$18533C)
+GAIN CAPA[END]
+
+//Text $1A2230
+#WRITE(ptr,$185340)
+Rapid[END]
+
+//Text $1A2208
+#WRITE(ptr,$18534C)
+Fill blast gauge when foe defeated[END]
+
+//Text $1A21F8
+#WRITE(ptr,$185350)
+GAIN BLAST[END]
+
+//Text $1A21E8
+#WRITE(ptr,$185354)
+Tension[END]
+
+//Text $1A21C8
+#WRITE(ptr,$185360)
+2xEXP but get killed instantly[END]
+
+//Text $1A21C0
+#WRITE(ptr,$185364)
+CRUSH![END]
+
+//Text $1A2198
+#WRITE(ptr,$185374)
+Deal double damage but take criticals[END]
+
+//Text $1A2178
+#WRITE(ptr,$185388)
+Min CC＋１, Max CC＋１[END]
+
+//Text $1A2168
+#WRITE(ptr,$185390)
+Variable[END]
+
+//Text $1A2150
+#WRITE(ptr,$18539C)
+CC is fixed at [TAG_015][END]
+
+//Text $1A2138
+#WRITE(ptr,$1853B0)
+Min CC＋[TAG_015][END]
+
+//Text $1A2130
+#WRITE(ptr,$1853B8)
+Rise[END]
+
+//Text $1A2118
+#WRITE(ptr,$1853C4)
+Max CC＋[TAG_015][END]
+
+//Text $1A2108
+#WRITE(ptr,$1853CC)
+Exceed[END]
+
+//Text $1A20E0
+#WRITE(ptr,$1853D8)
+Critical attacks stun foes longer[END]
+
+//Text $1A20D0
+#WRITE(ptr,$1853DC)
+ADD STUN[END]
+
+//Text $1A20C0
+#WRITE(ptr,$1853EC)
+Stunner[END]
+
+//Text $1A20A0
+#WRITE(ptr,$185400)
+Critical attack CC＋[TAG_015][END]
+
+//Text $1A2090
+#WRITE(ptr,$185404)
+ADD CAPA[END]
+
+//Text $1A2080
+#WRITE(ptr,$185408)
+Chaser[END]
+
+//Text $1A2050
+#WRITE(ptr,$185414)
+Block physical attacks during an aiming step[END]
+
+//Text $1A2048
+#WRITE(ptr,$185418)
+GUARD[END]
+
+//Text $1A2020
+#WRITE(ptr,$185428)
+Artes stun enemies longer[END]
+
+//Text $1A2018
+#WRITE(ptr,$185430)
+Heavy[END]
+
+//Text $1A1FF8
+#WRITE(ptr,$18543C)
+Spells stun foes longer[END]
+
+//Text $1A1FF0
+#WRITE(ptr,$185444)
+Bless[END]
+
+//Text $1A1FC8
+#WRITE(ptr,$185450)
+Decrease stun from physical attacks[END]
+
+//Text $1A1FB8
+#WRITE(ptr,$185458)
+Iron Body[END]
+
+//Text $1A1F90
+#WRITE(ptr,$185464)
+Decrease stun from enemy spells[END]
+
+//Text $1A1F80
+#WRITE(ptr,$18546C)
+Distort[END]
+
+//Text $1A1F70
+#WRITE(ptr,$185478)
+Earth Elemental[END]
+
+//Text $1A1F60
+#WRITE(ptr,$18548C)
+Wind Elemental[END]
+
+//Text $1A1F50
+#WRITE(ptr,$1854A0)
+Fire Elemental[END]
+
+//Text $1A1F40
+#WRITE(ptr,$1854B4)
+Water Elemental[END]
+
+//Text $1A1F30
+#WRITE(ptr,$1854C8)
+Light Elemental[END]
+
+//Text $1A1F20
+#WRITE(ptr,$1854DC)
+Dark Elemental[END]
+
+//Text $1A1F00
+#WRITE(ptr,$1854F0)
+Increase damage of Earth spells[END]
+
+//Text $1A1EE0
+#WRITE(ptr,$185504)
+Increase damage of Wind spells[END]
+
+//Text $1A1EC0
+#WRITE(ptr,$185518)
+Increase damage of Fire spells[END]
+
+//Text $1A1EA0
+#WRITE(ptr,$18552C)
+Increase damage of Water spells[END]
+
+//Text $1A1E80
+#WRITE(ptr,$185540)
+Increase damage of Light spells[END]
+
+//Text $1A1E60
+#WRITE(ptr,$185554)
+Increase damage of Dark spells[END]
+
+//Text $1A1E40
+#WRITE(ptr,$185568)
+Reduce Earth spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$18556C)
+HIGH SPEED[END]
+
+//Text $1A1E20
+#WRITE(ptr,$185570)
+De-Earth[END]
+
+//Text $1A1E00
+#WRITE(ptr,$18557C)
+Reduce Wind spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$185580)
+HIGH SPEED[END]
+
+//Text $1A1DF0
+#WRITE(ptr,$185584)
+De-Wind[END]
+
+//Text $1A1DD0
+#WRITE(ptr,$185590)
+Reduce Fire spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$185594)
+HIGH SPEED[END]
+
+//Text $1A1DC0
+#WRITE(ptr,$185598)
+De-Fire[END]
+
+//Text $1A1DA0
+#WRITE(ptr,$1855A4)
+Reduce Water spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855A8)
+HIGH SPEED[END]
+
+//Text $1A1D90
+#WRITE(ptr,$1855AC)
+De-Water[END]
+
+//Text $1A1D70
+#WRITE(ptr,$1855B8)
+Reduce Light spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855BC)
+HIGH SPEED[END]
+
+//Text $1A1D60
+#WRITE(ptr,$1855C0)
+De-Light[END]
+
+//Text $1A1D40
+#WRITE(ptr,$1855CC)
+Reduce Dark spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855D0)
+HIGH SPEED[END]
+
+//Text $1A1D30
+#WRITE(ptr,$1855D4)
+De-Dark[END]
+
+//Text $1A1D20
+#WRITE(ptr,$1855E0)
+Reduce foe ATK[END]
+
+//Text $1A1D10
+#WRITE(ptr,$1855E4)
+ATTACK DOWN[END]
+
+//Text $1A1D00
+#WRITE(ptr,$1855F4)
+Reduce foe DEF[END]
+
+//Text $1A1CF0
+#WRITE(ptr,$1855F8)
+DEFENCE DOWN[END]
+
+//Text $1A1CD8
+#WRITE(ptr,$185608)
+Reduce foe M. ATK[END]
+
+//Text $1A1CC8
+#WRITE(ptr,$18560C)
+MIND DOWN[END]
+
+//Text $1A1CB0
+#WRITE(ptr,$18561C)
+Reduce foe M. DEF[END]
+
+//Text $1A1CA0
+#WRITE(ptr,$185620)
+RESIST DOWN[END]
+
+//Text $1A1C90
+#WRITE(ptr,$185630)
+Reduce foe ACC[END]
+
+//Text $1A1C80
+#WRITE(ptr,$185634)
+HITRATE DOWN[END]
+
+//Text $1A1C70
+#WRITE(ptr,$185644)
+Reduce foe EVA[END]
+
+//Text $1A1C60
+#WRITE(ptr,$185648)
+EVADE DOWN[END]
+
+//Text $1A1C50
+#WRITE(ptr,$185658)
+Hits recover HP[END]
+
+//Text $1A1C30
+#WRITE(ptr,$18566C)
+Recovery spell also heal caster[END]
+
+//Text $1A1C20
+#WRITE(ptr,$185670)
+SHARE<$81>@HP[END]
+
+//Text $1A1C18
+#WRITE(ptr,$185674)
+Share[END]
+
+//Text $1A1BF8
+#WRITE(ptr,$185680)
+The power of impersonation?[END]
+
+//Text $1A1BE0
+#WRITE(ptr,$185694)
+一定確率で気絶させる[END]
+
+//Text $1A1BD8
+#WRITE(ptr,$185698)
+PIYO[END]
+
+//Text $1A1BB8
+#WRITE(ptr,$1856A8)
+Periodical food recovery[END]
+
+//Text $1A1BA8
+#WRITE(ptr,$1856AC)
+CHARGE<$81>@FOOD[END]
+
+//Text $1A1B88
+#WRITE(ptr,$1856BC)
+蒼破刃：ダッシュ中に魔神剣[END]
+
+//Text $1A1B70
+#WRITE(ptr,$1856D0)
+紅蓮剣：空中で屠龍閃[END]
+
+//Text $1A1B50
+#WRITE(ptr,$1856E4)
+魔王炎撃波：爆炎剣中に魔神剣[END]
+
+//Text $1A1B30
+#WRITE(ptr,$1856F8)
+空牙昇竜脚：断空剣中に飛燕連脚[END]
+
+//Text $1A1B18
+#WRITE(ptr,$18570C)
+チャージが剛招来に変化[END]
+
+//Text $1A1AF8
+#WRITE(ptr,$185720)
+魔神双破斬：魔神剣中に虎牙破斬[END]
+
+//Text $1A1AE0
+#WRITE(ptr,$185734)
+真空裂斬：空中で烈空斬[END]
+
+//Text $1A1AC0
+#WRITE(ptr,$185748)
+獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]
+
+//Text $1A1A98
+#WRITE(ptr,$18575C)
+獅子戦吼：エイミングステップ中に灼光拳[END]
+
+//Text $1A1A78
+#WRITE(ptr,$185770)
+翔凰烈火：閃光裂破中に鳳凰天駆[END]
+
+//Text $1A1A60
+#WRITE(ptr,$185798)
+Song effectiveness up[END]
+
+//Text $1A1A50
+#WRITE(ptr,$18579C)
+SUPPORT PLUS[END]
+
+//Text $1A1A30
+#WRITE(ptr,$1857AC)
+チャージがサーチガルドに変化[END]
+
+//Text $1A1A08
+#WRITE(ptr,$1857D4)
+Chance to steal item up by [TAG_015]％[END]
+
+//Text $1A19F0
+#WRITE(ptr,$1857E8)
+Block abnormal status[END]
+
+//Text $1A19D0
+#WRITE(ptr,$1857FC)
+Withstand [TAG_015] physical attack[END]
+
+//Text $1A19B8
+#WRITE(ptr,$185810)
+Attacks knockback foes[END]
+
+//Text $1A1990
+#WRITE(ptr,$185824)
+Life Bottle fully restores HP[END]
+
+//Text $1A1980
+#WRITE(ptr,$185828)
+FULL<$81>@HEAL[END]
+
+//Text $1A1958
+#WRITE(ptr,$185838)
+Reduce time to use next item by [TAG_015]％[END]
+
+//Text $1A1948
+#WRITE(ptr,$18583C)
+REDUSE<$81>@TIME[END]
+
+//Text $1A1928
+#WRITE(ptr,$18584C)
+Recovery items heal [TAG_015]% more[END]
+
+//Text $1A1918
+#WRITE(ptr,$185850)
+BONUS<$81>@HEAL[END]
+
+//Text $1A1900
+#WRITE(ptr,$185860)
+Set CC to average value[END]
+
+//Text $1A18D9
+#WRITE(ptr,$185874)
+Chance to steal item with critical hit[END]
+
+//Text $1A18D0
+#WRITE(ptr,$185878)
+GET ITEM[END]
+
+//Text $1A18B0
+#WRITE(ptr,$185888)
+Protects against critical hits[END]
+
+//Text $1A18A0
+#WRITE(ptr,$185890)
+Shield[END]
+
+//Text $1A1880
+#WRITE(ptr,$18589C)
+May revive user when KO'd[END]
+
+//Text $1A1870
+#WRITE(ptr,$1858A4)
+Phoenix[END]
+
+//Text $1A1850
+#WRITE(ptr,$1858B0)
+Fill Blast Gauge when HP is low[END]
+
+//Text $1A1840
+#WRITE(ptr,$1858B8)
+Saint[END]
+
+//Text $1A1830
+#WRITE(ptr,$1858C4)
+Max HP＋1000[END]
+
+//Text $1A1820
+#WRITE(ptr,$1858CC)
+Stamina[END]
+
+//Text $1A1808
+#WRITE(ptr,$1858D8)
+ライフ１０％回復[END]
+
+//Text $1A1800
+#WRITE(ptr,$1858DC)
+CUPID[END]

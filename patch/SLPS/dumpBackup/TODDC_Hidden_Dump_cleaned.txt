@@ -1,0 +1,825 @@
+//Text $19D370
+#WRITE(ptr,$184788)
+[Sign_6]プリズムシャイン[END]
+// current address: $19D386
+
+//Text $19D8A0
+#WRITE(ptr,$184790)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D358
+#WRITE(ptr,$1847A8)
+[Sign_6]ストップフロウ[END]
+// current address: $19D36C
+
+//Text $19D310
+#WRITE(ptr,$1847B0)
+３秒間、敵の動きを停止させる晶術。[LINE]
+短時間だし踊るヒマはありません。[END]
+// current address: $19D354
+
+
+
+
+
+//Text $19D2F8
+#WRITE(ptr,$1847C8)
+[Sign_6]アンビバレンス[END]
+// current address: $19D30C
+
+//Text $19D8A0
+#WRITE(ptr,$1847D0)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D2E0
+#WRITE(ptr,$1847E8)
+[Sign_6]ブラックウィング[END]
+// current address: $19D2F6
+
+//Text $19D8A0
+#WRITE(ptr,$1847F0)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D2C0
+#WRITE(ptr,$184808)
+[Sign_6]デモンズランス・ゼロ[END]
+// current address: $19D2DA
+
+//Text $19D280
+#WRITE(ptr,$184810)
+魔神の槍を召喚すると共に、禁呪の力を[LINE]
+我が物とする闇系晶術。[END]
+// current address: $19D2BC
+
+
+
+
+
+//Text $19D268
+#WRITE(ptr,$184828)
+[Sign_6]スポイル・ウェポン[END]
+// current address: $19D280
+
+//Text $19D8A0
+#WRITE(ptr,$184830)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D250
+#WRITE(ptr,$184848)
+[Sign_6]スポイル・アーマー[END]
+// current address: $19D268
+
+//Text $19D8A0
+#WRITE(ptr,$184850)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D238
+#WRITE(ptr,$184868)
+[Sign_6]スポイル・マインド[END]
+// current address: $19D250
+
+//Text $19D8A0
+#WRITE(ptr,$184870)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D220
+#WRITE(ptr,$184888)
+[Sign_6]スポイル・レジスト[END]
+// current address: $19D238
+
+//Text $19D8A0
+#WRITE(ptr,$184890)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D208
+#WRITE(ptr,$1848A8)
+[Sign_6]アークエンジェル[END]
+// current address: $19D21E
+
+//Text $19D8A0
+#WRITE(ptr,$1848B0)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D1E8
+#WRITE(ptr,$1848C8)
+[Sign_6]セラフィックフェザー[END]
+// current address: $19D202
+
+//Text $19D8A0
+#WRITE(ptr,$1848D0)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D1D0
+#WRITE(ptr,$1848E8)
+[Sign_6]ヘイトゥレッド[END]
+// current address: $19D1E4
+
+//Text $19D8A0
+#WRITE(ptr,$1848F0)
+※敵用[LINE]
+[END]
+// current address: $19D8A8
+
+
+
+
+
+//Text $19D1C0
+#WRITE(ptr,$184908)
+[Sign_7]皇王天翔翼[END]
+// current address: $19D1D0
+
+//Text $19D1A8
+#WRITE(ptr,$18490C)
+コウオウテンショウヨク[END]
+// current address: $19D1BF
+
+//Text $19D158
+#WRITE(ptr,$184910)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+天を翔ける紅蓮の鳳凰。[END]
+// current address: $19D1A6
+
+
+
+
+
+//Text $19D148
+#WRITE(ptr,$184928)
+[Sign_7]殺劇舞荒剣[END]
+// current address: $19D158
+
+//Text $19D130
+#WRITE(ptr,$18492C)
+サツゲキブコウケン[END]
+// current address: $19D143
+
+//Text $19D0E0
+#WRITE(ptr,$184930)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+業火を操る乱舞剣技。[END]
+// current address: $19D12C
+
+
+
+
+
+//Text $19D0D0
+#WRITE(ptr,$184948)
+[Sign_7]業魔灰燼剣[END]
+// current address: $19D0E0
+
+//Text $19D0B8
+#WRITE(ptr,$18494C)
+ゴウマカイジンケン[END]
+// current address: $19D0CB
+
+//Text $19D060
+#WRITE(ptr,$184950)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+劫炎の剣で全てを焼き尽くす。[END]
+// current address: $19D0B4
+
+
+
+
+
+//Text $19D048
+#WRITE(ptr,$184968)
+[Sign_7]トリックスター[END]
+// current address: $19D05C
+
+//Text $19CFF0
+#WRITE(ptr,$184970)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+盗みの限りを尽くす瞬速斬撃。[END]
+// current address: $19D044
+
+
+
+
+
+//Text $19CFD0
+#WRITE(ptr,$184988)
+[Sign_7]ライフディスチャージ[END]
+// current address: $19CFEA
+
+//Text $19CF78
+#WRITE(ptr,$184990)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+味方全てを全快させる癒しの奇跡。[END]
+// current address: $19CFD0
+
+
+
+
+
+//Text $19CF60
+#WRITE(ptr,$1849A8)
+[Sign_7]インブレイスエンド[END]
+// current address: $19CF78
+
+//Text $19CF10
+#WRITE(ptr,$1849B0)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+終焉を与える冷気の抱擁。[END]
+// current address: $19CF60
+
+
+
+
+
+//Text $19CEF0
+#WRITE(ptr,$1849C8)
+[Sign_7]セイクリッドブレイム[END]
+// current address: $19CF0A
+
+//Text $19CE98
+#WRITE(ptr,$1849D0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+邪悪な心に裁きを下す神聖なる光。[END]
+// current address: $19CEF0
+
+
+
+
+
+//Text $19CE80
+#WRITE(ptr,$1849E8)
+[Sign_7]ディバインパウア[END]
+// current address: $19CE96
+
+//Text $19CE28
+#WRITE(ptr,$1849F0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+次々と繰り出される四聖術。[END]
+// current address: $19CE7A
+
+
+
+
+
+//Text $19CE08
+#WRITE(ptr,$184A08)
+[Sign_7]リバースクルセイダー[END]
+// current address: $19CE22
+
+//Text $19CDB0
+#WRITE(ptr,$184A10)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+「再誕」を冠する最大の攻撃晶術。[END]
+// current address: $19CE08
+
+
+
+
+
+//Text $19CDA0
+#WRITE(ptr,$184A28)
+[Sign_7]裂衝蒼破塵[END]
+// current address: $19CDB0
+
+//Text $19CD88
+#WRITE(ptr,$184A2C)
+レッショウソウハジン[END]
+// current address: $19CD9D
+
+//Text $19CD30
+#WRITE(ptr,$184A30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+敵を切り裂く巨大な真空波。[END]
+// current address: $19CD82
+
+
+
+
+
+//Text $19CD20
+#WRITE(ptr,$184A48)
+[Sign_7]皇舞旋煌閃[END]
+// current address: $19CD30
+
+//Text $19CD08
+#WRITE(ptr,$184A4C)
+コウブセンコウセン[END]
+// current address: $19CD1B
+
+//Text $19CCB0
+#WRITE(ptr,$184A50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+風の力を解放して放つ乱撃。[END]
+// current address: $19CD02
+
+
+
+
+
+//Text $19CCA0
+#WRITE(ptr,$184A68)
+[Sign_7]刹華斬[END]
+// current address: $19CCAC
+
+//Text $19CC90
+#WRITE(ptr,$184A6C)
+セッカザン[END]
+// current address: $19CC9B
+
+//Text $19CC30
+#WRITE(ptr,$184A70)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+護るべき者のために力の全てを解放する。[END]
+// current address: $19CC8E
+
+
+
+
+
+//Text $19CC20
+#WRITE(ptr,$184A88)
+[Sign_7]浄破滅焼闇[END]
+// current address: $19CC30
+
+//Text $19CC08
+#WRITE(ptr,$184A8C)
+ジョウハメッショウエン[END]
+// current address: $19CC1F
+
+//Text $19CBB0
+#WRITE(ptr,$184A90)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+正邪を問わず浄化する双極の炎。[END]
+// current address: $19CC06
+
+
+
+
+
+//Text $19CBA0
+#WRITE(ptr,$184AA8)
+[Sign_7]魔神煉獄殺[END]
+// current address: $19CBB0
+
+//Text $19CB88
+#WRITE(ptr,$184AAC)
+マジンレンゴクサツ[END]
+// current address: $19CB9B
+
+//Text $19CB28
+#WRITE(ptr,$184AB0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+精神力を全て破壊の力に転化した禁呪奥義。[END]
+// current address: $19CB88
+
+
+
+
+
+//Text $19CB10
+#WRITE(ptr,$184AC8)
+[Sign_7]ワイルドギース[END]
+// current address: $19CB24
+
+//Text $19CAB8
+#WRITE(ptr,$184AD0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+弓技の最高峰に位置する乱舞射撃。[END]
+// current address: $19CB10
+
+
+
+
+
+//Text $19CAA0
+#WRITE(ptr,$184AE8)
+[Sign_7]レイヤースフィア[END]
+// current address: $19CAB6
+
+//Text $19CA48
+#WRITE(ptr,$184AF0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+歌が全てを覆い尽くす星となる。[END]
+// current address: $19CA9E
+
+
+
+
+
+//Text $19CA38
+#WRITE(ptr,$184B08)
+[Sign_7]斬！[END]
+// current address: $19CA42
+
+//Text $19CA30
+#WRITE(ptr,$184B0C)
+ザン！[END]
+// current address: $19CA37
+
+//Text $19C9D8
+#WRITE(ptr,$184B10)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+気合と共に繰り出す一刀両断。[END]
+// current address: $19CA2C
+
+
+
+
+
+//Text $19C9C0
+#WRITE(ptr,$184B28)
+[Sign_7]サンダーソード[END]
+// current address: $19C9D4
+
+//Text $19C960
+#WRITE(ptr,$184B30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+浮かし技の連携後に繰り出される迅雷の剣。[END]
+// current address: $19C9C0
+
+
+
+
+
+//Text $19C948
+#WRITE(ptr,$184B48)
+[Sign_7]ゴッツァブロゥ[END]
+// current address: $19C95C
+
+//Text $19C8F0
+#WRITE(ptr,$184B50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+必殺になるまで殴る必勝の拳。[END]
+// current address: $19C944
+
+
+
+
+
+//Text $19C8E0
+#WRITE(ptr,$184B68)
+[Sign_7]緋凰絶炎衝[END]
+// current address: $19C8F0
+
+//Text $1A07E8
+#WRITE(ptr,$184B70)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $19C8D0
+#WRITE(ptr,$184B88)
+[Sign_7]斬空天翔剣[END]
+// current address: $19C8E0
+
+//Text $1A07E8
+#WRITE(ptr,$184B90)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $19C898
+#WRITE(ptr,$184BA8)
+[Sign_7]ア イ テ ム な ぞ 使 っ て ん じ ゃ ね え ！[END]
+// current address: $19C8CA
+
+//Text $19C888
+#WRITE(ptr,$184BB0)
+※バル専用[LINE]
+[END]
+// current address: $19C894
+
+
+
+
+
+//Text $19C870
+#WRITE(ptr,$184BC8)
+[Sign_7]メルティアス[END]
+// current address: $19C882
+
+//Text $19C860
+#WRITE(ptr,$184BD0)
+※ミク専用[LINE]
+[END]
+// current address: $19C86C
+
+
+
+
+
+//Text $19C850
+#WRITE(ptr,$184BE8)
+[Sign_7]森羅爆砕[END]
+// current address: $19C85E
+
+//Text $19C840
+#WRITE(ptr,$184BEC)
+シンラバッサイ[END]
+// current address: $19C84F
+
+//Text $19C7E8
+#WRITE(ptr,$184BF0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+射程内の敵を屠り去る奥義。[END]
+// current address: $19C83A
+
+
+
+
+
+//Text $19C7D8
+#WRITE(ptr,$184C08)
+[Sign_7]白薙・凍華[END]
+// current address: $19C7E8
+
+//Text $19C7C0
+#WRITE(ptr,$184C0C)
+シラナギ・トウガ[END]
+// current address: $19C7D1
+
+//Text $19C770
+#WRITE(ptr,$184C10)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+戦場に咲く氷輪の華。[END]
+// current address: $19C7BC
+
+
+
+
+
+//Text $19C758
+#WRITE(ptr,$184C28)
+[Sign_7]ソニックストリーム[END]
+// current address: $19C770
+
+//Text $19C700
+#WRITE(ptr,$184C30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+多くの敵を巻き込む衝撃音波。[END]
+// current address: $19C754
+
+
+
+
+
+//Text $19C6E8
+#WRITE(ptr,$184C48)
+[Sign_7]トレビアンヒップ[END]
+// current address: $19C6FE
+
+//Text $19C690
+#WRITE(ptr,$184C50)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+主観的優雅を極める尻待機。[END]
+// current address: $19C6E2
+
+
+
+
+
+//Text $19C670
+#WRITE(ptr,$184C68)
+[Sign_7]レインティブ・オリオン[END]
+// current address: $19C68C
+
+//Text $1A07E8
+#WRITE(ptr,$184C70)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $19C650
+#WRITE(ptr,$184C88)
+[Sign_7]サバイヴィング・ホリン[END]
+// current address: $19C66C
+
+//Text $1A07E8
+#WRITE(ptr,$184C90)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $19C630
+#WRITE(ptr,$184CA8)
+[Sign_7]セレスティアル・アース[END]
+// current address: $19C64C
+
+//Text $1A07E8
+#WRITE(ptr,$184CB0)
+※未修得[LINE]
+[END]
+// current address: $1A07F2
+
+
+
+
+
+//Text $19C620
+#WRITE(ptr,$184CC8)
+[Sign_5]氷月翔閃[END]
+// current address: $19C62E
+
+//Text $19C608
+#WRITE(ptr,$184CCC)
+ヒョウゲツショウセン[END]
+// current address: $19C61D
+
+//Text $19C5B8
+#WRITE(ptr,$184CD0)
+激しい戦闘を勝ち抜いた者が習得する術剣技。[LINE]
+三日月を描く冷気の斬撃を放つ。[END]
+// current address: $19C602
+
+
+
+
+
+//Text $19C5A8
+#WRITE(ptr,$184CE8)
+[Sign_5]烈震天衝[END]
+// current address: $19C5B6
+
+//Text $19C590
+#WRITE(ptr,$184CEC)
+レッシンテンショウ[END]
+// current address: $19C5A3
+
+//Text $19C548
+#WRITE(ptr,$184CF0)
+死地をくぐり抜けた者が習得する術剣技。[LINE]
+溢れる気合が大地を揺るがす。[END]
+// current address: $19C58C
+
+
+
+
+
+//Text $19C538
+#WRITE(ptr,$184D08)
+[Sign_5]柔招来[END]
+// current address: $19C544
+
+//Text $19C520
+#WRITE(ptr,$184D0C)
+ジュウショウライ[END]
+// current address: $19C531
+
+//Text $19C4D0
+#WRITE(ptr,$184D10)
+自身の集中とＨＰが上昇する術剣技。打撃属性[LINE]
+を備え、連携中の使用で効果が高まる。[END]
+// current address: $19C520
+
+
+
+
+
+//Text $19C4C0
+#WRITE(ptr,$184D28)
+[Sign_5]臥竜斬月[END]
+// current address: $19C4CE
+
+//Text $19C4A8
+#WRITE(ptr,$184D2C)
+ガリュウザンゲツ[END]
+// current address: $19C4B9
+
+//Text $19C478
+#WRITE(ptr,$184D30)
+弧を描く斬撃と共に、敵のＨＰを吸収する[LINE]
+術剣技。[END]
+// current address: $19C4A8
+
+
+
+
+
+//Text $19C460
+#WRITE(ptr,$184D48)
+[Sign_7]魔神剣・刹牙[END]
+// current address: $19C472
+
+//Text $19C448
+#WRITE(ptr,$184D4C)
+マジンケン・セツガ[END]
+// current address: $19C45B
+
+//Text $19C3E8
+#WRITE(ptr,$184D50)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+一撃に全晶力を集中させて放つ瞬速奥義。[END]
+// current address: $19C446
+
+
+
+
+
+//Text $19C3D0
+#WRITE(ptr,$184D68)
+[Sign_5]アースビット[END]
+// current address: $19C3E2
+
+//Text $19C3C8
+#WRITE(ptr,$184D70)
+[LINE]
+[END]
+// current address: $19C3CA
+
+
+
+
+
+//Text $19C3B0
+#WRITE(ptr,$184D88)
+[Sign_6]デッドブルー[END]
+// current address: $19C3C2
+
+//Text $19C398
+#WRITE(ptr,$184D90)
+※ゲーム未使用[LINE]
+[END]
+// current address: $19C3A9
+
+
+
+
+
+//Text $19C380
+#WRITE(ptr,$184DA8)
+[Sign_5]デビルスピアー[END]
+// current address: $19C394
+
+//Text $19C3C8
+#WRITE(ptr,$184DB0)
+[LINE]
+[END]
+// current address: $19C3CA
