@@ -244,5 +244,5 @@ If you see duplicate file you need to do both file if you translate this part or
 - Thanks to the Temple of Tales Translations team (http://temple-tales.ru/translations.html) for providing tools to edit story and skits
 - Thanks to dizzycrunch and chucho1224 for sending me resources to speed up the patch
 - Thanks to saito for sending me tools for packaging ISO files properly
-- Thanks to Alizor for helping me get started with wonderful resources
+- Thanks to @alizor for helping us get started with wonderful resources
 - Thanks to everyone on the Absolute Zero discord who offered advice

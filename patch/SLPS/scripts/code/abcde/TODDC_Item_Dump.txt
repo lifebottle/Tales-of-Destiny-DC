@@ -2947,7 +2947,7 @@ obsolete, it's still a human milestone.[END]
 #WRITE(ptr,$18F338)
 Upper body armor made of leather.[LINE]
 Favored by adventurers due to its[LINE]
-lighteness and fair protection.[END]
+lightness and fair protection.[END]
 //Text $1B5E48
 #WRITE(ptr,$18F370)
 [Sign_Shield]Bronze Armor[END]
@@ -2983,7 +2983,7 @@ of knight apprentices.[END]
 #WRITE(ptr,$18F428)
 Upper body armor strengthened[LINE]
 with a titanium alloy. Very light[LINE]
-and corrosion resistance.[END]
+and corrosion resistant.[END]
 
 
 //Text $1B5CC8
@@ -3002,7 +3002,7 @@ luster and is imbued with prayers.[END]
 //Text $1B5C28
 #WRITE(ptr,$18F4A0)
 Upper body armor decorated with gold.[LINE]
-Also known as the "Oppulent Armor".[LINE]
+Also known as the "Opulent Armor".[LINE]
 [END]
 
 
@@ -3012,9 +3012,9 @@ Also known as the "Oppulent Armor".[LINE]
 
 //Text $1B5BC8
 #WRITE(ptr,$18F4DC)
-Upper body armor decorated with Mithril.[LINE]
-Considered to be a Dwarven work of art.[LINE]
-[END]
+Upper body armor decorated[LINE]
+with Mithril. Considered to[LINE]
+be a Dwarven work of art.[END]
 //Text $1B5BB0
 #WRITE(ptr,$18F514)
 [Sign_Shield]Ring Armor[END]
@@ -3075,39 +3075,36 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B58D8
 #WRITE(ptr,$18F680)
-戦闘用に特化した上半身鎧。[LINE]
-機能性を重視して作られているため、[LINE]
-どんな動きも遮らない。[END]
-
+Upper body armor made specially for combat.[LINE]
+Since it is made with functionality in mind[LINE]
+it doesn't hinder one's movements.[END]
 //Text $1B58C0
 #WRITE(ptr,$18F6B8)
 [Sign_Shield]Rare Armor[END]
 
 //Text $1B5880
 #WRITE(ptr,$18F6BC)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B5868
 #WRITE(ptr,$18F6F4)
 [Sign_Shield]Scale Armor[END]
 
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
-鉄板を鱗状に縫いつけた上半身鎧。[LINE]
-古くから存在する歴史のある鎧。[LINE]
-歩くと音が響くのが難点。[END]
-
+Upper body armor sewn with steel scales.[LINE]
+A historied and ancient armor. It's only[LINE]
+fault is making a sound when walking.[END]
 //Text $1B57F0
 #WRITE(ptr,$18F730)
 [Sign_Shield]Splint Armor[END]
 
 //Text $1B57A0
 #WRITE(ptr,$18F734)
-チェインアーマーを鋼板で強化した[LINE]
-上半身鎧。チェインより堅いが[LINE]
-より重い。[END]
+A Chain Armor strengthened with[LINE]
+steel plates. Tougher than Chain[LINE]
+Armor, but also heavier.[END]
 
 //Text $1B5788
 #WRITE(ptr,$18F76C)
@@ -3115,149 +3112,134 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B5750
 #WRITE(ptr,$18F770)
-黒く輝く美しい上半身鎧。[LINE]
-祭儀用に使われる漆黒の鎧。[LINE]
-[END]
-
+A beautiful and shinning black armor.[LINE]
+Jet black armor used in rituals.[END]
 //Text $1B5738
 #WRITE(ptr,$18F7A8)
 [Sign_Shield]Gothic Armor[END]
 
 //Text $1B56F0
 #WRITE(ptr,$18F7AC)
-簡素でいて典雅な造りの上半身鎧。[LINE]
-過去に興った美術様式を汲んだ[LINE]
-作品。[END]
-
+A simple, but elegant upper body armor.[LINE]
+It's beautiful patterns draw inspiration[LINE]
+from a bygone era.[END]
 //Text $1B56D8
 #WRITE(ptr,$18F7E4)
 [Sign_Shield]Rune Armor[END]
 
 //Text $1B5678
 #WRITE(ptr,$18F7E8)
-希望のルーンが刻まれた上半身鎧。[LINE]
-どんな時でも挫けない[LINE]
-強い心を身に付けた者に与えられる。[END]
-
+Upper body armor engraved with the Hope[LINE]
+rune. Imbues its users with the strength[LINE]
+of mind to never be disheartened.[END]
 //Text $1B5660
 #WRITE(ptr,$18F820)
 [Sign_Shield]Platinum Armor[END]
 
 //Text $1B5610
 #WRITE(ptr,$18F824)
-プラチナで装飾された上半身鎧。[LINE]
-上位の騎士達が身に付ける、[LINE]
-美麗でいて堅固な鎧。[END]
-
+Upper body armor decorated with[LINE]
+platinum. A solid and beautiful armor[LINE]
+worn by high-ranking knights.[END]
 //Text $1B55F8
 #WRITE(ptr,$18F85C)
 [Sign_Shield]Dragon Armor[END]
 
 //Text $1B55A0
 #WRITE(ptr,$18F860)
-ドラゴンの鱗で強化した上半身鎧。[LINE]
-ドラゴンの鋭い爪から身を守り、[LINE]
-吐く炎をも遮る。[END]
-
+Upper body armor strengthened with[LINE]
+dragon scales. Protects against a[LINE]
+dragon's sharp claws and fiery breath.[END]
 //Text $1B5588
 #WRITE(ptr,$18F898)
 [Sign_Shield]Grimm Armor[END]
 
 //Text $1B5530
 #WRITE(ptr,$18F89C)
-伝説に登場する幻想の力を秘めた[LINE]
-上半身鎧。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
-
+Armor imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 //Text $1B5518
 #WRITE(ptr,$18F8D4)
 [Sign_Shield]Masterpiece[END]
 
 //Text $1B54D8
 #WRITE(ptr,$18F8D8)
-名も無き鍛冶屋の無二の傑作。[LINE]
-どんな衝撃でも皹すら入らない。[LINE]
-[END]
-
+A peerless masterpiece made by[LINE]
+an unknown blacksmith. Will never[LINE]
+crack no matter the attack.[END]
 //Text $1B54C0
 #WRITE(ptr,$18F910)
 [Sign_Shield]Fortress[END]
 
 //Text $1B5480
 #WRITE(ptr,$18F914)
-要塞と呼ばれる堅固な上半身鎧。[LINE]
-死角のない鉄壁な守りを誇る。[LINE]
-[END]
-
+Upper body armor referred to as[LINE]
+a fortress. Feels like an impregnable[LINE]
+wall with no openings.[END]
 //Text $1B5468
 #WRITE(ptr,$18F94C)
 [Sign_Shield]Schlachtfeld[END]
 
 //Text $1B5420
 #WRITE(ptr,$18F950)
-戦場を駆ける兵士達の守護神の名。[LINE]
-必ず生還する鎧として[LINE]
-賞賛されている。[END]
-
+Named after the deity that protects[LINE]
+soldiers on the battlefield. Praised as the[LINE]
+armor that guarantees their return.[END]
 //Text $1B5408
 #WRITE(ptr,$18F988)
 [Sign_Shield]Megingjord[END]
 
 //Text $1B53C8
 #WRITE(ptr,$18F98C)
-力が倍増する魔力を秘めている帯。[LINE]
-雷神の持ち物と言われている。[LINE]
-[END]
-
+Ensorcelled sash that doubles[LINE]
+one's might. Said to be the[LINE]
+possession of a thunder God.[END]
 //Text $1B53B0
 #WRITE(ptr,$18F9C4)
 [Sign_Shield]Reflex[END]
 
 //Text $1B5358
 #WRITE(ptr,$18F9C8)
-攻撃を反射すると言われる上半身鎧。[LINE]
-天地戦争時代の天才科学者が[LINE]
-作ったと言われている。[END]
-
+Upper body armor that is said to reflect[LINE]
+attacks. Said to have been invented by a[LINE]
+genius scientist during the Aeth'er War.[END]
 //Text $1B5340
 #WRITE(ptr,$18FA00)
 [Sign_Shield]Terra[END]
 
 //Text $1B52F8
 #WRITE(ptr,$18FA04)
-大地母神の守護を受けた上半身鎧。[LINE]
-聖なるオーラが外敵から身を守る。[LINE]
-[END]
-
+Upper body armor imbued with the[LINE]
+earth Goddess' protection. Protects[LINE]
+the body with a holy aura.[END]
 //Text $1B52E0
 #WRITE(ptr,$18FA3C)
 [Sign_Shield]Last Crusader[END]
 
 //Text $1B5298
 #WRITE(ptr,$18FA40)
-聖戦に赴く騎士のための上半身鎧。[LINE]
-装備した者は、信仰の力で[LINE]
-守護される。[END]
-
+Upper body armor made for knights[LINE]
+heading to holy war. Protects its[LINE]
+wearers with the power of faith.[END]
 //Text $1B5278
 #WRITE(ptr,$18FA78)
 [Sign_Shield]Harmonic Armor[END]
 
 //Text $1B5220
 #WRITE(ptr,$18FA7C)
-「調和」を意味する上半身鎧。[LINE]
-全ての均衡を正す使徒となる。[LINE]
-選ばれた者のみが手にできる。[END]
-
+Upper body armor that carries the meaning[LINE]
+of "Harmony". Turns one into a disciple of[LINE]
+balance. Can only be acquired by the chosen ones.[END]
 //Text $1B5208
 #WRITE(ptr,$18FAB4)
 [Sign_Shield]Leather Plate[END]
 
 //Text $1B51B8
 #WRITE(ptr,$18FAB8)
-革製の胸当て。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-冒険者たちに長年愛用されている。[END]
+Leathern breastplate.[LINE]
+Favored by adventurers due to its[LINE]
+lighteness and fair protection.[END]
 
 //Text $1B51A0
 #WRITE(ptr,$18FAF0)
@@ -3265,9 +3247,9 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B5160
 #WRITE(ptr,$18FAF4)
-鉄板で強化した胸当て。[LINE]
-重いが硬くて頑丈。[LINE]
-伝統ある胸当て。[END]
+Breastplate strengthened with[LINE]
+iron plates. A heavy, but sturdy,[LINE]
+traditional breastplate.[END]
 
 //Text $1B5148
 #WRITE(ptr,$18FB2C)
@@ -3275,29 +3257,26 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B5118
 #WRITE(ptr,$18FB30)
-鋼板で強化した胸当て。[LINE]
-兵士達の愛用品。[LINE]
-[END]
-
+Breastplate strengthened with[LINE]
+steel plates. A fovorite of soldiers.[END]
 //Text $1B5100
 #WRITE(ptr,$18FB68)
 [Sign_Shield]Titanium Plate[END]
 
 //Text $1B50B8
 #WRITE(ptr,$18FB6C)
-チタン合金で強化した胸当て。[LINE]
-非常に軽く、並外れた耐食性を持つ。[LINE]
-[END]
-
+Breastplate strengthened[LINE]
+with a titanium alloy. Very light[LINE]
+and corrosion resistant.[END]
 //Text $1B50A0
 #WRITE(ptr,$18FBA4)
 [Sign_Shield]Silver Plate[END]
 
 //Text $1B5050
 #WRITE(ptr,$18FBA8)
-銀細工で装飾された胸当て。[LINE]
-白い輝きが美しい。[LINE]
-聖なる祈りが込められている。[END]
+Breastplate decorated with[LINE]
+silverwork. Has a beautiful luster[LINE]
+and is imbued with prayers.[END]
 
 //Text $1B5038
 #WRITE(ptr,$18FBE0)
@@ -3305,8 +3284,8 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B5000
 #WRITE(ptr,$18FBE4)
-金細工で装飾された胸当て。[LINE]
-別名「豪華な胸当て」。[LINE]
+Breastplate decorated with gold. Also[LINE]
+known as the "Opulent Breastplate".[LINE]
 [END]
 
 //Text $1B4FE8
@@ -3315,19 +3294,18 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4FA0
 #WRITE(ptr,$18FC20)
-ミスリル細工で装飾された胸当て。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Breastplate decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 //Text $1B4F88
 #WRITE(ptr,$18FC58)
 [Sign_Shield]Star Plate[END]
 
 //Text $1B4F30
 #WRITE(ptr,$18FC5C)
-特殊加工して作られた非常に軽い[LINE]
-胸当て。流星のように速く動ける。[LINE]
-と、宣伝されている。[END]
+Extremely light breastplate made with[LINE]
+a special process. Allows one to move as fast[LINE]
+as a falling star. Or so it is advertised.[END]
 
 //Text $1B4F18
 #WRITE(ptr,$18FC94)
@@ -3335,8 +3313,8 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4ED8
 #WRITE(ptr,$18FC98)
-ダイヤモンドで装飾された胸当て。[LINE]
-その輝きは敵の目を眩ます。[LINE]
+Breastplate decorated with diamonds.[LINE]
+Bewilders enemies with its brightness.[LINE]
 [END]
 
 //Text $1B4EC0
@@ -3345,9 +3323,9 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4E70
 #WRITE(ptr,$18FCD4)
-戦闘用に特化した胸当て。[LINE]
-機能性重視で作られたため、[LINE]
-とても丈夫で動きやすい。[END]
+Breastplate made specially for combat.[LINE]
+Since it is made with functionality in mind[LINE]
+it doesn't hinder one's movements.[END]
 
 //Text $1B4E58
 #WRITE(ptr,$18FD0C)
@@ -3355,19 +3333,18 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B5880
 #WRITE(ptr,$18FD10)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B4E40
 #WRITE(ptr,$18FD48)
 [Sign_Shield]Rune Plate[END]
 
 //Text $1B4DE8
 #WRITE(ptr,$18FD4C)
-勇気のルーンが刻まれた胸当て。[LINE]
-どんな時でも怯まない、[LINE]
-強い心を身に付けた者に与える。[END]
+Breastplate engraved with the Courage[LINE]
+rune. Imbues its users with the strength[LINE]
+of mind to never be disheartened.[END]
 
 //Text $1B4DD0
 #WRITE(ptr,$18FD84)
@@ -3375,19 +3352,18 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4D80
 #WRITE(ptr,$18FD88)
-プラチナで装飾された胸当て。[LINE]
-高価で美しいのみならず、[LINE]
-堅く機能性に優れた一品。[END]
-
+Breastplate decorated with[LINE]
+platinum. Not only expensive and[LINE]
+beautiful, but also very functional.[END]
 //Text $1B4D68
 #WRITE(ptr,$18FDC0)
 [Sign_Shield]Dragon Plate[END]
 
 //Text $1B4D18
 #WRITE(ptr,$18FDC4)
-ドラゴンの鱗で強化した胸当て。[LINE]
-ドラゴンの鋭い爪から身を守り、[LINE]
-吐く炎をも遮る。[END]
+Breastplate strengthened with dragon[LINE]
+scales. Protects against a dragon's[LINE]
+sharp claws and fiery breath.[END]
 
 //Text $1B4D00
 #WRITE(ptr,$18FDFC)
@@ -3395,9 +3371,9 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4CB0
 #WRITE(ptr,$18FE00)
-伝説に登場する幻想の力を秘めた[LINE]
-胸当て。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+Breastplate imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 
 //Text $1B4CA0
 #WRITE(ptr,$18FE38)
@@ -3405,159 +3381,144 @@ Bewilders enemies with its brightness.[LINE]
 
 //Text $1B4C60
 #WRITE(ptr,$18FE3C)
-城壁という名の胸当て。[LINE]
-強固な守りは、強弓を用いても[LINE]
-貫けない。[END]
-
+Breastplate refered to as a[LINE]
+rampart. Provides a staunch defense[LINE]
+unpenatrable by even heavy bows.[END]
 //Text $1B4C48
 #WRITE(ptr,$18FE74)
 [Sign_Shield]Vital Burner[END]
 
 //Text $1B4BF8
 #WRITE(ptr,$18FE78)
-装備者に活力を与える胸当て。[LINE]
-激戦、乱戦にも折れない心を[LINE]
-身に付けた者に与える。[END]
-
+Breastplate that imbues the wearer[LINE]
+with vitality. Grants an unbreakable[LINE]
+heart even in hard-fought battles.[END]
 //Text $1B4BE0
 #WRITE(ptr,$18FEB0)
 [Sign_Shield]Vertical[END]
 
 //Text $1B4B88
 #WRITE(ptr,$18FEB4)
-天頂の名を冠する胸当て。[LINE]
-触れることすら叶わない。羽のよう[LINE]
-に軽く、光と風の守護を得る。[END]
-
+Breastplate named after the[LINE]
+Zenith. Light as a feather and[LINE]
+blessed by light and wind.[END]
 //Text $1B4B68
 #WRITE(ptr,$18FEEC)
 [Sign_Shield]Revival Plate[END]
 
 //Text $1B4B10
 #WRITE(ptr,$18FEF0)
-「再生」を意味する胸当て。[LINE]
-倒れることすら許されない。[LINE]
-選ばれた者のみが手にできる。[END]
-
+Breastplate that carries the meaning of[LINE]
+"Rebirth". Will not allow one to fall.[LINE]
+Can only be acquired by the chosen ones.[END]
 //Text $1B4AF8
 #WRITE(ptr,$18FF28)
 [Sign_Shield]Bronze Wear[END]
 
 //Text $1B4AA8
 #WRITE(ptr,$18FF2C)
-銅板を縫い付けた男性用衣装。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-旅人に好まれている。[END]
-
+Garment sewn with bronze sheets.[LINE]
+Favored by travelers due to its[LINE]
+lightness and fair protection.[END]
 //Text $1B4A90
 #WRITE(ptr,$18FF64)
 [Sign_Shield]Iron Wear[END]
 
 //Text $1B4A48
 #WRITE(ptr,$18FF68)
-鉄板を縫い付けた男性用衣装。[LINE]
-重いが堅く、戦闘仕様な作りに[LINE]
-なっている。[END]
-
+Garment sewn with iron[LINE]
+plates. Heavy but tough.[LINE]
+Made for combat.[END]
 //Text $1B4A30
 #WRITE(ptr,$18FFA0)
 [Sign_Shield]Steel Wear[END]
 
 //Text $1B49E0
 #WRITE(ptr,$18FFA4)
-鋼板を縫い付けた男性用衣装。[LINE]
-護衛や警備を生業としている人々に[LINE]
-使われている。[END]
-
+Garment sewn with steel[LINE]
+plates. Used by guards[LINE]
+and local militias.[END]
 //Text $1B49C8
 #WRITE(ptr,$18FFDC)
 [Sign_Shield]Gold Wear[END]
 
 //Text $1B4990
 #WRITE(ptr,$18FFE0)
-金細工で装飾した男性用衣装。[LINE]
-別名「豪華な衣装」。[LINE]
-[END]
-
+Garment decorated with[LINE]
+gold. Also known as the[LINE]
+"Opulent Wear".[END]
 //Text $1B4978
 #WRITE(ptr,$190018)
 [Sign_Shield]Mithril Wear[END]
 
 //Text $1B4930
 #WRITE(ptr,$19001C)
-ミスリルで装飾した男性用衣装。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Garment decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 //Text $1B4918
 #WRITE(ptr,$190054)
 [Sign_Shield]Breast Wear[END]
 
 //Text $1B48D0
 #WRITE(ptr,$190058)
-胸部の防御が強化されている衣装。[LINE]
-防御力は高いが、[LINE]
-バランスがやや悪い。[END]
-
+Chest protecting garment.[LINE]
+Sports a high defense[LINE]
+but poor balance.[END]
 //Text $1B48B8
 #WRITE(ptr,$190090)
 [Sign_Shield]White Wear[END]
 
 //Text $1B4860
 #WRITE(ptr,$190094)
-白く美しい男性用衣装。[LINE]
-祭儀用に使われる神聖な衣。[LINE]
-光の加護を受けると言われている。[END]
-
+A beautiful white garment. Holy[LINE]
+clothes used in rituals. Said to[LINE]
+hold the divine protection of light.[END]
 //Text $1B4848
 #WRITE(ptr,$1900CC)
 [Sign_Shield]Knight Wear[END]
 
 //Text $1B47F0
 #WRITE(ptr,$1900D0)
-王国騎士団御用達の男性用衣装。[LINE]
-簡素な作りに見えるが、[LINE]
-とても頑強な作りになっている。[END]
-
+Garment used by Royal[LINE]
+Knights. Looks plainly[LINE]
+made, but is very sturdy.[END]
 //Text $1B47D8
 #WRITE(ptr,$190108)
 [Sign_Shield]Battle Wear[END]
 
 //Text $1B4780
 #WRITE(ptr,$19010C)
-戦闘用に特化した男性用衣装。[LINE]
-機能性重視で作られたため、[LINE]
-とても丈夫で動きやすい。[END]
-
+Garment made specially for[LINE]
+combat. Made for functionality.[LINE]
+Sturdy and easy to move in.[END]
 //Text $1B4770
 #WRITE(ptr,$190144)
 [Sign_Shield]Rare Wear[END]
 
 //Text $1B5880
 #WRITE(ptr,$190148)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B4758
 #WRITE(ptr,$190180)
 [Sign_Shield]Holy Wear[END]
 
 //Text $1B46F0
 #WRITE(ptr,$190184)
-聖なる力に祝福された男性用衣装。[LINE]
-聖なる加護に守られたその衣装は、[LINE]
-身に付ける者の命を守るという。[END]
-
+Garment blessed by[LINE]
+holy powers. Protects[LINE]
+the life of its wearers.[END]
 //Text $1B46D8
 #WRITE(ptr,$1901BC)
 [Sign_Shield]Black Wear[END]
 
 //Text $1B4678
 #WRITE(ptr,$1901C0)
-黒生地に銀刺繍の美しい衣装。[LINE]
-祭儀用に使われる神聖な衣。[LINE]
-闇の加護を受けると言われている。[END]
+Black garment lined with silver.[LINE]
+Holy clothes used in rituals.[LINE]
+Said to be imbued with dark powers.[END]
 
 //Text $1B4660
 #WRITE(ptr,$1901F8)
@@ -4095,9 +4056,9 @@ Gives its wearers mental fortitude.[LINE]
 
 //Text $1B5880
 #WRITE(ptr,$190E68)
-Masterpiece imbued with the soul[LINE]
-of Egith. Extremely valuable.[LINE]
-[END]
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B3240
 #WRITE(ptr,$190EA0)
 [Sign_Shield]Stray Robe[END]
@@ -4132,8 +4093,8 @@ change with viewing angle.[END]
 
 //Text $1B30B8
 #WRITE(ptr,$190F58)
-Robe embroidered with resting[LINE]
-runes. Imbues one with the power[LINE]
+Robe embroidered with the Rest[LINE]
+rune. Imbues one with the power[LINE]
 to resist any punishment.[END]
 //Text $1B30A0
 #WRITE(ptr,$190F90)
@@ -4159,7 +4120,7 @@ enemies with its refracted light.[END]
 
 //Text $1B2F90
 #WRITE(ptr,$19100C)
-Robe with the hidden power of[LINE]
+Robe imbued with the hidden power of[LINE]
 fantasies. Named after the brothers[LINE]
 who collected oral traditions into a book.[END]
 //Text $1B2F78

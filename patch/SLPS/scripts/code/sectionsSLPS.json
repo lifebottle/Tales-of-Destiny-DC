@@ -51,8 +51,8 @@
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Other_Items",
-			"GoogleSheetId":"",
+			"SectionDesc":	"Hidden Artes",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19C380",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184788",
@@ -70,11 +70,23 @@
 		{
 			"SectionId":	3,
 			"SectionDesc":	"Strategy",
-			"GoogleSheetId":"",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A0FA0",
 			"TextEnd":		"1A1808",
-			"PointerStart":	"184F1C",
-			"PointerEnd":	"1858D0"
+			"PointerStart":	"184DC8",
+			"PointerEnd":	"184F1C"
+		},
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Swordian Device",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1A1800",
+			"TextEnd":		"1A2840",
+			"PointerStart":	"184F3C",
+			"PointerEnd":	"1858DC",
+			"Step":			20,
+			"NbPerStep":	3,
+			"NbTotal":		125	
 		}]
 	},
 	

@@ -208,8 +208,8 @@ def updateBlock(blockId, SLPSName):
     reinsertText_Block(blockId, SLPSName)
 
 
-#googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
-#fileName = 'TODDC_RecipeStuff2_Dump_cleaned.txt'
+#googleId = '1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM'
+#fileName = 'TODDC_Hidden_Dump_cleaned.txt'
 #finalList = parseText(fileName)
 #writeColumn(finalList, googleId)
     

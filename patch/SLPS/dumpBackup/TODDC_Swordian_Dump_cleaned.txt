@@ -1,0 +1,1527 @@
+//GAME NAME:		Tales of destiny - DC (PS2)
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("F:\PythonCode\TOD_GoogleDoc\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $1A2840
+#WRITE(ptr,$184F3C)
+攻撃力＋[TAG_015][END]
+// current address: $1A284E
+
+//Text $1A2830
+#WRITE(ptr,$184F44)
+アタック[END]
+// current address: $1A2839
+
+
+
+
+
+//Text $1A2820
+#WRITE(ptr,$184F50)
+術攻撃力＋[TAG_015][END]
+// current address: $1A2830
+
+//Text $1A2810
+#WRITE(ptr,$184F58)
+マインド[END]
+// current address: $1A2819
+
+
+
+
+
+//Text $1A2800
+#WRITE(ptr,$184F64)
+防御力＋[TAG_015][END]
+// current address: $1A280E
+
+//Text $1A27F0
+#WRITE(ptr,$184F6C)
+ディフェンス[END]
+// current address: $1A27FD
+
+
+
+
+
+//Text $1A27E0
+#WRITE(ptr,$184F78)
+術防御力＋[TAG_015][END]
+// current address: $1A27F0
+
+//Text $1A27D0
+#WRITE(ptr,$184F80)
+レジスト[END]
+// current address: $1A27D9
+
+
+
+
+
+//Text $1A27C0
+#WRITE(ptr,$184F8C)
+命中率＋[TAG_015][END]
+// current address: $1A27CE
+
+//Text $1A27B8
+#WRITE(ptr,$184F94)
+ヒット[END]
+// current address: $1A27BF
+
+
+
+
+
+//Text $1A27A8
+#WRITE(ptr,$184FA0)
+回避率＋[TAG_015][END]
+// current address: $1A27B6
+
+//Text $1A2798
+#WRITE(ptr,$184FA8)
+エヴォイド[END]
+// current address: $1A27A3
+
+
+
+
+
+//Text $1A2788
+#WRITE(ptr,$184FB4)
+集中力＋[TAG_015][END]
+// current address: $1A2796
+
+//Text $1A2778
+#WRITE(ptr,$184FBC)
+クリティカル[END]
+// current address: $1A2785
+
+
+
+
+
+//Text $1A2768
+#WRITE(ptr,$184FC8)
+体力＋[TAG_015][END]
+// current address: $1A2774
+
+//Text $1A2758
+#WRITE(ptr,$184FD0)
+ヴァイタル[END]
+// current address: $1A2763
+
+
+
+
+
+//Text $1A2748
+#WRITE(ptr,$184FDC)
+石化攻撃[END]
+// current address: $1A2751
+
+//Text $1A2738
+#WRITE(ptr,$184FE4)
+ストーン[END]
+// current address: $1A2741
+
+
+
+
+
+//Text $1A2728
+#WRITE(ptr,$184FF0)
+衰弱攻撃[END]
+// current address: $1A2731
+
+//Text $1A2718
+#WRITE(ptr,$184FF8)
+ウェイスト[END]
+// current address: $1A2723
+
+
+
+
+
+//Text $1A2708
+#WRITE(ptr,$185004)
+熱毒攻撃[END]
+// current address: $1A2711
+
+//Text $1A26F8
+#WRITE(ptr,$18500C)
+ポイズン[END]
+// current address: $1A2701
+
+
+
+
+
+//Text $1A26E8
+#WRITE(ptr,$185018)
+睡眠攻撃[END]
+// current address: $1A26F1
+
+//Text $1A26D8
+#WRITE(ptr,$185020)
+スリープ[END]
+// current address: $1A26E1
+
+
+
+
+
+//Text $1A26C8
+#WRITE(ptr,$18502C)
+マヒ攻撃[END]
+// current address: $1A26D1
+
+//Text $1A26B8
+#WRITE(ptr,$185034)
+パラライ[END]
+// current address: $1A26C1
+
+
+
+
+
+//Text $1A26A8
+#WRITE(ptr,$185040)
+封印攻撃[END]
+// current address: $1A26B1
+
+//Text $1A26A0
+#WRITE(ptr,$185048)
+シール[END]
+// current address: $1A26A7
+
+
+
+
+
+//Text $1A2690
+#WRITE(ptr,$185054)
+小型攻撃[END]
+// current address: $1A2699
+
+
+
+
+
+//Text $1A2680
+#WRITE(ptr,$185068)
+停止攻撃[END]
+// current address: $1A2689
+
+
+
+
+
+//Text $1A2670
+#WRITE(ptr,$18507C)
+石化防止[END]
+// current address: $1A2679
+
+
+
+
+
+//Text $1A2660
+#WRITE(ptr,$185090)
+衰弱防止[END]
+// current address: $1A2669
+
+
+
+
+
+//Text $1A2650
+#WRITE(ptr,$1850A4)
+熱毒防止[END]
+// current address: $1A2659
+
+
+
+
+
+//Text $1A2640
+#WRITE(ptr,$1850B8)
+睡眠防止[END]
+// current address: $1A2649
+
+
+
+
+
+//Text $1A2630
+#WRITE(ptr,$1850CC)
+マヒ防止[END]
+// current address: $1A2639
+
+
+
+
+
+//Text $1A2620
+#WRITE(ptr,$1850E0)
+封印防止[END]
+// current address: $1A2629
+
+
+
+
+
+//Text $1A2610
+#WRITE(ptr,$1850F4)
+斬撃軽減[END]
+// current address: $1A2619
+
+
+
+
+
+//Text $1A2600
+#WRITE(ptr,$185108)
+打撃軽減[END]
+// current address: $1A2609
+
+
+
+
+
+//Text $1A25F0
+#WRITE(ptr,$18511C)
+射撃軽減[END]
+// current address: $1A25F9
+
+
+
+
+
+//Text $1A25E0
+#WRITE(ptr,$185130)
+音波軽減[END]
+// current address: $1A25E9
+
+
+
+
+
+//Text $1A25D0
+#WRITE(ptr,$185144)
+地属性軽減[END]
+// current address: $1A25DB
+
+
+
+
+
+//Text $1A25C0
+#WRITE(ptr,$185158)
+風属性軽減[END]
+// current address: $1A25CB
+
+
+
+
+
+//Text $1A25B0
+#WRITE(ptr,$18516C)
+火属性軽減[END]
+// current address: $1A25BB
+
+
+
+
+
+//Text $1A25A0
+#WRITE(ptr,$185180)
+水属性軽減[END]
+// current address: $1A25AB
+
+
+
+
+
+//Text $1A2590
+#WRITE(ptr,$185194)
+光属性軽減[END]
+// current address: $1A259B
+
+
+
+
+
+//Text $1A2580
+#WRITE(ptr,$1851A8)
+闇属性軽減[END]
+// current address: $1A258B
+
+
+
+
+
+//Text $1A2570
+#WRITE(ptr,$1851BC)
+HP回復攻撃[END]
+// current address: $1A257B
+
+
+
+
+
+//Text $1A2550
+#WRITE(ptr,$1851D0)
+フラッシュガードでＣＣ＋[TAG_015][END]
+// current address: $1A256E
+
+//Text $1A2540
+#WRITE(ptr,$1851D4)
+PLUS CAPA[END]
+// current address: $1A254A
+
+
+
+
+
+//Text $1A2520
+#WRITE(ptr,$1851E4)
+フラッシュガードでＨＰ回復[END]
+// current address: $1A253B
+
+//Text $1A2518
+#WRITE(ptr,$1851E8)
+HEAL HP[END]
+// current address: $1A2520
+
+
+
+
+
+//Text $1A2500
+#WRITE(ptr,$1851F8)
+チャージ：攻撃力上昇[END]
+// current address: $1A2515
+
+//Text $1A24F0
+#WRITE(ptr,$1851FC)
+ATTACK UP[END]
+// current address: $1A24FA
+
+
+
+
+
+//Text $1A24D8
+#WRITE(ptr,$18520C)
+チャージ：術攻撃力上昇[END]
+// current address: $1A24EF
+
+//Text $1A24D0
+#WRITE(ptr,$185210)
+MIND UP[END]
+// current address: $1A24D8
+
+
+
+
+
+//Text $1A24B8
+#WRITE(ptr,$185220)
+チャージ：防御力上昇[END]
+// current address: $1A24CD
+
+//Text $1A24A8
+#WRITE(ptr,$185224)
+DEFENCE UP[END]
+// current address: $1A24B3
+
+
+
+
+
+//Text $1A2490
+#WRITE(ptr,$185234)
+チャージ：術防御力上昇[END]
+// current address: $1A24A7
+
+//Text $1A2480
+#WRITE(ptr,$185238)
+RESIST UP[END]
+// current address: $1A248A
+
+
+
+
+
+//Text $1A2460
+#WRITE(ptr,$185248)
+チャージ：確率で状態異常解除[END]
+// current address: $1A247D
+
+//Text $1A2450
+#WRITE(ptr,$18524C)
+ALL CLEAR[END]
+// current address: $1A245A
+
+
+
+
+
+//Text $1A2438
+#WRITE(ptr,$18525C)
+チャージ：ＣＣが１加算[END]
+// current address: $1A244F
+
+//Text $1A2428
+#WRITE(ptr,$185260)
+CHAIN CAPA +1[END]
+// current address: $1A2436
+
+
+
+
+
+//Text $1A2408
+#WRITE(ptr,$185270)
+チャージ：短時間完全回避[END]
+// current address: $1A2421
+
+//Text $1A2400
+#WRITE(ptr,$185274)
+FLASH[END]
+// current address: $1A2406
+
+
+
+
+
+//Text $1A23E0
+#WRITE(ptr,$185284)
+チャージ：ブラストゲージ加算[END]
+// current address: $1A23FD
+
+//Text $1A23D0
+#WRITE(ptr,$185288)
+BLAST PLUS[END]
+// current address: $1A23DB
+
+
+
+
+
+//Text $1A23B0
+#WRITE(ptr,$185298)
+チャージ：味方のＣＣ増加[END]
+// current address: $1A23C9
+
+//Text $1A23A0
+#WRITE(ptr,$18529C)
+CHAIN SUPPLY[END]
+// current address: $1A23AD
+
+
+
+
+
+//Text $1A2388
+#WRITE(ptr,$1852AC)
+チャージ：HP回復[END]
+// current address: $1A2399
+
+//Text $1A2518
+#WRITE(ptr,$1852B0)
+HEAL HP[END]
+// current address: $1A2520
+
+
+
+
+
+//Text $1A2368
+#WRITE(ptr,$1852C0)
+チャージ：攻撃判定が発生[END]
+// current address: $1A2381
+
+//Text $1A2358
+#WRITE(ptr,$1852C4)
+CHARGE ATTACK[END]
+// current address: $1A2366
+
+
+
+
+
+//Text $1A2338
+#WRITE(ptr,$1852D4)
+チャージ：減少効果を打ち消し[END]
+// current address: $1A2355
+
+//Text $1A2328
+#WRITE(ptr,$1852D8)
+DESPEL EFFECT[END]
+// current address: $1A2336
+
+
+
+
+
+//Text $1A2308
+#WRITE(ptr,$1852E8)
+一定時間毎にHPが微量回復[END]
+// current address: $1A2321
+
+//Text $1A2518
+#WRITE(ptr,$1852EC)
+HEAL HP[END]
+// current address: $1A2520
+
+//Text $1A22F8
+#WRITE(ptr,$1852F0)
+ホーリィ[END]
+// current address: $1A2301
+
+
+
+
+
+//Text $1A22D8
+#WRITE(ptr,$1852FC)
+一定時間毎にブラストゲージ加算[END]
+// current address: $1A22F7
+
+//Text $1A23D0
+#WRITE(ptr,$185300)
+BLAST PLUS[END]
+// current address: $1A23DB
+
+
+
+
+
+//Text $1A22B8
+#WRITE(ptr,$185310)
+瀕死時に時々HPが[TAG_015]％回復[END]
+// current address: $1A22D4
+
+//Text $1A22B0
+#WRITE(ptr,$185314)
+RESCURE[END]
+// current address: $1A22B8
+
+//Text $1A22A0
+#WRITE(ptr,$185318)
+レスキュー[END]
+// current address: $1A22AB
+
+
+
+
+
+//Text $1A2280
+#WRITE(ptr,$185324)
+敵を倒したときにHPが回復[END]
+// current address: $1A2299
+
+//Text $1A2278
+#WRITE(ptr,$185328)
+GAIN HP[END]
+// current address: $1A2280
+
+//Text $1A2270
+#WRITE(ptr,$18532C)
+ゲイン[END]
+// current address: $1A2277
+
+
+
+
+
+//Text $1A2250
+#WRITE(ptr,$185338)
+敵を倒したときにＣＣ＋[TAG_015][END]
+// current address: $1A226C
+
+//Text $1A2240
+#WRITE(ptr,$18533C)
+GAIN CAPA[END]
+// current address: $1A224A
+
+//Text $1A2230
+#WRITE(ptr,$185340)
+ラピッド[END]
+// current address: $1A2239
+
+
+
+
+
+//Text $1A2208
+#WRITE(ptr,$18534C)
+敵を倒したときにブラストゲージ加算[END]
+// current address: $1A222B
+
+//Text $1A21F8
+#WRITE(ptr,$185350)
+GAIN BLAST[END]
+// current address: $1A2203
+
+//Text $1A21E8
+#WRITE(ptr,$185354)
+テンション[END]
+// current address: $1A21F3
+
+
+
+
+
+//Text $1A21C8
+#WRITE(ptr,$185360)
+獲得経験値２倍。ただし・・・[END]
+// current address: $1A21E5
+
+//Text $1A21C0
+#WRITE(ptr,$185364)
+CRUSH![END]
+// current address: $1A21C7
+
+
+
+
+
+//Text $1A2198
+#WRITE(ptr,$185374)
+与えるダメージが２倍に。ただし・・・[END]
+// current address: $1A21BD
+
+
+
+
+
+//Text $1A2178
+#WRITE(ptr,$185388)
+最小CC、最大CCを１増やす[END]
+// current address: $1A2191
+
+//Text $1A2168
+#WRITE(ptr,$185390)
+バリアブル[END]
+// current address: $1A2173
+
+
+
+
+
+//Text $1A2150
+#WRITE(ptr,$18539C)
+CCを常に[TAG_015]にする[END]
+// current address: $1A2164
+
+
+
+
+
+//Text $1A2138
+#WRITE(ptr,$1853B0)
+最小CCを[TAG_015]増やす[END]
+// current address: $1A214C
+
+//Text $1A2130
+#WRITE(ptr,$1853B8)
+ライズ[END]
+// current address: $1A2137
+
+
+
+
+
+//Text $1A2118
+#WRITE(ptr,$1853C4)
+最大CCを[TAG_015]増やす[END]
+// current address: $1A212C
+
+//Text $1A2108
+#WRITE(ptr,$1853CC)
+エクシード[END]
+// current address: $1A2113
+
+
+
+
+
+//Text $1A20E0
+#WRITE(ptr,$1853D8)
+クリティカル時の敵の気絶時間を増やす[END]
+// current address: $1A2105
+
+//Text $1A20D0
+#WRITE(ptr,$1853DC)
+ADD STUN[END]
+// current address: $1A20D9
+
+
+
+
+
+//Text $1A20C0
+#WRITE(ptr,$1853EC)
+＊削除＊[END]
+// current address: $1A20C9
+
+
+
+
+
+//Text $1A20A0
+#WRITE(ptr,$185400)
+クリティカル時にCC＋[TAG_015][END]
+// current address: $1A20BA
+
+//Text $1A2090
+#WRITE(ptr,$185404)
+ADD CAPA[END]
+// current address: $1A2099
+
+//Text $1A2080
+#WRITE(ptr,$185408)
+チェイサー[END]
+// current address: $1A208B
+
+
+
+
+
+//Text $1A2050
+#WRITE(ptr,$185414)
+エイミングステップ中、物理攻撃を防御できる[END]
+// current address: $1A207B
+
+//Text $1A2048
+#WRITE(ptr,$185418)
+GUARD[END]
+// current address: $1A204E
+
+
+
+
+
+//Text $1A2020
+#WRITE(ptr,$185428)
+特技・術技による敵硬化時間を延ばす[END]
+// current address: $1A2043
+
+//Text $1A2018
+#WRITE(ptr,$185430)
+ヘヴィ[END]
+// current address: $1A201F
+
+
+
+
+
+//Text $1A1FF8
+#WRITE(ptr,$18543C)
+晶術による敵硬化時間を延ばす[END]
+// current address: $1A2015
+
+//Text $1A1FF0
+#WRITE(ptr,$185444)
+ブレス[END]
+// current address: $1A1FF7
+
+
+
+
+
+//Text $1A1FC8
+#WRITE(ptr,$185450)
+敵の物理攻撃による硬化時間を縮める[END]
+// current address: $1A1FEB
+
+//Text $1A1FB8
+#WRITE(ptr,$185458)
+プリベント[END]
+// current address: $1A1FC3
+
+
+
+
+
+//Text $1A1F90
+#WRITE(ptr,$185464)
+敵の術攻撃による硬化時間を縮める[END]
+// current address: $1A1FB1
+
+//Text $1A1F80
+#WRITE(ptr,$18546C)
+ディストート[END]
+// current address: $1A1F8D
+
+
+
+
+
+//Text $1A1F70
+#WRITE(ptr,$185478)
+地属性攻撃[END]
+// current address: $1A1F7B
+
+
+
+
+
+//Text $1A1F60
+#WRITE(ptr,$18548C)
+風属性攻撃[END]
+// current address: $1A1F6B
+
+
+
+
+
+//Text $1A1F50
+#WRITE(ptr,$1854A0)
+火属性攻撃[END]
+// current address: $1A1F5B
+
+
+
+
+
+//Text $1A1F40
+#WRITE(ptr,$1854B4)
+水属性攻撃[END]
+// current address: $1A1F4B
+
+
+
+
+
+//Text $1A1F30
+#WRITE(ptr,$1854C8)
+光属性攻撃[END]
+// current address: $1A1F3B
+
+
+
+
+
+//Text $1A1F20
+#WRITE(ptr,$1854DC)
+闇属性攻撃[END]
+// current address: $1A1F2B
+
+
+
+
+
+//Text $1A1F00
+#WRITE(ptr,$1854F0)
+地属性晶術のダメージアップ[END]
+// current address: $1A1F1B
+
+
+
+
+
+//Text $1A1EE0
+#WRITE(ptr,$185504)
+風属性晶術のダメージアップ[END]
+// current address: $1A1EFB
+
+
+
+
+
+//Text $1A1EC0
+#WRITE(ptr,$185518)
+火属性晶術のダメージアップ[END]
+// current address: $1A1EDB
+
+
+
+
+
+//Text $1A1EA0
+#WRITE(ptr,$18552C)
+水属性晶術のダメージアップ[END]
+// current address: $1A1EBB
+
+
+
+
+
+//Text $1A1E80
+#WRITE(ptr,$185540)
+光属性晶術のダメージアップ[END]
+// current address: $1A1E9B
+
+
+
+
+
+//Text $1A1E60
+#WRITE(ptr,$185554)
+闇属性晶術のダメージアップ[END]
+// current address: $1A1E7B
+
+
+
+
+
+//Text $1A1E40
+#WRITE(ptr,$185568)
+地属性晶術の詠唱時間短縮[END]
+// current address: $1A1E59
+
+//Text $1A1E30
+#WRITE(ptr,$18556C)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1E20
+#WRITE(ptr,$185570)
+ディアース[END]
+// current address: $1A1E2B
+
+
+
+
+
+//Text $1A1E00
+#WRITE(ptr,$18557C)
+風属性晶術の詠唱時間短縮[END]
+// current address: $1A1E19
+
+//Text $1A1E30
+#WRITE(ptr,$185580)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1DF0
+#WRITE(ptr,$185584)
+ディウィンド[END]
+// current address: $1A1DFD
+
+
+
+
+
+//Text $1A1DD0
+#WRITE(ptr,$185590)
+火属性晶術の詠唱時間短縮[END]
+// current address: $1A1DE9
+
+//Text $1A1E30
+#WRITE(ptr,$185594)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1DC0
+#WRITE(ptr,$185598)
+ディファイア[END]
+// current address: $1A1DCD
+
+
+
+
+
+//Text $1A1DA0
+#WRITE(ptr,$1855A4)
+水属性晶術の詠唱時間短縮[END]
+// current address: $1A1DB9
+
+//Text $1A1E30
+#WRITE(ptr,$1855A8)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1D90
+#WRITE(ptr,$1855AC)
+ディウォータ[END]
+// current address: $1A1D9D
+
+
+
+
+
+//Text $1A1D70
+#WRITE(ptr,$1855B8)
+光属性晶術の詠唱時間短縮[END]
+// current address: $1A1D89
+
+//Text $1A1E30
+#WRITE(ptr,$1855BC)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1D60
+#WRITE(ptr,$1855C0)
+ディライト[END]
+// current address: $1A1D6B
+
+
+
+
+
+//Text $1A1D40
+#WRITE(ptr,$1855CC)
+闇属性晶術の詠唱時間短縮[END]
+// current address: $1A1D59
+
+//Text $1A1E30
+#WRITE(ptr,$1855D0)
+HIGH SPEED[END]
+// current address: $1A1E3B
+
+//Text $1A1D30
+#WRITE(ptr,$1855D4)
+ディダーク[END]
+// current address: $1A1D3B
+
+
+
+
+
+//Text $1A1D20
+#WRITE(ptr,$1855E0)
+攻撃力低下攻撃[END]
+// current address: $1A1D2F
+
+//Text $1A1D10
+#WRITE(ptr,$1855E4)
+ATTACK DOWN[END]
+// current address: $1A1D1C
+
+
+
+
+
+//Text $1A1D00
+#WRITE(ptr,$1855F4)
+防御力低下攻撃[END]
+// current address: $1A1D0F
+
+//Text $1A1CF0
+#WRITE(ptr,$1855F8)
+DEFENCE DOWN[END]
+// current address: $1A1CFD
+
+
+
+
+
+//Text $1A1CD8
+#WRITE(ptr,$185608)
+術攻撃力低下攻撃[END]
+// current address: $1A1CE9
+
+//Text $1A1CC8
+#WRITE(ptr,$18560C)
+MIND DOWN[END]
+// current address: $1A1CD2
+
+
+
+
+
+//Text $1A1CB0
+#WRITE(ptr,$18561C)
+術防御力低下攻撃[END]
+// current address: $1A1CC1
+
+//Text $1A1CA0
+#WRITE(ptr,$185620)
+RESIST DOWN[END]
+// current address: $1A1CAC
+
+
+
+
+
+//Text $1A1C90
+#WRITE(ptr,$185630)
+命中率低下攻撃[END]
+// current address: $1A1C9F
+
+//Text $1A1C80
+#WRITE(ptr,$185634)
+HITRATE DOWN[END]
+// current address: $1A1C8D
+
+
+
+
+
+//Text $1A1C70
+#WRITE(ptr,$185644)
+回避率低下攻撃[END]
+// current address: $1A1C7F
+
+//Text $1A1C60
+#WRITE(ptr,$185648)
+EVADE DOWN[END]
+// current address: $1A1C6B
+
+
+
+
+
+//Text $1A1C50
+#WRITE(ptr,$185658)
+攻撃毎にHP回復[END]
+// current address: $1A1C5F
+
+
+
+
+
+//Text $1A1C30
+#WRITE(ptr,$18566C)
+回復晶術使用時に、術者もHP回復[END]
+// current address: $1A1C4F
+
+//Text $1A1C20
+#WRITE(ptr,$185670)
+SHARE<$81>@HP[END]
+// current address: $1A1C2A
+
+//Text $1A1C18
+#WRITE(ptr,$185674)
+シェア[END]
+// current address: $1A1C1F
+
+
+
+
+
+//Text $1A1BF8
+#WRITE(ptr,$185680)
+なりきりの力が宿っている？[END]
+// current address: $1A1C13
+
+
+
+
+
+//Text $1A1BE0
+#WRITE(ptr,$185694)
+一定確率で気絶させる[END]
+// current address: $1A1BF5
+
+//Text $1A1BD8
+#WRITE(ptr,$185698)
+PIYO[END]
+// current address: $1A1BDD
+
+
+
+
+
+//Text $1A1BB8
+#WRITE(ptr,$1856A8)
+一定時間でフードが回復する[END]
+// current address: $1A1BD3
+
+//Text $1A1BA8
+#WRITE(ptr,$1856AC)
+CHARGE<$81>@FOOD[END]
+// current address: $1A1BB5
+
+
+
+
+
+//Text $1A1B88
+#WRITE(ptr,$1856BC)
+蒼破刃：ダッシュ中に魔神剣[END]
+// current address: $1A1BA3
+
+
+
+
+
+//Text $1A1B70
+#WRITE(ptr,$1856D0)
+紅蓮剣：空中で屠龍閃[END]
+// current address: $1A1B85
+
+
+
+
+
+//Text $1A1B50
+#WRITE(ptr,$1856E4)
+魔王炎撃波：爆炎剣中に魔神剣[END]
+// current address: $1A1B6D
+
+
+
+
+
+//Text $1A1B30
+#WRITE(ptr,$1856F8)
+空牙昇竜脚：断空剣中に飛燕連脚[END]
+// current address: $1A1B4F
+
+
+
+
+
+//Text $1A1B18
+#WRITE(ptr,$18570C)
+チャージが剛招来に変化[END]
+// current address: $1A1B2F
+
+
+
+
+
+//Text $1A1AF8
+#WRITE(ptr,$185720)
+魔神双破斬：魔神剣中に虎牙破斬[END]
+// current address: $1A1B17
+
+
+
+
+
+//Text $1A1AE0
+#WRITE(ptr,$185734)
+真空裂斬：空中で烈空斬[END]
+// current address: $1A1AF7
+
+
+
+
+
+//Text $1A1AC0
+#WRITE(ptr,$185748)
+獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]
+// current address: $1A1ADF
+
+
+
+
+
+//Text $1A1A98
+#WRITE(ptr,$18575C)
+獅子戦吼：エイミングステップ中に灼光拳[END]
+// current address: $1A1ABF
+
+
+
+
+
+//Text $1A1A78
+#WRITE(ptr,$185770)
+翔凰烈火：閃光裂破中に鳳凰天駆[END]
+// current address: $1A1A97
+
+
+
+
+
+
+
+
+
+//Text $1A1A60
+#WRITE(ptr,$185798)
+支援歌技の効果が上昇[END]
+// current address: $1A1A75
+
+//Text $1A1A50
+#WRITE(ptr,$18579C)
+SUPPORT PLUS[END]
+// current address: $1A1A5D
+
+
+
+
+
+//Text $1A1A30
+#WRITE(ptr,$1857AC)
+チャージがサーチガルドに変化[END]
+// current address: $1A1A4D
+
+
+
+
+
+
+
+
+
+//Text $1A1A08
+#WRITE(ptr,$1857D4)
+アイテムを盗む確率を[TAG_015]％アップ[END]
+// current address: $1A1A2A
+
+
+
+
+
+//Text $1A19F0
+#WRITE(ptr,$1857E8)
+全状態異常を防止[END]
+// current address: $1A1A01
+
+
+
+
+
+//Text $1A19D0
+#WRITE(ptr,$1857FC)
+敵の物理攻撃を[TAG_015]回耐える[END]
+// current address: $1A19EC
+
+
+
+
+
+//Text $1A19B8
+#WRITE(ptr,$185810)
+通常攻撃でダウンさせる[END]
+// current address: $1A19CF
+
+
+
+
+
+//Text $1A1990
+#WRITE(ptr,$185824)
+ライフボトルで回復時、HPが全快する[END]
+// current address: $1A19B3
+
+//Text $1A1980
+#WRITE(ptr,$185828)
+FULL<$81>@HEAL[END]
+// current address: $1A198B
+
+
+
+
+
+//Text $1A1958
+#WRITE(ptr,$185838)
+アイテム使用不可時間が[TAG_015]％減少[END]
+// current address: $1A197A
+
+//Text $1A1948
+#WRITE(ptr,$18583C)
+REDUSE<$81>@TIME[END]
+// current address: $1A1955
+
+
+
+
+
+//Text $1A1928
+#WRITE(ptr,$18584C)
+アイテムの回復量が[TAG_015]％上昇[END]
+// current address: $1A1946
+
+//Text $1A1918
+#WRITE(ptr,$185850)
+BONUS<$81>@HEAL[END]
+// current address: $1A1924
+
+
+
+
+
+//Text $1A1908
+#WRITE(ptr,$185860)
+CCを平均化する[END]
+// current address: $1A1917
+
+
+
+
+
+//Text $1A18E0
+#WRITE(ptr,$185874)
+クリティカル時に確率でアイテムを盗む[END]
+// current address: $1A1905
+
+//Text $1A18D0
+#WRITE(ptr,$185878)
+GET ITEM[END]
+// current address: $1A18D9
+
+
+
+
+
+//Text $1A18B0
+#WRITE(ptr,$185888)
+クリティカルを受けなくなる[END]
+// current address: $1A18CB
+
+//Text $1A18A0
+#WRITE(ptr,$185890)
+シールド[END]
+// current address: $1A18A9
+
+
+
+
+
+//Text $1A1880
+#WRITE(ptr,$18589C)
+戦闘不能から確率で自動復活[END]
+// current address: $1A189B
+
+//Text $1A1870
+#WRITE(ptr,$1858A4)
+フェニックス[END]
+// current address: $1A187D
+
+
+
+
+
+//Text $1A1850
+#WRITE(ptr,$1858B0)
+瀕死時にブラストゲージ増加[END]
+// current address: $1A186B
+
+//Text $1A1840
+#WRITE(ptr,$1858B8)
+セイント[END]
+// current address: $1A1849
+
+
+
+
+
+//Text $1A1830
+#WRITE(ptr,$1858C4)
+最大HP＋1000[END]
+// current address: $1A183D
+
+//Text $1A1820
+#WRITE(ptr,$1858CC)
+スタミナ[END]
+// current address: $1A1829
+
+
+
+
+
+//Text $1A1808
+#WRITE(ptr,$1858D8)
+ライフ１０％回復[END]
+// current address: $1A1819
+
+//Text $1A1800
+#WRITE(ptr,$1858DC)
+CUPID[END]
+// current address: $1A1806
+
