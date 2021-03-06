@@ -156,7 +156,7 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>\<x80></color>が
+<TAG_007><S03><turquoise><TAG_013b><x5C><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -174,7 +174,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b>\<x80></color>が
+<TAG_007><S03><turquoise><TAG_013b><x5C><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -182,7 +182,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<x80><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x48><x80><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80></color>を取得しました。
 
@@ -300,7 +300,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b>\<x80>のソーディアンデバイスが
+<TAG_007><TAG_013b><x5C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

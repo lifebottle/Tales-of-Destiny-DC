@@ -479,7 +479,7 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a>浮</color>が
+<TAG_007><S03><turquoise><TAG_013a><xE8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -497,7 +497,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a>浮</color>が
+<TAG_007><S03><turquoise><TAG_013a><xE8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -623,7 +623,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a>浮のソーディアンデバイスが
+<TAG_007><TAG_013a><xE8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
