@@ -4,7 +4,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-反応が無い……
+He has taken his last breath.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -13,101 +13,101 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>艦長の航海日誌が置かれている。
+<TAG_005>The captain's logbook is kept here.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「立ち入り禁止！」
+<TAG_005>"No Access while in motion!"
 [ENDBLOCK]
-<Philia>
+Philia>
 [ENDBLOCK]
-<Stahn>さん……<Lion>さんの様子は？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-今、<Rutee>が面倒見てる。
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-<Rutee>さんが……？
-珍しいですね。
+Mr. <Stahn>...How is <Lion> doing?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でもふたりとも、凄く自然だったよ。
-任せておいて平気だと思う。
+<Rutee> is looking
+after him right now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-おふたりが仲良くなったのだとしたら、
-きっと、<Stahn>さんのお陰ですね。
+<Rutee> is...?
+That's unusual.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何が？
+They seem to be getting along.
+It should be fine to leave
+them alone.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さんと接しているうちに、
-みんな少しずつ、変わったんですよ。
+If they're getting along so
+well, I'm sure it's thanks
+to you, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうかな？
+What?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ええ。<Lion>さんも、<Rutee>さんも。
-それに……私も。
+We've all changed some, thanks to you <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-特に何かをした覚えはないけどなあ。
+Really?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-それでいいんですよ。その自然さが、
-<Stahn>さんの魅力です。
+Yes. <Lion>, <Rutee>...and even me too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな風に言われると照れるな。
-でも……ありがとう。
+I don't recall doing anything?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……私は……
+That's okay. It comes natural. It's the <Stahn> charm.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You're making me blush...
+But thank you.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Stahn> I...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-セインガルドのお城が、
-近づいてきましたよ！
+We're approaching
+Seinegald!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おっ、いよいよか。
-<Philia>、見に行こう。
+Well <Philia>, seems like it's time to go.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-え、ええ……そうですね。
+Yes...I see.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-このままじゃやられる……
-どこかに武器はないのか？
+If I keep going like this
+I...I'll need a weapon!
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この様な道を塞ぐ障害物の中には<Circle_ani>で掴み、
-<L+U+R+D_blink>又は<L_stick_Press>で押し引き可能なものがあります。
+<TAG_007>Some obstacles blocking the path like
+this can be grabbed with <Circle_ani> and pushed
+and pulled with <L+U+R+D_blink> or <L_stick_Press>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>目の前の積荷を移動させて
-通路を確保しましょう。
+<TAG_007>Move the cargo in front
+of you to clear the way.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
