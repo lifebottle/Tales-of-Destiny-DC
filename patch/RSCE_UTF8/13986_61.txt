@@ -625,7 +625,7 @@ Hey, do you want to play with me again?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-select
+Race
 [ENDBLOCK]
 Yes
 No
@@ -1246,51 +1246,51 @@ Please take care of her!
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-Welcome! We trade in Lens.
+Welcome! We trade in lens.
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
 Hmm, the company told me not
 to leave this place.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 This city has grown by sucking
 the money out of Seinegald.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 That's what my dad said.
 I'm sure of it.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 He said that this city has developed
 entirely because of Seinegald.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Whoo! Pow!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 You guys did good. 
 I'll tell your dad.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 You're always welcome here.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Hey, you guys, do something about it.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 You guys, please. 
 Please, do something!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Um, let's see...
 Good luck, <x0B><x10><x27><x00><x00>。
@@ -1513,7 +1513,7 @@ You have all the materials.
 
 [ENDBLOCK]
 <TAG_007>Do you want to exchange 
-the materials for <ITEM_Elixir>?
+the materials for the <ITEM_Elixir>?
 
 [ENDBLOCK]
 一つだけ交換する
@@ -1538,8 +1538,8 @@ notice
 いつでも交換できます。
 
 [ENDBLOCK]
-材料がそろいましたら、
-おこしください。
+Please come back when you
+have all the materials.
 
 [ENDBLOCK]
 <ITEM_Elixir>はこれ以上
@@ -1899,7 +1899,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><x00><x98><x80>
+Title:<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><x00><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xFC><x18><x00><x80></color>を取得しました。
 
