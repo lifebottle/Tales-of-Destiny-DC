@@ -22,363 +22,357 @@
 reset---------
 
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-おい金髪、
-おまえの持ってる剣……
+Hey Blondie, that sword you're holding.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-剣……!?
+The sword?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>な、なんだよ!?
-ソーディアンを知っているのか!?
+<TAG_007>What is that?
+You know about Swordians?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ほう、我の事が分かるのか？
-なかなかやるではないか。
+Oh, you can hear me? That's 
+quite a feat, isn't it?
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-……プププ、ダサい。
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-…………
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ふう、良かった。
+phft, lame.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-何も良くないわ！
+...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Phew, that was close.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-バカもの！
-自ら明かすやつがあるか！
+Too close!
 [ENDBLOCK]
-お坊ちゃん
+<Dymlos>
 [ENDBLOCK]
-何だよソーディアンって？
+Idiot! Don't give us away?
 [ENDBLOCK]
-<Stahn>
+Young Man
 [ENDBLOCK]
-え、あ、えーっと……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-そーじまん……だよ。
-[ENDBLOCK]
-お坊ちゃん
-[ENDBLOCK]
-掃除マン？
+What the hell is a Swordian?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-これは剣に見えるけど、
-実は掃除をするための剣なんだ。
+Uh, uh, let's see...
 [ENDBLOCK]
-お坊ちゃん
+<Stahn>
 [ENDBLOCK]
-ほう。なんだか怪しいけど、
-みすぼらしいおまえにはピッタリだ。
+I'm a cleaning guy.
 [ENDBLOCK]
-おじいさん
+Young Man
 [ENDBLOCK]
-あ、あんた<Kongman>じゃろ！
+Cleaning guy?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+This looks like a sword, but 
+it's actually a sword for cleaning.
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+I don't know. It's kind of weird, but
+it's perfect for you, you miserable
+little thing.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Oh, you're <Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おうよ！
+Oh, come on!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>俺様は<Kongman>だ！
-ってなんだじーさんか
+<TAG_007>I'm <Kongman>!
+What's that, old man?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-わしゃ、おまえさんの大ファンなんじゃ。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-そうかそうか。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-<Kongman>、わしゃ死ぬ前に
-あんたに頼みがあるんじゃ。
+I'm a big fan of yours.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんでぇ？
+Oh, I see.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-わしを……わしを殴ってくれ！
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-なんだって？
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-<Kongman>に殴られたとあれば、
-わしゃ、みんなに自慢できる。
+<Kongman>, before I die.
+I have a favor to ask you.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-じいさん、すまねえがそいつは
-できねえなぁ。
+What's that?
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Hit me...! Hit me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様は……俺様のこの拳は
-みんなを守るためにしか使わねぇ。
+Excuse me?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-……そうか。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-……だから！
+If <Kongman> beats me up, I can
+brag about it to everyone.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-もし、あんたに危険が迫った時には
-俺様はこの拳を使う事は遠慮しねえ。
+I'm sorry, Gramps, but
+I can't do that.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-すまねえがそういう事で
-勘弁してくれねえか。
-なあ、じいさん。
+I'm... only going to use this
+fist of mine to protect everyone.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-やっぱりワシらの<Kongman>は
-街のヒーローじゃ！
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-じいさんとはなんだ！
+...I see.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんでぇ、
-怒る事ねえじゃねえか。
+Because it's...?
 [ENDBLOCK]
-姉
+<Kongman>
 [ENDBLOCK]
-お姉ちゃんたちって、
-この街の人？
+If you are in danger, I will not
+hesitate to use this fist.
 [ENDBLOCK]
-<Rutee>
+<Kongman>
 [ENDBLOCK]
-違うわよ。どうして？
+I'm sorry, but that's the way it's
+gonna have to be. Hey, old man.
 [ENDBLOCK]
-姉
+Old Man
 [ENDBLOCK]
-あの私、悩みがあって……
-聞いてもらいたいの。
+After all, our "<Kongman>" is
+the hero of the city!
 [ENDBLOCK]
-<Rutee>
+Old Man
 [ENDBLOCK]
-おお！	乙女の悩みかしら？
-さあさあ、聞かせて！
+Who's an old man.
 [ENDBLOCK]
-姉
+<Kongman>
 [ENDBLOCK]
-うん、それじゃあ聞くけど。
+Why, there's nothing
+to be angry about.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-実はね、私には弟がいるんだけど。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あれ？	まあいいわ。
-うん、それで？
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-この間、パパとママが話しているのを
-聞いちゃったの、それでね……
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-私の弟が
-本当の弟じゃないって……
+Are your sisters from this city?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうなんだ……
+No, you're not. Why not?
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+I have a problem and I
+need you to listen.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それじゃあ、あたしも
-ちゃんと答えるわね。
+Oh!	Is this a damsel in distress?
+Come on, come on, let's hear it!
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Yeah, I'll get on with it then.
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Actually, you know, I have
+a younger brother too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-もしあなたと弟の血が
-繋がっていなくても弟は弟よ。
+Huh? Well, okay. Yeah, so?
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-よくわからない。
+I overheard my mom and dad talking
+about it the other day, so...
 [ENDBLOCK]
-<Rutee>
+Older Sister
 [ENDBLOCK]
-へへん。
-難しかったでしょ？
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-うん。
+He said my brother isn't
+my real brother.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まっ、今は悩めって事よ！
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-お姉ちゃんの意地わる！
-私、本気で悩んでるのに！
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-お姉ちゃん！
+Oh, yeah...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-大丈夫だった？
-怪我とかは？
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-うん。私も弟も
-大丈夫だった。
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-それと、この間のお姉ちゃんの
-言っていた事が少しわかったの。
+Then I'll answer you properly.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お、優等生じゃない。
+Even if it's not by blood, 
+he is still your brother.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-私、モンスターから逃げている時、
-自分よりも弟が心配だったの。
-[ENDBLOCK]
-姉
-[ENDBLOCK]
-これって私たちが本物の
-姉弟っていう事じゃない？
+I'm not sure.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん、そうね。
+Heh. That was hard, wasn't it?
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あなたが悩んでいた
-血のつながりなんて関係ないでしょ？
+Well, I guess I'll just have to
+worry about that now!
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-うん！
+You are so mean!
+I'm really worried about you!
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-ありがとうお姉ちゃん！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-どういたしまして！
+Hey sis!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-仲良くやりなさいよ！
+Are you okay? Are you
+hurt or anything?
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Yeah. My brother and I were fine.
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Also, I found out a little more about
+what you were saying the other day.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Oh, I'm not an honors student.
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+I was more worried about my brother
+than myself when I was running from
+the monster.
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Doesn't this mean 
+we're really family.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, I guess so.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+It doesn't matter what blood ties
+you were worried about, does it?
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Yeah!
+[ENDBLOCK]
+Older Sister
+[ENDBLOCK]
+Thank you sis.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+You're welcome!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Get along, you two!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたはカルバレイスの人ですか？
+Are you from Calvalese?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-ああ、そうじゃ。
-……小声にせんでもいいぞ。
+Yeah, that's right. You
+don't have to whisper.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-どうしたのじゃ？
-わしを笑いにでも来たのか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-いえ、実はですね……
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-そうか……
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-忘れておったよ。他のやつらは、
-世界中で頑張っておるのか。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-よし。わしの気持ちを
-受け取ってくれ。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-大したものじゃないが、
-許してくれ。
+What's the matter with you? 
+Have you come to make fun?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます！
+Actually, no.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-わしも、あの頃の気持ちで、
-もう一度頑張ってみるさ。
+Okay...
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-そうじゃ。わしの知り合いが、
-アクアヴェイルにおるぞ。
+I forgot about that. The others 
+are working hard all over the 
+world, aren't they?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-あいつは本当に頑張り屋だったから、
-案外、アクアヴェイルで成功しておるかもな。
+Alright. Please accept my apology.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-気をつけてな！
+It's not much, but forgive me.
 [ENDBLOCK]
-おじいさん
+<Stahn>
 [ENDBLOCK]
-わしの知り合いが、
-アクアヴェイルにおるぞ。
+No worries!
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-あいつは本当に頑張り屋だったから、
-案外、アクアヴェイルで成功してるかもな。
+I'm going to try to do my best again
+with the same feelings I had back then.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+That's right. I have an
+acquaintance in Aquaveil.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+He was a real go-getter, so maybe
+he'll make it in Aquaveil.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Be careful!
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+I have a friend in Aquaveil.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+He was a real go-getter, so maybe
+he'll make it in Aquaveil.
 [ENDBLOCK]
 周回：<x17><x66><x14><x3B><x70><xAB><x80>
 
@@ -430,134 +424,134 @@ select
 ●●残量メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-一番まともそうだから、
-お兄ちゃんが勝負してよね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-うん、わかったけど、
-この人は？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-私はこの街に住む金持ち。
-この勝負のスポンサーです。
+You seem to be the most decent one,
+so you should be the one to win,
+big brother?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-スポンサー？
-なんですか、それ？
+Yeah, okay, but who is this guy?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-まあ、分かりやすく言うと、
-勝った方に商品を提供する人間です。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-へぇーでもどうして？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-まあ、金持ちになると
-暇ですから。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-ほらほら、もういいでしょ。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-このあとどうするかは
-お兄ちゃんが決めていいよ。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-コースは複雑だから、
-しっかり覚えてね。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-勝負するのはお兄ちゃんでいいんだね？
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-ああ、構わない。
-ところでこの男はなんだ？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-私はこの街に住む金持ち。
-この勝負のスポンサーです。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-スポンサー？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-ええ。分かりやすく言うと、
-勝った方に商品を提供する人間ですね。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-なぜ、こんなかけっこ程度に資金を提供する。
-目的はなんだ？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-ははは、目的なんてありません。
-金持ちになって暇なだけですよ。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-ほらほら、もういいでしょ。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-このあとどうするかは
-お兄ちゃんが決めていいよ。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-コースは複雑だから、
-しっかり覚えてね。
-[ENDBLOCK]
-少年
-[ENDBLOCK]
-コースもやり方も
-前までと一緒だからね。
+I am a rich man who lives in this city.
+I am the sponsor of this game.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、わかった。
+Sponsor? What's that?
 [ENDBLOCK]
-少年
+Man
 [ENDBLOCK]
-今日は……本気だよ。
+Well, to put it plainly, I am a person 
+who provides products to the winner.
 [ENDBLOCK]
-少年
+<Stahn>
 [ENDBLOCK]
-さあ、決めていいよ。
+Wow, but why?
 [ENDBLOCK]
-少年
+Man
 [ENDBLOCK]
-コースもやり方も
-前までと一緒だからね。
+Well, when you're rich, you have
+a lot of time on your hands.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Come on, come on, that's enough.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You can decide what to do 
+after this, big brother.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The course is complicated,
+so learn it well.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You're sure it's your brother
+you want to play with?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと、始めようじゃないか。
+Yeah, no problem. What's 
+this Man thing anyway?
 [ENDBLOCK]
-少年
+Man
 [ENDBLOCK]
-今日は……僕も本気だよ。
+I am a rich man who lives in this city.
+I am the sponsor of this game.
 [ENDBLOCK]
-少年
+<Lion>
 [ENDBLOCK]
-さあ、決めていいよ。
+Sponsor?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Well, to put it plainly, I am a person 
+who provides products to the winner.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Why are we funding this kind of
+minigame? What's the purpose?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Haha, I don't have a purpose.
+I'm just rich and bored.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Come on, come on, that's enough.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You can decide what to do
+after this, big brother.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The course is complicated,
+so learn it well.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The course and the way we do
+things are the same as before.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, I got it.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I'm serious about...today.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Come on, you can decide.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The course and the way we do
+things are the same as before.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Let's get started, shall we?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Today... I'm serious, too.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Come on, you can decide.
 [ENDBLOCK]
 	・コースデータの設定
 
@@ -598,176 +592,173 @@ select
 	・マッハ少年の初期化
 
 [ENDBLOCK]
-select
+Quit
 [ENDBLOCK]
-リタイア
-続ける
+Yes
+No
 
 [ENDBLOCK]
-あれれ、もうやめちゃうの？
+Oh, my God, you're quitting?
 [ENDBLOCK]
-やっぱ、僕には勝てないよね、ね！
+I knew you couldn't beat me, you know!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-どうしたの？
-もう一回かけっこする？
+What is it? Do you 
+want to play again?
 [ENDBLOCK]
-どうしたの？
-もう一回かけっこする？
+What is it? Do you 
+want to play again?
 [ENDBLOCK]
-まだかけっこするの？
+Are you still going to play?
 [ENDBLOCK]
-まだかけっこするの？
+Are you still going to play?
 [ENDBLOCK]
-僕はこの街で一番
-足が速いんだよ。
+I'm the fastest man in the city.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-ねえねえ、僕と
-かけっこ勝負しない？
+Hey, hey, hey! Do you want
+to run a race with me?
 [ENDBLOCK]
-ねえ、もう一度僕と勝負しない？
+Hey, do you want to play with me again?
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 select
 [ENDBLOCK]
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-じゃあ僕に付いてきて。
+Follow me.
 [ENDBLOCK]
-じゃあ僕に付いてきて。
+Follow me.
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-なんだつまんないな。
+What a boring thing to do.
 [ENDBLOCK]
-あっそ、じゃあいいや。
+Oh, no, that's okay then.
 [ENDBLOCK]
-なんだつまんないな。
+What a boring thing to do.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 先ほどまでの先頭：<x17><x69><x44><x29><x80>
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-勝負開始！
-コースの説明を聞く
-勝負をやめる
+Begin
+List to Course Description
+Quit the Game
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-なんだあ残念。
+What a shame.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-なんだあ残念。
+What a shame.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ふーん逃げるんだ……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-勝負は二周で争われます。
+The game is raced over two laps.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-位置について、よーい。
+Get in position, okay.
 [ENDBLOCK]
-スタート
+Start
 [ENDBLOCK]
-ゴール！
+Finish!
 [ENDBLOCK]
 □□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won. 
+Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won. Please take this one.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お兄ちゃん速すぎだよー。
+You're too fast, big brother!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won. Please take this one.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-僕が負けたの……？
+Did I lose...?
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-でもお兄ちゃんも頑張ったからね。
-勝ちを譲るよ。
+But you did your best, too, big
+brother. I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won. Please
+take this one.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お兄ちゃん速すぎー。
+You're too fast, big brother!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-でも、次は負けないからね！
+But next time, I won't lose!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-かならずまた来てねー。
+Please come back again, for sure.
 [ENDBLOCK]
-ゴール……
+Finished...
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-やったー僕の勝ち!!
+Yay, I win!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お兄ちゃんの負けー。
+You lost.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-どうする？
-もう何回でも相手したげるよ。
+What do you say? I'll race you
+as many times as you want.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-やったー、やっぱり僕の方が速い!!
+Yay, I'm faster than you!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お兄ちゃん遅いー。
+Too slow, big brother.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-どうする？
-もう何回でも相手したげるよ。
+What do you say? I'll race you
+as many times as you want.
 [ENDBLOCK]
 ----- 敗北 -----
 
@@ -859,7 +850,7 @@ select
 メッセージ再生
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 旅人
 [ENDBLOCK]
@@ -920,32 +911,32 @@ select
 絶対にみんな、
 彼と勘違いするはずさ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
 ねえ、あの元気な人の、
-お姉さんは見つかったの？
+おOlder Sisterさんは見つかったの？
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
 [ENDBLOCK]
-若い男
+若いMan
 [ENDBLOCK]
 一体、どんな女の子かな……
 乙女な感じだといいなあ。
 [ENDBLOCK]
-若い男
+若いMan
 [ENDBLOCK]
 あれ！	もしかして君が!?
 [ENDBLOCK]
@@ -962,12 +953,12 @@ select
 [ENDBLOCK]
 あの、どこかでお会いしましたか？
 [ENDBLOCK]
-若い男
+若いMan
 [ENDBLOCK]
 なんだぁ、違うのか……
 ごめん、人違いだったみたい。
 [ENDBLOCK]
-若い男
+若いMan
 [ENDBLOCK]
 あ、もしかして！
 [ENDBLOCK]
@@ -997,7 +988,7 @@ select
 [ENDBLOCK]
 それで<Philia>と、間違えたのか。
 [ENDBLOCK]
-若い男
+若いMan
 [ENDBLOCK]
 じゃー、僕たちも
 どこかでゆっくりしようか。
@@ -1036,12 +1027,12 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ぎゃ、逆に男性は過去の事を
+ぎゃ、逆にMan性は過去の事を
 い、いつまでも引きずるそうですわ。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-こ、この男性の行動は通説的には
+こ、このMan性の行動は通説的には
 じょ、女性に嫌わ……
 [ENDBLOCK]
 <Stahn>
@@ -1160,355 +1151,369 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>街のシンボルである噴水。
-住人の憩い場となっている。
+<TAG_005>The fountain is the symbol of the city.
+It is a place for residents to relax.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ノイシュタット新規事業者募集。
-詳細はオベロン社までお問い合わせ下さい。
+<TAG_005>Neuestadt New Business Opportunities. 
+For more information, please contact Oberon.
 [ENDBLOCK]
-ダミーショップ配置
+Store Placeholder
 [ENDBLOCK]
-<TAG_007>食材屋：満腹亭
-道具屋：ギブアンドテイク
-武器屋：アーケディア
-防具屋：ディフェレイド
-装飾屋：銀の糸
-オベ社：西大陸支店
+<TAG_007>Food shop: Manpuku-tei
+Toolmaker: Give and Take
+Weapon Shop: Arcadia
+Armor Shop: Deferent
+Accessory Shop：Silver Thread
+Oberon Company: West Continent Branch
 
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-ここはフィッツガルドの中心都市、
-ノイシュタットです。
+This is Neuestadt, the 
+central city of Fitzgald.
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-これは一体何の騒ぎなんですの！？
+What in the world is all
+of the commotion. 
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-あなたは闘技場の……
-ええと、コングガイさん？
+Are you the, uh...
+Kong Guy from the arena?
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-空に色々な物が浮かんでいるせいか、
-このところ日がかげりがちですね。
+Maybe it's because floating land
+in the sky, but the sun tends to
+shade out these days.
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-とうとう日の光が、
-完全に遮断されましたね……
+Daylight has finally been
+completely cut off.
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-よく来てくださいました！
-どうかこの街をお救いください！
+Thank you for coming! 
+Please save this city!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-どうです？	美しい町並みでしょう。
+What do you think?	Isn't
+it a beautiful town?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-今やこの街の繁栄ぶりは、
-ダリルシェイドにも負けませんよ。
+The prosperity of this city is
+nowhere near as great as Darilsheid.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-どうです？	美しい町並みでしょう。
+What do you think?	Isn't
+it a beautiful town?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-あの武装船団はどこの勢力ですか！
-街がめちゃめちゃにされてしまう！
+What force is that armed fleet?!
+They're gonna tear the city apart!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-か、金ならいくらでも出します。
-武装船団をなんとかして下さい！
+I'll pay you anything you want. Please
+do something about the armed fleet!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-マイティ！	マイティ！
-……はっ、私とした事が。
+Mighty!	Mighty! ...haha,
+that's what I did.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-いつこの街も、
-攻撃を受けるかわかりませんね……
+I don't know when this city
+will be attacked.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-もはや万事休すなのでしょうか……
+Is it all over now?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-マイティ！	マイティ！
-どうかよろしく頼みます！
+Mighty!	Mighty!
+Please take care of her!
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
-いらっしゃいませ！
-レンズの換金を承ります！
+Welcome! We trade in Lens.
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
-え～ん、会社からここを
-離れるなって言われました。
+Hmm, the company told me not
+to leave this place.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-セインガルドの金を吸い取って、
-この街は発展したんだよ。
+This city has grown by sucking
+the money out of Seinegald.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-うちのパパがそう言ってたんだ。
-間違いないよ。
+That's what my dad said.
+I'm sure of it.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-この街が発展したのは、
-全部セインガルドのお陰だってさ。
+He said that this city has developed
+entirely because of Seinegald.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-うわーん！	パパー！
+Whoo! Pow!
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-おまえら、よくやったな。
-パパに言っといてやるよ。
+You guys did good. 
+I'll tell your dad.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-おまえなら、いつでも
-歓迎してやるぞ。
+You're always welcome here.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-おいおまえら、なんとかしろよ。
+Hey, you guys, do something about it.
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-おまえら、頼むよ。
-お願いだからなんとかしてよ！
+You guys, please. 
+Please, do something!
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
-あの、えっと……
-がんばれ、<x0B><x10><x27><x00><x00>。
+Um, let's see...
+Good luck, <x0B><x10><x27><x00><x00>。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-この街に元から住んでいる者たちは、
-どうも品位に欠けますな。
+The original inhabitants of this city
+are not very dignified.
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-ひいい、助けてっ！
+Oh, my God, help me!
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-なんだモンスターじゃないのか。
+What, you're not a monster?
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-野蛮な奴らめを、
-こらしめてやってください！
+Let's see what you can
+do to these savages!
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-街の平和を守ったのは、
-あんな野蛮な筋肉男ではないのに。
+Wasn't it that savage Muscle
+Man who kept the peace in the city.
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-空から攻撃を受けてしまったら、
-街のどこにいても同じでしょうな。
+If we were attacked from above,
+it would be the same no matter 
+where we were.
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-人類は滅びるしかないんでしょうか。
+Will humanity have no choice
+but to perish?
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-この街に元から住んでいた者たちと
-協力し合う日が来るとは。
+I never thought the day would come
+when I would be working with the 
+original inhabitants of this city.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-この街が急速に発展したのは、
-オベロン社の功績ですわ。
+The Oberon Corporation is responsible
+for the rapid growth of this city.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-子供とはぐれてしまいました。
-無事だといいのだけれど……
+I got separated from my 
+Child. I hope he's okay.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-あのならず者たちを手引きしたのは、
-この街の誰かかもしれませんよ。
+It might be someone from this city
+who guided those ruffians.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-オベロン社の<Ilene>女史が、
-このところ姿を見せないんですよ。
+Ms. <Ilene> from Oberon hasn't
+been around for a while.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-以前武装船団に襲われた時よりも、
-今回の方が不安になります。
+I'm more worried this time than
+I was when we were attacked by
+an armed fleet before.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-青い空がなつかしいですわね……
+I miss the blue sky.
 [ENDBLOCK]
-母親
+Woman
 [ENDBLOCK]
-娘ともう一度、日の光の下を
-歩ける日が来るといいのですが。
+I hope one day I can walk in the
+sunshine with my daughter again.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-アイスキャンディーって知ってる？
-この街の名物よ。
+Do you know what Softy Kreem is?
+It's a specialty of this town.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-ママー！
+Mom! Mom!
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-<Kongman>が街を守ったっていうと、
-ママの機嫌が悪くなるの。
+Whenever I tell her that <Kongman> has 
+saved the city, she gets in a bad mood.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-オベロン社に文句をいう人が、
-このところ急に増えたんだって。
+He said that the number of people 
+complaining about Oberon has suddenly 
+increased.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-空に影が出てきたわ。
+There's a shadow in the sky.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-お外がずっと夜だったら、
-日焼けしないで済むかな？
+If it's nighttime outside all the time,
+I'll be able to avoid getting sunburned?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-お外はいつ元に戻るの？
+When will things be back to
+normal outside?
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-宝石はいかがでしょうか？
-品揃えには自信がありますよ。
+How about some jewelry? We are
+confident in our selection.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-武装船を追いかける皆さんですね。
-是非、当店でお買い物を。
+You are all in pursuit of an armed
+ship. Please depend on our store.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-当店はいつでも営業中です！
+Our store is always open!
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-気候が良くて、物がいっぱいあって。
-この街は住むのに最高ですわね。
+The climate is great, and there
+is so much to do. This city is a
+great place to live.
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-今回の事を機に、住人同士が、
-少しでも仲良くなれるといいですね。
+I hope this will be a good opportunity
+for the residents to get to know each 
+other a little better.
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-貧富の差はますます広がり、
-オベロン社への風当たりが強くなりました。
+The gap between the rich and the
+poor grew wider, and the wind was
+blowing harder against Oberon.
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-<Ilene>さんも落胆しているでしょうね。
+I'm sure <Ilene> is disappointed.
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-こんな時こそ、住人同士の結束が
-必要なのに……
+It's times like these that we
+need to unite 
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-<Ilene>さんがいなければ、
-それも難しいでしょうね。
+Without <Ilene> that
+would be difficult.
 [ENDBLOCK]
-おばあさま
+Old Woman
 [ENDBLOCK]
-下町の住人と協力しているところを、
-<Ilene>さんにも見せたかったです。
+I wanted to show <Ilene> that I was
+working with the residents of the
+downtown area.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-ノイシュタットを出て北へ行くと、
-リーネってちっぽけな村があるぞ。
+If you go north out of Neuestadt, 
+there's a little village called Lienea.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-こんな非常時に、
-話しかけるでない！
+Don't talk to me in an
+emergency like this!
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-やっぱり<Kongman>は頼れるのお。
-マイティ！	マイティ！
+I knew I could count on Kongman.
+Mighty!	Mighty!
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-わしの提出したレンズも
-必ず使ってくだされ。
+Please be sure to use
+the lens I donated.
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 あの太陽に向かってゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えなくなってもゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えるようにゴーだ！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-こいつと駆け足競争をしてみろよ。
-ただの子供だと思ってると、痛い目見るぜ。
+You should have a race with him. 
+If you think he's just a kid,
+you're in for a world of hurt.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-こんな状況で賭け事をやるのかって？
-こんな状況だからやるんだよ。
+You're asking me if I'm going
+to gamble in this situation?
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、
-<ITEM_067>、<ITEM_068>、
-<ITEM_069>をお持ちでしょうか？
+<ITEM_065>,<ITEM_066>, <ITEM_067>,
+<ITEM_068>, <ITEM_069>. Do you have
+everything?
 [ENDBLOCK]
-全てを準備して頂き、お持ちくだされば、
-それらを調合して<ITEM_Elixir>を
-お渡しします。
+If you have everything ready and 
+bring it with you, we will mix them
+and give you <ITEM_Elixir>.
 [ENDBLOCK]
-材料がそろっていますね。
+You have all the materials.
 
 [ENDBLOCK]
-<TAG_007>材料と<ITEM_Elixir>を交換しますか？
+<TAG_007>Do you want to exchange 
+the materials for <ITEM_Elixir>?
 
 [ENDBLOCK]
 一つだけ交換する
@@ -1591,7 +1596,7 @@ notice
 [ENDBLOCK]
 も、申し訳ありません……
 [ENDBLOCK]
-男の人
+Manの人
 [ENDBLOCK]
 大変だ！	誰かが闘技場のモンスターを、
 解き放ったぞ！
