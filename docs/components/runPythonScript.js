@@ -14,7 +14,7 @@ const runPythonScript = (pythonFile, args) => {
     mode: "text",
     pythonPath: process.env.NEXT_PUBLIC_PYTHON_PATH || null,
     pythonOptions: [],
-    //scriptPath: scriptPath,
+    scriptPath: process.env.NEXT_PUBLIC_PYTHON_SCRIPTS_PATH || null,
     args: args,
   };
 

@@ -106,6 +106,19 @@ def getHeader(pathTable):
     
     return headerTxt
 
+def getHex(text):
+    
+    path = r"G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code"
+    
+    dfTbl = pd.read_table(os.path.join(path, "abcde", "toddc.tbl"), encoding="utf-8", index_col=False)
+    
+    with open(os.path.join(path, "abcde", "toddc.tbl"), encoding="utf-8", mode="r") as tblfile:
+        lines=tblfile.readlines()
+        
+        
+    
+
+
 def getSpaceOccupied(textList):
     firstNb = int( textList[-1].split("\n")[0].replace("//Text $",""), 16)
     lastNb  = int( textList[0].split("\n")[0].replace("//Text $",""), 16)
@@ -130,19 +143,19 @@ def createBlock(dataItems, blockId):
     blockText = ""
     blockText += jumpText
     for sectionId, sectionDesc, googleId in sectionsList:
-        print(sectionDesc)
+        
         if googleId != "":
-            
+            print(sectionDesc)
             #Grab the text from google sheet
             originalTextList, translatedTextList = getGoogleSheetTranslation(gc, googleId, sectionDesc)
             
             #Print Stats about space
-            originalSpace = getSpaceOccupied(originalTextList)
-            finalSpace = getSpaceOccupied(translatedTextList)
+            #originalSpace = getSpaceOccupied(originalTextList)
+            #finalSpace = getSpaceOccupied(translatedTextList)
             #print("Original space: {}     Final space: {}".format(originalSpace, finalSpace))
-            
+
             blockText += "//Section {}\n\n".format(sectionDesc)
-            blockText += "\n".join(translatedTextList)
+            blockText += "\n".join(translatedTextList).replace("\r","")
         
     return block['BlockDesc'], blockText
 
@@ -195,8 +208,8 @@ def updateBlock(blockId, SLPSName):
     reinsertText_Block(blockId, SLPSName)
 
 
-#googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
-#fileName = 'TODDC_Item_Key_Dump_cleaned.txt'
+#googleId = '1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM'
+#fileName = 'TODDC_Hidden_Dump_cleaned.txt'
 #finalList = parseText(fileName)
 #writeColumn(finalList, googleId)
     

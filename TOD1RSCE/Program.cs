@@ -61,9 +61,9 @@ namespace sceWork
             }
             else
             {
-                Console.WriteLine("TOD1RSCE Module Clone v0.3");
-                Console.WriteLine("Decompiled by Peter Nguyen");
-                Console.WriteLine("I have no idea what I am doing.\n");
+                Console.WriteLine("TOD1RSCE Module Decompiled Clone v0.3");
+                Console.WriteLine("Generously donated by Temple of Tales Translations team");
+                Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
                 Console.WriteLine("    extract : .exe -e *.tod1rsce");
                 Console.WriteLine("    extract : .exe -e *.tod1rsce4");

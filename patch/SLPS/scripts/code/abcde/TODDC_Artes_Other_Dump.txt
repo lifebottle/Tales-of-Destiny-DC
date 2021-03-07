@@ -1,0 +1,3615 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+
+#JMP($19D388)
+//Section Hidden Artes
+
+//Text $19D370
+#WRITE(ptr,$184788)
+[Sign_6]Prism Shine[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184790)
+※敵用[LINE]
+[END]
+
+//Text $19D358
+#WRITE(ptr,$1847A8)
+[Sign_6]Stop Flow[END]
+
+//Text $19D310
+#WRITE(ptr,$1847B0)
+Stops enemy movement for 3 seconds.[LINE]
+Don't waste it.[END]
+
+//Text $19D2F8
+#WRITE(ptr,$1847C8)
+[Sign_6]Ambivalence[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1847D0)
+※敵用[LINE]
+[END]
+
+//Text $19D2E0
+#WRITE(ptr,$1847E8)
+[Sign_6]Black Wing[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1847F0)
+※敵用[LINE]
+[END]
+
+//Text $19D2C0
+#WRITE(ptr,$184808)
+[Sign_6]Demon's Lance Zero[END]
+
+//Text $19D280
+#WRITE(ptr,$184810)
+Throws the forbidden spear of[LINE]
+a demon god. Grants 10 iron stance.[END]
+
+//Text $19D268
+#WRITE(ptr,$184828)
+[Sign_6]Spoil Weapon[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184830)
+※敵用[LINE]
+[END]
+
+//Text $19D250
+#WRITE(ptr,$184848)
+[Sign_6]Spoil Armor[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184850)
+※敵用[LINE]
+[END]
+
+//Text $19D238
+#WRITE(ptr,$184868)
+[Sign_6]Spoil Mind[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184870)
+※敵用[LINE]
+[END]
+
+//Text $19D220
+#WRITE(ptr,$184888)
+[Sign_6]Spoil Resist[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184890)
+※敵用[LINE]
+[END]
+
+//Text $19D208
+#WRITE(ptr,$1848A8)
+[Sign_6]Archangel[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848B0)
+※敵用[LINE]
+[END]
+
+//Text $19D1E8
+#WRITE(ptr,$1848C8)
+[Sign_6]Seraphic Feathers[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848D0)
+※敵用[LINE]
+[END]
+
+//Text $19D1D0
+#WRITE(ptr,$1848E8)
+[Sign_6]Hatred[END]
+
+//Text $19D8A0
+#WRITE(ptr,$1848F0)
+※敵用[LINE]
+[END]
+
+//Text $19D1C0
+#WRITE(ptr,$184908)
+[Sign_7]Regal Phoenix[END]
+
+//Text $19D1A8
+#WRITE(ptr,$18490C)
+[END]
+
+//Text $19D158
+#WRITE(ptr,$184910)
+[turquoise]＜Consume 1 Bar[L1_copy][turquoise]Press＞[/color][LINE]
+Burn like a phoenix, scorching foes.[END]
+
+//Text $19D148
+#WRITE(ptr,$184928)
+[Sign_7]Final Fury[END]
+
+//Text $19D130
+#WRITE(ptr,$18492C)
+[END]
+
+//Text $19D0E0
+#WRITE(ptr,$184930)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A rush of fiery slashes.[END]
+
+//Text $19D0D0
+#WRITE(ptr,$184948)
+[Sign_7]Blazing Apocalypse[END]
+
+//Text $19D0B8
+#WRITE(ptr,$18494C)
+[END]
+
+//Text $19D060
+#WRITE(ptr,$184950)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+His eternal flame scorches all.[END]
+
+//Text $19D048
+#WRITE(ptr,$184968)
+[Sign_7]Trickster[END]
+
+//Text $19CFF0
+#WRITE(ptr,$184970)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Slashes quickly to steal gald.[END]
+
+//Text $19CFD0
+#WRITE(ptr,$184988)
+[Sign_7]Life Discharge[END]
+
+//Text $19CF78
+#WRITE(ptr,$184990)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Call upon a miracle to fully heal the party.[END]
+
+//Text $19CF60
+#WRITE(ptr,$1849A8)
+[Sign_7]Final Embrace[END]
+
+//Text $19CF10
+#WRITE(ptr,$1849B0)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A cold embrace that brings death.[END]
+
+//Text $19CEF0
+#WRITE(ptr,$1849C8)
+[Sign_7]Sacred Penance[END]
+
+//Text $19CE98
+#WRITE(ptr,$1849D0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A divine light to pass judgement on the wicked.[END]
+
+//Text $19CE80
+#WRITE(ptr,$1849E8)
+[Sign_7]Divine Power[END]
+
+//Text $19CE28
+#WRITE(ptr,$1849F0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Four elemental artes unleashed in succession.[END]
+
+//Text $19CE08
+#WRITE(ptr,$184A08)
+[Sign_7]Heavenly Crusader[END]
+
+//Text $19CDB0
+#WRITE(ptr,$184A10)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Call upon the lightning of judgement.[END]
+
+//Text $19CDA0
+#WRITE(ptr,$184A28)
+[Sign_7]Azure Wave[END]
+
+//Text $19CD88
+#WRITE(ptr,$184A2C)
+[END]
+
+//Text $19CD30
+#WRITE(ptr,$184A30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A vacuum wave that pierces foes.[END]
+
+//Text $19CD20
+#WRITE(ptr,$184A48)
+[Sign_7]Radiant Vortex[END]
+
+//Text $19CD08
+#WRITE(ptr,$184A4C)
+[END]
+
+//Text $19CCB0
+#WRITE(ptr,$184A50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Slices foes with a vortex of wind.[END]
+
+//Text $19CCA0
+#WRITE(ptr,$184A68)
+[Sign_7]Terminal Flash[END]
+
+//Text $19CC90
+#WRITE(ptr,$184A6C)
+[END]
+
+//Text $19CC30
+#WRITE(ptr,$184A70)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Breaks his limiters to protect his comrades.[END]
+
+//Text $19CC20
+#WRITE(ptr,$184A88)
+[Sign_7]Cleansing Inferno[END]
+
+//Text $19CC08
+#WRITE(ptr,$184A8C)
+[END]
+
+//Text $19CBB0
+#WRITE(ptr,$184A90)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Flames that purify good and evil.[END]
+
+//Text $19CBA0
+#WRITE(ptr,$184AA8)
+[Sign_7]Infernal Suffering[END]
+
+//Text $19CB88
+#WRITE(ptr,$184AAC)
+[END]
+
+//Text $19CB28
+#WRITE(ptr,$184AB0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Converts all his power to obliteration.[END]
+
+//Text $19CB10
+#WRITE(ptr,$184AC8)
+[Sign_7]Wild Geese[END]
+
+//Text $19CAB8
+#WRITE(ptr,$184AD0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+The peak of archery: Rampant shooting.[END]
+
+//Text $19CAA0
+#WRITE(ptr,$184AE8)
+[Sign_7]Layer Sphere[END]
+
+//Text $19CA48
+#WRITE(ptr,$184AF0)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+His song becomes the star of the show.[END]
+
+//Text $19CA38
+#WRITE(ptr,$184B08)
+[Sign_7]Slash![END]
+
+//Text $19CA30
+#WRITE(ptr,$184B0C)
+[END]
+
+//Text $19C9D8
+#WRITE(ptr,$184B10)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A single cut, executed with vigor.[END]
+
+//Text $19C9C0
+#WRITE(ptr,$184B28)
+[Sign_7]Thunder Sword[END]
+
+//Text $19C960
+#WRITE(ptr,$184B30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Unleash the sword of thunder.[END]
+
+//Text $19C948
+#WRITE(ptr,$184B48)
+[Sign_7]Gozza Blow[END]
+
+//Text $19C8F0
+#WRITE(ptr,$184B50)
+[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+His series of punches spells a death sentence.[END]
+
+//Text $19C8E0
+#WRITE(ptr,$184B68)
+[Sign_7]Burning Phoenix[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184B70)
+※未修得[LINE]
+[END]
+
+//Text $19C8D0
+#WRITE(ptr,$184B88)
+[Sign_7]Heavenward Thrust[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184B90)
+※未修得[LINE]
+[END]
+
+//Text $19C898
+#WRITE(ptr,$184BA8)
+[Sign_7]Don't use the system![END]
+
+//Text $19C888
+#WRITE(ptr,$184BB0)
+※バル専用[LINE]
+[END]
+
+//Text $19C870
+#WRITE(ptr,$184BC8)
+[Sign_7]メルティアス[END]
+
+//Text $19C860
+#WRITE(ptr,$184BD0)
+※ミク専用[LINE]
+[END]
+
+//Text $19C850
+#WRITE(ptr,$184BE8)
+[Sign_7]森羅爆砕[END]
+
+//Text $19C840
+#WRITE(ptr,$184BEC)
+Gaia's Fury[END]
+
+//Text $19C7E8
+#WRITE(ptr,$184BF0)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Slaughter all foes in range.[END]
+
+//Text $19C7D8
+#WRITE(ptr,$184C08)
+[Sign_7]Icy Petal[END]
+
+//Text $19C7C0
+#WRITE(ptr,$184C0C)
+[END]
+
+//Text $19C770
+#WRITE(ptr,$184C10)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A flower of ice blooms on the battlefield.[END]
+
+//Text $19C758
+#WRITE(ptr,$184C28)
+[Sign_7]Sonic Stream[END]
+
+//Text $19C700
+#WRITE(ptr,$184C30)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+A shock wave that engulfs many foes.[END]
+
+//Text $19C6E8
+#WRITE(ptr,$184C48)
+[Sign_7]Tres Bien Hip[END]
+
+//Text $19C690
+#WRITE(ptr,$184C50)
+[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Uses his hips to pound foes down.[END]
+
+//Text $19C670
+#WRITE(ptr,$184C68)
+[Sign_7]Raining Orion[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184C70)
+※未修得[LINE]
+[END]
+
+//Text $19C650
+#WRITE(ptr,$184C88)
+[Sign_7]Surviving Hollin[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184C90)
+※未修得[LINE]
+[END]
+
+//Text $19C630
+#WRITE(ptr,$184CA8)
+[Sign_7]Celestial Earth[END]
+
+//Text $1A07E8
+#WRITE(ptr,$184CB0)
+※未修得[LINE]
+[END]
+
+//Text $19C620
+#WRITE(ptr,$184CC8)
+[Sign_5]Frigid Moon[END]
+
+//Text $19C608
+#WRITE(ptr,$184CCC)
+[END]
+
+//Text $19C5B8
+#WRITE(ptr,$184CD0)
+Carve a frozen moon, then shatter it[LINE]
+with a slice.[END]
+
+//Text $19C5A8
+#WRITE(ptr,$184CE8)
+[Sign_5]Rending Quake[END]
+
+//Text $19C590
+#WRITE(ptr,$184CEC)
+[END]
+
+//Text $19C548
+#WRITE(ptr,$184CF0)
+An arte for those who survived death.[LINE]
+His overflowing spirit shakes the earth.[END]
+
+//Text $19C538
+#WRITE(ptr,$184D08)
+[Sign_5]Focus[END]
+
+//Text $19C520
+#WRITE(ptr,$184D0C)
+[END]
+
+//Text $19C4D0
+#WRITE(ptr,$184D10)
+Increase accuracy and restores HP.[LINE]
+More effective at the end of an arte chain.[END]
+
+//Text $19C4C0
+#WRITE(ptr,$184D28)
+[Sign_5]Awakened Dragon[END]
+
+//Text $19C4A8
+#WRITE(ptr,$184D2C)
+[END]
+
+//Text $19C478
+#WRITE(ptr,$184D30)
+Trace an arcing slash that absorbs[LINE]
+the target's HP.[END]
+
+//Text $19C460
+#WRITE(ptr,$184D48)
+[Sign_7]Infernal Demon Fang[END]
+
+//Text $19C448
+#WRITE(ptr,$184D4C)
+[END]
+
+//Text $19C3E8
+#WRITE(ptr,$184D50)
+[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]
+Gathers all his power into a single blow.[END]
+
+//Text $19C3D0
+#WRITE(ptr,$184D68)
+[Sign_5]Earth Beat[END]
+
+//Text $19C3C8
+#WRITE(ptr,$184D70)
+[LINE]
+[END]
+
+//Text $19C3B0
+#WRITE(ptr,$184D88)
+[Sign_6]デッドブルー[END]
+
+//Text $19C398
+#WRITE(ptr,$184D90)
+※ゲーム未使用[LINE]
+[END]
+
+//Text $19C380
+#WRITE(ptr,$184DA8)
+[Sign_5]Devil's Spear[END]
+
+//Text $19C3C8
+#WRITE(ptr,$184DB0)
+[LINE]
+[END]
+//Section Artes
+
+//Text $1A0F90
+#WRITE(ptr,$182FE8)
+[Sign_5]Hell Sword[END]
+
+//Text $1A0F80
+#WRITE(ptr,$182FEC)
+[END]
+
+//Text $1A0F38
+#WRITE(ptr,$182FF0)
+Blasts the enemy with an exploding sword.[LINE]
+[Sign_Wing]：Can be activated midair[END]
+
+//Text $1A0F28
+#WRITE(ptr,$183008)
+[Sign_4]Demon Fang[END]
+
+//Text $1A0F18
+#WRITE(ptr,$18300C)
+[END]
+
+//Text $1A0ED0
+#WRITE(ptr,$183010)
+Release a cutting shockwave along the ground.[LINE]
+Can be linked to various actions.[END]
+
+//Text $1A0EC0
+#WRITE(ptr,$183028)
+[Sign_4]Swallow Dance[END]
+
+//Text $1A0EA8
+#WRITE(ptr,$18302C)
+[END]
+
+//Text $1A0E70
+#WRITE(ptr,$183030)
+Strike an enemy with a flurry of spinning kicks.[LINE]
+Effective to foes weak against strike。[END]
+
+//Text $1A0E60
+#WRITE(ptr,$183048)
+[Sign_5]Azure Edge[END]
+
+//Text $1A0E50
+#WRITE(ptr,$18304C)
+[END]
+
+//Text $1A0E18
+#WRITE(ptr,$183050)
+Pummel foes by spawning waves of distortion.[LINE]
+It can penetrate a foe's guard.[END]
+
+//Text $1A0E08
+#WRITE(ptr,$183068)
+[Sign_4]Tempest Strike[END]
+
+//Text $1A0DF8
+#WRITE(ptr,$18306C)
+[END]
+
+//Text $1A0DD0
+#WRITE(ptr,$183070)
+Attack the enemy with spinning slashes.[LINE]
+[END]
+
+//Text $1A0DC0
+#WRITE(ptr,$183088)
+[Sign_4]Omega Tempest[END]
+
+//Text $1A0DA8
+#WRITE(ptr,$18308C)
+[END]
+
+//Text $1A0D80
+#WRITE(ptr,$183090)
+Shear the enemy with a vacuum formed by the spinning blades.[LINE]
+[END]
+
+//Text $1A0D70
+#WRITE(ptr,$1830A8)
+[Sign_4]Tiger Blade[END]
+
+//Text $1A0D60
+#WRITE(ptr,$1830AC)
+[END]
+
+//Text $1A0D30
+#WRITE(ptr,$1830B0)
+Slice the enemy up, then cut them down.[LINE]
+[END]
+
+//Text $1A0D20
+#WRITE(ptr,$1830C8)
+[Sign_5]Dragon Buster[END]
+
+//Text $1A0D10
+#WRITE(ptr,$1830CC)
+[END]
+
+//Text $1A0CE8
+#WRITE(ptr,$1830D0)
+Unleashes a rising burning strike.[LINE]
+[END]
+
+//Text $1A0CD8
+#WRITE(ptr,$1830E8)
+[Sign_5]Severing Wind[END]
+
+//Text $1A0CC8
+#WRITE(ptr,$1830EC)
+[END]
+
+//Text $1A0C88
+#WRITE(ptr,$1830F0)
+An upward slash that pulls in[LINE]
+nearby foes.[END]
+
+//Text $1A0C78
+#WRITE(ptr,$183108)
+[Sign_4]Demonic Tiger Blade[END]
+
+//Text $1A0C60
+#WRITE(ptr,$18310C)
+[END]
+
+//Text $1A0C28
+#WRITE(ptr,$183110)
+A combination of Demon Fang and[LINE]
+Tiger Blade.[END]
+
+//Text $1A0C18
+#WRITE(ptr,$183128)
+[Sign_4]Beast[END]
+
+//Text $1A0C08
+#WRITE(ptr,$18312C)
+[END]
+
+//Text $1A0BC8
+#WRITE(ptr,$183130)
+Down the enemy with the force of[LINE]
+a charging lion.[END]
+
+//Text $1A0BB8
+#WRITE(ptr,$183148)
+[Sign_4]Dragon Swarm[END]
+
+//Text $1A0BA0
+#WRITE(ptr,$18314C)
+[END]
+
+//Text $1A0B70
+#WRITE(ptr,$183150)
+Advance while delivering 4[LINE]
+consecutive slashes.[END]
+
+//Text $1A0B60
+#WRITE(ptr,$183168)
+[Sign_5]Light Spear Blast[END]
+
+//Text $1A0B50
+#WRITE(ptr,$18316C)
+[END]
+
+//Text $1A0B08
+#WRITE(ptr,$183170)
+Light speed thrusts pierce the enemy.[LINE]
+Has light and shoot attributes.[END]
+
+//Text $1A0AF8
+#WRITE(ptr,$183188)
+[Sign_4]Light Spear[END]
+
+//Text $1A0AE8
+#WRITE(ptr,$18318C)
+[END]
+
+//Text $1A0AB8
+#WRITE(ptr,$183190)
+Lift an enemy with a spinning slash, finishing[LINE]
+with a powerful thrust.[END]
+
+//Text $1A0AA8
+#WRITE(ptr,$1831A8)
+[Sign_5]Rising Phoenix[END]
+
+//Text $1A0A98
+#WRITE(ptr,$1831AC)
+[END]
+
+//Text $1A0A50
+#WRITE(ptr,$1831B0)
+Unleash a blazing descent upon an enemy[LINE]
+from on high. Lifts downed enemies.[END]
+
+//Text $1A0A40
+#WRITE(ptr,$1831C8)
+[Sign_5]Hell Pyre[END]
+
+//Text $1A0A30
+#WRITE(ptr,$1831CC)
+[END]
+
+//Text $1A09F0
+#WRITE(ptr,$1831D0)
+Throws a flaming spinning slash at[LINE]
+an enemy from midair.[END]
+
+//Text $1A09E0
+#WRITE(ptr,$1831E8)
+[Sign_5]Dragon Toss[END]
+
+//Text $1A09C0
+#WRITE(ptr,$1831EC)
+[END]
+
+//Text $1A0980
+#WRITE(ptr,$1831F0)
+A series of flaming midair spin-kicks.[LINE]
+Useful for aerial combat.[END]
+
+//Text $1A0970
+#WRITE(ptr,$183208)
+[Sign_5]Searing Gale[END]
+
+//Text $1A0958
+#WRITE(ptr,$18320C)
+[END]
+
+//Text $1A0930
+#WRITE(ptr,$183210)
+Engulf an enemy in a fiery vortex.[LINE]
+[END]
+
+//Text $1A0920
+#WRITE(ptr,$183228)
+[Sign_5]Infernal Torrent[END]
+
+//Text $1A0908
+#WRITE(ptr,$18322C)
+[END]
+
+//Text $1A08D0
+#WRITE(ptr,$183230)
+Send forth a fiery shockwave towards the enemy.[LINE]
+[END]
+
+//Text $1A08C0
+#WRITE(ptr,$183248)
+[Sign_5]Fiery Beast[END]
+
+//Text $1A08A8
+#WRITE(ptr,$18324C)
+[END]
+
+//Text $1A0878
+#WRITE(ptr,$183250)
+Release a burst of fiery energy, burning your surroundings.[LINE]
+[END]
+
+//Text $1A0868
+#WRITE(ptr,$183268)
+[Sign_5]Phoenix Blast[END]
+
+//Text $1A0850
+#WRITE(ptr,$18326C)
+[END]
+
+//Text $1A0810
+#WRITE(ptr,$183270)
+Harness the power of fire and release it[LINE]
+in a devastating blast.[END]
+
+//Text $1A07F8
+#WRITE(ptr,$183288)
+[Sign_5]Flame Shoot[END]
+
+//Text $1A07E8
+#WRITE(ptr,$183290)
+※未修得[LINE]
+[END]
+
+//Text $1A07D8
+#WRITE(ptr,$1832A8)
+[Sign_5]Scorching Fist[END]
+
+//Text $1A07C8
+#WRITE(ptr,$1832AC)
+[END]
+
+//Text $1A0780
+#WRITE(ptr,$1832B0)
+A striking Arte that blasts the[LINE]
+captured enemy with your fist.[END]
+
+//Text $1A0768
+#WRITE(ptr,$1832C8)
+[Sign_5]Blaze Beast[END]
+
+//Text $1A07E8
+#WRITE(ptr,$1832D0)
+※未修得[LINE]
+[END]
+
+//Text $1A0750
+#WRITE(ptr,$1832E8)
+[Sign_5]Raging Flare[END]
+
+//Text $1A07E8
+#WRITE(ptr,$1832F0)
+※未修得[LINE]
+[END]
+
+//Text $1A0730
+#WRITE(ptr,$183308)
+[Sign_5]Volcanic Rage[END]
+
+//Text $1A07E8
+#WRITE(ptr,$183310)
+※未修得[LINE]
+[END]
+
+//Text $1A0718
+#WRITE(ptr,$183328)
+[Sign_4]Soaring Demon Fang[END]
+
+//Text $1A0700
+#WRITE(ptr,$18332C)
+[END]
+
+//Text $1A06C0
+#WRITE(ptr,$183330)
+Throws a Demon Fang diagonally downward.[LINE]
+Deals additional damage on impact.[END]
+
+//Text $1A06A8
+#WRITE(ptr,$183348)
+[Sign_4]Search Gald[END]
+
+//Text $1A0668
+#WRITE(ptr,$183350)
+A gald stealing attack.[LINE]
+Increases recovery rate of spells?[END]
+
+//Text $1A0650
+#WRITE(ptr,$183368)
+[Sign_4]Snipe Air[END]
+
+//Text $1A0620
+#WRITE(ptr,$183370)
+Quickly slash foes into the air,[LINE]
+then pierce them to the ground.[END]
+
+//Text $1A0608
+#WRITE(ptr,$183388)
+[Sign_4]Thievery[END]
+
+//Text $1A05C0
+#WRITE(ptr,$183390)
+Steals an item through an attack.[LINE]
+Ignores enemy defense.[END]
+
+//Text $1A05A8
+#WRITE(ptr,$1833A8)
+[Sign_4]Air Escape[END]
+
+//Text $1A0568
+#WRITE(ptr,$1833B0)
+Teleports into the air behind smoke.[LINE]
+Can be used to evade after attacking.[END]
+
+//Text $1A0550
+#WRITE(ptr,$1833C8)
+[Sign_4]Snipe Roar[END]
+
+//Text $1A0518
+#WRITE(ptr,$1833D0)
+Pierces foes at high speed and[LINE]
+returns with a diagonal slash.[END]
+
+//Text $1A0500
+#WRITE(ptr,$1833E8)
+[Sign_4]Bloody Rose[END]
+
+//Text $1A04D0
+#WRITE(ptr,$1833F0)
+Rapid thrusts that draw a bouquet of blood.[LINE]
+[END]
+
+//Text $1A04B8
+#WRITE(ptr,$183408)
+[Sign_5]Slash Rain[END]
+
+//Text $1A0498
+#WRITE(ptr,$183410)
+Rains beams of water from above.[LINE]
+[END]
+
+//Text $1A0480
+#WRITE(ptr,$183428)
+[Sign_5]Serpent Edge[END]
+
+//Text $1A0440
+#WRITE(ptr,$183430)
+Draws the opponent into close range[LINE]
+with a series of slashes. [END]
+
+//Text $1A0F28
+#WRITE(ptr,$183448)
+[Sign_4]Demon Fang[END]
+
+//Text $1A0F18
+#WRITE(ptr,$18344C)
+[END]
+
+//Text $1A03F8
+#WRITE(ptr,$183450)
+Release a cutting shockwave along the ground.[LINE]
+Can attack from a distance.[END]
+
+//Text $1A03E0
+#WRITE(ptr,$183468)
+[Sign_4]Double Demon Fang[END]
+
+//Text $1A03C8
+#WRITE(ptr,$18346C)
+[END]
+
+//Text $1A03B8
+#WRITE(ptr,$183470)
+※連携専用[LINE]
+[END]
+
+//Text $1A03A8
+#WRITE(ptr,$183488)
+[Sign_4]Swallow Talon[END]
+
+//Text $1A0398
+#WRITE(ptr,$18348C)
+[END]
+
+//Text $1A0358
+#WRITE(ptr,$183490)
+Unleash a series of slashes in midair.[LINE]
+Can link after the 2nd or 3rd hit.[END]
+
+//Text $1A0D70
+#WRITE(ptr,$1834A8)
+[Sign_4]Tiger Blade[END]
+
+//Text $1A0D60
+#WRITE(ptr,$1834AC)
+[END]
+
+//Text $1A0D30
+#WRITE(ptr,$1834B0)
+Slice the enemy up, then cut them down.[LINE]
+[END]
+
+//Text $1A0BB8
+#WRITE(ptr,$1834C8)
+[Sign_4]Dragon Swarm[END]
+
+//Text $1A0BA0
+#WRITE(ptr,$1834CC)
+[END]
+
+//Text $1A0B70
+#WRITE(ptr,$1834D0)
+Advance while delivering 4[LINE]
+consecutive slashes.[END]
+
+//Text $1A0348
+#WRITE(ptr,$1834E8)
+[Sign_4]Flying Dragon[END]
+
+//Text $1A0338
+#WRITE(ptr,$1834EC)
+[END]
+
+//Text $1A0300
+#WRITE(ptr,$1834F0)
+Slash through the foe and[LINE]
+return with a diagonal slash.[END]
+
+//Text $1A02F0
+#WRITE(ptr,$183508)
+[Sign_5]Demon Attack[END]
+
+//Text $1A02C0
+#WRITE(ptr,$183510)
+Concentrate darkness and thrust[LINE]
+it forward.[END]
+
+//Text $1A02B0
+#WRITE(ptr,$183528)
+[Sign_5]Demonic Obliteration[END]
+
+//Text $1A0298
+#WRITE(ptr,$18352C)
+[END]
+
+//Text $1A0270
+#WRITE(ptr,$183530)
+Burn foes with a dark flame.[LINE]
+[END]
+
+//Text $1A0260
+#WRITE(ptr,$183548)
+[Sign_4]Fang Blade[END]
+
+//Text $1A0250
+#WRITE(ptr,$18354C)
+[END]
+
+//Text $1A0220
+#WRITE(ptr,$183550)
+Slash foes down, then up into the air.[LINE]
+[END]
+
+//Text $1A0210
+#WRITE(ptr,$183568)
+[Sign_5]Phantom Edge[END]
+
+//Text $1A0200
+#WRITE(ptr,$18356C)
+[END]
+
+//Text $1A01D0
+#WRITE(ptr,$183570)
+Pass through enemy attacks and[LINE]
+slice them.[END]
+
+//Text $1A01C0
+#WRITE(ptr,$183588)
+[Sign_5]Glimmer Dragon[END]
+
+//Text $1A01B0
+#WRITE(ptr,$18358C)
+[END]
+
+//Text $1A0188
+#WRITE(ptr,$183590)
+Slash in midair to create a vacuum.[LINE]
+[END]
+
+//Text $1A0178
+#WRITE(ptr,$1835A8)
+[Sign_5]Moon Glare[END]
+
+//Text $1A0168
+#WRITE(ptr,$1835AC)
+[END]
+
+//Text $1A0138
+#WRITE(ptr,$1835B0)
+A slash that traces a waning[LINE]
+moon.[END]
+
+//Text $1A0128
+#WRITE(ptr,$1835C8)
+[Sign_5]Moon Fall[END]
+
+//Text $1A0118
+#WRITE(ptr,$1835CC)
+[END]
+
+//Text $1A03B8
+#WRITE(ptr,$1835D0)
+※連携専用[LINE]
+[END]
+
+//Text $1A0108
+#WRITE(ptr,$1835E8)
+[Sign_5]Shining Dragon[END]
+
+//Text $1A00F8
+#WRITE(ptr,$1835EC)
+[END]
+
+//Text $1A03B8
+#WRITE(ptr,$1835F0)
+※連携専用[LINE]
+[END]
+
+//Text $1A00E8
+#WRITE(ptr,$183608)
+[Sign_5]Dragon Glare[END]
+
+//Text $1A00D0
+#WRITE(ptr,$18360C)
+[END]
+
+//Text $1A0098
+#WRITE(ptr,$183610)
+A high-speed aerial slash even the[LINE]
+eye can't see.[END]
+
+//Text $1A0080
+#WRITE(ptr,$183628)
+[Sign_4]Inspect[END]
+
+//Text $1A0050
+#WRITE(ptr,$183630)
+Raise the user's M. Atk temporarily.[LINE]
+[END]
+
+//Text $1A0038
+#WRITE(ptr,$183648)
+[Sign_5]Philia Bomb[END]
+
+//Text $19FFF8
+#WRITE(ptr,$183650)
+Throws a bottle with explosive liquid.[LINE]
+Inflicts sleep.[END]
+
+//Text $19FFE0
+#WRITE(ptr,$183668)
+[Sign_5]Force Field[END]
+
+//Text $19FF90
+#WRITE(ptr,$183670)
+Creates a barrier around the user to[LINE]
+block attacks. Lowers P. Atk of foes.[END]
+
+//Text $19FF80
+#WRITE(ptr,$183688)
+[Sign_5]Twin bomb[END]
+
+//Text $19FF40
+#WRITE(ptr,$183690)
+Throw two bombs in succession.[LINE]
+Inflicts seal.[END]
+
+//Text $19FF28
+#WRITE(ptr,$1836A8)
+[Sign_5]Hide Party[END]
+
+//Text $19FEE0
+#WRITE(ptr,$1836B0)
+Temporarily protects the party from[LINE]
+attacks and raises M. Def.[END]
+
+//Text $19FED0
+#WRITE(ptr,$1836C8)
+[Sign_5]Bomb Rain[END]
+
+//Text $19FE98
+#WRITE(ptr,$1836D0)
+Throws bombs all around.[LINE]
+Inflicts petrify.[END]
+
+//Text $19FE80
+#WRITE(ptr,$1836E8)
+[Sign_5]Judgement[END]
+
+//Text $19FE48
+#WRITE(ptr,$1836F0)
+Strike lightning on the condemned.[LINE]
+Heals HP.[END]
+
+//Text $19FE38
+#WRITE(ptr,$183708)
+[Sign_5]Inferno[END]
+
+//Text $19FE28
+#WRITE(ptr,$18370C)
+[END]
+
+//Text $19FDE8
+#WRITE(ptr,$183710)
+Shoots a powerful shot.[LINE]
+The arrow penetrates one foe.[END]
+
+//Text $19FDD8
+#WRITE(ptr,$183728)
+[Sign_4]Hurricane Thrust[END]
+
+//Text $19FDC8
+#WRITE(ptr,$18372C)
+[END]
+
+//Text $19FDA0
+#WRITE(ptr,$183730)
+Unleash a wind-projectile from a thrust.[LINE]
+[END]
+
+//Text $19FD90
+#WRITE(ptr,$183748)
+[Sign_5]Gale Shot[END]
+
+//Text $19FD88
+#WRITE(ptr,$18374C)
+[END]
+
+//Text $19FD68
+#WRITE(ptr,$183750)
+Fire 3 shots consecutively.[LINE]
+[END]
+
+//Text $1A0CD8
+#WRITE(ptr,$183768)
+[Sign_5]Severing Wind[END]
+
+//Text $1A0CC8
+#WRITE(ptr,$18376C)
+[END]
+
+//Text $1A0C88
+#WRITE(ptr,$183770)
+An upward slash that pulls in[LINE]
+nearby foes.[END]
+
+//Text $19FD58
+#WRITE(ptr,$183788)
+[Sign_5]Mirage[END]
+
+//Text $19FD48
+#WRITE(ptr,$18378C)
+[END]
+
+//Text $19FCF8
+#WRITE(ptr,$183790)
+A surprise attack from above that[LINE]
+leaves an after image.[END]
+
+//Text $19FCE8
+#WRITE(ptr,$1837A8)
+[Sign_5]Hail[END]
+
+//Text $19FCE0
+#WRITE(ptr,$1837AC)
+[END]
+
+//Text $19FCB0
+#WRITE(ptr,$1837B0)
+Rain several arrows over foes.[LINE]
+[END]
+
+//Text $19FCA0
+#WRITE(ptr,$1837C8)
+[Sign_4]Void Sword[END]
+
+//Text $19FC90
+#WRITE(ptr,$1837CC)
+[END]
+
+//Text $19FC58
+#WRITE(ptr,$1837D0)
+Slice enemies apart in a vacuum.[LINE]
+[END]
+
+//Text $19FC48
+#WRITE(ptr,$1837E8)
+[Sign_4]Sword Rain: Alpha[END]
+
+//Text $19FC38
+#WRITE(ptr,$1837EC)
+[END]
+
+//Text $19FC10
+#WRITE(ptr,$1837F0)
+Cut enemies with a barrage of thrusts.[LINE]
+[END]
+
+//Text $19FC00
+#WRITE(ptr,$183808)
+[Sign_4]Crush Fang[END]
+
+//Text $19FBF0
+#WRITE(ptr,$18380C)
+[END]
+
+//Text $19FBA0
+#WRITE(ptr,$183810)
+A feint with the bow that cuts foes[LINE]
+instantly. May inflict debilitate.[END]
+
+//Text $19FB90
+#WRITE(ptr,$183828)
+[Sign_5]Dark Projection[END]
+
+//Text $19FB80
+#WRITE(ptr,$18382C)
+[END]
+
+//Text $19FB40
+#WRITE(ptr,$183830)
+A multi-hit stab from above the[LINE]
+enemy.[END]
+
+//Text $19FB30
+#WRITE(ptr,$183848)
+[Sign_4]Mega Sonic Thrust[END]
+
+//Text $19FB18
+#WRITE(ptr,$18384C)
+[END]
+
+//Text $19FAD8
+#WRITE(ptr,$183850)
+Thrusts at the enemy, then thrust[LINE]
+at his back.[END]
+
+//Text $19FAC8
+#WRITE(ptr,$183868)
+[Sign_4]Gleam[END]
+
+//Text $19FAB8
+#WRITE(ptr,$18386C)
+[END]
+
+//Text $19FA70
+#WRITE(ptr,$183870)
+Lift foes with an upward strike from[LINE]
+his sheath. Follow up with anti-air artes.[END]
+
+//Text $19FA60
+#WRITE(ptr,$183888)
+[Sign_4]Transience[END]
+
+//Text $19FA58
+#WRITE(ptr,$18388C)
+[END]
+
+//Text $19FA28
+#WRITE(ptr,$183890)
+A rising slash through the air.[LINE]
+[END]
+
+//Text $19FA18
+#WRITE(ptr,$1838A8)
+[Sign_5]Void Seal[END]
+
+//Text $19FA10
+#WRITE(ptr,$1838AC)
+[END]
+
+//Text $19F9E0
+#WRITE(ptr,$1838B0)
+Create shockwaves by shooting an arrow.[LINE]
+[END]
+
+//Text $19F9D0
+#WRITE(ptr,$1838C8)
+[Sign_4]Beast Blade[END]
+
+//Text $19F9C0
+#WRITE(ptr,$1838CC)
+[END]
+
+//Text $19F978
+#WRITE(ptr,$1838D0)
+A tackle followed by an upward slice,[LINE]
+Axes have the strike attribute.[END]
+
+//Text $19F968
+#WRITE(ptr,$1838E8)
+[Sign_4]Daemon Fang[END]
+
+//Text $19F950
+#WRITE(ptr,$1838EC)
+[END]
+
+//Text $19F908
+#WRITE(ptr,$1838F0)
+Stronger than Demon Fang, but[LINE]
+has less range.[END]
+
+//Text $19F8F8
+#WRITE(ptr,$183908)
+[Sign_5]Lightning Assault[END]
+
+//Text $19F8E8
+#WRITE(ptr,$18390C)
+[END]
+
+//Text $19F8B8
+#WRITE(ptr,$183910)
+Two slashes infused with lightning.[LINE]
+[END]
+
+//Text $19F8A8
+#WRITE(ptr,$183928)
+[Sign_4]Fierce Demon Fang[END]
+
+//Text $19F890
+#WRITE(ptr,$18392C)
+[END]
+
+//Text $19F848
+#WRITE(ptr,$183930)
+Creates a shockwave in front that[LINE]
+may inflict debilitate.[END]
+
+//Text $1A0C18
+#WRITE(ptr,$183948)
+[Sign_4]Beast[END]
+
+//Text $1A0C08
+#WRITE(ptr,$18394C)
+[END]
+
+//Text $19F808
+#WRITE(ptr,$183950)
+Releases built-up energy to blow[LINE]
+away foes.[END]
+
+//Text $19FD58
+#WRITE(ptr,$183968)
+[Sign_5]Mirage[END]
+
+//Text $19FD48
+#WRITE(ptr,$18396C)
+[END]
+
+//Text $19FCF8
+#WRITE(ptr,$183970)
+A surprise attack from above that[LINE]
+leaves an after image.[END]
+
+//Text $19F7F8
+#WRITE(ptr,$183988)
+[Sign_4]Maniacal Fang[END]
+
+//Text $19F7E0
+#WRITE(ptr,$18398C)
+[END]
+
+//Text $19F790
+#WRITE(ptr,$183990)
+Modified Demon Fang with shorter range,[LINE]
+but will break guards and paralyze.[END]
+
+//Text $19F780
+#WRITE(ptr,$1839A8)
+[Sign_4]Swift Tackle[END]
+
+//Text $19F770
+#WRITE(ptr,$1839AC)
+[END]
+
+//Text $19F728
+#WRITE(ptr,$1839B0)
+Trip foes by sliding behind them.[LINE]
+Lowers foes' evasion.[END]
+
+//Text $19F718
+#WRITE(ptr,$1839C8)
+[Sign_5]Infernal Rampage[END]
+
+//Text $19F700
+#WRITE(ptr,$1839CC)
+[END]
+
+//Text $19F6C0
+#WRITE(ptr,$1839D0)
+Slams the ground, creating an[LINE]
+explosion. Inflicts poison.[END]
+
+//Text $19F6B0
+#WRITE(ptr,$1839E8)
+[Sign_4]Roaring Havoc[END]
+
+//Text $19F6A0
+#WRITE(ptr,$1839EC)
+[END]
+
+//Text $19F660
+#WRITE(ptr,$1839F0)
+Throws pierced foes to their rear.[LINE]
+Used to move the vanguards.[END]
+
+//Text $19F650
+#WRITE(ptr,$183A08)
+[Sign_4]Roaring Explosion[END]
+
+//Text $19F638
+#WRITE(ptr,$183A0C)
+[END]
+
+//Text $19F600
+#WRITE(ptr,$183A10)
+Slices, then charges while kicking up[LINE]
+rocks behind.[END]
+
+//Text $19F5F0
+#WRITE(ptr,$183A28)
+[Sign_4]Tornado Blade[END]
+
+//Text $19F5E0
+#WRITE(ptr,$183A2C)
+[END]
+
+//Text $19F598
+#WRITE(ptr,$183A30)
+Cleaves nearby foes by spinning the[LINE]
+axe. Effective when surrounded.[END]
+
+//Text $19F588
+#WRITE(ptr,$183A48)
+[Sign_5]Lightning Assault EX[END]
+
+//Text $19F570
+#WRITE(ptr,$183A4C)
+[END]
+
+//Text $19F538
+#WRITE(ptr,$183A50)
+Charges lightning before slashing[LINE]
+twice.[END]
+
+//Text $19F528
+#WRITE(ptr,$183A68)
+[Sign_4]Wolf Fang Blade[END]
+
+//Text $19F510
+#WRITE(ptr,$183A6C)
+[END]
+
+//Text $19F4C0
+#WRITE(ptr,$183A70)
+A dash followed by a rising slash.[LINE]
+Hits foes' back if used near them.[END]
+
+//Text $19F4B0
+#WRITE(ptr,$183A88)
+[Sign_4]Lion King Attack[END]
+
+//Text $19F498
+#WRITE(ptr,$183A8C)
+[END]
+
+//Text $19F468
+#WRITE(ptr,$183A90)
+Shoots a Beast diagonally and follows[LINE]
+up with a slice.[END]
+
+//Text $19FE38
+#WRITE(ptr,$183AA8)
+[Sign_5]Inferno[END]
+
+//Text $19FE28
+#WRITE(ptr,$183AAC)
+[END]
+
+//Text $19F418
+#WRITE(ptr,$183AB0)
+Shoots a powerful shot.[LINE]
+Her crouching lets her hit short foes.[END]
+
+//Text $19FD90
+#WRITE(ptr,$183AC8)
+[Sign_5]Gale Shot[END]
+
+//Text $19FD88
+#WRITE(ptr,$183ACC)
+[END]
+
+//Text $19F3E8
+#WRITE(ptr,$183AD0)
+Fire 3 shots consecutively.[LINE]
+Can use in midair.[END]
+
+//Text $19F3D8
+#WRITE(ptr,$183AE8)
+[Sign_5]Shock Arrow[END]
+
+//Text $19F3C8
+#WRITE(ptr,$183AEC)
+[END]
+
+//Text $19F398
+#WRITE(ptr,$183AF0)
+Arrow that shocks surrounding foes[LINE]
+upon impact.[END]
+
+//Text $19F388
+#WRITE(ptr,$183B08)
+[Sign_5]Flying Swallow[END]
+
+//Text $19F380
+#WRITE(ptr,$183B0C)
+[END]
+
+//Text $19F348
+#WRITE(ptr,$183B10)
+Shoots curving arrows from midair.[LINE]
+[END]
+
+//Text $19FCE8
+#WRITE(ptr,$183B28)
+[Sign_5]Hail[END]
+
+//Text $19FCE0
+#WRITE(ptr,$183B2C)
+[END]
+
+//Text $19FCB0
+#WRITE(ptr,$183B30)
+Rain several arrows over foes.[LINE]
+[END]
+
+//Text $19F338
+#WRITE(ptr,$183B48)
+[Sign_5]Force Arrow[END]
+
+//Text $19F320
+#WRITE(ptr,$183B4C)
+[END]
+
+//Text $19F2F0
+#WRITE(ptr,$183B50)
+Shoots homing arrows that hit[LINE]
+the target twice.[END]
+
+//Text $19F2E0
+#WRITE(ptr,$183B68)
+[Sign_5]Red Lotus[END]
+
+//Text $19F2D0
+#WRITE(ptr,$183B6C)
+[END]
+
+//Text $19F288
+#WRITE(ptr,$183B70)
+Foes hit by this arrow receive damage[LINE]
+over time.[END]
+
+//Text $19F270
+#WRITE(ptr,$183B88)
+[Sign_5]Cupid's Arrow[END]
+
+//Text $19F248
+#WRITE(ptr,$183B90)
+Heals 15% HP to an ally pierced by this arrow.[LINE]
+[END]
+
+//Text $19F238
+#WRITE(ptr,$183BA8)
+[Sign_5]Sonic Bash[END]
+
+//Text $19F228
+#WRITE(ptr,$183BAC)
+[END]
+
+//Text $19F1F0
+#WRITE(ptr,$183BB0)
+Fires a powerful arrow that blasts the[LINE]
+ground.[END]
+
+//Text $19F1E0
+#WRITE(ptr,$183BC8)
+[Sign_5]Spiral[END]
+
+//Text $19F1D8
+#WRITE(ptr,$183BCC)
+[END]
+
+//Text $19F1A0
+#WRITE(ptr,$183BD0)
+Fires spiraling arrows that cover[LINE]
+a wide area.[END]
+
+//Text $19F190
+#WRITE(ptr,$183BE8)
+[Sign_5]Celestial Conqueror[END]
+
+//Text $19F188
+#WRITE(ptr,$183BEC)
+[END]
+
+//Text $19F160
+#WRITE(ptr,$183BF0)
+Rapidly shoots foes into the air.[LINE]
+[END]
+
+//Text $19F150
+#WRITE(ptr,$183C08)
+[Sign_4]Setting Sun[END]
+
+//Text $19F140
+#WRITE(ptr,$183C0C)
+[END]
+
+//Text $19F0F0
+#WRITE(ptr,$183C10)
+Stomp nearby foes with her feet.[LINE]
+Lower foes' evasion.[END]
+
+//Text $19F0E0
+#WRITE(ptr,$183C28)
+[Sign_5]Moon Flower[END]
+
+//Text $19F0D8
+#WRITE(ptr,$183C2C)
+[END]
+
+//Text $19F098
+#WRITE(ptr,$183C30)
+Jump and rain arrows from above.[LINE]
+Has a dark attribute.[END]
+
+//Text $19F080
+#WRITE(ptr,$183C48)
+[Sign_5]Symphony[END]
+
+//Text $19F040
+#WRITE(ptr,$183C50)
+Temporarily raise party's accuracy.[LINE]
+Gives 1 CC to each ally.[END]
+
+//Text $19F028
+#WRITE(ptr,$183C68)
+[Sign_5]Samba[END]
+
+//Text $19EFE0
+#WRITE(ptr,$183C70)
+Temporarily raise party's M. Atk.[LINE]
+Effect is enhanced by cooperation.[END]
+
+//Text $19EFC8
+#WRITE(ptr,$183C88)
+[Sign_5]March[END]
+
+//Text $19EF88
+#WRITE(ptr,$183C90)
+Temporarily raise party's evasion.[LINE]
+One of the support singing artes.[END]
+
+//Text $19EF70
+#WRITE(ptr,$183CA8)
+[Sign_5]Rumba[END]
+
+//Text $19EF40
+#WRITE(ptr,$183CB0)
+Paralyze foes within range.[LINE]
+(Rolling Rs required)[END]
+
+//Text $19EF28
+#WRITE(ptr,$183CC8)
+[Sign_5]Lullaby[END]
+
+//Text $19EF08
+#WRITE(ptr,$183CD0)
+Inflicts sleep to foes in range.[LINE]
+[END]
+
+//Text $19EEF0
+#WRITE(ptr,$183CE8)
+[Sign_5]Waltz[END]
+
+//Text $19EEC8
+#WRITE(ptr,$183CF0)
+Restore HP to surrounding allies.[LINE]
+[END]
+
+//Text $19EEB0
+#WRITE(ptr,$183D08)
+[Sign_5]Golden Voice[END]
+
+//Text $19EE80
+#WRITE(ptr,$183D10)
+Shout out those lungs to manifest[LINE]
+"ワーオ!"[END]
+//Text $19EE68
+#WRITE(ptr,$183D28)
+[Sign_5]Sonic Rave[END]
+
+//Text $19EE18
+#WRITE(ptr,$183D30)
+Shoots a sonic shockwave in front.[LINE]
+It pierces and hits more up close.[END]
+
+//Text $19EE00
+#WRITE(ptr,$183D48)
+[Sign_5]Beat Heaven[END]
+
+//Text $19EDD8
+#WRITE(ptr,$183D50)
+Shoots a sonic shockwave upward.[LINE]
+[END]
+
+//Text $19EDC0
+#WRITE(ptr,$183D68)
+[Sign_5]Revolving Rondo[END]
+
+//Text $19ED70
+#WRITE(ptr,$183D70)
+Produces sound waves around the user.[LINE]
+Use defensively or hit hard up close.[END]
+
+//Text $19ED58
+#WRITE(ptr,$183D88)
+[Sign_5]Reverb Soul[END]
+
+//Text $19ED10
+#WRITE(ptr,$183D90)
+Place a damaging musical note in[LINE]
+front. Reduces M. Atk of foes.[END]
+
+//Text $19ECF8
+#WRITE(ptr,$183DA8)
+[Sign_5]Reflect Rage[END]
+
+//Text $19ECB0
+#WRITE(ptr,$183DB0)
+Creates a sound wave barrier. [LINE]
+Reduces M. Atk of foes.[END]
+
+//Text $19EC98
+#WRITE(ptr,$183DC8)
+[Sign_5]Volt Thrust[END]
+
+//Text $19EC40
+#WRITE(ptr,$183DD0)
+Fist-clap to create an electric shockwave.[LINE]
+Uses a flying kick in midair.[END]
+
+//Text $19EC28
+#WRITE(ptr,$183DE8)
+[Sign_4]1-2 Combo[END]
+
+//Text $19EBE0
+#WRITE(ptr,$183DF0)
+A shoulder tackle followed by an[LINE]
+uppercut to hit foes up.[END]
+
+//Text $19EBC8
+#WRITE(ptr,$183E08)
+[Sign_4]Great Upper[END]
+
+//Text $19EB70
+#WRITE(ptr,$183E10)
+Blow foes into the air with two[LINE]
+uppercuts. Use in midair to rise.[END]
+
+//Text $19EB58
+#WRITE(ptr,$183E28)
+[Sign_4]Hell's Hurricane[END]
+
+//Text $19EB10
+#WRITE(ptr,$183E30)
+A high-speed rush that belies his physique.[LINE]
+A hurricane spin when used in midair.[END]
+
+//Text $19EAF8
+#WRITE(ptr,$183E48)
+[Sign_4]Hip Attack[END]
+
+//Text $19EAB0
+#WRITE(ptr,$183E50)
+A dive bomb with his hip.[LINE]
+The higher it's used, the more damage it does![END]
+
+//Text $19EA98
+#WRITE(ptr,$183E68)
+[Sign_5]Heavy Bomber[END]
+
+//Text $19EA48
+#WRITE(ptr,$183E70)
+Compress and expand chi energy[LINE]
+to an incredible size. [END]
+
+//Text $19EA30
+#WRITE(ptr,$183E88)
+[Sign_4]Revival Shout[END]
+
+//Text $19E9E0
+#WRITE(ptr,$183E90)
+Revive an ally by shouting. If it fails,[LINE]
+the user will be stunned.[END]
+
+//Text $19E9C8
+#WRITE(ptr,$183EA8)
+[Sign_5]Muscle Heat[END]
+
+//Text $19E988
+#WRITE(ptr,$183EB0)
+Increases the user's P. Atk, but[LINE]
+inflicts poison on himself.[END]
+
+//Text $19E970
+#WRITE(ptr,$183EC8)
+[Sign_4]Metal Body[END]
+
+//Text $19E920
+#WRITE(ptr,$183ED0)
+Grants iron stance for 10 seconds,[LINE]
+but debilitates after it ends.[END]
+
+//Text $19E908
+#WRITE(ptr,$183EE8)
+[Sign_4]Falcon Fledge[END]
+
+//Text $19E8D0
+#WRITE(ptr,$183EF0)
+Attack with a rising knee kick. Use[LINE]
+it consecutively to reach the heavens.[END]
+
+//Text $19E8B8
+#WRITE(ptr,$183F08)
+[Sign_5]Earth Crusher[END]
+
+//Text $19E868
+#WRITE(ptr,$183F10)
+Body slams the earth. His abdominal[LINE]
+training makes this work. Maybe...[END]
+
+//Text $19E850
+#WRITE(ptr,$183F28)
+[Sign_4]Heartbreak[END]
+
+//Text $19E800
+#WRITE(ptr,$183F30)
+Spins quickly to land the ultimate[LINE]
+punch. Inflicts stop on foes hit.[END]
+
+//Text $19E7E8
+#WRITE(ptr,$183F48)
+[Sign_4]Massive Throw[END]
+
+//Text $19E790
+#WRITE(ptr,$183F50)
+A simple grab and throw arte.[LINE]
+Amazingly, it can't be guarded.[END]
+
+//Text $19E778
+#WRITE(ptr,$183F68)
+[Sign_4]Lilith Rush[END]
+
+//Text $19E738
+#WRITE(ptr,$183F70)
+4 fluid, consecutive attacks. Just cause[LINE]
+it's fluid doesn't mean it's watered down.[END]
+
+//Text $19E720
+#WRITE(ptr,$183F88)
+[Sign_5]Rainbow Arch[END]
+
+//Text $19E700
+#WRITE(ptr,$183F90)
+A rainbow arc from swinging water.[LINE]
+[END]
+
+//Text $19E6E8
+#WRITE(ptr,$183FA8)
+[Sign_4]Sunfish Screech[END]
+
+//Text $19E6D0
+#WRITE(ptr,$183FAC)
+[END]
+
+//Text $19E680
+#WRITE(ptr,$183FB0)
+I think this is her answer to[LINE]
+"What can I do with a sunfish?"[END]
+
+//Text $19E668
+#WRITE(ptr,$183FC8)
+[Sign_5]Aqua Smite[END]
+
+//Text $19E630
+#WRITE(ptr,$183FD0)
+Water your plants on a hot,[LINE]
+summer day.[END]
+
+//Text $19E618
+#WRITE(ptr,$183FE8)
+[Sign_4]Wake the Dead[END]
+
+//Text $19E608
+#WRITE(ptr,$183FEC)
+[END]
+
+//Text $19E5C0
+#WRITE(ptr,$183FF0)
+Bang a frying pan to attack with[LINE]
+sound waves. Wakes even the sleepiest.[END]
+
+//Text $19E5A8
+#WRITE(ptr,$184008)
+[Sign_5]Steak Flare[END]
+
+//Text $19E560
+#WRITE(ptr,$184010)
+A juicy, fiery anti-air arte.[LINE]
+Her timing reveals her mastery.[END]
+
+//Text $19E548
+#WRITE(ptr,$184028)
+[Sign_4]Turn Over[END]
+
+//Text $19E510
+#WRITE(ptr,$184030)
+Experience the terror of being hit by[LINE]
+a frying pan from above. Tonk-Tonk-Tonk.[END]
+
+//Text $19E4F8
+#WRITE(ptr,$184048)
+[Sign_4]Flash Back[END]
+
+//Text $19E4A8
+#WRITE(ptr,$184050)
+An arte hidden from neighborhood[LINE]
+wives under the cover of flashing lights.[END]
+
+//Text $19E490
+#WRITE(ptr,$184068)
+[Sign_4]Rock Kick[END]
+
+//Text $19E468
+#WRITE(ptr,$184070)
+Kicks a rock.[LINE]
+Err.., that's it.[END]
+
+//Text $19E450
+#WRITE(ptr,$184088)
+[Sign_4]Sunfish Stride[END]
+
+//Text $19E418
+#WRITE(ptr,$184090)
+Is she a friend of sunfish or not?[LINE]
+[END]
+
+//Text $19E400
+#WRITE(ptr,$1840A8)
+[Sign_6]Fire Ball[END]
+
+//Text $19E3D0
+#WRITE(ptr,$1840B0)
+A spell that shoots fireballs.[LINE]
+Raises P. Atk.[END]
+
+//Text $19E3B8
+#WRITE(ptr,$1840C8)
+[Sign_6]Eruption[END]
+
+//Text $19E390
+#WRITE(ptr,$1840D0)
+A spell that causes small-scale[LINE]
+lava to erupt from the ground.[END]
+
+//Text $19E378
+#WRITE(ptr,$1840E8)
+[Sign_6]Fire Wall[END]
+
+//Text $19E338
+#WRITE(ptr,$1840F0)
+Conjures a wall of fire around the[LINE]
+caster[END]
+
+//Text $19E320
+#WRITE(ptr,$184108)
+[Sign_6]Fire Storm[END]
+
+//Text $19E2F0
+#WRITE(ptr,$184110)
+Creates flames from the ground[LINE]
+around the target.[END]
+
+//Text $19E2D8
+#WRITE(ptr,$184128)
+[Sign_6]Fear Flare[END]
+
+//Text $19E298
+#WRITE(ptr,$184130)
+Rains flaming shots from above.[LINE]
+Inflicts poison.[END]
+
+//Text $19E280
+#WRITE(ptr,$184148)
+[Sign_6]Flare Tornado[END]
+
+//Text $19E258
+#WRITE(ptr,$184150)
+Flaming bullets erupt from the ground.[LINE]
+[END]
+
+//Text $19E240
+#WRITE(ptr,$184168)
+[Sign_6]Explosion[END]
+
+//Text $19E200
+#WRITE(ptr,$184170)
+Compresses power and causes an[LINE]
+explosion upon impact.[END]
+
+//Text $19E1E8
+#WRITE(ptr,$184188)
+[Sign_6]Ice Needles[END]
+
+//Text $19E1A8
+#WRITE(ptr,$184190)
+Drops icicles on a target's head.[LINE]
+Raises defense.[END]
+
+//Text $19E190
+#WRITE(ptr,$1841A8)
+[Sign_6]Ice Tornado[END]
+
+//Text $19E170
+#WRITE(ptr,$1841B0)
+Conjures a vortex of cold air.[LINE]
+[END]
+
+//Text $19E158
+#WRITE(ptr,$1841C8)
+[Sign_6]Ice Wall[END]
+
+//Text $19E130
+#WRITE(ptr,$1841D0)
+Creates a wall of ice in front of the castor。[LINE]
+[END]
+
+//Text $19E120
+#WRITE(ptr,$1841E8)
+[Sign_6]Icicle[END]
+
+//Text $19E0F0
+#WRITE(ptr,$1841F0)
+Shoots icicles in bursts from a[LINE]
+block of ice.[END]
+
+//Text $19E0E0
+#WRITE(ptr,$184208)
+[Sign_6]Blizzard[END]
+
+//Text $19E098
+#WRITE(ptr,$184210)
+A fierce blizzard that bombards foes.[LINE]
+Inflicts sleep.[END]
+
+//Text $19E080
+#WRITE(ptr,$184228)
+[Sign_6]Maelstrom[END]
+
+//Text $19E038
+#WRITE(ptr,$184230)
+Creates a huge whirlpool to engulf foes.[LINE]
+Easily crits.[END]
+
+//Text $19E020
+#WRITE(ptr,$184248)
+[Sign_6]Tidal Wave[END]
+
+//Text $19DFF8
+#WRITE(ptr,$184250)
+Creates a huge tsunami to engulf foes.[LINE]
+[END]
+
+//Text $19DFE0
+#WRITE(ptr,$184268)
+[Sign_6]Wind Arrow[END]
+
+//Text $19DF98
+#WRITE(ptr,$184270)
+Strikes foes with arrows of wind from[LINE]
+above and raises evasion.[END]
+
+//Text $19DF88
+#WRITE(ptr,$184288)
+[Sign_6]Storm[END]
+
+//Text $19DF68
+#WRITE(ptr,$184290)
+Creates a gust of wind from the back.[LINE]
+[END]
+
+//Text $19DF50
+#WRITE(ptr,$1842A8)
+[Sign_6]Arrow Stream[END]
+
+//Text $19DF28
+#WRITE(ptr,$1842B0)
+Unleashes blades of wind at a target.[LINE]
+[END]
+
+//Text $19DF10
+#WRITE(ptr,$1842C8)
+[Sign_6]Whirlwind[END]
+
+//Text $19DEC0
+#WRITE(ptr,$1842D0)
+Releases jets of wind pressure in front[LINE]
+of the castor and debilitates foes.[END]
+
+//Text $19DEA8
+#WRITE(ptr,$1842E8)
+[Sign_6]Air Thrust[END]
+
+//Text $19DE60
+#WRITE(ptr,$1842F0)
+Creates blades of wind in an area to[LINE]
+slice the enemy.[END]
+
+//Text $19DE50
+#WRITE(ptr,$184308)
+[Sign_6]Cyclone[END]
+
+//Text $19DE20
+#WRITE(ptr,$184310)
+Two tornadoes join to create a cylone[LINE]
+around the enemy.[END]
+
+//Text $19DE08
+#WRITE(ptr,$184328)
+[Sign_6]God's Breath[END]
+
+//Text $19DDD0
+#WRITE(ptr,$184330)
+天空に魔法陣を紡ぎ、強大な風の力を[LINE]
+呼び込む晶術。[END]
+
+//Text $19DDB8
+#WRITE(ptr,$184348)
+[Sign_6]Stone Blast[END]
+
+//Text $19DD78
+#WRITE(ptr,$184350)
+Shoots a series of rocks as projectiles.[LINE]
+Temporarily raises M. Atk.[END]
+
+//Text $19DD68
+#WRITE(ptr,$184368)
+[Sign_6]Grave[END]
+
+//Text $19DD30
+#WRITE(ptr,$184370)
+Pierces target with a spear of stone[LINE]
+into the air.[END]
+
+//Text $19DD18
+#WRITE(ptr,$184388)
+[Sign_6]Stone Wall[END]
+
+//Text $19DCC8
+#WRITE(ptr,$184390)
+Creates a spear of stone in front of the[LINE]
+castor. Inflicts seal.[END]
+
+//Text $19DCB0
+#WRITE(ptr,$1843A8)
+[Sign_6]Air Pressure[END]
+
+//Text $19DC88
+#WRITE(ptr,$1843B0)
+Creates a gravitational field to crush foes.[LINE]
+[END]
+
+//Text $19DC70
+#WRITE(ptr,$1843C8)
+[Sign_6]Ground Dasher[END]
+
+//Text $19DC48
+#WRITE(ptr,$1843D0)
+Unleashes the power of earth to engulf foes.[LINE]
+[END]
+
+//Text $19DC30
+#WRITE(ptr,$1843E8)
+[Sign_6]Lightning[END]
+
+//Text $19DC08
+#WRITE(ptr,$1843F0)
+Drops a small thunderbolt on the target.[LINE]
+[END]
+
+//Text $19DBF0
+#WRITE(ptr,$184408)
+[Sign_6]Thunder Blade[END]
+
+//Text $19DBA8
+#WRITE(ptr,$184410)
+Summons a sword of lightning to cleave[LINE]
+foes. May paralyze the enemy.[END]
+
+//Text $19DB98
+#WRITE(ptr,$184428)
+[Sign_6]Ray[END]
+
+//Text $19DB58
+#WRITE(ptr,$184430)
+Gathers light to a single point which[LINE]
+launches several lasers.[END]
+
+//Text $19DB40
+#WRITE(ptr,$184448)
+[Sign_6]Holy Lance[END]
+
+//Text $19DB10
+#WRITE(ptr,$184450)
+Pierces the enemy with countless[LINE]
+spears of light.[END]
+
+//Text $19DAF0
+#WRITE(ptr,$184468)
+[Sign_6]Indignation[END]
+
+//Text $19DAD0
+#WRITE(ptr,$184470)
+Rains the lightning of god on the enemy.[LINE]
+[END]
+
+//Text $19DAC0
+#WRITE(ptr,$184488)
+[Sign_6]Big Bang[END]
+
+//Text $19DA80
+#WRITE(ptr,$184490)
+The strongest light spell. It can[LINE]
+decimate foes instantly.[END]
+
+//Text $19DA68
+#WRITE(ptr,$1844A8)
+[Sign_6]Demon's Lance[END]
+
+//Text $19DA38
+#WRITE(ptr,$1844B0)
+Summons a demonic spear to crush the foe.[LINE]
+[END]
+
+//Text $19DA20
+#WRITE(ptr,$1844C8)
+[Sign_6]Black Hole[END]
+
+//Text $19D9F0
+#WRITE(ptr,$1844D0)
+The strongest dark spell. It can[LINE]
+instantly crush an enemy.[END]
+
+//Text $19D9D8
+#WRITE(ptr,$1844E8)
+[Sign_6]Tractor Beam[END]
+
+//Text $19D990
+#WRITE(ptr,$1844F0)
+A non-attribute spell that lifts enemies.[LINE]
+No enemy has resistance against this.[END]
+
+//Text $19D978
+#WRITE(ptr,$184508)
+[Sign_6]Cursed Cries[END]
+
+//Text $19D968
+#WRITE(ptr,$184510)
+※敵専用[LINE]
+[END]
+
+//Text $19D950
+#WRITE(ptr,$184528)
+[Sign_6]Meteor Storm[END]
+
+//Text $19D930
+#WRITE(ptr,$184530)
+Non-attribute spell that rains meteors on foes.[LINE]
+[END]
+
+//Text $19D918
+#WRITE(ptr,$184548)
+[Sign_6]Extension[END]
+
+//Text $19D8C8
+#WRITE(ptr,$184550)
+Inflicts instant death at a fixed rate.[LINE]
+The less HP, the higher the chance.[END]
+
+//Text $19D8A8
+#WRITE(ptr,$184568)
+[Sign_6]Guilty Resolver[END]
+
+//Text $19D8A0
+#WRITE(ptr,$184570)
+※敵用[LINE]
+[END]
+
+//Text $19D888
+#WRITE(ptr,$184588)
+[Sign_10]First Aid[END]
+
+//Text $19D858
+#WRITE(ptr,$184590)
+Restores 20% HP to one ally.[LINE]
+[END]
+
+//Text $19D848
+#WRITE(ptr,$1845A8)
+[Sign_10]Heal[END]
+
+//Text $19D818
+#WRITE(ptr,$1845B0)
+Restores 40% HP to one ally.[LINE]
+[END]
+
+//Text $19D808
+#WRITE(ptr,$1845C8)
+[Sign_10]Cure[END]
+
+//Text $19D7D8
+#WRITE(ptr,$1845D0)
+Restores 80% HP to one ally.[LINE]
+[END]
+
+//Text $19D7C8
+#WRITE(ptr,$1845E8)
+[Sign_10]Nurse[END]
+
+//Text $19D798
+#WRITE(ptr,$1845F0)
+Restores 30% HP to the party.[LINE]
+[END]
+
+//Text $19D780
+#WRITE(ptr,$184608)
+[Sign_10]Revitalize[END]
+
+//Text $19D738
+#WRITE(ptr,$184610)
+Restores 50% HP in an area of effect.[LINE]
+Better gather together.[END]
+
+//Text $19D720
+#WRITE(ptr,$184628)
+[Sign_10]Antidote[END]
+
+//Text $19D6F8
+#WRITE(ptr,$184630)
+Cures poison and weakness for one ally.[LINE]
+[END]
+
+//Text $19D6E8
+#WRITE(ptr,$184648)
+[Sign_10]Recover[END]
+
+//Text $19D6A8
+#WRITE(ptr,$184650)
+Cures negative ailments for one ally.[LINE]
+[END]
+
+//Text $19D690
+#WRITE(ptr,$184668)
+[Sign_10]Resurrection[END]
+
+//Text $19D648
+#WRITE(ptr,$184670)
+Revives one KO'd ally and restores[LINE]
+70% HP.[END]
+
+//Text $19D638
+#WRITE(ptr,$184688)
+[Sign_6]Pow Hammer[END]
+
+//Text $19D600
+#WRITE(ptr,$184690)
+Drops a toy hammer that may[LINE]
+stuns. Is it a spell?[END]
+
+//Text $19D5E8
+#WRITE(ptr,$1846A8)
+[Sign_6]Pow Pow Hammer[END]
+
+//Text $19D5A0
+#WRITE(ptr,$1846B0)
+Drops an oversized toy hammer with[LINE]
+rebounding effects. It's a spell.[END]
+
+//Text $19D588
+#WRITE(ptr,$1846C8)
+[Sign_6]Deep Mist[END]
+
+//Text $19D540
+#WRITE(ptr,$1846D0)
+Creates fog that reduces chance of status[LINE]
+effects and critical hits from enemy attacks.[END]
+
+//Text $19D528
+#WRITE(ptr,$1846E8)
+[Sign_6]Acid Rain[END]
+
+//Text $19D4D8
+#WRITE(ptr,$1846F0)
+Reduces M. Def of enemies in range.[LINE]
+Also removes enemy buffs.[END]
+
+//Text $19D4C8
+#WRITE(ptr,$184708)
+[Sign_6]Silence[END]
+
+//Text $19D498
+#WRITE(ptr,$184710)
+Seals spells and artes of one enemy.[LINE]
+[END]
+
+//Text $19D488
+#WRITE(ptr,$184728)
+[Sign_10]Barrier[END]
+
+//Text $19D438
+#WRITE(ptr,$184730)
+Temporarily raises P. Def of one ally and[LINE]
+removes negative ailments.[END]
+
+//Text $19D420
+#WRITE(ptr,$184748)
+[Sign_10]Sharpness[END]
+
+//Text $19D3D0
+#WRITE(ptr,$184750)
+Temporarily raises P. Atk of one ally and[LINE]
+removes negative ailments.[END]
+
+//Text $19D3C0
+#WRITE(ptr,$184768)
+[Sign_10]Dispel[END]
+
+//Text $19D388
+#WRITE(ptr,$184770)
+Removes status ailments for the party.[LINE]
+[END]
+//Section Strategy
+
+//Text $1A17E8
+#WRITE(ptr,$184DC8)
+Always Attack[END]
+
+//Text $1A17B8
+#WRITE(ptr,$184DCC)
+Ignore defense,[LINE]
+Attack in close-range.[END]
+
+//Text $1A17A8
+#WRITE(ptr,$184DD4)
+Cut Through[END]
+
+//Text $1A1760
+#WRITE(ptr,$184DD8)
+Fights in close range, will go on the defensive[LINE]
+if its HP gets low.[END]
+
+//Text $1A1750
+#WRITE(ptr,$184DE0)
+Balance[END]
+
+//Text $1A1700
+#WRITE(ptr,$184DE4)
+Fights in close range, go ranged, or[LINE]
+defensive if HP less than half.[END]
+
+//Text $1A16F0
+#WRITE(ptr,$184DEC)
+Protect[END]
+
+//Text $1A16B0
+#WRITE(ptr,$184DF0)
+Protect ally with the lowest HP[LINE]
+attacking enemies near them.[END]
+
+//Text $1A16A0
+#WRITE(ptr,$184DF8)
+Defend[END]
+
+//Text $1A1678
+#WRITE(ptr,$184DFC)
+Only defend and cast healing artes.[END]
+
+//Text $1A1668
+#WRITE(ptr,$184E04)
+Moderate Heal[END]
+
+//Text $1A1628
+#WRITE(ptr,$184E08)
+Focus on using healing artes on[LINE]
+allies with less than half HP.[END]
+
+//Text $1A1618
+#WRITE(ptr,$184E10)
+Heal[END]
+
+//Text $1A15D0
+#WRITE(ptr,$184E14)
+If an ally has taken any damage,[LINE]
+focus on using healing artes.[END]
+
+//Text $1A15B8
+#WRITE(ptr,$184E1C)
+好き勝手してよい[END]
+
+//Text $1A1580
+#WRITE(ptr,$184E20)
+サーチガルドとかを優先して使い、[LINE]
+回復も気分で使います。[END]
+
+//Text $1A156C
+#WRITE(ptr,$184E28)
+Attack Weak Enemy[END]
+
+//Text $1A1520
+#WRITE(ptr,$184E2C)
+Focus casting spells on low HP enemies,[LINE]
+then defend when HP is critical.[END]
+
+//Text $1A150A
+#WRITE(ptr,$184E34)
+Attack Strong Enemy[END]
+
+//Text $1A14C0
+#WRITE(ptr,$184E38)
+Focus on high-level enemies, then[LINE]
+defend against foes when HP [lessthan] 50%.[END]
+
+//Text $1A14B0
+#WRITE(ptr,$184E40)
+Attack Close[END]
+
+//Text $1A1468
+#WRITE(ptr,$184E44)
+Focus on nearest enemy, go melee[LINE]
+if they are close enough.[END]
+
+//Text $1A1458
+#WRITE(ptr,$184E4C)
+Disturb Enemy[END]
+
+//Text $1A1418
+#WRITE(ptr,$184E50)
+Aim at attacking/casting enemies[LINE]
+with fast spells or melee.[END]
+
+//Text $1A1408
+#WRITE(ptr,$184E58)
+Ranged Attack[END]
+
+//Text $1A13D8
+#WRITE(ptr,$184E5C)
+Stay in the rear, using ranged attacks.[END]
+
+//Text $1A13C0
+#WRITE(ptr,$184E64)
+Moderate Attacks[END]
+
+//Text $1A1388
+#WRITE(ptr,$184E68)
+Don't be aggressive but[LINE]
+counterattack nearby enemies.[END]
+
+//Text $1A1378
+#WRITE(ptr,$184E70)
+Attack Flying[END]
+
+//Text $1A1348
+#WRITE(ptr,$184E74)
+Focus on flying enemies.[END]
+
+//Text $1A1338
+#WRITE(ptr,$184E7C)
+Close Attack[END]
+
+//Text $1A12F0
+#WRITE(ptr,$184E80)
+Use melee artes.[END]
+
+//Text $1A12E0
+#WRITE(ptr,$184E88)
+Protect Rear[END]
+
+//Text $1A12B8
+#WRITE(ptr,$184E8C)
+Protect the leader's back.[END]
+
+//Text $1A12A8
+#WRITE(ptr,$184E94)
+Hit and Run[END]
+
+//Text $1A1278
+#WRITE(ptr,$184E98)
+Follow on the leader's attack.[END]
+
+//Text $1A1268
+#WRITE(ptr,$184EA0)
+Disturb Enemy[END]
+
+//Text $1A1238
+#WRITE(ptr,$184EA4)
+Move behind the enemies and attack them.[END]
+
+//Text $1A1228
+#WRITE(ptr,$184EAC)
+Attack Strong[END]
+
+//Text $1A11F8
+#WRITE(ptr,$184EB0)
+Target high-level enemies. Going all-out.[END]
+
+//Text $1A11E8
+#WRITE(ptr,$184EB8)
+Fire at Will[END]
+
+//Text $1A11B0
+#WRITE(ptr,$184EBC)
+Full on assault, attack without defending.[END]
+
+//Text $1A11A0
+#WRITE(ptr,$184EC4)
+Be Careful![END]
+
+//Text $1A1170
+#WRITE(ptr,$184EC8)
+Only attack from a safe distance preserving HP.[END]
+
+//Text $1A1160
+#WRITE(ptr,$184ED0)
+Support[END]
+
+//Text $1A1138
+#WRITE(ptr,$184ED4)
+Focus on casting supportive spells.[END]
+
+//Text $1A1128
+#WRITE(ptr,$184EDC)
+Balance[END]
+
+//Text $1A1100
+#WRITE(ptr,$184EE0)
+Focus using artes with status effects.[END]
+
+//Text $1A10F0
+#WRITE(ptr,$184EE8)
+Support[END]
+
+//Text $1A10A0
+#WRITE(ptr,$184EEC)
+Use support artes when at a safe distance[LINE]
+otherwise attack close enemies.[END]
+
+//Text $1A1090
+#WRITE(ptr,$184EF4)
+Attack Freely[END]
+
+//Text $1A1060
+#WRITE(ptr,$184EF8)
+Avoid normal attacks and[LINE]
+focus on using artes.[END]
+
+//Text $1A1050
+#WRITE(ptr,$184F00)
+Giant Wall[END]
+
+//Text $1A1018
+#WRITE(ptr,$184F04)
+Defend and prevent the[LINE]
+enemy from breaking through.[END]
+
+//Text $1A1008
+#WRITE(ptr,$184F0C)
+Running Target[END]
+
+//Text $1A0FD8
+#WRITE(ptr,$184F10)
+Change the target every time you move.[END]
+
+//Text $1A0FC8
+#WRITE(ptr,$184F18)
+まちがえた[END]
+
+//Text $1A0FA0
+#WRITE(ptr,$184F1C)
+ラベルをTAC_DOUBLEにかえてください[LINE]
+[END]
+//Section Swordian Device
+
+//Text $1A2840
+#WRITE(ptr,$184F3C)
+P. ATK  ＋[TAG_015][END]
+
+//Text $1A2830
+#WRITE(ptr,$184F44)
+Attack[END]
+
+//Text $1A2820
+#WRITE(ptr,$184F50)
+M. ATK  ＋[TAG_015][END]
+
+//Text $1A2810
+#WRITE(ptr,$184F58)
+Mind[END]
+
+//Text $1A2800
+#WRITE(ptr,$184F64)
+P. DEF＋[TAG_015][END]
+
+//Text $1A27F0
+#WRITE(ptr,$184F6C)
+Defence[END]
+
+//Text $1A27E0
+#WRITE(ptr,$184F78)
+M. DEF  ＋[TAG_015][END]
+
+//Text $1A27D0
+#WRITE(ptr,$184F80)
+Resist[END]
+
+//Text $1A27C0
+#WRITE(ptr,$184F8C)
+ACC   ＋[TAG_015][END]
+
+//Text $1A27B8
+#WRITE(ptr,$184F94)
+Hit[END]
+
+//Text $1A27A8
+#WRITE(ptr,$184FA0)
+EVA   ＋[TAG_015][END]
+
+//Text $1A2798
+#WRITE(ptr,$184FA8)
+Evasion[END]
+
+//Text $1A2788
+#WRITE(ptr,$184FB4)
+CRT   ＋[TAG_015][END]
+
+//Text $1A2778
+#WRITE(ptr,$184FBC)
+Critical[END]
+
+//Text $1A2768
+#WRITE(ptr,$184FC8)
+VIT ＋[TAG_015][END]
+
+//Text $1A2758
+#WRITE(ptr,$184FD0)
+Vitality[END]
+
+//Text $1A2748
+#WRITE(ptr,$184FDC)
+Stone Strike[END]
+
+//Text $1A2738
+#WRITE(ptr,$184FE4)
+Stone[END]
+
+//Text $1A2728
+#WRITE(ptr,$184FF0)
+Waste Strike[END]
+
+//Text $1A2718
+#WRITE(ptr,$184FF8)
+Waste[END]
+
+//Text $1A2708
+#WRITE(ptr,$185004)
+Poison Strike[END]
+
+//Text $1A26F8
+#WRITE(ptr,$18500C)
+Poison[END]
+
+//Text $1A26E8
+#WRITE(ptr,$185018)
+Sleep Strike[END]
+
+//Text $1A26D8
+#WRITE(ptr,$185020)
+Sleep[END]
+
+//Text $1A26C8
+#WRITE(ptr,$18502C)
+Paralyze Strike[END]
+
+//Text $1A26B8
+#WRITE(ptr,$185034)
+Paralyze[END]
+
+//Text $1A26A8
+#WRITE(ptr,$185040)
+Seal Strike[END]
+
+//Text $1A26A0
+#WRITE(ptr,$185048)
+Seal[END]
+
+//Text $1A2690
+#WRITE(ptr,$185054)
+Reduce Strike[END]
+
+//Text $1A2680
+#WRITE(ptr,$185068)
+Stop Strike[END]
+
+//Text $1A2670
+#WRITE(ptr,$18507C)
+Resist Stone[END]
+
+//Text $1A2660
+#WRITE(ptr,$185090)
+Resist Waste[END]
+
+//Text $1A2650
+#WRITE(ptr,$1850A4)
+Resist Poison[END]
+
+//Text $1A2640
+#WRITE(ptr,$1850B8)
+Resist Sleep[END]
+
+//Text $1A2630
+#WRITE(ptr,$1850CC)
+Resist Paralyze[END]
+
+//Text $1A2620
+#WRITE(ptr,$1850E0)
+Resist Seal[END]
+
+//Text $1A2610
+#WRITE(ptr,$1850F4)
+Resist Slash[END]
+
+//Text $1A2600
+#WRITE(ptr,$185108)
+Resist Blow[END]
+
+//Text $1A25F0
+#WRITE(ptr,$18511C)
+Resist Shot[END]
+
+//Text $1A25E0
+#WRITE(ptr,$185130)
+Resist Sonic[END]
+
+//Text $1A25D0
+#WRITE(ptr,$185144)
+Resist Earth[END]
+
+//Text $1A25C0
+#WRITE(ptr,$185158)
+Resist Wind[END]
+
+//Text $1A25B0
+#WRITE(ptr,$18516C)
+Resist Fire[END]
+
+//Text $1A25A0
+#WRITE(ptr,$185180)
+Resist Water[END]
+
+//Text $1A2590
+#WRITE(ptr,$185194)
+Resist Light[END]
+
+//Text $1A2580
+#WRITE(ptr,$1851A8)
+Resist Dark[END]
+
+//Text $1A2570
+#WRITE(ptr,$1851BC)
+HP Drain[END]
+
+//Text $1A2550
+#WRITE(ptr,$1851D0)
+Flash Guard raises  CC＋[TAG_015][END]
+
+//Text $1A2540
+#WRITE(ptr,$1851D4)
+PLUS CAPA[END]
+
+//Text $1A2520
+#WRITE(ptr,$1851E4)
+Recovers HP with Flash Guard[END]
+
+//Text $1A2518
+#WRITE(ptr,$1851E8)
+HEAL HP[END]
+
+//Text $1A2500
+#WRITE(ptr,$1851F8)
+P. ATK up with charge[END]
+
+//Text $1A24F0
+#WRITE(ptr,$1851FC)
+ATTACK UP[END]
+
+//Text $1A24D8
+#WRITE(ptr,$18520C)
+M. ATK up with charge[END]
+
+//Text $1A24D0
+#WRITE(ptr,$185210)
+MIND UP[END]
+
+//Text $1A24B8
+#WRITE(ptr,$185220)
+P. DEF up with charge[END]
+
+//Text $1A24A8
+#WRITE(ptr,$185224)
+DEFENCE UP[END]
+
+//Text $1A2490
+#WRITE(ptr,$185234)
+M. DEF up with charge[END]
+
+//Text $1A2480
+#WRITE(ptr,$185238)
+RESIST UP[END]
+
+//Text $1A2460
+#WRITE(ptr,$185248)
+Remove ailment with charge[END]
+
+//Text $1A2450
+#WRITE(ptr,$18524C)
+ALL CLEAR[END]
+
+//Text $1A2438
+#WRITE(ptr,$18525C)
+CC＋1 when charging[END]
+
+//Text $1A2428
+#WRITE(ptr,$185260)
+CHAIN CAPA +1[END]
+
+//Text $1A2408
+#WRITE(ptr,$185270)
+Invincible during charge[END]
+
+//Text $1A2400
+#WRITE(ptr,$185274)
+FLASH[END]
+
+//Text $1A23E0
+#WRITE(ptr,$185284)
+Fill Blast gauge when charging[END]
+
+//Text $1A23D0
+#WRITE(ptr,$185288)
+BLAST PLUS[END]
+
+//Text $1A23B0
+#WRITE(ptr,$185298)
+Give allies CC with Charge[END]
+
+//Text $1A23A0
+#WRITE(ptr,$18529C)
+CHAIN SUPPLY[END]
+
+//Text $1A2388
+#WRITE(ptr,$1852AC)
+Charge recovers HP[END]
+
+//Text $1A2518
+#WRITE(ptr,$1852B0)
+HEAL HP[END]
+
+//Text $1A2368
+#WRITE(ptr,$1852C0)
+Increase P. ATK when charging[END]
+
+//Text $1A2358
+#WRITE(ptr,$1852C4)
+CHARGE ATTACK[END]
+
+//Text $1A2338
+#WRITE(ptr,$1852D4)
+Remove de-buffs when charging[END]
+
+//Text $1A2328
+#WRITE(ptr,$1852D8)
+DESPEL EFFECT[END]
+
+//Text $1A2308
+#WRITE(ptr,$1852E8)
+Restore [TAG_015]％ HP every 2 sec.[END]
+
+//Text $1A2518
+#WRITE(ptr,$1852EC)
+HEAL HP[END]
+
+//Text $1A22F8
+#WRITE(ptr,$1852F0)
+Holy[END]
+
+//Text $1A22D8
+#WRITE(ptr,$1852FC)
+Fills blast gauge over time[END]
+
+//Text $1A23D0
+#WRITE(ptr,$185300)
+BLAST PLUS[END]
+
+//Text $1A22B8
+#WRITE(ptr,$185310)
+May heal [TAG_015]％HP near death[END]
+
+//Text $1A22B0
+#WRITE(ptr,$185314)
+RESCURE[END]
+
+//Text $1A22A0
+#WRITE(ptr,$185318)
+Rescue[END]
+
+//Text $1A2280
+#WRITE(ptr,$185324)
+Kill foe to heal HP[END]
+
+//Text $1A2278
+#WRITE(ptr,$185328)
+GAIN HP[END]
+
+//Text $1A2270
+#WRITE(ptr,$18532C)
+Gain[END]
+
+//Text $1A2250
+#WRITE(ptr,$185338)
+Kill foe to gain  CC＋[TAG_015][END]
+
+//Text $1A2240
+#WRITE(ptr,$18533C)
+GAIN CAPA[END]
+
+//Text $1A2230
+#WRITE(ptr,$185340)
+Rapid[END]
+
+//Text $1A2208
+#WRITE(ptr,$18534C)
+Fill blast gauge when foe defeated[END]
+
+//Text $1A21F8
+#WRITE(ptr,$185350)
+GAIN BLAST[END]
+
+//Text $1A21E8
+#WRITE(ptr,$185354)
+Tension[END]
+
+//Text $1A21C8
+#WRITE(ptr,$185360)
+2xEXP but get killed instantly[END]
+
+//Text $1A21C0
+#WRITE(ptr,$185364)
+CRUSH![END]
+
+//Text $1A2198
+#WRITE(ptr,$185374)
+Deal double damage but take criticals[END]
+
+//Text $1A2178
+#WRITE(ptr,$185388)
+Min CC＋１, Max CC＋１[END]
+
+//Text $1A2168
+#WRITE(ptr,$185390)
+Variable[END]
+
+//Text $1A2150
+#WRITE(ptr,$18539C)
+CC is fixed at [TAG_015][END]
+
+//Text $1A2138
+#WRITE(ptr,$1853B0)
+Min CC＋[TAG_015][END]
+
+//Text $1A2130
+#WRITE(ptr,$1853B8)
+Rise[END]
+
+//Text $1A2118
+#WRITE(ptr,$1853C4)
+Max CC＋[TAG_015][END]
+
+//Text $1A2108
+#WRITE(ptr,$1853CC)
+Exceed[END]
+
+//Text $1A20E0
+#WRITE(ptr,$1853D8)
+Critical attacks stun foes longer[END]
+
+//Text $1A20D0
+#WRITE(ptr,$1853DC)
+ADD STUN[END]
+
+//Text $1A20C0
+#WRITE(ptr,$1853EC)
+Stunner[END]
+
+//Text $1A20A0
+#WRITE(ptr,$185400)
+Critical attack CC＋[TAG_015][END]
+
+//Text $1A2090
+#WRITE(ptr,$185404)
+ADD CAPA[END]
+
+//Text $1A2080
+#WRITE(ptr,$185408)
+Chaser[END]
+
+//Text $1A2050
+#WRITE(ptr,$185414)
+Block physical attacks during an aiming step[END]
+
+//Text $1A2048
+#WRITE(ptr,$185418)
+GUARD[END]
+
+//Text $1A2020
+#WRITE(ptr,$185428)
+Artes stun enemies longer[END]
+
+//Text $1A2018
+#WRITE(ptr,$185430)
+Heavy[END]
+
+//Text $1A1FF8
+#WRITE(ptr,$18543C)
+Spells stun foes longer[END]
+
+//Text $1A1FF0
+#WRITE(ptr,$185444)
+Bless[END]
+
+//Text $1A1FC8
+#WRITE(ptr,$185450)
+Decrease stun from physical attacks[END]
+
+//Text $1A1FB8
+#WRITE(ptr,$185458)
+Iron Body[END]
+
+//Text $1A1F90
+#WRITE(ptr,$185464)
+Decrease stun from enemy spells[END]
+
+//Text $1A1F80
+#WRITE(ptr,$18546C)
+Distort[END]
+
+//Text $1A1F70
+#WRITE(ptr,$185478)
+Earth Elemental[END]
+
+//Text $1A1F60
+#WRITE(ptr,$18548C)
+Wind Elemental[END]
+
+//Text $1A1F50
+#WRITE(ptr,$1854A0)
+Fire Elemental[END]
+
+//Text $1A1F40
+#WRITE(ptr,$1854B4)
+Water Elemental[END]
+
+//Text $1A1F30
+#WRITE(ptr,$1854C8)
+Light Elemental[END]
+
+//Text $1A1F20
+#WRITE(ptr,$1854DC)
+Dark Elemental[END]
+
+//Text $1A1F00
+#WRITE(ptr,$1854F0)
+Increase damage of Earth spells[END]
+
+//Text $1A1EE0
+#WRITE(ptr,$185504)
+Increase damage of Wind spells[END]
+
+//Text $1A1EC0
+#WRITE(ptr,$185518)
+Increase damage of Fire spells[END]
+
+//Text $1A1EA0
+#WRITE(ptr,$18552C)
+Increase damage of Water spells[END]
+
+//Text $1A1E80
+#WRITE(ptr,$185540)
+Increase damage of Light spells[END]
+
+//Text $1A1E60
+#WRITE(ptr,$185554)
+Increase damage of Dark spells[END]
+
+//Text $1A1E40
+#WRITE(ptr,$185568)
+Reduce Earth spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$18556C)
+HIGH SPEED[END]
+
+//Text $1A1E20
+#WRITE(ptr,$185570)
+De-Earth[END]
+
+//Text $1A1E00
+#WRITE(ptr,$18557C)
+Reduce Wind spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$185580)
+HIGH SPEED[END]
+
+//Text $1A1DF0
+#WRITE(ptr,$185584)
+De-Wind[END]
+
+//Text $1A1DD0
+#WRITE(ptr,$185590)
+Reduce Fire spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$185594)
+HIGH SPEED[END]
+
+//Text $1A1DC0
+#WRITE(ptr,$185598)
+De-Fire[END]
+
+//Text $1A1DA0
+#WRITE(ptr,$1855A4)
+Reduce Water spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855A8)
+HIGH SPEED[END]
+
+//Text $1A1D90
+#WRITE(ptr,$1855AC)
+De-Water[END]
+
+//Text $1A1D70
+#WRITE(ptr,$1855B8)
+Reduce Light spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855BC)
+HIGH SPEED[END]
+
+//Text $1A1D60
+#WRITE(ptr,$1855C0)
+De-Light[END]
+
+//Text $1A1D40
+#WRITE(ptr,$1855CC)
+Reduce Dark spell cast time[END]
+
+//Text $1A1E30
+#WRITE(ptr,$1855D0)
+HIGH SPEED[END]
+
+//Text $1A1D30
+#WRITE(ptr,$1855D4)
+De-Dark[END]
+
+//Text $1A1D20
+#WRITE(ptr,$1855E0)
+Reduce foe ATK[END]
+
+//Text $1A1D10
+#WRITE(ptr,$1855E4)
+ATTACK DOWN[END]
+
+//Text $1A1D00
+#WRITE(ptr,$1855F4)
+Reduce foe DEF[END]
+
+//Text $1A1CF0
+#WRITE(ptr,$1855F8)
+DEFENCE DOWN[END]
+
+//Text $1A1CD8
+#WRITE(ptr,$185608)
+Reduce foe M. ATK[END]
+
+//Text $1A1CC8
+#WRITE(ptr,$18560C)
+MIND DOWN[END]
+
+//Text $1A1CB0
+#WRITE(ptr,$18561C)
+Reduce foe M. DEF[END]
+
+//Text $1A1CA0
+#WRITE(ptr,$185620)
+RESIST DOWN[END]
+
+//Text $1A1C90
+#WRITE(ptr,$185630)
+Reduce foe ACC[END]
+
+//Text $1A1C80
+#WRITE(ptr,$185634)
+HITRATE DOWN[END]
+
+//Text $1A1C70
+#WRITE(ptr,$185644)
+Reduce foe EVA[END]
+
+//Text $1A1C60
+#WRITE(ptr,$185648)
+EVADE DOWN[END]
+
+//Text $1A1C50
+#WRITE(ptr,$185658)
+Hits recover HP[END]
+
+//Text $1A1C30
+#WRITE(ptr,$18566C)
+Recovery spell also heal caster[END]
+
+//Text $1A1C20
+#WRITE(ptr,$185670)
+SHARE<$81>@HP[END]
+
+//Text $1A1C18
+#WRITE(ptr,$185674)
+Share[END]
+
+//Text $1A1BF8
+#WRITE(ptr,$185680)
+The power of impersonation?[END]
+
+//Text $1A1BE0
+#WRITE(ptr,$185694)
+一定確率で気絶させる[END]
+
+//Text $1A1BD8
+#WRITE(ptr,$185698)
+PIYO[END]
+
+//Text $1A1BB8
+#WRITE(ptr,$1856A8)
+Periodical food recovery[END]
+
+//Text $1A1BA8
+#WRITE(ptr,$1856AC)
+CHARGE<$81>@FOOD[END]
+
+//Text $1A1B88
+#WRITE(ptr,$1856BC)
+蒼破刃：ダッシュ中に魔神剣[END]
+
+//Text $1A1B70
+#WRITE(ptr,$1856D0)
+紅蓮剣：空中で屠龍閃[END]
+
+//Text $1A1B50
+#WRITE(ptr,$1856E4)
+魔王炎撃波：爆炎剣中に魔神剣[END]
+
+//Text $1A1B30
+#WRITE(ptr,$1856F8)
+空牙昇竜脚：断空剣中に飛燕連脚[END]
+
+//Text $1A1B18
+#WRITE(ptr,$18570C)
+チャージが剛招来に変化[END]
+
+//Text $1A1AF8
+#WRITE(ptr,$185720)
+魔神双破斬：魔神剣中に虎牙破斬[END]
+
+//Text $1A1AE0
+#WRITE(ptr,$185734)
+真空裂斬：空中で烈空斬[END]
+
+//Text $1A1AC0
+#WRITE(ptr,$185748)
+獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]
+
+//Text $1A1A98
+#WRITE(ptr,$18575C)
+獅子戦吼：エイミングステップ中に灼光拳[END]
+
+//Text $1A1A78
+#WRITE(ptr,$185770)
+翔凰烈火：閃光裂破中に鳳凰天駆[END]
+
+//Text $1A1A60
+#WRITE(ptr,$185798)
+Song effectiveness up[END]
+
+//Text $1A1A50
+#WRITE(ptr,$18579C)
+SUPPORT PLUS[END]
+
+//Text $1A1A30
+#WRITE(ptr,$1857AC)
+チャージがサーチガルドに変化[END]
+
+//Text $1A1A08
+#WRITE(ptr,$1857D4)
+Chance to steal item up by [TAG_015]％[END]
+
+//Text $1A19F0
+#WRITE(ptr,$1857E8)
+Block abnormal status[END]
+
+//Text $1A19D0
+#WRITE(ptr,$1857FC)
+Withstand [TAG_015] physical attack[END]
+
+//Text $1A19B8
+#WRITE(ptr,$185810)
+Attacks knockback foes[END]
+
+//Text $1A1990
+#WRITE(ptr,$185824)
+Life Bottle fully restores HP[END]
+
+//Text $1A1980
+#WRITE(ptr,$185828)
+FULL<$81>@HEAL[END]
+
+//Text $1A1958
+#WRITE(ptr,$185838)
+Reduce time to use next item by [TAG_015]％[END]
+
+//Text $1A1948
+#WRITE(ptr,$18583C)
+REDUSE<$81>@TIME[END]
+
+//Text $1A1928
+#WRITE(ptr,$18584C)
+Recovery items heal [TAG_015]% more[END]
+
+//Text $1A1918
+#WRITE(ptr,$185850)
+BONUS<$81>@HEAL[END]
+
+//Text $1A1900
+#WRITE(ptr,$185860)
+Set CC to average value[END]
+
+//Text $1A18D9
+#WRITE(ptr,$185874)
+Chance to steal item with critical hit[END]
+
+//Text $1A18D0
+#WRITE(ptr,$185878)
+GET ITEM[END]
+
+//Text $1A18B0
+#WRITE(ptr,$185888)
+Protects against critical hits[END]
+
+//Text $1A18A0
+#WRITE(ptr,$185890)
+Shield[END]
+
+//Text $1A1880
+#WRITE(ptr,$18589C)
+May revive user when KO'd[END]
+
+//Text $1A1870
+#WRITE(ptr,$1858A4)
+Phoenix[END]
+
+//Text $1A1850
+#WRITE(ptr,$1858B0)
+Fill Blast Gauge when HP is low[END]
+
+//Text $1A1840
+#WRITE(ptr,$1858B8)
+Saint[END]
+
+//Text $1A1830
+#WRITE(ptr,$1858C4)
+Max HP＋1000[END]
+
+//Text $1A1820
+#WRITE(ptr,$1858CC)
+Stamina[END]
+
+//Text $1A1808
+#WRITE(ptr,$1858D8)
+ライフ１０％回復[END]
+
+//Text $1A1800
+#WRITE(ptr,$1858DC)
+CUPID[END]

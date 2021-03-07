@@ -1470,7 +1470,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0A28
 #WRITE(ptr,$18D704)
-[Sign_2]ポイズン[END]
+[Sign_2]Poison[END]
 
 //Text $1B09F0
 #WRITE(ptr,$18D708)
@@ -1480,7 +1480,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B09E0
 #WRITE(ptr,$18D720)
-[Sign_2]スリープ[END]
+[Sign_2]Sleep[END]
 
 //Text $1B09A8
 #WRITE(ptr,$18D724)
@@ -1490,7 +1490,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0998
 #WRITE(ptr,$18D73C)
-[Sign_2]ストーン[END]
+[Sign_2]Stone[END]
 
 //Text $1B0960
 #WRITE(ptr,$18D740)
@@ -1500,7 +1500,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0950
 #WRITE(ptr,$18D758)
-[Sign_2]ウェイスト[END]
+[Sign_2]Waste[END]
 
 //Text $1B0918
 #WRITE(ptr,$18D75C)
@@ -1510,7 +1510,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0908
 #WRITE(ptr,$18D774)
-[Sign_2]パラライ[END]
+[Sign_2]Paralyze[END]
 
 //Text $1B08D0
 #WRITE(ptr,$18D778)
@@ -1520,7 +1520,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B08C0
 #WRITE(ptr,$18D790)
-[Sign_2]シール[END]
+[Sign_2]Seal[END]
 
 //Text $1B0888
 #WRITE(ptr,$18D794)
@@ -1530,7 +1530,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0878
 #WRITE(ptr,$18D7AC)
-[Sign_2]フレア[END]
+[Sign_2]Flare[END]
 
 //Text $1B0838
 #WRITE(ptr,$18D7B0)
@@ -1540,7 +1540,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0828
 #WRITE(ptr,$18D7C8)
-[Sign_2]アクア[END]
+[Sign_2]Aqua[END]
 
 //Text $1B07E8
 #WRITE(ptr,$18D7CC)
@@ -1550,7 +1550,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B07D8
 #WRITE(ptr,$18D7E4)
-[Sign_2]アース[END]
+[Sign_2]Earth[END]
 
 //Text $1B0798
 #WRITE(ptr,$18D7E8)
@@ -1560,7 +1560,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0788
 #WRITE(ptr,$18D800)
-[Sign_2]ゲイル[END]
+[Sign_2]Gale[END]
 
 //Text $1B0748
 #WRITE(ptr,$18D804)
@@ -1570,7 +1570,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0738
 #WRITE(ptr,$18D81C)
-[Sign_2]ライト[END]
+[Sign_2]Light[END]
 
 //Text $1B06F8
 #WRITE(ptr,$18D820)
@@ -1580,7 +1580,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B06E8
 #WRITE(ptr,$18D838)
-[Sign_2]ダーク[END]
+[Sign_2]Dark[END]
 
 //Text $1B06A8
 #WRITE(ptr,$18D83C)
@@ -1590,7 +1590,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0698
 #WRITE(ptr,$18D854)
-[Sign_2]スラッシュ[END]
+[Sign_2]Slash[END]
 
 //Text $1B0658
 #WRITE(ptr,$18D858)
@@ -1600,7 +1600,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0648
 #WRITE(ptr,$18D870)
-[Sign_2]ブロウ[END]
+[Sign_2]Blow[END]
 
 //Text $1B0608
 #WRITE(ptr,$18D874)
@@ -1610,7 +1610,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B05F8
 #WRITE(ptr,$18D88C)
-[Sign_2]ショット[END]
+[Sign_2]Shot[END]
 
 //Text $1B05B8
 #WRITE(ptr,$18D890)
@@ -1620,7 +1620,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B05A8
 #WRITE(ptr,$18D8A8)
-[Sign_2]ソニック[END]
+[Sign_2]Sonic[END]
 
 //Text $1B0568
 #WRITE(ptr,$18D8AC)
@@ -1630,7 +1630,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0558
 #WRITE(ptr,$18D8C4)
-[Sign_2]アタック[END]
+[Sign_2]Attack[END]
 
 //Text $1B0520
 #WRITE(ptr,$18D8C8)
@@ -1640,7 +1640,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0510
 #WRITE(ptr,$18D8E0)
-[Sign_2]マインド[END]
+[Sign_2]Mind[END]
 
 //Text $1B04D0
 #WRITE(ptr,$18D8E4)
@@ -1650,7 +1650,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B04C0
 #WRITE(ptr,$18D8FC)
-[Sign_2]プロテクト[END]
+[Sign_2]Protect[END]
 
 //Text $1B0488
 #WRITE(ptr,$18D900)
@@ -1660,7 +1660,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0478
 #WRITE(ptr,$18D918)
-[Sign_2]レジスト[END]
+[Sign_2]Resist[END]
 
 //Text $1B0438
 #WRITE(ptr,$18D91C)
@@ -1670,7 +1670,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0428
 #WRITE(ptr,$18D934)
-[Sign_2]リカバー[END]
+[Sign_2]Recover[END]
 
 //Text $1B03E8
 #WRITE(ptr,$18D938)
@@ -1680,7 +1680,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B03D8
 #WRITE(ptr,$18D950)
-[Sign_2]チェイン[END]
+[Sign_2]Chain[END]
 
 //Text $1B03A8
 #WRITE(ptr,$18D954)
@@ -1690,7 +1690,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0398
 #WRITE(ptr,$18D96C)
-[Sign_2]フラッシュ[END]
+[Sign_2]Flash[END]
 
 //Text $1B0360
 #WRITE(ptr,$18D970)
@@ -1700,7 +1700,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0350
 #WRITE(ptr,$18D988)
-[Sign_2]ブラスト[END]
+[Sign_2]Blast[END]
 
 //Text $1B0318
 #WRITE(ptr,$18D98C)
@@ -1710,7 +1710,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0308
 #WRITE(ptr,$18D9A4)
-[Sign_2]サプライ[END]
+[Sign_2]Supply[END]
 
 //Text $1B02C8
 #WRITE(ptr,$18D9A8)
@@ -1720,7 +1720,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B02B8
 #WRITE(ptr,$18D9C0)
-[Sign_2]キュア[END]
+[Sign_2]Cure[END]
 
 //Text $1B0288
 #WRITE(ptr,$18D9C4)
@@ -1730,7 +1730,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0278
 #WRITE(ptr,$18D9DC)
-[Sign_2]フィジカル[END]
+[Sign_2]Physical[END]
 
 //Text $1B0238
 #WRITE(ptr,$18D9E0)
@@ -1740,7 +1740,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0228
 #WRITE(ptr,$18D9F8)
-[Sign_2]ディスペル[END]
+[Sign_2]Dispel[END]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
@@ -1750,7 +1750,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B01E0
 #WRITE(ptr,$18DA14)
-[Sign_2]ライズ[END]
+[Sign_2]Rise[END]
 
 //Text $1B01C0
 #WRITE(ptr,$18DA18)
@@ -1760,7 +1760,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B01B0
 #WRITE(ptr,$18DA30)
-[Sign_2]エクシード[END]
+[Sign_2]Exceed[END]
 
 //Text $1B0190
 #WRITE(ptr,$18DA34)
@@ -1770,7 +1770,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0180
 #WRITE(ptr,$18DA4C)
-[Sign_2]ゼクシード[END]
+[Sign_2]Zexceed[END]
 
 //Text $1B0160
 #WRITE(ptr,$18DA50)
@@ -1780,7 +1780,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0150
 #WRITE(ptr,$18DA68)
-[Sign_2]バリアブル[END]
+[Sign_2]Variable[END]
 
 //Text $1B0128
 #WRITE(ptr,$18DA6C)
@@ -1790,7 +1790,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0118
 #WRITE(ptr,$18DA84)
-[Sign_2]フィックス[END]
+[Sign_2]Fix[END]
 
 //Text $1B00F8
 #WRITE(ptr,$18DA88)
@@ -1800,7 +1800,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B00E8
 #WRITE(ptr,$18DAA0)
-[Sign_2]フラット[END]
+[Sign_2]Flat[END]
 
 //Text $1B00C8
 #WRITE(ptr,$18DAA4)
@@ -1810,7 +1810,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B00B8
 #WRITE(ptr,$18DABC)
-[Sign_2]チェイサー[END]
+[Sign_2]Chaser[END]
 
 //Text $1B0090
 #WRITE(ptr,$18DAC0)
@@ -1820,7 +1820,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0080
 #WRITE(ptr,$18DAD8)
-[Sign_2]ホーリィ[END]
+[Sign_2]Holy[END]
 
 //Text $1B0058
 #WRITE(ptr,$18DADC)
@@ -1830,7 +1830,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0048
 #WRITE(ptr,$18DAF4)
-[Sign_2]ゲイン[END]
+[Sign_2]Gain[END]
 
 //Text $1B0020
 #WRITE(ptr,$18DAF8)
@@ -1840,7 +1840,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0010
 #WRITE(ptr,$18DB10)
-[Sign_2]ラピッド[END]
+[Sign_2]Rapid[END]
 
 //Text $1AFFE8
 #WRITE(ptr,$18DB14)
@@ -1850,7 +1850,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFFD8
 #WRITE(ptr,$18DB2C)
-[Sign_2]テンション[END]
+[Sign_2]Tension[END]
 
 //Text $1AFFA0
 #WRITE(ptr,$18DB30)
@@ -1860,7 +1860,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFF90
 #WRITE(ptr,$18DB48)
-[Sign_2]アドバンス[END]
+[Sign_2]Advance[END]
 
 //Text $1AFF58
 #WRITE(ptr,$18DB4C)
@@ -1870,7 +1870,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFF48
 #WRITE(ptr,$18DB64)
-[Sign_2]ストリクト[END]
+[Sign_2]Strict[END]
 
 //Text $1AFEF8
 #WRITE(ptr,$18DB68)
@@ -1880,7 +1880,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFEE8
 #WRITE(ptr,$18DB80)
-[Sign_2]アブソーブ[END]
+[Sign_2]Absorb[END]
 
 //Text $1AFEA0
 #WRITE(ptr,$18DB84)
@@ -1890,7 +1890,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFE90
 #WRITE(ptr,$18DB9C)
-[Sign_2]デモンズ[END]
+[Sign_2]Demons[END]
 
 //Text $1AFE60
 #WRITE(ptr,$18DBA0)
@@ -1900,7 +1900,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFE50
 #WRITE(ptr,$18DBB8)
-[Sign_2]エッジ[END]
+[Sign_2]Edge[END]
 
 //Text $1AFE20
 #WRITE(ptr,$18DBBC)
@@ -1910,7 +1910,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFE08
 #WRITE(ptr,$18DBD4)
-[Sign_2]なりきりスタン[END]
+[Sign_2]Narikiri Stahn[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DBD8)
@@ -1920,7 +1920,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFDD0
 #WRITE(ptr,$18DBF0)
-[Sign_2]なりきりルーティ[END]
+[Sign_2]Narikiri Rutee[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DBF4)
@@ -1930,7 +1930,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFDB8
 #WRITE(ptr,$18DC0C)
-[Sign_2]なりきりフィリア[END]
+[Sign_2]Narikiri Philia[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC10)
@@ -1940,7 +1940,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFDA0
 #WRITE(ptr,$18DC28)
-[Sign_2]なりきりウッドロウ[END]
+[Sign_2]Narikiri Garr[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC2C)
@@ -1950,7 +1950,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD88
 #WRITE(ptr,$18DC44)
-[Sign_2]なりきりリオン[END]
+[Sign_2]Narikiri Leon[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC48)
@@ -1960,7 +1960,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD70
 #WRITE(ptr,$18DC60)
-[Sign_2]なりきりマリー[END]
+[Sign_2]Narikiri Mary[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC64)
@@ -1970,7 +1970,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD58
 #WRITE(ptr,$18DC7C)
-[Sign_2]なりきりチェルシー[END]
+[Sign_2]Narikiri Chelsea[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC80)
@@ -1980,7 +1980,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD40
 #WRITE(ptr,$18DC98)
-[Sign_2]なりきりジョニー[END]
+[Sign_2]Narikiri Karyl[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC9C)
@@ -1990,7 +1990,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD28
 #WRITE(ptr,$18DCB4)
-[Sign_2]なりきりコングマン[END]
+[Sign_2]Narikiri Bruiser[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DCB8)
@@ -2000,7 +2000,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AFD10
 #WRITE(ptr,$18DCD0)
-[Sign_2]なりきりリリス[END]
+[Sign_2]Narikiri Lilith[END]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DCD4)
@@ -2011,97 +2011,96 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2CD0
 #WRITE(ptr,$18DD2C)
-[Sign_Sword]ディムロス[END]
+[Sign_Sword]Dymlos[END]
 
 //Text $1B2C80
 #WRITE(ptr,$18DD30)
-火属性の知能ある剣。[LINE]
-人格は、熱血漢の切り込み隊長。[LINE]
-ディムロス・ティンバー。[END]
+Swordian of Fire.[LINE]
+Leader of an army.[LINE]
+His full name is Dymlos Timber.[END]
 
 //Text $1B2C70
 #WRITE(ptr,$18DD68)
-[Sign_Sword]アトワイト[END]
+[Sign_Sword]Atwight[END]
 
 //Text $1B2C20
 #WRITE(ptr,$18DD6C)
-水属性の知能ある剣。[LINE]
-人格は、激情を秘めた理知的な女性。[LINE]
-アトワイト・エックス。[END]
+Swordian of Water.[LINE]
+Fierce and intelligent woman.[LINE]
+Her full name is Atwight Ecks.[END]
 
 //Text $1B2C10
 #WRITE(ptr,$18DDA4)
-[Sign_Sword]クレメンテ[END]
+[Sign_Sword]Clemente[END]
 
 //Text $1B2BC0
 #WRITE(ptr,$18DDA8)
-光属性の知能ある剣。[LINE]
-人格は、知識と経験のある老人。[LINE]
-ラヴィル・クレメンテ。[END]
+Swordian of Light.[LINE]
+A wise old man.[LINE]
+His full name is Laville Clemente.[END]
 
 //Text $1B2BA8
 #WRITE(ptr,$18DDE0)
-[Sign_Sword]イクティノス[END]
+[Sign_Sword]Igtenos[END]
 
 //Text $1B2B50
 #WRITE(ptr,$18DDE4)
-風属性の知能ある剣。[LINE]
-人格は、知性と合理性を持った男性。[LINE]
-イクティノス・マイナード。[END]
+Swordian of Wind.[LINE]
+A rational and intelligent man.[LINE]
+His full name is Igtenos Mindarde.[END]
 
 //Text $1B2B38
 #WRITE(ptr,$18DE1C)
-[Sign_Sword]シャルティエ[END]
+[Sign_Sword]Chaltier[END]
 
 //Text $1B2AE0
 #WRITE(ptr,$18DE20)
-地属性の知能ある剣。[LINE]
-人格は、才能に恵まれた若き青年。[LINE]
-ピエール・ド・シャルティエ。[END]
+Swordian of Earth.[LINE]
+A gifted young man, his full name is[LINE]
+Pierre de Chaltier.[END]
 
 //Text $1B2AC8
 #WRITE(ptr,$18DE58)
-[Sign_Sword]ナイトブレイド[END]
+[Sign_Sword]Knight Blade[END]
 
 //Text $1B2A80
 #WRITE(ptr,$18DE5C)
-各国の軍隊に採用されている剣。[LINE]
-シンプルな作りで非常に扱いやすい。[LINE]
-[END]
+A sword adopted by the armed[LINE]
+forces of many countries.[LINE]
+Easy to use.[END]
 
 //Text $1B2A68
 #WRITE(ptr,$18DE94)
-[Sign_Sword]ロイヤルブレイド[END]
+[Sign_Sword]Royal Blade[END]
 
 //Text $1B2A18
 #WRITE(ptr,$18DE98)
-ファンダリア王家に伝わる名剣。[LINE]
-見た目の豪華さとは裏腹に、[LINE]
-鋭い切れ味を持つ。[END]
+A famous sword handed down from[LINE]
+the Royal Family of Phandaria.[LINE]
+Looks sharp.[END]
 
 //Text $1B2A08
 #WRITE(ptr,$18DED0)
-[Sign_Sword]古びた剣[END]
+[Sign_Sword]Artifact[END]
 
 //Text $1B29A0
 #WRITE(ptr,$18DED4)
-飛行竜の船倉に厳重保管されていた、[LINE]
-変わった形の妙に手になじむ剣。[LINE]
-何か得体の知れない力を感じる……[END]
+An oddly shaped sword and comfy in the hand.[LINE]
+It was kept on the Draconis.[LINE]
+A powerful aura can be felt[END]
 
 //Text $1B2988
 #WRITE(ptr,$18DF0C)
-[Sign_Sword]ストーンアックス[END]
+[Sign_Sword]Stone Axe[END]
 
 //Text $1B2940
 #WRITE(ptr,$18DF10)
-石を削って作られた石製の斧。[LINE]
-すでに時代遅れの武器だが[LINE]
-人の進化の証。[END]
+A knapped stone axe. Although[LINE]
+obsolete, it's still a human milestone.[END]
 
 //Text $1B2928
 #WRITE(ptr,$18DF48)
-[Sign_Sword]ブロンズアックス[END]
+[Sign_Sword]Bronze Axe[END]
 
 //Text $1B28E0
 #WRITE(ptr,$18DF4C)
@@ -2111,7 +2110,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B28C8
 #WRITE(ptr,$18DF84)
-[Sign_Sword]アイアンアックス[END]
+[Sign_Sword]Iron Axe[END]
 
 //Text $1B2888
 #WRITE(ptr,$18DF88)
@@ -2121,7 +2120,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2870
 #WRITE(ptr,$18DFC0)
-[Sign_Sword]スチールアックス[END]
+[Sign_Sword]Steel Axe[END]
 
 //Text $1B2840
 #WRITE(ptr,$18DFC4)
@@ -2131,7 +2130,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2828
 #WRITE(ptr,$18DFFC)
-[Sign_Sword]チタンアックス[END]
+[Sign_Sword]Titanium Axe[END]
 
 //Text $1B27D8
 #WRITE(ptr,$18E000)
@@ -2141,7 +2140,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B27C0
 #WRITE(ptr,$18E038)
-[Sign_Sword]シルバーアックス[END]
+[Sign_Sword]Silver Axe[END]
 
 //Text $1B2790
 #WRITE(ptr,$18E03C)
@@ -2151,7 +2150,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2778
 #WRITE(ptr,$18E074)
-[Sign_Sword]ゴールドアックス[END]
+[Sign_Sword]Gold Axe[END]
 
 //Text $1B2740
 #WRITE(ptr,$18E078)
@@ -2161,7 +2160,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2728
 #WRITE(ptr,$18E0B0)
-[Sign_Sword]ミスリルアックス[END]
+[Sign_Sword]Mithril Axe[END]
 
 //Text $1B26E0
 #WRITE(ptr,$18E0B4)
@@ -2171,7 +2170,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B26C8
 #WRITE(ptr,$18E0EC)
-[Sign_Sword]ハンドアックス[END]
+[Sign_Sword]Hand Axe[END]
 
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
@@ -2181,7 +2180,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2668
 #WRITE(ptr,$18E128)
-[Sign_Sword]バトルアックス[END]
+[Sign_Sword]Battle Axe[END]
 
 //Text $1B2628
 #WRITE(ptr,$18E12C)
@@ -2191,7 +2190,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2610
 #WRITE(ptr,$18E164)
-[Sign_Sword]グレートアックス[END]
+[Sign_Sword]Great Axe[END]
 
 //Text $1B25B0
 #WRITE(ptr,$18E168)
@@ -2201,7 +2200,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2598
 #WRITE(ptr,$18E1A0)
-[Sign_Sword]クレセントアックス[END]
+[Sign_Sword]Crescent Axe[END]
 
 //Text $1B2548
 #WRITE(ptr,$18E1A4)
@@ -2211,7 +2210,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2530
 #WRITE(ptr,$18E1DC)
-[Sign_Sword]ヘッドアックス[END]
+[Sign_Sword]Head Axe[END]
 
 //Text $1B24D8
 #WRITE(ptr,$18E1E0)
@@ -2221,7 +2220,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B24C0
 #WRITE(ptr,$18E218)
-[Sign_Sword]ストライクアックス[END]
+[Sign_Sword]Strike Axe[END]
 
 //Text $1B2480
 #WRITE(ptr,$18E21C)
@@ -2231,7 +2230,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2468
 #WRITE(ptr,$18E254)
-[Sign_Sword]ドライビンアックス[END]
+[Sign_Sword]Driving Axe[END]
 
 //Text $1B2410
 #WRITE(ptr,$18E258)
@@ -2241,7 +2240,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B23F8
 #WRITE(ptr,$18E290)
-[Sign_Sword]レアアックス[END]
+[Sign_Sword]Rare Axe[END]
 
 //Text $1B23A0
 #WRITE(ptr,$18E294)
@@ -2251,7 +2250,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2388
 #WRITE(ptr,$18E2CC)
-[Sign_Sword]トマホークアックス[END]
+[Sign_Sword]Tomahawk Axe[END]
 
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
@@ -2261,7 +2260,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2320
 #WRITE(ptr,$18E308)
-[Sign_Sword]ポールアックス[END]
+[Sign_Sword]Poleaxe[END]
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
@@ -2271,7 +2270,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B22C0
 #WRITE(ptr,$18E344)
-[Sign_Sword]ジャッドバラアックス[END]
+[Sign_Sword]Jedburgh Axe[END]
 
 //Text $1B2278
 #WRITE(ptr,$18E348)
@@ -2281,7 +2280,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2260
 #WRITE(ptr,$18E380)
-[Sign_Sword]ロコッバーアックス[END]
+[Sign_Sword]Lochaber Axe[END]
 
 //Text $1B2220
 #WRITE(ptr,$18E384)
@@ -2291,7 +2290,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2208
 #WRITE(ptr,$18E3BC)
-[Sign_Sword]アイアックス[END]
+[Sign_Sword]Eye Axe[END]
 
 //Text $1B21C8
 #WRITE(ptr,$18E3C0)
@@ -2301,7 +2300,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B21B0
 #WRITE(ptr,$18E3F8)
-[Sign_Sword]イプシロンアックス[END]
+[Sign_Sword]Epsilon Axe[END]
 
 //Text $1B2160
 #WRITE(ptr,$18E3FC)
@@ -2311,7 +2310,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2148
 #WRITE(ptr,$18E434)
-[Sign_Sword]ガイアアックス[END]
+[Sign_Sword]Gaia Axe[END]
 
 //Text $1B2100
 #WRITE(ptr,$18E438)
@@ -2321,7 +2320,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B20E8
 #WRITE(ptr,$18E470)
-[Sign_Sword]グリムアックス[END]
+[Sign_Sword]Grimm Axe[END]
 
 //Text $1B2098
 #WRITE(ptr,$18E474)
@@ -2331,7 +2330,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2088
 #WRITE(ptr,$18E4AC)
-[Sign_Sword]ガノ[END]
+[Sign_Sword]Gano[END]
 
 //Text $1B2048
 #WRITE(ptr,$18E4B0)
@@ -2341,7 +2340,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B2038
 #WRITE(ptr,$18E4E8)
-[Sign_Sword]ショカ[END]
+[Sign_Sword]Shoka[END]
 
 //Text $1B1FF0
 #WRITE(ptr,$18E4EC)
@@ -2351,7 +2350,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1FE0
 #WRITE(ptr,$18E524)
-[Sign_Sword]セルティス[END]
+[Sign_Sword]Celtis[END]
 
 //Text $1B1F98
 #WRITE(ptr,$18E528)
@@ -2361,7 +2360,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1F88
 #WRITE(ptr,$18E560)
-[Sign_Sword]タバール[END]
+[Sign_Sword]Tabar[END]
 
 //Text $1B1F40
 #WRITE(ptr,$18E564)
@@ -2371,7 +2370,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1F30
 #WRITE(ptr,$18E59C)
-[Sign_Sword]タバンジル[END]
+[Sign_Sword]Tabangil[END]
 
 //Text $1B1EE0
 #WRITE(ptr,$18E5A0)
@@ -2381,7 +2380,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1ED0
 #WRITE(ptr,$18E5D8)
-[Sign_Sword]タンギ[END]
+[Sign_Sword]Tangi[END]
 
 //Text $1B1E78
 #WRITE(ptr,$18E5DC)
@@ -2391,7 +2390,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1E68
 #WRITE(ptr,$18E614)
-[Sign_Sword]ブローバー[END]
+[Sign_Sword]Bullova[END]
 
 //Text $1B1E20
 #WRITE(ptr,$18E618)
@@ -2401,7 +2400,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1E08
 #WRITE(ptr,$18E650)
-[Sign_Sword]ルベリエアックス[END]
+[Sign_Sword]Luverie Axe[END]
 
 //Text $1B1DB8
 #WRITE(ptr,$18E654)
@@ -2411,7 +2410,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1DA8
 #WRITE(ptr,$18E68C)
-[Sign_Sword]さつまいも[END]
+[Sign_Sword]Potato[END]
 
 //Text $1B1D60
 #WRITE(ptr,$18E690)
@@ -2421,7 +2420,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1D48
 #WRITE(ptr,$18E6C8)
-[Sign_Sword]ウッドアロー[END]
+[Sign_Sword]Wood Arrow[END]
 
 //Text $1B1D10
 #WRITE(ptr,$18E6CC)
@@ -2431,7 +2430,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1CF8
 #WRITE(ptr,$18E704)
-[Sign_Sword]スチールアロー[END]
+[Sign_Sword]Steel Arrow[END]
 
 //Text $1B1CC8
 #WRITE(ptr,$18E708)
@@ -2441,7 +2440,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1CB0
 #WRITE(ptr,$18E740)
-[Sign_Sword]チタンアロー[END]
+[Sign_Sword]Titanium Arrow[END]
 
 //Text $1B1C80
 #WRITE(ptr,$18E744)
@@ -2451,7 +2450,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1C68
 #WRITE(ptr,$18E77C)
-[Sign_Sword]シルバーアロー[END]
+[Sign_Sword]Silver Arrow[END]
 
 //Text $1B1C38
 #WRITE(ptr,$18E780)
@@ -2461,7 +2460,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1C20
 #WRITE(ptr,$18E7B8)
-[Sign_Sword]ゴールドアロー[END]
+[Sign_Sword]Gold Arrow[END]
 
 //Text $1B1BE8
 #WRITE(ptr,$18E7BC)
@@ -2471,7 +2470,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1BD0
 #WRITE(ptr,$18E7F4)
-[Sign_Sword]ミスリルアロー[END]
+[Sign_Sword]Mithril Arrow[END]
 
 //Text $1B1B88
 #WRITE(ptr,$18E7F8)
@@ -2481,7 +2480,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1B70
 #WRITE(ptr,$18E830)
-[Sign_Sword]ハンターアロー[END]
+[Sign_Sword]Hunter Arrow[END]
 
 //Text $1B1B38
 #WRITE(ptr,$18E834)
@@ -2491,7 +2490,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1B20
 #WRITE(ptr,$18E86C)
-[Sign_Sword]バトルアロー[END]
+[Sign_Sword]Battle Arrow[END]
 
 //Text $1B1AD0
 #WRITE(ptr,$18E870)
@@ -2501,7 +2500,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1AB8
 #WRITE(ptr,$18E8A8)
-[Sign_Sword]キラーアロー[END]
+[Sign_Sword]Killer Arrow[END]
 
 //Text $1B1A90
 #WRITE(ptr,$18E8AC)
@@ -2511,7 +2510,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1A78
 #WRITE(ptr,$18E8E4)
-[Sign_Sword]グリフィンアロー[END]
+[Sign_Sword]Griffin Arrow[END]
 
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
@@ -2521,7 +2520,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1A18
 #WRITE(ptr,$18E920)
-[Sign_Sword]レアアロー[END]
+[Sign_Sword]Rare Arrow[END]
 
 //Text $1B19C0
 #WRITE(ptr,$18E924)
@@ -2531,7 +2530,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B19A8
 #WRITE(ptr,$18E95C)
-[Sign_Sword]クレインアロー[END]
+[Sign_Sword]Crane Arrow[END]
 
 //Text $1B1970
 #WRITE(ptr,$18E960)
@@ -2541,7 +2540,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1958
 #WRITE(ptr,$18E998)
-[Sign_Sword]エルヴンアロー[END]
+[Sign_Sword]Elven Arrow[END]
 
 //Text $1B1918
 #WRITE(ptr,$18E99C)
@@ -2551,7 +2550,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1900
 #WRITE(ptr,$18E9D4)
-[Sign_Sword]クレセントアロー[END]
+[Sign_Sword]Crescent Arrow[END]
 
 //Text $1B18A8
 #WRITE(ptr,$18E9D8)
@@ -2561,7 +2560,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1890
 #WRITE(ptr,$18EA10)
-[Sign_Sword]ベルセルクアロー[END]
+[Sign_Sword]Berserk Arrow[END]
 
 //Text $1B1838
 #WRITE(ptr,$18EA14)
@@ -2571,7 +2570,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1820
 #WRITE(ptr,$18EA4C)
-[Sign_Sword]グリムアロー[END]
+[Sign_Sword]Grimm Arrow[END]
 
 //Text $1B17D0
 #WRITE(ptr,$18EA50)
@@ -2581,7 +2580,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B17B0
 #WRITE(ptr,$18EA88)
-[Sign_Sword]スカーレットニードル[END]
+[Sign_Sword]Scarlet Needle[END]
 
 //Text $1B1750
 #WRITE(ptr,$18EA8C)
@@ -2591,7 +2590,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1738
 #WRITE(ptr,$18EAC4)
-[Sign_Sword]ストライクイーグル[END]
+[Sign_Sword]Strike Eagle[END]
 
 //Text $1B1700
 #WRITE(ptr,$18EAC8)
@@ -2601,7 +2600,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B16E8
 #WRITE(ptr,$18EB00)
-[Sign_Sword]ソウルスティール[END]
+[Sign_Sword]Soulsteal[END]
 
 //Text $1B16A0
 #WRITE(ptr,$18EB04)
@@ -2611,7 +2610,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1680
 #WRITE(ptr,$18EB3C)
-[Sign_Sword]セレスティアルスター[END]
+[Sign_Sword]Celestial Star[END]
 
 //Text $1B1630
 #WRITE(ptr,$18EB40)
@@ -2621,7 +2620,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1610
 #WRITE(ptr,$18EB78)
-[Sign_Sword]フォーチューンアロー[END]
+[Sign_Sword]Fortune Arrow[END]
 
 //Text $1B15B8
 #WRITE(ptr,$18EB7C)
@@ -2631,7 +2630,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B15A8
 #WRITE(ptr,$18EBB4)
-[Sign_Sword]きゅうり[END]
+[Sign_Sword]Cucumber[END]
 
 //Text $1B1558
 #WRITE(ptr,$18EBB8)
@@ -2641,7 +2640,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1540
 #WRITE(ptr,$18EBF0)
-[Sign_Sword]アイアンナックル[END]
+[Sign_Sword]Iron Knuckle[END]
 
 //Text $1B1510
 #WRITE(ptr,$18EBF4)
@@ -2651,7 +2650,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B14F8
 #WRITE(ptr,$18EC2C)
-[Sign_Sword]チタンナックル[END]
+[Sign_Sword]Titanium Knuckle[END]
 
 //Text $1B14C8
 #WRITE(ptr,$18EC30)
@@ -2661,7 +2660,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B14B0
 #WRITE(ptr,$18EC68)
-[Sign_Sword]シルバーナックル[END]
+[Sign_Sword]Silver Knuckle[END]
 
 //Text $1B1478
 #WRITE(ptr,$18EC6C)
@@ -2671,7 +2670,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1460
 #WRITE(ptr,$18ECA4)
-[Sign_Sword]ゴールドナックル[END]
+[Sign_Sword]Gold Knuckle[END]
 
 //Text $1B1428
 #WRITE(ptr,$18ECA8)
@@ -2681,7 +2680,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1410
 #WRITE(ptr,$18ECE0)
-[Sign_Sword]ミスリルナックル[END]
+[Sign_Sword]Mithril Knuckle[END]
 
 //Text $1B13D0
 #WRITE(ptr,$18ECE4)
@@ -2691,7 +2690,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B13B8
 #WRITE(ptr,$18ED1C)
-[Sign_Sword]パワーナックル[END]
+[Sign_Sword]Power Knuckle[END]
 
 //Text $1B1378
 #WRITE(ptr,$18ED20)
@@ -2701,7 +2700,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1360
 #WRITE(ptr,$18ED58)
-[Sign_Sword]ニードルナックル[END]
+[Sign_Sword]Needle Knuckle[END]
 
 //Text $1B1308
 #WRITE(ptr,$18ED5C)
@@ -2711,7 +2710,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B12F0
 #WRITE(ptr,$18ED94)
-[Sign_Sword]ダイヤナックル[END]
+[Sign_Sword]Diamond Knuckle[END]
 
 //Text $1B12A0
 #WRITE(ptr,$18ED98)
@@ -2721,7 +2720,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1288
 #WRITE(ptr,$18EDD0)
-[Sign_Sword]レアナックル[END]
+[Sign_Sword]Rare Knuckle[END]
 
 //Text $1B1228
 #WRITE(ptr,$18EDD4)
@@ -2731,7 +2730,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1210
 #WRITE(ptr,$18EE0C)
-[Sign_Sword]ベアナックル[END]
+[Sign_Sword]Bear Knuckle[END]
 
 //Text $1B11C8
 #WRITE(ptr,$18EE10)
@@ -2741,7 +2740,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B11B0
 #WRITE(ptr,$18EE48)
-[Sign_Sword]ドラゴンナックル[END]
+[Sign_Sword]Dragon Knuckle[END]
 
 //Text $1B1150
 #WRITE(ptr,$18EE4C)
@@ -2751,7 +2750,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1138
 #WRITE(ptr,$18EE84)
-[Sign_Sword]カイザーナックル[END]
+[Sign_Sword]Kaiser Knuckle[END]
 
 //Text $1B10F0
 #WRITE(ptr,$18EE88)
@@ -2761,7 +2760,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B10D8
 #WRITE(ptr,$18EEC0)
-[Sign_Sword]グリムナックル[END]
+[Sign_Sword]Grimm Knuckle[END]
 
 //Text $1B1080
 #WRITE(ptr,$18EEC4)
@@ -2771,7 +2770,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1070
 #WRITE(ptr,$18EEFC)
-[Sign_Sword]ヴェノム[END]
+[Sign_Sword]Venom[END]
 
 //Text $1B1018
 #WRITE(ptr,$18EF00)
@@ -2781,7 +2780,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B1000
 #WRITE(ptr,$18EF38)
-[Sign_Sword]ウィズティース[END]
+[Sign_Sword]With Teeth[END]
 
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
@@ -2791,7 +2790,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0F90
 #WRITE(ptr,$18EF74)
-[Sign_Sword]ゴッドウェポン[END]
+[Sign_Sword]God Weapon[END]
 
 //Text $1B0F50
 #WRITE(ptr,$18EF78)
@@ -2801,7 +2800,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0F38
 #WRITE(ptr,$18EFB0)
-[Sign_Sword]ウォルトナックル[END]
+[Sign_Sword]Volt Knuckle[END]
 
 //Text $1B0EE0
 #WRITE(ptr,$18EFB4)
@@ -2811,7 +2810,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0ED0
 #WRITE(ptr,$18EFEC)
-[Sign_Sword]マンドリン[END]
+[Sign_Sword]Mandolin[END]
 
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
@@ -2821,7 +2820,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0E80
 #WRITE(ptr,$18F028)
-[Sign_Sword]琵琶[END]
+[Sign_Sword]Biwa[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
@@ -2831,7 +2830,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0E20
 #WRITE(ptr,$18F064)
-[Sign_Sword]リュート[END]
+[Sign_Sword]Lute[END]
 
 //Text $1B0DE0
 #WRITE(ptr,$18F068)
@@ -2841,7 +2840,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0DD0
 #WRITE(ptr,$18F0A0)
-[Sign_Sword]ギター[END]
+[Sign_Sword]Guitar[END]
 
 //Text $1B0D80
 #WRITE(ptr,$18F0A4)
@@ -2851,7 +2850,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0D70
 #WRITE(ptr,$18F0DC)
-[Sign_Sword]三味線[END]
+[Sign_Sword]Shamisen[END]
 
 //Text $1B0D28
 #WRITE(ptr,$18F0E0)
@@ -2861,7 +2860,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0D08
 #WRITE(ptr,$18F118)
-[Sign_Sword]インフィニティギター[END]
+[Sign_Sword]Infinity Guitar[END]
 
 //Text $1B0CB0
 #WRITE(ptr,$18F11C)
@@ -2871,7 +2870,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0C98
 #WRITE(ptr,$18F154)
-[Sign_Sword]とうもろこし[END]
+[Sign_Sword]Corn[END]
 
 //Text $1B0C50
 #WRITE(ptr,$18F158)
@@ -2881,7 +2880,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0C40
 #WRITE(ptr,$18F190)
-[Sign_Sword]鉄のおたま[END]
+[Sign_Sword]Iron Ladle[END]
 
 //Text $1B0BF8
 #WRITE(ptr,$18F194)
@@ -2891,7 +2890,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0BE8
 #WRITE(ptr,$18F1CC)
-[Sign_Sword]銅のおたま[END]
+[Sign_Sword]C. Ladle[END]
 
 //Text $1B0BA8
 #WRITE(ptr,$18F1D0)
@@ -2901,7 +2900,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0B98
 #WRITE(ptr,$18F208)
-[Sign_Sword]銀のおたま[END]
+[Sign_Sword]S. Ladle[END]
 
 //Text $1B0B60
 #WRITE(ptr,$18F20C)
@@ -2911,7 +2910,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0B50
 #WRITE(ptr,$18F244)
-[Sign_Sword]金のおたま[END]
+[Sign_Sword]Gold Ladle[END]
 
 //Text $1B0B10
 #WRITE(ptr,$18F248)
@@ -2921,7 +2920,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0AF0
 #WRITE(ptr,$18F280)
-[Sign_Sword]ファナティックおたま[END]
+[Sign_Sword]Fanatic Ladle[END]
 
 //Text $1B0A98
 #WRITE(ptr,$18F284)
@@ -2931,7 +2930,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B0A88
 #WRITE(ptr,$18F2BC)
-[Sign_Sword]にんじん[END]
+[Sign_Sword]Carrot[END]
 
 //Text $1B0A38
 #WRITE(ptr,$18F2C0)
@@ -2946,49 +2945,46 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5E60
 #WRITE(ptr,$18F338)
-革を繋ぎ合わせて作られた上半身鎧。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-冒険者たちに長年愛用されている。[END]
-
+Upper body armor made of leather.[LINE]
+Favored by adventurers due to its[LINE]
+lightness and fair protection.[END]
 //Text $1B5E48
 #WRITE(ptr,$18F370)
 [Sign_Shield]Bronze Armor[END]
 
 //Text $1B5DF8
 #WRITE(ptr,$18F374)
-薄い銅板で作られた上半身鎧。[LINE]
-天地戦争時代から使われていた、[LINE]
-伝統ある鎧。[END]
-
+Upper body armor made of thin bronze.[LINE]
+Traditional armor used since[LINE]
+the age of the Aeth'er War.[END]
 //Text $1B5DE0
 #WRITE(ptr,$18F3AC)
 [Sign_Shield]Iron Armor[END]
 
 //Text $1B5D98
 #WRITE(ptr,$18F3B0)
-鉄板で作られた上半身鎧。[LINE]
-重いが硬くて頑丈。[LINE]
-もっとも身近な金属。[END]
-
+Upper body armor made of iron,[LINE]
+the most familiar of metals.[LINE]
+Sturdy and tough, but heavy.[END]
 //Text $1B5D80
 #WRITE(ptr,$18F3E8)
 [Sign_Shield]Steel Armor[END]
 
 //Text $1B5D40
 #WRITE(ptr,$18F3EC)
-複数枚の鋼板で作られた上半身鎧。[LINE]
-騎士見習たちの愛用品。[LINE]
-[END]
-
+Upper body armor made of[LINE]
+several steel plates. A favorite[LINE]
+of knight apprentices.[END]
 //Text $1B5D28
 #WRITE(ptr,$18F424)
 [Sign_Shield]Titanium Armor[END]
 
 //Text $1B5CE0
 #WRITE(ptr,$18F428)
-チタン合金で強化した上半身鎧。[LINE]
-非常に軽く、並外れた耐食性を持つ。[LINE]
-[END]
+Upper body armor strengthened[LINE]
+with a titanium alloy. Very light[LINE]
+and corrosion resistant.[END]
+
 
 //Text $1B5CC8
 #WRITE(ptr,$18F460)
@@ -2996,19 +2992,19 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5C78
 #WRITE(ptr,$18F464)
-銀細工で装飾された上半身鎧。[LINE]
-白い輝きが美しい。[LINE]
-聖なる祈りが込められている。[END]
-
+Upper body armor decorated[LINE]
+with silverwork. Has a beautiful[LINE]
+luster and is imbued with prayers.[END]
 //Text $1B5C60
 #WRITE(ptr,$18F49C)
 [Sign_Shield]Gold Armor[END]
 
 //Text $1B5C28
 #WRITE(ptr,$18F4A0)
-金細工で装飾した上半身鎧。[LINE]
-別名「豪華な上半身鎧」。[LINE]
+Upper body armor decorated with gold.[LINE]
+Also known as the "Opulent Armor".[LINE]
 [END]
+
 
 //Text $1B5C10
 #WRITE(ptr,$18F4D8)
@@ -3016,109 +3012,99 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5BC8
 #WRITE(ptr,$18F4DC)
-ミスリル細工で装飾された上半身鎧。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Upper body armor decorated[LINE]
+with Mithril. Considered to[LINE]
+be a Dwarven work of art.[END]
 //Text $1B5BB0
 #WRITE(ptr,$18F514)
 [Sign_Shield]Ring Armor[END]
 
 //Text $1B5B70
 #WRITE(ptr,$18F518)
-金属の環を縫い合わせた上半身鎧。[LINE]
-刀剣等の攻撃から身を守る。[LINE]
+Upper body armor sewn with metal rings.[LINE]
+Protects the body from slashing attacks.[LINE]
 [END]
-
 //Text $1B5B58
 #WRITE(ptr,$18F550)
 [Sign_Shield]Chain Armor[END]
 
 //Text $1B5AF8
 #WRITE(ptr,$18F554)
-鋼糸で縫製された上半身鎧。[LINE]
-すぐに着ることができるのが特徴。[LINE]
-多くの戦士たちに愛用されている。[END]
-
+Upper body armor sewn with steel wires.[LINE]
+Easy to put on and a favorite of soldiers.[LINE]
+[END]
 //Text $1B5AE0
 #WRITE(ptr,$18F58C)
 [Sign_Shield]White Armor[END]
 
 //Text $1B5A80
 #WRITE(ptr,$18F590)
-美しく磨かれた白い上半身鎧。[LINE]
-祭儀用に使われる純白の鎧。[LINE]
-光の加護を受けると言われている。[END]
-
+Beautifully polished upper body armor.[LINE]
+Pure white armor used in rituals. Said[LINE]
+to hold the divine protection of light.[END]
 //Text $1B5A68
 #WRITE(ptr,$18F5C8)
 [Sign_Shield]Knight Armor[END]
 
 //Text $1B5A10
 #WRITE(ptr,$18F5CC)
-王国騎士団が装備する上半身鎧。[LINE]
-頑強な作りであり品のある色。[LINE]
-これであなたも騎士気分。[END]
-
+Upper body armor of a Royal Knightly[LINE]
+order. Constructed to be sturdy. With[LINE]
+this you too can feel like a Knight.[END]
 //Text $1B59F8
 #WRITE(ptr,$18F604)
 [Sign_Shield]Star Armor[END]
 
 //Text $1B59A0
 #WRITE(ptr,$18F608)
-特殊加工して作られた非常に軽い[LINE]
-上半身鎧。流星のように速く動ける。[LINE]
-と、宣伝されている。[END]
-
+Extremely light upper body armor made with[LINE]
+a special process. Allows one to move as fast[LINE]
+as a falling star. Or so it is advertised.[END]
 //Text $1B5988
 #WRITE(ptr,$18F640)
 [Sign_Shield]Diamond Armor[END]
 
 //Text $1B5948
 #WRITE(ptr,$18F644)
-ダイヤモンドで装飾された上半身鎧。[LINE]
-その輝きは敵の目を眩ます。[LINE]
+Upper body armor decorated with diamonds.[LINE]
+Bewilders enemies with its brightness.[LINE]
 [END]
-
 //Text $1B5930
 #WRITE(ptr,$18F67C)
 [Sign_Shield]Battle Armor[END]
 
 //Text $1B58D8
 #WRITE(ptr,$18F680)
-戦闘用に特化した上半身鎧。[LINE]
-機能性を重視して作られているため、[LINE]
-どんな動きも遮らない。[END]
-
+Upper body armor made specially for combat.[LINE]
+Since it is made with functionality in mind[LINE]
+it doesn't hinder one's movements.[END]
 //Text $1B58C0
 #WRITE(ptr,$18F6B8)
 [Sign_Shield]Rare Armor[END]
 
 //Text $1B5880
 #WRITE(ptr,$18F6BC)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B5868
 #WRITE(ptr,$18F6F4)
 [Sign_Shield]Scale Armor[END]
 
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
-鉄板を鱗状に縫いつけた上半身鎧。[LINE]
-古くから存在する歴史のある鎧。[LINE]
-歩くと音が響くのが難点。[END]
-
+Upper body armor sewn with steel scales.[LINE]
+A historied and ancient armor. It's only[LINE]
+fault is making a sound when walking.[END]
 //Text $1B57F0
 #WRITE(ptr,$18F730)
 [Sign_Shield]Splint Armor[END]
 
 //Text $1B57A0
 #WRITE(ptr,$18F734)
-チェインアーマーを鋼板で強化した[LINE]
-上半身鎧。チェインより堅いが[LINE]
-より重い。[END]
+A Chain Armor strengthened with[LINE]
+steel plates. Tougher than Chain[LINE]
+Armor, but also heavier.[END]
 
 //Text $1B5788
 #WRITE(ptr,$18F76C)
@@ -3126,149 +3112,134 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5750
 #WRITE(ptr,$18F770)
-黒く輝く美しい上半身鎧。[LINE]
-祭儀用に使われる漆黒の鎧。[LINE]
-[END]
-
+A beautiful and shinning black armor.[LINE]
+Jet black armor used in rituals.[END]
 //Text $1B5738
 #WRITE(ptr,$18F7A8)
 [Sign_Shield]Gothic Armor[END]
 
 //Text $1B56F0
 #WRITE(ptr,$18F7AC)
-簡素でいて典雅な造りの上半身鎧。[LINE]
-過去に興った美術様式を汲んだ[LINE]
-作品。[END]
-
+A simple, but elegant upper body armor.[LINE]
+It's beautiful patterns draw inspiration[LINE]
+from a bygone era.[END]
 //Text $1B56D8
 #WRITE(ptr,$18F7E4)
 [Sign_Shield]Rune Armor[END]
 
 //Text $1B5678
 #WRITE(ptr,$18F7E8)
-希望のルーンが刻まれた上半身鎧。[LINE]
-どんな時でも挫けない[LINE]
-強い心を身に付けた者に与えられる。[END]
-
+Upper body armor engraved with the Hope[LINE]
+rune. Imbues its users with the strength[LINE]
+of mind to never be disheartened.[END]
 //Text $1B5660
 #WRITE(ptr,$18F820)
 [Sign_Shield]Platinum Armor[END]
 
 //Text $1B5610
 #WRITE(ptr,$18F824)
-プラチナで装飾された上半身鎧。[LINE]
-上位の騎士達が身に付ける、[LINE]
-美麗でいて堅固な鎧。[END]
-
+Upper body armor decorated with[LINE]
+platinum. A solid and beautiful armor[LINE]
+worn by high-ranking knights.[END]
 //Text $1B55F8
 #WRITE(ptr,$18F85C)
 [Sign_Shield]Dragon Armor[END]
 
 //Text $1B55A0
 #WRITE(ptr,$18F860)
-ドラゴンの鱗で強化した上半身鎧。[LINE]
-ドラゴンの鋭い爪から身を守り、[LINE]
-吐く炎をも遮る。[END]
-
+Upper body armor strengthened with[LINE]
+dragon scales. Protects against a[LINE]
+dragon's sharp claws and fiery breath.[END]
 //Text $1B5588
 #WRITE(ptr,$18F898)
 [Sign_Shield]Grimm Armor[END]
 
 //Text $1B5530
 #WRITE(ptr,$18F89C)
-伝説に登場する幻想の力を秘めた[LINE]
-上半身鎧。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
-
+Armor imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 //Text $1B5518
 #WRITE(ptr,$18F8D4)
 [Sign_Shield]Masterpiece[END]
 
 //Text $1B54D8
 #WRITE(ptr,$18F8D8)
-名も無き鍛冶屋の無二の傑作。[LINE]
-どんな衝撃でも皹すら入らない。[LINE]
-[END]
-
+A peerless masterpiece made by[LINE]
+an unknown blacksmith. Will never[LINE]
+crack no matter the attack.[END]
 //Text $1B54C0
 #WRITE(ptr,$18F910)
 [Sign_Shield]Fortress[END]
 
 //Text $1B5480
 #WRITE(ptr,$18F914)
-要塞と呼ばれる堅固な上半身鎧。[LINE]
-死角のない鉄壁な守りを誇る。[LINE]
-[END]
-
+Upper body armor referred to as[LINE]
+a fortress. Feels like an impregnable[LINE]
+wall with no openings.[END]
 //Text $1B5468
 #WRITE(ptr,$18F94C)
 [Sign_Shield]Schlachtfeld[END]
 
 //Text $1B5420
 #WRITE(ptr,$18F950)
-戦場を駆ける兵士達の守護神の名。[LINE]
-必ず生還する鎧として[LINE]
-賞賛されている。[END]
-
+Named after the deity that protects[LINE]
+soldiers on the battlefield. Praised as the[LINE]
+armor that guarantees their return.[END]
 //Text $1B5408
 #WRITE(ptr,$18F988)
 [Sign_Shield]Megingjord[END]
 
 //Text $1B53C8
 #WRITE(ptr,$18F98C)
-力が倍増する魔力を秘めている帯。[LINE]
-雷神の持ち物と言われている。[LINE]
-[END]
-
+Ensorcelled sash that doubles[LINE]
+one's might. Said to be the[LINE]
+possession of a thunder God.[END]
 //Text $1B53B0
 #WRITE(ptr,$18F9C4)
 [Sign_Shield]Reflex[END]
 
 //Text $1B5358
 #WRITE(ptr,$18F9C8)
-攻撃を反射すると言われる上半身鎧。[LINE]
-天地戦争時代の天才科学者が[LINE]
-作ったと言われている。[END]
-
+Upper body armor that is said to reflect[LINE]
+attacks. Said to have been invented by a[LINE]
+genius scientist during the Aeth'er War.[END]
 //Text $1B5340
 #WRITE(ptr,$18FA00)
 [Sign_Shield]Terra[END]
 
 //Text $1B52F8
 #WRITE(ptr,$18FA04)
-大地母神の守護を受けた上半身鎧。[LINE]
-聖なるオーラが外敵から身を守る。[LINE]
-[END]
-
+Upper body armor imbued with the[LINE]
+earth Goddess' protection. Protects[LINE]
+the body with a holy aura.[END]
 //Text $1B52E0
 #WRITE(ptr,$18FA3C)
 [Sign_Shield]Last Crusader[END]
 
 //Text $1B5298
 #WRITE(ptr,$18FA40)
-聖戦に赴く騎士のための上半身鎧。[LINE]
-装備した者は、信仰の力で[LINE]
-守護される。[END]
-
+Upper body armor made for knights[LINE]
+heading to holy war. Protects its[LINE]
+wearers with the power of faith.[END]
 //Text $1B5278
 #WRITE(ptr,$18FA78)
 [Sign_Shield]Harmonic Armor[END]
 
 //Text $1B5220
 #WRITE(ptr,$18FA7C)
-「調和」を意味する上半身鎧。[LINE]
-全ての均衡を正す使徒となる。[LINE]
-選ばれた者のみが手にできる。[END]
-
+Upper body armor that carries the meaning[LINE]
+of "Harmony". Turns one into a disciple of[LINE]
+balance. Can only be acquired by the chosen ones.[END]
 //Text $1B5208
 #WRITE(ptr,$18FAB4)
 [Sign_Shield]Leather Plate[END]
 
 //Text $1B51B8
 #WRITE(ptr,$18FAB8)
-革製の胸当て。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-冒険者たちに長年愛用されている。[END]
+Leathern breastplate.[LINE]
+Favored by adventurers due to its[LINE]
+lighteness and fair protection.[END]
 
 //Text $1B51A0
 #WRITE(ptr,$18FAF0)
@@ -3276,9 +3247,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5160
 #WRITE(ptr,$18FAF4)
-鉄板で強化した胸当て。[LINE]
-重いが硬くて頑丈。[LINE]
-伝統ある胸当て。[END]
+Breastplate strengthened with[LINE]
+iron plates. A heavy, but sturdy,[LINE]
+traditional breastplate.[END]
 
 //Text $1B5148
 #WRITE(ptr,$18FB2C)
@@ -3286,29 +3257,26 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5118
 #WRITE(ptr,$18FB30)
-鋼板で強化した胸当て。[LINE]
-兵士達の愛用品。[LINE]
-[END]
-
+Breastplate strengthened with[LINE]
+steel plates. A fovorite of soldiers.[END]
 //Text $1B5100
 #WRITE(ptr,$18FB68)
 [Sign_Shield]Titanium Plate[END]
 
 //Text $1B50B8
 #WRITE(ptr,$18FB6C)
-チタン合金で強化した胸当て。[LINE]
-非常に軽く、並外れた耐食性を持つ。[LINE]
-[END]
-
+Breastplate strengthened[LINE]
+with a titanium alloy. Very light[LINE]
+and corrosion resistant.[END]
 //Text $1B50A0
 #WRITE(ptr,$18FBA4)
 [Sign_Shield]Silver Plate[END]
 
 //Text $1B5050
 #WRITE(ptr,$18FBA8)
-銀細工で装飾された胸当て。[LINE]
-白い輝きが美しい。[LINE]
-聖なる祈りが込められている。[END]
+Breastplate decorated with[LINE]
+silverwork. Has a beautiful luster[LINE]
+and is imbued with prayers.[END]
 
 //Text $1B5038
 #WRITE(ptr,$18FBE0)
@@ -3316,8 +3284,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5000
 #WRITE(ptr,$18FBE4)
-金細工で装飾された胸当て。[LINE]
-別名「豪華な胸当て」。[LINE]
+Breastplate decorated with gold. Also[LINE]
+known as the "Opulent Breastplate".[LINE]
 [END]
 
 //Text $1B4FE8
@@ -3326,19 +3294,18 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4FA0
 #WRITE(ptr,$18FC20)
-ミスリル細工で装飾された胸当て。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Breastplate decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 //Text $1B4F88
 #WRITE(ptr,$18FC58)
 [Sign_Shield]Star Plate[END]
 
 //Text $1B4F30
 #WRITE(ptr,$18FC5C)
-特殊加工して作られた非常に軽い[LINE]
-胸当て。流星のように速く動ける。[LINE]
-と、宣伝されている。[END]
+Extremely light breastplate made with[LINE]
+a special process. Allows one to move as fast[LINE]
+as a falling star. Or so it is advertised.[END]
 
 //Text $1B4F18
 #WRITE(ptr,$18FC94)
@@ -3346,8 +3313,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4ED8
 #WRITE(ptr,$18FC98)
-ダイヤモンドで装飾された胸当て。[LINE]
-その輝きは敵の目を眩ます。[LINE]
+Breastplate decorated with diamonds.[LINE]
+Bewilders enemies with its brightness.[LINE]
 [END]
 
 //Text $1B4EC0
@@ -3356,9 +3323,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4E70
 #WRITE(ptr,$18FCD4)
-戦闘用に特化した胸当て。[LINE]
-機能性重視で作られたため、[LINE]
-とても丈夫で動きやすい。[END]
+Breastplate made specially for combat.[LINE]
+Since it is made with functionality in mind[LINE]
+it doesn't hinder one's movements.[END]
 
 //Text $1B4E58
 #WRITE(ptr,$18FD0C)
@@ -3366,19 +3333,18 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B5880
 #WRITE(ptr,$18FD10)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B4E40
 #WRITE(ptr,$18FD48)
 [Sign_Shield]Rune Plate[END]
 
 //Text $1B4DE8
 #WRITE(ptr,$18FD4C)
-勇気のルーンが刻まれた胸当て。[LINE]
-どんな時でも怯まない、[LINE]
-強い心を身に付けた者に与える。[END]
+Breastplate engraved with the Courage[LINE]
+rune. Imbues its users with the strength[LINE]
+of mind to never be disheartened.[END]
 
 //Text $1B4DD0
 #WRITE(ptr,$18FD84)
@@ -3386,19 +3352,18 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4D80
 #WRITE(ptr,$18FD88)
-プラチナで装飾された胸当て。[LINE]
-高価で美しいのみならず、[LINE]
-堅く機能性に優れた一品。[END]
-
+Breastplate decorated with[LINE]
+platinum. Not only expensive and[LINE]
+beautiful, but also very functional.[END]
 //Text $1B4D68
 #WRITE(ptr,$18FDC0)
 [Sign_Shield]Dragon Plate[END]
 
 //Text $1B4D18
 #WRITE(ptr,$18FDC4)
-ドラゴンの鱗で強化した胸当て。[LINE]
-ドラゴンの鋭い爪から身を守り、[LINE]
-吐く炎をも遮る。[END]
+Breastplate strengthened with dragon[LINE]
+scales. Protects against a dragon's[LINE]
+sharp claws and fiery breath.[END]
 
 //Text $1B4D00
 #WRITE(ptr,$18FDFC)
@@ -3406,9 +3371,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4CB0
 #WRITE(ptr,$18FE00)
-伝説に登場する幻想の力を秘めた[LINE]
-胸当て。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+Breastplate imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 
 //Text $1B4CA0
 #WRITE(ptr,$18FE38)
@@ -3416,159 +3381,144 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B4C60
 #WRITE(ptr,$18FE3C)
-城壁という名の胸当て。[LINE]
-強固な守りは、強弓を用いても[LINE]
-貫けない。[END]
-
+Breastplate refered to as a[LINE]
+rampart. Provides a staunch defense[LINE]
+unpenatrable by even heavy bows.[END]
 //Text $1B4C48
 #WRITE(ptr,$18FE74)
 [Sign_Shield]Vital Burner[END]
 
 //Text $1B4BF8
 #WRITE(ptr,$18FE78)
-装備者に活力を与える胸当て。[LINE]
-激戦、乱戦にも折れない心を[LINE]
-身に付けた者に与える。[END]
-
+Breastplate that imbues the wearer[LINE]
+with vitality. Grants an unbreakable[LINE]
+heart even in hard-fought battles.[END]
 //Text $1B4BE0
 #WRITE(ptr,$18FEB0)
 [Sign_Shield]Vertical[END]
 
 //Text $1B4B88
 #WRITE(ptr,$18FEB4)
-天頂の名を冠する胸当て。[LINE]
-触れることすら叶わない。羽のよう[LINE]
-に軽く、光と風の守護を得る。[END]
-
+Breastplate named after the[LINE]
+Zenith. Light as a feather and[LINE]
+blessed by light and wind.[END]
 //Text $1B4B68
 #WRITE(ptr,$18FEEC)
 [Sign_Shield]Revival Plate[END]
 
 //Text $1B4B10
 #WRITE(ptr,$18FEF0)
-「再生」を意味する胸当て。[LINE]
-倒れることすら許されない。[LINE]
-選ばれた者のみが手にできる。[END]
-
+Breastplate that carries the meaning of[LINE]
+"Rebirth". Will not allow one to fall.[LINE]
+Can only be acquired by the chosen ones.[END]
 //Text $1B4AF8
 #WRITE(ptr,$18FF28)
 [Sign_Shield]Bronze Wear[END]
 
 //Text $1B4AA8
 #WRITE(ptr,$18FF2C)
-銅板を縫い付けた男性用衣装。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-旅人に好まれている。[END]
-
+Garment sewn with bronze sheets.[LINE]
+Favored by travelers due to its[LINE]
+lightness and fair protection.[END]
 //Text $1B4A90
 #WRITE(ptr,$18FF64)
 [Sign_Shield]Iron Wear[END]
 
 //Text $1B4A48
 #WRITE(ptr,$18FF68)
-鉄板を縫い付けた男性用衣装。[LINE]
-重いが堅く、戦闘仕様な作りに[LINE]
-なっている。[END]
-
+Garment sewn with iron[LINE]
+plates. Heavy but tough.[LINE]
+Made for combat.[END]
 //Text $1B4A30
 #WRITE(ptr,$18FFA0)
 [Sign_Shield]Steel Wear[END]
 
 //Text $1B49E0
 #WRITE(ptr,$18FFA4)
-鋼板を縫い付けた男性用衣装。[LINE]
-護衛や警備を生業としている人々に[LINE]
-使われている。[END]
-
+Garment sewn with steel[LINE]
+plates. Used by guards[LINE]
+and local militias.[END]
 //Text $1B49C8
 #WRITE(ptr,$18FFDC)
 [Sign_Shield]Gold Wear[END]
 
 //Text $1B4990
 #WRITE(ptr,$18FFE0)
-金細工で装飾した男性用衣装。[LINE]
-別名「豪華な衣装」。[LINE]
-[END]
-
+Garment decorated with[LINE]
+gold. Also known as the[LINE]
+"Opulent Wear".[END]
 //Text $1B4978
 #WRITE(ptr,$190018)
 [Sign_Shield]Mithril Wear[END]
 
 //Text $1B4930
 #WRITE(ptr,$19001C)
-ミスリルで装飾した男性用衣装。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Garment decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 //Text $1B4918
 #WRITE(ptr,$190054)
 [Sign_Shield]Breast Wear[END]
 
 //Text $1B48D0
 #WRITE(ptr,$190058)
-胸部の防御が強化されている衣装。[LINE]
-防御力は高いが、[LINE]
-バランスがやや悪い。[END]
-
+Chest protecting garment.[LINE]
+Sports a high defense[LINE]
+but poor balance.[END]
 //Text $1B48B8
 #WRITE(ptr,$190090)
 [Sign_Shield]White Wear[END]
 
 //Text $1B4860
 #WRITE(ptr,$190094)
-白く美しい男性用衣装。[LINE]
-祭儀用に使われる神聖な衣。[LINE]
-光の加護を受けると言われている。[END]
-
+A beautiful white garment. Holy[LINE]
+clothes used in rituals. Said to[LINE]
+hold the divine protection of light.[END]
 //Text $1B4848
 #WRITE(ptr,$1900CC)
 [Sign_Shield]Knight Wear[END]
 
 //Text $1B47F0
 #WRITE(ptr,$1900D0)
-王国騎士団御用達の男性用衣装。[LINE]
-簡素な作りに見えるが、[LINE]
-とても頑強な作りになっている。[END]
-
+Garment used by Royal[LINE]
+Knights. Looks plainly[LINE]
+made, but is very sturdy.[END]
 //Text $1B47D8
 #WRITE(ptr,$190108)
 [Sign_Shield]Battle Wear[END]
 
 //Text $1B4780
 #WRITE(ptr,$19010C)
-戦闘用に特化した男性用衣装。[LINE]
-機能性重視で作られたため、[LINE]
-とても丈夫で動きやすい。[END]
-
+Garment made specially for[LINE]
+combat. Made for functionality.[LINE]
+Sturdy and easy to move in.[END]
 //Text $1B4770
 #WRITE(ptr,$190144)
 [Sign_Shield]Rare Wear[END]
 
 //Text $1B5880
 #WRITE(ptr,$190148)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B4758
 #WRITE(ptr,$190180)
 [Sign_Shield]Holy Wear[END]
 
 //Text $1B46F0
 #WRITE(ptr,$190184)
-聖なる力に祝福された男性用衣装。[LINE]
-聖なる加護に守られたその衣装は、[LINE]
-身に付ける者の命を守るという。[END]
-
+Garment blessed by[LINE]
+holy powers. Protects[LINE]
+the life of its wearers.[END]
 //Text $1B46D8
 #WRITE(ptr,$1901BC)
 [Sign_Shield]Black Wear[END]
 
 //Text $1B4678
 #WRITE(ptr,$1901C0)
-黒生地に銀刺繍の美しい衣装。[LINE]
-祭儀用に使われる神聖な衣。[LINE]
-闇の加護を受けると言われている。[END]
+Black garment lined with silver.[LINE]
+Holy clothes used in rituals.[LINE]
+Said to be imbued with dark powers.[END]
 
 //Text $1B4660
 #WRITE(ptr,$1901F8)
@@ -3976,19 +3926,19 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B36B0
 #WRITE(ptr,$190B5C)
-白い布地であしらえたローブ。[LINE]
-清楚なスタイルで街娘にも人気。[LINE]
+Robe decorated with white cloth.[LINE]
+Its tidy style is popular with city girls.[LINE]
 [END]
-
 //Text $1B3698
 #WRITE(ptr,$190B94)
 [Sign_Shield]Feather Robe[END]
 
 //Text $1B3660
 #WRITE(ptr,$190B98)
-水鳥の羽毛で縫製されたローブ。[LINE]
-羽のように軽い。[LINE]
+Robe sewn with the feathers of[LINE]
+a waterfowl. Light as a feather.[LINE]
 [END]
+
 
 //Text $1B3648
 #WRITE(ptr,$190BD0)
@@ -3996,19 +3946,19 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B3608
 #WRITE(ptr,$190BD4)
-黒い布地であしらえたローブ。[LINE]
-夜遊びする街娘にも人気な一品。[LINE]
+Robe decorated with black cloth.[LINE]
+Popular with partying city girls.[LINE]
 [END]
-
 //Text $1B35F0
 #WRITE(ptr,$190C0C)
 [Sign_Shield]Silk Robe[END]
 
 //Text $1B35A8
 #WRITE(ptr,$190C10)
-絹で縫製されたローブ。[LINE]
-光沢が美しく、滑らかな肌触りで[LINE]
-着心地も良い。[END]
+Robe sewn with silk. It has a pretty[LINE]
+luster and feels nice to the touch.[LINE]
+[END]
+
 
 //Text $1B3590
 #WRITE(ptr,$190C48)
@@ -4016,39 +3966,37 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B3560
 #WRITE(ptr,$190C4C)
-銀細工で装飾されたローブ。[LINE]
-白い輝きが美しい。[LINE]
+Robe decorated with silver.[LINE]
+Has a beautiful white brilliance.[LINE]
 [END]
-
 //Text $1B3548
 #WRITE(ptr,$190C84)
 [Sign_Shield]Gold Robe[END]
 
 //Text $1B3510
 #WRITE(ptr,$190C88)
-金細工で装飾されたローブ。[LINE]
-別名「豪華なローブ」。[LINE]
+Robe decorated with gold.[LINE]
+Also known as the "Opulent Robe".[LINE]
 [END]
-
 //Text $1B34F8
 #WRITE(ptr,$190CC0)
 [Sign_Shield]Mithril Robe[END]
 
 //Text $1B34B0
 #WRITE(ptr,$190CC4)
-ミスリル細工装飾されたローブ。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
+Robe decorated with Mithril.[LINE]
+Considered to be a Dwarven work of art.[LINE]
 [END]
-
 //Text $1B3498
 #WRITE(ptr,$190CFC)
 [Sign_Shield]Mage Robe[END]
 
 //Text $1B3458
 #WRITE(ptr,$190D00)
-術士のために作られたローブ。[LINE]
-身に付けた者の精神力を高める。[LINE]
+Robe made for mages.[LINE]
+Increases the will power of its wearers.[LINE]
 [END]
+
 
 //Text $1B3440
 #WRITE(ptr,$190D38)
@@ -4056,9 +4004,10 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B33F8
 #WRITE(ptr,$190D3C)
-可愛さを追求したローブ。[LINE]
-ふわふわなロングスカートは、[LINE]
-女の子の憧れ。[END]
+Robe for those pursuing cuteness.[LINE]
+Its fluffy skirt is admired by girls everywhere.[LINE]
+[END]
+
 
 //Text $1B33E0
 #WRITE(ptr,$190D74)
@@ -4066,9 +4015,10 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B33A0
 #WRITE(ptr,$190D78)
-月夜を意匠して作られたローブ。[LINE]
-聖なる月の力が宿っている。[LINE]
+Robe designed after a moonlit night.[LINE]
+Endowed with holy power of the moon.[LINE]
 [END]
+
 
 //Text $1B3388
 #WRITE(ptr,$190DB0)
@@ -4076,9 +4026,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B3338
 #WRITE(ptr,$190DB4)
-星を意匠して作られたローブ。[LINE]
-流星のように速く動ける。[LINE]
-と、宣伝されている。[END]
+Robe designed after the stars.[LINE]
+Allows one to move as fast as a falling star.[LINE]
+Or so it is advertised.[END]
+
+
 
 //Text $1B3320
 #WRITE(ptr,$190DEC)
@@ -4086,39 +4038,36 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B32C8
 #WRITE(ptr,$190DF0)
-熟練の術士のためのローブ。[LINE]
-精神力を高めるだけではなく、[LINE]
-身を守ることにも長けている。[END]
-
+Robe made for skilled mages.[LINE]
+Not only does it raise one's [LINE]
+willpower but also their defenses.[END]
 //Text $1B32B0
 #WRITE(ptr,$190E28)
 [Sign_Shield]Spirit Robe[END]
 
 //Text $1B3268
 #WRITE(ptr,$190E2C)
-霊的な加護の施されたローブ。[LINE]
-身に付けた者に不屈の精神を与える。[LINE]
+Robe that imbues one with spiritual protection.[LINE]
+Gives its wearers mental fortitude.[LINE]
 [END]
-
 //Text $1B3258
 #WRITE(ptr,$190E64)
 [Sign_Shield]Rare Robe[END]
 
 //Text $1B5880
 #WRITE(ptr,$190E68)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
-
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 //Text $1B3240
 #WRITE(ptr,$190EA0)
 [Sign_Shield]Stray Robe[END]
 
 //Text $1B31F8
 #WRITE(ptr,$190EA4)
-ストレイライズ神殿のローブ。[LINE]
-神の使徒となった日に[LINE]
-渡される制服。[END]
+Robe of the Straylise Temple.[LINE]
+Uniform handed out to those who[LINE]
+become disciples of God.[END]
 
 //Text $1B31E0
 #WRITE(ptr,$190EDC)
@@ -4126,130 +4075,117 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B3188
 #WRITE(ptr,$190EE0)
-偉大なる聖職者の名がつけられた[LINE]
-ローブ。彼の愛したニワトコの花で[LINE]
-染められている。[END]
-
+Robe made for a Grand Priest.[LINE]
+Dyed with his beloved Elderberries.[LINE]
+[END]
 //Text $1B3170
 #WRITE(ptr,$190F18)
 [Sign_Shield]Misty Robe[END]
 
 //Text $1B3130
 #WRITE(ptr,$190F1C)
-原料や生成が不明なローブ。[LINE]
-見る角度により色が変化する。[LINE]
-[END]
-
+Robe made by an unknown[LINE]
+process and materials. Its colors [LINE]
+change with viewing angle.[END]
 //Text $1B3118
 #WRITE(ptr,$190F54)
 [Sign_Shield]Rune Robe[END]
 
 //Text $1B30B8
 #WRITE(ptr,$190F58)
-安息のルーンが刺繍されたローブ。[LINE]
-どんな辛い苦行でも、耐えられる[LINE]
-力を身につけた者に与える。[END]
-
+Robe embroidered with the Rest[LINE]
+rune. Imbues one with the power[LINE]
+to resist any punishment.[END]
 //Text $1B30A0
 #WRITE(ptr,$190F90)
 [Sign_Shield]Witch Robe[END]
 
 //Text $1B3048
 #WRITE(ptr,$190F94)
-位の高い術士が着るローブ。[LINE]
-精神量を増加させ、練りこまれた[LINE]
-呪術が敵の攻撃から身を守る。[END]
-
+Robe worn by high-ranking mages.[LINE]
+Increases one's willpower and[LINE]
+protects against enemy attacks.[END]
 //Text $1B3030
 #WRITE(ptr,$190FCC)
 [Sign_Shield]Prism Robe[END]
 
 //Text $1B2FF8
 #WRITE(ptr,$190FD0)
-虹色の光を放つローブ。[LINE]
-光の屈折により敵を惑わす。[LINE]
-[END]
-
+Robe that breaks light into the[LINE]
+colors of the rainbow. Bewilders[LINE]
+enemies with its refracted light.[END]
 //Text $1B2FE0
 #WRITE(ptr,$191008)
 [Sign_Shield]Grimm Robe[END]
 
 //Text $1B2F90
 #WRITE(ptr,$19100C)
-伝説に登場する幻想の力を秘めた[LINE]
-ローブ。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
-
+Robe imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 //Text $1B2F78
 #WRITE(ptr,$191044)
 [Sign_Shield]Apron Dress[END]
 
 //Text $1B2F20
 #WRITE(ptr,$191048)
-フィッツガルドで密かなブームに[LINE]
-なっている服。家事の時でも[LINE]
-可愛さを忘れないアイテム。[END]
-
+Clothes that became a secret boom[LINE]
+in Fitzgald. Item for those who do not ignore[LINE]
+cuteness even while doing housework.[END]
 //Text $1B2F08
 #WRITE(ptr,$191080)
 [Sign_Shield]Sheath Dress[END]
 
 //Text $1B2EB8
 #WRITE(ptr,$191084)
-細身で透け感の際どいドレス。[LINE]
-涼しく着心地が良くて快適。[LINE]
-少し勇気はいる。[END]
-
+Risky, thin, and see-through dress.[LINE]
+Feels pleasantly refreshing.[LINE]
+Requires a little confidence to wear.[END]
 //Text $1B2EA0
 #WRITE(ptr,$1910BC)
 [Sign_Shield]Country Dress[END]
 
 //Text $1B2E68
 #WRITE(ptr,$1910C0)
-田園調の素朴なドレス。[LINE]
-懐古趣味な貴族たちに人気。[LINE]
+Simple country dress.[LINE]
+Popular among nostalgic aristocrats.[LINE]
 [END]
-
 //Text $1B2E50
 #WRITE(ptr,$1910F8)
 [Sign_Shield]China Dress[END]
 
 //Text $1B2E00
 #WRITE(ptr,$1910FC)
-アクアヴェイルで生まれたドレス。[LINE]
-女性のボディラインを美しく[LINE]
-見せてくれる。[END]
-
+Dress created in Aquaveil.[LINE]
+Emphasizes the beauty[LINE]
+of the female figure.[END]
 //Text $1B2DE8
 #WRITE(ptr,$191134)
 [Sign_Shield]Cocktail Dress[END]
 
 //Text $1B2DA0
 #WRITE(ptr,$191138)
-粋な情緒の夜会用ドレス。[LINE]
-パーティーの必需品。[LINE]
-胸元の開きが勝負所。[END]
-
+Dress for sophisticated balls.[LINE]
+A necessity for parties.[LINE]
+Has an open cleavage.[END]
 //Text $1B2D88
 #WRITE(ptr,$191170)
 [Sign_Shield]Wedding Dress[END]
 
 //Text $1B2D58
 #WRITE(ptr,$191174)
-純白の花嫁衣裳。[LINE]
-女の子の憧れ、幸せの象徴。[LINE]
+Pure white wedding dress.[LINE]
+Yearned for by girls and a symbol of happiness.[LINE]
 [END]
-
 //Text $1B2D40
 #WRITE(ptr,$1911AC)
 [Sign_Shield]Terminal Robe[END]
 
 //Text $1B2CE0
 #WRITE(ptr,$1911B0)
-「最後」を意味するローブ。[LINE]
-世界を滅するほどの力を身に宿す。[LINE]
-選ばれた者のみが手にできる。[END]
-//Section Unique
+Robe that carries the meaning of "End".[LINE]
+Protects the body from the power to destroy the world.[LINE]
+Can only be acquired by the chosen ones.[END]//Section Unique
 
 //Text $1B83F0
 #WRITE(ptr,$191208)

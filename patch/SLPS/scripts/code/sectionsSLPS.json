@@ -7,7 +7,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Character Name",
-			"GoogleDocId": 	"",
+			"GoogleSheetId": 	"",
 			"TextStart":	"199900",
 			"TextEnd":		"199C30",
 			"PointerStart":	"D7C80",
@@ -21,7 +21,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Chapter Name",
-			"GoogleDocId":	"188JJnJxlvqbKkL9ubvJzxTLBnWg87vb_-okQ5EqTsGc",
+			"GoogleSheetId":	"188JJnJxlvqbKkL9ubvJzxTLBnWg87vb_-okQ5EqTsGc",
 			"TextStart":	"19A190",
 			"TextEnd":		"19A5A8",
 			"PointerStart":	"D8780",
@@ -36,7 +36,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Support",
-			"GoogleDocId":	"1fg-A1u718ph7UE5eKj8t8Sq8modvaFrtrIgak5Gcx1M",
+			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"19B370",
 			"TextEnd":		"19B738",
 			"PointerStart":	"181040",
@@ -51,8 +51,8 @@
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Other_Items",
-			"GoogleSheetId":"",
+			"SectionDesc":	"Hidden Artes",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19C380",
 			"TextEnd":		"1A1808",
 			"PointerStart":	"184788",
@@ -70,11 +70,23 @@
 		{
 			"SectionId":	3,
 			"SectionDesc":	"Strategy",
-			"GoogleSheetId":"",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A0FA0",
 			"TextEnd":		"1A1808",
-			"PointerStart":	"184F1C",
-			"PointerEnd":	"1858D0"
+			"PointerStart":	"184DC8",
+			"PointerEnd":	"184F1C"
+		},
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Swordian Device",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1A1800",
+			"TextEnd":		"1A2840",
+			"PointerStart":	"184F3C",
+			"PointerEnd":	"1858DC",
+			"Step":			20,
+			"NbPerStep":	3,
+			"NbTotal":		125	
 		}]
 	},
 	
@@ -160,16 +172,34 @@
 	{
 		"BlockId":			6,
 		"BlockDesc":		"Title",
-		"TextStartBlock":	"1BBC00",
+		"TextStartBlock":	"1BB628",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Title",
-			"GoogleDocId":	"1my9hXqz63tsGx_a-0DI-JL52q6KKuDiR-J_Y_XncJwc",
-			"TextStart":	"1BBC00",
+			"SectionDesc":	"Other Food",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1BB628",
+			"TextEnd":		"1BB920",
+			"PointerStart":	"194274",
+			"PointerEnd":	"194648"
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Food Effect",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"",
 			"TextEnd":		"",
-			"PointerStart":	"",
-			"PointerEnd":	""
+			"PointerStart":	"194660",
+			"PointerEnd":	"1946E4"
+		},
+		{
+			"SectionId":	3,
+			"SectionDesc":	"Title",
+			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
+			"TextStart":	"1BBC00",
+			"TextEnd":		"1BF0E8",
+			"PointerStart":	"1946E8",
+			"PointerEnd":	"194B5C"
 		}]
 	}
 	
