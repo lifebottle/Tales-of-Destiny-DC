@@ -24,7 +24,7 @@ namespace sceWork
             if (File.Exists("jpcodes.txt"))
                 Program.jpcodes = new tableModule("jpcodes.txt");
             if (File.Exists("codes.txt"))
-                Program.codes = new tableModule("codes.txt");
+                Program.codes = new tableModule("codes.txt", true);
             if (args.Length != 0)
             {
                 ParseArgs(args);
@@ -65,14 +65,14 @@ namespace sceWork
                 Console.WriteLine("Generously donated by Temple of Tales Translations team");
                 Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
-                Console.WriteLine("    extract : .exe -e *.tod1rsce");
-                Console.WriteLine("    extract : .exe -e *.tod1rsce4");
-                Console.WriteLine("    extract : .exe -e *.rsce");
-                Console.WriteLine("    extract : .exe -e <dir>");
-                Console.WriteLine("    repack  : .exe -r *.tod1rsce");
-                Console.WriteLine("    repack  : .exe -r *.tod1rsce4");
-                Console.WriteLine("    repack  : .exe -r *.rsce");
-                Console.WriteLine("    repack  : .exe -r <dir>");
+                Console.WriteLine("    extract: .exe -e *.tod1rsce");
+                Console.WriteLine("    extract: .exe -e *.tod1rsce4");
+                Console.WriteLine("    extract: .exe -e *.rsce");
+                Console.WriteLine("    extract: .exe -e <dir>");
+                Console.WriteLine("    repack : .exe -r *.tod1rsce");
+                Console.WriteLine("    repack : .exe -r *.tod1rsce4");
+                Console.WriteLine("    repack : .exe -r *.rsce");
+                Console.WriteLine("    repack : .exe -r <dir>");
                 Console.WriteLine("Add params:");
                 Console.WriteLine("    -as <count> : Add <count> bytes to start file");
                 Console.WriteLine("    -ae : Seek file to 16 bytes");
@@ -260,7 +260,7 @@ namespace sceWork
 
                 string[] hexDump = hexStringDump.Split(new[] { "0D0A5B454E44424C4F434B5D0D0A" /*"\r\n[ENDBLOCK]\r\n"*/ }, StringSplitOptions.None);
 
-                if (hexDump[hexDump.Length - 1].Equals(String.Empty))
+                if (hexDump[hexDump.Length - 1].Equals(string.Empty))
                 {
                     Array.Resize(ref hexDump, hexDump.Length - 1);
                 }
