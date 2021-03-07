@@ -10,16 +10,26 @@ namespace sceWork
     {
         private List<tableEntry> entry;
 
-        public tableModule(string fileName)
+        public tableModule(string fileName, bool order = false)
         {
             string[] strArray = File.ReadAllLines(fileName);
-            this.entry = new List<tableEntry>();
+            entry = new List<tableEntry>();
             for (int index = 0; index < strArray.Length; ++index)
             {
                 if (!strArray[index].StartsWith("//") && !strArray[index].StartsWith("#"))
                 {
-                    this.entry.Add(new tableEntry(strArray[index]));
+                    entry.Add(new tableEntry(strArray[index]));
                 }
+            }
+            if (order)
+            {
+                Comparison<tableEntry> p = delegate (tableEntry temp1, tableEntry temp2)
+                                   {
+                                       if (temp1.A.Length < temp2.A.Length) return 1;
+                                       else if (temp1.A.Length > temp2.A.Length) return -1;
+                                       return temp1.A.CompareTo(temp2.A) * -1;
+                                   };
+                entry.Sort(p);
             }
         }
 
@@ -119,14 +129,14 @@ namespace sceWork
                 //The ranges 0xA000-0xDFFF are technically correct too, so there are duplicates
                 if ((byteArr[index] >= 0x99 && (byteArr[index] < 0xA0) || byteArr[index] >= 0xE0) && index + 2 <= byteArr.Length)
                 {
-                    string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
+                    string str2 = BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
 
                     int index2 = 0;
-                    while (index2 < this.entry.Count)
+                    while (index2 < entry.Count)
                     {
-                        if (this.entry[index2].A.Equals(str2))
+                        if (entry[index2].A.Equals(str2))
                         {
-                            str1 += this.entry[index2].B;
+                            str1 += entry[index2].B;
                             break;
                         }
                         index2++;
@@ -141,21 +151,37 @@ namespace sceWork
                     index++;
                     continue;
                 }
-                else if (byteArr[index] < 0x20 && byteArr[index] > 0x01 && index + 4 < byteArr.Length)
+                else if (byteArr[index] < 0x17 && byteArr[index] > 0x01 && index + 4 < byteArr.Length)
                 {
                     for (int j = 0; j < 5; j++)
                     {
                         str1 += "3C78" +
-                        System.BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                        BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
                         + "3E";
                         index++;
                     }
                     index--;
                     continue;
                 }
+                else if (byteArr[index] >= 0x17 && byteArr[index] < 0x20 && byteArr[index] > 0x01)
+                {
+                    for (int j = 0; ; j++)
+                    {
+                        str1 += "3C78" +
+                        BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                        + "3E";
+                        index++;
+                        if (byteArr[index] == 0x80)
+                        {
+                            break;
+                        }
+                    }
+                    index--;
+                    continue;
+                }
                 else if (byteArr[index] < 0x7F && byteArr[index] > 0x01)
                 {
-                    str1 += System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
+                    str1 += BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
                     continue;
                 }
                 else if (byteArr[index] == 0x01)
@@ -166,7 +192,7 @@ namespace sceWork
                 else /*if (byteArr[index] < 0x7F) */
                 {
                     str1 += "3C78" +
-                    System.BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                    BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
                     + "3E";
                     continue;
                 }
@@ -180,8 +206,8 @@ namespace sceWork
         public string ConvertTagsToNative(string str)
         {
             string str1 = str;
-            for (int index = 0; index < this.entry.Count; ++index)
-                str1 = this.Replace(str1, this.entry[index].B, this.entry[index].A);
+            for (int index = 0; index < entry.Count; ++index)
+                str1 = Replace(str1, entry[index].B, entry[index].A);
             return str1.Replace("[", "").Replace("]", "");
         }
 
@@ -191,8 +217,8 @@ namespace sceWork
         public string ConvertNativeToTags(string str)
         {
             string str1 = str;
-            for (int index = 0; index < this.entry.Count; ++index)
-                str1 = this.Replace(str1, this.entry[index].A, this.entry[index].B);
+            for (int index = 0; index < entry.Count; ++index)
+                str1 = Replace(str1, entry[index].A, entry[index].B);
             return str1.Replace("[", "").Replace("]", "");
         }
 
@@ -212,20 +238,17 @@ namespace sceWork
             string str1 = "";
             byte[] byteArr = GetHexStringAsByteArray(str);
 
-            //if (str == "")
-            //    return str;
-
             for (int index = 0; index < byteArr.Length; ++index)
             {
                 if ((byteArr[index] & 0x80) != 0 && index+2 <= byteArr.Length)
                 {
-                    string str2 = System.BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
+                    string str2 = BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
                     int index2 = 0;
-                    while (index2 < this.entry.Count)
+                    while (index2 < entry.Count)
                     {
-                        if (this.entry[index2].B.Equals(str2))
+                        if (entry[index2].B.Equals(str2))
                         {
-                            str1 += this.entry[index2].A;
+                            str1 += entry[index2].A;
                             break;
                         }
                         index2++;
@@ -250,7 +273,7 @@ namespace sceWork
                 }
                 else /*if (byteArr[index] < 0x7F) */
                 {
-                    str1 += System.BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
+                    str1 += BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
                 }
 
             }

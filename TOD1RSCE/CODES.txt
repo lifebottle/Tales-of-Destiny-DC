@@ -1,7 +1,10 @@
+//  Line 04
 04 09 00 00 00=<PlaceHolder9>
 04 0a 00 00 00=<PlaceHolderA>
 04 0b 00 00 00=<PlaceHolderB>
 04 0c 00 00 00=<PlaceHolderC>
+//   Line 05
+05 00 00 00 00=<TAG_005>
 05 01 00 00 00=<blue>
 05 02 00 00 00=<red>
 05 03 00 00 00=<purple>
@@ -18,6 +21,8 @@
 05 0E 00 00 00=<grey5>
 05 0F 00 00 00=<grey6>
 05 10 00 00 00=<black3>
+//   Line 06
+06 00 03 00 00=<TAG_001>
 06 00 04 00 00=<S01>
 06 15 01 00 00=<S02>
 06 20 01 00 00=<S03>
@@ -33,6 +38,72 @@
 06 D2 00 00 00=<S13>
 06 C0 00 00 00=<S14>
 06 00 01 00 00=<S15>
+//    Line 07
+07 18 00 00 00=<TAG_006>
+07 00 00 00 00=<TAG_007>
+07 02 00 00 00=<TAG_008>
+07 03 00 00 00=<TAG_009>
+07 0C 00 00 00=<TAG_010>
+//    Line 08
+//    Line 09
+09 AE 01 00 00=<TAG_064>
+09 94 00 00 00=<TAG_065>
+09 94 00 01 00=<TAG_066>
+09 97 00 00 00=<TAG_067>
+09 97 00 01 00=<TAG_068>
+//    Line 0A
+//    Line 0B (Names)
+0B 01 00 00 00=<Stahn>
+0B 02 00 00 00=<Rutee>
+0B 03 00 00 00=<Philia>
+0B 04 00 00 00=<Woodrow>
+0B 05 00 00 00=<Lion>
+0B 06 00 00 00=<Mary>
+0B 07 00 00 00=<Chelsea>
+0B 08 00 00 00=<Johnny>
+0B 09 00 00 00=<Kongman>
+0B 0A 00 00 00=<Lilith>
+0B 0B 00 00 00=<Dymlos>
+0B 0C 00 00 00=<Atwight>
+0B 0D 00 00 00=<Chaltier>
+0B 0E 00 00 00=<Igtenos>
+0B 0F 00 00 00=<Clemente>
+0B 10 00 00 00=<Belserius>
+0B 10 27 00 00=<Leader>
+0B 11 00 00 00=<Greybum>
+0B 12 00 00 00=<Hugo>
+0B 13 00 00 00=<Miktran>
+0B 14 00 00 00=<Batista>
+0B 15 00 00 00=<Tiberius>
+0B 16 00 00 00=<Dalis>
+0B 17 00 00 00=<Baruk>
+0B 18 00 00 00=<Ilene>
+0B 19 00 00 00=<Rembrandt>
+0B 1A 00 00 00=<Marian>
+0B 1B 00 00 00=<Ritora>
+0B 1C 00 00 00=<Reynolds>
+0B 1D 00 00 00=<Darzen>
+0B 1E 00 00 00=<Fayte>
+0B 1F 00 00 00=<Rihanna>
+0B 20 00 00 00=<Eleanor>
+0B 21 00 00 00=<Finlay>
+0B 22 00 00 00=<Ashley>
+0B 23 00 00 00=<Dryden>
+0B 24 00 00 00=<Leen>
+0B 25 00 00 00=<Isard>
+0B 26 00 00 00=<Lewein>
+0B 27 00 00 00=<Ascus>
+0B 28 00 00 00=<Melina>
+0B 29 00 00 00=<Ayles>
+0B 2A 00 00 00=<Grid>;グリッド
+0B 2B 00 00 00=<John>;ジョン
+0B 2C 00 00 00=<Millie>;ミリー
+0B 2D 00 00 00=<Walt>;ウォルト
+0B 2E 00 00 00=<Bacchus>;バッカス
+0B 2F 00 00 00=<King>;国王
+0B 30 00 00 00=<Queen>;王妃
+0B 31 00 00 00=<Alba>;アルバ
+//    Line 0C (Items)
 0C 01 00 00 00=<ITEM_Apple_Gel>;アップルグミ
 0C 02 00 00 00=<ITEM_Peach_Gel>;ピーチグミ
 0C 03 00 00 00=<ITEM_Grape_Gel>;グレープグミ
@@ -193,55 +264,7 @@
 0C 10 04 00 00=<ITEM_147>
 0C 10 05 00 00=<ITEM_148>
 0C 10 06 00 00=<ITEM_149>
-0B 01 00 00 00=<Stahn>
-0B 02 00 00 00=<Rutee>
-0B 03 00 00 00=<Philia>
-0B 04 00 00 00=<Woodrow>
-0B 05 00 00 00=<Lion>
-0B 06 00 00 00=<Mary>
-0B 07 00 00 00=<Chelsea>
-0B 08 00 00 00=<Johnny>
-0B 09 00 00 00=<Kongman>
-0B 0A 00 00 00=<Lilith>
-0B 0B 00 00 00=<Dymlos>
-0B 0C 00 00 00=<Atwight>
-0B 0D 00 00 00=<Chaltier>
-0B 0E 00 00 00=<Igtenos>
-0B 0F 00 00 00=<Clemente>
-0B 10 00 00 00=<Belserius>
-0B 11 00 00 00=<Greybum>
-0B 12 00 00 00=<Hugo>
-0B 13 00 00 00=<Miktran>
-0B 14 00 00 00=<Batista>
-0B 15 00 00 00=<Tiberius>
-0B 16 00 00 00=<Dalis>
-0B 17 00 00 00=<Baruk>
-0B 18 00 00 00=<Ilene>
-0B 19 00 00 00=<Rembrandt>
-0B 1A 00 00 00=<Marian>
-0B 1B 00 00 00=<Ritora>
-0B 1C 00 00 00=<Reynolds>
-0B 1D 00 00 00=<Darzen>
-0B 1E 00 00 00=<Fayte>
-0B 1F 00 00 00=<Rihanna>
-0B 20 00 00 00=<Eleanor>
-0B 21 00 00 00=<Finlay>
-0B 22 00 00 00=<Ashley>
-0B 23 00 00 00=<Dryden>
-0B 24 00 00 00=<Leen>
-0B 25 00 00 00=<Isard>
-0B 26 00 00 00=<Lewein>
-0B 27 00 00 00=<Ascus>
-0B 28 00 00 00=<Melina>
-0B 29 00 00 00=<Ayles>
-0B 2A 00 00 00=<Grid>;グリッド
-0B 2B 00 00 00=<John>;ジョン
-0B 2C 00 00 00=<Millie>;ミリー
-0B 2D 00 00 00=<Walt>;ウォルト
-0B 2E 00 00 00=<Bacchus>;バッカス
-0B 2F 00 00 00=<King>;国王
-0B 30 00 00 00=<Queen>;王妃
-0B 31 00 00 00=<Alba>;アルバ
+//    Line 0D (Button Prompts & icons)
 0D 01 00 00 00=<D-pad>
 0D 02 00 00 00=<Up>
 0D 03 00 00 00=<Down>
@@ -354,30 +377,18 @@
 0D A5 00 00 00=<F_Skit>
 0D A6 00 00 00=<N_Skit>
 0D A7 00 00 00=<R_Skit>
-06 00 03 00 00=<TAG_001>
-05 00 00 00 00=<TAG_005>
-07 18 00 00 00=<TAG_006>
-07 00 00 00 00=<TAG_007>
-07 02 00 00 00=<TAG_008>
-07 03 00 00 00=<TAG_009>
-07 0C 00 00 00=<TAG_010>
+//    Line 0E
+//    Line 0F
+//    Line 10
+//    Line 11
+//    Line 12
+//    Line 13
 13 32 00 00 00=<TAG_011>
+//    Line 14
 14 01 00 00 00=<TAG_012>
-19 71 47 04 80=<TAG_013aa>
-19 71 47=<TAG_013a>
-19 71 48=<TAG_013b>
-19 71 49 F8 80=<TAG_013ca>
-19 71 49=<TAG_013c>
-19 71 4a=<TAG_013d>
-19 71 4b=<TAG_013e>
-19 71 4c=<TAG_013f>
-19 71 4d=<TAG_013g>
-19 71 4e=<TAG_013h>
-19 71 4f=<TAG_013k>
-80 05 07 00 00 00=<TAG_014>
-1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 04 AA 80=<D_COORD_X>
-1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 08 AA 80=<D_COORD_Y>
-1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 0C AA 80=<D_COORD_Z>
+//    Line 15
+//    Line 16
+//    Line 17
 17 66 50 3C 3B 72 0C 8B E8 D0 3B 70 40 10 AA 80=<D_COLOR_R>
 17 66 50 3C 3B 72 0C 8B E8 D0 3B 70 40 14 AA 80=<D_COLOR_G>
 17 66 50 3C 3B 72 0C 8B E8 D0 3B 70 40 18 AA 80=<D_COLOR_B>
@@ -411,15 +422,6 @@
 17 66 50 44 1B 70 08 AB 29 00 00 98 80=<TAG_048>
 17 66 50 44 1B 70 0C AB 29 00 00 98 80=<TAG_049>
 17 66 10 1B 74 40 18 AB 80=<TAG_050>
-1D 66 10 1B 74 40 18 AB 80=<TAG_051>
-18 66 50 10 00 80=<TAG_052>
-18 66 50 14 00 80=<TAG_053>
-18 66 50 18 00 80=<TAG_054>
-18 66 50 1C 00 80=<TAG_055>
-1D 76 40 20 80=<D_FOG_START>
-1D 76 40 24 80=<D_FOG_END>
-1D 76 40 28 80=<D_FOG_RATE_START>
-1D 76 40 2C 80=<D_FOG_RATE_END>
 17 72 40 30 80=<D_FOG_COLOR_R>
 17 72 40 34 80=<D_FOG_COLOR_G>
 17 72 40 38 80=<D_FOG_COLOR_B>
@@ -428,12 +430,6 @@
 17 72 40 54 80=<TAG_061>
 17 72 40 58 80=<TAG_062>
 17 72 40 5C 80=<TAG_063>
-09 AE 01 00 00=<TAG_064>
-09 94 00 00 00=<TAG_065>
-09 94 00 01 00=<TAG_066>
-09 97 00 00 00=<TAG_067>
-09 97 00 01 00=<TAG_068>
-18 66 50 48 00 80=<TAG_069>
 17 66 10 1B 70 40 10 AB 80=<TAG_070>
 17 66 10 1B 70 40 10 AB 29 00 00 98 80=<TAG_071>
 17 66 10 1B 70 00 AB 80=<TAG_072>
@@ -442,6 +438,32 @@
 17 72 40 14 80=<TAG_075>
 17 72 40 18 80=<TAG_076>
 17 72 40 1C 80=<TAG_077>
+//    Line 18
+18 66 50 10 00 80=<TAG_052>
+18 66 50 14 00 80=<TAG_053>
+18 66 50 18 00 80=<TAG_054>
+18 66 50 1C 00 80=<TAG_055>
+18 66 50 48 00 80=<TAG_069>
+//    Line 19
+19 71 47 04 80=<TAG_013aa>
+19 71 48 B8 80=<TAG_013ab>
+19 71 48 94 80=<TAG_013ac>
+19 71 49 F8 80=<TAG_013ad>
+19 71 4a 04 80=<TAG_013ae>
+//    Line 1A
+//    Line 1B
+//    Line 1C
+//    Line 1D
+1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 04 AA 80=<D_COORD_X>
+1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 08 AA 80=<D_COORD_Y>
+1D 66 50 3C 3B 72 0C 8B E8 D0 3B 74 0C AA 80=<D_COORD_Z>
+1D 66 10 1B 74 40 18 AB 80=<TAG_051>
+1D 76 40 20 80=<D_FOG_START>
+1D 76 40 24 80=<D_FOG_END>
+1D 76 40 28 80=<D_FOG_RATE_START>
+1D 76 40 2C 80=<D_FOG_RATE_END>
 1D 66 50 1C 3B 74 04 AB 80=<TAG_078>
 1D 66 50 1C 3B 74 08 AB 80=<TAG_079>
 1D 66 50 1C 3B 74 0C AB 80=<TAG_080>
+//    Line 1E
+//    Line 1F
