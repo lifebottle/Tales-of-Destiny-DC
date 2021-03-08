@@ -13,7 +13,7 @@ https://sites.google.com/view/toddc-resources
 # Translation of the menu
 You can find all the information for Menu translation here : https://sites.google.com/view/toddc-resources/menu-translation
 
-Old spreadsheets for reference :
+Old spreadsheets for reference only :   
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
 Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
