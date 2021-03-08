@@ -61,7 +61,7 @@ namespace sceWork
             }
             else
             {
-                Console.WriteLine("TOD1RSCE Module Decompiled Clone v0.3");
+                Console.WriteLine("TOD1RSCE Module v0.4 - Decompiled Clone");
                 Console.WriteLine("Generously donated by Temple of Tales Translations team");
                 Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
