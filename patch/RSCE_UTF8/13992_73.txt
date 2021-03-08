@@ -475,82 +475,84 @@ so hold on tight!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-みんな、出迎えご苦労！
+Everyone, thank you for
+coming to meet me here!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-チャンピオンの<Kongman>様が、
-悪を倒して戻ってきたぜえ！
+The Champion <Kongman> has defeated
+the evil and returned victorious!
 [ENDBLOCK]
 
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty! Mighty! Mighty!
 [ENDBLOCK]
 
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty! Mighty! Mighty!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……頑張ったのは、
-コングだけじゃないんだけどね。
+...We did our best, 
+too. It wasn't just
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>さん……？
+<Ilene>...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと<Ilene>の屋敷へ戻るぞ。
-こんなうるさい場所はごめんだ。
+Let's quickly return to <Ilene>'s
+estate. Sorry about all this noise.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、用事を思い出した。
-先に行ってるよ。
+I just remembered something I need 
+to do. Go on ahead without me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふーん。<Stahn>の奴、
-<Ilene>が余程気になるみたいね。
+Hmm... <Stahn> looks pretty
+worried about <Ilene>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-年上の女性が、
-好みなんでしょうか……
+I wonder if he likes
+older women...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>……
-もしかして、がっかりしてる？
+<Philia>, are you... disappointed?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まっ、まさか。違います。
-ありえません。論外です！
+N-not at all! I would never. 
+It's impossible. Completely out
+of the question!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……そんな全力で否定しなくても。
+Wow, you really shot that down 
+with everything you've got.
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-うーん……それにしてもあの船、
-なんだったんだろうな。
+Mmmm... What was that ship?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……なんの話？
+What are you talking about?
 [ENDBLOCK]
-あんたたちが沖で戦ってた頃、
-武装船団の船が、一隻こっちへ来たんだよ。
+When you all were fighting 
+out at sea, a ship from the
+armada docked here.
 [ENDBLOCK]
-すぐにまた出て行ったけどな。
-あれ、一体なんだったんだろうな？
+But it left immediately after. 
+So what the heck was that about?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-船……？
+A ship...?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -708,7 +710,7 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80></color>
+<TAG_007><S03><turquoise><TAG_013b><x8C><x80> </color>
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
@@ -718,7 +720,7 @@ has joined the party.
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-パーティに復帰しました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]
@@ -726,7 +728,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80></color>
+<TAG_007><S03><turquoise><TAG_013b><x8C><x80> </color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
