@@ -45,7 +45,7 @@ class Helper:
         for sectionId, sectionDesc in sectionsInfos:
             print("{}. {}".format(sectionId, sectionDesc))
         print("\n")
-        input("Press Enter to continue")
+       
         
         
     def parseText(self,fileName):
