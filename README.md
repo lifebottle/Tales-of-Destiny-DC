@@ -13,13 +13,6 @@ https://sites.google.com/view/toddc-resources
 # Translation of the menu
 You can find all the information for Menu translation here : https://sites.google.com/view/toddc-resources/menu-translation
 
-Old spreadsheets for reference only :   
-Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
-Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
-Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
-Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbNZ_CG-l09p95RJYBFwalE  
-Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNHZuO6rENCKBs1I9GVVA  
-
 Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).  
 
 Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
@@ -182,6 +175,13 @@ If you see duplicate file you need to do both file if you translate this part or
 - https://hyouta.com/vesperia/
 - https://gamefaqs.gamespot.com/ps2/934092-tales-of-destiny/faqs/47931
 - https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
+
+Old spreadsheets for reference only :   
+Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
+Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
+Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
+Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbNZ_CG-l09p95RJYBFwalE  
+Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNHZuO6rENCKBs1I9GVVA  
 
 ## Tools
 - https://tales-of-destiny-dc.vercel.app/hexToJpn
