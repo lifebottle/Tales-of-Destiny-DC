@@ -10,60 +10,19 @@ https://www.youtube.com/watch?v=FyYQGVAKSUc
 Documentation:  
 https://sites.google.com/view/toddc-resources
 
-Spreadsheet with HEX to Symbol Mapping:  
+# Translation of the menu
+You can find all the information for Menu translation here : https://sites.google.com/view/toddc-resources/menu-translation
+
+Old spreadsheets for reference :
 Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
 Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
 Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
 Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbNZ_CG-l09p95RJYBFwalE  
 Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNHZuO6rENCKBs1I9GVVA  
-Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
 
 Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).  
 
-# SLPS_258.42
-Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  
-
-Offset   | Data                      | Notes
----------|---------------------------|------------------
-00199900 | Character Names           | 50%
-0019A190 | Chapter Titles            | 0%
-0019AC90 | Movie Subtitles           | 50%
-0019B110 | "notice" dialogs          | 20%
-0019B370 | Support Abilities         | No Descriptions
-0019BA10 | Game Over dialog          | 0%
-0019BDC0 | Menu bar buttons          | Done
-0019C1A0 | New Game Menu             | Done
-0019C380 | Director's Cut Artes      | No Descriptions
-0019C630 | Blast Calibers            | No Descriptions
-0019D350 | Spells / Artes            | No Descriptions
-001A0FD8 | Strategy                  | Done
-001A1A78 | Gauntlet Effects          | 0%
-001A1BA8 | Special Effects           | Done
-001A2858 | Locations                 | 0%
-001A50B0 | Attribute, Enemy Type     | Done
-001A5330 | Special Weapons (dup?)    | 0%
-001A5EF0 | World Map Locations       | 0%
-001A6870 | Locations, Map Book       | 0%
-001A7870 | Discovery Points          | 0%
-001AB578 | Menu bar buttons          | Done
-001AB680 | Top Menu                  | Done
-001AB970 | Rerise Tutorial           | 0%
-001AC050 | S. Device Tutorial        | 0%
-001AC530 | Items - Materials         | No Descriptions
-001AD750 | Items - Sellable          | No Descriptions
-001ADD80 | Items - Spheres           | No Descriptions
-001AE1A0 | Items - Misc.             | No Descriptions
-001AFD10 | Accessories               | No Descriptions
-001B0AF0 | Weapons                   | No Descriptions
-001B2D40 | Armor                     | No Descriptions
-001B5F20 | Unique Equip              | No Descriptions
-001B8408 | Food                      | No Descriptions
-001BA220 | Valuable / Key Items      | No Descriptions
-001BB0A0 | Meal Collaboration?       | No Descriptions
-001BB920 | Food Effects              | Done
-001BBC00 | Titles                    | No Descriptions
-001BF2F0 | Item Categories           | Done
-
+Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
 
 # Stahn's Side
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  

@@ -208,6 +208,7 @@
 //Text $1BB628
 #WRITE(ptr,$194648)
 闇鍋[END]
+
 //Section Food Effect
 
 //Text $1BBA90
@@ -345,11 +346,13 @@
 //Text $1BBAA0
 #WRITE(ptr,$1946E4)
 戦闘中、誰かのＨＰが[TAG_015]％以下[END]
+
 //Section Title
 
 //POINTER #16 @ $1946E8 - STRING #16 @ $1BF0D8
 #WRITE(ptr,$1946E8)
 Stowaway[END]
+
 //POINTER #17 @ $1946EC - STRING #17 @ $1BF080
 #WRITE(ptr,$1946EC)
 Stowaway found in the Draconis.[LINE]
@@ -1750,3 +1753,4 @@ Salesgirl[END]
 Each has his own business talent.[LINE]
 With a heartwarming smile.[LINE]
 I'll do my best everyday[END]
+

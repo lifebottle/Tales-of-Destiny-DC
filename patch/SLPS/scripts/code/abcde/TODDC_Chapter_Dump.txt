@@ -1,0 +1,316 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+
+#JMP($19A190)
+//Section Chapter
+
+//Text $19A5A8
+#WRITE(ptr,$D8780)
+Talking Sword[END]
+
+//Text $19A5A0
+#WRITE(ptr,$D8784)
+Mountain Hut[END]
+
+//Text $19A590
+#WRITE(ptr,$D8788)
+迷い子[Chelsea][END]
+
+//Text $19A580
+#WRITE(ptr,$D878C)
+国境の街[END]
+
+//Text $19A570
+#WRITE(ptr,$D8790)
+雪の記憶[END]
+
+//Text $19A560
+#WRITE(ptr,$D8794)
+神殿にて[END]
+
+//Text $19A550
+#WRITE(ptr,$D8798)
+王国の少年剣士[END]
+
+//Text $19A538
+#WRITE(ptr,$D879C)
+王都ダリルシェイド[END]
+
+//Text $19A520
+#WRITE(ptr,$D87A0)
+静寂にたたずむ神殿[END]
+
+//Text $19A508
+#WRITE(ptr,$D87A4)
+第四のソーディアン[END]
+
+//Text $19A4F8
+#WRITE(ptr,$D87A8)
+砂漠の島[END]
+
+//Text $19A4E8
+#WRITE(ptr,$D87AC)
+怪しい神殿[END]
+
+//Text $19A4D8
+#WRITE(ptr,$D87B0)
+美しき協力者[END]
+
+//Text $19A4C0
+#WRITE(ptr,$D87B4)
+武装船団を叩け！[END]
+
+//Text $19A4B0
+#WRITE(ptr,$D87B8)
+モリュウへの道[END]
+
+//Text $19A4A0
+#WRITE(ptr,$D87BC)
+奈落の底で[END]
+
+//Text $19A490
+#WRITE(ptr,$D87C0)
+陽気な吟遊詩人[END]
+
+//Text $19A480
+#WRITE(ptr,$D87C4)
+いざモリュウ城[END]
+
+//Text $19A468
+#WRITE(ptr,$D87C8)
+大暴れ！<$81>@海の軟体生物[END]
+
+//Text $19A450
+#WRITE(ptr,$D87CC)
+しじまに沈む大王の城[END]
+
+//Text $19A440
+#WRITE(ptr,$D87D0)
+[Tiberius]大王の城[END]
+
+//Text $19A430
+#WRITE(ptr,$D87D4)
+[Greybum]を追って[END]
+
+//Text $19A420
+#WRITE(ptr,$D87D8)
+南の港町[END]
+
+//Text $19A410
+#WRITE(ptr,$D87DC)
+凍える森[END]
+
+//Text $19A3F8
+#WRITE(ptr,$D87E0)
+在りし日の思い出[END]
+
+//Text $19A3E8
+#WRITE(ptr,$D87E4)
+秘密の地下通路[END]
+
+//Text $19A3D0
+#WRITE(ptr,$D87E8)
+ハイデルベルグの決戦[END]
+
+//Text $19A3C0
+#WRITE(ptr,$D87EC)
+久しぶりの故郷[END]
+
+//Text $19A3A8
+#WRITE(ptr,$D87F0)
+再びセインガルドへ[END]
+
+//Text $19A398
+#WRITE(ptr,$D87F4)
+孤島の秘密[END]
+
+//Text $19A388
+#WRITE(ptr,$D87F8)
+悪夢の始まり[END]
+
+//Text $19A378
+#WRITE(ptr,$D87FC)
+空中都市の復活[END]
+
+//Text $19A368
+#WRITE(ptr,$D8800)
+隠された鍵[END]
+
+//Text $19A350
+#WRITE(ptr,$D8804)
+目指すは外殻大地[END]
+
+//Text $19A338
+#WRITE(ptr,$D8808)
+転送装置を確保せよ[END]
+
+//Text $19A328
+#WRITE(ptr,$D880C)
+雄略の顛末[END]
+
+//Text $19A318
+#WRITE(ptr,$D8810)
+哀惜の佳人[END]
+
+//Text $19A308
+#WRITE(ptr,$D8814)
+策士襲撃！[END]
+
+//Text $19A2F8
+#WRITE(ptr,$D8818)
+天上の主[END]
+
+//Text $19A2E0
+#WRITE(ptr,$D881C)
+闇に閉ざされた世界[END]
+
+//Text $19A2D0
+#WRITE(ptr,$D8820)
+魔性の襲来[END]
+
+//Text $19A2B8
+#WRITE(ptr,$D8824)
+天空都市攻略計画[END]
+
+//Text $19A2A8
+#WRITE(ptr,$D8828)
+最終試練[END]
+
+//Text $19A290
+#WRITE(ptr,$D882C)
+ベルセリウムを探して[END]
+
+//Text $19A278
+#WRITE(ptr,$D8830)
+レンズが足りない！[END]
+
+//Text $19A268
+#WRITE(ptr,$D8834)
+戦士達の夜[END]
+
+//Text $19A258
+#WRITE(ptr,$D8838)
+未来へ向かって[END]
+
+//Text $19A248
+#WRITE(ptr,$D883C)
+エピローグ[END]
+
+//Text $19A238
+#WRITE(ptr,$D8840)
+新たな任務[END]
+
+//Text $19A220
+#WRITE(ptr,$D8844)
+ｖｓソーディアン[END]
+
+//Text $19A210
+#WRITE(ptr,$D8848)
+[Hugo]の思惑[END]
+
+//Text $19A520
+#WRITE(ptr,$D884C)
+静寂にたたずむ神殿[END]
+
+//Text $19A200
+#WRITE(ptr,$D8850)
+[Lion]の覚悟[END]
+
+//Text $19A508
+#WRITE(ptr,$D8854)
+第四のソーディアン[END]
+
+//Text $19A4F8
+#WRITE(ptr,$D8858)
+砂漠の島[END]
+
+//Text $19A4E8
+#WRITE(ptr,$D885C)
+怪しい神殿[END]
+
+//Text $19A4D8
+#WRITE(ptr,$D8860)
+美しき協力者[END]
+
+//Text $19A4C0
+#WRITE(ptr,$D8864)
+武装船団を叩け！[END]
+
+//Text $19A4B0
+#WRITE(ptr,$D8868)
+モリュウへの道[END]
+
+//Text $19A1F0
+#WRITE(ptr,$D886C)
+奈落からの救出[END]
+
+//Text $19A490
+#WRITE(ptr,$D8870)
+陽気な吟遊詩人[END]
+
+//Text $19A480
+#WRITE(ptr,$D8874)
+いざモリュウ城[END]
+
+//Text $19A468
+#WRITE(ptr,$D8878)
+大暴れ！<$81>@海の軟体生物[END]
+
+//Text $19A450
+#WRITE(ptr,$D887C)
+しじまに沈む大王の城[END]
+
+//Text $19A440
+#WRITE(ptr,$D8880)
+[Tiberius]大王の城[END]
+
+//Text $19A430
+#WRITE(ptr,$D8884)
+[Greybum]を追って[END]
+
+//Text $19A420
+#WRITE(ptr,$D8888)
+南の港町[END]
+
+//Text $19A410
+#WRITE(ptr,$D888C)
+凍える森[END]
+
+//Text $19A3F8
+#WRITE(ptr,$D8890)
+在りし日の思い出[END]
+
+//Text $19A3E8
+#WRITE(ptr,$D8894)
+秘密の地下通路[END]
+
+//Text $19A3D0
+#WRITE(ptr,$D8898)
+ハイデルベルグの決戦[END]
+
+//Text $19A1E0
+#WRITE(ptr,$D889C)
+ふたりの兵士[END]
+
+//Text $19A1D0
+#WRITE(ptr,$D88A0)
+ふたりの時間[END]
+
+#JMP($148210)
+//Text $19A1B8
+#WRITE(ptr,$D88A4)
+正体不明モンスター[END]
+
+//Text $19A1A8
+#WRITE(ptr,$D88A8)
+破られた幸福[END]
+
+//Text $19A190
+#WRITE(ptr,$D88AC)
+ただひとりのために…[END]
+

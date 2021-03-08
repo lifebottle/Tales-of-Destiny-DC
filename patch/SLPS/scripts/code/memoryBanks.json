@@ -1,0 +1,19 @@
+{
+	"memoryBanks":[
+	{
+		"Id":1,
+		"TextStart":		"148210",
+		"TextEnd":			"1498CF"	
+	},
+	{
+		"Id":2,
+		"TextStart":		"1C3800",
+		"TextEnd":			"1C3E1F"	
+	},
+	{
+		"Id":3,
+		"TextStart":		"149C08",
+		"TextEnd":			"149C38"	
+	}
+	]
+}

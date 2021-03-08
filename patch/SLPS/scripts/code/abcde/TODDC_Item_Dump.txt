@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -13,59 +13,72 @@
 #WRITE(ptr,$18C60C)
 [Sign_Apple_Gel]Apple Gel[END]
 
+
 //Text $1AFCA8
 #WRITE(ptr,$18C610)
 A gelatin-based medicine.[LINE]
 Restores 30% of max HP for one ally.[END]
 
+
 //Text $1AFC98
 #WRITE(ptr,$18C628)
 [Sign_Apple_Gel]Peach Gel[END]
+
 
 //Text $1AFC50
 #WRITE(ptr,$18C62C)
 A gelatin-based healing medicine.[LINE]
 Restores 50% of max HP for one ally.[END]
 
+
 //Text $1AFC38
 #WRITE(ptr,$18C644)
 [Sign_Apple_Gel]Grape Gel[END]
+
 
 //Text $1AFBE8
 #WRITE(ptr,$18C648)
 A gelatin-based healing medicine.[LINE]
 Restores 70% of max HP for one ally.[END]
 
+
 //Text $1AFBD0
 #WRITE(ptr,$18C660)
 [Sign_Apple_Gel]Durian Gel[END]
+
 
 //Text $1AFB88
 #WRITE(ptr,$18C664)
 Full HP recovery, but sometimes...[LINE]
 Only usable during battle.[END]
 
+
 //Text $1AFB70
 #WRITE(ptr,$18C67C)
 [Sign_Apple_Gel]Dragon Gel[END]
+
 
 //Text $1AFB28
 #WRITE(ptr,$18C680)
 Increase Blast Gauge of one ally.[LINE]
 Only usable during battle.[END]
 
+
 //Text $1AFB18
 #WRITE(ptr,$18C698)
 [Sign_Apple_Gel]Gamble Gel[END]
+
 
 //Text $1AFAD8
 #WRITE(ptr,$18C69C)
 Changes HP to a random value.[LINE]
 Only usable during battle.[END]
 
+
 //Text $1AFAC0
 #WRITE(ptr,$18C6B4)
 [Sign_Apple_Gel]Plump Gel[END]
+
 
 //Text $1AFA68
 #WRITE(ptr,$18C6B8)
@@ -73,9 +86,11 @@ Max HP increase to 150%,[LINE]
 but recovery halved.[LINE]
 Only usable during battle.[END]
 
+
 //Text $1AFA50
 #WRITE(ptr,$18C6D0)
 [Sign_Apple_Gel]Lean Gel[END]
+
 
 //Text $1AFA00
 #WRITE(ptr,$18C6D4)
@@ -83,53 +98,65 @@ Max HP decrease to 75%,[LINE]
 but recovery is doubled.[LINE]
 Only usable during battle.[END]
 
+
 //Text $1AF9E8
 #WRITE(ptr,$18C6EC)
 [Sign_Apple_Gel]Panacea Bottle[END]
+
 
 //Text $1AF9C8
 #WRITE(ptr,$18C6F0)
 Recover abnormal status effect.[END]
 
+
 //Text $1AF9B0
 #WRITE(ptr,$18C708)
 [Sign_Apple_Gel]Liqueur Bottle[END]
+
 
 //Text $1AF970
 #WRITE(ptr,$18C70C)
 Protects against all abnormal status,[LINE]
 as well as de-buffs.[END]
 
+
 //Text $1AF958
 #WRITE(ptr,$18C724)
 [Sign_Apple_Gel]Life Bottle[END]
+
 
 //Text $1AF918
 #WRITE(ptr,$18C728)
 Contains the water of life.[LINE]
 Revives dead ally with 40% HP.[END]
 
+
 //Text $1AF900
 #WRITE(ptr,$18C740)
 [Sign_Apple_Gel]Elixir[END]
+
 
 //Text $1AF8B8
 #WRITE(ptr,$18C744)
 A strange medicine that fully restores HP.[LINE]
 Also cures incapacitation.[END]
 
+
 //Text $1AF8A0
 #WRITE(ptr,$18C75C)
 [Sign_Apple_Gel]All-Divide[END]
+
 
 //Text $1AF860
 #WRITE(ptr,$18C760)
 All damage halved.[LINE]
 Using another one negates this effect.[END]
 
+
 //Text $1AF848
 #WRITE(ptr,$18C778)
 [Sign_Apple_Gel]Hourglass[END]
+
 
 //Text $1AF808
 #WRITE(ptr,$18C77C)
@@ -137,9 +164,11 @@ Temporarily stops enemy movements.[LINE]
 Only usable during battle.[LINE]
 [END]
 
+
 //Text $1AF7F0
 #WRITE(ptr,$18C794)
 [Sign_9]Oberol C[END]
+
 
 //Text $1AF798
 #WRITE(ptr,$18C798)
@@ -147,9 +176,11 @@ A liquid medicine from Oberon Corp.[LINE]
 Restores 40% of max HP.[LINE]
 Not usable during battle.[END]
 
+
 //Text $1AF780
 #WRITE(ptr,$18C7B0)
 [Sign_9]Oberol EX[END]
+
 
 //Text $1AF720
 #WRITE(ptr,$18C7B4)
@@ -157,9 +188,11 @@ A liquid medicine from Oberon Corp.[LINE]
 Restores 60% of max HP.[LINE]
 Not usable during battle.[END]
 
+
 //Text $1AF700
 #WRITE(ptr,$18C7CC)
 [Sign_9]Oberol Gold[END]
+
 
 //Text $1AF6A8
 #WRITE(ptr,$18C7D0)
@@ -167,397 +200,489 @@ A liquid medicine from Oberon Corp.[LINE]
 Restores 100% of max HP.[LINE]
 Not usable during battle.[END]
 
+
 //Text $1AF690
 #WRITE(ptr,$18C7E8)
 [Sign_9]Softy Kreem[END]
+
 
 //Text $1AF650
 #WRITE(ptr,$18C7EC)
 A cool and sweet frozen treat.[LINE]
 Restores 10% of max HP.[END]
 
+
 //Text $1AF638
 #WRITE(ptr,$18C804)
 [Sign_9]Holy Bottle[END]
+
 
 //Text $1AF5E8
 #WRITE(ptr,$18C808)
 Contains holy essense.[LINE]
 Wards off enemies for a fixed duration.[END]
 
+
 //Text $1AF5D0
 #WRITE(ptr,$18C820)
 [Sign_9]Dark Bottle[END]
+
 
 //Text $1AF580
 #WRITE(ptr,$18C824)
 Contains evil spirits.[LINE]
 Attracts enemies for a fixed duration.[END]
 
+
 //Text $1AF570
 #WRITE(ptr,$18C83C)
 [Sign_9]Neutralizer[END]
+
 
 //Text $1AF548
 #WRITE(ptr,$18C840)
 Neutralize environmental poisons.[END]
 
+
 //Text $1AF538
 #WRITE(ptr,$18C858)
 [Sign_9]Sage[END]
+
 
 //Text $1AF500
 #WRITE(ptr,$18C85C)
 A medicinal herb that[LINE]
 increases vitality by 3.[END]
 
+
 //Text $1AF4F0
 #WRITE(ptr,$18C874)
 [Sign_9]Lavender[END]
+
 
 //Text $1AF4B8
 #WRITE(ptr,$18C878)
 A medicinal herb that[LINE]
 increases physical attack by 1.[END]
 
+
 //Text $1AF4A8
 #WRITE(ptr,$18C890)
 [Sign_9]Verbena[END]
+
 
 //Text $1AF470
 #WRITE(ptr,$18C894)
 A medicinal herb that[LINE]
 increases physical defense by 1.[END]
 
+
 //Text $1AF458
 #WRITE(ptr,$18C8AC)
 [Sign_9]Rosemary[END]
+
 
 //Text $1AF420
 #WRITE(ptr,$18C8B0)
 A medicinal herb that[LINE]
 increases magic attack by 1.[END]
 
+
 //Text $1AF410
 #WRITE(ptr,$18C8C8)
 [Sign_9]Saffron[END]
+
 
 //Text $1AF3D8
 #WRITE(ptr,$18C8CC)
 A medicinal herb that[LINE]
 increases magic defense by 1.[END]
 
+
 //Text $1AF3C8
 #WRITE(ptr,$18C8E4)
 [Sign_9]Camomile[END]
+
 
 //Text $1AF388
 #WRITE(ptr,$18C8E8)
 A medicinal herb that[LINE]
 increases accuracy by 1.[END]
 
+
 //Text $1AF378
 #WRITE(ptr,$18C900)
 [Sign_9]Savory[END]
+
 
 //Text $1AF330
 #WRITE(ptr,$18C904)
 A medicinal herb that[LINE]
 increases evasion rate by 1.[END]
 
+
 //Text $1AF320
 #WRITE(ptr,$18C91C)
 [Sign_9]Jasmine[END]
+
 
 //Text $1AF2E0
 #WRITE(ptr,$18C920)
 A medicinal herb that[LINE]
 increases critical hit rate by 1.[END]
 
+
 //Text $1AF2C8
 #WRITE(ptr,$18C938)
 [Sign_9]Blue Sage[END]
+
 
 //Text $1AF2A8
 #WRITE(ptr,$18C93C)
 Increases vitality by 6.[END]
 
+
 //Text $1AF290
 #WRITE(ptr,$18C954)
 [Sign_9]Blue Lavender[END]
+
 
 //Text $1AF270
 #WRITE(ptr,$18C958)
 Increases physical attack by 2.[END]
 
+
 //Text $1AF258
 #WRITE(ptr,$18C970)
 [Sign_9]Blue Verbena[END]
+
 
 //Text $1AF238
 #WRITE(ptr,$18C974)
 Increases defense by 2.[END]
 
+
 //Text $1AF220
 #WRITE(ptr,$18C98C)
 [Sign_9]Blue Rosemary[END]
+
 
 //Text $1AF200
 #WRITE(ptr,$18C990)
 Increases magic attack by 2.[END]
 
+
 //Text $1AF1E8
 #WRITE(ptr,$18C9A8)
 [Sign_9]Blue Saffron[END]
+
 
 //Text $1AF1C8
 #WRITE(ptr,$18C9AC)
 Increases magic defense by 2.[END]
 
+
 //Text $1AF1B0
 #WRITE(ptr,$18C9C4)
 [Sign_9]Blue Camomile[END]
+
 
 //Text $1AF190
 #WRITE(ptr,$18C9C8)
 Increases accuracy by 2.[END]
 
+
 //Text $1AF178
 #WRITE(ptr,$18C9E0)
 [Sign_9]Blue Savory[END]
+
 
 //Text $1AF158
 #WRITE(ptr,$18C9E4)
 Increases evasion by 2.[END]
 
+
 //Text $1AF140
 #WRITE(ptr,$18C9FC)
 [Sign_9]Blue Jasmine[END]
+
 
 //Text $1AF120
 #WRITE(ptr,$18CA00)
 Increases critical by 2.[END]
 
+
 //Text $1AF108
 #WRITE(ptr,$18CA18)
 [Sign_9]Red Sage[END]
+
 
 //Text $1AF0E8
 #WRITE(ptr,$18CA1C)
 Increases vitality by 10.[END]
 
+
 //Text $1AF0D0
 #WRITE(ptr,$18CA34)
 [Sign_9]Red Lavender[END]
+
 
 //Text $1AF0B0
 #WRITE(ptr,$18CA38)
 Increases physical attack by 3.[END]
 
+
 //Text $1AF098
 #WRITE(ptr,$18CA50)
 [Sign_9]Red Verbena[END]
+
 
 //Text $1AF078
 #WRITE(ptr,$18CA54)
 Increases defense by 3.[END]
 
+
 //Text $1AF060
 #WRITE(ptr,$18CA6C)
 [Sign_9]Red Rosemary[END]
+
 
 //Text $1AF040
 #WRITE(ptr,$18CA70)
 Increases magic attack by 3.[END]
 
+
 //Text $1AF028
 #WRITE(ptr,$18CA88)
 [Sign_9]Red Saffron[END]
+
 
 //Text $1AF008
 #WRITE(ptr,$18CA8C)
 Increases magic defense by 3.[END]
 
+
 //Text $1AEFF0
 #WRITE(ptr,$18CAA4)
 [Sign_9]Red Camomile[END]
+
 
 //Text $1AEFD0
 #WRITE(ptr,$18CAA8)
 Increases accuracy by 3.[END]
 
+
 //Text $1AEFB8
 #WRITE(ptr,$18CAC0)
 [Sign_9]Red Savory[END]
+
 
 //Text $1AEF98
 #WRITE(ptr,$18CAC4)
 Increases evasion by 3.[END]
 
+
 //Text $1AEF80
 #WRITE(ptr,$18CADC)
 [Sign_9]Red Jasmine[END]
+
 
 //Text $1AEF60
 #WRITE(ptr,$18CAE0)
 Increases critical by 3.[END]
 
+
 //Text $1AEF48
 #WRITE(ptr,$18CAF8)
 [Sign_Box]Pom Seed[END]
+
 
 //Text $1AEF00
 #WRITE(ptr,$18CAFC)
 Seeds intended for beginners.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AEEE8
 #WRITE(ptr,$18CB14)
 [Sign_Box]Estima Seed[END]
+
 
 //Text $1AEEA0
 #WRITE(ptr,$18CB18)
 Seeds intended for not-so-beginners.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AEE88
 #WRITE(ptr,$18CB30)
 [Sign_Box]Lanakear Seed[END]
+
 
 //Text $1AEE40
 #WRITE(ptr,$18CB34)
 Seeds for learners.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AEE28
 #WRITE(ptr,$18CB4C)
 [Sign_Box]Dolgenia Seed[END]
+
 
 //Text $1AEDE0
 #WRITE(ptr,$18CB50)
 Seeds for intermediate use.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AEDC8
 #WRITE(ptr,$18CB68)
 [Sign_Box]Phen Seed[END]
+
 
 //Text $1AED80
 #WRITE(ptr,$18CB6C)
 Seeds for experienced used.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AED68
 #WRITE(ptr,$18CB84)
 [Sign_Box]Oriola Seed[END]
+
 
 //Text $1AED20
 #WRITE(ptr,$18CB88)
 Seeds for the proficient.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AED08
 #WRITE(ptr,$18CBA0)
 [Sign_Box]Charak Seed[END]
+
 
 //Text $1AECC0
 #WRITE(ptr,$18CBA4)
 Seeds for experts.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AECA8
 #WRITE(ptr,$18CBBC)
 [Sign_Box]Golden Seed[END]
+
 
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
 Seeds for masters.[LINE]
 A support item for cultivation.[END]
 
+
 //Text $1AEC50
 #WRITE(ptr,$18CBD8)
 [Sign_Box]Apple[END]
+
 
 //Text $1AEC08
 #WRITE(ptr,$18CBDC)
 A fruit with a sweet and sour aroma.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEBF8
 #WRITE(ptr,$18CBF4)
 [Sign_Box]Peach[END]
+
 
 //Text $1AEBB0
 #WRITE(ptr,$18CBF8)
 A sweet, pink fruit with gentle succulence.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEBA0
 #WRITE(ptr,$18CC10)
 [Sign_Box]Grape[END]
+
 
 //Text $1AEB58
 #WRITE(ptr,$18CC14)
 Round, fleshy fruits formed in a bunch.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEB48
 #WRITE(ptr,$18CC2C)
 [Sign_Box]Durian[END]
+
 
 //Text $1AEB00
 #WRITE(ptr,$18CC30)
 A fruit entirely covered in prickles.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEAE8
 #WRITE(ptr,$18CC48)
 [Sign_Box]Dragon Fruit[END]
+
 
 //Text $1AEAA0
 #WRITE(ptr,$18CC4C)
 Known as a pitaya and is actually a cactus.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEA88
 #WRITE(ptr,$18CC64)
 [Sign_Box]Dijon Fruit[END]
+
 
 //Text $1AEA48
 #WRITE(ptr,$18CC68)
 A fruit native to the tropics.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AEA38
 #WRITE(ptr,$18CC80)
 [Sign_Box]Pine Fruit[END]
+
 
 //Text $1AE9E0
 #WRITE(ptr,$18CC84)
 Native to the mountains and is ripe when amber.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE9D0
 #WRITE(ptr,$18CC9C)
 [Sign_Box]Sennafruit[END]
+
 
 //Text $1AE978
 #WRITE(ptr,$18CCA0)
 Used as medicine to help bowel movements since time.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE960
 #WRITE(ptr,$18CCB8)
 [Sign_Box]Remedy Fruit[END]
+
 
 //Text $1AE920
 #WRITE(ptr,$18CCBC)
 Plant used as a natural remedy.[LINE]
 A support item for mixing. [END]
 
+
 //Text $1AE908
 #WRITE(ptr,$18CCD4)
 [Sign_Box]Enduro Fruit[END]
+
 
 //Text $1AE8B8
 #WRITE(ptr,$18CCD8)
@@ -565,9 +690,11 @@ Adds flavor to cooking and[LINE]
 helps with digestion.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE8A0
 #WRITE(ptr,$18CCF0)
 [Sign_Box]Pneumafruit[END]
+
 
 //Text $1AE848
 #WRITE(ptr,$18CCF4)
@@ -575,9 +702,11 @@ A spice that is sometimes used[LINE]
 to preserve meat and fish.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE838
 #WRITE(ptr,$18CD0C)
 [Sign_Box]Torchfruit[END]
+
 
 //Text $1AE7E0
 #WRITE(ptr,$18CD10)
@@ -585,63 +714,77 @@ Can be used as a spice or medicine[LINE]
 due to its aroma.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE7C8
 #WRITE(ptr,$18CD28)
 [Sign_Box]Gloom Fruit[END]
+
 
 //Text $1AE780
 #WRITE(ptr,$18CD2C)
 Preys upon small animals it lures.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE768
 #WRITE(ptr,$18CD44)
 [Sign_Box]Icurio Fruit[END]
+
 
 //Text $1AE718
 #WRITE(ptr,$18CD48)
 Herb with strong fragrance and large leaves.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE700
 #WRITE(ptr,$18CD60)
 [Sign_Box]Quell Fruit[END]
+
 
 //Text $1AE6B0
 #WRITE(ptr,$18CD64)
 Spice used to remove stench from meat and fish.[LINE]
 A support item for mixing.[END]
 
+
 //Text $1AE698
 #WRITE(ptr,$18CD7C)
 [Sign_Box]Wormy Apple[END]
+
 
 //Text $1AE658
 #WRITE(ptr,$18CD80)
 An apple that can no longer be sold[LINE]
 because bugs ate it.[END]
 
+
 //Text $1AE640
 #WRITE(ptr,$18CD98)
 [Sign_Box]Rotten Peach[END]
+
 
 //Text $1AE600
 #WRITE(ptr,$18CD9C)
 Slimy to the touch. You'd get coated in[LINE]
 gross liquid if touched[END]
 
+
 //Text $1AE5F0
 #WRITE(ptr,$18CDB4)
 [Sign_Box]Rot Durian[END]
+
 
 //Text $1AE5B0
 #WRITE(ptr,$18CDB8)
 They say it's ripe when it looks rotten.[LINE]
 Stay away if it stinks[END]
 
+
 //Text $1AE5A0
 #WRITE(ptr,$18CDD0)
 [Sign_Box]Suspicious Powder[END]
+
 
 //Text $1AE550
 #WRITE(ptr,$18CDD4)
@@ -649,18 +792,22 @@ Looks like it can be used for meds,[LINE]
 but definitely looks sketchy.[LINE]
 Trash![END]
 
+
 //Text $1AE540
 #WRITE(ptr,$18CDEC)
 [Sign_Box]Dangerous Liquid[END]
 
+
 //Text $1AE4F8
 #WRITE(ptr,$18CDF0)
-明らかに飲んではいけない色の液体。[LINE]
-捨てる場所はよく考えましょう！[END]
+A liquid with an unappetizing color.[LINE]
+It'd be a good idea to throw it away![END]
+
 
 //Text $1AE4E0
 #WRITE(ptr,$18CE08)
 [Sign_Box]Gross Substance[END]
+
 
 //Text $1AE498
 #WRITE(ptr,$18CE0C)
@@ -668,29 +815,35 @@ Useless to do anything with this.[LINE]
 [LINE]
 Better to throw this away![END]
 
+
 //Text $1AE480
 #WRITE(ptr,$18CE24)
 [Sign_Box]Magical Aroma[END]
 
+
 //Text $1AE438
 #WRITE(ptr,$18CE28)
-相手を惑わす不思議な香料。[LINE]
-持っている数×１％分[LINE]
-お店で割引される。[END]
+A mysterious, bewitching incense.[LINE]
+Receive a 1% discount at shops[LINE]
+for each one that you have.[END]
+
 
 //Text $1AE420
 #WRITE(ptr,$18CE40)
 [Sign_Box]Support Hand[END]
 
+
 //Text $1AE3D8
 #WRITE(ptr,$18CE44)
-所持数に応じて、[LINE]
-ＥＸダンジョン内のみ[LINE]
-サポートタレントの時間が短縮！[END]
+Depending on how many[LINE]
+you have, decreases time between[LINE]
+Support Talents in the EX Dungeon![END]
+
 
 //Text $1AE3C0
 #WRITE(ptr,$18CE5C)
 [Sign_Box]Red Liquid[END]
+
 
 //Text $1AE378
 #WRITE(ptr,$18CE60)
@@ -698,9 +851,11 @@ A smelly red liquid.[LINE]
 Rumored to be an ingedient[LINE]
 for some medicine.[END]
 
+
 //Text $1AE360
 #WRITE(ptr,$18CE78)
 [Sign_Box]Blue Liquid[END]
+
 
 //Text $1AE318
 #WRITE(ptr,$18CE7C)
@@ -708,9 +863,11 @@ A smelly blue liquid.[LINE]
 Rumored to be an ingredient[LINE]
 for some medicine.[END]
 
+
 //Text $1AE300
 #WRITE(ptr,$18CE94)
 [Sign_Box]Green Liquid[END]
+
 
 //Text $1AE2B8
 #WRITE(ptr,$18CE98)
@@ -718,9 +875,11 @@ A smelly green liquid.[LINE]
 Rumored to be an ingredient[LINE]
 for some medicine.[END]
 
+
 //Text $1AE2A0
 #WRITE(ptr,$18CEB0)
 [Sign_Box]Orange Liquid[END]
+
 
 //Text $1AE258
 #WRITE(ptr,$18CEB4)
@@ -728,9 +887,11 @@ A smelly orange liquid.[LINE]
 Rumored to be an ingredient[LINE]
 for some medicine.[END]
 
+
 //Text $1AE238
 #WRITE(ptr,$18CECC)
 [Sign_Box]Purple Liquid[END]
+
 
 //Text $1AE1F0
 #WRITE(ptr,$18CED0)
@@ -738,19 +899,23 @@ A smelly purple liquid.[LINE]
 Rumored to be an ingredient[LINE]
 for some medicine.[END]
 
+
 //Text $1AE1E0
 #WRITE(ptr,$18CEE8)
 [Sign_Box]Winner[END]
 
+
 //Text $1AE1B0
 #WRITE(ptr,$18CEEC)
-ラッキー！<$81>@もう１本もらえます。[LINE]
+ラッキー！ もう１本もらえます。[LINE]
 お店にＧＯ！[LINE]
 [END]
+
 
 //Text $1AE1A0
 #WRITE(ptr,$18CF04)
 [Sign_Box]Loser[END]
+
 
 //Text $1AE168
 #WRITE(ptr,$18CF08)
@@ -758,118 +923,135 @@ for some medicine.[END]
 ちゃんとくずかごに捨てましょう。[LINE]
 [END]
 
+
 //Text $1AE150
 #WRITE(ptr,$18CF20)
 [Sign_Box]Enasphere[END]
+
 
 //Text $1AE100
 #WRITE(ptr,$18CF24)
 A mysterious sphere with "I" on it.[LINE]
 Only those who know "axes" can answer.[END]
 
+
 //Text $1AE0E8
 #WRITE(ptr,$18CF3C)
 [Sign_Box]Diosphere[END]
 
+
 //Text $1AE098
 #WRITE(ptr,$18CF40)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「小弓」を知りし者のみ[LINE]
-答えを知る。[END]
+//Text $1AE098
+#WRITE(ptr,$18CF40)
+A mysterious sphere with "II" on it.[LINE]
+Only those who know ""short bow"" can answer.[END]
+
 
 //Text $1AE080
 #WRITE(ptr,$18CF58)
 [Sign_Box]Triasphere[END]
 
+
 //Text $1AE028
 #WRITE(ptr,$18CF5C)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「ナックル」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "III" on it.[LINE]
+Only those who know "knuckles" can answer.[END]
+
 
 //Text $1AE010
 #WRITE(ptr,$18CF74)
 [Sign_Box]Tesserasphere[END]
 
+
 //Text $1ADFC0
 #WRITE(ptr,$18CF78)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「楽器」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "IV" on it.[LINE]
+Only those who know "instruments" can answer.[END]
+
 
 //Text $1ADFA8
 #WRITE(ptr,$18CF90)
 [Sign_Box]Pentesphere[END]
 
+
 //Text $1ADF58
 #WRITE(ptr,$18CF94)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「おたま」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "V" on it.[LINE]
+Only those who know "ladies" can answer.[END]
+
 
 //Text $1ADF40
 #WRITE(ptr,$18CFAC)
 [Sign_Box]Exisphere[END]
 
+
 //Text $1ADEE8
 #WRITE(ptr,$18CFB0)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「アーマー」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "VI" on it.[LINE]
+Only those who know "armors" can answer.[END]
+
 
 //Text $1ADED0
 #WRITE(ptr,$18CFC8)
 [Sign_Box]Eptasphere[END]
 
+
 //Text $1ADE78
 #WRITE(ptr,$18CFCC)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「プレート」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "VII" on it.[LINE]
+Only those who know "plates" can answer.[END]
+
 
 //Text $1ADE60
 #WRITE(ptr,$18CFE4)
 [Sign_Box]Oktosphere[END]
 
+
 //Text $1ADE10
 #WRITE(ptr,$18CFE8)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「ウェア」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "VIII" on it.[LINE]
+Only those who know "wear" can answer.[END]
+
 
 //Text $1ADDF8
 #WRITE(ptr,$18D000)
 [Sign_Box]Eneasphere[END]
 
+
 //Text $1ADDA0
 #WRITE(ptr,$18D004)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「クローク」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "IX" on it.[LINE]
+Only those who know "cloaks" can answer.[END]
+
 
 //Text $1ADD88
 #WRITE(ptr,$18D01C)
 [Sign_Box]Dekasphere[END]
 
+
 //Text $1ADD38
 #WRITE(ptr,$18D020)
-「�」の文字が見える不思議な球体。[LINE]
-全ての「ローブ」を知りし者のみ[LINE]
-答えを知る。[END]
+A mysterious sphere with "IX" on it.[LINE]
+Only those who know "robes" can answer.[END]
+
 
 //Text $1ADD28
 #WRITE(ptr,$18D038)
 [Sign_Box]Sunfish[END]
 
+
 //Text $1ADCE0
 #WRITE(ptr,$18D03C)
-まんぼう……<$81>@所持数に応じて[LINE]
+まんぼう…… 所持数に応じて[LINE]
 リリスのまんぼう戦吼の威力が[LINE]
 アップ！[END]
+
 
 //Text $1ADCC8
 #WRITE(ptr,$18D054)
 [Sign_Box]Feather Badge[END]
+
 
 //Text $1ADC88
 #WRITE(ptr,$18D058)
@@ -877,9 +1059,11 @@ Only those who know "axes" can answer.[END]
 なりふり構わず英雄になりたくなる。[LINE]
 [END]
 
+
 //Text $1ADC70
 #WRITE(ptr,$18D070)
 [Sign_Box]Round Pendant[END]
+
 
 //Text $1ADC28
 #WRITE(ptr,$18D074)
@@ -887,9 +1071,11 @@ Only those who know "axes" can answer.[END]
 ペンダント。[LINE]
 時をかけるとかかけないとか……[END]
 
+
 //Text $1ADC10
 #WRITE(ptr,$18D08C)
 [Sign_Box]Blue Scarf[END]
+
 
 //Text $1ADBC0
 #WRITE(ptr,$18D090)
@@ -897,9 +1083,11 @@ Only those who know "axes" can answer.[END]
 身に着けている人は[LINE]
 さぞかし心が美しかろう。[END]
 
+
 //Text $1ADBA8
 #WRITE(ptr,$18D0A8)
 [Sign_Box]Masklike Object[END]
+
 
 //Text $1ADB68
 #WRITE(ptr,$18D0AC)
@@ -907,9 +1095,11 @@ Only those who know "axes" can answer.[END]
 つけてるやつの顔が見たい……[LINE]
 [END]
 
+
 //Text $1ADB50
 #WRITE(ptr,$18D0C4)
 [Sign_Box]Red Wig[END]
+
 
 //Text $1ADB00
 #WRITE(ptr,$18D0C8)
@@ -917,9 +1107,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 ウイッグとは[LINE]
 女性用かつらみたいなものです。[END]
 
+
 //Text $1ADAE8
 #WRITE(ptr,$18D0E0)
 [Sign_Box]Black Candy[END]
+
 
 //Text $1ADAA8
 #WRITE(ptr,$18D0E4)
@@ -927,9 +1119,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 どこに着けるかはお好みで！[LINE]
 [END]
 
+
 //Text $1ADA90
 #WRITE(ptr,$18D0FC)
 [Sign_Box]Not-so-huge Doll[END]
+
 
 //Text $1ADA40
 #WRITE(ptr,$18D100)
@@ -937,9 +1131,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 おなかを押すと[LINE]
 「ドスッ」と鈍い音がする。[END]
 
+
 //Text $1ADA28
 #WRITE(ptr,$18D118)
 [Sign_Box]Mieu Doll[END]
+
 
 //Text $1AD9E0
 #WRITE(ptr,$18D11C)
@@ -947,19 +1143,23 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 火を噴く危険な人形。[LINE]
 なぜだか蹴飛ばしたくなる……[END]
 
+
 //Text $1AD9C8
 #WRITE(ptr,$18D134)
 [Sign_Box]Superb Braid[END]
 
+
 //Text $1AD980
 #WRITE(ptr,$18D138)
-便利！<$81>@取り外し可！<$81>@自己発育！[LINE]
+便利！ 取り外し可！ 自己発育！[LINE]
 １６個のまりもが生み出す[LINE]
 ハーモニー！[END]
+
 
 //Text $1AD968
 #WRITE(ptr,$18D150)
 [Sign_Box]Pricey Crown[END]
+
 
 //Text $1AD930
 #WRITE(ptr,$18D154)
@@ -967,9 +1167,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 頭の上にどうやって載せるのか？[LINE]
 [END]
 
+
 //Text $1AD920
 #WRITE(ptr,$18D16C)
 [Sign_Box]Scrap Lens[END]
+
 
 //Text $1AD8D8
 #WRITE(ptr,$18D170)
@@ -977,9 +1179,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 一応引き取ってもらえる。[LINE]
 換金アイテム。[END]
 
+
 //Text $1AD8C0
 #WRITE(ptr,$18D188)
 [Sign_Box]Crystal Lens[END]
+
 
 //Text $1AD870
 #WRITE(ptr,$18D18C)
@@ -987,9 +1191,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 非常に珍しいので高値で売れる[LINE]
 換金アイテム。[END]
 
+
 //Text $1AD860
 #WRITE(ptr,$18D1A4)
 [Sign_Box]Pebble[END]
+
 
 //Text $1AD818
 #WRITE(ptr,$18D1A8)
@@ -997,9 +1203,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 一応１ガルドで売れる換金アイテム。[LINE]
 [END]
 
+
 //Text $1AD808
 #WRITE(ptr,$18D1C0)
 [Sign_Box]Tenchiko[END]
+
 
 //Text $1AD7C0
 #WRITE(ptr,$18D1C4)
@@ -1007,9 +1215,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 使用されていたとされる鉱石。[LINE]
 換金アイテム。[END]
 
+
 //Text $1AD7B0
 #WRITE(ptr,$18D1DC)
 [Sign_Box]Golden[END]
+
 
 //Text $1AD768
 #WRITE(ptr,$18D1E0)
@@ -1017,9 +1227,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 金に対する執着心がよく分かる一品。[LINE]
 換金アイテム。[END]
 
+
 //Text $1AD758
 #WRITE(ptr,$18D1F8)
 [Sign_Box]Meteorite[END]
+
 
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
@@ -1027,9 +1239,11 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 ということにして売れる[LINE]
 換金アイテム。[END]
 
+
 //Text $1AD6F8
 #WRITE(ptr,$18D214)
 [Sign_8]Poison Material[END]
+
 
 //Text $1AD6A8
 #WRITE(ptr,$18D218)
@@ -1037,9 +1251,11 @@ Rerise into a gem that[LINE]
 prevents poison status,[LINE]
 which reduces HP over time.[END]
 
+
 //Text $1AD690
 #WRITE(ptr,$18D230)
 [Sign_8]Sleep Material[END]
+
 
 //Text $1AD648
 #WRITE(ptr,$18D234)
@@ -1047,9 +1263,11 @@ which reduces HP over time.[END]
 状態異常「睡眠」を防止する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AD630
 #WRITE(ptr,$18D24C)
 [Sign_8]Stone Material[END]
+
 
 //Text $1AD5E8
 #WRITE(ptr,$18D250)
@@ -1057,9 +1275,11 @@ which reduces HP over time.[END]
 状態異常「石化」を防止する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AD5C8
 #WRITE(ptr,$18D268)
 [Sign_8]Waste Material[END]
+
 
 //Text $1AD578
 #WRITE(ptr,$18D26C)
@@ -1067,9 +1287,11 @@ which reduces HP over time.[END]
 状態異常「衰弱」を防止する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AD560
 #WRITE(ptr,$18D284)
 [Sign_8]Paralyze Material[END]
+
 
 //Text $1AD518
 #WRITE(ptr,$18D288)
@@ -1077,9 +1299,11 @@ which reduces HP over time.[END]
 状態異常「マヒ」を防止する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AD500
 #WRITE(ptr,$18D2A0)
 [Sign_8]Seal Material[END]
+
 
 //Text $1AD4B0
 #WRITE(ptr,$18D2A4)
@@ -1087,9 +1311,11 @@ which reduces HP over time.[END]
 状態異常「封印」を防止する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AD498
 #WRITE(ptr,$18D2BC)
 [Sign_8]Flare Material[END]
+
 
 //Text $1AD440
 #WRITE(ptr,$18D2C0)
@@ -1097,9 +1323,11 @@ which reduces HP over time.[END]
 できる「火属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD428
 #WRITE(ptr,$18D2D8)
 [Sign_8]Aqua Material[END]
+
 
 //Text $1AD3D0
 #WRITE(ptr,$18D2DC)
@@ -1107,9 +1335,11 @@ which reduces HP over time.[END]
 できる「水属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD3B8
 #WRITE(ptr,$18D2F4)
 [Sign_8]Earth Material[END]
+
 
 //Text $1AD360
 #WRITE(ptr,$18D2F8)
@@ -1117,9 +1347,11 @@ which reduces HP over time.[END]
 できる「地属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD348
 #WRITE(ptr,$18D310)
 [Sign_8]Gale Material[END]
+
 
 //Text $1AD2F0
 #WRITE(ptr,$18D314)
@@ -1127,9 +1359,11 @@ which reduces HP over time.[END]
 できる「風属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD2D8
 #WRITE(ptr,$18D32C)
 [Sign_8]Light Material[END]
+
 
 //Text $1AD280
 #WRITE(ptr,$18D330)
@@ -1137,9 +1371,11 @@ which reduces HP over time.[END]
 できる「光属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD268
 #WRITE(ptr,$18D348)
 [Sign_8]Dark Material[END]
+
 
 //Text $1AD210
 #WRITE(ptr,$18D34C)
@@ -1147,9 +1383,11 @@ which reduces HP over time.[END]
 できる「闇属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD1F0
 #WRITE(ptr,$18D364)
 [Sign_8]Slash Material[END]
+
 
 //Text $1AD198
 #WRITE(ptr,$18D368)
@@ -1157,9 +1395,11 @@ which reduces HP over time.[END]
 できる「斬属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD180
 #WRITE(ptr,$18D380)
 [Sign_8]Blow Material[END]
+
 
 //Text $1AD128
 #WRITE(ptr,$18D384)
@@ -1167,9 +1407,11 @@ which reduces HP over time.[END]
 できる「打属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD110
 #WRITE(ptr,$18D39C)
 [Sign_8]Shot Material[END]
+
 
 //Text $1AD0B8
 #WRITE(ptr,$18D3A0)
@@ -1177,9 +1419,11 @@ which reduces HP over time.[END]
 できる「射属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD0A0
 #WRITE(ptr,$18D3B8)
 [Sign_8]Sonic Material[END]
+
 
 //Text $1AD048
 #WRITE(ptr,$18D3BC)
@@ -1187,9 +1431,11 @@ which reduces HP over time.[END]
 できる「音属性耐性」を付加する[LINE]
 宝石に変化する。[END]
 
+
 //Text $1AD030
 #WRITE(ptr,$18D3D4)
 [Sign_8]Attack Material[END]
+
 
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
@@ -1197,9 +1443,11 @@ which reduces HP over time.[END]
 攻撃力を一定時間上昇する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1ACFC8
 #WRITE(ptr,$18D3F0)
 [Sign_8]Mind Material[END]
+
 
 //Text $1ACF70
 #WRITE(ptr,$18D3F4)
@@ -1207,19 +1455,23 @@ which reduces HP over time.[END]
 術攻撃力を一定時間上昇する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1ACF50
 #WRITE(ptr,$18D40C)
 [Sign_8]Protect Material[END]
 
+
 //Text $1ACF00
 #WRITE(ptr,$18D410)
 Rerise into a gem that[LINE]
-temporily increase P<$99> DEF[LINE]
+temporily increase P. DEF[LINE]
 with [Square_ani2]＋[Down_blink] Charge.[END]
+
 
 //Text $1ACEE8
 #WRITE(ptr,$18D428)
 [Sign_8]Resist Material[END]
+
 
 //Text $1ACE90
 #WRITE(ptr,$18D42C)
@@ -1227,9 +1479,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 術防御力を一定時間上昇する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1ACE78
 #WRITE(ptr,$18D444)
 [Sign_8]Recover Material[END]
+
 
 //Text $1ACE20
 #WRITE(ptr,$18D448)
@@ -1237,9 +1491,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 高確率で状態異常を解除する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1ACE08
 #WRITE(ptr,$18D460)
 [Sign_8]Chain Material[END]
+
 
 //Text $1ACDC0
 #WRITE(ptr,$18D464)
@@ -1247,9 +1503,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＣＣを１加算する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACDA0
 #WRITE(ptr,$18D47C)
 [Sign_8]Flash Material[END]
+
 
 //Text $1ACD50
 #WRITE(ptr,$18D480)
@@ -1257,9 +1515,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 短時間完全回避する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACD38
 #WRITE(ptr,$18D498)
 [Sign_8]Blast Material[END]
+
 
 //Text $1ACCE8
 #WRITE(ptr,$18D49C)
@@ -1267,9 +1527,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ブラストゲージを加算する宝石に[LINE]
 変化する。[END]
 
+
 //Text $1ACCD0
 #WRITE(ptr,$18D4B4)
 [Sign_8]Supply Material[END]
+
 
 //Text $1ACC78
 #WRITE(ptr,$18D4B8)
@@ -1277,9 +1539,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 自分以外の味方のＣＣを[LINE]
 加算させる宝石に変化する。[END]
 
+
 //Text $1ACC60
 #WRITE(ptr,$18D4D0)
 [Sign_8]Cure Material[END]
+
 
 //Text $1ACC18
 #WRITE(ptr,$18D4D4)
@@ -1287,9 +1551,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＨＰを回復する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACBF8
 #WRITE(ptr,$18D4EC)
 [Sign_8]Physical Material[END]
+
 
 //Text $1ACBA0
 #WRITE(ptr,$18D4F0)
@@ -1297,9 +1563,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 敵の防御を崩す攻撃判定が[LINE]
 発生する宝石に変化する。[END]
 
+
 //Text $1ACB80
 #WRITE(ptr,$18D508)
 [Sign_8]Dispel Material[END]
+
 
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
@@ -1307,9 +1575,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 減少効果を打ち消す宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACB18
 #WRITE(ptr,$18D524)
 [Sign_8]Rise Material[END]
+
 
 //Text $1ACAE0
 #WRITE(ptr,$18D528)
@@ -1317,9 +1587,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACAC0
 #WRITE(ptr,$18D540)
 [Sign_8]Exceed Material[END]
+
 
 //Text $1ACA88
 #WRITE(ptr,$18D544)
@@ -1327,9 +1599,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACA68
 #WRITE(ptr,$18D55C)
 [Sign_8]Zexceed Material[END]
+
 
 //Text $1ACA30
 #WRITE(ptr,$18D560)
@@ -1337,9 +1611,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石に変化する。[LINE]
 [END]
 
+
 //Text $1ACA10
 #WRITE(ptr,$18D578)
 [Sign_8]Variable Material[END]
+
 
 //Text $1AC9D0
 #WRITE(ptr,$18D57C)
@@ -1347,9 +1623,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 １増やす宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC9B0
 #WRITE(ptr,$18D594)
 [Sign_8]Fix Material[END]
+
 
 //Text $1AC978
 #WRITE(ptr,$18D598)
@@ -1357,9 +1635,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC960
 #WRITE(ptr,$18D5B0)
 [Sign_8]Flat Material[END]
+
 
 //Text $1AC928
 #WRITE(ptr,$18D5B4)
@@ -1367,9 +1647,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC908
 #WRITE(ptr,$18D5CC)
 [Sign_8]Chaser Material[END]
+
 
 //Text $1AC8C8
 #WRITE(ptr,$18D5D0)
@@ -1377,9 +1659,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＣＣを＋１する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC8B0
 #WRITE(ptr,$18D5E8)
 [Sign_8]Holy Material[END]
+
 
 //Text $1AC870
 #WRITE(ptr,$18D5EC)
@@ -1387,9 +1671,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＨＰが微量回復する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC858
 #WRITE(ptr,$18D604)
 [Sign_8]Gain Material[END]
+
 
 //Text $1AC818
 #WRITE(ptr,$18D608)
@@ -1397,9 +1683,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＨＰが回復する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC800
 #WRITE(ptr,$18D620)
 [Sign_8]Rapid Material[END]
+
 
 //Text $1AC7C0
 #WRITE(ptr,$18D624)
@@ -1407,9 +1695,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ＣＣを＋２する宝石に変化する。[LINE]
 [END]
 
+
 //Text $1AC7A0
 #WRITE(ptr,$18D63C)
 [Sign_8]Tension Material[END]
+
 
 //Text $1AC750
 #WRITE(ptr,$18D640)
@@ -1417,9 +1707,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 ブラストゲージが加算される宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AC730
 #WRITE(ptr,$18D658)
 [Sign_8]Advance Material[END]
+
 
 //Text $1AC6E8
 #WRITE(ptr,$18D65C)
@@ -1427,9 +1719,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 物理攻撃を防御できる宝石に[LINE]
 変化する。[END]
 
+
 //Text $1AC6C8
 #WRITE(ptr,$18D674)
 [Sign_8]Strict Material[END]
+
 
 //Text $1AC668
 #WRITE(ptr,$18D678)
@@ -1437,9 +1731,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 （敵の攻撃をひきつけてガード）[LINE]
 でＣＣが２加算する宝石に変化する。[END]
 
+
 //Text $1AC648
 #WRITE(ptr,$18D690)
 [Sign_8]Absorb Material[END]
+
 
 //Text $1AC5E8
 #WRITE(ptr,$18D694)
@@ -1447,9 +1743,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 （敵の攻撃をひきつけてガード）[LINE]
 でＨＰが回復する宝石に変化する。[END]
 
+
 //Text $1AC5D0
 #WRITE(ptr,$18D6AC)
 [Sign_8]Demons Material[END]
+
 
 //Text $1AC590
 #WRITE(ptr,$18D6B0)
@@ -1457,280 +1755,342 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 なる宝石に変化する。ただし……[LINE]
 [END]
 
+
 //Text $1AC578
 #WRITE(ptr,$18D6C8)
 [Sign_8]Edge Material[END]
+
 
 //Text $1AC530
 #WRITE(ptr,$18D6CC)
 リライズで、与えるダメージが２倍[LINE]
 になる宝石に変化する。ただし……[LINE]
 [END]
+
+
 //Section Jewel
 
 //Text $1B0A28
 #WRITE(ptr,$18D704)
 [Sign_2]Poison[END]
 
+
 //Text $1B09F0
 #WRITE(ptr,$18D708)
-ＨＰが減少していく状態異常[LINE]
-「熱毒」を防止する宝石。[LINE]
+A jewel that prevents [Poison],[LINE]
+a status ailment that reduces HP.[LINE]
 [END]
+
 
 //Text $1B09E0
 #WRITE(ptr,$18D720)
 [Sign_2]Sleep[END]
 
+
 //Text $1B09A8
 #WRITE(ptr,$18D724)
-行動不能になる状態異常[LINE]
-「睡眠」を防止する宝石。[LINE]
+A jewel that prevents [Sleep],[LINE]
+a status ailment that renders[LINE]
+you unable to act.[LINE]
 [END]
+
 
 //Text $1B0998
 #WRITE(ptr,$18D73C)
 [Sign_2]Stone[END]
 
+
 //Text $1B0960
 #WRITE(ptr,$18D740)
-行動不能になる状態異常[LINE]
-「石化」を防止する宝石。[LINE]
+A jewel that prevents [Stone],[LINE]
+a status ailment that renders[LINE]
+you unable to act.[LINE]
 [END]
+
 
 //Text $1B0950
 #WRITE(ptr,$18D758)
-[Sign_2]Waste[END]
+[Sign_2]Weak[END]
+
 
 //Text $1B0918
 #WRITE(ptr,$18D75C)
-ＣＣの回復が遅くなる状態異常[LINE]
-「衰弱」を防止する宝石。[LINE]
+A jewel that prevents [Weak],[LINE]
+a status ailment that slows[LINE]
+CC recovery.[LINE]
 [END]
+
 
 //Text $1B0908
 #WRITE(ptr,$18D774)
 [Sign_2]Paralyze[END]
 
+
 //Text $1B08D0
 #WRITE(ptr,$18D778)
-行動時に痺れる状態異常[LINE]
-「マヒ」を防止する宝石。[LINE]
+A jewel that prevents [Paralyze],[LINE]
+a status ailment that paralyzes[LINE]
+you when you take any action.[LINE]
 [END]
+
 
 //Text $1B08C0
 #WRITE(ptr,$18D790)
 [Sign_2]Seal[END]
 
+
 //Text $1B0888
 #WRITE(ptr,$18D794)
-術技が使用不可になる状態異常[LINE]
-「封印」を防止する宝石。[LINE]
+A jewel that prevents [Seal],[LINE]
+a status ailment that prevents[LINE]
+the use of artes.[LINE]
 [END]
+
 
 //Text $1B0878
 #WRITE(ptr,$18D7AC)
 [Sign_2]Flare[END]
 
+
 //Text $1B0838
 #WRITE(ptr,$18D7B0)
-火属性ダメージを半減できる[LINE]
-「火属性耐性」を付加する宝石。[LINE]
+A jewel that reduces fire[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0828
 #WRITE(ptr,$18D7C8)
 [Sign_2]Aqua[END]
 
+
 //Text $1B07E8
 #WRITE(ptr,$18D7CC)
-水属性ダメージを半減できる[LINE]
-「水属性耐性」を付加する宝石。[LINE]
+A jewel that reduces water[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B07D8
 #WRITE(ptr,$18D7E4)
 [Sign_2]Earth[END]
 
+
 //Text $1B0798
 #WRITE(ptr,$18D7E8)
-地属性ダメージを半減できる[LINE]
-「地属性耐性」を付加する宝石。[LINE]
+A jewel that reduces earth[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0788
 #WRITE(ptr,$18D800)
 [Sign_2]Gale[END]
 
+
 //Text $1B0748
 #WRITE(ptr,$18D804)
-風属性ダメージを半減できる[LINE]
-「風属性耐性」を付加する宝石。[LINE]
+A jewel that reduces wind[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0738
 #WRITE(ptr,$18D81C)
 [Sign_2]Light[END]
 
+
 //Text $1B06F8
 #WRITE(ptr,$18D820)
-光属性ダメージを半減できる[LINE]
-「光属性耐性」を付加する宝石。[LINE]
+A jewel that reduces light[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B06E8
 #WRITE(ptr,$18D838)
 [Sign_2]Dark[END]
 
+
 //Text $1B06A8
 #WRITE(ptr,$18D83C)
-闇属性ダメージを半減できる[LINE]
-「闇属性耐性」を付加する宝石。[LINE]
+A jewel that reduces dark[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0698
 #WRITE(ptr,$18D854)
 [Sign_2]Slash[END]
 
+
 //Text $1B0658
 #WRITE(ptr,$18D858)
-斬属性ダメージを半減できる[LINE]
-「斬属性耐性」を付加する宝石。[LINE]
+A jewel that reduces slash[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0648
 #WRITE(ptr,$18D870)
 [Sign_2]Blow[END]
 
+
 //Text $1B0608
 #WRITE(ptr,$18D874)
-打属性ダメージを半減できる[LINE]
-「打属性耐性」を付加する宝石。[LINE]
+A jewel that reduces blow[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B05F8
 #WRITE(ptr,$18D88C)
 [Sign_2]Shot[END]
 
+
 //Text $1B05B8
 #WRITE(ptr,$18D890)
-射属性ダメージを半減できる[LINE]
-「射属性耐性」を付加する宝石。[LINE]
+A jewel that reduces shot[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B05A8
 #WRITE(ptr,$18D8A8)
 [Sign_2]Sonic[END]
 
+
 //Text $1B0568
 #WRITE(ptr,$18D8AC)
-音属性ダメージを半減できる[LINE]
-「音属性耐性」を付加する宝石。[LINE]
+A jewel that reduces sound[LINE]
+damage by half.[LINE]
 [END]
+
 
 //Text $1B0558
 #WRITE(ptr,$18D8C4)
 [Sign_2]Attack[END]
 
+
 //Text $1B0520
 #WRITE(ptr,$18D8C8)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-攻撃力を一定時間上昇する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase P. Atk.[LINE]
 [END]
+
 
 //Text $1B0510
 #WRITE(ptr,$18D8E0)
 [Sign_2]Mind[END]
 
+
 //Text $1B04D0
 #WRITE(ptr,$18D8E4)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-術攻撃力を一定時間上昇する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase M. Atk.[LINE]
 [END]
+
 
 //Text $1B04C0
 #WRITE(ptr,$18D8FC)
 [Sign_2]Protect[END]
 
+
 //Text $1B0488
 #WRITE(ptr,$18D900)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-防御力を一定時間上昇する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase P. Def.[LINE]
 [END]
+
 
 //Text $1B0478
 #WRITE(ptr,$18D918)
 [Sign_2]Resist[END]
 
+
 //Text $1B0438
 #WRITE(ptr,$18D91C)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-術防御力を一定時間上昇する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase M. Def.[LINE]
 [END]
+
 
 //Text $1B0428
 #WRITE(ptr,$18D934)
 [Sign_2]Recover[END]
 
+
 //Text $1B03E8
 #WRITE(ptr,$18D938)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-高確率で状態異常を解除する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] for a high chance[LINE]
+to remove status ailments.[LINE]
 [END]
+
 
 //Text $1B03D8
 #WRITE(ptr,$18D950)
 [Sign_2]Chain[END]
 
+
 //Text $1B03A8
 #WRITE(ptr,$18D954)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-ＣＣを１加算する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+increase CC by 1.[LINE]
 [END]
+
 
 //Text $1B0398
 #WRITE(ptr,$18D96C)
 [Sign_2]Flash[END]
 
+
 //Text $1B0360
 #WRITE(ptr,$18D970)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-短時間完全回避する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+avoid damage for a short time.[LINE]
 [END]
+
 
 //Text $1B0350
 #WRITE(ptr,$18D988)
 [Sign_2]Blast[END]
 
+
 //Text $1B0318
 #WRITE(ptr,$18D98C)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-ブラストゲージを加算する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+fill up the blast gauge.[LINE]
 [END]
+
 
 //Text $1B0308
 #WRITE(ptr,$18D9A4)
 [Sign_2]Supply[END]
 
+
 //Text $1B02C8
 #WRITE(ptr,$18D9A8)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-自分以外の味方のＣＣを[LINE]
-加算させる宝石。[END]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+increase the party's CC except the user's.[LINE]
+[END]
+
 
 //Text $1B02B8
 #WRITE(ptr,$18D9C0)
 [Sign_2]Cure[END]
 
+
 //Text $1B0288
 #WRITE(ptr,$18D9C4)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-ＨＰを回復する宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+restore HP.[LINE]
 [END]
+
 
 //Text $1B0278
 #WRITE(ptr,$18D9DC)
 [Sign_2]Physical[END]
+
 
 //Text $1B0238
 #WRITE(ptr,$18D9E0)
@@ -1738,9 +2098,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 敵の防御を崩す攻撃判定が[LINE]
 発生する宝石。[END]
 
+
 //Text $1B0228
 #WRITE(ptr,$18D9F8)
 [Sign_2]Dispel[END]
+
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
@@ -1748,9 +2110,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 減少効果を打ち消す宝石。[LINE]
 [END]
 
+
 //Text $1B01E0
 #WRITE(ptr,$18DA14)
 [Sign_2]Rise[END]
+
 
 //Text $1B01C0
 #WRITE(ptr,$18DA18)
@@ -1758,9 +2122,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B01B0
 #WRITE(ptr,$18DA30)
 [Sign_2]Exceed[END]
+
 
 //Text $1B0190
 #WRITE(ptr,$18DA34)
@@ -1768,9 +2134,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B0180
 #WRITE(ptr,$18DA4C)
 [Sign_2]Zexceed[END]
+
 
 //Text $1B0160
 #WRITE(ptr,$18DA50)
@@ -1778,9 +2146,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B0150
 #WRITE(ptr,$18DA68)
 [Sign_2]Variable[END]
+
 
 //Text $1B0128
 #WRITE(ptr,$18DA6C)
@@ -1788,9 +2158,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B0118
 #WRITE(ptr,$18DA84)
 [Sign_2]Fix[END]
+
 
 //Text $1B00F8
 #WRITE(ptr,$18DA88)
@@ -1798,9 +2170,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B00E8
 #WRITE(ptr,$18DAA0)
 [Sign_2]Flat[END]
+
 
 //Text $1B00C8
 #WRITE(ptr,$18DAA4)
@@ -1808,9 +2182,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 [LINE]
 [END]
 
+
 //Text $1B00B8
 #WRITE(ptr,$18DABC)
 [Sign_2]Chaser[END]
+
 
 //Text $1B0090
 #WRITE(ptr,$18DAC0)
@@ -1818,9 +2194,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石。[LINE]
 [END]
 
+
 //Text $1B0080
 #WRITE(ptr,$18DAD8)
 [Sign_2]Holy[END]
+
 
 //Text $1B0058
 #WRITE(ptr,$18DADC)
@@ -1828,9 +2206,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石。[LINE]
 [END]
 
+
 //Text $1B0048
 #WRITE(ptr,$18DAF4)
 [Sign_2]Gain[END]
+
 
 //Text $1B0020
 #WRITE(ptr,$18DAF8)
@@ -1838,9 +2218,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石。[LINE]
 [END]
 
+
 //Text $1B0010
 #WRITE(ptr,$18DB10)
 [Sign_2]Rapid[END]
+
 
 //Text $1AFFE8
 #WRITE(ptr,$18DB14)
@@ -1848,9 +2230,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 宝石。[LINE]
 [END]
 
+
 //Text $1AFFD8
 #WRITE(ptr,$18DB2C)
 [Sign_2]Tension[END]
+
 
 //Text $1AFFA0
 #WRITE(ptr,$18DB30)
@@ -1858,9 +2242,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 加算される宝石。[LINE]
 [END]
 
+
 //Text $1AFF90
 #WRITE(ptr,$18DB48)
 [Sign_2]Advance[END]
+
 
 //Text $1AFF58
 #WRITE(ptr,$18DB4C)
@@ -1868,9 +2254,11 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 物理攻撃を防御できる宝石。[LINE]
 [END]
 
+
 //Text $1AFF48
 #WRITE(ptr,$18DB64)
 [Sign_2]Strict[END]
+
 
 //Text $1AFEF8
 #WRITE(ptr,$18DB68)
@@ -1878,140 +2266,169 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 （敵の攻撃をひきつけてガード）[LINE]
 でＣＣが２加算する宝石。[END]
 
+
 //Text $1AFEE8
 #WRITE(ptr,$18DB80)
 [Sign_2]Absorb[END]
 
+
 //Text $1AFEA0
 #WRITE(ptr,$18DB84)
-フラッシュガード[LINE]
-（敵の攻撃をひきつけてガード）[LINE]
-でＨＰが回復する宝石。[END]
+A gem that restores HP with[LINE]
+Flash Guard (Guard just before you[LINE]
+receive an attack).[END]
+
 
 //Text $1AFE90
 #WRITE(ptr,$18DB9C)
 [Sign_2]Demons[END]
 
+
 //Text $1AFE60
 #WRITE(ptr,$18DBA0)
-獲得経験値が２倍になる宝石。[LINE]
-ただし……[LINE]
+A jewel that doubles the experience gained.[LINE]
+However...[LINE]
 [END]
+
 
 //Text $1AFE50
 #WRITE(ptr,$18DBB8)
 [Sign_2]Edge[END]
 
+
 //Text $1AFE20
 #WRITE(ptr,$18DBBC)
-与えるダメージが２倍になる宝石。[LINE]
-ただし……[LINE]
+A jewel that doubles damage dealt.[LINE]
+However...[LINE]
 [END]
+
 
 //Text $1AFE08
 #WRITE(ptr,$18DBD4)
 [Sign_2]Narikiri Stahn[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DBD8)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Stahn?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFDD0
 #WRITE(ptr,$18DBF0)
 [Sign_2]Narikiri Rutee[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DBF4)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Rutee?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFDB8
 #WRITE(ptr,$18DC0C)
 [Sign_2]Narikiri Philia[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC10)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Philia?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFDA0
 #WRITE(ptr,$18DC28)
 [Sign_2]Narikiri Garr[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC2C)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Garr?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD88
 #WRITE(ptr,$18DC44)
 [Sign_2]Narikiri Leon[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC48)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Leon?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD70
 #WRITE(ptr,$18DC60)
 [Sign_2]Narikiri Mary[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC64)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Mary?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD58
 #WRITE(ptr,$18DC7C)
 [Sign_2]Narikiri Chelsea[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC80)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Chelsea?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD40
 #WRITE(ptr,$18DC98)
 [Sign_2]Narikiri Karyl[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DC9C)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Karyl?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD28
 #WRITE(ptr,$18DCB4)
 [Sign_2]Narikiri Bruiser[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DCB8)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Bruiser?[LINE]
 [LINE]
 [END]
+
 
 //Text $1AFD10
 #WRITE(ptr,$18DCD0)
 [Sign_2]Narikiri Lilith[END]
 
+
 //Text $1AFDE8
 #WRITE(ptr,$18DCD4)
-なりきりの力が宿っている？[LINE]
+Do you have the power to impersonate Lilith?[LINE]
 [LINE]
 [END]
+
+
 //Section Weapon
 
 //Text $1B2CD0
 #WRITE(ptr,$18DD2C)
 [Sign_Sword]Dymlos[END]
+
 
 //Text $1B2C80
 #WRITE(ptr,$18DD30)
@@ -2019,9 +2436,11 @@ Swordian of Fire.[LINE]
 Leader of an army.[LINE]
 His full name is Dymlos Timber.[END]
 
+
 //Text $1B2C70
 #WRITE(ptr,$18DD68)
 [Sign_Sword]Atwight[END]
+
 
 //Text $1B2C20
 #WRITE(ptr,$18DD6C)
@@ -2029,9 +2448,11 @@ Swordian of Water.[LINE]
 Fierce and intelligent woman.[LINE]
 Her full name is Atwight Ecks.[END]
 
+
 //Text $1B2C10
 #WRITE(ptr,$18DDA4)
 [Sign_Sword]Clemente[END]
+
 
 //Text $1B2BC0
 #WRITE(ptr,$18DDA8)
@@ -2039,9 +2460,11 @@ Swordian of Light.[LINE]
 A wise old man.[LINE]
 His full name is Laville Clemente.[END]
 
+
 //Text $1B2BA8
 #WRITE(ptr,$18DDE0)
 [Sign_Sword]Igtenos[END]
+
 
 //Text $1B2B50
 #WRITE(ptr,$18DDE4)
@@ -2049,9 +2472,11 @@ Swordian of Wind.[LINE]
 A rational and intelligent man.[LINE]
 His full name is Igtenos Mindarde.[END]
 
+
 //Text $1B2B38
 #WRITE(ptr,$18DE1C)
 [Sign_Sword]Chaltier[END]
+
 
 //Text $1B2AE0
 #WRITE(ptr,$18DE20)
@@ -2059,9 +2484,11 @@ Swordian of Earth.[LINE]
 A gifted young man, his full name is[LINE]
 Pierre de Chaltier.[END]
 
+
 //Text $1B2AC8
 #WRITE(ptr,$18DE58)
 [Sign_Sword]Knight Blade[END]
+
 
 //Text $1B2A80
 #WRITE(ptr,$18DE5C)
@@ -2069,9 +2496,11 @@ A sword adopted by the armed[LINE]
 forces of many countries.[LINE]
 Easy to use.[END]
 
+
 //Text $1B2A68
 #WRITE(ptr,$18DE94)
 [Sign_Sword]Royal Blade[END]
+
 
 //Text $1B2A18
 #WRITE(ptr,$18DE98)
@@ -2079,9 +2508,11 @@ A famous sword handed down from[LINE]
 the Royal Family of Phandaria.[LINE]
 Looks sharp.[END]
 
+
 //Text $1B2A08
 #WRITE(ptr,$18DED0)
 [Sign_Sword]Artifact[END]
+
 
 //Text $1B29A0
 #WRITE(ptr,$18DED4)
@@ -2089,18 +2520,22 @@ An oddly shaped sword and comfy in the hand.[LINE]
 It was kept on the Draconis.[LINE]
 A powerful aura can be felt[END]
 
+
 //Text $1B2988
 #WRITE(ptr,$18DF0C)
 [Sign_Sword]Stone Axe[END]
+
 
 //Text $1B2940
 #WRITE(ptr,$18DF10)
 A knapped stone axe. Although[LINE]
 obsolete, it's still a human milestone.[END]
 
+
 //Text $1B2928
 #WRITE(ptr,$18DF48)
 [Sign_Sword]Bronze Axe[END]
+
 
 //Text $1B28E0
 #WRITE(ptr,$18DF4C)
@@ -2108,9 +2543,11 @@ obsolete, it's still a human milestone.[END]
 天地戦争時代から使われていた[LINE]
 優秀な金属。[END]
 
+
 //Text $1B28C8
 #WRITE(ptr,$18DF84)
 [Sign_Sword]Iron Axe[END]
+
 
 //Text $1B2888
 #WRITE(ptr,$18DF88)
@@ -2118,9 +2555,11 @@ obsolete, it's still a human milestone.[END]
 鉄製の斧。[LINE]
 もっとも身近な金属。[END]
 
+
 //Text $1B2870
 #WRITE(ptr,$18DFC0)
 [Sign_Sword]Steel Axe[END]
+
 
 //Text $1B2840
 #WRITE(ptr,$18DFC4)
@@ -2128,9 +2567,11 @@ obsolete, it's still a human milestone.[END]
 鋼製の斧。[LINE]
 [END]
 
+
 //Text $1B2828
 #WRITE(ptr,$18DFFC)
 [Sign_Sword]Titanium Axe[END]
+
 
 //Text $1B27D8
 #WRITE(ptr,$18E000)
@@ -2138,9 +2579,11 @@ obsolete, it's still a human milestone.[END]
 チタン製の斧。[LINE]
 非常に軽く、並外れた耐食性を持つ。[END]
 
+
 //Text $1B27C0
 #WRITE(ptr,$18E038)
 [Sign_Sword]Silver Axe[END]
+
 
 //Text $1B2790
 #WRITE(ptr,$18E03C)
@@ -2148,9 +2591,11 @@ obsolete, it's still a human milestone.[END]
 白い輝きが美しい。[LINE]
 [END]
 
+
 //Text $1B2778
 #WRITE(ptr,$18E074)
 [Sign_Sword]Gold Axe[END]
+
 
 //Text $1B2740
 #WRITE(ptr,$18E078)
@@ -2158,9 +2603,11 @@ obsolete, it's still a human milestone.[END]
 別名「豪華な斧」。[LINE]
 [END]
 
+
 //Text $1B2728
 #WRITE(ptr,$18E0B0)
 [Sign_Sword]Mithril Axe[END]
+
 
 //Text $1B26E0
 #WRITE(ptr,$18E0B4)
@@ -2168,9 +2615,11 @@ obsolete, it's still a human milestone.[END]
 ドワーフ族の芸術作品といわれる。[LINE]
 [END]
 
+
 //Text $1B26C8
 #WRITE(ptr,$18E0EC)
 [Sign_Sword]Hand Axe[END]
+
 
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
@@ -2178,9 +2627,11 @@ obsolete, it's still a human milestone.[END]
 少し力があれば片手でも軽々[LINE]
 扱うことが可能。[END]
 
+
 //Text $1B2668
 #WRITE(ptr,$18E128)
 [Sign_Sword]Battle Axe[END]
+
 
 //Text $1B2628
 #WRITE(ptr,$18E12C)
@@ -2188,9 +2639,11 @@ obsolete, it's still a human milestone.[END]
 その名の通り、[LINE]
 戦闘用に特化されている。[END]
 
+
 //Text $1B2610
 #WRITE(ptr,$18E164)
 [Sign_Sword]Great Axe[END]
+
 
 //Text $1B25B0
 #WRITE(ptr,$18E168)
@@ -2198,9 +2651,11 @@ obsolete, it's still a human milestone.[END]
 「グレートだ！」と叫んだことから[LINE]
 この名がついた。切れ味も抜群。[END]
 
+
 //Text $1B2598
 #WRITE(ptr,$18E1A0)
 [Sign_Sword]Crescent Axe[END]
+
 
 //Text $1B2548
 #WRITE(ptr,$18E1A4)
@@ -2208,9 +2663,11 @@ obsolete, it's still a human milestone.[END]
 乳白色の刃は闇で振るうと[LINE]
 より月のように見えるらしい。[END]
 
+
 //Text $1B2530
 #WRITE(ptr,$18E1DC)
 [Sign_Sword]Head Axe[END]
+
 
 //Text $1B24D8
 #WRITE(ptr,$18E1E0)
@@ -2218,9 +2675,11 @@ obsolete, it's still a human milestone.[END]
 切っ先が特徴の斧。[LINE]
 地面に突き刺すために使われる。[END]
 
+
 //Text $1B24C0
 #WRITE(ptr,$18E218)
 [Sign_Sword]Strike Axe[END]
+
 
 //Text $1B2480
 #WRITE(ptr,$18E21C)
@@ -2228,9 +2687,11 @@ obsolete, it's still a human milestone.[END]
 刃の隙間は剣を引っ掛け[LINE]
 折るためのもの。[END]
 
+
 //Text $1B2468
 #WRITE(ptr,$18E254)
 [Sign_Sword]Driving Axe[END]
+
 
 //Text $1B2410
 #WRITE(ptr,$18E258)
@@ -2238,9 +2699,11 @@ obsolete, it's still a human milestone.[END]
 力のない者が振るっても[LINE]
 容易く肉を裂けられるほど鋭い。[END]
 
+
 //Text $1B23F8
 #WRITE(ptr,$18E290)
 [Sign_Sword]Rare Axe[END]
+
 
 //Text $1B23A0
 #WRITE(ptr,$18E294)
@@ -2248,9 +2711,11 @@ obsolete, it's still a human milestone.[END]
 無二の傑作。きわめて希少価値が[LINE]
 高く、戦士たちの憧れの斧。[END]
 
+
 //Text $1B2388
 #WRITE(ptr,$18E2CC)
 [Sign_Sword]Tomahawk Axe[END]
+
 
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
@@ -2258,9 +2723,11 @@ obsolete, it's still a human milestone.[END]
 という意味の名を持つ斧。[LINE]
 扱いが上手ければ投げることも可能。[END]
 
+
 //Text $1B2320
 #WRITE(ptr,$18E308)
 [Sign_Sword]Poleaxe[END]
+
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
@@ -2268,9 +2735,11 @@ obsolete, it's still a human milestone.[END]
 重装備の鎧でさえ打ち砕ける。[LINE]
 [END]
 
+
 //Text $1B22C0
 #WRITE(ptr,$18E344)
 [Sign_Sword]Jedburgh Axe[END]
+
 
 //Text $1B2278
 #WRITE(ptr,$18E348)
@@ -2278,9 +2747,11 @@ obsolete, it's still a human milestone.[END]
 斬るだけでなく[LINE]
 刺すこともできる優秀な斧。[END]
 
+
 //Text $1B2260
 #WRITE(ptr,$18E380)
 [Sign_Sword]Lochaber Axe[END]
+
 
 //Text $1B2220
 #WRITE(ptr,$18E384)
@@ -2288,9 +2759,11 @@ obsolete, it's still a human milestone.[END]
 馬上の敵を引きずり下ろすのに有効。[LINE]
 [END]
 
+
 //Text $1B2208
 #WRITE(ptr,$18E3BC)
 [Sign_Sword]Eye Axe[END]
+
 
 //Text $1B21C8
 #WRITE(ptr,$18E3C0)
@@ -2298,9 +2771,11 @@ obsolete, it's still a human milestone.[END]
 この名がつけられた大型の斧。[LINE]
 [END]
 
+
 //Text $1B21B0
 #WRITE(ptr,$18E3F8)
 [Sign_Sword]Epsilon Axe[END]
+
 
 //Text $1B2160
 #WRITE(ptr,$18E3FC)
@@ -2308,9 +2783,11 @@ obsolete, it's still a human milestone.[END]
 より扱いやすくした斧。[LINE]
 攻撃力もアップし軽量化も図られた。[END]
 
+
 //Text $1B2148
 #WRITE(ptr,$18E434)
 [Sign_Sword]Gaia Axe[END]
+
 
 //Text $1B2100
 #WRITE(ptr,$18E438)
@@ -2318,9 +2795,11 @@ obsolete, it's still a human milestone.[END]
 華奢な形状からは想像できない[LINE]
 威力を持つ。[END]
 
+
 //Text $1B20E8
 #WRITE(ptr,$18E470)
 [Sign_Sword]Grimm Axe[END]
+
 
 //Text $1B2098
 #WRITE(ptr,$18E474)
@@ -2328,9 +2807,11 @@ obsolete, it's still a human milestone.[END]
 口伝を書物にまとめた兄弟の名を[LINE]
 冠する。[END]
 
+
 //Text $1B2088
 #WRITE(ptr,$18E4AC)
 [Sign_Sword]Gano[END]
+
 
 //Text $1B2048
 #WRITE(ptr,$18E4B0)
@@ -2338,9 +2819,11 @@ obsolete, it's still a human milestone.[END]
 少ない金属で作ることが可能な斧。[LINE]
 [END]
 
+
 //Text $1B2038
 #WRITE(ptr,$18E4E8)
 [Sign_Sword]Shoka[END]
+
 
 //Text $1B1FF0
 #WRITE(ptr,$18E4EC)
@@ -2348,9 +2831,11 @@ obsolete, it's still a human milestone.[END]
 強度を上げた斧。[LINE]
 日常の道具としても使用可能。[END]
 
+
 //Text $1B1FE0
 #WRITE(ptr,$18E524)
 [Sign_Sword]Celtis[END]
+
 
 //Text $1B1F98
 #WRITE(ptr,$18E528)
@@ -2358,9 +2843,11 @@ obsolete, it's still a human milestone.[END]
 見た目の優美さと異なり、[LINE]
 刃先は鋭い。[END]
 
+
 //Text $1B1F88
 #WRITE(ptr,$18E560)
 [Sign_Sword]Tabar[END]
+
 
 //Text $1B1F40
 #WRITE(ptr,$18E564)
@@ -2368,9 +2855,11 @@ obsolete, it's still a human milestone.[END]
 半月型の斧。豪華な作りだが[LINE]
 切れ味は鋭い。[END]
 
+
 //Text $1B1F30
 #WRITE(ptr,$18E59C)
 [Sign_Sword]Tabangil[END]
+
 
 //Text $1B1EE0
 #WRITE(ptr,$18E5A0)
@@ -2378,9 +2867,11 @@ obsolete, it's still a human milestone.[END]
 装飾のわりに軽量なため、[LINE]
 殴打武器としても優秀。[END]
 
+
 //Text $1B1ED0
 #WRITE(ptr,$18E5D8)
 [Sign_Sword]Tangi[END]
+
 
 //Text $1B1E78
 #WRITE(ptr,$18E5DC)
@@ -2388,9 +2879,11 @@ obsolete, it's still a human milestone.[END]
 透明感のある美しい刃は、[LINE]
 祭事用に使われていた時の名残。[END]
 
+
 //Text $1B1E68
 #WRITE(ptr,$18E614)
 [Sign_Sword]Bullova[END]
+
 
 //Text $1B1E20
 #WRITE(ptr,$18E618)
@@ -2398,9 +2891,11 @@ obsolete, it's still a human milestone.[END]
 敵を切断するのに特化している。[LINE]
 [END]
 
+
 //Text $1B1E08
 #WRITE(ptr,$18E650)
 [Sign_Sword]Luverie Axe[END]
+
 
 //Text $1B1DB8
 #WRITE(ptr,$18E654)
@@ -2408,9 +2903,11 @@ obsolete, it's still a human milestone.[END]
 手にした者の想いを力に変える。[LINE]
 選ばれた者のみが手にできる。[END]
 
+
 //Text $1B1DA8
 #WRITE(ptr,$18E68C)
 [Sign_Sword]Potato[END]
+
 
 //Text $1B1D60
 #WRITE(ptr,$18E690)
@@ -2418,9 +2915,11 @@ obsolete, it's still a human milestone.[END]
 低温でじっくり加熱すると[LINE]
 甘みが増す。[END]
 
+
 //Text $1B1D48
 #WRITE(ptr,$18E6C8)
 [Sign_Sword]Wood Arrow[END]
+
 
 //Text $1B1D10
 #WRITE(ptr,$18E6CC)
@@ -2428,9 +2927,11 @@ obsolete, it's still a human milestone.[END]
 初心者用の弓として広く扱われる。[LINE]
 [END]
 
+
 //Text $1B1CF8
 #WRITE(ptr,$18E704)
 [Sign_Sword]Steel Arrow[END]
+
 
 //Text $1B1CC8
 #WRITE(ptr,$18E708)
@@ -2438,9 +2939,11 @@ obsolete, it's still a human milestone.[END]
 鋼製の小型弓。[LINE]
 [END]
 
+
 //Text $1B1CB0
 #WRITE(ptr,$18E740)
 [Sign_Sword]Titanium Arrow[END]
+
 
 //Text $1B1C80
 #WRITE(ptr,$18E744)
@@ -2448,9 +2951,11 @@ obsolete, it's still a human milestone.[END]
 チタン製の小型弓。[LINE]
 [END]
 
+
 //Text $1B1C68
 #WRITE(ptr,$18E77C)
 [Sign_Sword]Silver Arrow[END]
+
 
 //Text $1B1C38
 #WRITE(ptr,$18E780)
@@ -2458,9 +2963,11 @@ obsolete, it's still a human milestone.[END]
 白い輝きが美しい。[LINE]
 [END]
 
+
 //Text $1B1C20
 #WRITE(ptr,$18E7B8)
 [Sign_Sword]Gold Arrow[END]
+
 
 //Text $1B1BE8
 #WRITE(ptr,$18E7BC)
@@ -2468,9 +2975,11 @@ obsolete, it's still a human milestone.[END]
 別名「豪華な小型弓」。[LINE]
 [END]
 
+
 //Text $1B1BD0
 #WRITE(ptr,$18E7F4)
 [Sign_Sword]Mithril Arrow[END]
+
 
 //Text $1B1B88
 #WRITE(ptr,$18E7F8)
@@ -2478,9 +2987,11 @@ obsolete, it's still a human milestone.[END]
 ドワーフ族の芸術作品といわれる。[LINE]
 [END]
 
+
 //Text $1B1B70
 #WRITE(ptr,$18E830)
 [Sign_Sword]Hunter Arrow[END]
+
 
 //Text $1B1B38
 #WRITE(ptr,$18E834)
@@ -2488,9 +2999,11 @@ obsolete, it's still a human milestone.[END]
 安価な割りに性能は高い。[LINE]
 [END]
 
+
 //Text $1B1B20
 #WRITE(ptr,$18E86C)
 [Sign_Sword]Battle Arrow[END]
+
 
 //Text $1B1AD0
 #WRITE(ptr,$18E870)
@@ -2498,9 +3011,11 @@ obsolete, it's still a human milestone.[END]
 強度があり、敵の攻撃を受けても[LINE]
 歪みにくい。[END]
 
+
 //Text $1B1AB8
 #WRITE(ptr,$18E8A8)
 [Sign_Sword]Killer Arrow[END]
+
 
 //Text $1B1A90
 #WRITE(ptr,$18E8AC)
@@ -2508,9 +3023,11 @@ obsolete, it's still a human milestone.[END]
 暗殺に特化された小型弓。[LINE]
 [END]
 
+
 //Text $1B1A78
 #WRITE(ptr,$18E8E4)
 [Sign_Sword]Griffin Arrow[END]
+
 
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
@@ -2518,9 +3035,11 @@ obsolete, it's still a human milestone.[END]
 天高く飛ぶ鳥も射ぬけると[LINE]
 言われている。[END]
 
+
 //Text $1B1A18
 #WRITE(ptr,$18E920)
 [Sign_Sword]Rare Arrow[END]
+
 
 //Text $1B19C0
 #WRITE(ptr,$18E924)
@@ -2528,9 +3047,11 @@ obsolete, it's still a human milestone.[END]
 無二の傑作。きわめて希少価値が[LINE]
 高く、戦士たちの憧れの小型弓。[END]
 
+
 //Text $1B19A8
 #WRITE(ptr,$18E95C)
 [Sign_Sword]Crane Arrow[END]
+
 
 //Text $1B1970
 #WRITE(ptr,$18E960)
@@ -2538,9 +3059,11 @@ obsolete, it's still a human milestone.[END]
 組み合わせた小型弓。[LINE]
 [END]
 
+
 //Text $1B1958
 #WRITE(ptr,$18E998)
 [Sign_Sword]Elven Arrow[END]
+
 
 //Text $1B1918
 #WRITE(ptr,$18E99C)
@@ -2548,9 +3071,11 @@ obsolete, it's still a human milestone.[END]
 小型弓。羽のように軽い。[LINE]
 [END]
 
+
 //Text $1B1900
 #WRITE(ptr,$18E9D4)
 [Sign_Sword]Crescent Arrow[END]
+
 
 //Text $1B18A8
 #WRITE(ptr,$18E9D8)
@@ -2558,9 +3083,11 @@ obsolete, it's still a human milestone.[END]
 その美しさに獣たちも動きを止める。[LINE]
 と、言われている。[END]
 
+
 //Text $1B1890
 #WRITE(ptr,$18EA10)
 [Sign_Sword]Berserk Arrow[END]
+
 
 //Text $1B1838
 #WRITE(ptr,$18EA14)
@@ -2568,9 +3095,11 @@ obsolete, it's still a human milestone.[END]
 と言われる弓の小型版。[LINE]
 別名「狂戦士の弓」小型版。[END]
 
+
 //Text $1B1820
 #WRITE(ptr,$18EA4C)
 [Sign_Sword]Grimm Arrow[END]
+
 
 //Text $1B17D0
 #WRITE(ptr,$18EA50)
@@ -2578,9 +3107,11 @@ obsolete, it's still a human milestone.[END]
 小型弓。口伝を書物にまとめた[LINE]
 兄弟の名を冠する。[END]
 
+
 //Text $1B17B0
 #WRITE(ptr,$18EA88)
 [Sign_Sword]Scarlet Needle[END]
+
 
 //Text $1B1750
 #WRITE(ptr,$18EA8C)
@@ -2588,9 +3119,11 @@ obsolete, it's still a human milestone.[END]
 いた弓の小型版。針の穴をも通す[LINE]
 ことから、この名がつけられた。[END]
 
+
 //Text $1B1738
 #WRITE(ptr,$18EAC4)
 [Sign_Sword]Strike Eagle[END]
+
 
 //Text $1B1700
 #WRITE(ptr,$18EAC8)
@@ -2598,9 +3131,11 @@ obsolete, it's still a human milestone.[END]
 狙った獲物を貫く小型弓。[LINE]
 [END]
 
+
 //Text $1B16E8
 #WRITE(ptr,$18EB00)
 [Sign_Sword]Soulsteal[END]
+
 
 //Text $1B16A0
 #WRITE(ptr,$18EB04)
@@ -2608,9 +3143,11 @@ obsolete, it's still a human milestone.[END]
 所有者の力にすると言われている。[LINE]
 [END]
 
+
 //Text $1B1680
 #WRITE(ptr,$18EB3C)
 [Sign_Sword]Celestial Star[END]
+
 
 //Text $1B1630
 #WRITE(ptr,$18EB40)
@@ -2618,9 +3155,11 @@ obsolete, it's still a human milestone.[END]
 小型弓。その素材の成分は[LINE]
 解明されていない。[END]
 
+
 //Text $1B1610
 #WRITE(ptr,$18EB78)
 [Sign_Sword]Fortune Arrow[END]
+
 
 //Text $1B15B8
 #WRITE(ptr,$18EB7C)
@@ -2628,9 +3167,11 @@ obsolete, it's still a human milestone.[END]
 手にした者の望む運命を呼び寄せる。[LINE]
 選ばれた者のみが手にできる。[END]
 
+
 //Text $1B15A8
 #WRITE(ptr,$18EBB4)
 [Sign_Sword]Cucumber[END]
+
 
 //Text $1B1558
 #WRITE(ptr,$18EBB8)
@@ -2638,9 +3179,11 @@ obsolete, it's still a human milestone.[END]
 未熟なうちに収穫するのがポイント。[LINE]
 [END]
 
+
 //Text $1B1540
 #WRITE(ptr,$18EBF0)
 [Sign_Sword]Iron Knuckle[END]
+
 
 //Text $1B1510
 #WRITE(ptr,$18EBF4)
@@ -2648,9 +3191,11 @@ obsolete, it's still a human milestone.[END]
 鉄製のナックル。[LINE]
 [END]
 
+
 //Text $1B14F8
 #WRITE(ptr,$18EC2C)
 [Sign_Sword]Titanium Knuckle[END]
+
 
 //Text $1B14C8
 #WRITE(ptr,$18EC30)
@@ -2658,9 +3203,11 @@ obsolete, it's still a human milestone.[END]
 チタン製のナックル。[LINE]
 [END]
 
+
 //Text $1B14B0
 #WRITE(ptr,$18EC68)
 [Sign_Sword]Silver Knuckle[END]
+
 
 //Text $1B1478
 #WRITE(ptr,$18EC6C)
@@ -2668,9 +3215,11 @@ obsolete, it's still a human milestone.[END]
 白い輝きが美しい。[LINE]
 [END]
 
+
 //Text $1B1460
 #WRITE(ptr,$18ECA4)
 [Sign_Sword]Gold Knuckle[END]
+
 
 //Text $1B1428
 #WRITE(ptr,$18ECA8)
@@ -2678,9 +3227,11 @@ obsolete, it's still a human milestone.[END]
 別名「豪華な拳」。[LINE]
 [END]
 
+
 //Text $1B1410
 #WRITE(ptr,$18ECE0)
 [Sign_Sword]Mithril Knuckle[END]
+
 
 //Text $1B13D0
 #WRITE(ptr,$18ECE4)
@@ -2688,9 +3239,11 @@ obsolete, it's still a human milestone.[END]
 ドワーフ族の芸術作品といわれる。[LINE]
 [END]
 
+
 //Text $1B13B8
 #WRITE(ptr,$18ED1C)
 [Sign_Sword]Power Knuckle[END]
+
 
 //Text $1B1378
 #WRITE(ptr,$18ED20)
@@ -2698,9 +3251,11 @@ obsolete, it's still a human milestone.[END]
 素の拳より３割増で強くなる。[LINE]
 [END]
 
+
 //Text $1B1360
 #WRITE(ptr,$18ED58)
 [Sign_Sword]Needle Knuckle[END]
+
 
 //Text $1B1308
 #WRITE(ptr,$18ED5C)
@@ -2708,9 +3263,11 @@ obsolete, it's still a human milestone.[END]
 ナックル。針の分リーチが長いので[LINE]
 大振りな人にお勧め。[END]
 
+
 //Text $1B12F0
 #WRITE(ptr,$18ED94)
 [Sign_Sword]Diamond Knuckle[END]
+
 
 //Text $1B12A0
 #WRITE(ptr,$18ED98)
@@ -2718,9 +3275,11 @@ obsolete, it's still a human milestone.[END]
 ナックル。鋭くて硬いため、[LINE]
 とてつもなく痛い。[END]
 
+
 //Text $1B1288
 #WRITE(ptr,$18EDD0)
 [Sign_Sword]Rare Knuckle[END]
+
 
 //Text $1B1228
 #WRITE(ptr,$18EDD4)
@@ -2728,9 +3287,11 @@ obsolete, it's still a human milestone.[END]
 無二の傑作。きわめて希少価値が[LINE]
 高く、戦士たちの憧れのナックル。[END]
 
+
 //Text $1B1210
 #WRITE(ptr,$18EE0C)
 [Sign_Sword]Bear Knuckle[END]
+
 
 //Text $1B11C8
 #WRITE(ptr,$18EE10)
@@ -2738,9 +3299,11 @@ obsolete, it's still a human milestone.[END]
 使用されている獣毛は本物で、[LINE]
 ちょっと臭い。[END]
 
+
 //Text $1B11B0
 #WRITE(ptr,$18EE48)
 [Sign_Sword]Dragon Knuckle[END]
+
 
 //Text $1B1150
 #WRITE(ptr,$18EE4C)
@@ -2748,9 +3311,11 @@ obsolete, it's still a human milestone.[END]
 ドラゴンをイメージしたナックル。[LINE]
 鉤爪があり、引掻くのも有効。[END]
 
+
 //Text $1B1138
 #WRITE(ptr,$18EE84)
 [Sign_Sword]Kaiser Knuckle[END]
+
 
 //Text $1B10F0
 #WRITE(ptr,$18EE88)
@@ -2758,9 +3323,11 @@ obsolete, it's still a human milestone.[END]
 言われている由緒あるナックル。[LINE]
 [END]
 
+
 //Text $1B10D8
 #WRITE(ptr,$18EEC0)
 [Sign_Sword]Grimm Knuckle[END]
+
 
 //Text $1B1080
 #WRITE(ptr,$18EEC4)
@@ -2768,9 +3335,11 @@ obsolete, it's still a human milestone.[END]
 ナックル。口伝を書物にまとめた[LINE]
 兄弟の名を冠する。[END]
 
+
 //Text $1B1070
 #WRITE(ptr,$18EEFC)
 [Sign_Sword]Venom[END]
+
 
 //Text $1B1018
 #WRITE(ptr,$18EF00)
@@ -2778,9 +3347,11 @@ obsolete, it's still a human milestone.[END]
 角で切り裂き、毒を注いで敵の[LINE]
 動きを麻痺させる凶悪な武器。[END]
 
+
 //Text $1B1000
 #WRITE(ptr,$18EF38)
 [Sign_Sword]With Teeth[END]
+
 
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
@@ -2788,9 +3359,11 @@ obsolete, it's still a human milestone.[END]
 与える恐ろしいナックル。[LINE]
 「威力組織」の意味を有する。[END]
 
+
 //Text $1B0F90
 #WRITE(ptr,$18EF74)
 [Sign_Sword]God Weapon[END]
+
 
 //Text $1B0F50
 #WRITE(ptr,$18EF78)
@@ -2798,9 +3371,11 @@ obsolete, it's still a human milestone.[END]
 輝く拳は全ての悪を打ち砕く。[LINE]
 [END]
 
+
 //Text $1B0F38
 #WRITE(ptr,$18EFB0)
 [Sign_Sword]Volt Knuckle[END]
+
 
 //Text $1B0EE0
 #WRITE(ptr,$18EFB4)
@@ -2808,9 +3383,11 @@ obsolete, it's still a human milestone.[END]
 望めば世界を牛耳る力を得る。[LINE]
 選ばれた者のみが手にできる。[END]
 
+
 //Text $1B0ED0
 #WRITE(ptr,$18EFEC)
 [Sign_Sword]Mandolin[END]
+
 
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
@@ -2818,9 +3395,11 @@ obsolete, it's still a human milestone.[END]
 鼈甲やセルロイド製の爪で弾いて[LINE]
 演奏する。[END]
 
+
 //Text $1B0E80
 #WRITE(ptr,$18F028)
 [Sign_Sword]Biwa[END]
+
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
@@ -2828,9 +3407,11 @@ obsolete, it's still a human milestone.[END]
 アクアヴェイルで流行した楽器。[LINE]
 針のような鉄を指で弾いて鳴らす。[END]
 
+
 //Text $1B0E20
 #WRITE(ptr,$18F064)
 [Sign_Sword]Lute[END]
+
 
 //Text $1B0DE0
 #WRITE(ptr,$18F068)
@@ -2838,9 +3419,11 @@ obsolete, it's still a human milestone.[END]
 二本一組みに張られた[LINE]
 多数の弦をもつ。[END]
 
+
 //Text $1B0DD0
 #WRITE(ptr,$18F0A0)
 [Sign_Sword]Guitar[END]
+
 
 //Text $1B0D80
 #WRITE(ptr,$18F0A4)
@@ -2848,9 +3431,11 @@ obsolete, it's still a human milestone.[END]
 左手の指で弦を押さえて音程を調え、[LINE]
 爪やピックで弦を弾く。[END]
 
+
 //Text $1B0D70
 #WRITE(ptr,$18F0DC)
 [Sign_Sword]Shamisen[END]
+
 
 //Text $1B0D28
 #WRITE(ptr,$18F0E0)
@@ -2858,9 +3443,11 @@ obsolete, it's still a human milestone.[END]
 棹に貼った三弦を撥を用いて奏する。[LINE]
 ぺんぺん。[END]
 
+
 //Text $1B0D08
 #WRITE(ptr,$18F118)
 [Sign_Sword]Infinity Guitar[END]
+
 
 //Text $1B0CB0
 #WRITE(ptr,$18F11C)
@@ -2868,9 +3455,11 @@ obsolete, it's still a human milestone.[END]
 その音色は銀河の彼方まで届く。[LINE]
 選ばれた者のみが手にできる。[END]
 
+
 //Text $1B0C98
 #WRITE(ptr,$18F154)
 [Sign_Sword]Corn[END]
+
 
 //Text $1B0C50
 #WRITE(ptr,$18F158)
@@ -2878,9 +3467,11 @@ obsolete, it's still a human milestone.[END]
 とうもろこし。[LINE]
 新鮮なうちに食べるほど甘い。[END]
 
+
 //Text $1B0C40
 #WRITE(ptr,$18F190)
 [Sign_Sword]Iron Ladle[END]
+
 
 //Text $1B0BF8
 #WRITE(ptr,$18F194)
@@ -2888,9 +3479,11 @@ obsolete, it's still a human milestone.[END]
 叩かれたらそれなりに痛いです。[LINE]
 [END]
 
+
 //Text $1B0BE8
 #WRITE(ptr,$18F1CC)
 [Sign_Sword]C. Ladle[END]
+
 
 //Text $1B0BA8
 #WRITE(ptr,$18F1D0)
@@ -2898,9 +3491,11 @@ obsolete, it's still a human milestone.[END]
 銅は熱伝導率が高いのですが……[LINE]
 [END]
 
+
 //Text $1B0B98
 #WRITE(ptr,$18F208)
 [Sign_Sword]S. Ladle[END]
+
 
 //Text $1B0B60
 #WRITE(ptr,$18F20C)
@@ -2908,19 +3503,23 @@ obsolete, it's still a human milestone.[END]
 銀製品はこまめなお手入れが肝心！[LINE]
 [END]
 
+
 //Text $1B0B50
 #WRITE(ptr,$18F244)
 [Sign_Sword]Gold Ladle[END]
 
+
 //Text $1B0B10
 #WRITE(ptr,$18F248)
-金持ちの証し！<$81>@金製のおたま。[LINE]
+金持ちの証し！ 金製のおたま。[LINE]
 調理道具というより飾り用。[LINE]
 [END]
+
 
 //Text $1B0AF0
 #WRITE(ptr,$18F280)
 [Sign_Sword]Fanatic Ladle[END]
+
 
 //Text $1B0A98
 #WRITE(ptr,$18F284)
@@ -2928,56 +3527,73 @@ obsolete, it's still a human milestone.[END]
 究極のおたま。実際に[LINE]
 料理が美味しくなるかどうかは不明。[END]
 
+
 //Text $1B0A88
 #WRITE(ptr,$18F2BC)
 [Sign_Sword]Carrot[END]
+
 
 //Text $1B0A38
 #WRITE(ptr,$18F2C0)
 カロテンを豊富に含むにんじん。[LINE]
 バターや油で調理すると[LINE]
 吸収が促進される。[END]
+
+
 //Section Armor
 
 //Text $1B5EC0
 #WRITE(ptr,$18F334)
 [Sign_Shield]Leather Armor[END]
 
+
 //Text $1B5E60
 #WRITE(ptr,$18F338)
 Upper body armor made of leather.[LINE]
 Favored by adventurers due to its[LINE]
 lightness and fair protection.[END]
+
+
 //Text $1B5E48
 #WRITE(ptr,$18F370)
 [Sign_Shield]Bronze Armor[END]
 
+
 //Text $1B5DF8
 #WRITE(ptr,$18F374)
-Upper body armor made of thin bronze.[LINE]
-Traditional armor used since[LINE]
-the age of the Aeth'er War.[END]
+Upper body armor made of thin[LINE]
+bronze. Traditional armor used[LINE]
+since the age of the Aeth'er War.[END]
+
+
 //Text $1B5DE0
 #WRITE(ptr,$18F3AC)
 [Sign_Shield]Iron Armor[END]
+
 
 //Text $1B5D98
 #WRITE(ptr,$18F3B0)
 Upper body armor made of iron,[LINE]
 the most familiar of metals.[LINE]
 Sturdy and tough, but heavy.[END]
+
+
 //Text $1B5D80
 #WRITE(ptr,$18F3E8)
 [Sign_Shield]Steel Armor[END]
+
 
 //Text $1B5D40
 #WRITE(ptr,$18F3EC)
 Upper body armor made of[LINE]
 several steel plates. A favorite[LINE]
 of knight apprentices.[END]
+
+
 //Text $1B5D28
 #WRITE(ptr,$18F424)
 [Sign_Shield]Titanium Armor[END]
+
 
 //Text $1B5CE0
 #WRITE(ptr,$18F428)
@@ -2990,250 +3606,305 @@ and corrosion resistant.[END]
 #WRITE(ptr,$18F460)
 [Sign_Shield]Silver Armor[END]
 
+
 //Text $1B5C78
 #WRITE(ptr,$18F464)
-Upper body armor decorated[LINE]
-with silverwork. Has a beautiful[LINE]
-luster and is imbued with prayers.[END]
+Upper body armor decorated with[LINE]
+silverwork. Has a beautiful luster[LINE]
+and is imbued with prayers.[END]
+
 //Text $1B5C60
 #WRITE(ptr,$18F49C)
 [Sign_Shield]Gold Armor[END]
 
+
 //Text $1B5C28
 #WRITE(ptr,$18F4A0)
-Upper body armor decorated with gold.[LINE]
-Also known as the "Opulent Armor".[LINE]
-[END]
+Upper body armor decorated[LINE]
+with gold. Also known as the[LINE]
+"Opulent Armor".[END]
 
 
 //Text $1B5C10
 #WRITE(ptr,$18F4D8)
 [Sign_Shield]Mithril Armor[END]
 
+
 //Text $1B5BC8
 #WRITE(ptr,$18F4DC)
 Upper body armor decorated[LINE]
 with Mithril. Considered to[LINE]
 be a Dwarven work of art.[END]
+
 //Text $1B5BB0
 #WRITE(ptr,$18F514)
 [Sign_Shield]Ring Armor[END]
 
+
 //Text $1B5B70
 #WRITE(ptr,$18F518)
-Upper body armor sewn with metal rings.[LINE]
-Protects the body from slashing attacks.[LINE]
-[END]
+Upper body armor sewn with[LINE]
+metal rings. Protects the body[LINE]
+from slashing attacks.[END]
+
 //Text $1B5B58
 #WRITE(ptr,$18F550)
 [Sign_Shield]Chain Armor[END]
 
+
 //Text $1B5AF8
 #WRITE(ptr,$18F554)
-Upper body armor sewn with steel wires.[LINE]
-Easy to put on and a favorite of soldiers.[LINE]
-[END]
+Upper body armor sewn with[LINE]
+steel wires. Easy to put on and[LINE]
+a favorite of soldiers.[END]
+
 //Text $1B5AE0
 #WRITE(ptr,$18F58C)
 [Sign_Shield]White Armor[END]
+
 
 //Text $1B5A80
 #WRITE(ptr,$18F590)
 Beautifully polished upper body armor.[LINE]
 Pure white armor used in rituals. Said[LINE]
 to hold the divine protection of light.[END]
+
 //Text $1B5A68
 #WRITE(ptr,$18F5C8)
 [Sign_Shield]Knight Armor[END]
+
 
 //Text $1B5A10
 #WRITE(ptr,$18F5CC)
 Upper body armor of a Royal Knightly[LINE]
 order. Constructed to be sturdy. With[LINE]
 this you too can feel like a Knight.[END]
+
 //Text $1B59F8
 #WRITE(ptr,$18F604)
 [Sign_Shield]Star Armor[END]
+
 
 //Text $1B59A0
 #WRITE(ptr,$18F608)
 Extremely light upper body armor made with[LINE]
 a special process. Allows one to move as fast[LINE]
 as a falling star. Or so it is advertised.[END]
+
 //Text $1B5988
 #WRITE(ptr,$18F640)
 [Sign_Shield]Diamond Armor[END]
 
+
 //Text $1B5948
 #WRITE(ptr,$18F644)
-Upper body armor decorated with diamonds.[LINE]
-Bewilders enemies with its brightness.[LINE]
-[END]
+Upper body armor decorated with[LINE]
+diamonds. Bewilders enemies[LINE]
+with its brightness.[END]
+
 //Text $1B5930
 #WRITE(ptr,$18F67C)
 [Sign_Shield]Battle Armor[END]
+
 
 //Text $1B58D8
 #WRITE(ptr,$18F680)
 Upper body armor made specially for combat.[LINE]
 Since it is made with functionality in mind[LINE]
 it doesn't hinder one's movements.[END]
+
 //Text $1B58C0
 #WRITE(ptr,$18F6B8)
 [Sign_Shield]Rare Armor[END]
+
 
 //Text $1B5880
 #WRITE(ptr,$18F6BC)
 Masterpiece imbued with[LINE]
 the soul of Egith.[LINE]
 Extremely valuable.[END]
+
 //Text $1B5868
 #WRITE(ptr,$18F6F4)
 [Sign_Shield]Scale Armor[END]
+
 
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
 Upper body armor sewn with steel scales.[LINE]
 A historied and ancient armor. It's only[LINE]
-fault is making a sound when walking.[END]
+fault is making sounds when walking.[END]
+
 //Text $1B57F0
 #WRITE(ptr,$18F730)
 [Sign_Shield]Splint Armor[END]
 
+
 //Text $1B57A0
 #WRITE(ptr,$18F734)
-A Chain Armor strengthened with[LINE]
+Chain Armor strengthened with[LINE]
 steel plates. Tougher than Chain[LINE]
 Armor, but also heavier.[END]
+
 
 //Text $1B5788
 #WRITE(ptr,$18F76C)
 [Sign_Shield]Black Armor[END]
 
+
 //Text $1B5750
 #WRITE(ptr,$18F770)
-A beautiful and shinning black armor.[LINE]
-Jet black armor used in rituals.[END]
+A beautiful and shinning[LINE]
+black armor. Jet black[LINE]
+armor used in rituals.[END]
+
 //Text $1B5738
 #WRITE(ptr,$18F7A8)
 [Sign_Shield]Gothic Armor[END]
 
+
 //Text $1B56F0
 #WRITE(ptr,$18F7AC)
 A simple, but elegant upper body armor.[LINE]
-It's beautiful patterns draw inspiration[LINE]
+Its beautiful style draws inspiration[LINE]
 from a bygone era.[END]
+
 //Text $1B56D8
 #WRITE(ptr,$18F7E4)
 [Sign_Shield]Rune Armor[END]
+
 
 //Text $1B5678
 #WRITE(ptr,$18F7E8)
 Upper body armor engraved with the Hope[LINE]
 rune. Imbues its users with the strength[LINE]
 of mind to never be disheartened.[END]
+
 //Text $1B5660
 #WRITE(ptr,$18F820)
 [Sign_Shield]Platinum Armor[END]
+
 
 //Text $1B5610
 #WRITE(ptr,$18F824)
 Upper body armor decorated with[LINE]
 platinum. A solid and beautiful armor[LINE]
 worn by high-ranking knights.[END]
+
 //Text $1B55F8
 #WRITE(ptr,$18F85C)
 [Sign_Shield]Dragon Armor[END]
+
 
 //Text $1B55A0
 #WRITE(ptr,$18F860)
 Upper body armor strengthened with[LINE]
 dragon scales. Protects against a[LINE]
 dragon's sharp claws and fiery breath.[END]
+
 //Text $1B5588
 #WRITE(ptr,$18F898)
 [Sign_Shield]Grimm Armor[END]
+
 
 //Text $1B5530
 #WRITE(ptr,$18F89C)
 Armor imbued with the hidden power of[LINE]
 fantasies. Named after the brothers[LINE]
 who collected oral traditions into a book.[END]
+
 //Text $1B5518
 #WRITE(ptr,$18F8D4)
 [Sign_Shield]Masterpiece[END]
+
 
 //Text $1B54D8
 #WRITE(ptr,$18F8D8)
 A peerless masterpiece made by[LINE]
 an unknown blacksmith. Will never[LINE]
 crack no matter the attack.[END]
+
 //Text $1B54C0
 #WRITE(ptr,$18F910)
 [Sign_Shield]Fortress[END]
+
 
 //Text $1B5480
 #WRITE(ptr,$18F914)
 Upper body armor referred to as[LINE]
 a fortress. Feels like an impregnable[LINE]
 wall with no openings.[END]
+
 //Text $1B5468
 #WRITE(ptr,$18F94C)
 [Sign_Shield]Schlachtfeld[END]
+
 
 //Text $1B5420
 #WRITE(ptr,$18F950)
 Named after the deity that protects[LINE]
 soldiers on the battlefield. Praised as the[LINE]
 armor that guarantees their return.[END]
+
 //Text $1B5408
 #WRITE(ptr,$18F988)
 [Sign_Shield]Megingjord[END]
+
 
 //Text $1B53C8
 #WRITE(ptr,$18F98C)
 Ensorcelled sash that doubles[LINE]
 one's might. Said to be the[LINE]
 possession of a thunder God.[END]
+
 //Text $1B53B0
 #WRITE(ptr,$18F9C4)
 [Sign_Shield]Reflex[END]
+
 
 //Text $1B5358
 #WRITE(ptr,$18F9C8)
 Upper body armor that is said to reflect[LINE]
 attacks. Said to have been invented by a[LINE]
 genius scientist during the Aeth'er War.[END]
+
 //Text $1B5340
 #WRITE(ptr,$18FA00)
 [Sign_Shield]Terra[END]
+
 
 //Text $1B52F8
 #WRITE(ptr,$18FA04)
 Upper body armor imbued with the[LINE]
 earth Goddess' protection. Protects[LINE]
 the body with a holy aura.[END]
+
 //Text $1B52E0
 #WRITE(ptr,$18FA3C)
 [Sign_Shield]Last Crusader[END]
+
 
 //Text $1B5298
 #WRITE(ptr,$18FA40)
 Upper body armor made for knights[LINE]
 heading to holy war. Protects its[LINE]
 wearers with the power of faith.[END]
+
 //Text $1B5278
 #WRITE(ptr,$18FA78)
 [Sign_Shield]Harmonic Armor[END]
+
 
 //Text $1B5220
 #WRITE(ptr,$18FA7C)
 Upper body armor that carries the meaning[LINE]
 of "Harmony". Turns one into a disciple of[LINE]
 balance. Can only be acquired by the chosen ones.[END]
+
 //Text $1B5208
 #WRITE(ptr,$18FAB4)
 [Sign_Shield]Leather Plate[END]
+
 
 //Text $1B51B8
 #WRITE(ptr,$18FAB8)
@@ -3241,9 +3912,11 @@ Leathern breastplate.[LINE]
 Favored by adventurers due to its[LINE]
 lighteness and fair protection.[END]
 
+
 //Text $1B51A0
 #WRITE(ptr,$18FAF0)
 [Sign_Shield]Iron Plate[END]
+
 
 //Text $1B5160
 #WRITE(ptr,$18FAF4)
@@ -3251,26 +3924,33 @@ Breastplate strengthened with[LINE]
 iron plates. A heavy, but sturdy,[LINE]
 traditional breastplate.[END]
 
+
 //Text $1B5148
 #WRITE(ptr,$18FB2C)
 [Sign_Shield]Steel Plate[END]
 
+
 //Text $1B5118
 #WRITE(ptr,$18FB30)
-Breastplate strengthened with[LINE]
-steel plates. A fovorite of soldiers.[END]
+Breastplate strengthened[LINE]
+with steel plates. A fovorite[LINE]
+of soldiers.[END]
+
 //Text $1B5100
 #WRITE(ptr,$18FB68)
 [Sign_Shield]Titanium Plate[END]
+
 
 //Text $1B50B8
 #WRITE(ptr,$18FB6C)
 Breastplate strengthened[LINE]
 with a titanium alloy. Very light[LINE]
 and corrosion resistant.[END]
+
 //Text $1B50A0
 #WRITE(ptr,$18FBA4)
 [Sign_Shield]Silver Plate[END]
+
 
 //Text $1B5050
 #WRITE(ptr,$18FBA8)
@@ -3278,28 +3958,34 @@ Breastplate decorated with[LINE]
 silverwork. Has a beautiful luster[LINE]
 and is imbued with prayers.[END]
 
+
 //Text $1B5038
 #WRITE(ptr,$18FBE0)
 [Sign_Shield]Gold Plate[END]
 
+
 //Text $1B5000
 #WRITE(ptr,$18FBE4)
-Breastplate decorated with gold. Also[LINE]
-known as the "Opulent Breastplate".[LINE]
-[END]
+Breastplate decorated with[LINE]
+gold. Also known as the[LINE]
+"Opulent Breastplate".[END]
+
 
 //Text $1B4FE8
 #WRITE(ptr,$18FC1C)
 [Sign_Shield]Mithril Plate[END]
+
 
 //Text $1B4FA0
 #WRITE(ptr,$18FC20)
 Breastplate decorated with[LINE]
 Mithril. Considered to be[LINE]
 a Dwarven work of art.[END]
+
 //Text $1B4F88
 #WRITE(ptr,$18FC58)
 [Sign_Shield]Star Plate[END]
+
 
 //Text $1B4F30
 #WRITE(ptr,$18FC5C)
@@ -3307,19 +3993,23 @@ Extremely light breastplate made with[LINE]
 a special process. Allows one to move as fast[LINE]
 as a falling star. Or so it is advertised.[END]
 
+
 //Text $1B4F18
 #WRITE(ptr,$18FC94)
 [Sign_Shield]Diamond Plate[END]
 
+
 //Text $1B4ED8
 #WRITE(ptr,$18FC98)
-Breastplate decorated with diamonds.[LINE]
-Bewilders enemies with its brightness.[LINE]
-[END]
+Breastplate decorated with[LINE]
+diamonds. Bewilders enemies[LINE]
+with its brightness.[END]
+
 
 //Text $1B4EC0
 #WRITE(ptr,$18FCD0)
 [Sign_Shield]Battle Plate[END]
+
 
 //Text $1B4E70
 #WRITE(ptr,$18FCD4)
@@ -3327,18 +4017,22 @@ Breastplate made specially for combat.[LINE]
 Since it is made with functionality in mind[LINE]
 it doesn't hinder one's movements.[END]
 
+
 //Text $1B4E58
 #WRITE(ptr,$18FD0C)
 [Sign_Shield]Rare Plate[END]
+
 
 //Text $1B5880
 #WRITE(ptr,$18FD10)
 Masterpiece imbued with[LINE]
 the soul of Egith.[LINE]
 Extremely valuable.[END]
+
 //Text $1B4E40
 #WRITE(ptr,$18FD48)
 [Sign_Shield]Rune Plate[END]
+
 
 //Text $1B4DE8
 #WRITE(ptr,$18FD4C)
@@ -3346,18 +4040,22 @@ Breastplate engraved with the Courage[LINE]
 rune. Imbues its users with the strength[LINE]
 of mind to never be disheartened.[END]
 
+
 //Text $1B4DD0
 #WRITE(ptr,$18FD84)
 [Sign_Shield]Platinum Plate[END]
+
 
 //Text $1B4D80
 #WRITE(ptr,$18FD88)
 Breastplate decorated with[LINE]
 platinum. Not only expensive and[LINE]
 beautiful, but also very functional.[END]
+
 //Text $1B4D68
 #WRITE(ptr,$18FDC0)
 [Sign_Shield]Dragon Plate[END]
+
 
 //Text $1B4D18
 #WRITE(ptr,$18FDC4)
@@ -3365,9 +4063,11 @@ Breastplate strengthened with dragon[LINE]
 scales. Protects against a dragon's[LINE]
 sharp claws and fiery breath.[END]
 
+
 //Text $1B4D00
 #WRITE(ptr,$18FDFC)
 [Sign_Shield]Grimm Plate[END]
+
 
 //Text $1B4CB0
 #WRITE(ptr,$18FE00)
@@ -3375,144 +4075,176 @@ Breastplate imbued with the hidden power of[LINE]
 fantasies. Named after the brothers[LINE]
 who collected oral traditions into a book.[END]
 
+
 //Text $1B4CA0
 #WRITE(ptr,$18FE38)
 [Sign_Shield]Rampart[END]
+
 
 //Text $1B4C60
 #WRITE(ptr,$18FE3C)
 Breastplate refered to as a[LINE]
 rampart. Provides a staunch defense[LINE]
 unpenatrable by even heavy bows.[END]
+
 //Text $1B4C48
 #WRITE(ptr,$18FE74)
 [Sign_Shield]Vital Burner[END]
+
 
 //Text $1B4BF8
 #WRITE(ptr,$18FE78)
 Breastplate that imbues the wearer[LINE]
 with vitality. Grants an unbreakable[LINE]
 heart even in hard-fought battles.[END]
+
 //Text $1B4BE0
 #WRITE(ptr,$18FEB0)
 [Sign_Shield]Vertical[END]
+
 
 //Text $1B4B88
 #WRITE(ptr,$18FEB4)
 Breastplate named after the[LINE]
 Zenith. Light as a feather and[LINE]
 blessed by light and wind.[END]
+
 //Text $1B4B68
 #WRITE(ptr,$18FEEC)
 [Sign_Shield]Revival Plate[END]
+
 
 //Text $1B4B10
 #WRITE(ptr,$18FEF0)
 Breastplate that carries the meaning of[LINE]
 "Rebirth". Will not allow one to fall.[LINE]
 Can only be acquired by the chosen ones.[END]
+
 //Text $1B4AF8
 #WRITE(ptr,$18FF28)
 [Sign_Shield]Bronze Wear[END]
+
 
 //Text $1B4AA8
 #WRITE(ptr,$18FF2C)
 Garment sewn with bronze sheets.[LINE]
 Favored by travelers due to its[LINE]
 lightness and fair protection.[END]
+
 //Text $1B4A90
 #WRITE(ptr,$18FF64)
 [Sign_Shield]Iron Wear[END]
+
 
 //Text $1B4A48
 #WRITE(ptr,$18FF68)
 Garment sewn with iron[LINE]
 plates. Heavy but tough.[LINE]
 Made for combat.[END]
+
 //Text $1B4A30
 #WRITE(ptr,$18FFA0)
 [Sign_Shield]Steel Wear[END]
+
 
 //Text $1B49E0
 #WRITE(ptr,$18FFA4)
 Garment sewn with steel[LINE]
 plates. Used by guards[LINE]
 and local militias.[END]
+
 //Text $1B49C8
 #WRITE(ptr,$18FFDC)
 [Sign_Shield]Gold Wear[END]
+
 
 //Text $1B4990
 #WRITE(ptr,$18FFE0)
 Garment decorated with[LINE]
 gold. Also known as the[LINE]
 "Opulent Wear".[END]
+
 //Text $1B4978
 #WRITE(ptr,$190018)
 [Sign_Shield]Mithril Wear[END]
+
 
 //Text $1B4930
 #WRITE(ptr,$19001C)
 Garment decorated with[LINE]
 Mithril. Considered to be[LINE]
 a Dwarven work of art.[END]
+
 //Text $1B4918
 #WRITE(ptr,$190054)
 [Sign_Shield]Breast Wear[END]
+
 
 //Text $1B48D0
 #WRITE(ptr,$190058)
 Chest protecting garment.[LINE]
 Sports a high defense[LINE]
 but poor balance.[END]
+
 //Text $1B48B8
 #WRITE(ptr,$190090)
 [Sign_Shield]White Wear[END]
+
 
 //Text $1B4860
 #WRITE(ptr,$190094)
 A beautiful white garment. Holy[LINE]
 clothes used in rituals. Said to[LINE]
 hold the divine protection of light.[END]
+
 //Text $1B4848
 #WRITE(ptr,$1900CC)
 [Sign_Shield]Knight Wear[END]
+
 
 //Text $1B47F0
 #WRITE(ptr,$1900D0)
 Garment used by Royal[LINE]
 Knights. Looks plainly[LINE]
 made, but is very sturdy.[END]
+
 //Text $1B47D8
 #WRITE(ptr,$190108)
 [Sign_Shield]Battle Wear[END]
+
 
 //Text $1B4780
 #WRITE(ptr,$19010C)
 Garment made specially for[LINE]
 combat. Made for functionality.[LINE]
 Sturdy and easy to move in.[END]
+
 //Text $1B4770
 #WRITE(ptr,$190144)
 [Sign_Shield]Rare Wear[END]
+
 
 //Text $1B5880
 #WRITE(ptr,$190148)
 Masterpiece imbued with[LINE]
 the soul of Egith.[LINE]
 Extremely valuable.[END]
+
 //Text $1B4758
 #WRITE(ptr,$190180)
 [Sign_Shield]Holy Wear[END]
+
 
 //Text $1B46F0
 #WRITE(ptr,$190184)
 Garment blessed by[LINE]
 holy powers. Protects[LINE]
 the life of its wearers.[END]
+
 //Text $1B46D8
 #WRITE(ptr,$1901BC)
 [Sign_Shield]Black Wear[END]
+
 
 //Text $1B4678
 #WRITE(ptr,$1901C0)
@@ -3520,418 +4252,471 @@ Black garment lined with silver.[LINE]
 Holy clothes used in rituals.[LINE]
 Said to be imbued with dark powers.[END]
 
+
 //Text $1B4660
 #WRITE(ptr,$1901F8)
 [Sign_Shield]Gothic Wear[END]
 
+
 //Text $1B4618
 #WRITE(ptr,$1901FC)
-簡素で典雅な造りの男性用衣装。[LINE]
-過去に興った美術様式を汲んだ[LINE]
-作品。[END]
+A simple, but elegant garment.[LINE]
+Its beautiful style draws inspiration[LINE]
+from a bygone era.[END]
+
 
 //Text $1B4600
 #WRITE(ptr,$190234)
 [Sign_Shield]Dragon Wear[END]
 
+
 //Text $1B45B0
 #WRITE(ptr,$190238)
-ドラゴンの鱗で強化した衣装。[LINE]
-ドラゴンの鋭い爪から身を守り、[LINE]
-吐く炎をも遮る。[END]
+Garment strengthened with dragon[LINE]
+scales. Protects against a dragon's[LINE]
+sharp claws and fiery breath.[END]
+
 
 //Text $1B4598
 #WRITE(ptr,$190270)
 [Sign_Shield]Grimm Wear[END]
 
+
 //Text $1B4540
 #WRITE(ptr,$190274)
-伝説に登場する幻想の力を秘めた[LINE]
-男性用衣装。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+Garment imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
+
 
 //Text $1B4528
 #WRITE(ptr,$1902AC)
 [Sign_Shield]Duality[END]
 
+
 //Text $1B44D0
 #WRITE(ptr,$1902B0)
-二重構造の男性用衣装。[LINE]
-衝撃から身を守るだけではなく、[LINE]
-あらゆる毒からも身を守る。[END]
+Garment with a double structure.[LINE]
+Not only does it protect against[LINE]
+impacts but also all poisons.[END]
 
 //Text $1B44B8
 #WRITE(ptr,$1902E8)
-[Sign_Shield]Claunerie[END]
+[Sign_Shield]Clownerie[END]
+
 
 //Text $1B4460
 #WRITE(ptr,$1902EC)
-道化の名を冠した男性用衣装。[LINE]
-その昔、笑いで世界を救おうと[LINE]
-旅をした道化人の衣装。[END]
+Garment named after clowns.[LINE]
+Used by a group of traveling clowns[LINE]
+who saved the world with laughter.[END]
 
 //Text $1B4448
 #WRITE(ptr,$190324)
 [Sign_Shield]Vermillion[END]
 
+
 //Text $1B4400
 #WRITE(ptr,$190328)
-美しい朱色の紋章入りの衣装。[LINE]
-朱色が血のようにも見える[LINE]
-怪しげな服。[END]
+Garment sporting a beautiful[LINE]
+scarlet crest. Suspicious[LINE]
+clothes red as blood.[END]
 
 //Text $1B43E8
 #WRITE(ptr,$190360)
 [Sign_Shield]Executant[END]
 
+
 //Text $1B4388
 #WRITE(ptr,$190364)
-演奏者の名を冠する男性用衣装。[LINE]
-演奏者の邪魔にならないように[LINE]
-衣擦れの音はまったくしない。[END]
+Garment named after actors.[LINE]
+Does not bother performers[LINE]
+as it makes no rustling sounds.[END]
 
 //Text $1B4378
 #WRITE(ptr,$19039C)
 [Sign_Shield]Myth Wear[END]
 
+
 //Text $1B4318
 #WRITE(ptr,$1903A0)
-「伝説」を意味する男性用衣装。[LINE]
-身に纏った者は英雄と謳われる。[LINE]
-選ばれた者のみが手にできる。[END]
+Garment that carries the meaning of "Myths".[LINE]
+Its wearers are celebrated as heroes.[LINE]
+Can only be acquired by the chosen ones.[END]
 
 //Text $1B4300
 #WRITE(ptr,$1903D8)
 [Sign_Shield]Leather Cloak[END]
 
+
 //Text $1B42B0
 #WRITE(ptr,$1903DC)
-革製のクローク。[LINE]
-軽くてそこそこ丈夫なため、[LINE]
-女性の冒険者に愛用されている。[END]
+Leathern cloak. Favored by[LINE]
+female adventurers due to its[LINE]
+lighteness and fair protection.[END]
 
 //Text $1B4298
 #WRITE(ptr,$190414)
 [Sign_Shield]White Cloak[END]
 
+
 //Text $1B4258
 #WRITE(ptr,$190418)
-白い布地であしらえたクローク。[LINE]
-清楚なスタイルで街娘にも人気。[LINE]
-[END]
+Cloak decorated with white[LINE]
+cloth. Its tidy style is[LINE]
+popular with city girls.[END]
 
 //Text $1B4240
 #WRITE(ptr,$190450)
 [Sign_Shield]Feather Cloak[END]
 
+
 //Text $1B4208
 #WRITE(ptr,$190454)
-水鳥の羽毛で縫製されたクローク。[LINE]
-羽のように軽い。[LINE]
+Cloak sewn with the feathers of[LINE]
+a waterfowl. Light as a feather.[LINE]
 [END]
 
 //Text $1B41F0
 #WRITE(ptr,$19048C)
 [Sign_Shield]Black Cloak[END]
 
+
 //Text $1B41B0
 #WRITE(ptr,$190490)
-黒い布地であしらえたクローク。[LINE]
-夜遊びする街娘にも人気な一品。[LINE]
-[END]
+Cloak decorated with black[LINE]
+cloth. Popular with partying[LINE]
+city girls.[END]
 
 //Text $1B4198
 #WRITE(ptr,$1904C8)
 [Sign_Shield]Silk Cloak[END]
 
+
 //Text $1B4150
 #WRITE(ptr,$1904CC)
-絹で縫製されたクローク。[LINE]
-光沢が美しく、滑らかな肌触りで[LINE]
-着心地も良い。[END]
+Cloak sewn with silk. It[LINE]
+has a pretty luster and[LINE]
+feels nice to the touch.[END]
 
 //Text $1B4138
 #WRITE(ptr,$190504)
 [Sign_Shield]Silver Cloak[END]
 
+
 //Text $1B4100
 #WRITE(ptr,$190508)
-銀細工で装飾されたクローク。[LINE]
-白い輝きが美しい。[LINE]
-[END]
+Robe decorated with[LINE]
+silver. Has a beautiful[LINE]
+white brilliance.[END]
 
 //Text $1B40E8
 #WRITE(ptr,$190540)
 [Sign_Shield]Gold Cloak[END]
 
+
 //Text $1B40B0
 #WRITE(ptr,$190544)
-金細工で装飾されたクローク。[LINE]
-別名「豪華なクローク」。[LINE]
-[END]
+Cloak decorated with[LINE]
+gold.Also known as[LINE]
+the "Opulent Cloak".[END]
+
 
 //Text $1B4098
 #WRITE(ptr,$19057C)
 [Sign_Shield]Mithril Cloak[END]
 
+
 //Text $1B4050
 #WRITE(ptr,$190580)
-ミスリル細工装飾されたクローク。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
+Cloak decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
+
 
 //Text $1B4038
 #WRITE(ptr,$1905B8)
 [Sign_Shield]Mesh Cloak[END]
 
+
 //Text $1B3FF8
 #WRITE(ptr,$1905BC)
-網目状に編んだクローク。[LINE]
-通気性が良く、[LINE]
-軽い作りになっている。[END]
+Cloak knit with a mesh[LINE]
+pattern. Made to be light and[LINE]
+have good permeability.[END]
 
 //Text $1B3FE0
 #WRITE(ptr,$1905F4)
 [Sign_Shield]Mage Cloak[END]
 
+
 //Text $1B3FA0
 #WRITE(ptr,$1905F8)
-術士のために作られたクローク。[LINE]
-身に付けた者の精神力を高める。[LINE]
-[END]
+Cloak made for mages.[LINE]
+Increases the willpower[LINE]
+of its wearers.[END]
 
 //Text $1B3F88
 #WRITE(ptr,$190630)
 [Sign_Shield]Fancy Cloak[END]
 
+
 //Text $1B3F38
 #WRITE(ptr,$190634)
-可愛さを追求したクローク。[LINE]
-ふわふわなピンクのスカートは、[LINE]
-女の子の憧れ。[END]
+Cloak for those pursuing[LINE]
+cuteness. Its fluffy skirt is[LINE]
+admired by girls everywhere.[END]
 
 //Text $1B3F20
 #WRITE(ptr,$19066C)
 [Sign_Shield]Moon Cloak[END]
 
+
 //Text $1B3EE0
 #WRITE(ptr,$190670)
-月夜を意匠して作られたクローク。[LINE]
-聖なる月の力が宿っている。[LINE]
-[END]
+Cloak designed after a[LINE]
+moonlit night. Endowed with[LINE]
+the moon's holy power.[END]
 
 //Text $1B3EC8
 #WRITE(ptr,$1906A8)
 [Sign_Shield]Star Cloak[END]
 
+
 //Text $1B3E78
 #WRITE(ptr,$1906AC)
-星を意匠して作られたクローク。[LINE]
-流星のように速く動ける。[LINE]
-と、宣伝されている。[END]
+Cloak designed after a star. Allows[LINE]
+one to move as fast as a falling[LINE]
+star. Or so it is advertised.[END]
 
 //Text $1B3E58
 #WRITE(ptr,$1906E4)
 [Sign_Shield]Warlock Cloak[END]
 
+
 //Text $1B3E00
 #WRITE(ptr,$1906E8)
-熟練の術士のためのクローク。[LINE]
-精神力を高めるだけではなく、[LINE]
-身を守ることにも長けている。[END]
+Cloak made for skilled mages.[LINE]
+Not only does it raise one's [LINE]
+willpower but also their defenses.[END]
 
 //Text $1B3DE8
 #WRITE(ptr,$190720)
 [Sign_Shield]Spirit Cloak[END]
 
+
 //Text $1B3DA0
 #WRITE(ptr,$190724)
-霊的な加護が施されたクローク。[LINE]
-身に付けた者に不屈の精神を与える。[LINE]
-[END]
+Cloak that imbues one with[LINE]
+spiritual protection. Gives[LINE]
+its wearers mental fortitude.[END]
 
 //Text $1B3D88
 #WRITE(ptr,$19075C)
 [Sign_Shield]Rare Cloak[END]
 
+
 //Text $1B5880
 #WRITE(ptr,$190760)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 
 //Text $1B3D70
 #WRITE(ptr,$190798)
 [Sign_Shield]Amber Cloak[END]
 
+
 //Text $1B3D28
 #WRITE(ptr,$19079C)
-琥珀の装飾が施されたクローク。[LINE]
-琥珀の宝石が装備者に加護を与える。[LINE]
-[END]
+Cloak decorated with amber.[LINE]
+Imbues the wearer with the divine[LINE]
+protection of amber jewels.[END]
 
 //Text $1B3D10
 #WRITE(ptr,$1907D4)
 [Sign_Shield]Holy Cloak[END]
 
+
 //Text $1B3CC0
 #WRITE(ptr,$1907D8)
-聖なる力に祝福されたクローク。[LINE]
-身に纏うと敵が寄り付かなくなると[LINE]
-言われている。[END]
+Cloak blessed by holy[LINE]
+powers. Said to prevent[LINE]
+enemies from approaching.[END]
 
 //Text $1B3CA8
 #WRITE(ptr,$190810)
 [Sign_Shield]Elder Cloak[END]
 
+
 //Text $1B3C50
 #WRITE(ptr,$190814)
-偉大なる聖職者の名がつけられた[LINE]
-クローク。彼の愛したニワトコの花で[LINE]
-染められている。[END]
+Cloak made for a Grand[LINE]
+Priest. Dyed with his[LINE]
+beloved Elderberries.[END]
 
 //Text $1B3C38
 #WRITE(ptr,$19084C)
 [Sign_Shield]Misty Cloak[END]
 
+
 //Text $1B3BF8
 #WRITE(ptr,$190850)
-原料や生成が不明なクローク。[LINE]
-見る角度により色が変化する。[LINE]
-[END]
+Cloak made by an unknown[LINE]
+process and materials. Its colors [LINE]
+change with viewing angle.[END]
+
 
 //Text $1B3BE0
 #WRITE(ptr,$190888)
 [Sign_Shield]Rune Cloak[END]
 
+
 //Text $1B3B80
 #WRITE(ptr,$19088C)
-祝福のルーンが刺繍されたクローク。[LINE]
-どんな困難でも恐れない、暖かな光を[LINE]
-身に付けた者に与える。[END]
+Cloak embroidered with the Bless[LINE]
+rune. Imbues one with the warmth[LINE]
+of light to not fear hardship.[END]
 
 //Text $1B3B68
 #WRITE(ptr,$1908C4)
 [Sign_Shield]Witch Cloak[END]
 
+
 //Text $1B3B08
 #WRITE(ptr,$1908C8)
-位の高い術士が着るクローク。[LINE]
-精神量を増加させ、練りこまれた[LINE]
-呪術が敵の攻撃から身を守る。[END]
+Cloak worn by high-ranking mages.[LINE]
+Increases one's willpower and[LINE]
+protects against enemy attacks.[END]
+
 
 //Text $1B3AF0
 #WRITE(ptr,$190900)
 [Sign_Shield]Prism Cloak[END]
 
+
 //Text $1B3AB0
 #WRITE(ptr,$190904)
-虹色の光を放つクローク。[LINE]
-光の屈折により敵の目を惑わす。[LINE]
-[END]
+Cloak that breaks light into the[LINE]
+colors of the rainbow. Bewilders[LINE]
+enemies with its refracted light.[END]
+
 
 //Text $1B3A98
 #WRITE(ptr,$19093C)
 [Sign_Shield]Grimm Cloak[END]
 
+
 //Text $1B3A40
 #WRITE(ptr,$190940)
-伝説に登場する幻想の力を秘めた[LINE]
-クローク。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+Cloak imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
+
 
 //Text $1B3A30
 #WRITE(ptr,$190978)
 [Sign_Shield]Rubberbull[END]
 
+
 //Text $1B39E0
 #WRITE(ptr,$19097C)
-愛らしいデザインのクローク。[LINE]
-その愛らしさは、[LINE]
-攻撃の手が緩んでしまうほど。[END]
+Cloak of lovely design.[LINE]
+It's beauty lowers[LINE]
+enemies' guards.[END]
 
 //Text $1B39D0
 #WRITE(ptr,$1909B4)
 [Sign_Shield]Tunic[END]
 
+
 //Text $1B3970
 #WRITE(ptr,$1909B8)
-上質な生地でしつらえたクローク。[LINE]
-ストレイライズ聖職者の祭服。[LINE]
-アタモニ神の加護を受ける。[END]
+Cloak made of fine cloth.[LINE]
+Vestment of the Straylise[LINE]
+clergy. Has Atamoni's blessing.[END]
 
 //Text $1B3958
 #WRITE(ptr,$1909F0)
 [Sign_Shield]Middy Blouse[END]
 
+
 //Text $1B3920
 #WRITE(ptr,$1909F4)
-船乗りの服をアレンジしたクローク。[LINE]
-マニアが多い。[LINE]
-[END]
+Cloak adapted for[LINE]
+sailors. Sought after[LINE]
+by enthusiasts.[END]
 
 //Text $1B3908
 #WRITE(ptr,$190A2C)
 [Sign_Shield]Body Suit[END]
 
+
 //Text $1B38A0
 #WRITE(ptr,$190A30)
-上下ひと続きにしたクローク。[LINE]
-肌に密着し、動作の邪魔にならない。[LINE]
-女性のボディラインを美しく見せる。[END]
+Full body cloak. Sticks to the skin,[LINE]
+easy to move in. Emphasizes the[LINE]
+beauty of the female figure.[END]
 
 //Text $1B3888
 #WRITE(ptr,$190A68)
 [Sign_Shield]Wind Breaker[END]
 
+
 //Text $1B3848
 #WRITE(ptr,$190A6C)
-防風、防寒のためのクローク。[LINE]
-寒い日でもかさばらずに暖かい。[LINE]
-[END]
+Cloak that protects[LINE]
+against cold and wind.[LINE]
+Warmth for cold days.[END]
 
 //Text $1B3830
 #WRITE(ptr,$190AA4)
 [Sign_Shield]Unstable[END]
 
+
 //Text $1B37E8
 #WRITE(ptr,$190AA8)
-動きやすさに特化したクローク。[LINE]
-身に付けた者の身体能力を向上する。[LINE]
-[END]
+Cloak made for ease of[LINE]
+movement. Hightens the[LINE]
+wearers physical abilities.[END]
 
 //Text $1B37D0
 #WRITE(ptr,$190AE0)
 [Sign_Shield]Heavenly Garb[END]
 
+
 //Text $1B3780
 #WRITE(ptr,$190AE4)
-天国の名を冠する神秘のクローク。[LINE]
-楽園に住まう者達の服。[LINE]
-全ての痛みを緩和する。[END]
+Cloak named after the[LINE]
+Heavens. Worn by those living[LINE]
+in Paradise. Eases all pains.[END]
 
 //Text $1B3768
 #WRITE(ptr,$190B1C)
 [Sign_Shield]Nadir Cloak[END]
 
+
 //Text $1B3708
 #WRITE(ptr,$190B20)
-「奈落」を意味するクローク。[LINE]
-全てを最果てへと導く誘い手となる。[LINE]
-選ばれた者のみが手にできる。[END]
+Cloak that carries the meaning of[LINE]
+"Hell". Guides all to its end. Can only[LINE]
+be acquired by the chosen ones.[END]
 
 //Text $1B36F0
 #WRITE(ptr,$190B58)
 [Sign_Shield]White Robe[END]
 
+
 //Text $1B36B0
 #WRITE(ptr,$190B5C)
-Robe decorated with white cloth.[LINE]
-Its tidy style is popular with city girls.[LINE]
-[END]
+Robe decorated with white[LINE]
+cloth. Its tidy style is[LINE]
+popular with city girls.[END]
+
 //Text $1B3698
 #WRITE(ptr,$190B94)
 [Sign_Shield]Feather Robe[END]
+
 
 //Text $1B3660
 #WRITE(ptr,$190B98)
@@ -3944,124 +4729,138 @@ a waterfowl. Light as a feather.[LINE]
 #WRITE(ptr,$190BD0)
 [Sign_Shield]Black Robe[END]
 
+
 //Text $1B3608
 #WRITE(ptr,$190BD4)
-Robe decorated with black cloth.[LINE]
-Popular with partying city girls.[LINE]
-[END]
+Robe decorated with black[LINE]
+cloth. Popular with partying[LINE]
+city girls.[END]
+
 //Text $1B35F0
 #WRITE(ptr,$190C0C)
 [Sign_Shield]Silk Robe[END]
 
+
 //Text $1B35A8
 #WRITE(ptr,$190C10)
-Robe sewn with silk. It has a pretty[LINE]
-luster and feels nice to the touch.[LINE]
-[END]
-
+Robe sewn with silk. It[LINE]
+has a pretty luster and[LINE]
+feels nice to the touch.[END]
 
 //Text $1B3590
 #WRITE(ptr,$190C48)
 [Sign_Shield]Silver Robe[END]
+
 
 //Text $1B3560
 #WRITE(ptr,$190C4C)
 Robe decorated with silver.[LINE]
 Has a beautiful white brilliance.[LINE]
 [END]
+
 //Text $1B3548
 #WRITE(ptr,$190C84)
 [Sign_Shield]Gold Robe[END]
+
 
 //Text $1B3510
 #WRITE(ptr,$190C88)
 Robe decorated with gold.[LINE]
 Also known as the "Opulent Robe".[LINE]
 [END]
+
 //Text $1B34F8
 #WRITE(ptr,$190CC0)
 [Sign_Shield]Mithril Robe[END]
 
+
 //Text $1B34B0
 #WRITE(ptr,$190CC4)
-Robe decorated with Mithril.[LINE]
-Considered to be a Dwarven work of art.[LINE]
-[END]
+Robe decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
+
 //Text $1B3498
 #WRITE(ptr,$190CFC)
 [Sign_Shield]Mage Robe[END]
 
+
 //Text $1B3458
 #WRITE(ptr,$190D00)
 Robe made for mages.[LINE]
-Increases the will power of its wearers.[LINE]
-[END]
-
+Increases the willpower[LINE]
+of its wearers.[END]
 
 //Text $1B3440
 #WRITE(ptr,$190D38)
 [Sign_Shield]Fancy Robe[END]
 
+
 //Text $1B33F8
 #WRITE(ptr,$190D3C)
-Robe for those pursuing cuteness.[LINE]
-Its fluffy skirt is admired by girls everywhere.[LINE]
-[END]
-
+Robe for those pursuing[LINE]
+cuteness. Its fluffy skirt is[LINE]
+admired by girls everywhere.[END]
 
 //Text $1B33E0
 #WRITE(ptr,$190D74)
 [Sign_Shield]Moon Robe[END]
 
+
 //Text $1B33A0
 #WRITE(ptr,$190D78)
-Robe designed after a moonlit night.[LINE]
-Endowed with holy power of the moon.[LINE]
-[END]
-
+Robe designed after a[LINE]
+moonlit night. Endowed with[LINE]
+the moon's holy power.[END]
 
 //Text $1B3388
 #WRITE(ptr,$190DB0)
 [Sign_Shield]Star Robe[END]
 
+
 //Text $1B3338
 #WRITE(ptr,$190DB4)
-Robe designed after the stars.[LINE]
-Allows one to move as fast as a falling star.[LINE]
-Or so it is advertised.[END]
-
-
+Robe designed after a star. Allows[LINE]
+one to move as fast as a falling[LINE]
+star. Or so it is advertised.[END]
 
 //Text $1B3320
 #WRITE(ptr,$190DEC)
 [Sign_Shield]Warlock Robe[END]
+
 
 //Text $1B32C8
 #WRITE(ptr,$190DF0)
 Robe made for skilled mages.[LINE]
 Not only does it raise one's [LINE]
 willpower but also their defenses.[END]
+
 //Text $1B32B0
 #WRITE(ptr,$190E28)
 [Sign_Shield]Spirit Robe[END]
 
+
 //Text $1B3268
 #WRITE(ptr,$190E2C)
-Robe that imbues one with spiritual protection.[LINE]
-Gives its wearers mental fortitude.[LINE]
-[END]
+Robe that imbues one with[LINE]
+spiritual protection. Gives[LINE]
+its wearers mental fortitude.[END]
+
 //Text $1B3258
 #WRITE(ptr,$190E64)
 [Sign_Shield]Rare Robe[END]
+
 
 //Text $1B5880
 #WRITE(ptr,$190E68)
 Masterpiece imbued with[LINE]
 the soul of Egith.[LINE]
 Extremely valuable.[END]
+
 //Text $1B3240
 #WRITE(ptr,$190EA0)
 [Sign_Shield]Stray Robe[END]
+
 
 //Text $1B31F8
 #WRITE(ptr,$190EA4)
@@ -4069,137 +4868,168 @@ Robe of the Straylise Temple.[LINE]
 Uniform handed out to those who[LINE]
 become disciples of God.[END]
 
+
 //Text $1B31E0
 #WRITE(ptr,$190EDC)
 [Sign_Shield]Elder Robe[END]
 
+
 //Text $1B3188
 #WRITE(ptr,$190EE0)
-Robe made for a Grand Priest.[LINE]
-Dyed with his beloved Elderberries.[LINE]
-[END]
+Robe made for a Grand[LINE]
+Priest. Dyed with his[LINE]
+beloved Elderberries.[END]
+
 //Text $1B3170
 #WRITE(ptr,$190F18)
 [Sign_Shield]Misty Robe[END]
+
 
 //Text $1B3130
 #WRITE(ptr,$190F1C)
 Robe made by an unknown[LINE]
 process and materials. Its colors [LINE]
 change with viewing angle.[END]
+
 //Text $1B3118
 #WRITE(ptr,$190F54)
 [Sign_Shield]Rune Robe[END]
+
 
 //Text $1B30B8
 #WRITE(ptr,$190F58)
 Robe embroidered with the Rest[LINE]
 rune. Imbues one with the power[LINE]
 to resist any punishment.[END]
+
 //Text $1B30A0
 #WRITE(ptr,$190F90)
 [Sign_Shield]Witch Robe[END]
+
 
 //Text $1B3048
 #WRITE(ptr,$190F94)
 Robe worn by high-ranking mages.[LINE]
 Increases one's willpower and[LINE]
 protects against enemy attacks.[END]
+
 //Text $1B3030
 #WRITE(ptr,$190FCC)
 [Sign_Shield]Prism Robe[END]
+
 
 //Text $1B2FF8
 #WRITE(ptr,$190FD0)
 Robe that breaks light into the[LINE]
 colors of the rainbow. Bewilders[LINE]
 enemies with its refracted light.[END]
+
 //Text $1B2FE0
 #WRITE(ptr,$191008)
 [Sign_Shield]Grimm Robe[END]
+
 
 //Text $1B2F90
 #WRITE(ptr,$19100C)
 Robe imbued with the hidden power of[LINE]
 fantasies. Named after the brothers[LINE]
 who collected oral traditions into a book.[END]
+
 //Text $1B2F78
 #WRITE(ptr,$191044)
 [Sign_Shield]Apron Dress[END]
+
 
 //Text $1B2F20
 #WRITE(ptr,$191048)
 Clothes that became a secret boom[LINE]
 in Fitzgald. Item for those who do not ignore[LINE]
 cuteness even while doing housework.[END]
+
 //Text $1B2F08
 #WRITE(ptr,$191080)
 [Sign_Shield]Sheath Dress[END]
+
 
 //Text $1B2EB8
 #WRITE(ptr,$191084)
 Risky, thin, and see-through dress.[LINE]
 Feels pleasantly refreshing.[LINE]
 Requires a little confidence to wear.[END]
+
 //Text $1B2EA0
 #WRITE(ptr,$1910BC)
 [Sign_Shield]Country Dress[END]
+
 
 //Text $1B2E68
 #WRITE(ptr,$1910C0)
 Simple country dress.[LINE]
 Popular among nostalgic aristocrats.[LINE]
 [END]
+
 //Text $1B2E50
 #WRITE(ptr,$1910F8)
 [Sign_Shield]China Dress[END]
+
 
 //Text $1B2E00
 #WRITE(ptr,$1910FC)
 Dress created in Aquaveil.[LINE]
 Emphasizes the beauty[LINE]
 of the female figure.[END]
+
 //Text $1B2DE8
 #WRITE(ptr,$191134)
 [Sign_Shield]Cocktail Dress[END]
+
 
 //Text $1B2DA0
 #WRITE(ptr,$191138)
 Dress for sophisticated balls.[LINE]
 A necessity for parties.[LINE]
 Has an open cleavage.[END]
+
 //Text $1B2D88
 #WRITE(ptr,$191170)
 [Sign_Shield]Wedding Dress[END]
 
+
 //Text $1B2D58
 #WRITE(ptr,$191174)
 Pure white wedding dress.[LINE]
-Yearned for by girls and a symbol of happiness.[LINE]
-[END]
+Yearned for by girls and[LINE]
+symbol of happiness.[END]
+
 //Text $1B2D40
 #WRITE(ptr,$1911AC)
 [Sign_Shield]Terminal Robe[END]
 
+
 //Text $1B2CE0
 #WRITE(ptr,$1911B0)
-Robe that carries the meaning of "End".[LINE]
-Protects the body from the power to destroy the world.[LINE]
-Can only be acquired by the chosen ones.[END]//Section Unique
+Robe that carries the meaning of "End". Protects[LINE]
+the body from the power to destroy the world.[LINE]
+Can only be acquired by the chosen ones.[END]
+
+//Section Unique
 
 //Text $1B83F0
 #WRITE(ptr,$191208)
 [Sign_1]Leather Gauntlet[END]
 
+
 //Text $1B83A8
 #WRITE(ptr,$19120C)
-革で繋ぎ合わせたガントレット。[LINE]
-軽くてそこそこ丈夫。[LINE]
-見習剣士の必需品。[END]
+Gauntlets strung together with leather. [LINE]
+Light and reasonably strong. [LINE]
+A necessity for apprentice swordsmen. [END]
+
 
 //Text $1B8388
 #WRITE(ptr,$191228)
 [Sign_1]Bronze Gauntlet[END]
+
 
 //Text $1B8338
 #WRITE(ptr,$19122C)
@@ -4207,9 +5037,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 天地戦争時代から使われていた、[LINE]
 伝統ある篭手。[END]
 
+
 //Text $1B8318
 #WRITE(ptr,$191248)
 [Sign_1]Iron Gauntlet[END]
+
 
 //Text $1B82D0
 #WRITE(ptr,$19124C)
@@ -4217,9 +5049,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 重いが堅くて丈夫。[LINE]
 もっとも身近な金属。[END]
 
+
 //Text $1B82B0
 #WRITE(ptr,$191268)
 [Sign_1]Steel Gauntlet[END]
+
 
 //Text $1B8278
 #WRITE(ptr,$19126C)
@@ -4227,9 +5061,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 騎士見習たちの愛用品。[LINE]
 [END]
 
+
 //Text $1B8260
 #WRITE(ptr,$191288)
 [Sign_1]Titanium Gauntlet[END]
+
 
 //Text $1B8218
 #WRITE(ptr,$19128C)
@@ -4237,9 +5073,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 非常に軽く、並外れた耐食性を持つ。[LINE]
 [END]
 
+
 //Text $1B81F8
 #WRITE(ptr,$1912A8)
 [Sign_1]Silver Gauntlet[END]
+
 
 //Text $1B81C0
 #WRITE(ptr,$1912AC)
@@ -4247,9 +5085,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 白い輝きが美しい。[LINE]
 [END]
 
+
 //Text $1B81A0
 #WRITE(ptr,$1912C8)
 [Sign_1]Gold Gauntlet[END]
+
 
 //Text $1B8160
 #WRITE(ptr,$1912CC)
@@ -4257,9 +5097,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 別名「豪華なガントレット」。[LINE]
 [END]
 
+
 //Text $1B8140
 #WRITE(ptr,$1912E8)
 [Sign_1]Mithril Gauntlet[END]
+
 
 //Text $1B8100
 #WRITE(ptr,$1912EC)
@@ -4267,9 +5109,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ドワーフ族の芸術作品といわれる。[LINE]
 [END]
 
+
 //Text $1B80E0
 #WRITE(ptr,$191308)
 [Sign_1]Hyper Gauntlet[END]
+
 
 //Text $1B8090
 #WRITE(ptr,$19130C)
@@ -4277,9 +5121,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ガントレット。[LINE]
 百獣の王の力が込められている。[END]
 
+
 //Text $1B8078
 #WRITE(ptr,$191328)
 [Sign_1]Rare Gauntlet[END]
+
 
 //Text $1B5880
 #WRITE(ptr,$19132C)
@@ -4287,9 +5133,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 無二の傑作。[LINE]
 きわめて希少価値が高い。[END]
 
+
 //Text $1B8060
 #WRITE(ptr,$191348)
 [Sign_1]Battle Gauntlet[END]
+
 
 //Text $1B8000
 #WRITE(ptr,$19134C)
@@ -4297,9 +5145,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 機能性が良いだけではなく、[LINE]
 装備者の力を限界まで引き上げる。[END]
 
+
 //Text $1B7FE8
 #WRITE(ptr,$191368)
 [Sign_1]Grimm Gauntlet[END]
+
 
 //Text $1B7F90
 #WRITE(ptr,$19136C)
@@ -4307,9 +5157,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ガントレット。口伝を書物に[LINE]
 まとめた兄弟の名を冠する。[END]
 
+
 //Text $1B7F78
 #WRITE(ptr,$191388)
 [Sign_1]Leather Gloves[END]
+
 
 //Text $1B7F30
 #WRITE(ptr,$19138C)
@@ -4317,9 +5169,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 少し固いが丈夫で安全。[LINE]
 女性の旅のお供に。[END]
 
+
 //Text $1B7F18
 #WRITE(ptr,$1913A8)
 [Sign_1]Pretty Gloves[END]
+
 
 //Text $1B7EC0
 #WRITE(ptr,$1913AC)
@@ -4327,9 +5181,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ついてる可愛い手袋。[LINE]
 寒くてもお洒落したいあなたへ。[END]
 
+
 //Text $1B7EA8
 #WRITE(ptr,$1913C8)
 [Sign_1]White Gloves[END]
+
 
 //Text $1B7E48
 #WRITE(ptr,$1913CC)
@@ -4337,9 +5193,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 滑らかな手触りに上品な刺繍。[LINE]
 身に付けるだけであなたも淑女に。[END]
 
+
 //Text $1B7E30
 #WRITE(ptr,$1913E8)
 [Sign_1]Moon Gloves[END]
+
 
 //Text $1B7DD8
 #WRITE(ptr,$1913EC)
@@ -4347,9 +5205,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 聖なる月の力が宿っている。[LINE]
 クロークとセットでどうぞ。[END]
 
+
 //Text $1B7DC0
 #WRITE(ptr,$191408)
 [Sign_1]Star Gloves[END]
+
 
 //Text $1B7D68
 #WRITE(ptr,$19140C)
@@ -4357,9 +5217,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 指先はまるで流星のよう。[LINE]
 クロークとセットでどうぞ。[END]
 
+
 //Text $1B7D50
 #WRITE(ptr,$191428)
 [Sign_1]Rune Gloves[END]
+
 
 //Text $1B7CF8
 #WRITE(ptr,$19142C)
@@ -4367,9 +5229,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 触れる者全てを癒す力を、[LINE]
 身に付けた者に与える。[END]
 
+
 //Text $1B7CE0
 #WRITE(ptr,$191448)
 [Sign_1]Misty Gloves[END]
+
 
 //Text $1B7C88
 #WRITE(ptr,$19144C)
@@ -4377,9 +5241,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 見る角度により色が変化する。[LINE]
 クロークとセットでどうぞ。[END]
 
+
 //Text $1B7C70
 #WRITE(ptr,$191468)
 [Sign_1]Mithril Gloves[END]
+
 
 //Text $1B7C30
 #WRITE(ptr,$19146C)
@@ -4387,9 +5253,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ドワーフ族の芸術作品といわれる。[LINE]
 [END]
 
+
 //Text $1B7C18
 #WRITE(ptr,$191488)
 [Sign_1]Steal Gloves[END]
+
 
 //Text $1B7BC0
 #WRITE(ptr,$19148C)
@@ -4397,9 +5265,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 いたグローブ。気配を絶ち相手の[LINE]
 懐を掠め取る神業を得る。[END]
 
+
 //Text $1B7BA8
 #WRITE(ptr,$1914A8)
 [Sign_1]Grimm Gloves[END]
+
 
 //Text $1B7B50
 #WRITE(ptr,$1914AC)
@@ -4407,9 +5277,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 グローブ。口伝を書物にまとめた[LINE]
 兄弟の名を冠する。[END]
 
+
 //Text $1B7B38
 #WRITE(ptr,$1914C8)
 [Sign_1]Stray Necklace[END]
+
 
 //Text $1B7AE8
 #WRITE(ptr,$1914CC)
@@ -4417,9 +5289,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 与えられるネックレス。[LINE]
 集中力を高める効果がある。[END]
 
+
 //Text $1B7AC8
 #WRITE(ptr,$1914E8)
 [Sign_1]Wisdom Necklace[END]
+
 
 //Text $1B7A60
 #WRITE(ptr,$1914EC)
@@ -4427,9 +5301,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 揺るがぬ冷静な心を与える。[LINE]
 地属性晶術のダメージがアップする。[END]
 
+
 //Text $1B7A40
 #WRITE(ptr,$191508)
 [Sign_1]Avatar Necklace[END]
+
 
 //Text $1B79D0
 #WRITE(ptr,$19150C)
@@ -4437,9 +5313,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 理想を現実へと導く行動力を与える。[LINE]
 風属性晶術のダメージがアップする。[END]
 
+
 //Text $1B79B0
 #WRITE(ptr,$191528)
 [Sign_1]Arcane Necklace[END]
+
 
 //Text $1B7948
 #WRITE(ptr,$19152C)
@@ -4447,9 +5325,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 神秘なる者の声を聞く力を与える。[LINE]
 火属性晶術のダメージがアップする。[END]
 
+
 //Text $1B7930
 #WRITE(ptr,$191548)
 [Sign_1]Magical Necklace[END]
+
 
 //Text $1B78C8
 #WRITE(ptr,$19154C)
@@ -4457,9 +5337,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 精神力をより鋭く研ぎ澄まされる。[LINE]
 水属性晶術のダメージがアップする。[END]
 
+
 //Text $1B78B0
 #WRITE(ptr,$191568)
 [Sign_1]Mind Necklace[END]
+
 
 //Text $1B7848
 #WRITE(ptr,$19156C)
@@ -4467,9 +5349,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 心に秘めた力を増加させる。[LINE]
 光属性晶術のダメージがアップする。[END]
 
+
 //Text $1B7830
 #WRITE(ptr,$191588)
 [Sign_1]Mental Necklace[END]
+
 
 //Text $1B77D0
 #WRITE(ptr,$19158C)
@@ -4477,9 +5361,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大いなる祝福と深い慈愛を。[LINE]
 地属性晶術の詠唱時間が減少する。[END]
 
+
 //Text $1B77B0
 #WRITE(ptr,$1915A8)
 [Sign_1]Tranquil Necklace[END]
+
 
 //Text $1B7750
 #WRITE(ptr,$1915AC)
@@ -4487,9 +5373,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大いなる祝福と歪まぬ心を。[LINE]
 風属性晶術の詠唱時間が減少する。[END]
 
+
 //Text $1B7738
 #WRITE(ptr,$1915C8)
 [Sign_1]Muse Necklace[END]
+
 
 //Text $1B76D8
 #WRITE(ptr,$1915CC)
@@ -4497,9 +5385,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大いなる祝福と貫く意思を。[LINE]
 火属性晶術の詠唱時間が減少する。[END]
 
+
 //Text $1B76B8
 #WRITE(ptr,$1915E8)
 [Sign_1]Fairy Necklace[END]
+
 
 //Text $1B7658
 #WRITE(ptr,$1915EC)
@@ -4507,9 +5397,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大いなる祝福と惑わぬ心を。[LINE]
 水属性晶術の詠唱時間が減少する。[END]
 
+
 //Text $1B7638
 #WRITE(ptr,$191608)
 [Sign_1]Ritual Necklace[END]
+
 
 //Text $1B75D0
 #WRITE(ptr,$19160C)
@@ -4517,9 +5409,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大いなる祝福と永久の忠誠を。[LINE]
 光属性晶術の詠唱時間が減少する。[END]
 
+
 //Text $1B75C0
 #WRITE(ptr,$191628)
 [Sign_1]Auto Bow[END]
+
 
 //Text $1B7570
 #WRITE(ptr,$19162C)
@@ -4527,9 +5421,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 弓の道に進むのなら、[LINE]
 まずは自分の弓作りから。[END]
 
+
 //Text $1B7558
 #WRITE(ptr,$191648)
 [Sign_1]Composite Bow[END]
+
 
 //Text $1B7508
 #WRITE(ptr,$19164C)
@@ -4537,9 +5433,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 軸がぶれず適度に柔軟。[LINE]
 弓に慣れてきた狩人用。[END]
 
+
 //Text $1B74F0
 #WRITE(ptr,$191668)
 [Sign_1]Wrapped Bow[END]
+
 
 //Text $1B7498
 #WRITE(ptr,$19166C)
@@ -4547,9 +5445,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 自らが狩った獣の体の一部を[LINE]
 使用して作るのが伝統。[END]
 
+
 //Text $1B7480
 #WRITE(ptr,$191688)
 [Sign_1]Custom Bow[END]
+
 
 //Text $1B7428
 #WRITE(ptr,$19168C)
@@ -4557,9 +5457,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 獲物の存在を感知すると、[LINE]
 熱を持って伝えるという。[END]
 
+
 //Text $1B7410
 #WRITE(ptr,$1916A8)
 [Sign_1]Rapid Bow[END]
+
 
 //Text $1B73B8
 #WRITE(ptr,$1916AC)
@@ -4567,9 +5469,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 天高く飛ぶ鳥よりも遠くへ。[LINE]
 最高の腕を持つ狩人のための長弓。[END]
 
+
 //Text $1B73A8
 #WRITE(ptr,$1916C8)
 [Sign_1]Killer Bow[END]
+
 
 //Text $1B7368
 #WRITE(ptr,$1916CC)
@@ -4577,9 +5481,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 暗殺に特化された長弓。[LINE]
 音もなく放たれる死の一撃。[END]
 
+
 //Text $1B7358
 #WRITE(ptr,$1916E8)
 [Sign_1]Battle Bow[END]
+
 
 //Text $1B7308
 #WRITE(ptr,$1916EC)
@@ -4587,9 +5493,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 強度もあり、その一撃は敵の装甲を[LINE]
 貫くほど。[END]
 
+
 //Text $1B72F8
 #WRITE(ptr,$191708)
 [Sign_1]Grimm Bow[END]
+
 
 //Text $1B72A8
 #WRITE(ptr,$19170C)
@@ -4597,9 +5505,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 長弓。口伝を書物にまとめた[LINE]
 兄弟の名を冠する。[END]
 
+
 //Text $1B7298
 #WRITE(ptr,$191728)
 [Sign_1]Leek[END]
+
 
 //Text $1B7248
 #WRITE(ptr,$19172C)
@@ -4607,9 +5517,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 体を温めたり、[LINE]
 疲労回復などの効果がある。[END]
 
+
 //Text $1B7230
 #WRITE(ptr,$191748)
 [Sign_1]Ring Dagger[END]
+
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
@@ -4617,9 +5529,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 短剣。輪に紐を通して[LINE]
 投げて使うことも可能。[END]
 
+
 //Text $1B71C8
 #WRITE(ptr,$191768)
 [Sign_1]Kidney Dagger[END]
+
 
 //Text $1B7168
 #WRITE(ptr,$19176C)
@@ -4627,9 +5541,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 相手を傷つけることよりも[LINE]
 儀礼的なことで使われる事が多い。[END]
 
+
 //Text $1B7150
 #WRITE(ptr,$191788)
 [Sign_1]Ear Dagger[END]
+
 
 //Text $1B7108
 #WRITE(ptr,$19178C)
@@ -4637,9 +5553,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 握りやすく、優れた貫通力を持つ。[LINE]
 [END]
 
+
 //Text $1B70F0
 #WRITE(ptr,$1917A8)
 [Sign_1]Parrying Dagger[END]
+
 
 //Text $1B7098
 #WRITE(ptr,$1917AC)
@@ -4647,9 +5565,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 硬い刀身を持ち、[LINE]
 相手の剣を受け止めることも可能。[END]
 
+
 //Text $1B7080
 #WRITE(ptr,$1917C8)
 [Sign_1]Poniard Dagger[END]
+
 
 //Text $1B7038
 #WRITE(ptr,$1917CC)
@@ -4657,9 +5577,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 決闘で使われる殺傷能力の高い武器。[LINE]
 [END]
 
+
 //Text $1B7020
 #WRITE(ptr,$1917E8)
 [Sign_1]Kris Dagger[END]
+
 
 //Text $1B6FB8
 #WRITE(ptr,$1917EC)
@@ -4667,9 +5589,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 刃は両刃で波形にうねっている。[LINE]
 身を守り、邪悪を退ける力を持つ。[END]
 
+
 //Text $1B6FA8
 #WRITE(ptr,$191808)
 [Sign_1]Mushroom[END]
+
 
 //Text $1B6F60
 #WRITE(ptr,$19180C)
@@ -4677,9 +5601,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 傘が開ききると[LINE]
 香りも味も落ちてしまう。[END]
 
+
 //Text $1B6F48
 #WRITE(ptr,$191828)
 [Sign_1]Triumph Bandana[END]
+
 
 //Text $1B6F08
 #WRITE(ptr,$19182C)
@@ -4687,9 +5613,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 気が引き締まり、攻撃力アップ！[LINE]
 [END]
 
+
 //Text $1B6EF0
 #WRITE(ptr,$191848)
 [Sign_1]Fury Bandana[END]
+
 
 //Text $1B6EA8
 #WRITE(ptr,$19184C)
@@ -4697,9 +5625,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 熱毒を防止し、攻撃力を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6E90
 #WRITE(ptr,$191868)
 [Sign_1]Adamant Bandana[END]
+
 
 //Text $1B6E48
 #WRITE(ptr,$19186C)
@@ -4707,9 +5637,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 石化を防止し、防御力を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6E30
 #WRITE(ptr,$191888)
 [Sign_1]Sky Bandana[END]
+
 
 //Text $1B6DF0
 #WRITE(ptr,$19188C)
@@ -4717,9 +5649,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 麻痺を防止し、体力を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6DD8
 #WRITE(ptr,$1918A8)
 [Sign_1]Awake Bandana[END]
+
 
 //Text $1B6D90
 #WRITE(ptr,$1918AC)
@@ -4727,9 +5661,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 睡眠を防止し、集中力を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6D78
 #WRITE(ptr,$1918C8)
 [Sign_1]Hurricane Bandana[END]
+
 
 //Text $1B6D30
 #WRITE(ptr,$1918CC)
@@ -4737,9 +5673,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 衰弱を防止し、回避率を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6D18
 #WRITE(ptr,$1918E8)
 [Sign_1]Destroyer Bandana[END]
+
 
 //Text $1B6CD0
 #WRITE(ptr,$1918EC)
@@ -4747,9 +5685,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 封印を防止し、命中率を上昇させる。[LINE]
 [END]
 
+
 //Text $1B6CB8
 #WRITE(ptr,$191908)
 [Sign_1]Hero Bandana[END]
+
 
 //Text $1B6C80
 #WRITE(ptr,$19190C)
@@ -4757,9 +5697,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 攻撃力が大幅に上昇する。[LINE]
 [END]
 
+
 //Text $1B6C68
 #WRITE(ptr,$191928)
 [Sign_1]Revolution Bandana[END]
+
 
 //Text $1B6C10
 #WRITE(ptr,$19192C)
@@ -4767,9 +5709,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 どんな事でも揺るがない！[LINE]
 全ての状態異常を防止する。[END]
 
+
 //Text $1B6BF8
 #WRITE(ptr,$191948)
 [Sign_1]Red Ribbon[END]
+
 
 //Text $1B6BB0
 #WRITE(ptr,$19194C)
@@ -4777,9 +5721,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 女の子の必需品。[LINE]
 火属性耐性を付加する。[END]
 
+
 //Text $1B6B98
 #WRITE(ptr,$191968)
 [Sign_1]Blue Ribbon[END]
+
 
 //Text $1B6B48
 #WRITE(ptr,$19196C)
@@ -4787,9 +5733,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ちょっとおしゃまな女の子向け。[LINE]
 水属性耐性を付加する。[END]
 
+
 //Text $1B6B30
 #WRITE(ptr,$191988)
 [Sign_1]Orange Ribbon[END]
+
 
 //Text $1B6AE0
 #WRITE(ptr,$19198C)
@@ -4797,9 +5745,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 お姉さんに憧れる女の子へ。[LINE]
 地属性耐性を付加する。[END]
 
+
 //Text $1B6AC8
 #WRITE(ptr,$1919A8)
 [Sign_1]Green Ribbon[END]
+
 
 //Text $1B6A70
 #WRITE(ptr,$1919AC)
@@ -4807,9 +5757,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 人とは違った物をつけたい女の子向け。[LINE]
 風属性耐性を付加する。[END]
 
+
 //Text $1B6A58
 #WRITE(ptr,$1919C8)
 [Sign_1]White Ribbon[END]
+
 
 //Text $1B6A00
 #WRITE(ptr,$1919CC)
@@ -4817,9 +5769,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 ワンランク上の女の子になれる！[LINE]
 光属性耐性を付加する。[END]
 
+
 //Text $1B69E8
 #WRITE(ptr,$1919E8)
 [Sign_1]Black Ribbon[END]
+
 
 //Text $1B6998
 #WRITE(ptr,$1919EC)
@@ -4827,9 +5781,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 大人の女性も越えたいあなたへ。[LINE]
 闇属性耐性を付加する。[END]
 
+
 //Text $1B6980
 #WRITE(ptr,$191A08)
 [Sign_1]Weird Ribbon[END]
+
 
 //Text $1B6920
 #WRITE(ptr,$191A0C)
@@ -4837,9 +5793,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 愛と夢と希望がいっぱい。[LINE]
 高ぶる気持ちでいっぱい動ける。[END]
 
+
 //Text $1B6908
 #WRITE(ptr,$191A28)
 [Sign_1]Feather Hat[END]
+
 
 //Text $1B68B0
 #WRITE(ptr,$191A2C)
@@ -4847,9 +5805,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 洒落た帽子でワンランク上の男を[LINE]
 目指す。それがジョニー流。[END]
 
+
 //Text $1B6898
 #WRITE(ptr,$191A48)
 [Sign_1]Acclaim Hat[END]
+
 
 //Text $1B6838
 #WRITE(ptr,$191A4C)
@@ -4857,9 +5817,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 被れば称賛を浴びること間違いなし。[LINE]
 火属性の攻撃属性を付加する。[END]
 
+
 //Text $1B6820
 #WRITE(ptr,$191A68)
 [Sign_1]Exile Hat[END]
+
 
 //Text $1B67B8
 #WRITE(ptr,$191A6C)
@@ -4867,9 +5829,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 言われている帽子。放浪癖がつきます。[LINE]
 地属性の攻撃属性を付加する。[END]
 
+
 //Text $1B67A0
 #WRITE(ptr,$191A88)
 [Sign_1]Happy Hat[END]
+
 
 //Text $1B6738
 #WRITE(ptr,$191A8C)
@@ -4877,9 +5841,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 されないように作った帽子。それが幸せ。[LINE]
 風属性の攻撃属性を付加する。[END]
 
+
 //Text $1B6720
 #WRITE(ptr,$191AA8)
 [Sign_1]Streak Hat[END]
+
 
 //Text $1B66C0
 #WRITE(ptr,$191AAC)
@@ -4887,9 +5853,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 答えを導くと頭の上に何かが出る。[LINE]
 水属性の攻撃属性を付加する。[END]
 
+
 //Text $1B66A8
 #WRITE(ptr,$191AC8)
 [Sign_1]Singer Hat[END]
+
 
 //Text $1B6648
 #WRITE(ptr,$191ACC)
@@ -4897,9 +5865,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 聖歌隊が被っていた由緒ある帽子。[LINE]
 光属性の攻撃属性を付加する。[END]
 
+
 //Text $1B6630
 #WRITE(ptr,$191AE8)
 [Sign_1]Sheikh Hat[END]
+
 
 //Text $1B65D0
 #WRITE(ptr,$191AEC)
@@ -4907,9 +5877,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 魅了する。伝説に残る詩人の帽子。[LINE]
 闇属性の攻撃属性を付加する。[END]
 
+
 //Text $1B65B8
 #WRITE(ptr,$191B08)
 [Sign_1]Replica Belt[END]
+
 
 //Text $1B6560
 #WRITE(ptr,$191B0C)
@@ -4917,9 +5889,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 チャンピオンベルトのレプリカ。[LINE]
 また取り戻しゃーいいのよ！[END]
 
+
 //Text $1B6548
 #WRITE(ptr,$191B28)
 [Sign_1]Fly Belt[END]
+
 
 //Text $1B6508
 #WRITE(ptr,$191B2C)
@@ -4927,9 +5901,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 通常攻撃にダウン効果が少しつく。[LINE]
 [END]
 
+
 //Text $1B64F0
 #WRITE(ptr,$191B48)
 [Sign_1]Bantam Belt[END]
+
 
 //Text $1B64A8
 #WRITE(ptr,$191B4C)
@@ -4937,9 +5913,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 通常攻撃にダウン効果がそこそこつく。[LINE]
 [END]
 
+
 //Text $1B6490
 #WRITE(ptr,$191B68)
 [Sign_1]Light Belt[END]
+
 
 //Text $1B6448
 #WRITE(ptr,$191B6C)
@@ -4947,9 +5925,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 通常攻撃にダウン効果がだいぶつく。[LINE]
 [END]
 
+
 //Text $1B6430
 #WRITE(ptr,$191B88)
 [Sign_1]Middle Belt[END]
+
 
 //Text $1B63E8
 #WRITE(ptr,$191B8C)
@@ -4957,9 +5937,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 通常攻撃にダウン効果がけっこうつく。[LINE]
 [END]
 
+
 //Text $1B63D0
 #WRITE(ptr,$191BA8)
 [Sign_1]Heavy Belt[END]
+
 
 //Text $1B6388
 #WRITE(ptr,$191BAC)
@@ -4967,9 +5949,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 通常攻撃にダウン効果がかなりつく。[LINE]
 [END]
 
+
 //Text $1B6370
 #WRITE(ptr,$191BC8)
 [Sign_1]Champion Belt[END]
+
 
 //Text $1B6328
 #WRITE(ptr,$191BCC)
@@ -4977,9 +5961,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 最強の証！[LINE]
 不屈の闘志でピンチを跳ね返す！[END]
 
+
 //Text $1B6310
 #WRITE(ptr,$191BE8)
 [Sign_1]Seinegald Belt[END]
+
 
 //Text $1B62D8
 #WRITE(ptr,$191BEC)
@@ -4987,9 +5973,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 モンスターを制覇した証！[LINE]
 [END]
 
+
 //Text $1B62B8
 #WRITE(ptr,$191C08)
 [Sign_1]Fitzgald Belt[END]
+
 
 //Text $1B6280
 #WRITE(ptr,$191C0C)
@@ -4997,9 +5985,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 モンスターを制覇した証！[LINE]
 [END]
 
+
 //Text $1B6268
 #WRITE(ptr,$191C28)
 [Sign_1]Calvalese Belt[END]
+
 
 //Text $1B6230
 #WRITE(ptr,$191C2C)
@@ -5007,9 +5997,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 モンスターを制覇した証！[LINE]
 [END]
 
+
 //Text $1B6210
 #WRITE(ptr,$191C48)
 [Sign_1]Aquaveil Belt[END]
+
 
 //Text $1B61D8
 #WRITE(ptr,$191C4C)
@@ -5017,9 +6009,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 モンスターを制覇した証！[LINE]
 [END]
 
+
 //Text $1B61C0
 #WRITE(ptr,$191C68)
 [Sign_1]Phandaria Belt[END]
+
 
 //Text $1B6188
 #WRITE(ptr,$191C6C)
@@ -5027,9 +6021,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 モンスターを制覇した証！[LINE]
 [END]
 
+
 //Text $1B6168
 #WRITE(ptr,$191C88)
 [Sign_1]World Champion Belt[END]
+
 
 //Text $1B6118
 #WRITE(ptr,$191C8C)
@@ -5037,9 +6033,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 チャンピオンの証！[LINE]
 どんなことにも屈しなくなる。[END]
 
+
 //Text $1B6108
 #WRITE(ptr,$191CA8)
 [Sign_1]Watermelon[END]
+
 
 //Text $1B60B8
 #WRITE(ptr,$191CAC)
@@ -5047,9 +6045,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 昔は種も食用として扱われていたとか……[LINE]
 [END]
 
+
 //Text $1B60A0
 #WRITE(ptr,$191CC8)
 [Sign_1]Iron Frypan[END]
+
 
 //Text $1B6068
 #WRITE(ptr,$191CCC)
@@ -5057,9 +6057,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 使い込むほど味が出る。[LINE]
 [END]
 
+
 //Text $1B6050
 #WRITE(ptr,$191CE8)
 [Sign_1]Copper Frypan[END]
+
 
 //Text $1B6008
 #WRITE(ptr,$191CEC)
@@ -5067,9 +6069,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 熱伝導がすばらしい。[LINE]
 料理時間が短縮されます。[END]
 
+
 //Text $1B5FF0
 #WRITE(ptr,$191D08)
 [Sign_1]Silver Frypan[END]
+
 
 //Text $1B5FA0
 #WRITE(ptr,$191D0C)
@@ -5077,9 +6081,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 白い輝きが美しい。[LINE]
 焦がしてしまうのがもったいない。[END]
 
+
 //Text $1B5F88
 #WRITE(ptr,$191D28)
 [Sign_1]Gold Frypan[END]
+
 
 //Text $1B5F30
 #WRITE(ptr,$191D2C)
@@ -5087,9 +6093,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 別名「豪華なフライパン」。[LINE]
 これであなたも王族専属シェフ。[END]
 
+
 //Text $1B5F20
 #WRITE(ptr,$191D48)
 [Sign_1]Turnip[END]
+
 
 //Text $1B5ED8
 #WRITE(ptr,$191D4C)
@@ -5097,9 +6105,11 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 漬物にして食べるのが一般的。[LINE]
 [END]
 
+
 //Text $1B0AF0
 #WRITE(ptr,$18F280)
 [Sign_Sword]Fanatic Ladle[END]
+
 
 //Text $1B0A98
 #WRITE(ptr,$18F284)
@@ -5107,20 +6117,25 @@ Can only be acquired by the chosen ones.[END]//Section Unique
 究極のおたま。実際に[LINE]
 料理が美味しくなるかどうかは不明。[END]
 
+
 //Text $1B0A88
 #WRITE(ptr,$18F2BC)
 [Sign_Sword]Carrot[END]
+
 
 //Text $1B0A38
 #WRITE(ptr,$18F2C0)
 カロテンを豊富に含むにんじん。[LINE]
 バターや油で調理すると[LINE]
 吸収が促進される。[END]
+
+
 //Section Food
 
 //Text $1BA218
 #WRITE(ptr,$191D98)
 [Sign_3]Onigiri[END]
+
 
 //Text $1BA1C8
 #WRITE(ptr,$191D9C)
@@ -5128,9 +6143,11 @@ Strap with an Onigiri.[LINE]
 Carefully molded with love.[LINE]
 One's best travelling companion.[END]
 
+
 //Text $1BA180
 #WRITE(ptr,$191DC8)
 [Sign_3]Sandwich[END]
+
 
 //Text $1BA120
 #WRITE(ptr,$191DCC)
@@ -5138,9 +6155,11 @@ Strap with a Sandwich.[LINE]
 Vegetable and ham sandwich.[LINE]
 Can be easily eaten anywhere.[END]
 
+
 //Text $1BA0C8
 #WRITE(ptr,$191DF8)
 [Sign_3]Hamburger[END]
+
 
 //Text $1BA068
 #WRITE(ptr,$191DFC)
@@ -5148,9 +6167,11 @@ Strap with a Hamburger. [LINE]
 Juicy hamburger in between[LINE]
 two buns. Very filling![END]
 
+
 //Text $1BA020
 #WRITE(ptr,$191E28)
 [Sign_3]Hotdog[END]
+
 
 //Text $1B9FC0
 #WRITE(ptr,$191E2C)
@@ -5158,9 +6179,11 @@ Strap with a Hotdog.[LINE]
 Hot sausage in a[LINE]
 lengthwise-cut long bun.[END]
 
+
 //Text $1B9F88
 #WRITE(ptr,$191E58)
 [Sign_3]Burrito[END]
+
 
 //Text $1B9F30
 #WRITE(ptr,$191E5C)
@@ -5168,9 +6191,11 @@ Strap with a Burrito.[LINE]
 Rice, meat, beans, and[LINE]
 vegetables wrapped in a tortilla.[END]
 
+
 //Text $1B9EF8
 #WRITE(ptr,$191E88)
 [Sign_3]Kebab[END]
+
 
 //Text $1B9EA0
 #WRITE(ptr,$191E8C)
@@ -5178,9 +6203,11 @@ Strap with a Kebab.[LINE]
 Slowly and carefully roasted[LINE]
 skewered meat.[END]
 
+
 //Text $1B9E68
 #WRITE(ptr,$191EB8)
 [Sign_3]Inarizushi[END]
+
 
 //Text $1B9E10
 #WRITE(ptr,$191EBC)
@@ -5188,9 +6215,11 @@ Strap with an Inarizushi.[LINE]
 Sushi with sweet boiled, deep-fried,[LINE]
 vinegared tofu. Popular with children.[END]
 
+
 //Text $1B9DD8
 #WRITE(ptr,$191EE8)
 [Sign_3]Pickled Vegetables.[END]
+
 
 //Text $1B9D90
 #WRITE(ptr,$191EEC)
@@ -5198,9 +6227,11 @@ Strap with a Pickled Vegetables.[LINE]
 Vegetables pickled overnight.[LINE]
 Easy to eat.[END]
 
+
 //Text $1B9D58
 #WRITE(ptr,$191F18)
 [Sign_3]Ochazuke[END]
+
 
 //Text $1B9CF8
 #WRITE(ptr,$191F1C)
@@ -5208,9 +6239,11 @@ Strap with an Ochazuke.[LINE]
 Rice soup with lightly flavored tea-based broth.[LINE]
 Gulped down with a slurping sound.[END]
 
+
 //Text $1B9CC0
 #WRITE(ptr,$191F48)
 [Sign_3]Fried Rice[END]
+
 
 //Text $1B9C60
 #WRITE(ptr,$191F4C)
@@ -5218,9 +6251,11 @@ Strap with Fried Rice[LINE]
 Rice fried in oil with meat and[LINE]
 vegetables. Simple but filling.[END]
 
+
 //Text $1B9C20
 #WRITE(ptr,$191F78)
 [Sign_3]Omelette Rice[END]
+
 
 //Text $1B9BC0
 #WRITE(ptr,$191F7C)
@@ -5228,9 +6263,11 @@ Strap with Omelette Rice.[LINE]
 Ketchuppy Rice folded in an Omelette.[LINE]
 A favorite of children.[END]
 
+
 //Text $1B9B78
 #WRITE(ptr,$191FA8)
 [Sign_3]Curry Rice[END]
+
 
 //Text $1B9B18
 #WRITE(ptr,$191FAC)
@@ -5238,9 +6275,11 @@ Strap with Curry Rice.[LINE]
 Made with apple and honey. Sweet[LINE]
 but slightly spicy. Tastes like home.[END]
 
+
 //Text $1B9AE0
 #WRITE(ptr,$191FD8)
 [Sign_3]Omelette[END]
+
 
 //Text $1B9A78
 #WRITE(ptr,$191FDC)
@@ -5248,9 +6287,11 @@ Strap with Minced Meat Omelette.[LINE]
 A fusion between Minced Meat Rice and Omelette[LINE]
 Rice. Voluminous and extravagant in taste.[END]
 
+
 //Text $1B9A40
 #WRITE(ptr,$192008)
 [Sign_3]Paella[END]
+
 
 //Text $1B99E0
 #WRITE(ptr,$19200C)
@@ -5258,9 +6299,11 @@ Strap with a Paella.[LINE]
 Contains rice, meat, and seafood,[LINE]
 stewed with olive oil and saffron.[END]
 
+
 //Text $1B99A0
 #WRITE(ptr,$192038)
 [Sign_3]Oriental Rice[END]
+
 
 //Text $1B9948
 #WRITE(ptr,$19203C)
@@ -5268,9 +6311,11 @@ Strap with Oriental Rice.[LINE]
 Rice with chives and pork rib.[LINE]
 Packed with stamina.[END]
 
+
 //Text $1B9908
 #WRITE(ptr,$192068)
 [Sign_3]Muffin[END]
+
 
 //Text $1B98A8
 #WRITE(ptr,$19206C)
@@ -5278,9 +6323,11 @@ Strap with a Muffin.[LINE]
 Small, round, and puffy sweet pastry.The one[LINE]
 stuffed with fresh cream is recommended.[END]
 
+
 //Text $1B9870
 #WRITE(ptr,$192098)
 [Sign_3]Kimchi[END]
+
 
 //Text $1B9820
 #WRITE(ptr,$19209C)
@@ -5288,9 +6335,11 @@ Strap with Kimchi.[LINE]
 People bad with spicy stuff be cautious.[LINE]
 Has a stimulating smell and taste.[END]
 
+
 //Text $1B97E0
 #WRITE(ptr,$1920C8)
 [Sign_3]Meat Bun[END]
+
 
 //Text $1B9788
 #WRITE(ptr,$1920CC)
@@ -5298,9 +6347,11 @@ Strap with Meat Bun.[LINE]
 Fills the mouth with meat juices when bit into.[LINE]
 The sort of stuff one wants to eat in cold days.[END]
 
+
 //Text $1B9750
 #WRITE(ptr,$1920F8)
 [Sign_3]Loco Moco[END]
+
 
 //Text $1B96F0
 #WRITE(ptr,$1920FC)
@@ -5308,9 +6359,11 @@ Strap with Loco Moco.[LINE]
 Rice topped with steak and a sunny-side[LINE]
 up egg. Simple, but delicious.[END]
 
+
 //Text $1B96B8
 #WRITE(ptr,$192128)
 [Sign_3]Beef Bowl[END]
+
 
 //Text $1B9660
 #WRITE(ptr,$19212C)
@@ -5318,9 +6371,11 @@ Strap with a Beef Bowl.[LINE]
 Rice bowl topped with stewed meat[LINE]
 and green onions. Unforgettable taste.[END]
 
+
 //Text $1B9628
 #WRITE(ptr,$192158)
 [Sign_3]Oyakodon[END]
+
 
 //Text $1B95D0
 #WRITE(ptr,$19215C)
@@ -5328,9 +6383,11 @@ Strap with an Oyakodon.[LINE]
 Rice topped with stewed chicken and[LINE]
 egg in a bowl. Please eat it with rice.[END]
 
+
 //Text $1B9598
 #WRITE(ptr,$192188)
 [Sign_3]Seafood Bowl[END]
+
 
 //Text $1B9538
 #WRITE(ptr,$19218C)
@@ -5338,9 +6395,11 @@ Strap with a Seafood Bowl.[LINE]
 Rice topped with fresh seafood. Its ingredients[LINE]
 change with the seasons. A luxurious dish.[END]
 
+
 //Text $1B94F8
 #WRITE(ptr,$1921B8)
 [Sign_3]Clam Chowder[END]
+
 
 //Text $1B9490
 #WRITE(ptr,$1921BC)
@@ -5348,9 +6407,11 @@ Strap with Clam Chowder.[LINE]
 Soup with simmered clams, bacon,[LINE]
 and vegetables. Wonderful in cold days.[END]
 
+
 //Text $1B9450
 #WRITE(ptr,$1921E8)
 [Sign_3]Risotto[END]
+
 
 //Text $1B93F8
 #WRITE(ptr,$1921EC)
@@ -5358,9 +6419,11 @@ Strap with a Risotto.[LINE]
 Rice, meat, fish, and[LINE]
 mushrooms stir-fried in oil.[END]
 
+
 //Text $1B93B0
 #WRITE(ptr,$192218)
 [Sign_3]Beef Stroganoff[END]
+
 
 //Text $1B9348
 #WRITE(ptr,$19221C)
@@ -5368,9 +6431,11 @@ Strap with Beef Stroganoff.[LINE]
 Beef stewed in sour cream sauce. Has[LINE]
 an extravagant and luxurious flavor.[END]
 
+
 //Text $1B9300
 #WRITE(ptr,$192248)
 [Sign_3]Meat Sauce[END]
+
 
 //Text $1B92A8
 #WRITE(ptr,$19224C)
@@ -5378,9 +6443,11 @@ Strap with Meat Sauce.[LINE]
 Packed with onion and ground[LINE]
 meat. Beware of splashing.[END]
 
+
 //Text $1B9268
 #WRITE(ptr,$192278)
 [Sign_3]Gratin[END]
+
 
 //Text $1B9208
 #WRITE(ptr,$19227C)
@@ -5388,9 +6455,11 @@ Strap with Gratin.[LINE]
 A plethora of ingredients bathed in cheese. The[LINE]
 smell of scorched cheese wets one's appetite.[END]
 
+
 //Text $1B91D0
 #WRITE(ptr,$1922A8)
 [Sign_3]Spaghetti Gratin[END]
+
 
 //Text $1B9178
 #WRITE(ptr,$1922AC)
@@ -5398,9 +6467,11 @@ Strap with Spaghetti Gratin.[LINE]
 Allows one to enjoy Spaghetti and[LINE]
 Gratin at the same time. Give it a try.[END]
 
+
 //Text $1B9140
 #WRITE(ptr,$1922D8)
-[Sign_3]Hamburguer Steak[END]
+[Sign_3]Hamburger Steak[END]
+
 
 //Text $1B90E0
 #WRITE(ptr,$1922DC)
@@ -5408,9 +6479,11 @@ Strap with a Hamburger Steak.[LINE]
 Simmered with carrots.[LINE]
 Well kneaded to deliciousness.[END]
 
+
 //Text $1B9098
 #WRITE(ptr,$192308)
 [Sign_3]Steak[END]
+
 
 //Text $1B9040
 #WRITE(ptr,$19230C)
@@ -5418,9 +6491,11 @@ Strap with a Steak.[LINE]
 Just a grilled slab of meat. One can[LINE]
 feel the splendor of meat coming off it.[END]
 
+
 //Text $1B8FF8
 #WRITE(ptr,$192338)
 [Sign_3]Okonomiyaki[END]
+
 
 //Text $1B8F98
 #WRITE(ptr,$19233C)
@@ -5428,9 +6503,11 @@ Strap with an Okonomiyaki. [LINE]
 Fried batter garnished to one's preferences.[LINE]
 Top it with Nori and and bonito slices.[END]
 
+
 //Text $1B8F60
 #WRITE(ptr,$192368)
 [Sign_3]Sukiyaki[END]
+
 
 //Text $1B8F00
 #WRITE(ptr,$19236C)
@@ -5438,9 +6515,11 @@ Strap with Sukiyaki.[LINE]
 Simmered sweet-salty beef in an[LINE]
 iron pot. Also goes well with rice.[END]
 
+
 //Text $1B8EC8
 #WRITE(ptr,$192398)
 [Sign_3]Sashimi[END]
+
 
 //Text $1B8E70
 #WRITE(ptr,$19239C)
@@ -5448,9 +6527,11 @@ Strap with Sashimi.[LINE]
 Fresh thinly sliced seafood.[LINE]
 Irresistibly tender.[END]
 
+
 //Text $1B8E30
 #WRITE(ptr,$1923C8)
-[Sign_3]Boat Sushi[END]
+[Sign_3]Sushi Boat[END]
+
 
 //Text $1B8DD0
 #WRITE(ptr,$1923CC)
@@ -5458,9 +6539,11 @@ Strap with a Boat Sushi.[LINE]
 Traditionally arranged fresh[LINE]
 seafood. Still alive.[END]
 
+
 //Text $1B8D90
 #WRITE(ptr,$1923F8)
 [Sign_3]Fruit Parfait[END]
+
 
 //Text $1B8D28
 #WRITE(ptr,$1923FC)
@@ -5468,9 +6551,11 @@ Strap with a Fruit Parfait.[LINE]
 Topped with fruits, cream, and[LINE]
 ice cream. Deliciously sweet.[END]
 
+
 //Text $1B8CE8
 #WRITE(ptr,$192428)
 [Sign_3]Fruit Cheese[END]
+
 
 //Text $1B8C80
 #WRITE(ptr,$19242C)
@@ -5478,9 +6563,11 @@ Strap with Fruit Cheese.[LINE]
 Cheese mixed with milk and[LINE]
 mashed fruit. Perfect for a snack![END]
 
+
 //Text $1B8C38
 #WRITE(ptr,$192458)
 [Sign_3]Fruit Tofu[END]
+
 
 //Text $1B8BD8
 #WRITE(ptr,$19245C)
@@ -5488,9 +6575,11 @@ Strap with Fruit Tofu.[LINE]
 Tofu mixed with fruits.[LINE]
 Has an indescribable texture.[END]
 
+
 //Text $1B8BA0
 #WRITE(ptr,$192488)
 [Sign_3]Hot Pot[END]
+
 
 //Text $1B8B48
 #WRITE(ptr,$19248C)
@@ -5498,9 +6587,11 @@ Strap with a Hot Pot.[LINE]
 Meat hot pot. Filled with meat stock.[LINE]
 Leftover soup can be eaten with Udon.[END]
 
+
 //Text $1B8B10
 #WRITE(ptr,$1924B8)
 [Sign_3]Fish Hot Pot[END]
+
 
 //Text $1B8AB8
 #WRITE(ptr,$1924BC)
@@ -5508,18 +6599,22 @@ Strap with a Fish Hot Pot.[LINE]
 Fish hot pot. Filled with fish stock.[LINE]
 Leftover soup can be eaten with Rice.[END]
 
+
 //Text $1B8A78
 #WRITE(ptr,$1924E8)
 [Sign_3]Sunfish Skewers[END]
+
 
 //Text $1B8A30
 #WRITE(ptr,$1924EC)
 Strap with a Sunfish Skewer.[LINE]
 Because eating delicious stuff is important.[END]
 
+
 //Text $1B89F0
 #WRITE(ptr,$192518)
 [Sign_3]Miso Oden[END]
+
 
 //Text $1B8988
 #WRITE(ptr,$19251C)
@@ -5527,9 +6622,11 @@ Strap with Miso Oden.[LINE]
 The sweetness of fine miso sauce spreads[LINE]
 in one's mouth. Goes well with sake.[END]
 
+
 //Text $1B8948
 #WRITE(ptr,$192548)
 [Sign_3]Mabo Curry[END]
+
 
 //Text $1B88E8
 #WRITE(ptr,$19254C)
@@ -5537,9 +6634,11 @@ Strap with Mabo Curry.[LINE]
 A secret handed down by the military. The[LINE]
 utmost harmony between pungent and spicy![END]
 
+
 //Text $1B88A8
 #WRITE(ptr,$192578)
 [Sign_3]Crunchy Riceball[END]
+
 
 //Text $1B8858
 #WRITE(ptr,$19257C)
@@ -5547,9 +6646,11 @@ Strap with a Crunchy Riceball.[LINE]
 People with weak teeth beware.[LINE]
 Tempers one's jaw.[END]
 
+
 //Text $1B8818
 #WRITE(ptr,$1925A8)
 [Sign_3]Dry Sandwich[END]
+
 
 //Text $1B87B8
 #WRITE(ptr,$1925AC)
@@ -5557,9 +6658,11 @@ Strap with a Dry Sandwich.[LINE]
 Eat it as quickly as possible. Getting[LINE]
 it stuck in your throat is inevitable.[END]
 
+
 //Text $1B8778
 #WRITE(ptr,$1925D8)
 [Sign_3]Squashed Burger[END]
+
 
 //Text $1B8710
 #WRITE(ptr,$1925DC)
@@ -5567,19 +6670,23 @@ Strap with a Squashed Burger.[LINE]
 Not much different from a sited-on[LINE]
 burger. Easy to eat.[END]
 
+
 //Text $1B86D8
 #WRITE(ptr,$192608)
-[Sign_3]Coal Dog[END]
+[Sign_3]Burned Dog[END]
+
 
 //Text $1B8680
 #WRITE(ptr,$19260C)
-Strap with a Coal Dog.[LINE]
+Strap with a Burned Dog.[LINE]
 Overcooked! A bitter and[LINE]
 completely burned sausage.[END]
+
 
 //Text $1B8640
 #WRITE(ptr,$192638)
 [Sign_3]Soggy Burrito[END]
+
 
 //Text $1B85E0
 #WRITE(ptr,$19263C)
@@ -5587,9 +6694,11 @@ Strap with a Soggy Burrito.[LINE]
 Left out for too long. Sadly,[LINE]
 the melted cheese solidified.[END]
 
+
 //Text $1B85B0
 #WRITE(ptr,$192668)
 [Sign_3]Half-baked Kebab[END]
+
 
 //Text $1B8550
 #WRITE(ptr,$19266C)
@@ -5597,9 +6706,11 @@ Strap with a Half-baked Kebab.[LINE]
 Please, cook meat properly.[LINE]
 So that you won't hurt your stomach....[END]
 
+
 //Text $1B8518
 #WRITE(ptr,$192698)
 [Sign_3]Dark Bowl[END]
+
 
 //Text $1B84B8
 #WRITE(ptr,$19269C)
@@ -5607,9 +6718,11 @@ Strap with a Dark Bowl.[LINE]
 Dreaded Bowl filled with mystery ingredients.[LINE]
 Some days it's good, some days it's bad.[END]
 
+
 //Text $1B8480
 #WRITE(ptr,$1926C8)
 [Sign_3]Dark Pot[END]
+
 
 //Text $1B8430
 #WRITE(ptr,$1926CC)
@@ -5617,413 +6730,516 @@ Strap with a Dark Pot.[LINE]
 No one knows what's inside it.[LINE]
 Better eaten in the dark.[END]
 
+
 //Text $1BA1B8
 #WRITE(ptr,$191DAC)
 Crispy Nori [END]
+
 
 //Text $1BA1A8
 #WRITE(ptr,$191DB0)
 Collab Crispy Nori [END]
 
+
 //Text $1BA198
 #WRITE(ptr,$191DB4)
 Temaki Sushi[END]
+
 
 //Text $1BA110
 #WRITE(ptr,$191DDC)
 Crispy [END]
 
+
 //Text $1BA0F8
 #WRITE(ptr,$191DE0)
 Collab Crispy [END]
+
 
 //Text $1BA0E0
 #WRITE(ptr,$191DE4)
 Ham and Egg Sandwich[END]
 
+
 //Text $1BA058
 #WRITE(ptr,$191E0C)
 Golden Ratio [END]
+
 
 //Text $1BA048
 #WRITE(ptr,$191E10)
 Collab Golden Ratio [END]
 
+
 //Text $1BA038
 #WRITE(ptr,$191E14)
 Double Burger[END]
+
 
 //Text $1B9FB8
 #WRITE(ptr,$191E3C)
 Double [END]
 
+
 //Text $1B9FA8
 #WRITE(ptr,$191E40)
 Collab Double [END]
+
 
 //Text $1B9F98
 #WRITE(ptr,$191E44)
 Chilli Dog[END]
 
+
 //Text $1B9F20
 #WRITE(ptr,$191E6C)
 Fresh-baked [END]
+
 
 //Text $1B9F10
 #WRITE(ptr,$191E70)
 Collab Fresh-baked [END]
 
+
 //Text $1B9F08
 #WRITE(ptr,$191E74)
 Spring Roll[END]
+
 
 //Text $1B9E90
 #WRITE(ptr,$191E9C)
 Piping Hot [END]
 
+
 //Text $1B9E80
 #WRITE(ptr,$191EA0)
 Collab Piping Hot [END]
+
 
 //Text $1B9E78
 #WRITE(ptr,$191EA4)
 Skewered Chicken[END]
 
+
 //Text $1B9E08
 #WRITE(ptr,$191ECC)
 Amazing [END]
+
 
 //Text $1B9DF8
 #WRITE(ptr,$191ED0)
 Collab Amazing [END]
 
+
 //Text $1B9DE8
 #WRITE(ptr,$191ED4)
 Kitsune Udon[END]
+
 
 //Text $1B9D88
 #WRITE(ptr,$191EFC)
 Thousand-night overnight [END]
 
+
 //Text $1B9D78
 #WRITE(ptr,$191F00)
 Collab Thousand-night overnight [END]
+
 
 //Text $1B9D68
 #WRITE(ptr,$191F04)
 Miso-pickled [END]
 
+
 //Text $1B9CF0
 #WRITE(ptr,$191F2C)
 Cutlet [END]
+
 
 //Text $1B9CE0
 #WRITE(ptr,$191F30)
 Collab Cutlet [END]
 
+
 //Text $1B9CD0
 #WRITE(ptr,$191F34)
 Sake Chazuke[END]
+
 
 //Text $1B9C50
 #WRITE(ptr,$191F5C)
 Crumbly [END]
 
+
 //Text $1B9C40
 #WRITE(ptr,$191F60)
 Collab Crumbly [END]
+
 
 //Text $1B9C30
 #WRITE(ptr,$191F64)
 Shrimp Pilaf[END]
 
+
 //Text $1B9BB0
 #WRITE(ptr,$191F8C)
 Fluffy [END]
+
 
 //Text $1B9BA0
 #WRITE(ptr,$191F90)
 Collab Fluffy [END]
 
+
 //Text $1B9B90
 #WRITE(ptr,$191F94)
 Crepe[END]
+
 
 //Text $1B9B10
 #WRITE(ptr,$191FBC)
 Spicy [END]
 
+
 //Text $1B9B00
 #WRITE(ptr,$191FC0)
 Collab Spicy [END]
+
 
 //Text $1B9AF0
 #WRITE(ptr,$191FC4)
 Curry Udon[END]
 
+
 //Text $1B9A70
 #WRITE(ptr,$191FEC)
 Unintentionally Stirred [END]
+
 
 //Text $1B9A60
 #WRITE(ptr,$191FF0)
 Collab Unintentionally Stirred [END]
 
+
 //Text $1B9A50
 #WRITE(ptr,$191FF4)
 Cheese Omelette[END]
+
 
 //Text $1B99D8
 #WRITE(ptr,$19201C)
 Mountain Vegetable [END]
 
+
 //Text $1B99C8
 #WRITE(ptr,$192020)
 Collab Mountain Vegetable [END]
+
 
 //Text $1B99B8
 #WRITE(ptr,$192024)
 Hodgepodge Ramen[END]
 
+
 //Text $1B9940
 #WRITE(ptr,$19204C)
 Brave [END]
+
 
 //Text $1B9930
 #WRITE(ptr,$192050)
 Collab Brave [END]
 
+
 //Text $1B9918
 #WRITE(ptr,$192054)
 Ginger Pork[END]
+
 
 //Text $1B98A0
 #WRITE(ptr,$19207C)
 Muffled [END]
 
+
 //Text $1B9890
 #WRITE(ptr,$192080)
 Collab Muffled [END]
+
 
 //Text $1B9880
 #WRITE(ptr,$192084)
 Steamed Bun[END]
 
+
 //Text $1B9818
 #WRITE(ptr,$1920AC)
 Extra Spicy [END]
+
 
 //Text $1B9808
 #WRITE(ptr,$1920B0)
 Collab Extra Spicy [END]
 
+
 //Text $1B97F0
 #WRITE(ptr,$1920B4)
 Kimchi Fried Rice[END]
+
 
 //Text $1B9780
 #WRITE(ptr,$1920DC)
 Twice Cooked [END]
 
+
 //Text $1B9770
 #WRITE(ptr,$1920E0)
 Collab Twice Cooked [END]
+
 
 //Text $1B9760
 #WRITE(ptr,$1920E4)
 Curry Bun[END]
 
+
 //Text $1B96E8
 #WRITE(ptr,$19210C)
 Rolling [END]
+
 
 //Text $1B96D8
 #WRITE(ptr,$192110)
 Collab Rolling [END]
 
+
 //Text $1B96C8
 #WRITE(ptr,$192114)
 Rice burger[END]
+
 
 //Text $1B9658
 #WRITE(ptr,$19213C)
 Super-sized [END]
 
+
 //Text $1B9648
 #WRITE(ptr,$192140)
 Collab Super-sized [END]
+
 
 //Text $1B9638
 #WRITE(ptr,$192144)
 Sunfish Bowl[END]
 
+
 //Text $1B95C8
 #WRITE(ptr,$19216C)
 Second Generation [END]
+
 
 //Text $1B95B8
 #WRITE(ptr,$192170)
 Collab Second Generation [END]
 
+
 //Text $1B95A8
 #WRITE(ptr,$192174)
 Salmon Roe Bowl[END]
+
 
 //Text $1B9528
 #WRITE(ptr,$19219C)
 Exceptional [END]
 
+
 //Text $1B9518
 #WRITE(ptr,$1921A0)
 Collab Exceptional [END]
+
 
 //Text $1B9510
 #WRITE(ptr,$1921A4)
 Sea Urchin Bowl[END]
 
+
 //Text $1B9480
 #WRITE(ptr,$1921CC)
 Rich [END]
+
 
 //Text $1B9470
 #WRITE(ptr,$1921D0)
 Collab Rich [END]
 
+
 //Text $1B9460
 #WRITE(ptr,$1921D4)
 Beef Stew[END]
+
 
 //Text $1B93E8
 #WRITE(ptr,$1921FC)
 Resort [END]
 
+
 //Text $1B93D8
 #WRITE(ptr,$192200)
 Collab Resort [END]
+
 
 //Text $1B93C8
 #WRITE(ptr,$192204)
 Kalpi Gukbap[END]
 
+
 //Text $1B9338
 #WRITE(ptr,$19222C)
 Sticky [END]
+
 
 //Text $1B9328
 #WRITE(ptr,$192230)
 Collab Sticky [END]
 
+
 //Text $1B9318
 #WRITE(ptr,$192234)
 Pork Stew[END]
+
 
 //Text $1B92A0
 #WRITE(ptr,$19225C)
 Deluxe [END]
 
+
 //Text $1B9290
 #WRITE(ptr,$192260)
 Collab Deluxe [END]
+
 
 //Text $1B9278
 #WRITE(ptr,$192264)
 Tomato Spaghetti[END]
 
+
 //Text $1B91F8
 #WRITE(ptr,$19228C)
 Onion [END]
+
 
 //Text $1B91E8
 #WRITE(ptr,$192290)
 Collab Onion [END]
 
+
 //Text $1B91E0
 #WRITE(ptr,$192294)
 Doria[END]
+
 
 //Text $1B9170
 #WRITE(ptr,$1922BC)
 Demi [END]
 
+
 //Text $1B9160
 #WRITE(ptr,$1922C0)
 Collab Demi [END]
+
 
 //Text $1B9150
 #WRITE(ptr,$1922C4)
 Carbonara[END]
 
+
 //Text $1B90D0
 #WRITE(ptr,$1922EC)
 Whole [END]
+
 
 //Text $1B90C0
 #WRITE(ptr,$1922F0)
 Collab Whole [END]
 
+
 //Text $1B90A8
 #WRITE(ptr,$1922F4)
 Cheese Hamburger Steak[END]
+
 
 //Text $1B9030
 #WRITE(ptr,$19231C)
 1 Pound [END]
 
+
 //Text $1B9020
 #WRITE(ptr,$192320)
 Collab 1 Pound [END]
+
 
 //Text $1B9008
 #WRITE(ptr,$192324)
 Diced Steak[END]
 
+
 //Text $1B8F90
 #WRITE(ptr,$19234C)
 かなり[END]
+
 
 //Text $1B8F80
 #WRITE(ptr,$192350)
 コラボかなり[END]
 
+
 //Text $1B8F70
 #WRITE(ptr,$192354)
 Takoyaki[END]
+
 
 //Text $1B8EF8
 #WRITE(ptr,$19237C)
 Splendid [END]
 
+
 //Text $1B8EE8
 #WRITE(ptr,$192380)
 Collab Splendid [END]
+
 
 //Text $1B8ED8
 #WRITE(ptr,$192384)
 Sizzling [END]
 
+
 //Text $1B8E68
 #WRITE(ptr,$1923AC)
 Big [END]
+
 
 //Text $1B8E58
 #WRITE(ptr,$1923B0)
 Collab Big [END]
 
+
 //Text $1B8E40
 #WRITE(ptr,$1923B4)
 Tuna Belly Riceball[END]
+
 
 //Text $1B8DC8
 #WRITE(ptr,$1923DC)
 Large [END]
 
+
 //Text $1B8DB8
 #WRITE(ptr,$1923E0)
 Collab Large [END]
 
+
 //Text $1B8DA8
 #WRITE(ptr,$1923E4)
 First-class Riceball[END]
+
 
 //Text $1B8D20
 #WRITE(ptr,$19240C)
@@ -6033,597 +7249,732 @@ Wonderful[ END]
 #WRITE(ptr,$192410)
 Collab Wonderful [END]
 
+
 //Text $1B8D00
 #WRITE(ptr,$192414)
 Fruit Salad[END]
+
 
 //Text $1B8C70
 #WRITE(ptr,$19243C)
 Beautiful [END]
 
+
 //Text $1B8C60
 #WRITE(ptr,$192440)
 Collab Beautiful [END]
+
 
 //Text $1B8C50
 #WRITE(ptr,$192444)
 Smoked Cheese[END]
 
+
 //Text $1B8BD0
 #WRITE(ptr,$19246C)
 Powerful [END]
+
 
 //Text $1B8BC0
 #WRITE(ptr,$192470)
 Collab Powerful [END]
 
+
 //Text $1B8BB0
 #WRITE(ptr,$192474)
 Tofu Steak[END]
+
 
 //Text $1B8B40
 #WRITE(ptr,$19249C)
 Fish [END]
 
+
 //Text $1B8B30
 #WRITE(ptr,$1924A0)
 Collab Fish [END]
+
 
 //Text $1B8B20
 #WRITE(ptr,$1924A4)
 Miso Stewed[END]
 
+
 //Text $1B8AB0
 #WRITE(ptr,$1924CC)
 Deep Sea [END]
+
 
 //Text $1B8AA0
 #WRITE(ptr,$1924D0)
 Collab Deep Sea [END]
 
+
 //Text $1B8A90
 #WRITE(ptr,$1924D4)
 Fish Sausage[END]
+
 
 //Text $1B8A28
 #WRITE(ptr,$1924FC)
 Gravid [END]
 
+
 //Text $1B8A18
 #WRITE(ptr,$192500)
 Collab Gravid [END]
+
 
 //Text $1B8A00
 #WRITE(ptr,$192504)
 Deep-fried Sunfish[END]
 
+
 //Text $1B8980
 #WRITE(ptr,$19252C)
 Combined [END]
+
 
 //Text $1B8970
 #WRITE(ptr,$192530)
 Collab Combined [END]
 
+
 //Text $1B8960
 #WRITE(ptr,$192534)
 Miso Skewer[END]
+
 
 //Text $1B88E0
 #WRITE(ptr,$19255C)
 Delicious [END]
 
+
 //Text $1B88D0
 #WRITE(ptr,$192560)
 Collab Delicious [END]
+
 
 //Text $1B88C0
 #WRITE(ptr,$192564)
 Mabo Tofu[END]
 
+
 //Text $1B8850
 #WRITE(ptr,$19258C)
 Bright [END]
+
 
 //Text $1B8840
 #WRITE(ptr,$192590)
 Collab Bright [END]
 
+
 //Text $1B8830
 #WRITE(ptr,$192594)
 Fried Riceball[END]
+
 
 //Text $1B87B0
 #WRITE(ptr,$1925BC)
 Dry [END]
 
+
 //Text $1B87A0
 #WRITE(ptr,$1925C0)
 Collab Dry [END]
+
 
 //Text $1B8790
 #WRITE(ptr,$1925C4)
 Cracker[END]
 
+
 //Text $1B8708
 #WRITE(ptr,$1925EC)
 Non-[END]
+
 
 //Text $1B86F8
 #WRITE(ptr,$1925F0)
 Collab Non-[END]
 
+
 //Text $1B86E8
 #WRITE(ptr,$1925F4)
 Cutlet Sandwich[END]
+
 
 //Text $1B8678
 #WRITE(ptr,$19261C)
 Activated [END]
 
+
 //Text $1B8668
 #WRITE(ptr,$192620)
 Collab Activated [END]
+
 
 //Text $1B8658
 #WRITE(ptr,$192624)
 Well-done Hot Dog[END]
 
+
 //Text $1B85D8
 #WRITE(ptr,$19264C)
 Longed-for [END]
+
 
 //Text $1B85C8
 #WRITE(ptr,$192650)
 Collab Longed-for [END]
 
+
 //Text $1B85C0
 #WRITE(ptr,$192654)
 Naan[END]
+
 
 //Text $1B8548
 #WRITE(ptr,$19267C)
 Half-[END]
 
+
 //Text $1B8538
 #WRITE(ptr,$192680)
 Collab Half-[END]
+
 
 //Text $1B8528
 #WRITE(ptr,$192684)
 Barbecue[END]
 
+
 //Text $1B84B0
 #WRITE(ptr,$1926AC)
 Light and [END]
+
 
 //Text $1B84A0
 #WRITE(ptr,$1926B0)
 Collab Light and [END]
 
+
 //Text $1B8490
 #WRITE(ptr,$1926B4)
 Ultimate Dark Pot[END]
+
 
 //Text $1B8428
 #WRITE(ptr,$1926DC)
 Pure [END]
 
+
 //Text $1B8418
 #WRITE(ptr,$1926E0)
 Collab Pure [END]
 
+
 //Text $1B8408
 #WRITE(ptr,$1926E4)
 Supreme Dark Bowl[END]
+
+
 //Section Key
 
 //Text $1BAFD0
 #WRITE(ptr,$192714)
 [Sign_Key]World Map[END]
 
+
 //Text $1BAF80
 #WRITE(ptr,$192718)
-世界を旅する者には欠かせない地図。[LINE]
-フィールドを移動中、[LINE]
-[R3_ani]ボタンで起動する。[END]
+Maps are essential for travelers.[LINE]
+While on the field, press[LINE]
+[R3_ani] to activate it.[END]
+
 
 //Text $1BAF68
 #WRITE(ptr,$192730)
 [Sign_Key]Monster Book[END]
 
+
 //Text $1BAF10
 #WRITE(ptr,$192734)
-今までの戦った敵をまとめた図鑑。[LINE]
-戦闘中[R1_copy]を押した状態で[LINE]
-[Circle_ani2]でも起動できる。[END]
+An encyclopedia of enemies you've encountered.[LINE]
+In battle, hold [R1_copy] and press[LINE]
+[Circle_ani2] to view the enemy's entry.[END]
+
 
 //Text $1BAF00
 #WRITE(ptr,$19274C)
 [Sign_Key]Food Book[END]
 
+
 //Text $1BAED0
 #WRITE(ptr,$192750)
-今まで食べたことのある[LINE]
-料理が載った図鑑。[LINE]
+A record of all the foods[LINE]
+we've eaten.[LINE]
 [END]
+
 
 //Text $1BAEB8
 #WRITE(ptr,$192768)
 [Sign_Key]Discovery Book[END]
 
+
 //Text $1BAE70
 #WRITE(ptr,$19276C)
-世界中で発見したものをまとめた[LINE]
-図鑑。[LINE]
-旅の途中で出会った思い出の記録。[END]
+An encyclopedia of all the things[LINE]
+we found in the world.[LINE]
+A record of our encounters while traveling.[END]
+
 
 //Text $1BAE58
 #WRITE(ptr,$192784)
 [Sign_Key]Collector's Book[END]
 
+
 //Text $1BAE00
 #WRITE(ptr,$192788)
-入手したことのあるアイテムが[LINE]
-載った図鑑。全部集めれば何か[LINE]
-いいことがあるかも……[END]
+An encyclopedia of all items we've[LINE]
+obtained. If you finish the book,[LINE]
+something good might happen...[END]
+
 
 //Text $1BADE8
 #WRITE(ptr,$1927A0)
 [Sign_Key]Summary Book[END]
 
+
 //Text $1BADB8
 #WRITE(ptr,$1927A4)
-ここまでの物語のあらすじを読む事[LINE]
-ができる本。[LINE]
+A record of the story so far.[LINE]
 [END]
+
 
 //Text $1BADA0
 #WRITE(ptr,$1927BC)
 [Sign_Key]MANUAL Manual[END]
 
+
 //Text $1BAD48
 #WRITE(ptr,$1927C0)
-移動・攻撃を自分で行う操作[LINE]
-「マニュアル」が術技メニューから[LINE]
-選択可能になる戦術書。[END]
+A tome that allows you to select[LINE]
+[Manual] on the artes menu. You[LINE]
+can move and attack freely.[END]
+
 
 //Text $1BAD30
 #WRITE(ptr,$1927D8)
 [Sign_Key]Battle Record[END]
 
+
 //Text $1BACD8
 #WRITE(ptr,$1927DC)
-カスタム設定でモンスター図鑑の[LINE]
-ディフィニットストライク表示を[LINE]
-変更できる戦術書。[END]
+A book that let's you change[LINE]
+the display of Definite Strikes[LINE]
+in the Monster Book.[END]
+
 
 //Text $1BACC0
 #WRITE(ptr,$1927F4)
 [Sign_Key]Sorcerer's Ring[END]
 
+
 //Text $1BAC80
 #WRITE(ptr,$1927F8)
-レンズの力で強い熱を発射する指輪。[LINE]
-[Square_ani]ボタンで発射する。[LINE]
+A ring that shoots heat by consuming[LINE]
+lens. Fire with [Square_ani].[LINE]
 [END]
+
 
 //Text $1BAC68
 #WRITE(ptr,$192810)
 [Sign_Key]Dowsing Rod[END]
 
+
 //Text $1BAC18
 #WRITE(ptr,$192814)
-かくれた気配を探り当てる占い棒。[LINE]
-フィールド移動中に[R2_ani]ボタンで[LINE]
-起動する。[END]
+A divine rod that detects hidden signs.[LINE]
+Activate it by pressing [R2_ani] on[LINE]
+the field.[END]
+
 
 //Text $1BAC00
 #WRITE(ptr,$19282C)
 [Sign_Key]Food Sack S[END]
 
+
 //Text $1BAB98
 #WRITE(ptr,$192830)
-自動的に料理が出てくる不思議な袋。[LINE]
-フード補充し忘れに注意しよう！[LINE]
-フードストラップを４個装着可能。[END]
+A mysterious bag that serves food.[LINE]
+Don't forget to refill it![LINE]
+4 food straps can be attached.[END]
+
 
 //Text $1BAB80
 #WRITE(ptr,$192848)
 [Sign_Key]Food Sack M[END]
 
+
 //Text $1BAB38
 #WRITE(ptr,$19284C)
-買い物などにも便利な[LINE]
-肩掛けのバッグ。[LINE]
-フードストラップを６個装着可能。[END]
+A convenient shoulder bag used for [LINE]
+shopping and other activities.[LINE]
+6 food straps can be attached.[END]
+
 
 //Text $1BAB20
 #WRITE(ptr,$192864)
 [Sign_Key]Food Sack L[END]
 
+
 //Text $1BAAD8
 #WRITE(ptr,$192868)
-長旅にも安心なリュックサック。[LINE]
-フードストラップを８個装着可能。[LINE]
+A backpack for long journeys.[LINE]
+8 food straps can be attached.[LINE]
 [END]
+
 
 //Text $1BAAC0
 #WRITE(ptr,$192880)
 [Sign_Key]Food Sack XL[END]
 
+
 //Text $1BAA78
 #WRITE(ptr,$192884)
-背負えるように改造された大型の箱。[LINE]
-フードストラップを１６個装着可能。[LINE]
+A remodeled box that works[LINE]
+like a backpack.[LINE]
+16 food straps can be attached.[LINE]
 [END]
+
 
 //Text $1BAA68
 #WRITE(ptr,$19289C)
 [Sign_Key]Passport[END]
 
+
 //Text $1BAA18
 #WRITE(ptr,$1928A0)
-セインガルドからファンダリアへ[LINE]
-入るために必要な通行証。[LINE]
-これがないと大変……[END]
+A pass that's required to enter[LINE]
+Phandaria from Seingald.[LINE]
+It's tough without one...[END]
+
 
 //Text $1BAA08
 #WRITE(ptr,$1928B8)
 [Sign_Key]Pickaxe[END]
 
+
 //Text $1BA9B8
 #WRITE(ptr,$1928BC)
-堅い土地を掘り起こすのに使う道具。[LINE]
-先端の両端がくちばしのように[LINE]
-とがっている。[END]
+A tool used to dig up hard[LINE]
+ground. Both of its ends are[LINE]
+pointed like a beak.[END]
+
 
 //Text $1BA9A8
 #WRITE(ptr,$1928D4)
 [Sign_Key]Horn[END]
 
+
 //Text $1BA968
 #WRITE(ptr,$1928D8)
-動物の角で作ったラッパ。[LINE]
-海の近くで使うと海竜が呼べる。[LINE]
+A trumpet made out of animal horns.[LINE]
+Use it near the sea to call the sea dragon.[LINE]
 [END]
+
 
 //Text $1BA958
 #WRITE(ptr,$1928F0)
 [Sign_Key]R Key[END]
 
+
 //Text $1BA928
 #WRITE(ptr,$1928F4)
-ラディスロウの機能を[LINE]
-復活させるための装置。[LINE]
+A device to restore[LINE]
+Radisrol's functions.[LINE]
 [END]
+
 
 //Text $1BA910
 #WRITE(ptr,$19290C)
 [Sign_Key]Energy Unit[END]
 
+
 //Text $1BA8D0
 #WRITE(ptr,$192910)
-アンスズーンのメインシステムに[LINE]
-エネルギーを供給するユニット。[LINE]
+A unit that supplies energy[LINE]
+to Deimos' main system.[LINE]
 [END]
+
 
 //Text $1BA8B8
 #WRITE(ptr,$192928)
 [Sign_Key]Red Card Key[END]
 
+
 //Text $1BA880
 #WRITE(ptr,$19292C)
-ヘルレイオスの扉を[LINE]
-開けるための赤色カードキー。[LINE]
+A red key card that opens[LINE]
+a door in Helraios.[LINE]
 [END]
+
 
 //Text $1BA868
 #WRITE(ptr,$192944)
 [Sign_Key]Blue Card Key[END]
 
+
 //Text $1BA830
 #WRITE(ptr,$192948)
-ヘルレイオスの扉を[LINE]
-開けるための青色カードキー。[LINE]
+A blue key card that opens[LINE]
+a door in Helraios.[LINE]
 [END]
+
 
 //Text $1BA818
 #WRITE(ptr,$192960)
 [Sign_Key]Yellow Card Key[END]
 
+
 //Text $1BA7E0
 #WRITE(ptr,$192964)
-ヘルレイオスの扉を[LINE]
-開けるための黄色カードキー。[LINE]
+A yellow key card that opens[LINE]
+a door in Helraios.[LINE]
 [END]
+
 
 //Text $1BA7C8
 #WRITE(ptr,$19297C)
 [Sign_Key]Grey Card Key[END]
 
+
 //Text $1BA790
 #WRITE(ptr,$192980)
-ヘルレイオスの扉を[LINE]
-開けるための灰色カードキー。[LINE]
+A grey key card that opens[LINE]
+a door in Helraios.[LINE]
 [END]
+
 
 //Text $1BA770
 #WRITE(ptr,$192998)
 [Sign_Key]Mirror Shield Switch[END]
 
+
 //Text $1BA748
 #WRITE(ptr,$19299C)
-鏡面バリアーを中和するための装置。[LINE]
-[LINE]
+A device to neutralize the[LINE]
+Mirror Shield.[LINE]
 [END]
+
 
 //Text $1BA730
 #WRITE(ptr,$1929B4)
 [Sign_Key]Belselium[END]
 
+
 //Text $1BA6F8
 #WRITE(ptr,$1929B8)
-生体金属の原料の青い鉱石。[LINE]
-飛行竜を直すのに必要。[LINE]
+A blue ore that is a source for bio-metals.[LINE]
+Necessary to fix the Draconis.[LINE]
 [END]
+
 
 //Text $1BA6E0
 #WRITE(ptr,$1929D0)
 [Sign_Key]Belselium Mass[END]
 
+
 //Text $1BA6A0
 #WRITE(ptr,$1929D4)
-生体金属の原料の青い鉱石。[LINE]
-飛行竜を直すのに十分な量がある。[LINE]
+A blue ore that is a source for bio-metals.[LINE]
+There is enough to fix the Draconis.[LINE]
 [END]
+
 
 //Text $1BA688
 #WRITE(ptr,$1929EC)
 [Sign_Key]Industrial Lens[END]
 
+
 //Text $1BA638
 #WRITE(ptr,$1929F0)
-集積レンズ砲の出力を確保するため[LINE]
-にフィッツガルドの人たちが集めた[LINE]
-レンズ。[END]
+Lens collected by the people[LINE]
+of Fitzgald to operate the[LINE]
+Lens Cannon.[END]
+
 
 //Text $1BA620
 #WRITE(ptr,$192A08)
 [Sign_Key]Glacial Lens[END]
 
+
 //Text $1BA5D0
 #WRITE(ptr,$192A0C)
-集積レンズ砲の出力を確保するため[LINE]
-にファンダリアの人たちが集めた[LINE]
-レンズ。[END]
+Lens collected by the people[LINE]
+of Phandaria to operate the[LINE]
+Lens Cannon.[END]
+
 
 //Text $1BA5B8
 #WRITE(ptr,$192A24)
 [Sign_Key]Island Lens[END]
 
+
 //Text $1BA568
 #WRITE(ptr,$192A28)
-集積レンズ砲の出力を確保するため[LINE]
-にアクアヴェイルの人たちが集めた[LINE]
-レンズ。[END]
+Lens collected by the people[LINE]
+of Aquaveil to operate the[LINE]
+Lens Cannon.[END]
+
 
 //Text $1BA550
 #WRITE(ptr,$192A40)
 [Sign_Key]Desert Lens[END]
 
+
 //Text $1BA500
 #WRITE(ptr,$192A44)
-集積レンズ砲の出力を確保するため[LINE]
-にカルバレイスの人たちが集めた[LINE]
-レンズ。[END]
+Lens collected by the people[LINE]
+of Calvalese to operate the[LINE]
+Lens Cannon.[END]
+
 
 //Text $1BA4E8
 #WRITE(ptr,$192A5C)
 [Sign_Key]Arcana Key[END]
 
+
 //Text $1BA4B0
 #WRITE(ptr,$192A60)
-ＥＸダンジョン「アルカナルイン」[LINE]
-に入るための鍵。[LINE]
+The key to enter the EX[LINE]
+Dungeon [Arcana Ruins].[LINE]
 [END]
+
 
 //Text $1BA4A0
 #WRITE(ptr,$192A78)
 [Sign_Lens5]Rough Lens[END]
 
+
 //Text $1BA470
 #WRITE(ptr,$192A7C)
-傷のついたレンズ。[LINE]
-安価ではあるが取引は可能。[LINE]
+Scratched lens.[LINE]
+It's not worth much, but tradeable.[LINE]
 [END]
+
 
 //Text $1BA458
 #WRITE(ptr,$192A94)
 [Sign_Lens4]Clear Lens[END]
 
+
 //Text $1BA418
 #WRITE(ptr,$192A98)
-傷のない精錬されたレンズ。[LINE]
-一般的にレンズといえばこれ。[LINE]
+Refined lens with no scratches.[LINE]
+This is the common type of lens.[LINE]
 [END]
+
 
 //Text $1BA400
 #WRITE(ptr,$192AB0)
 [Sign_Lens3]Blue Lens[END]
 
+
 //Text $1BA3B0
 #WRITE(ptr,$192AB4)
-やや珍しい、濃い青色のレンズ。[LINE]
-高価な家具などの飾りに[LINE]
-用いることもある。[END]
+A rare, dark blue lens.[LINE]
+Sometimes used to decorate[LINE]
+valuable furniture.[END]
+
 
 //Text $1BA3A0
 #WRITE(ptr,$192ACC)
 [Sign_Lens2]Tough Lens[END]
 
+
 //Text $1BA360
 #WRITE(ptr,$192AD0)
-非常に強度の高いレンズ。[LINE]
-軍事用装甲などにも用いられる。[LINE]
+A very durable lens.[LINE]
+It is used in military armor.[LINE]
 [END]
+
 
 //Text $1BA348
 #WRITE(ptr,$192AE8)
 [Sign_Lens1]Sphere Lens[END]
 
+
 //Text $1BA300
 #WRITE(ptr,$192AEC)
-完全球体の非常に珍しいレンズ。[LINE]
-富裕層のステータスとして扱われる。[LINE]
+A very rare lens that is spherical.[LINE]
+It is a symbol for the wealthy.[LINE]
 [END]
+
 
 //Text $1BA2F0
 #WRITE(ptr,$192B04)
 [Sign_Key]Valve[END]
 
+
 //Text $1BA2C0
 #WRITE(ptr,$192B08)
-モリュウ城の給水装置を[LINE]
-調節するためのバルブ。[LINE]
+A valve that regulate the water[LINE]
+supply system in Moreau Castle.[LINE]
 [END]
+
 
 //Text $1BA2A8
 #WRITE(ptr,$192B20)
 [Sign_Key]Lithograph - Sky[END]
 
+
 //Text $1BA270
 #WRITE(ptr,$192B24)
-何かの紋章が書かれている石版。[LINE]
-不思議な力を感じる……[LINE]
+A tablet with some kind of[LINE]
+emblem on it.[LINE]
+I feel a mysterious power...[LINE]
 [END]
+
 
 //Text $1BA258
 #WRITE(ptr,$192B3C)
 [Sign_Key]Lithograph - Earth[END]
 
+
 //Text $1BA270
 #WRITE(ptr,$192B40)
-何かの紋章が書かれている石版。[LINE]
-不思議な力を感じる……[LINE]
+A tablet with some kind of[LINE]
+emblem on it.[LINE]
+I feel a mysterious power...[LINE]
 [END]
+
 
 //Text $1BA240
 #WRITE(ptr,$192B58)
 [Sign_Key]Lithograph - God[END]
 
+
 //Text $1BA270
 #WRITE(ptr,$192B5C)
-何かの紋章が書かれている石版。[LINE]
-不思議な力を感じる……[LINE]
+A tablet with some kind of[LINE]
+emblem on it.[LINE]
+I feel a mysterious power...[LINE]
 [END]
+
 
 //Text $1BA228
 #WRITE(ptr,$192B74)
 [Sign_Key]Lithograph - Light[END]
 
+
 //Text $1BA270
 #WRITE(ptr,$192B78)
-何かの紋章が書かれている石版。[LINE]
-不思議な力を感じる……[LINE]
+A tablet with some kind of[LINE]
+emblem on it.[LINE]
+I feel a mysterious power...[LINE]
 [END]
+
+
