@@ -12,7 +12,7 @@ namespace sceWork
 
         public void Dispose() => this.mainSfa.Dispose();
 
-        public int Count => this.header.str.Count;
+        public int Count => this.header.fileStrings.Count;
 
         public sceModule(string fileName)
         {
@@ -20,22 +20,21 @@ namespace sceWork
             this.header = new sceHeader(this.mainSfa);
         }
 
-        public byte[] GetBlock(int idx) => this.header.str[idx].data.ToArray();
+        public byte[] GetBlock(int idx) => this.header.fileStrings[idx].data.ToArray();
 
         public string GetStringBlock(int idx)
         {
             string str = "";
-            for (int index = 0; index < this.header.str[idx].data.Count; ++index)
-                str += this.header.str[idx].data[index].ToString("X2");
+            for (int index = 0; index < this.header.fileStrings[idx].data.Count; ++index)
+                str += this.header.fileStrings[idx].data[index].ToString("X2");
             return str;
         }
 
-
         public void SetBlock(int idx, byte[] data)
         {
-            this.header.str[idx].data.Clear();
+            this.header.fileStrings[idx].data.Clear();
             for (int index = 0; index < data.Length; ++index)
-                this.header.str[idx].data.Add(data[index]);
+                this.header.fileStrings[idx].data.Add(data[index]);
         }
 
         public void SetStringBlock(int idx, string str)
@@ -46,17 +45,17 @@ namespace sceWork
             this.SetBlock(idx, byteList.ToArray());
         }
 
-        public void Save() => this.header.WriteStrings(this.mainSfa);
+        public void Save() => header.WriteStrings(mainSfa);
 
-        public bool isHaveText() => this.mainSfa.LengthStream - (long)this.header.offsetStrings > 2L;
+        public bool isHaveText() => mainSfa.LengthStream - header.offsetStrings > 2L;
 
         public void ExtractBlocks()
         {
-            for (int index1 = 0; index1 < this.header.str.Count; ++index1)
+            for (int index1 = 0; index1 < header.fileStrings.Count; ++index1)
             {
-                byte[] bytes = new byte[this.header.str[index1].data.Count];
+                byte[] bytes = new byte[header.fileStrings[index1].data.Count];
                 for (int index2 = 0; index2 < bytes.Length; ++index2)
-                    bytes[index2] = this.header.str[index1].data[index2];
+                    bytes[index2] = header.fileStrings[index1].data[index2];
                 File.WriteAllBytes(index1.ToString(), bytes);
             }
         }
