@@ -9387,7 +9387,7 @@ slash damage by half.[LINE]
 #WRITE(ptr,$18D384)
 Rerise into a gem that reduces[LINE]
 strike damage by half.[LINE]
-宝石に変化する。[END]
+[END]
 
 
 //Text $1AD110
@@ -9399,7 +9399,7 @@ strike damage by half.[LINE]
 #WRITE(ptr,$18D3A0)
 Rerise into a gem that reduces[LINE]
 shot damage by half.[LINE]
-宝石に変化する。[END]
+[END]
 
 
 //Text $1AD0A0
@@ -9409,9 +9409,9 @@ shot damage by half.[LINE]
 
 //Text $1AD048
 #WRITE(ptr,$18D3BC)
-Rerise into a gem that reduces[LINE]
-sound damage by half.[LINE]
-宝石に変化する。[END]
+Rerise into a gem that[LINE]
+reduces damage by half.[LINE]
+[END]
 
 
 //Text $1AD030
@@ -9421,8 +9421,8 @@ sound damage by half.[LINE]
 
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-攻撃力を一定時間上昇する宝石に[LINE]
+Rerise into a gem that[Square_ani2]＋[Down_blink]で、[LINE]
+temporarily increases P. ATK[LINE]
 変化する。[END]
 
 
@@ -9957,7 +9957,7 @@ damage by half.[LINE]
 //Text $1B0520
 #WRITE(ptr,$18D8C8)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase P. Atk.[LINE]
+temporarily increase P. ATK.[LINE]
 [END]
 
 
@@ -9981,7 +9981,7 @@ temporarily increase M. Atk.[LINE]
 //Text $1B0488
 #WRITE(ptr,$18D900)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase P. Def.[LINE]
+temporarily increase P. DEF.[LINE]
 [END]
 
 
@@ -16162,61 +16162,61 @@ Recovers HP after battle[END]
 
 //Text $1BBA30
 #WRITE(ptr,$194678)
-Prevent Paralysis[END]
+[END]
 
 
 //Text $1BBA20
 #WRITE(ptr,$19467C)
-Prevents Seal[END]
+[END]
 
 
 //Text $1BBA10
 #WRITE(ptr,$194680)
-Slash attribute reduction[END]
+[END]
 
 
 //Text $1BBA00
 #WRITE(ptr,$194684)
-Strike attribute reduction[END]
+[END]
 
 
 //Text $1BB9F0
 #WRITE(ptr,$194688)
-Ranged attribute reduction[END]
+[END]
 
 
 //Text $1BB9E0
 #WRITE(ptr,$19468C)
-Sound attribute reductionEND]
+END]
 
 //Text $1BB9D0
 #WRITE(ptr,$194690)
-Earth attribute reduction[END]
+[END]
 
 
 //Text $1BB9C0
 #WRITE(ptr,$194694)
-Wind attribute reduction[END]
+[END]
 
 
 //Text $1BB9B0
 #WRITE(ptr,$194698)
-Fire attribute reduction[END]
+[END]
 
 
 //Text $1BB9A0
 #WRITE(ptr,$19469C)
-Water attribute reduction[END]
+[END]
 
 
 //Text $1BB990
 #WRITE(ptr,$1946A0)
-Light attribute reduction[END]
+[END]
 
 
 //Text $1BB980
 #WRITE(ptr,$1946A4)
-Dark attribute reduction[END]
+[END]
 
 
 //Text $1BB968
@@ -16869,7 +16869,6 @@ hoping that everyone will be happy.[END]
 #WRITE(ptr,$194898)
 Sword and bow warrior[END]
 
-#JMP($1BB628)
 //POINTER #125 @ $19489C - STRING #125 @ $1BDC30
 #WRITE(ptr,$19489C)
 An all-rounder wielding sword and bow,[LINE]
@@ -16901,6 +16900,7 @@ Beloved by his peers.[END]
 #WRITE(ptr,$1948B0)
 Royal Aura[END]
 
+#JMP($1BB628)
 //POINTER #131 @ $1948B4 - STRING #131 @ $1BDAF8
 #WRITE(ptr,$1948B4)
 One with a truly noble aura.[LINE]
