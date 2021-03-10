@@ -733,7 +733,8 @@ Attack the enemy with spinning slashes.[LINE]
 
 //Text $1A0D80
 #WRITE(ptr,$183090)
-Shear the enemy with a vacuum formed by the spinning blades.[LINE]
+Shear the enemy with a vacuum formed[LINE]
+by spinning slashes.[LINE]
 [END]
 
 

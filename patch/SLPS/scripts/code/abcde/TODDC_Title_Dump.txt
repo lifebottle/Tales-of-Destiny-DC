@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -11,347 +11,432 @@
 
 //Text $1BB920
 #WRITE(ptr,$194274)
-おにぎり[END]
+Riceball[END]
+
 
 //Text $1BB908
 #WRITE(ptr,$194288)
-サンドイッチ[END]
+Sandwich[END]
+
 
 //Text $1BB8F8
 #WRITE(ptr,$19429C)
-ハンバーガー[END]
+Hamburger[END]
+
 
 //Text $1BB8E8
 #WRITE(ptr,$1942B0)
-ホットドッグ[END]
+Hot Dog[END]
+
 
 //Text $1BB8D8
 #WRITE(ptr,$1942C4)
-ブリトー[END]
+Burrito[END]
+
 
 //Text $1BB8D0
 #WRITE(ptr,$1942D8)
-ケバブ[END]
+Kebab[END]
+
 
 //Text $1BB8C0
 #WRITE(ptr,$1942EC)
-いなり寿司[END]
+Inarizushi[END]
+
 
 //Text $1BB8B0
 #WRITE(ptr,$194300)
-一夜漬け[END]
+Pickled Vegetables[END]
+
 
 //Text $1BB8A0
 #WRITE(ptr,$194314)
-お茶漬け[END]
+Ochazuke[END]
+
 
 //Text $1BB890
 #WRITE(ptr,$194328)
-チャーハン[END]
+Fried Rice[END]
+
 
 //Text $1BB880
 #WRITE(ptr,$19433C)
-オムライス[END]
+Omelette Rice[END]
+
 
 //Text $1BB870
 #WRITE(ptr,$194350)
-カレーライス[END]
+Curry Rice[END]
+
 
 //Text $1BB860
 #WRITE(ptr,$194364)
-オムハヤシ[END]
+Omelette[END]
+
 
 //Text $1BB850
 #WRITE(ptr,$194378)
-パエリア[END]
+Paella[END]
+
 
 //Text $1BB838
 #WRITE(ptr,$19438C)
-オリエンタルライス[END]
+Oriental Rice[END]
+
 
 //Text $1BB828
 #WRITE(ptr,$1943A0)
-マフィン[END]
+Muffin[END]
+
 
 //Text $1BB820
 #WRITE(ptr,$1943B4)
-キムチ[END]
+Kimchi[END]
+
 
 //Text $1BB818
 #WRITE(ptr,$1943C8)
-肉まん[END]
+Meat Bun[END]
+
 
 //Text $1BB808
 #WRITE(ptr,$1943DC)
-ロコモコ[END]
+Loco Moco[END]
+
 
 //Text $1BB800
 #WRITE(ptr,$1943F0)
-牛丼[END]
+Beef Bowl[END]
+
 
 //Text $1BB7F8
 #WRITE(ptr,$194404)
-親子丼[END]
+Oyakodon[END]
+
 
 //Text $1BB7F0
 #WRITE(ptr,$194418)
-海鮮丼[END]
+Seafood Bowl[END]
+
 
 //Text $1BB7D8
 #WRITE(ptr,$19442C)
-クラムチャウダー[END]
+Clam Chowder[END]
+
 
 //Text $1BB7C8
 #WRITE(ptr,$194440)
-リゾット[END]
+Risotto[END]
+
 
 //Text $1BB7B0
 #WRITE(ptr,$194454)
-ビーフストロガノフ[END]
+Beef Stroganoff[END]
+
 
 //Text $1BB7A0
 #WRITE(ptr,$194468)
-ミートソース[END]
+Meat Sauce[END]
+
 
 //Text $1BB790
 #WRITE(ptr,$19447C)
-グラタン[END]
+Gratin[END]
+
 
 //Text $1BB780
 #WRITE(ptr,$194490)
-グラスパ[END]
+Spaghetti Gratin[END]
+
 
 //Text $1BB770
 #WRITE(ptr,$1944A4)
-ハンバーグ[END]
+Hamburger Steak[END]
+
 
 //Text $1BB760
 #WRITE(ptr,$1944B8)
-ステーキ[END]
+Steak[END]
+
 
 //Text $1BB750
 #WRITE(ptr,$1944CC)
-お好み焼き[END]
+Okonomiyaki[END]
+
 
 //Text $1BB740
 #WRITE(ptr,$1944E0)
-すき焼き[END]
+Sukiyaki[END]
+
 
 //Text $1BB738
 #WRITE(ptr,$1944F4)
-お刺身[END]
+Sashimi[END]
+
 
 //Text $1BB730
 #WRITE(ptr,$194508)
-舟盛り[END]
+Sushi Boat[END]
+
 
 //Text $1BB720
 #WRITE(ptr,$19451C)
-フルーツパフェ[END]
+Fruit Parfait[END]
+
 
 //Text $1BB710
 #WRITE(ptr,$194530)
-フルーツチーズ[END]
+Fruit Cheese[END]
+
 
 //Text $1BB700
 #WRITE(ptr,$194544)
-フルーツとうふ[END]
+Fruit Tofu[END]
+
 
 //Text $1BB6F8
 #WRITE(ptr,$194558)
-肉鍋[END]
+Hot Pot[END]
+
 
 //Text $1BB6F0
 #WRITE(ptr,$19456C)
-魚鍋[END]
+Fish Hot Pot[END]
+
 
 //Text $1BB6D8
 #WRITE(ptr,$194580)
-まんぼうの串焼き[END]
+Sunfish Skewers[END]
+
 
 //Text $1BB6C8
 #WRITE(ptr,$194594)
-みそおでん[END]
+Miso oden[END]
+
 
 //Text $1BB6B8
 #WRITE(ptr,$1945A8)
-マーボーカレー[END]
+Mabo curry[END]
+
 
 //Text $1BB6A0
 #WRITE(ptr,$1945BC)
-カチカチおにぎり[END]
+Crunchy Riceball[END]
+
 
 //Text $1BB688
 #WRITE(ptr,$1945D0)
-パサパサンドイッチ[END]
+Dry Sandwich[END]
+
 
 //Text $1BB670
 #WRITE(ptr,$1945E4)
-圧縮ハンバーガー[END]
+Squashed Burger[END]
+
 
 //Text $1BB660
 #WRITE(ptr,$1945F8)
-炭ドッグ[END]
+Burned Dog[END]
+
 
 //Text $1BB648
 #WRITE(ptr,$19460C)
-しなしなブリトー[END]
+Soggy Burrito[END]
+
 
 //Text $1BB638
 #WRITE(ptr,$194620)
-半生ケバブ[END]
+Half-baked Kebab[END]
+
 
 //Text $1BB630
 #WRITE(ptr,$194634)
-闇丼[END]
+Dark Bowl[END]
+
 
 //Text $1BB628
 #WRITE(ptr,$194648)
-闇鍋[END]
+Dark Pot[END]
+
 
 //Section Food Effect
 
 //Text $1BBA90
 #WRITE(ptr,$194660)
-特殊効果なし[END]
+No special effects[END]
+
 
 //Text $1BBA80
 #WRITE(ptr,$194664)
-戦闘不能回復[END]
+Recovers HP after battle[END]
+
 
 //Text $1BBA70
 #WRITE(ptr,$194668)
-石化防止[END]
+[END]
+
 
 //Text $1BBA60
 #WRITE(ptr,$19466C)
-衰弱防止[END]
+[END]
+
 
 //Text $1BBA50
 #WRITE(ptr,$194670)
-熱毒防止[END]
+[END]
+
 
 //Text $1BBA40
 #WRITE(ptr,$194674)
-睡眠防止[END]
+[END]
+
 
 //Text $1BBA30
 #WRITE(ptr,$194678)
-マヒ防止[END]
+Prevent Paralysis[END]
+
 
 //Text $1BBA20
 #WRITE(ptr,$19467C)
-封印防止[END]
+Prevents Seal[END]
+
 
 //Text $1BBA10
 #WRITE(ptr,$194680)
-斬属性軽減[END]
+Slash attribute reduction[END]
+
 
 //Text $1BBA00
 #WRITE(ptr,$194684)
-打属性軽減[END]
+Strike attribute reduction[END]
+
 
 //Text $1BB9F0
 #WRITE(ptr,$194688)
-射属性軽減[END]
+Ranged attribute reduction[END]
+
 
 //Text $1BB9E0
 #WRITE(ptr,$19468C)
-音属性軽減[END]
+Sound attribute reductionEND]
 
 //Text $1BB9D0
 #WRITE(ptr,$194690)
-地属性軽減[END]
+Earth attribute reduction[END]
+
 
 //Text $1BB9C0
 #WRITE(ptr,$194694)
-風属性軽減[END]
+Wind attribute reduction[END]
+
 
 //Text $1BB9B0
 #WRITE(ptr,$194698)
-火属性軽減[END]
+Fire attribute reduction[END]
+
 
 //Text $1BB9A0
 #WRITE(ptr,$19469C)
-水属性軽減[END]
+Water attribute reduction[END]
+
 
 //Text $1BB990
 #WRITE(ptr,$1946A0)
-光属性軽減[END]
+Light attribute reduction[END]
+
 
 //Text $1BB980
 #WRITE(ptr,$1946A4)
-闇属性軽減[END]
+Dark attribute reduction[END]
+
 
 //Text $1BB968
 #WRITE(ptr,$1946A8)
-ブラストゲージ＋２５[END]
+BG＋25[END]
+
 
 //Text $1BB950
 #WRITE(ptr,$1946AC)
-ブラストゲージ＋５０[END]
+BG＋50[END]
+
 
 //Text $1BB940
 #WRITE(ptr,$1946B0)
-最小ＣＣ＋１[END]
+Min CC＋1[END]
+
 
 //Text $1BB930
 #WRITE(ptr,$1946B4)
-最大ＣＣ＋１[END]
+Max CC＋1[END]
+
 
 //Text $1BBBF0
 #WRITE(ptr,$1946B8)
-[TAG_015]戦闘ごとに[END]
+Every [TAG_015] battles[END]
+
 
 //Text $1BBBD8
 #WRITE(ptr,$1946BC)
-戦闘不能者がいたら[END]
+When someone is KO'd[END]
+
 
 //Text $1BBBB8
 #WRITE(ptr,$1946C0)
-全員のＨＰ合計が[TAG_015]％以下[END]
+After battle, if average party's HP [lessequal] [TAG_015]％[END]
+
 
 //Text $1BBBA0
 #WRITE(ptr,$1946C4)
-誰かのＨＰが[TAG_015]％以下[END]
+After battle, if one party member's HP [lessequal] [TAG_015]％[END]
+
 
 //Text $1BBB88
 #WRITE(ptr,$1946C8)
-戦闘開始[TAG_015]秒後[END]
+[TAG_015] seconds after starting the battle[END]
+
 
 //Text $1BBB68
 #WRITE(ptr,$1946CC)
-戦闘中、戦闘不能者がいたら[END]
+In battle, when someone is KO'd[END]
+
 
 //Text $1BBB48
 #WRITE(ptr,$1946D0)
-戦闘中、アイテムを使ったら[END]
+In battle, when using an item[END]
+
 
 //Text $1BBB28
 #WRITE(ptr,$1946D4)
-戦闘中、[TAG_015]ヒット以上したら[END]
+In battle, when landing [TAG_015] or more hits[END]
+
 
 //Text $1BBB08
 #WRITE(ptr,$1946D8)
-戦闘中、[TAG_015]状態になったら[END]
+In battle, cures [TAG_015] once[END]
+
 
 //Text $1BBAE8
 #WRITE(ptr,$1946DC)
-戦闘中、[TAG_015]属性攻撃を受けたら[END]
+When hit by a [TAG_015] elemental attack,[LINE]
+increases resistance to [TAG_015][END]
+
 
 //Text $1BBAC0
 #WRITE(ptr,$1946E0)
-戦闘中、全員のＨＰ合計が[TAG_015]％以下[END]
+In battle, if average party's HP [lessequal] [TAG_015]％[END]
+
 
 //Text $1BBAA0
 #WRITE(ptr,$1946E4)
-戦闘中、誰かのＨＰが[TAG_015]％以下[END]
+In battle, if one party member's HP [lessequal] [TAG_015]％[END]
+
 
 //Section Title
 
 //POINTER #16 @ $1946E8 - STRING #16 @ $1BF0D8
 #WRITE(ptr,$1946E8)
 Stowaway[END]
+
 
 //POINTER #17 @ $1946EC - STRING #17 @ $1BF080
 #WRITE(ptr,$1946EC)
@@ -411,6 +496,7 @@ engraved in people's hearts.[END]
 #WRITE(ptr,$194718)
 Genuine Master[END]
 
+
 //POINTER #29 @ $19471C - STRING #29 @ $1BEE00
 #WRITE(ptr,$19471C)
 A master recognized as a truly[LINE]
@@ -421,11 +507,13 @@ the original Swordian's temperament.[END]
 #WRITE(ptr,$194720)
 Child of Fate[END]
 
+
 //POINTER #31 @ $194724 - STRING #31 @ $1BEDA8
 #WRITE(ptr,$194724)
 A small coincidence[LINE]
 and feelings of two people[LINE]
 beget this fated birth.[END]
+
 
 //POINTER #32 @ $194728 - STRING #32 @ $1BED98
 #WRITE(ptr,$194728)
@@ -437,6 +525,7 @@ beget this fated birth.[END]
 She still wakes him up[LINE]
 in the mornings.[END]
 
+
 //POINTER #34 @ $194730 - STRING #34 @ $1BED48
 #WRITE(ptr,$194730)
 Young Detective[END]
@@ -446,6 +535,7 @@ Young Detective[END]
 [Stahn]'s new side.[LINE]
 His purity to see through people[LINE]
 is this boy detective's only weapon![END]
+
 
 //POINTER #36 @ $194738 - STRING #36 @ $1BECD8
 #WRITE(ptr,$194738)
@@ -460,11 +550,13 @@ hidden before his very eyes.[END]
 #WRITE(ptr,$194740)
 Stahndum[END]
 
+
 //POINTER #39 @ $194744 - STRING #39 @ $1BEC18
 #WRITE(ptr,$194744)
 [MUSIC]Drumming and banging,[LINE]
 [Stahn] beats the drums, DUMdumdum[LINE]
 Yes the drums, DUM badum[MUSIC][END]
+
 
 //POINTER #40 @ $194748 - STRING #40 @ $1BEC00
 #WRITE(ptr,$194748)
@@ -475,6 +567,7 @@ Dashing Bumpkin[END]
 A young country bumpkin who[LINE]
 aspires for glory in the city.[END]
 //[END]
+
 
 //POINTER #42 @ $194750 - STRING #42 @ $1BEBB0
 #WRITE(ptr,$194750)
@@ -496,6 +589,7 @@ Honorary title for adventurers[LINE]
 who love and protect nature and culture.[END]
 //[END]
 
+
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
 #WRITE(ptr,$194760)
 Leane Official[END]
@@ -515,6 +609,7 @@ Eyes of Justice[END]
 Criminal peeking at the girl's[LINE]
 bath with [Kongman].Unforgivable![LINE]
 「No, I was trying to sto..!」[END]
+
 
 //POINTER #50 @ $194770 - STRING #50 @ $1BEA00
 #WRITE(ptr,$194770)
@@ -546,6 +641,7 @@ The lens hunter. Seeking lens[LINE]
 from around the world.[END]
 //[END]
 
+
 //POINTER #56 @ $194788 - STRING #56 @ $1BE8D0
 #WRITE(ptr,$194788)
 Greedy Witch[END]
@@ -559,11 +655,13 @@ on her path.[END]
 //POINTER #58 @ $194790 - STRING #58 @ $1BE860
 #WRITE(ptr,$194790)
 Neat Sister[END]
+
 //POINTER #59 @ $194794 - STRING #59 @ $1BE810
 #WRITE(ptr,$194794)
 Your expression has changed, sister.[LINE]
 I wonder if something important happened?[END]
 //[END]
+
 //POINTER #60 @ $194798 - STRING #60 @ $1BE7F8
 #WRITE(ptr,$194798)
 Ex-Lens Hunter[END]
@@ -584,6 +682,7 @@ The eldest of Cresta Orphanage.[LINE]
 She does her best to protect[LINE]
 her younger siblings.[END]
 
+
 //POINTER #64 @ $1947A8 - STRING #64 @ $1BE738
 #WRITE(ptr,$1947A8)
 Invisible Hand[END]
@@ -594,6 +693,7 @@ Her hands hold the world's economy.[LINE]
 She shouldn't be given this title...[END]
 //[END]
 
+
 //POINTER #66 @ $1947B0 - STRING #66 @ $1BE6D8
 #WRITE(ptr,$1947B0)
 Gald Maiden[END]
@@ -603,6 +703,7 @@ Gald Maiden[END]
 She swore she didn't want it anymore.[LINE]
 But there she goes again, after money.[END]
 //[END]
+
 
 //POINTER #68 @ $1947B8 - STRING #68 @ $1BE688
 #WRITE(ptr,$1947B8)
@@ -625,6 +726,7 @@ Even if it hurts, she has the strength[LINE]
 to accept the truth.[END]
 //[END]
 
+
 //POINTER #72 @ $1947C8 - STRING #72 @ $1BE590
 #WRITE(ptr,$1947C8)
 Forever Young[END]
@@ -635,6 +737,7 @@ The eternal youth.[LINE]
 For those with a rockin' soul.[END]
 //[END]
 
+
 //POINTER #74 @ $1947D0 - STRING #74 @ $1BE548
 #WRITE(ptr,$1947D0)
 Honest Girl[END]
@@ -644,6 +747,7 @@ Honest Girl[END]
 An upfront honest girl.[LINE]
 Answers even tricky questions.[END]
 //[END]
+
 //POINTER #76 @ $1947D8 - STRING #76 @ $1BE500
 #WRITE(ptr,$1947D8)
 Gambler [Rutee][END]
@@ -653,6 +757,7 @@ Gambler [Rutee][END]
 She's got guts![LINE]
 But you gotta know when[LINE]
 to fold 'em, right!?[END]
+
 
 //POINTER #78 @ $1947E0 - STRING #78 @ $1BE4C0
 #WRITE(ptr,$1947E0)
@@ -684,6 +789,7 @@ Love and protect all nature[LINE]
 and civilization. An honorable[LINE] 
 title bestowed upon such adventurers.[END]
 
+
 //POINTER #84 @ $1947F8 - STRING #84 @ $1BE418
 #WRITE(ptr,$1947F8)
 Pretty Envoy[END]
@@ -693,6 +799,7 @@ Pretty Envoy[END]
 [Rutee] Katrea (18) grew up in an orphanage.[LINE]
 157 cm, <$81>@46 kg.[LINE]
 Atwight's Swordian Master.[END]
+
 
 //POINTER #86 @ $194800 - STRING #86 @ $1BE3A8
 #WRITE(ptr,$194800)
@@ -727,11 +834,13 @@ a lot of money today.[END]
 //POINTER #92 @ $194818 - STRING #92 @ $1BE260
 #WRITE(ptr,$194818)
 Straylize Priest[END]
+
 //POINTER #93 @ $19481C - STRING #93 @ $1BE220
 #WRITE(ptr,$19481C)
 A priestess who devotes her life[LINE]
 to serve god in the temple.[END]
 //[END]
+
 
 //POINTER #94 @ $194820 - STRING #94 @ $1BE210
 #WRITE(ptr,$194820)
@@ -763,9 +872,11 @@ Wings that found freedom in the sky.[LINE]
 Infinite potential awaits the free bird.[END]
 //[END]
 
+
 //POINTER #100 @ $194838 - STRING #100 @ $1BE0F0
 #WRITE(ptr,$194838)
 Bomb Alchemist[END]
+
 //POINTER #101 @ $19483C - STRING #101 @ $1BE090
 #WRITE(ptr,$19483C)
 A scientist who alchemizes and mixes[LINE]
@@ -782,9 +893,11 @@ As a priestess, she receives favors[LINE]
 through a divine marriage pact.[END]
 //[END]
 
+
 //POINTER #104 @ $194848 - STRING #104 @ $1BE030
 #WRITE(ptr,$194848)
 Class A Agent[END]
+
 //POINTER #105 @ $19484C - STRING #105 @ $1BDFD8
 #WRITE(ptr,$19484C)
 An agent on a Class A mission[LINE]
@@ -794,6 +907,7 @@ a power she normally can't![END]
 //POINTER #106 @ $194850 - STRING #106 @ $1BDFC8
 #WRITE(ptr,$194850)
 Jealous Girl[END]
+
 //POINTER #107 @ $194854 - STRING #107 @ $1BDF60
 #WRITE(ptr,$194854)
 It is well known that there are two[LINE]
@@ -803,15 +917,18 @@ who act out and those who don't.[END]
 //POINTER #108 @ $194858 - STRING #108 @ $1BDF50
 #WRITE(ptr,$194858)
 Trivia Queen[END]
+
 //POINTER #109 @ $19485C - STRING #109 @ $1BDF20
 #WRITE(ptr,$19485C)
 A queen of trivia.[LINE]
 She claims to be the best.[END]
 //[END]
 
+
 //POINTER #110 @ $194860 - STRING #110 @ $1BDF10
 #WRITE(ptr,$194860)
 Dashing Priestess[END]
+
 //POINTER #111 @ $194864 - STRING #111 @ $1BDEC8
 #WRITE(ptr,$194864)
 With god's power, she runs[LINE]
@@ -821,11 +938,13 @@ The Dashing Priestess.[END]
 //POINTER #112 @ $194868 - STRING #112 @ $1BDEB0
 #WRITE(ptr,$194868)
 Quiz Club Director[END]
+
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
 The club was established out of her boundless intellectual[LINE]
 desire to experience all the knowledge in the world.[LINE]
 As the head of its women's division, she has reigned ever since.[END]
+
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
 #WRITE(ptr,$194870)
 NatuRanger[END]
@@ -836,17 +955,21 @@ NatuRanger[END]
 そんな冒険家に贈られる名誉ある称号。[END]
 //[END]
 
+
 //POINTER #116 @ $194878 - STRING #116 @ $1BDE28
 #WRITE(ptr,$194878)
 Straylize Representative[END]
+
 //POINTER #117 @ $19487C - STRING #117 @ $1BDDD0
 #WRITE(ptr,$19487C)
 [Philia] Philis, priestess (19).[LINE]
 162cm<$81>@45kg[LINE]
 Clemente's Swordian Master.[END]
+
 //POINTER #118 @ $194880 - STRING #118 @ $1BDDC0
 #WRITE(ptr,$194880)
 Clouded Glasses[END]
+
 //POINTER #119 @ $194884 - STRING #119 @ $1BDD60
 #WRITE(ptr,$194884)
 I don't remove my glasses, even in[LINE]
@@ -856,6 +979,7 @@ Glasses, glasses...[END]
 //POINTER #120 @ $194888 - STRING #120 @ $1BDD48
 #WRITE(ptr,$194888)
 Six Elements Major[END]
+
 //POINTER #121 @ $19488C - STRING #121 @ $1BDCE0
 #WRITE(ptr,$19488C)
 Six elements comprise this world.[LINE]
@@ -881,6 +1005,7 @@ Sword and bow warrior[END]
 An all-rounder wielding sword and bow,[LINE]
 leaving the enemy no blind spot.[END]
 //[END]
+
 
 //POINTER #126 @ $1948A0 - STRING #126 @ $1BDC20
 #WRITE(ptr,$1948A0)
@@ -922,6 +1047,7 @@ Another self exists in this world.[LINE]
 Can't decide if I want to meet him or not.[END]
 //[END]
 
+
 //POINTER #134 @ $1948C0 - STRING #134 @ $1BDA80
 #WRITE(ptr,$1948C0)
 Older Brother Figure[END]
@@ -932,6 +1058,7 @@ Feeling like a big brother?[LINE]
 Well, anyway...[END]
 //[END]
 
+
 //POINTER #136 @ $1948C8 - STRING #136 @ $1BDA40
 #WRITE(ptr,$1948C8)
 Original King of Trivia[END]
@@ -941,6 +1068,7 @@ Original King of Trivia[END]
 A genuine trivia king.[LINE]
 Claims to be the best.[END]
 //[END]
+
 
 //POINTER #138 @ $1948D0 - STRING #138 @ $1BDA30
 #WRITE(ptr,$1948D0)
@@ -971,6 +1099,7 @@ NatuRanger[END]
 Love and protect all nature and civilization.[LINE]
 An honorable title bestowed upon[LINE]
 such adventurers[END]
+
 
 //POINTER #144 @ $1948E8 - STRING #144 @ $1BD938
 #WRITE(ptr,$1948E8)
@@ -1042,6 +1171,7 @@ A rose dances in[LINE]
 the land of Seinegald.[LINE]
 But what is it?[END]
 
+
 //POINTER #158 @ $194920 - STRING #158 @ $1BD650
 #WRITE(ptr,$194920)
 Dashing Knight[END]
@@ -1051,6 +1181,7 @@ Dashing Knight[END]
 A dark shadow lurking by...[LINE]
 Must've been my imagination[END]
 //[END]
+
 
 //POINTER #160 @ $194928 - STRING #160 @ $1BD608
 #WRITE(ptr,$194928)
@@ -1071,6 +1202,7 @@ Sudden Visitor[END]
 He pops out of nowhere.[LINE]
 Annoying, but occasionally delightful.[END]
 //[END]
+
 
 //POINTER #164 @ $194938 - STRING #164 @ $1BD548
 #WRITE(ptr,$194938)
@@ -1101,6 +1233,7 @@ Abyssal Fencer[END]
 A knight who reached the world's depths.[LINE]
 He defeated history's most vicious foes.[END]
 //[END]
+
 
 //POINTER #170 @ $194950 - STRING #170 @ $1BD3E8
 #WRITE(ptr,$194950)
@@ -1202,6 +1335,7 @@ Honorary title for adventurers[LINE]
 who love and protect[LINE]
 nature and culture.[END]
 
+
 //POINTER #190 @ $1949A0 - STRING #190 @ $1BCFF8
 #WRITE(ptr,$1949A0)
 Amnesia Representative[END]
@@ -1215,6 +1349,7 @@ Always keeps Dalis's Sword close.[END]
 //POINTER #192 @ $1949A8 - STRING #192 @ $1BCF80
 #WRITE(ptr,$1949A8)
 Hot Mama[END]
+
 //POINTER #193 @ $1949AC - STRING #193 @ $1BCF20
 #WRITE(ptr,$1949AC)
 With that extraordinary body,[LINE]
@@ -1280,6 +1415,7 @@ A girl dreams of growing fast.[LINE]
 On the flip side, she's still a child.[END]
 //[END]
 
+
 //POINTER #206 @ $1949E0 - STRING #206 @ $1BCCE0
 #WRITE(ptr,$1949E0)
 Innocent[END]
@@ -1289,6 +1425,7 @@ Innocent[END]
 An innocent heart person.[LINE]
 It doesn't matter how old you are.[END]
 //[END]
+
 
 //POINTER #208 @ $1949E8 - STRING #208 @ $1BCC90
 #WRITE(ptr,$1949E8)
@@ -1320,6 +1457,7 @@ With her light weight,[LINE]
 she can take any path with ease.[END]
 //[END]
 
+
 //POINTER #214 @ $194A00 - STRING #214 @ $1BCB80
 #WRITE(ptr,$194A00)
 Quiz Club Junior[END]
@@ -1339,6 +1477,7 @@ NatuRanger[END]
 Honorary title for adventurers[LINE]
 who love and protect[LINE]
 nature and culture.[END]
+
 
 //POINTER #218 @ $194A10 - STRING #218 @ $1BCB08
 #WRITE(ptr,$194A10)
@@ -1390,6 +1529,7 @@ Clown dressed in fancy clothes.[LINE]
 Living a rootless life.[END]
 //[END]
 
+
 //POINTER #228 @ $194A38 - STRING #228 @ $1BC910
 #WRITE(ptr,$194A38)
 Shiden's Youngest[END]
@@ -1399,6 +1539,7 @@ Shiden's Youngest[END]
 As Shiden's youngest,[LINE]
 he lives a carefree life.[END]
 //[END]
+
 
 //POINTER #230 @ $194A40 - STRING #230 @ $1BC8D8
 #WRITE(ptr,$194A40)
@@ -1419,6 +1560,7 @@ In the battle of sorrow...[LINE]
 What does the musician think?[END]
 //[END]
 
+
 //POINTER #234 @ $194A50 - STRING #234 @ $1BC850
 #WRITE(ptr,$194A50)
 Royal Clown[END]
@@ -1428,6 +1570,7 @@ Royal Clown[END]
 Though you may be a clown.[LINE]
 Inside… you're still royalty.[END]
 //[END]
+
 
 //POINTER #236 @ $194A58 - STRING #236 @ $1BC808
 #WRITE(ptr,$194A58)
@@ -1459,6 +1602,7 @@ It's really hard to run in this costume...[END]
 //[END]
 //[END]
 
+
 //POINTER #242 @ $194A70 - STRING #242 @ $1BC710
 #WRITE(ptr,$194A70)
 Quiz Club Coach[END]
@@ -1479,6 +1623,7 @@ Honorary title for adventurers[LINE]
 who love and protect[LINE]
 nature and culture.[END]
 
+
 //POINTER #246 @ $194A80 - STRING #246 @ $1BC688
 #WRITE(ptr,$194A80)
 Island Representative[END]
@@ -1488,6 +1633,7 @@ Island Representative[END]
 [Johnny] Shiden (26), Shiden youngest.[LINE]
 174cm, 61kg.[LINE]
 Fights and supports with his signature singing voice.[END]
+
 
 //POINTER #248 @ $194A88 - STRING #248 @ $1BC610
 #WRITE(ptr,$194A88)
@@ -1568,6 +1714,7 @@ God Challenger[END]
 To satisfy his own desires.[LINE]
 The man challenges God to battle.[END]
 //[END]
+
 //POINTER #264 @ $194AC8 - STRING #264 @ $1BC308
 #WRITE(ptr,$194AC8)
 Man in Love[END]
@@ -1577,6 +1724,7 @@ Man in Love[END]
 For the sake of the one he loves.[LINE]
 A man vows to live in love.[END]
 //[END]
+
 //POINTER #266 @ $194AD0 - STRING #266 @ $1BC2C0
 #WRITE(ptr,$194AD0)
 ☆Star☆[END]
@@ -1596,6 +1744,7 @@ Dashing Macho[END]
 Overdeveloped muscles can be an issue.[LINE]
 They're too heavy to run.[END]
 //[END]
+
 //POINTER #270 @ $194AE0 - STRING #270 @ $1BC1F0
 #WRITE(ptr,$194AE0)
 Denied Club Member[END]
@@ -1615,6 +1764,7 @@ NatuRanger[END]
 Honorary title for adventurers[LINE]
 who love and protect[LINE]
 nature and culture.[END]
+
 
 //POINTER #274 @ $194AF0 - STRING #274 @ $1BC170
 #WRITE(ptr,$194AF0)
@@ -1669,6 +1819,7 @@ who takes care of everyone.[END]
 //POINTER #284 @ $194B18 - STRING #284 @ $1BBF70
 #WRITE(ptr,$194B18)
 Flame Girl[END]
+
 //POINTER #285 @ $194B1C - STRING #285 @ $1BBF28
 #WRITE(ptr,$194B1C)
 The flame girl, a befitting title[LINE]
@@ -1695,9 +1846,11 @@ Helping out with the household chores,[LINE]
 you won't understand until you try it.[LINE]
 It's a hard job...[END]
 
+
 //POINTER #290 @ $194B30 - STRING #290 @ $1BBE60
 #WRITE(ptr,$194B30)
 Quiz Fresh Student[END]
+
 
 //POINTER #291 @ $194B34 - STRING #291 @ $1BBDE8
 #WRITE(ptr,$194B34)
@@ -1719,6 +1872,7 @@ I'm sure you can handle it.[END]
 #WRITE(ptr,$194B40)
 Sister Representative[END]
 
+#JMP($148210)
 //POINTER #295 @ $194B44 - STRING #295 @ $1BBD18
 #WRITE(ptr,$194B44)
 [Lilith] Aileron(17) from Leane Village.[LINE]
@@ -1734,6 +1888,7 @@ Hot Spring Sister[END]
 We used to take baths together, you know.[LINE]
 ... Aren't we like childhood friend?[END]
 //[END]
+
 //POINTER #298 @ $194B50 - STRING #298 @ $1BBCC0
 #WRITE(ptr,$194B50)
 Triple Star[END]
@@ -1748,9 +1903,11 @@ A chef's highest peak.[END]
 #WRITE(ptr,$194B58)
 Salesgirl[END]
 
+
 //POINTER #301 @ $194B5C - STRING #301 @ $1BBC00
 #WRITE(ptr,$194B5C)
 Each has his own business talent.[LINE]
 With a heartwarming smile.[LINE]
 I'll do my best everyday[END]
+
 

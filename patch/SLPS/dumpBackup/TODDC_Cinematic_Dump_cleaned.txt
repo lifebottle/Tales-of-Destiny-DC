@@ -1,0 +1,388 @@
+//Text $19ADE0
+#WRITE(ptr,$180BCC)
+うわ～っ[END]
+// current address: $19ADE9
+
+
+
+
+
+//Text $19ADD0
+#WRITE(ptr,$180BDC)
+ここまでか……[END]
+// current address: $19ADDF
+
+
+
+
+
+//Text $19ADC0
+#WRITE(ptr,$180BEC)
+あきらめるな[END]
+// current address: $19ADCD
+
+
+
+
+
+//Text $19ADA8
+#WRITE(ptr,$180BFC)
+……さっきと同じ声？[END]
+// current address: $19ADBD
+
+
+
+
+
+//Text $19AD98
+#WRITE(ptr,$180C0C)
+お前 名前は？[END]
+// current address: $19ADA6
+
+
+
+
+
+//Text $19AD80
+#WRITE(ptr,$180C1C)
+[Stahn]……エルロン……[END]
+// current address: $19AD96
+
+
+
+
+
+//Text $19AD70
+#WRITE(ptr,$180C2C)
+いいか[Stahn][END]
+// current address: $19AD7C
+
+
+
+
+
+//Text $19AD58
+#WRITE(ptr,$180C3C)
+我はお前に力を貸そう[END]
+// current address: $19AD6D
+
+
+
+
+
+//Text $19AD40
+#WRITE(ptr,$180C4C)
+だからお前も我を信じろ[END]
+// current address: $19AD57
+
+
+
+
+
+//Text $19AD28
+#WRITE(ptr,$180C5C)
+我を強く握りしめろ[END]
+// current address: $19AD3B
+
+
+
+
+
+//Text $19AD08
+#WRITE(ptr,$180C6C)
+そして我の名を唱えるがいい[END]
+// current address: $19AD23
+
+
+
+
+
+//Text $19ACF8
+#WRITE(ptr,$180C7C)
+聞こえる……[END]
+// current address: $19AD05
+
+
+
+
+
+//Text $19ACE8
+#WRITE(ptr,$180C8C)
+我が名は[END]
+// current address: $19ACF1
+
+
+
+
+
+//Text $19ACD8
+#WRITE(ptr,$180C9C)
+お前の名は!![END]
+// current address: $19ACE5
+
+
+
+
+
+//Text $19ACC8
+#WRITE(ptr,$180CAC)
+ディムロス!![END]
+// current address: $19ACD5
+
+
+
+
+
+//Text $19ACB8
+#WRITE(ptr,$180CBC)
+うっ……[END]
+// current address: $19ACC1
+
+
+
+
+
+//Text $19ACA8
+#WRITE(ptr,$180CCC)
+おい！ [Stahn]！[END]
+// current address: $19ACB8
+
+
+
+
+
+//Text $19AC90
+#WRITE(ptr,$180CDC)
+しっかりしろ！ [Stahn]！[END]
+// current address: $19ACA8
+
+//Text $19AEA0
+#WRITE(ptr,$180CFC)
+[Lion]！ [Lion]！[END]
+// current address: $19AEB1
+
+
+
+
+
+//Text $19AE80
+#WRITE(ptr,$180D0C)
+ここも間もなく水に飲まれる[END]
+// current address: $19AE9B
+
+
+
+
+
+//Text $19AE60
+#WRITE(ptr,$180D1C)
+付き合わせてすまないな シャル[END]
+// current address: $19AE7F
+
+
+
+
+
+//Text $19AE48
+#WRITE(ptr,$180D2C)
+どこまでもお供しますよ[END]
+// current address: $19AE5F
+
+
+
+
+
+//Text $19AE28
+#WRITE(ptr,$180D3C)
+僕のマスターは坊ちゃんです[END]
+// current address: $19AE43
+
+
+
+
+
+//Text $19AE18
+#WRITE(ptr,$180D4C)
+これで……[END]
+// current address: $19AE23
+
+
+
+
+
+//Text $19ADF0
+#WRITE(ptr,$180D5C)
+これで良かったんだろう？ マリアン[END]
+// current address: $19AE13
+
+//Text $19AEF0
+#WRITE(ptr,$180D7C)
+うおおおお[END]
+// current address: $19AEFB
+
+
+
+
+
+//Text $19AEE0
+#WRITE(ptr,$180D8C)
+切り裂け[END]
+// current address: $19AEE9
+
+
+
+
+
+//Text $19AEF0
+#WRITE(ptr,$180D9C)
+うおおおお[END]
+// current address: $19AEFB
+
+//Text $19B098
+#WRITE(ptr,$180DCC)
+本当にこれしか方法はないんだな？[END]
+// current address: $19B0B9
+
+
+
+
+
+//Text $19B090
+#WRITE(ptr,$180DDC)
+そうだ[END]
+// current address: $19B097
+
+
+
+
+
+//Text $19B080
+#WRITE(ptr,$180DEC)
+いいのだよ[Stahn][END]
+// current address: $19B090
+
+
+
+
+
+//Text $19B068
+#WRITE(ptr,$180DFC)
+我らは長く生きすぎた[END]
+// current address: $19B07D
+
+
+
+
+
+//Text $19B048
+#WRITE(ptr,$180E0C)
+不謹慎な言い方かもしれないけど[END]
+// current address: $19B067
+
+
+
+
+
+//Text $19B028
+#WRITE(ptr,$180E1C)
+お前と旅ができて楽しかったよ[END]
+// current address: $19B045
+
+
+
+
+
+//Text $19B020
+#WRITE(ptr,$180E2C)
+我もだ[END]
+// current address: $19B027
+
+
+
+
+
+//Text $19AFE8
+#WRITE(ptr,$180E3C)
+世話のかかる者ほど 愛着がわくというのは本当だな[END]
+// current address: $19B019
+
+
+
+
+
+//Text $19AFD8
+#WRITE(ptr,$180E4C)
+我は思うのだ[END]
+// current address: $19AFE5
+
+
+
+
+
+//Text $19AFC8
+#WRITE(ptr,$180E5C)
+お前との出会い[END]
+// current address: $19AFD7
+
+
+
+
+
+//Text $19AFA0
+#WRITE(ptr,$180E6C)
+その後の変遷を経て 今に至る過程こそ[END]
+// current address: $19AFC5
+
+
+
+
+
+//Text $19AF90
+#WRITE(ptr,$180E7C)
+まさに一篇の[END]
+// current address: $19AF9D
+
+
+
+
+
+//Text $19AF70
+#WRITE(ptr,$180E8C)
+運命の物語だったのかもしれんと[END]
+// current address: $19AF8F
+
+
+
+
+
+//Text $19AF50
+#WRITE(ptr,$180E9C)
+この世界の未来をお前に託す[END]
+// current address: $19AF6B
+
+
+
+
+
+//Text $19AF30
+#WRITE(ptr,$180EAC)
+我がマスター [Stahn]・エルロンよ[END]
+// current address: $19AF50
+
+
+
+
+
+//Text $19AF10
+#WRITE(ptr,$180EBC)
+さあ 最後の使命を果たすのだ[END]
+// current address: $19AF2D
+
+
+
+
+
+//Text $19AF00
+#WRITE(ptr,$180ECC)
+ディムロス……[END]
+// current address: $19AF0F
