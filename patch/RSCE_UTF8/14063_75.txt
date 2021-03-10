@@ -21,15 +21,15 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-ぐすん、ぐすん……
+Gusu, gusu...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたの、君？
+What's the matter, sweetheart?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 お父さんが……ィック、
 僕の事を……ィック、
@@ -37,17 +37,17 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ほら、泣くなよ……
-元気だそう！
+Come on, don't cry. 
+...Cheer up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-困ったなー。
+I'm in trouble.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-放っておけ。
-僕たちにはやる事があるんだ。
+Let it go. We've
+got work to do.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -807,214 +807,225 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+Hmm? I've got nothing
+more to give you.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-へえ、ここがシデン領か。
-建物の形が変わってるなあ。
+Hone your ability a bit more then
+come back and speak with me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さて、いつものように、
-オベロン社の支部へ行くんだろ？
+Wow, this is Sheeden? The buildings
+are all so different.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Welp, should we go look for this
+area's branch of Oberon Company
+just like always?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そんな物はない。
+We won't be doing that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-鎖国体制の国だって言ったでしょ。
+It has a national isolation
+policy, remember?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ちなみにストレイライズ神殿も、
-ありませんわ。
+Incidentally, there isn't
+a Straylize Temple, either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だったらどうするんだ？
+Well then, what do we do now?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしと<Mary>で、
-様子見がてら聞き込みをしてくるわ。
+<Mary> and I will hang around and
+try to scout out some information.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたたちは、この辺に隠れてて。
+You guys lay low in this area.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ふたりで大丈夫か？
+Will you be okay if
+it's just you two?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふたりだから大丈夫なの。
-全員でゾロゾロ動いたら目立つでしょ。
+We'll be okay because it's just us
+two. We'll be too conspicuous if
+we all try to go together.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>たち、遅いな……
+<Rutee>'s not back yet...
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-女の人
+Woman
 [ENDBLOCK]
-<Tiberius>が、
-モリュウを武力制圧したって？
+<Tiberius> carried out the military
+suppression of Moreau?
 [ENDBLOCK]
-モリュウ港が封鎖されちまったよ。
-お陰でこっちは、商売上がったりさ。
+The Moreau port has been blockaded.
+Business is going to plummet because
+of that.
 [ENDBLOCK]
-<Tiberius>の奴、よその国から、
-参謀を呼び寄せたそうだな。
+It seems <Tiberius> called in an
+outsider as his military advisor.
 [ENDBLOCK]
-聞いたよ。
-グレ……なんとかって奴だろ。
+I've heard about that. His name
+was Ly... something.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum>か！
+<Greybum>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-しっ！	静かにせんか！
+Shh! Be quiet!
 [ENDBLOCK]
-うちの三番目の若が、
-モリュウへ向かったって噂もあるが……
+There are also rumors that the Third
+Prince is heading toward Moreau.
 [ENDBLOCK]
-ただの見物じゃないか？
-あの人、どうしようもない道楽者だしさ。
+Isn't he just sightseeing as usual?
+That helpless libertine.
 [ENDBLOCK]
-昔は聡明な方だったんだがなあ。
+He used to be a sensible person.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-どうやら知りたかった情報が、
-手に入ったようだな。
+It's possible that we've obtained
+the information we wanted.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum>はここにいないのか。
-モリュウ領へ行くしかないな。
+So <Greybum> isn't here. We should
+go check out Moreau.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-でも、どうやって……？
-港が封鎖されては、船が使えませんわ。
+But how...? If the ports are
+closed, we can't use a ship.
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
-男性ふたりに女性ひとり。
-あなた方が例の助っ人ですね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-は？
-[ENDBLOCK]
-さっそくモリュウ領へ向かってください。
-若にも連絡は行っています。
+Two men, one woman. You
+lot must be the backup.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あの、誰かと間違ってませんか？
+Huh?
 [ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-いかにも僕たちが、その助っ人だ。
-モリュウ領へはどう行けばいい？
-[ENDBLOCK]
-海底洞窟を通ってください。
-入り口は街を出た南にあります。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-そうか、わかった。
-[ENDBLOCK]
-洞窟内には地盤の脆い所があります。
-注意してください。
-[ENDBLOCK]
-凶悪なモンスターも生息しています。
-長居はしませんよう。
+Please go to Moreau at once. I will
+also contact the young Prince.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-明らかに人違いされてたけど……
+Umm, aren't you mistaking
+us for someone else?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-勝手に向こうが勘違いしただけだ。
+Indeed, we are the backup. What's the
+best way to get to Moreau?
+[ENDBLOCK]
+You can use the sea cave. There's an
+entrance to it to the south of town.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Right, got it.
+[ENDBLOCK]
+The floor of the cavern is very
+brittle. Please take caution.
+[ENDBLOCK]
+There are terrible monsters living
+there, as well. Be sure not to stay
+there too long.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You just let him mistake
+us for someone else...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+He's the one who so
+carelessly mistook us.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ただいま。街の人に話聞いてきたわよ。
-<Greybum>はモリュウ領にいるみたい。
+We're back. We heard some things
+from the townspeople. It seems 
+like <Greybum> is in Moreau.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-知っている。
+We know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でね、そのモリュウ領なんだけど、
-武力制圧されちゃったらしいの。
+Well then, apparently Moreau's
+under military suppression.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、もう聞いた。
+Yeah, we heard that too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあさ、若って知ってる？
-この人が今、モリュウ領に。
+W-well, do you know about the 
+Prince? He's in Moreau right now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-存じておりますわ。
+Yes, we know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ<Mary>。あたし今、無性に、
-バカヤローって叫びたい気分だわ。
+Hey <Mary>, I have this overwhelming
+urge to scream at these dumbasses.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-つきあうぞ。
+I'll follow your lead.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと海底洞窟へ向かうぞ。
-入り口は、街の南だ。
+We should head for that sea cave.
+The entrance is south of town.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はいはい。わかりました。
+Yeah, yeah, whatever.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ロープのありそうな場所を
-手当たり次第に当たるぞ。
+We're going to hit any 
+place we can find a rope.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえたち、ぐずぐずするな。
+Don't dawdle, you two.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-は、はい。
+Ha, yes.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
