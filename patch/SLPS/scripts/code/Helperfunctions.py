@@ -387,8 +387,8 @@ def updateBlock(blockId, SLPSName):
     reinsertText_Block(blockId, SLPSName)
 
 
-googleId = '1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM'
-fileName = 'wTODDC_Swordian_Dump_cleaned.txt'
+googleId = '1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA'
+fileName = 'TODDC_Cinematic1_Dump_cleaned.txt'
 finalList = parseText(fileName)
 writeColumn(finalList, googleId)
     
