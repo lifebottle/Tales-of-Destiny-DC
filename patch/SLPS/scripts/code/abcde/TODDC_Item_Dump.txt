@@ -1043,9 +1043,9 @@ Only those who know "robes" can answer.[END]
 
 //Text $1ADCE0
 #WRITE(ptr,$18D03C)
-まんぼう…… 所持数に応じて[LINE]
-リリスのまんぼう戦吼の威力が[LINE]
-アップ！[END]
+A Sunfish...The more of[LINE]
+these you have, the stronger[LINE]
+Lilith's Sunfish Screech gets![END]
 
 
 //Text $1ADCC8
@@ -1247,8 +1247,8 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD6A8
 #WRITE(ptr,$18D218)
-Rerise into a gem that[LINE]
-prevents poison status,[LINE]
+Rerise into a gem that prevents[LINE]
+[Poison], a status ailment that[LINE]
 which reduces HP over time.[END]
 
 
@@ -1259,9 +1259,9 @@ which reduces HP over time.[END]
 
 //Text $1AD648
 #WRITE(ptr,$18D234)
-リライズで、行動不能になる[LINE]
-状態異常「睡眠」を防止する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that prevents[LINE]
+[Sleep], a status ailment that[LINE]
+renders you unable to act.[END]
 
 
 //Text $1AD630
@@ -1271,9 +1271,9 @@ which reduces HP over time.[END]
 
 //Text $1AD5E8
 #WRITE(ptr,$18D250)
-リライズで、行動不能になる[LINE]
-状態異常「石化」を防止する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that prevents[LINE]
+[Petrify], a status ailment that[LINE]
+renders you unable to act.[END]
 
 
 //Text $1AD5C8
@@ -1283,9 +1283,9 @@ which reduces HP over time.[END]
 
 //Text $1AD578
 #WRITE(ptr,$18D26C)
-リライズで、ＣＣの回復が遅くなる[LINE]
-状態異常「衰弱」を防止する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that prevents[LINE]
+[Weak], a status ailment that[LINE]
+slows CC recovery.[END]
 
 
 //Text $1AD560
@@ -1295,9 +1295,9 @@ which reduces HP over time.[END]
 
 //Text $1AD518
 #WRITE(ptr,$18D288)
-リライズで、行動時に痺れる[LINE]
-状態異常「マヒ」を防止する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that prevents[LINE]
+[Paralyze], a status ailment that[LINE]
+paralyzes you when you take an action.[END]
 
 
 //Text $1AD500
@@ -1307,9 +1307,9 @@ which reduces HP over time.[END]
 
 //Text $1AD4B0
 #WRITE(ptr,$18D2A4)
-リライズで、術技が使用不可になる[LINE]
-状態異常「封印」を防止する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that prevents[LINE]
+[Seal], a status ailment that[LINE]
+prevents the use of artes.[END]
 
 
 //Text $1AD498
@@ -1319,9 +1319,9 @@ which reduces HP over time.[END]
 
 //Text $1AD440
 #WRITE(ptr,$18D2C0)
-リライズで、火属性ダメージを半減[LINE]
-できる「火属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+fire damage by half.[LINE]
+[END]
 
 
 //Text $1AD428
@@ -1331,9 +1331,9 @@ which reduces HP over time.[END]
 
 //Text $1AD3D0
 #WRITE(ptr,$18D2DC)
-リライズで、水属性ダメージを半減[LINE]
-できる「水属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+water damage by half.[LINE]
+[END]
 
 
 //Text $1AD3B8
@@ -1343,9 +1343,9 @@ which reduces HP over time.[END]
 
 //Text $1AD360
 #WRITE(ptr,$18D2F8)
-リライズで、地属性ダメージを半減[LINE]
-できる「地属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+earth damage by half.[LINE]
+[END]
 
 
 //Text $1AD348
@@ -1355,9 +1355,9 @@ which reduces HP over time.[END]
 
 //Text $1AD2F0
 #WRITE(ptr,$18D314)
-リライズで、風属性ダメージを半減[LINE]
-できる「風属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+wind damage by half.[LINE]
+[END]
 
 
 //Text $1AD2D8
@@ -1367,9 +1367,9 @@ which reduces HP over time.[END]
 
 //Text $1AD280
 #WRITE(ptr,$18D330)
-リライズで、光属性ダメージを半減[LINE]
-できる「光属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+light damage by half.[LINE]
+[END]
 
 
 //Text $1AD268
@@ -1379,9 +1379,9 @@ which reduces HP over time.[END]
 
 //Text $1AD210
 #WRITE(ptr,$18D34C)
-リライズで、闇属性ダメージを半減[LINE]
-できる「闇属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+dark damage by half.[LINE]
+[END]
 
 
 //Text $1AD1F0
@@ -1391,21 +1391,21 @@ which reduces HP over time.[END]
 
 //Text $1AD198
 #WRITE(ptr,$18D368)
-リライズで、斬属性ダメージを半減[LINE]
-できる「斬属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+slash damage by half.[LINE]
+[END]
 
 
 //Text $1AD180
 #WRITE(ptr,$18D380)
-[Sign_8]Blow Material[END]
+[Sign_8]Strike Material[END]
 
 
 //Text $1AD128
 #WRITE(ptr,$18D384)
-リライズで、打属性ダメージを半減[LINE]
-できる「打属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+strike damage by half.[LINE]
+[END]
 
 
 //Text $1AD110
@@ -1415,9 +1415,9 @@ which reduces HP over time.[END]
 
 //Text $1AD0B8
 #WRITE(ptr,$18D3A0)
-リライズで、射属性ダメージを半減[LINE]
-できる「射属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that reduces[LINE]
+shot damage by half.[LINE]
+[END]
 
 
 //Text $1AD0A0
@@ -1427,9 +1427,9 @@ which reduces HP over time.[END]
 
 //Text $1AD048
 #WRITE(ptr,$18D3BC)
-リライズで、音属性ダメージを半減[LINE]
-できる「音属性耐性」を付加する[LINE]
-宝石に変化する。[END]
+Rerise into a gem that[LINE]
+reduces damage by half.[LINE]
+[END]
 
 
 //Text $1AD030
@@ -1439,8 +1439,8 @@ which reduces HP over time.[END]
 
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-攻撃力を一定時間上昇する宝石に[LINE]
+Rerise into a gem that[Square_ani2]＋[Down_blink]で、[LINE]
+temporarily increases P. ATK[LINE]
 変化する。[END]
 
 
@@ -1464,7 +1464,7 @@ which reduces HP over time.[END]
 //Text $1ACF00
 #WRITE(ptr,$18D410)
 Rerise into a gem that[LINE]
-temporily increase P. DEF[LINE]
+temporily increases P. DEF[LINE]
 with [Square_ani2]＋[Down_blink] Charge.[END]
 
 
@@ -1777,7 +1777,7 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1B09F0
 #WRITE(ptr,$18D708)
-A jewel that prevents [Poison],[LINE]
+A gem that prevents [Poison],[LINE]
 a status ailment that reduces HP.[LINE]
 [END]
 
@@ -1789,7 +1789,7 @@ a status ailment that reduces HP.[LINE]
 
 //Text $1B09A8
 #WRITE(ptr,$18D724)
-A jewel that prevents [Sleep],[LINE]
+A gem that prevents [Sleep],[LINE]
 a status ailment that renders[LINE]
 you unable to act.[LINE]
 [END]
@@ -1797,12 +1797,12 @@ you unable to act.[LINE]
 
 //Text $1B0998
 #WRITE(ptr,$18D73C)
-[Sign_2]Stone[END]
+[Sign_2]Petrify[END]
 
 
 //Text $1B0960
 #WRITE(ptr,$18D740)
-A jewel that prevents [Stone],[LINE]
+A gem that prevents [Petrify],[LINE]
 a status ailment that renders[LINE]
 you unable to act.[LINE]
 [END]
@@ -1815,7 +1815,7 @@ you unable to act.[LINE]
 
 //Text $1B0918
 #WRITE(ptr,$18D75C)
-A jewel that prevents [Weak],[LINE]
+A gem that prevents [Weak],[LINE]
 a status ailment that slows[LINE]
 CC recovery.[LINE]
 [END]
@@ -1828,7 +1828,7 @@ CC recovery.[LINE]
 
 //Text $1B08D0
 #WRITE(ptr,$18D778)
-A jewel that prevents [Paralyze],[LINE]
+A gem that prevents [Paralyze],[LINE]
 a status ailment that paralyzes[LINE]
 you when you take any action.[LINE]
 [END]
@@ -1841,7 +1841,7 @@ you when you take any action.[LINE]
 
 //Text $1B0888
 #WRITE(ptr,$18D794)
-A jewel that prevents [Seal],[LINE]
+A gem that prevents [Seal],[LINE]
 a status ailment that prevents[LINE]
 the use of artes.[LINE]
 [END]
@@ -1854,7 +1854,7 @@ the use of artes.[LINE]
 
 //Text $1B0838
 #WRITE(ptr,$18D7B0)
-A jewel that reduces fire[LINE]
+A gem that reduces fire[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1866,7 +1866,7 @@ damage by half.[LINE]
 
 //Text $1B07E8
 #WRITE(ptr,$18D7CC)
-A jewel that reduces water[LINE]
+A gem that reduces water[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1878,7 +1878,7 @@ damage by half.[LINE]
 
 //Text $1B0798
 #WRITE(ptr,$18D7E8)
-A jewel that reduces earth[LINE]
+A gem that reduces earth[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1890,7 +1890,7 @@ damage by half.[LINE]
 
 //Text $1B0748
 #WRITE(ptr,$18D804)
-A jewel that reduces wind[LINE]
+A gem that reduces wind[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1902,7 +1902,7 @@ damage by half.[LINE]
 
 //Text $1B06F8
 #WRITE(ptr,$18D820)
-A jewel that reduces light[LINE]
+A gem that reduces light[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1914,7 +1914,7 @@ damage by half.[LINE]
 
 //Text $1B06A8
 #WRITE(ptr,$18D83C)
-A jewel that reduces dark[LINE]
+A gem that reduces dark[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1926,19 +1926,19 @@ damage by half.[LINE]
 
 //Text $1B0658
 #WRITE(ptr,$18D858)
-A jewel that reduces slash[LINE]
+A gem that reduces slash[LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0648
 #WRITE(ptr,$18D870)
-[Sign_2]Blow[END]
+[Sign_2]Strike[END]
 
 
 //Text $1B0608
 #WRITE(ptr,$18D874)
-A jewel that reduces blow[LINE]
+A gem that reduces strike[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1950,7 +1950,7 @@ damage by half.[LINE]
 
 //Text $1B05B8
 #WRITE(ptr,$18D890)
-A jewel that reduces shot[LINE]
+A gem that reduces shot[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1962,7 +1962,7 @@ damage by half.[LINE]
 
 //Text $1B0568
 #WRITE(ptr,$18D8AC)
-A jewel that reduces sound[LINE]
+A gem that reduces sound[LINE]
 damage by half.[LINE]
 [END]
 
@@ -1975,7 +1975,7 @@ damage by half.[LINE]
 //Text $1B0520
 #WRITE(ptr,$18D8C8)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase P. Atk.[LINE]
+temporarily increase P. ATK.[LINE]
 [END]
 
 
@@ -1999,7 +1999,7 @@ temporarily increase M. Atk.[LINE]
 //Text $1B0488
 #WRITE(ptr,$18D900)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase P. Def.[LINE]
+temporarily increase P. DEF.[LINE]
 [END]
 
 
@@ -2094,9 +2094,9 @@ restore HP.[LINE]
 
 //Text $1B0238
 #WRITE(ptr,$18D9E0)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-敵の防御を崩す攻撃判定が[LINE]
-発生する宝石。[END]
+During battle, press [Square_ani2]＋[Down_blink] near an[LINE]
+enemy to break his guard.[LINE]
+[END]
 
 
 //Text $1B0228
@@ -2106,8 +2106,8 @@ restore HP.[LINE]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
-戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
-減少効果を打ち消す宝石。[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to temporarily[LINE]
+prevent status ailments.[LINE]
 [END]
 
 
@@ -2118,7 +2118,7 @@ restore HP.[LINE]
 
 //Text $1B01C0
 #WRITE(ptr,$18DA18)
-最小ＣＣを１増やす宝石。[LINE]
+Increases min CC by 1.[LINE]
 [LINE]
 [END]
 
@@ -2130,7 +2130,7 @@ restore HP.[LINE]
 
 //Text $1B0190
 #WRITE(ptr,$18DA34)
-最大ＣＣを１増やす宝石。[LINE]
+Increases max CC by 1.[LINE]
 [LINE]
 [END]
 
@@ -2142,7 +2142,7 @@ restore HP.[LINE]
 
 //Text $1B0160
 #WRITE(ptr,$18DA50)
-最大ＣＣを２増やす宝石。[LINE]
+Increases max CC by 2.[LINE]
 [LINE]
 [END]
 
@@ -2154,7 +2154,7 @@ restore HP.[LINE]
 
 //Text $1B0128
 #WRITE(ptr,$18DA6C)
-最小ＣＣと最大ＣＣを１増やす宝石。[LINE]
+Increases min and max CC by 1.[LINE]
 [LINE]
 [END]
 
@@ -2166,7 +2166,7 @@ restore HP.[LINE]
 
 //Text $1B00F8
 #WRITE(ptr,$18DA88)
-ＣＣを常に１５にする宝石。[LINE]
+Locks CC to 15.[LINE]
 [LINE]
 [END]
 
@@ -2178,8 +2178,8 @@ restore HP.[LINE]
 
 //Text $1B00C8
 #WRITE(ptr,$18DAA4)
-ＣＣを平均で固定にする宝石。[LINE]
-[LINE]
+Sets the CC to the average of[LINE]
+the min and max CC.[LINE]
 [END]
 
 
@@ -2190,8 +2190,8 @@ restore HP.[LINE]
 
 //Text $1B0090
 #WRITE(ptr,$18DAC0)
-クリティカル時にＣＣを＋１する[LINE]
-宝石。[LINE]
+A gem that gives +1 CC on[LINE]
+critical hits.[LINE]
 [END]
 
 
@@ -2202,8 +2202,8 @@ restore HP.[LINE]
 
 //Text $1B0058
 #WRITE(ptr,$18DADC)
-一定時間毎にＨＰが微量回復する[LINE]
-宝石。[LINE]
+Restores a small amount of HP[LINE]
+over time.[LINE]
 [END]
 
 
@@ -2214,8 +2214,8 @@ restore HP.[LINE]
 
 //Text $1B0020
 #WRITE(ptr,$18DAF8)
-敵を倒したときにＨＰが回復する[LINE]
-宝石。[LINE]
+Restores HP when you defeat[LINE]
+an enemy.[LINE]
 [END]
 
 
@@ -2226,8 +2226,8 @@ restore HP.[LINE]
 
 //Text $1AFFE8
 #WRITE(ptr,$18DB14)
-敵を倒したときにＣＣを＋２する[LINE]
-宝石。[LINE]
+Gain +2 CC when you defeat[LINE]
+an enemy.[LINE]
 [END]
 
 
@@ -2238,8 +2238,8 @@ restore HP.[LINE]
 
 //Text $1AFFA0
 #WRITE(ptr,$18DB30)
-敵を倒したときにブラストゲージが[LINE]
-加算される宝石。[LINE]
+Increases the blast gauge[LINE]
+when you defeat an enemy.[LINE]
 [END]
 
 
@@ -2250,8 +2250,8 @@ restore HP.[LINE]
 
 //Text $1AFF58
 #WRITE(ptr,$18DB4C)
-エイミングダッシュ中[LINE]
-物理攻撃を防御できる宝石。[LINE]
+Increases defense during a[LINE]
+front step.[LINE]
 [END]
 
 
@@ -2262,9 +2262,9 @@ restore HP.[LINE]
 
 //Text $1AFEF8
 #WRITE(ptr,$18DB68)
-フラッシュガード[LINE]
-（敵の攻撃をひきつけてガード）[LINE]
-でＣＣが２加算する宝石。[END]
+A gem that adds 2 CC upon a[LINE]
+Flash Guard (Guard just before you[LINE]
+receive an attack).[END]
 
 
 //Text $1AFEE8
@@ -2274,7 +2274,7 @@ restore HP.[LINE]
 
 //Text $1AFEA0
 #WRITE(ptr,$18DB84)
-A gem that restores HP with[LINE]
+A gem that restores HP upon a[LINE]
 Flash Guard (Guard just before you[LINE]
 receive an attack).[END]
 
@@ -2286,7 +2286,7 @@ receive an attack).[END]
 
 //Text $1AFE60
 #WRITE(ptr,$18DBA0)
-A jewel that doubles the experience gained.[LINE]
+A gem that doubles the experience gained.[LINE]
 However...[LINE]
 [END]
 
@@ -2298,7 +2298,7 @@ However...[LINE]
 
 //Text $1AFE20
 #WRITE(ptr,$18DBBC)
-A jewel that doubles damage dealt.[LINE]
+A gem that doubles damage dealt.[LINE]
 However...[LINE]
 [END]
 
@@ -2539,9 +2539,9 @@ obsolete, it's still a human milestone.[END]
 
 //Text $1B28E0
 #WRITE(ptr,$18DF4C)
-耐食性の優れた銅製の斧。[LINE]
-天地戦争時代から使われていた[LINE]
-優秀な金属。[END]
+An axe made of copper with excellent[LINE]
+erosion resistance. This metal was used[LINE]
+since the days of the Aeth'r War.[END]
 
 
 //Text $1B28C8
@@ -3876,7 +3876,7 @@ genius scientist during the Aeth'er War.[END]
 //Text $1B52F8
 #WRITE(ptr,$18FA04)
 Upper body armor imbued with the[LINE]
-earth Goddess' protection. Protects[LINE]
+Earth Goddess' protection. Protects[LINE]
 the body with a holy aura.[END]
 
 //Text $1B52E0
@@ -4633,7 +4633,7 @@ enemies' guards.[END]
 //Text $1B3970
 #WRITE(ptr,$1909B8)
 Cloak made of fine cloth.[LINE]
-Vestment of the Straylise[LINE]
+Vestment of the Straylize[LINE]
 clergy. Has Atamoni's blessing.[END]
 
 //Text $1B3958
@@ -4864,7 +4864,7 @@ Extremely valuable.[END]
 
 //Text $1B31F8
 #WRITE(ptr,$190EA4)
-Robe of the Straylise Temple.[LINE]
+Robe of the Straylize Temple.[LINE]
 Uniform handed out to those who[LINE]
 become disciples of God.[END]
 
@@ -5016,7 +5016,7 @@ Can only be acquired by the chosen ones.[END]
 
 //Text $1B83F0
 #WRITE(ptr,$191208)
-[Sign_1]Leather Gauntlet[END]
+[Sign_1]Leather Gauntlets[END]
 
 
 //Text $1B83A8
@@ -5033,70 +5033,65 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B8338
 #WRITE(ptr,$19122C)
-薄い銅板で作られたガントレット。[LINE]
-天地戦争時代から使われていた、[LINE]
-伝統ある篭手。[END]
-
+Gauntlet made of thin[LINE]
+bronze. Traditional gauntlets used[LINE]
+since the age of the Aeth'er War.[END]
 
 //Text $1B8318
 #WRITE(ptr,$191248)
-[Sign_1]Iron Gauntlet[END]
+[Sign_1]Iron Gauntlets[END]
 
 
 //Text $1B82D0
 #WRITE(ptr,$19124C)
-鉄板で作られたガントレット。[LINE]
-重いが堅くて丈夫。[LINE]
-もっとも身近な金属。[END]
+Gauntlets made of iron,[LINE]
+the most familiar of metals.[LINE]
+Sturdy and tough, but heavy.[END]
 
 
 //Text $1B82B0
 #WRITE(ptr,$191268)
-[Sign_1]Steel Gauntlet[END]
+[Sign_1]Steel Gauntlets[END]
 
 
 //Text $1B8278
 #WRITE(ptr,$19126C)
-鋼板で作られたガントレット。[LINE]
-騎士見習たちの愛用品。[LINE]
-[END]
-
+Gauntlets made of several[LINE]
+steel plates. A favorite of[LINE]
+knight apprentices.[END]
 
 //Text $1B8260
 #WRITE(ptr,$191288)
-[Sign_1]Titanium Gauntlet[END]
+[Sign_1]Titanium Gauntlets[END]
 
 
 //Text $1B8218
 #WRITE(ptr,$19128C)
-チタン合金で強化したガントレット。[LINE]
-非常に軽く、並外れた耐食性を持つ。[LINE]
-[END]
-
+Gauntlets strengthened with[LINE]
+a titanium alloy. Very light[LINE]
+and corrosion resistant.[END]
 
 //Text $1B81F8
 #WRITE(ptr,$1912A8)
-[Sign_1]Silver Gauntlet[END]
+[Sign_1]Silver Gauntlets[END]
 
 
 //Text $1B81C0
 #WRITE(ptr,$1912AC)
-銀細工で装飾されたガントレット。[LINE]
-白い輝きが美しい。[LINE]
+Gauntlets decorated with[LINE]
+silverwork. Has a beautiful luster.[LINE]
 [END]
-
 
 //Text $1B81A0
 #WRITE(ptr,$1912C8)
-[Sign_1]Gold Gauntlet[END]
+[Sign_1]Gold Gauntlets[END]
 
 
 //Text $1B8160
 #WRITE(ptr,$1912CC)
-金細工で装飾したガントレット。[LINE]
-別名「豪華なガントレット」。[LINE]
-[END]
-
+Gauntlets decorated with[LINE]
+gold. Also known as the[LINE]
+"Opulent Gauntlets".[END]
 
 //Text $1B8140
 #WRITE(ptr,$1912E8)
@@ -5105,58 +5100,54 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B8100
 #WRITE(ptr,$1912EC)
-ミスリル細工のガントレット。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Gauntlets decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 
 //Text $1B80E0
 #WRITE(ptr,$191308)
-[Sign_1]Hyper Gauntlet[END]
+[Sign_1]Hyper Gauntlets[END]
 
 
 //Text $1B8090
 #WRITE(ptr,$19130C)
-獅子の牙と火鼠の皮で加工した[LINE]
-ガントレット。[LINE]
-百獣の王の力が込められている。[END]
-
+Gauntlets made with lion teeth[LINE]
+and fire rat skin. Imbued with[LINE]
+the power of the King of Beasts.[END]
 
 //Text $1B8078
 #WRITE(ptr,$191328)
-[Sign_1]Rare Gauntlet[END]
+[Sign_1]Rare Gauntlets[END]
 
 
 //Text $1B5880
 #WRITE(ptr,$19132C)
-名工ギースの魂のこもった[LINE]
-無二の傑作。[LINE]
-きわめて希少価値が高い。[END]
+Masterpiece imbued with[LINE]
+the soul of Egith.[LINE]
+Extremely valuable.[END]
 
 
 //Text $1B8060
 #WRITE(ptr,$191348)
-[Sign_1]Battle Gauntlet[END]
+[Sign_1]Battle Gauntlets[END]
 
 
 //Text $1B8000
 #WRITE(ptr,$19134C)
-戦闘用に特化したガントレット。[LINE]
-機能性が良いだけではなく、[LINE]
-装備者の力を限界まで引き上げる。[END]
-
+Gauntlets made specially for combat.[LINE]
+Not only functional, but also has the[LINE]
+power to push past one's limits.[END]
 
 //Text $1B7FE8
 #WRITE(ptr,$191368)
-[Sign_1]Grimm Gauntlet[END]
+[Sign_1]Grimm Gauntlets[END]
 
 
 //Text $1B7F90
 #WRITE(ptr,$19136C)
-伝説に登場する幻想の力を秘めた[LINE]
-ガントレット。口伝を書物に[LINE]
-まとめた兄弟の名を冠する。[END]
-
+Gauntlets imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 
 //Text $1B7F78
 #WRITE(ptr,$191388)
@@ -5165,10 +5156,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7F30
 #WRITE(ptr,$19138C)
-革で繋ぎ合わせたグローブ。[LINE]
-少し固いが丈夫で安全。[LINE]
-女性の旅のお供に。[END]
-
+Leathern Gloves. Somewhat stiff,[LINE]
+but strong. A regular companion[LINE]
+of female travellers.[END]
 
 //Text $1B7F18
 #WRITE(ptr,$1913A8)
@@ -5177,10 +5167,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7EC0
 #WRITE(ptr,$1913AC)
-まふまふの毛で作られたファーが[LINE]
-ついてる可愛い手袋。[LINE]
-寒くてもお洒落したいあなたへ。[END]
-
+Cute mittens made of soft[LINE]
+fur. For you who is stylish[LINE]
+but feels cold.[END]
 
 //Text $1B7EA8
 #WRITE(ptr,$1913C8)
@@ -5189,10 +5178,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7E48
 #WRITE(ptr,$1913CC)
-シルクで作られた美しいグローブ。[LINE]
-滑らかな手触りに上品な刺繍。[LINE]
-身に付けるだけであなたも淑女に。[END]
-
+Beautiful gloves made of silk.[LINE]
+Elegant and nice to the touch.[LINE]
+You too can be a lady.[END]
 
 //Text $1B7E30
 #WRITE(ptr,$1913E8)
@@ -5201,10 +5189,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7DD8
 #WRITE(ptr,$1913EC)
-月夜を意匠して作られたグローブ。[LINE]
-聖なる月の力が宿っている。[LINE]
-クロークとセットでどうぞ。[END]
-
+Gloves designed after a moonlit night.[LINE]
+Endowed with the moon's holy power.[LINE]
+Goes well with its cloak.[END]
 
 //Text $1B7DC0
 #WRITE(ptr,$191408)
@@ -5213,10 +5200,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7D68
 #WRITE(ptr,$19140C)
-星を意匠して作られたグローブ。[LINE]
-指先はまるで流星のよう。[LINE]
-クロークとセットでどうぞ。[END]
-
+Gloves designed after a star. Its[LINE]
+fingertips look like falling stars.[LINE]
+Goes well with its cloak.[END]
 
 //Text $1B7D50
 #WRITE(ptr,$191428)
@@ -5225,10 +5211,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7CF8
 #WRITE(ptr,$19142C)
-慈愛のルーンが刺繍されたグローブ。[LINE]
-触れる者全てを癒す力を、[LINE]
-身に付けた者に与える。[END]
-
+Gloves embroidered with the Love[LINE]
+rune. Imbues one with the power[LINE]
+to heal with a touch.[END]
 
 //Text $1B7CE0
 #WRITE(ptr,$191448)
@@ -5237,10 +5222,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7C88
 #WRITE(ptr,$19144C)
-原料や生成が不明なグローブ。[LINE]
-見る角度により色が変化する。[LINE]
-クロークとセットでどうぞ。[END]
-
+Glove made of unknown materials[LINE]
+Its colors change with viewing angle.[LINE]
+Goes well with its cloak.[END]
 
 //Text $1B7C70
 #WRITE(ptr,$191468)
@@ -5249,10 +5233,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7C30
 #WRITE(ptr,$19146C)
-ミスリル細工のグローブ。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
-
+Gloves decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]
 
 //Text $1B7C18
 #WRITE(ptr,$191488)
@@ -5261,10 +5244,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7BC0
 #WRITE(ptr,$19148C)
-伝承で伝わる伝説の義賊が使って[LINE]
-いたグローブ。気配を絶ち相手の[LINE]
-懐を掠め取る神業を得る。[END]
-
+Gloves said to have been worn by[LINE]
+a legendary thief. Allows one to[LINE]
+pickpocket even hidden targets.[END]
 
 //Text $1B7BA8
 #WRITE(ptr,$1914A8)
@@ -5273,10 +5255,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7B50
 #WRITE(ptr,$1914AC)
-伝説に登場する幻想の力を秘めた[LINE]
-グローブ。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
-
+Gloves imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 
 //Text $1B7B38
 #WRITE(ptr,$1914C8)
@@ -5285,10 +5266,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7AE8
 #WRITE(ptr,$1914CC)
-ストレイライズ神殿の司祭に[LINE]
-与えられるネックレス。[LINE]
-集中力を高める効果がある。[END]
-
+Necklace given to the priests of[LINE]
+the Straylize temple. Increases[LINE]
+the wearer's concentration.[END]
 
 //Text $1B7AC8
 #WRITE(ptr,$1914E8)
@@ -5297,10 +5277,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7A60
 #WRITE(ptr,$1914EC)
-地の精霊の加護を受けたネックレス。[LINE]
-揺るがぬ冷静な心を与える。[LINE]
-地属性晶術のダメージがアップする。[END]
-
+Necklace imbued with the Earth Spirit's[LINE]
+protection. Gives one unshakable composure.[LINE]
+Increases the damage of earth spells.[END]
 
 //Text $1B7A40
 #WRITE(ptr,$191508)
@@ -5309,10 +5288,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B79D0
 #WRITE(ptr,$19150C)
-風の精霊の加護を受けたネックレス。[LINE]
-理想を現実へと導く行動力を与える。[LINE]
-風属性晶術のダメージがアップする。[END]
-
+Necklace imbued with the Wind Spirit's[LINE]
+protection. Gives one the drive to make ideals[LINE]
+true. Increases the damage of wind spells.[END]
 
 //Text $1B79B0
 #WRITE(ptr,$191528)
@@ -5321,10 +5299,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7948
 #WRITE(ptr,$19152C)
-火の精霊の加護を受けたネックレス。[LINE]
-神秘なる者の声を聞く力を与える。[LINE]
-火属性晶術のダメージがアップする。[END]
-
+Necklace imbued with the Fire Spirit's[LINE]
+protection. Allows one to hear secret[LINE]
+voices. Increases the damage of fire spells.[END]
 
 //Text $1B7930
 #WRITE(ptr,$191548)
@@ -5333,10 +5310,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B78C8
 #WRITE(ptr,$19154C)
-水の精霊の加護を受けたネックレス。[LINE]
-精神力をより鋭く研ぎ澄まされる。[LINE]
-水属性晶術のダメージがアップする。[END]
-
+Necklace imbued with the Water Spirit's[LINE]
+protection. Sharpens one's willpower.[LINE]
+Increases the damage of water spells.[END]
 
 //Text $1B78B0
 #WRITE(ptr,$191568)
@@ -5345,10 +5321,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7848
 #WRITE(ptr,$19156C)
-光の精霊の加護を受けたネックレス。[LINE]
-心に秘めた力を増加させる。[LINE]
-光属性晶術のダメージがアップする。[END]
-
+Necklace imbued with the Light Spirit's[LINE]
+protection. heightens one's power to keep [LINE]
+secrets. Increases the damage of light spells.[END]
 
 //Text $1B7830
 #WRITE(ptr,$191588)
@@ -5357,10 +5332,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B77D0
 #WRITE(ptr,$19158C)
-大地母神の祝福を受けたネックレス。[LINE]
-大いなる祝福と深い慈愛を。[LINE]
-地属性晶術の詠唱時間が減少する。[END]
-
+Necklace imbued with the Earth[LINE]
+Goddess' blessing and love. Decreases[LINE]
+the casting time of earth spells.[END]
 
 //Text $1B77B0
 #WRITE(ptr,$1915A8)
@@ -5369,10 +5343,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7750
 #WRITE(ptr,$1915AC)
-風の王の祝福を受けたネックレス。[LINE]
-大いなる祝福と歪まぬ心を。[LINE]
-風属性晶術の詠唱時間が減少する。[END]
-
+Necklace imbued with the Lord of[LINE]
+Winds' blessing and warped heart.[LINE]
+Decreases the casting time of wind spells.[END]
 
 //Text $1B7738
 #WRITE(ptr,$1915C8)
@@ -5381,10 +5354,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B76D8
 #WRITE(ptr,$1915CC)
-炎の女神の祝福を受けたネックレス。[LINE]
-大いなる祝福と貫く意思を。[LINE]
-火属性晶術の詠唱時間が減少する。[END]
-
+Necklace imbued with the Fire Goddess'[LINE]
+blessing and impenetrable will. Decreases [LINE]
+the casting time of fire spells.[END]
 
 //Text $1B76B8
 #WRITE(ptr,$1915E8)
@@ -5393,10 +5365,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7658
 #WRITE(ptr,$1915EC)
-海の神の祝福を受けたネックレス。[LINE]
-大いなる祝福と惑わぬ心を。[LINE]
-水属性晶術の詠唱時間が減少する。[END]
-
+Necklace imbued with the Ocean God's[LINE]
+blessing and unwavering heart. Decreases [LINE]
+the casting time of water spells.[END]
 
 //Text $1B7638
 #WRITE(ptr,$191608)
@@ -5405,10 +5376,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B75D0
 #WRITE(ptr,$19160C)
-光の大神の祝福を受けたネックレス。[LINE]
-大いなる祝福と永久の忠誠を。[LINE]
-光属性晶術の詠唱時間が減少する。[END]
-
+Necklace imbued with the God of Light's[LINE]
+blessing and eternal integrity. Decreases [LINE]
+the casting time of light spells.[END]
 
 //Text $1B75C0
 #WRITE(ptr,$191628)
@@ -5417,10 +5387,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7570
 #WRITE(ptr,$19162C)
-1本の木材で構成された長弓。[LINE]
-弓の道に進むのなら、[LINE]
-まずは自分の弓作りから。[END]
-
+Longbow made of a single piece of[LINE]
+lumber. To advance through the Way[LINE]
+of Bow one needs to make one's own.[END]
 
 //Text $1B7558
 #WRITE(ptr,$191648)
@@ -5429,10 +5398,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7508
 #WRITE(ptr,$19164C)
-複数の材料と材質を合わせた長弓。[LINE]
-軸がぶれず適度に柔軟。[LINE]
-弓に慣れてきた狩人用。[END]
-
+Longbow made of several materials.[LINE]
+Moderately flexible. For hunters[LINE]
+familiar with the use of bows.[END]
 
 //Text $1B74F0
 #WRITE(ptr,$191668)
@@ -5441,10 +5409,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7498
 #WRITE(ptr,$19166C)
-風よりも速く、駆ける獣をも射る。[LINE]
-自らが狩った獣の体の一部を[LINE]
-使用して作るのが伝統。[END]
-
+Faster than the wind, it can reach[LINE]
+fleeing prey. Traditionally made[LINE]
+with a part of a hunted animal.[END]
 
 //Text $1B7480
 #WRITE(ptr,$191688)
@@ -5453,10 +5420,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7428
 #WRITE(ptr,$19168C)
-錬金術から生まれた特殊金属の長弓。[LINE]
-獲物の存在を感知すると、[LINE]
-熱を持って伝えるという。[END]
-
+Longbow made from a special[LINE]
+alchemically created metal. Said to[LINE]
+feel a prey's presence by its heat.[END]
 
 //Text $1B7410
 #WRITE(ptr,$1916A8)
@@ -5465,10 +5431,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B73B8
 #WRITE(ptr,$1916AC)
-草原を駆ける獣よりも速く。[LINE]
-天高く飛ぶ鳥よりも遠くへ。[LINE]
-最高の腕を持つ狩人のための長弓。[END]
-
+Faster than an animal running through the[LINE]
+fields. Faster than the birds flying through[LINE]
+the skies. Made for experienced hunters.[END]
 
 //Text $1B73A8
 #WRITE(ptr,$1916C8)
@@ -5477,10 +5442,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7368
 #WRITE(ptr,$1916CC)
-一撃必中。[LINE]
-暗殺に特化された長弓。[LINE]
-音もなく放たれる死の一撃。[END]
-
+One-hit one kill. Longbow used in[LINE]
+assassinations. Shoots death silently.[LINE]
+[END]
 
 //Text $1B7358
 #WRITE(ptr,$1916E8)
@@ -5489,10 +5453,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7308
 #WRITE(ptr,$1916EC)
-その名の通り戦闘に特化した長弓。[LINE]
-強度もあり、その一撃は敵の装甲を[LINE]
-貫くほど。[END]
-
+Longbow made for use in[LINE]
+battlefields. Strong enough to[LINE]
+pierce the enemy's armor.[END]
 
 //Text $1B72F8
 #WRITE(ptr,$191708)
@@ -5501,10 +5464,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B72A8
 #WRITE(ptr,$19170C)
-伝説に登場する幻想の力を秘めた[LINE]
-長弓。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
-
+Longbow imbued with the hidden power of[LINE]
+fantasies. Named after the brothers[LINE]
+who collected oral traditions into a book.[END]
 
 //Text $1B7298
 #WRITE(ptr,$191728)
@@ -5513,10 +5475,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7248
 #WRITE(ptr,$19172C)
-古くから薬用植物として重宝され、[LINE]
-体を温めたり、[LINE]
-疲労回復などの効果がある。[END]
-
+Used as a medicinal plant[LINE]
+since ancient times, it warms[LINE]
+the body and relieves fatigue.[END]
 
 //Text $1B7230
 #WRITE(ptr,$191748)
@@ -5525,10 +5486,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-柄頭の形状がリングになっている[LINE]
-短剣。輪に紐を通して[LINE]
-投げて使うことも可能。[END]
-
+Dagger with a ring-shapped[LINE]
+pommel. A string can be tied to[LINE]
+the ring and the dagger throw.[END]
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
@@ -5537,10 +5497,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7168
 #WRITE(ptr,$19176C)
-騎士達が持つ切っ先の尖った短剣。[LINE]
-相手を傷つけることよりも[LINE]
-儀礼的なことで使われる事が多い。[END]
-
+Dagger with a sharp point used by[LINE]
+knights. Besides cutting enemies[LINE]
+down it can also be used for etiquette.[END]
 
 //Text $1B7150
 #WRITE(ptr,$191788)
@@ -5549,10 +5508,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7108
 #WRITE(ptr,$19178C)
-柄頭が耳のような形状をした短剣。[LINE]
-握りやすく、優れた貫通力を持つ。[LINE]
-[END]
-
+Dagger with a ear-shaped[LINE]
+pommel. Is easy to grip and[LINE]
+has great piercing power.[END]
 
 //Text $1B70F0
 #WRITE(ptr,$1917A8)
@@ -5561,10 +5519,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7098
 #WRITE(ptr,$1917AC)
-二刀流剣士の必需品、左手用短剣。[LINE]
-硬い刀身を持ち、[LINE]
-相手の剣を受け止めることも可能。[END]
-
+Left-hand held dagger, a necessity for[LINE]
+double-handed swordsman. Has a sharp[LINE]
+blade and can block enemy attacks.[END]
 
 //Text $1B7080
 #WRITE(ptr,$1917C8)
@@ -5573,10 +5530,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B7038
 #WRITE(ptr,$1917CC)
-刺すことに力点を置いた短剣。[LINE]
-決闘で使われる殺傷能力の高い武器。[LINE]
-[END]
-
+Dagger made for stabbing.[LINE]
+When used in duel can cause[LINE]
+a lot of bloodshed.[END]
 
 //Text $1B7020
 #WRITE(ptr,$1917E8)
@@ -5585,10 +5541,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6FB8
 #WRITE(ptr,$1917EC)
-世界中でもっとも洗練された武器。[LINE]
-刃は両刃で波形にうねっている。[LINE]
-身を守り、邪悪を退ける力を持つ。[END]
-
+The worlds most refined weapon.[LINE]
+Its double-edged blade undulates.[LINE]
+Protects the body and expels evil.[END]
 
 //Text $1B6FA8
 #WRITE(ptr,$191808)
@@ -5597,10 +5552,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6F60
 #WRITE(ptr,$19180C)
-非常に高価なきのこの王様。[LINE]
-傘が開ききると[LINE]
-香りも味も落ちてしまう。[END]
-
+The extremely expensive king of[LINE]
+mushrooms. Acquires a powerful[LINE]
+taste and smell when its cap opens.[END]
 
 //Text $1B6F48
 #WRITE(ptr,$191828)
@@ -5609,10 +5563,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6F08
 #WRITE(ptr,$19182C)
-『必勝』と描かれたバンダナ。[LINE]
-気が引き締まり、攻撃力アップ！[LINE]
+A "Certain Victory" bandana.[LINE]
+Increases attack when worn.[LINE]
 [END]
-
 
 //Text $1B6EF0
 #WRITE(ptr,$191848)
@@ -5621,22 +5574,20 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6EA8
 #WRITE(ptr,$19184C)
-『激烈』と描かれたバンダナ。[LINE]
-熱毒を防止し、攻撃力を上昇させる。[LINE]
-[END]
-
+A "Fury" bandana. Protects[LINE]
+against poison and increases[LINE]
+attack when worn.[END]
 
 //Text $1B6E90
 #WRITE(ptr,$191868)
-[Sign_1]Adamant Bandana[END]
+[Sign_1]Stout Bandana[END]
 
 
 //Text $1B6E48
 #WRITE(ptr,$19186C)
-『堅牢』と描かれたバンダナ。[LINE]
-石化を防止し、防御力を上昇させる。[LINE]
-[END]
-
+A "Stout" bandana. Protects[LINE]
+against petrification and increases[LINE]
+defense when worn.[END]
 
 //Text $1B6E30
 #WRITE(ptr,$191888)
@@ -5645,46 +5596,42 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6DF0
 #WRITE(ptr,$19188C)
-『天空』と描かれたバンダナ。[LINE]
-麻痺を防止し、体力を上昇させる。[LINE]
-[END]
-
+A "Sky" bandana. Protects[LINE]
+against paralysis and increases[LINE]
+endurance when worn.[END]
 
 //Text $1B6DD8
 #WRITE(ptr,$1918A8)
-[Sign_1]Awake Bandana[END]
+[Sign_1]Awakening Bandana[END]
 
 
 //Text $1B6D90
 #WRITE(ptr,$1918AC)
-『覚醒』と描かれたバンダナ。[LINE]
-睡眠を防止し、集中力を上昇させる。[LINE]
-[END]
-
+An "Awakening" bandana. Protects[LINE]
+against sleep and increases[LINE]
+concentration when worn.[END]
 
 //Text $1B6D78
 #WRITE(ptr,$1918C8)
-[Sign_1]Hurricane Bandana[END]
+[Sign_1]Gale Bandana[END]
 
 
 //Text $1B6D30
 #WRITE(ptr,$1918CC)
-『疾風』と描かれたバンダナ。[LINE]
-衰弱を防止し、回避率を上昇させる。[LINE]
-[END]
-
+A "Gale" bandana. Protects[LINE]
+against weakness and increases[LINE]
+evasion when worn.[END]
 
 //Text $1B6D18
 #WRITE(ptr,$1918E8)
-[Sign_1]Destroyer Bandana[END]
+[Sign_1]Annihilation Bandana[END]
 
 
 //Text $1B6CD0
 #WRITE(ptr,$1918EC)
-『滅殺』と描かれたバンダナ。[LINE]
-封印を防止し、命中率を上昇させる。[LINE]
-[END]
-
+An "Annihilation" bandana. Protects[LINE]
+against seal and increases[LINE]
+accuracy when worn.[END]
 
 //Text $1B6CB8
 #WRITE(ptr,$191908)
@@ -5693,10 +5640,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6C80
 #WRITE(ptr,$19190C)
-『豪傑』と描かれたバンダナ。[LINE]
-攻撃力が大幅に上昇する。[LINE]
+A "Hero" bandana. Greatly[LINE]
+increases attack when worn.[LINE]
 [END]
-
 
 //Text $1B6C68
 #WRITE(ptr,$191928)
@@ -5705,10 +5651,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6C10
 #WRITE(ptr,$19192C)
-『革命』と描かれたバンダナ。[LINE]
-どんな事でも揺るがない！[LINE]
-全ての状態異常を防止する。[END]
-
+A "Revolution" bandana.[LINE]
+"Nothing will shake me!"[LINE]
+Protects against all ailments.[END]
 
 //Text $1B6BF8
 #WRITE(ptr,$191948)
@@ -5717,10 +5662,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6BB0
 #WRITE(ptr,$19194C)
-真っ赤なシンプルなリボン。[LINE]
-女の子の必需品。[LINE]
-火属性耐性を付加する。[END]
-
+A simple red ribbon.[LINE]
+A necessity for girls.[LINE]
+Increases fire resistance.[END]
 
 //Text $1B6B98
 #WRITE(ptr,$191968)
@@ -5729,10 +5673,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6B48
 #WRITE(ptr,$19196C)
-水色のプリーツ状リボン。[LINE]
-ちょっとおしゃまな女の子向け。[LINE]
-水属性耐性を付加する。[END]
-
+A light blue pleated ribbon.[LINE]
+Made for precocious girls.[LINE]
+Increases water resistance.[END]
 
 //Text $1B6B30
 #WRITE(ptr,$191988)
@@ -5741,10 +5684,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6AE0
 #WRITE(ptr,$19198C)
-サテン生地のオレンジリボン。[LINE]
-お姉さんに憧れる女の子へ。[LINE]
-地属性耐性を付加する。[END]
-
+An orange satin ribbon.[LINE]
+For girls who look up to ladies.[LINE]
+Increases earth resistance.[END]
 
 //Text $1B6AC8
 #WRITE(ptr,$1919A8)
@@ -5753,9 +5695,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6A70
 #WRITE(ptr,$1919AC)
-南国ちっくな緑のリボン。[LINE]
-人とは違った物をつけたい女の子向け。[LINE]
-風属性耐性を付加する。[END]
+A tropical green ribbon. For[LINE]
+girls who want to become different.[LINE]
+Increases wind resistance.[END]
 
 
 //Text $1B6A58
@@ -5765,9 +5707,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6A00
 #WRITE(ptr,$1919CC)
-天使のような羽つきリボン。[LINE]
-ワンランク上の女の子になれる！[LINE]
-光属性耐性を付加する。[END]
+Ribbon decorated with angel feathers.[LINE]
+Class up by wearing it![LINE]
+Increases light resistance.[END]
 
 
 //Text $1B69E8
@@ -5777,10 +5719,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6998
 #WRITE(ptr,$1919EC)
-神秘的な黒いリボン。[LINE]
-大人の女性も越えたいあなたへ。[LINE]
-闇属性耐性を付加する。[END]
-
+A mysterious black ribbon. For you[LINE]
+who wants to surpass adult women.[LINE]
+Increases dark resistance.[END]
 
 //Text $1B6980
 #WRITE(ptr,$191A08)
@@ -5789,10 +5730,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6920
 #WRITE(ptr,$191A0C)
-子供だけが身に付けられるリボン。[LINE]
-愛と夢と希望がいっぱい。[LINE]
-高ぶる気持ちでいっぱい動ける。[END]
-
+A ribbon for children.[LINE]
+Filled with love, hopes, and dreams.[LINE]
+Allows one to move excitedly.[END]
 
 //Text $1B6908
 #WRITE(ptr,$191A28)
@@ -5801,9 +5741,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B68B0
 #WRITE(ptr,$191A2C)
-大きな羽を飾りにつけた帽子。[LINE]
-洒落た帽子でワンランク上の男を[LINE]
-目指す。それがジョニー流。[END]
+A hat with a large feather for decoration.[LINE]
+Aiming to be classy with a stylish[LINE]
+hat. That's Karyl's style.[END]
 
 
 //Text $1B6898
@@ -5813,9 +5753,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6838
 #WRITE(ptr,$191A4C)
-強者のみが被ることを許される。[LINE]
-被れば称賛を浴びること間違いなし。[LINE]
-火属性の攻撃属性を付加する。[END]
+Only the strong are allowed to wear it.[LINE]
+With it, you're sure to be admired.[LINE]
+Imbues attacks with fire.[END]
 
 
 //Text $1B6820
@@ -5825,9 +5765,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B67B8
 #WRITE(ptr,$191A6C)
-世界を旅する冒険家が被っていたと[LINE]
-言われている帽子。放浪癖がつきます。[LINE]
-地属性の攻撃属性を付加する。[END]
+This hat is said to be worn by adventurers[LINE]
+traveling the world. It gives you wanderlust.[LINE]
+Imbues attacks with earth.[END]
 
 
 //Text $1B67A0
@@ -5837,21 +5777,21 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6738
 #WRITE(ptr,$191A8C)
-老いた魔術師が、帽子が風に飛ば[LINE]
-されないように作った帽子。それが幸せ。[LINE]
-風属性の攻撃属性を付加する。[END]
+A sorceror made this hat so it won't[LINE]
+be blown by the wind. That's happiness.[LINE]
+Imbues attacks with wind.[END]
 
 
 //Text $1B6720
 #WRITE(ptr,$191AA8)
-[Sign_1]Streak Hat[END]
+[Sign_1]Streaked Hat[END]
 
 
 //Text $1B66C0
 #WRITE(ptr,$191AAC)
-常に謎と戦う探求者のための帽子。[LINE]
-答えを導くと頭の上に何かが出る。[LINE]
-水属性の攻撃属性を付加する。[END]
+A hat for a seeker of mysteries.[LINE]
+A sign pops over your head when you find the answer.[LINE]
+Imbues attacks with water.[END]
 
 
 //Text $1B66A8
@@ -5861,9 +5801,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6648
 #WRITE(ptr,$191ACC)
-かつて「天使の合唱団」と呼ばれた[LINE]
-聖歌隊が被っていた由緒ある帽子。[LINE]
-光属性の攻撃属性を付加する。[END]
+A historic hat once worn by the[LINE]
+choir known as "Angel's Choir".[LINE]
+Imbues attacks with light.[END]
 
 
 //Text $1B6630
@@ -5873,9 +5813,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B65D0
 #WRITE(ptr,$191AEC)
-その声は、混沌で眠る不死の王をも[LINE]
-魅了する。伝説に残る詩人の帽子。[LINE]
-闇属性の攻撃属性を付加する。[END]
+The hat of a legendary poet. His voice[LINE]
+enchants even the sleeping kings.[LINE]
+Imbues attacks with dark.[END]
 
 
 //Text $1B65B8
@@ -5885,9 +5825,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6560
 #WRITE(ptr,$191B0C)
-街を離れるため返還した[LINE]
-チャンピオンベルトのレプリカ。[LINE]
-また取り戻しゃーいいのよ！[END]
+A replica of the Champion's belt.[LINE]
+The original was returned to leave[LINE]
+the city. We can get it back again![END]
 
 
 //Text $1B6548
@@ -5897,9 +5837,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6508
 #WRITE(ptr,$191B2C)
-闘技場フライ級を制覇した証。[LINE]
-通常攻撃にダウン効果が少しつく。[LINE]
-[END]
+Proof he has conquered the arena's[LINE]
+flyweight division. Normal attacks have[LINE]
+a low chance of downing foes.[END]
 
 
 //Text $1B64F0
@@ -5909,9 +5849,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B64A8
 #WRITE(ptr,$191B4C)
-闘技場バンタム級を制覇した証。[LINE]
-通常攻撃にダウン効果がそこそこつく。[LINE]
-[END]
+Proof he has conquered the arena's[LINE]
+bantamweight division. Normal attacks[LINE]
+have a slight chance of downing foes.[END]
 
 
 //Text $1B6490
@@ -5921,9 +5861,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6448
 #WRITE(ptr,$191B6C)
-闘技場ライト級を制覇した証。[LINE]
-通常攻撃にダウン効果がだいぶつく。[LINE]
-[END]
+Proof he has conquered the arena's[LINE]
+lightweight divison. Normal attacks have a[LINE]
+considerable chance of downing foes.[END]
 
 
 //Text $1B6430
@@ -5933,9 +5873,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B63E8
 #WRITE(ptr,$191B8C)
-闘技場ミドル級を制覇した証。[LINE]
-通常攻撃にダウン効果がけっこうつく。[LINE]
-[END]
+Proof he has conquered the arena's[LINE]
+middleweight division. Normal attacks[LINE]
+have a high chance of downing foes.[END]
 
 
 //Text $1B63D0
@@ -5945,9 +5885,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6388
 #WRITE(ptr,$191BAC)
-闘技場ヘビー級を制覇した証。[LINE]
-通常攻撃にダウン効果がかなりつく。[LINE]
-[END]
+Proof he has conquered the arena's[LINE]
+heavyweight division. Normal attacks[LINE]
+have a significant chance of downing foes.[END]
 
 
 //Text $1B6370
@@ -5957,9 +5897,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6328
 #WRITE(ptr,$191BCC)
-闘技場を制覇した者に贈られる[LINE]
-最強の証！[LINE]
-不屈の闘志でピンチを跳ね返す！[END]
+The greatest proof for those who have[LINE]
+conquered the arena![LINE]
+Bounce back from a pinch with your spirit![END]
 
 
 //Text $1B6310
@@ -5969,8 +5909,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B62D8
 #WRITE(ptr,$191BEC)
-セインガルド地方に生息する[LINE]
-モンスターを制覇した証！[LINE]
+Proof you conquered all monsters[LINE]
+in the Seinegald region![LINE]
 [END]
 
 
@@ -5981,8 +5921,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6280
 #WRITE(ptr,$191C0C)
-フィッツガルド地方に生息する[LINE]
-モンスターを制覇した証！[LINE]
+Proof you conquered all monsters[LINE]
+in the Fitzgald region![LINE]
 [END]
 
 
@@ -5993,8 +5933,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6230
 #WRITE(ptr,$191C2C)
-カルバレイス地方に生息する[LINE]
-モンスターを制覇した証！[LINE]
+Proof you conquered all monsters[LINE]
+in the Calvalese region![LINE]
 [END]
 
 
@@ -6005,8 +5945,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B61D8
 #WRITE(ptr,$191C4C)
-アクアヴェイル地方に生息する[LINE]
-モンスターを制覇した証！[LINE]
+Proof you conquered all monsters[LINE]
+in the Aquaveil region![LINE]
 [END]
 
 
@@ -6017,8 +5957,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6188
 #WRITE(ptr,$191C6C)
-ファンダリア地方に生息する[LINE]
-モンスターを制覇した証！[LINE]
+Proof you conquered all monsters[LINE]
+in the Phandaria region![LINE]
 [END]
 
 
@@ -6029,9 +5969,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6118
 #WRITE(ptr,$191C8C)
-全世界のモンスターを制覇した[LINE]
-チャンピオンの証！[LINE]
-どんなことにも屈しなくなる。[END]
+The sign of a champion who has[LINE]
+conquered every monster![LINE]
+You will never yield to any challenge.[END]
 
 
 //Text $1B6108
@@ -6041,9 +5981,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B60B8
 #WRITE(ptr,$191CAC)
-砂漠では水の供給源ともなるすいか。[LINE]
-昔は種も食用として扱われていたとか……[LINE]
-[END]
+It is another source of water in the[LINE]
+desert. In the past, its seeds were[LINE]
+considered edible.[END]
 
 
 //Text $1B60A0
@@ -6053,9 +5993,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6068
 #WRITE(ptr,$191CCC)
-鉄で作られたフライパン。[LINE]
-使い込むほど味が出る。[LINE]
-[END]
+A frying pan made of iron.[LINE]
+The more you use it, the[LINE]
+better the flavor.[END]
 
 
 //Text $1B6050
@@ -6065,9 +6005,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B6008
 #WRITE(ptr,$191CEC)
-銅で作られたフライパン。[LINE]
-熱伝導がすばらしい。[LINE]
-料理時間が短縮されます。[END]
+A frying pan made of copper.[LINE]
+It has great heat conduction[LINE]
+and reduces cooking time.[END]
 
 
 //Text $1B5FF0
@@ -6077,9 +6017,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B5FA0
 #WRITE(ptr,$191D0C)
-銀で作られたフライパン。[LINE]
-白い輝きが美しい。[LINE]
-焦がしてしまうのがもったいない。[END]
+A frying pan made of silver.[LINE]
+Has a beautiful white shine.[LINE]
+It's a pity it will be burned.[END]
 
 
 //Text $1B5F88
@@ -6089,9 +6029,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B5F30
 #WRITE(ptr,$191D2C)
-金で作られたフライパン。[LINE]
-別名「豪華なフライパン」。[LINE]
-これであなたも王族専属シェフ。[END]
+A frying pan made of gold. Also known[LINE]
+as the "Gorgeous Frying Pan". Now you[LINE]
+too can be the royal family's personal chef.[END]
 
 
 //Text $1B5F20
@@ -6101,33 +6041,9 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B5ED8
 #WRITE(ptr,$191D4C)
-非常に古くから栽培されている野菜。[LINE]
-漬物にして食べるのが一般的。[LINE]
-[END]
-
-
-//Text $1B0AF0
-#WRITE(ptr,$18F280)
-[Sign_Sword]Fanatic Ladle[END]
-
-
-//Text $1B0A98
-#WRITE(ptr,$18F284)
-熱狂的な料理ファンのための[LINE]
-究極のおたま。実際に[LINE]
-料理が美味しくなるかどうかは不明。[END]
-
-
-//Text $1B0A88
-#WRITE(ptr,$18F2BC)
-[Sign_Sword]Carrot[END]
-
-
-//Text $1B0A38
-#WRITE(ptr,$18F2C0)
-カロテンを豊富に含むにんじん。[LINE]
-バターや油で調理すると[LINE]
-吸収が促進される。[END]
+A vegetable that has been cultivated[LINE]
+for a very long time. Commonly eaten[LINE]
+pickled as a side dish.[END]
 
 
 //Section Food

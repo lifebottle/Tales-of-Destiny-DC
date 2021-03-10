@@ -383,7 +383,8 @@ class Helper:
                     blockText += sectionText.replace("\r","")
                     
             allText += blockText
-        
+            
+        print("Max Block End               :   {}".format(hex(int(textEnd, 16))))
         return allText
             
                     
