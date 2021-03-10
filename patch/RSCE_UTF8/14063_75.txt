@@ -53,7 +53,7 @@ got work to do.
 [ENDBLOCK]
 でもさあ……
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 ひどいよ……グズ……
 お兄ちゃんに僕の事が……
@@ -71,7 +71,7 @@ got work to do.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>、子供相手に何も
+<Lion>、Child相手に何も
 そこまで……
 [ENDBLOCK]
 <Lion>
@@ -83,7 +83,7 @@ got work to do.
 父親とは言え、
 所詮、おまえとは他人だ。
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 でも、でもお父さんは
 僕の……
@@ -101,7 +101,7 @@ got work to do.
 [ENDBLOCK]
 <Lion>……？
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 お兄ちゃんの言ってる事、
 難しくてわかんないよー!!
@@ -350,7 +350,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -361,11 +361,11 @@ notice
 [ENDBLOCK]
 なるほど！	ありがとうございます！
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 あ、あの時の！
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 前に、あの女の子みたいな
 お兄ちゃんに怒られたんだけど、
@@ -376,19 +376,19 @@ notice
 あー、あの時のー、
 元気ー、だったー？
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 覚えてないでしょ……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやー、そんな事ー……
+Oh, no...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……ごめんなさい。
+...I'm sorry.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 別にいいよ。
 でもさ、あの女の子みたいな
@@ -396,266 +396,270 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えっと……
+Let's see...
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-お礼言いたいんだ！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-お礼？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お兄ちゃんに言われた通りに
-僕が変わったら、お父さんも
-変わったんだ！
+I just want to say thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ねえ、君はお父さんの事
-好き？
+Thank you?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-うん、僕自身が大人に
-なったつもりでいたらさ。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お父さんの頑固なところも
-なんだか可愛く見えてきたよ。
+When I changed like my
+brother told me to, my
+father changed too!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、あいつはいないけど、
-今のを聞いたらきっと喜ぶと思うよ。
+Hey, do you like your dad?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-素直には喜びそうにも
-ないように見えたけどね。
+Yeah, if I thought I
+was an adult myself.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Even your father's stubbornness
+is starting to look kind of cute.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よく、一度会っただけで
-<Lion>の性格を見抜いてるね……
+He's not here right now, but 
+I'm sure he'd love to hear
+what you just said.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-それじゃ、もしあのお兄ちゃんに
-会ったらこれを渡しておいて！
+It didn't look like he was going
+to be honestly happy about it.
 [ENDBLOCK]
-子供
+<Stahn>
 [ENDBLOCK]
-じゃあね～。
+How can you see through <Lion>'s
+personality after just one meeting?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Well then, if you see that brother
+of yours, give him this!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Bye~.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>うらに回ってね！
+<TAG_005>Go around the back!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>アクアヴェイルの言葉では
-シデンは「紫電」と書くようだ。
+<TAG_005>In Aquaveil's language. Sheeden 
+seem to be written as "Shiden".
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おまえら、見慣れない格好だな？
-さては密入国者か？	まさかな！
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-ロープを探してるだって？
-ちょっと思いあたらねえな。
+You're looking for a rope?
+I have no idea.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おまえら、見慣れない格好だな？
-さては密入国者か？	まさかな！
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-ここはシデン領……
-なあ、一体何が起こってるんだ？
+This is Sheeden territory... 
+Hey, what the hell is going on?
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-これは三番目の若！
-お元気そうで何よりです。
+This is the third youngest!
+I'm glad to see you are well.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おお、あなたが！
-若のご友人ですか！
+Oh, it's you! You're the
+young one's friend!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よろしくお願いします、若！
+Nice to meet you, young man!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-皆さん、この世界を
-どうかよろしくお願いします。
+Everyone, please take
+care of this world.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-寄ってってくれ、見てってくれ！
+Come on by and take a look!
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-ロープ？	うちにないよ。
+Rope? We don't have any.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-うちにあるのはこんなとこだね。
+This is what we have.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-寄ってってくれ、見てってくれ！
+Come on by and take a look!
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-今のところ商売に影響はないよ。
+So far, it hasn't
+affected my business.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-だんだん仕入れが難しくなってる。
-買うなら今のうちだよ。
+It's getting harder and harder to
+stock up. If you want to buy one,
+now is the time.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-装飾によし、実用によし。
-宝石はいかがですか？
+Good for decoration, good for 
+practical use. How about jewelry?
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-うちは装飾屋ですからね。
-ロープはありません。
+We are an Accessory Shop,
+We don't have Rope.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-それよりも宝石見てってください。
-
+More importantly, take a
+look at the jewelry.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-装飾によし、実用によし。
-宝石はいかがですか？
+Good for decoration, good for 
+practical use. How about jewelry?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-ロープですと？
-
+Rope?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-すみませぬが、他を
-当たって下され。
+I'm sorry, but you'll 
+have to look elsewhere.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-逆境など物ともしない、
-それがシデンの民の心意気ですぞ。
+That is the spirit of the people 
+of Sheeden, who are not afraid 
+of adversity.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-ロープですと？
-
+Rope?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-すみませぬが、
-他を当たって下され。
+I'm sorry, but you'll
+have to look elsewhere.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-逆境など物ともしない、
-それがシデンの民の心意気ですぞ。
+That is the spirit of the people
+of Sheeden, who are not afraid
+of adversity.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 モリュウ領には黒十字艦隊っていう、
 かっこいい海軍があるんだぜ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 お父さんと洞窟の近くで魚釣りしていたら
 モンスターに襲われたんだ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 どうにか逃げたんだけど、そのあと
 体が痺れて、帰ってくるのが大変だったよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 モリュウ領の<Fayte>さまが、
 悪い奴に捕まってたんだって？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 この間<Johnny>さまに、シデン領でも
 艦隊を作ってくれって頼んだんだ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 空から変な声が聞こえてきたのは、
 せいんがるどのしわざって、本当？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 <Johnny>さま！	おねがいだよ。
 なんとかしてくれよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 おねがいだよ。
 なんとかしてくれよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 さすが<Johnny>さま！
 なんとかしてくれるって思ったよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 さすが<Johnny>さまのお友達だ！
 なんとかしてくれるって思ったよ。
