@@ -25,21 +25,21 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13559_88  main hall after the start of the game  
 13569_44  draconis kitchen room  
 13564_89  draconis room before sword with screen  
-13563_32 hall outside sword oh! shoot moment  
+13563_32  hall outside sword oh! shoot moment  
 13570_117 sword room draconis  
-13563_32 hall outside sword room Rutee first convo  
-13562_82 draconis helm room  
+13563_32  hall outside sword room Rutee first convo  
+13562_82  draconis helm room  
 13558_61  escape pod room and Start of the game  
 
 ## Chelsea hut's
-13582_61 Chelsea bedroom after draconis  
+13582_61  Chelsea bedroom after draconis  
 13583_76  line 301- Main room chelsea house  
-13586_76 line 201-221  
-13581_54 line 287  outside cabin(text about skit)  
+13586_76  line 201-221  
+13581_54  line 287  outside cabin(text about skit)  
 13592_106 line 285 first conversation with chelsea next to tree  
-13581_54 line 375-415 return of the party to front of chelsea house  
-13583_76 line 301-433 Main room chelsea house  
-13581_54 line419-439 outside cabin  
+13581_54  line 375-415 return of the party to front of chelsea house  
+13583_76  line 301-433 Main room chelsea house  
+13581_54  line419-439 outside cabin  
 
 ## Road to Janos
 13603_53 line 369-437fandaria moutiain trail  
@@ -51,10 +51,10 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13627_84  line 277-1075 upper Town Janos huge dialogue file  
 13629_17  line 15-155 Janos shopping street  
 13639_17  same text than 13629_17 Janos shopping street  
-13634_35 house in janos with 2 npcs  
-13644_35 same has 13634_35 house janos 2 npc  
-13633_34 janos inn  
-13643_26 janos inn same and with different dialogue than 13633_34  
+13634_35  house in janos with 2 npcs  
+13644_35  same has 13634_35 house janos 2 npc  
+13633_34  Janos inn  
+13643_26  Janos inn same and with different dialogue than 13633_34  
 
 ## Janos Temple
 13603_53 line 281-365 trail dialogue mary and stahn  
@@ -63,7 +63,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13656_35 line 13-61 Rutee/stahn/Mary outside dungeon  
 
 ## Back to Janos 
-13627_84  line 911-927  convo front of the gate ( npc line 279-323)  
+13627_84 line 911-927  convo front of the gate ( npc line 279-323)  
 13633_34 line127-271  Conversation in the inn  
 13631_35 line 275-315 bed room inn convo  
 13627_84 line 931-1075 janos north gate rerize tutorial + extraconvo  
@@ -95,7 +95,7 @@ video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?u
 13882_114 - line 417 Philia walking alone 1:48  
 
 Scene using the pickaxe :  
-Search for ã•ã£ãã?®<ITEM_149>ã‚’ä½¿ãˆã?° in multiple files 3:12  
+Search for ã•ã�?£ã�?ã?®<ITEM_149>ã‚’ä½¿ã�?ã?° in multiple files 3:12  
 13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06  
 13890_71 - line 27 7:14  
 13882_114 - line 445 7: 20  
