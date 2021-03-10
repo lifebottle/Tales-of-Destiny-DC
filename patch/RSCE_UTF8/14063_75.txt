@@ -31,9 +31,8 @@ What's the matter, sweetheart?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-お父さんが……ィック、
-僕の事を……ィック、
-ちっとも誉めてくれないの。
+My dad... he doesn't
+praise me at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -55,64 +54,64 @@ got work to do.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-ひどいよ……グズ……
-お兄ちゃんに僕の事が……
+It's terrible... My brother,
+Gus, told me about it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-当たり前だ、
-分かるわけがない。
+Of course not.
+How would I know?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえが父親の事を、
-分からないのに、どうして僕が
-おまえの事を分かるんだ。
+If you don't know what your father is,
+how can I konw what you are?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>、Child相手に何も
-そこまで……
+<Lion>, what are you
+doing with this child?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-黙っていろ、<Stahn>。
+Shut up, <Stahn>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-父親とは言え、
-所詮、おまえとは他人だ。
+I may be your father, but I'm
+still a stranger to you.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-でも、でもお父さんは
-僕の……
+B-but your father is my...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-他人が変わらないのなら、
-おまえが考え方を変えるしかない。
+If others won't change, you'll have
+to change your way of thinking. But,
+if your father is my...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そう、変えるしかないんだ……
+Yes, I have to change.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……？
+<Lion>...?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-お兄ちゃんの言ってる事、
-難しくてわかんないよー!!
+I don't know what you're talking
+about. It's too hard to understand.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、さっさと行くぞ。
+Ok, let's hurry up
+and get out of here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、う、うん……
+Ah, yeah, yeah.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -146,71 +145,68 @@ notice
 フィッツガルドにある旅人の小屋で
 確認する事ができます。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. Would you
+like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+A new area, "Face Painting", has
+been Unlocked in the custom section
+of the main menu.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
+Press <Triangle_ani> followed by <Select_ani>.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-この部屋を色々調べてみるがよい。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+Canvas Liberator!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Rocks abound in th world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x98><x80>
 
@@ -228,7 +224,7 @@ notice
 [ENDBLOCK]
 ウェブパスワードを受け付けました。
 この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
+Chatty Old Manの話をよく聞いてください。
 
 [ENDBLOCK]
 notice
@@ -285,7 +281,7 @@ notice
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 ウェブサイトで入力する
 ゲームパスワードを忘れてしまったら、
@@ -306,47 +302,45 @@ notice
 notice
 [ENDBLOCK]
 ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
+ゲームパスワードを忘れた場合はChatty Old Manに
 話しかけて、連動ID・ゲームパスワードの
 確認の項目を選択してください。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 仲間たちの普段では見られない姿を、
 見る事ができるかもしれないぞ。
 
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the community Grandpa.
+Please take care of them.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
-
+Hmm. Contact with with people is a
+once in a lifetime experience.
+Cherish it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -354,35 +348,33 @@ Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+He means, socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thanks!
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-あ、あの時の！
+Oh, that time!
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-前に、あの女の子みたいな
-お兄ちゃんに怒られたんだけど、
-覚えてないかな？
+I was angry with that girly brother
+of yours before, don't you remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あー、あの時のー、
-元気ー、だったー？
+Oh...Yeah. How are you?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-覚えてないでしょ……
+You don't remember do you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, no...
+Ah, no...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -390,9 +382,8 @@ Oh, no...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-別にいいよ。
-でもさ、あの女の子みたいな
-お兄ちゃんはどこ？
+I don't mind. But where's that
+girly brother of yours?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -400,7 +391,7 @@ Let's see...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-I just want to say thank you!
+I just wanted to say thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -418,12 +409,12 @@ Hey, do you like your dad?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Yeah, if I thought I
-was an adult myself.
+Yeah, if I thought as
+an adult myself.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Even your father's stubbornness
+Even my father's stubbornness
 is starting to look kind of cute.
 [ENDBLOCK]
 <Stahn>
@@ -616,162 +607,166 @@ of adversity.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-モリュウ領には黒十字艦隊っていう、
-かっこいい海軍があるんだぜ！
+The Moreau territory has a cool navy
+fleet called the Black Cross Fleet!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お父さんと洞窟の近くで魚釣りしていたら
-モンスターに襲われたんだ。
+My father and I were fishing near a 
+cave when we were attacked by a 
+monster.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どうにか逃げたんだけど、そのあと
-体が痺れて、帰ってくるのが大変だったよ。
+I managed to escape, but afterwards
+I was so numb, it was hard to come
+back.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-モリュウ領の<Fayte>さまが、
-悪い奴に捕まってたんだって？
+I heard that Lord <Fayte> of the Moreau
+territory was captured.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-この間<Johnny>さまに、シデン領でも
-艦隊を作ってくれって頼んだんだ。
+The other day I asked <Johnny> to 
+build a fleet in Sheeden as well.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-空から変な声が聞こえてきたのは、
-せいんがるどのしわざって、本当？
+I heard a strange voice in the sky.
+Is it true, this is the work of 
+Seinegald.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Johnny>さま！	おねがいだよ。
-なんとかしてくれよ！
+<Johnny>! I'm begging you.
+Do Something for me!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-おねがいだよ。
-なんとかしてくれよ！
+I'm begging you, do
+something for me!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-さすが<Johnny>さま！
-なんとかしてくれるって思ったよ。
+You're the man, <Johnny>! I knew
+you'd do something about it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-さすが<Johnny>さまのお友達だ！
-なんとかしてくれるって思ったよ。
+You're the man, <Johnny>! I knew
+you'd do something about it.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-もっと楽しい事ないかしら。
+I wonder if there are 
+more fun things to do.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-私、石蹴り大好き少女よ。
+I love some hopscotch.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-世界が変わってしまっても、
-この楽しさをみんなに教えているの。
+Even if the world changes, I'm 
+showing everyone this game.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-街の近くに落ちてる石を
-ひたすら蹴り続けるの！
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-私、石蹴り大好き少女よ。
+I love some hopscotch.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-この楽しさをみんなに
-教えているの。
+I'm teaching everyone this game.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-街の近くに落ちてる石を
-ひたすら蹴り続けるの！
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、まずは３２回以上だからね。
+Well, first of all, it's
+more than 32 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、６４回以上だからね。
+Well, it's more than 64 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、９６回以上だからね。
+Well, it's more than 96 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、１２８回以上だからね。
+Well, it's more than 128 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、１６０回以上だからね。
+Well, it's over 160 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、これからはずっと
-４８回以上でいいからね。
+Well, from now on, it's okay
+to have more than 48 times.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 街の南に洞窟があるが、
 軽い気持ちで入らないほうがいいぜ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 地盤は緩いし、モンスターは多いし、
 下手すると二度と出てこられないぞ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 街の南に洞窟があるが、
 軽い気持ちで入らないほうがいいぜ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 ……ロープねえ。
 
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 港だったらあるんじゃないか？
 
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 街の南に洞窟があるが、
 軽い気持ちで入らないほうがいいぜ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 地盤は緩いし、モンスターは多いし、
 下手すると二度と出てこられないぞ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 街の南に洞窟があるが、
 軽い気持ちで入らないほうがいいぜ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 街の南にある洞窟、
 モリュウ領とつながってるんだって？
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 空にできてる網目……
 あの変な放送と関係あるんだよな？
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 空を天井で覆いつくすのに、
 どれくらいの土砂がまき上げられた？
