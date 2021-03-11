@@ -18,7 +18,7 @@ V始××××××
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 アタリが出入口の前で途切れてしまっているので
@@ -29,218 +29,223 @@ cher_12r：民家へ行きますか？
 そのまま
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-街を出て北へ進むと、
-首都カルビオラがあるんだ。
+If you leave the city and head north,
+you'll find the capital city, Kalviola.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-……って、なんでこんな事、
-よそ者に教えないといけないんだよ！
+...Why, do I have to,
+teach this to foreigners!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-<Baruk>基金のオフィス？
-知らねえよ、そんなの！
+<Baruk> Foundation's office? I don't
+know anything about that!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-セインガルドが攻撃されたのか？
-ざまあみろ！
+Seinegald was attacked?
+Suck it up!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-カルバレイスも攻撃されたのか？
-なんでだよ！
+Did they attack Calvalese too? Why the hell not!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-空が閉じちまった……
+The sky has closed up...
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-おれもレンズを出したよ。
-ひとつだけど。
+I took out a lens.
+It's only one.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-何か用かしら？
+How may I help you?
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-何か用かしら？
+How may I help you?
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-……本当はよそ者なんかに、
-売りたくはないんだがな。
+I really don't want to
+sell to a foreigner.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-……よそ者だのなんだの、
-言ってられる状況じゃないからな。
+...I'm not in a position where
+I can turn down foreigners.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-……本当はよそ者なんかに、
-売りたくはないんだがな。
+I really don't want to
+sell to a foreigners.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-……よそ者だのなんだの、
-言ってられる状況じゃないからな。
+...I'm not in a position where
+I can turn down foreigners.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-あーもうっ！
-気安く話しかけないでよね！
+Oh, no! Don't talk
+to me like that!
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-空がピカッって光ったの。
-怖い……助けて……
+The sky lit up. I'm scared...
+Help me...
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-どうして私たちが、
-こんな目にあうの？
+How could they do this to us?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-あなたたちの事、信じてもいいのね？
+So, I can trust you guys?
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-あの<Baruk>とかいう男、
-俺が昔知ってた奴に似ているような……
+That <Baruk> guy, looks like
+someone I used to know...
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-……まあ、気のせいだろうが。
+...Well, It's probably
+just my imagination.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-<Baruk>基金？	……ふん。
+<Baruk> Foundation? ...hmm.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-最近、<Baruk>の姿を見ないな。
-どうでもいい事だが。
+I haven't seen <Baruk> lately. 
+Not that I care.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-どうしてカルバレイスまで、
-よそ者の国と同じ目に遭うんだ？
+Why should Calvalese be subjected to
+the same treatment as the stranger
+countries?
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よそ者でもこの際関係ない。
-よろしく頼む。
+It doesn't matter if you're a stranger
+or not. I'm looking forward to working
+with you.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-身を守る武器が欲しくても、
-稼ぎが少なくてどうにもならないのさ。
+They want weapons to defend themselves,
+but they don't make enough money.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-<Baruk>基金のオフィス？
-さあな。知ってても教える義理はない。
+The <Baruk> Foundation office? I don't
+know. Even if I knew, I don't have to
+tell you.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-空に浮かんでいる島のような物は、
-何なんだ？
+What is that thing that looks
+like an island floating in the sky?
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-空が閉じた影響かわからないが、
-最近モンスターが凶暴化している。
+I don't know if it's the effect of the
+sky, but the monsters have been getting
+more violent lately.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-こんな時こそ、身を守る武器を、
-なんとしても手に入れたいが……
+In times like these, I want to have
+a weapon that will protect me at
+all costs
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-武器屋の主がただで物をくれたよ。
-その代わり街を守れ、だと。
+The owner of the weapon shop gave
+me some stuff for free. In exchange,
+he asked me to protect the city.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-いわれるまでもない。
-やってやろうじゃないか。
+You don't have to tell me.
+Let's do it.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-船を間近で見ると切なくなるから、
-こうして遠くから眺めているの。
+Seeing the ship up close makes me sad,
+so I watch it from a distance like this.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-船に乗って島を出られる人間は、
-まだ幸せよね。
+People who can get on a boat and
+leave the island are so lucky.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-この分じゃ世界中どこへ行っても、
-ろくな目に遭いそうにないわね。
+At this rate, I bet I can do anything,
+anywhere and not get into trouble.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-私には応援くらいしかできないけど。
-頑張ってね。
+I can only cheer for you, though.
+Good luck to you.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-なんだよ。ここはよそ者が、
-ウロウロしていい所じゃないぜ。
+That's right. This is no
+place for foreigners.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ここがどこかって？
-カルバレイスの玄関口、チェリクの街さ。
+Where are we? The city of Cherik,
+the port city to Calvalese.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ここはカルバレイスの玄関口、
-チェリクの街さ。
+Where are we? The city of Cherik,
+the port city to Calvalese.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ここはカルバレイスの玄関口……
-ああ、そんな事言ってる場合じゃない！
+This is the port city of Calvalese...
+Oh, no, I'm not talking about that!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-今までよそ者呼ばわりしてごめん。
-頼むから世界を助けてくれよ！
+I'm sorry I ever called you a
+stranger. Please save the world.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Hmm?	You don't have a copy
+of Definite Warfare?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+You have honed your skills.
+Please take this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the "Definite Strike"
+linkage that is effective
+against monsters.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Make use of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -257,58 +262,59 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 身を守る武器が欲しくても、
 稼ぎが少なくてどうにもならないのさ。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 <Baruk>基金のオフィス？
 さあな。知ってても教える義理はない。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 空に浮かんでいる島のような物は、
 何なんだ？
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 空が閉じた影響かわからないが、
 最近モンスターが凶暴化している。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 こんな時こそ、身を守る武器を、
 なんとしても手に入れたいが……
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 武器屋の主がただで物をくれたよ。
 その代わり街を守れ、だと。
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
 いわれるまでもない。
 やってやろうじゃないか。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Hone your skill a little more
+and then come back.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -326,46 +332,10 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
-パーティから抜けました。
-[ENDBLOCK]
-<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xAC><x98><x80>
-[ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>を取得しました。
-
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-<turquoise>交易称号
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-<turquoise>温泉称号
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-<turquoise>自由称号
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-<turquoise>最強の称号
-[ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
-[ENDBLOCK]
-<turquoise>クイズ称号
+パーティから抜けました。<x00><x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80><x00>notice<x00>称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80><x00><x18><x65><x58><xA8><x00><x80></color>を取得しました。
+<x00><x19><x69><x48><x9C><x80>たちは<x00><turquoise>交易称号<x00><x19><x69><x48><x9C><x80>たちは<x00><turquoise>温泉称号<x00><x19><x69><x48><x9C><x80>たちは<x00><turquoise>自由称号<x00><x19><x69><x48><x9C><x80>たちは<x00>称号：<turquoise>ナチュレンジャー<x00><x19><x69><x48><x9C><x80>たちは<x00>称号：<turquoise>ダッシュシリーズ<x00><x19><x69><x48><x9C><x80>たちは<x00><turquoise>最強の称号<x00><x19><x69><x48><x9C><x80>たちは<x00><turquoise>クイズ称号
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>は
 [ENDBLOCK]
@@ -452,7 +422,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x88><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -532,5 +502,5 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>Now Loading...<x00>
+<TAG_008><S06>Now Loading...<x00><x00>
 [ENDBLOCK]

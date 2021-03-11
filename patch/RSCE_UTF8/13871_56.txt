@@ -1,120 +1,118 @@
 <Rutee>
 [ENDBLOCK]
-Huh? This area is...
+あれ？	この辺りって……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-More importantly Mr. Frantz, tell
-me the four secrets of the world.
+それよりフランツさん。ひとつ目の
+世界四秘について教えて下さいよ。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-Yes sir! I'll show you.
+そうですね、
+お教えしましょう！
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-The first and foremost of the
-four secrets of the world is
-「The Demon Reef」!
+ずばりひとつ目の世界四秘は
+「魔の暗礁」！
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's an area of the sea where 
-many marine accidents have 
-occurred in the past.
+この辺りの、昔から海難事故が
+多発している海域の事だね。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-The cause of the accidents has 
-been considered a mystery. 
+はい。その海難事故の原因は
+謎とされてきましたが……
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-In fact, it is said that there is
-a huge dragon in these waters that
-is said to be the messenger of God.
+実は、この海域には神の御使いと
+言われる、巨大な竜がいるらしいのです。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, you know...
+あ、あのさ……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-That's great.
+それは凄い。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-Legend has it that he will appear
-if you hold your sword up.
+伝説によると、その神の御使いは、
+剣をかざすと現れるのです。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-And it is said to take us to the
-Palace of the Heavenly Dragon, at
-the ocean floor.
+そして、今は海底に沈む、
+天かける竜の宮まで
+我々をいざなうのだとか。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? Somewhere...
+あれ？	どっかで……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-If that's the case.
-It's a great achievement.
+それが事実なら、
+すばらしい功績だ。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-Well, let's go.
+では、行きますよ。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Look, I don't think 
-that's possible.
+あのさ、それ無理だと
+思うんだけど。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-My research.
-You're lying.
+僕の研究が、
+嘘だと言うんですか！
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-What makes you think that?
+どうしてそう思うのだね？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's the Sea Dragon and Radisrol.
+それって、海竜とラディスロウの事ですよ。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-We've already tried that.
+フランツが説明した事って、
+あたしたち既にやった事よ。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-What...?
+え……？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Let me explain, Mr. Frantz.
+説明しますねフランツさん……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-We didn't know that, because we
-didn't know what we were doing when
-we called the Sea Dragon.
+そうだったのか、私は海竜を
+呼んだ時の事を知らなかったからな。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm sorry, Mr. Frantz
-had we known earlier.
+ごめんなさいフランツさん。
+もっと早くに気付いていれば。
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-Yay!
+いぃやったーー!!
 [ENDBLOCK]
-Frantz
+フランツ
 [ENDBLOCK]
-Because it is!
-My research wasn't wrong!
+だってそうでしょ！
+僕の研究は間違っていなかったんだ！
 [ENDBLOCK]
 ××××××空開始××××××
 
@@ -295,19 +293,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）</color>
+<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）</color>
+<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）</color>
+<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）</color>
+<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -580,226 +578,224 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-But how are we going to go get it
-if it's at the bottom of the ocean?
+……でも取りに行くと言ったって、
+海の底にあるのをどうするわけ？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? Can't we just swim?
+あれ？	泳いで行くんじゃないのか？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I don't have a lot of confidence in
-my swimming. I’ll just have to let
-you do it.
+あたしは泳ぎにあまり自信がないから、
+そういうのはあんたに任せるわ。
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Everyone, hold out your Swordians
-toward the ocean.
+全員、ソーディアンを海に掲げろ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wh-what is that monster?!
+なんだ、この化け物は!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Don't panic. It's just a Sea Dragon,
-similar to the Draconis.
+あわてるな。海竜だ。
+飛行竜に似た物と思えばよい。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You can ride that? That's so cool!!
+これも乗り物!?	すげえ！
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Since it responded to our call,
-Clemente is probably in there.
+私たちの呼びかけに応じて、
+クレメンテが送ってきたのね。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Philia>, come with us.
+<Philia>、一緒に来い。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Uh...Me?
+え？	私もですか？
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-<Philia>...
+<Philia>……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Huh...?
+あら……？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Just now, I felt someone's voice.
+今、誰かの声が聞こえたような……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Isn’t it okay if <Philia>
-waits on the ship?
+<Philia>は船で待っててもらう方が、
+いいんじゃないか？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It'd be a problem if she tries
-to escape while we’re at the 
-bottom of the ocean.
+僕達が海底にいる間に、
+船で逃げられては困る。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>would never do 
-a thing like that!
+<Philia>がそんな事、
+するわけないだろ！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, <Philia>. Hurry up.
+おい、<Philia>。早く来い。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>!
+<Lion>！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Y-yes, all right.
+は、はい。わかりました。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Bocchan, are you okay?
+坊ちゃん、大丈夫ですか？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yeah, probably...ugh.
+ああ、たぶん……うぷっ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Look in the distance.
-See, it's far away.
+遠くを見てください。
+ほら、遠くですよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hahaha... that's better.
+はぁはぁ……だいぶ楽になった。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Are you sure you're feeling
-better? Let's go lie down in
-the cabin for a bit.
+本当に良くなったんですか？
+船室で少し横になりましょうよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, Char.
+なあ、シャル……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Ever since I left Calvalese.
-I've been thinking about...
+カルバレイスを出てから、
+僕はずっと考えていたんだ……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Are you referring to <Stahn>... thing?
+<Stahn>たちの……事ですか？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Oh, I'm honesty confused.
+ああ……僕は正直、戸惑っているんだ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It's good to have someone
-you can trust by your side.
+信頼できる人が傍にいる事は
+いい事じゃないですか。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I know that.
+それは……分かっている。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-But all this time, it's 
-just been you and I.
+だけど、僕は今までずっとシャルと
+ふたりだった。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We've done everything together.
+何でもふたりでやってきた。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I met you when I was only a child.
+子供の頃、シャルと出会えたからこそ、
+僕は生きてこられたんだ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Oh no, you're overreacting.
+そんな、大げさですよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, Char. That's what
-I really think.
+違うよ、シャル。
+僕は本当にそう思っている。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So to think of those guys as your
-friends is to think of you as...
+だから、あいつらを仲間だと
+考えるのは、おまえを……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Thank you. For taking care of me.
+ありがとうございます。
+僕の事を気づかってくれて。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-But you know what, little man? 
-That's not true. I'm happy.
+でもね、坊ちゃん。それは違います。
+僕はうれしいんですよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Are you happy?
+うれしい……？
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-So far, the boy has had too 
-few dreams. too few.
+これまでの坊ちゃんには夢が
+少なすぎました。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I want to surpass Master <Hugo>.
-I want to be with <Marian>.
+<Hugo>様を越えたい。
+<Marian>と一緒にいたい。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-This is not enough
-for me at all.
+これだけじゃ、全然
+足りないですよ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You want to travel with your friends.
-Or to shop together.
+友人と一緒に旅をしたいとか、
+一緒に買い物をしたいとか。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It can be such a trivial thing.
+そんな些細な事でも
+いいんです。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, but...
+いや、しかし……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-We didn't have that experience
-when we were humans.
+僕らが人間だった頃には
+そんな経験できませんでした。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It was war, <Dymlos> and the others.
-They're not my friends, they're 
-my comrades-in-arms.
+戦争でしたからね。<Dymlos>たちは、
+やっぱり友人じゃなくて戦友なんです。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Besides, the more the you want, the
-more I can enjoy being with you.
+それに、坊ちゃんが多くを望めば、
+一緒にいる僕も楽しめるって寸法ですよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What a lame attempt at persuasion.
+全く、なんて下手な説得なんだ。
 [ENDBLOCK]
 フラグ-><TAG_059>は昼
 
@@ -817,11 +813,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x04><x80><x3C><x2F><x63>olor>が
+<TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -839,7 +835,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x04><x80><x3C><x2F><x63>olor>が
+<TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -847,7 +843,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI(<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x28><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x24><x00><x80></color>を取得しました。
 
@@ -965,7 +961,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><x04><x80><x99><xD5><x9A>Zーディアンデバイスが
+<TAG_007><x19><x71><x49><x04><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

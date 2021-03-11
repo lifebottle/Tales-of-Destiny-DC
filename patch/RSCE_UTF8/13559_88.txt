@@ -4,7 +4,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-He has taken his last breath.
+反応が無い……
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -13,111 +13,111 @@ He has taken his last breath.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The captain's logbook is kept here.
+<TAG_005>艦長の航海日誌が置かれている。
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>"No Access while in motion!"
-[ENDBLOCK]
-Philia>
-[ENDBLOCK]
-Mr. <Stahn>...How is <Lion> doing?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<Rutee> is looking
-after him right now.
+<TAG_005>「立ち入り禁止！」
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee> is...?
-That's unusual.
+<Stahn>さん……<Lion>さんの様子は？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-They seem to be getting along.
-It should be fine to leave
-them alone.
+今、<Rutee>が面倒見てる。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-If they're getting along so
-well, I'm sure it's thanks
-to you, <Stahn>.
+<Rutee>さんが……？
+珍しいですね。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What?
+でもふたりとも、凄く自然だったよ。
+任せておいて平気だと思う。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-We've all changed some, thanks to you <Stahn>.
+おふたりが仲良くなったのだとしたら、
+きっと、<Stahn>さんのお陰ですね。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Really?
+何が？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes. <Lion>, <Rutee>...and even me too.
+<Stahn>さんと接しているうちに、
+みんな少しずつ、変わったんですよ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I don't recall doing anything?
+そうかな？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That's okay. It comes natural. It's the <Stahn> charm.
+ええ。<Lion>さんも、<Rutee>さんも。
+それに……私も。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're making me blush...
-But thank you.
+特に何かをした覚えはないけどなあ。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> I...
+それでいいんですよ。その自然さが、
+<Stahn>さんの魅力です。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+そんな風に言われると照れるな。
+でも……ありがとう。
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Stahn>さん……私は……
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-We're approaching
-Seinegald!
+セインガルドのお城が、
+近づいてきましたよ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well <Philia>, seems like it's time to go.
+おっ、いよいよか。
+<Philia>、見に行こう。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes...I see.
+え、ええ……そうですね。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If I keep going like this
-I...I'll need a weapon!
+このままじゃやられる……
+どこかに武器はないのか？
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Some obstacles blocking the path like
-this can be grabbed with <Circle_ani> and pushed
-and pulled with <L+U+R+D_blink> or <L_stick_Press>.
+<TAG_007>この様な道を塞ぐ障害物の中には<Circle_ani>で掴み、
+<L+U+R+D_blink>又は<L_stick_Press>で押し引き可能なものがあります。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Move the cargo in front
-of you to clear the way.
+<TAG_007>目の前の積荷を移動させて
+通路を確保しましょう。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xE0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xE0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -135,7 +135,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xE0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xE0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -143,7 +143,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x04><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x00><x00><x80></color>を取得しました。
 
@@ -261,7 +261,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xE0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xE0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

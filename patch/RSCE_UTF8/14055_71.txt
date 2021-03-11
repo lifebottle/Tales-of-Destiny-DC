@@ -1,7 +1,7 @@
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
 ○pira－初期化されています
@@ -10,14 +10,14 @@
 ●pira－初期化されていません
 
 [ENDBLOCK]
-Sunken Ship
+沈没船
 [ENDBLOCK]
-Sunken Ship
+沈没船
 [ENDBLOCK]
-Return to Lurker
+潜伏者復帰
 
 [ENDBLOCK]
-<x1D><x76><x04><x80><xEA>wれてる
+<x1D><x76><x04><x80>離れてる
 
 [ENDBLOCK]
 
@@ -26,101 +26,98 @@ Return to Lurker
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Uraaugh!! You’re the boss here?!
+うらあっ！	おめえが親玉か！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? It’s not <Greybum>...
+あれ？	<Greybum>じゃない……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>!
+<Batista>！
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-You're here <Philia>!
+<Philia>かっ！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Is this the same guy you were talking
-about? <Greybum>'s right hand man?
+こいつが<Philia>の話してた、
+<Greybum>の側近？
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-So you've followed us all the way
-here. It'd have been better if you'd
-just stayed stone forever!
+おまえが追って来るとはな。
+ずっと石像になっていれば良かったものを！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>, tell me! 
-Where is <Greybum>!?
+<Batista>、答えて！
+<Greybum>はどこなの!?
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-I wonder. I’ll tell you 
-if you can defeat me.
+さあな。
+おまえが勝ったら教えてやるよ。
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Tch—I messed up...
+ちっ、ぬかったわ……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Now tell us. Where
-is <Greybum>?
+さあ、教えて。
+<Greybum>はどこなの？
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Heh. I don't know.
+けっ、知らねえな。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What—? But you promised!
+そんな、約束が違うわ！
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-You’re as naive as ever. Promises
-are made to be broken!
+おまえも相変わらず甘ちゃんだな。
+約束ってのは、破るためにあるんだよ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey...
+おい……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-When we get back on land, we'll 
-interrogate you thoroughly.
-Be prepared.
+陸に戻って、ゆっくり尋問してやる。
+覚悟するんだな。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-There's a lot I want to hear about
-the nature of this armada and 
-<Greybum>'s whereabouts.
+<Greybum>の居場所、武装船団の正体、
+聞きたい事はたくさんある。
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Tch...
+けっ……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>...
+<Batista>……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yesss! Now for our triumphant 
-return! Let's get back to town!
+よおし、凱旋だ！
+街へ戻るとしようぜ！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-Yes
-No
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+はい
+いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -138,7 +135,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -146,7 +143,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x1C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x18><x00><x80></color>を取得しました。
 
@@ -264,7 +261,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xF8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

@@ -20,7 +20,7 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
@@ -126,240 +126,236 @@ reset---------
 失敗しました（戻り値：<TAG_031>）
 
 [ENDBLOCK]
-Armor Shop
+武具屋
 [ENDBLOCK]
-I have good weapons.
-Have a look around.
+いい武器を揃えてるぜ。
+見てってくんな。
 [ENDBLOCK]
-Armor Shop
+武具屋
 [ENDBLOCK]
-You have no idea what's going to
-happen at a time like this. You
-should be well prepared.
+何が起こるかわからんご時世だ。
+備えはしっかりしないとな。
 [ENDBLOCK]
-Armor Shop
+武具屋
 [ENDBLOCK]
-I have good weapons.
-Have a look around.
+いい武器を揃えてるぜ。
+見てってくんな。
 [ENDBLOCK]
-Armor Shop
+武具屋
 [ENDBLOCK]
-You have no idea what's going
-to happen at a time like this.
-You should be well prepared.
+何が起こるかわからんご時世だ。
+備えはしっかりしないとな。
 [ENDBLOCK]
-Meat Merchant
+肉を売る商人
 [ENDBLOCK]
-Fitzgald meat is delicious!
+フィッツガルドの肉はうまいぜ！
 [ENDBLOCK]
-Meat Merchant
+肉を売る商人
 [ENDBLOCK]
-I'm not sure how long this city will
-survive, but I'll continue to do
-business until the end!
+いつこの街もやられるかわからんが、
+最後まで商売は続けるぜ！
 [ENDBLOCK]
-Fruit Merchant
+果物を売る商人
 [ENDBLOCK]
-How about some fresh picked fruit?
+採れたての果物はいかがですか？
 [ENDBLOCK]
-Fruit Merchant
+果物を売る商人
 [ENDBLOCK]
-We still have stock, feel free to shop.
+まだ在庫はありますから、
+安心して買い物してくださいね。
 [ENDBLOCK]
-Produce Merchant
+野菜を売る商人
 [ENDBLOCK]
-Welcome.
-Make a purchase!
+いらっしゃい！
+じゃんじゃん買っとくれ！
 [ENDBLOCK]
-Produce Merchant
+野菜を売る商人
 [ENDBLOCK]
-I'm worried about the produce crops,
-now that the sun is gone.
+こう日が陰っちまうと、
+野菜の成長が心配だねえ。
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-If you hang around here long
-enough, you can get leftovers.
+この辺をフラフラしてると、
+売れ残りをもらえるんだ。
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-Take it home and eat together.
+それを持って帰って、
+みんなで食べるんだよ。
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-I'm hungry...
+おなかすいたなあ……
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-I saw a strange ship get into the harbor
-and put some kinda priest on board.
+変な船が港に乗りこんできて、
+神官みたいな人を乗せるのを見たよ。
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-Recently, I haven't been
-eating the leftovers.
+最近、食べ物の売れ残りを、
+あまりもらえなくなったなあ。
 [ENDBLOCK]
-Child
+子供
 [ENDBLOCK]
-<Kongman>, please! Bring back
-the light of day!
+<Kongman>、頼むよ！
+日の光を取り戻してくれ！
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-The city's opinion of
-Oberon is controversial.
+オベロン社に対する街の人間の評価は、
+賛否両論です。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-I'm a long-time resident, but I
-think it's good for the city to develop.
+私は昔からの住人ですが、
+街が発展するのはいい事だと思いますよ。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-I think that Ms. <Ilene> is fine with
-evacuating the residents without
-taking their own risks.
+自らの危険を省みず、住人を避難させた
+<Ilene>さんは立派だと思います。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-Has <Ilene> gotten over this city?
+<Ilene>さんはこの街に、
+愛想を尽かしてしまったのでしょうか。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-Seingald has sent a large number
-of soldiers to the damaged area.
+セインガルドは被害地に、
+多数の兵士を派遣しているとか。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-But the government of this country
-doesn't do anything in this situation.
+でもこの国の政府は、
+こんな状況でも何もしてくれませんわ。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-The government doesn't do anything,
-even though we don't know when the
-city will be attacked.
+いつ街が襲われるかもわからないのに、
+政府は何もしてくれません。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-Rather than waiting for the powers
-that be, I was thinking of doing
-what I could.
+上が何かしてくれるのを待つより、
+自分でできる事をやろうと思いまして。
 [ENDBLOCK]
-Woman
+婦人
 [ENDBLOCK]
-It wasn't much, But I
-gave what lens I could.
+ささやかではありますが、
+手持ちのレンズを提供しましたの。
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-I don't know why that barbarian
-<Kongman> or whatever, is so popular.
+あの<Kongman>とかいう野蛮人、
+どうして人気があるのかわからないわ。
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-<Kongman> took out a fleet of armed
-ships? Hmmm, can't get it out of my head.
+<Kongman>が武装船団をやっつけたの？
+ふうん、少し見直したわ。
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-<Kongman>, are you going somewhere?
+<Kongman>、どこか行くの？
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-Hey, Where's <Kongman> going to go?
+ねえ、<Kongman>はどこか
+行っちゃうの？
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-<Kongman> is the hero of this city,
-right? Then protect this city!
+<Kongman>はこの街の英雄でしょ？
+だったらこの街を守ってよ！
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-<Kongman>, I was wrong. I'm sorry
-for being so selfish.
+<Kongman>、私間違ってた。
+自分勝手ばかり言ってごめんなさい。
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-Good luck in your quest to save
-the world. Mighty! Mighty! Mighty!
+世界を救うために頑張ってね。
+マイティ！	マイティ！	マイティ！
 [ENDBLOCK]
-Young Lady
+お嬢様
 [ENDBLOCK]
-Go for it! <Kongman>！
-Mighty! Mighty!
+がんばれ！	<Kongman>！
+マイティ！	マイティ！
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-People who are satisfied with material
-things are not necessarily mentally
-satisfied as well.
+物質的に満たされた人々が、
+精神的にも充足しているとは限りません。
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-What this city needs most right now,
-is a Straylize Temple.
+今、この街に最も必要なのは、
+ストレイライズ神殿ですわ。
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-I wish we had a temple in this city.
+この街にも神殿があればいいのですが。
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-It is at times like this that we
-should spread the teachings of
-Atamoni to the people of the city.
+こんな時こそ神の教えを、
+街の人々に広めるべきなのですが。
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-Is this another test
-that Atamoni has given us...?
+これも神の与えたもうた、
+試練なのでしょうか……
 [ENDBLOCK]
-Nun
+シスター
 [ENDBLOCK]
-Atamoni will surely be a guide
-on your path ahead.
+アタモニ神は必ずや、
+皆さんの前途を照らして下さいます。
 [ENDBLOCK]
-Sailor
+船員
 [ENDBLOCK]
-We are preparing for the next
-sailing. Please wait for a while.
+次回出航に向けて準備中です。
+しばらくお待ちください。
 [ENDBLOCK]
-Sailor
+船員
 [ENDBLOCK]
-No matter what happens, we won't
-cancel the flight. I'll show you what
-a sailor is capable of.
+何があろうと欠航はしませんよ。
+船乗りの意地を見せてやります。
 [ENDBLOCK]
-Sailor
+船員
 [ENDBLOCK]
-Seafood Merchant
+魚を売る商人
 [ENDBLOCK]
-How about some freshly caught fish?
+取れたての新鮮な魚はどうだ？
 [ENDBLOCK]
-Seafood Merchant
+魚を売る商人
 [ENDBLOCK]
-I'll sell fish no matter what!
+俺はどんな事があっても
+魚を売るぜ！
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-Hmm?　You don't have a copy
-of Definite Warfare?
+ん？	君はディフィニット戦記を
+持っていないのか？
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-This is good enough for your skill
-level. I'll give you this.
+君の腕前なら十分だろ。
+これをあげるよ。
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
 これはモンスターに有効とされる連携
 「ディフィニットストライク」を
 示したものだ。
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-Take good care of it.
+大事に使ってくれよ。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -376,56 +372,55 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-Hmm?　I've got nothing
-more to give you.
+ん？	もうあげるものは
+ないぞ。
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-I have nothing to say to you now.
+今の君には何も話す事はない。
 [ENDBLOCK]
-Man
+男
 [ENDBLOCK]
-You'll have to hone your skills a bit more.
+もう少し腕を磨いてからだな。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-So this is Neuestadt... the city
-at the heart of Fitzgald.
+ここがノイシュタット……
+フィッツガルドの中心都市ですか。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-My hometown, Lienea, is also
-here in Fitzgald.
+俺の故郷、リーネの村も、
+フィッツガルドにあるんだ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's not my only motivation...
-but we've gotta find Lydon soon.
+だからってわけじゃないけど……
+早く<Greybum>を、見つけないと。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-First, we're going to <Ilene>'s estate.
+まずは<Ilene>の屋敷へ行くぞ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene> is the head of Oberon Company
-in the Fitzgald region.
+<Ilene>というのは、オベロン社の、
+フィッツガルド方面支部長の事です。
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It'd be a good idea to make
-use of her influence.
+有力な手がかりが得られるとよいが。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We're taking a ship. We’re going
-out to sea to strike down that armeida.
+船を出せ。
+沖合いの武装船団を叩く。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Wait! I'm going with you!
+待ちな！	俺様も一緒に行くぜ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -433,288 +428,284 @@ Wait! I'm going with you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-We have to protect our town.
+自分たちの街は、
+自分たちで守らねえとな。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Ilene> is doing her best, too. I'm
-not going to let her out-do me!
+<Ilene>だって頑張ってるんだ。
+俺様も負けちゃいられねえ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right. Let's fight together!
+わかった、一緒に戦おう！
 [ENDBLOCK]
-Captain
+船長
 [ENDBLOCK]
-When you're ready, just give a
-shout. We'll sail out!
+準備ができ次第、声をかけてください。
+出撃します！
 [ENDBLOCK]
-Captain
+船長
 [ENDBLOCK]
-There's a considerable amount of
-enemy ships. As soon as we leave
-port, we'll attack!
+敵方の船は、かなりの数です。
+港を出たらすぐ襲ってきますよ！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Bring it on! I'll throw everything away!
+来るなら来い！
+俺様が全部、ちぎり捨ててやるぜ！
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Our aim is the flagship. We don't
-have enough time to do a thorough search.
+狙うのは旗艦だけだ。
+しらみ潰しをしている余裕はない。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Right, we have to put an end to this,
-fast. Please bring us to the most
-prominent ship!
+そうだな、急いでケリをつけないと。
+一番立派な船に横付けしてください！
 [ENDBLOCK]
-It's gonna be a bit rough,
-so hold on tight!
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-Everyone, thank you for
-coming to meet me here!
+ちょっと揺れますけど、
+我慢してくださいね！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-The Champion <Kongman> has defeated
-the evil and returned victorious!
+みんな、出迎えご苦労！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+チャンピオンの<Kongman>様が、
+悪を倒して戻ってきたぜえ！
 [ENDBLOCK]
 
 [ENDBLOCK]
-Mighty! Mighty! Mighty!
+マイティ！	マイティ！	マイティ！
 [ENDBLOCK]
 
 [ENDBLOCK]
-Mighty! Mighty! Mighty!
+マイティ！	マイティ！	マイティ！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-...We did our best, 
-too. It wasn't just
+……頑張ったのは、
+コングだけじゃないんだけどね。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>...?
+<Ilene>さん……？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Let's quickly return to <Ilene>'s
-estate. Sorry about all this noise.
+さっさと<Ilene>の屋敷へ戻るぞ。
+こんなうるさい場所はごめんだ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I just remembered something I need 
-to do. Go on ahead without me.
+俺、用事を思い出した。
+先に行ってるよ。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hmm... <Stahn> looks pretty
-worried about <Ilene>.
+ふーん。<Stahn>の奴、
+<Ilene>が余程気になるみたいね。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I wonder if he likes
-older women...
+年上の女性が、
+好みなんでしょうか……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>, are you... disappointed?
+<Philia>……
+もしかして、がっかりしてる？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-N-not at all! I would never. 
-It's impossible. Completely out
-of the question!
+まっ、まさか。違います。
+ありえません。論外です！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Wow, you really shot that down 
-with everything you've got.
+……そんな全力で否定しなくても。
 [ENDBLOCK]
-Man
+男の人
 [ENDBLOCK]
-Mmmm... What was that ship?
+うーん……それにしてもあの船、
+なんだったんだろうな。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What are you talking about?
+……なんの話？
 [ENDBLOCK]
-When you all were fighting 
-out at sea, a ship from the
-armada docked here.
+あんたたちが沖で戦ってた頃、
+武装船団の船が、一隻こっちへ来たんだよ。
 [ENDBLOCK]
-But it left immediately after. 
-So what the heck was that about?
+すぐにまた出て行ったけどな。
+あれ、一体なんだったんだろうな？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-A ship...?
+船……？
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-When you get close to Aquaveil,
-please use a rowboat to get to land.
+アクアヴェイルの近くまで行ったら、
+積んであるボートに乗り換えてね。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Thanks for taking care of us, <Ilene>.
+世話になったな、<Ilene>。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Uh... <Philia>, you're
-really going, aren’t you?
+うう……<Philia>さん、
+行ってしまわれるのですね。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If I weren't helping to rebuild the
-town, I would come along with you!
+街の復興の手伝いさえなければ、
+俺様も一緒について行くのに！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It'll be okay. You’re needed
-here in town, <Kongman>.
+いいんですよ。<Kongman>さんは、
+この街に必要な方なんですから。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, how are you so kind!!
-What an inspiration!! Uwahhhhh!
+<Philia>さんはなんとお優しい！
+感激だあっ！	うおおおおん！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What a nice interpretation.
-That's good.
+都合良く解釈してくれて、
+よかったわね。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Stahn>! Please protect
-<Philia> properly in my place.
+<Stahn>！	俺様の代わりに、
+<Philia>さんをしっかりお守りしろよ。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If anything happens to <Philia>,
-I will destroy you!!!!
+<Philia>さんにもしもの事があったら、
+おめえをぶっころーす！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Don't worry, it'll be fine.
-Leave everything to me.
+心配しなくても大丈夫さ。
+任せとけって。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, we're leaving now.
-Really, thank you so much.
+それじゃ、俺たちは行きます。
+本当にありがとうございました。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>, don't forget about our
-challenge from earlier, okay?
+<Stahn>君、例の勝負、忘れちゃダメよ？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I won't forget. Who'll realize
-their ideal first, right?
+忘れませんよ。どっちが先に、
+理想を実現するか、ですね。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-I hope we'll have some results
-the next time we meet.
+次に会う時までに、
+結果が出てるといいわね。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ideals, huh…. wonder if that's
-something easier said than done.
+理想ねえ……
+簡単に口に出すような事かしら。
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>...?
+<Rutee>……？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-N-nothing.
+ん、なんでもない。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, take care!
+それじゃ、お元気で！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're going to get
-on this ship.
+この船に乗るんだな。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yeah.
+ええ。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hold on, you guys!
+待ちな、おめえたち！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's <Kongman>! How have you been?
+<Kongman>じゃないか！
+元気だったか？
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'm the champion, how
-can I not be cheerful?
+あたりめえよ！	チャンピオンの俺様が、
+元気でないわけがあるか！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You're going to Phandaria,
-aren't we? I'm coming with you!
+ファンダリアへ向かうんだろ？
+俺様も一緒に行くぜ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're a champion, and you're
-willing to leave the city?
+チャンピオンのおまえが、
+街を離れてもいいのか？
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'm worried about you 
-guys, that's why!
+おめえたちだけじゃ心配だからな！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'm glad you feel that way, but
-please don't take it too hard. 
+お気持ちは嬉しいですけれど、
+ご無理はなさらずとも……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Please don't be shy. It's
-just you and me, isn't it?
+どうか遠慮しないでください。
+あなたと俺様の仲ではありませんか。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-How did we get along...?
+どんな仲でしたっけ……？
 [ENDBLOCK]
-<Kongman><x00>Anyway, I'm coming with you!
-I've already decided!
+<Kongman><x00>とにかく、俺様も行く！
+もう決めたからな！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright. I'll take care
-of it <Kongman>!
+わかった。そういう事ならよろしくな、
+<Kongman>！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'll take care of everything!
-Ga-ha-ha-ha!
+俺様に万事任せておけい！
+ガハハハハ！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80> </color>
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color>が
 [ENDBLOCK]
-has joined the party.
+パーティに加わりました。
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
@@ -722,7 +713,7 @@ has joined the party.
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-has returned to the party.
+パーティに復帰しました。
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]
@@ -730,15 +721,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80> </color>
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color>が
 [ENDBLOCK]
-has left the party.
+パーティから抜けました。
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xB0><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xAC><x00><x80></color>を取得しました。
 
@@ -856,7 +847,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x8C><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x8C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

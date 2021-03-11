@@ -90,19 +90,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）</color>
+<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）</color>
+<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）</color>
+<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）</color>
+<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -449,7 +449,7 @@ select
 ふーん、それなら甘いものを
 食べれば大きくなれるって事だね。
 [ENDBLOCK]
-<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14>/<x80>
+<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -508,7 +508,7 @@ select
 [ENDBLOCK]
 …………？
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
@@ -1552,11 +1552,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1574,7 +1574,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1582,7 +1582,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><xE8><x00><x80></color>を取得しました。
 
@@ -1700,7 +1700,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

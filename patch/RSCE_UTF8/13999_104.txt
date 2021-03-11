@@ -1,109 +1,106 @@
-Maid
+メイド
 [ENDBLOCK]
-<Ilene>'s father is in Darilsheid.
+<Ilene>様のお父様は、
+ダリルシェイドにいらっしゃいます。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-He is the steward of
-Oberon's general, <Hugo>.
+オベロン社総帥<Hugo>様の執事を、
+お務めになられていますわ。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-<Ilene>'s father is in Darilsheid.
+<Ilene>様のお父様は、
+ダリルシェイドにいらっしゃいます。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-<Ilene> didn't say a word,
-and suddenly she was gone.
+<Ilene>様は何もいわないで、
+突然いなくなってしまったんです。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-Did my lady hear that broadcast somewhere?
+お嬢様もあの放送を、
+どこかでお聞きになったのでしょうか？
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-I heard that my lady was
-involved in this disturbance.
+……お嬢様が今回の騒動に、
+関わっていたんですってね。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-I overheard someone from
-Oberon talking about it.
+オベロン社の人が話しているのを、
+小耳に挟んだんです。
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-I can't believe my lady would do
-such a horrible thing to you.
+お嬢様がこんなひどい事をするなんて……
 [ENDBLOCK]
-Maid
+メイド
 [ENDBLOCK]
-I ask you all, please. Please bring
-back the light to the earth.
+皆様、どうかお願いします。
+地上に光を取り戻してください。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Did you say he's going
-toward Aquaveil?
+アクアヴェイルへ向かったですって？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I've been watching his every
-move, so there's no mistaking it.
+進んでいる方向から見て、
+間違いないだろう。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-I was alerted that a transport
-ship had been stolen, but...
+輸送船が一隻、
+盗まれたって報告があったけど……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-That was <Batista>'s
-doing, wasn't it?
+<Batista>のしわざだったのね。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We'll follow him immediately.
-Procure a ship for us.
+すぐに後を追う。
+僕たちが乗る船を調達してくれ。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Wait. You're going to an enemy nation.
-You won't be able to enter the port.
+待って。向こうは敵国みたいなものよ。
+港には入れないわ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Enemy nation...? Really?
+敵国……？	そうなのか？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes. That's how I understand it at least.
+ええ。見方によっては。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If you just get us close that's 
-good enough. We'll figure out 
-the rest on our own.
+近くまで行ってくれるだけでいい。
+後は自分たちでなんとかする。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Understood. I did say I would
-work with you to the fullest
-extent of my power.
+……わかったわ。あなたたちには、
+全面的に協力するよう言われてるしね。
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-When I've finished preparations,
-please come to the port.
+準備ができたら、港まで来てちょうだい。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -121,7 +118,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -129,7 +126,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>を取得しました。
 
@@ -247,7 +244,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

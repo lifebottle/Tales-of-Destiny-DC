@@ -1,116 +1,112 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Discovering Grandpa's Momochi...
+<TAG_005>じいさまのももひき発見……
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's Nothing
+<TAG_005>何もない。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-The ruler of the Sheeden territory
-is Lord Artur Sheeden.
+シデン領を治めているのは、
+アルツール・シデン様じゃ。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-Master Arthur has three boys. All but
-the youngest are excellent.
+アルツール様には三人の男子がおる。
+末っ子以外は優秀じゃよ。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-I heard that Master Gino of the Moreau
-territory had passed away. I didn't 
-know that at all.
+モリュウ領のジノ様が亡くなったとな。
+まるで知らんかったわい。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-Now that <Tiberius> has fallen, what
-will happen to the next great king?
+<Tiberius>が倒れて、
+次の大王がどうなるかのう。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-Isn't this all Seinegald's
-doing, this whole mess?
+このたびの騒ぎは、すべて、
+セインガルドのやった事ではないか？
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-I still don't trust that country.
-It may be a mistake to break
-the isolation.
+あの国はやはり信用ならん。
+鎖国を解いたのは失敗かもしれん。
 [ENDBLOCK]
-Old Man
+じいさま
 [ENDBLOCK]
-I wonder if it's safe to
-leave the helm to Seinegald.
+セインガルドに舵取りを任せて、
+大丈夫なんじゃろうか？
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-There's a rumor that the third
-young man was too indulgent
-and was thrown out.
+三番目の若は道楽が過ぎて、
+さじを投げられたって噂もあるな。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-I hear that <Fayte> is an excellent
-man. I'm sure the future of the Moreau
-territory is secure.
+<Fayte>様は優秀な方と聞く。
+モリュウ領の将来は安泰だろう。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-The third young man seemed to be
-wandering around as usual.
+三番目の若は相変わらず、
+あちこちほっつき歩いているらしい。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-...Well, that's just the way he is.
+……まあ、それがあの人らしさだが。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-Where did the third young one
-go at a time like this?
+三番目の若はこんな時に、
+どこへ行ったんだ？
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-Young. I heard that you are accomanying 
-the Black Cross fleet...?
+若！	黒十字艦隊に同行していると
+聞きましたが……？
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-I think I've seen you
-guys somewhere before...
+あんたたち、前にどっかで
+見たような……
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-I can't remember! Is this the work
-of the thing that covered the sky?
+思い出せねえ！
+これも空を覆ったやつの仕業なのか！
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-Young is the pride of Sheeden,
-or rather Aquaveil.
+若はシデンの、いやアクアヴェイルの
+誇りです。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-Young is the pride of Sheeden,
-or rather our country.
+若はシデンの、
+いやこの国の誇りなのです。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-Everyone, please take
-care of the young man.
+皆さん、若をよろしく頼みます。
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-Yes
-No
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+はい
+いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xB0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -128,7 +124,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xB0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -136,7 +132,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xD4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xD4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xD0><x00><x80></color>を取得しました。
 
@@ -254,7 +250,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xB0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xB0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

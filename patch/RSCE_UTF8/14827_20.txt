@@ -425,8 +425,8 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>TOD OUTPUT <x17><x20><x20><x16><x4F><x80><x17><x20><x21><x16><x4F><x80><x17><x20><x24><x02><x16>O<x80><x17><x20><x24><x03><x16>O<x80><x17><x20><x24><x04><x16>O<x80><x17><x20><x24><x05><x16>O<x80><x17><x20><x24><x06><x16>O<x80><x17><x20><x24><x07><x16>O<x80>
-WEB INPUT  <x17><x21><x20><x16><x4F><x80><x17><x21><x21><x16><x4F><x80><x17><x21><x24><x02><x16>O<x80><x17><x21><x24><x03><x16>O<x80><x17><x21><x24><x04><x16>O<x80><x17><x21><x24><x05><x16>O<x80><x17><x21><x24><x06><x16>O<x80><x17><x21><x24><x07><x16>O<x80>
+<TAG_007>TOD OUTPUT <x17><x20><x20><x16><x4F><x80><x17><x20><x21><x16><x4F><x80><x17><x20><x24><x02><x16><x4F><x80><x17><x20><x24><x03><x16><x4F><x80><x17><x20><x24><x04><x16><x4F><x80><x17><x20><x24><x05><x16><x4F><x80><x17><x20><x24><x06><x16><x4F><x80><x17><x20><x24><x07><x16><x4F><x80>
+WEB INPUT  <x17><x21><x20><x16><x4F><x80><x17><x21><x21><x16><x4F><x80><x17><x21><x24><x02><x16><x4F><x80><x17><x21><x24><x03><x16><x4F><x80><x17><x21><x24><x04><x16><x4F><x80><x17><x21><x24><x05><x16><x4F><x80><x17><x21><x24><x06><x16><x4F><x80><x17><x21><x24><x07><x16><x4F><x80>
 メニュー内のフェイス絵をPS版ドットキャラに
 チャットの絵を鑑賞できる  
 蹴れる石がおもちゃのアヒルになる  
@@ -441,11 +441,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xD8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xD8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -463,7 +463,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xD8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xD8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -471,7 +471,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xFC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xF8><x00><x80></color>を取得しました。
 
@@ -589,7 +589,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xD8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xD8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

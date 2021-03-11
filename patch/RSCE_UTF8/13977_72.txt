@@ -1,106 +1,97 @@
-Woman
+女性
 [ENDBLOCK]
-In this way, it's hard to believe
-that this cathedral has a trick
-up its sleeve.
+こうしていると、この大聖堂に、
+仕掛けがあるなんて信じられませんね。
 [ENDBLOCK]
-Woman
+女性
 [ENDBLOCK]
-Maybe God is powerless in
-the face of real threats.
+現実の脅威の前には、
+神は無力なのかもしれませんね。
 [ENDBLOCK]
-Woman
+女性
 [ENDBLOCK]
-Each of us may be helpless, but if
-we work together, we can make it.
+ひとりひとりは無力でも、
+皆が力を合わせればなんとかなりますわ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So this is the cathedral. Does it
-really lead to the basement?
+ここが大聖堂か。本当に、
+地下へ通じているのかな？
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Hang on, let me take a look.
+調べてみます。私に任せて下さい。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It opened a path in the floor.
+床に穴が！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It has the same type of mechanism
-as the one in Seinegald.
+セインガルドの神殿にあった仕掛けと、
+基本的な構造は同じでしたわ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, let's get down there.
+よし、下りてみよう！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Damn it! Where did <Greybum> go!?
-I've been chasing him for so long!
-It's humilating that it has taken this long
-for me to get this far in my career
-only for that grey bum to slip
-through my fingers like this now 
-Marian will never love me baww!
+くそっ！	<Greybum>はどこだ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-With a lens as massive as that
-he would have to use the front door!
+あれだけの巨大なレンズだ……
+運び出すには正面口しかないはず。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Master <Lion>, is this ok!?
+坊ちゃん、いいんですか!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...!
+くっ……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You realise what 
-you're doing, right??
+分かっているでしょう！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Shut up, Chal..!
+黙っていろ、シャル……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-But at this rate, <Stahn>
-and the others will..!
+けど……あのままじゃ<Stahn>たちが！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes, I know..!
-Don't you think I know that!?
+ああ、分かっている。
+分かっているさ！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-But right now, recovering the
-Eye of Atamoni is more important!
+しかし、今は神の眼を
+取り戻す事の方が重要だ。
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-But...
+でも……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...I can still catch up to <Greybum>!
-Let's hurry to the front door!
+……今ならまだ<Greybum>に追いつける。
+正面口に急ぐぞ。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -118,7 +109,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -126,7 +117,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA0><x00><x80></color>を取得しました。
 
@@ -244,7 +235,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x80><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x80><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

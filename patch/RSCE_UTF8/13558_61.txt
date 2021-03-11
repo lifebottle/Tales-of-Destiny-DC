@@ -1,169 +1,168 @@
 <Stahn>
 [ENDBLOCK]
-It's been a while since the 
-last time I was on the Draconis.
+飛行竜に乗るのも、久しぶりだなあ。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You almost got yourself killed 
-the last time you were on board.
+あんた、前に乗った時は、
+処刑されそうになったくせに。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You were having too much 
-fun at a time like that.
+よくそんな、
+楽しそうにしてられるわね。
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-IS that so? Mr. <Stahn>.
+そうなんですか？	<Stahn>さん。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's right. This guy
-stowed away on the Draconis.
+そうなのよ。こいつ、
+飛行竜で密航しててね。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I was caught napping and was mistaken 
-for a spy. Isn't that crazy?
+居眠りしているところを見つかって、
+スパイに間違われたの。呆れるでしょ？
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-You've had a tumultuous way of life.
+波乱万丈な生き様ですねえ。
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You're reckless and in danger.
+おまえの無鉄砲さは、筋金入りだな。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's okay. After all, 
-it worked out in the end.
+いいだろ、別に。結果的には、
+全部うまくいったんだからさ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, where's <Lion>?
+あれ、<Lion>は？
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think he went inside earlier.
+先程、青い顔をして、
+中に入っていったようだが。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Is he not feeling well?
+体調でも悪いんでしょうか？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's not good. I'm 
-gonna go check on him.
+大変じゃないか。
+俺、様子を見てくるよ。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'll go with you.
+あたしも行くわ。
 [ENDBLOCK]
-Captain
+艦長
 [ENDBLOCK]
-Soldier
+兵士
 [ENDBLOCK]
-Ship Crew
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Hey, stop...
-stay away...
-
+船員
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Stop it! Why is this
-happening to me?!
-
-[ENDBLOCK]
-Captain
-[ENDBLOCK]
-We have to keep our mission a secret.
-It's nothing personal kid.
+よせ……
+やめろ……
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I was just trying to hitch 
-a ride to Seinegald!
+やめてくれ……
+どうして俺がこんな目に！
+
+[ENDBLOCK]
+艦長
+[ENDBLOCK]
+機密保持のためだ。
+悪く思うな。
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, wait!
-
-[ENDBLOCK]
-If we weren't carrying 'that', things
-might have been different...
-
-[ENDBLOCK]
-Who threw that?!
-
-[ENDBLOCK]
-You bastard...! You have 
-accomplices with you?
+俺はただ、セインガルドへ
+行きたかっただけなのに！
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-N-no, I don't!
+そんな、待ってくれよ！
 
 [ENDBLOCK]
-What is that?!
+あれを運んでいる時でなければ、
+これほどの目には遭わなかっただろうが。
 
 [ENDBLOCK]
-Captain
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-Ship Crew
-[ENDBLOCK]
-A huge swarm of monsters are flying in
-from ahead! There's hundreds of them!
+誰だ、物を投げたのは!?
 
 [ENDBLOCK]
-Impossible! Monsters attacking the 
-Draconis, this can't be possible...
-
-[ENDBLOCK]
-What do we do, Captain!?
-
-[ENDBLOCK]
-Deploy the first battalion!
-Don't let them get inside!
-
-[ENDBLOCK]
-Yes, sir!
+貴様……！
+さては他に仲間がいるな？
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Now's my chance...
+し、知らない。
+
+[ENDBLOCK]
+何事だ!?
+
+[ENDBLOCK]
+艦長
+[ENDBLOCK]
+兵士
+[ENDBLOCK]
+船員
+[ENDBLOCK]
+前方より、モンスターの大群飛来！
+すごい数です！
+
+[ENDBLOCK]
+バカな！	モンスターが飛行竜を襲うなど、
+ありえんはずだ……
+
+[ENDBLOCK]
+ご命令を！
+
+[ENDBLOCK]
+総員、第一級戦闘配備！
+中に入れさせてはならん！
+
+[ENDBLOCK]
+はっ！
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah-!
+今のうちに……
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can still use 
-that escape pod.
+あっ！
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+しめた、あれを使おう。
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x24><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x24><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -181,7 +180,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x24><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x24><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -189,7 +188,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qHH<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x48><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x44><x00><x80></color>を取得しました。
 
@@ -307,7 +306,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x24><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x24><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
