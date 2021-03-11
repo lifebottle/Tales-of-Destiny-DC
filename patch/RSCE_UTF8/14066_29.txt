@@ -18,27 +18,28 @@ Or are you from the Toukei territory?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Sir, are you from Seinegald?
-Or is it Phandaria?
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-お客さん、モリュウ領からかい？
-それとも、トウケイ領からかい？
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-Sir, are you from Sehngarde?
-Or is it Phandaria?
+Sir, are you from Moreau territory?
+Or are you from the Toukei territory?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
 Sir, are you from Moreau territory?
 Or are you from the Toukei territory?
 [ENDBLOCK]
-We accept Gald. If that's okay?
+Innkeeper
 [ENDBLOCK]
-Come back any time.
+Sir, are you from Seinegald?
+Or is it Phandaria?
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+Oh, maybe you're from Seinegald?
+Or is it Phandaria?
+[ENDBLOCK]
+ Gald. Is that okay?
+[ENDBLOCK]
+The room is upstairs.
+Sleep well.
 [ENDBLOCK]
 Come back any time.
 [ENDBLOCK]
@@ -96,11 +97,11 @@ Can I assume that there is still hope?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><TAG_013b><xD0><x80></color>が
 [ENDBLOCK]
