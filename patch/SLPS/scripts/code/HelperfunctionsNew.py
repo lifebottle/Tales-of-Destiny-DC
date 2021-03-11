@@ -248,9 +248,10 @@ class Helper:
         #Go grab the TextStart for the jump
         block = self.getJsonBlock(blockId)
         sections = block['Sections']
-        
+        lastSection = max([ele['SectionId'] for ele in sections])
         #Variables for adjusting overlapping
         textStart = [ele['TextStart'] for ele in sections if ele['SectionId'] == 1][0]
+        textEnd = [ele['TextEnd'] for ele in sections if ele['SectionId'] == lastSection][0]
         self.currentStart  = int(textStart, 16)
         self.currentEnd    = int(textEnd, 16)
     
@@ -283,7 +284,7 @@ class Helper:
                 #Add the result to the section
                 blockText += sectionText.replace("\r","")
         
-
+        print("Max Block End               :   {}".format(hex(int(textEnd, 16))))
         return block['BlockDesc'], blockText
 
     def createAtlasScript_Block(self,blockId):
@@ -382,7 +383,8 @@ class Helper:
                     blockText += sectionText.replace("\r","")
                     
             allText += blockText
-        
+            
+        print("Max Block End               :   {}".format(hex(int(textEnd, 16))))
         return allText
             
                     
