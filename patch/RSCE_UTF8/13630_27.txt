@@ -57,7 +57,8 @@ Do you want to stay?
  Gald.
 Is that okay?
 [ENDBLOCK]
-The room is upstairs, sleep well.
+The room is just over 
+there, sleep well.
 [ENDBLOCK]
 Please come back any time.
 [ENDBLOCK]
@@ -406,8 +407,8 @@ notice
 Hello, my name is <TAG_053> I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please don't
-tell me you're quitting.
+You're not done yet? Please 
+don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
 could help me with my work.
@@ -436,8 +437,8 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll give you a 
-portion of the reward as an advance.
+In the meantime, I'll advance 
+you a portion of the reward.
 
 [ENDBLOCK]
 notice
@@ -475,8 +476,8 @@ Please do as much as you can.
 I'll be quick about it.
 
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80> is located 
-in the town of <x18><x66><x50><x24><x00><x80>.
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
@@ -514,7 +515,7 @@ It's great to work with you.
 Well, good luck then.
 [ENDBLOCK]
 Are you serious? If you're having
-second thoughts, now's the time, okay?
+second thoughts, now's the time.
 [ENDBLOCK]
 I'm a little disappointed...
 
@@ -525,8 +526,8 @@ Breach of Contact Fee
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x28><x00><x80>として
-<TAG_076> Gald.
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
 You can't cancel the contract
