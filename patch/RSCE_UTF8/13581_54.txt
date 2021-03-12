@@ -462,258 +462,245 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-鍵がかかっている。
-
+It's Locked.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>井戸水の表面が
-うっすらと凍っている。
+<TAG_005>The surface of the well water
+is slightly frozen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「<yellow>エモーショナルカード・チャット</color>（以下チャット）」とは、
-仲間のキャラクターたちのおしゃべりを、
-見る事が出来るシステムの事です。
-
+<TAG_007><yellow>Emotional Chat System</color>（(referred
+to as Chats)is a system that lets
+you watch conversations between
+your party members.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>[ボタン操作]
-<Select_ani>：チャットを起動します。
-<x06><xED><x00><x00><x00>	<S15><L2_ani>：起動するチャットを選択します。
+<TAG_007><x0E><x01><x00><x00><x00>[Button Usage]
+<Select_ani>:Watch a Chat.
+<x06><xED><x00><x00><x00>	<S15><L2_ani>:Select a Chat to watch.
 [チャットの種類]
-<x06><xED><x00><x00><x00>	<S15><N_Skit>：ナビチャット
-<x06><xED><x00><x00><x00>		<S15>		仲間が行き先などを教えてくれます。
-<x06><xED><x00><x00><x00>	<S15><F_Skit>：フリーチャット
-<x06><xED><x00><x00><x00>		<S15>		主に仲間たちの雑談です。
-<x06><xED><x00><x00><x00>	<S15><R_Skit>：レアチャット
-<x06><xED><x00><x00><x00>		<S15>		特殊な条件をクリアすると発生します。
+<x06><xED><x00><x00><x00>	<S15><N_Skit>:Navigational Chat
+<x06><xED><x00><x00><x00>		<S15>		Destination revealed by party member.
+<x06><xED><x00><x00><x00>	<S15><F_Skit>:Free Chat
+<x06><xED><x00><x00><x00>		<S15>		Chit-chat among your party members.
+<x06><xED><x00><x00><x00>	<S15><R_Skit>:Rare Chat
+<x06><xED><x00><x00><x00>		<S15>		Triggered once condition is met.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>通常マップやフィールドの移動時には、
-チャットのタイトルが画面左下に表示されています。
-好きな場所、好きなタイミングで、
-聞きたいチャットを聞く事が出来ます。
+<TAG_007>When moving around a map
+or the field, Chat titles will
+appear in the bottom left corner of
+the screen. You can watch them
+whichever ones you'd like, at
+whatever time you'd like.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-このあたりには凶暴なモンスターも多い。
-油断はしないでくれ。
+There are many ferocious monsters
+in this area. Don't let your guard down.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、剣には自信あるんですよ。
-任せてください！
-
+I have confidence in this sword.
+Please leave it to me!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-我がマスターになったからといって、
-うぬぼれるなよ。
+Don't be conceited just because
+you've become my master.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえ、偉そうだな。
-
+You're so full of yourself.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-本格的な戦いに入る前に、
-ソーディアンの使い方を教えておく。
-
+Before we get into a real fight,
+I'll teach you how to use the Swordian.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんなの聞かなくてもわかるって。
-切ったり突いたりするだけだろ？
+You don't have to tell me that.
+You just slice and stab, right?
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+If I was an ordinary sword, that
+would be the end of it, but 
+that's not the case with a Swordian.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+First of all, I can use Crystal
+Artes? In my case, it's fire based.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+It requires chanting time,
+but is often more powerful
+than specialties.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+And the performance of the
+Swordian can be changed with
+the Swordian Device.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+It would be quicker to actually
+try and do this.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-普通の剣ならそれで終わりだが、
-ソーディアンはそうではない。
-
+Both the Crystal Arts and the
+Swordian Device will be broadened
+by my mastery of them.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-まず、「晶術」を使う事ができる。
-我の場合、炎にまつわるものだ。
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-詠唱時間を必要とするが、
-特技より強力なものが多い。
-
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-それと、ソーディアンの性能は
-「ソーディアンデバイス」で変更可能だ。
-
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-これは実際に、
-やってみるのが早いだろう。
-
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-「晶術」も「ソーディアンデバイス」も、
-我を使いこなす事で幅が広がっていく。
-[ENDBLOCK]
-<Dymlos>
-[ENDBLOCK]
-色々と試してみるがいい。
+You can try different things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった！
+Okayyy!
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-今のおまえは、まだまだ実力不足だ。
-それを自覚し、精進せねばならんぞ。
-
+You're still not good enough. 
+You have to be aware of that
+and be diligent.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえ、口うるさいな。
-
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-ふふ……
+You're such a nag.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、随分楽しそうだと思ってね。
-準備はもういいかな？
+Phew...
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+No, I just thought it looked like
+a lot of fun. Are you ready to go?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、はい。行きましょう！
+Ah, yes. Let's go!
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-おお<Chelsea>。
-待ちわびたぞい。
+Oh <Chelsea>, I was
+getting impatient.
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-ズボンのゴムが切れて、困っておった。
-早く直してくれんか。
-
+ The waistband on my pants tore.
+ Won't you hurry and fix it for me?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-もうっ！	そんな事のために、
-私を呼び戻したんですか！
-
+ Jeeeez! Did you seriously call
+ me back here just for that?!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ズボンのゴムくらい、
-自分で直してくださいっ！
-
+You should be able to fix your
+waistband yourself!
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-よいではないか。
-減るものではなかろう。
-
+So you won't do it? Well, I
+guess it's no big deal.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そういう問題じゃありません！
-
+That's not the problem here!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああいうのを、
-家族の触れ合いと言うのだろうな。
-
+ I guess that's what you�fd
+ call familial love.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うちも似たようなもんです。
-じっちゃんと妹がいますから。
-
+My family is the same way. I
+have a grandpa and a little sister
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>さんのところは、
-どうなんですか？
-
+<Woodrow>, what's your family like?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私が家族と呼べるのは父だけだからな。
-しかも、接する機会はそう多くない。
-
+I have a father who I call my
+family. But it's been a while
+since I've heard from him.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……外で立ち話をするのも何だ。
-私たちも中に入ろう。
-
+...What are we doing just
+standing around talking?
+Let's go inside.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ジェノスの街って、遠いんですか？
-途中で腹が減らなきゃいいけど。
-
+Is Janos far from here? I don't
+wanna get hungry on the way.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>君にこれをあげよう。
-「フードサック」だ。
-
+<Stahn> take this. It's a Food Sack
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-これがあれば、戦いを終えた時に、
-体力を回復してくれる。
-
+ If you have this, then you'll
+ be able to replenish your stamina
+ after battle.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-街でフードを補充する事で、
-繰り返し使える優れものだよ。
-
+You'll get used to refilling
+your food in town as you use it up
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へえ、便利ですね。ありがとうございます！
-
+Ohh, that's super convenient.
+Thanks a bunch!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-さて、行くとしようか。
-ジェノスの街は、南西の方角だ。
-
+Now, let's go. Janos is to the
+southwest of here.
 [ENDBLOCK]
 
 [ENDBLOCK]
-しかし！	それは人類にとって、
-致命的な誤りだったと言っておこう。
+But! Let's just say that it was
+a fatal mistake for humanity.
 [ENDBLOCK]
-<x00>地上世界の民よ！	自分たちのいる、
-今の世界を見てみるがいい。
+People of the Earthly world!
+Take a look at the world
+you live in.
 [ENDBLOCK]
 
 [ENDBLOCK]
-技術力は千年前に遠く及ばず、
-争いや貧困が後を絶たない、野蛮な世界を！
+A barbaric world where technology
+is not even close to what it was
+a thousand years ago, and where
+strife and poverty continue unabated!
 [ENDBLOCK]
 notice
 [ENDBLOCK]

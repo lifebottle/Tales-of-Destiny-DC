@@ -1,302 +1,312 @@
 
 [ENDBLOCK]
-<TAG_005>
+<TAG_005>Dead...
 [ENDBLOCK]
 
 [ENDBLOCK]
-反応が無い……
+Dead...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、気をしっかり持って。
+Get it together, Bocchan
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-わかってる……
+I know...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>、具合が悪いのか？
+<Lion>, What's wrong?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に……
-少し横になりたかっただけだ。
+Nothing...I just wanted to
+lie down for a bit.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた……さては飛行竜に、
-酔ったんじゃない？
+You've had motion sickeness the
+entire time we've been on
+the Draconis, haven't you?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-あ……
+Ah...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……うるさい。
-僕の事は放っておけ。
+Shut up...
+Leave me alone.
 [ENDBLOCK]
-<x1D><x24><x02><x20><x14><x6D><x80>, <x1D><x24><x02><x21><x14><x6D><x80>, <x1D><x24><x02><x24><x02><x14><x6D><x80>
+<1D>$<02> <14>m�, <1D>$<02>!<14>m�, <1D>$<02>$<02><14>m�
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-掌のツボを刺激すると、
-少し楽になるわよ。ほら。
+Stimulate the acupuncture points
+on your palms to get
+some relief. Here.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえ、何を……
+What are you doing...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どう？
+How's that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふん……
-多少はマシになったかもな。
+Hmm...
+Maybe a little better now.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でしょ？
+Isn't it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そういえばさ、あんたにまだ
-お礼言ってなかったわね。
+By the way
+I haven't thanked you, yet.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-一体、何の話だ。
+What are you talking about?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-シデンの洞窟よ。地面が崩れてあたしと
-<Stahn>が落っこちちゃったじゃない。
+In the Shedeen cave. When the
+ground collapsed and Stahn and I fell in.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえが余計な事を
-したからな。
+It's because you did
+something stupid.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-その時さ、あんたがロープ借りるために
-駆け回ってくれたんだって？
+I heard at the time, you hurried
+to get a rope
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>から聞いたわ。
+<Philia> told me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、そん時のお礼よ。
-今まで、言いそびれちゃって。
+I didn't tell you at the time.
+But here's my thanks for that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ありがとね。
+Thank you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に礼を言われる事でもない。
-任務の為だからな。
+It was nothing to be thankful for.
+It was for the mission.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ま、そういう事なら。
-それでもいいけどね。
+Well, if that's how you feel.
+I'm okay with that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、ひとついいか？
+Hey, can I gask you something?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ん、なあに？
+What's that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……おまえ、帰る家はあるのか？
+...Do you, have a home
+to go back to?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんなの、突然。
+What is this,
+all of a sudden?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そのままの意味だ。
+I mean exactly
+what I asked.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-実はさ、あたしの家って、
-孤児院なのよ。
+Actually, my home
+is an orphanage.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……そうか。そこがおまえの
-帰る場所というわけか。
+I see...so that's
+where you're going.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた、変わった反応するのね。
-普通なら、孤児なのか？	とか聞くわよ。
+Hmm...You have an unusual
+reaction. Noramlly, I'm asked
+if I'm an orphan.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……別に。興味がないからな。
+...Personally,
+I'm not interested.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あっそ。じゃあ聞かないでよね。
+Oh, yeah. Then no need to ask.
 [ENDBLOCK]
-<Lion><x00>それで気に……ならないのか。
-本当の……家族の事とか。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-まあ、そりゃあ気になるわよ。
+<Lion>So you don't care...
+To know what your real
+family is like.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-両親はどんな人かなあ、とか。
-兄弟姉妹はいるのかなあ、とか。
+Well, I'm curious, of course.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+I want to know what my parents
+are like. Do I have any
+brothers or sisters.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee>……
+<Rutee>...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ？	そろそろ着くのかしら。
+Oh? I think we'll be arriving
+at our destination soon.<
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でもさ、あたしの家族は
-孤児院のみんなだからね。
+But, you know... Everyone in the
+orphanage is my family.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしは、それで十分幸せなのよ。
+I'm happy enough with that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……そうか。
+...I see.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そういえば、あんたさっき何か
-言いかけてたわよね。
+Anyway, You were going to
+say something earlier?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さて、そろそろ到着だ。
-長い任務もようやく終わる。
+Well, we're about to arrive.
+Our long mission is
+finally over.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、無視しないでよ。
-何か言いたいんでしょ。
+Hey, don't ignore me. I know
+you want to say something.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえ、孤児だったのか。どうりで、
-育ちの悪さがにじみ出ているわけだ。
+You were an orphan, huh? No wonder
+you have such a bad upbringing.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はあー。
-あんたやっぱ、嫌な奴だわ。
+Huh...
+you're such a jerk.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえに言われたくないな。
+I don't need you to tell me that.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、聞いて
-欲しい事があります……
+Boy...There's
+something I want you to hear.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……僕は……
+...hm...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-本当の神の眼についてです……
+It's about the real Eye of Atamoni
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうすれば……<Marian>を
-助けられるんだ……！
+What do I do? <Marian>
+needs help.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-聞いてください、坊ちゃん！
+Listen to me, young man!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-黙っていてくれ、シャル！
+Shut up, Charl!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-神の眼など僕にとっては
-どうでもいい。
+The Eye of Atamoni is
+not important to me.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-やっぱり<Dymlos>に
-連絡をとりましょう。
+We should still conatact <Dymlos>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……何だと。
+What the...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-聞いてください。
-神の眼の本当の力は……
+Please listen, the real power
+of the Eye of Atamoni is...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そういう事か、シャル。
+So...that's what
+this is all about.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-え？
+What?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕の事を信じると言ったのは……
-あれは嘘だったのか！
+When he said he belived in me. was that a lie?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そうじゃなくて……
+It's not like that
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-シャル……もう口を開かないでくれ。
-やはりおまえなど……ただの剣だ。
+Chaltier...Bite your tongue.
+You are still just a sword.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん……
+Bocchan...
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-これより、神の眼が封印された施設に
-突入する。
+We will now enter the facility
+where the Eye of Atamoni is sealed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
