@@ -464,158 +464,161 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>立派なケヤキの木が
-生えている。
+<TAG_005>A magnificent Zelkova
+tree grows here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あっ、誰かいる。
+Hey, somebody's over there.
 
 [ENDBLOCK]
-？？？？？
+?????
 [ENDBLOCK]
-ぐす……もうだめ……
+...This is hopeless.
 
 [ENDBLOCK]
-？？？？？
+?????
 [ENDBLOCK]
-きっと私、もう二度と、
-家に帰れないんだわ……
+I'm never, ever,
+gonna get home...
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>。
+<Chelsea>.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さま！
+<Woodrow>, Oh my.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-こんなところでお会いできるなんて、
-欣喜雀躍です！
+To think I'd meet you here
+in a place like this!
+I'm jumping for joy!!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-きんき……？
+But you're not jumping...?
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-大喜びする、の意味だ。
+It's a figure of speech.
+She means she's overjoyed.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へえ……
+Ohh...
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうやらその様子だと、
-また迷子になったようだな。
+Judging by your condition,
+it seems like you got lost again.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-まただなんて、そんな。
+What do you mean by again?!
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私、今まで一度だって、
-迷子になった事なんかありません！
+I've never got lost before now,
+Not even once!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その割りに、
-泣き声になってたような……
+That's kinda weird, because it
+sounded like you were crying...
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あっ、あれは。
+Oh, that.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ケヤキさんとお話してただけです。
-それでつい、もらい泣きを。
+I was talking to Mr. Zelkova So I was
+crying about something he said.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へえ……木と話ができるんだ。
-すごいなあ！
+Wow...You can talk to trees!
+That's so cool!
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-え、ええ、まあ。
+Uh, yeah, sure.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの……どちらさまでしょうか？
+Um...and you are?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、<Stahn>・エルロンって言います。
-よろしく。
+Oh, <Stahn> Aileron
+Nice to meet you!
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ゆえあって先生のところで、
-世話をしていたのだよ。
+Some things happened,
+that led Master Alba to
+looking after him.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-弓匠アルバの孫、<Chelsea>です。
-軽輩の身ではありますが、お見知りおきを。
-
+Hello, I'm <Chelsea>, granddaughter
+and apprentice to Master Alba
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-け、けいは……？
+A-appren...?
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-身分が低い、または未熟者の意味だ。
+It means she's still unskilled, but she's
+working under him to learn more.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ディムロス、物知りだなあ。
+Dymlos, you know so many things!
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-でぃ、でぃ、でぃむ……？
+Di, Dy, Dim...?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、いや。なんでもないんです。
+Oh, uh, nothing. Don't worry about it.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>、先生が探している。
-私と一緒に帰ろう。
+<Chelsea>, Master Alba is looking for you.
+Come back with us.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はぁーい、わかりました。
+Okayyy, sure thing!
 
 [ENDBLOCK]
 notice
@@ -626,9 +629,9 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013d><x04><x80><x3C><x2F><x63>olor>が
+<TAG_007><S03><turquoise><TAG_013d><x04><x80><x3C><x2F><x63>olor>
 [ENDBLOCK]
-パーティに加わりました。
+ has joined the party.
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
