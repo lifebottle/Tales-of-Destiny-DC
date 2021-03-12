@@ -44,7 +44,7 @@ select
 [ENDBLOCK]
 <TAG_007>毒ガスが充満しています。
 中和剤を使用しますか？
-（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80><x9A>P）
+（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80>コ）
 はい
 いいえ
 
@@ -53,7 +53,7 @@ select
 [ENDBLOCK]
 <TAG_007>中和剤の効果が切れました。
 新しい中和剤を使用しますか？
-（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80><x9A>P）
+（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80>コ）
 はい
 いいえ
 
@@ -63,7 +63,7 @@ select
 メニューのアイテム欄から
 中和剤を使用することができます。
 [ENDBLOCK]
-<x1D><x45><x59><x30><x03>r@$<x8B>噴<x80> <x1D><x45><x59><x58><x03>r@$<x8B>噴<x80> <x1D><x45><x59><x80><x03>r@$<x8B>噴<x80> <x1D><x45><x59><xA8><x03>r@$<x8B>噴<x80> <x1D><x45><x59><xD0><x03>r@$<x8B>噴<x80> <x1D><x45><x59><xF8><x03>r@$<x8B>噴<x80> <x1D><x45><x5A><x20><x03>r@$<x8B>噴<x80> <x1D><x45><x5A><x48><x03>r@$<x8B>噴<x80> <x1D><x45><x5A><x70><x03>r@$<x8B>噴<x80>
+<x1D><x45><x59><x30><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><x58><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><x80><x03><x72><x40><x24><x8B>噴<x80> <x1D><x45><x59><xA8><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><xD0><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><xF8><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x20><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x48><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x70><x03><x72><x40><x24><x8B><xE8><xA0><x80>
 
 [ENDBLOCK]
 ダメージ
@@ -100,7 +100,7 @@ select
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 <red>赤ガス装置・エコー</color>破壊
 [ENDBLOCK]
@@ -108,11 +108,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013d><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4A><xB0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -130,7 +130,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013d><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4A><xB0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -138,7 +138,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qJ<xD4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><xD4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5A><xD0><x00><x80></color>を取得しました。
 
@@ -256,7 +256,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013d><xB0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x4A><xB0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

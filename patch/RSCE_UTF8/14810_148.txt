@@ -31,22 +31,25 @@
 [ENDBLOCK]
 <TAG_005><Dymlos>……ここが貴様の最期の地となるのだ！
 [ENDBLOCK]
-直値計算です	param = <x1D><x76><x00><x80><x01>
-[ENDBLOCK]
-現在値：<TAG_034>, 最大値：<TAG_035>, 加算：<TAG_075>, <x1D><x76><x00><x80><x01>
-[ENDBLOCK]
-計算値：<x1D><x76><x00><x80><x81>@目標：<TAG_076>
+直値計算です	param = <x1D><x76><x00><x80>
 
 [ENDBLOCK]
-新しい値：<TAG_034>	値or割合：<x1D><x76><x00><x80><x01>
-[ENDBLOCK]
-宝箱の設置……番号：<x17><x66><x10><x0B><x70><x00><xAB><x80>, データ：<x17><x66><x10><x0B><x70><x04><xAB><x80><x2C><x20><x17><x66><x10><x0B><x70><xAB><x80>
+現在値：<TAG_034>, 最大値：<TAG_035>, 加算：<TAG_075>, <x1D><x76><x00><x80>
 
 [ENDBLOCK]
-座標：<x1D><x66><x14><x0F><x74><x00><xAB><x80>, <x1D><x66><x14><x0F><x74><x04><xAB><x80><x2C><x20><x1D><x66><x14><x0F><x74><x08><xAB><x80><x2C><x20>Rot:<x17><x66><x14><x0F><x6C><x0C><xAB><x80><x2C><x20>No:<x17><x66><x50><x18><x0B>p<xAB><x80>
+計算値：<x1D><x76><x00><x80>	目標：<TAG_076>
 
 [ENDBLOCK]
-宝箱アクションの開始	<x17><x66><x10><x0B><x70><xAB><x80>
+新しい値：<TAG_034>	値or割合：<x1D><x76><x00><x80>
+
+[ENDBLOCK]
+宝箱の設置……番号：<x17><x66><x10><x0B><x70><x00><xAB><x80>, データ：<x17><x66><x10><x0B><x70><x04><xAB><x80>, <x17><x66><x10><x0B><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+座標：<x1D><x66><x14><x0F><x74><x00><xAB><x80>, <x1D><x66><x14><x0F><x74><x04><xAB><x80>, <x1D><x66><x14><x0F><x74><x08><xAB><x80>, Rot:<x17><x66><x14><x0F><x6C><x0C><xAB><x80>, No:<x17><x66><x50><x18><x0B><x70><x04><xAB><x80>
+
+[ENDBLOCK]
+宝箱アクションの開始	<x17><x66><x10><x0B><x70><x04><xAB><x80>
 
 [ENDBLOCK]
 アルカナルイン
@@ -71,7 +74,7 @@ notice
 一度、開いてみると良いでしょう。
 
 [ENDBLOCK]
-×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07>f<x10><x0B><x70><x08><xAB><x8B>捕p<x00><xAA><x80>	×
+×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07><x66><x10><x0B><x70><x08><xAB><x8B><xE8><xCF><x70><x00><xAA><x80>	×
 
 [ENDBLOCK]
 宝箱：ＨＰ回復
@@ -219,7 +222,7 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80>個	（現在<x17><x72><x40><x14><x20>$<x02><x15><x40><x80><xE0><xA9>）
+対象	<x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80>個	（現在<x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>個）
 頼む
 頼まない
 
@@ -352,7 +355,7 @@ notice
 [ENDBLOCK]
 食料を奪います。
 [ENDBLOCK]
-この値<x17><x66><x50><x20><x07>r@<x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
+この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
 [ENDBLOCK]
 サイグローグ
 [ENDBLOCK]
@@ -391,7 +394,7 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x1C><x80>	<TAG_075>個	（現在<x17><x72><x40><x1C><x20>$<x02><x15><x40><x80><xE0><xA9>）
+対象	<x1A><x72><x40><x1C><x80>	<TAG_075>個	（現在<x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>個）
 頼む
 頼まない
 
@@ -453,7 +456,7 @@ notice
 [ENDBLOCK]
 次の階へ進む
 [ENDBLOCK]
-セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9>u<x00><x80>ポイント必要）
+セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>ポイント必要）
 [ENDBLOCK]
 アルカナルインから脱出
 [ENDBLOCK]
@@ -558,7 +561,7 @@ notice
 選択できるメンバーは１人から５人までです。
 
 [ENDBLOCK]
-<x19><x21><x72><x00><x8B><x80>, <x17><x45><x56><x98><x00>r<x00><x8B>稗<x80>
+<x19><x21><x72><x00><x8B><x80>, <x17><x45><x56><x98><x00><x72><x00><x8B><xE8><x40><x80>
 
 [ENDBLOCK]
 パーティ参加人数：<x17><x72><x40><x64><x80>、戦闘参加：<x17><x72><x40><x68><x80>、サポート：<D_FOG_COLOR_B>
@@ -567,7 +570,7 @@ notice
 party_list[0] = <x17><x6A><x40><x9C><x80>（パーティ人数）
 
 [ENDBLOCK]
-party_list[<TAG_031>] = <x17><x46><x50><x9C><x00>r<x00><x8B>稗<x80>（<x19><x46><x50><x9C><x00>r<x00><x8B>稗<x80>）
+party_list[<TAG_031>] = <x17><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>（<x19><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>）
 
 [ENDBLOCK]
 notice
@@ -583,7 +586,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x19><x21><x72><x08><x8B><x80>は<x17><x45><x56><x98><x00>r<x08><x8B><xE8><x40><x80>
+<x19><x21><x72><x08><x8B><x80>は<x17><x45><x56><x98><x00><x72><x08><x8B><xE8><x40><x80>
 
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
@@ -636,12 +639,10 @@ select
 <TAG_076> = <x19><x72><x40><x18><x21><x8B><x80>
 
 [ENDBLOCK]
-party_list[<x17><x6A><x01><x80><x5D> = <x17><x46><x13><x00><x6A>
-<x8B>稗<x80> = <x19><x46><x13><x00><x6A>
-<x8B>稗<x80>
+party_list[<x17><x6A><x01><x80>] = <x17><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80> = <x19><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80>
 
 [ENDBLOCK]
-j = <x17><x6A><x02><x80><x81>@HPを１に変更
+j = <x17><x6A><x02><x80>	HPを１に変更
 
 [ENDBLOCK]
 パーティを再編成します
@@ -892,11 +893,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013h><x8C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4E><x8C><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -914,7 +915,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013h><x8C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4E><x8C><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -922,7 +923,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qN<xB0><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4E><xB0><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5E><xAC><x00><x80></color>を取得しました。
 
@@ -1040,7 +1041,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013h><x8C><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x4E><x8C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

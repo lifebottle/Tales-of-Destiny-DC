@@ -1,4 +1,4 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 <Marian>
@@ -320,7 +320,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-さっきの萍ew <xD6>どこへ行ったのだ？
+さっきの啖呵はどこへ行ったのだ？
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -482,37 +482,37 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>As a child
+<TAG_007>子供の頃。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>I'd always look up to see her give a kind smile.
+<TAG_007>見上げると、いつでも彼女は優しく微笑んでくれた。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>As I grew over time,
-I no longer needed to look up to see her smile.<x00>
+<TAG_007>時が過ぎ、成長するにつれ、
+その笑顔を見上げる必要はなくなっていった。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>But being at the same eye-level wasn't enough.
+<TAG_007>ただ、同じ目線になるにはまだ少し足りなかった。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>My father never cared.
+<TAG_007>父は僕に無関心だった。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>I wanted to grow up quickly
-and become independent from him.<x00><x00><x00>
+<TAG_007>だから僕は早く父に頼らなくとも
+生きていける大人になりたかった。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>There's only two reasons why
+<TAG_007>僕の望むものは、ただふたつ。
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>for her sake, and to be worthy..
+<TAG_007>全ては彼女と対等になるために……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -520,8 +520,8 @@ and become independent from him.<x00><x00><x00>
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Ah, Emilio!
-I'm sorry<x00><x00><x00><x00><x00><x00><x00><x00>
+あ、エミリオ。
+ごめんなさい。
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -957,11 +957,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -979,7 +979,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -987,7 +987,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xAC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA8><x00><x80></color>を取得しました。
 
@@ -1105,7 +1105,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x88><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

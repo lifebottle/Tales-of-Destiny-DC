@@ -1,54 +1,52 @@
-Man
+おじさん
 [ENDBLOCK]
-Lately, there's been an increase in
-the number of homeless children. The
-Oberon Corporation won't do anything
-about it, though.
+最近、身寄りのないガキが増えてる。
+オベロン社は何もしてくれないがな。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-This city is a strange city. There is
-money, and there is laughter.
+この街は不思議な街だ。
+金があり、笑いもある。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-But it will not be given to the
-kids who have no relatives.
+だが、身寄りのないガキどもに、
+それが与えられる事はない。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-The lightning in the sky must<__continue to fall more and more.
+天空の雷はこれからもどんどん
+落ちてくるに違いない。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-But the rich are only worried about
-their own self-preservation and
-damaging the cityscape.
+だが金持ちは、自分の保身と、
+街の景観を損なう事しか心配していない。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-We knew from the beginning that the
-rich could not be counted on.
+金持ちが頼りにならない事は、
+初めからわかっていた。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-We've got to do something
-here on our own.
+ここはわしらだけで、
+なんとかしなければならん。
 [ENDBLOCK]
-Man
+おじさん
 [ENDBLOCK]
-This city may be reborn
-after this riot is over.
+今回の騒動が無事に終わったら、
+この街は生まれ変わるかもしれん。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -66,7 +64,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -74,7 +72,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG覆<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE4><x00><x80></color>を取得しました。
 
@@ -192,7 +190,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC4><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC4><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

@@ -253,34 +253,34 @@ crctsel -> <x17><x71><x4A><x54><x80>
 終了
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ <x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x20><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ$<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x24><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ(<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x28><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ,<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x2C><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ0<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x30><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ4<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x34><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ8<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x38><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ<<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x3C><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJ@<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x40><x98><x80>
 
 [ENDBLOCK]
-<x1A><x2C><x00><x00><x04><x00>qJD<x98><x80>
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x44><x98><x80>
 
 [ENDBLOCK]
 ？？？？？
@@ -301,34 +301,34 @@ crctsel -> <x17><x71><x4A><x54><x80>
 <yellow>「<x18><x65><x5A><xBC><x00><x80>」</color>
 <x18><x65><x5A><x8C><x00><x80><x18><x65><x5A><x90><x00><x80><x18><x65><x5A><x94><x00><x80><x18><x65><x5A><x98><x00><x80><x18><x65><x5A><x9C><x00><x80><x18><x65><x5A><xA0><x00><x80><x18><x65><x5A><xA4><x00><x80><x18><x65><x5A><xA8><x00><x80><x18><x65><x5A><xAC><x00><x80><x18><x65><x5A><xB0><x00><x80><x18><x65><x5A><xB4><x00><x80><x18><x65><x5A><xB8><x00><x80>
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH<xD8><x8B>斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xD8><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH<xDC><x8B>斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xDC><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH牽斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xE0><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH践斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xE4><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH侮斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xE8><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xEC><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xF0><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xF4><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xF8><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
-<x18><x45><x57><xAC><x03>qH斐<x80>
+<x18><x45><x57><xAC><x03><x71><x48><xFC><x8B><xE8><x28><x80>
 
 [ENDBLOCK]
 ？？？？？
@@ -512,19 +512,20 @@ page <x17><x72><x40><x10><x21><x8B><x80>
 page <TAG_035>, top <TAG_033>, selno <TAG_034>
 
 [ENDBLOCK]
-<x18><x45><x5A><xDC><x07>r<x08><x72><x0C><x8B><x8B>捕d<x14><x00><xAA><x80><x01>
+<x18><x45><x5A><xDC><x07><x72><x08><x72><x0C><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
+
 [ENDBLOCK]
-<TAG_007><x18><x45><x5A><xDC><x07>r<x08><x20><x8B><x8B><xE8><xCF>d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x21><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x02><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x03><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x04><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x05><x8B><x8B>捕d<x14><x00><xAA><x80><xE2>dへ
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>次へ
 [ENDBLOCK]
 page <TAG_035>, top <TAG_033>, selno <TAG_034>
 
 [ENDBLOCK]
-<TAG_007><x18><x45><x5A><xDC><x07>r<x08><x20><x8B><x8B><xE8><xCF>d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x21><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x02><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x03><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x04><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x05><x8B><x8B>捕d<x14><x00><xAA><x80><xE4><x91>へ
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>前へ
 [ENDBLOCK]
-<TAG_007><x18><x45><x5A><xDC><x07>r<x08><x20><x8B><x8B><xE8><xCF>d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x21><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x02><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x03><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x04><x8B><x8B>捕d<x14><x00><xAA><x80><x18>EZ<xDC><x07><x72><x08><x24><x05><x8B><x8B>捕d<x14><x00><xAA><x80><xE2>dへ
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>次へ
 前へ
 [ENDBLOCK]
-number <x17><x45><x5A><xDC><x07>r<x08><x72><x00><x8B><x21><x8C><x8B>捕p<x00><xAA><x80>
+number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xCF><x70><x00><xAA><x80>
 
 [ENDBLOCK]
 ねこにん
@@ -1415,11 +1416,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013e><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4B><xB0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1437,7 +1438,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013e><xB0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4B><xB0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1445,7 +1446,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qK<xD4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><xD4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5B><xD0><x00><x80></color>を取得しました。
 
@@ -1563,7 +1564,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013e><xB0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x4B><xB0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -1710,7 +1711,7 @@ notice
 依頼を受けているようだな。
 [ENDBLOCK]
 注文の品は……
-<x1A><x72><x0C><x80><x99>TAG_035>個だな。
+<x1A><x72><x0C><x80>を<TAG_035>個だな。
 
 [ENDBLOCK]
 早めに頼むぜ。
@@ -1719,7 +1720,7 @@ notice
 <x18><x66><x50><x20><x00><x80>は<x18><x66><x50><x24><x00><x80>にいる。
 
 [ENDBLOCK]
-<x1A><x72><x0C><x80><x99>TAG_035>個、
+<x1A><x72><x0C><x80>を<TAG_035>個、
 間違いなく調達してくれよ。
 
 [ENDBLOCK]

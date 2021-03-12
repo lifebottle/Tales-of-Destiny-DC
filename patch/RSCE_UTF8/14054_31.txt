@@ -1,7 +1,7 @@
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
 ○pira－初期化されています
@@ -17,7 +17,7 @@
 潜伏者復帰
 
 [ENDBLOCK]
-<x1D><x76><x04><x80><xEA>wれてる
+<x1D><x76><x04><x80>離れてる
 
 [ENDBLOCK]
 
@@ -30,11 +30,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80><x3C><x2F><x63>olor>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -52,7 +52,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80><x3C><x2F><x63>olor>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -60,40 +60,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xF4><x10><x00><x80></color>を取得しました。
 
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 <turquoise>交易称号
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 <turquoise>温泉称号
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 <turquoise>自由称号
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ナチュレンジャー
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ダッシュシリーズ
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 <turquoise>最強の称号
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>たちは
+<x19><x69><x80>藩<x80>たちは
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x80><xE8><x10><x80>は
+<x19><x69><x80>藩<x80>は
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -178,7 +178,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80><xD4><x10><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x80><xD4><x10><x80><x99><xD5><x9A>Zーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

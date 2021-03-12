@@ -22,28 +22,29 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-周回：<x17><x66><x14><x3B><x70><xAB><x80>
+周回：<x17><x66><x14><x3B><x70><x0C><xAB><x80>
 
 [ENDBLOCK]
 ▼▼▼▼▼矢印描画開始
 
 [ENDBLOCK]
-マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80><x20><x3D>= <TAG_033>
+マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80> == <TAG_033>
 
 [ENDBLOCK]
-場所：<x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<x00><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<x04><xAA><x80><x2C><x20><x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<xAA><x80>
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-場所：<x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-ギミック：<x17><x66><x10><x0F><x70><xAB><x80>
+ギミック：<x17><x66><x10><x0F><x70><x08><xAB><x80>
 
 [ENDBLOCK]
 この時点でのベクトル方向：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
 
 [ENDBLOCK]
-この時点での角度：<x17><x76><x0C><x80><x01>
+この時点での角度：<x17><x76><x0C><x80>
+
 [ENDBLOCK]
 この時点での正規化：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
 
@@ -417,49 +418,49 @@ select
 かけっこ管理----->
 
 [ENDBLOCK]
-最大周数：<x17><x66><x50><x1C><x43>p<xAB><x80>
+最大周数：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
 
 [ENDBLOCK]
-現在結果：<x17><x66><x50><x1C><x43>p@<xAB><x80>
+現在結果：<x17><x66><x50><x1C><x43><x70><x40><x1C><xAB><x80>
 
 [ENDBLOCK]
-勝利状態：<x17><x66><x50><x1C><x43>p@(<xAB><x80>
+勝利状態：<x17><x66><x50><x1C><x43><x70><x40><x28><xAB><x80>
 
 [ENDBLOCK]
-説明状態：<x17><x66><x50><x1C><x43>p@$<xAB><x80>
+説明状態：<x17><x66><x50><x1C><x43><x70><x40><x24><xAB><x80>
 
 [ENDBLOCK]
-現レベル：<x17><x66><x50><x1C><x43>p@ <xAB><x80>
+現レベル：<x17><x66><x50><x1C><x43><x70><x40><x20><xAB><x80>
 
 [ENDBLOCK]
 プレイヤー----->
 
 [ENDBLOCK]
-現在状態：<x17><x71><x80><x20><x15><x80>
+現在状態：<x17><x71><x80> <x80>
 
 [ENDBLOCK]
-現在周数：<x17><x71><x80><x24><x15><x80>
+現在周数：<x17><x71><x80>$<x80>
 
 [ENDBLOCK]
-現フラグ：<x17><x71><x80><x28><x15><x80>
+現フラグ：<x17><x71><x80>(<x80>
 
 [ENDBLOCK]
-目標座標：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x08><xAA><x80>
+目標座標：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
 マッハ少年----->
 
 [ENDBLOCK]
-現在状態：<x17><x71><x80><xCC><x14><x80>
+現在状態：<x17><x71><x80><xCC><x80>
 
 [ENDBLOCK]
-現在周数：<x17><x71><x80><xD0><x14><x80>
+現在周数：<x17><x71><x80><xD0><x80>
 
 [ENDBLOCK]
-現フラグ：<x17><x71><x80><xD4><x14><x80>
+現フラグ：<x17><x71><x80><xD4><x80>
 
 [ENDBLOCK]
-目標座標：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x08><xAA><x80>
+目標座標：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
 それじゃ、コースの説明をするね。
@@ -506,7 +507,8 @@ select
 ◆◆◆かけっこ開始
 
 [ENDBLOCK]
-座標：<x1D><x75><x80><xC4><x17><x80>, <x1D><x75><x80><xC8><x17><x80>, <x1D><x75><x80><xCC><x17><x80>	方向：<x1D><x76><x0C><x80><x01>
+座標：<x1D><x75><x80><xC4><x17><x80>, <x1D><x75><x80><xC8><x17><x80>, <x1D><x75><x80><xCC><x17><x80>	方向：<x1D><x76><x0C><x80>
+
 [ENDBLOCK]
 レベル２：<x17><x24><x82><x14><x2F><x80>
 
@@ -520,18 +522,18 @@ select
 説明済み：<x17><x24><x81><x14><x2F><x80>
 
 [ENDBLOCK]
-転送先：<x1D><x75><x80><xB4><x14><x80>, <x1D><x75><x80><xB8><x14><x80>, <x1D><x75><x80><xBC><x14><x80>
+転送先：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xE0><x17><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -549,7 +551,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xE0><x17><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -557,40 +559,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x18><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><x00><x18><x00><x80></color>を取得しました。
 
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>交易称号
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>温泉称号
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>自由称号
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ナチュレンジャー
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ダッシュシリーズ
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>最強の称号
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x80><xF4><x17><x80>は
+<x19><x69><x80><x80>は
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -675,7 +677,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80><xE0><x17><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x80>衿<x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

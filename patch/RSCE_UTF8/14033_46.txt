@@ -302,146 +302,145 @@
 ……え？	あんたたちがそうだって？
 はっはっは、またまた。
 [ENDBLOCK]
-Announcer
+司会者
 [ENDBLOCK]
-A new challenger enters the arena!
+さあ、挑戦者の入場だ！
 [ENDBLOCK]
-A daredevil has appeared to
-challenge Mighty <Kongman>!
+マイティ・<Kongman>に挑戦する、
+命知らずが現れたぞ！
 [ENDBLOCK]
-Spectators
+観客
 [ENDBLOCK]
-Mighty! Mighty! Mighty!
+マイティ！	マイティ！	マイティ！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I must praise you for not running
-away. Have you prepared yourself?
+逃げずに来た事はほめてやる。
+覚悟はできているな？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I still don't really get 
-why we have to fight.
+勝負はやってみなくちゃ、
+わからないさ。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, please watch me. I will 
-devote the glory of my victory to you!
+<Philia>さん、見ていてください。
+勝利の栄光、あなたに捧げます！
 [ENDBLOCK]
-Now, in this very moment, witness
-this very special match!
+それではただいまより、
+本日の特別試合を行います！
 [ENDBLOCK]
-Champion <Kongman>!
-VS! Mister Pointy Head!
+チャンピオン・<Kongman>！
+ＶＳ！	ミスター・トンガリ頭！
 [ENDBLOCK]
-Oh my! We've reached an unexpected
-conclusion! The challenger has won
-the match!
+おーっと、番狂わせが起きたあ！
+勝ったのは挑戦者だあ！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gah... This is ridiculous.
+ぐがが……こんなバカな……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-How was that? Do you get it now?
+どうだ、思い知ったか。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Stop pursuing <Philia>.
-Okay? And...
+もう<Philia>に付きまとうなよ。
+それと……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That was a good match. Thanks.
+いい試合だったよ、ありがとう。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Y-you... you're a 
-pretty refreshing guy.
+お、おめえ……
+なんてさわやかな奴なんだ。
 [ENDBLOCK]
-What's this? Are we witnessing a 
-budding friendship in the making?
-It's a bit stifling, but how touching!
+おおーっと！
+ふたりの間に友情が芽生えたかあ!?
+なんと暑苦しくも感動的な光景だあ！
 [ENDBLOCK]
-The Champion is the winner!
-That's what I'm talking about!
+勝ったのはチャンピオンだあ！
+さすがにこれは地力が違ったかあ！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Ga-ha-ha-ha! You're afraid! I 
-can't even hear you anymore!
+ガハハハハ！	恐れ入ったか！
+もはやグウの音も出まい！
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Hey...!
+おのれ……！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>...sorry...
+<Philia>……ごめん……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You... know that person so well.
+おめえ……そこまで、
+あの人の事を……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Huh, that was a good fight, man.
+……フン、いい試合だったぜ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>...
+<Kongman>……
 [ENDBLOCK]
-Oops! For some reason, something
-like friendship seems to have grown
-between them! What a hot and touching
-sight!
+おおーっと！	なぜかふたりの間に、
+友情らしき物が芽生えたようだぞ!?
+なんと暑苦しくも感動的な光景だあ！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What are you all doing
-in a place like this?!
+こんなところで何をやっている！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>? The match already ended.
+<Lion>？	もう試合は終わったよ。
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Are you really playing around?
-Monsters are attacking the town!
+遊んでいる場合か！
+街がモンスターに襲われているぞ！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What did you say?!
+なんだって!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What did you say?!
+なんだと!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Shit, what the hell are they doing?!
+くそ、一体何が起こってやがる！
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Let's hurry and get out of here too.
+我らも急いでここを出るぞ。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I am the champion! Ga-ha-ha-ha!
+アイ・アム・チャンピオン！
+ガハハハハ！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
-has joined the party.
+パーティに加わりました。
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
@@ -449,7 +448,7 @@ has joined the party.
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-has returned to the party.
+パーティに復帰しました。
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
@@ -457,15 +456,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
-has left the party.
+パーティから抜けました。
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>を取得しました。
 
@@ -583,7 +582,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

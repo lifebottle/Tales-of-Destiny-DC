@@ -239,7 +239,7 @@
 さあ、どこに行く？
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 半径だ<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
@@ -270,10 +270,11 @@
 <TAG_076>
 
 [ENDBLOCK]
-ここだ<x17><x72><x40><x18><x3C><x00><x00> B<x14><x4A><xE9><x80><x28><x00><x10><x8A><x8B><x80><x20>)
+ここだ<x17><x72><x40><x18><x3C><x00><x00><x20><x42><x14><x4A><xE9><x80>(<x00><x10><x8A><x8B><x80><x20>)
 
 [ENDBLOCK]
-<x17><x72><x40><x14><x24><x16><x14><x6F><x80><x01>
+<x17><x72><x40><x14><x24><x16><x14><x6F><x80>
+
 [ENDBLOCK]
 限界<D_FOG_COLOR_B>
 
@@ -706,12 +707,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 けど、絶対に無茶はしないでよ。
 
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 おいおい、一体何を心配しているんだ。
 
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 道化は無茶も頑張りも、
 しないものだぜ。
@@ -1074,11 +1075,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x48><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x48><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1096,7 +1097,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x48><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x48><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1104,7 +1105,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qHl<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x6C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x68><x00><x80></color>を取得しました。
 
@@ -1222,7 +1223,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x48><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x48><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -1369,7 +1370,7 @@ notice
 依頼を受けているようだな。
 [ENDBLOCK]
 注文の品は……
-<x1A><x72><x0C><x80><x99>TAG_035>個だな。
+<x1A><x72><x0C><x80>を<TAG_035>個だな。
 
 [ENDBLOCK]
 早めに頼むぜ。
@@ -1378,7 +1379,7 @@ notice
 <x18><x66><x50><x20><x00><x80>は<x18><x66><x50><x24><x00><x80>にいる。
 
 [ENDBLOCK]
-<x1A><x72><x0C><x80><x99>TAG_035>個、
+<x1A><x72><x0C><x80>を<TAG_035>個、
 間違いなく調達してくれよ。
 
 [ENDBLOCK]

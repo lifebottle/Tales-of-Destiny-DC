@@ -1,130 +1,121 @@
-セインガルド兵
+Soldier
 [ENDBLOCK]
-こちらは異常ありませんっ！
+There's nothing wrong
+with this one!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-<Lion>や<Hugo>を捕らえたら、
-ここに収監するんでしょうか？
+If we capture <Lion> or <Hugo>,
+will they be imprisoned here?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-我が国ばかりでなく、他の国も、
-攻撃を受けたというのは本当ですか？
+Is it true that not only our country, but other countries as well, have been attacked?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-モンスターの攻撃を受けているのは、
-クレスタだけなのでしょうか？
+Is it true that not only our
+country but other countries as
+well have been attacked?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-私も集積レンズ砲の制作に、
-携われればいいのですが……
+I wish I could be involved in
+the production of the integrated
+lens cannon...
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-持ち場を離れる事ができず、
-集積レンズ砲発射の瞬間を見逃しました。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ちょっと、出しなさいよ！
-いつまでこんなとこに入れとく気！
-
+I couldn't leave my post and
+missed the moment of firing
+the integrated lens cannon.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はあ……散々だわ。
-
+Hey, let me out of here! How
+long are you gonna
+keep me in this place?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-アトワイトはともかく、
-どうしてお金まで取られるのよ。
-
+Haa... this is the worst.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Instead of Atwight, why couldn't
+they have just taken my money?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-これはこれでなかなか楽しいぞ。
-
+I dunno, this
+is kinda fun!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そりゃ<Mary>にかかったら、
-なんだって楽しいでしょうけど。
-
+Well, I guess anything can be
+fun when you're <Mary>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>！	どうしちゃったのよ。
-さっきから黙ったまんまで。
-
+<Stahn>! What were you thinking
+back there? You should have
+just shut up!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、あんた！
-
+Hey, you!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ハーメンツでは、
-よくもやってくれたわね！
-
+You were pretty good
+back in Harmentz.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえ……！
-
+You...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>……あんたもしかして、
-ものすっごく怒ってる？
-
+<Stahn>... aren't you kinda
+a little too angry?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……おまえ、強いなあ！
-
+...You, you're so strong!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたら、
-あんなに強くなれるんだ？
-
+How did you even
+get so strong???
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……大自然に包まれて育った方は、
-懐がお深いです事。
-
+...Those who were raised among
+nature have such deep
+inner thoughts.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-出ろ。
-
+Leave.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしたちをどうする気？
-
+What are you gonna do to us?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-答える必要はない。
-黙って僕について来い。
-
+I don't need to answer you.
+Shut up and come with me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xC0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -142,7 +133,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xC0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -150,7 +141,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH膳<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xE0><x00><x80></color>を取得しました。
 
@@ -268,7 +259,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xC0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xC0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -759,7 +750,7 @@ notice
 なんだ？
 肩書きを変えたくなったのか？
 [ENDBLOCK]
-r<x00><x80>
+<x19><x72><x00><x80>
 [ENDBLOCK]
 <TAG_033>
 

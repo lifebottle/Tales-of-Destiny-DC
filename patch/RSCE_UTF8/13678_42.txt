@@ -177,19 +177,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）</color>
+<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）</color>
+<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）</color>
+<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）</color>
+<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -460,7 +460,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 少年
@@ -1553,102 +1553,106 @@ F.リーネ
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is closed.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-最近は遺跡を荒らすレンズハンターが
-増えたそうですね。
+I heard that the number of lens hunters
+raiding the ruins has increased recently.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-中央の方でも事態を重く見て、
-警備を強化しているそうですよ。
+I heard that the central government is
+also taking the situation very seriously
+and is strengthening security.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-最近は遺跡を荒らすレンズハンターが
-増えたそうですね。
+I heard that the number of lens hunters
+raiding the ruins has increased recently.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-「強欲の魔女」と呼ばれるレンズハンターを
-ご存知ですか？
+Have you ever heard of the lens hunter
+known as the "Witch of Greed"?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-最近はなりを潜めているようですが……
-引退してしまったんでしょうか？
+You haven't been around lately...
+Have you retired?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-この事態を引き起こしたのが、
-オベロン社の総帥という噂は本当ですか？
+Is there any truth to the rumor that
+the general of Oberon Corporation is
+the one who caused this situation?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-皆さんを信じています。
-どうか頑張ってください。
+I believe in you all.
+Please do your best.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-<Lion>・マグナスの立ち回りを、
-この目で見れて嬉しかったぞい。
+It was a pleasure to see <Lion> Magnus
+up on his feet with my own eyes.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-しかし、あれじゃのう。
-想像していたより、ちっこいのう。
+But, that's it. It's smaller
+than I imagined it would be.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-王都では、<Lion>・マグナスという
-少年剣士が大活躍しとるそうじゃ。
+In the King's land, a young
+swordsman named <Lion> Magnus is
+said to be very active.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-わしは<Lion>・マグナスのファンじゃ。
-これからも活躍してくれよ。
+I'm a fan of <Lion> Magnus.
+Keep up the good work!
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-最近王都では、<Lion>・マグナスという
-少年剣士が大活躍しとるそうじゃ。
+It is said that a young swordsman
+named <Lion> Magnus is very active
+in the King's land these days.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-ぬしが<Lion>・マグナスじゃと？
-想像していたより、ちっこいのう。
+What's that, you're <Lion> Magnus?
+You're smaller than I imagined.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-<Lion>・マグナスの立ち回りを、
-この目で見れて嬉しかったぞい。
+It was a pleasure to see <Lion> Magnus
+up on his feet with my own eyes.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-わしは<Lion>・マグナスのファンじゃ。
-これからも活躍してほしいのう。
+I'm a fan of <Lion> Magnus. I hope he
+continues to be active in the future.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-<Lion>・マグナスは何をしておる？
-今こそ活躍してほしいもんじゃが。
+What's <Lion> Magnus doing? I'd like
+to see him in an active role now.
 [ENDBLOCK]
-おじいちゃん
+Old Man
 [ENDBLOCK]
-おぬしら、<Lion>・マグナスに会ったら、
-頑張れと伝えてくれい。
+If you see <Lion> Magnus,
+tell him to hang in there.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013e><x2C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4B><x2C><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1666,7 +1670,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013e><x2C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4B><x2C><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1674,7 +1678,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qKP<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5B><x4C><x00><x80></color>を取得しました。
 
@@ -1792,7 +1796,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013e><x2C><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x4B><x2C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

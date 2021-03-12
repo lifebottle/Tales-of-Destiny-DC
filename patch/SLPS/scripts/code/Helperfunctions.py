@@ -387,11 +387,15 @@ def updateBlock(blockId, SLPSName):
     reinsertText_Block(blockId, SLPSName)
 
 
-googleId = '1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM'
-fileName = 'wTODDC_Swordian_Dump_cleaned.txt'
+googleId = '1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y'
+fileName = 'TODDC_ItemGroup_Dump_cleaned.txt'
 finalList = parseText(fileName)
 writeColumn(finalList, googleId)
     
 #text = 'Upper body armor made of leather.[LINE]\nFavored by adventurers due to its[LINE]\nlightness and fair protection.[END]'
 #re.sub('[END]$', '[END]\n', text)
 
+listBlock = [ [ ele['BlockId'], ele['BlockDesc'], ele['Sections'][0]['TextStart'], ele['Sections'][-1]['TextEnd']] for ele in dataItems]
+dfBase = pd.DataFrame(listBlock, columns=['Id', 'BlockDesc','TextStart','TextEnd'])
+
+dfBase.loc[ dfBase['Id'] == dfBase['Id'].max() and dfBase['BlockDesc'] != ""]

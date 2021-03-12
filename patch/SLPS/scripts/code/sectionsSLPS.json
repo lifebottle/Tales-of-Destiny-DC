@@ -2,33 +2,51 @@
 	"items":[
 	{
 		"BlockId":			1,
+		"BlockDesc":		"Character Name",
 		"TextStartBlock":	"",
 		"Sections":[
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Character Name",
-			"GoogleSheetId": 	"",
+			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
 			"TextStart":	"199900",
-			"TextEnd":		"199C30",
+			"TextEnd":		"199C3F",
 			"PointerStart":	"D7C80",
 			"PointerEnd":	"D7D68"
 		}]
 	},	
 	{
 		"BlockId":			2,
-		"BlockDesc":		"Skit Episode",
+		"BlockDesc":		"Skit Episode Name",
 		"TextStartBlock":	"19A190",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Skit Episode",
-			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"SectionDesc":	"Skit Episode Name",
+			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
 			"TextStart":	"19A190",
-			"TextEnd":		"19A5A8",
-			"PointerStart":	"D8780",
-			"PointerEnd":	"D88AC"
+			"TextEnd":		"19A5BF",
+			"PointerStart":	"",
+			"PointerEnd":	""
 		}]
 	},
+	
+	{
+		"BlockId":			2,
+		"BlockDesc":		"Movie Subtitle",
+		"TextStartBlock":	"",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Movie Subtitle",
+			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
+			"TextStart":	"19AC90",
+			"TextEnd":		"19B0BF",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
+	},	
+	
 	{
 		"BlockId":			3,
 		"BlockDesc":		"Support",
@@ -39,11 +57,11 @@
 			"SectionDesc":	"Support",
 			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"19B370",
-			"TextEnd":		"19B738",
+			"TextEnd":		"19B73F",
 			"PointerStart":	"181040",
 			"PointerEnd":	"18108F"
 		}]
-	},
+	},	
 	
 	{
 		"BlockId":			4,
@@ -80,7 +98,7 @@
 		},
 		{
 			"SectionId":	4,
-			"SectionDesc":	"Swordian Device",
+			"SectionDesc":	"Swordian Device and others",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A1800",
 			"TextEnd":		"1A2840",
@@ -94,17 +112,28 @@
 			"SectionId":	5,
 			"SectionDesc":	"Locations",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
-			"TextStart":	"1A2850",
+			"TextStart":	"1A2858",
 			"TextEnd":		"1A4FF8",
 			"PointerStart":	"184F3C",
 			"PointerEnd":	"1858DC",
 			"Step":			20,
 			"NbPerStep":	3,
 			"NbTotal":		125	
+		},
+		{
+			"SectionId":	5,
+			"SectionDesc":	"Attribute and others",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1A5008",
+			"TextEnd":		"1A52E7",
+			"PointerStart":	"",
+			"PointerEnd":	"",
+			"Step":			20,
+			"NbPerStep":	3,
+			"NbTotal":		125	
 		}
 		]
 	},
-	
 	{
 		"BlockId":			5,
 		"BlockDesc":		"Item",
@@ -183,7 +212,6 @@
 			"PointerEnd":	"192B74"
 		}]
 	},
-	
 	{
 		"BlockId":			6,
 		"BlockDesc":		"Title",
@@ -202,8 +230,8 @@
 			"SectionId":	2,
 			"SectionDesc":	"Food Effect",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
-			"TextStart":	"",
-			"TextEnd":		"",
+			"TextStart":	"1BB930",
+			"TextEnd":		"1BBBFF",
 			"PointerStart":	"194660",
 			"PointerEnd":	"1946E4"
 		},
@@ -215,6 +243,22 @@
 			"TextEnd":		"1BF0E8",
 			"PointerStart":	"1946E8",
 			"PointerEnd":	"194B5C"
+		}]
+	},
+	
+	{
+		"BlockId":			7,
+		"BlockDesc":		"Attribute Items",
+		"TextStartBlock":	"1BB628",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Attribute Items",
+			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
+			"TextStart":	"1BF2F8",
+			"TextEnd":		"1BF4BF",
+			"PointerStart":	"",
+			"PointerEnd":	""
 		}]
 	}
 	

@@ -85,146 +85,150 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだこれ？
+What's going on here?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-世界の異変と、オベロン社総帥が
-繋がっている事に、気付いた連中よ。
+Looks like people have noticed the
+connection between the world's
+state and the President of the
+Oberon Corporation
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だから、こうして
-押し寄せているんだわ。
+They've begun protesting outside of the manor...
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-現在、総帥はご病気のために
-療養中です。
+At this time, President Hugo is undergoing treatment for his illness
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-世間に流れている
-噂は、真実ではありません。
+Please do not believe any of the rumors
+you have heard. They are not true.
 [ENDBLOCK]
-そんなの嘘に決まってらぁ。
+We know you're pulling our legs!
 [ENDBLOCK]
-だったら<Hugo>をここに
-連れてこいよ！
+Show him to us then,
+if he's still here!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まずいわね。このままだと、
-ハンターたちが暴動を起こすわ。
+This is bad. At this rate, there'll be 
+ a full blown hunter's revolt.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かるの？
+How do you know?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズの需要と供給の
-バランスが、崩れるのよ。
+The balance between the supply and 
+demand of Lens is crumbling.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どういう事？
+What's that mean?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズハンターたちの
-稼ぎがなくなるって事。
+It means that Lens Hunters earnings 
+are practically nothing now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは確かに問題だな。
-生活ができなくなったら。
+That's definitely a problem.
+That's how they put food
+on the table.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、どうすれば？
+But what can be done?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-問題は大量にレンズを売ろうと
-する人たちに、オベロン社の買い上げ
-資金が追いつかない事にあるわ。
+Well, the problem is that the Oberon
+Corporation can't keep up with
+the volume of lens people want
+to sell them.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズを売る側の
-気持ちに焦りがなくなれば……
+If only these people were
+just a bit more patient...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうすれば、オベロン社も
-少しずつレンズを買い取れるわ。
+Then little by little, Oberon would be able to
+start buying from them again.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この人たちを落ち着かせれば、
-良いって事？
+So all we gotta do is
+calm these people down?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、そういう事。
+Yeah, that should do it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！
+I've got this!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え？	何するのよ!?
+What the- What are you-?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みなさん、聞いてください。
+Everyone, please, hear me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、昨日<Hugo>さんに会いました。
+I met with President Hugo
+just yesterday!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ちょっと体調崩していましたけど、
-すぐに治るって、言ってました。
+He told me himself that, though
+he was real sick at first, he'll be
+back on his feet in no time!
 [ENDBLOCK]
-本当だろうな！
+Oh, really? Wow!
 [ENDBLOCK]
-信じられないぞ！
+I don't believe it!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしも一緒だったわよ。
+I was also there when he said it.
 [ENDBLOCK]
-ふたりも言うなら本当か？
+If two people say it...
+does that mean it's the truth?
 [ENDBLOCK]
-だとしたら、本当にただの
-噂だったのかよ。
+So then...maybe they really
+were just rumors...
 [ENDBLOCK]
-なんか、俺たちの
-勘違いだったようだな。
+Huh. I guess we just misunderstood.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうにか上手くいったけど……
-やっぱり嘘はなあ。
+I told a complete lie...but it
+looks like it worked out.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-仕方ないわ。
-今は嘘でも許される状況よ。
+No big deal. You did what you
+had to do. I think it'll be fine.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-他の街も心配だわ。
-行ってみましょ。
+I'm worried about the other city though.
+Let's go and check on it.
 [ENDBLOCK]
 女性
 [ENDBLOCK]
@@ -463,11 +467,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -485,7 +489,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -493,7 +497,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xAC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA8><x00><x80></color>を取得しました。
 
@@ -611,7 +615,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x88><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
