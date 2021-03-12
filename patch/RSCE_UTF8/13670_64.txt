@@ -1,31 +1,30 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-申し訳ございません。本日は、
-予約がいっぱいでございます。
+I'm sorry. We are fully
+booked for today.
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-そ、外のあれは
-どういう事ですか!?
+What's that outside?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-ようこそ、旅の方。
-お泊りですか？
+Welcome, Travelers.
+Would you like a room?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+I'll take gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Take your time.
 [ENDBLOCK]
-いつでもどうぞ。
+Please come back anytime.
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a good day.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.。
 [ENDBLOCK]
 お手伝い
 [ENDBLOCK]
@@ -188,7 +187,7 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
