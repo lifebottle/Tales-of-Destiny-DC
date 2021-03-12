@@ -942,7 +942,8 @@ Engulf an enemy in a fiery vortex.[LINE]
 
 //Text $1A08D0
 #WRITE(ptr,$183230)
-Send forth a fiery shockwave towards the enemy.[LINE]
+Send forth a fiery shockwave[LINE]
+towards the enemy.[LINE]
 [END]
 
 
@@ -958,8 +959,8 @@ Send forth a fiery shockwave towards the enemy.[LINE]
 
 //Text $1A0878
 #WRITE(ptr,$183250)
-Release a burst of fiery energy, burning[LINE]
-your surroundings.[END]
+Release a burst of fiery energy,[LINE]
+burning your surroundings.[END]
 
 
 //Text $1A0868
@@ -974,8 +975,8 @@ your surroundings.[END]
 
 //Text $1A0810
 #WRITE(ptr,$183270)
-Harness the power of fire and release it[LINE]
-in a devastating blast.[END]
+Harness the power of fire and release[LINE]
+it in a devastating blast.[END]
 
 
 //Text $1A07F8
@@ -1407,7 +1408,7 @@ Inflicts sleep.[END]
 //Text $19FF90
 #WRITE(ptr,$183670)
 Creates a barrier around the user to[LINE]
-block attacks. Lowers P. Atk of foes.[END]
+block attacks. Lowers P. ATK of foes.[END]
 
 
 //Text $19FF80
@@ -1595,7 +1596,7 @@ Cut enemies with a barrage of thrusts.[LINE]
 //Text $19FBA0
 #WRITE(ptr,$183810)
 A feint with the bow that cuts foes[LINE]
-instantly. May inflict debilitate.[END]
+instantly. May inflict weak.[END]
 
 
 //Text $19FB90
@@ -1739,7 +1740,7 @@ Two slashes infused with lightning.[LINE]
 //Text $19F848
 #WRITE(ptr,$183930)
 Creates a shockwave in front that[LINE]
-may inflict debilitate.[END]
+may inflict weak.[END]
 
 
 //Text $1A0C18
@@ -2336,7 +2337,7 @@ the user will be stunned.[END]
 
 //Text $19E988
 #WRITE(ptr,$183EB0)
-Increases the user's P. Atk, but[LINE]
+Increases the user's P. ATK, but[LINE]
 inflicts poison on himself.[END]
 
 
@@ -2348,7 +2349,7 @@ inflicts poison on himself.[END]
 //Text $19E920
 #WRITE(ptr,$183ED0)
 Grants iron stance for 10 seconds,[LINE]
-but debilitates after it ends.[END]
+but inflicts weak on self after it ends.[END]
 
 
 //Text $19E908
@@ -2523,7 +2524,7 @@ Is she a friend of sunfish or not?[LINE]
 //Text $19E3D0
 #WRITE(ptr,$1840B0)
 A spell that shoots fireballs.[LINE]
-Raises P. Atk.[END]
+Raises P. ATK.[END]
 
 
 //Text $19E3B8
@@ -2545,7 +2546,7 @@ lava to erupt from the ground.[END]
 //Text $19E338
 #WRITE(ptr,$1840F0)
 Conjures a wall of fire around the[LINE]
-caster[END]
+caster.[END]
 
 
 //Text $19E320
@@ -2600,7 +2601,7 @@ explosion upon impact.[END]
 //Text $19E1A8
 #WRITE(ptr,$184190)
 Drops icicles on a target's head.[LINE]
-Raises defense.[END]
+Raises P. DEF.[END]
 
 
 //Text $19E190
@@ -2710,7 +2711,7 @@ Unleashes blades of wind at a target.[LINE]
 //Text $19DEC0
 #WRITE(ptr,$1842D0)
 Releases jets of wind pressure in front[LINE]
-of the castor and debilitates foes.[END]
+of the castor and weakens foes.[END]
 
 
 //Text $19DEA8
@@ -2742,8 +2743,8 @@ around the enemy.[END]
 
 //Text $19DDD0
 #WRITE(ptr,$184330)
-天空に魔法陣を紡ぎ、強大な風の力を[LINE]
-呼び込む晶術。[END]
+Conjure a magic circle in the sky to[LINE]
+crush foes with a mighty gale.[END]
 
 
 //Text $19DDB8
@@ -3094,7 +3095,7 @@ Seals spells and artes of one enemy.[LINE]
 
 //Text $19D438
 #WRITE(ptr,$184730)
-Temporarily raises P. Def of one ally and[LINE]
+Temporarily raises P. DEF of one ally and[LINE]
 removes status ailments.[END]
 
 
@@ -3105,7 +3106,7 @@ removes status ailments.[END]
 
 //Text $19D3D0
 #WRITE(ptr,$184750)
-Temporarily raises P. Atk of one ally and[LINE]
+Temporarily raises P. ATK of one ally and[LINE]
 removes status ailments.[END]
 
 
@@ -3428,7 +3429,7 @@ Change the target every time you move.[END]
 [END]
 
 
-//Section Swordian Device
+//Section Swordian Device and others
 
 //Text $1A2840
 #WRITE(ptr,$184F3C)
@@ -3462,7 +3463,7 @@ Defense[END]
 
 //Text $1A27E0
 #WRITE(ptr,$184F78)
-M. DEF  ＋[TAG_015][END]
+M. DEF＋[TAG_015][END]
 
 
 //Text $1A27D0
@@ -3472,7 +3473,7 @@ Resist[END]
 
 //Text $1A27C0
 #WRITE(ptr,$184F8C)
-ACC   ＋[TAG_015][END]
+ACC＋[TAG_015][END]
 
 
 //Text $1A27B8
@@ -3482,7 +3483,7 @@ Hit[END]
 
 //Text $1A27A8
 #WRITE(ptr,$184FA0)
-EVA   ＋[TAG_015][END]
+EVA＋[TAG_015][END]
 
 
 //Text $1A2798
@@ -3492,7 +3493,7 @@ Evasion[END]
 
 //Text $1A2788
 #WRITE(ptr,$184FB4)
-CRT   ＋[TAG_015][END]
+CRT＋[TAG_015][END]
 
 
 //Text $1A2778
@@ -3502,7 +3503,7 @@ Critical[END]
 
 //Text $1A2768
 #WRITE(ptr,$184FC8)
-VIT ＋[TAG_015][END]
+VIT＋[TAG_015][END]
 
 
 //Text $1A2758
@@ -3512,22 +3513,22 @@ Vitality[END]
 
 //Text $1A2748
 #WRITE(ptr,$184FDC)
-Stone Strike[END]
+Petrify Strike[END]
 
 
 //Text $1A2738
 #WRITE(ptr,$184FE4)
-Stone[END]
+Petrify[END]
 
 
 //Text $1A2728
 #WRITE(ptr,$184FF0)
-Waste Strike[END]
+Weak Strike[END]
 
 
 //Text $1A2718
 #WRITE(ptr,$184FF8)
-Waste[END]
+Weak[END]
 
 
 //Text $1A2708
@@ -3582,12 +3583,12 @@ Stop Strike[END]
 
 //Text $1A2670
 #WRITE(ptr,$18507C)
-Resist Stone[END]
+Resist Petrify[END]
 
 
 //Text $1A2660
 #WRITE(ptr,$185090)
-Resist Waste[END]
+Resist Weak[END]
 
 
 //Text $1A2650
@@ -3712,7 +3713,7 @@ P. DEF up with charge[END]
 
 //Text $1A24A8
 #WRITE(ptr,$185224)
-DEFENCE UP[END]
+DEFENSE UP[END]
 
 
 //Text $1A2490
@@ -4458,127 +4459,127 @@ CUPID[END]
 //Section Locations
 
 #WRITE(ptr, $18735C)
-オベロン社[END]
+Oberon Corporation[END]
 
 
 //Text $1A4FE8
 #WRITE(ptr,$1877E0)
-ジェノス[END]
+Janos[END]
 
 
 //Text $1A4FD8
 #WRITE(ptr,$187808)
-ハーメンツ[END]
+Harmentz[END]
 
 
 //Text $1A4FC8
 #WRITE(ptr,$187830)
-クレスタ[END]
+Cresta[END]
 
 
 //Text $1A4FB8
 #WRITE(ptr,$187858)
-ダリルシェイド[END]
+Darilsheid[END]
 
 
 //Text $1A4FA8
 #WRITE(ptr,$187880)
-アルメイダ[END]
+Armeida[END]
 
 
 //Text $1A4F98
 #WRITE(ptr,$1878A8)
-チェリク[END]
+Cherik[END]
 
 
 //Text $1A4F88
 #WRITE(ptr,$1878D0)
-カルビオラ[END]
+Kalviola[END]
 
 
 //Text $1A4F78
 #WRITE(ptr,$1878F8)
-ノイシュタット[END]
+Neuestadt[END]
 
 
 //Text $1A4F68
 #WRITE(ptr,$187920)
-シデン領[END]
+Land of Shiden[END]
 
 
 //Text $1A4F58
 #WRITE(ptr,$187948)
-モリュウ領[END]
+Land of Moreau[END]
 
 
 //Text $1A4F48
 #WRITE(ptr,$187970)
-トウケイ領[END]
+Land of Terazzi[END]
 
 
 //Text $1A4F38
 #WRITE(ptr,$187998)
-スノーフリア[END]
+Frostheim[END]
 
 
 //Text $1A4F28
 #WRITE(ptr,$1879C0)
-サイリル[END]
+Cyril[END]
 
 
 //Text $1A4F18
 #WRITE(ptr,$1879E8)
-ハイデルベルグ[END]
+Heidelberg[END]
 
 
 //Text $1A4F10
 #WRITE(ptr,$187A10)
-リーネ[END]
+Lienia[END]
 
 
 //Text $1A4F00
 #WRITE(ptr,$187A38)
-ジャンクランド[END]
+Junkland[END]
 
 
 //Text $1A4EF0
 #WRITE(ptr,$187A60)
-ラディスロウ[END]
+Radisrol[END]
 
 
 //Text $1A4EE0
 #WRITE(ptr,$187A88)
-ねこにんの村[END]
+Katz Village[END]
 
 
 //Text $1A4ED0
 #WRITE(ptr,$186BB8)
-任意選択[END]
+Optional Selection[END]
 
 
 //Text $1A4EC0
 #WRITE(ptr,$186BC4)
-ウルフ戦[END]
+Wolf Battle[END]
 
 
 //Text $1A4EB8
 #WRITE(ptr,$186BD0)
-飛行竜[END]
+Draconis[END]
 
 
 //Text $1A4E98
 #WRITE(ptr,$186BDC)
-ファンダリアの山道(前半)[END]
+The Mountain Path of Phandaria (First Half)[END]
 
 
 //Text $1A4E78
 #WRITE(ptr,$186BE8)
-ファンダリアの山道(後半)[END]
+The Mountain path of Phandaria (Second Half)[END]
 
 
 //Text $1A4E68
 #WRITE(ptr,$186BF4)
-神殿へ続く洞窟[END]
+Cave Leading to the Temple[END]
 
 
 //Text $1A4E60
@@ -5143,107 +5144,107 @@ CUPID[END]
 
 //Text $1A4380
 #WRITE(ptr,$187140)
-ＥＸダンジョン１Ｆ[END]
+EX Dungeon 1F[END]
 
 
 //Text $1A4368
 #WRITE(ptr,$18714C)
-ＥＸダンジョン２Ｆ[END]
+EX Dungeon 2F[END]
 
 
 //Text $1A4350
 #WRITE(ptr,$187158)
-ＥＸダンジョン３Ｆ[END]
+EX Dungeon 3F[END]
 
 
 //Text $1A4338
 #WRITE(ptr,$187164)
-ＥＸダンジョン４Ｆ[END]
+EX Dungeon 4F[END]
 
 
 //Text $1A4320
 #WRITE(ptr,$187170)
-ＥＸダンジョン５Ｆ[END]
+EX Dungeon 5F[END]
 
 
 //Text $1A4308
 #WRITE(ptr,$18717C)
-ＥＸダンジョン６Ｆ[END]
+EX Dungeon 6F[END]
 
 
 //Text $1A42F0
 #WRITE(ptr,$187188)
-ＥＸダンジョン７Ｆ[END]
+EX Dungeon 7F[END]
 
 
 //Text $1A42D8
 #WRITE(ptr,$187194)
-ＥＸダンジョン８Ｆ[END]
+EX Dungeon 8F[END]
 
 
 //Text $1A42C0
 #WRITE(ptr,$1871A0)
-ＥＸダンジョン９Ｆ[END]
+EX Dungeon 9F[END]
 
 
 //Text $1A42A8
 #WRITE(ptr,$1871AC)
-ＥＸダンジョン１０Ｆ[END]
+EX Dungeon 10F[END]
 
 
 //Text $1A4288
 #WRITE(ptr,$1871B8)
-ＥＸダンジョン１Ｆボス戦[END]
+EX Dungeon 1F Boss Battle[END]
 
 
 //Text $1A4268
 #WRITE(ptr,$1871C4)
-ＥＸダンジョン２Ｆボス戦[END]
+EX Dungeon 2F Boss Battle[END]
 
 
 //Text $1A4248
 #WRITE(ptr,$1871D0)
-ＥＸダンジョン３Ｆボス戦[END]
+EX Dungeon 3F Boss Battle[END]
 
 
 //Text $1A4228
 #WRITE(ptr,$1871DC)
-ＥＸダンジョン４Ｆボス戦[END]
+EX Dungeon 4F Boss Battle[END]
 
 
 //Text $1A4208
 #WRITE(ptr,$1871E8)
-ＥＸダンジョン５Ｆボス戦[END]
+EX Dungeon 5F Boss Battle[END]
 
 
 //Text $1A41E8
 #WRITE(ptr,$1871F4)
-ＥＸダンジョン６Ｆボス戦[END]
+EX Dungeon 6F Boss Battle[END]
 
 
 //Text $1A41C8
 #WRITE(ptr,$187200)
-ＥＸダンジョン７Ｆボス戦[END]
+EX Dungeon 7F Boss Battle[END]
 
 
 //Text $1A41A8
 #WRITE(ptr,$18720C)
-ＥＸダンジョン８Ｆボス戦[END]
+EX Dungeon 8F Boss Battle[END]
 
 
 //Text $1A4188
 #WRITE(ptr,$187218)
-ＥＸダンジョン９Ｆボス戦[END]
+EX Dungeon 9F Boss Battle[END]
 
 
 //Text $1A4168
 #WRITE(ptr,$187224)
-ＥＸダンジョン１０Ｆボス戦[END]
+EX Dungeon 10F Boss Battle[END]
 
 
 //Text $1A4150
 #WRITE(ptr,$187230)
-ＥＸダンジョンボス戦[END]
+EX Dungeon Boss Battle[END]
 
 
 //Text $1A4140
@@ -6228,12 +6229,12 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2B50
 #WRITE(ptr,$186728)
-ベルクラント・対ヒューゴ戦[END]
+Belcrant - VS Hugo[END]
 
 
 //Text $1A2D10
 #WRITE(ptr,$186730)
-隠しダンジョン・通路[END]
+Bergland · Aisle[END]
 
 
 //Text $1A2B38
@@ -6298,47 +6299,47 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2970
 #WRITE(ptr,$186798)
-ストレイライズ神殿へ続く森・山頂 @0[END]
+Forest / mountaintop leading to Straylize Temple 0[END]
 
 
 //Text $1A2948
 #WRITE(ptr,$1867A0)
-ストレイライズ神殿へ続く森・山頂 @1[END]
+Forest / mountain top 1 leading to Straylize temple 1[END]
 
 
 //Text $1A2920
 #WRITE(ptr,$1867A8)
-ストレイライズ神殿へ続く森・山頂 @2[END]
+Forest / mountain top 1 leading to Straylize temple 2[END]
 
 
 //Text $1A28F8
 #WRITE(ptr,$1867B0)
-ストレイライズ神殿へ続く森・山頂 @3[END]
+Forest / mountain top 1 leading to Straylize temple 3[END]
 
 
 //Text $1A28D8
 #WRITE(ptr,$1867B8)
-ハイデルベルグ城・対グレバム戦[END]
+Heidelberg Castle vs. Grevam[END]
 
 
 //Text $1A28C8
 #WRITE(ptr,$1867C0)
-ティルソの森・0[END]
+Tyrso Forest · 0[END]
 
 
 //Text $1A28B8
 #WRITE(ptr,$1867C8)
-ティルソの森・1[END]
+Tyrso Forest · 1[END]
 
 
 //Text $1A28A8
 #WRITE(ptr,$1867D0)
-ティルソの森・2[END]
+Tyrso Forest · 2[END]
 
 
 //Text $1A2898
 #WRITE(ptr,$1867D8)
-ティルソの森・3[END]
+Tyrso Forest · 3[END]
 
 
 //Text $1A2878
@@ -6351,603 +6352,330 @@ SS_87神妖の森イベント戦[END]
 カルビオラ神殿・神の眼前戦[END]
 
 
-//Text $1A2850
-#WRITE(ptr,$1867F0)
-未定[END]
+//Section Attribute and others
 
+//Text $1A52E0
+#WRITE(ptr,$187AD0)
+P. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1867F8)
-未定[END]
 
+//Text $1A52D0
+#WRITE(ptr,$187AD4)
+M. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$186800)
-未定[END]
 
+//Text $1A52C8
+#WRITE(ptr,$187AD8)
+P. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$186808)
-未定[END]
 
+//Text $1A52B8
+#WRITE(ptr,$187ADC)
+M. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$186810)
-未定[END]
 
+//Text $1A52B0
+#WRITE(ptr,$187AE0)
+ACC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186818)
-未定[END]
 
+//Text $1A52A8
+#WRITE(ptr,$187AE4)
+EVA[END]
 
-//Text $1A2850
-#WRITE(ptr,$186820)
-未定[END]
 
+//Text $1A52A0
+#WRITE(ptr,$187AE8)
+CRT[END]
 
-//Text $1A2850
-#WRITE(ptr,$186828)
-未定[END]
 
+//Text $1A5298
+#WRITE(ptr,$187AEC)
+VIT[END]
 
-//Text $1A2850
-#WRITE(ptr,$186830)
-未定[END]
 
+//Text $1A5288
+#WRITE(ptr,$187AF0)
+Min CC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186838)
-未定[END]
 
+//Text $1A5278
+#WRITE(ptr,$187AF4)
+Max CC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186840)
-未定[END]
 
+//Text $1A5270
+#WRITE(ptr,$187AF8)
+Slash[END]
 
-//Text $1A2850
-#WRITE(ptr,$186848)
-未定[END]
 
+//Text $1A5268
+#WRITE(ptr,$187AFC)
+Blow[END]
 
-//Text $1A2850
-#WRITE(ptr,$186850)
-未定[END]
 
+//Text $1A5260
+#WRITE(ptr,$187B00)
+Shot[END]
 
-//Text $1A2850
-#WRITE(ptr,$186858)
-未定[END]
 
+//Text $1A5258
+#WRITE(ptr,$187B04)
+Sonic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186860)
-未定[END]
 
+//Text $1A5250
+#WRITE(ptr,$187B08)
+Earth[END]
 
-//Text $1A2850
-#WRITE(ptr,$186868)
-未定[END]
 
+//Text $1A5248
+#WRITE(ptr,$187B0C)
+Water[END]
 
-//Text $1A2850
-#WRITE(ptr,$186870)
-未定[END]
 
+//Text $1A5240
+#WRITE(ptr,$187B10)
+Fire[END]
 
-//Text $1A2850
-#WRITE(ptr,$186878)
-未定[END]
 
+//Text $1A5238
+#WRITE(ptr,$187B14)
+Wind[END]
 
-//Text $1A2850
-#WRITE(ptr,$186880)
-未定[END]
 
+//Text $1A5230
+#WRITE(ptr,$187B18)
+Light[END]
 
-//Text $1A2850
-#WRITE(ptr,$186888)
-未定[END]
 
+//Text $1A5228
+#WRITE(ptr,$187B1C)
+Dark[END]
 
-//Text $1A2850
-#WRITE(ptr,$186890)
-未定[END]
 
+//Text $1A5220
+#WRITE(ptr,$187B20)
+--[END]
 
-//Text $1A2850
-#WRITE(ptr,$186898)
-未定[END]
 
+//Text $1A5218
+#WRITE(ptr,$187B24)
+Petrify[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868A0)
-未定[END]
 
+//Text $1A5210
+#WRITE(ptr,$187B28)
+Weak[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868A8)
-未定[END]
 
+//Text $1A5208
+#WRITE(ptr,$187B2C)
+Poison[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868B0)
-未定[END]
 
+//Text $1A5200
+#WRITE(ptr,$187B30)
+Sleep[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868B8)
-未定[END]
 
+//Text $1A51F7
+#WRITE(ptr,$187B34)
+Paralyze[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868C0)
-未定[END]
 
+//Text $1A51F0
+#WRITE(ptr,$187B38)
+Seal[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868C8)
-未定[END]
 
+//Text $1A51E7
+#WRITE(ptr,$187B3C)
+Downsize[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868D0)
-未定[END]
 
+//Text $1A51E0
+#WRITE(ptr,$187B40)
+Stop[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868D8)
-未定[END]
 
+//Text $1A51D8
+#WRITE(ptr,$187B44)
+-Pause-[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868E0)
-未定[END]
 
+//Text $1A51D0
+#WRITE(ptr,$187B48)
+Unknown[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868E8)
-未定[END]
 
+//Text $1A51C8
+#WRITE(ptr,$187B4C)
+Flying[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868F0)
-未定[END]
 
+//Text $1A51C0
+#WRITE(ptr,$187B50)
+Insect[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868F8)
-未定[END]
 
+//Text $1A51B0
+#WRITE(ptr,$187B54)
+Aquatic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186900)
-未定[END]
 
+//Text $1A51A8
+#WRITE(ptr,$187B58)
+Reptile[END]
 
-//Text $1A2850
-#WRITE(ptr,$186908)
-未定[END]
 
+//Text $1A51A0
+#WRITE(ptr,$187B5C)
+Plant[END]
 
-//Text $1A2850
-#WRITE(ptr,$186910)
-未定[END]
 
+//Text $1A5198
+#WRITE(ptr,$187B60)
+Beast[END]
 
-//Text $1A2850
-#WRITE(ptr,$186918)
-未定[END]
 
+//Text $1A5190
+#WRITE(ptr,$187B64)
+Amorph.[END]
 
-//Text $1A2850
-#WRITE(ptr,$186920)
-未定[END]
 
+//Text $1A5188
+#WRITE(ptr,$187B68)
+Dragon[END]
 
-//Text $1A2850
-#WRITE(ptr,$186928)
-未定[END]
 
+//Text $1A5180
+#WRITE(ptr,$187B6C)
+Machine[END]
 
-//Text $1A2850
-#WRITE(ptr,$186930)
-未定[END]
 
+//Text $1A5178
+#WRITE(ptr,$187B70)
+Human[END]
 
-//Text $1A2850
-#WRITE(ptr,$186938)
-未定[END]
 
+//Text $1A5170
+#WRITE(ptr,$187B74)
+Ghost[END]
 
-//Text $1A2850
-#WRITE(ptr,$186940)
-未定[END]
 
+//Text $1A5168
+#WRITE(ptr,$187B78)
+Object[END]
 
-//Text $1A2850
-#WRITE(ptr,$186948)
-未定[END]
 
+//Text $1A5160
+#WRITE(ptr,$187B7C)
+Undead[END]
 
-//Text $1A2850
-#WRITE(ptr,$186950)
-未定[END]
 
+//Text $1A5150
+#WRITE(ptr,$187B80)
+Bioweapon[END]
 
-//Text $1A2850
-#WRITE(ptr,$186958)
-未定[END]
 
+//Text $1A5140
+#WRITE(ptr,$187B84)
+[Sign_Slash]Slash[END]
 
-//Text $1A2850
-#WRITE(ptr,$186960)
-未定[END]
 
+//Text $1A5130
+#WRITE(ptr,$187B88)
+[Sign_Strike]Blow[END]
 
-//Text $1A2850
-#WRITE(ptr,$186968)
-未定[END]
 
+//Text $1A5120
+#WRITE(ptr,$187B8C)
+[Sign_Shot]Shot[END]
 
-//Text $1A2850
-#WRITE(ptr,$186970)
-未定[END]
 
+//Text $1A5110
+#WRITE(ptr,$187B90)
+[Sign_Sonic]Sonic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186978)
-未定[END]
 
+//Text $1A5100
+#WRITE(ptr,$187B94)
+[Sign_Earth]Earth[END]
 
-//Text $1A2850
-#WRITE(ptr,$186980)
-未定[END]
 
+//Text $1A50F0
+#WRITE(ptr,$187B98)
+[Sign_Wind]Wind[END]
 
-//Text $1A2850
-#WRITE(ptr,$186988)
-未定[END]
 
+//Text $1A50E0
+#WRITE(ptr,$187B9C)
+[Sign_Fire]Fire[END]
 
-//Text $1A2850
-#WRITE(ptr,$186990)
-未定[END]
 
+//Text $1A50D0
+#WRITE(ptr,$187BA0)
+[Sign_Water]Water[END]
 
-//Text $1A2850
-#WRITE(ptr,$186998)
-未定[END]
 
+//Text $1A50C0
+#WRITE(ptr,$187BA4)
+[Sign_Light]Light[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869A0)
-未定[END]
 
+//Text $1A50B0
+#WRITE(ptr,$187BA8)
+[Sign_Dark]Dark[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869A8)
-未定[END]
 
+//Text $1A50A8
+#WRITE(ptr,$187BAC)
+？[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869B0)
-未定[END]
 
+//Text $1A5098
+#WRITE(ptr,$187BB0)
++P. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869B8)
-未定[END]
 
+//Text $1A5088
+#WRITE(ptr,$187BB4)
++M. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869C0)
-未定[END]
 
+//Text $1A5078
+#WRITE(ptr,$187BB8)
++P. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869C8)
-未定[END]
 
+//Text $1A5068
+#WRITE(ptr,$187BBC)
++M. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869D0)
-未定[END]
 
+//Text $1A5058
+#WRITE(ptr,$187BC0)
++KCC[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869D8)
-未定[END]
 
+//Text $1A5048
+#WRITE(ptr,$187BC4)
++EVA[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869E0)
-未定[END]
 
+//Text $1A5038
+#WRITE(ptr,$187BC8)
++CRT[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869E8)
-未定[END]
 
+//Text $1A5030
+#WRITE(ptr,$187BCC)
+＋体力[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869F0)
-未定[END]
 
-
-//Text $1A2850
-#WRITE(ptr,$1869F8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A00)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A08)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A10)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A18)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A20)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A28)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A30)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A38)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A40)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A48)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A50)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A58)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A60)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A68)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A70)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A78)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A80)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A88)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A90)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A98)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AA0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AA8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AB0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AB8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AC0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AC8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AD0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AD8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AE0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AE8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AF0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AF8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B00)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B08)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B10)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B18)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B20)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B28)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B30)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B38)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B40)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B48)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B50)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B58)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B60)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B68)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B70)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B78)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B80)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B88)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B90)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B98)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186BA0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186BA8)
-未定[END]
+//Text $1A5008
+#WRITE(ptr,$187BD0)
+テストプレイポイント：[TAG_015]に到達[END]
 
 
