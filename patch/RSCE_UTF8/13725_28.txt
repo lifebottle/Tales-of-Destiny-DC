@@ -19,176 +19,179 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-あなた屋敷に出入りしているようだけど、
-まさか、この屋敷の人かい？
+You've been in and out of the
+mansion, do you live here?
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-このところオベロン社総帥や、
-屋敷の執事さんを見ないねえ。
+I haven't seen the President
+of Oberon or the Steward of
+the mansion in a while.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-ここがオベロン社総帥様のお屋敷さ。
-立派なもんだろ？
+This is Oberon's headquarters.
+Magnificent, isn't it?
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-このところオベロン社総帥や、
-屋敷の執事の姿を見ないねえ。
+I haven't seen the President
+of Oberon or the Steward of
+the mansion in a while.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-あああ……山が……山が……
-なくなって……！
+Ahhhh! the mon...
+the mountain is gone!
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-黒幕はオベロン社総帥なんだって？
-冗談じゃないよ！
+I heard the mastermind behind this is the President of Oberon?
+You've got to be kidding me!
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-こんな事になるなら、オベロン社を
-さっさと潰しとけばよかったんだよ。
+If this was going to happen,
+we should have shut down
+Oberon Corporation.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 お城で作ってる秘密兵器って、
 レンズを大量に使うんだろ？
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 レンズと聞くとオベロン社を
 想像しちまうねえ。
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 レンズを使う秘密兵器ってのは、
 オベロン社とは関係ないんだね？
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 あんたたち、頼んだよ！
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 <Lion>様がここのご子息である
 事は公表されていません。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 怪しい人物には
 お気をつけ下さい。
 
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 <Lion>様の活躍を聞く度に
 誰かに自慢したくなりますよ。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 <Hugo>氏は今や我が国の重要人物。
 こうして厳重にお守りしております。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 俺は<Hugo>邸警備の任を解かれた。
 上からもういいといわれたのさ。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 それでもつい習慣で、
 ここにいてしまうんだがね。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 あの放送を流していたのは<Hugo>氏だ。
 声を聞けばすぐにわかる。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 我が国を裏切った罪は重い。
 <Hugo>は絶対に許せん。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 屋敷を見張るよう命令されたんで、
 今もこうしてここに立ってるのさ。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 屋敷で働いている<Marian>って女は、
 誰かの帰りを待っているらしい。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 今さらこの屋敷に、
 戻ってくる奴がいるとは思えんがな。
 [ENDBLOCK]
-警備兵
+Guard
 [ENDBLOCK]
 屋敷で働いている<Marian>って女は、
 誰かの帰りを待っているらしい。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今じゃレンズ製品のない生活など、
-考えられません。
+Nowadays, I can't imagine my
+life without lens products.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Hugo>総帥の功績は、
-あまりにも偉大です。
+President <Hugo>'s achievements
+are just too great.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 私も昔はレンズハンターだったのですが、
 <Rembrandt>様に拾われたのです。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今じゃレンズ製品のない生活など、
-考えられないだろう？
+Nowadays, I can't imagine my
+life without lens products.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Hugo>総帥の功績は、
-あまりにも偉大だよ。
+President <Hugo>'s achievements
+are just too great.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 俺も昔はレンズハンターだったんだが、
 <Rembrandt>様に拾われたのさ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 選ばれし者による新たな世界、か。
 俺も連れて行ってもらいたいぜ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 結局空から迎えはこなかった。
 俺は選ばれなかったらしいな。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 レンズハンター時代は常に危険と
 隣りあわせだった。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 今さら空が外殻に覆われたくらいで、
 びびったりはしねえよ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 頼んだぜ、強欲の魔女！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 頼んだぜ、あんたたち！
 [ENDBLOCK]
@@ -357,81 +360,81 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ、出かけるのね？
+Emilio, are you leaving?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それほど遅くならないと思うよ。
+I don't expect to be long.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-では、お夕食の準備をして、
-待っているわね。
+Well then, I'll
+have dinner ready for you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それじゃ、行ってくるよ。
+OK, I'll be going, now.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ、お待ちなさい。
+Emilio, wait a moment, please.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なんだい<Marian>？
+...What is it, <Marian>?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ねえ、エミリオ。
-気になったので一言いいかしら。
+Hey, Emilio,
+There's something on my mind,
+if you don't mind me telling you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あ、ああ……
+S-Sure...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-さきほどの軍人さんへの口の聞き方、
-あまり誉められたものではないわね。
+The way you spoke to that soldier
+ealier, that wasn't very appropriate.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオの方がいくら上官の立場で
-あろうと、相手の方は年上です。
+Even though you outrank him,
+he was still your senior.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あのような態度を取っていては、
-誰もあなたに付いてきませんよ。
+No one will want to follow your command
+if you keep that up.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや、しかしあれは、
-あいつが……
+I...but that's...he was...!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あいつが、何ですか？
+He was what, exactly?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ご自分の立場と周囲の期待を
-しっかりと意識なさい。
+You need to remember your station,
+and what's expected of you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-分かったよ。
-次から気をつける。
+I...understand.
+I'll be more careful.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ええ、分かっていただけたなら、
-私も言ったかいがあります。
+Well, as long as you understand,
+I'm glad that I told you.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-それでは、気をつけて
-いってらっしゃい。
+Okay, that's all. Please be
+careful, and come back safe.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
