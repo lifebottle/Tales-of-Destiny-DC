@@ -3,41 +3,40 @@
 t_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-申し訳ございません。本日は、
-予約がいっぱいでございます。
+I'm sorry. We are fully
+booked for today.
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-そ、外のあれは
-どういう事ですか!?
+What's that outside?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-ようこそ、旅の方。
-お泊りですか？
+Welcome, Travelers.
+Would you like a room?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+I'll take gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Take your time.
 [ENDBLOCK]
-いつでもどうぞ。
+Please come back anytime.
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a good day.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.
 [ENDBLOCK]
-お手伝い
+Maid
 [ENDBLOCK]
-焦っているみたいですけど、
-フードの補充などは大丈夫ですか？
+You seem to be in a hurry, 
+is it alright to refill your food?
 [ENDBLOCK]
-お手伝い
+Maid
 [ENDBLOCK]
-いらっしゃいませ。フードの補充、
-及びフードストラップの交換を承ります。
+Welcome! You can refill your
+food and replace your food straps.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
