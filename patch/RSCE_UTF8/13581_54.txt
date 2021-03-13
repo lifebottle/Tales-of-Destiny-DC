@@ -471,7 +471,7 @@ is slightly frozen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><yellow>Emotional Chat System</color>（(referred
+<TAG_007><yellow>Emotional Chat System</color> (referred
 to as Chats)is a system that lets
 you watch conversations between
 your party members.
@@ -481,7 +481,7 @@ notice
 <TAG_007><x0E><x01><x00><x00><x00>[Button Usage]
 <Select_ani>:Watch a Chat.
 <x06><xED><x00><x00><x00>	<S15><L2_ani>:Select a Chat to watch.
-[チャットの種類]
+[Chat Types]
 <x06><xED><x00><x00><x00>	<S15><N_Skit>:Navigational Chat
 <x06><xED><x00><x00><x00>		<S15>		Destination revealed by party member.
 <x06><xED><x00><x00><x00>	<S15><F_Skit>:Free Chat
@@ -632,13 +632,13 @@ That's not the problem here!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
- I guess that's what you�fd
+ I guess that's what you'd
  call familial love.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-My family is the same way. I
-have a grandpa and a little sister
+My family is the same way. I have 
+a grandpa and a little sister.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -728,9 +728,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color> 
 [ENDBLOCK]
-パーティから抜けました。
+left the Party.
 [ENDBLOCK]
 <x18><x65><x59><xB4><x00><x80><x18><x65><x59><xB8><x00><x80>
 [ENDBLOCK]
