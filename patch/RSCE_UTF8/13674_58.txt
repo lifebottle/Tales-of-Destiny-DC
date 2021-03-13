@@ -1,4 +1,4 @@
-ボディガー<x9A>
+Bodyguard
 [ENDBLOCK]
 g
 [ENDBLOCK]
@@ -119,7 +119,8 @@ It's so hard to collect it.
 [ENDBLOCK]
 Bodyguard
 [ENDBLOCK]
-Don't do anything rash, you<_>must win this war.
+Don't do anything rash, 
+you must win this war.
 [ENDBLOCK]
 Bodyguard
 [ENDBLOCK]
@@ -246,40 +247,29 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
-<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+<TAG_007><x0E><x01><x01><x00><x80><x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+</color><turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>.
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
