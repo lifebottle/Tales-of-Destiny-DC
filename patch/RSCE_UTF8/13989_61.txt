@@ -373,140 +373,140 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ねえ、お兄ちゃん？
+Excuse me, Sir?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕か？
+Me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>何の用だ？
-子供に用はない
+<TAG_007>What do you want?
+I have no business with children
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お兄ちゃんって食べ物の
-好き嫌いがなさそうだね。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-……ああ……
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-なんだ、関係ないじゃん。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-そんな事言わないで聞いてよ。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-昨日ね、ぼくが嫌いなお野菜を
-残したら母さまが怒るんだ。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-「そんな事じゃ
-大きくなれませんよ」って。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-それでお兄ちゃんに
-聞きたい事なんだけど。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-お兄ちゃんは嫌いな食べ物ってある？
+What kind of food do
+you usually eat?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-特に好き嫌いなどないが……
-甘いものは嫌いだ……
+...ah...
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ほんと～？
+What? It doesn't matter.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Don't say that. Listen.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Yesterday, when I left some veggies
+I didn't like, my mother got angry.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+"You won't grow if you
+don't eat your veggies"
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+So I have a question 
+for you.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Is there any food that you don't like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうして疑うんだ？
+I really don't mind anything ether way.
+However, I really don't like sweets.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-だってさ、お兄ちゃんってばちらちら
-アイスキャンディー屋さんを見てたよ。
+Really?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-嫌いなものが目に付いただけだ！
+Why would you question that?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ふーん、それなら甘いものを
-食べれば大きくなれるって事だね。
+You know, I saw you starring
+at the Softy Kreem Stand.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I just saw something I didn't like!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Hmmm... so that means I can
+get bigger by eating sweets.
 [ENDBLOCK]
 <x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういや結局、俺たちも<Lion>も、
-アイスキャンディー食べられなかったな。
+Well, in the end, neither we nor
+<Lion> got to eat any Softy Kreem.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-いらっしゃいませ。
-どれにしましょうか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-あ、いえ俺は
-別に食べたい訳じゃ……
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-あれ？	今のセリフどっかで
-聞いた覚えがあるな？
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-ああ、思い出した！	街がモンスターに
-襲われる直前にいたお客さんだ。
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-なんか小柄だったけど、
-綺麗な顔した男の子だったな。
+Welcome. Which one
+would you like?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………？
+Oh, no, I'm not. I'm not
+here to buy anything.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-食べたくないって言うんだけど、
-じーっと、アイスキャンディーを見るんだ。
+Huh? I've heard that line
+before, haven't I?
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+Oh, Yeah! You were here just before
+the city was attacked by monsters.
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+You were kind of a small guy, but
+you had a beautiful face.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それって……！
+...?
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-男には、甘いものが好きな事を
-かっこ悪いと思う人もいるからね。
+He says he doesn't want to eat it,
+but then he stares at the Softy Kreem.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、そういう事を、
-気にするやつだったと思います。
+That's...?
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-…………？
+Some men think it's uncool
+to have a sweet tooth.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, I think I know someone who
+cared about that kind of thing.
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+...?
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -820,41 +820,41 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 いつでも待ってますよ。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 ノイシュタット名物、
 アイスキャンディーはいかがですか？
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 先日の襲撃で、
 店は大損害ですよ。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 けど、こんな事で街の名物を
 失うわけにいきませんからね。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 いらっしゃいませ。
 冷たくて美味しいですよ。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 最近、売り上げが芳しくなくて……
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 もうアイスキャンディーなんて、
 売っている場合じゃないのかな……
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 結局商売をやめられませんでした。
 これからもごひいきに！
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 ノイシュタット名物、
 アイスキャンディーはいかがですか？
@@ -971,37 +971,37 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 だからどうか、どうか！
 私たちを助けてくださいましな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 見てたってやらないぞ。
 あっち行けよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 アイスキャンディーを食べる場所が
 戻って、安心したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 あの騒ぎで食べ損ねちゃったから、
 アイスキャンディーを買い直したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 最近、このあたりをうろつく
 下町のガキが増えたよな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ノイシュタットにだけは、
 雷を落とさないで欲しいよね。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパに頼んで、どこか明るい所に
 引越ししたいなあ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパが、これからは下町の連中とも
 仲良くしろって。どうしてかな？
@@ -1035,7 +1035,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 わたしもレンズを集めたの。
 役に立ててくれると嬉しいな。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 一本６０ガルドになります。
 
@@ -1050,34 +1050,34 @@ notice
 いらない
 あたり棒を交換する
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 まいどありー。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 これ以上は<ITEM_006>を
 持てないようですね。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 お金が足りないようですね。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 あたり棒をお持ちですね。
 <ITEM_006>と交換しますよ。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 今後ともごひいきに。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 これ以上は<ITEM_006>を
 持てないようですね。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 <ITEM_070>を
 お持ちになられたら、交換しますよ。
@@ -1085,13 +1085,13 @@ notice
 <Philia>
 [ENDBLOCK]
 ここが<Mary>さんの言っていた、
-アイスキャンディー屋ですね。
+Softy Kreem Standですね。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 すいませーん、五本ください。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 どの味になさいますか？
 [ENDBLOCK]
@@ -1235,7 +1235,7 @@ notice
 チャンピオン様のお通りだ！
 全員、注目！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 あっ、<Kongman>だ！
 [ENDBLOCK]
@@ -1480,7 +1480,7 @@ notice
 [ENDBLOCK]
 ……あ、溶けてる。
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 いらっしゃいませ。
 どの味になさいますか？
@@ -1489,7 +1489,7 @@ notice
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 お客さん……？
 [ENDBLOCK]
@@ -1497,7 +1497,7 @@ notice
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 お客さん！
 [ENDBLOCK]
@@ -1527,7 +1527,7 @@ notice
 [ENDBLOCK]
 何事だ！
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
 モ、モンスターだ!!
 [ENDBLOCK]
