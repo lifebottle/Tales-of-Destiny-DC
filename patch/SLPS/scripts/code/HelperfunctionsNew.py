@@ -346,7 +346,12 @@ class Helper:
         #Variables for adjusting overlapping
         memoryId=1
         bank = self.dfBanks[ self.dfBanks['Id'] == memoryId]
+        
+        banksNotEmpty = self.dfBanks[ self.dfBanks['BlockDesc'] != ""]
+        lastbank = banksNotEmpty[banksNotEmpty['Id'] == banksNotEmpty['Id'].max()]
+        print(lastbank)
         textStart = bank['TextStart'][0]
+        finalEnd = lastbank['TextEnd'].tolist()[0]
         self.currentStart  = int(textStart, 16)
         self.currentEnd    = int(bank['TextEnd'][0], 16)
         
@@ -384,7 +389,7 @@ class Helper:
                     
             allText += blockText
             
-        print("Max Block End               :   {}".format(hex(int(textEnd, 16))))
+        print("Max Block End               :   {}".format(hex(int(finalEnd, 16))))
         return allText
             
                     

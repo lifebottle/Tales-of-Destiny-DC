@@ -156,32 +156,32 @@ Kronos[END]
 
 //Text $199BA0
 #WRITE(ptr,$D7CF4)
-バティスタ[END]
+Batista[END]
 
 
 //Text $199B90
 #WRITE(ptr,$D7CF8)
-ティベリウス[END]
+Tiberius[END]
 
 
 //Text $199B88
 #WRITE(ptr,$D7CFC)
-ダリス[END]
+Dalis[END]
 
 
 //Text $199B78
 #WRITE(ptr,$D7D00)
-バルック[END]
+Baruk[END]
 
 
 //Text $199B68
 #WRITE(ptr,$D7D04)
-イレーヌ[END]
+Ilene[END]
 
 
 //Text $199B58
 #WRITE(ptr,$D7D08)
-レンブラント[END]
+Rembrandt[END]
 
 
 //Text $199B48
@@ -191,7 +191,7 @@ Marian[END]
 
 //Text $199B38
 #WRITE(ptr,$D7D10)
-リトラー[END]
+Raiker[END]
 
 
 //Text $199B28
@@ -201,32 +201,32 @@ Reynolds[END]
 
 //Text $199B18
 #WRITE(ptr,$D7D18)
-ダーゼン[END]
+Darzen[END]
 
 
 //Text $199B08
 #WRITE(ptr,$D7D1C)
-フェイト[END]
+Fayte[END]
 
 
 //Text $199AF8
 #WRITE(ptr,$D7D20)
-リアーナ[END]
+Leianna[END]
 
 
 //Text $199AE8
 #WRITE(ptr,$D7D24)
-エレノア[END]
+Eleanor[END]
 
 
 //Text $199AD8
 #WRITE(ptr,$D7D28)
-フィンレイ[END]
+Finley[END]
 
 
 //Text $199AC8
 #WRITE(ptr,$D7D2C)
-アシュレイ[END]
+Ashley[END]
 
 
 //Text $199AB8
@@ -236,27 +236,27 @@ Dryden[END]
 
 //Text $199AA8
 #WRITE(ptr,$D7D34)
-ロベルト[END]
+Robert[END]
 
 
 //Text $199A98
 #WRITE(ptr,$D7D38)
-イスアード[END]
+Isard[END]
 
 
 //Text $199A88
 #WRITE(ptr,$D7D3C)
-ニコラス[END]
+Nicholas[END]
 
 
 //Text $199A78
 #WRITE(ptr,$D7D40)
-アスクス[END]
+Vims[END]
 
 
 //Text $199A68
 #WRITE(ptr,$D7D44)
-ミライナ[END]
+Melina[END]
 
 
 //Text $199A58
@@ -266,17 +266,17 @@ Ayles[END]
 
 //Text $199A48
 #WRITE(ptr,$D7D4C)
-グリッド[END]
+Grid[END]
 
 
 //Text $199A40
 #WRITE(ptr,$D7D50)
-ジョン[END]
+John[END]
 
 
 //Text $199A38
 #WRITE(ptr,$D7D54)
-ミリー[END]
+Milly[END]
 
 
 //Text $199A28
@@ -296,7 +296,7 @@ King[END]
 
 //Text $199A08
 #WRITE(ptr,$D7D64)
-王妃[END]
+Queen[END]
 
 
 //Text $199A00
@@ -436,7 +436,6 @@ Mountain Hut[END]
 秘密の地下通路[END]
 
 
-#JMP($199900)
 //Text $19A3D0
 #WRITE(ptr,$D87E8)
 ハイデルベルグの決戦[END]
@@ -447,6 +446,7 @@ Mountain Hut[END]
 久しぶりの故郷[END]
 
 
+#JMP($199900)
 //Text $19A3A8
 #WRITE(ptr,$D87F0)
 再びセインガルドへ[END]
@@ -724,12 +724,12 @@ And your name?[END]
 Listen, [Stahn][END]
 
 
-#JMP($19A190)
 //Text $19AD58
 #WRITE(ptr,$180C3C)
 I'll lend you my power.[END]
 
 
+#JMP($19A190)
 //Text $19AD40
 #WRITE(ptr,$180C4C)
 So, you must trust me.[END]
@@ -1979,7 +1979,8 @@ Engulf an enemy in a fiery vortex.[LINE]
 
 //Text $1A08D0
 #WRITE(ptr,$183230)
-Send forth a fiery shockwave towards the enemy.[LINE]
+Send forth a fiery shockwave[LINE]
+towards the enemy.[LINE]
 [END]
 
 
@@ -1995,8 +1996,8 @@ Send forth a fiery shockwave towards the enemy.[LINE]
 
 //Text $1A0878
 #WRITE(ptr,$183250)
-Release a burst of fiery energy, burning[LINE]
-your surroundings.[END]
+Release a burst of fiery energy,[LINE]
+burning your surroundings.[END]
 
 
 //Text $1A0868
@@ -2011,8 +2012,8 @@ your surroundings.[END]
 
 //Text $1A0810
 #WRITE(ptr,$183270)
-Harness the power of fire and release it[LINE]
-in a devastating blast.[END]
+Harness the power of fire and release[LINE]
+it in a devastating blast.[END]
 
 
 //Text $1A07F8
@@ -2444,7 +2445,7 @@ Inflicts sleep.[END]
 //Text $19FF90
 #WRITE(ptr,$183670)
 Creates a barrier around the user to[LINE]
-block attacks. Lowers P. Atk of foes.[END]
+block attacks. Lowers P. ATK of foes.[END]
 
 
 //Text $19FF80
@@ -2632,7 +2633,7 @@ Cut enemies with a barrage of thrusts.[LINE]
 //Text $19FBA0
 #WRITE(ptr,$183810)
 A feint with the bow that cuts foes[LINE]
-instantly. May inflict debilitate.[END]
+instantly. May inflict weak.[END]
 
 
 //Text $19FB90
@@ -2776,7 +2777,7 @@ Two slashes infused with lightning.[LINE]
 //Text $19F848
 #WRITE(ptr,$183930)
 Creates a shockwave in front that[LINE]
-may inflict debilitate.[END]
+may inflict weak.[END]
 
 
 //Text $1A0C18
@@ -3373,7 +3374,7 @@ the user will be stunned.[END]
 
 //Text $19E988
 #WRITE(ptr,$183EB0)
-Increases the user's P. Atk, but[LINE]
+Increases the user's P. ATK, but[LINE]
 inflicts poison on himself.[END]
 
 
@@ -3385,7 +3386,7 @@ inflicts poison on himself.[END]
 //Text $19E920
 #WRITE(ptr,$183ED0)
 Grants iron stance for 10 seconds,[LINE]
-but debilitates after it ends.[END]
+but inflicts weak on self after it ends.[END]
 
 
 //Text $19E908
@@ -3560,7 +3561,7 @@ Is she a friend of sunfish or not?[LINE]
 //Text $19E3D0
 #WRITE(ptr,$1840B0)
 A spell that shoots fireballs.[LINE]
-Raises P. Atk.[END]
+Raises P. ATK.[END]
 
 
 //Text $19E3B8
@@ -3582,7 +3583,7 @@ lava to erupt from the ground.[END]
 //Text $19E338
 #WRITE(ptr,$1840F0)
 Conjures a wall of fire around the[LINE]
-caster[END]
+caster.[END]
 
 
 //Text $19E320
@@ -3637,7 +3638,7 @@ explosion upon impact.[END]
 //Text $19E1A8
 #WRITE(ptr,$184190)
 Drops icicles on a target's head.[LINE]
-Raises defense.[END]
+Raises P. DEF.[END]
 
 
 //Text $19E190
@@ -3747,7 +3748,7 @@ Unleashes blades of wind at a target.[LINE]
 //Text $19DEC0
 #WRITE(ptr,$1842D0)
 Releases jets of wind pressure in front[LINE]
-of the castor and debilitates foes.[END]
+of the castor and weakens foes.[END]
 
 
 //Text $19DEA8
@@ -3779,8 +3780,8 @@ around the enemy.[END]
 
 //Text $19DDD0
 #WRITE(ptr,$184330)
-天空に魔法陣を紡ぎ、強大な風の力を[LINE]
-呼び込む晶術。[END]
+Conjure a magic circle in the sky to[LINE]
+crush foes with a mighty gale.[END]
 
 
 //Text $19DDB8
@@ -4131,7 +4132,7 @@ Seals spells and artes of one enemy.[LINE]
 
 //Text $19D438
 #WRITE(ptr,$184730)
-Temporarily raises P. Def of one ally and[LINE]
+Temporarily raises P. DEF of one ally and[LINE]
 removes status ailments.[END]
 
 
@@ -4142,7 +4143,7 @@ removes status ailments.[END]
 
 //Text $19D3D0
 #WRITE(ptr,$184750)
-Temporarily raises P. Atk of one ally and[LINE]
+Temporarily raises P. ATK of one ally and[LINE]
 removes status ailments.[END]
 
 
@@ -4465,7 +4466,7 @@ Change the target every time you move.[END]
 [END]
 
 
-//Section Swordian Device
+//Section Swordian Device and others
 
 //Text $1A2840
 #WRITE(ptr,$184F3C)
@@ -4499,7 +4500,7 @@ Defense[END]
 
 //Text $1A27E0
 #WRITE(ptr,$184F78)
-M. DEF  ＋[TAG_015][END]
+M. DEF＋[TAG_015][END]
 
 
 //Text $1A27D0
@@ -4509,7 +4510,7 @@ Resist[END]
 
 //Text $1A27C0
 #WRITE(ptr,$184F8C)
-ACC   ＋[TAG_015][END]
+ACC＋[TAG_015][END]
 
 
 //Text $1A27B8
@@ -4519,7 +4520,7 @@ Hit[END]
 
 //Text $1A27A8
 #WRITE(ptr,$184FA0)
-EVA   ＋[TAG_015][END]
+EVA＋[TAG_015][END]
 
 
 //Text $1A2798
@@ -4529,7 +4530,7 @@ Evasion[END]
 
 //Text $1A2788
 #WRITE(ptr,$184FB4)
-CRT   ＋[TAG_015][END]
+CRT＋[TAG_015][END]
 
 
 //Text $1A2778
@@ -4539,7 +4540,7 @@ Critical[END]
 
 //Text $1A2768
 #WRITE(ptr,$184FC8)
-VIT ＋[TAG_015][END]
+VIT＋[TAG_015][END]
 
 
 //Text $1A2758
@@ -4549,22 +4550,22 @@ Vitality[END]
 
 //Text $1A2748
 #WRITE(ptr,$184FDC)
-Stone Strike[END]
+Petrify Strike[END]
 
 
 //Text $1A2738
 #WRITE(ptr,$184FE4)
-Stone[END]
+Petrify[END]
 
 
 //Text $1A2728
 #WRITE(ptr,$184FF0)
-Waste Strike[END]
+Weak Strike[END]
 
 
 //Text $1A2718
 #WRITE(ptr,$184FF8)
-Waste[END]
+Weak[END]
 
 
 //Text $1A2708
@@ -4619,12 +4620,12 @@ Stop Strike[END]
 
 //Text $1A2670
 #WRITE(ptr,$18507C)
-Resist Stone[END]
+Resist Petrify[END]
 
 
 //Text $1A2660
 #WRITE(ptr,$185090)
-Resist Waste[END]
+Resist Weak[END]
 
 
 //Text $1A2650
@@ -4749,7 +4750,7 @@ P. DEF up with charge[END]
 
 //Text $1A24A8
 #WRITE(ptr,$185224)
-DEFENCE UP[END]
+DEFENSE UP[END]
 
 
 //Text $1A2490
@@ -5495,132 +5496,132 @@ CUPID[END]
 //Section Locations
 
 #WRITE(ptr, $18735C)
-オベロン社[END]
+Oberon Corporation[END]
 
 
 //Text $1A4FE8
 #WRITE(ptr,$1877E0)
-ジェノス[END]
+Janos[END]
 
 
 //Text $1A4FD8
 #WRITE(ptr,$187808)
-ハーメンツ[END]
+Harmentz[END]
 
 
 //Text $1A4FC8
 #WRITE(ptr,$187830)
-クレスタ[END]
+Cresta[END]
 
 
 //Text $1A4FB8
 #WRITE(ptr,$187858)
-ダリルシェイド[END]
+Darilsheid[END]
 
 
 //Text $1A4FA8
 #WRITE(ptr,$187880)
-アルメイダ[END]
+Armeida[END]
 
 
 //Text $1A4F98
 #WRITE(ptr,$1878A8)
-チェリク[END]
+Cherik[END]
 
 
 //Text $1A4F88
 #WRITE(ptr,$1878D0)
-カルビオラ[END]
+Kalviola[END]
 
 
 //Text $1A4F78
 #WRITE(ptr,$1878F8)
-ノイシュタット[END]
+Neuestadt[END]
 
 
 //Text $1A4F68
 #WRITE(ptr,$187920)
-シデン領[END]
+Land of Shiden[END]
 
 
 //Text $1A4F58
 #WRITE(ptr,$187948)
-モリュウ領[END]
+Land of Moreau[END]
 
 
 //Text $1A4F48
 #WRITE(ptr,$187970)
-トウケイ領[END]
+Land of Terazzi[END]
 
 
 //Text $1A4F38
 #WRITE(ptr,$187998)
-スノーフリア[END]
+Frostheim[END]
 
 
 //Text $1A4F28
 #WRITE(ptr,$1879C0)
-サイリル[END]
+Cyril[END]
 
 
 //Text $1A4F18
 #WRITE(ptr,$1879E8)
-ハイデルベルグ[END]
+Heidelberg[END]
 
 
 //Text $1A4F10
 #WRITE(ptr,$187A10)
-リーネ[END]
+Lienia[END]
 
 
 //Text $1A4F00
 #WRITE(ptr,$187A38)
-ジャンクランド[END]
+Junkland[END]
 
 
 //Text $1A4EF0
 #WRITE(ptr,$187A60)
-ラディスロウ[END]
+Radisrol[END]
 
 
 //Text $1A4EE0
 #WRITE(ptr,$187A88)
-ねこにんの村[END]
+Katz Village[END]
 
 
 //Text $1A4ED0
 #WRITE(ptr,$186BB8)
-任意選択[END]
+Optional Selection[END]
 
 
 //Text $1A4EC0
 #WRITE(ptr,$186BC4)
-ウルフ戦[END]
+Wolf Battle[END]
 
 
 //Text $1A4EB8
 #WRITE(ptr,$186BD0)
-飛行竜[END]
+Draconis[END]
 
 
 //Text $1A4E98
 #WRITE(ptr,$186BDC)
-ファンダリアの山道(前半)[END]
+The Mountain Path of Phandaria (First Half)[END]
 
 
 //Text $1A4E78
 #WRITE(ptr,$186BE8)
-ファンダリアの山道(後半)[END]
+The Mountain path of Phandaria (Second Half)[END]
 
 
 //Text $1A4E68
 #WRITE(ptr,$186BF4)
-神殿へ続く洞窟[END]
+Cave Leading to the Temple[END]
 
 
 //Text $1A4E60
 #WRITE(ptr,$186C00)
-神殿[END]
+Temple[END]
 
 
 //Text $1A4E50
@@ -6180,107 +6181,107 @@ CUPID[END]
 
 //Text $1A4380
 #WRITE(ptr,$187140)
-ＥＸダンジョン１Ｆ[END]
+EX Dungeon 1F[END]
 
 
 //Text $1A4368
 #WRITE(ptr,$18714C)
-ＥＸダンジョン２Ｆ[END]
+EX Dungeon 2F[END]
 
 
 //Text $1A4350
 #WRITE(ptr,$187158)
-ＥＸダンジョン３Ｆ[END]
+EX Dungeon 3F[END]
 
 
 //Text $1A4338
 #WRITE(ptr,$187164)
-ＥＸダンジョン４Ｆ[END]
+EX Dungeon 4F[END]
 
 
 //Text $1A4320
 #WRITE(ptr,$187170)
-ＥＸダンジョン５Ｆ[END]
+EX Dungeon 5F[END]
 
 
 //Text $1A4308
 #WRITE(ptr,$18717C)
-ＥＸダンジョン６Ｆ[END]
+EX Dungeon 6F[END]
 
 
 //Text $1A42F0
 #WRITE(ptr,$187188)
-ＥＸダンジョン７Ｆ[END]
+EX Dungeon 7F[END]
 
 
 //Text $1A42D8
 #WRITE(ptr,$187194)
-ＥＸダンジョン８Ｆ[END]
+EX Dungeon 8F[END]
 
 
 //Text $1A42C0
 #WRITE(ptr,$1871A0)
-ＥＸダンジョン９Ｆ[END]
+EX Dungeon 9F[END]
 
 
 //Text $1A42A8
 #WRITE(ptr,$1871AC)
-ＥＸダンジョン１０Ｆ[END]
+EX Dungeon 10F[END]
 
 
 //Text $1A4288
 #WRITE(ptr,$1871B8)
-ＥＸダンジョン１Ｆボス戦[END]
+EX Dungeon 1F Boss Battle[END]
 
 
 //Text $1A4268
 #WRITE(ptr,$1871C4)
-ＥＸダンジョン２Ｆボス戦[END]
+EX Dungeon 2F Boss Battle[END]
 
 
 //Text $1A4248
 #WRITE(ptr,$1871D0)
-ＥＸダンジョン３Ｆボス戦[END]
+EX Dungeon 3F Boss Battle[END]
 
 
 //Text $1A4228
 #WRITE(ptr,$1871DC)
-ＥＸダンジョン４Ｆボス戦[END]
+EX Dungeon 4F Boss Battle[END]
 
 
 //Text $1A4208
 #WRITE(ptr,$1871E8)
-ＥＸダンジョン５Ｆボス戦[END]
+EX Dungeon 5F Boss Battle[END]
 
 
 //Text $1A41E8
 #WRITE(ptr,$1871F4)
-ＥＸダンジョン６Ｆボス戦[END]
+EX Dungeon 6F Boss Battle[END]
 
 
 //Text $1A41C8
 #WRITE(ptr,$187200)
-ＥＸダンジョン７Ｆボス戦[END]
+EX Dungeon 7F Boss Battle[END]
 
 
 //Text $1A41A8
 #WRITE(ptr,$18720C)
-ＥＸダンジョン８Ｆボス戦[END]
+EX Dungeon 8F Boss Battle[END]
 
 
 //Text $1A4188
 #WRITE(ptr,$187218)
-ＥＸダンジョン９Ｆボス戦[END]
+EX Dungeon 9F Boss Battle[END]
 
 
 //Text $1A4168
 #WRITE(ptr,$187224)
-ＥＸダンジョン１０Ｆボス戦[END]
+EX Dungeon 10F Boss Battle[END]
 
 
 //Text $1A4150
 #WRITE(ptr,$187230)
-ＥＸダンジョンボス戦[END]
+EX Dungeon Boss Battle[END]
 
 
 //Text $1A4140
@@ -7265,12 +7266,12 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2B50
 #WRITE(ptr,$186728)
-ベルクラント・対ヒューゴ戦[END]
+Belcrant - VS Hugo[END]
 
 
 //Text $1A2D10
 #WRITE(ptr,$186730)
-隠しダンジョン・通路[END]
+Bergland · Aisle[END]
 
 
 //Text $1A2B38
@@ -7335,47 +7336,47 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2970
 #WRITE(ptr,$186798)
-ストレイライズ神殿へ続く森・山頂 @0[END]
+Forest / mountaintop leading to Straylize Temple 0[END]
 
 
 //Text $1A2948
 #WRITE(ptr,$1867A0)
-ストレイライズ神殿へ続く森・山頂 @1[END]
+Forest / mountain top 1 leading to Straylize temple 1[END]
 
 
 //Text $1A2920
 #WRITE(ptr,$1867A8)
-ストレイライズ神殿へ続く森・山頂 @2[END]
+Forest / mountain top 1 leading to Straylize temple 2[END]
 
 
 //Text $1A28F8
 #WRITE(ptr,$1867B0)
-ストレイライズ神殿へ続く森・山頂 @3[END]
+Forest / mountain top 1 leading to Straylize temple 3[END]
 
 
 //Text $1A28D8
 #WRITE(ptr,$1867B8)
-ハイデルベルグ城・対グレバム戦[END]
+Heidelberg Castle vs. Grevam[END]
 
 
 //Text $1A28C8
 #WRITE(ptr,$1867C0)
-ティルソの森・0[END]
+Tyrso Forest · 0[END]
 
 
 //Text $1A28B8
 #WRITE(ptr,$1867C8)
-ティルソの森・1[END]
+Tyrso Forest · 1[END]
 
 
 //Text $1A28A8
 #WRITE(ptr,$1867D0)
-ティルソの森・2[END]
+Tyrso Forest · 2[END]
 
 
 //Text $1A2898
 #WRITE(ptr,$1867D8)
-ティルソの森・3[END]
+Tyrso Forest · 3[END]
 
 
 //Text $1A2878
@@ -7388,604 +7389,331 @@ SS_87神妖の森イベント戦[END]
 カルビオラ神殿・神の眼前戦[END]
 
 
-//Text $1A2850
-#WRITE(ptr,$1867F0)
-未定[END]
+//Section Attribute and others
 
+//Text $1A52E0
+#WRITE(ptr,$187AD0)
+P. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1867F8)
-未定[END]
 
+//Text $1A52D0
+#WRITE(ptr,$187AD4)
+M. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$186800)
-未定[END]
 
+//Text $1A52C8
+#WRITE(ptr,$187AD8)
+P. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$186808)
-未定[END]
 
+//Text $1A52B8
+#WRITE(ptr,$187ADC)
+M. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$186810)
-未定[END]
 
+//Text $1A52B0
+#WRITE(ptr,$187AE0)
+ACC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186818)
-未定[END]
 
+//Text $1A52A8
+#WRITE(ptr,$187AE4)
+EVA[END]
 
-//Text $1A2850
-#WRITE(ptr,$186820)
-未定[END]
 
+//Text $1A52A0
+#WRITE(ptr,$187AE8)
+CRT[END]
 
-//Text $1A2850
-#WRITE(ptr,$186828)
-未定[END]
 
+//Text $1A5298
+#WRITE(ptr,$187AEC)
+VIT[END]
 
-//Text $1A2850
-#WRITE(ptr,$186830)
-未定[END]
 
+//Text $1A5288
+#WRITE(ptr,$187AF0)
+Min CC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186838)
-未定[END]
 
+//Text $1A5278
+#WRITE(ptr,$187AF4)
+Max CC[END]
 
-//Text $1A2850
-#WRITE(ptr,$186840)
-未定[END]
 
+//Text $1A5270
+#WRITE(ptr,$187AF8)
+Slash[END]
 
-//Text $1A2850
-#WRITE(ptr,$186848)
-未定[END]
 
+//Text $1A5268
+#WRITE(ptr,$187AFC)
+Blow[END]
 
-//Text $1A2850
-#WRITE(ptr,$186850)
-未定[END]
 
+//Text $1A5260
+#WRITE(ptr,$187B00)
+Shot[END]
 
-//Text $1A2850
-#WRITE(ptr,$186858)
-未定[END]
 
+//Text $1A5258
+#WRITE(ptr,$187B04)
+Sonic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186860)
-未定[END]
 
+//Text $1A5250
+#WRITE(ptr,$187B08)
+Earth[END]
 
-//Text $1A2850
-#WRITE(ptr,$186868)
-未定[END]
 
+//Text $1A5248
+#WRITE(ptr,$187B0C)
+Water[END]
 
-//Text $1A2850
-#WRITE(ptr,$186870)
-未定[END]
 
+//Text $1A5240
+#WRITE(ptr,$187B10)
+Fire[END]
 
-//Text $1A2850
-#WRITE(ptr,$186878)
-未定[END]
 
+//Text $1A5238
+#WRITE(ptr,$187B14)
+Wind[END]
 
-//Text $1A2850
-#WRITE(ptr,$186880)
-未定[END]
 
+//Text $1A5230
+#WRITE(ptr,$187B18)
+Light[END]
 
-//Text $1A2850
-#WRITE(ptr,$186888)
-未定[END]
 
+//Text $1A5228
+#WRITE(ptr,$187B1C)
+Dark[END]
 
-//Text $1A2850
-#WRITE(ptr,$186890)
-未定[END]
 
+//Text $1A5220
+#WRITE(ptr,$187B20)
+--[END]
 
-//Text $1A2850
-#WRITE(ptr,$186898)
-未定[END]
 
+//Text $1A5218
+#WRITE(ptr,$187B24)
+Petrify[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868A0)
-未定[END]
 
+//Text $1A5210
+#WRITE(ptr,$187B28)
+Weak[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868A8)
-未定[END]
 
+//Text $1A5208
+#WRITE(ptr,$187B2C)
+Poison[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868B0)
-未定[END]
 
+//Text $1A5200
+#WRITE(ptr,$187B30)
+Sleep[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868B8)
-未定[END]
 
+//Text $1A51F7
+#WRITE(ptr,$187B34)
+Paralyze[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868C0)
-未定[END]
 
+//Text $1A51F0
+#WRITE(ptr,$187B38)
+Seal[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868C8)
-未定[END]
 
+//Text $1A51E7
+#WRITE(ptr,$187B3C)
+Downsize[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868D0)
-未定[END]
 
+//Text $1A51E0
+#WRITE(ptr,$187B40)
+Stop[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868D8)
-未定[END]
 
+//Text $1A51D8
+#WRITE(ptr,$187B44)
+-Pause-[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868E0)
-未定[END]
 
+//Text $1A51D0
+#WRITE(ptr,$187B48)
+Unknown[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868E8)
-未定[END]
 
+//Text $1A51C8
+#WRITE(ptr,$187B4C)
+Flying[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868F0)
-未定[END]
 
+//Text $1A51C0
+#WRITE(ptr,$187B50)
+Insect[END]
 
-//Text $1A2850
-#WRITE(ptr,$1868F8)
-未定[END]
 
+//Text $1A51B0
+#WRITE(ptr,$187B54)
+Aquatic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186900)
-未定[END]
 
+//Text $1A51A8
+#WRITE(ptr,$187B58)
+Reptile[END]
 
-//Text $1A2850
-#WRITE(ptr,$186908)
-未定[END]
 
+//Text $1A51A0
+#WRITE(ptr,$187B5C)
+Plant[END]
 
-//Text $1A2850
-#WRITE(ptr,$186910)
-未定[END]
 
+//Text $1A5198
+#WRITE(ptr,$187B60)
+Beast[END]
 
-//Text $1A2850
-#WRITE(ptr,$186918)
-未定[END]
 
+//Text $1A5190
+#WRITE(ptr,$187B64)
+Amorph.[END]
 
-//Text $1A2850
-#WRITE(ptr,$186920)
-未定[END]
 
+//Text $1A5188
+#WRITE(ptr,$187B68)
+Dragon[END]
 
-//Text $1A2850
-#WRITE(ptr,$186928)
-未定[END]
 
+//Text $1A5180
+#WRITE(ptr,$187B6C)
+Machine[END]
 
-//Text $1A2850
-#WRITE(ptr,$186930)
-未定[END]
 
+//Text $1A5178
+#WRITE(ptr,$187B70)
+Human[END]
 
-//Text $1A2850
-#WRITE(ptr,$186938)
-未定[END]
 
+//Text $1A5170
+#WRITE(ptr,$187B74)
+Ghost[END]
 
-//Text $1A2850
-#WRITE(ptr,$186940)
-未定[END]
 
+//Text $1A5168
+#WRITE(ptr,$187B78)
+Object[END]
 
-//Text $1A2850
-#WRITE(ptr,$186948)
-未定[END]
 
+//Text $1A5160
+#WRITE(ptr,$187B7C)
+Undead[END]
 
-//Text $1A2850
-#WRITE(ptr,$186950)
-未定[END]
 
+//Text $1A5150
+#WRITE(ptr,$187B80)
+Bioweapon[END]
 
-//Text $1A2850
-#WRITE(ptr,$186958)
-未定[END]
 
+//Text $1A5140
+#WRITE(ptr,$187B84)
+[Sign_Slash]Slash[END]
 
-//Text $1A2850
-#WRITE(ptr,$186960)
-未定[END]
 
+//Text $1A5130
+#WRITE(ptr,$187B88)
+[Sign_Strike]Blow[END]
 
-//Text $1A2850
-#WRITE(ptr,$186968)
-未定[END]
 
+//Text $1A5120
+#WRITE(ptr,$187B8C)
+[Sign_Shot]Shot[END]
 
-//Text $1A2850
-#WRITE(ptr,$186970)
-未定[END]
 
+//Text $1A5110
+#WRITE(ptr,$187B90)
+[Sign_Sonic]Sonic[END]
 
-//Text $1A2850
-#WRITE(ptr,$186978)
-未定[END]
 
+//Text $1A5100
+#WRITE(ptr,$187B94)
+[Sign_Earth]Earth[END]
 
-//Text $1A2850
-#WRITE(ptr,$186980)
-未定[END]
 
+//Text $1A50F0
+#WRITE(ptr,$187B98)
+[Sign_Wind]Wind[END]
 
-//Text $1A2850
-#WRITE(ptr,$186988)
-未定[END]
 
+//Text $1A50E0
+#WRITE(ptr,$187B9C)
+[Sign_Fire]Fire[END]
 
-//Text $1A2850
-#WRITE(ptr,$186990)
-未定[END]
 
+//Text $1A50D0
+#WRITE(ptr,$187BA0)
+[Sign_Water]Water[END]
 
-//Text $1A2850
-#WRITE(ptr,$186998)
-未定[END]
 
+//Text $1A50C0
+#WRITE(ptr,$187BA4)
+[Sign_Light]Light[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869A0)
-未定[END]
 
+//Text $1A50B0
+#WRITE(ptr,$187BA8)
+[Sign_Dark]Dark[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869A8)
-未定[END]
 
+//Text $1A50A8
+#WRITE(ptr,$187BAC)
+？[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869B0)
-未定[END]
 
+//Text $1A5098
+#WRITE(ptr,$187BB0)
++P. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869B8)
-未定[END]
 
+//Text $1A5088
+#WRITE(ptr,$187BB4)
++M. ATK[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869C0)
-未定[END]
 
+//Text $1A5078
+#WRITE(ptr,$187BB8)
++P. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869C8)
-未定[END]
 
+//Text $1A5068
+#WRITE(ptr,$187BBC)
++M. DEF[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869D0)
-未定[END]
 
+//Text $1A5058
+#WRITE(ptr,$187BC0)
++KCC[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869D8)
-未定[END]
 
+//Text $1A5048
+#WRITE(ptr,$187BC4)
++EVA[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869E0)
-未定[END]
 
+//Text $1A5038
+#WRITE(ptr,$187BC8)
++CRT[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869E8)
-未定[END]
 
+//Text $1A5030
+#WRITE(ptr,$187BCC)
+＋体力[END]
 
-//Text $1A2850
-#WRITE(ptr,$1869F0)
-未定[END]
 
-
-//Text $1A2850
-#WRITE(ptr,$1869F8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A00)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A08)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A10)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A18)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A20)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A28)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A30)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A38)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A40)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A48)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A50)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A58)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A60)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A68)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A70)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A78)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A80)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A88)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A90)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186A98)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AA0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AA8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AB0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AB8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AC0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AC8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AD0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AD8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AE0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AE8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AF0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186AF8)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B00)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B08)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B10)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B18)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B20)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B28)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B30)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B38)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B40)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B48)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B50)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B58)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B60)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B68)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B70)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B78)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B80)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B88)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B90)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186B98)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186BA0)
-未定[END]
-
-
-//Text $1A2850
-#WRITE(ptr,$186BA8)
-未定[END]
+//Text $1A5008
+#WRITE(ptr,$187BD0)
+テストプレイポイント：[TAG_015]に到達[END]
 
 
 //Section Consumable
@@ -8826,7 +8554,6 @@ Support Talents in the EX Dungeon![END]
 [Sign_Box]Red Liquid[END]
 
 
-#JMP($1AC530)
 //Text $1AE378
 #WRITE(ptr,$18CE60)
 A smelly red liquid.[LINE]
@@ -8889,8 +8616,8 @@ for some medicine.[END]
 
 //Text $1AE1B0
 #WRITE(ptr,$18CEEC)
-ラッキー！ もう１本もらえます。[LINE]
-お店にＧＯ！[LINE]
+Lucky! You can get another one.[LINE]
+Let's cash it in！[LINE]
 [END]
 
 
@@ -8901,8 +8628,8 @@ for some medicine.[END]
 
 //Text $1AE168
 #WRITE(ptr,$18CF08)
-残念、はずれです。[LINE]
-ちゃんとくずかごに捨てましょう。[LINE]
+Shoot! no luck this time.[LINE]
+Make sure to recycle it properly.[LINE]
 [END]
 
 
@@ -8927,7 +8654,7 @@ Only those who know "axes" can answer.[END]
 //Text $1AE098
 #WRITE(ptr,$18CF40)
 A mysterious sphere with "II" on it.[LINE]
-Only those who know ""short bow"" can answer.[END]
+Only those who know "short bow" can answer.[END]
 
 
 //Text $1AE080
@@ -8935,6 +8662,7 @@ Only those who know ""short bow"" can answer.[END]
 [Sign_Box]Triasphere[END]
 
 
+#JMP($1AC530)
 //Text $1AE028
 #WRITE(ptr,$18CF5C)
 A mysterious sphere with "III" on it.[LINE]
@@ -9037,8 +8765,8 @@ Lilith's Sunfish Screech gets![END]
 
 //Text $1ADC88
 #WRITE(ptr,$18D058)
-羽の紋様が入ったワッペン。[LINE]
-なりふり構わず英雄になりたくなる。[LINE]
+A badge with a feather pattern.[LINE]
+It makes everyone feel like a hero.[LINE]
 [END]
 
 
@@ -9049,9 +8777,9 @@ Lilith's Sunfish Screech gets![END]
 
 //Text $1ADC28
 #WRITE(ptr,$18D074)
-誰かが落としたと思われる[LINE]
-ペンダント。[LINE]
-時をかけるとかかけないとか……[END]
+It looks like somone dropped this pendant.[LINE]
+Should we look for the owner?[LINE]
+[END]
 
 
 //Text $1ADC10
@@ -9061,9 +8789,9 @@ Lilith's Sunfish Screech gets![END]
 
 //Text $1ADBC0
 #WRITE(ptr,$18D090)
-透き通るような青が美しいスカーフ。[LINE]
-身に着けている人は[LINE]
-さぞかし心が美しかろう。[END]
+A gorgeous, crystal blue scarf.[LINE]
+The person who wear's it must have[LINE]
+a beautiful heart.[END]
 
 
 //Text $1ADBA8
@@ -9073,8 +8801,8 @@ Lilith's Sunfish Screech gets![END]
 
 //Text $1ADB68
 #WRITE(ptr,$18D0AC)
-仮面のようであって仮面でない？[LINE]
-つけてるやつの顔が見たい……[LINE]
+It looks like a mask, but isn't one?[LINE]
+I want to see the face of its owner…[LINE]
 [END]
 
 
@@ -9085,20 +8813,20 @@ Lilith's Sunfish Screech gets![END]
 
 //Text $1ADB00
 #WRITE(ptr,$18D0C8)
-anける人を選ぶぐらい長いウイッグ。[LINE]
-ウイッグとは[LINE]
-女性用かつらみたいなものです。[END]
+A wig so long, it could cover any head.[LINE]
+Who should we have wear it?[LINE]
+It looks like it's for a woman.[END]
 
 
 //Text $1ADAE8
 #WRITE(ptr,$18D0E0)
-[Sign_Box]Black Candy[END]
+[Sign_Box]Black Bonbon[END]
 
 
 //Text $1ADAA8
 #WRITE(ptr,$18D0E4)
-悪巧みし放題な黒いボンボン。[LINE]
-どこに着けるかはお好みで！[LINE]
+A mischievous black hat.[LINE]
+Do you dare don the Bonbon?[LINE]
 [END]
 
 
@@ -9109,9 +8837,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1ADA40
 #WRITE(ptr,$18D100)
-かわいくはないが憎めない人形。[LINE]
-おなかを押すと[LINE]
-「ドスッ」と鈍い音がする。[END]
+This doll may not be cute, but it's still lovable.[LINE]
+When you press its tummy, it makes a sound[LINE]
+like a dull thud.[END]
 
 
 //Text $1ADA28
@@ -9121,9 +8849,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD9E0
 #WRITE(ptr,$18D11C)
-おなかを押すと、[LINE]
-火を噴く危険な人形。[LINE]
-なぜだか蹴飛ばしたくなる……[END]
+A dangerous doll that spews fire[LINE]
+when you press its tummy.[LINE]
+Urge. To kick! RISING![END]
 
 
 //Text $1AD9C8
@@ -9133,9 +8861,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD980
 #WRITE(ptr,$18D138)
-便利！ 取り外し可！ 自己発育！[LINE]
-１６個のまりもが生み出す[LINE]
-ハーモニー！[END]
+Convenient! Removable! Grows on its own![LINE]
+Created by the one and only Marimo![LINE]
+Harmony![END]
 
 
 //Text $1AD968
@@ -9145,8 +8873,8 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD930
 #WRITE(ptr,$18D154)
-いかにも高そうな王冠。[LINE]
-頭の上にどうやって載せるのか？[LINE]
+A very expensive looking crown.[LINE]
+How are you supposed to wear it?[LINE]
 [END]
 
 
@@ -9157,9 +8885,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD8D8
 #WRITE(ptr,$18D170)
-レンズの欠片。使い道はないが[LINE]
-一応引き取ってもらえる。[LINE]
-換金アイテム。[END]
+The useless remnants of a Lens.[LINE]
+There's no use for it, but at least you[LINE]
+can sell it.[END]
 
 
 //Text $1AD8C0
@@ -9169,9 +8897,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD870
 #WRITE(ptr,$18D18C)
-加工されていないレンズの結晶。[LINE]
-非常に珍しいので高値で売れる[LINE]
-換金アイテム。[END]
+An unrefined Lens.[LINE]
+It's very rare, so it sells for[LINE]
+a lot of gald.[END]
 
 
 //Text $1AD860
@@ -9181,33 +8909,33 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD818
 #WRITE(ptr,$18D1A8)
-１ガルドを笑う者は１ガルドに泣く。[LINE]
-一応１ガルドで売れる換金アイテム。[LINE]
+A Gald saved is a Gald earned.[LINE]
+So, sell this pebble for a Gald.[LINE]
 [END]
 
 
 //Text $1AD808
 #WRITE(ptr,$18D1C0)
-[Sign_Box]Tenchiko[END]
+[Sign_Box]Aeth'er Ore[END]
 
 
 //Text $1AD7C0
 #WRITE(ptr,$18D1C4)
-天地戦争時代の建物に[LINE]
-使用されていたとされる鉱石。[LINE]
-換金アイテム。[END]
+During the Aeth'er War, this ore[LINE]
+was often used in construction.[LINE]
+It sell for a high price.[END]
 
 
 //Text $1AD7B0
 #WRITE(ptr,$18D1DC)
-[Sign_Box]Golden[END]
+[Sign_Box]Golden Grass[END]
 
 
 //Text $1AD768
 #WRITE(ptr,$18D1E0)
-金の香りがする雑草。[LINE]
-金に対する執着心がよく分かる一品。[LINE]
-換金アイテム。[END]
+Grass that smells like gold.[LINE]
+Are you realy that obsessed with gold?[LINE]
+Sell it for some Gald already![END]
 
 
 //Text $1AD758
@@ -9217,9 +8945,9 @@ anける人を選ぶぐらい長いウイッグ。[LINE]
 
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
-天地戦争の発端たる隕石の欠片……[LINE]
-ということにして売れる[LINE]
-換金アイテム。[END]
+A piece of the meteor that sparked[LINE]
+the Aeth'er War......[LINE]
+Bet you could sell it...[END]
 
 
 //Text $1AD6F8
@@ -9301,8 +9029,8 @@ prevents the use of artes.[END]
 
 //Text $1AD440
 #WRITE(ptr,$18D2C0)
-Rerise into a gem that reduces[LINE]
-fire damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Fire] damage by half.[LINE]
 [END]
 
 
@@ -9313,8 +9041,8 @@ fire damage by half.[LINE]
 
 //Text $1AD3D0
 #WRITE(ptr,$18D2DC)
-Rerise into a gem that reduces[LINE]
-water damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Water] damage by half.[LINE]
 [END]
 
 
@@ -9325,8 +9053,8 @@ water damage by half.[LINE]
 
 //Text $1AD360
 #WRITE(ptr,$18D2F8)
-Rerise into a gem that reduces[LINE]
-earth damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Earth] damage by half.[LINE]
 [END]
 
 
@@ -9337,8 +9065,8 @@ earth damage by half.[LINE]
 
 //Text $1AD2F0
 #WRITE(ptr,$18D314)
-Rerise into a gem that reduces[LINE]
-wind damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Wind] damage by half.[LINE]
 [END]
 
 
@@ -9349,8 +9077,8 @@ wind damage by half.[LINE]
 
 //Text $1AD280
 #WRITE(ptr,$18D330)
-Rerise into a gem that reduces[LINE]
-light damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Light] damage by half.[LINE]
 [END]
 
 
@@ -9361,8 +9089,8 @@ light damage by half.[LINE]
 
 //Text $1AD210
 #WRITE(ptr,$18D34C)
-Rerise into a gem that reduces[LINE]
-dark damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Dark] damage by half.[LINE]
 [END]
 
 
@@ -9373,8 +9101,8 @@ dark damage by half.[LINE]
 
 //Text $1AD198
 #WRITE(ptr,$18D368)
-Rerise into a gem that reduces[LINE]
-slash damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Slash] damage by half.[LINE]
 [END]
 
 
@@ -9385,8 +9113,8 @@ slash damage by half.[LINE]
 
 //Text $1AD128
 #WRITE(ptr,$18D384)
-Rerise into a gem that reduces[LINE]
-strike damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Strike] damage by half.[LINE]
 [END]
 
 
@@ -9397,8 +9125,8 @@ strike damage by half.[LINE]
 
 //Text $1AD0B8
 #WRITE(ptr,$18D3A0)
-Rerise into a gem that reduces[LINE]
-shot damage by half.[LINE]
+Rerise into a gem that[LINE]
+reduces [Sign_Shot] damage by half.[LINE]
 [END]
 
 
@@ -9410,7 +9138,7 @@ shot damage by half.[LINE]
 //Text $1AD048
 #WRITE(ptr,$18D3BC)
 Rerise into a gem that[LINE]
-reduces damage by half.[LINE]
+reduces [Sign_Sonic] damage by half.[LINE]
 [END]
 
 
@@ -9421,9 +9149,9 @@ reduces damage by half.[LINE]
 
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
-Rerise into a gem that[Square_ani2]＋[Down_blink]で、[LINE]
+Rerise into a gem that[LINE]
 temporarily increases P. ATK[LINE]
-変化する。[END]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACFC8
@@ -9433,9 +9161,9 @@ temporarily increases P. ATK[LINE]
 
 //Text $1ACF70
 #WRITE(ptr,$18D3F4)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-術攻撃力を一定時間上昇する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that[LINE]
+temporarily increases M. ATK[LINE]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACF50
@@ -9447,7 +9175,7 @@ temporarily increases P. ATK[LINE]
 #WRITE(ptr,$18D410)
 Rerise into a gem that[LINE]
 temporily increases P. DEF[LINE]
-with [Square_ani2]＋[Down_blink] Charge.[END]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACEE8
@@ -9457,9 +9185,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACE90
 #WRITE(ptr,$18D42C)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-術防御力を一定時間上昇する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that[LINE]
+temporarily increases M. DEF[LINE]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACE78
@@ -9469,9 +9197,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACE20
 #WRITE(ptr,$18D448)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-高確率で状態異常を解除する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that has a[LINE]
+high chance to remove status[LINE]
+ailments with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACE08
@@ -9481,8 +9209,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACDC0
 #WRITE(ptr,$18D464)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-ＣＣを１加算する宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+increases CC by 1 with [Square_ani2]＋[Down_blink].[LINE]
 [END]
 
 
@@ -9493,9 +9221,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACD50
 #WRITE(ptr,$18D480)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-短時間完全回避する宝石に変化する。[LINE]
-[END]
+Rerise into a gem that allows[LINE]
+you to avoid damage for a short[LINE]
+time with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACD38
@@ -9505,9 +9233,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACCE8
 #WRITE(ptr,$18D49C)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-ブラストゲージを加算する宝石に[LINE]
-変化する。[END]
+Rerise into a gem that[LINE]
+fills up the blast gauge[LINE]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACCD0
@@ -9517,9 +9245,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACC78
 #WRITE(ptr,$18D4B8)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-自分以外の味方のＣＣを[LINE]
-加算させる宝石に変化する。[END]
+Rerise into a gem that increases[LINE]
+the party's CC except the user's[LINE]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACC60
@@ -9529,8 +9257,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACC18
 #WRITE(ptr,$18D4D4)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-ＨＰを回復する宝石に変化する。[LINE]
+Rerise into a gem that restores[LINE]
+HP with [Square_ani2]＋[Down_blink].[LINE]
 [END]
 
 
@@ -9541,9 +9269,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACBA0
 #WRITE(ptr,$18D4F0)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-敵の防御を崩す攻撃判定が[LINE]
-発生する宝石に変化する。[END]
+Rerise into a gem that breaks[LINE]
+an enemy's guard with [Square_ani2]＋[Down_blink].[LINE]
+[END]
 
 
 //Text $1ACB80
@@ -9553,9 +9281,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
-リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]
-減少効果を打ち消す宝石に変化する。[LINE]
-[END]
+Rerise into a gem that will[LINE]
+temporarily prevent status[LINE]
+ailments with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACB18
@@ -9565,8 +9293,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACAE0
 #WRITE(ptr,$18D528)
-リライズで、最小ＣＣを１増やす[LINE]
-宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+increases min CC by 1.[LINE]
 [END]
 
 
@@ -9577,8 +9305,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACA88
 #WRITE(ptr,$18D544)
-リライズで、最大ＣＣを１増やす[LINE]
-宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+increases max CC by 1.[LINE]
 [END]
 
 
@@ -9589,8 +9317,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1ACA30
 #WRITE(ptr,$18D560)
-リライズで、最大ＣＣを２増やす[LINE]
-宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+increases max CC by 2.[LINE]
 [END]
 
 
@@ -9601,8 +9329,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC9D0
 #WRITE(ptr,$18D57C)
-リライズで、最小ＣＣと最大ＣＣを[LINE]
-１増やす宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+increases min and max CC by 1.[LINE]
 [END]
 
 
@@ -9613,8 +9341,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC978
 #WRITE(ptr,$18D598)
-リライズで、ＣＣを常に１５にする[LINE]
-宝石に変化する。[LINE]
+Rerise into a gem that[LINE]
+locks CC to 15.[LINE]
 [END]
 
 
@@ -9625,9 +9353,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC928
 #WRITE(ptr,$18D5B4)
-リライズで、ＣＣを平均で固定に[LINE]
-する宝石に変化する。[LINE]
-[END]
+Rerise into a gem that sets the[LINE]
+CC to the average of the min[LINE]
+and max CC.[END]
 
 
 //Text $1AC908
@@ -9637,8 +9365,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC8C8
 #WRITE(ptr,$18D5D0)
-リライズで、クリティカル時に[LINE]
-ＣＣを＋１する宝石に変化する。[LINE]
+Rerise into a gem that gives[LINE]
++1 CC on critical hits.[LINE]
 [END]
 
 
@@ -9649,9 +9377,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC870
 #WRITE(ptr,$18D5EC)
-リライズで、一定時間毎に[LINE]
-ＨＰが微量回復する宝石に変化する。[LINE]
-[END]
+Rerise into a gem that restores[LINE]
+a small amount of HP over[LINE]
+time.[END]
 
 
 //Text $1AC858
@@ -9661,8 +9389,8 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC818
 #WRITE(ptr,$18D608)
-リライズで、敵を倒したときに、[LINE]
-ＨＰが回復する宝石に変化する。[LINE]
+Rerise into a gem that restores[LINE]
+HP when you defeat an enemy.[LINE]
 [END]
 
 
@@ -9673,9 +9401,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC7C0
 #WRITE(ptr,$18D624)
-リライズで、敵を倒したときに、[LINE]
-ＣＣを＋２する宝石に変化する。[LINE]
-[END]
+Rerise into a gem that gives[LINE]
++2 CC when you defeat an[LINE]
+enemy.[END]
 
 
 //Text $1AC7A0
@@ -9685,9 +9413,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC750
 #WRITE(ptr,$18D640)
-リライズで、敵を倒したときに、[LINE]
-ブラストゲージが加算される宝石に[LINE]
-変化する。[END]
+Rerise into a gem that increases[LINE]
+the blast gauge when you defeat[LINE]
+an enemy.[END]
 
 
 //Text $1AC730
@@ -9697,9 +9425,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC6E8
 #WRITE(ptr,$18D65C)
-リライズで、エイミングダッシュ中[LINE]
-物理攻撃を防御できる宝石に[LINE]
-変化する。[END]
+Rerise into a gem that increases[LINE]
+defense during a front step.[LINE]
+[END]
 
 
 //Text $1AC6C8
@@ -9709,9 +9437,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC668
 #WRITE(ptr,$18D678)
-リライズで、フラッシュガード[LINE]
-（敵の攻撃をひきつけてガード）[LINE]
-でＣＣが２加算する宝石に変化する。[END]
+Rerise into a gem that gives 2 CC[LINE]
+upon a Flash Guard (Guard just[LINE]
+before you receive an attack).[END]
 
 
 //Text $1AC648
@@ -9721,9 +9449,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC5E8
 #WRITE(ptr,$18D694)
-リライズで、フラッシュガード[LINE]
-（敵の攻撃をひきつけてガード）[LINE]
-でＨＰが回復する宝石に変化する。[END]
+Rerise into a gem that restores HP[LINE]
+upon a Flash Guard (Guard just[LINE]
+before you receive an attack).[END]
 
 
 //Text $1AC5D0
@@ -9733,9 +9461,9 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC590
 #WRITE(ptr,$18D6B0)
-リライズで、獲得経験値が２倍に[LINE]
-なる宝石に変化する。ただし……[LINE]
-[END]
+Rerise into a gem that doubles[LINE]
+the experience gained.[LINE]
+However...[END]
 
 
 //Text $1AC578
@@ -9745,16 +9473,16 @@ with [Square_ani2]＋[Down_blink] Charge.[END]
 
 //Text $1AC530
 #WRITE(ptr,$18D6CC)
-リライズで、与えるダメージが２倍[LINE]
-になる宝石に変化する。ただし……[LINE]
-[END]
+Rerise into a gem that doubles[LINE]
+the damage dealt.[LINE]
+However...[END]
 
 
 //Section Jewel
 
 //Text $1B0A28
 #WRITE(ptr,$18D704)
-[Sign_2]Poison[END]
+[Sign_2]Poison Charm[END]
 
 
 //Text $1B09F0
@@ -9766,7 +9494,7 @@ a status ailment that reduces HP.[LINE]
 
 //Text $1B09E0
 #WRITE(ptr,$18D720)
-[Sign_2]Sleep[END]
+[Sign_2]Sleep Charm[END]
 
 
 //Text $1B09A8
@@ -9779,7 +9507,7 @@ you unable to act.[LINE]
 
 //Text $1B0998
 #WRITE(ptr,$18D73C)
-[Sign_2]Petrify[END]
+[Sign_2]Stone Charm[END]
 
 
 //Text $1B0960
@@ -9805,7 +9533,7 @@ CC recovery.[LINE]
 
 //Text $1B0908
 #WRITE(ptr,$18D774)
-[Sign_2]Paralyze[END]
+[Sign_2]Paralyze Charm[END]
 
 
 //Text $1B08D0
@@ -9818,7 +9546,7 @@ you when you take any action.[LINE]
 
 //Text $1B08C0
 #WRITE(ptr,$18D790)
-[Sign_2]Seal[END]
+[Sign_2]Seal Charm[END]
 
 
 //Text $1B0888
@@ -9831,127 +9559,127 @@ the use of artes.[LINE]
 
 //Text $1B0878
 #WRITE(ptr,$18D7AC)
-[Sign_2]Flare[END]
+[Sign_2]Flare Charm[END]
 
 
 //Text $1B0838
 #WRITE(ptr,$18D7B0)
-A gem that reduces fire[LINE]
+A gem that reduces [Sign_Fire][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0828
 #WRITE(ptr,$18D7C8)
-[Sign_2]Aqua[END]
+[Sign_2]Aqua Charm[END]
 
 
 //Text $1B07E8
 #WRITE(ptr,$18D7CC)
-A gem that reduces water[LINE]
+A gem that reduces [Sign_Water][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B07D8
 #WRITE(ptr,$18D7E4)
-[Sign_2]Earth[END]
+[Sign_2]Earth Charm[END]
 
 
 //Text $1B0798
 #WRITE(ptr,$18D7E8)
-A gem that reduces earth[LINE]
+A gem that reduces [Sign_Earth][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0788
 #WRITE(ptr,$18D800)
-[Sign_2]Gale[END]
+[Sign_2]Gale Charm[END]
 
 
 //Text $1B0748
 #WRITE(ptr,$18D804)
-A gem that reduces wind[LINE]
+A gem that reduces [Sign_Wind][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0738
 #WRITE(ptr,$18D81C)
-[Sign_2]Light[END]
+[Sign_2]Light Charm[END]
 
 
 //Text $1B06F8
 #WRITE(ptr,$18D820)
-A gem that reduces light[LINE]
+A gem that reduces [Sign_Light][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B06E8
 #WRITE(ptr,$18D838)
-[Sign_2]Dark[END]
+[Sign_2]Dark Charm[END]
 
 
 //Text $1B06A8
 #WRITE(ptr,$18D83C)
-A gem that reduces dark[LINE]
+A gem that reduces [Sign_Dark][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0698
 #WRITE(ptr,$18D854)
-[Sign_2]Slash[END]
+[Sign_2]Slash Charm[END]
 
 
 //Text $1B0658
 #WRITE(ptr,$18D858)
-A gem that reduces slash[LINE]
+A gem that reduces [Sign_Slash][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0648
 #WRITE(ptr,$18D870)
-[Sign_2]Strike[END]
+[Sign_2]Strike Charm[END]
 
 
 //Text $1B0608
 #WRITE(ptr,$18D874)
-A gem that reduces strike[LINE]
+A gem that reduces [Sign_Strike][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B05F8
 #WRITE(ptr,$18D88C)
-[Sign_2]Shot[END]
+[Sign_2]Shot Charm[END]
 
 
 //Text $1B05B8
 #WRITE(ptr,$18D890)
-A gem that reduces shot[LINE]
+A gem that reduces [Sign_Shot][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B05A8
 #WRITE(ptr,$18D8A8)
-[Sign_2]Sonic[END]
+[Sign_2]Sonic Charm[END]
 
 
 //Text $1B0568
 #WRITE(ptr,$18D8AC)
-A gem that reduces sound[LINE]
+A gem that reduces [Sign_Sonic][LINE]
 damage by half.[LINE]
 [END]
 
 
 //Text $1B0558
 #WRITE(ptr,$18D8C4)
-[Sign_2]Attack[END]
+[Sign_2]Attack Gem[END]
 
 
 //Text $1B0520
@@ -9963,19 +9691,19 @@ temporarily increase P. ATK.[LINE]
 
 //Text $1B0510
 #WRITE(ptr,$18D8E0)
-[Sign_2]Mind[END]
+[Sign_2]Mind Gem[END]
 
 
 //Text $1B04D0
 #WRITE(ptr,$18D8E4)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase M. Atk.[LINE]
+temporarily increase M. ATK.[LINE]
 [END]
 
 
 //Text $1B04C0
 #WRITE(ptr,$18D8FC)
-[Sign_2]Protect[END]
+[Sign_2]Protect Gem[END]
 
 
 //Text $1B0488
@@ -9987,19 +9715,19 @@ temporarily increase P. DEF.[LINE]
 
 //Text $1B0478
 #WRITE(ptr,$18D918)
-[Sign_2]Resist[END]
+[Sign_2]Resist Gem[END]
 
 
 //Text $1B0438
 #WRITE(ptr,$18D91C)
 During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-temporarily increase M. Def.[LINE]
+temporarily increase M. DEF.[LINE]
 [END]
 
 
 //Text $1B0428
 #WRITE(ptr,$18D934)
-[Sign_2]Recover[END]
+[Sign_2]Recover Gem[END]
 
 
 //Text $1B03E8
@@ -10011,7 +9739,7 @@ to remove status ailments.[LINE]
 
 //Text $1B03D8
 #WRITE(ptr,$18D950)
-[Sign_2]Chain[END]
+[Sign_2]Chain Gem[END]
 
 
 //Text $1B03A8
@@ -10023,7 +9751,7 @@ increase CC by 1.[LINE]
 
 //Text $1B0398
 #WRITE(ptr,$18D96C)
-[Sign_2]Flash[END]
+[Sign_2]Flash Gem[END]
 
 
 //Text $1B0360
@@ -10035,7 +9763,7 @@ avoid damage for a short time.[LINE]
 
 //Text $1B0350
 #WRITE(ptr,$18D988)
-[Sign_2]Blast[END]
+[Sign_2]Blast Gem[END]
 
 
 //Text $1B0318
@@ -10047,7 +9775,7 @@ fill up the blast gauge.[LINE]
 
 //Text $1B0308
 #WRITE(ptr,$18D9A4)
-[Sign_2]Supply[END]
+[Sign_2]Supply Gem[END]
 
 
 //Text $1B02C8
@@ -10059,7 +9787,7 @@ increase the party's CC except the user's.[LINE]
 
 //Text $1B02B8
 #WRITE(ptr,$18D9C0)
-[Sign_2]Cure[END]
+[Sign_2]Cure Gem[END]
 
 
 //Text $1B0288
@@ -10071,7 +9799,7 @@ restore HP.[LINE]
 
 //Text $1B0278
 #WRITE(ptr,$18D9DC)
-[Sign_2]Physical[END]
+[Sign_2]Physical Gem[END]
 
 
 //Text $1B0238
@@ -10083,7 +9811,7 @@ enemy to break his guard.[LINE]
 
 //Text $1B0228
 #WRITE(ptr,$18D9F8)
-[Sign_2]Dispel[END]
+[Sign_2]Dispel Gem[END]
 
 
 //Text $1B01F0
@@ -10095,7 +9823,7 @@ prevent status ailments.[LINE]
 
 //Text $1B01E0
 #WRITE(ptr,$18DA14)
-[Sign_2]Rise[END]
+[Sign_2]Rise Gem[END]
 
 
 //Text $1B01C0
@@ -10107,7 +9835,7 @@ Increases min CC by 1.[LINE]
 
 //Text $1B01B0
 #WRITE(ptr,$18DA30)
-[Sign_2]Exceed[END]
+[Sign_2]Exceed Gem[END]
 
 
 //Text $1B0190
@@ -10119,7 +9847,7 @@ Increases max CC by 1.[LINE]
 
 //Text $1B0180
 #WRITE(ptr,$18DA4C)
-[Sign_2]Zexceed[END]
+[Sign_2]Zexceed Gem[END]
 
 
 //Text $1B0160
@@ -10131,7 +9859,7 @@ Increases max CC by 2.[LINE]
 
 //Text $1B0150
 #WRITE(ptr,$18DA68)
-[Sign_2]Variable[END]
+[Sign_2]Variable Gem[END]
 
 
 //Text $1B0128
@@ -10143,7 +9871,7 @@ Increases min and max CC by 1.[LINE]
 
 //Text $1B0118
 #WRITE(ptr,$18DA84)
-[Sign_2]Fix[END]
+[Sign_2]Fix Gem[END]
 
 
 //Text $1B00F8
@@ -10155,7 +9883,7 @@ Locks CC to 15.[LINE]
 
 //Text $1B00E8
 #WRITE(ptr,$18DAA0)
-[Sign_2]Flat[END]
+[Sign_2]Flat Gem[END]
 
 
 //Text $1B00C8
@@ -10167,7 +9895,7 @@ the min and max CC.[LINE]
 
 //Text $1B00B8
 #WRITE(ptr,$18DABC)
-[Sign_2]Chaser[END]
+[Sign_2]Chaser Gem[END]
 
 
 //Text $1B0090
@@ -10179,7 +9907,7 @@ critical hits.[LINE]
 
 //Text $1B0080
 #WRITE(ptr,$18DAD8)
-[Sign_2]Holy[END]
+[Sign_2]Holy Gem[END]
 
 
 //Text $1B0058
@@ -10191,7 +9919,7 @@ over time.[LINE]
 
 //Text $1B0048
 #WRITE(ptr,$18DAF4)
-[Sign_2]Gain[END]
+[Sign_2]Gain Gem[END]
 
 
 //Text $1B0020
@@ -10203,7 +9931,7 @@ an enemy.[LINE]
 
 //Text $1B0010
 #WRITE(ptr,$18DB10)
-[Sign_2]Rapid[END]
+[Sign_2]Rapid Gem[END]
 
 
 //Text $1AFFE8
@@ -10215,7 +9943,7 @@ an enemy.[LINE]
 
 //Text $1AFFD8
 #WRITE(ptr,$18DB2C)
-[Sign_2]Tension[END]
+[Sign_2]Tension Gem[END]
 
 
 //Text $1AFFA0
@@ -10227,7 +9955,7 @@ when you defeat an enemy.[LINE]
 
 //Text $1AFF90
 #WRITE(ptr,$18DB48)
-[Sign_2]Advance[END]
+[Sign_2]Advance Gem[END]
 
 
 //Text $1AFF58
@@ -10239,7 +9967,7 @@ front step.[LINE]
 
 //Text $1AFF48
 #WRITE(ptr,$18DB64)
-[Sign_2]Strict[END]
+[Sign_2]Strict Gem[END]
 
 
 //Text $1AFEF8
@@ -10251,7 +9979,7 @@ receive an attack).[END]
 
 //Text $1AFEE8
 #WRITE(ptr,$18DB80)
-[Sign_2]Absorb[END]
+[Sign_2]Absorb Gem[END]
 
 
 //Text $1AFEA0
@@ -10263,7 +9991,7 @@ receive an attack).[END]
 
 //Text $1AFE90
 #WRITE(ptr,$18DB9C)
-[Sign_2]Demons[END]
+[Sign_2]Demon Gem[END]
 
 
 //Text $1AFE60
@@ -10275,7 +10003,7 @@ However...[LINE]
 
 //Text $1AFE50
 #WRITE(ptr,$18DBB8)
-[Sign_2]Edge[END]
+[Sign_2]Edge Gem[END]
 
 
 //Text $1AFE20
@@ -10292,8 +10020,8 @@ However...[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DBD8)
-Do you have the power to impersonate Stahn?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Stahn?[LINE]
 [END]
 
 
@@ -10304,8 +10032,8 @@ Do you have the power to impersonate Stahn?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DBF4)
-Do you have the power to impersonate Rutee?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Rutee?[LINE]
 [END]
 
 
@@ -10316,8 +10044,8 @@ Do you have the power to impersonate Rutee?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC10)
-Do you have the power to impersonate Philia?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Philia?[LINE]
 [END]
 
 
@@ -10328,8 +10056,8 @@ Do you have the power to impersonate Philia?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC2C)
-Do you have the power to impersonate Garr?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Garr?[LINE]
 [END]
 
 
@@ -10340,8 +10068,8 @@ Do you have the power to impersonate Garr?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC48)
-Do you have the power to impersonate Leon?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Leon?[LINE]
 [END]
 
 
@@ -10352,8 +10080,8 @@ Do you have the power to impersonate Leon?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC64)
-Do you have the power to impersonate Mary?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Mary?[LINE]
 [END]
 
 
@@ -10364,8 +10092,8 @@ Do you have the power to impersonate Mary?[LINE]
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC80)
-Do you have the power to impersonate Chelsea?[LINE]
-[LINE]
+Do you have the power[LINE]
+to impersonate Chelsea?[LINE]
 [END]
 
 
@@ -10523,7 +10251,7 @@ obsolete, it's still a human milestone.[END]
 #WRITE(ptr,$18DF4C)
 An axe made of copper with excellent[LINE]
 erosion resistance. This metal was used[LINE]
-since the days of the Aeth'r War.[END]
+since the age of the Aeth'er War.[END]
 
 
 //Text $1B28C8
@@ -10533,9 +10261,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2888
 #WRITE(ptr,$18DF88)
-さまざまな構造物に使われる[LINE]
-鉄製の斧。[LINE]
-もっとも身近な金属。[END]
+An axe made of iron. This metal[LINE]
+is used in a variety of structures.[LINE]
+The most common metal.[END]
 
 
 //Text $1B2870
@@ -10545,9 +10273,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2840
 #WRITE(ptr,$18DFC4)
-鉄に炭素を混ぜてできる合金。[LINE]
-鋼製の斧。[LINE]
-[END]
+An axe made of steel.[LINE]
+Steel is an alloy formed by[LINE]
+mixing iron with carbon.[END]
 
 
 //Text $1B2828
@@ -10557,9 +10285,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B27D8
 #WRITE(ptr,$18E000)
-さまざまな用途に使われる[LINE]
-チタン製の斧。[LINE]
-非常に軽く、並外れた耐食性を持つ。[END]
+This axe is used for a variety[LINE]
+of tasks. It is very light, with[LINE]
+extraordinary corrosion resistance.[END]
 
 
 //Text $1B27C0
@@ -10569,8 +10297,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2790
 #WRITE(ptr,$18E03C)
-銀細工で装飾された斧。[LINE]
-白い輝きが美しい。[LINE]
+An axe adorned with silverwork.[LINE]
+It has a beautiful white shine[LINE]
 [END]
 
 
@@ -10581,9 +10309,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2740
 #WRITE(ptr,$18E078)
-金をふんだんに混ぜて作られた斧。[LINE]
-別名「豪華な斧」。[LINE]
-[END]
+An axe made by using a rich[LINE]
+mixture of gold. It's also known[LINE]
+as the "Luxurious Axe".[END]
 
 
 //Text $1B2728
@@ -10593,9 +10321,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B26E0
 #WRITE(ptr,$18E0B4)
-ミスリルを用いて鍛え上げた斧。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
+An axe forged with mithril.[LINE]
+It is said to be a product of[LINE]
+the Dwarves.[END]
 
 
 //Text $1B26C8
@@ -10605,9 +10333,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
-非常に扱いやすい小型の斧。[LINE]
-少し力があれば片手でも軽々[LINE]
-扱うことが可能。[END]
+A small axe that is very easy to.[LINE]
+handle. You can even wield it with[LINE]
+one hand with a bit of strength.[END]
 
 
 //Text $1B2668
@@ -10617,9 +10345,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2628
 #WRITE(ptr,$18E12C)
-切れ味鋭い肉厚の斧。[LINE]
-その名の通り、[LINE]
-戦闘用に特化されている。[END]
+A thick-walled axe with a sharp[LINE]
+edge. As its name suggests, it[LINE]
+is specialized for battle.[END]
 
 
 //Text $1B2610
@@ -10641,9 +10369,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2548
 #WRITE(ptr,$18E1A4)
-三日月の形を模した斧。[LINE]
-乳白色の刃は闇で振るうと[LINE]
-より月のように見えるらしい。[END]
+An axe shaped like a crescent moon.[LINE]
+This milky-white blade looks more like[LINE]
+a moon when wielded in the dark.[END]
 
 
 //Text $1B2530
@@ -10653,9 +10381,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B24D8
 #WRITE(ptr,$18E1E0)
-刃の反対側に尻尾のように伸びた[LINE]
-切っ先が特徴の斧。[LINE]
-地面に突き刺すために使われる。[END]
+An axe whose edge extends to[LINE]
+the other side of the blade. Used[LINE]
+for thrusting into the ground.[END]
 
 
 //Text $1B24C0
@@ -10665,9 +10393,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2480
 #WRITE(ptr,$18E21C)
-対剣士用に作られた斧。[LINE]
-刃の隙間は剣を引っ掛け[LINE]
-折るためのもの。[END]
+An axe designed to fight swordsmen.[LINE]
+The gap in its edge is used for[LINE]
+hooking and breaking swords.[END]
 
 
 //Text $1B2468
@@ -10677,9 +10405,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2410
 #WRITE(ptr,$18E258)
-特徴的な薄く丸い刃を持つ斧。[LINE]
-力のない者が振るっても[LINE]
-容易く肉を裂けられるほど鋭い。[END]
+An axe characterized by its thin,[LINE]
+round edge. It can easily cut flesh,[LINE]
+even with little strength.[END]
 
 
 //Text $1B23F8
@@ -10689,9 +10417,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B23A0
 #WRITE(ptr,$18E294)
-名工ギースの魂がこもった[LINE]
-無二の傑作。きわめて希少価値が[LINE]
-高く、戦士たちの憧れの斧。[END]
+A masterpiece filled with the soul[LINE]
+of master craftsman Keith. It's [LINE]
+valuable. A warrior's dream axe.[END]
 
 
 //Text $1B2388
@@ -10701,9 +10429,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
-「切るための道具」[LINE]
-という意味の名を持つ斧。[LINE]
-扱いが上手ければ投げることも可能。[END]
+An axe whose name means[LINE]
+"A tool for cutting". If you're[LINE]
+skillful, you can throw it.[END]
 
 
 //Text $1B2320
@@ -10713,9 +10441,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
-非常に重く、鋭い切っ先を持つ斧。[LINE]
-重装備の鎧でさえ打ち砕ける。[LINE]
-[END]
+A heavy axe with a shart cutting[LINE]
+edge. Can shatter even the heaviest[LINE]
+of armors.[END]
 
 
 //Text $1B22C0
@@ -10725,9 +10453,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2278
 #WRITE(ptr,$18E348)
-先端が槍状になっている斧。[LINE]
-斬るだけでなく[LINE]
-刺すこともできる優秀な斧。[END]
+An axe with a spear-shaped tip.[LINE]
+Not only can it cut, but it can also[LINE]
+stab.[END]
 
 
 //Text $1B2260
@@ -10737,9 +10465,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2220
 #WRITE(ptr,$18E384)
-斧刃と鈎爪を併せ持つ斧。[LINE]
-馬上の敵を引きずり下ろすのに有効。[LINE]
-[END]
+An axe with an edge and a[LINE]
+hooked claw. Used to drag[LINE]
+down foes on horseback.[END]
 
 
 //Text $1B2208
@@ -10749,8 +10477,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B21C8
 #WRITE(ptr,$18E3C0)
-斧頭が目の形をしていることから[LINE]
-この名がつけられた大型の斧。[LINE]
+An axe whose name comes[LINE]
+from its eye-shaped axe head.[LINE]
 [END]
 
 
@@ -10761,9 +10489,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2160
 #WRITE(ptr,$18E3FC)
-アイアックスを[LINE]
-より扱いやすくした斧。[LINE]
-攻撃力もアップし軽量化も図られた。[END]
+An improved Eye Axe that is[LINE]
+easier to handle. The attack power[LINE]
+has increased and it weights less.[END]
 
 
 //Text $1B2148
@@ -10773,9 +10501,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2100
 #WRITE(ptr,$18E438)
-大地の名で呼ばれる斧。[LINE]
-華奢な形状からは想像できない[LINE]
-威力を持つ。[END]
+An axe is named after the Earth.[LINE]
+Its slender shape belies its power.[LINE]
+[END]
 
 
 //Text $1B20E8
@@ -10785,9 +10513,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2098
 #WRITE(ptr,$18E474)
-伝説に登場する幻想の力を秘めた斧。[LINE]
-口伝を書物にまとめた兄弟の名を[LINE]
-冠する。[END]
+An axe with legendary powers that[LINE]
+appears in folklore. It bears the name of[LINE]
+the brothers who recorded oral traditions.[END]
 
 
 //Text $1B2088
@@ -10797,9 +10525,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B2048
 #WRITE(ptr,$18E4B0)
-三日月型の斧頭が特徴の戦斧。[LINE]
-少ない金属で作ることが可能な斧。[LINE]
-[END]
+An axe with a crescent-shaped head.[LINE]
+It can be made with a small amount[LINE]
+of metal.[END]
 
 
 //Text $1B2038
@@ -10809,9 +10537,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1FF0
 #WRITE(ptr,$18E4EC)
-金属で強化することで[LINE]
-強度を上げた斧。[LINE]
-日常の道具としても使用可能。[END]
+An axe reinforced with metal[LINE]
+for extra strength. Can be[LINE]
+used as an everday tool.[END]
 
 
 //Text $1B1FE0
@@ -10821,9 +10549,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1F98
 #WRITE(ptr,$18E528)
-斧頭がノミのようになっている斧。[LINE]
-見た目の優美さと異なり、[LINE]
-刃先は鋭い。[END]
+An axe with a chisel-shaped head.[LINE]
+Contrary to its graceful appearance,[LINE]
+it's actually quite sharp.[END]
 
 
 //Text $1B1F88
@@ -10833,9 +10561,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1F40
 #WRITE(ptr,$18E564)
-タフレンズが埋め込まれた[LINE]
-半月型の斧。豪華な作りだが[LINE]
-切れ味は鋭い。[END]
+A half-moon shaped axe with[LINE]
+a tough lens embedded. It's[LINE]
+luxurious, but sharp.[END]
 
 
 //Text $1B1F30
@@ -10845,9 +10573,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1EE0
 #WRITE(ptr,$18E5A0)
-植物のような装飾をされた戦斧。[LINE]
-装飾のわりに軽量なため、[LINE]
-殴打武器としても優秀。[END]
+A battle axe decorated to look[LINE]
+like a plant. It's light, but is an[LINE]
+excellent bludgeoning tool.[END]
 
 
 //Text $1B1ED0
@@ -10857,9 +10585,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1E78
 #WRITE(ptr,$18E5DC)
-刃が上向きになっている斧。[LINE]
-透明感のある美しい刃は、[LINE]
-祭事用に使われていた時の名残。[END]
+An axe with an upturned blade.[LINE]
+Its beautiful, clear blade is a[LINE]
+remnant from its use in rituals.[END]
 
 
 //Text $1B1E68
@@ -10869,21 +10597,21 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1E20
 #WRITE(ptr,$18E618)
-三日月型の幅広い斧頭を持つ戦斧。[LINE]
-敵を切断するのに特化している。[LINE]
-[END]
+A battle axe with a broad,[LINE]
+crescent-shaped head. Specializes[LINE]
+in cutting down foes.[END]
 
 
 //Text $1B1E08
 #WRITE(ptr,$18E650)
-[Sign_Sword]Luverie Axe[END]
+[Sign_Sword]Reverie Axe[END]
 
 
 //Text $1B1DB8
 #WRITE(ptr,$18E654)
-空想を意味する斧。[LINE]
-手にした者の想いを力に変える。[LINE]
-選ばれた者のみが手にできる。[END]
+An axe that signifies a fantasy. It[LINE]
+transforms the user's thoughts into[LINE]
+power. Only the chosen may wield it.[END]
 
 
 //Text $1B1DA8
@@ -10893,9 +10621,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1D60
 #WRITE(ptr,$18E690)
-食物繊維が豊富なさつまいも。[LINE]
-低温でじっくり加熱すると[LINE]
-甘みが増す。[END]
+Sweet potatoes are rich in fiber.[LINE]
+Cook it at low temperatures to[LINE]
+increase its sweetness.[END]
 
 
 //Text $1B1D48
@@ -10905,8 +10633,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1D10
 #WRITE(ptr,$18E6CC)
-木製の小型弓。[LINE]
-初心者用の弓として広く扱われる。[LINE]
+A small wooden bow.[LINE]
+A beginner's best friend.[LINE]
 [END]
 
 
@@ -10917,8 +10645,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1CC8
 #WRITE(ptr,$18E708)
-鉄に炭素を混ぜてできる合金、[LINE]
-鋼製の小型弓。[LINE]
+A small bow made of steel.[LINE]
+[LINE]
 [END]
 
 
@@ -10929,8 +10657,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1C80
 #WRITE(ptr,$18E744)
-さまざまな用途に使われる、[LINE]
-チタン製の小型弓。[LINE]
+A small bow made of titanium.[LINE]
+[LINE]
 [END]
 
 
@@ -10941,8 +10669,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1C38
 #WRITE(ptr,$18E780)
-銀細工で装飾された小型弓。[LINE]
-白い輝きが美しい。[LINE]
+A small bow decorated with silver.[LINE]
+It shines beautifully. [LINE]
 [END]
 
 
@@ -10953,8 +10681,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1BE8
 #WRITE(ptr,$18E7BC)
-８割が金で作られた小型弓。[LINE]
-別名「豪華な小型弓」。[LINE]
+A small bow made of 80 percent gold.[LINE]
+Also known as "The Beautiful Bow."[LINE]
 [END]
 
 
@@ -10965,9 +10693,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1B88
 #WRITE(ptr,$18E7F8)
-ミスリルを用いて鍛え上げた小型弓。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
+Weaved of the finest mithril,[LINE]
+this small bow is a work of art[LINE]
+created by dwarven craftsmen.[END]
 
 
 //Text $1B1B70
@@ -10977,8 +10705,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1B38
 #WRITE(ptr,$18E834)
-猟師が好んで使う弓の小型版。[LINE]
-安価な割りに性能は高い。[LINE]
+A smaller version of a hunter's bow.[LINE]
+Good performance at an affordable price![LINE]
 [END]
 
 
@@ -10989,9 +10717,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1AD0
 #WRITE(ptr,$18E870)
-その名の通り戦闘に特化した小型弓。[LINE]
-強度があり、敵の攻撃を受けても[LINE]
-歪みにくい。[END]
+A combat oriented bow.[LINE]
+Holds together even when[LINE]
+struck by enemy attacks.[END]
 
 
 //Text $1B1AB8
@@ -11001,8 +10729,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1A90
 #WRITE(ptr,$18E8AC)
-一撃必中。[LINE]
-暗殺に特化された小型弓。[LINE]
+It only takes one shot.[LINE]
+A small bow made for assassins.[LINE]
 [END]
 
 
@@ -11013,9 +10741,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
-鷹の爪を模した弧を描いた小型弓。[LINE]
-天高く飛ぶ鳥も射ぬけると[LINE]
-言われている。[END]
+A small bow with an arch that resembles[LINE]
+a hawk's claw. It is said to be able to shoot[LINE]
+birds flying high in the sky.[END]
 
 
 //Text $1B1A18
@@ -11025,10 +10753,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B19C0
 #WRITE(ptr,$18E924)
-名工ギースの魂がこもった[LINE]
-無二の傑作。きわめて希少価値が[LINE]
-高く、戦士たちの憧れの小型弓。[END]
-
+An unparalleled masterpiece that contains[LINE]
+the soul of Gies, a master craftsman.[LINE]
+An irreplaceable treasure to any archer.[END]
 
 //Text $1B19A8
 #WRITE(ptr,$18E95C)
@@ -11037,8 +10764,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1970
 #WRITE(ptr,$18E960)
-全てのパーツを異なった木材で[LINE]
-組み合わせた小型弓。[LINE]
+A small meshwork bow made [LINE]
+from a variety of woods.[LINE]
 [END]
 
 
@@ -11049,8 +10776,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1918
 #WRITE(ptr,$18E99C)
-エルフ族が愛用したと言われている[LINE]
-小型弓。羽のように軽い。[LINE]
+A small bow said to be used by elves.[LINE]
+It is as light as a feather.[LINE]
 [END]
 
 
@@ -11061,9 +10788,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B18A8
 #WRITE(ptr,$18E9D8)
-三日月の形を模した小型弓。[LINE]
-その美しさに獣たちも動きを止める。[LINE]
-と、言われている。[END]
+A small bow in the shape of a crescent moon.[LINE]
+It is said that even the mighiest beasts[LINE]
+are paralyzed by its beauty.[END]
 
 
 //Text $1B1890
@@ -11073,9 +10800,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1838
 #WRITE(ptr,$18EA14)
-無敵を誇った弓兵が使用していた、[LINE]
-と言われる弓の小型版。[LINE]
-別名「狂戦士の弓」小型版。[END]
+A smaller version of "The Madman's Bow."[LINE]
+The originals were owned by archers[LINE]
+claiming to be invincible.[END]
 
 
 //Text $1B1820
@@ -11085,9 +10812,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B17D0
 #WRITE(ptr,$18EA50)
-伝説に登場する幻想の力を秘めた[LINE]
-小型弓。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+An small bow named after two Brothers.[LINE]
+Its power of illusion may make you feel[LINE]
+like you are the huntsman himself.[END]
 
 
 //Text $1B17B0
@@ -11097,9 +10824,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1750
 #WRITE(ptr,$18EA8C)
-情熱的で美しい女戦士が愛用して[LINE]
-いた弓の小型版。針の穴をも通す[LINE]
-ことから、この名がつけられた。[END]
+A smaller version of a bow used by[LINE]
+passionate and beautiful female warriors.[LINE]
+Its precision could thread a needle.[END]
 
 
 //Text $1B1738
@@ -11109,8 +10836,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1700
 #WRITE(ptr,$18EAC8)
-必殺必中。稲妻のような速さで[LINE]
-狙った獲物を貫く小型弓。[LINE]
+What a deadly shot! This small bow [LINE]
+fires arrows at lightning speed![LINE]
 [END]
 
 
@@ -11121,8 +10848,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B16A0
 #WRITE(ptr,$18EB04)
-この弓で射抜いた者の魂を吸い上げ[LINE]
-所有者の力にすると言われている。[LINE]
+A diabolical weapon that turns the souls[LINE]
+of those it slays into power for its wielder.[LINE]
 [END]
 
 
@@ -11133,9 +10860,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1630
 #WRITE(ptr,$18EB40)
-遥か昔に落ちた隕石から作られた[LINE]
-小型弓。その素材の成分は[LINE]
-解明されていない。[END]
+A small bow made from an ancient[LINE]
+meteorite. It's unique craftsmanship[LINE]
+baffle trasemen to this day.[END]
 
 
 //Text $1B1610
@@ -11145,9 +10872,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B15B8
 #WRITE(ptr,$18EB7C)
-運命を意味する小型弓。[LINE]
-手にした者の望む運命を呼び寄せる。[LINE]
-選ばれた者のみが手にできる。[END]
+A small bow that symbolizes destiny.[LINE]
+Those who use it can bend fate to their will.[LINE]
+Only those who are worthy may wield it.[END]
 
 
 //Text $1B15A8
@@ -11157,9 +10884,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1558
 #WRITE(ptr,$18EBB8)
-いぼがチクチクするものほど新鮮な証。[LINE]
-未熟なうちに収穫するのがポイント。[LINE]
-[END]
+The more prickly the warts, the fresher they are.[LINE]
+The key is to harvest them while they are still[LINE]
+immature.[END]
 
 
 //Text $1B1540
@@ -11169,8 +10896,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1510
 #WRITE(ptr,$18EBF4)
-さまざまな構造物に使われる[LINE]
-鉄製のナックル。[LINE]
+Knuckles made of iron.[LINE]
+[LINE]
 [END]
 
 
@@ -11181,8 +10908,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B14C8
 #WRITE(ptr,$18EC30)
-さまざまな用途に使われる[LINE]
-チタン製のナックル。[LINE]
+Knuckles made of titanium.[LINE]
+[LINE]
 [END]
 
 
@@ -11193,8 +10920,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1478
 #WRITE(ptr,$18EC6C)
-銀細工で装飾されたナックル。[LINE]
-白い輝きが美しい。[LINE]
+Knuckles decorated with silver.[LINE]
+Reminiscent of a pure white glove.[LINE]
 [END]
 
 
@@ -11205,8 +10932,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1428
 #WRITE(ptr,$18ECA8)
-金をふんだんに混ぜて作られた。[LINE]
-別名「豪華な拳」。[LINE]
+Knuckles made with a large portion of gold.[LINE]
+They are also known as "The Fabulous Fists."[LINE]
 [END]
 
 
@@ -11217,9 +10944,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B13D0
 #WRITE(ptr,$18ECE4)
-ミスリルを用いて鍛え上げた。[LINE]
-ドワーフ族の芸術作品といわれる。[LINE]
-[END]
+Weaved of the finest mithril,[LINE]
+these knuckles are works of art[LINE]
+created by dwarven craftsmen.[END]
 
 
 //Text $1B13B8
@@ -11229,8 +10956,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1378
 #WRITE(ptr,$18ED20)
-拳の部分を厚く強化したナックル。[LINE]
-素の拳より３割増で強くなる。[LINE]
+These reinforced knuckles are 30%[LINE]
+more durrable than your bare fists![LINE]
 [END]
 
 
@@ -11241,9 +10968,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1308
 #WRITE(ptr,$18ED5C)
-殴るより刺すことに重点を置いた[LINE]
-ナックル。針の分リーチが長いので[LINE]
-大振りな人にお勧め。[END]
+Knuckles focused on stabbing rather[LINE]
+than punching. The length of the needles[LINE]
+makes it better for people with large swings.[END]
 
 
 //Text $1B12F0
@@ -11253,9 +10980,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B12A0
 #WRITE(ptr,$18ED98)
-ダイヤを磨き刃にした美しい[LINE]
-ナックル。鋭くて硬いため、[LINE]
-とてつもなく痛い。[END]
+Beautiful knuckles with diamond polished[LINE]
+blades. Sharp, hard and hurts like hell![LINE]
+[END]
 
 
 //Text $1B1288
@@ -11265,9 +10992,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1228
 #WRITE(ptr,$18EDD4)
-名工ギースの魂がこもった[LINE]
-無二の傑作。きわめて希少価値が[LINE]
-高く、戦士たちの憧れのナックル。[END]
+An unparalleled masterpiece that contains[LINE]
+the soul of Gies, a master craftsman.[LINE]
+An irreplaceable treasure to any warrior.[END]
 
 
 //Text $1B1210
@@ -11277,9 +11004,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B11C8
 #WRITE(ptr,$18EE10)
-熊の手を模したナックル。[LINE]
-使用されている獣毛は本物で、[LINE]
-ちょっと臭い。[END]
+Ready to fight bear handed?[LINE]
+The fur is from an actual bear![LINE]
+It's a bit smelly...[END]
 
 
 //Text $1B11B0
@@ -11289,9 +11016,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1150
 #WRITE(ptr,$18EE4C)
-アクアヴェイルの伝説に登場する、[LINE]
-ドラゴンをイメージしたナックル。[LINE]
-鉤爪があり、引掻くのも有効。[END]
+Knuckles made in the image of a dragon[LINE]
+from Aquavale legends. It will bite into[LINE]
+and tear apart your opponents.[END]
 
 
 //Text $1B1138
@@ -11301,8 +11028,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B10F0
 #WRITE(ptr,$18EE88)
-初代チャンピオンが愛用していたと[LINE]
-言われている由緒あるナックル。[LINE]
+Venerable knuckles that were said[LINE]
+to have been used by the first champion.[LINE]
 [END]
 
 
@@ -11313,9 +11040,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1080
 #WRITE(ptr,$18EEC4)
-伝説に登場する幻想の力を秘めた[LINE]
-ナックル。口伝を書物にまとめた[LINE]
-兄弟の名を冠する。[END]
+Knuckles with the power of illusions.[LINE]
+It bears the name of two brothers[LINE]
+who transcribed many legends.[END]
 
 
 //Text $1B1070
@@ -11325,9 +11052,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B1018
 #WRITE(ptr,$18EF00)
-悪意を意味するナックル。[LINE]
-角で切り裂き、毒を注いで敵の[LINE]
-動きを麻痺させる凶悪な武器。[END]
+Knuckles of pure mallice.[LINE]
+This weapon tears flesh with its horns,[LINE]
+then pours in a paralyzing poison.[END]
 
 
 //Text $1B1000
@@ -11337,9 +11064,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
-どこで殴っても敵に致命傷を[LINE]
-与える恐ろしいナックル。[LINE]
-「威力組織」の意味を有する。[END]
+Terrifying knuckles that will deal[LINE]
+a lethal blow no matter where they hit.[LINE]
+It's name means "A Powerful Organization."[END]
 
 
 //Text $1B0F90
@@ -11349,8 +11076,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0F50
 #WRITE(ptr,$18EF78)
-神の兵器と名付けられたナックル。[LINE]
-輝く拳は全ての悪を打ち砕く。[LINE]
+Knuckles that are akin to God's wrath.[LINE]
+These shining fists crush all evil.[LINE]
 [END]
 
 
@@ -11361,9 +11088,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0EE0
 #WRITE(ptr,$18EFB4)
-世界を意味するナックル。[LINE]
-望めば世界を牛耳る力を得る。[LINE]
-選ばれた者のみが手にできる。[END]
+These knuckles represent the world.[LINE]
+With their power, you could conquer all.[LINE]
+Only the mightist of men can wield them.[END]
 
 
 //Text $1B0ED0
@@ -11373,9 +11100,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
-撥弦楽器のひとつ。[LINE]
-鼈甲やセルロイド製の爪で弾いて[LINE]
-演奏する。[END]
+An offshoot of the lute.[LINE]
+Its strings are plucked with a pick[LINE]
+made of a tortoiseshell.[END]
 
 
 //Text $1B0E80
@@ -11385,9 +11112,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-口琴の一種。[LINE]
-アクアヴェイルで流行した楽器。[LINE]
-針のような鉄を指で弾いて鳴らす。[END]
+An instrument that became popular in Aquavale[LINE]
+It is general plucked with a bachi instead of fingers.[LINE]
+It is often used while telling stories.[END]
 
 
 //Text $1B0E20
@@ -11397,9 +11124,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0DE0
 #WRITE(ptr,$18F068)
-撥弦楽器のひとつ。[LINE]
-二本一組みに張られた[LINE]
-多数の弦をもつ。[END]
+The instrument of a Bard.[LINE]
+It has many stings that are [LINE]
+strung in pairs.[END]
 
 
 //Text $1B0DD0
@@ -11409,9 +11136,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0D80
 #WRITE(ptr,$18F0A4)
-撥弦楽器のひとつ。[LINE]
-左手の指で弦を押さえて音程を調え、[LINE]
-爪やピックで弦を弾く。[END]
+The instruments of stars.[LINE]
+You press down the strings[LINE]
+and pluck them with a pick.[END]
 
 
 //Text $1B0D70
@@ -11421,9 +11148,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0D28
 #WRITE(ptr,$18F0E0)
-撥弦楽器のひとつ。[LINE]
-棹に貼った三弦を撥を用いて奏する。[LINE]
-ぺんぺん。[END]
+A string instrument originally from Aquavale.[LINE]
+Its three strings are plucked with a plectrum.[LINE]
+Peng! Peng![END]
 
 
 //Text $1B0D08
@@ -11433,9 +11160,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0CB0
 #WRITE(ptr,$18F11C)
-無限を意味するギター。[LINE]
-その音色は銀河の彼方まで届く。[LINE]
-選ばれた者のみが手にできる。[END]
+A guitar of infinite potential.[LINE]
+Its tone reaches the depths of space.[LINE]
+It can only be weilded by the chosen one.[END]
 
 
 //Text $1B0C98
@@ -11445,9 +11172,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0C50
 #WRITE(ptr,$18F158)
-実に含まれる糖分が多い[LINE]
-とうもろこし。[LINE]
-新鮮なうちに食べるほど甘い。[END]
+Corn with high sugar content in the kernels.[LINE]
+The fresher it is, the sweeter it is.[LINE]
+[END]
 
 
 //Text $1B0C40
@@ -11457,8 +11184,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0BF8
 #WRITE(ptr,$18F194)
-どこの家庭にもある一般的なおたま。[LINE]
-叩かれたらそれなりに痛いです。[LINE]
+A common ladle found in every home.[LINE]
+A standard for corporal punishment.[LINE]
 [END]
 
 
@@ -11469,8 +11196,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0BA8
 #WRITE(ptr,$18F1D0)
-ちょっと高価な銅製のおたま。[LINE]
-銅は熱伝導率が高いのですが……[LINE]
+A rather expensive copper ladle.[LINE]
+Wait, doesn't copper conduct a lot of heat?[LINE]
 [END]
 
 
@@ -11481,8 +11208,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0B60
 #WRITE(ptr,$18F20C)
-珍しい銀製のおたま。[LINE]
-銀製品はこまめなお手入れが肝心！[LINE]
+A rare Silver Ladle.[LINE]
+Make sure to take care of your silverware![LINE]
 [END]
 
 
@@ -11493,8 +11220,8 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0B10
 #WRITE(ptr,$18F248)
-金持ちの証し！ 金製のおたま。[LINE]
-調理道具というより飾り用。[LINE]
+A ladle made of gold, to flex your Gald.[LINE]
+Disclaimer: Not for cooking.[LINE]
 [END]
 
 
@@ -11505,9 +11232,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0A98
 #WRITE(ptr,$18F284)
-熱狂的な料理ファンのための[LINE]
-究極のおたま。実際に[LINE]
-料理が美味しくなるかどうかは不明。[END]
+An unrivaled ladle for cooking enthusiasts![LINE]
+I'm not certain it will make your food taste[LINE]
+any better...[END]
 
 
 //Text $1B0A88
@@ -11517,9 +11244,9 @@ since the days of the Aeth'r War.[END]
 
 //Text $1B0A38
 #WRITE(ptr,$18F2C0)
-カロテンを豊富に含むにんじん。[LINE]
-バターや油で調理すると[LINE]
-吸収が促進される。[END]
+Carrots are rich in carotene.[LINE]
+Absorbtion is improved if you[LINE]
+cook it in butter or oil.[END]
 
 
 //Section Armor
@@ -15399,9 +15126,9 @@ While on the field, press[LINE]
 
 //Text $1BAF10
 #WRITE(ptr,$192734)
-An encyclopedia of enemies you've encountered.[LINE]
-In battle, hold [R1_copy] and press[LINE]
-[Circle_ani2] to view the enemy's entry.[END]
+An encyclopedia of enemies you've[LINE]
+encountered. In battle, hold [R1_copy] and[LINE]
+press [Circle_ani2] to view the enemy's entry.[END]
 
 
 //Text $1BAF00
@@ -15442,7 +15169,7 @@ something good might happen...[END]
 
 //Text $1BADE8
 #WRITE(ptr,$1927A0)
-[Sign_Key]Summary Book[END]
+[Sign_Key]Story Book[END]
 
 
 //Text $1BADB8
@@ -16251,12 +15978,12 @@ When someone is KO'd[END]
 
 //Text $1BBBB8
 #WRITE(ptr,$1946C0)
-After battle, if average party's HP [lessequal] [TAG_015]％[END]
+After battle, if Party's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBBA0
 #WRITE(ptr,$1946C4)
-After battle, if one party member's HP [lessequal] [TAG_015]％[END]
+After battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBB88
@@ -16286,18 +16013,19 @@ In battle, cures [TAG_015] once[END]
 
 //Text $1BBAE8
 #WRITE(ptr,$1946DC)
+[LINE] [LINE]
 When hit by a [TAG_015] elemental attack,[LINE]
 increases resistance to [TAG_015][END]
 
 
 //Text $1BBAC0
 #WRITE(ptr,$1946E0)
-In battle, if average party's HP [lessequal] [TAG_015]％[END]
+In battle, if Party's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBAA0
 #WRITE(ptr,$1946E4)
-In battle, if one party member's HP [lessequal] [TAG_015]％[END]
+In battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 
 //Section Title
@@ -16444,7 +16172,7 @@ Quiz Club Member[END]
 
 //POINTER #43 @ $194754 - STRING #43 @ $1BEB48
 #WRITE(ptr,$194754)
-A club created out of intellectual desire[LINE]
+A club created out of an intellectual desire[LINE]
 to acquire all knowledge.[LINE]
 He is an active a member.[END]
 
@@ -16728,8 +16456,9 @@ Maiden’s Gaze[END]
 //POINTER #97 @ $19482C - STRING #97 @ $1BE170
 #WRITE(ptr,$19482C)
 The eyes of a woman in love.[LINE]
-Those who see here eyes might be misled.[LINE]
-勘違いするかも。[END]
+Those who see her eyes might be misled.[LINE]
+[END]
+
 
 //POINTER #98 @ $194830 - STRING #98 @ $1BE158
 #WRITE(ptr,$194830)
@@ -16808,10 +16537,11 @@ The Dashing Priestess.[END]
 #WRITE(ptr,$194868)
 Quiz Club Director[END]
 
+#JMP($1BB628)
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
-The club was established out of her boundless intellectual[LINE]
-desire to experience all the knowledge in the world.[LINE]
+A club created out of an intellectual[LINE]
+desire to acquire all knowledge.[LINE]
 As the head of its women's division, she has reigned ever since.[END]
 
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
@@ -16900,7 +16630,6 @@ Beloved by his peers.[END]
 #WRITE(ptr,$1948B0)
 Royal Aura[END]
 
-#JMP($1BB628)
 //POINTER #131 @ $1948B4 - STRING #131 @ $1BDAF8
 #WRITE(ptr,$1948B4)
 One with a truly noble aura.[LINE]
@@ -16956,9 +16685,10 @@ Quiz Club Head[END]
 
 //POINTER #141 @ $1948DC - STRING #141 @ $1BD948
 #WRITE(ptr,$1948DC)
-A club created out of intellectual desire[LINE]
+A club created out of an intellectual desire[LINE]
 to acquire all knowledge. He struggles[LINE]
-as the head of department.[END]
+as the head of the men's division.[END]
+
 
 //POINTER #142 @ $1948E0 - STRING #142 @ $1BEB30
 #WRITE(ptr,$1948E0)
@@ -17191,7 +16921,7 @@ Quiz Club Old Girl[END]
 
 //POINTER #187 @ $194994 - STRING #187 @ $1BD008
 #WRITE(ptr,$194994)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 An old girl who once belonged to it.[END]
 
@@ -17334,7 +17064,7 @@ Quiz Club Junior[END]
 
 //POINTER #215 @ $194A04 - STRING #215 @ $1BCB18
 #WRITE(ptr,$194A04)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Please wait for me, senpai![END]
 
@@ -17479,7 +17209,7 @@ Quiz Club Coach[END]
 
 //POINTER #243 @ $194A74 - STRING #243 @ $1BC698
 #WRITE(ptr,$194A74)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Alright! We're knocking 100 questions![END]
 
@@ -17621,7 +17351,7 @@ Denied Club Member[END]
 
 //POINTER #271 @ $194AE4 - STRING #271 @ $1BC180
 #WRITE(ptr,$194AE4)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Don't say it... I'm NOT ALLOWED!?[END]
 
@@ -17724,7 +17454,7 @@ Quiz Fresh Student[END]
 
 //POINTER #291 @ $194B34 - STRING #291 @ $1BBDE8
 #WRITE(ptr,$194B34)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Nice to meet you all, I'm [Lilith] Aileron.[END]
 
@@ -17778,5 +17508,222 @@ Salesgirl[END]
 Each has his own business talent.[LINE]
 With a heartwarming smile.[LINE]
 I'll do my best everyday[END]
+
+
+//Section Attribute Items
+
+//Text $1BF450
+#WRITE(ptr,$194CD8)
+------[END]
+
+
+//Text $1BF448
+#WRITE(ptr,$194CDC)
+Usable[END]
+
+
+//Text $1BF448
+#WRITE(ptr,$194CE0)
+Usable[END]
+
+
+//Text $1BF440
+#WRITE(ptr,$194CE4)
+Other[END]
+
+
+//Text $1BF438
+#WRITE(ptr,$194CE8)
+保険[END]
+
+
+//Text $1BF430
+#WRITE(ptr,$194CEC)
+Ore[END]
+
+
+//Text $1BF420
+#WRITE(ptr,$194CF0)
+Recipe[END]
+
+
+//Text $1BF418
+#WRITE(ptr,$194CF4)
+Sword[END]
+
+
+//Text $1BF410
+#WRITE(ptr,$194CF8)
+Axe[END]
+
+
+//Text $1BF408
+#WRITE(ptr,$194CFC)
+Bow[END]
+
+
+//Text $1BF400
+#WRITE(ptr,$194D00)
+Strings[END]
+
+
+//Text $1BF3F0
+#WRITE(ptr,$194D04)
+Knuckles[END]
+
+
+//Text $1BF3E8
+#WRITE(ptr,$194D08)
+Ladle[END]
+
+
+//Text $1BF3D8
+#WRITE(ptr,$194D0C)
+Armor[END]
+
+
+//Text $1BF3C8
+#WRITE(ptr,$194D10)
+Plate[END]
+
+
+//Text $1BF3C0
+#WRITE(ptr,$194D14)
+Wear[END]
+
+
+//Text $1BF3B0
+#WRITE(ptr,$194D18)
+Cloak[END]
+
+
+//Text $1BF3A8
+#WRITE(ptr,$194D1C)
+Robe[END]
+
+
+//Text $1BF3A0
+#WRITE(ptr,$194D20)
+Jewel[END]
+
+
+//Text $1BF390
+#WRITE(ptr,$194D24)
+Unique[END]
+
+
+//Text $1BF388
+#WRITE(ptr,$194D28)
+Bracer[END]
+
+
+//Text $1BF378
+#WRITE(ptr,$194D2C)
+Gloves[END]
+
+
+//Text $1BF370
+#WRITE(ptr,$194D30)
+Pendant[END]
+
+
+//Text $1BF368
+#WRITE(ptr,$194D34)
+Longbow[END]
+
+
+//Text $1BF360
+#WRITE(ptr,$194D38)
+Dagger[END]
+
+
+//Text $1BF350
+#WRITE(ptr,$194D3C)
+Bandana[END]
+
+
+//Text $1BF348
+#WRITE(ptr,$194D40)
+Ribbon[END]
+
+
+//Text $1BF340
+#WRITE(ptr,$194D44)
+Hat[END]
+
+
+//Text $1BF338
+#WRITE(ptr,$194D48)
+Belt[END]
+
+
+//Text $1BF328
+#WRITE(ptr,$194D4C)
+Frypan[END]
+
+
+//Text $1BF320
+#WRITE(ptr,$194D50)
+Card[END]
+
+
+//Text $1BF318
+#WRITE(ptr,$194D54)
+Book[END]
+
+
+//Text $1BF308
+#WRITE(ptr,$194D58)
+Food Sack[END]
+
+
+//Text $1BF300
+#WRITE(ptr,$194D5C)
+Key[END]
+
+
+//Text $1BF2F8
+#WRITE(ptr,$194D60)
+Lens[END]
+
+
+//Text $1BF458
+#WRITE(ptr,$194D68)
+P. ATK[END]
+
+
+//Text $1BF460
+#WRITE(ptr,$194D6C)
+M. ATK[END]
+
+
+//Text $1BF498
+#WRITE(ptr,$194D70)
+P. DEF[END]
+
+
+//Text $1BF4A0
+#WRITE(ptr,$194D74)
+M. DEF[END]
+
+
+//Text $1BF470
+#WRITE(ptr,$194D78)
+ACC[END]
+
+
+//Text $1BF4B0
+#WRITE(ptr,$194D7C)
+EVA[END]
+
+
+//Text $1BF478
+#WRITE(ptr,$194D80)
+CRT[END]
+
+
+//Text $1BF4B8
+#WRITE(ptr,$194D84)
+VIT[END]
 
 
