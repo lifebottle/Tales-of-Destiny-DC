@@ -38,13 +38,13 @@ Ah...
 Shut up...
 Leave me alone.
 [ENDBLOCK]
-<1D>$<02> <14>m�, <1D>$<02>!<14>m�, <1D>$<02>$<02><14>m�
+<x1D><x24><x02><x20><x14><x6D><x80>, <x1D><x24><x02><x21><x14><x6D><x80>, <x1D><x24><x02><x24><x02><x14><x6D><x80>
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Stimulate the acupuncture points
-on your palms to get
+Stimulate the acupuncture
+points on your palms to get
 some relief. Here.
 [ENDBLOCK]
 <Lion>
@@ -76,7 +76,7 @@ What are you talking about?
 <Rutee>
 [ENDBLOCK]
 In the Shedeen cave. When the
-ground collapsed and Stahn and I fell in.
+ground collapsed and <Stahn> and I fell in.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -217,7 +217,7 @@ you want to say something.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

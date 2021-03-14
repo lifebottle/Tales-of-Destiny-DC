@@ -462,27 +462,28 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あの猫じゃないですか？
+Isn't that the cat?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうやら猫は、人も犬も
-恐いみたいね。
+It seems that cat is afraid
+of both people and dogs.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-犬は人になつくみたいだな。
-野犬だけど、大人しいよ。
+The dog seems to be friendly
+to people. He's a wild dog, 
+but he's gentle.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうだ、こうしましょ。
+Well, let's do this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>は逃げる猫を追いかける。
-あたしと<Stahn>は猫を追いかけずに
-待ち構えとくわ。
+<Mary> try chasing the cat. 
+<Stahn> and me will wait for
+the cat here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -491,36 +492,36 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ああ、分かった。
+Yeah, okay.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>と<Stahn>のところに
-猫ちゃんを誘導すればいいんだな。
+I guess I can just lead the cat
+to <Rutee> and <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい、お願いします。
+Yeah, that's good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ？	あきらめるんですか？
+Huh? You're giving up?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-猫探しを止めますか？
-はい
-いいえ
+Stop looking for cat?
+Yes
+No
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ん？	やめるの？
+Huh? You're giving up?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-猫探しを止めますか？
-はい
-いいえ
+Stop looking for cat?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
