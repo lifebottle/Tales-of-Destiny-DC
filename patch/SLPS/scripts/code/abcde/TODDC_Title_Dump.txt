@@ -6,7 +6,694 @@
 #VAR(ptr, CUSTOMPOINTER)
 #CREATEPTR(ptr, "LINEAR", $-FF000, 32)
 
-#JMP($1BB628)
+#JMP($1BB0A0)
+//Section Shop Name
+
+//Text $1BB618
+#WRITE(ptr,$1941E8)
+ジェノス[END]
+
+
+//Text $1BB608
+#WRITE(ptr,$1941EC)
+ハーメンツ[END]
+
+
+//Text $1BB5F8
+#WRITE(ptr,$1941F0)
+ダリルシェイド[END]
+
+
+//Text $1BB5E8
+#WRITE(ptr,$1941F4)
+アルメイダ[END]
+
+
+//Text $1BB5D8
+#WRITE(ptr,$1941F8)
+チェリク[END]
+
+
+//Text $1BB5C8
+#WRITE(ptr,$1941FC)
+カルビオラ[END]
+
+
+//Text $1BB5B8
+#WRITE(ptr,$194200)
+ノイシュタット[END]
+
+
+//Text $1BB5A8
+#WRITE(ptr,$194204)
+シデン領[END]
+
+
+//Text $1BB598
+#WRITE(ptr,$194208)
+モリュウ領[END]
+
+
+//Text $1BB588
+#WRITE(ptr,$19420C)
+トウケイ領[END]
+
+
+//Text $1BB578
+#WRITE(ptr,$194210)
+スノーフリア[END]
+
+
+//Text $1BB568
+#WRITE(ptr,$194214)
+サイリル[END]
+
+
+//Text $1BB558
+#WRITE(ptr,$194218)
+ハイデルベルグ[END]
+
+
+//Text $1BB550
+#WRITE(ptr,$19421C)
+リーネ[END]
+
+
+//Text $1BB540
+#WRITE(ptr,$194220)
+クレスタ[END]
+
+
+//Text $1BB530
+#WRITE(ptr,$194224)
+ジャンクランド[END]
+
+
+//Text $1BB520
+#WRITE(ptr,$194228)
+Radisrol[END]
+
+
+//Text $1BB510
+#WRITE(ptr,$19422C)
+オベロン社[END]
+
+
+//Text $1BB500
+#WRITE(ptr,$194230)
+ねこにんの村[END]
+
+
+//Text $1BB4F8
+#WRITE(ptr,$194234)
+行商人[END]
+
+
+//Text $1BB4F0
+#WRITE(ptr,$19423C)
+道具屋[END]
+
+
+//Text $1BB4E8
+#WRITE(ptr,$194240)
+食材屋[END]
+
+
+//Text $1BB4E0
+#WRITE(ptr,$194244)
+武器屋[END]
+
+
+//Text $1BB4D8
+#WRITE(ptr,$194248)
+防具屋[END]
+
+
+//Text $1BB4D0
+#WRITE(ptr,$19424C)
+装飾屋[END]
+
+
+//Text $1BB4C8
+#WRITE(ptr,$194250)
+武具屋[END]
+
+
+//Text $1BB4C0
+#WRITE(ptr,$194254)
+雑貨屋[END]
+
+
+//Text $1BB510
+#WRITE(ptr,$194258)
+オベロン社[END]
+
+
+//Text $1BB500
+#WRITE(ptr,$194230)
+ねこにんの村[END]
+
+
+//Text $1BB4F8
+#WRITE(ptr,$194234)
+行商人[END]
+
+
+//Text $1BB4F0
+#WRITE(ptr,$19423C)
+道具屋[END]
+
+
+//Text $1BB4E8
+#WRITE(ptr,$194240)
+食材屋[END]
+
+
+//Text $1BB4E0
+#WRITE(ptr,$194244)
+武器屋[END]
+
+
+//Text $1BB4D8
+#WRITE(ptr,$194248)
+防具屋[END]
+
+
+//Text $1BB4D0
+#WRITE(ptr,$19424C)
+装飾屋[END]
+
+
+//Text $1BB4C8
+#WRITE(ptr,$194250)
+武具屋[END]
+
+
+//Text $1BB4C0
+#WRITE(ptr,$194254)
+雑貨屋[END]
+
+
+//Text $1BB4B0
+#WRITE(ptr,$192C08)
+ウォームアップ[END]
+
+
+//Text $1BB4A0
+#WRITE(ptr,$192C40)
+ボーダーライン[END]
+
+
+//Text $1BB490
+#WRITE(ptr,$192C78)
+ブリザード[END]
+
+
+//Text $1BB488
+#WRITE(ptr,$192CB0)
+スノイ[END]
+
+
+//Text $1BB478
+#WRITE(ptr,$192CE8)
+サイグローグ[END]
+
+
+//Text $1BB468
+#WRITE(ptr,$192D20)
+いっぷく[END]
+
+
+//Text $1BB460
+#WRITE(ptr,$192D58)
+極楽鳥[END]
+
+
+//Text $1BB458
+#WRITE(ptr,$192D90)
+白騎士[END]
+
+
+//Text $1BB448
+#WRITE(ptr,$192DC8)
+ピッコロ[END]
+
+
+//Text $1BB438
+#WRITE(ptr,$192E00)
+天下太平[END]
+
+
+//Text $1BB430
+#WRITE(ptr,$192E38)
+七将軍[END]
+
+
+//Text $1BB420
+#WRITE(ptr,$192E70)
+騎士勲章[END]
+
+
+//Text $1BB410
+#WRITE(ptr,$192EA8)
+自分自身[END]
+
+
+//Text $1BB400
+#WRITE(ptr,$192EE0)
+中央本店[END]
+
+
+//Text $1BB448
+#WRITE(ptr,$192F18)
+ピッコロ[END]
+
+
+//Text $1BB438
+#WRITE(ptr,$192F50)
+天下太平[END]
+
+
+//Text $1BB430
+#WRITE(ptr,$192F88)
+七将軍[END]
+
+
+//Text $1BB420
+#WRITE(ptr,$192FC0)
+騎士勲章[END]
+
+
+//Text $1BB410
+#WRITE(ptr,$192FF8)
+自分自身[END]
+
+
+//Text $1BB448
+#WRITE(ptr,$193030)
+ピッコロ[END]
+
+
+//Text $1BB430
+#WRITE(ptr,$193068)
+七将軍[END]
+
+
+//Text $1BB420
+#WRITE(ptr,$1930A0)
+騎士勲章[END]
+
+
+//Text $1BB410
+#WRITE(ptr,$1930D8)
+自分自身[END]
+
+
+//Text $1BB448
+#WRITE(ptr,$193110)
+ピッコロ[END]
+
+
+//Text $1BB430
+#WRITE(ptr,$193148)
+七将軍[END]
+
+
+//Text $1BB420
+#WRITE(ptr,$193180)
+騎士勲章[END]
+
+
+//Text $1BB410
+#WRITE(ptr,$1931B8)
+自分自身[END]
+
+
+//Text $1BB3F0
+#WRITE(ptr,$1931F0)
+腹ごしらえ[END]
+
+
+//Text $1BB3E0
+#WRITE(ptr,$193228)
+旅人の友[END]
+
+
+//Text $1BB3D0
+#WRITE(ptr,$193260)
+ライトニング[END]
+
+
+//Text $1BB3C0
+#WRITE(ptr,$193298)
+バラライカ[END]
+
+
+//Text $1BB3C0
+#WRITE(ptr,$1932D0)
+バラライカ[END]
+
+
+//Text $1BB3B0
+#WRITE(ptr,$193308)
+恵みの大地[END]
+
+
+//Text $1BB3A0
+#WRITE(ptr,$193340)
+Oasis[END]
+
+
+//Text $1BB398
+#WRITE(ptr,$193378)
+Sandstorm[END]
+
+
+//Text $1BB388
+#WRITE(ptr,$1933B0)
+Burst of Energy[END]
+
+
+//Text $1BB380
+#WRITE(ptr,$1933E8)
+Moonlit Night[END]
+
+
+//Text $1BB370
+#WRITE(ptr,$193420)
+Lunar Desert[END]
+
+
+//Text $1BB360
+#WRITE(ptr,$193458)
+Silk Road[END]
+
+
+//Text $1BB350
+#WRITE(ptr,$193490)
+Northwest Branch[END]
+
+
+//Text $1BB348
+#WRITE(ptr,$1934C8)
+満腹亭[END]
+
+
+//Text $1BB330
+#WRITE(ptr,$193500)
+Give and Take[END]
+
+
+//Text $1BB320
+#WRITE(ptr,$193538)
+Arcadia[END]
+
+
+//Text $1BB318
+#WRITE(ptr,$193570)
+Silver Lining[END]
+
+
+//Text $1BB308
+#WRITE(ptr,$1935A8)
+Westland Branch[END]
+
+
+//Text $1BB2F8
+#WRITE(ptr,$1935E0)
+船上出張[END]
+
+
+//Text $1BB320
+#WRITE(ptr,$193618)
+アーケディア[END]
+
+
+//Text $1BB2E8
+#WRITE(ptr,$193650)
+けもの道[END]
+
+
+//Text $1BB2D8
+#WRITE(ptr,$193688)
+オリエント[END]
+
+
+//Text $1BB2D0
+#WRITE(ptr,$1936C0)
+黄金郷[END]
+
+
+//Text $1BB2C0
+#WRITE(ptr,$1936F8)
+家内安全[END]
+
+
+//Text $1BB2B0
+#WRITE(ptr,$193730)
+やどかり堂[END]
+
+
+//Text $1BB2A8
+#WRITE(ptr,$193768)
+水月花[END]
+
+
+//Text $1BB2A0
+#WRITE(ptr,$1937A0)
+海神[END]
+
+
+//Text $1BB298
+#WRITE(ptr,$1937D8)
+彩の色[END]
+
+
+//Text $1BB288
+#WRITE(ptr,$193810)
+名称未定[END]
+
+
+//Text $1BB288
+#WRITE(ptr,$193848)
+名称未定[END]
+
+
+//Text $1BB278
+#WRITE(ptr,$193880)
+うまい屋[END]
+
+
+//Text $1BB268
+#WRITE(ptr,$1938B8)
+明鏡止水[END]
+
+
+//Text $1BB258
+#WRITE(ptr,$1938F0)
+武陵桃源[END]
+
+
+//Text $1BB248
+#WRITE(ptr,$193928)
+大器晩成[END]
+
+
+//Text $1BB238
+#WRITE(ptr,$193960)
+花鳥風月[END]
+
+
+//Text $1BB230
+#WRITE(ptr,$193998)
+非常口[END]
+
+
+//Text $1BB230
+#WRITE(ptr,$1939D0)
+非常口[END]
+
+
+//Text $1BB228
+#WRITE(ptr,$193A08)
+雪割草[END]
+
+
+//Text $1BB220
+#WRITE(ptr,$193A40)
+雪迷宮[END]
+
+
+//Text $1BB218
+#WRITE(ptr,$193A78)
+雪月花[END]
+
+
+//Text $1BB210
+#WRITE(ptr,$193AB0)
+雪景色[END]
+
+
+//Text $1BB200
+#WRITE(ptr,$193AE8)
+雪解け水[END]
+
+
+//Text $1BB1F0
+#WRITE(ptr,$193B20)
+硝子の森[END]
+
+
+//Text $1BB1E8
+#WRITE(ptr,$193B58)
+氷大河[END]
+
+
+//Text $1BB1D8
+#WRITE(ptr,$193B90)
+ファーベント[END]
+
+
+//Text $1BB1C8
+#WRITE(ptr,$193BC8)
+サザンクロス[END]
+
+
+//Text $1BB1B8
+#WRITE(ptr,$193C00)
+ディスリガード[END]
+
+
+//Text $1BB1A8
+#WRITE(ptr,$193C38)
+悲しいお店[END]
+
+
+//Text $1BB198
+#WRITE(ptr,$193C70)
+永劫回帰[END]
+
+
+//Text $1BB188
+#WRITE(ptr,$193CA8)
+雪国支店[END]
+
+
+//Text $1BB178
+#WRITE(ptr,$193CE0)
+商売根性[END]
+
+
+//Text $1BB170
+#WRITE(ptr,$193D18)
+安息角[END]
+
+
+//Text $1BB160
+#WRITE(ptr,$193D50)
+にわとり館[END]
+
+
+//Text $1BB150
+#WRITE(ptr,$193D88)
+なかよし[END]
+
+
+//Text $1BB140
+#WRITE(ptr,$193DC0)
+花かんむり[END]
+
+
+//Text $1BB130
+#WRITE(ptr,$193DF8)
+良き旅人の杖[END]
+
+
+//Text $1BB120
+#WRITE(ptr,$193E30)
+ジャンクフード[END]
+
+
+//Text $1BB110
+#WRITE(ptr,$193E68)
+がらくた市場[END]
+
+
+//Text $1BB100
+#WRITE(ptr,$193EA0)
+変美畏女多留[END]
+
+
+//Text $1BB120
+#WRITE(ptr,$193ED8)
+ジャンクフード[END]
+
+
+//Text $1BB110
+#WRITE(ptr,$193F10)
+がらくた市場[END]
+
+
+//Text $1BB100
+#WRITE(ptr,$193F48)
+変美畏女多留[END]
+
+
+//Text $1BB0F8
+#WRITE(ptr,$193F80)
+にゃも[END]
+
+
+//Text $1BB0E8
+#WRITE(ptr,$193FB8)
+バランスアップ[END]
+
+
+//Text $1BB0D8
+#WRITE(ptr,$193FF0)
+コレクター[END]
+
+
+//Text $1BB0C8
+#WRITE(ptr,$194028)
+秘密兵器[END]
+
+
+//Text $1BB0C0
+#WRITE(ptr,$194060)
+機能美[END]
+
+
+//Text $1BB0B0
+#WRITE(ptr,$194098)
+オーダーメイド[END]
+
+
+//Text $1BB0E8
+#WRITE(ptr,$1940D0)
+バランスアップ[END]
+
+
+//Text $1BB0C8
+#WRITE(ptr,$194108)
+秘密兵器[END]
+
+
+//Text $1BB0C0
+#WRITE(ptr,$194140)
+機能美[END]
+
+
+//Text $1BB0B0
+#WRITE(ptr,$194178)
+オーダーメイド[END]
+
+
+//Text $1BB0A0
+#WRITE(ptr,$1941B0)
+フライハイ[END]
+
+
 //Section Other Food
 
 //Text $1BB920
@@ -382,12 +1069,12 @@ When someone is KO'd[END]
 
 //Text $1BBBB8
 #WRITE(ptr,$1946C0)
-After battle, if average party's HP [lessequal] [TAG_015]％[END]
+After battle, if Party's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBBA0
 #WRITE(ptr,$1946C4)
-After battle, if one party member's HP [lessequal] [TAG_015]％[END]
+After battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBB88
@@ -417,18 +1104,19 @@ In battle, cures [TAG_015] once[END]
 
 //Text $1BBAE8
 #WRITE(ptr,$1946DC)
+[LINE] [LINE]
 When hit by a [TAG_015] elemental attack,[LINE]
 increases resistance to [TAG_015][END]
 
 
 //Text $1BBAC0
 #WRITE(ptr,$1946E0)
-In battle, if average party's HP [lessequal] [TAG_015]％[END]
+In battle, if Party's HP [lessequal] [TAG_015]％[END]
 
 
 //Text $1BBAA0
 #WRITE(ptr,$1946E4)
-In battle, if one party member's HP [lessequal] [TAG_015]％[END]
+In battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 
 //Section Title
@@ -575,7 +1263,7 @@ Quiz Club Member[END]
 
 //POINTER #43 @ $194754 - STRING #43 @ $1BEB48
 #WRITE(ptr,$194754)
-A club created out of intellectual desire[LINE]
+A club created out of an intellectual desire[LINE]
 to acquire all knowledge.[LINE]
 He is an active a member.[END]
 
@@ -859,8 +1547,9 @@ Maiden’s Gaze[END]
 //POINTER #97 @ $19482C - STRING #97 @ $1BE170
 #WRITE(ptr,$19482C)
 The eyes of a woman in love.[LINE]
-Those who see here eyes might be misled.[LINE]
-勘違いするかも。[END]
+Those who see her eyes might be misled.[LINE]
+[END]
+
 
 //POINTER #98 @ $194830 - STRING #98 @ $1BE158
 #WRITE(ptr,$194830)
@@ -941,8 +1630,8 @@ Quiz Club Director[END]
 
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
-The club was established out of her boundless intellectual[LINE]
-desire to experience all the knowledge in the world.[LINE]
+A club created out of an intellectual[LINE]
+desire to acquire all knowledge.[LINE]
 As the head of its women's division, she has reigned ever since.[END]
 
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
@@ -1086,9 +1775,10 @@ Quiz Club Head[END]
 
 //POINTER #141 @ $1948DC - STRING #141 @ $1BD948
 #WRITE(ptr,$1948DC)
-A club created out of intellectual desire[LINE]
+A club created out of an intellectual desire[LINE]
 to acquire all knowledge. He struggles[LINE]
-as the head of department.[END]
+as the head of the men's division.[END]
+
 
 //POINTER #142 @ $1948E0 - STRING #142 @ $1BEB30
 #WRITE(ptr,$1948E0)
@@ -1321,7 +2011,7 @@ Quiz Club Old Girl[END]
 
 //POINTER #187 @ $194994 - STRING #187 @ $1BD008
 #WRITE(ptr,$194994)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 An old girl who once belonged to it.[END]
 
@@ -1464,7 +2154,7 @@ Quiz Club Junior[END]
 
 //POINTER #215 @ $194A04 - STRING #215 @ $1BCB18
 #WRITE(ptr,$194A04)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Please wait for me, senpai![END]
 
@@ -1609,7 +2299,7 @@ Quiz Club Coach[END]
 
 //POINTER #243 @ $194A74 - STRING #243 @ $1BC698
 #WRITE(ptr,$194A74)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Alright! We're knocking 100 questions![END]
 
@@ -1751,7 +2441,7 @@ Denied Club Member[END]
 
 //POINTER #271 @ $194AE4 - STRING #271 @ $1BC180
 #WRITE(ptr,$194AE4)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Don't say it... I'm NOT ALLOWED!?[END]
 
@@ -1854,7 +2544,7 @@ Quiz Fresh Student[END]
 
 //POINTER #291 @ $194B34 - STRING #291 @ $1BBDE8
 #WRITE(ptr,$194B34)
-A club created out of intellectual[LINE]
+A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
 Nice to meet you all, I'm [Lilith] Aileron.[END]
 
@@ -1903,7 +2593,6 @@ A chef's highest peak.[END]
 Salesgirl[END]
 
 
-#JMP($148210)
 //POINTER #301 @ $194B5C - STRING #301 @ $1BBC00
 #WRITE(ptr,$194B5C)
 Each has his own business talent.[LINE]
