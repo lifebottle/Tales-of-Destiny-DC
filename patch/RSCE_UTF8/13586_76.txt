@@ -28,7 +28,7 @@
 <Lilith>
 
 [ENDBLOCK]
-その他
+Others
 
 [ENDBLOCK]
 select
@@ -37,19 +37,20 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<L1_ani>、<R1_ani>でアニメーションの切り替え、
-<L2_ani>、<R2_ani>で背景の切り替え、
-<Cross_ani>で終了です。
+<L1_ani>、<R1_ani> toggle the animation,
+<L2_ani>、<R2_ani>toggle background,
+<Cross_ani>finished.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>いつの間にか、きれいな絵が並べられている。
+<TAG_005>Before I knew it, there was a 
+beautiful array of paintings.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-絵をみる
-操作説明
-なにもしない
+View 
+Explaination
+Do nothing
 
 [ENDBLOCK]
 <Stahn>
@@ -394,13 +395,15 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>長い間、絵の描かれた形跡はない。
-すでに部屋のオブジェと化している。
+<TAG_005>Looks like the canvas hasn't been
+used for a long time. It's now
+just another object in the room.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>立派な化粧台がある。
-しかし、肝心の化粧品はかなり少ない……
+<TAG_005>There is a splendid makeup table.
+However, the essential cosmetics
+are quite few...
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
