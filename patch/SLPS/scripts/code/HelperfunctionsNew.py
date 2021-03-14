@@ -28,7 +28,7 @@ class Helper:
         #Authentification
         self.gc = pygsheets.authorize(service_file=os.path.join(self.basePath,'gsheet.json'))
         
-        self.currentMemoryId = 0
+        self.currentMemoryId = 1
         self.currentStart = 0
         self.currentEnd = 0
         self.originalSectionEnd = 0
@@ -199,7 +199,7 @@ class Helper:
         #dfData['NbBytes'] = dfData['TranslatedText'].apply( lambda x: countBytes( keys, mappingTbl, x))
         #dfData.to_excel("test.xlsx")
         
-        self.offset = self.currentStart
+        
         sectionText=""
         
        
@@ -210,25 +210,30 @@ class Helper:
             
             nb = self.countBytes(v)
             
-            self.offset+= nb
-            if (self.offset >= self.currentEnd):
-                #print(row['TranslatedText'])
+            
+            if (self.offset + nb > self.currentEnd):
                 print("Sub Section start:            {}".format(hex(int(self.currentStart))))
                 print("Sub Section original end:     {}".format(hex(int(self.currentEnd))))
                 print("Sub Section translated end:   {}\n".format(hex(int(self.offset))))
                 print("Overlapp, jump needed")
                 print("Offset: {}".format(hex(int(self.offset))))
+                
                 #print("endInt: {}".format(endInt))
                 self.currentMemoryId+= 1
                 
                 #Go grab a bank of memory
                 newbank = self.dfBanks[ self.dfBanks['Id'] == self.currentMemoryId]
-                #print(newbank)
                 self.offset = int(newbank['TextStart'].tolist()[0], 16)
+    
                 self.currentEnd = int(newbank['TextEnd'].tolist()[0], 16)
                 textAdd += "#JMP(${})\n".format(newbank['TextStart'].tolist()[0])
+                
                 self.currentStart = self.offset
-                #print("Jump to {}\n".format(hex(int(self.offset))))
+                
+            
+            self.offset += nb
+                
+                
                 
             textAdd += "{}\n".format( row['English'])
             sectionText += textAdd
@@ -354,6 +359,7 @@ class Helper:
         finalEnd = lastbank['TextEnd'].tolist()[0]
         self.currentStart  = int(textStart, 16)
         self.currentEnd    = int(bank['TextEnd'][0], 16)
+        self.offset = self.currentStart
         
         #First Jump
         jumpText = "#JMP(${})\n".format(textStart)

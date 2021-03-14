@@ -10,7 +10,7 @@
 			"SectionDesc":	"Character Name",
 			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
 			"TextStart":	"199900",
-			"TextEnd":		"199C3F",
+			"TextEnd":		"199C3E",
 			"PointerStart":	"D7C80",
 			"PointerEnd":	"D7D68"
 		}]
@@ -25,7 +25,7 @@
 			"SectionDesc":	"Skit Episode Name",
 			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
 			"TextStart":	"19A190",
-			"TextEnd":		"19A5BF",
+			"TextEnd":		"19A5BE",
 			"PointerStart":	"",
 			"PointerEnd":	""
 		}]
@@ -41,11 +41,27 @@
 			"SectionDesc":	"Movie Subtitle",
 			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
 			"TextStart":	"19AC90",
-			"TextEnd":		"19B0BF",
+			"TextEnd":		"19B0BE",
 			"PointerStart":	"",
 			"PointerEnd":	""
 		}]
 	},	
+	
+	{
+		"BlockId":			2,
+		"BlockDesc":		"Menu Button",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Menu Button",
+			"GoogleSheetId":"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
+			"TextStart":	"19BDC0",
+			"TextEnd":		"19C0BE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
+	},	
+	
 	
 	{
 		"BlockId":			3,
@@ -57,7 +73,7 @@
 			"SectionDesc":	"Support",
 			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"19B370",
-			"TextEnd":		"19B73F",
+			"TextEnd":		"19B73E",
 			"PointerStart":	"181040",
 			"PointerEnd":	"18108F"
 		}]
@@ -74,7 +90,7 @@
 			"SectionDesc":	"Hidden Artes",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19C380",
-			"TextEnd":		"19D370",
+			"TextEnd":		"19D36F",
 			"PointerStart":	"184788",
 			"PointerEnd":	"184DA8"
 		},
@@ -83,7 +99,7 @@
 			"SectionDesc":	"Artes",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19D388",
-			"TextEnd":		"1A0F90",
+			"TextEnd":		"1A0F8F",
 			"PointerStart":	"182FE8",
 			"PointerEnd":	"184770"
 		},
@@ -101,7 +117,7 @@
 			"SectionDesc":	"Swordian Device and others",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A1800",
-			"TextEnd":		"1A2840",
+			"TextEnd":		"1A283F",
 			"PointerStart":	"184F3C",
 			"PointerEnd":	"1858DC",
 			"Step":			20,
@@ -113,7 +129,7 @@
 			"SectionDesc":	"Locations",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A2858",
-			"TextEnd":		"1A4FF8",
+			"TextEnd":		"1A4FF7",
 			"PointerStart":	"184F3C",
 			"PointerEnd":	"1858DC",
 			"Step":			20,
@@ -125,7 +141,7 @@
 			"SectionDesc":	"Attribute and others",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A5008",
-			"TextEnd":		"1A52E7",
+			"TextEnd":		"1A52E6",
 			"PointerStart":	"",
 			"PointerEnd":	"",
 			"Step":			20,
@@ -134,6 +150,39 @@
 		}
 		]
 	},
+	
+	{
+		"BlockId":			5,
+		"BlockDesc":		"Map Location",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Map Location",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1A5EE7",
+			"TextEnd":		"1A67A6",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		}]
+	},
+	
+	{
+		"BlockId":			5,
+		"BlockDesc":		"City Name",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"City Name",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1A6870",
+			"TextEnd":		"1A7876",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		}]
+	},
+	
 	{
 		"BlockId":			5,
 		"BlockDesc":		"Item",
@@ -144,7 +193,7 @@
 			"SectionDesc":	"Consumable",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1AC530",
-			"TextEnd":		"1AFCF8",
+			"TextEnd":		"1AFCF7",
 			"PointerStart":	"18C60C",
 			"PointerEnd":	"18D6CC"
 		
@@ -155,7 +204,7 @@
 			"SectionDesc":	"Jewel",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1AFD10",
-			"TextEnd":		"1B09E0",
+			"TextEnd":		"1B09DF",
 			"PointerStart":	"18D720",
 			"PointerEnd":	"18DCD0"
 		},
@@ -165,7 +214,7 @@
 			"SectionDesc":	"Weapon",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1B0A38",
-			"TextEnd":		"1B2CD0",
+			"TextEnd":		"1B2CCF",
 			"PointerStart":	"18DD2C",
 			"PointerEnd":	"18F2C0"
 		
@@ -176,7 +225,7 @@
 			"SectionDesc":	"Armor",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1B2CE0",
-			"TextEnd":		"1B5EC0",
+			"TextEnd":		"1B5EBF",
 			"PointerStart":	"18F334",
 			"PointerEnd":	"1911B0"
 		},
@@ -186,7 +235,7 @@
 			"SectionDesc":	"Unique",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1B5ED8",
-			"TextEnd":		"1B83F0",
+			"TextEnd":		"1B83EF",
 			"PointerStart":	"191208",
 			"PointerEnd":	"191D4C"
 		
@@ -197,7 +246,7 @@
 			"SectionDesc":	"Food",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1B8408",
-			"TextEnd":		"1BA218",
+			"TextEnd":		"1BA217",
 			"PointerStart":	"191D98",
 			"PointerEnd":	"1926E4"
 		},
@@ -207,7 +256,7 @@
 			"SectionDesc":	"Key",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1BA258",
-			"TextEnd":		"1BAFE3",
+			"TextEnd":		"1BAFE2",
 			"PointerStart":	"192714",
 			"PointerEnd":	"192B74"
 		}]
@@ -222,7 +271,7 @@
 			"SectionDesc":	"Other Food",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1BB628",
-			"TextEnd":		"1BB920",
+			"TextEnd":		"1BB91F",
 			"PointerStart":	"194274",
 			"PointerEnd":	"194648"
 		},
@@ -231,7 +280,7 @@
 			"SectionDesc":	"Food Effect",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1BB930",
-			"TextEnd":		"1BBBFF",
+			"TextEnd":		"1BBBFE",
 			"PointerStart":	"194660",
 			"PointerEnd":	"1946E4"
 		},
@@ -240,25 +289,9 @@
 			"SectionDesc":	"Title",
 			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"1BBC00",
-			"TextEnd":		"1BF0E8",
+			"TextEnd":		"1BF0E7",
 			"PointerStart":	"1946E8",
 			"PointerEnd":	"194B5C"
-		}]
-	},
-	
-	{
-		"BlockId":			7,
-		"BlockDesc":		"Attribute Items",
-		"TextStartBlock":	"1BB628",
-		"Sections":[
-		{
-			"SectionId":	1,
-			"SectionDesc":	"Attribute Items",
-			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
-			"TextStart":	"1BF2F8",
-			"TextEnd":		"1BF4BF",
-			"PointerStart":	"",
-			"PointerEnd":	""
 		}]
 	}
 	
