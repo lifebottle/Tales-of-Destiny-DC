@@ -318,22 +318,22 @@ Mountain Hut[END]
 
 //Text $19A590
 #WRITE(ptr,$D8788)
-迷い子[Chelsea][END]
+Stray Child [Chelsea][END]
 
 
 //Text $19A580
 #WRITE(ptr,$D878C)
-国境の街[END]
+Border Town[END]
 
 
 //Text $19A570
 #WRITE(ptr,$D8790)
-雪の記憶[END]
+Memory of Snow[END]
 
 
 //Text $19A560
 #WRITE(ptr,$D8794)
-神殿にて[END]
+At the Temple[END]
 
 
 //Text $19A550
@@ -343,22 +343,22 @@ Mountain Hut[END]
 
 //Text $19A538
 #WRITE(ptr,$D879C)
-王都ダリルシェイド[END]
+Royal Capital Darilsheid[END]
 
 
 //Text $19A520
 #WRITE(ptr,$D87A0)
-静寂にたたずむ神殿[END]
+A Temple in Silence[END]
 
 
 //Text $19A508
 #WRITE(ptr,$D87A4)
-第四のソーディアン[END]
+The Fourth Swordian[END]
 
 
 //Text $19A4F8
 #WRITE(ptr,$D87A8)
-砂漠の島[END]
+Desert Island[END]
 
 
 //Text $19A4E8
@@ -441,12 +441,12 @@ Mountain Hut[END]
 ハイデルベルグの決戦[END]
 
 
+#JMP($19A190)
 //Text $19A3C0
 #WRITE(ptr,$D87EC)
 久しぶりの故郷[END]
 
 
-#JMP($199900)
 //Text $19A3A8
 #WRITE(ptr,$D87F0)
 再びセインガルドへ[END]
@@ -729,7 +729,6 @@ Listen, [Stahn][END]
 I'll lend you my power.[END]
 
 
-#JMP($19A190)
 //Text $19AD40
 #WRITE(ptr,$180C4C)
 So, you must trust me.[END]
@@ -790,6 +789,7 @@ Get up, [Stahn]![END]
 ここも間もなく水に飲まれる[END]
 
 
+#JMP($19AC90)
 //Text $19AE60
 #WRITE(ptr,$180D1C)
 付き合わせてすまないな シャル[END]
@@ -915,6 +915,224 @@ Get up, [Stahn]![END]
 ディムロス……[END]
 
 
+//Section Menu Button
+
+//Text $19C0B0
+#WRITE(ptr,$181220)
+[Circle_ani]Enter[END]
+
+
+//Text $19C0A0
+#WRITE(ptr,$181224)
+[Circle_ani]Talk[END]
+
+
+//Text $19C088
+#WRITE(ptr,$181228)
+[Circle_ani][TAG_015] Exit [END]
+
+
+//Text $19C078
+#WRITE(ptr,$18122C)
+[Circle_ani]Shop[END]
+
+
+//Text $19C068
+#WRITE(ptr,$181230)
+[Circle_ani]Inspect[END]
+
+
+//Text $19C058
+#WRITE(ptr,$181234)
+[Circle_ani]Open[END]
+
+
+//Text $19C048
+#WRITE(ptr,$181238)
+[Circle_ani]Push[END]
+
+
+//Text $19C038
+#WRITE(ptr,$18123C)
+[Circle_ani]Pull[END]
+
+
+//Text $19C028
+#WRITE(ptr,$181240)
+[Circle_ani]Operate[END]
+
+
+//Text $19C018
+#WRITE(ptr,$181244)
+[Circle_ani]Switch[END]
+
+
+//Text $19C008
+#WRITE(ptr,$181248)
+[Circle_ani]Climb[END]
+
+
+//Text $19BFF8
+#WRITE(ptr,$18124C)
+[Circle_ani]Get Off[END]
+
+
+//Text $19BFE8
+#WRITE(ptr,$181250)
+[Circle_ani]Jump[END]
+
+
+//Text $19BFD8
+#WRITE(ptr,$181254)
+[Circle_ani]Hit[END]
+
+
+//Text $19BFC8
+#WRITE(ptr,$181258)
+[Circle_ani]Read[END]
+
+
+//Text $19BFB8
+#WRITE(ptr,$18125C)
+[Circle_ani]Rest[END]
+
+
+//Text $19BFA8
+#WRITE(ptr,$181260)
+[Circle_ani]Eat[END]
+
+
+//Text $19BF98
+#WRITE(ptr,$181264)
+[Circle_ani]Leave[END]
+
+
+//Text $19BF88
+#WRITE(ptr,$181268)
+[Circle_ani]Move[END]
+
+
+//Text $19BF78
+#WRITE(ptr,$18126C)
+[Circle_ani]Grab[END]
+
+
+//Text $19BF68
+#WRITE(ptr,$181270)
+[Circle_ani]??????[END]
+
+
+//Text $19BF58
+#WRITE(ptr,$181274)
+[Circle_ani]!!!!!![END]
+
+
+//Text $19BF48
+#WRITE(ptr,$181278)
+[Circle_ani]Save[END]
+
+
+//Text $19BF38
+#WRITE(ptr,$18127C)
+[Circle_ani]Warp[END]
+
+
+//Text $19BF28
+#WRITE(ptr,$181280)
+[Circle_ani]Next[END]
+
+
+//Text $19BF08
+#WRITE(ptr,$181284)
+[Circle_ani]Confirm [Cross_ani]Cancel[END]
+
+
+//Text $19BEF8
+#WRITE(ptr,$181288)
+[Circle_ani]Confirm[END]
+
+
+//Text $19BEE8
+#WRITE(ptr,$18128C)
+[Circle_ani]Board[END]
+
+
+//Text $19BED8
+#WRITE(ptr,$181290)
+[Cross_ani]Descend[END]
+
+
+//Text $19BEC8
+#WRITE(ptr,$181294)
+[Circle_ani]Sea Dragon[END]
+
+
+//Text $19BEB0
+#WRITE(ptr,$181298)
+[Cross_ani]Get Off Sea Dragon[END]
+
+
+//Text $19BF28
+#WRITE(ptr,$18129C)
+[Circle_ani]Next[END]
+
+
+//Text $19BE90
+#WRITE(ptr,$1812A0)
+[Circle_ani]Return to Darilsheid[END]
+
+
+//Text $19BE78
+#WRITE(ptr,$1812A4)
+[Circle_ani]Select [Cross_ani]Back[END]
+
+
+//Text $19BE60
+#WRITE(ptr,$1812A8)
+[Circle_ani]Open Menu[END]
+
+
+//Text $19BE50
+#WRITE(ptr,$1812AC)
+[Circle_ani]Catch[END]
+
+
+//Text $19BE40
+#WRITE(ptr,$1812B0)
+[Cross_ani]Kick[END]
+
+
+//Text $19BE30
+#WRITE(ptr,$1812B4)
+[Cross_ani]Kick Bomb[END]
+
+
+//Text $19BE20
+#WRITE(ptr,$1812B8)
+[Circle_ani]Look[END]
+
+
+#JMP($19BDC0)
+//Text $19BE00
+#WRITE(ptr,$1812BC)
+[Up]Up [Down]Down [Cross_ani]Return[END]
+
+
+//Text $19BDE0
+#WRITE(ptr,$1812C0)
+[Left]Left [Right]Right [Cross_ani]Back[END]
+
+
+//Text $19BDD0
+#WRITE(ptr,$1812C4)
+[Circle_ani]Next Level[END]
+
+
+//Text $19BDC0
+#WRITE(ptr,$1812C8)
+[Cross_ani]Give up[END]
+
+
 //Section Support
 
 //POINTER #19 @ $18108C - STRING #19 @ $19B370
@@ -941,7 +1159,6 @@ muscles are for everyone's sake.[END]
 Muscle Training[END]
 
 
-#JMP($19AC90)
 //POINTER #15 @ $18107C - STRING #15 @ $19B458
 #WRITE(ptr,$18107C)
 Live music is on the streets.[LINE]
@@ -993,6 +1210,7 @@ move. Boosts damage in battle.[END]
 Combat Instruction[END]
 
 
+#JMP($19B370)
 //POINTER #7 @ $18105C - STRING #7 @ $19B5D0
 #WRITE(ptr,$18105C)
 He surveys the surrounding area,[LINE]
@@ -1165,7 +1383,6 @@ a demon god. Grants 10 iron stance.[END]
 [END]
 
 
-#JMP($19B370)
 //Text $19D1D0
 #WRITE(ptr,$1848E8)
 [Sign_6]Hatred[END]
@@ -1203,6 +1420,7 @@ Burn like a phoenix, scorching foes.[END]
 [END]
 
 
+#JMP($19C380)
 //Text $19D0E0
 #WRITE(ptr,$184930)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 2 BG＞[/color][LINE]
@@ -1274,7 +1492,6 @@ A divine light to pass judgement on the wicked.[END]
 [Sign_7]Divine Power[END]
 
 
-#JMP($19C380)
 //Text $19CE28
 #WRITE(ptr,$1849F0)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 2 BG＞[/color][LINE]
@@ -1793,7 +2010,7 @@ Slice the enemy up, then cut them down.[LINE]
 
 //Text $1A0D20
 #WRITE(ptr,$1830C8)
-[Sign_5]Dragon Buster[END]
+[Sign_5]Dragon Slayer[END]
 
 
 //Text $1A0D10
@@ -4238,13 +4455,13 @@ focus on using healing artes.[END]
 
 //Text $1A15B8
 #WRITE(ptr,$184E1C)
-好き勝手してよい[END]
+Do whatever you want.[END]
 
 
 //Text $1A1580
 #WRITE(ptr,$184E20)
-サーチガルドとかを優先して使い、[LINE]
-回復も気分で使います。[END]
+Use artes like Search Gald,[LINE]
+but also heal on occasion.[END]
 
 
 //Text $1A156C
@@ -4457,12 +4674,12 @@ Change the target every time you move.[END]
 
 //Text $1A0FC8
 #WRITE(ptr,$184F18)
-まちがえた[END]
+A mistake has been made.[END]
 
 
 //Text $1A0FA0
 #WRITE(ptr,$184F1C)
-ラベルをTAC_DOUBLEにかえてください[LINE]
+Please change the label to TAC_DOUBLE[LINE]
 [END]
 
 
@@ -5295,7 +5512,7 @@ The power of impersonation?[END]
 
 //Text $1A1BE0
 #WRITE(ptr,$185694)
-一定確率で気絶させる[END]
+Increase stun rate[END]
 
 
 //Text $1A1BD8
@@ -5315,52 +5532,52 @@ CHARGE @FOOD[END]
 
 //Text $1A1B88
 #WRITE(ptr,$1856BC)
-蒼破刃：ダッシュ中に魔神剣[END]
+Azure Edge: Use Demon Fang while dashing[END]
 
 
 //Text $1A1B70
 #WRITE(ptr,$1856D0)
-紅蓮剣：空中で屠龍閃[END]
+Hell Pyre: Use Dragon Slayer in midair[END]
 
 
 //Text $1A1B50
 #WRITE(ptr,$1856E4)
-魔王炎撃波：爆炎剣中に魔神剣[END]
+Infernal Torrent: Chain Demon Fang after Hell Sword[END]
 
 
 //Text $1A1B30
 #WRITE(ptr,$1856F8)
-空牙昇竜脚：断空剣中に飛燕連脚[END]
+Dragon Toss: Chain Swallow Dance after Severing Wind[END]
 
 
 //Text $1A1B18
 #WRITE(ptr,$18570C)
-チャージが剛招来に変化[END]
+Alters Charge to Coil[END]
 
 
 //Text $1A1AF8
 #WRITE(ptr,$185720)
-魔神双破斬：魔神剣中に虎牙破斬[END]
+Demonic Tiger Blade: Chain Tiger Blade after Demon Fang[END]
 
 
 //Text $1A1AE0
 #WRITE(ptr,$185734)
-真空裂斬：空中で烈空斬[END]
+Omega Tempest: Use Tempest Strike in the air[END]
 
 
 //Text $1A1AC0
 #WRITE(ptr,$185748)
-獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]
+Fiery Beast: Use Beast after Hell Pyre[END]
 
 
 //Text $1A1A98
 #WRITE(ptr,$18575C)
-獅子戦吼：エイミングステップ中に灼光拳[END]
+Beast: Use Scorching Fist during an Front Step[END]
 
 
 //Text $1A1A78
 #WRITE(ptr,$185770)
-翔凰烈火：閃光裂破中に鳳凰天駆[END]
+Phoenix Blast: Chain Rising Phoenix after Light Spear Blast[END]
 
 
 //Text $1A1A60
@@ -5375,7 +5592,7 @@ SUPPORT PLUS[END]
 
 //Text $1A1A30
 #WRITE(ptr,$1857AC)
-チャージがサーチガルドに変化[END]
+Alters Charge to Search Gald[END]
 
 
 //Text $1A1A08
@@ -5485,7 +5702,7 @@ Stamina[END]
 
 //Text $1A1808
 #WRITE(ptr,$1858D8)
-ライフ１０％回復[END]
+Restores 10% HP[END]
 
 
 //Text $1A1800
@@ -5541,17 +5758,17 @@ Neuestadt[END]
 
 //Text $1A4F68
 #WRITE(ptr,$187920)
-Land of Shiden[END]
+Sheeden[END]
 
 
 //Text $1A4F58
 #WRITE(ptr,$187948)
-Land of Moreau[END]
+Moreau[END]
 
 
 //Text $1A4F48
 #WRITE(ptr,$187970)
-Land of Terazzi[END]
+Terazzi[END]
 
 
 //Text $1A4F38
@@ -5571,7 +5788,7 @@ Heidelberg[END]
 
 //Text $1A4F10
 #WRITE(ptr,$187A10)
-Lienia[END]
+Lienea[END]
 
 
 //Text $1A4F00
@@ -5611,7 +5828,7 @@ The Mountain Path of Phandaria (First Half)[END]
 
 //Text $1A4E78
 #WRITE(ptr,$186BE8)
-The Mountain path of Phandaria (Second Half)[END]
+The Mountain Path of Phandaria (Second Half)[END]
 
 
 //Text $1A4E68
@@ -5626,502 +5843,502 @@ Temple[END]
 
 //Text $1A4E50
 #WRITE(ptr,$186C0C)
-警備兵戦[END]
+Gaurd Battle[END]
 
 
 //Text $1A4E30
 #WRITE(ptr,$186C18)
-ファンダリアF1(ジェノス周辺）[END]
+Phandaria F1(Around Janos) [END]
 
 
 //Text $1A4E08
 #WRITE(ptr,$186C24)
-セインガルドF1(ダリルシェイド周辺)[END]
+SeinegaldF1(Around Darilsheid)[END]
 
 
 //Text $1A4DF0
 #WRITE(ptr,$186C30)
-セインガルド兵士戦１[END]
+Seinegald Soldier Battle１[END]
 
 
 //Text $1A4DD8
 #WRITE(ptr,$186C3C)
-セインガルド兵士戦２[END]
+Seinegald Soldier Battle 2[END]
 
 
 //Text $1A4DC8
 #WRITE(ptr,$186C48)
-リオン戦１[END]
+Leon Battle 1[END]
 
 
 //Text $1A4DA0
 #WRITE(ptr,$186C54)
-セインガルドF1(ストレイライズの森周辺)[END]
+Seingald F1(Around Straylize Forest)[END]
 
 
 //Text $1A4D80
 #WRITE(ptr,$186C60)
-ストレイライズの森・ふもと[END]
+Straylize Forest・Base[END]
 
 
 //Text $1A4D60
 #WRITE(ptr,$186C6C)
-ストレイライズの森・中腹[END]
+Straylize Forest・Mountainside[END]
 
 
 //Text $1A4D40
 #WRITE(ptr,$186C78)
-ストレイライズの森・山頂[END]
+Straylize Forest・Summit[END]
 
 
 //Text $1A4D28
 #WRITE(ptr,$186C84)
-ストレイライズ神殿[END]
+Straylize Temple[END]
 
 
 //Text $1A4D08
 #WRITE(ptr,$186C90)
-ストレイライズ神殿(イベント用)[END]
+Straylize Temple(For Events)[END]
 
 
 //Text $1A4CF8
 #WRITE(ptr,$186C9C)
-ローパー戦[END]
+Roper Battle[END]
 
 
 //Text $1A4CE8
 #WRITE(ptr,$186CA8)
-海底都市(前半)[END]
+Undersea City(First Half)[END]
 
 
 //Text $1A4CD8
 #WRITE(ptr,$186CB4)
-海底都市(後半)[END]
+Undersea City(Second Half)[END]
 
 
 //Text $1A4CB8
 #WRITE(ptr,$186CC0)
-カルバレイスF1(カルビオラ周辺)[END]
+Calvalese F1(around Kalovia)[END]
 
 
 //Text $1A4C90
 #WRITE(ptr,$186CCC)
-カルバレイスF1(ジャンクランド周辺)[END]
+Calvalese F1(around Junkland)[END]
 
 
 //Text $1A4C80
 #WRITE(ptr,$186CD8)
-カルビオラ神殿[END]
+Kalviola Temple[END]
 
 
 //Text $1A4C68
 #WRITE(ptr,$186CE4)
-石化モンスター戦[END]
+Petrified Monster Battle[END]
 
 
 //Text $1A4C40
 #WRITE(ptr,$186CF0)
-フィッツガルドF1(ノイシュタット周辺)[END]
+Fitzgald F1(around Neuestadt)[END]
 
 
 //Text $1A4C20
 #WRITE(ptr,$186CFC)
-フィッツガルドF1(リーネ周辺)[END]
+Fitzgald F1(around Lienea)[END]
 
 
 //Text $1A4C10
 #WRITE(ptr,$186D08)
-コングマン戦[END]
+Kongman Battle[END]
 
 
 //Text $1A4C08
 #WRITE(ptr,$186D14)
-ボア戦[END]
+Boa Battle[END]
 
 
 //Text $1A4BF8
 #WRITE(ptr,$186D20)
-海賊船(有利)[END]
+Pirate Ship (Advantage)[END]
 
 
 //Text $1A4BE8
 #WRITE(ptr,$186D2C)
-海賊船(不利)[END]
+Pirate Ship (Disadvantage)[END]
 
 
 //Text $1A4BD8
 #WRITE(ptr,$186D38)
-バティスタ戦１[END]
+Batista Battle１[END]
 
 
 //Text $1A4BC0
 #WRITE(ptr,$186D44)
-アクアヴェイルF1[END]
+Aquaveil F1[END]
 
 
 //Text $1A4BA8
 #WRITE(ptr,$186D50)
-シデンの海底洞窟(前半)[END]
+Sheeden Tidal Cave (First Half)[END]
 
 
 //Text $1A4B90
 #WRITE(ptr,$186D5C)
-シデンの海底洞窟(後半)[END]
+Sheeden Tidal Cave (Final Half)[END]
 
 
 //Text $1A4B80
 #WRITE(ptr,$186D68)
-ケイブキング戦[END]
+Cave King Battle[END]
 
 
 //Text $1A4B68
 #WRITE(ptr,$186D74)
-モリュウ城(前半)[END]
+Moreau Castle (First Half)[END]
 
 
 //Text $1A4B50
 #WRITE(ptr,$186D80)
-モリュウ城(後半)[END]
+Moreau Castle (Final Half)[END]
 
 
 //Text $1A4B40
 #WRITE(ptr,$186D8C)
-バティスタ戦２[END]
+Batista Battle 2[END]
 
 
 //Text $1A4B30
 #WRITE(ptr,$186D98)
-クラーケン戦[END]
+Kraken Battle[END]
 
 
 //Text $1A4B18
 #WRITE(ptr,$186DA4)
-トウケイ城(前半)[END]
+Clock Tower(First Half)[END]
 
 
 //Text $1A4B00
 #WRITE(ptr,$186DB0)
-トウケイ城(後半)[END]
+Clock Tower (Final Half)[END]
 
 
 //Text $1A4AF0
 #WRITE(ptr,$186DBC)
-ティベリウス戦[END]
+Tiberius Battle[END]
 
 
 //Text $1A4AE0
 #WRITE(ptr,$186DC8)
-ファンダリアF1[END]
+Phandaria F1[END]
 
 
 //Text $1A4AD0
 #WRITE(ptr,$186DD4)
-反乱軍兵士戦[END]
+Rebel Army Soldiers Battle[END]
 
 
 //Text $1A4AB8
 #WRITE(ptr,$186DE0)
-ティルソの森(通路)[END]
+Tilso Forest (Pathway)[END]
 
 
 //Text $1A4AA0
 #WRITE(ptr,$186DEC)
-ティルソの森(部屋)[END]
+Tilso Forest (Room)[END]
 
 
 //Text $1A4A88
 #WRITE(ptr,$186DF8)
-ハイデルベルグ地下通路[END]
+Heidelberg Underground Passage[END]
 
 
 //Text $1A4A78
 #WRITE(ptr,$186E04)
-ダリス戦[END]
+Dalis Battle[END]
 
 
 //Text $1A4A60
 #WRITE(ptr,$186E10)
-ハイデルベルグ城[END]
+Heidelberg Castle[END]
 
 
 //Text $1A4A50
 #WRITE(ptr,$186E1C)
-グレバム戦[END]
+Battle of Grebam[END]
 
 
 //Text $1A4A28
 #WRITE(ptr,$186E28)
-フィッツガルドF2(ノイシュタット周辺)[END]
+Fitzgald F2(around Neuestadt)[END]
 
 
 //Text $1A4A08
 #WRITE(ptr,$186E34)
-フィッツガルドF2(リーネ周辺)[END]
+Fitzgald F2(around Lienea)[END]
 
 
 //Text $1A49E8
 #WRITE(ptr,$186E40)
-ファンダリアF2(ジェノス周辺）[END]
+Phandaria F2(around Janos）[END]
 
 
 //Text $1A49D8
 #WRITE(ptr,$186E4C)
-ファンダリアF2[END]
+Phandaria F2[END]
 
 
 //Text $1A49B0
 #WRITE(ptr,$186E58)
-セインガルドF2(ダリルシェイド周辺)[END]
+Seinegald F2(around Darilsheid)[END]
 
 
 //Text $1A4988
 #WRITE(ptr,$186E64)
-セインガルドF2(ストレイライズの森周辺)[END]
+Seinegald F2(around Straylize Forest)[END]
 
 
 //Text $1A4968
 #WRITE(ptr,$186E70)
-カルバレイスF2(カルビオラ周辺)[END]
+Calvalese F2(around Kalviola)[END]
 
 
 //Text $1A4940
 #WRITE(ptr,$186E7C)
-カルバレイスF2(ジャンクランド周辺)[END]
+Calvalese F2(around Junkland)[END]
 
 
 //Text $1A4928
 #WRITE(ptr,$186E88)
-アクアヴェイルF2[END]
+Aquaveil F2[END]
 
 
 //Text $1A4910
 #WRITE(ptr,$186E94)
-オベロン社秘密工場[END]
+Oberon's Secret Factory[END]
 
 
 //Text $1A4900
 #WRITE(ptr,$186EA0)
-海底洞窟[END]
+Undersea Cave[END]
 
 
 //Text $1A48F0
 #WRITE(ptr,$186EAC)
-リオン戦２[END]
+Battle with Leon２[END]
 
 
 //Text $1A48E0
 #WRITE(ptr,$186EB8)
-隠された神殿[END]
+Hidden Temple[END]
 
 
 //Text $1A48C0
 #WRITE(ptr,$186EC4)
-隠された神殿・イベント戦[END]
+Hidden Temple・Event Battle[END]
 
 
 //Text $1A48A0
 #WRITE(ptr,$186ED0)
-外殻・ラディスロウ周辺１[END]
+Outer Shell・around Radisrol１[END]
 
 
 //Text $1A4890
 #WRITE(ptr,$186EDC)
-イグナシー[END]
+Ignasea[END]
 
 
 //Text $1A4878
 #WRITE(ptr,$186EE8)
-アンスズーン(ENG0)[END]
+Ansone(ENG0)[END]
 
 
 //Text $1A4860
 #WRITE(ptr,$186EF4)
-アンスズーン(ENG1)[END]
+Ansone(ENG1)[END]
 
 
 //Text $1A4848
 #WRITE(ptr,$186F00)
-アンスズーン(ENG2)[END]
+Ansone(ENG2)[END]
 
 
 //Text $1A4830
 #WRITE(ptr,$186F0C)
-アンスズーン(ENG3)[END]
+Ansone(ENG3)[END]
 
 
 //Text $1A4818
 #WRITE(ptr,$186F18)
-アンスズーン(ENG4)[END]
+Ansone(ENG4)[END]
 
 
 //Text $1A4800
 #WRITE(ptr,$186F24)
-アンスズーン(ENG5)[END]
+Ansone(ENG5)[END]
 
 
 //Text $1A47E0
 #WRITE(ptr,$186F30)
-外殻・クラウディス周辺１[END]
+Outer Shell・around Cloudius１[END]
 
 
 //Text $1A47C8
 #WRITE(ptr,$186F3C)
-クラウディス(前半)[END]
+Cloudius (First Half)[END]
 
 
 //Text $1A47B0
 #WRITE(ptr,$186F48)
-クラウディス(後半)[END]
+Cloudius (Second Half)[END]
 
 
 //Text $1A47A0
 #WRITE(ptr,$186F54)
-バルック戦[END]
+Baruch Battle[END]
 
 
 //Text $1A4790
 #WRITE(ptr,$186F60)
-ロディオン[END]
+Rodeon[END]
 
 
 //Text $1A4770
 #WRITE(ptr,$186F6C)
-外殻・ヘルレイオス周辺１[END]
+Outer Shell・around Helraios 1[END]
 
 
 //Text $1A4758
 #WRITE(ptr,$186F78)
-ヘルレイオス(前半)[END]
+Helraios (First Half)[END]
 
 
 //Text $1A4740
 #WRITE(ptr,$186F84)
-ヘルレイオス(後半)[END]
+Helraios(Second Half)[END]
 
 
 //Text $1A4730
 #WRITE(ptr,$186F90)
-イレーヌ[END]
+Ilene[END]
 
 
 //Text $1A4720
 #WRITE(ptr,$186F9C)
-シュサイア[END]
+Shusaia[END]
 
 
 //Text $1A4700
 #WRITE(ptr,$186FA8)
-外殻・ミックハイル周辺１[END]
+Outer Shell・around Mikheil１[END]
 
 
 //Text $1A46E8
 #WRITE(ptr,$186FB4)
-ミックハイル(前半)[END]
+Mikheil (First Half)[END]
 
 
 //Text $1A46D0
 #WRITE(ptr,$186FC0)
-ミックハイル(後半)[END]
+Mikheil (Second Half)[END]
 
 
 //Text $1A46C0
 #WRITE(ptr,$186FCC)
-レンブラント戦[END]
+Rembrandt Battle[END]
 
 
 //Text $1A46B0
 #WRITE(ptr,$186FD8)
-ベルクラント[END]
+Belcrant[END]
 
 
 //Text $1A46A0
 #WRITE(ptr,$186FE4)
-ヒューゴ戦[END]
+Hugo Battle[END]
 
 
 //Text $1A4690
 #WRITE(ptr,$186FF0)
-ミクトラン敗戦[END]
+Kronos' Defeat[END]
 
 
 //Text $1A4668
 #WRITE(ptr,$186FFC)
-セインガルドF3(ダリルシェイド周辺)[END]
+Seinegald F3(around Darilsheid)[END]
 
 
 //Text $1A4640
 #WRITE(ptr,$187008)
-セインガルドF3(ストレイライズの森周辺)[END]
+Seinegald F3(around Straylize Forest)[END]
 
 
 //Text $1A4618
 #WRITE(ptr,$187014)
-フィッツガルドF3(ノイシュタット周辺)[END]
+Fitzgald F3(around Neustadt)[END]
 
 
 //Text $1A45F8
 #WRITE(ptr,$187020)
-フィッツガルドF3(リーネ周辺)[END]
+Fitzgald F3(around Lienea)[END]
 
 
 //Text $1A45D8
 #WRITE(ptr,$18702C)
-ファンダリアF3(ジェノス周辺）[END]
+Phandaria F3(around Janos）[END]
 
 
 //Text $1A45B0
 #WRITE(ptr,$187038)
-ファンダリアF3(ハイデルベルグ周辺)[END]
+Phandaria F3(around Heidelberg)[END]
 
 
 //Text $1A4590
 #WRITE(ptr,$187044)
-カルバレイスF3(カルビオラ周辺)[END]
+Calvalese F3(around Kalviola)[END]
 
 
 //Text $1A4568
 #WRITE(ptr,$187050)
-カルバレイスF3(ジャンクランド周辺)[END]
+Calvalese F3(around Junkland)[END]
 
 
 //Text $1A4550
 #WRITE(ptr,$18705C)
-アクアヴェイルF3[END]
+Aquaveil F3[END]
 
 
 //Text $1A4538
 #WRITE(ptr,$187068)
-ソーディアン研究所[END]
+Swordian R&D Lab[END]
 
 
 //Text $1A4520
 #WRITE(ptr,$187074)
-クレスタ・天上軍兵器戦[END]
+Cresta・天上軍兵器戦[END]
 
 
 //Text $1A4500
 #WRITE(ptr,$187080)
-ダリルシェイド・天上軍兵器戦１[END]
+Darilsheid・天上軍兵器戦１[END]
 
 
 //Text $1A44E0
 #WRITE(ptr,$18708C)
-ダリルシェイド・天上軍兵器戦２[END]
+Darilsheid・天上軍兵器戦２[END]
 
 
 //Text $1A44D0
 #WRITE(ptr,$187098)
-ディムロス戦[END]
+Dymlos Battle[END]
 
 
 //Text $1A44B0
 #WRITE(ptr,$1870A4)
-トラッシュマウンテン(前半)[END]
+Trash Mountain (First Half)[END]
 
 
 //Text $1A4490
 #WRITE(ptr,$1870B0)
-トラッシュマウンテン(後半)[END]
+Trash Mountain (Second Half)[END]
 
 
 //Text $1A4480
@@ -7091,7 +7308,7 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2F40
 #WRITE(ptr,$186610)
-南海の隠し神殿・通路[END]
+Hidden South Sea Temple・Passage[END]
 
 
 //Text $1A2F28
@@ -7261,7 +7478,7 @@ SS_87神妖の森イベント戦[END]
 
 //Text $1A2B70
 #WRITE(ptr,$186720)
-ベルクラント・通路[END]
+Belcrant・Passage[END]
 
 
 //Text $1A2B50
@@ -7271,12 +7488,12 @@ Belcrant - VS Hugo[END]
 
 //Text $1A2D10
 #WRITE(ptr,$186730)
-Bergland · Aisle[END]
+Secret Dungeon · Passage[END]
 
 
 //Text $1A2B38
 #WRITE(ptr,$186738)
-隠しダンジョン・ボス[END]
+Secret Dungeon・Boss[END]
 
 
 //Text $1A2B28
@@ -7286,52 +7503,52 @@ Bergland · Aisle[END]
 
 //Text $1A2B00
 #WRITE(ptr,$186748)
-シデン海底洞窟・対オーガスクィーン戦[END]
+Sheeden Underwater Cave・Ogre Queen Battle[END]
 
 
 //Text $1A2AD8
 #WRITE(ptr,$186750)
-南海の隠し神殿・対ドラゴンナイト戦[END]
+Hidden South Sea Temple・Dragon Knight Battle[END]
 
 
 //Text $1A2AB0
 #WRITE(ptr,$186758)
-ストレイライズ神殿へ続く森・ふもと @0[END]
+Forest leading to Straylize Temple・Entrance 0[END]
 
 
 //Text $1A2A88
 #WRITE(ptr,$186760)
-ストレイライズ神殿へ続く森・ふもと @1[END]
+Forest leading to Straylize Temple・Entrance 1[END]
 
 
 //Text $1A2A60
 #WRITE(ptr,$186768)
-ストレイライズ神殿へ続く森・ふもと @2[END]
+Forest leading to Straylize Temple・Entrance 2[END]
 
 
 //Text $1A2A38
 #WRITE(ptr,$186770)
-ストレイライズ神殿へ続く森・ふもと @3[END]
+Forest leading to Straylize Temple・Entrance 3[END]
 
 
 //Text $1A2A10
 #WRITE(ptr,$186778)
-ストレイライズ神殿へ続く森・中腹 @0[END]
+Forest leading to Straylize Temple・Halfway 0[END]
 
 
 //Text $1A29E8
 #WRITE(ptr,$186780)
-ストレイライズ神殿へ続く森・中腹 @1[END]
+Forest leading to Straylize Temple・Halfway 1[END]
 
 
 //Text $1A29C0
 #WRITE(ptr,$186788)
-ストレイライズ神殿へ続く森・中腹 @2[END]
+Forest leading to Straylize Temple・Halfway 2[END]
 
 
 //Text $1A2998
 #WRITE(ptr,$186790)
-ストレイライズ神殿へ続く森・中腹 3[END]
+Forest leading to Straylize Temple・Halfway 3 [END]
 
 
 //Text $1A2970
@@ -7346,12 +7563,12 @@ Forest / mountain top 1 leading to Straylize temple 1[END]
 
 //Text $1A2920
 #WRITE(ptr,$1867A8)
-Forest / mountain top 1 leading to Straylize temple 2[END]
+Forest / mountain top 2 leading to Straylize temple 2[END]
 
 
 //Text $1A28F8
 #WRITE(ptr,$1867B0)
-Forest / mountain top 1 leading to Straylize temple 3[END]
+Forest / mountain top 3 leading to Straylize temple 3[END]
 
 
 //Text $1A28D8
@@ -7381,12 +7598,12 @@ Tyrso Forest · 3[END]
 
 //Text $1A2878
 #WRITE(ptr,$1867E0)
-モリュウ城・対バティスタ戦[END]
+Moreau Castle・Batista Battle[END]
 
 
 //Text $1A2858
 #WRITE(ptr,$1867E8)
-カルビオラ神殿・神の眼前戦[END]
+Kalviola Temple・Battle before the Eye or God[END]
 
 
 //Section Attribute and others
@@ -7713,7 +7930,1296 @@ Bioweapon[END]
 
 //Text $1A5008
 #WRITE(ptr,$187BD0)
-テストプレイポイント：[TAG_015]に到達[END]
+Test Play Point: Reach [TAG_015][END]
+
+
+//Section Map Location
+
+//Text $1A67A0
+#WRITE(ptr,$1892E8)
+Draconis[END]
+
+
+//Text $1A6790
+#WRITE(ptr,$1892F4)
+Draconis (Night)[END]
+
+
+//Text $1A6780
+#WRITE(ptr,$189300)
+Torn's Cabin[END]
+
+
+//Text $1A6768
+#WRITE(ptr,$18930C)
+Torn's Cabin (Night)[END]
+
+
+//Text $1A6750
+#WRITE(ptr,$189318)
+トーンの山小屋・裏山A[END]
+
+
+//Text $1A6738
+#WRITE(ptr,$189324)
+トーンの山小屋・裏山B[END]
+
+
+//Text $1A6718
+#WRITE(ptr,$189330)
+トーンの山小屋・裏山A(夜)[END]
+
+
+//Text $1A66F8
+#WRITE(ptr,$18933C)
+トーンの山小屋・裏山B(夜)[END]
+
+
+//Text $1A66E0
+#WRITE(ptr,$189348)
+ファンダリアの山道A[END]
+
+
+//Text $1A66C8
+#WRITE(ptr,$189354)
+ファンダリアの山道B[END]
+
+
+//Text $1A66B0
+#WRITE(ptr,$189360)
+ファンダリアの山道A(夜)[END]
+
+
+//Text $1A6698
+#WRITE(ptr,$18936C)
+ファンダリアの山道B(夜)[END]
+
+
+//Text $1A6688
+#WRITE(ptr,$189378)
+ジェノスA[END]
+
+
+//Text $1A6678
+#WRITE(ptr,$189384)
+ジェノスA(夜)[END]
+
+
+//Text $1A6660
+#WRITE(ptr,$189390)
+神殿へと続く洞窟A[END]
+
+
+//Text $1A6648
+#WRITE(ptr,$18939C)
+神殿へと続く洞窟A(夜)[END]
+
+
+//Text $1A6640
+#WRITE(ptr,$1893A8)
+神殿A[END]
+
+
+//Text $1A6630
+#WRITE(ptr,$1893B4)
+神殿A(夜)[END]
+
+
+//Text $1A6620
+#WRITE(ptr,$1893C0)
+ハーメンツA[END]
+
+
+//Text $1A6610
+#WRITE(ptr,$1893CC)
+ハーメンツA(夜)[END]
+
+
+//Text $1A6600
+#WRITE(ptr,$1893D8)
+セインガルド城A[END]
+
+
+//Text $1A65E8
+#WRITE(ptr,$1893E4)
+セインガルド城A(夜)[END]
+
+
+//Text $1A65D8
+#WRITE(ptr,$1893F0)
+ダリルシェイドA[END]
+
+
+//Text $1A65C0
+#WRITE(ptr,$1893FC)
+ダリルシェイドA(夜)[END]
+
+
+//Text $1A65B0
+#WRITE(ptr,$189408)
+アルメイダA[END]
+
+
+//Text $1A65A0
+#WRITE(ptr,$189414)
+アルメイダA(夜)[END]
+
+
+//Text $1A6588
+#WRITE(ptr,$189420)
+ストレイライズの森A[END]
+
+
+//Text $1A6570
+#WRITE(ptr,$18942C)
+ストレイライズの森B[END]
+
+
+//Text $1A6558
+#WRITE(ptr,$189438)
+ストレイライズの森A(夜)[END]
+
+
+//Text $1A6540
+#WRITE(ptr,$189444)
+ストレイライズの森B(夜)[END]
+
+
+//Text $1A6528
+#WRITE(ptr,$189450)
+ストレイライズ神殿A[END]
+
+
+//Text $1A6510
+#WRITE(ptr,$18945C)
+ストレイライズ神殿A(夜)[END]
+
+
+//Text $1A6528
+#WRITE(ptr,$189468)
+ストレイライズ神殿A[END]
+
+
+//Text $1A64F8
+#WRITE(ptr,$189474)
+ストレイライズ神殿B[END]
+
+
+//Text $1A6510
+#WRITE(ptr,$189480)
+ストレイライズ神殿A(夜)[END]
+
+
+//Text $1A64E0
+#WRITE(ptr,$18948C)
+ストレイライズ神殿B(夜)[END]
+
+
+//Text $1A64D8
+#WRITE(ptr,$189498)
+船A[END]
+
+
+//Text $1A64C8
+#WRITE(ptr,$1894A4)
+ラディスロウA[END]
+
+
+//Text $1A64B8
+#WRITE(ptr,$1894B0)
+ラディスロウB[END]
+
+
+//Text $1A64A8
+#WRITE(ptr,$1894BC)
+チェリクA[END]
+
+
+//Text $1A6498
+#WRITE(ptr,$1894C8)
+チェリクA(夜)[END]
+
+
+//Text $1A6488
+#WRITE(ptr,$1894D4)
+首都カルビオラA[END]
+
+
+//Text $1A6470
+#WRITE(ptr,$1894E0)
+首都カルビオラA(夜)[END]
+
+
+//Text $1A6460
+#WRITE(ptr,$1894EC)
+カルビオラ神殿A[END]
+
+
+//Text $1A6450
+#WRITE(ptr,$1894F8)
+カルビオラ神殿B[END]
+
+
+//Text $1A6438
+#WRITE(ptr,$189504)
+カルビオラ神殿A(夜)[END]
+
+
+//Text $1A6420
+#WRITE(ptr,$189510)
+カルビオラ神殿B(夜)[END]
+
+
+//Text $1A6410
+#WRITE(ptr,$18951C)
+ノイシュタットA[END]
+
+
+//Text $1A63F8
+#WRITE(ptr,$189528)
+ノイシュタットA(夜)[END]
+
+
+//Text $1A63F0
+#WRITE(ptr,$189534)
+闘技場A[END]
+
+
+//Text $1A63E0
+#WRITE(ptr,$189540)
+闘技場A(夜)[END]
+
+
+//Text $1A63D8
+#WRITE(ptr,$18954C)
+海賊船A[END]
+
+
+//Text $1A63D0
+#WRITE(ptr,$189558)
+海賊船B[END]
+
+
+//Text $1A63C0
+#WRITE(ptr,$189564)
+シデン領A[END]
+
+
+//Text $1A63B0
+#WRITE(ptr,$189570)
+シデン領A(夜)[END]
+
+
+//Text $1A63A0
+#WRITE(ptr,$18957C)
+シデン海底洞窟A[END]
+
+
+//Text $1A6390
+#WRITE(ptr,$189588)
+シデン海底洞窟B[END]
+
+
+//Text $1A6380
+#WRITE(ptr,$189594)
+モリュウ領A[END]
+
+
+//Text $1A6370
+#WRITE(ptr,$1895A0)
+モリュウ領A(夜)[END]
+
+
+//Text $1A6360
+#WRITE(ptr,$1895AC)
+モリュウ城A[END]
+
+
+//Text $1A6350
+#WRITE(ptr,$1895B8)
+モリュウ城B[END]
+
+
+//Text $1A6340
+#WRITE(ptr,$1895C4)
+トウケイ領A[END]
+
+
+//Text $1A6330
+#WRITE(ptr,$1895D0)
+トウケイ領A(夜)[END]
+
+
+//Text $1A6320
+#WRITE(ptr,$1895DC)
+トウケイ城A[END]
+
+
+//Text $1A6310
+#WRITE(ptr,$1895E8)
+トウケイ城B[END]
+
+
+//Text $1A6300
+#WRITE(ptr,$1895F4)
+スノーフリアA[END]
+
+
+//Text $1A62E8
+#WRITE(ptr,$189600)
+スノーフリアA(夜)[END]
+
+
+//Text $1A62D8
+#WRITE(ptr,$18960C)
+ティルソの森A[END]
+
+
+//Text $1A62C8
+#WRITE(ptr,$189618)
+ティルソの森B[END]
+
+
+//Text $1A62B0
+#WRITE(ptr,$189624)
+ティルソの森A(夜)[END]
+
+
+//Text $1A6298
+#WRITE(ptr,$189630)
+ティルソの森B(夜)[END]
+
+
+//Text $1A6288
+#WRITE(ptr,$18963C)
+サイリルA[END]
+
+
+//Text $1A6278
+#WRITE(ptr,$189648)
+サイリルA(夜)[END]
+
+
+//Text $1A6260
+#WRITE(ptr,$189654)
+ハイデルベルグ街[END]
+
+
+//Text $1A6248
+#WRITE(ptr,$189660)
+ハイデルベルグ街(夜)[END]
+
+
+//Text $1A6230
+#WRITE(ptr,$18966C)
+ハイデルベルグ地下通路A[END]
+
+
+//Text $1A6218
+#WRITE(ptr,$189678)
+ハイデルベルグ地下通路B[END]
+
+
+//Text $1A6200
+#WRITE(ptr,$189684)
+ハイデルベルグ城A[END]
+
+
+//Text $1A61E8
+#WRITE(ptr,$189690)
+ハイデルベルグ城B[END]
+
+
+//Text $1A61D0
+#WRITE(ptr,$18969C)
+ハイデルベルグ城A(夜)[END]
+
+
+//Text $1A61B8
+#WRITE(ptr,$1896A8)
+ハイデルベルグ城B(夜)[END]
+
+
+//Text $1A61A0
+#WRITE(ptr,$1896B4)
+飛行竜セインガルド周りA[END]
+
+
+//Text $1A6198
+#WRITE(ptr,$1896C0)
+リーネ[END]
+
+
+//Text $1A6188
+#WRITE(ptr,$1896CC)
+リーネ(夜)[END]
+
+
+//Text $1A6178
+#WRITE(ptr,$1896D8)
+クレスタA[END]
+
+
+//Text $1A6168
+#WRITE(ptr,$1896E4)
+クレスタA(夜)[END]
+
+
+//Text $1A6150
+#WRITE(ptr,$1896F0)
+オベロン秘密工場A[END]
+
+
+//Text $1A6138
+#WRITE(ptr,$1896FC)
+オベロン秘密工場B[END]
+
+
+//Text $1A6128
+#WRITE(ptr,$189708)
+海底洞窟A[END]
+
+
+//Text $1A6118
+#WRITE(ptr,$189714)
+海底洞窟B[END]
+
+
+//Text $1A6108
+#WRITE(ptr,$189720)
+隠された神殿A[END]
+
+
+//Text $1A60F8
+#WRITE(ptr,$18972C)
+イグナシーA[END]
+
+
+//Text $1A60E8
+#WRITE(ptr,$189738)
+イグナシーB[END]
+
+
+//Text $1A60D8
+#WRITE(ptr,$189744)
+アンスズーンA[END]
+
+
+//Text $1A60C8
+#WRITE(ptr,$189750)
+アンスズーンB[END]
+
+
+//Text $1A60B8
+#WRITE(ptr,$18975C)
+クラウディスA[END]
+
+
+//Text $1A60A8
+#WRITE(ptr,$189768)
+クラウディスB[END]
+
+
+//Text $1A6098
+#WRITE(ptr,$189774)
+ロディオンA[END]
+
+
+//Text $1A6088
+#WRITE(ptr,$189780)
+ロディオンB[END]
+
+
+//Text $1A6078
+#WRITE(ptr,$18978C)
+ヘルレイオスA[END]
+
+
+//Text $1A6068
+#WRITE(ptr,$189798)
+ヘルレイオスB[END]
+
+
+//Text $1A6058
+#WRITE(ptr,$1897A4)
+シュサイアA[END]
+
+
+//Text $1A6048
+#WRITE(ptr,$1897B0)
+シュサイアB[END]
+
+
+//Text $1A6038
+#WRITE(ptr,$1897BC)
+ミックハイルA[END]
+
+
+//Text $1A6028
+#WRITE(ptr,$1897C8)
+ミックハイルB[END]
+
+
+//Text $1A6018
+#WRITE(ptr,$1897D4)
+浮遊クルーザーA[END]
+
+
+//Text $1A6008
+#WRITE(ptr,$1897E0)
+ベルクラントA[END]
+
+
+//Text $1A5FF8
+#WRITE(ptr,$1897EC)
+ベルクラントB[END]
+
+
+//Text $1A5FE0
+#WRITE(ptr,$1897F8)
+ソーディアン研究所A[END]
+
+
+//Text $1A5FC8
+#WRITE(ptr,$189804)
+ソーディアン研究所B[END]
+
+
+//Text $1A5FB8
+#WRITE(ptr,$189810)
+ジャンクランドA[END]
+
+
+//Text $1A5FA0
+#WRITE(ptr,$18981C)
+ジャンクランドA(夜)[END]
+
+
+//Text $1A5F88
+#WRITE(ptr,$189828)
+トラッシュマウンテンA[END]
+
+
+//Text $1A5F70
+#WRITE(ptr,$189834)
+トラッシュマウンテンB[END]
+
+
+//Text $1A5F60
+#WRITE(ptr,$189840)
+ダイクロフトA[END]
+
+
+//Text $1A5F50
+#WRITE(ptr,$18984C)
+ダイクロフトB[END]
+
+
+//Text $1A5F40
+#WRITE(ptr,$189858)
+ＥＸダンジョンA[END]
+
+
+//Text $1A5F30
+#WRITE(ptr,$189864)
+ＥＸダンジョンB[END]
+
+
+//Text $1A5F20
+#WRITE(ptr,$189870)
+旅人の小屋A[END]
+
+
+//Text $1A5F10
+#WRITE(ptr,$18987C)
+旅人の小屋A(夜)[END]
+
+
+//Text $1A5F00
+#WRITE(ptr,$189888)
+ねこにん基地A[END]
+
+
+//Text $1A5EF0
+#WRITE(ptr,$189894)
+戦闘汎用A[END]
+
+
+//Text $1A5EE8
+#WRITE(ptr,$1898A0)
+保険用A[END]
+
+
+//Section City Name
+
+//Text $1A74F0
+#WRITE(ptr,$189DD0)
+Torn's Cabin[END]
+
+
+//Text $1A74E0
+#WRITE(ptr,$189DD4)
+[END]
+
+
+//Text $1A74A0
+#WRITE(ptr,$189DD8)
+A hut in a snowy mountain forest.[LINE]
+Home to master archer Alba Torn.[END]
+
+
+//Text $1A7488
+#WRITE(ptr,$189E08)
+Janos[END]
+
+
+//Text $1A7480
+#WRITE(ptr,$189E0C)
+[END]
+
+
+//Text $1A7410
+#WRITE(ptr,$189E10)
+A border town in the northern part of[LINE]
+Phandaria. Phandaria owns the south[LINE]
+and Seinegald owns the north.[END]
+
+
+//Text $1A73F8
+#WRITE(ptr,$189E40)
+Heidelberg[END]
+
+
+//Text $1A73E8
+#WRITE(ptr,$189E44)
+[END]
+
+
+//Text $1A7390
+#WRITE(ptr,$189E48)
+The capital of Phandaria.[LINE]
+The snow on the streets absorbs [LINE]
+the hustle and bustle of the city.[END]
+
+
+//Text $1A7378
+#WRITE(ptr,$189E78)
+Darilsheid[END]
+
+
+//Text $1A7368
+#WRITE(ptr,$189E7C)
+[END]
+
+
+//Text $1A7328
+#WRITE(ptr,$189E80)
+Capital of Seinegald.[LINE]
+The well-developed town [LINE]
+is filled with people.[END]
+
+
+//Text $1A7318
+#WRITE(ptr,$189EB0)
+Cresta[END]
+
+
+//Text $1A7310
+#WRITE(ptr,$189EB4)
+[END]
+
+
+//Text $1A72C0
+#WRITE(ptr,$189EB8)
+City in the eastern part of Seingard.[LINE]
+As a small town, time flows slowly.[LINE]
+[END]
+
+
+//Text $1A72A8
+#WRITE(ptr,$189EE8)
+Oberon's Hidden Factory [END]
+
+
+//Text $1A7290
+#WRITE(ptr,$189EEC)
+[END]
+
+
+//Text $1A7240
+#WRITE(ptr,$189EF0)
+セインガルドの北東海域の島に造られた[LINE]
+オベロン社の工場。[LINE]
+現在は閉鎖されている。[END]
+
+
+//Text $1A7230
+#WRITE(ptr,$189F20)
+Lienea[END]
+
+
+//Text $1A7228
+#WRITE(ptr,$189F24)
+[END]
+
+
+//Text $1A71E0
+#WRITE(ptr,$189F28)
+フィッツガルドの北部にある村。[LINE]
+ほとんどの村民が農業と牧畜を営んでいる。[END]
+
+
+//Text $1A71D0
+#WRITE(ptr,$189F58)
+The Hidden Temple [END]
+
+
+//Text $1A71B8
+#WRITE(ptr,$189F5C)
+[END]
+
+
+//Text $1A7188
+#WRITE(ptr,$189F60)
+フィッツガルドの北部の内湾部にある遺跡。[END]
+
+
+//Text $1A7178
+#WRITE(ptr,$189F90)
+Cherik[END]
+
+
+//Text $1A7170
+#WRITE(ptr,$189F94)
+[END]
+
+
+//Text $1A7100
+#WRITE(ptr,$189F98)
+カルバレイスの南部にある港町。[LINE]
+厳しい環境のカルバレイスにとって[LINE]
+他国の物資が補給できる港は、まさに生命線。[END]
+
+
+//Text $1A70F0
+#WRITE(ptr,$189FC8)
+Kalviola[END]
+
+
+//Text $1A70E0
+#WRITE(ptr,$189FCC)
+[END]
+
+
+//Text $1A7088
+#WRITE(ptr,$189FD0)
+カルバレイスの首都。[LINE]
+店舗の軒先には、夜になると色とりどりの[LINE]
+ネオンサインが輝く。[END]
+
+
+//Text $1A7078
+#WRITE(ptr,$18A000)
+Junkland[END]
+
+
+//Text $1A7068
+#WRITE(ptr,$18A004)
+[END]
+
+
+//Text $1A7000
+#WRITE(ptr,$18A008)
+カルバレイスの西部にある街。[LINE]
+堆積した大昔の産業廃棄物の山を再利用して[LINE]
+生活する人々が住んでいる。[END]
+
+
+//Text $1A6FF0
+#WRITE(ptr,$18A038)
+Radisrol[END]
+
+
+//Text $1A6FE0
+#WRITE(ptr,$18A03C)
+[END]
+
+
+//Text $1A6F90
+#WRITE(ptr,$18A040)
+かつて勇名を馳せた船。[LINE]
+現在は海中深くに沈み、[LINE]
+その存在を知る者はいない。[END]
+
+
+//Text $1A6F80
+#WRITE(ptr,$18A070)
+Harmentz[END]
+
+
+//Text $1A6F70
+#WRITE(ptr,$18A074)
+[END]
+
+
+//Text $1A6F28
+#WRITE(ptr,$18A078)
+セインガルドの西部にある村。[LINE]
+質素な村には不釣合いな大きな屋敷がある。[END]
+
+
+//Text $1A6F18
+#WRITE(ptr,$18A0A8)
+Armeida[END]
+
+
+//Text $1A6F10
+#WRITE(ptr,$18A0AC)
+[END]
+
+
+//Text $1A6EC0
+#WRITE(ptr,$18A0B0)
+セインガルドの北部にある村。[LINE]
+ストレイライズ神殿への巡礼者が立ち寄る[LINE]
+憩いの村。[END]
+
+
+//Text $1A6EA8
+#WRITE(ptr,$18A0E0)
+Straylize Temple[END]
+
+
+//Text $1A6E90
+#WRITE(ptr,$18A0E4)
+[END]
+
+
+//Text $1A6E38
+#WRITE(ptr,$18A0E8)
+森の奥に整然とたたずむ神殿。[LINE]
+神殿としてだけでなく、研究施設としての[LINE]
+役割も担っている。[END]
+
+
+//Text $1A6E28
+#WRITE(ptr,$18A118)
+Cyril[END]
+
+
+//Text $1A6E20
+#WRITE(ptr,$18A11C)
+[END]
+
+
+//Text $1A6DB8
+#WRITE(ptr,$18A120)
+ファンダリアの南部にある街。[LINE]
+２年前に王家の軍が派遣されて街は戦場と[LINE]
+化したが、現在は復興を遂げている。[END]
+
+
+//Text $1A6DA0
+#WRITE(ptr,$18A150)
+Snowheim[END]
+
+
+//Text $1A6D90
+#WRITE(ptr,$18A154)
+[END]
+
+
+//Text $1A6D38
+#WRITE(ptr,$18A158)
+ファンダリアの東部にある港町。[LINE]
+温泉があるため、他国からも湯治目的の[LINE]
+観光客が訪れる。[END]
+
+
+//Text $1A6D28
+#WRITE(ptr,$18A188)
+Sheeden[END]
+
+
+//Text $1A6D20
+#WRITE(ptr,$18A18C)
+[END]
+
+
+//Text $1A6CE8
+#WRITE(ptr,$18A190)
+アクアヴェイルの北部にある[LINE]
+シデン家が治める領内の街。[END]
+
+
+//Text $1A6CD8
+#WRITE(ptr,$18A1C0)
+Terazzi[END]
+
+
+//Text $1A6CD0
+#WRITE(ptr,$18A1C4)
+[END]
+
+
+//Text $1A6C98
+#WRITE(ptr,$18A1C8)
+アクアヴェイルの南部にある[LINE]
+トウケイ家が治める領内の街。[END]
+
+
+//Text $1A6C88
+#WRITE(ptr,$18A1F8)
+Moreau[END]
+
+
+//Text $1A6C80
+#WRITE(ptr,$18A1FC)
+[END]
+
+
+//Text $1A6C48
+#WRITE(ptr,$18A200)
+アクアヴェイルの西部にある[LINE]
+モリュウ家が治める領内の街。[END]
+
+
+//Text $1A6C30
+#WRITE(ptr,$18A230)
+Neustadt[END]
+
+
+//Text $1A6C20
+#WRITE(ptr,$18A234)
+[END]
+
+
+//Text $1A6BD0
+#WRITE(ptr,$18A238)
+フィッツガルドの南部にある新興の街。[LINE]
+闘技場では日夜激闘が繰り広げられている。[END]
+
+
+//Text $1A6BB8
+#WRITE(ptr,$18A268)
+Sea Cave (Moreau)[END]
+
+
+//Text $1A6BA8
+#WRITE(ptr,$18A26C)
+[END]
+
+
+//Text $1A6B80
+#WRITE(ptr,$18A270)
+シデン領とモリュウ領をつなぐ海底洞窟。[END]
+
+
+//Text $1A6B68
+#WRITE(ptr,$18A2A0)
+Sea Cave (Sheeden)[END]
+
+
+//Text $1A6BA8
+#WRITE(ptr,$18A2A4)
+[END]
+
+
+//Text $1A6B80
+#WRITE(ptr,$18A2A8)
+シデン領とモリュウ領をつなぐ海底洞窟。[END]
+
+
+//Text $1A6B58
+#WRITE(ptr,$18A2D8)
+Tilso Forest[END]
+
+
+//Text $1A6B48
+#WRITE(ptr,$18A2DC)
+[END]
+
+
+//Text $1A6B18
+#WRITE(ptr,$18A2E0)
+ファンダリア東部と西部をつなぐ雪深い森。[END]
+
+
+//Text $1A6B00
+#WRITE(ptr,$18A310)
+Straylize Forest[END]
+
+
+//Text $1A6AE8
+#WRITE(ptr,$18A314)
+[END]
+
+
+//Text $1A6A80
+#WRITE(ptr,$18A318)
+山のいただきにある森。[LINE]
+神殿へと向かう道のため、神殿関係者以外が[LINE]
+利用する姿を目にする機会は少ない。[END]
+
+
+//Text $1A6A68
+#WRITE(ptr,$18A348)
+Swordian R&D Lab[END]
+
+
+//Text $1A6A50
+#WRITE(ptr,$18A34C)
+[END]
+
+
+//Text $1A69F8
+#WRITE(ptr,$18A350)
+地底深くにある地上軍の研究施設。[LINE]
+ベルクラントの砲撃によって地中から[LINE]
+姿を現した。[END]
+
+
+//Text $1A69E8
+#WRITE(ptr,$18A380)
+Traveler's Lodge [END]
+
+
+//Text $1A69D0
+#WRITE(ptr,$18A384)
+[END]
+
+
+//Text $1A6988
+#WRITE(ptr,$18A388)
+旅する者が休息に立ち寄る小屋。[LINE]
+ここでは不思議な出会いがあるかも。[END]
+
+
+//Text $1A6970
+#WRITE(ptr,$18A3B8)
+Food Sack Master's Hermitage[END]
+
+
+//Text $1A6950
+#WRITE(ptr,$18A3BC)
+[END]
+
+
+//Text $1A6928
+#WRITE(ptr,$18A3C0)
+フードサック作りを極めた者が住む庵。[END]
+
+
+//Text $1A6918
+#WRITE(ptr,$18A3F0)
+Lumina Draconis[END]
+
+
+//Text $1A6908
+#WRITE(ptr,$18A3F4)
+[END]
+
+
+//Text $1A68D8
+#WRITE(ptr,$18A3F8)
+生態金属ベルセリウムによって造られた[LINE]
+輸送施設。[END]
+
+
+//Text $1A68C0
+#WRITE(ptr,$18A428)
+Phandaria Pass[END]
+
+
+//Text $1A68B0
+#WRITE(ptr,$18A42C)
+[END]
+
+
+//Text $1A6870
+#WRITE(ptr,$18A430)
+ジェノスの街とトーンの山小屋を結ぶ[LINE]
+雪の降り積もった山道。[END]
+
+
+//Text $1A6FF0
+#WRITE(ptr,$18A460)
+Radisrol[END]
+
+
+//Text $1A6FE0
+#WRITE(ptr,$18A464)
+[END]
+
+
+//Text $1A7878
+#WRITE(ptr,$18A468)
+かつて勇名を馳せた船。[LINE]
+天地戦争で用いた電撃作戦を再び敢行して[LINE]
+外殻に浮上した。[END]
+
+
+//Text $1A7868
+#WRITE(ptr,$18A498)
+Ignasea[END]
+
+
+//Text $1A7860
+#WRITE(ptr,$18A49C)
+[END]
+
+
+//Text $1A7808
+#WRITE(ptr,$18A4A0)
+ラディスロウから一番近い空中都市。[LINE]
+空中都市同士を結ぶ、転送装置の[LINE]
+ターミナルがある。[END]
+
+
+//Text $1A77F8
+#WRITE(ptr,$18A4D0)
+Josaia[END]
+
+
+//Text $1A77F0
+#WRITE(ptr,$18A4D4)
+[END]
+
+
+//Text $1A77B8
+#WRITE(ptr,$18A4D8)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+
+
+//Text $1A77A8
+#WRITE(ptr,$18A508)
+Mikheil[END]
+
+
+//Text $1A77A0
+#WRITE(ptr,$18A50C)
+[END]
+
+
+//Text $1A7768
+#WRITE(ptr,$18A510)
+空中都市群を空路で結んでいた[LINE]
+浮遊クルーザーがある。[END]
+
+
+//Text $1A7758
+#WRITE(ptr,$18A540)
+Rodeon[END]
+
+
+//Text $1A7750
+#WRITE(ptr,$18A544)
+[END]
+
+
+//Text $1A77B8
+#WRITE(ptr,$18A548)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+
+
+//Text $1A7740
+#WRITE(ptr,$18A578)
+Helraios[END]
+
+
+//Text $1A7730
+#WRITE(ptr,$18A57C)
+[END]
+
+
+//Text $1A76E8
+#WRITE(ptr,$18A580)
+空中都市群の中でも重要な拠点のひとつ。[LINE]
+天上軍の技術研究施設がある。[END]
+
+
+//Text $1A76D8
+#WRITE(ptr,$18A5B0)
+Deimos[END]
+
+
+//Text $1A76D0
+#WRITE(ptr,$18A5B4)
+[END]
+
+
+//Text $1A77B8
+#WRITE(ptr,$18A5B8)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+
+
+//Text $1A76C0
+#WRITE(ptr,$18A5E8)
+Cloudius[END]
+
+
+//Text $1A76B0
+#WRITE(ptr,$18A5EC)
+[END]
+
+
+#JMP($1A5EE7)
+//Text $1A7668
+#WRITE(ptr,$18A5F0)
+空中都市群の中でも重要な拠点のひとつ。[LINE]
+守護竜のコントロール施設がある。[END]
+
+
+//Text $1A7658
+#WRITE(ptr,$18A620)
+Dycroft[END]
+
+
+//Text $1A7650
+#WRITE(ptr,$18A624)
+[END]
+
+
+//Text $1A75E8
+#WRITE(ptr,$18A628)
+空中都市群の最重要拠点。[LINE]
+ダイクロフトにある神の眼によって[LINE]
+全ての空中都市の機能が制御されている。[END]
+
+
+//Text $1A75D8
+#WRITE(ptr,$18A658)
+Katz Village[END]
+
+
+//Text $1A75C8
+#WRITE(ptr,$18A65C)
+Nekonin's Base[END]
+
+
+//Text $1A7598
+#WRITE(ptr,$18A660)
+外殻にきてしまったねこにんが造った基地。[END]
+
+
+//Text $1A7588
+#WRITE(ptr,$18A690)
+Hole to the Ground [END]
+
+
+//Text $1A7570
+#WRITE(ptr,$18A694)
+[END]
+
+
+//Text $1A7508
+#WRITE(ptr,$18A698)
+ラディスロウのあった場所を[LINE]
+レンズ砲で打ち抜いてできた穴。[LINE]
+地上と外殻大地を繋ぐ唯一にして希望の道。[END]
 
 
 //Section Consumable
@@ -7980,6 +9486,7 @@ increases physical attack by 1.[END]
 [Sign_9]Verbena[END]
 
 
+#JMP($1A6870)
 //Text $1AF470
 #WRITE(ptr,$18C894)
 A medicinal herb that[LINE]
@@ -8602,6 +10109,7 @@ for some medicine.[END]
 [Sign_Box]Purple Liquid[END]
 
 
+#JMP($1AC530)
 //Text $1AE1F0
 #WRITE(ptr,$18CED0)
 A smelly purple liquid.[LINE]
@@ -8662,7 +10170,6 @@ Only those who know "short bow" can answer.[END]
 [Sign_Box]Triasphere[END]
 
 
-#JMP($1AC530)
 //Text $1AE028
 #WRITE(ptr,$18CF5C)
 A mysterious sphere with "III" on it.[LINE]
@@ -10658,7 +12165,7 @@ A small bow made of steel.[LINE]
 //Text $1B1C80
 #WRITE(ptr,$18E744)
 A small bow made of titanium.[LINE]
-[LINE]
+It is very versatile.[LINE]
 [END]
 
 
@@ -10909,7 +12416,7 @@ Knuckles made of iron.[LINE]
 //Text $1B14C8
 #WRITE(ptr,$18EC30)
 Knuckles made of titanium.[LINE]
-[LINE]
+They are very versatile.[LINE]
 [END]
 
 
@@ -14808,12 +16315,12 @@ Diced Steak[END]
 
 //Text $1B8F90
 #WRITE(ptr,$19234C)
-かなり[END]
+Loaded[END]
 
 
 //Text $1B8F80
 #WRITE(ptr,$192350)
-コラボかなり[END]
+Collab Loaded[END]
 
 
 //Text $1B8F70
@@ -16475,6 +17982,7 @@ Infinite potential awaits the free bird.[END]
 #WRITE(ptr,$194838)
 Bomb Alchemist[END]
 
+#JMP($1BB628)
 //POINTER #101 @ $19483C - STRING #101 @ $1BE090
 #WRITE(ptr,$19483C)
 A scientist who alchemizes and mixes[LINE]
@@ -16537,7 +18045,6 @@ The Dashing Priestess.[END]
 #WRITE(ptr,$194868)
 Quiz Club Director[END]
 
-#JMP($1BB628)
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
 A club created out of an intellectual[LINE]
@@ -17508,222 +19015,5 @@ Salesgirl[END]
 Each has his own business talent.[LINE]
 With a heartwarming smile.[LINE]
 I'll do my best everyday[END]
-
-
-//Section Attribute Items
-
-//Text $1BF450
-#WRITE(ptr,$194CD8)
-------[END]
-
-
-//Text $1BF448
-#WRITE(ptr,$194CDC)
-Usable[END]
-
-
-//Text $1BF448
-#WRITE(ptr,$194CE0)
-Usable[END]
-
-
-//Text $1BF440
-#WRITE(ptr,$194CE4)
-Other[END]
-
-
-//Text $1BF438
-#WRITE(ptr,$194CE8)
-保険[END]
-
-
-//Text $1BF430
-#WRITE(ptr,$194CEC)
-Ore[END]
-
-
-//Text $1BF420
-#WRITE(ptr,$194CF0)
-Recipe[END]
-
-
-//Text $1BF418
-#WRITE(ptr,$194CF4)
-Sword[END]
-
-
-//Text $1BF410
-#WRITE(ptr,$194CF8)
-Axe[END]
-
-
-//Text $1BF408
-#WRITE(ptr,$194CFC)
-Bow[END]
-
-
-//Text $1BF400
-#WRITE(ptr,$194D00)
-Strings[END]
-
-
-//Text $1BF3F0
-#WRITE(ptr,$194D04)
-Knuckles[END]
-
-
-//Text $1BF3E8
-#WRITE(ptr,$194D08)
-Ladle[END]
-
-
-//Text $1BF3D8
-#WRITE(ptr,$194D0C)
-Armor[END]
-
-
-//Text $1BF3C8
-#WRITE(ptr,$194D10)
-Plate[END]
-
-
-//Text $1BF3C0
-#WRITE(ptr,$194D14)
-Wear[END]
-
-
-//Text $1BF3B0
-#WRITE(ptr,$194D18)
-Cloak[END]
-
-
-//Text $1BF3A8
-#WRITE(ptr,$194D1C)
-Robe[END]
-
-
-//Text $1BF3A0
-#WRITE(ptr,$194D20)
-Jewel[END]
-
-
-//Text $1BF390
-#WRITE(ptr,$194D24)
-Unique[END]
-
-
-//Text $1BF388
-#WRITE(ptr,$194D28)
-Bracer[END]
-
-
-//Text $1BF378
-#WRITE(ptr,$194D2C)
-Gloves[END]
-
-
-//Text $1BF370
-#WRITE(ptr,$194D30)
-Pendant[END]
-
-
-//Text $1BF368
-#WRITE(ptr,$194D34)
-Longbow[END]
-
-
-//Text $1BF360
-#WRITE(ptr,$194D38)
-Dagger[END]
-
-
-//Text $1BF350
-#WRITE(ptr,$194D3C)
-Bandana[END]
-
-
-//Text $1BF348
-#WRITE(ptr,$194D40)
-Ribbon[END]
-
-
-//Text $1BF340
-#WRITE(ptr,$194D44)
-Hat[END]
-
-
-//Text $1BF338
-#WRITE(ptr,$194D48)
-Belt[END]
-
-
-//Text $1BF328
-#WRITE(ptr,$194D4C)
-Frypan[END]
-
-
-//Text $1BF320
-#WRITE(ptr,$194D50)
-Card[END]
-
-
-//Text $1BF318
-#WRITE(ptr,$194D54)
-Book[END]
-
-
-//Text $1BF308
-#WRITE(ptr,$194D58)
-Food Sack[END]
-
-
-//Text $1BF300
-#WRITE(ptr,$194D5C)
-Key[END]
-
-
-//Text $1BF2F8
-#WRITE(ptr,$194D60)
-Lens[END]
-
-
-//Text $1BF458
-#WRITE(ptr,$194D68)
-P. ATK[END]
-
-
-//Text $1BF460
-#WRITE(ptr,$194D6C)
-M. ATK[END]
-
-
-//Text $1BF498
-#WRITE(ptr,$194D70)
-P. DEF[END]
-
-
-//Text $1BF4A0
-#WRITE(ptr,$194D74)
-M. DEF[END]
-
-
-//Text $1BF470
-#WRITE(ptr,$194D78)
-ACC[END]
-
-
-//Text $1BF4B0
-#WRITE(ptr,$194D7C)
-EVA[END]
-
-
-//Text $1BF478
-#WRITE(ptr,$194D80)
-CRT[END]
-
-
-//Text $1BF4B8
-#WRITE(ptr,$194D84)
-VIT[END]
 
 

@@ -4258,7 +4258,7 @@ The power of impersonation?[END]
 
 //Text $1A1BE0
 #WRITE(ptr,$185694)
-一定確率で気絶させる[END]
+Increase stun rate[END]
 
 
 //Text $1A1BD8
@@ -4448,7 +4448,7 @@ Stamina[END]
 
 //Text $1A1808
 #WRITE(ptr,$1858D8)
-ライフ１０％回復[END]
+Restores 10% HP[END]
 
 
 //Text $1A1800
@@ -4574,7 +4574,7 @@ The Mountain Path of Phandaria (First Half)[END]
 
 //Text $1A4E78
 #WRITE(ptr,$186BE8)
-The Mountain path of Phandaria (Second Half)[END]
+The Mountain Path of Phandaria (Second Half)[END]
 
 
 //Text $1A4E68
@@ -4584,422 +4584,422 @@ Cave Leading to the Temple[END]
 
 //Text $1A4E60
 #WRITE(ptr,$186C00)
-神殿[END]
+Temple[END]
 
 
 //Text $1A4E50
 #WRITE(ptr,$186C0C)
-警備兵戦[END]
+Gaurd Battle[END]
 
 
 //Text $1A4E30
 #WRITE(ptr,$186C18)
-ファンダリアF1(ジェノス周辺）[END]
+Phandaria F1(Around Janos) [END]
 
 
 //Text $1A4E08
 #WRITE(ptr,$186C24)
-セインガルドF1(ダリルシェイド周辺)[END]
+SeinegaldF1(Around Darilsheid)[END]
 
 
 //Text $1A4DF0
 #WRITE(ptr,$186C30)
-セインガルド兵士戦１[END]
+Seinegald Soldier Battle１[END]
 
 
 //Text $1A4DD8
 #WRITE(ptr,$186C3C)
-セインガルド兵士戦２[END]
+Seinegald Soldier Battle 2[END]
 
 
 //Text $1A4DC8
 #WRITE(ptr,$186C48)
-リオン戦１[END]
+Leon Battle 1[END]
 
 
 //Text $1A4DA0
 #WRITE(ptr,$186C54)
-セインガルドF1(ストレイライズの森周辺)[END]
+Seingald F1(Around Straylize Forest)[END]
 
 
 //Text $1A4D80
 #WRITE(ptr,$186C60)
-ストレイライズの森・ふもと[END]
+Straylize Forest・Base[END]
 
 
 //Text $1A4D60
 #WRITE(ptr,$186C6C)
-ストレイライズの森・中腹[END]
+Straylize Forest・Mountainside[END]
 
 
 //Text $1A4D40
 #WRITE(ptr,$186C78)
-ストレイライズの森・山頂[END]
+Straylize Forest・Summit[END]
 
 
 //Text $1A4D28
 #WRITE(ptr,$186C84)
-ストレイライズ神殿[END]
+Straylize Temple[END]
 
 
 //Text $1A4D08
 #WRITE(ptr,$186C90)
-ストレイライズ神殿(イベント用)[END]
+Straylize Temple(For Events)[END]
 
 
 //Text $1A4CF8
 #WRITE(ptr,$186C9C)
-ローパー戦[END]
+Roper Battle[END]
 
 
 //Text $1A4CE8
 #WRITE(ptr,$186CA8)
-海底都市(前半)[END]
+Undersea City(First Half)[END]
 
 
 //Text $1A4CD8
 #WRITE(ptr,$186CB4)
-海底都市(後半)[END]
+Undersea City(Second Half)[END]
 
 
 //Text $1A4CB8
 #WRITE(ptr,$186CC0)
-カルバレイスF1(カルビオラ周辺)[END]
+Calvalese F1(around Kalovia)[END]
 
 
 //Text $1A4C90
 #WRITE(ptr,$186CCC)
-カルバレイスF1(ジャンクランド周辺)[END]
+Calvalese F1(around Junkland)[END]
 
 
 //Text $1A4C80
 #WRITE(ptr,$186CD8)
-カルビオラ神殿[END]
+Kalviola Temple[END]
 
 
 //Text $1A4C68
 #WRITE(ptr,$186CE4)
-石化モンスター戦[END]
+Petrified Monster Battle[END]
 
 
 //Text $1A4C40
 #WRITE(ptr,$186CF0)
-フィッツガルドF1(ノイシュタット周辺)[END]
+Fitzgald F1(around Neuestadt)[END]
 
 
 //Text $1A4C20
 #WRITE(ptr,$186CFC)
-フィッツガルドF1(リーネ周辺)[END]
+Fitzgald F1(around Lienea)[END]
 
 
 //Text $1A4C10
 #WRITE(ptr,$186D08)
-コングマン戦[END]
+Kongman Battle[END]
 
 
 //Text $1A4C08
 #WRITE(ptr,$186D14)
-ボア戦[END]
+Boa Battle[END]
 
 
 //Text $1A4BF8
 #WRITE(ptr,$186D20)
-海賊船(有利)[END]
+Pirate Ship (Advantage)[END]
 
 
 //Text $1A4BE8
 #WRITE(ptr,$186D2C)
-海賊船(不利)[END]
+Pirate Ship (Disadvantage)[END]
 
 
 //Text $1A4BD8
 #WRITE(ptr,$186D38)
-バティスタ戦１[END]
+Batista Battle１[END]
 
 
 //Text $1A4BC0
 #WRITE(ptr,$186D44)
-アクアヴェイルF1[END]
+Aquaveil F1[END]
 
 
 //Text $1A4BA8
 #WRITE(ptr,$186D50)
-シデンの海底洞窟(前半)[END]
+Sheeden Tidal Cave (First Half)[END]
 
 
 //Text $1A4B90
 #WRITE(ptr,$186D5C)
-シデンの海底洞窟(後半)[END]
+Sheeden Tidal Cave (Final Half)[END]
 
 
 //Text $1A4B80
 #WRITE(ptr,$186D68)
-ケイブキング戦[END]
+Cave King Battle[END]
 
 
 //Text $1A4B68
 #WRITE(ptr,$186D74)
-モリュウ城(前半)[END]
+Moreau Castle (First Half)[END]
 
 
 //Text $1A4B50
 #WRITE(ptr,$186D80)
-モリュウ城(後半)[END]
+Moreau Castle (Final Half)[END]
 
 
 //Text $1A4B40
 #WRITE(ptr,$186D8C)
-バティスタ戦２[END]
+Batista Battle 2[END]
 
 
 //Text $1A4B30
 #WRITE(ptr,$186D98)
-クラーケン戦[END]
+Kraken Battle[END]
 
 
 //Text $1A4B18
 #WRITE(ptr,$186DA4)
-トウケイ城(前半)[END]
+Clock Tower(First Half)[END]
 
 
 //Text $1A4B00
 #WRITE(ptr,$186DB0)
-トウケイ城(後半)[END]
+Clock Tower (Final Half)[END]
 
 
 //Text $1A4AF0
 #WRITE(ptr,$186DBC)
-ティベリウス戦[END]
+Tiberius Battle[END]
 
 
 //Text $1A4AE0
 #WRITE(ptr,$186DC8)
-ファンダリアF1[END]
+Phandaria F1[END]
 
 
 //Text $1A4AD0
 #WRITE(ptr,$186DD4)
-反乱軍兵士戦[END]
+Rebel Army Soldiers Battle[END]
 
 
 //Text $1A4AB8
 #WRITE(ptr,$186DE0)
-ティルソの森(通路)[END]
+Tilso Forest (Pathway)[END]
 
 
 //Text $1A4AA0
 #WRITE(ptr,$186DEC)
-ティルソの森(部屋)[END]
+Tilso Forest (Room)[END]
 
 
 //Text $1A4A88
 #WRITE(ptr,$186DF8)
-ハイデルベルグ地下通路[END]
+Heidelberg Underground Passage[END]
 
 
 //Text $1A4A78
 #WRITE(ptr,$186E04)
-ダリス戦[END]
+Dalis Battle[END]
 
 
 //Text $1A4A60
 #WRITE(ptr,$186E10)
-ハイデルベルグ城[END]
+Heidelberg Castle[END]
 
 
 //Text $1A4A50
 #WRITE(ptr,$186E1C)
-グレバム戦[END]
+Battle of Grebam[END]
 
 
 //Text $1A4A28
 #WRITE(ptr,$186E28)
-フィッツガルドF2(ノイシュタット周辺)[END]
+Fitzgald F2(around Neuestadt)[END]
 
 
 //Text $1A4A08
 #WRITE(ptr,$186E34)
-フィッツガルドF2(リーネ周辺)[END]
+Fitzgald F2(around Lienea)[END]
 
 
 //Text $1A49E8
 #WRITE(ptr,$186E40)
-ファンダリアF2(ジェノス周辺）[END]
+Phandaria F2(around Janos）[END]
 
 
 //Text $1A49D8
 #WRITE(ptr,$186E4C)
-ファンダリアF2[END]
+Phandaria F2[END]
 
 
 //Text $1A49B0
 #WRITE(ptr,$186E58)
-セインガルドF2(ダリルシェイド周辺)[END]
+Seinegald F2(around Darilsheid)[END]
 
 
 //Text $1A4988
 #WRITE(ptr,$186E64)
-セインガルドF2(ストレイライズの森周辺)[END]
+Seinegald F2(around Straylize Forest)[END]
 
 
 //Text $1A4968
 #WRITE(ptr,$186E70)
-カルバレイスF2(カルビオラ周辺)[END]
+Calvalese F2(around Kalviola)[END]
 
 
 //Text $1A4940
 #WRITE(ptr,$186E7C)
-カルバレイスF2(ジャンクランド周辺)[END]
+Calvalese F2(around Junkland)[END]
 
 
 //Text $1A4928
 #WRITE(ptr,$186E88)
-アクアヴェイルF2[END]
+Aquaveil F2[END]
 
 
 //Text $1A4910
 #WRITE(ptr,$186E94)
-オベロン社秘密工場[END]
+Oberon's Secret Factory[END]
 
 
 //Text $1A4900
 #WRITE(ptr,$186EA0)
-海底洞窟[END]
+Undersea Cave[END]
 
 
 //Text $1A48F0
 #WRITE(ptr,$186EAC)
-リオン戦２[END]
+Battle with Leon２[END]
 
 
 //Text $1A48E0
 #WRITE(ptr,$186EB8)
-隠された神殿[END]
+Hidden Temple[END]
 
 
 //Text $1A48C0
 #WRITE(ptr,$186EC4)
-隠された神殿・イベント戦[END]
+Hidden Temple・Event Battle[END]
 
 
 //Text $1A48A0
 #WRITE(ptr,$186ED0)
-外殻・ラディスロウ周辺１[END]
+Outer Shell・around Radisrol１[END]
 
 
 //Text $1A4890
 #WRITE(ptr,$186EDC)
-イグナシー[END]
+Ignasea[END]
 
 
 //Text $1A4878
 #WRITE(ptr,$186EE8)
-アンスズーン(ENG0)[END]
+Ansone(ENG0)[END]
 
 
 //Text $1A4860
 #WRITE(ptr,$186EF4)
-アンスズーン(ENG1)[END]
+Ansone(ENG1)[END]
 
 
 //Text $1A4848
 #WRITE(ptr,$186F00)
-アンスズーン(ENG2)[END]
+Ansone(ENG2)[END]
 
 
 //Text $1A4830
 #WRITE(ptr,$186F0C)
-アンスズーン(ENG3)[END]
+Ansone(ENG3)[END]
 
 
 //Text $1A4818
 #WRITE(ptr,$186F18)
-アンスズーン(ENG4)[END]
+Ansone(ENG4)[END]
 
 
 //Text $1A4800
 #WRITE(ptr,$186F24)
-アンスズーン(ENG5)[END]
+Ansone(ENG5)[END]
 
 
 //Text $1A47E0
 #WRITE(ptr,$186F30)
-外殻・クラウディス周辺１[END]
+Outer Shell・around Cloudius１[END]
 
 
 //Text $1A47C8
 #WRITE(ptr,$186F3C)
-クラウディス(前半)[END]
+Cloudius (First Half)[END]
 
 
 //Text $1A47B0
 #WRITE(ptr,$186F48)
-クラウディス(後半)[END]
+Cloudius (Second Half)[END]
 
 
 //Text $1A47A0
 #WRITE(ptr,$186F54)
-バルック戦[END]
+Baruch Battle[END]
 
 
 //Text $1A4790
 #WRITE(ptr,$186F60)
-ロディオン[END]
+Rodeon[END]
 
 
 //Text $1A4770
 #WRITE(ptr,$186F6C)
-外殻・ヘルレイオス周辺１[END]
+Outer Shell・around Helraios 1[END]
 
 
 //Text $1A4758
 #WRITE(ptr,$186F78)
-ヘルレイオス(前半)[END]
+Helraios (First Half)[END]
 
 
 //Text $1A4740
 #WRITE(ptr,$186F84)
-ヘルレイオス(後半)[END]
+Helraios(Second Half)[END]
 
 
 //Text $1A4730
 #WRITE(ptr,$186F90)
-イレーヌ[END]
+Ilene[END]
 
 
 //Text $1A4720
 #WRITE(ptr,$186F9C)
-シュサイア[END]
+Shusaia[END]
 
 
 //Text $1A4700
 #WRITE(ptr,$186FA8)
-外殻・ミックハイル周辺１[END]
+Outer Shell・around Mikheil１[END]
 
 
 //Text $1A46E8
 #WRITE(ptr,$186FB4)
-ミックハイル(前半)[END]
+Mikheil (First Half)[END]
 
 
 //Text $1A46D0
 #WRITE(ptr,$186FC0)
-ミックハイル(後半)[END]
+Mikheil (Second Half)[END]
 
 
 //Text $1A46C0
 #WRITE(ptr,$186FCC)
-レンブラント戦[END]
+Rembrandt Battle[END]
 
 
 //Text $1A46B0
 #WRITE(ptr,$186FD8)
-ベルクラント[END]
+Belcrant[END]
 
 
 //Text $1A46A0
 #WRITE(ptr,$186FE4)
-ヒューゴ戦[END]
+Hugo Battle[END]
 
 
 //Text $1A4690
@@ -5009,52 +5009,52 @@ Cave Leading to the Temple[END]
 
 //Text $1A4668
 #WRITE(ptr,$186FFC)
-セインガルドF3(ダリルシェイド周辺)[END]
+Seinegald F3(around Darilsheid)[END]
 
 
 //Text $1A4640
 #WRITE(ptr,$187008)
-セインガルドF3(ストレイライズの森周辺)[END]
+Seinegald F3(around Straylize Forest)[END]
 
 
 //Text $1A4618
 #WRITE(ptr,$187014)
-フィッツガルドF3(ノイシュタット周辺)[END]
+Fitzgald F3(around Neustadt)[END]
 
 
 //Text $1A45F8
 #WRITE(ptr,$187020)
-フィッツガルドF3(リーネ周辺)[END]
+Fitzgald F3(around Lienea)[END]
 
 
 //Text $1A45D8
 #WRITE(ptr,$18702C)
-ファンダリアF3(ジェノス周辺）[END]
+Phandaria F3(around Janos）[END]
 
 
 //Text $1A45B0
 #WRITE(ptr,$187038)
-ファンダリアF3(ハイデルベルグ周辺)[END]
+Phandaria F3(around Heidelberg)[END]
 
 
 //Text $1A4590
 #WRITE(ptr,$187044)
-カルバレイスF3(カルビオラ周辺)[END]
+Calvalese F3(around Kalviola)[END]
 
 
 //Text $1A4568
 #WRITE(ptr,$187050)
-カルバレイスF3(ジャンクランド周辺)[END]
+Calvalese F3(around Junkland)[END]
 
 
 //Text $1A4550
 #WRITE(ptr,$18705C)
-アクアヴェイルF3[END]
+Aquaveil F3[END]
 
 
 //Text $1A4538
 #WRITE(ptr,$187068)
-ソーディアン研究所[END]
+Swordian R&D Lab[END]
 
 
 //Text $1A4520
