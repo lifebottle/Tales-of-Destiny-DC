@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\maxla\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -1857,7 +1857,7 @@ the target's HP.[END]
 //Text $19C3E8
 #WRITE(ptr,$184D50)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 3 BG＞[/color][LINE]
-Gathers all his power into a single blow.[END]
+Gathers all his power for a single blow.[END]
 
 
 //Text $19C3D0
@@ -4631,7 +4631,7 @@ Focus using artes with status effects.[END]
 
 //Text $1A10F0
 #WRITE(ptr,$184EE8)
-Support[END]
+Fight Between[END]
 
 
 //Text $1A10A0
@@ -7955,7 +7955,7 @@ Torn's Cabin (Night)[END]
 
 //Text $1A6750
 #WRITE(ptr,$189318)
-トーンの山小屋・裏山A[END]
+Torn's Cabin, Back Mountain A[END]
 
 
 //Text $1A6738
@@ -8908,7 +8908,7 @@ fought day and night in the arena.[END]
 
 //Text $1A6BB8
 #WRITE(ptr,$18A268)
-Sea Cave (Moreau)[END]
+Tidal Cave (Moreau)[END]
 
 
 //Text $1A6BA8
@@ -8924,7 +8924,7 @@ Shiden and Moreau.[END]
 
 //Text $1A6B68
 #WRITE(ptr,$18A2A0)
-Sea Cave (Shiden)[END]
+Tidal Cave (Shiden)[END]
 
 
 //Text $1A6BA8
@@ -9033,8 +9033,8 @@ Lumina Draconis[END]
 
 //Text $1A68D8
 #WRITE(ptr,$18A3F8)
-A transport city built by the bio-metal[LINE]
-Belselium.[END]
+A transport city built by the biometal[LINE]
+Berselium.[END]
 
 
 //Text $1A68C0
@@ -9082,7 +9082,7 @@ Ignasea[END]
 
 //Text $1A7808
 #WRITE(ptr,$18A4A0)
-The nearest airborne city from Radisrol.[LINE]
+The nearest aerial city from Radisrol.[LINE]
 There is a transporter terminal that[LINE]
 connects the cities.[END]
 
@@ -9099,7 +9099,7 @@ Josaia[END]
 
 //Text $1A77B8
 #WRITE(ptr,$18A4D8)
-One of the airborne cities connected[LINE]
+One of the aerial cities connected[LINE]
 to Ignasea via a transporter.[END]
 
 
@@ -9116,7 +9116,7 @@ Mikheil[END]
 //Text $1A7768
 #WRITE(ptr,$18A510)
 A floating cruiser used to link the[LINE]
-airborne cities.[END]
+aerial cities.[END]
 
 
 //Text $1A7758
@@ -9131,7 +9131,7 @@ Rodeon[END]
 
 //Text $1A77B8
 #WRITE(ptr,$18A548)
-One of the airbornecities connected[LINE]
+One of the aerialcities connected[LINE]
 to Ignasea via a transporter.[END]
 
 
@@ -9147,9 +9147,9 @@ Helraios[END]
 
 //Text $1A76E8
 #WRITE(ptr,$18A580)
-One of the most important bases of[LINE]
-the airborne cities. It is home to the[LINE]
-technological research facilities for the Aeth'erian army. [END]
+One of the most important bases of the[LINE]
+aerial cities. It is home to the technological[LINE]
+research facilities for the Aeth'erian army. [END]
 
 
 //Text $1A76D8
@@ -9164,7 +9164,7 @@ Deimos[END]
 
 //Text $1A77B8
 #WRITE(ptr,$18A5B8)
-One of the airborne cities connected[LINE]
+One of the aerial cities connected[LINE]
 to Ignasea via a transporter.[END]
 
 
@@ -9181,7 +9181,7 @@ Cloudius[END]
 //Text $1A7668
 #WRITE(ptr,$18A5F0)
 One of the most important bases of[LINE]
-the airborne cities. There is a control[LINE]
+the aerial cities. There is a control[LINE]
 facility for the guardian dragons.[END]
 
 
@@ -9197,7 +9197,7 @@ Dycroft[END]
 
 //Text $1A75E8
 #WRITE(ptr,$18A628)
-The most important base of the airborne[LINE]
+The most important base of the aerial[LINE]
 cities. The functions of all the other cities[LINE]
 are controlled by the Eye of Atamoni here.[END]
 
@@ -9220,7 +9220,7 @@ come to the Outer Shell.[END]
 
 //Text $1A7588
 #WRITE(ptr,$18A690)
-Hole to the Ground [END]
+Hole to the Er'ther Lands[END]
 
 
 //Text $1A7570
@@ -9231,9 +9231,9 @@ Hole to the Ground [END]
 #JMP($1A6870)
 //Text $1A7508
 #WRITE(ptr,$18A698)
-A hole made by the lens cannon where[LINE]
-Radisrol was once located. It is the only[LINE]
-path connecting the ground and the Outer Shell.[END]
+A hole made by the lens cannon where Radisrol[LINE]
+was once located. It is the only path connecting[LINE]
+the Er'ther Lands and the Outer Shell.[END]
 
 
 //Section Shop Name
@@ -11728,7 +11728,7 @@ you unable to act.[LINE]
 
 //Text $1B0950
 #WRITE(ptr,$18D758)
-[Sign_2]Weak[END]
+[Sign_2]Weak Charm[END]
 
 
 //Text $1B0918
@@ -17391,7 +17391,7 @@ A record of the story so far.[LINE]
 
 //Text $1BADA0
 #WRITE(ptr,$1927BC)
-[Sign_Key]MANUAL Manual[END]
+[Sign_Key]Manual Tome[END]
 
 
 //Text $1BAD48
@@ -17613,7 +17613,7 @@ Mirror Shield.[LINE]
 
 //Text $1BA6F8
 #WRITE(ptr,$1929B8)
-A blue ore that is a source for bio-metals.[LINE]
+A blue ore that is a source for biometals.[LINE]
 Necessary to fix the Draconis.[LINE]
 [END]
 
@@ -17625,7 +17625,7 @@ Necessary to fix the Draconis.[LINE]
 
 //Text $1BA6A0
 #WRITE(ptr,$1929D4)
-A blue ore that is a source for bio-metals.[LINE]
+A blue ore that is a source for biometals.[LINE]
 There is enough to fix the Draconis.[LINE]
 [END]
 
@@ -18854,12 +18854,12 @@ BG＋25[END]
 BG＋50[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB940
 #WRITE(ptr,$1946B0)
 Min CC＋1[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB930
 #WRITE(ptr,$1946B4)
 Max CC＋1[END]
@@ -19979,13 +19979,15 @@ nature and culture.[END]
 
 //POINTER #218 @ $194A10 - STRING #218 @ $1BCB08
 #WRITE(ptr,$194A10)
-Children's Club Representative[END]
+Kid's Club Representative[END]
+
 
 //POINTER #219 @ $194A14 - STRING #219 @ $1BCAB0
 #WRITE(ptr,$194A14)
-Chelsea Torne (14), archer's granddaughter.[LINE]
+[Chelsea]Torn (14), archer's granddaughter.[LINE]
 151cm, 39kg.[LINE]
 Skilled beyond her appearance.[END]
+
 
 //POINTER #220 @ $194A18 - STRING #220 @ $1BCAA8
 #WRITE(ptr,$194A18)
