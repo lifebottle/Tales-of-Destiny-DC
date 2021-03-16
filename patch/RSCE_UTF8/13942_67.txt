@@ -632,28 +632,29 @@ notice
 持てないようです。
 
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-神殿内は祭礼の準備のため、関係者と
-巡礼者以外の立ち入りを禁止しています。
+Due to preparations for the festival,
+the temple is closed to the public.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-申し訳ないが、出直してください。
+I'm sorry, you'll have to
+come back another time.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-夜の神殿への出入りは
-禁止されています。
+Entering the temple at night,
+is not allowed.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-お引取り下さい。
+Please pick it up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Is that this town's
-Straylize Temple over there?
+Straylize temple over there?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -662,7 +663,8 @@ There's no mistaking it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright! Let's get in there!
+Alright!
+Well, let's get in there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -671,56 +673,54 @@ foolish to just rush in!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That's right. We don't know 
-what could be going on in there.
+That's right. We don't know what
+could be going on in there.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'll pretend to be a
-pilgrim and go in ahead.
+I'll pretend to be a pilgrim
+and go in ahead.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-If you'll all please come by
-after nightfall, I'll 
-unlock the back door for you.
+Please come by after nightfall.
+I'll unlock the back door for you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Will it be OK
+Will it be ok
 for you to do that?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes. It's not unusual for
-pilgrims to request sanctuary
-in holy places like this.
+Yes. It's not unusual
+for pilgrims to request
+sanctuary in holy places like this.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 During the day, I'll be
-as quiet as a mouse. 
-Noone will suspect a thing.
+quiet as a mouse.
+They won't suspect a thing.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Don't do anything reckless.
+Don't do anything rash.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I won't. Well then,
-I'll see you all tonight.
+I won't.
+Well then, until nightfall.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well, that's settled.
-How about we take a
-break until it gets dark?
+OK, that's settled.
+How about we
+take a break until it gets dark?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Let's go wait 
-at the Inn, then.
+Let's go wait at the Inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -754,11 +754,11 @@ at the Inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ほら、起きなさい<Stahn>……
+Wake up, <Stahn>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
+<Stahn>...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -770,181 +770,185 @@ at the Inn, then.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、しっかりしろ！
+<Stahn>, get a hold of yourself!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、ここは……？
+Huh, where...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やれやれ。元に戻ったみたいね。
+Good grief. Looks like
+you're back to normal.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いつの間にか、朝になってたんだ……
+The sun came up while
+I was out of it...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだ、グレバムは!?
+Wait, what about Lydon?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-逃げられた。
+He got away.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-間に合わなかったか……
+We didn't make it...
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Stahn>君、具合は大丈夫かね。
+<Stahn>, you've recovered.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-バルックさん、どうしてここへ？
+Baruk, why are you here?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-君たちがチェリクを出たと聞いてね。
-心配になって後を追って来たのだ。
+I heard you all had left Cherik. I got
+worried and followed after you.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-傭兵部隊を同行させてよかった。
-神殿内のモンスターは、全て片付けたぞ。
+I had a group of mercenaries accompany
+me. They finished off the monsters
+inside the temple.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>は知らないでしょうけど、
-あれから大変だったんだからね。
+<Stahn> doesn't know it, but it's
+been pretty tough since then.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-バルックが来てくれなかったら、
-わたしたちも危なかった。
+If Baruk hadn't come, we would
+have been in danger.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さんがバルックさんに、
-神殿へ向かうよう頼んでくれたんです。
+<Lion> helped lead Baruk
+to the temple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>が……？
+<Lion> did...?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-たまたま私たちが街に到着した時、
-<Lion>と会えたのでね。
+Unexpectedly, we met up with,
+<Lion> when we arrived in town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだったのか……
+Is that so...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんなを助けてくれたんだな。
-ありがとう、<Lion>。
+You saved all of us. Thanks, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……ふん、だから言っただろう。
-おまえたちは足手まといだと。
+...Hmph, it's just as I said.
+You're all a burden.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-本当ならバルックに協力させて、
-グレバムを捕らえられたはずなんだ。
+If I had worked with Baruk from the
+beginning, Lydon would already have
+been caught.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-お陰でいちからやり直しだ。
-まったく、くだらんな。
+Because of this, we have to
+start over. How utterly foolish.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-聞いているのか、<Stahn>。
-いちからやり直しだと言ってるんだ。
+Did you hear me, <Stahn>?
+I said we have to start over.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、ああ。
+O-oh, yeah.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-次にグレバムと会った時は、
-こうは行かない。
+The next time <Greybum> shows himself,
+things will not go this way.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その時こそ、僕たちの実力を、
-見せつけてやる。いいな？
+Next time, we will show him
+our true power. Okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……！
+<Lion>...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-バルック！
-グレバムの行き先はわかったか？
+Baruk! Do you know where
+<Greybum> could have gone?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-巨大なレンズらしき物体を運ぶ、
-モンスターの姿が目撃されている。
+Monsters have been sighted carrying
+what looks to be a giant lens.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-そのモンスターはどうやら、
-ノイシュタット方面へ向かったようだ。
+Those monsters are probably headed
+toward the Neuestadt area.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-船で追いかけるしかないか……
-バルック、手配を頼む。
+We'll have to pursue him by ship then...
+Baruk, I'm relying on you for the
+preparations.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕たちはカルバレイス港から出て、
-ノイシュタットへ向かう。
+We will leave for Neuestadt from
+the Port of Calvalese.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-了解した。私の権限内で、
-協力できる事は協力しよう。
+Understood. I'll do everything in
+my power to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！	みんな、すぐに出発だ！
+Alright! Everyone, let's go!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-待ちなさいよ、あんたたち！
-あわてすぎだって！
+Hang on, you two!
+Don't just rush off!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-やれやれ、あわただしい事だ。
+Oh my, they're in such a hurry.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-だが……
-これで納得したのではないかね？
+However...
+Isn't this convincing?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何がでしょう？
+What do you mean?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>は案外わかりやすいと、
-前に言った事だよ。
+Like I said before. <Lion> is
+surprisingly easy to understand.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……そうかもしれませんね。
+...That may be true.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

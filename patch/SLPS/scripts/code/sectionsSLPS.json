@@ -185,6 +185,22 @@
 	
 	{
 		"BlockId":			5,
+		"BlockDesc":		"Shop Name",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Shop Name",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1BB0A0",
+			"TextEnd":		"1A7876",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		}]
+	},
+	
+	{
+		"BlockId":			5,
 		"BlockDesc":		"Item",
 		"TextStartBlock":	"1AC530",
 		"Sections":[
@@ -268,15 +284,25 @@
 		"Sections":[
 		{
 			"SectionId":	1,
+			"SectionDesc":	"Shop Name",
+			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"TextStart":	"1BB0A0",
+			"TextEnd":		"1BB626",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		},
+		{
+			"SectionId":	2,
 			"SectionDesc":	"Other Food",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1BB628",
 			"TextEnd":		"1BB91F",
-			"PointerStart":	"194274",
-			"PointerEnd":	"194648"
+			"PointerStart":	"",
+			"PointerEnd":	""
 		},
 		{
-			"SectionId":	2,
+			"SectionId":	3,
 			"SectionDesc":	"Food Effect",
 			"GoogleSheetId":"1CphbUBulbyEK_Mm_fG0suXDLwo9xHWF2p1jhLmDHn3Y",
 			"TextStart":	"1BB930",
@@ -285,7 +311,7 @@
 			"PointerEnd":	"1946E4"
 		},
 		{
-			"SectionId":	3,
+			"SectionId":	4,
 			"SectionDesc":	"Title",
 			"GoogleSheetId":"1LdT2twEYnuzqkInMkLduB40_P64ROZ0vsrJ3NMOPfUw",
 			"TextStart":	"1BBC00",

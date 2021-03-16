@@ -170,7 +170,7 @@
 [ENDBLOCK]
 トッシュー
 [ENDBLOCK]
-あ！	お兄ちゃん。
+あ！　お兄ちゃん。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -240,144 +240,146 @@
 [ENDBLOCK]
 ダミーショップ配置
 [ENDBLOCK]
-<TAG_007>食材屋：元気一発
-道具屋：月夜道
+<TAG_007>食材屋：熬ﾆD一発
+Item Shop：月夜道
 武器屋：月の砂漠
 装飾屋：シルクロード
 オベ社：北西支部
 
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
-ここがカルバレイスの首都、
-カルビオラさ。
+This is Kalviola,
+the capital of Calvalese.
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 ひとりで街の外に
 出ない方がいいわよ。
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 砂漠で遭難しても
 誰も助けには行けないからね。
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
-ここがカルバレイスの首都、
-カルビオラさ。
+This is Kalviola,
+the capital of Calvalese.
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 あんたたち、もしかして、
 よそ者だったのかい？
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 よそ者に天罰が下ったんだ。
 あの声はあたしらの神のお告げだよ！
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 どうしてカルバレイスにまで、
-天罰が下るんだい？	おかしいよ……
+天罰が下るんだい？　おかしいよ……
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 やっぱりあんたたち、
 よそ者だったんだね。
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 いや、今さらどうこういわないよ。
 それどころじゃないからね。
 [ENDBLOCK]
-おばさん
+Woman
 [ENDBLOCK]
 お願いだ、あたしらを助けておくれ！
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-いらっしゃい。
-ゆっくり見てってくれよ。
+Welcome. Take your time
+and look around.
 [ENDBLOCK]
-道具屋
-[ENDBLOCK]
-こんな遅くに買い物に来てくれる
-なんて、あんた上客だ。
-[ENDBLOCK]
-道具屋
-[ENDBLOCK]
-たとえ何が起ころうと、
-店をたたむ事はしないよ。
-[ENDBLOCK]
-道具屋
-[ENDBLOCK]
-いらっしゃい。
-ゆっくり見てってくれよ。
-[ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 こんな遅くに買い物に来てくれる
 なんて、あんた上客だ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 たとえ何が起ころうと、
 店をたたむ事はしないよ。
 [ENDBLOCK]
-女の子
+Item Shop
 [ENDBLOCK]
-最近モンスターが増えてるの。
-きっとよその国の人間のせいね。
+Welcome. Take your time
+and look around.
 [ENDBLOCK]
-女の子
+Item Shop
+[ENDBLOCK]
+こんな遅くに買い物に来てくれる
+なんて、あんた上客だ。
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+たとえ何が起ころうと、
+店をたたむ事はしないよ。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+There's been more monsters lately.
+I'm sure it's because of the foreigners.
+[ENDBLOCK]
+Girl
 [ENDBLOCK]
 去年の日照りの季節に
 ママが死んじゃったの。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 それもみんな。
 あんたみたいなよそ者のせいよ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-最近モンスターが増えてるの。
-きっとよその国の人間のせいね。
+There's been more monsters lately.
+I'm sure it's because of foreigners.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 なんなの、あの空は……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 私たち、どうなってしまうの……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 お願い、カルバレイスを……
 ううん、世界を救って！
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-よそ者でも金さえ払えば客だ。
+As long as you have gald, it doesn't
+matter if you're foreigners.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-何か必要な物はないか？
+What would you like?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-よそ者でも金さえ払えば客だ。
+As long as you have gald, it doesn't
+matter if you're foreigners.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-好きにしろ。
+What do you want?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-何か必要な物はないか？
+What would you like?
 [ENDBLOCK]
 トッシュー
 [ENDBLOCK]
@@ -398,173 +400,173 @@
 街は、僕が守ってみせるよ！
 
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
-そこの階段を上った先に、
-よそ者の神殿があるよ。
+There, at the top of the stairs,
+is the Temple of the foreigners.
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 街の外れに酒場があるわよ。
 
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 こんな星空で
 あなたと二人きりなら私……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
-って、外国人の子供!?
+って、外怎ﾄ~の子氈??
 こんな夜に出歩かないでよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 って、女!? あんたも
 子供じゃないんだから察してよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
-そこの階段を上った先に、
-よそ者の神殿があるよ。
+There, at the top of the stairs,
+is the Temple of the foreigners.
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 こんな星空で
 あなたと二人きりなら私……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
-って、外国人の子供!?
+って、外怎ﾄ~の子氈??
 こんな夜に出歩かないでよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 って、女!? あんたも
 子供じゃないんだから察してよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 よそ者の神でもなんでもいいから、
 この状況をなんとかしてほしいよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 レンズを集めさえすれば、
 なんとかなるって聞いたけど……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 いわれた通りレンズも集めたよ。
 これで助かるんだろ？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-ここから南に行けばチェリク、
-西に行けばジャンクランドさ。
+If you go south you'll hit Cherik,
+and if you go west you'll come to Junkland.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-みんなジャンクランドを嫌うけど、
-結構面白い街だよ。
+Everyone hates Junkland, but it's
+a pretty interesting place.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-ここから南に行けばチェリク、
-西に行けばジャンクランドさ。
+If you go south you'll hit Cherik,
+and if you go west you'll come to Junkland.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 チェリクから来たのかい？
 よくここまで来られたね。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-チェリクの人たちって、外国人に
-話し掛けられても返事しないだろ？
+チェリクの人たちって、外怎ﾄ~に
+話し掛けられても怩ﾙZしないだろ？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 だから、この街までたどり着ける
 人って案外少ないんだ。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-ここから南に行けばチェリク、
-西に行けばジャンクランドさ。
+If you go south you'll hit Cherik,
+and if you go west you'll come to Junkland.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-みんなジャンクランドを嫌うけど、
-結構面白い街だよ。
+Everyone hates Junkland, but it's
+a pretty interesting place.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-ここから南に行けばチェリク、
-西に行けばジャンクランドさ。
+If you go south you'll hit Cherik,
+and if you go west you'll come to Junkland.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 ジャンクランドの方に、
 雷が落ちたようだが……大丈夫なのか？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 空にできた壁の正体は、
 えぐり取られた大地だって？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 よその国の人間と、協力する日が
 来るなんて思わなかったよ。
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-よそ者か……
-まあ見ていけよ。
+You're a foreigner...
+Well, go ahead and look.
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-こんな時間に買い物なんて
-悪企みでもしているんじゃないか？
+Shopping at this hour? You must
+be up to no good.
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-世界がどうなろうと
-俺には関係ないがな……
+I could care less what happens
+to the world.
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-よそ者か……
-まあ見ていけよ。
+You're a foreigner...
+Well, go ahead and look.
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-こんな時間に買い物なんて
-悪企みでもしているんじゃないか？
+Shopping at this hour? You must
+be up to no good.
 [ENDBLOCK]
-雑貨屋
+Item Shop
 [ENDBLOCK]
-世界がどうなろうと
-俺には関係ないがな……
+I could care less what happens
+to the world.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Hmm?　You don't have a copy
+of Definite Warfare?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 君の腕前なら十分だろ。
 これをあげるよ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 これはモンスターに有効とされる連携
 「ディフィニットストライク」を
 示したものだ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 大事に使ってくれよ。
 [ENDBLOCK]
@@ -583,71 +585,75 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
+ん？　もうあげるものは
 ないぞ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you've honed
+your skills some more.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ここがカルビオラ？
-やっと着いたのね。あっつ～～。
+Is this Kalviola? We finally
+made it. Boy is it H O T...
 [ENDBLOCK]
-女の人
+Woman
 [ENDBLOCK]
-あんたたち、旅のもんかい。
-どっから来なすった？
+Are you people travelers,
+where did you come from?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-チェリクですわ。
+From Cherik.
 [ENDBLOCK]
-そうかいそうかい。
-暑い中ご苦労だったねえ。
+I see, I see. That was some
+hard work in such heat.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-急に口調が優しくなったな。
+She got pretty pleasant all of a sudden.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ストレイライズ神殿へ行きたいんです。
-どこにあるかわかりますか？
+We'd like to go to Straylize Temple.
+Do you know where it is?
 [ENDBLOCK]
-ふん、あんなくだらん物。
-いくらこさえたところでムダだよ。
+Hmph, don't bother with that place.
+There's no point even going there.
 [ENDBLOCK]
-あたしらにはあたしらの神がいる。
-よそ者の神なんぞに用はない。
+We have our god. There is no use
+for the outsiders' Atamoni.
 [ENDBLOCK]
-神殿とやらがあるのは街の北さ。
-でもあんまり関わるんじゃないよ？
+But the temple should be in the north
+of town. But don't you think you
+shouldn't get too involved with it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ありがとう、おばさん。
+Thank you, ma'am.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-前にアイルツ司教様に、
-聞いた事があります。
+There was something I heard
+before from Bishop Ayles.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-カルバレイスは独自の信仰が根強くて、
-布教に苦労しているのだとか。
+The people of Calvalese have a firmly
+rooted faith in their own god. Doing
+missionary work here is quite difficult.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-神様まで、よそ者扱いなのか……
+They won't even deal with
+an outsider's god...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
