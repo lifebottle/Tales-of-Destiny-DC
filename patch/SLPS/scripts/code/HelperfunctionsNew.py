@@ -32,6 +32,7 @@ class Helper:
         self.currentStart = 0
         self.currentEnd = 0
         self.originalSectionEnd = 0
+        self.offset= 0
         
         self.loadTable()
         
@@ -259,7 +260,7 @@ class Helper:
         textEnd = [ele['TextEnd'] for ele in sections if ele['SectionId'] == lastSection][0]
         self.currentStart  = int(textStart, 16)
         self.currentEnd    = int(textEnd, 16)
-    
+        self.offset = int(textStart,16)
         
         
         #Add the first jump
@@ -383,11 +384,11 @@ class Helper:
                 self.originalSectionEnd = int([ele['TextEnd'] for ele in sections if ele['SectionId'] == sectionId][0],16)
                 if googleId != "":
                     print(sectionDesc)
-                    
-                    #Grab the text from google sheet
+                    print("Google Sheet : {}".format(sectionDesc))
                     self.getGoogleSheetTranslation(googleId, sectionDesc)
                     self.cleanData()
                     
+                    print("Create Adjusted block : {}".format(sectionDesc))
                     sectionText = self.createAdjustedBlock()
                     
                     #Add the result to the section
