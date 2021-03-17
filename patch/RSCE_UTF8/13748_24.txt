@@ -1,7 +1,3 @@
- mset_person_
-[ENDBLOCK]
-fl
-[ENDBLOCK]
 
 [ENDBLOCK]
 
@@ -16,7 +12,11 @@ fl
 [ENDBLOCK]
 
 [ENDBLOCK]
-y( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 Clerk
@@ -27,7 +27,7 @@ Eh...
 Clerk
 [ENDBLOCK]
 I'm changing...
-please leave...
+Please leave...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
