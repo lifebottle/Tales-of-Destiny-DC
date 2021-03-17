@@ -6313,17 +6313,17 @@ Swordian R&D Lab[END]
 
 //Text $1A4520
 #WRITE(ptr,$187074)
-Cresta・天上軍兵器戦[END]
+Cresta・Heavenly Assault[END]
 
 
 //Text $1A4500
 #WRITE(ptr,$187080)
-Darilsheid・天上軍兵器戦１[END]
+Darilsheid・Heavenly Assault１[END]
 
 
 //Text $1A44E0
 #WRITE(ptr,$18708C)
-Darilsheid・天上軍兵器戦２[END]
+Darilsheid・Heavenly Assault２[END]
 
 
 //Text $1A44D0
@@ -7496,7 +7496,7 @@ Secret Dungeon・Boss[END]
 
 //Text $1A2B28
 #WRITE(ptr,$186740)
-秘奥義用背景[END]
+Secret Art Background[END]
 
 
 //Text $1A2B00
@@ -7955,597 +7955,597 @@ Torn's Cabin (Night)[END]
 
 //Text $1A6750
 #WRITE(ptr,$189318)
-Torn's Cabin, Back Mountain A[END]
+Torn's Cabin, Mountain Side A[END]
 
 
 //Text $1A6738
 #WRITE(ptr,$189324)
-トーンの山小屋・裏山B[END]
+Torn's Cabin, Mountain Side B[END]
 
 
 //Text $1A6718
 #WRITE(ptr,$189330)
-トーンの山小屋・裏山A(夜)[END]
+Torn's Cabin, Mountain Side A(Night)[END]
 
 
 //Text $1A66F8
 #WRITE(ptr,$18933C)
-トーンの山小屋・裏山B(夜)[END]
+Torn's Cabin, Mountain Side B(Night)[END]
 
 
 //Text $1A66E0
 #WRITE(ptr,$189348)
-ファンダリアの山道A[END]
+The Mountain Path of Phandaria A[END]
 
 
 //Text $1A66C8
 #WRITE(ptr,$189354)
-ファンダリアの山道B[END]
+The Mountain Path of Phandaria B[END]
 
 
 //Text $1A66B0
 #WRITE(ptr,$189360)
-ファンダリアの山道A(夜)[END]
+The Mountain Path of Phandaria A(Night)[END]
 
 
 //Text $1A6698
 #WRITE(ptr,$18936C)
-ファンダリアの山道B(夜)[END]
+The Mountain Path of Phandaria B(Night)[END]
 
 
 //Text $1A6688
 #WRITE(ptr,$189378)
-ジェノスA[END]
+Janos A[END]
 
 
 //Text $1A6678
 #WRITE(ptr,$189384)
-ジェノスA(夜)[END]
+Janos A(Night)[END]
 
 
 //Text $1A6660
 #WRITE(ptr,$189390)
-神殿へと続く洞窟A[END]
+Cave that leads to the temple A[END]
 
 
 //Text $1A6648
 #WRITE(ptr,$18939C)
-神殿へと続く洞窟A(夜)[END]
+Cave that leads to the temple A(night)[END]
 
 
 //Text $1A6640
 #WRITE(ptr,$1893A8)
-神殿A[END]
+Temple A[END]
 
 
 //Text $1A6630
 #WRITE(ptr,$1893B4)
-神殿A(夜)[END]
+Temple A(Night)[END]
 
 
 //Text $1A6620
 #WRITE(ptr,$1893C0)
-ハーメンツA[END]
+Harmentz A[END]
 
 
 //Text $1A6610
 #WRITE(ptr,$1893CC)
-ハーメンツA(夜)[END]
+Harmentz A(Night)[END]
 
 
 //Text $1A6600
 #WRITE(ptr,$1893D8)
-セインガルド城A[END]
+Seinegald 城A[END]
 
 
 //Text $1A65E8
 #WRITE(ptr,$1893E4)
-セインガルド城A(夜)[END]
+Seinegald 城A(Night)[END]
 
 
 //Text $1A65D8
 #WRITE(ptr,$1893F0)
-ダリルシェイドA[END]
+Darilsheid A[END]
 
 
 //Text $1A65C0
 #WRITE(ptr,$1893FC)
-ダリルシェイドA(夜)[END]
+Darilsheid A(Night)[END]
 
 
 //Text $1A65B0
 #WRITE(ptr,$189408)
-アルメイダA[END]
+Armeida A[END]
 
 
 //Text $1A65A0
 #WRITE(ptr,$189414)
-アルメイダA(夜)[END]
+Armeida A(Night)[END]
 
 
 //Text $1A6588
 #WRITE(ptr,$189420)
-ストレイライズの森A[END]
+Straylize Forest A[END]
 
 
 //Text $1A6570
 #WRITE(ptr,$18942C)
-ストレイライズの森B[END]
+Straylize Forest B[END]
 
 
 //Text $1A6558
 #WRITE(ptr,$189438)
-ストレイライズの森A(夜)[END]
+Straylize Forest A (Night)[END]
 
 
 //Text $1A6540
 #WRITE(ptr,$189444)
-ストレイライズの森B(夜)[END]
+Straylize Forest B(Night)[END]
 
 
 //Text $1A6528
 #WRITE(ptr,$189450)
-ストレイライズ神殿A[END]
+Straylize Temple A[END]
 
 
 //Text $1A6510
 #WRITE(ptr,$18945C)
-ストレイライズ神殿A(夜)[END]
+Straylize Temple A(Night)[END]
 
 
 //Text $1A6528
 #WRITE(ptr,$189468)
-ストレイライズ神殿A[END]
+Straylize Temple A[END]
 
 
 //Text $1A64F8
 #WRITE(ptr,$189474)
-ストレイライズ神殿B[END]
+Straylize Temple B[END]
 
 
 //Text $1A6510
 #WRITE(ptr,$189480)
-ストレイライズ神殿A(夜)[END]
+Straylize Temple A(Night)[END]
 
 
 //Text $1A64E0
 #WRITE(ptr,$18948C)
-ストレイライズ神殿B(夜)[END]
+Straylize Temple B(Night)[END]
 
 
 //Text $1A64D8
 #WRITE(ptr,$189498)
-船A[END]
+Ship A[END]
 
 
 //Text $1A64C8
 #WRITE(ptr,$1894A4)
-ラディスロウA[END]
+Radisrol A[END]
 
 
 //Text $1A64B8
 #WRITE(ptr,$1894B0)
-ラディスロウB[END]
+Radisrol B[END]
 
 
 //Text $1A64A8
 #WRITE(ptr,$1894BC)
-チェリクA[END]
+Cherik A[END]
 
 
 //Text $1A6498
 #WRITE(ptr,$1894C8)
-チェリクA(夜)[END]
+Cherik A(夜)[END]
 
 
 //Text $1A6488
 #WRITE(ptr,$1894D4)
-首都カルビオラA[END]
+Kalviola A[END]
 
 
 //Text $1A6470
 #WRITE(ptr,$1894E0)
-首都カルビオラA(夜)[END]
+Kalviola A(Night)[END]
 
 
 //Text $1A6460
 #WRITE(ptr,$1894EC)
-カルビオラ神殿A[END]
+Kalviola Temple A[END]
 
 
 //Text $1A6450
 #WRITE(ptr,$1894F8)
-カルビオラ神殿B[END]
+Kalviola Temple B[END]
 
 
 //Text $1A6438
 #WRITE(ptr,$189504)
-カルビオラ神殿A(夜)[END]
+Kalviola Temple A(Night)[END]
 
 
 //Text $1A6420
 #WRITE(ptr,$189510)
-カルビオラ神殿B(夜)[END]
+Kalviola Temple B(Night)[END]
 
 
 //Text $1A6410
 #WRITE(ptr,$18951C)
-ノイシュタットA[END]
+Neuestadt A[END]
 
 
 //Text $1A63F8
 #WRITE(ptr,$189528)
-ノイシュタットA(夜)[END]
+Neuestadt A (Night)[END]
 
 
 //Text $1A63F0
 #WRITE(ptr,$189534)
-闘技場A[END]
+Arena A[END]
 
 
 //Text $1A63E0
 #WRITE(ptr,$189540)
-闘技場A(夜)[END]
+Arena A(Night)[END]
 
 
 //Text $1A63D8
 #WRITE(ptr,$18954C)
-海賊船A[END]
+Pirate Ship A[END]
 
 
 //Text $1A63D0
 #WRITE(ptr,$189558)
-海賊船B[END]
+Pirate Ship B[END]
 
 
 //Text $1A63C0
 #WRITE(ptr,$189564)
-シデン領A[END]
+Shiden A[END]
 
 
 //Text $1A63B0
 #WRITE(ptr,$189570)
-シデン領A(夜)[END]
+Shiden A(Night)[END]
 
 
 //Text $1A63A0
 #WRITE(ptr,$18957C)
-シデン海底洞窟A[END]
+Shiden Undersea Cave A[END]
 
 
 //Text $1A6390
 #WRITE(ptr,$189588)
-シデン海底洞窟B[END]
+Shiden Undersea Cave B[END]
 
 
 //Text $1A6380
 #WRITE(ptr,$189594)
-モリュウ領A[END]
+Moreau A[END]
 
 
 //Text $1A6370
 #WRITE(ptr,$1895A0)
-モリュウ領A(夜)[END]
+Moreau A(Night)[END]
 
 
 //Text $1A6360
 #WRITE(ptr,$1895AC)
-モリュウ城A[END]
+Moreau A[END]
 
 
 //Text $1A6350
 #WRITE(ptr,$1895B8)
-モリュウ城B[END]
+Moreau B[END]
 
 
 //Text $1A6340
 #WRITE(ptr,$1895C4)
-トウケイ領A[END]
+Terazzi A[END]
 
 
 //Text $1A6330
 #WRITE(ptr,$1895D0)
-トウケイ領A(夜)[END]
+Terazzi A(Night)[END]
 
 
 //Text $1A6320
 #WRITE(ptr,$1895DC)
-トウケイ城A[END]
+Terazzi Tower A[END]
 
 
 //Text $1A6310
 #WRITE(ptr,$1895E8)
-トウケイ城B[END]
+Terazzi Tower B[END]
 
 
 //Text $1A6300
 #WRITE(ptr,$1895F4)
-スノーフリアA[END]
+Frostheim A[END]
 
 
 //Text $1A62E8
 #WRITE(ptr,$189600)
-スノーフリアA(夜)[END]
+Frostheim A(Night)[END]
 
 
 //Text $1A62D8
 #WRITE(ptr,$18960C)
-ティルソの森A[END]
+Tilso Forest A[END]
 
 
 //Text $1A62C8
 #WRITE(ptr,$189618)
-ティルソの森B[END]
+Tilso Forest B[END]
 
 
 //Text $1A62B0
 #WRITE(ptr,$189624)
-ティルソの森A(夜)[END]
+Tilso Forest A(Night)[END]
 
 
 //Text $1A6298
 #WRITE(ptr,$189630)
-ティルソの森B(夜)[END]
+Tilso Forest B(Night)[END]
 
 
 //Text $1A6288
 #WRITE(ptr,$18963C)
-サイリルA[END]
+Cyril A[END]
 
 
 //Text $1A6278
 #WRITE(ptr,$189648)
-サイリルA(夜)[END]
+Cyril A(Night)[END]
 
 
 //Text $1A6260
 #WRITE(ptr,$189654)
-ハイデルベルグ街[END]
+Heidelberg Street[END]
 
 
 //Text $1A6248
 #WRITE(ptr,$189660)
-ハイデルベルグ街(夜)[END]
+Heidelberg Street (Night)[END]
 
 
 //Text $1A6230
 #WRITE(ptr,$18966C)
-ハイデルベルグ地下通路A[END]
+Heidelberg Underground Passage A[END]
 
 
 //Text $1A6218
 #WRITE(ptr,$189678)
-ハイデルベルグ地下通路B[END]
+Heidelberg Underground Passage B[END]
 
 
 //Text $1A6200
 #WRITE(ptr,$189684)
-ハイデルベルグ城A[END]
+Heidelberg Castle A[END]
 
 
 //Text $1A61E8
 #WRITE(ptr,$189690)
-ハイデルベルグ城B[END]
+Heidelberg Castle B[END]
 
 
 //Text $1A61D0
 #WRITE(ptr,$18969C)
-ハイデルベルグ城A(夜)[END]
+Heidelberg Castle A(Night)[END]
 
 
 //Text $1A61B8
 #WRITE(ptr,$1896A8)
-ハイデルベルグ城B(夜)[END]
+Heidelberg Castle B(Night)[END]
 
 
 //Text $1A61A0
 #WRITE(ptr,$1896B4)
-飛行竜セインガルド周りA[END]
+Draconis around Seingald A[END]
 
 
 //Text $1A6198
 #WRITE(ptr,$1896C0)
-リーネ[END]
+Lienea [END]
 
 
 //Text $1A6188
 #WRITE(ptr,$1896CC)
-リーネ(夜)[END]
+Lienea (Night)[END]
 
 
 //Text $1A6178
 #WRITE(ptr,$1896D8)
-クレスタA[END]
+Cresta A[END]
 
 
 //Text $1A6168
 #WRITE(ptr,$1896E4)
-クレスタA(夜)[END]
+Cresta A(Night)[END]
 
 
 //Text $1A6150
 #WRITE(ptr,$1896F0)
-オベロン秘密工場A[END]
+Oberon Secret Factory A[END]
 
 
 //Text $1A6138
 #WRITE(ptr,$1896FC)
-オベロン秘密工場B[END]
+Oberon Secret Factory B[END]
 
 
 //Text $1A6128
 #WRITE(ptr,$189708)
-海底洞窟A[END]
+Undersea Cave A[END]
 
 
 //Text $1A6118
 #WRITE(ptr,$189714)
-海底洞窟B[END]
+Undersea Cave B[END]
 
 
 //Text $1A6108
 #WRITE(ptr,$189720)
-隠された神殿A[END]
+Hidden Temple A[END]
 
 
 //Text $1A60F8
 #WRITE(ptr,$18972C)
-イグナシーA[END]
+Ignasea A[END]
 
 
 //Text $1A60E8
 #WRITE(ptr,$189738)
-イグナシーB[END]
+Ignasea B[END]
 
 
 //Text $1A60D8
 #WRITE(ptr,$189744)
-アンスズーンA[END]
+Deimos A[END]
 
 
 //Text $1A60C8
 #WRITE(ptr,$189750)
-アンスズーンB[END]
+Deimos B[END]
 
 
 //Text $1A60B8
 #WRITE(ptr,$18975C)
-クラウディスA[END]
+Cloudius A[END]
 
 
 //Text $1A60A8
 #WRITE(ptr,$189768)
-クラウディスB[END]
+Cloudius B[END]
 
 
 //Text $1A6098
 #WRITE(ptr,$189774)
-ロディオンA[END]
+Rodeon A[END]
 
 
 //Text $1A6088
 #WRITE(ptr,$189780)
-ロディオンB[END]
+Rodeon B[END]
 
 
 //Text $1A6078
 #WRITE(ptr,$18978C)
-ヘルレイオスA[END]
+Helraios A[END]
 
 
 //Text $1A6068
 #WRITE(ptr,$189798)
-ヘルレイオスB[END]
+Helraios B[END]
 
 
 //Text $1A6058
 #WRITE(ptr,$1897A4)
-シュサイアA[END]
+Josaia A[END]
 
 
 //Text $1A6048
 #WRITE(ptr,$1897B0)
-シュサイアB[END]
+Josaia B[END]
 
 
 //Text $1A6038
 #WRITE(ptr,$1897BC)
-ミックハイルA[END]
+Mikheil A[END]
 
 
 //Text $1A6028
 #WRITE(ptr,$1897C8)
-ミックハイルB[END]
+Mikheil B[END]
 
 
 //Text $1A6018
 #WRITE(ptr,$1897D4)
-浮遊クルーザーA[END]
+Floating Cruiser A[END]
 
 
 //Text $1A6008
 #WRITE(ptr,$1897E0)
-ベルクラントA[END]
+Belcrant A[END]
 
 
 //Text $1A5FF8
 #WRITE(ptr,$1897EC)
-ベルクラントB[END]
+Belcrant B[END]
 
 
 //Text $1A5FE0
 #WRITE(ptr,$1897F8)
-ソーディアン研究所A[END]
+Swordian R&D Lab A[END]
 
 
 //Text $1A5FC8
 #WRITE(ptr,$189804)
-ソーディアン研究所B[END]
+Swordian R&D Lab B[END]
 
 
 //Text $1A5FB8
 #WRITE(ptr,$189810)
-ジャンクランドA[END]
+Junkland A[END]
 
 
 //Text $1A5FA0
 #WRITE(ptr,$18981C)
-ジャンクランドA(夜)[END]
+Junkland A(Night)[END]
 
 
 //Text $1A5F88
 #WRITE(ptr,$189828)
-トラッシュマウンテンA[END]
+Trash Mountain A[END]
 
 
 //Text $1A5F70
 #WRITE(ptr,$189834)
-トラッシュマウンテンB[END]
+Trash Mountain B[END]
 
 
 //Text $1A5F60
 #WRITE(ptr,$189840)
-ダイクロフトA[END]
+Dycroft A[END]
 
 
 //Text $1A5F50
 #WRITE(ptr,$18984C)
-ダイクロフトB[END]
+Dycroft B[END]
 
 
 //Text $1A5F40
 #WRITE(ptr,$189858)
-ＥＸダンジョンA[END]
+EX Dungeon A[END]
 
 
 //Text $1A5F30
 #WRITE(ptr,$189864)
-ＥＸダンジョンB[END]
+EX Dungeon B[END]
 
 
 //Text $1A5F20
 #WRITE(ptr,$189870)
-旅人の小屋A[END]
+Traveller's Lodge A[END]
 
 
 //Text $1A5F10
 #WRITE(ptr,$18987C)
-旅人の小屋A(夜)[END]
+Traveller's Lodge A(Night)[END]
 
 
 //Text $1A5F00
 #WRITE(ptr,$189888)
-ねこにん基地A[END]
+Katz Village A[END]
 
 
 //Text $1A5EF0
 #WRITE(ptr,$189894)
-戦闘汎用A[END]
+General Combat A[END]
 
 
 //Text $1A5EE8
 #WRITE(ptr,$1898A0)
-保険用A[END]
+Backup A[END]
 
 
 //Section City Name
@@ -8830,6 +8830,7 @@ Frostheim[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6D38
 #WRITE(ptr,$18A158)
 A port town in the eastern region of Phandaria.[LINE]
@@ -8864,7 +8865,6 @@ Terazzi[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6C98
 #WRITE(ptr,$18A1C8)
 A city in the southern region of[LINE]
@@ -9195,6 +9195,7 @@ Dycroft[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A75E8
 #WRITE(ptr,$18A628)
 The most important base of the aerial[LINE]
@@ -9228,7 +9229,6 @@ Hole to the Er'ther Lands[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A7508
 #WRITE(ptr,$18A698)
 A hole made by the lens cannon where Radisrol[LINE]
@@ -9340,252 +9340,252 @@ Traveling Merchant[END]
 
 //Text $1BB4F0
 #WRITE(ptr,$19423C)
-道具屋[END]
+Curio Shop[END]
 
 
 //Text $1BB4E8
 #WRITE(ptr,$194240)
-食材屋[END]
+Greengrocer[END]
 
 
 //Text $1BB4E0
 #WRITE(ptr,$194244)
-武器屋[END]
+Armory[END]
 
 
 //Text $1BB4D8
 #WRITE(ptr,$194248)
-防具屋[END]
+Armorer[END]
 
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-装飾屋[END]
+Ornament Shop[END]
 
 
 //Text $1BB4C8
 #WRITE(ptr,$194250)
-武具屋[END]
+Armorer[END]
 
 
 //Text $1BB4C0
 #WRITE(ptr,$194254)
-雑貨屋[END]
+Sundries[END]
 
 
 //Text $1BB510
 #WRITE(ptr,$194258)
-オベロン社[END]
+Oberon Corporation[END]
 
 
 //Text $1BB500
 #WRITE(ptr,$194230)
-ねこにんの村[END]
+Katz Village[END]
 
 
 //Text $1BB4F8
 #WRITE(ptr,$194234)
-行商人[END]
+Hawker[END]
 
 
 //Text $1BB4F0
 #WRITE(ptr,$19423C)
-道具屋[END]
+Curio Shop[END]
 
 
 //Text $1BB4E8
 #WRITE(ptr,$194240)
-食材屋[END]
+Greengrocer[END]
 
 
 //Text $1BB4E0
 #WRITE(ptr,$194244)
-武器屋[END]
+Armory[END]
 
 
 //Text $1BB4D8
 #WRITE(ptr,$194248)
-防具屋[END]
+Armorer[END]
 
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-装飾屋[END]
+Ornament Shop[END]
 
 
 //Text $1BB4C8
 #WRITE(ptr,$194250)
-武具屋[END]
+Armorer[END]
 
 
 //Text $1BB4C0
 #WRITE(ptr,$194254)
-雑貨屋[END]
+Sundries[END]
 
 
 //Text $1BB4B0
 #WRITE(ptr,$192C08)
-ウォームアップ[END]
+Warm Up[END]
 
 
 //Text $1BB4A0
 #WRITE(ptr,$192C40)
-ボーダーライン[END]
+Borderline[END]
 
 
 //Text $1BB490
 #WRITE(ptr,$192C78)
-ブリザード[END]
+Blizzard[END]
 
 
 //Text $1BB488
 #WRITE(ptr,$192CB0)
-スノイ[END]
+Sunoi[END]
 
 
 //Text $1BB478
 #WRITE(ptr,$192CE8)
-サイグローグ[END]
+Saigrog[END]
 
 
 //Text $1BB468
 #WRITE(ptr,$192D20)
-いっぷく[END]
+Short Respite[END]
 
 
 //Text $1BB460
 #WRITE(ptr,$192D58)
-極楽鳥[END]
+Strelitzia Reginae[END]
 
 
 //Text $1BB458
 #WRITE(ptr,$192D90)
-白騎士[END]
+White Knight[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$192DC8)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB438
 #WRITE(ptr,$192E00)
-天下太平[END]
+Tranquil Serenity[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$192E38)
-七将軍[END]
+Seven Shoguns[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$192E70)
-騎士勲章[END]
+Knights Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$192EA8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB400
 #WRITE(ptr,$192EE0)
-中央本店[END]
+Central Branch Office[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$192F18)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB438
 #WRITE(ptr,$192F50)
-天下太平[END]
+Tranquil Serenity[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$192F88)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$192FC0)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$192FF8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$193030)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$193068)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$1930A0)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$1930D8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$193110)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$193148)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$193180)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$1931B8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB3F0
 #WRITE(ptr,$1931F0)
-腹ごしらえ[END]
+Gut Buster[END]
 
 
 //Text $1BB3E0
 #WRITE(ptr,$193228)
-旅人の友[END]
+Traveller's Friend[END]
 
 
 //Text $1BB3D0
 #WRITE(ptr,$193260)
-ライトニング[END]
+LIghtning[END]
 
 
 //Text $1BB3C0
 #WRITE(ptr,$193298)
-バラライカ[END]
+Balalaika[END]
 
 
 //Text $1BB3C0
 #WRITE(ptr,$1932D0)
-バラライカ[END]
+Balalaika[END]
 
 
 //Text $1BB3B0
 #WRITE(ptr,$193308)
-恵みの大地[END]
+Earth's Blessing[END]
 
 
 //Text $1BB3A0
@@ -9625,7 +9625,7 @@ Northwest Branch[END]
 
 //Text $1BB348
 #WRITE(ptr,$1934C8)
-満腹亭[END]
+Packed Pavillion[END]
 
 
 //Text $1BB330
@@ -9650,262 +9650,262 @@ Westland Branch[END]
 
 //Text $1BB2F8
 #WRITE(ptr,$1935E0)
-船上出張[END]
+Shipboard Operations[END]
 
 
 //Text $1BB320
 #WRITE(ptr,$193618)
-アーケディア[END]
+Arcadia[END]
 
 
 //Text $1BB2E8
 #WRITE(ptr,$193650)
-けもの道[END]
+Beast's Path[END]
 
 
 //Text $1BB2D8
 #WRITE(ptr,$193688)
-オリエント[END]
+Orient[END]
 
 
 //Text $1BB2D0
 #WRITE(ptr,$1936C0)
-黄金郷[END]
+Golden Horde[END]
 
 
 //Text $1BB2C0
 #WRITE(ptr,$1936F8)
-家内安全[END]
+House of Prosperity[END]
 
 
 //Text $1BB2B0
 #WRITE(ptr,$193730)
-やどかり堂[END]
+Hermit Crab Market[END]
 
 
 //Text $1BB2A8
 #WRITE(ptr,$193768)
-水月花[END]
+Mizugekka[END]
 
 
 //Text $1BB2A0
 #WRITE(ptr,$1937A0)
-海神[END]
+Poseidon[END]
 
 
 //Text $1BB298
 #WRITE(ptr,$1937D8)
-彩の色[END]
+Chrysanthemum Shades[END]
 
 
 //Text $1BB288
 #WRITE(ptr,$193810)
-名称未定[END]
+Name Without Form[END]
 
 
 //Text $1BB288
 #WRITE(ptr,$193848)
-名称未定[END]
+Name Without Form[END]
 
 
 //Text $1BB278
 #WRITE(ptr,$193880)
-うまい屋[END]
+Delicatessen[END]
 
 
 //Text $1BB268
 #WRITE(ptr,$1938B8)
-明鏡止水[END]
+Serene Waters[END]
 
 
 //Text $1BB258
 #WRITE(ptr,$1938F0)
-武陵桃源[END]
+Utopia[END]
 
 
 //Text $1BB248
 #WRITE(ptr,$193928)
-大器晩成[END]
+Great Intentions[END]
 
 
 //Text $1BB238
 #WRITE(ptr,$193960)
-花鳥風月[END]
+Beautiful Spring[END]
 
 
 //Text $1BB230
 #WRITE(ptr,$193998)
-非常口[END]
+Emergency Exit[END]
 
 
 //Text $1BB230
 #WRITE(ptr,$1939D0)
-非常口[END]
+Emergency Exit[END]
 
 
 //Text $1BB228
 #WRITE(ptr,$193A08)
-雪割草[END]
+Mealy Primrose[END]
 
 
 //Text $1BB220
 #WRITE(ptr,$193A40)
-雪迷宮[END]
+Snow Labyrinth[END]
 
 
 //Text $1BB218
 #WRITE(ptr,$193A78)
-雪月花[END]
+Setsugekka[END]
 
 
 //Text $1BB210
 #WRITE(ptr,$193AB0)
-雪景色[END]
+Snowy Vista[END]
 
 
 //Text $1BB200
 #WRITE(ptr,$193AE8)
-雪解け水[END]
+Thawing Snow[END]
 
 
 //Text $1BB1F0
 #WRITE(ptr,$193B20)
-硝子の森[END]
+Glass Forest[END]
 
 
 //Text $1BB1E8
 #WRITE(ptr,$193B58)
-氷大河[END]
+Glacial Stream[END]
 
 
 //Text $1BB1D8
 #WRITE(ptr,$193B90)
-ファーベント[END]
+Far Vent[END]
 
 
 //Text $1BB1C8
 #WRITE(ptr,$193BC8)
-サザンクロス[END]
+Southern Cross[END]
 
 
 //Text $1BB1B8
 #WRITE(ptr,$193C00)
-ディスリガード[END]
+Disregard[END]
 
 
 //Text $1BB1A8
 #WRITE(ptr,$193C38)
-悲しいお店[END]
+Grim Curios[END]
 
 
 //Text $1BB198
 #WRITE(ptr,$193C70)
-永劫回帰[END]
+Eternal Recurrence[END]
 
 
 //Text $1BB188
 #WRITE(ptr,$193CA8)
-雪国支店[END]
+Snow Country Branch[END]
 
 
 //Text $1BB178
 #WRITE(ptr,$193CE0)
-商売根性[END]
+Mercenary Soul[END]
 
 
 //Text $1BB170
 #WRITE(ptr,$193D18)
-安息角[END]
+Angel of Repose[END]
 
 
 //Text $1BB160
 #WRITE(ptr,$193D50)
-にわとり館[END]
+Henhouse[END]
 
 
 //Text $1BB150
 #WRITE(ptr,$193D88)
-なかよし[END]
+Bosom Buddy[END]
 
 
 //Text $1BB140
 #WRITE(ptr,$193DC0)
-花かんむり[END]
+Flower Crown[END]
 
 
 //Text $1BB130
 #WRITE(ptr,$193DF8)
-良き旅人の杖[END]
+The Good Shepherd's Staff[END]
 
 
 //Text $1BB120
 #WRITE(ptr,$193E30)
-ジャンクフード[END]
+Junktown Grocer[END]
 
 
 //Text $1BB110
 #WRITE(ptr,$193E68)
-がらくた市場[END]
+Scavenger Market[END]
 
 
 //Text $1BB100
 #WRITE(ptr,$193EA0)
-変美畏女多留[END]
+Awe-Inspiring Beauty[END]
 
 
 //Text $1BB120
 #WRITE(ptr,$193ED8)
-ジャンクフード[END]
+Junktown Grocer[END]
 
 
 //Text $1BB110
 #WRITE(ptr,$193F10)
-がらくた市場[END]
+Scavenger Market[END]
 
 
 //Text $1BB100
 #WRITE(ptr,$193F48)
-変美畏女多留[END]
+Awe-Inspiring Beauty[END]
 
 
 //Text $1BB0F8
 #WRITE(ptr,$193F80)
-にゃも[END]
+Nympha[END]
 
 
 //Text $1BB0E8
 #WRITE(ptr,$193FB8)
-バランスアップ[END]
+Improved Balance[END]
 
 
 //Text $1BB0D8
 #WRITE(ptr,$193FF0)
-コレクター[END]
+The Collector[END]
 
 
 //Text $1BB0C8
 #WRITE(ptr,$194028)
-秘密兵器[END]
+Clandestine Weaponry[END]
 
 
 //Text $1BB0C0
 #WRITE(ptr,$194060)
-機能美[END]
+Functional Beauty[END]
 
 
 //Text $1BB0B0
 #WRITE(ptr,$194098)
-オーダーメイド[END]
+Custom Made[END]
 
 
 //Text $1BB0E8
 #WRITE(ptr,$1940D0)
-バランスアップ[END]
+Improved Balance[END]
 
 
 //Text $1BB0C8
 #WRITE(ptr,$194108)
-秘密兵器[END]
+Clandestine Weaponry[END]
 
 
 //Text $1BB0C0
@@ -10209,12 +10209,14 @@ increases magic attack by 1.[END]
 [Sign_9]Saffron[END]
 
 
+#JMP($1BB0A0)
 //Text $1AF3D8
 #WRITE(ptr,$18C8CC)
 A medicinal herb that[LINE]
 increases magic defense by 1.[END]
 
 
+#JMP($1AC530)
 //Text $1AF3C8
 #WRITE(ptr,$18C8E4)
 [Sign_9]Camomile[END]
@@ -10343,13 +10345,11 @@ Increases vitality by 10.[END]
 [Sign_9]Red Lavender[END]
 
 
-#JMP($1BB0A0)
 //Text $1AF0B0
 #WRITE(ptr,$18CA38)
 Increases physical attack by 3.[END]
 
 
-#JMP($1AC530)
 //Text $1AF098
 #WRITE(ptr,$18CA50)
 [Sign_9]Red Verbena[END]
@@ -17918,252 +17918,252 @@ Traveling Merchant[END]
 
 //Text $1BB4F0
 #WRITE(ptr,$19423C)
-道具屋[END]
+Curio Shop[END]
 
 
 //Text $1BB4E8
 #WRITE(ptr,$194240)
-食材屋[END]
+Greengrocer[END]
 
 
 //Text $1BB4E0
 #WRITE(ptr,$194244)
-武器屋[END]
+Armory[END]
 
 
 //Text $1BB4D8
 #WRITE(ptr,$194248)
-防具屋[END]
+Armorer[END]
 
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-装飾屋[END]
+Ornament Shop[END]
 
 
 //Text $1BB4C8
 #WRITE(ptr,$194250)
-武具屋[END]
+Armorer[END]
 
 
 //Text $1BB4C0
 #WRITE(ptr,$194254)
-雑貨屋[END]
+Sundries[END]
 
 
 //Text $1BB510
 #WRITE(ptr,$194258)
-オベロン社[END]
+Oberon Corporation[END]
 
 
 //Text $1BB500
 #WRITE(ptr,$194230)
-ねこにんの村[END]
+Katz Village[END]
 
 
 //Text $1BB4F8
 #WRITE(ptr,$194234)
-行商人[END]
+Hawker[END]
 
 
 //Text $1BB4F0
 #WRITE(ptr,$19423C)
-道具屋[END]
+Curio Shop[END]
 
 
 //Text $1BB4E8
 #WRITE(ptr,$194240)
-食材屋[END]
+Greengrocer[END]
 
 
 //Text $1BB4E0
 #WRITE(ptr,$194244)
-武器屋[END]
+Armory[END]
 
 
 //Text $1BB4D8
 #WRITE(ptr,$194248)
-防具屋[END]
+Armorer[END]
 
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-装飾屋[END]
+Ornament Shop[END]
 
 
 //Text $1BB4C8
 #WRITE(ptr,$194250)
-武具屋[END]
+Armorer[END]
 
 
 //Text $1BB4C0
 #WRITE(ptr,$194254)
-雑貨屋[END]
+Sundries[END]
 
 
 //Text $1BB4B0
 #WRITE(ptr,$192C08)
-ウォームアップ[END]
+Warm Up[END]
 
 
 //Text $1BB4A0
 #WRITE(ptr,$192C40)
-ボーダーライン[END]
+Borderline[END]
 
 
 //Text $1BB490
 #WRITE(ptr,$192C78)
-ブリザード[END]
+Blizzard[END]
 
 
 //Text $1BB488
 #WRITE(ptr,$192CB0)
-スノイ[END]
+Sunoi[END]
 
 
 //Text $1BB478
 #WRITE(ptr,$192CE8)
-サイグローグ[END]
+Saigrog[END]
 
 
 //Text $1BB468
 #WRITE(ptr,$192D20)
-いっぷく[END]
+Short Respite[END]
 
 
 //Text $1BB460
 #WRITE(ptr,$192D58)
-極楽鳥[END]
+Strelitzia Reginae[END]
 
 
 //Text $1BB458
 #WRITE(ptr,$192D90)
-白騎士[END]
+White Knight[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$192DC8)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB438
 #WRITE(ptr,$192E00)
-天下太平[END]
+Tranquil Serenity[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$192E38)
-七将軍[END]
+Seven Shoguns[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$192E70)
-騎士勲章[END]
+Knights Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$192EA8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB400
 #WRITE(ptr,$192EE0)
-中央本店[END]
+Central Branch Office[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$192F18)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB438
 #WRITE(ptr,$192F50)
-天下太平[END]
+Tranquil Serenity[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$192F88)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$192FC0)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$192FF8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$193030)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$193068)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$1930A0)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$1930D8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB448
 #WRITE(ptr,$193110)
-ピッコロ[END]
+Piccolo[END]
 
 
 //Text $1BB430
 #WRITE(ptr,$193148)
-七将軍[END]
+Seven Shogun[END]
 
 
 //Text $1BB420
 #WRITE(ptr,$193180)
-騎士勲章[END]
+Knight's Cross[END]
 
 
 //Text $1BB410
 #WRITE(ptr,$1931B8)
-自分自身[END]
+Perseverance[END]
 
 
 //Text $1BB3F0
 #WRITE(ptr,$1931F0)
-腹ごしらえ[END]
+Gut Buster[END]
 
 
 //Text $1BB3E0
 #WRITE(ptr,$193228)
-旅人の友[END]
+Traveller's Friend[END]
 
 
 //Text $1BB3D0
 #WRITE(ptr,$193260)
-ライトニング[END]
+LIghtning[END]
 
 
 //Text $1BB3C0
 #WRITE(ptr,$193298)
-バラライカ[END]
+Balalaika[END]
 
 
 //Text $1BB3C0
 #WRITE(ptr,$1932D0)
-バラライカ[END]
+Balalaika[END]
 
 
 //Text $1BB3B0
 #WRITE(ptr,$193308)
-恵みの大地[END]
+Earth's Blessing[END]
 
 
 //Text $1BB3A0
@@ -18203,7 +18203,7 @@ Northwest Branch[END]
 
 //Text $1BB348
 #WRITE(ptr,$1934C8)
-満腹亭[END]
+Packed Pavillion[END]
 
 
 //Text $1BB330
@@ -18228,262 +18228,263 @@ Westland Branch[END]
 
 //Text $1BB2F8
 #WRITE(ptr,$1935E0)
-船上出張[END]
+Shipboard Operations[END]
 
 
 //Text $1BB320
 #WRITE(ptr,$193618)
-アーケディア[END]
+Arcadia[END]
 
 
 //Text $1BB2E8
 #WRITE(ptr,$193650)
-けもの道[END]
+Beast's Path[END]
 
 
 //Text $1BB2D8
 #WRITE(ptr,$193688)
-オリエント[END]
+Orient[END]
 
 
 //Text $1BB2D0
 #WRITE(ptr,$1936C0)
-黄金郷[END]
+Golden Horde[END]
 
 
 //Text $1BB2C0
 #WRITE(ptr,$1936F8)
-家内安全[END]
+House of Prosperity[END]
 
 
 //Text $1BB2B0
 #WRITE(ptr,$193730)
-やどかり堂[END]
+Hermit Crab Market[END]
 
 
 //Text $1BB2A8
 #WRITE(ptr,$193768)
-水月花[END]
+Mizugekka[END]
 
 
 //Text $1BB2A0
 #WRITE(ptr,$1937A0)
-海神[END]
+Poseidon[END]
 
 
 //Text $1BB298
 #WRITE(ptr,$1937D8)
-彩の色[END]
+Chrysanthemum Shades[END]
 
 
 //Text $1BB288
 #WRITE(ptr,$193810)
-名称未定[END]
+Name Without Form[END]
 
 
 //Text $1BB288
 #WRITE(ptr,$193848)
-名称未定[END]
+Name Without Form[END]
 
 
 //Text $1BB278
 #WRITE(ptr,$193880)
-うまい屋[END]
+Delicatessen[END]
 
 
 //Text $1BB268
 #WRITE(ptr,$1938B8)
-明鏡止水[END]
+Serene Waters[END]
 
 
 //Text $1BB258
 #WRITE(ptr,$1938F0)
-武陵桃源[END]
+Utopia[END]
 
 
 //Text $1BB248
 #WRITE(ptr,$193928)
-大器晩成[END]
+Great Intentions[END]
 
 
 //Text $1BB238
 #WRITE(ptr,$193960)
-花鳥風月[END]
+Beautiful Spring[END]
 
 
 //Text $1BB230
 #WRITE(ptr,$193998)
-非常口[END]
+Emergency Exit[END]
 
 
 //Text $1BB230
 #WRITE(ptr,$1939D0)
-非常口[END]
+Emergency Exit[END]
 
 
 //Text $1BB228
 #WRITE(ptr,$193A08)
-雪割草[END]
+Mealy Primrose[END]
 
 
 //Text $1BB220
 #WRITE(ptr,$193A40)
-雪迷宮[END]
+Snow Labyrinth[END]
 
 
 //Text $1BB218
 #WRITE(ptr,$193A78)
-雪月花[END]
+Setsugekka[END]
 
 
 //Text $1BB210
 #WRITE(ptr,$193AB0)
-雪景色[END]
+Snowy Vista[END]
 
 
 //Text $1BB200
 #WRITE(ptr,$193AE8)
-雪解け水[END]
+Thawing Snow[END]
 
 
 //Text $1BB1F0
 #WRITE(ptr,$193B20)
-硝子の森[END]
+Glass Forest[END]
 
 
 //Text $1BB1E8
 #WRITE(ptr,$193B58)
-氷大河[END]
+Glacial Stream[END]
 
 
 //Text $1BB1D8
 #WRITE(ptr,$193B90)
-ファーベント[END]
+Far Vent[END]
 
 
 //Text $1BB1C8
 #WRITE(ptr,$193BC8)
-サザンクロス[END]
+Southern Cross[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB1B8
 #WRITE(ptr,$193C00)
-ディスリガード[END]
+Disregard[END]
 
 
 //Text $1BB1A8
 #WRITE(ptr,$193C38)
-悲しいお店[END]
+Grim Curios[END]
 
 
 //Text $1BB198
 #WRITE(ptr,$193C70)
-永劫回帰[END]
+Eternal Recurrence[END]
 
 
 //Text $1BB188
 #WRITE(ptr,$193CA8)
-雪国支店[END]
+Snow Country Branch[END]
 
 
 //Text $1BB178
 #WRITE(ptr,$193CE0)
-商売根性[END]
+Mercenary Soul[END]
 
 
 //Text $1BB170
 #WRITE(ptr,$193D18)
-安息角[END]
+Angel of Repose[END]
 
 
 //Text $1BB160
 #WRITE(ptr,$193D50)
-にわとり館[END]
+Henhouse[END]
 
 
 //Text $1BB150
 #WRITE(ptr,$193D88)
-なかよし[END]
+Bosom Buddy[END]
 
 
 //Text $1BB140
 #WRITE(ptr,$193DC0)
-花かんむり[END]
+Flower Crown[END]
 
 
 //Text $1BB130
 #WRITE(ptr,$193DF8)
-良き旅人の杖[END]
+The Good Shepherd's Staff[END]
 
 
 //Text $1BB120
 #WRITE(ptr,$193E30)
-ジャンクフード[END]
+Junktown Grocer[END]
 
 
 //Text $1BB110
 #WRITE(ptr,$193E68)
-がらくた市場[END]
+Scavenger Market[END]
 
 
 //Text $1BB100
 #WRITE(ptr,$193EA0)
-変美畏女多留[END]
+Awe-Inspiring Beauty[END]
 
 
 //Text $1BB120
 #WRITE(ptr,$193ED8)
-ジャンクフード[END]
+Junktown Grocer[END]
 
 
 //Text $1BB110
 #WRITE(ptr,$193F10)
-がらくた市場[END]
+Scavenger Market[END]
 
 
 //Text $1BB100
 #WRITE(ptr,$193F48)
-変美畏女多留[END]
+Awe-Inspiring Beauty[END]
 
 
 //Text $1BB0F8
 #WRITE(ptr,$193F80)
-にゃも[END]
+Nympha[END]
 
 
 //Text $1BB0E8
 #WRITE(ptr,$193FB8)
-バランスアップ[END]
+Improved Balance[END]
 
 
 //Text $1BB0D8
 #WRITE(ptr,$193FF0)
-コレクター[END]
+The Collector[END]
 
 
 //Text $1BB0C8
 #WRITE(ptr,$194028)
-秘密兵器[END]
+Clandestine Weaponry[END]
 
 
 //Text $1BB0C0
 #WRITE(ptr,$194060)
-機能美[END]
+Functional Beauty[END]
 
 
 //Text $1BB0B0
 #WRITE(ptr,$194098)
-オーダーメイド[END]
+Custom Made[END]
 
 
 //Text $1BB0E8
 #WRITE(ptr,$1940D0)
-バランスアップ[END]
+Improved Balance[END]
 
 
 //Text $1BB0C8
 #WRITE(ptr,$194108)
-秘密兵器[END]
+Clandestine Weaponry[END]
 
 
 //Text $1BB0C0
@@ -18854,7 +18855,6 @@ BG＋25[END]
 BG＋50[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB940
 #WRITE(ptr,$1946B0)
 Min CC＋1[END]
