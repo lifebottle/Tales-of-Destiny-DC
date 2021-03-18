@@ -185,24 +185,23 @@
 	
 	{
 		"BlockId":			5,
-		"BlockDesc":		"Shop Name",
+		"BlockDesc":		"Tutorial",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Shop Name",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
-			"TextStart":	"1BB0A0",
-			"TextEnd":		"1A7876",
+			"SectionDesc":	"Tutorial",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"1AB970",
+			"TextEnd":		"1AC0CE",
 			"PointerStart":	"",
 			"PointerEnd":	""
-		
-		}]
+		}
+		]
 	},
 	
 	{
 		"BlockId":			5,
 		"BlockDesc":		"Item",
-		"TextStartBlock":	"1AC530",
 		"Sections":[
 		{
 			"SectionId":	1,
