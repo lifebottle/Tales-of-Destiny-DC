@@ -267,40 +267,40 @@ select
 この日、僕らの星には数百もの隕石が
 降り注いだ……
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-大聖堂へはこの部屋を出て
-一階の扉を進んでください。
+To get to the cathedral, leave this
+room and proceed to the first
+floor door.
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-モンスターもまだいるようですから
-気をつけて下さい。
+It seems that there are still
+monsters, so please be careful.
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-<Philia>、君が責任を感じる事では
-ないと思うけど……
+<Philia>、you are not responsible...
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-既に決めた事なら、
-応援させてもらうよ。
+If you have already decided,
+I will support you.
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-<Ayles>様からお話は伺いました。
-お気をつけ下さい。
+We heard from <Ayles>.
+Please be carful.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>、気をつけて行くのですよ。
+<Philia>, be careful.
 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-皆さん、<Philia>をよろしく
-お願いします。
+Thank you everyone,
+For saving <Philia>.
 [ENDBLOCK]
 -----flag_check
 
@@ -469,81 +469,90 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫ですか、皆さん？
+Are you guys OK?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちは王様の命令で来ました。
-もう平気ですよ。
+We're here under the King's
+orders. You're safe, now.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-おお、助かりました。
+Aah, we are saved!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私は当神殿の司教を務める、
-アイルツと言います。
+I serve this sacred temple as
+a Bishop. My name is <Ayles>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何が起こったのか、
-教えてもらえる？
+What exactly happened here?
+You mind filling us in?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-大司祭グレバムが、
-突然、反乱を起こしたのです！
+High Priest <Greybum> suddenly began
+an uprising here at the temple!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-そして止めに入った大司教様を……！
-ああ……なんとおいたわしい……
+The Archbishop tried to intervene,
+but...Oh, Atamoni preserve us!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-我らはやむなくグレバムに投降し、
-今に至るというわけなのです。
+We had no choice but to surrender
+to <Greybum>. He had us
+locked in here, as you see us now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-神の眼はどうなった？
+What happened to
+the Eye of Atamoni?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-なぜあなたがその名を!?
+Why do you
+know that name!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-説明の必要はない。
+You don't need
+to know that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕たちの目的は、神の眼の所在の確認だ。
-さっそく見せてもらおうか。
+Our objective is to confirm the
+whereabouts of the Eye of Atamoni.
+Now, will you take us to see it?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-なりませぬ。あれは当神殿の最高機密。
-関係ない方をご案内するわけには。
+I will not. You're talking about
+the greatest secret of this temple.
+I cannot show it to outsiders.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕は勅命を受けてここへやって来た。
+I've told you already that
+we were ordered to do this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕の言葉に逆らう事が、
-何を意味するか、わかるな？
+You know the consequences of
+obstructing official
+Kingdom business, don't you?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-……わかりました。ご案内いたします。
-大聖堂までお進みください。
+...I do. Very well.
+I shall guide you. Please
+take me to the Cathedral.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます！
+Thank you so much!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
