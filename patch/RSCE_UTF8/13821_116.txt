@@ -11,51 +11,51 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-道が崩れているけど、
-ジャンプで越えられそうだ。
+The path has collapsed, but I
+think I can jump over it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-道が崩れているわね。
-でもジャンプで越えられるわ。
+The path has collapsed..but I
+can jump over it.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-道が崩れているのか。
-だがジャンプで越えられるな。
+The path collapsed? I should
+be able to jump over it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-道は崩れているが、
-これならジャンプで越えられるな。
+The path has collapsed. I'll
+need to jump over the gap.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>崩れた通路では<Circle_ani>を押すと
-ジャンプして渡る事が
-できます。
+<TAG_007>Walk up to the collapsed sections
+and press <Circle_ani> to jump over the gap.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ジャンプに失敗しました。
+<TAG_007>You failed the jump.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>扉が閉まりました。
+<TAG_007>The door is being tightly held shut.
 [ENDBLOCK]
-<TAG_007>扉が開きました。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007>扉は固く閉ざされている。
+<TAG_007>The door has opened.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>白と黒の扉は白と黒のスイッチに
-連動しているようです。
+<TAG_007>The door is being tightly held shut.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>It looks like the black
+and white doors work in conjunction
+with the switches.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
