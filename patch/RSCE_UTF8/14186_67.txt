@@ -1,6 +1,6 @@
-××××××
+××××××空開始××××××
 [ENDBLOCK]
-空開始××××××
+
 
 [ENDBLOCK]
 段階なし：D1R_EPI001START 	～	D1R_032_030_000
@@ -179,19 +179,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）</color>
+<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）</color>
+<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）</color>
+<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）</color>
+<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -1018,7 +1018,7 @@ Reward
 notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
-<TAG_077> Gald penalty for refunding
+<TAG_077> Gald penalty for refunding 
 the payment advance.
 
 [ENDBLOCK]
