@@ -2,39 +2,39 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Alright, leave it to me! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ダリルシェイドに行きますか？
-行く
-行かない
+<TAG_007>Zero gravity elevator,
+warp to to Darilsheid?
+Go
+Don't go
 
 [ENDBLOCK]
-雑貨屋
+Clerk
 [ENDBLOCK]
-気が付けばこんなところに来てしまった。
-でも、商売はやめないぜ。
+I found myself in a place like this.
+But I ain't gonna stop doing business.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
