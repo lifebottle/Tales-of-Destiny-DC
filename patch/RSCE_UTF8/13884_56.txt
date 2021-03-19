@@ -2,43 +2,44 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Alright, leave it to me! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-くっ、こいつ!?
+What the hell!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-長い事放置されてただけあって、
-変なのがいっぱいいるわね。
+It's been abandoned for so long,
+there's a lot of freaky stuff here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>、大丈夫かなあ。
+I hope <Philia> is okay.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-早く用事を済ませて、戻るとしよう。
+Better finish our business
+fast and get out of here!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
