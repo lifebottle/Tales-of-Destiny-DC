@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\maxla\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -81,22 +81,22 @@ Torn[END]
 
 //Text $199930
 #WRITE(ptr,$D7CB8)
-Karyl[END]
+Johnny[END]
 
 
 //Text $199928
 #WRITE(ptr,$D7CBC)
-Sheeden[END]
+Shiden[END]
 
 
 //Text $199918
 #WRITE(ptr,$D7CC0)
-Khang[END]
+Kongman[END]
 
 
 //Text $199908
 #WRITE(ptr,$D7CC4)
-Bruiser[END]
+Mighty[END]
 
 
 //Text $199900
@@ -141,7 +141,7 @@ Berselius[END]
 
 //Text $199BD0
 #WRITE(ptr,$D7CE8)
-Lydon[END]
+Greybum[END]
 
 
 //Text $199BC0
@@ -151,7 +151,7 @@ Hugo[END]
 
 //Text $199BB0
 #WRITE(ptr,$D7CF0)
-Kronos[END]
+Miktran[END]
 
 
 //Text $199BA0
@@ -176,7 +176,7 @@ Baruk[END]
 
 //Text $199B68
 #WRITE(ptr,$D7D04)
-Ilene[END]
+Irene[END]
 
 
 //Text $199B58
@@ -304,7 +304,7 @@ Queen[END]
 Alba[END]
 
 
-//Section Skit Episode Name
+//Section Skit Episode
 
 //Text $19A5A8
 #WRITE(ptr,$D8780)
@@ -318,17 +318,17 @@ Mountain Hut[END]
 
 //Text $19A590
 #WRITE(ptr,$D8788)
-Stray Child [Chelsea][END]
+Lost Child[Chelsea][END]
 
 
 //Text $19A580
 #WRITE(ptr,$D878C)
-Border Town[END]
+The Border City[END]
 
 
 //Text $19A570
 #WRITE(ptr,$D8790)
-Memory of Snow[END]
+Snowy Memory[END]
 
 
 //Text $19A560
@@ -338,7 +338,7 @@ At the Temple[END]
 
 //Text $19A550
 #WRITE(ptr,$D8798)
-王国の少年剣士[END]
+The Kingdom's Young Swordsman[END]
 
 
 //Text $19A538
@@ -348,7 +348,7 @@ Royal Capital Darilsheid[END]
 
 //Text $19A520
 #WRITE(ptr,$D87A0)
-A Temple in Silence[END]
+The Temple Frozen in Silence[END]
 
 
 //Text $19A508
@@ -363,328 +363,329 @@ Desert Island[END]
 
 //Text $19A4E8
 #WRITE(ptr,$D87AC)
-怪しい神殿[END]
+Mysterious Temple[END]
 
 
 //Text $19A4D8
 #WRITE(ptr,$D87B0)
-美しき協力者[END]
+Beautiful Partnership[END]
 
 
 //Text $19A4C0
 #WRITE(ptr,$D87B4)
-武装船団を叩け！[END]
+Strike the Armada![END]
 
 
 //Text $19A4B0
 #WRITE(ptr,$D87B8)
-モリュウへの道[END]
+Road to Moreau[END]
 
 
 //Text $19A4A0
 #WRITE(ptr,$D87BC)
-奈落の底で[END]
+The Abyss[END]
 
 
 //Text $19A490
 #WRITE(ptr,$D87C0)
-陽気な吟遊詩人[END]
+The Jolly Minstrel[END]
 
 
 //Text $19A480
 #WRITE(ptr,$D87C4)
-いざモリュウ城[END]
+To Moreau Castle[END]
 
 
 //Text $19A468
 #WRITE(ptr,$D87C8)
-大暴れ！<$81>@海の軟体生物[END]
+Rampage! Sea Mollusk[END]
 
 
 //Text $19A450
 #WRITE(ptr,$D87CC)
-しじまに沈む大王の城[END]
+Depression in the Great King's Town[END]
 
 
 //Text $19A440
 #WRITE(ptr,$D87D0)
-[Tiberius]大王の城[END]
+[Tiberius] the Great's Castle[END]
 
 
+#JMP($19A190)
 //Text $19A430
 #WRITE(ptr,$D87D4)
-[Greybum]を追って[END]
+Pursuing [Greybum][END]
 
 
 //Text $19A420
 #WRITE(ptr,$D87D8)
-南の港町[END]
+Southern Port City[END]
 
 
 //Text $19A410
 #WRITE(ptr,$D87DC)
-凍える森[END]
+Frozen Forest[END]
 
 
 //Text $19A3F8
 #WRITE(ptr,$D87E0)
-在りし日の思い出[END]
+Remembrance of Days Past[END]
 
 
 //Text $19A3E8
 #WRITE(ptr,$D87E4)
-秘密の地下通路[END]
+Secret Underground Passage[END]
 
 
 //Text $19A3D0
 #WRITE(ptr,$D87E8)
-ハイデルベルグの決戦[END]
+Showdown at Heidelberg[END]
 
 
-#JMP($19A190)
 //Text $19A3C0
 #WRITE(ptr,$D87EC)
-久しぶりの故郷[END]
+Home After a Long Time[END]
 
 
 //Text $19A3A8
 #WRITE(ptr,$D87F0)
-再びセインガルドへ[END]
+Back to Seingald[END]
 
 
 //Text $19A398
 #WRITE(ptr,$D87F4)
-孤島の秘密[END]
+The Secret of the Lone Island[END]
 
 
 //Text $19A388
 #WRITE(ptr,$D87F8)
-悪夢の始まり[END]
+The Nightmare Begins[END]
 
 
 //Text $19A378
 #WRITE(ptr,$D87FC)
-空中都市の復活[END]
+Reviving the Aerial City[END]
 
 
 //Text $19A368
 #WRITE(ptr,$D8800)
-隠された鍵[END]
+The Hidden Key[END]
 
 
 //Text $19A350
 #WRITE(ptr,$D8804)
-目指すは外殻大地[END]
+Objective: Aethershpere[END]
 
 
 //Text $19A338
 #WRITE(ptr,$D8808)
-転送装置を確保せよ[END]
+Securing Transport[END]
 
 
 //Text $19A328
 #WRITE(ptr,$D880C)
-雄略の顛末[END]
+A Man's Circumstances[END]
 
 
 //Text $19A318
 #WRITE(ptr,$D8810)
-哀惜の佳人[END]
+Grieving Beauty[END]
 
 
 //Text $19A308
 #WRITE(ptr,$D8814)
-策士襲撃！[END]
+Suprise Attack！[END]
 
 
 //Text $19A2F8
 #WRITE(ptr,$D8818)
-天上の主[END]
+Lord of the Heavens[END]
 
 
 //Text $19A2E0
 #WRITE(ptr,$D881C)
-闇に閉ざされた世界[END]
+A World Shrouded in Darkness[END]
 
 
 //Text $19A2D0
 #WRITE(ptr,$D8820)
-魔性の襲来[END]
+Attack of the Demons[END]
 
 
 //Text $19A2B8
 #WRITE(ptr,$D8824)
-天空都市攻略計画[END]
+Strategy: Attacking the Aerial City[END]
 
 
 //Text $19A2A8
 #WRITE(ptr,$D8828)
-最終試練[END]
+The Ultimate Test[END]
 
 
 //Text $19A290
 #WRITE(ptr,$D882C)
-ベルセリウムを探して[END]
+Searching for Berselium[END]
 
 
 //Text $19A278
 #WRITE(ptr,$D8830)
-レンズが足りない！[END]
+Not Enough Lens![END]
 
 
 //Text $19A268
 #WRITE(ptr,$D8834)
-戦士達の夜[END]
+The Night of Warriors[END]
 
 
 //Text $19A258
 #WRITE(ptr,$D8838)
-未来へ向かって[END]
+Toward the Future[END]
 
 
 //Text $19A248
 #WRITE(ptr,$D883C)
-エピローグ[END]
+Epilogue[END]
 
 
 //Text $19A238
 #WRITE(ptr,$D8840)
-新たな任務[END]
+A New Mission[END]
 
 
 //Text $19A220
 #WRITE(ptr,$D8844)
-ｖｓソーディアン[END]
+ｖｓSwordians[END]
 
 
 //Text $19A210
 #WRITE(ptr,$D8848)
-[Hugo]の思惑[END]
+[Hugo]'s Prediction[END]
 
 
 //Text $19A520
 #WRITE(ptr,$D884C)
-静寂にたたずむ神殿[END]
+A Temple in Silence[END]
 
 
 //Text $19A200
 #WRITE(ptr,$D8850)
-[Lion]の覚悟[END]
+[Lion]'s Determination[END]
 
 
 //Text $19A508
 #WRITE(ptr,$D8854)
-第四のソーディアン[END]
+The Fourth Swordian[END]
 
 
 //Text $19A4F8
 #WRITE(ptr,$D8858)
-砂漠の島[END]
+Desert Island[END]
 
 
 //Text $19A4E8
 #WRITE(ptr,$D885C)
-怪しい神殿[END]
+Mysterious Temple[END]
 
 
 //Text $19A4D8
 #WRITE(ptr,$D8860)
-美しき協力者[END]
+Beautiful Partnership[END]
 
 
 //Text $19A4C0
 #WRITE(ptr,$D8864)
-武装船団を叩け！[END]
+Strike the Armada![END]
 
 
 //Text $19A4B0
 #WRITE(ptr,$D8868)
-モリュウへの道[END]
+Road to Moreau[END]
 
 
 //Text $19A1F0
 #WRITE(ptr,$D886C)
-奈落からの救出[END]
+Rescued from the Abyss[END]
 
 
 //Text $19A490
 #WRITE(ptr,$D8870)
-陽気な吟遊詩人[END]
+The Jolly Minstrel[END]
 
 
 //Text $19A480
 #WRITE(ptr,$D8874)
-いざモリュウ城[END]
+To Moreau Castle[END]
 
 
 //Text $19A468
 #WRITE(ptr,$D8878)
-大暴れ！<$81>@海の軟体生物[END]
+Rampage! Sea Mollusk[END]
 
 
 //Text $19A450
 #WRITE(ptr,$D887C)
-しじまに沈む大王の城[END]
+Depression in the Great King's Town[END]
 
 
 //Text $19A440
 #WRITE(ptr,$D8880)
-[Tiberius]大王の城[END]
+[Tiberius] the Great's Castle[END]
 
 
 //Text $19A430
 #WRITE(ptr,$D8884)
-[Greybum]を追って[END]
+Pursuing [Greybum][END]
 
 
 //Text $19A420
 #WRITE(ptr,$D8888)
-南の港町[END]
+Southern Port City[END]
 
 
 //Text $19A410
 #WRITE(ptr,$D888C)
-凍える森[END]
+Frozen Forest[END]
 
 
 //Text $19A3F8
 #WRITE(ptr,$D8890)
-在りし日の思い出[END]
+Remembrance of Days Past[END]
 
 
 //Text $19A3E8
 #WRITE(ptr,$D8894)
-秘密の地下通路[END]
+Secret Underground Passage[END]
 
 
 //Text $19A3D0
 #WRITE(ptr,$D8898)
-ハイデルベルグの決戦[END]
+Showdown at Heidelberg[END]
 
 
 //Text $19A1E0
 #WRITE(ptr,$D889C)
-ふたりの兵士[END]
+Two Soldiers[END]
 
 
 //Text $19A1D0
 #WRITE(ptr,$D88A0)
-ふたりの時間[END]
+Time for the Two of Us[END]
 
 
+#JMP($19AC90)
 //Text $19A1B8
 #WRITE(ptr,$D88A4)
-正体不明モンスター[END]
+Unidentifiable Monster[END]
 
 
 //Text $19A1A8
 #WRITE(ptr,$D88A8)
-破られた幸福[END]
+Broken Happiness[END]
 
 
 //Text $19A190
 #WRITE(ptr,$D88AC)
-ただひとりのために…[END]
+For the sake of one…[END]
 
 
 //Section Movie Subtitle
@@ -789,7 +790,6 @@ Get up, [Stahn]![END]
 ここも間もなく水に飲まれる[END]
 
 
-#JMP($19AC90)
 //Text $19AE60
 #WRITE(ptr,$180D1C)
 付き合わせてすまないな シャル[END]
@@ -915,6 +915,133 @@ Get up, [Stahn]![END]
 ディムロス……[END]
 
 
+//Section Support
+
+//POINTER #19 @ $18108C - STRING #19 @ $19B370
+#WRITE(ptr,$18108C)
+She adds a new twist to dishes made[LINE]
+from the food sack. It's so tasty[LINE]
+that it increases HP recovery.[END]
+
+
+#JMP($19B370)
+//POINTER #18 @ $181088 - STRING #18 @ $19B3D8
+#WRITE(ptr,$181088)
+Condiment Industry[END]
+
+
+//POINTER #17 @ $181084 - STRING #17 @ $19B3E8
+#WRITE(ptr,$181084)
+He undergoes a harsh bodybuilding[LINE]
+workout to improve his stats. Those[LINE]
+muscles are for everyone's sake.[END]
+
+
+//POINTER #16 @ $181080 - STRING #16 @ $19B450
+#WRITE(ptr,$181080)
+Muscle Training[END]
+
+
+//POINTER #15 @ $18107C - STRING #15 @ $19B458
+#WRITE(ptr,$18107C)
+Live music is on the streets.[LINE]
+Foes will crowd you like fans, but[LINE]
+drop more items. Toss him a gald?[END]
+
+
+//POINTER #14 @ $181078 - STRING #14 @ $19B4B8
+#WRITE(ptr,$181078)
+Street Performance[END]
+
+
+//POINTER #13 @ $181074 - STRING #13 @ $19B4C8
+#WRITE(ptr,$181074)
+Even if the seeds are unknown,[LINE]
+she'll grow them with care and[LINE]
+bear fruit.[END]
+//[END]
+
+
+//POINTER #12 @ $181070 - STRING #12 @ $19B510
+#WRITE(ptr,$181070)
+Seed Raising[END]
+
+
+//POINTER #11 @ $18106C - STRING #11 @ $19B518
+#WRITE(ptr,$18106C)
+You can expect her to improve your[LINE]
+gems' level by steadily polishing[LINE]
+the ones you have.[END]
+//[END]
+
+
+//POINTER #10 @ $181068 - STRING #10 @ $19B570
+#WRITE(ptr,$181068)
+Gem Polishing[END]
+
+
+//POINTER #9 @ $181064 - STRING #9 @ $19B580
+#WRITE(ptr,$181064)
+Relentless training even on the[LINE]
+move. Boosts damage in battle.[END]
+//[END]
+//[END]
+
+
+//POINTER #8 @ $181060 - STRING #8 @ $19B5C0
+#WRITE(ptr,$181060)
+Combat Instruction[END]
+
+
+//POINTER #7 @ $18105C - STRING #7 @ $19B5D0
+#WRITE(ptr,$18105C)
+He surveys the surrounding area,[LINE]
+reducing the encounter rate.[END]
+//[END]
+//[END]
+
+
+//POINTER #6 @ $181058 - STRING #6 @ $19B610
+#WRITE(ptr,$181058)
+Vigilance[END]
+
+
+//POINTER #5 @ $181054 - STRING #5 @ $19B618
+#WRITE(ptr,$181054)
+She mixes berries and chemicals[LINE]
+into a consumable concoction.[LINE]
+Sometimes it turns out strange.[END]
+
+
+//POINTER #4 @ $181050 - STRING #4 @ $19B678
+#WRITE(ptr,$181050)
+Synthesis[END]
+
+
+//POINTER #3 @ $18104C - STRING #3 @ $19B680
+#WRITE(ptr,$18104C)
+Searches for Gald and Lens.[LINE]
+Increase your wealth at will.[LINE]
+Also finds valuables.[END]
+
+
+//POINTER #2 @ $181048 - STRING #2 @ $19B6D0
+#WRITE(ptr,$181048)
+Treasure Hunting[END]
+
+
+//POINTER #1 @ $181044 - STRING #1 @ $19B6E0
+#WRITE(ptr,$181044)
+Takes a nap to recover HP.[LINE]
+While napping, he presses[LINE]
+herbs to transform them.[END]
+
+
+//POINTER #0 @ $181040 - STRING #0 @ $19B738
+#WRITE(ptr,$181040)
+Embossing Nap[END]
+
+
 //Section Menu Button
 
 //Text $19C0B0
@@ -942,6 +1069,7 @@ Get up, [Stahn]![END]
 [Circle_ani]Inspect[END]
 
 
+#JMP($19BDC0)
 //Text $19C058
 #WRITE(ptr,$181234)
 [Circle_ani]Open[END]
@@ -1112,7 +1240,6 @@ Get up, [Stahn]![END]
 [Circle_ani]Look[END]
 
 
-#JMP($19BDC0)
 //Text $19BE00
 #WRITE(ptr,$1812BC)
 [Up]Up [Down]Down [Cross_ani]Return[END]
@@ -1131,133 +1258,6 @@ Get up, [Stahn]![END]
 //Text $19BDC0
 #WRITE(ptr,$1812C8)
 [Cross_ani]Give up[END]
-
-
-//Section Support
-
-//POINTER #19 @ $18108C - STRING #19 @ $19B370
-#WRITE(ptr,$18108C)
-She adds a new twist to dishes made[LINE]
-from the food sack. It's so tasty[LINE]
-that it increases HP recovery.[END]
-
-
-//POINTER #18 @ $181088 - STRING #18 @ $19B3D8
-#WRITE(ptr,$181088)
-Condiment Industry[END]
-
-
-//POINTER #17 @ $181084 - STRING #17 @ $19B3E8
-#WRITE(ptr,$181084)
-He undergoes a harsh bodybuilding[LINE]
-workout to improve his stats. Those[LINE]
-muscles are for everyone's sake.[END]
-
-
-//POINTER #16 @ $181080 - STRING #16 @ $19B450
-#WRITE(ptr,$181080)
-Muscle Training[END]
-
-
-//POINTER #15 @ $18107C - STRING #15 @ $19B458
-#WRITE(ptr,$18107C)
-Live music is on the streets.[LINE]
-Foes will crowd you like fans, but[LINE]
-drop more items. Toss him a gald?[END]
-
-
-//POINTER #14 @ $181078 - STRING #14 @ $19B4B8
-#WRITE(ptr,$181078)
-Street Performance[END]
-
-
-//POINTER #13 @ $181074 - STRING #13 @ $19B4C8
-#WRITE(ptr,$181074)
-Even if the seeds are unknown,[LINE]
-she'll grow them with care and[LINE]
-bear fruit.[END]
-//[END]
-
-
-//POINTER #12 @ $181070 - STRING #12 @ $19B510
-#WRITE(ptr,$181070)
-Seed Raising[END]
-
-
-//POINTER #11 @ $18106C - STRING #11 @ $19B518
-#WRITE(ptr,$18106C)
-You can expect her to improve your[LINE]
-gems' level by steadily polishing[LINE]
-the ones you have.[END]
-//[END]
-
-
-//POINTER #10 @ $181068 - STRING #10 @ $19B570
-#WRITE(ptr,$181068)
-Gem Polishing[END]
-
-
-//POINTER #9 @ $181064 - STRING #9 @ $19B580
-#WRITE(ptr,$181064)
-Relentless training even on the[LINE]
-move. Boosts damage in battle.[END]
-//[END]
-//[END]
-
-
-//POINTER #8 @ $181060 - STRING #8 @ $19B5C0
-#WRITE(ptr,$181060)
-Combat Instruction[END]
-
-
-#JMP($19B370)
-//POINTER #7 @ $18105C - STRING #7 @ $19B5D0
-#WRITE(ptr,$18105C)
-He surveys the surrounding area,[LINE]
-reducing the encounter rate.[END]
-//[END]
-//[END]
-
-
-//POINTER #6 @ $181058 - STRING #6 @ $19B610
-#WRITE(ptr,$181058)
-Vigilance[END]
-
-
-//POINTER #5 @ $181054 - STRING #5 @ $19B618
-#WRITE(ptr,$181054)
-She mixes berries and chemicals[LINE]
-into a consumable concoction.[LINE]
-Sometimes it turns out strange.[END]
-
-
-//POINTER #4 @ $181050 - STRING #4 @ $19B678
-#WRITE(ptr,$181050)
-Synthesis[END]
-
-
-//POINTER #3 @ $18104C - STRING #3 @ $19B680
-#WRITE(ptr,$18104C)
-Searches for Gald and Lens.[LINE]
-Increase your wealth at will.[LINE]
-Also finds valuables.[END]
-
-
-//POINTER #2 @ $181048 - STRING #2 @ $19B6D0
-#WRITE(ptr,$181048)
-Treasure Hunting[END]
-
-
-//POINTER #1 @ $181044 - STRING #1 @ $19B6E0
-#WRITE(ptr,$181044)
-Takes a nap to recover HP.[LINE]
-While napping, he presses[LINE]
-herbs to transform them.[END]
-
-
-//POINTER #0 @ $181040 - STRING #0 @ $19B738
-#WRITE(ptr,$181040)
-Embossing Nap[END]
 
 
 //Section Hidden Artes
@@ -1339,6 +1339,7 @@ a demon god. Grants 10 iron stance.[END]
 [END]
 
 
+#JMP($19C380)
 //Text $19D238
 #WRITE(ptr,$184868)
 [Sign_6]Spoil Mind[END]
@@ -1420,7 +1421,6 @@ Burn like a phoenix, scorching foes.[END]
 [END]
 
 
-#JMP($19C380)
 //Text $19D0E0
 #WRITE(ptr,$184930)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 2 BG＞[/color][LINE]
@@ -5227,7 +5227,7 @@ Chaser[END]
 
 //Text $1A2050
 #WRITE(ptr,$185414)
-Block physical attacks during an aiming step[END]
+Block physical attacks during a Front Step[END]
 
 
 //Text $1A2048
@@ -5567,12 +5567,12 @@ Omega Tempest: Use Tempest Strike in the air[END]
 
 //Text $1A1AC0
 #WRITE(ptr,$185748)
-Fiery Beast: Use Beast after Hell Pyre[END]
+Fiery Beast: Chain Beast after Hell Pyre[END]
 
 
 //Text $1A1A98
 #WRITE(ptr,$18575C)
-Beast: Use Scorching Fist during an Front Step[END]
+Beast: Use Scorching Fist during a Front Step[END]
 
 
 //Text $1A1A78
@@ -5978,12 +5978,12 @@ Aquaveil F1[END]
 
 //Text $1A4BA8
 #WRITE(ptr,$186D50)
-Sheeden Tidal Cave (First Half)[END]
+Shiden Tidal Cave (First Half)[END]
 
 
 //Text $1A4B90
 #WRITE(ptr,$186D5C)
-Sheeden Tidal Cave (Final Half)[END]
+Shiden Tidal Cave (Final Half)[END]
 
 
 //Text $1A4B80
@@ -7501,7 +7501,7 @@ Secret Art Background[END]
 
 //Text $1A2B00
 #WRITE(ptr,$186748)
-Sheeden Underwater Cave・Ogre Queen Battle[END]
+Shiden Underwater Cave・Ogre Queen Battle[END]
 
 
 //Text $1A2AD8
@@ -7933,1994 +7933,113 @@ Test Play Point: Reach [TAG_015][END]
 
 //Section Map Location
 
-//Text $1A67A0
-#WRITE(ptr,$1892E8)
-Draconis[END]
-
-
-//Text $1A6790
-#WRITE(ptr,$1892F4)
-Draconis (Night)[END]
-
-
-//Text $1A6780
-#WRITE(ptr,$189300)
-Torn's Cabin[END]
-
-
-//Text $1A6768
-#WRITE(ptr,$18930C)
-Torn's Cabin (Night)[END]
-
-
-//Text $1A6750
-#WRITE(ptr,$189318)
-Torn's Cabin, Mountain Side A[END]
-
-
-//Text $1A6738
-#WRITE(ptr,$189324)
-Torn's Cabin, Mountain Side B[END]
-
-
-//Text $1A6718
-#WRITE(ptr,$189330)
-Torn's Cabin, Mountain Side A(Night)[END]
-
-
-//Text $1A66F8
-#WRITE(ptr,$18933C)
-Torn's Cabin, Mountain Side B(Night)[END]
-
-
-//Text $1A66E0
-#WRITE(ptr,$189348)
-The Mountain Path of Phandaria A[END]
-
-
-//Text $1A66C8
-#WRITE(ptr,$189354)
-The Mountain Path of Phandaria B[END]
-
-
-//Text $1A66B0
-#WRITE(ptr,$189360)
-The Mountain Path of Phandaria A(Night)[END]
-
-
-//Text $1A6698
-#WRITE(ptr,$18936C)
-The Mountain Path of Phandaria B(Night)[END]
-
-
-//Text $1A6688
-#WRITE(ptr,$189378)
-Janos A[END]
-
-
-//Text $1A6678
-#WRITE(ptr,$189384)
-Janos A(Night)[END]
-
-
-//Text $1A6660
-#WRITE(ptr,$189390)
-Cave that leads to the temple A[END]
-
-
-//Text $1A6648
-#WRITE(ptr,$18939C)
-Cave that leads to the temple A(night)[END]
-
-
-//Text $1A6640
-#WRITE(ptr,$1893A8)
-Temple A[END]
-
-
-//Text $1A6630
-#WRITE(ptr,$1893B4)
-Temple A(Night)[END]
-
-
-//Text $1A6620
-#WRITE(ptr,$1893C0)
-Harmentz A[END]
-
-
-//Text $1A6610
-#WRITE(ptr,$1893CC)
-Harmentz A(Night)[END]
-
-
-//Text $1A6600
-#WRITE(ptr,$1893D8)
-Seinegald 城A[END]
-
-
-//Text $1A65E8
-#WRITE(ptr,$1893E4)
-Seinegald 城A(Night)[END]
-
-
-//Text $1A65D8
-#WRITE(ptr,$1893F0)
-Darilsheid A[END]
-
-
-//Text $1A65C0
-#WRITE(ptr,$1893FC)
-Darilsheid A(Night)[END]
-
-
-//Text $1A65B0
-#WRITE(ptr,$189408)
-Armeida A[END]
-
-
-//Text $1A65A0
-#WRITE(ptr,$189414)
-Armeida A(Night)[END]
-
-
-//Text $1A6588
-#WRITE(ptr,$189420)
-Straylize Forest A[END]
-
-
-//Text $1A6570
-#WRITE(ptr,$18942C)
-Straylize Forest B[END]
-
-
-//Text $1A6558
-#WRITE(ptr,$189438)
-Straylize Forest A (Night)[END]
-
-
-//Text $1A6540
-#WRITE(ptr,$189444)
-Straylize Forest B(Night)[END]
-
-
-//Text $1A6528
-#WRITE(ptr,$189450)
-Straylize Temple A[END]
-
-
-//Text $1A6510
-#WRITE(ptr,$18945C)
-Straylize Temple A(Night)[END]
-
-
-//Text $1A6528
-#WRITE(ptr,$189468)
-Straylize Temple A[END]
-
-
-//Text $1A64F8
-#WRITE(ptr,$189474)
-Straylize Temple B[END]
-
-
-//Text $1A6510
-#WRITE(ptr,$189480)
-Straylize Temple A(Night)[END]
-
-
-//Text $1A64E0
-#WRITE(ptr,$18948C)
-Straylize Temple B(Night)[END]
-
-
-//Text $1A64D8
-#WRITE(ptr,$189498)
-Ship A[END]
-
-
-//Text $1A64C8
-#WRITE(ptr,$1894A4)
-Radisrol A[END]
-
-
-//Text $1A64B8
-#WRITE(ptr,$1894B0)
-Radisrol B[END]
-
-
-//Text $1A64A8
-#WRITE(ptr,$1894BC)
-Cherik A[END]
-
-
-//Text $1A6498
-#WRITE(ptr,$1894C8)
-Cherik A(夜)[END]
-
-
-//Text $1A6488
-#WRITE(ptr,$1894D4)
-Kalviola A[END]
-
-
-//Text $1A6470
-#WRITE(ptr,$1894E0)
-Kalviola A(Night)[END]
-
-
-//Text $1A6460
-#WRITE(ptr,$1894EC)
-Kalviola Temple A[END]
-
-
-//Text $1A6450
-#WRITE(ptr,$1894F8)
-Kalviola Temple B[END]
-
-
-//Text $1A6438
-#WRITE(ptr,$189504)
-Kalviola Temple A(Night)[END]
-
-
-//Text $1A6420
-#WRITE(ptr,$189510)
-Kalviola Temple B(Night)[END]
-
-
-//Text $1A6410
-#WRITE(ptr,$18951C)
-Neuestadt A[END]
-
-
-//Text $1A63F8
-#WRITE(ptr,$189528)
-Neuestadt A (Night)[END]
-
-
-//Text $1A63F0
-#WRITE(ptr,$189534)
-Arena A[END]
-
-
-//Text $1A63E0
-#WRITE(ptr,$189540)
-Arena A(Night)[END]
-
-
-//Text $1A63D8
-#WRITE(ptr,$18954C)
-Pirate Ship A[END]
-
-
-//Text $1A63D0
-#WRITE(ptr,$189558)
-Pirate Ship B[END]
-
-
-//Text $1A63C0
-#WRITE(ptr,$189564)
-Shiden A[END]
-
-
-//Text $1A63B0
-#WRITE(ptr,$189570)
-Shiden A(Night)[END]
-
-
-//Text $1A63A0
-#WRITE(ptr,$18957C)
-Shiden Undersea Cave A[END]
-
-
-//Text $1A6390
-#WRITE(ptr,$189588)
-Shiden Undersea Cave B[END]
-
-
-//Text $1A6380
-#WRITE(ptr,$189594)
-Moreau A[END]
-
-
-//Text $1A6370
-#WRITE(ptr,$1895A0)
-Moreau A(Night)[END]
-
-
-//Text $1A6360
-#WRITE(ptr,$1895AC)
-Moreau A[END]
-
-
-//Text $1A6350
-#WRITE(ptr,$1895B8)
-Moreau B[END]
-
-
-//Text $1A6340
-#WRITE(ptr,$1895C4)
-Terazzi A[END]
-
-
-//Text $1A6330
-#WRITE(ptr,$1895D0)
-Terazzi A(Night)[END]
-
-
-//Text $1A6320
-#WRITE(ptr,$1895DC)
-Terazzi Tower A[END]
-
-
-//Text $1A6310
-#WRITE(ptr,$1895E8)
-Terazzi Tower B[END]
-
-
-//Text $1A6300
-#WRITE(ptr,$1895F4)
-Frostheim A[END]
-
-
-//Text $1A62E8
-#WRITE(ptr,$189600)
-Frostheim A(Night)[END]
-
-
-//Text $1A62D8
-#WRITE(ptr,$18960C)
-Tilso Forest A[END]
-
-
-//Text $1A62C8
-#WRITE(ptr,$189618)
-Tilso Forest B[END]
-
-
-//Text $1A62B0
-#WRITE(ptr,$189624)
-Tilso Forest A(Night)[END]
-
-
-//Text $1A6298
-#WRITE(ptr,$189630)
-Tilso Forest B(Night)[END]
-
-
-//Text $1A6288
-#WRITE(ptr,$18963C)
-Cyril A[END]
-
-
-//Text $1A6278
-#WRITE(ptr,$189648)
-Cyril A(Night)[END]
-
-
-//Text $1A6260
-#WRITE(ptr,$189654)
-Heidelberg Street[END]
-
-
-//Text $1A6248
-#WRITE(ptr,$189660)
-Heidelberg Street (Night)[END]
-
-
-//Text $1A6230
-#WRITE(ptr,$18966C)
-Heidelberg Underground Passage A[END]
-
-
-//Text $1A6218
-#WRITE(ptr,$189678)
-Heidelberg Underground Passage B[END]
-
-
-//Text $1A6200
-#WRITE(ptr,$189684)
-Heidelberg Castle A[END]
-
-
-//Text $1A61E8
-#WRITE(ptr,$189690)
-Heidelberg Castle B[END]
-
-
-//Text $1A61D0
-#WRITE(ptr,$18969C)
-Heidelberg Castle A(Night)[END]
-
-
-//Text $1A61B8
-#WRITE(ptr,$1896A8)
-Heidelberg Castle B(Night)[END]
-
-
-//Text $1A61A0
-#WRITE(ptr,$1896B4)
-Draconis around Seingald A[END]
-
-
-//Text $1A6198
-#WRITE(ptr,$1896C0)
-Lienea [END]
-
-
-//Text $1A6188
-#WRITE(ptr,$1896CC)
-Lienea (Night)[END]
-
-
-//Text $1A6178
-#WRITE(ptr,$1896D8)
-Cresta A[END]
-
-
-//Text $1A6168
-#WRITE(ptr,$1896E4)
-Cresta A(Night)[END]
-
-
-//Text $1A6150
-#WRITE(ptr,$1896F0)
-Oberon Secret Factory A[END]
-
-
-//Text $1A6138
-#WRITE(ptr,$1896FC)
-Oberon Secret Factory B[END]
-
-
-//Text $1A6128
-#WRITE(ptr,$189708)
-Undersea Cave A[END]
-
-
-//Text $1A6118
-#WRITE(ptr,$189714)
-Undersea Cave B[END]
-
-
-//Text $1A6108
-#WRITE(ptr,$189720)
-Hidden Temple A[END]
-
-
-//Text $1A60F8
-#WRITE(ptr,$18972C)
-Ignasea A[END]
-
-
-//Text $1A60E8
-#WRITE(ptr,$189738)
-Ignasea B[END]
-
-
-//Text $1A60D8
-#WRITE(ptr,$189744)
-Deimos A[END]
-
-
-//Text $1A60C8
-#WRITE(ptr,$189750)
-Deimos B[END]
-
-
-//Text $1A60B8
-#WRITE(ptr,$18975C)
-Cloudius A[END]
-
-
-//Text $1A60A8
-#WRITE(ptr,$189768)
-Cloudius B[END]
-
-
-//Text $1A6098
-#WRITE(ptr,$189774)
-Rodeon A[END]
-
-
-//Text $1A6088
-#WRITE(ptr,$189780)
-Rodeon B[END]
-
-
-//Text $1A6078
-#WRITE(ptr,$18978C)
-Helraios A[END]
-
-
-//Text $1A6068
-#WRITE(ptr,$189798)
-Helraios B[END]
-
-
-//Text $1A6058
-#WRITE(ptr,$1897A4)
-Josaia A[END]
-
-
-//Text $1A6048
-#WRITE(ptr,$1897B0)
-Josaia B[END]
-
-
-//Text $1A6038
-#WRITE(ptr,$1897BC)
-Mikheil A[END]
-
-
-//Text $1A6028
-#WRITE(ptr,$1897C8)
-Mikheil B[END]
-
-
-//Text $1A6018
-#WRITE(ptr,$1897D4)
-Floating Cruiser A[END]
-
-
-//Text $1A6008
-#WRITE(ptr,$1897E0)
-Belcrant A[END]
-
-
-//Text $1A5FF8
-#WRITE(ptr,$1897EC)
-Belcrant B[END]
-
-
-//Text $1A5FE0
-#WRITE(ptr,$1897F8)
-Swordian R&D Lab A[END]
-
-
-//Text $1A5FC8
-#WRITE(ptr,$189804)
-Swordian R&D Lab B[END]
-
-
-//Text $1A5FB8
-#WRITE(ptr,$189810)
-Junkland A[END]
-
-
-//Text $1A5FA0
-#WRITE(ptr,$18981C)
-Junkland A(Night)[END]
-
-
-//Text $1A5F88
-#WRITE(ptr,$189828)
-Trash Mountain A[END]
-
-
-//Text $1A5F70
-#WRITE(ptr,$189834)
-Trash Mountain B[END]
-
-
-//Text $1A5F60
-#WRITE(ptr,$189840)
-Dycroft A[END]
-
-
-//Text $1A5F50
-#WRITE(ptr,$18984C)
-Dycroft B[END]
-
-
-//Text $1A5F40
-#WRITE(ptr,$189858)
-EX Dungeon A[END]
-
-
-//Text $1A5F30
-#WRITE(ptr,$189864)
-EX Dungeon B[END]
-
-
-//Text $1A5F20
-#WRITE(ptr,$189870)
-Traveller's Lodge A[END]
-
-
-//Text $1A5F10
-#WRITE(ptr,$18987C)
-Traveller's Lodge A(Night)[END]
-
-
-//Text $1A5F00
-#WRITE(ptr,$189888)
-Katz Village A[END]
-
-
-//Text $1A5EF0
-#WRITE(ptr,$189894)
-General Combat A[END]
-
-
-//Text $1A5EE8
-#WRITE(ptr,$1898A0)
-Backup A[END]
-
-
 //Section City Name
 
-//Text $1A74F0
-#WRITE(ptr,$189DD0)
-Torn's Cabin[END]
+//Section Tutorial
+
+//Text $1AC050
+#WRITE(ptr,$18C5B0)
+[yellow]ソーディアンデバイス[/color]とは[yellow]デバイス[/color]をセットすることで[LINE]
+ソーディアンの能力を強化することのできる機能です。[END]
 
 
-//Text $1A74E0
-#WRITE(ptr,$189DD4)
+//Text $1ABFE0
+#WRITE(ptr,$18C5B4)
+ソーディアンデバイスは、[turquoise]ソーディアンマスター[/color]の[LINE]
+[yellow]装備[/color]メニューから設定することができます。[END]
+
+
+//Text $1ABF88
+#WRITE(ptr,$18C5B8)
+[yellow]ソーディアン[/color]を選択することで、[LINE]
+ソーディアンデバイスを設定することができます。[END]
+
+
+//Text $1ABF18
+#WRITE(ptr,$18C5BC)
+デバイスは[yellow]デバイスポイント[/color]を割り振ることで[LINE]
+セットできます。[turquoise]アタック[/color]をセットしてみましょう。[END]
+
+
+//Text $1ABEB8
+#WRITE(ptr,$18C5C0)
+デバイスポイントはデバイスを外せば戻ってきます。[LINE]
+[turquoise]アタック[/color]をはずしてみましょう。[END]
+
+
+//Text $1ABE78
+#WRITE(ptr,$18C5C4)
+最後に、[LINE]
+好みのデバイスをセットしてから[Cross_ani]ボタンで終了です。[END]
+
+
+//Text $1ABDC8
+#WRITE(ptr,$18C5C8)
+[yellow]デバイスポイント[/color]はレベルアップと共に増加します。[LINE]
+デバイスをセットした状態で戦闘を繰り返し、[LINE]
+[yellow]マスター[/color]することで[turquoise]新たなデバイス[/color]を習得できます。[END]
+
+
+//Text $1ABDA0
+#WRITE(ptr,$18C5CC)
+[yellow]リライズ[/color]を選択してください。[END]
+
+
+//Text $1ABD30
+#WRITE(ptr,$18C5D0)
+リライズを行いたい武具を選択します。[LINE]
+[turquoise]スタン[/color]が装備中の[turquoise]レザーアーマー[/color]を選択してください。[END]
+
+
+//Text $1ABCE8
+#WRITE(ptr,$18C5D4)
+あとはリライズ後の武具を選ぶだけです。[LINE]
+好きな装備品を選んでください。[END]
+
+
+//Text $1ABBF8
+#WRITE(ptr,$18C5D8)
+リライズを行うには、レンズのほかに[LINE]
+[yellow]パーティレベル[/color]が必要です。[LINE]
+[turquoise]各キャラのレベルを上げる[/color]ことで、[LINE]
+パーティレベルも上がります。[LINE]
+強力な武具ほど必要なパーティレベルが高く、[LINE]
+これを満たすことでリライズができるようになります。[END]
+
+
+//Text $1ABB50
+#WRITE(ptr,$18C5DC)
+[turquoise]宝石[/color]は[turquoise]マテリアル[/color]をリライズすることでのみ入手でき、[LINE]
+リライズの際には、攻撃力上昇や防御力上昇などの[LINE]
+[turquoise]特殊効果を加える[/color]ことができます。[END]
+
+
+//Text $1ABAF0
+#WRITE(ptr,$18C5E0)
+宝石のリライズは、武具のリライズと同じく[LINE]
+[yellow]リライズ[/color]メニューから行うことができます。[END]
+
+
+//Text $1ABA90
+#WRITE(ptr,$18C5E4)
+リライズを行いたいマテリアルを選択します。[LINE]
+[turquoise]ポイズンマテリアル[/color]を選択してください。[END]
+
+
+//Text $1ABA40
+#WRITE(ptr,$18C5E8)
+宝石に加える[turquoise]特殊効果[/color]を選択します。[LINE]
+好きな宝石を選んでください。[END]
+
+
+//Text $1AB970
+#WRITE(ptr,$18C5EC)
+マテリアルから宝石へとリライズした後も、[LINE]
+宝石を[turquoise]さらにリライズ[/color]し、[LINE]
+特殊効果のステータスを上げることができます。[LINE]
+また、リライズごとに特殊効果を[LINE]
+[turquoise]候補の中から選びなおす[/color]こともできます。[LINE]
 [END]
-
-
-//Text $1A74A0
-#WRITE(ptr,$189DD8)
-A hut in a snowy mountain forest.[LINE]
-Home to master archer Alba Torn.[END]
-
-
-//Text $1A7488
-#WRITE(ptr,$189E08)
-Janos[END]
-
-
-//Text $1A7480
-#WRITE(ptr,$189E0C)
-[END]
-
-
-//Text $1A7410
-#WRITE(ptr,$189E10)
-A border town in the northern part of[LINE]
-Phandaria. Phandaria owns the south[LINE]
-and Seinegald owns the north.[END]
-
-
-//Text $1A73F8
-#WRITE(ptr,$189E40)
-Heidelberg[END]
-
-
-//Text $1A73E8
-#WRITE(ptr,$189E44)
-[END]
-
-
-//Text $1A7390
-#WRITE(ptr,$189E48)
-The capital of Phandaria.[LINE]
-The snow on the streets absorbs [LINE]
-the hustle and bustle of the city.[END]
-
-
-//Text $1A7378
-#WRITE(ptr,$189E78)
-Darilsheid[END]
-
-
-//Text $1A7368
-#WRITE(ptr,$189E7C)
-[END]
-
-
-//Text $1A7328
-#WRITE(ptr,$189E80)
-Capital of Seinegald.[LINE]
-The well-developed town [LINE]
-is filled with people.[END]
-
-
-//Text $1A7318
-#WRITE(ptr,$189EB0)
-Cresta[END]
-
-
-//Text $1A7310
-#WRITE(ptr,$189EB4)
-[END]
-
-
-//Text $1A72C0
-#WRITE(ptr,$189EB8)
-A city in the eastern part of[LINE]
-Seinegald. Like other suburban[LINE]
-towns, time passes slowly.[END]
-
-
-//Text $1A72A8
-#WRITE(ptr,$189EE8)
-Oberon's Hidden Factory [END]
-
-
-//Text $1A7290
-#WRITE(ptr,$189EEC)
-[END]
-
-
-//Text $1A7240
-#WRITE(ptr,$189EF0)
-An Oberon factory built on an island[LINE]
-in the northeastern waters of[LINE]
-Seinegald. It's currently closed.[END]
-
-
-//Text $1A7230
-#WRITE(ptr,$189F20)
-Lienea[END]
-
-
-//Text $1A7228
-#WRITE(ptr,$189F24)
-[END]
-
-
-//Text $1A71E0
-#WRITE(ptr,$189F28)
-A village in the northern region of[LINE]
-Fitzgald. Most of the villagers engage[LINE]
-in agriculture or cattle farming.[END]
-
-
-//Text $1A71D0
-#WRITE(ptr,$189F58)
-The Hidden Temple [END]
-
-
-//Text $1A71B8
-#WRITE(ptr,$189F5C)
-[END]
-
-
-//Text $1A7188
-#WRITE(ptr,$189F60)
-An archaeological site located in[LINE]
-the northern inner bay of Fitzgald.[END]
-
-
-//Text $1A7178
-#WRITE(ptr,$189F90)
-Cherik[END]
-
-
-//Text $1A7170
-#WRITE(ptr,$189F94)
-[END]
-
-
-//Text $1A7100
-#WRITE(ptr,$189F98)
-A port town in the southern region of Calvalese.[LINE]
-A port where supplies can be obtained from other[LINE]
-countries is truly a lifeline in Calvalese's harsh environment.[END]
-
-
-//Text $1A70F0
-#WRITE(ptr,$189FC8)
-Kalviola[END]
-
-
-//Text $1A70E0
-#WRITE(ptr,$189FCC)
-[END]
-
-
-//Text $1A7088
-#WRITE(ptr,$189FD0)
-Capital of Calvalese.[LINE]
-The store roofs are covered with colorful[LINE]
-neon lights that glow at night.[END]
-
-
-//Text $1A7078
-#WRITE(ptr,$18A000)
-Junkland[END]
-
-
-//Text $1A7068
-#WRITE(ptr,$18A004)
-[END]
-
-
-//Text $1A7000
-#WRITE(ptr,$18A008)
-A city in the western region of Calvalese.[LINE]
-The people there live by reusing piles[LINE]
-of industrial waste from long ago.[END]
-
-
-//Text $1A6FF0
-#WRITE(ptr,$18A038)
-Radisrol[END]
-
-
-//Text $1A6FE0
-#WRITE(ptr,$18A03C)
-[END]
-
-
-//Text $1A6F90
-#WRITE(ptr,$18A040)
-A ship once known for its heroics.[LINE]
-It is now submerged deep in the sea,[LINE]
-and no one knows of its existence.[END]
-
-
-//Text $1A6F80
-#WRITE(ptr,$18A070)
-Harmentz[END]
-
-
-//Text $1A6F70
-#WRITE(ptr,$18A074)
-[END]
-
-
-//Text $1A6F28
-#WRITE(ptr,$18A078)
-A village in the western region of[LINE]
-Seinegald. It has a mansion that is[LINE]
-out of place for the humble village.[END]
-
-
-//Text $1A6F18
-#WRITE(ptr,$18A0A8)
-Armeida[END]
-
-
-//Text $1A6F10
-#WRITE(ptr,$18A0AC)
-[END]
-
-
-//Text $1A6EC0
-#WRITE(ptr,$18A0B0)
-A village in the southern region of[LINE]
-Seinegald. Pilgrims of Straylize Temple[LINE]
-stop by to rest and relax.[END]
-
-
-//Text $1A6EA8
-#WRITE(ptr,$18A0E0)
-Straylize Temple[END]
-
-
-//Text $1A6E90
-#WRITE(ptr,$18A0E4)
-[END]
-
-
-//Text $1A6E38
-#WRITE(ptr,$18A0E8)
-A temple that stands neatly in the[LINE]
-depths of the forest. It also operates[LINE]
-as a research facility.[END]
-
-
-//Text $1A6E28
-#WRITE(ptr,$18A118)
-Cyril[END]
-
-
-//Text $1A6E20
-#WRITE(ptr,$18A11C)
-[END]
-
-
-//Text $1A6DB8
-#WRITE(ptr,$18A120)
-A city in the southern region of Phandaria.[LINE]
-Two years ago, the city was a battlefield,[LINE]
-but it is now recovering.[END]
-
-
-//Text $1A6DA0
-#WRITE(ptr,$18A150)
-Frostheim[END]
-
-
-//Text $1A6D90
-#WRITE(ptr,$18A154)
-[END]
-
-
-#JMP($1A5EE7)
-//Text $1A6D38
-#WRITE(ptr,$18A158)
-A port town in the eastern region of Phandaria.[LINE]
-Because of its hot springs, tourists[LINE]
-come here for hot spring therapy.[END]
-
-
-//Text $1A6D28
-#WRITE(ptr,$18A188)
-Sheeden[END]
-
-
-//Text $1A6D20
-#WRITE(ptr,$18A18C)
-[END]
-
-
-//Text $1A6CE8
-#WRITE(ptr,$18A190)
-A city in the northern region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Sheeden family.[END]
-
-
-//Text $1A6CD8
-#WRITE(ptr,$18A1C0)
-Terazzi[END]
-
-
-//Text $1A6CD0
-#WRITE(ptr,$18A1C4)
-[END]
-
-
-//Text $1A6C98
-#WRITE(ptr,$18A1C8)
-A city in the southern region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Terazzi family.[END]
-
-
-//Text $1A6C88
-#WRITE(ptr,$18A1F8)
-Moreau[END]
-
-
-//Text $1A6C80
-#WRITE(ptr,$18A1FC)
-[END]
-
-
-//Text $1A6C48
-#WRITE(ptr,$18A200)
-A city in the western region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Moreau family.[END]
-
-
-//Text $1A6C30
-#WRITE(ptr,$18A230)
-Neustadt[END]
-
-
-//Text $1A6C20
-#WRITE(ptr,$18A234)
-[END]
-
-
-//Text $1A6BD0
-#WRITE(ptr,$18A238)
-A developing city in the southern[LINE]
-part of Fitzgald. Fierce battles are[LINE]
-fought day and night in the arena.[END]
-
-
-//Text $1A6BB8
-#WRITE(ptr,$18A268)
-Tidal Cave (Moreau)[END]
-
-
-//Text $1A6BA8
-#WRITE(ptr,$18A26C)
-[END]
-
-
-//Text $1A6B80
-#WRITE(ptr,$18A270)
-An underwater cave that connects[LINE]
-Shiden and Moreau.[END]
-
-
-//Text $1A6B68
-#WRITE(ptr,$18A2A0)
-Tidal Cave (Shiden)[END]
-
-
-//Text $1A6BA8
-#WRITE(ptr,$18A2A4)
-[END]
-
-
-//Text $1A6B80
-#WRITE(ptr,$18A2A8)
-An underwater cave that connects[LINE]
-Shiden and Moreau.[END]
-
-
-//Text $1A6B58
-#WRITE(ptr,$18A2D8)
-Tilso Forest[END]
-
-
-//Text $1A6B48
-#WRITE(ptr,$18A2DC)
-[END]
-
-
-//Text $1A6B18
-#WRITE(ptr,$18A2E0)
-A snowy forest that connects[LINE]
-eastern and western Phandaria.[END]
-
-
-//Text $1A6B00
-#WRITE(ptr,$18A310)
-Straylize Forest[END]
-
-
-//Text $1A6AE8
-#WRITE(ptr,$18A314)
-[END]
-
-
-//Text $1A6A80
-#WRITE(ptr,$18A318)
-A forest at the top of a mountain.[LINE]
-As the path leads to the temple, it's rare[LINE]
-to see anyone use it except temple officials.[END]
-
-
-//Text $1A6A68
-#WRITE(ptr,$18A348)
-Swordian R&D Lab[END]
-
-
-//Text $1A6A50
-#WRITE(ptr,$18A34C)
-[END]
-
-
-//Text $1A69F8
-#WRITE(ptr,$18A350)
-A research facility for the Er'ther[LINE]
-forces deep beneath the earth. It[LINE]
-was revealed by Belcrant's bombardment.[END]
-
-
-//Text $1A69E8
-#WRITE(ptr,$18A380)
-Traveler's Lodge [END]
-
-
-//Text $1A69D0
-#WRITE(ptr,$18A384)
-[END]
-
-
-//Text $1A6988
-#WRITE(ptr,$18A388)
-A hut where travelers stop to rest.[LINE]
-You may have a strange encounter here.[END]
-
-
-//Text $1A6970
-#WRITE(ptr,$18A3B8)
-Food Sack Master's Hermitage[END]
-
-
-//Text $1A6950
-#WRITE(ptr,$18A3BC)
-[END]
-
-
-//Text $1A6928
-#WRITE(ptr,$18A3C0)
-A hermitage for those who have[LINE]
-mastered the art of making food sacks.[LINE]
-[END]
-
-
-//Text $1A6918
-#WRITE(ptr,$18A3F0)
-Lumina Draconis[END]
-
-
-//Text $1A6908
-#WRITE(ptr,$18A3F4)
-[END]
-
-
-//Text $1A68D8
-#WRITE(ptr,$18A3F8)
-A transport city built by the biometal[LINE]
-Berselium.[END]
-
-
-//Text $1A68C0
-#WRITE(ptr,$18A428)
-Phandaria Pass[END]
-
-
-//Text $1A68B0
-#WRITE(ptr,$18A42C)
-[END]
-
-
-//Text $1A6870
-#WRITE(ptr,$18A430)
-A snow-covered mountain road that[LINE]
-connects Janos with Torn's Cabin.[END]
-
-
-//Text $1A6FF0
-#WRITE(ptr,$18A460)
-Radisrol[END]
-
-
-//Text $1A6FE0
-#WRITE(ptr,$18A464)
-[END]
-
-
-//Text $1A7878
-#WRITE(ptr,$18A468)
-A ship once known for its heroics.[LINE]
-The ship has resurfaced once again to carry[LINE]
-out the blitzkrieg strategy used in the Aeth'er War.[END]
-
-
-//Text $1A7868
-#WRITE(ptr,$18A498)
-Ignasea[END]
-
-
-//Text $1A7860
-#WRITE(ptr,$18A49C)
-[END]
-
-
-//Text $1A7808
-#WRITE(ptr,$18A4A0)
-The nearest aerial city from Radisrol.[LINE]
-There is a transporter terminal that[LINE]
-connects the cities.[END]
-
-
-//Text $1A77F8
-#WRITE(ptr,$18A4D0)
-Josaia[END]
-
-
-//Text $1A77F0
-#WRITE(ptr,$18A4D4)
-[END]
-
-
-//Text $1A77B8
-#WRITE(ptr,$18A4D8)
-One of the aerial cities connected[LINE]
-to Ignasea via a transporter.[END]
-
-
-//Text $1A77A8
-#WRITE(ptr,$18A508)
-Mikheil[END]
-
-
-//Text $1A77A0
-#WRITE(ptr,$18A50C)
-[END]
-
-
-//Text $1A7768
-#WRITE(ptr,$18A510)
-A floating cruiser used to link the[LINE]
-aerial cities.[END]
-
-
-//Text $1A7758
-#WRITE(ptr,$18A540)
-Rodeon[END]
-
-
-//Text $1A7750
-#WRITE(ptr,$18A544)
-[END]
-
-
-//Text $1A77B8
-#WRITE(ptr,$18A548)
-One of the aerialcities connected[LINE]
-to Ignasea via a transporter.[END]
-
-
-//Text $1A7740
-#WRITE(ptr,$18A578)
-Helraios[END]
-
-
-//Text $1A7730
-#WRITE(ptr,$18A57C)
-[END]
-
-
-//Text $1A76E8
-#WRITE(ptr,$18A580)
-One of the most important bases of the[LINE]
-aerial cities. It is home to the technological[LINE]
-research facilities for the Aeth'erian army. [END]
-
-
-//Text $1A76D8
-#WRITE(ptr,$18A5B0)
-Deimos[END]
-
-
-//Text $1A76D0
-#WRITE(ptr,$18A5B4)
-[END]
-
-
-//Text $1A77B8
-#WRITE(ptr,$18A5B8)
-One of the aerial cities connected[LINE]
-to Ignasea via a transporter.[END]
-
-
-//Text $1A76C0
-#WRITE(ptr,$18A5E8)
-Cloudius[END]
-
-
-//Text $1A76B0
-#WRITE(ptr,$18A5EC)
-[END]
-
-
-//Text $1A7668
-#WRITE(ptr,$18A5F0)
-One of the most important bases of[LINE]
-the aerial cities. There is a control[LINE]
-facility for the guardian dragons.[END]
-
-
-//Text $1A7658
-#WRITE(ptr,$18A620)
-Dycroft[END]
-
-
-//Text $1A7650
-#WRITE(ptr,$18A624)
-[END]
-
-
-#JMP($1A6870)
-//Text $1A75E8
-#WRITE(ptr,$18A628)
-The most important base of the aerial[LINE]
-cities. The functions of all the other cities[LINE]
-are controlled by the Eye of Atamoni here.[END]
-
-
-//Text $1A75D8
-#WRITE(ptr,$18A658)
-Katz Village[END]
-
-
-//Text $1A75C8
-#WRITE(ptr,$18A65C)
-[END]
-
-
-//Text $1A7598
-#WRITE(ptr,$18A660)
-A village formed by Katz who have[LINE]
-come to the Outer Shell.[END]
-
-
-//Text $1A7588
-#WRITE(ptr,$18A690)
-Hole to the Er'ther Lands[END]
-
-
-//Text $1A7570
-#WRITE(ptr,$18A694)
-[END]
-
-
-//Text $1A7508
-#WRITE(ptr,$18A698)
-A hole made by the lens cannon where Radisrol[LINE]
-was once located. It is the only path connecting[LINE]
-the Er'ther Lands and the Outer Shell.[END]
-
-
-//Section Shop Name
-
-//Text $1BB618
-#WRITE(ptr,$1941E8)
-Janos[END]
-
-
-//Text $1BB608
-#WRITE(ptr,$1941EC)
-Harmentz[END]
-
-
-//Text $1BB5F8
-#WRITE(ptr,$1941F0)
-Darilsheid[END]
-
-
-//Text $1BB5E8
-#WRITE(ptr,$1941F4)
-Armeida[END]
-
-
-//Text $1BB5D8
-#WRITE(ptr,$1941F8)
-Cherik[END]
-
-
-//Text $1BB5C8
-#WRITE(ptr,$1941FC)
-Kalviola[END]
-
-
-//Text $1BB5B8
-#WRITE(ptr,$194200)
-Neuestadt[END]
-
-
-//Text $1BB5A8
-#WRITE(ptr,$194204)
-Shiden[END]
-
-
-//Text $1BB598
-#WRITE(ptr,$194208)
-Moreau[END]
-
-
-//Text $1BB588
-#WRITE(ptr,$19420C)
-Terazzi[END]
-
-
-//Text $1BB578
-#WRITE(ptr,$194210)
-Frostheim[END]
-
-
-//Text $1BB568
-#WRITE(ptr,$194214)
-Cyril[END]
-
-
-//Text $1BB558
-#WRITE(ptr,$194218)
-Heidelberg[END]
-
-
-//Text $1BB550
-#WRITE(ptr,$19421C)
-Lienea[END]
-
-
-//Text $1BB540
-#WRITE(ptr,$194220)
-Cresta[END]
-
-
-//Text $1BB530
-#WRITE(ptr,$194224)
-Junkland[END]
-
-
-//Text $1BB520
-#WRITE(ptr,$194228)
-Radisrol[END]
-
-
-//Text $1BB510
-#WRITE(ptr,$19422C)
-Oberon Corporation[END]
-
-
-//Text $1BB500
-#WRITE(ptr,$194230)
-Katz Village[END]
-
-
-//Text $1BB4F8
-#WRITE(ptr,$194234)
-Traveling Merchant[END]
-
-
-//Text $1BB4F0
-#WRITE(ptr,$19423C)
-Curio Shop[END]
-
-
-//Text $1BB4E8
-#WRITE(ptr,$194240)
-Greengrocer[END]
-
-
-//Text $1BB4E0
-#WRITE(ptr,$194244)
-Armory[END]
-
-
-//Text $1BB4D8
-#WRITE(ptr,$194248)
-Armorer[END]
-
-
-//Text $1BB4D0
-#WRITE(ptr,$19424C)
-Ornament Shop[END]
-
-
-//Text $1BB4C8
-#WRITE(ptr,$194250)
-Armorer[END]
-
-
-//Text $1BB4C0
-#WRITE(ptr,$194254)
-Sundries[END]
-
-
-//Text $1BB510
-#WRITE(ptr,$194258)
-Oberon Corporation[END]
-
-
-//Text $1BB500
-#WRITE(ptr,$194230)
-Katz Village[END]
-
-
-//Text $1BB4F8
-#WRITE(ptr,$194234)
-Hawker[END]
-
-
-//Text $1BB4F0
-#WRITE(ptr,$19423C)
-Curio Shop[END]
-
-
-//Text $1BB4E8
-#WRITE(ptr,$194240)
-Greengrocer[END]
-
-
-//Text $1BB4E0
-#WRITE(ptr,$194244)
-Armory[END]
-
-
-//Text $1BB4D8
-#WRITE(ptr,$194248)
-Armorer[END]
-
-
-//Text $1BB4D0
-#WRITE(ptr,$19424C)
-Ornament Shop[END]
-
-
-//Text $1BB4C8
-#WRITE(ptr,$194250)
-Armorer[END]
-
-
-//Text $1BB4C0
-#WRITE(ptr,$194254)
-Sundries[END]
-
-
-//Text $1BB4B0
-#WRITE(ptr,$192C08)
-Warm Up[END]
-
-
-//Text $1BB4A0
-#WRITE(ptr,$192C40)
-Borderline[END]
-
-
-//Text $1BB490
-#WRITE(ptr,$192C78)
-Blizzard[END]
-
-
-//Text $1BB488
-#WRITE(ptr,$192CB0)
-Sunoi[END]
-
-
-//Text $1BB478
-#WRITE(ptr,$192CE8)
-Saigrog[END]
-
-
-//Text $1BB468
-#WRITE(ptr,$192D20)
-Short Respite[END]
-
-
-//Text $1BB460
-#WRITE(ptr,$192D58)
-Strelitzia Reginae[END]
-
-
-//Text $1BB458
-#WRITE(ptr,$192D90)
-White Knight[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$192DC8)
-Piccolo[END]
-
-
-//Text $1BB438
-#WRITE(ptr,$192E00)
-Tranquil Serenity[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$192E38)
-Seven Shoguns[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$192E70)
-Knights Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$192EA8)
-Perseverance[END]
-
-
-//Text $1BB400
-#WRITE(ptr,$192EE0)
-Central Branch Office[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$192F18)
-Piccolo[END]
-
-
-//Text $1BB438
-#WRITE(ptr,$192F50)
-Tranquil Serenity[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$192F88)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$192FC0)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$192FF8)
-Perseverance[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$193030)
-Piccolo[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$193068)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$1930A0)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$1930D8)
-Perseverance[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$193110)
-Piccolo[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$193148)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$193180)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$1931B8)
-Perseverance[END]
-
-
-//Text $1BB3F0
-#WRITE(ptr,$1931F0)
-Gut Buster[END]
-
-
-//Text $1BB3E0
-#WRITE(ptr,$193228)
-Traveller's Friend[END]
-
-
-//Text $1BB3D0
-#WRITE(ptr,$193260)
-LIghtning[END]
-
-
-//Text $1BB3C0
-#WRITE(ptr,$193298)
-Balalaika[END]
-
-
-//Text $1BB3C0
-#WRITE(ptr,$1932D0)
-Balalaika[END]
-
-
-//Text $1BB3B0
-#WRITE(ptr,$193308)
-Earth's Blessing[END]
-
-
-//Text $1BB3A0
-#WRITE(ptr,$193340)
-Oasis[END]
-
-
-//Text $1BB398
-#WRITE(ptr,$193378)
-Sandstorm[END]
-
-
-//Text $1BB388
-#WRITE(ptr,$1933B0)
-Bursting Vigor[END]
-
-
-//Text $1BB380
-#WRITE(ptr,$1933E8)
-Moonlit Night[END]
-
-
-//Text $1BB370
-#WRITE(ptr,$193420)
-Lunar Desert[END]
-
-
-//Text $1BB360
-#WRITE(ptr,$193458)
-Silk Road[END]
-
-
-//Text $1BB350
-#WRITE(ptr,$193490)
-Northwest Branch[END]
-
-
-//Text $1BB348
-#WRITE(ptr,$1934C8)
-Packed Pavillion[END]
-
-
-//Text $1BB330
-#WRITE(ptr,$193500)
-Give and Take[END]
-
-
-//Text $1BB320
-#WRITE(ptr,$193538)
-Arcadia[END]
-
-
-//Text $1BB318
-#WRITE(ptr,$193570)
-Silver Lining[END]
-
-
-//Text $1BB308
-#WRITE(ptr,$1935A8)
-Westland Branch[END]
-
-
-//Text $1BB2F8
-#WRITE(ptr,$1935E0)
-Shipboard Operations[END]
-
-
-//Text $1BB320
-#WRITE(ptr,$193618)
-Arcadia[END]
-
-
-//Text $1BB2E8
-#WRITE(ptr,$193650)
-Beast's Path[END]
-
-
-//Text $1BB2D8
-#WRITE(ptr,$193688)
-Orient[END]
-
-
-//Text $1BB2D0
-#WRITE(ptr,$1936C0)
-Golden Horde[END]
-
-
-//Text $1BB2C0
-#WRITE(ptr,$1936F8)
-House of Prosperity[END]
-
-
-//Text $1BB2B0
-#WRITE(ptr,$193730)
-Hermit Crab Market[END]
-
-
-//Text $1BB2A8
-#WRITE(ptr,$193768)
-Mizugekka[END]
-
-
-//Text $1BB2A0
-#WRITE(ptr,$1937A0)
-Poseidon[END]
-
-
-//Text $1BB298
-#WRITE(ptr,$1937D8)
-Chrysanthemum Shades[END]
-
-
-//Text $1BB288
-#WRITE(ptr,$193810)
-Name Without Form[END]
-
-
-//Text $1BB288
-#WRITE(ptr,$193848)
-Name Without Form[END]
-
-
-//Text $1BB278
-#WRITE(ptr,$193880)
-Delicatessen[END]
-
-
-//Text $1BB268
-#WRITE(ptr,$1938B8)
-Serene Waters[END]
-
-
-//Text $1BB258
-#WRITE(ptr,$1938F0)
-Utopia[END]
-
-
-//Text $1BB248
-#WRITE(ptr,$193928)
-Great Intentions[END]
-
-
-//Text $1BB238
-#WRITE(ptr,$193960)
-Beautiful Spring[END]
-
-
-//Text $1BB230
-#WRITE(ptr,$193998)
-Emergency Exit[END]
-
-
-//Text $1BB230
-#WRITE(ptr,$1939D0)
-Emergency Exit[END]
-
-
-//Text $1BB228
-#WRITE(ptr,$193A08)
-Mealy Primrose[END]
-
-
-//Text $1BB220
-#WRITE(ptr,$193A40)
-Snow Labyrinth[END]
-
-
-//Text $1BB218
-#WRITE(ptr,$193A78)
-Setsugekka[END]
-
-
-//Text $1BB210
-#WRITE(ptr,$193AB0)
-Snowy Vista[END]
-
-
-//Text $1BB200
-#WRITE(ptr,$193AE8)
-Thawing Snow[END]
-
-
-//Text $1BB1F0
-#WRITE(ptr,$193B20)
-Glass Forest[END]
-
-
-//Text $1BB1E8
-#WRITE(ptr,$193B58)
-Glacial Stream[END]
-
-
-//Text $1BB1D8
-#WRITE(ptr,$193B90)
-Far Vent[END]
-
-
-//Text $1BB1C8
-#WRITE(ptr,$193BC8)
-Southern Cross[END]
-
-
-//Text $1BB1B8
-#WRITE(ptr,$193C00)
-Disregard[END]
-
-
-//Text $1BB1A8
-#WRITE(ptr,$193C38)
-Grim Curios[END]
-
-
-//Text $1BB198
-#WRITE(ptr,$193C70)
-Eternal Recurrence[END]
-
-
-//Text $1BB188
-#WRITE(ptr,$193CA8)
-Snow Country Branch[END]
-
-
-//Text $1BB178
-#WRITE(ptr,$193CE0)
-Mercenary Soul[END]
-
-
-//Text $1BB170
-#WRITE(ptr,$193D18)
-Angel of Repose[END]
-
-
-//Text $1BB160
-#WRITE(ptr,$193D50)
-Henhouse[END]
-
-
-//Text $1BB150
-#WRITE(ptr,$193D88)
-Bosom Buddy[END]
-
-
-//Text $1BB140
-#WRITE(ptr,$193DC0)
-Flower Crown[END]
-
-
-//Text $1BB130
-#WRITE(ptr,$193DF8)
-The Good Shepherd's Staff[END]
-
-
-//Text $1BB120
-#WRITE(ptr,$193E30)
-Junktown Grocer[END]
-
-
-//Text $1BB110
-#WRITE(ptr,$193E68)
-Scavenger Market[END]
-
-
-//Text $1BB100
-#WRITE(ptr,$193EA0)
-Awe-Inspiring Beauty[END]
-
-
-//Text $1BB120
-#WRITE(ptr,$193ED8)
-Junktown Grocer[END]
-
-
-//Text $1BB110
-#WRITE(ptr,$193F10)
-Scavenger Market[END]
-
-
-//Text $1BB100
-#WRITE(ptr,$193F48)
-Awe-Inspiring Beauty[END]
-
-
-//Text $1BB0F8
-#WRITE(ptr,$193F80)
-Nympha[END]
-
-
-//Text $1BB0E8
-#WRITE(ptr,$193FB8)
-Improved Balance[END]
-
-
-//Text $1BB0D8
-#WRITE(ptr,$193FF0)
-The Collector[END]
-
-
-//Text $1BB0C8
-#WRITE(ptr,$194028)
-Clandestine Weaponry[END]
-
-
-//Text $1BB0C0
-#WRITE(ptr,$194060)
-Functional Beauty[END]
-
-
-//Text $1BB0B0
-#WRITE(ptr,$194098)
-Custom Made[END]
-
-
-//Text $1BB0E8
-#WRITE(ptr,$1940D0)
-Improved Balance[END]
-
-
-//Text $1BB0C8
-#WRITE(ptr,$194108)
-Clandestine Weaponry[END]
-
-
-//Text $1BB0C0
-#WRITE(ptr,$194140)
-Functional Beauty[END]
-
-
-//Text $1BB0B0
-#WRITE(ptr,$194178)
-Custom Made[END]
-
-
-//Text $1BB0A0
-#WRITE(ptr,$1941B0)
-Fly High[END]
 
 
 //Section Consumable
@@ -10209,14 +8328,13 @@ increases magic attack by 1.[END]
 [Sign_9]Saffron[END]
 
 
-#JMP($1BB0A0)
+#JMP($1A5EE7)
 //Text $1AF3D8
 #WRITE(ptr,$18C8CC)
 A medicinal herb that[LINE]
 increases magic defense by 1.[END]
 
 
-#JMP($1AC530)
 //Text $1AF3C8
 #WRITE(ptr,$18C8E4)
 [Sign_9]Camomile[END]
@@ -10591,6 +8709,7 @@ A support item for mixing.[END]
 [Sign_Box]Remedy Fruit[END]
 
 
+#JMP($1A6870)
 //Text $1AE920
 #WRITE(ptr,$18CCBC)
 Plant used as a natural remedy.[LINE]
@@ -11103,6 +9222,7 @@ can sell it.[END]
 [Sign_Box]Crystal Lens[END]
 
 
+#JMP($1AB970)
 //Text $1AD870
 #WRITE(ptr,$18D18C)
 An unrefined Lens.[LINE]
@@ -11350,6 +9470,7 @@ reduces [Sign_Sonic] damage by half.[LINE]
 [END]
 
 
+#JMP($1AC530)
 //Text $1AD030
 #WRITE(ptr,$18D3D4)
 [Sign_8]Attack Material[END]
@@ -15445,7 +13566,7 @@ blade and can block enemy attacks.[END]
 
 //Text $1B7080
 #WRITE(ptr,$1917C8)
-[Sign_1]Poniard Dagger[END]
+[Sign_1]Poignard Dagger[END]
 
 
 //Text $1B7038
@@ -17816,692 +15937,6 @@ I feel a mysterious power...[LINE]
 
 //Section Shop Name
 
-//Text $1BB618
-#WRITE(ptr,$1941E8)
-Janos[END]
-
-
-//Text $1BB608
-#WRITE(ptr,$1941EC)
-Harmentz[END]
-
-
-//Text $1BB5F8
-#WRITE(ptr,$1941F0)
-Darilsheid[END]
-
-
-//Text $1BB5E8
-#WRITE(ptr,$1941F4)
-Armeida[END]
-
-
-//Text $1BB5D8
-#WRITE(ptr,$1941F8)
-Cherik[END]
-
-
-//Text $1BB5C8
-#WRITE(ptr,$1941FC)
-Kalviola[END]
-
-
-//Text $1BB5B8
-#WRITE(ptr,$194200)
-Neuestadt[END]
-
-
-//Text $1BB5A8
-#WRITE(ptr,$194204)
-Shiden[END]
-
-
-//Text $1BB598
-#WRITE(ptr,$194208)
-Moreau[END]
-
-
-//Text $1BB588
-#WRITE(ptr,$19420C)
-Terazzi[END]
-
-
-//Text $1BB578
-#WRITE(ptr,$194210)
-Frostheim[END]
-
-
-//Text $1BB568
-#WRITE(ptr,$194214)
-Cyril[END]
-
-
-//Text $1BB558
-#WRITE(ptr,$194218)
-Heidelberg[END]
-
-
-//Text $1BB550
-#WRITE(ptr,$19421C)
-Lienea[END]
-
-
-//Text $1BB540
-#WRITE(ptr,$194220)
-Cresta[END]
-
-
-//Text $1BB530
-#WRITE(ptr,$194224)
-Junkland[END]
-
-
-//Text $1BB520
-#WRITE(ptr,$194228)
-Radisrol[END]
-
-
-//Text $1BB510
-#WRITE(ptr,$19422C)
-Oberon Corporation[END]
-
-
-//Text $1BB500
-#WRITE(ptr,$194230)
-Katz Village[END]
-
-
-//Text $1BB4F8
-#WRITE(ptr,$194234)
-Traveling Merchant[END]
-
-
-//Text $1BB4F0
-#WRITE(ptr,$19423C)
-Curio Shop[END]
-
-
-//Text $1BB4E8
-#WRITE(ptr,$194240)
-Greengrocer[END]
-
-
-//Text $1BB4E0
-#WRITE(ptr,$194244)
-Armory[END]
-
-
-//Text $1BB4D8
-#WRITE(ptr,$194248)
-Armorer[END]
-
-
-//Text $1BB4D0
-#WRITE(ptr,$19424C)
-Ornament Shop[END]
-
-
-//Text $1BB4C8
-#WRITE(ptr,$194250)
-Armorer[END]
-
-
-//Text $1BB4C0
-#WRITE(ptr,$194254)
-Sundries[END]
-
-
-//Text $1BB510
-#WRITE(ptr,$194258)
-Oberon Corporation[END]
-
-
-//Text $1BB500
-#WRITE(ptr,$194230)
-Katz Village[END]
-
-
-//Text $1BB4F8
-#WRITE(ptr,$194234)
-Hawker[END]
-
-
-//Text $1BB4F0
-#WRITE(ptr,$19423C)
-Curio Shop[END]
-
-
-//Text $1BB4E8
-#WRITE(ptr,$194240)
-Greengrocer[END]
-
-
-//Text $1BB4E0
-#WRITE(ptr,$194244)
-Armory[END]
-
-
-//Text $1BB4D8
-#WRITE(ptr,$194248)
-Armorer[END]
-
-
-//Text $1BB4D0
-#WRITE(ptr,$19424C)
-Ornament Shop[END]
-
-
-//Text $1BB4C8
-#WRITE(ptr,$194250)
-Armorer[END]
-
-
-//Text $1BB4C0
-#WRITE(ptr,$194254)
-Sundries[END]
-
-
-//Text $1BB4B0
-#WRITE(ptr,$192C08)
-Warm Up[END]
-
-
-//Text $1BB4A0
-#WRITE(ptr,$192C40)
-Borderline[END]
-
-
-//Text $1BB490
-#WRITE(ptr,$192C78)
-Blizzard[END]
-
-
-//Text $1BB488
-#WRITE(ptr,$192CB0)
-Sunoi[END]
-
-
-//Text $1BB478
-#WRITE(ptr,$192CE8)
-Saigrog[END]
-
-
-//Text $1BB468
-#WRITE(ptr,$192D20)
-Short Respite[END]
-
-
-//Text $1BB460
-#WRITE(ptr,$192D58)
-Strelitzia Reginae[END]
-
-
-//Text $1BB458
-#WRITE(ptr,$192D90)
-White Knight[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$192DC8)
-Piccolo[END]
-
-
-//Text $1BB438
-#WRITE(ptr,$192E00)
-Tranquil Serenity[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$192E38)
-Seven Shoguns[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$192E70)
-Knights Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$192EA8)
-Perseverance[END]
-
-
-//Text $1BB400
-#WRITE(ptr,$192EE0)
-Central Branch Office[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$192F18)
-Piccolo[END]
-
-
-//Text $1BB438
-#WRITE(ptr,$192F50)
-Tranquil Serenity[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$192F88)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$192FC0)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$192FF8)
-Perseverance[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$193030)
-Piccolo[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$193068)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$1930A0)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$1930D8)
-Perseverance[END]
-
-
-//Text $1BB448
-#WRITE(ptr,$193110)
-Piccolo[END]
-
-
-//Text $1BB430
-#WRITE(ptr,$193148)
-Seven Shogun[END]
-
-
-//Text $1BB420
-#WRITE(ptr,$193180)
-Knight's Cross[END]
-
-
-//Text $1BB410
-#WRITE(ptr,$1931B8)
-Perseverance[END]
-
-
-//Text $1BB3F0
-#WRITE(ptr,$1931F0)
-Gut Buster[END]
-
-
-//Text $1BB3E0
-#WRITE(ptr,$193228)
-Traveller's Friend[END]
-
-
-//Text $1BB3D0
-#WRITE(ptr,$193260)
-LIghtning[END]
-
-
-//Text $1BB3C0
-#WRITE(ptr,$193298)
-Balalaika[END]
-
-
-//Text $1BB3C0
-#WRITE(ptr,$1932D0)
-Balalaika[END]
-
-
-//Text $1BB3B0
-#WRITE(ptr,$193308)
-Earth's Blessing[END]
-
-
-//Text $1BB3A0
-#WRITE(ptr,$193340)
-Oasis[END]
-
-
-//Text $1BB398
-#WRITE(ptr,$193378)
-Sandstorm[END]
-
-
-//Text $1BB388
-#WRITE(ptr,$1933B0)
-Bursting Vigor[END]
-
-
-//Text $1BB380
-#WRITE(ptr,$1933E8)
-Moonlit Night[END]
-
-
-//Text $1BB370
-#WRITE(ptr,$193420)
-Lunar Desert[END]
-
-
-//Text $1BB360
-#WRITE(ptr,$193458)
-Silk Road[END]
-
-
-//Text $1BB350
-#WRITE(ptr,$193490)
-Northwest Branch[END]
-
-
-//Text $1BB348
-#WRITE(ptr,$1934C8)
-Packed Pavillion[END]
-
-
-//Text $1BB330
-#WRITE(ptr,$193500)
-Give and Take[END]
-
-
-//Text $1BB320
-#WRITE(ptr,$193538)
-Arcadia[END]
-
-
-//Text $1BB318
-#WRITE(ptr,$193570)
-Silver Lining[END]
-
-
-//Text $1BB308
-#WRITE(ptr,$1935A8)
-Westland Branch[END]
-
-
-//Text $1BB2F8
-#WRITE(ptr,$1935E0)
-Shipboard Operations[END]
-
-
-//Text $1BB320
-#WRITE(ptr,$193618)
-Arcadia[END]
-
-
-//Text $1BB2E8
-#WRITE(ptr,$193650)
-Beast's Path[END]
-
-
-//Text $1BB2D8
-#WRITE(ptr,$193688)
-Orient[END]
-
-
-//Text $1BB2D0
-#WRITE(ptr,$1936C0)
-Golden Horde[END]
-
-
-//Text $1BB2C0
-#WRITE(ptr,$1936F8)
-House of Prosperity[END]
-
-
-//Text $1BB2B0
-#WRITE(ptr,$193730)
-Hermit Crab Market[END]
-
-
-//Text $1BB2A8
-#WRITE(ptr,$193768)
-Mizugekka[END]
-
-
-//Text $1BB2A0
-#WRITE(ptr,$1937A0)
-Poseidon[END]
-
-
-//Text $1BB298
-#WRITE(ptr,$1937D8)
-Chrysanthemum Shades[END]
-
-
-//Text $1BB288
-#WRITE(ptr,$193810)
-Name Without Form[END]
-
-
-//Text $1BB288
-#WRITE(ptr,$193848)
-Name Without Form[END]
-
-
-//Text $1BB278
-#WRITE(ptr,$193880)
-Delicatessen[END]
-
-
-//Text $1BB268
-#WRITE(ptr,$1938B8)
-Serene Waters[END]
-
-
-//Text $1BB258
-#WRITE(ptr,$1938F0)
-Utopia[END]
-
-
-//Text $1BB248
-#WRITE(ptr,$193928)
-Great Intentions[END]
-
-
-//Text $1BB238
-#WRITE(ptr,$193960)
-Beautiful Spring[END]
-
-
-//Text $1BB230
-#WRITE(ptr,$193998)
-Emergency Exit[END]
-
-
-//Text $1BB230
-#WRITE(ptr,$1939D0)
-Emergency Exit[END]
-
-
-//Text $1BB228
-#WRITE(ptr,$193A08)
-Mealy Primrose[END]
-
-
-//Text $1BB220
-#WRITE(ptr,$193A40)
-Snow Labyrinth[END]
-
-
-//Text $1BB218
-#WRITE(ptr,$193A78)
-Setsugekka[END]
-
-
-//Text $1BB210
-#WRITE(ptr,$193AB0)
-Snowy Vista[END]
-
-
-//Text $1BB200
-#WRITE(ptr,$193AE8)
-Thawing Snow[END]
-
-
-//Text $1BB1F0
-#WRITE(ptr,$193B20)
-Glass Forest[END]
-
-
-//Text $1BB1E8
-#WRITE(ptr,$193B58)
-Glacial Stream[END]
-
-
-//Text $1BB1D8
-#WRITE(ptr,$193B90)
-Far Vent[END]
-
-
-//Text $1BB1C8
-#WRITE(ptr,$193BC8)
-Southern Cross[END]
-
-
-#JMP($1BB0A0)
-//Text $1BB1B8
-#WRITE(ptr,$193C00)
-Disregard[END]
-
-
-//Text $1BB1A8
-#WRITE(ptr,$193C38)
-Grim Curios[END]
-
-
-//Text $1BB198
-#WRITE(ptr,$193C70)
-Eternal Recurrence[END]
-
-
-//Text $1BB188
-#WRITE(ptr,$193CA8)
-Snow Country Branch[END]
-
-
-//Text $1BB178
-#WRITE(ptr,$193CE0)
-Mercenary Soul[END]
-
-
-//Text $1BB170
-#WRITE(ptr,$193D18)
-Angel of Repose[END]
-
-
-//Text $1BB160
-#WRITE(ptr,$193D50)
-Henhouse[END]
-
-
-//Text $1BB150
-#WRITE(ptr,$193D88)
-Bosom Buddy[END]
-
-
-//Text $1BB140
-#WRITE(ptr,$193DC0)
-Flower Crown[END]
-
-
-//Text $1BB130
-#WRITE(ptr,$193DF8)
-The Good Shepherd's Staff[END]
-
-
-//Text $1BB120
-#WRITE(ptr,$193E30)
-Junktown Grocer[END]
-
-
-//Text $1BB110
-#WRITE(ptr,$193E68)
-Scavenger Market[END]
-
-
-//Text $1BB100
-#WRITE(ptr,$193EA0)
-Awe-Inspiring Beauty[END]
-
-
-//Text $1BB120
-#WRITE(ptr,$193ED8)
-Junktown Grocer[END]
-
-
-//Text $1BB110
-#WRITE(ptr,$193F10)
-Scavenger Market[END]
-
-
-//Text $1BB100
-#WRITE(ptr,$193F48)
-Awe-Inspiring Beauty[END]
-
-
-//Text $1BB0F8
-#WRITE(ptr,$193F80)
-Nympha[END]
-
-
-//Text $1BB0E8
-#WRITE(ptr,$193FB8)
-Improved Balance[END]
-
-
-//Text $1BB0D8
-#WRITE(ptr,$193FF0)
-The Collector[END]
-
-
-//Text $1BB0C8
-#WRITE(ptr,$194028)
-Clandestine Weaponry[END]
-
-
-//Text $1BB0C0
-#WRITE(ptr,$194060)
-Functional Beauty[END]
-
-
-//Text $1BB0B0
-#WRITE(ptr,$194098)
-Custom Made[END]
-
-
-//Text $1BB0E8
-#WRITE(ptr,$1940D0)
-Improved Balance[END]
-
-
-//Text $1BB0C8
-#WRITE(ptr,$194108)
-Clandestine Weaponry[END]
-
-
-//Text $1BB0C0
-#WRITE(ptr,$194140)
-Functional Beauty[END]
-
-
-//Text $1BB0B0
-#WRITE(ptr,$194178)
-Custom Made[END]
-
-
-//Text $1BB0A0
-#WRITE(ptr,$1941B0)
-Fly High[END]
-
-
 //Section Other Food
 
 //Text $1BB920
@@ -19807,6 +17242,7 @@ and even subtle atmospheres.[END]
 #WRITE(ptr,$194988)
 Dashing Warrior[END]
 
+#JMP($1BB0A0)
 //POINTER #185 @ $19498C - STRING #185 @ $1BD088
 #WRITE(ptr,$19498C)
 Show off your running form,[LINE]
