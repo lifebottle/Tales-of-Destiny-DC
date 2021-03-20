@@ -323,110 +323,115 @@ whole thing dies down.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-ボロ負けした人に限って、
-あと少しとか負け惜しみをいうのよね。
+Only people who lose badly say
+that they are almost there.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-死ぬわけじゃないんだし、
-男の子なんだからガツンと
-ぶつかってきなさい！
+You're not going to die, and 
+you're a man, so come back to
+me if you need it!
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-街の人たちの事はお願い！
-私はここで受け入れ準備をしています。
+Take care of the people in town! 
+I'm here to prepare for the reception.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-大半の街の人が
-無事でよかったけど……
+I'm just glad that most people
+in the city are safe. 
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-あの男、騒ぎの間も
-ずっと寝ていたのよ！
+That man slept through
+the whole mess!
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-あのベッドに寝てる人、
-もう治ってるのにケガ人のふりするの。
+The person lying on that bed pretends
+to be injured when he's already healed.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-世界が大変な時だってのに、
-変な患者の世話なんかしたくないわよ。
+I don't want to have to take care
+of a strange patient when the
+world is in trouble.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-ベッドから叩き出してやろうかしら。
+I think I'll kick him out of bed.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-そこの患者、騒ぎが収まっても、
-きっと理由をつけてここにいるわよ。
+That patient over there, I'm sure
+he'll be here for a reason even
+after the fuss dies down.
 [ENDBLOCK]
 Nurse
 [ENDBLOCK]
-ねえチャンピオン、
-あいつをどうにかしてよ。
+Hey, Champ, you gotta do 
+something about that guy.
 [ENDBLOCK]
-観客
+Spectators
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-す、すごい歓声ですね。
+Th-they're cheering so loudly.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうやらあの<Kongman>、
-相当な人気者みたいね。
+Maybe that <Kongman> guy is
+something of a celebrity here?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Kongman>はノイシュタットの英雄よ。
-ここ数年、負け知らずの強さだわ。
+<Kongman> is the hero of Neuestadt.
+For years, his strength has gone
+undefeated.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-決闘なんて、およしなさい。
-意味のない争いはやめるべきよ。
+Please stop this duel. There's
+no meaning in fighting.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ここまで来たら後には引けませんよ。
+I can't back down after
+I came all the way here.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-やるからには、負けは許されんぞ。
-いいな、<Stahn>？
+If you're going through with this,
+I won't let you lose. Are you ready,
+<Stahn>？
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Stahn>も<Dymlos>も、
-すっかり熱くなっとるのお。
+<Stahn> and <Dymlos> have gotten 
+themselves all fired up.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-要は似た者同士って事でしょ。
+Basically, they're the same person.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-時間みたいね。それじゃあたしたちは、
-観客席に移動するわ。
+Looks like it's time. We'll 
+go sit in the Spectators.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
-くれぐれもご無理をなさらず……
+<Stahn>... Please 
+don't overdo it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、行くぞ！
+Right! Let's go!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -664,82 +669,83 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-な、なんでぇ？
+What? Why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ちょっと失礼♪
+♪ Excuse me ♪
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どぅおああぁぁぁあ！
+D'ohhhhhhh!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Lilith>？	何でここに？
+...<Lilith>? What are you doing here?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-おにいちゃん（ハート）。
+Onii-chan.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-兄妹の誓いは覚えてる？
-感動したよね～。
+Do you remember the brother-sister
+vow? It was so moving!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-誓い？
+Vow?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-……まさか、覚えてないの？
+...No way, you don't 
+remember that, do you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-な、何言ってるんだよ。
-きっち～り、覚えてるさ～
+What are you talking about?
+I remember exactly what you said.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-じゃあ、どうして
-こんなところで油を売ってんのかな～
+Then why am I selling
+oil in this place?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、こ、これには
-深ーい事情がだね……
+Oh, there's a deeper
+story behind this...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-うるさ～い!!
-お兄ちゃんのバカぁ！！
+Shut up!
+You're such a big brother!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-やっぱ、お兄ちゃんは強いね。
+You're a tough guy, aren't you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-でも、やる事忘れて
-寄り道したら困るから、
-私も付いて行く。
+But I don't want you to forget
+what you have to do and take
+a detour. I'll go with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-え、うそ……
+Oh, my God...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ホントォ！！
+Really!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-自分のやる事を忘れて、
-誓いを忘れるからよ。
+Because you forget what 
+you're supposed to do and
+you forget your vows.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-もう二度とここに来ちゃ
-ダメだからね。<x00>
+Don't come back here again.<x00>
 [ENDBLOCK]
