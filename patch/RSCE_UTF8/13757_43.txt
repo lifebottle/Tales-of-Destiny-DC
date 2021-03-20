@@ -1,17 +1,17 @@
- mset_person_f
+
 [ENDBLOCK]
-ly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>一目で高級ブランドものとわかる
-衣装が掛けられている。
+<TAG_005>This outfit is
+high class.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-72-54-81……
-誰かのスリーサイズかな？
+72-54-81...
+Is it someone's measurements?
 [ENDBLOCK]
 notice
 [ENDBLOCK]

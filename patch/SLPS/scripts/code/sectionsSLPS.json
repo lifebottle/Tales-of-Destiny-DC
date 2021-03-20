@@ -17,13 +17,12 @@
 	},	
 	{
 		"BlockId":			2,
-		"BlockDesc":		"Skit Episode Name",
-		"TextStartBlock":	"19A190",
+		"BlockDesc":		"Skit Episode",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Skit Episode Name",
-			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
+			"SectionDesc":	"Skit Episode",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
 			"TextStart":	"19A190",
 			"TextEnd":		"19A5BE",
 			"PointerStart":	"",
@@ -46,23 +45,6 @@
 			"PointerEnd":	""
 		}]
 	},	
-	
-	{
-		"BlockId":			2,
-		"BlockDesc":		"Menu Button",
-		"Sections":[
-		{
-			"SectionId":	1,
-			"SectionDesc":	"Menu Button",
-			"GoogleSheetId":"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
-			"TextStart":	"19BDC0",
-			"TextEnd":		"19C0BE",
-			"PointerStart":	"",
-			"PointerEnd":	""
-		}]
-	},	
-	
-	
 	{
 		"BlockId":			3,
 		"BlockDesc":		"Support",
@@ -80,6 +62,24 @@
 	},	
 	
 	{
+		"BlockId":			3,
+		"BlockDesc":		"Menu Button",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Menu Button",
+			"GoogleSheetId":"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
+			"TextStart":	"19BDC0",
+			"TextEnd":		"19C0DE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
+	},	
+	
+	
+	
+	
+	{
 		"BlockId":			4,
 		"BlockDesc":		"Artes_Other",
 		"TextStartBlock":	"19D388",
@@ -90,7 +90,7 @@
 			"SectionDesc":	"Hidden Artes",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19C380",
-			"TextEnd":		"19D36F",
+			"TextEnd":		"19D386",
 			"PointerStart":	"184788",
 			"PointerEnd":	"184DA8"
 		},
@@ -99,7 +99,7 @@
 			"SectionDesc":	"Artes",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"19D388",
-			"TextEnd":		"1A0F8F",
+			"TextEnd":		"1A0F8E",
 			"PointerStart":	"182FE8",
 			"PointerEnd":	"184770"
 		},
@@ -108,7 +108,7 @@
 			"SectionDesc":	"Strategy",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A0FD8",
-			"TextEnd":		"1A17E8",
+			"TextEnd":		"1A17FE",
 			"PointerStart":	"184DC8",
 			"PointerEnd":	"184F1C"
 		},
@@ -117,7 +117,7 @@
 			"SectionDesc":	"Swordian Device and others",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A1800",
-			"TextEnd":		"1A283F",
+			"TextEnd":		"1A284E",
 			"PointerStart":	"184F3C",
 			"PointerEnd":	"1858DC",
 			"Step":			20,
@@ -127,9 +127,9 @@
 		{
 			"SectionId":	5,
 			"SectionDesc":	"Locations",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"GoogleSheetId":"1u_-RAmhvoRuSoLk7zxTqfUu50GhIDvKixbCujqIWhr8",
 			"TextStart":	"1A2858",
-			"TextEnd":		"1A4FF7",
+			"TextEnd":		"1A5006",
 			"PointerStart":	"184F3C",
 			"PointerEnd":	"1858DC",
 			"Step":			20,
@@ -141,7 +141,7 @@
 			"SectionDesc":	"Attribute and others",
 			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
 			"TextStart":	"1A5008",
-			"TextEnd":		"1A52E6",
+			"TextEnd":		"1A52F6",
 			"PointerStart":	"",
 			"PointerEnd":	"",
 			"Step":			20,
@@ -158,7 +158,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Map Location",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"GoogleSheetId":"1u_-RAmhvoRuSoLk7zxTqfUu50GhIDvKixbCujqIWhr8",
 			"TextStart":	"1A5EE7",
 			"TextEnd":		"1A67A6",
 			"PointerStart":	"",
@@ -174,7 +174,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"City Name",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"GoogleSheetId":"1u_-RAmhvoRuSoLk7zxTqfUu50GhIDvKixbCujqIWhr8",
 			"TextStart":	"1A6870",
 			"TextEnd":		"1A7876",
 			"PointerStart":	"",
@@ -185,24 +185,23 @@
 	
 	{
 		"BlockId":			5,
-		"BlockDesc":		"Shop Name",
+		"BlockDesc":		"Tutorial",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Shop Name",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
-			"TextStart":	"1BB0A0",
-			"TextEnd":		"1A7876",
+			"SectionDesc":	"Tutorial",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"1AB970",
+			"TextEnd":		"1AC0CE",
 			"PointerStart":	"",
 			"PointerEnd":	""
-		
-		}]
+		}
+		]
 	},
 	
 	{
 		"BlockId":			5,
 		"BlockDesc":		"Item",
-		"TextStartBlock":	"1AC530",
 		"Sections":[
 		{
 			"SectionId":	1,
@@ -285,7 +284,7 @@
 		{
 			"SectionId":	1,
 			"SectionDesc":	"Shop Name",
-			"GoogleSheetId":"1w1H0ELiTYgQwzOSzdUjt8YmwlB1I1_6Fyz5MxSFDVHM",
+			"GoogleSheetId":"1u_-RAmhvoRuSoLk7zxTqfUu50GhIDvKixbCujqIWhr8",
 			"TextStart":	"1BB0A0",
 			"TextEnd":		"1BB626",
 			"PointerStart":	"",

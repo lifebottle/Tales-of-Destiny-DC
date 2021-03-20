@@ -2,26 +2,27 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Do something with your stupid power.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Okay, leave it to me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+You can open it, if you use
+the <ITEM_149> you found earlier.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+Pried the door open
+with the pickaxe.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+The door will not
+open by hand.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -163,11 +164,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+The warp device has not been started.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+The warp device has started.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

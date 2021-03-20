@@ -2,26 +2,26 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Alright, leave it to me! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -258,14 +258,14 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>生命力回復装置と
-記されている。
+<TAG_005>It is described as a vitality
+recovery apparatus.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-使いますか？
-はい
-いいえ
+Use it?
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -407,11 +407,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+The warp device is not active
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+The warp device has started.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

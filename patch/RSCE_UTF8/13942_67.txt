@@ -177,19 +177,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -724,33 +724,34 @@ Let's go wait at the Inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、<Lion>。いつもの電撃で、
-さっさと<Stahn>を起こしてよ。
+Hey, <Lion>, aren't you gonna zap
+him awake, like you usually do?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その必要はない。
-じきに目が覚めるだろう。
+There's no need for that.
+He'll wake up soon enough.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うわ、何あれ。
-<Lion>の奴、気持ち悪くない？
+Hey, isn't <Lion> acting
+a little strange, suddenly?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあ、いつもの恐い<Lion>さんより
-良いじゃないですか。
+Well, isn't this <Lion> better
+than the usually scary one?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-って言ってもさあ。こんな寝方させて
-おくのもひどいんじゃない？
+Even so, it's still kinda cruel
+to just leave him 
+on the ground like this...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあ、寝相はどうしようも
-ありませんから。
+Well, we can't help that
+he's such a heavy sleeper...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -762,11 +763,11 @@ Wake up, <Stahn>...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>……
+<Stahn>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
+<Stahn>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -788,7 +789,7 @@ I was out of it...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wait, what about Lydon?
+Wait, what about <Greybum>?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -857,7 +858,7 @@ You're all a burden.
 <Lion>
 [ENDBLOCK]
 If I had worked with Baruk from the
-beginning, Lydon would already have
+beginning, <Greybum> would already have
 been caught.
 [ENDBLOCK]
 <Lion>
@@ -882,7 +883,7 @@ things will not go this way.
 <Lion>
 [ENDBLOCK]
 Next time, we will show him
-our true power. Okay?
+our combined power. Okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -900,8 +901,8 @@ what looks to be a giant lens.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Those monsters are probably headed
-toward the Neuestadt area.
+It's likely that they were headed
+in the direction of Neuestadt.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

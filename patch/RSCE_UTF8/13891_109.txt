@@ -22,22 +22,19 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+つる
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+開かな
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>さんと<Hugo>が、
-親子だったなんて……
+<Rutee>さんと<Hugo>
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Rutee>君はずっとひとりで、
-思い悩んでいたのか……
+<Rutee>君
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -45,7 +42,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様……間違った事言ったか？
+俺様
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -53,371 +50,368 @@ notice
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-ラディスロウを起動させるＲキーは
-ここから南西の神殿にある。
+ラディスロウ
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-頼んだぞ、諸君。
+頼ん
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-外殻大地を完成させてはならない。
-頼んだぞ、諸君。
+外殻大地を
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここにある技術は
-本当に凄いものばかりです。
+ここにあ
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-あなたたちを追いかけてきて
-正解でした。
+あなた
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-僕の調べた所だと、かつての地上軍は、
-敵の特殊な攻撃に苦しめられたそうです。
+僕の調べ
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-なんでも、こちらの術や技を封じる
-攻撃があったとか。
+なんでも
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-決して気を抜かないで下さいね、
-みなさん。
+決して
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここでみなさんに協力できる事を
-誇りに思っています。
+ここ
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-あ、そうだ。
-伝え忘れるところでした。
+あ、
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここに来ているお店の品揃えが
-増えたそうですよ。
+ここ
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-お店の場所は、この部屋を出て、
-三つ並んだ扉の一番右ですからね。
+お店の
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-もちろん、忘れていませんよね？
+もち
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-お店の場所は、この部屋を出て、
-三つ並んだ扉の一番右ですからね。
+お店
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-是非、のぞいてみてください。
+是非
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ah! theres a sword 
+Ah? There's a sword!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-あれがクレメンテだ。
+That is Clemente.
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-選ばれし勇者たちよ、
-よくぞここまで来た。
+Chosen heroes, you've done well
+to come this far.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何それ。勇者って誰の事？
+What's that, who're you
+callin' heroes?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えっ？	やっぱり俺？
+Eh? Are you really
+talking about me?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-クレメンテ老、悪ふざけは、
-大概にしてもらおう。
+Old Clemente here likes to play pranks people.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-悪ふざけって……
+Pranks...
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-なんじゃ、久しぶりに会ったのに。
-ディムロスは頭が固いのう。
+Well, well, it's been quite a while,
+Dymlos. You’re still as stubborn as ever.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-ご無沙汰しております、老。
-お元気そうで何よりですわ。
+You never even wrote, Clemente. But
+you seem to be doing well.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-おうおう、アトワイトは相変わらず、
-かわいらしいのう。剣になっても。
+Oh, Atwight. You're as sweet as ever.
+You became a sword, too.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-わざわざわしを迎えに来るからには、
-よほどの事が起こったようじゃな。
+If you've gone through all the trouble
+to come meet me here, then something must
+be happening.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-実は……神の眼が奪われた。
+More importantly...the Eye of Atamoni was stolen.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-やはりのう……悪い予感がしたんじゃ。
+So it was true... I had a
+bad feeling.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-これはわしも、
-のんびり眠っている場合ではないの。
+This isn't the time for me to be
+sleeping peacefully.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-私たちと一緒に行ってくれますね？
-老がいれば、心強いですわ。
+Will you come with us? If you're here
+with us, it'll be reassuring.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-老骨にむち打つ見返りに、
-たっぷりサービスを頼むぞい。むふふ。
+I'll be counting on you to spoil me
+and whip these old bones into shape.
+Fufufu.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-アトワイトに変な事したら、
-あたしが許さないわよ。
+I won't let you do anything
+weird to Atwight.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-サービスって……？
+Spoil you...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうか、研いだり磨いたりか。
-剣だもんな。
+Oh I get it, like polishing and
+refining. Because you're a sword.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-いや、そうでなくて。
-もっとこう、ロマンあふれるというか。
+No, not quite. More like, brimming
+with romance, perhaps.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ディムロスよ。ぬしのマスターは、
-心の清い男みたいじゃのう。
+Dymlos. It seems like your master
+is quite the pure-hearted man.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ところで、クレメンテのマスターは、
-どうするんだ？
+By the way, how are we gonna get
+Clemente a master?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-その件は後で考えるしかない。
-素質のある者がいない事には、な。
+We will have to think about that
+later. No one here possesses the
+aptitude to wield a Swordian.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-わしのマスターならもうおるよ。
+My master is already here.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ここまでおいで……<Philia>や。
+She's coming here... <Philia>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>だって!?
+<Philia>!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-皆さん……
+Everyone...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうやってここまで来たの？
+How did you manage to get here?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-頭の中に声が聞こえて、
-それに従ってきたんです……
+I listened to the voice in my head,
+it guided me here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-声が聞こえたって……まさか、
-それってクレメンテの？
+You heard a voice... could that really be Clemente?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-その、まさかじゃ。
+Yes, it really was.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私を呼んでいたのは、あなたですね。
+You are the one who called me.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ぬしにはわしを欲する意志があった。
-強くなりたいと願う、ひたむきな意志が。
+It was your will that wished for me.
+Your earnest desire and determination
+to become stronger.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-故にわしの声が聞こえたのじゃ。
-わしはぬしに、力を授ける事ができる。
+And that is why you heard my voice.
+I can give you that power.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-後は最後の決断だけじゃ。
-どうする？	<Philia>・フィリスよ。
+All that's left is your final decision.
+What do you choose? <Philia> Felice.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>……
+<Philia>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私は大司祭……いえ、グレバムから、
-神の眼を取り戻してみせます。
+I have to get the Eye of Atamoni
+back from the High Priest...
+no, from Lydon.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何があっても。どんな事をしても。
-それが私の責任、私の義務ですから。
+No matter what. That is my
+responsibility, my duty.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あなたと共に戦います。私に力を。
-……クレメンテ！
+I will fight together with you.
+Grant me your power. ...Clemente!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったな、<Philia>！
+You did it, <Philia>!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-これも<Stahn>さんが、
-元気付けてくれたお陰ですわ。
+It's all because you
+cheered me on, <Stahn>!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さん……
+<Lion>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さん、改めてお願いします。
-どうか私も、一緒に戦わせてください。
+<Lion>, once again I ask you to
+let me fight with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだよ。
-まだ<Philia>を認めないつもりか？
+What's with that, you still won't
+recognize <Philia>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……ふん。足手まといになるなよ。
+...Hmph. Just don't be a nuisance.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……はい！
-<Lion>さん、ありがとうございます。
+...Yes! Leon, thank you
+so much.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Philia>、ぬしは確かにまだ未熟じゃ。
-それにか弱い。
+<Philia>, you are still a novice.
+That means you are weak.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-しかし、それを補って余りある、
-ひたむきな気持ちがある。
+However, what you lack in skill, you
+make up for in your earnest feelings.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-わしはそこに期待しておるのじゃ。
+I have great expectations for you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ご指導の程、よろしくお願いします。
-クレメンテ。それに皆さんも。
+Please give me your guidance, Clemente,
+and everyone else too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こちらこそ、改めてよろしく！
+Same here. Pleased to make your
+acquaintance again!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-よろしくな。
+Good to have you along.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-よろしく。
+Yep yep.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-うまい具合にまとまったな。
+This ended up being a
+convenient affair.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-うむ。これでわしも一安心じゃ。
+Mhm. With this we can have some
+peace of mind.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-どうせ新たなマスターを得るのなら、
-ぴちぴちの娘の方が良かったからの。
+At any rate, if I had to get a new
+master, I'm sure glad she's a spritely
+young girl.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-老……
+Clemente...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-それじゃ、皆さん。
-船に戻りましょうか。
+Well, everyone. Shall we
+return to the ship?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ、そうだな。
+Yeah, sounds good.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>戦闘パーティが５人になり、
-「<turquoise>サポートタレント</color>」が
-使用可能になりました。
+<TAG_007>Since you have 5 people in your party,
+you can now use 「<turquoise>Support Talent</color>」.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニュー「パーティ」で
-戦闘参加キャラを<Triangle_ani>で
-入れ替える事ができます。
+<TAG_007>You can change who is in your
+「Active Battle Party」 by pressing <Triangle_ani>
+on the main menu when hovering over
+a character.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>サポートタレントとは戦闘に
-参加していないキャラが、
-移動中に様々な能力を
-発揮してくれるものです。
+<TAG_007>Characters who are not in battle can't
+participate, but they can provide a
+number of abilities.
 
 [ENDBLOCK]
 <Stahn>
@@ -1251,11 +1245,12 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x64><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x64><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the party.
 [ENDBLOCK]
-仲間になりました。
+is now an active
+party member.
 [ENDBLOCK]
 戦闘に参加できます。
 [ENDBLOCK]
@@ -1269,9 +1264,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x64><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x64><x80></color> 
 [ENDBLOCK]
-パーティから抜けました。
+has left the party.
 [ENDBLOCK]
 <x18><x65><x59><x54><x00><x80><x18><x65><x59><x58><x00><x80>
 [ENDBLOCK]
@@ -1395,8 +1390,8 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x64><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><x64><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
