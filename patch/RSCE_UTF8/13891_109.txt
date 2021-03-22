@@ -1,14 +1,14 @@
 <Lion>
 [ENDBLOCK]
-.
+<IGNORE>
 [ENDBLOCK]
-.
+のバカ力でどうにかしろ。
 [ENDBLOCK]
-.
+<IGNORE>
 [ENDBLOCK]
-<Lion>
+<IGNORE>
 [ENDBLOCK]
-.
+<IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -117,7 +117,7 @@ Ah? There's a sword!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-That is Clemente.
+That is <Clemente>.
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
@@ -136,7 +136,7 @@ talking about me?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Old Clemente here likes to play pranks people.
+Old <Clemente> here likes to play pranks people.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -149,7 +149,7 @@ Dymlos. You’re still as stubborn as ever.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-You never even wrote, Clemente. But
+You never even wrote, <Clemente>. But
 you seem to be doing well.
 [ENDBLOCK]
 <Clemente>
@@ -219,7 +219,7 @@ is quite the pure-hearted man.
 <Stahn>
 [ENDBLOCK]
 By the way, how are we gonna get
-Clemente a master?
+<Clemente> a master?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -254,7 +254,8 @@ it guided me here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You heard a voice... could that really be Clemente?
+You heard a voice... could 
+that really be <Clemente>?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -298,7 +299,7 @@ responsibility, my duty.
 <Philia>
 [ENDBLOCK]
 I will fight together with you.
-Grant me your power. ...Clemente!
+Grant me your power. ...<Clemente>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -348,7 +349,7 @@ I have great expectations for you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Please give me your guidance, Clemente,
+Please give me your guidance, <Clemente>,
 and everyone else too.
 [ENDBLOCK]
 <Stahn>
@@ -382,7 +383,7 @@ young girl.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Clemente...
+<Clemente>...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
