@@ -15,7 +15,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-でも俺様にとっちゃ、この観客席は
+でも俺様にとっちゃ、このSpectators席は
 つらい事も思い出すぜ。
 [ENDBLOCK]
 <Rutee>
@@ -302,66 +302,68 @@ Sailor
 ……え？	あんたたちがそうだって？
 はっはっは、またまた。
 [ENDBLOCK]
-司会者
+Announcer
 [ENDBLOCK]
-さあ、挑戦者の入場だ！
+Now, our challenger approaches!
 [ENDBLOCK]
-マイティ・<Kongman>に挑戦する、
-命知らずが現れたぞ！
+A daredevil has appeared to
+challenge Mighty <Kongman>!
 [ENDBLOCK]
-観客
+Spectators
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty! Mighty! Mighty!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-逃げずに来た事はほめてやる。
-覚悟はできているな？
+I must praise you for not running
+away. Have you prepared yourself?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-勝負はやってみなくちゃ、
-わからないさ。
+I still don't really get
+why we have to fight.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さん、見ていてください。
-勝利の栄光、あなたに捧げます！
+<Philia>, please watch me. 
+I will devote the glory 
+of my victory to you!
 [ENDBLOCK]
-それではただいまより、
-本日の特別試合を行います！
+Now, in this very moment, witness
+this very special match!
 [ENDBLOCK]
 Champion <Kongman>！
-ＶＳ！	ミスター・トンガリ頭！
+ＶＳ！	Mr. Pointy Head!
 [ENDBLOCK]
-おーっと、番狂わせが起きたあ！
-勝ったのは挑戦者だあ！
+Oh my! We’ve reached an 
+unexpected conclusion! The
+challenger has won the match!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ぐがが……こんなバカな……
+Gwah... This is ridiculous.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-どうだ、思い知ったか。
+How was that? Do you get it now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もう<Philia>に付きまとうなよ。
-それと……
+Don’t cling to <Philia> 
+anymore, okay? And...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いい試合だったよ、ありがとう。
+That was a good match. Thanks.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-お、おめえ……
-なんてさわやかな奴なんだ。
+Y-you... you're a pretty
+refreshing guy.
 [ENDBLOCK]
-おおーっと！
-ふたりの間に友情が芽生えたかあ!?
-なんと暑苦しくも感動的な光景だあ！
+What’s this? The formation of a
+friendship between these two? What a 
+strange, but touching honor this is!
 [ENDBLOCK]
 勝ったのはチャンピオンだあ！
 さすがにこれは地力が違ったかあ！
@@ -386,7 +388,7 @@ Champion <Kongman>！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……フン、いい試合だったぜ。
+...Hmm, it was a good match.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -398,37 +400,38 @@ Champion <Kongman>！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-こんなところで何をやっている！
+What are you all doing in
+a place like this?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>？	もう試合は終わったよ。
+<Lion>? The match already ended.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-遊んでいる場合か！
-街がモンスターに襲われているぞ！
+You're really playing around in here?
+Monsters are attacking the town!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだって!?
+What did you say?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんだと!?
+What did you say?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-くそ、一体何が起こってやがる！
+What did you say?!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-我らも急いでここを出るぞ。
+Let’s hurry and get out of here too.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-アイ・アム・チャンピオン！
-ガハハハハ！
+I am Champion!
+Gahahahaha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -438,9 +441,9 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the party.
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
