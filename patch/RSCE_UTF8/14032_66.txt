@@ -1071,8 +1071,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「優勝おめでとう」
-と書かれている。
+<TAG_005>It says 「Congratulations on your win」
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1250,8 +1249,8 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-おまえもChallengerか？
-ふん、一勝は拾ったな。
+Are you the Challenger?
+Hmm, you picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
