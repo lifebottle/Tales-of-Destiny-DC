@@ -22,7 +22,7 @@
 reset---------
 
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Yo Blondie, about
 that sword you've got.
@@ -38,7 +38,7 @@ You know about the Swordians?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Ohoh, this boy knows
+Oh oh, this boy knows
 about us? Impressive!
 [ENDBLOCK]
 Young Man
@@ -62,7 +62,7 @@ I'm not!!
 Idiot! You nearly
 gave yourself away!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 What the heck's a Swordian?
 [ENDBLOCK]
@@ -74,7 +74,7 @@ Oh, no, I said, uh...
 [ENDBLOCK]
 ..Swat..ian..
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 ..Swatian?
 [ENDBLOCK]
@@ -83,12 +83,12 @@ Young Man
 Yeah. I use this
 to swat flies!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 That's weird. You're weird.
 I guess it suits you then...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Oh you're <Kongman>!
 [ENDBLOCK]
@@ -101,7 +101,7 @@ select
 <TAG_007>I'm <Kongman>!
 Waddaya want, geezer?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I'm a big fan of yours.
 [ENDBLOCK]
@@ -109,7 +109,7 @@ I'm a big fan of yours.
 [ENDBLOCK]
 Oh, I see.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 <Kongman>, before I die.
 I have a favor to ask you.
@@ -118,7 +118,7 @@ I have a favor to ask you.
 [ENDBLOCK]
 What's that?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I..I want you to hit me!
 [ENDBLOCK]
@@ -126,7 +126,7 @@ I..I want you to hit me!
 [ENDBLOCK]
 ...What?!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 If I take a punch
 from THE <Kongman>, I
@@ -141,7 +141,7 @@ Sir, I'm sorry. I can't do that.
 I'm..only going to use these
 fists of mine to protect everyone.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 ...I see.
 [ENDBLOCK]
@@ -157,14 +157,14 @@ hesitate to use this fist.
 <Kongman>
 [ENDBLOCK]
 Surely you can forgive me.
-Whaddaya say, old man?
+Whaddaya say, Man?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 That's our <Kongman>! 
 The hero of the city!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Who's a geezer?!
 [ENDBLOCK]
@@ -312,12 +312,12 @@ Be good to each other, yeah?
 [ENDBLOCK]
 Are you from Calvalese?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Yeah, I am. 
 No need to whisper.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Well? Gonna make
 fun of me or what?
@@ -326,21 +326,21 @@ fun of me or what?
 [ENDBLOCK]
 No, truth is...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I see...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I forgot...the others
 are all over the world,
 still fightin' on, huh...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Alright. Here.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 It ain't much, but take it.
 [ENDBLOCK]
@@ -348,30 +348,30 @@ It ain't much, but take it.
 [ENDBLOCK]
 Thank you!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I'll give it my all again,
 just like the old days.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Oh yeah! I know a
 guy who's at Aquaveil.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 He's a fighter, that one.
 Maybe he's doing well there.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 Be careful!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I know a guy at Aquaveil.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 He's a fighter, that one.
 Maybe he's doing well there.
@@ -1166,13 +1166,14 @@ tell me your name...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>街のシンボルである噴水。
-住人の憩い場となっている。
+<TAG_005>A fountain that is a symbol of the city.
+It is a resting place for residents.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ノイシュタット新規事業者募集。
-詳細はオベロン社までお問い合わせ下さい。
+<TAG_005>Neuestadt New Business Opportunity
+    For more information, 
+   please contact Oberon.
 [ENDBLOCK]
 ダミーショップ配置
 [ENDBLOCK]
@@ -1180,7 +1181,7 @@ tell me your name...
 道具屋：ギブアンドテイク
 武器屋：アーケディア
 防具屋：ディフェレイド
-装飾屋：銀の糸
+Accessory Shop：銀の糸
 オベ社：西大陸支店
 
 [ENDBLOCK]
@@ -1255,15 +1256,15 @@ tell me your name...
 マイティ！	マイティ！
 どうかよろしく頼みます！
 [ENDBLOCK]
-レンズ屋
+Lens Shop
 [ENDBLOCK]
-いらっしゃいませ！
-レンズの換金を承ります！
+Welcome! We allow you to 
+redeem your lens.
 [ENDBLOCK]
-レンズ屋
+Lens Shop
 [ENDBLOCK]
-え～ん、会社からここを
-離れるなって言われました。
+Hmm, the company told
+me not to leave.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -1280,14 +1281,14 @@ Young Man
 この街が発展したのは、
 全部セインガルドのお陰だってさ。
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-うわーん！	パパー！
+Whoo! POW!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-おまえら、よくやったな。
-パパに言っといてやるよ。
+You guys did good.
+I'll tell your dad.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -1308,39 +1309,39 @@ Young Man
 あの、えっと……
 がんばれ、<Leader>。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-この街に元から住んでいる者たちは、
-どうも品位に欠けますな。
+Those who originally lived
+in this city lack dignity.
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
-ひいい、助けてっ！
+Hey, help me!
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 なんだモンスターじゃないのか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 野蛮な奴らめを、
 こらしめてやってください！
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 街の平和を守ったのは、
 あんな野蛮な筋肉男ではないのに。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 空から攻撃を受けてしまったら、
 街のどこにいても同じでしょうな。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 人類は滅びるしかないんでしょうか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 この街に元から住んでいた者たちと
 協力し合う日が来るとは。
@@ -1352,7 +1353,7 @@ Young Man
 [ENDBLOCK]
 母親
 [ENDBLOCK]
-子供とはぐれてしまいました。
+Childとはぐれてしまいました。
 無事だといいのだけれど……
 [ENDBLOCK]
 母親
@@ -1379,51 +1380,51 @@ Young Man
 娘ともう一度、日の光の下を
 歩ける日が来るといいのですが。
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-アイスキャンディーって知ってる？
-この街の名物よ。
+Do you know what Softy Kreem is?
+It's a specialty of this city.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-ママー！
+Mommy!?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 <Kongman>が街を守ったっていうと、
 ママの機嫌が悪くなるの。
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 オベロン社に文句をいう人が、
 このところ急に増えたんだって。
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 空に影が出てきたわ。
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 お外がずっと夜だったら、
 日焼けしないで済むかな？
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
 お外はいつ元に戻るの？
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-宝石はいかがでしょうか？
-品揃えには自信がありますよ。
+How about a jewel? I am 
+confident in the product line.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-武装船を追いかける皆さんですね。
-是非、当店でお買い物を。
+You guys are in pursuit of the armada.
+Please rely on our store.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-当店はいつでも営業中です！
+Our shop is always open.
 [ENDBLOCK]
 おばあさま
 [ENDBLOCK]
@@ -1459,22 +1460,23 @@ Young Man
 下町の住人と協力しているところを、
 <Ilene>さんにも見せたかったです。
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-ノイシュタットを出て北へ行くと、
-リーネってちっぽけな村があるぞ。
+If you leave Neustadt and head
+north, you will find a small 
+village called Lienea.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-こんな非常時に、
-話しかけるでない！
+Don't talk to me in
+such an emergency!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 やっぱり<Kongman>は頼れるのお。
 マイティ！	マイティ！
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 わしの提出したレンズも
 必ず使ってくだされ。
