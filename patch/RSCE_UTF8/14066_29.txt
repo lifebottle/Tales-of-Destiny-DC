@@ -3,101 +3,104 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>アクアヴェイル地方独特の絵の具で
-描かれた掛け軸が掛かっている。
+<TAG_005>A scroll painted with the Aquaveil
+region's unique paints hangs in the room.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>アクアヴェイルで良く見られる景観と、
-その横に何かの詩が書かれている。
+<TAG_005>A landscape that is often seen
+in Aquaveil and a poem next to it.
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-お客さん、モリュウ領からかい？
-それとも、トウケイ領からかい？
+Sir, are you from Moreau territory?
+Or are you from the Toukei territory?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-お客さん、セインガルドからかい？
-それとも、ファンダリアかい？
+Sir, are you from Moreau territory?
+Or are you from the Toukei territory?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-お客さん、モリュウ領からかい？
-それとも、トウケイ領からかい？
+Sir, are you from Moreau territory?
+Or are you from the Toukei territory?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-お客さん、セインガルドからかい？
-それとも、ファンダリアかい？
+Sir, are you from Seinegald?
+Or is it Phandaria?
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
-遠いところをお疲れでしょう。
-お泊りになりますか？
+Oh, maybe you're from Seinegald?
+Or is it Phandaria?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald. Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+The room is upstairs.
+Sleep well.
 [ENDBLOCK]
-いつでもどうぞ。
+Come back any time.
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a good day.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough gald.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-アクアヴェイルの食材は、
-世界一のうまさだぜ！
+Aquaveil's ingredients are
+the best in the world!
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-アクアヴェイルの食材は、
-世界一のうまさだぜ！
+Aquaveil's ingredients are
+the best in the world!
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-アクアヴェイルは鎖国のお陰で、
-独自の文化が花開きました。
+Thanks to the isolation of Aquaveil,
+a unique culture has blossomed.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ここにある掛け軸などを見てください。
-他のどの国にも、こんな美しい物はない。
+Look at the hanging scrolls and other
+objects here. You won't find anything
+this beautiful in any other country.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-鎖国が解かれた事で、この国の文化が
-よその国に紹介されるでしょう。
+Now that the isolation has
+been lifted, our culture can
+can spread to other countries.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-逆によその国の文化も入ってきます。
-純粋性が損なわれないか、心配です。
+On the other hand, cultures from other
+countries coming here. I'm worried that
+the purity will be compromised.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-空から降ってきたあの声、
-どういう仕組みなんでしょうね？
+That voice that fell from the
+sky, I wonder how it works?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの放送の通り、本当に地上が
-闇で覆われてしまいましたね。
+As that broadcast went on, the 
+ground was covered with darkness.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-まだ希望はあると思っていいのですか？
+Can I assume that there is still hope?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xD0><x80></color>が
 [ENDBLOCK]

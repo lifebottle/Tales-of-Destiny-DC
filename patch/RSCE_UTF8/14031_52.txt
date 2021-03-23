@@ -228,7 +228,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 新人監督
 [ENDBLOCK]
-強い男をアピールするんだ！
+強いGuardをアピールするんだ！
 [ENDBLOCK]
 姫役
 [ENDBLOCK]
@@ -242,7 +242,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 さあ、もう一度。かっこつけるんだ。
 [ENDBLOCK]
-男役
+Guard役
 [ENDBLOCK]
 貴様、姫には触れさせん！
 [ENDBLOCK]
@@ -250,12 +250,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あなたは一体……？
 [ENDBLOCK]
-男役
+Guard役
 [ENDBLOCK]
 私は姫を心よりお慕い申し上げる者。
 しかし、父はしがない農民……
 [ENDBLOCK]
-男役
+Guard役
 [ENDBLOCK]
 頭では身分の違いを分かっていても、
 この心が、姫の事をあきらめさせません。
@@ -274,7 +274,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 私の身も心も、
 全てをお救い下さい。
 [ENDBLOCK]
-男役
+Guard役
 [ENDBLOCK]
 私が一生、
 姫をお守りします。
@@ -383,7 +383,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 絶対にみんな、
 彼と勘違いするはずさ。
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
@@ -403,115 +403,116 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 私からの
 プレゼントを渡しておいて。
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
-娯楽の殿堂、闘技場へようこそ。
-血沸き肉踊る興奮を、堪能できますよ。
+Welcome to the arena, the temple
+of entertainment. Where you'll enjoy
+blood-boiling battles.
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
-街の公園の方から煙が見えたぞ。
-あれは一体……
+I saw some smoke coming from the
+city park. What's going on?
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 あのモンスターは一体
 なんだったんだ!?
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 な、何が起こってるんだ？
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 チャンピオン、我々何があっても、
 闘技場を続けますから！
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 チャンピオンがお戻りになるまで、
 闘技場の灯は絶やしません！
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
-観戦するのも参戦するのも、
-お客様のお望みのままでございます。
+Whether you want to watch or
+participate, it's up to you.
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
-どうかされたのですか？
+How can I help you?
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 モンスターがいきなり街を
 襲うなんて事ありえないですよ。
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 空の上から攻撃してくるなんて、
 反則もいいところだぜ。
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 一応営業は続けてはいますが、
 いつまでもつやら……
 [ENDBLOCK]
-男
+Guard
 [ENDBLOCK]
 チャンピオンが凱旋なさる日を、
 心からお待ちしております！
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
-ここで一旗あげようと思って、
-田舎から出てきたけど……
+I came out here from the country
+to make a name for myself. 
 [ENDBLOCK]
-鎧の男
+Armored-Man
 [ENDBLOCK]
-いざとなるとびびっちまって、
-中に入れないんだよ。
+When it comes down to it, I'm
+too freaked out to go in there.
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
-悲鳴が聞こえたような……
-き、気のせいだよな。
+I think I heard a scream. I hope... 
+it was just my imagination.
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 お、おれも街の人を
 助けたんだ！
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 チャ、チャンピオン！
 サイン下さい！
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 よ、よし！
 今度こそ参戦するぞ！
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 世界中どこへ行っても、
 空はこんな感じなのかなあ……
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 こんなご時勢に闘技場へ来る奴って、
 何なんだろう。
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 相変わらず外でうろついてる俺は、
 もっと何なんだけどさ。
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 俺が闘技場に参戦する事は、
 もうない気がしてきたよ。
 [ENDBLOCK]
-鎧の男
+Armored Man
 [ENDBLOCK]
 別に応援専門でもいいや。
 マイティ！	マイティ！	マイティ！

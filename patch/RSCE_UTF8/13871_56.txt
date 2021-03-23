@@ -293,19 +293,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -661,141 +661,147 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、大丈夫ですか？
+Master <Lion>,
+are you alright?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、たぶん……うぷっ。
+Yeah, I think I..*Ulp!*
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-遠くを見てください。
-ほら、遠くですよ。
+Easy, calm down, don't look at the water.
+Come on, look into the distance, there you go.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はぁはぁ……だいぶ楽になった。
+Hahh..whew..
+..that helped a lot.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-本当に良くなったんですか？
-船室で少し横になりましょうよ。
+Are you sure you're better?
+Maybe you should go rest in the cabin a bit.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なあ、シャル……
+Hey, Chal...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-カルバレイスを出てから、
-僕はずっと考えていたんだ……
+I've been doing some thinking
+since we left Calvalese.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>たちの……事ですか？
+About <Stahn> and the others, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ……僕は正直、戸惑っているんだ。
+Yeah..Honestly, I still
+can't quite understand them.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-信頼できる人が傍にいる事は
-いい事じゃないですか。
+It's good to have someone you
+can rely on by your side, though, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それは……分かっている。
+Yes, I know that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-だけど、僕は今までずっとシャルと
-ふたりだった。
+Up to now though, you've been
+the only one I can trust, Chal.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何でもふたりでやってきた。
+We've done everything together.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-子供の頃、シャルと出会えたからこそ、
-僕は生きてこられたんだ。
+It's because you've been by
+my side since my childhood that
+I was even able to make it this far.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そんな、大げさですよ。
+That's an exaggeration!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-違うよ、シャル。
-僕は本当にそう思っている。
+No, it's not, Chal.
+I really mean that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-だから、あいつらを仲間だと
-考えるのは、おまえを……
+So I worried. If I get close
+to someone else, then you'll...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-ありがとうございます。
-僕の事を気づかってくれて。
+I appreciate your concern for me...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-でもね、坊ちゃん。それは違います。
-僕はうれしいんですよ。
+...However, there's no need.
+I'm really happy, you see.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-うれしい……？
+...Happy..?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-これまでの坊ちゃんには夢が
-少なすぎました。
+Until now, you dreamt
+of only two things.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Hugo>様を越えたい。
-<Marian>と一緒にいたい。
+To surpass President <Hugo>,
+and to be with <Marian>.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-これだけじゃ、全然
-足りないですよ。
+You shouldn't be so focused
+only on serious things like that.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-友人と一緒に旅をしたいとか、
-一緒に買い物をしたいとか。
+What about traveling with friends?
+What about going to the market with them?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そんな些細な事でも
-いいんです。
+These things may be trivial,
+but they're just as important, as well.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや、しかし……
+I..but, what if..?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕らが人間だった頃には
-そんな経験できませんでした。
+You know, when were were still human,
+we never got the chance to do things like that.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-戦争でしたからね。<Dymlos>たちは、
-やっぱり友人じゃなくて戦友なんです。
+It was war, after all. <Dymlos> and
+the others were my comrades, but we
+were never able to just be friends.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-それに、坊ちゃんが多くを望めば、
-一緒にいる僕も楽しめるって寸法ですよ。
+And, you know, if my Young Master
+wants to do things like that, 
+I'll be able to enjoy them, too!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-全く、なんて下手な説得なんだ。
+Sheesh, you're not as
+persuasive as you think, you know.
 [ENDBLOCK]
 フラグ-><TAG_059>は昼
 

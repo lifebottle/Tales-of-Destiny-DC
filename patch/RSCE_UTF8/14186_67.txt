@@ -1,6 +1,6 @@
-××××××
+××××××空開始××××××
 [ENDBLOCK]
-空開始××××××
+
 
 [ENDBLOCK]
 段階なし：D1R_EPI001START 	～	D1R_032_030_000
@@ -1018,7 +1018,7 @@ Reward
 notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
-<TAG_077> Gald penalty for refunding
+<TAG_077> Gald penalty for refunding 
 the payment advance.
 
 [ENDBLOCK]

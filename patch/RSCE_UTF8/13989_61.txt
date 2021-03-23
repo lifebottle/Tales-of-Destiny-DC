@@ -90,19 +90,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -514,12 +514,12 @@ Softy Kreem Shop
 reset---------
 
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Does anyone have a... stunning
 shirtless physique... 
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Oh, it's only you!
 [ENDBLOCK]
@@ -527,7 +527,7 @@ Oh, it's only you!
 [ENDBLOCK]
 Hmm? You wanted to see me?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Suddenly, I'm in love with
 that body of yours.
@@ -550,7 +550,7 @@ being terrible?
 [ENDBLOCK]
 No, I don't want that!
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Oh, no sir. Please
 don't misunderstand.
@@ -1092,7 +1092,7 @@ exchange it for you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-This is the ice cream stand
+This is the Softy Kreem stand
 Mary was talking about, right?
 [ENDBLOCK]
 <Stahn>
@@ -1108,31 +1108,31 @@ Which flavors would you like?
 Ohh, there are a bunch to choose
 from. Which one, which one
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Hmm, what should I pick.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 The standard mocha flavor, or the
 limited cherry... Which one should
 I choose...? How troublesome.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Hey, if it were you,
 which would you choose?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Eh?me?
+Eh? Me?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 If it were me... I'd definitely
 go with vanilla.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Why vanilla?? You heard me
 say mocha or cherry, right?
@@ -1143,26 +1143,26 @@ If you can't decide between two
 options, then your answer is a
 third option... or is that wrong?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
  I see, I hadn't thought of that...
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-Then I’ll do that. Sir, one vanilla!
+Then I'll do that. Sir, one vanilla!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Ah, me too. Five vanilla!
 [ENDBLOCK]
-Sorry for the wait?here’s five vanillas.
+Sorry for the wait. Here's five vanillas.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Mmm, delicious! The vanilla flavor
 here is really the best!
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 If you eat here just once, no other
 shop will be able to satisfy you.
@@ -1174,12 +1174,12 @@ to help carry them?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Nah, I’m good.
+Nah, I'm good.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Oh my, these are your companions?
-You’re both so cute.
+You're both so cute.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1189,28 +1189,28 @@ You flatter me, thank you.
 [ENDBLOCK]
 Hmm...? Those children...
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Yoohoo~ Do you all want some, too?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Sir, I'd like one for these children
 here, if you please. All of them.
 [ENDBLOCK]
 Are you sure that's alright, miss?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Of course. It's better to eat
 with everyone, after all.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Everyone, here you go. I'm
-treating you to ice cream.
+treating you to Softy Kreem.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 Hey now, don't push! There's
 enough for everyone.
@@ -1244,11 +1244,12 @@ Softy Kreem is gonna melt.
 [ENDBLOCK]
 Khang Fan
 [ENDBLOCK]
-The Champion is coming through! Everyone, your attention please!
+The Champion is coming through!
+Everyone, your attention please!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Ah?it's <Kongman>!
+Ah! It's <Kongman>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1270,13 +1271,14 @@ living for the day.
 How charitous. It must feel
 good to give to the poor.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 I don't think of it as charity.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Don't think that money can buy everyting <Ilene> <Rembrandt>！
+Don't think that money can buy
+everyting <Ilene> <Rembrandt>！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1347,7 +1349,8 @@ Th-this is?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-My, who is this lovely glasses maiden?
+My, who is this
+lovely glasses maiden?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1355,8 +1358,8 @@ Who? M-me?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-My heart is racing?you
-are my ideal woman!
+My heart is racing? 
+You're my ideal woman!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1369,7 +1372,7 @@ Or perhaps do Hindu squats!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Well that’s an exciting pickup line.
+Well that's an exciting pickup line.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -1413,7 +1416,7 @@ Why do we have to duel?!
 <Dymlos>
 [ENDBLOCK]
 <Stahn>, you do not have to play
-along. We don’t have time for games.
+along. We don't have time for games.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1476,7 +1479,7 @@ So, where is the arena anyway?
 <Ilene>
 [ENDBLOCK]
 If you go up the main street in
-town to the north, there’s an
+town to the north, there's an
 entrance at the end.
 [ENDBLOCK]
 <Stahn>

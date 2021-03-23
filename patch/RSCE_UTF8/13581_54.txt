@@ -72,19 +72,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -471,10 +471,10 @@ is slightly frozen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><yellow>Emotional Chat System</color> (referred
-to as Chats)is a system that lets
-you watch conversations between
-your party members.
+<TAG_007><yellow>Emotional Chat System</color> 
+(referred to as Chats) is a system
+that lets you watch conversations
+between your party members.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -487,16 +487,15 @@ notice
 <x06><xED><x00><x00><x00>	<S15><F_Skit>:Free Chat
 <x06><xED><x00><x00><x00>		<S15>		Chit-chat among your party members.
 <x06><xED><x00><x00><x00>	<S15><R_Skit>:Rare Chat
-<x06><xED><x00><x00><x00>		<S15>		Triggered once condition is met.
+<x06><xED><x00><x00><x00>		<S15>		Triggered once the condition is met.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>When moving around a map
-or the field, Chat titles will
-appear in the bottom left corner of
-the screen. You can watch them
-whichever ones you'd like, at
-whatever time you'd like.
+<TAG_007>When moving around the map or
+the field, Chat titles will appear in
+the bottom left corner of the screen.
+You can watch whichever ones you'd like,
+at whatever time you'd like.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -507,7 +506,7 @@ in this area. Don't let your guard down.
 <Stahn>
 [ENDBLOCK]
 I have confidence in this sword.
-Please leave it to me!
+Leave it to me!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -532,37 +531,37 @@ You just slice and stab, right?
 <Dymlos>
 [ENDBLOCK]
 If I was an ordinary sword, that
-would be the end of it, but 
-that's not the case with a Swordian.
+would be the end of it, but that's
+not the case with a Swordian.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 First of all, I can use Crystal
-Artes? In my case, it's fire based.
+Artes. In my case, it's fire based.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 It requires chanting time,
 but is often more powerful
-than specialties.
+than Physical Artes.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-And the performance of the
-Swordian can be changed with
-the Swordian Device.
+And the abilites of the
+Swordian can be changed 
+with the Swordian Device.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It would be quicker to actually
-try and do this.
+It would be quicker to
+actually try and do this.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Both the Crystal Arts and the
-Swordian Device will be broadened
-by my mastery of them.
+Both the Crystal Artes and the 
+Swordian Device will grow in 
+versatility as you master them.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

@@ -183,19 +183,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -535,7 +535,7 @@ run around on your own.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Huh?�@Your mother is
+Huh? Your mother is
 dressed very modestly.
 [ENDBLOCK]
 Child's Mother
@@ -582,118 +582,120 @@ Young Man
 She's beautiful, kind, good at her
 job... and just a great woman.
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-武装船団はどこから来たんだ？
+Where did armada come from?
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-<Ilene>女史がケガをしたって？
-なんて事だ！
+<Ilene> is injured?
+Oh, my God!
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-<Ilene>女史の目指す街づくりを、
-僕も応援するよ。
+I will support Ms. <Ilene> in her 
+efforts to develop the city.
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-最近、住民の間の生活格差が、
-ますます広がってしまったんだ。
+Recently, the disparity in living
+conditions among the residents has
+become even wider.
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-だから<Ilene>女史への風当たりが、
-強くてね……
+That's why I've been so
+critical of Ms. <Ilene>.
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-攻撃されたところの土砂が、
-空に舞い上がって天井になったんだ！
+The damaged earth has flown up to
+the sky to create the shell!
 [ENDBLOCK]
-若者
+Young Man
 [ENDBLOCK]
-どこかで<Ilene>女史に会ったら、
-よろしく伝えてください。
+If you see Ms. <Ilene> anywhere.
+Please give her my best regards.
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-<Ilene>様はお若いのに、
-大した経営手腕をお持ちですわい。
+<Ilene> is very young, but she
+has great management skills.
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-ここにいれば、
-とりあえず安心ですかのう……？
+Is it safe to stay here for now?
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-街を守った功績は、
-<Kongman>のものになりましたな。
+The credit for saving the
+city goes to <Kongman>.
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-向こうを立てればこちらが立たず。
-<Ilene>様は苦しい立場じゃのう。
+If you put up your side, you 
+can't put up your side. You are
+in a difficult position, <Ilene>.
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-空が完全に埋まった時が、
-わしらの終わりですかのう。
+When the sky is completely filled,
+will that be the end of us?
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-まさか本当に、
-全て埋まってしまうなんて……
+I can't believe it's
+all filled up.
 [ENDBLOCK]
-老人
+Elder
 [ENDBLOCK]
-レンズならいくらでもお出しします。
-どうかよろしくお願いいたします。
+I am willing to pay any amount for the
+lens. Thank you for your cooperation.
 [ENDBLOCK]
-花売りの女の子
+Flower Girl
 [ENDBLOCK]
-お花を買ってください……
-お花を……どうか……
+Please buy some flowers... would
+you like... some flowers.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ……
+Ah...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫？
+Are you okay?
 [ENDBLOCK]
-は、はい。
-ありがとうございます……
+Y-yes. Thank 
+you very much.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あんな小さい子が……
-大変だな……
+Someone so young... that's awful...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-貧富の差が激しくなるのは、
-新興の街ではよくある事だ。
+The gap between the rich and
+the poor is a common occurrence
+in emerging cities.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いくら街が発展してても、
-皆が幸せってわけじゃないのか……
+No matter how much this 
+town grows, not everyone will
+be happy because of it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-早く広場へ行きましょ。
-アイスキャンディー買わなくちゃ。
+We should get going to the plaza.
+We've gotta buy the ice creams.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、ああ。そうだったな。
+Y-yeah, right.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Greybum>はどこだ！
+Where's <Greybum>!?
 [ENDBLOCK]
 notice
 [ENDBLOCK]

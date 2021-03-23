@@ -21,98 +21,97 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-ぐすん、ぐすん……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-どうしたの、君？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お父さんが……ィック、
-僕の事を……ィック、
-ちっとも誉めてくれないの。
+Gusu, gusu...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ほら、泣くなよ……
-元気だそう！
+What's the matter, sweetheart?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+My dad... he doesn't
+praise me at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-困ったなー。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-放っておけ。
-僕たちにはやる事があるんだ。
+Come on, don't cry. 
+...Cheer up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でもさあ……
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-ひどいよ……グズ……
-お兄ちゃんに僕の事が……
+I'm in trouble.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-当たり前だ、
-分かるわけがない。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-おまえが父親の事を、
-分からないのに、どうして僕が
-おまえの事を分かるんだ。
+Let it go. We've
+got work to do.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>、子供相手に何も
-そこまで……
+But you know what...
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+It's terrible... My brother,
+Gus, told me about it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-黙っていろ、<Stahn>。
+Of course not.
+How would I know?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-父親とは言え、
-所詮、おまえとは他人だ。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-でも、でもお父さんは
-僕の……
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-他人が変わらないのなら、
-おまえが考え方を変えるしかない。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-そう、変えるしかないんだ……
+If you don't know what your father is,
+how can I konw what you are?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お兄ちゃんの言ってる事、
-難しくてわかんないよー!!
+<Lion>, what are you
+doing with this child?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、さっさと行くぞ。
+Shut up, <Stahn>.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I may be your father, but I'm
+still a stranger to you.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+B-but your father is my...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+If others won't change, you'll have
+to change your way of thinking. But,
+if your father is my...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Yes, I have to change.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、う、うん……
+<Lion>...?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I don't know what you're talking
+about. It's too hard to understand.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Ok, let's hurry up
+and get out of here.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, yeah, yeah.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -146,71 +145,68 @@ notice
 フィッツガルドにある旅人の小屋で
 確認する事ができます。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. Would you
+like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+A new area, "Face Painting", has
+been Unlocked in the custom section
+of the main menu.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
+Press <Triangle_ani> followed by <Select_ani>.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-この部屋を色々調べてみるがよい。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+Canvas Liberator!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Rocks abound in th world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x98><x80>
 
@@ -228,7 +224,7 @@ notice
 [ENDBLOCK]
 ウェブパスワードを受け付けました。
 この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
+Chatty Old Manの話をよく聞いてください。
 
 [ENDBLOCK]
 notice
@@ -285,7 +281,7 @@ notice
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 ウェブサイトで入力する
 ゲームパスワードを忘れてしまったら、
@@ -306,727 +302,740 @@ notice
 notice
 [ENDBLOCK]
 ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
+ゲームパスワードを忘れた場合はChatty Old Manに
 話しかけて、連動ID・ゲームパスワードの
 確認の項目を選択してください。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 仲間たちの普段では見られない姿を、
 見る事ができるかもしれないぞ。
 
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
-[ENDBLOCK]
-コミュニ爺
-[ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
-
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+You must be the community Grandpa.
+Please take care of them.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Hmm. Contact with with people is a
+once in a lifetime experience.
+Cherish it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+He means, socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thanks!
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-あ、あの時の！
+Oh, that time!
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-前に、あの女の子みたいな
-お兄ちゃんに怒られたんだけど、
-覚えてないかな？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-あー、あの時のー、
-元気ー、だったー？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-覚えてないでしょ……
+I was angry with that girly brother
+of yours before, don't you remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやー、そんな事ー……
+Oh...Yeah. How are you?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+You don't remember do you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……ごめんなさい。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-別にいいよ。
-でもさ、あの女の子みたいな
-お兄ちゃんはどこ？
+Ah, no...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えっと……
+...I'm sorry.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-お礼言いたいんだ！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-お礼？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お兄ちゃんに言われた通りに
-僕が変わったら、お父さんも
-変わったんだ！
+I don't mind. But where's that
+girly brother of yours?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ねえ、君はお父さんの事
-好き？
+Let's see...
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-うん、僕自身が大人に
-なったつもりでいたらさ。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お父さんの頑固なところも
-なんだか可愛く見えてきたよ。
+I just wanted to say thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、あいつはいないけど、
-今のを聞いたらきっと喜ぶと思うよ。
+Thank you?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-素直には喜びそうにも
-ないように見えたけどね。
+When I changed like my
+brother told me to, my
+father changed too!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よく、一度会っただけで
-<Lion>の性格を見抜いてるね……
+Hey, do you like your dad?
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-それじゃ、もしあのお兄ちゃんに
-会ったらこれを渡しておいて！
+Yeah, if I thought as
+an adult myself.
 [ENDBLOCK]
-子供
+Child
 [ENDBLOCK]
-じゃあね～。
+Even my father's stubbornness
+is starting to look kind of cute.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+He's not here right now, but 
+I'm sure he'd love to hear
+what you just said.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+It didn't look like he was going
+to be honestly happy about it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+How can you see through <Lion>'s
+personality after just one meeting?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Well then, if you see that brother
+of yours, give him this!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Bye~.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>うらに回ってね！
+<TAG_005>Go around the back!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>アクアヴェイルの言葉では
-シデンは「紫電」と書くようだ。
+<TAG_005>In Aquaveil's language. Sheeden 
+seem to be written as "Shiden".
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おまえら、見慣れない格好だな？
-さては密入国者か？	まさかな！
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-ロープを探してるだって？
-ちょっと思いあたらねえな。
+You're looking for a rope?
+I have no idea.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おまえら、見慣れない格好だな？
-さては密入国者か？	まさかな！
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よう！	ここはアクアヴェイルの、
-シデン領だ。
+Hey! This is Sheeden
+territory in Aquaveil.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-ここはシデン領……
-なあ、一体何が起こってるんだ？
+This is Sheeden territory... 
+Hey, what the hell is going on?
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-これは三番目の若！
-お元気そうで何よりです。
+This is the third youngest!
+I'm glad to see you are well.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-おお、あなたが！
-若のご友人ですか！
+Oh, it's you! You're the
+young one's friend!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-よろしくお願いします、若！
+Nice to meet you, young man!
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-皆さん、この世界を
-どうかよろしくお願いします。
+Everyone, please take
+care of this world.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-寄ってってくれ、見てってくれ！
+Come on by and take a look!
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-ロープ？	うちにないよ。
+Rope? We don't have any.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-うちにあるのはこんなとこだね。
+This is what we have.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-寄ってってくれ、見てってくれ！
+Come on by and take a look!
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-今のところ商売に影響はないよ。
+So far, it hasn't
+affected my business.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-だんだん仕入れが難しくなってる。
-買うなら今のうちだよ。
+It's getting harder and harder to
+stock up. If you want to buy one,
+now is the time.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-装飾によし、実用によし。
-宝石はいかがですか？
+Good for decoration, good for 
+practical use. How about jewelry?
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-うちは装飾屋ですからね。
-ロープはありません。
+We are an Accessory Shop,
+We don't have Rope.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-それよりも宝石見てってください。
-
+More importantly, take a
+look at the jewelry.
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 [ENDBLOCK]
-装飾によし、実用によし。
-宝石はいかがですか？
+Good for decoration, good for 
+practical use. How about jewelry?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-ロープですと？
-
+Rope?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-すみませぬが、他を
-当たって下され。
+I'm sorry, but you'll 
+have to look elsewhere.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-逆境など物ともしない、
-それがシデンの民の心意気ですぞ。
+That is the spirit of the people 
+of Sheeden, who are not afraid 
+of adversity.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-ロープですと？
-
+Rope?
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-すみませぬが、
-他を当たって下され。
+I'm sorry, but you'll
+have to look elsewhere.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-品揃えには自信がありますぞ。
+I'm confident in our selection.
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
-逆境など物ともしない、
-それがシデンの民の心意気ですぞ。
+That is the spirit of the people
+of Sheeden, who are not afraid
+of adversity.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-モリュウ領には黒十字艦隊っていう、
-かっこいい海軍があるんだぜ！
+The Moreau territory has a cool navy
+fleet called the Black Cross Fleet!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お父さんと洞窟の近くで魚釣りしていたら
-モンスターに襲われたんだ。
+My father and I were fishing near a 
+cave when we were attacked by a 
+monster.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-どうにか逃げたんだけど、そのあと
-体が痺れて、帰ってくるのが大変だったよ。
+I managed to escape, but afterwards
+I was so numb, it was hard to come
+back.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-モリュウ領の<Fayte>さまが、
-悪い奴に捕まってたんだって？
+I heard that Lord <Fayte> of the Moreau
+territory was captured.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-この間<Johnny>さまに、シデン領でも
-艦隊を作ってくれって頼んだんだ。
+The other day I asked <Johnny> to 
+build a fleet in Sheeden as well.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-空から変な声が聞こえてきたのは、
-せいんがるどのしわざって、本当？
+I heard a strange voice in the sky.
+Is it true, this is the work of 
+Seinegald.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-<Johnny>さま！	おねがいだよ。
-なんとかしてくれよ！
+<Johnny>! I'm begging you.
+Do Something for me!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-おねがいだよ。
-なんとかしてくれよ！
+I'm begging you, do
+something for me!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-さすが<Johnny>さま！
-なんとかしてくれるって思ったよ。
+You're the man, <Johnny>! I knew
+you'd do something about it.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-さすが<Johnny>さまのお友達だ！
-なんとかしてくれるって思ったよ。
+You're the man, <Johnny>! I knew
+you'd do something about it.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-もっと楽しい事ないかしら。
+I wonder if there are 
+more fun things to do.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-私、石蹴り大好き少女よ。
+I love some hopscotch.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-世界が変わってしまっても、
-この楽しさをみんなに教えているの。
+Even if the world changes, I'm 
+showing everyone this game.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-街の近くに落ちてる石を
-ひたすら蹴り続けるの！
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-私、石蹴り大好き少女よ。
+I love some hopscotch.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-この楽しさをみんなに
-教えているの。
+I'm teaching everyone this game.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-街の近くに落ちてる石を
-ひたすら蹴り続けるの！
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、まずは３２回以上だからね。
+Well, first of all, it's
+more than 32 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、６４回以上だからね。
+Well, it's more than 64 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、９６回以上だからね。
+Well, it's more than 96 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、１２８回以上だからね。
+Well, it's more than 128 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、１６０回以上だからね。
+Well, it's over 160 times.
 [ENDBLOCK]
-若い女の子
+Little Girl
 [ENDBLOCK]
-んとね、これからはずっと
-４８回以上でいいからね。
+Well, from now on, it's okay
+to have more than 48 times.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-街の南に洞窟があるが、
-軽い気持ちで入らないほうがいいぜ。
+There is a cave south of the city,
+but don't enter it lightly.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-地盤は緩いし、モンスターは多いし、
-下手すると二度と出てこられないぞ。
+The ground is loose, there are a lot 
+of monsters, and if you're not
+careful, you'll never come out again.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-街の南に洞窟があるが、
-軽い気持ちで入らないほうがいいぜ。
+There is a cave south of the city,
+but don't enter it lightly.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-……ロープねえ。
-
+...Rope.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-港だったらあるんじゃないか？
-
+If it was a port,
+it would be there.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-街の南に洞窟があるが、
-軽い気持ちで入らないほうがいいぜ。
+There is a cave south of the city,
+but don't enter it lightly.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-地盤は緩いし、モンスターは多いし、
-下手すると二度と出てこられないぞ。
+The ground is loose, there are a lot 
+of monsters, and if you're not
+careful, you'll never come out again.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-街の南に洞窟があるが、
-軽い気持ちで入らないほうがいいぜ。
+There is a cave south of the city,
+but don't enter it lightly.
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-街の南にある洞窟、
-モリュウ領とつながってるんだって？
+The cave south of the city, Is it
+connected to the Moreau territory?
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-空にできてる網目……
-あの変な放送と関係あるんだよな？
+It has something to do with the
+mesh... that's forming in the sky
+and that weird broadcast, right?
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-空を天井で覆いつくすのに、
-どれくらいの土砂がまき上げられた？
+How much land was pulled up to
+cover the sky with a ceiling?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Hmm? You don't have a
+copy of Definite Warfare?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+I think you've leveled up
+enough. I'll give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the "Definite Strike" 
+linkage that is effective against
+monsters.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
-
+You can perform a Definite Strike by
+setting "Definite Strike" to "ON" from
+the Custom menu in the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's 
+Definite Strike in the Monster Book
+if Definite Strike is "ON".
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+Hmm? I've got nothing
+more to give you.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-へえ、ここがシデン領か。
-建物の形が変わってるなあ。
+Hone your ability a bit more then
+come back and speak with me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さて、いつものように、
-オベロン社の支部へ行くんだろ？
+Wow, this is Sheeden? The buildings
+are all so different.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Welp, should we go look for this
+area's branch of Oberon Company
+just like always?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そんな物はない。
+We won't be doing that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-鎖国体制の国だって言ったでしょ。
+It has a national isolation
+policy, remember?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ちなみにストレイライズ神殿も、
-ありませんわ。
+Incidentally, there isn't
+a Straylize Temple, either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だったらどうするんだ？
+Well then, what do we do now?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしと<Mary>で、
-様子見がてら聞き込みをしてくるわ。
+<Mary> and I will hang around and
+try to scout out some information.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたたちは、この辺に隠れてて。
+You guys lay low in this area.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ふたりで大丈夫か？
+Will you be okay if
+it's just you two?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふたりだから大丈夫なの。
-全員でゾロゾロ動いたら目立つでしょ。
+We'll be okay because it's just us
+two. We'll be too conspicuous if
+we all try to go together.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>たち、遅いな……
+<Rutee>'s not back yet...
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-女の人
+Woman
 [ENDBLOCK]
-<Tiberius>が、
-モリュウを武力制圧したって？
+<Tiberius> carried out the military
+suppression of Moreau?
 [ENDBLOCK]
-モリュウ港が封鎖されちまったよ。
-お陰でこっちは、商売上がったりさ。
+The Moreau port has been blockaded.
+Business is going to plummet because
+of that.
 [ENDBLOCK]
-<Tiberius>の奴、よその国から、
-参謀を呼び寄せたそうだな。
+It seems <Tiberius> called in an
+outsider as his military advisor.
 [ENDBLOCK]
-聞いたよ。
-グレ……なんとかって奴だろ。
+I've heard about that. His name
+was Ly... something.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum>か！
+<Greybum>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-しっ！	静かにせんか！
+Shh! Be quiet!
 [ENDBLOCK]
-うちの三番目の若が、
-モリュウへ向かったって噂もあるが……
+There are also rumors that the Third
+Prince is heading toward Moreau.
 [ENDBLOCK]
-ただの見物じゃないか？
-あの人、どうしようもない道楽者だしさ。
+Isn't he just sightseeing as usual?
+That helpless libertine.
 [ENDBLOCK]
-昔は聡明な方だったんだがなあ。
+He used to be a sensible person.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-どうやら知りたかった情報が、
-手に入ったようだな。
+It's possible that we've obtained
+the information we wanted.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum>はここにいないのか。
-モリュウ領へ行くしかないな。
+So <Greybum> isn't here. We should
+go check out Moreau.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-でも、どうやって……？
-港が封鎖されては、船が使えませんわ。
+But how...? If the ports are
+closed, we can't use a ship.
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
-男性ふたりに女性ひとり。
-あなた方が例の助っ人ですね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-は？
-[ENDBLOCK]
-さっそくモリュウ領へ向かってください。
-若にも連絡は行っています。
+Two men, one woman. You
+lot must be the backup.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あの、誰かと間違ってませんか？
+Huh?
 [ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-いかにも僕たちが、その助っ人だ。
-モリュウ領へはどう行けばいい？
-[ENDBLOCK]
-海底洞窟を通ってください。
-入り口は街を出た南にあります。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-そうか、わかった。
-[ENDBLOCK]
-洞窟内には地盤の脆い所があります。
-注意してください。
-[ENDBLOCK]
-凶悪なモンスターも生息しています。
-長居はしませんよう。
+Please go to Moreau at once. I will
+also contact the young Prince.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-明らかに人違いされてたけど……
+Umm, aren't you mistaking
+us for someone else?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-勝手に向こうが勘違いしただけだ。
+Indeed, we are the backup. What's the
+best way to get to Moreau?
+[ENDBLOCK]
+You can use the sea cave. There's an
+entrance to it to the south of town.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Right, got it.
+[ENDBLOCK]
+The floor of the cavern is very
+brittle. Please take caution.
+[ENDBLOCK]
+There are terrible monsters living
+there, as well. Be sure not to stay
+there too long.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You just let him mistake
+us for someone else...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+He's the one who so
+carelessly mistook us.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ただいま。街の人に話聞いてきたわよ。
-<Greybum>はモリュウ領にいるみたい。
+We're back. We heard some things
+from the townspeople. It seems 
+like <Greybum> is in Moreau.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-知っている。
+We know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でね、そのモリュウ領なんだけど、
-武力制圧されちゃったらしいの。
+Well then, apparently Moreau's
+under military suppression.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、もう聞いた。
+Yeah, we heard that too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあさ、若って知ってる？
-この人が今、モリュウ領に。
+W-well, do you know about the 
+Prince? He's in Moreau right now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-存じておりますわ。
+Yes, we know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ<Mary>。あたし今、無性に、
-バカヤローって叫びたい気分だわ。
+Hey <Mary>, I have this overwhelming
+urge to scream at these dumbasses.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-つきあうぞ。
+I'll follow your lead.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと海底洞窟へ向かうぞ。
-入り口は、街の南だ。
+We should head for that sea cave.
+The entrance is south of town.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はいはい。わかりました。
+Yeah, yeah, whatever.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ロープのありそうな場所を
-手当たり次第に当たるぞ。
+We're going to hit any 
+place we can find a rope.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえたち、ぐずぐずするな。
+Don't dawdle, you two.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-は、はい。
+Ha, yes.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xF0><x80></color>が
+<TAG_007><S03><turquoise><TAG_013b></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the party.
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
@@ -1034,7 +1043,7 @@ notice
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-パーティに復帰しました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><xE0><x00><x80><x18><x65><x58><xE4><x00><x80>
 [ENDBLOCK]
@@ -1042,9 +1051,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xF0><x80></color>が
+<TAG_007><S03><turquoise><TAG_013b></color> 
 [ENDBLOCK]
-パーティから抜けました。
+has left the party.
 [ENDBLOCK]
 <x18><x65><x58><xE0><x00><x80><x18><x65><x58><xE4><x00><x80>
 [ENDBLOCK]

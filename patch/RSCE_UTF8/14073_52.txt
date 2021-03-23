@@ -180,19 +180,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 空
 [ENDBLOCK]
-<grey1>空（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
 外殻
 [ENDBLOCK]
-<grey1>外殻（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
 雲１
 [ENDBLOCK]
-<grey1>雲１（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
 雲２
 [ENDBLOCK]
-<grey1>雲２（存在しません）<x05><x3C><x54><x41><x47>_007>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
 オブジェクト選択
 [ENDBLOCK]
@@ -463,307 +463,316 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-あれ、どうしたの<Johnny>兄ちゃん。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-聞きたい事があるんだが、
-昔、君に楽器をあげたか？
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-うん、もらったよ。
+Hey, what's up, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-すまないが、それを返して欲しいんだ。
+Let me ask you something. Did I give
+you an instrument a long time ago?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-うん、いいよ。
-でも、もうないよ。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-どういう事だ？
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-モリュウのお友達にあげちゃった。
+Yeah, you did.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-一体、誰にあげたんだ？
+I'm sorry, but I need that back.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-忘れちゃったよ。
+Yeah, okay.
+But it's gone.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-友達なんだろ？
+What do you mean?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お父さんとお母さんとモリュウに
-行った時に、一回会っただけだもん。
+I gave it to a friend in Moreau.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Who the hell did you give it to?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I've forgotten.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+He's your friend, right?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I only met him once when I went
+to Moreau with my mom and dad.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃあ、モリュウ領へ
-行ってみましょう。
+Then let's go to the
+Moreau territory.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ああ、そうしよう。
+Yeah, let's go.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-さっさとその道化姿を、
-封印してください、<Johnny>様。
+Please seal up your clownish
+appearance, <Johnny>.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-私たちの歴史は封印されて
-しまうのでしょうか？
+Will our history be sealed?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-何を言っているんだ。
-俺たちに任せておけば……
+What are you talking about?
+We'll take care of it...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、この鳥はどうしたんですか？
+Hey, what's wrong with this bird?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-空の大地が出来てから、
-小動物は、特に長く生きられません。
+Since the creation of the land in
+the sky. Small animals do not live
+particularly long.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-この子は翼に怪我もしていますし、
-もう空を飛ぶ事もできません。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-かわいそう……
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-そうね……
+She has an injured wing
+and can no longer fly.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-このままだと、この鳥は
-死んでしまうんですか？
+Poor thing.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-それはわかりません。空を飛ばなくても
-生きていけるかもしれません。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-鳥が飛ばずに生きていける？
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-例えば、私が家に連れ帰って、
-面倒を見るとかね。
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-そうすれば、この子は生きるために、
-空を飛ぶ事をやめるでしょう。
+Right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-けど、それって鳥の生き方とは、
-思えません。
+If I don't, will 
+this bird die?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-本当にそう？	人間だって少なからず
-生きていくために、考えを変える事が
-あるはずよ。
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-ですよね、<Johnny>様。
+I don't know about that. You may
+be able to live without flying.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……さて……ね。
+How can a bird live without flying?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-私ぐらい長く生きていると、
-若い命は、ただ生きていてくれるだけで、
-嬉しいものなのよ。
+For example, I could take her
+home and take care of her.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-別にいいんだよ。人に迷惑かけても、
-自分に嘘ついても。
+Then this child will stop
+flying in order to live.
 [ENDBLOCK]
-おばあちゃん
+<Stahn>
 [ENDBLOCK]
-私はそう思いますからね、<Johnny>様。
+But I don't think that's the
+way a bird should live.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Are you sure about that? I'm sure 
+people change their minds more than
+a little in order to stay alive.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+That's right, 
+Mr. <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……なるほど、ね。
+...Well...
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-はい。そうですよ。
+When you've lived as long as I have,
+young life is a joy just to be alive.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+It's okay. It doesn't matter if 
+you cause trouble for others
+or lie to yourself.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Because I think so, Mr. <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……感謝するぜ。
+...I see.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Yes. That's right.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+...Thanks, man.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>シデン漁業組合共同倉庫につき、
-関係者以外の立ち入りを禁止します。
+<TAG_005>The Sheeden Fishermen's union 
+warehouse is closed to the public.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-みんな三番目の若を悪く言うけど、
-ぼくはあの人の事、大好きさ。
+Everyone says bad things about the
+third young man, but I love him.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-三番目の若が、モリュウ領で
-大活躍したんだってさ。
+I heard that the third youngest was
+very active in the Moreau territory.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-最近、三番目の若の評判がいいんだ。
-ぼくも嬉しいよ
+The third youngest has been getting
+good reviews lately. I'm glad too.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お空に浮かんでる世界にも、
-誰か人が住んでるのかな？
+I wonder if there are people living
+in the world floating in the sky.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お空の天井って、
-堕ちてきたりしないのかな？
+Doesn't the ceiling 
+of the sky fall down?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-若、ぼくもレンズを集めたよ。
-えらい？	えらい？
+Young, I collected lenses,
+too. Great?	Great?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ぼくもレンズを集めたよ。
-えらいでしょ！	えらいよね！
+Young, I collected lenses,
+too. Great?	Great?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領からの物資が届かないんだ。
-何かあったのか？
+We haven't received any supplies
+from the Moreau territory. What's wrong?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-港の事なら、船の前にいる
-船員に聞きな。
+If you want to know about the port, ask
+the sailors at the front of the ship.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領からの物資が届かないんだ。
-何かあったのか？
+We haven't received any supplies
+from the Moreau territory. What's wrong?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領から船が来るようになった。
-これで一安心だな。
+Ships are now coming from Moreau
+territory. It's such a relief.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これからは領海内だけでなく、
-外海へも積極的に出て行かないとな。
+From now on, we need to be proactive
+not only in our territorial waters,
+but also in the open sea.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-空の網目、外殻と言うらしいな。
-なんだか、建物らしき物もあるが……
+I've heard it called the net of the
+sky, the outer shell. There's also
+something that looks like a building.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-このところ、モンスターの襲撃が増えた。
-これも空の上にいる連中のせいか？
+The number of monster attacks has 
+increased recently. Is this also 
+the fault of those in the sky?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今こそシデン、モリュウ、トウケイの
-総力を結集しないとな！
+Now is the time we need the 
+combined strength of Sheeden,
+Moreau and Toukei!
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-モリュウ領へもトウケイ領へも、
-今は船を出すなとのお達しだ。
+We've been ordered not to send 
+any ships to Moreau or Toukei 
+territory at this time.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-ロープを探しているだって？
+You're looking for a rope?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-漁業組合の倉庫に転がってると
-思うけど……
+I think they're lying around in
+the Fishermen's union warehouse. 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-領主様のお許しがないと
-貸し出せないよ。
+I can't lend it out without
+my lord's permission.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-モリュウ領へもトウケイ領へも、
-今は船を出すなとのお達しだ。
+We've been ordered not to send 
+any ships to Moreau or Toukei 
+territory at this time.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-船に乗るのか。どこへ行きたい？
+You're going on the ship. Where
+do you want to go?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-潮風が心地いいですのう。
-モリュウを思い出しますじゃ。
+The sea breeze is soothing.
+It reminds me of Moreau.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-<Fayte>様と<Johnny>様のお陰か、
-各領間の風通しもよくなりましたの。
+Thanks to Mr. <Fayte> and <Johnny>,
+there has been a better communication
+between the various territories.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-大変な事態になりましたのう。
-領主様はどうするおつもりなのか……
+It's a terrible situation.
+What does the lord intend to do?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-もう終わりなんですかのう……
+Is it over yet?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-<Johnny>様……どうか頼みます。
-世界にもう一度、輝きを。
+Johnny, please help me.
+Let the world shine once again.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-どうか頼みます。
-世界にもう一度、輝きを。
+I beg you. Let the
+world shine once more.
 [ENDBLOCK]
 <TAG_031>
 

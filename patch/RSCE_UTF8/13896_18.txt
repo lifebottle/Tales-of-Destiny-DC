@@ -2,28 +2,28 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おま<x99>
+
 [ENDBLOCK]
-<xAF>のバカ力でどうにかしろ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-わかった、任せろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+Alright, leave it to me! 
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
