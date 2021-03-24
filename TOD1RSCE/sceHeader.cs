@@ -72,34 +72,78 @@ namespace sceWork
                 fileStrings[index].ReadData(sfa, sizes[index]);
         }
 
-        public void WriteStrings(StreamFunctionAdd sfa)
+        public void WriteStrings(StreamFunctionAdd sfa, bool dedup = false)
         {
             sfa.PositionStream = offsetStrings;
             sfa.LengthStream = offsetStrings;
+            long realPos = 0;
+            bool matched = false;
             for (int index = 0; index < fileStrings.Count; ++index)
             {
-                fileStrings[index].WriteData(sfa);
+                if (dedup)
+                {
+                    for (int index1 = index - 1; index1 >= 0; --index1)
+                    {
+                        if (index == 0) break;
+                        if (fileStrings[index].data.Count == fileStrings[index1].data.Count)
+                        {
+                            if (System.Linq.Enumerable.SequenceEqual(fileStrings[index].data, fileStrings[index1].data))
+                            {
+                                realPos = sfa.PositionStream;
+                                fileStrings[index].offset = fileStrings[index1].offset;
+                                matched = true;
+                                break;
+                            }
+                        }
+                    }
+
+                    if (!matched)
+                        fileStrings[index].WriteData(sfa);
+                }
+                else
+                {
+                    fileStrings[index].WriteData(sfa);
+                }
+
                 if (index > 0)
                 {
                     uint num1 = fileStrings[index].offset - offsetStrings;
                     sfa.PositionStream = fileStrings[index].myOffset - 1U;
-                    if (num1 < 0x10)
+                    if (num1 < 0x10 && fileStrings[index].typeOffset == sceStrings.OffsetType.ShortOffset)
                     {
                         byte num2 = (byte)(0x10 + num1);
                         sfa.WriteByte(num2);
                         sfa.WriteByte(0);
                     }
-                    else if (num1 < 0x1000)
+                    else if (num1 < 0x1000 && fileStrings[index].typeOffset == sceStrings.OffsetType.MediumOffset)
                     {
                         byte num2 = (byte)(0x50 + (num1 >> 8));
                         sfa.WriteByte(num2);
                         byte num3 = (byte)(num1 & byte.MaxValue);
                         sfa.WriteUInt16(num3);
                     }
-                    else if (num1 > 0xFFF)
+                    else if (num1 < 0x10000 && fileStrings[index].typeOffset == sceStrings.OffsetType.LargeOffset)
                     {
                         sfa.WriteByte(0x90);
                         sfa.WriteUInt16((ushort)num1);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Can't fit desired pointer in the available space...");
+                        Console.WriteLine("- Failed at line: " + index);
+                        Console.WriteLine("- Intended offset: " + num1);
+                        Console.WriteLine(string.Format("- Position: 0x{0:X6}", fileStrings[index].offset));
+                        Console.WriteLine("- Pointer type: " + fileStrings[index].typeOffset);
+                        Console.WriteLine("Leaving as-is...");
+                        //Console.ReadKey();
+                        //throw new InvalidOperationException();
+                    }
+
+                    if (matched)
+                    {
+                        sfa.PositionStream = realPos;
+                        matched = false;
+                        continue;
                     }
                     sfa.PositionStream = sfa.LengthStream;
                 }
