@@ -83,97 +83,100 @@
 おまえら、あやしいな。
 
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-まさか王国反対派の義勇軍か!?
+No way!
+Is there an army of volunteers
+against the kingdom?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-さすがに<Queen>を連れて、国境を
-越えるのは難しいと思います。
+As expected, it would be difficult
+to cross the border with the <Queen>.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-怪しい一団が街の西へと去ったという
-情報がありましたが……
+There was a report that a suspicious
+group had left west of the city...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お后様にくれぐれも失礼のないよう、
-お願いいたします。
+Please, do not be disrespectful 
+to the Queen.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お后様は今回の一連の出来事に、
-深くお心を悩ませておいでです。
+The Queen is deeply troubled
+by this series of events.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-私にお后様をお慰めする事が、
-できればいいのですが……
+I wish I could confort the Queen.
+I wish I could...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お后様は皆様のお働きに、
-期待しておられます。
+The Queen is pleased with your work.
+She's counting on you.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お后様は皆様のご活躍を、
-とてもお喜びになっておられます。
-[ENDBLOCK]
-<Queen>
-[ENDBLOCK]
-<Lion>、あなたの働きを、
-常々嬉しく思っていますよ。
+The Queen wishes you all the best.
+She is very happy.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-陛下もことのほかお喜びです。
-これからも励みなさい。
+<Lion>, I've always been pleased
+with your work.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-どのような形にしろ
-あなたたちの働きに期待していますよ。
+His Majesty was extremely pleased.
+Keep up the good work.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-あなたたちも
-辛いお気持ちでしょうね。
+I'm counting on you guys
+to do a great job.
+Whatever form it takes.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-……このような形で、
-期待を裏切られるとは……
+I'm sure it's hard
+on you, too.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-<Hugo>は初めから、
-こうする事が目的だったのですか？
+... I never expected to be
+disappointed in this way...
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-セインガルドはどうなるのでしょう……
+Was <Hugo> intended to do this
+from the beginning?
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-皆、どうか頼みましたよ。
+What will happen to Seinegald...
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-いよいよ最後の決戦ですね。
-勝利を信じておりますよ。
+Please, I'm begging you all.
+[ENDBLOCK]
+<Queen>
+[ENDBLOCK]
+It's time for the final showdown.
+We believe in your victory, sir.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -191,7 +194,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -199,7 +202,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA0><x00><x80></color>を取得しました。
 
@@ -317,7 +320,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x80><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x80><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

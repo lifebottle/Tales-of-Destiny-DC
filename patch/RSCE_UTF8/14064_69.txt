@@ -460,7 +460,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 <Johnny>の母
@@ -684,96 +684,97 @@ notice
 <TAG_005>アクアヴェイル独特の
 建造物だ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ここはシデン家の方々のお屋敷よ。
-道なりに行けば港か、街の外に出るわ。
+This is the residence of the
+Shiden family. Follow the road
+to the port or leave the city.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 モリュウ領もトウケイ領も、
 まだ混乱から抜け切れていないわ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 こんな時こそ、シデン家の方々の
 政治手腕が期待されるわね。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 天地戦争……嫌な言葉ね。
 誰がそんなものを望むというの？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 このままでは、地上の未来は
 絶望的ね……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 シデン領のレンズは、シデン家の方が
 集めて、トウケイ領へ運びました。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
-詳しい事は不明だが、
-モリュウ領で不穏な動きがあるそうだ。
+I heard there's been some weird 
+going-ons in the Moreau Territory.
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 困っているなら、
 領主様を訪ねてみるといいかもな。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 詳しい事は不明だが、
 モリュウ領で不穏な動きがあるそうだ。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 モリュウ領の騒動の件、
 いつの間にか皆知っているな。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 アクアヴェイル統一の機運が、
 このところ高まっているらしい。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 シデン家とモリュウ家が乗り気なんだ。
 実現の可能性は高そうだな。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 この騒ぎで、せっかく兆した統一の話も
 吹っ飛んだみたいだ。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 若、こんなところで何を？
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 はっきり申し上げてしまえば……
 
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 頭がどうにかなってしまいそうなほど、
 私は今この状況が恐ろしい！
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 若はシデン領の代表として、
 世界中を駆け回っているそうですね。
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 おみそれいたしました！
 さすが、シデン家の方はすごい！
 [ENDBLOCK]
-警備兵
+Soldier
 [ENDBLOCK]
 若やみなさんの活躍を見ていると
 とても勇気付けられます！
@@ -797,7 +798,7 @@ notice
 [ENDBLOCK]
 若、こいつらをどうにかして下さい。
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 あ、ああ……
 おまえたちに任せるよ。
@@ -811,7 +812,7 @@ notice
 こんな奴ら、牢屋にでも
 ぶちこみましょうよ。
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 ま、まあ……
 そこまでしなくてもいいんじゃないか？
@@ -830,11 +831,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013d><x30><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4A><x30><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -852,7 +853,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013d><x30><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x4A><x30><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -860,7 +861,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qJT<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x54><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5A><x50><x00><x80></color>を取得しました。
 
@@ -978,7 +979,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013d><x30><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x4A><x30><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -1060,7 +1061,7 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あれ、お姉さん？
 [ENDBLOCK]
@@ -1074,11 +1075,11 @@ select
 <TAG_007>あたしの顔に何かついてる？
 ははん。綺麗なお姉さんがめずらしいのね
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あのさ、お姉さんって……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 なんだかその……綺麗だね。
 [ENDBLOCK]
@@ -1087,17 +1088,17 @@ select
 な、何よ急に。
 誉めても何も出ないわよ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 お姉さん、前にここに来たでしょ。
 その時の事覚えてるんだけど……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 別の人かと思っちゃうくらい
 表情がすっきりしてるんだもん。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あーー分かった！
 気になる人でも出来たんでしょ！
@@ -1107,7 +1108,7 @@ select
 な、何を考えてるのよ。
 最近の子はまったく。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あれ？	違うのかな？
 [ENDBLOCK]
@@ -1115,11 +1116,11 @@ select
 [ENDBLOCK]
 ん？	何が？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 ううん、何でもないの。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あれ、<Johnny>さま？
 [ENDBLOCK]
@@ -1132,7 +1133,7 @@ select
 <TAG_007>どうした？
 どうされました、お姫さま？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 <Johnny>さま、なんだか前と
 違う人みたい。
@@ -1141,7 +1142,7 @@ select
 [ENDBLOCK]
 どうしてそう思うんだい？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 うーーん、私よくわかんない。
 [ENDBLOCK]
@@ -1150,7 +1151,7 @@ select
 はっはっは。
 そいつは困ったな。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 そうだなぁ、なんかねぇ、
 <Johnny>さまが本当に笑ってる感じなの。
@@ -1159,16 +1160,16 @@ select
 [ENDBLOCK]
 どういう事だい？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 前の<Johnny>さまも楽しくて
 面白かったけど。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 でも、なんだかそれだけって言うか……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 ……怒った？
 [ENDBLOCK]
@@ -1176,11 +1177,11 @@ select
 [ENDBLOCK]
 いいや、君は素直でいい子だな。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 うん！
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 きゃははは。
 私、お姫さまじゃないよー。
@@ -1190,7 +1191,7 @@ select
 今、そうだとしても
 未来は分からないだろ？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 もう、そうやっていつも
 女の人に声かけてるんでしょ！

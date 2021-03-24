@@ -10,60 +10,12 @@ https://www.youtube.com/watch?v=FyYQGVAKSUc
 Documentation:  
 https://sites.google.com/view/toddc-resources
 
-Spreadsheet with HEX to Symbol Mapping:  
-Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
-Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
-Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
-Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbNZ_CG-l09p95RJYBFwalE  
-Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNHZuO6rENCKBs1I9GVVA  
-Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
+# Translation of the menu
+You can find all the information for Menu translation here : https://sites.google.com/view/toddc-resources/menu-translation
 
 Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).  
 
-# SLPS_258.42
-Artes, Items and some other stuff are uncompressed in the **SLPS_258.42** file.  Use a hex editor to find what you need.  This should be good enough for a menu patch.  
-
-Offset   | Data                      | Notes
----------|---------------------------|------------------
-00199900 | Character Names           | 50%
-0019A190 | Chapter Titles            | 0%
-0019AC90 | Movie Subtitles           | 50%
-0019B110 | "notice" dialogs          | 20%
-0019B370 | Support Abilities         | No Descriptions
-0019BA10 | Game Over dialog          | 0%
-0019BDC0 | Menu bar buttons          | Done
-0019C1A0 | New Game Menu             | Done
-0019C380 | Director's Cut Artes      | No Descriptions
-0019C630 | Blast Calibers            | No Descriptions
-0019D350 | Spells / Artes            | No Descriptions
-001A0FD8 | Strategy                  | Done
-001A1A78 | Gauntlet Effects          | 0%
-001A1BA8 | Special Effects           | Done
-001A2858 | Locations                 | 0%
-001A50B0 | Attribute, Enemy Type     | Done
-001A5330 | Special Weapons (dup?)    | 0%
-001A5EF0 | World Map Locations       | 0%
-001A6870 | Locations, Map Book       | 0%
-001A7870 | Discovery Points          | 0%
-001AB578 | Menu bar buttons          | Done
-001AB680 | Top Menu                  | Done
-001AB970 | Rerise Tutorial           | 0%
-001AC050 | S. Device Tutorial        | 0%
-001AC530 | Items - Materials         | No Descriptions
-001AD750 | Items - Sellable          | No Descriptions
-001ADD80 | Items - Spheres           | No Descriptions
-001AE1A0 | Items - Misc.             | No Descriptions
-001AFD10 | Accessories               | No Descriptions
-001B0AF0 | Weapons                   | No Descriptions
-001B2D40 | Armor                     | No Descriptions
-001B5F20 | Unique Equip              | No Descriptions
-001B8408 | Food                      | No Descriptions
-001BA220 | Valuable / Key Items      | No Descriptions
-001BB0A0 | Meal Collaboration?       | No Descriptions
-001BB920 | Food Effects              | Done
-001BBC00 | Titles                    | No Descriptions
-001BF2F0 | Item Categories           | Done
-
+Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
 
 # Stahn's Side
 The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx.rsce  
@@ -73,21 +25,21 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13559_88  main hall after the start of the game  
 13569_44  draconis kitchen room  
 13564_89  draconis room before sword with screen  
-13563_32 hall outside sword oh! shoot moment  
+13563_32  hall outside sword oh! shoot moment  
 13570_117 sword room draconis  
-13563_32 hall outside sword room Rutee first convo  
-13562_82 draconis helm room  
+13563_32  hall outside sword room Rutee first convo  
+13562_82  draconis helm room  
 13558_61  escape pod room and Start of the game  
 
 ## Chelsea hut's
-13582_61 Chelsea bedroom after draconis  
+13582_61  Chelsea bedroom after draconis  
 13583_76  line 301- Main room chelsea house  
-13586_76 line 201-221  
-13581_54 line 287  outside cabin(text about skit)  
+13586_76  line 201-221  
+13581_54  line 287  outside cabin(text about skit)  
 13592_106 line 285 first conversation with chelsea next to tree  
-13581_54 line 375-415 return of the party to front of chelsea house  
-13583_76 line 301-433 Main room chelsea house  
-13581_54 line419-439 outside cabin  
+13581_54  line 375-415 return of the party to front of chelsea house  
+13583_76  line 301-433 Main room chelsea house  
+13581_54  line419-439 outside cabin  
 
 ## Road to Janos
 13603_53 line 369-437fandaria moutiain trail  
@@ -99,10 +51,10 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13627_84  line 277-1075 upper Town Janos huge dialogue file  
 13629_17  line 15-155 Janos shopping street  
 13639_17  same text than 13629_17 Janos shopping street  
-13634_35 house in janos with 2 npcs  
-13644_35 same has 13634_35 house janos 2 npc  
-13633_34 janos inn  
-13643_26 janos inn same and with different dialogue than 13633_34  
+13634_35  house in janos with 2 npcs  
+13644_35  same has 13634_35 house janos 2 npc  
+13633_34  Janos inn  
+13643_26  Janos inn same and with different dialogue than 13633_34  
 
 ## Janos Temple
 13603_53 line 281-365 trail dialogue mary and stahn  
@@ -111,7 +63,7 @@ The script texts are the **.rsce** files found in TOD_DC/DAT/MGLK/xxxxx/xxxxx_xx
 13656_35 line 13-61 Rutee/stahn/Mary outside dungeon  
 
 ## Back to Janos 
-13627_84  line 911-927  convo front of the gate ( npc line 279-323)  
+13627_84 line 911-927  convo front of the gate ( npc line 279-323)  
 13633_34 line127-271  Conversation in the inn  
 13631_35 line 275-315 bed room inn convo  
 13627_84 line 931-1075 janos north gate rerize tutorial + extraconvo  
@@ -143,7 +95,7 @@ video : https://drive.google.com/file/d/1zH2RUKrYQEaiSfptcoKdOhT5E89Tt81q/view?u
 13882_114 - line 417 Philia walking alone 1:48  
 
 Scene using the pickaxe :  
-Search for ã•ã£ãã?®<ITEM_149>ã‚’ä½¿ãˆã?° in multiple files 3:12  
+Search for ã•ã�?£ã�?ã?®<ITEM_149>ã‚’ä½¿ã�?ã?° in multiple files 3:12  
 13891_109 - line 115 to 359 Room with Clemente 4:46 to 7:06  
 13890_71 - line 27 7:14  
 13882_114 - line 445 7: 20  
@@ -223,6 +175,13 @@ If you see duplicate file you need to do both file if you translate this part or
 - https://hyouta.com/vesperia/
 - https://gamefaqs.gamespot.com/ps2/934092-tales-of-destiny/faqs/47931
 - https://gamefaqs.gamespot.com/ps2/942208-tales-of-destiny-directors-cut/saves
+
+Old spreadsheets for reference only :   
+Menu - Items: https://docs.google.com/spreadsheets/d/1TZJpTIxXZckXoy5GH0FOsn5KSkakDqRzaTpIkEcGB10  
+Menu - Artes: https://docs.google.com/spreadsheets/d/1RMCQqtipVHrf9GM91VIz57tzvcEL3Prow1J0D_O1PPw  
+Menu - Enemy: https://docs.google.com/spreadsheets/d/1ukINdjdGc3kNJCZe0gJYq3_c5n2TAC-hvN18FH3AipY  
+Menu - Pointers: https://docs.google.com/spreadsheets/d/1rErdcmKswMge356yLTQVrbNZ_CG-l09p95RJYBFwalE  
+Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNHZuO6rENCKBs1I9GVVA  
 
 ## Tools
 - https://tales-of-destiny-dc.vercel.app/hexToJpn

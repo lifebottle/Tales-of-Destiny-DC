@@ -1,602 +1,615 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ、あたし？
+This is...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Hugo>の屋敷？
+<Hugo>'s manor？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なぁ、姉ちゃん！
-俺のかばん、知らねぇか？
+Hey, sis!
+Have you seen my bag?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-は？	何で<Lion>、
-あんたがいるのよ!?
+Wha!? <Lion>..!
+You're alive!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何、言ってんだ。姉ちゃん？
+Uh...You ok, Sis?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だってあんたは……
+Then, that means..!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-かあーさーん！
-姉ちゃんがおかしくなったよー。
+Maaa! Sis is
+acting weird...
 [ENDBLOCK]
-クリス
+Kris
 [ENDBLOCK]
-お姉ちゃんがどうしたの？
+Is something wrong?
 [ENDBLOCK]
-クリス
+Kris
 [ENDBLOCK]
-どうしたの、<Rutee>？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-マ、<Marian>さん!?
-[ENDBLOCK]
-クリス
-[ENDBLOCK]
-確かにちょっと変ね、この子。
-それより、仕度は済んだの？
+What's the matter, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-し、仕度？	一体なんの？
+Ma, <Marian>!?
+[ENDBLOCK]
+Kris
+[ENDBLOCK]
+You're a funny girl, for sure.
+Anyway, ready to go?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Go?? Go where??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もー、何言ってるんだよ。
-父さんが、久々に休みを取れんじゃないか。
+Oh come on, you know
+dad finally got some time off.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-みんなでスノーフリア温泉に
-旅行だろ！
+We're taking a trip to
+the Frostheim Hot Springs!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-旅行!?	父さん!?
+Trip!? Dad??
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-どうしたんだい？
+It's something wrong?
 [ENDBLOCK]
-クリス
+Kris
 [ENDBLOCK]
-ほら、あなたものんびりしてないで、
-さっさと仕度して下さい。
-[ENDBLOCK]
-<Hugo>
-[ENDBLOCK]
-なんだい。私だけ仲間外れか？
-父さん、ちょっぴりすねちゃう。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-あはははは。
-[ENDBLOCK]
-クリス
-[ENDBLOCK]
-あはははは。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-な、なんなのよ。コレ!?
-あたし、夢を見てるのね！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-そうよ、これは夢だわ。
-アハ、ハハハハハ。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-何、言ってんだ、変な姉ちゃん。
-でも俺は、そんな変な姉ちゃんも
-大好きだぜ。
-[ENDBLOCK]
-クリス
-[ENDBLOCK]
-<Rutee>ちゃんも、もう立派な女性ね。
-今度、一緒にお買い物に行きましょ。
+Come on, don't be lazy.
+Let's go already!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>は父さんの自慢の娘だ。
-どこにも嫁にはやらないぞ。
-一緒にいておくれ、<Rutee>。
+What? I'm part of the family
+too, don't ignore me!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Hahaha!
+[ENDBLOCK]
+Kris
+[ENDBLOCK]
+Hehehe!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-止めて！	止めて！
+Wh..What's going on??
+A-Am I dreaming??
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしには……
+Yeah, of course it's
+a dream. Ahaha..haha..
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+You're so wierd...
+Still, even so, I love you, sis.
+[ENDBLOCK]
+Kris
+[ENDBLOCK]
+<Rutee>, you've already become
+a wonderful young woman.
+We should go shop together!
+[ENDBLOCK]
+<Hugo>
+[ENDBLOCK]
+I am so proud of you, <Rutee>.
+Don't be in a hurry to marry.
+Stay with us...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしには孤児院のチビたちがいる！
-シスターもいる！
+Stop! Stooop!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>も、<Philia>も、<Woodrow>も、
-<Chelsea>も、<Kongman>も、<Johnny>も！
+I...
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+I've got the kids, and
+the nuns from the orphanage!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+And <Mary>, <Philia>, <Woodrow>,
+<Chelsea>, <Kongman>, <Johnny> too！
 [ENDBLOCK]
 
 [ENDBLOCK]
-……いじょうぶか！
-……<Rutee>……!!
+...ou ok!??
+...<Rutee>...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうよ……それに……
-あいつだって!!
+That's right...
+I...I also have..!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ、あたしは……？
+Huh? What am I..?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ぼーっと、寝ているみたいに、
-ここに立ってたんだよ。
+You were staring off into space
+like you were asleep, or something.
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
-何か夢でも見てたの？
+Were you dreaming?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……うん。
-たぶん弱者の見る夢……
+...Yeah. The dream
+of a wimp, I guess...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お帰りなさいませ、<Lion>様。
+Welcome back.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-ここはヒューゴ様の
-お屋敷です。
+This is Master
+<Hugo>'s residence.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-おはようございます、<Lion>様。
+Good morning.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お気をつけて、<Lion>様。
+Take care of yourself.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お帰りなさいませ、<Lion>様。
+Welcome back.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-ここはヒューゴ様の
-お屋敷です。
+This is Master
+<Hugo>'s residence.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-いらっしゃいませ。旦那様はただいま、
-留守にしております。
+Welcome. The Master
+is currently out of town.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-どうして旦那様が、
-あんなひどい事を……？
+Why did our Master do
+something so horrid..?
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-もうこの屋敷にいても仕方ないわね。
-でも他に行くところはないし……
+We would leave the mansion,
+but there's nowhere else to go...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-<Marian>がひょっこり戻ってきたの。
-どこへ行っていたのかしら？
+<Marian> just showed up,
+I wonder where she went?
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-いらっしゃいませ。何かご用ですか？
+Welcome, sir.
+What can I do for you?
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-……ちゃんとしてないと、
-<Marian>がうるさくてね。驚いた？
+If you don't keep up...
+<Marian> will be very upset.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-いってらっしゃいませ。
-勝利をお祈り申し上げます。
+Have a good day.
+I wish you the best.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-……頑張ってね、応援してるから。
+...I'm rooting for you.
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-<Lion>様は将来、お父様の
-後を継がれないのですか？
+Master <Lion>, will you follow in
+your father's footsteps?
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-さきほど、お城の兵士が来ていましたね。
-本日も任務ですか？
+A soldier came by, earlier.
+Are you on duty again today?
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-ヒューゴ様はお忙しい方ですね。
-めったに会えません。
+Mr.<Hugo> sure is busy, huh?
+I rarely see him.
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-弊社の理念は、お客様の日々の生活の
-良きパートナーたる事です。
+Our goal is to be a good and
+friendly partner to our customers
+in our daily business.
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-会社に軍の取調べが入りました。
-何があったというのでしょう？
+Soldiers keep questioning us...
+What do you think is going on?
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-わ、私は総帥とは無関係です！
-本当に何も知らなかったんです！
+I have nothing to do with the General!
+I really didn't know anything about any of this!
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-オベロン社の関係者と知られれば、
-どんな目に遭わされるかわかりません。
+If they learn I work for
+Oberon, I'm done for...
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-外に出る事もままならず、
-屋敷の中にいるしかないんです。
+I can't even go outside, I have
+to stay inside the mansion.
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-お城の中庭に積みあがったレンズは、
-大半が当社の提供したものです。
+Most of the lens piled up in the
+courtyard of the castle were ours.
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
-今さらそんな事をしても、
-悪くなったイメージは変わりませんが。
+Helping out now won't
+instantly fix our poor image...
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-お帰りなさいませ。坊ちゃん。
-
+Welcome home, Young Master.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-レンブラント爺か。ヒューゴ様は？
-
+Mr. Rembrandt? Where is <Hugo>?
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-旦那様なら、
-二階にいらっしゃいますぞ。
-
+Your father is on
+the second floor.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうか、よし。
-
+I see.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-新たなお役目を仰せつかったそうで。
-近頃とみにご活躍ですな、坊ちゃん。
-
+Seems you've been given
+another mission. You've been
+quite busy, Young Master.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-坊ちゃんはやめろ。
-僕はもう子供じゃない。
-
+Stop calling me that.
+I'm not a child, anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふーん、坊ちゃんねえ。
-
+Hehe, "Young Master", huh?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さすがオベロン社の御曹司様は、
-お育ちがよろしいです事。
-
+I guess the little scion
+gets a special upbringing.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ぎええーーーっ！
-
+GYAAAAA!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-余計な事は口にするな。
-
+You talk too much.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、大丈夫か？
-
+<Rutee>, you OK?
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-お客人、どうか気を悪くされませぬよう。
-
+Honored guests,
+please do not take offense.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-<Lion>様はわざと他人を、
-遠ざけようとする性癖がおありでしてな。
-
+Master <Lion> tends to keep
+others at arm's length.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-来たか。ここで立ち話もなんだ。
-広間へ行こう。
-
+Ah, you're here. Let's not
+stand outside. Come on in.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-おかえりなさいませ。
-お早いお帰りですね。
+Welcome home.
+You're back early.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや、まだ任務の途中なんだ。
+Actually, I'm on my way
+to another assignment.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そうでしたか。それでしたら、
-お茶にいたしましょうか？
+Is that so? Well,
+would you like some tea
+before you go?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ありがとう。でも、すぐに
-出なければならないから……
+Thank you for the offer...
+However, I must depart shortly.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-詳しくは話せないけど、しばらく、
-屋敷には帰ってこれないと思う。
+This is hard to say but...
+I may not be home for a while.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-承知しました。それで、期間は
-どれくらいになりますか？
+I understand. So, then,
+how long will it take?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-分からない。すぐに終わるかも
-しれないし、長くなるかもしれない。
+I don't know.
+It could be over quickly,
+or take a long time.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-顔を上げて元気を出しなさい、
-エミリオ。
+Chin up, Emilio.
+Leave here with a smile.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-え？
+Huh?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-何か嫌な事でもあったのね。
-……それも、お父様の事でしょ。
+Something bad happened, didn't it?
+...It was your father 
+again, wasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-な、何を言うんだ……そんなんじゃ。
+Wh-What do you mean by..?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あなた、小さい時からそうだったわ。
-お父様の事となると、そんな顔をするのだから。
+Ever since you were little,
+whenever you and your father
+argued, you would make that face.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Hugo>様……お父様の名前が大きすぎて、
-嫌な思いも沢山してきたのだろうけど……
+President <Hugo>...your father's name
+carries a great deal of weight.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-それでも、あなたはあなたよ。
+Despite this, you are
+your own person.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Marian>……でも僕は……
+But, <Marian>, I...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……エミリオ、もしも辛い事の方が
-多いのなら……名前を戻してはどう？
+...Emilio, if things
+get too difficult, perhaps
+you could change your name back?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……!!
+....!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何を言うんだ、<Marian>。
-僕は名前を戻すなんて事、絶対にしない！
+What are you saying, <Marian>?
+I could never go back
+to my old name!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ねえ、エミリオ。私はあなたが名前を
-変える決意をした日も憶えているわ。
+You know, Emilio, I still
+remember the day you
+decided to change your name.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-それまでにあなたがどれ程、
-苦しんできたかも……
+As well as how much you had
+suffered up until then..
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あなたはよくやったと思うの。
-だからもう……
+I think you did very well...
+and furthermore...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Marian>、それ以上言わないでくれ。
+<Marian>, please, don't say any more...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ……
+Emilio...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-大丈夫……どうやら僕は自分が
-何をしたいのか、忘れていたみたいだ。
+It's OK...It seems you've
+merely forgotten what
+I wanted to accomplish on my own.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>の息子ではなく、僕が僕で
-ある事を皆に認めさせてやる。
+I will be recognized for
+my own deeds, not
+just as <Hugo>'s son!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そのための……
-<Lion>・マグナスだ！
+That is why...
+my name is <Lion> Magnus!!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-分かったわ。それは誰が決めたでもない、
-あなたの決意なのね。
+I understand. That was nobody's
+decision, nobody's but your own.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-だったら、もううつむいてはダメよ。
-エミリオ、頑張りなさい。
+So again, don't hang
+your head like that.
+Keep your chin up, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そしてつらくなった時は、いつでも泣きなさい。
-そうしたら、きっとまた元気も出るわ。
+And when it gets to be
+too much to keep inside,
+go ahead and cry. You'll
+surely feel better, afterward.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕が、泣くわけなんてないさ……
+Absolutely not!
+I cannot cry like some kind of..!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-うふふふ。
+Heheheh!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ。時間はよろしいの？
+Emilio, you have
+somewhere to be, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ。そろそろ行くよ。
+Ah, right.
+I should go.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-気をつけていってらっしゃい。
+Please be careful,
+and come home safe.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-行ってくるよ、<Marian>。それですぐに任務を
-終わらせて帰ってくる。
+I swear I'll be back, <Marian>.
+The moment my duty is
+completed, I will return.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-それにしても、大きくなったわ……
+Despite everything, he's
+already so grown up...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-時が過ぎるのなんて、早いものね。
+Time certainly passes
+quickly, doesn't it...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-お帰りなさい、エミリオ。
+Welcome back, Emilio.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ただいま、
-<Marian>。
+I'm back,
+<Marian>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-お夕食の準備をしているので、
-もう少し、待っていてね。
+I'm getting ready for dinner.
+Please wait a little longer.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それじゃあ、今度こそ<Marian>も
-一緒に食事をしよう。
+Well then, this time <Marian>...
+Let's have dinner together.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-また、そのような事を言って。
-朝もダメだと、申しあげたでしょう。
+I told you shouldn't be
+saying things like that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-冗談だよ。それじゃあ、
-僕は部屋にいるよ。
+I'm kidding. Well, then.
+I'll be in my room.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-はい。準備ができましたら、
-お呼びします。
+Yes, sir. I'll call
+you when I'm ready.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-うん、頼んだよ。
+Alright, I'm
+counting on you.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-待たせてしまって、
-ごめんなさい。
+I'm sorry it
+took so long.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-朝のうちに、終わらせようと
-思っていた仕事が終わらなくて。
+In the morning, I couldn't
+finish the work I had planned.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-気にしていないよ。
-それに、それほど待っていないさ。
+I don't mind. And didn't
+have to wait that long.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それじゃあ、どこから
-行くんだい？
+So, where are
+we going now?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-まずは、道具屋へ行きましょう。
+First, let's go
+to the tool shop.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x0C><x80><x3C><x2F><x63>olor>が
+<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -614,7 +627,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x0C><x80><x3C><x2F><x63>olor>が
+<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -622,7 +635,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI0<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x30><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x2C><x00><x80></color>を取得しました。
 
@@ -740,7 +753,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><x0C><x80><x99><xD5><x9A>Zーディアンデバイスが
+<TAG_007><x19><x71><x49><x0C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

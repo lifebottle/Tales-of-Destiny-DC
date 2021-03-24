@@ -1,53 +1,52 @@
- mse
-[ENDBLOCK]
-t_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-宿屋
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
 [ENDBLOCK]
-申し訳ございません。本日は、
-予約がいっぱいでございます。
+Innkeeper
 [ENDBLOCK]
-宿屋
+I'm sorry. We are fully
+booked for today.
 [ENDBLOCK]
-そ、外のあれは
-どういう事ですか!?
+Innkeeper
 [ENDBLOCK]
-宿屋
+What's that outside?
 [ENDBLOCK]
-ようこそ、旅の方。
-お泊りですか？
+Innkeeper
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+Welcome, Travelers.
+Would you like a room?
 [ENDBLOCK]
-ごゆっくり。
+ Gald
+Is that okay?
 [ENDBLOCK]
-いつでもどうぞ。
+Take your time.
 [ENDBLOCK]
-いってらっしゃいませ。
+Please come back anytime.
 [ENDBLOCK]
-お金がたりません。
+Have a good day.
 [ENDBLOCK]
-お手伝い
+You don't have enough Gald.
 [ENDBLOCK]
-焦っているみたいですけど、
-フードの補充などは大丈夫ですか？
+Maid
 [ENDBLOCK]
-お手伝い
+You seem to be in a hurry, 
+is it alright to refill your food?
 [ENDBLOCK]
-いらっしゃいませ。フードの補充、
-及びフードストラップの交換を承ります。
+Maid
+[ENDBLOCK]
+Welcome! You can refill your
+food and replace your food straps.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-はい
-いいえ
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -65,7 +64,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -73,7 +72,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA8><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA4><x00><x80></color>を取得しました。
 
@@ -191,7 +190,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x84><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x84><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

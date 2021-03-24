@@ -416,7 +416,7 @@ openflag -><x17><x71><x47><xB8><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
+ウェブパスワードをInformation Deskました。
 この世界に新たな可能性が広がりました。
 コミュニ爺の話をよく聞いてください。
 
@@ -534,8 +534,8 @@ notice
 [ENDBLOCK]
 コミュニ爺
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
@@ -544,125 +544,126 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-やあ、いらっしゃ……？
+Hey, there...?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの……私が、何か？
+That... I, what?
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-いや、君があまりにも似ていて、
-ちょっとびっくりなんだ。
+No, it's just that you look
+so much alike. I'm just a
+little surprised.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-似ている？
+Do they look alike?
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-ああ、すまない。
+Oh, I'm sorry.
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-私は、闘技場から依頼を受けて、
-新しい遊戯を制作した者です。
+I am the one who was commissioned
+by the arena to create a new game.
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-<Kongman>さんが、試合に
-出られない状況が続いているからね。
+<Kongman> has been unable to fight
+in the game for a while now.
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-闘技場も、集客を必死に
-考えたって事さ。
+The arena was desperate
+for customers.
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-おっと、話がそれたね。
+Well, I digress.
 
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
-その遊戯の主人公が、
-お嬢さんにそっくりなんだ。
-[ENDBLOCK]
-<Chelsea>
-[ENDBLOCK]
-へえ、興味がわいてきました。
-どんな遊戯なんですか？
-[ENDBLOCK]
-技術者
-[ENDBLOCK]
-お！	興味あるかい？
-「ウィアードショット」と言うんだ。
-とにかく遊んでみてくれよ。
-[ENDBLOCK]
-技術者
-[ENDBLOCK]
-いきなりだけど、
-準備はいいかな？
-[ENDBLOCK]
-技術者
-[ENDBLOCK]
-はい、スイッチオン！
-[ENDBLOCK]
-技術者
-[ENDBLOCK]
-どうだい？
-面白かっただろ？
+The hero of the game.
+He looks just like your daughter.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい！
+Wow, I'm getting interested.
+What kind of game is it?
+[ENDBLOCK]
+Technician
+[ENDBLOCK]
+Oh!	You interested?
+It's called "Weird Shot.
+You should try it anyway.
+[ENDBLOCK]
+Technician
+[ENDBLOCK]
+I know it's sudden, but...
+Are you ready?
+[ENDBLOCK]
+Technician
+[ENDBLOCK]
+Yes, switch on!
+[ENDBLOCK]
+Technician
+[ENDBLOCK]
+What do you think?
+That was fun, right?
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Yes!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 弓の扱い方が、
 とっても忠実再現でした。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 （遊んでいなかったみたいだけど
 ……まあいいか。）
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 そりゃそうさ、弓術の監修・指導は
 あの弓匠<Alba>・トーンさんだからね。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 また遊びたくなったら、
 いつでも私に声をかけてね。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 ウィアードショットで
 遊んでいくかい？
 はい
 いいえ
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 いやー、上手いもんだね。
 そんな君には、これをプレゼントするよ。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 必ず、また来てよ。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 やあ、いらっしゃい。
 [ENDBLOCK]
@@ -671,16 +672,16 @@ notice
 こんにちは。あれから
 <Chelsea>の遊戯は、どうですか？
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 そりゃあもう、大反響だよ。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 今や、闘技場と遊戯目当ての人が、
 半々くらいの割合だからね。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 そこで大好評につき、
 第二弾遊戯の発表だ！
@@ -690,11 +691,11 @@ notice
 本当ですか!?
 早く、遊ばせて下さいよ！
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 それじゃ、いつもの行くよ！
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 スイッチ、オーーン！
 [ENDBLOCK]
@@ -702,81 +703,81 @@ notice
 [ENDBLOCK]
 すごく面白かったです。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 （遊んでいなかったみたいだけど
 ……まあいいか。）
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 それはありがとう。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 なんてったって、太鼓指導は
 <Fayte>・モリュウさん。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 キャラクターデザインは、
 <Darzen>さんだからね。
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 これからは、
 「ウィアードショット」＆
 「陛下の太鼓」を共々よろしく！
 [ENDBLOCK]
-技術者
+Technician
 [ENDBLOCK]
 どっちで遊ぶ？
 ウィアードショット
 陛下の太鼓
 いまはいいや
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 チャンプ・<Lilith>が占拠中です。
 <Stahn>様止めてください。
 はい
 いいえ
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 いらっしゃいませ。ここは、
 参戦ご希望の方の受付となります。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-<TAG_007>どうしますか？
-挑戦する
-説明を聞く
-用は無い
+<TAG_007>What do you want to do?
+Challenge
+Listen to the explanation
+Nothing
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 いつでもお待ちしています。
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 はじめに戦闘をご希望する場合は、
 私に話し掛けて「挑戦する」と
 お申し付けください。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 その際、戦いに参加できるのは
 おひとり様のみ、となります。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 戦闘中に使用できるアイテムは、
 こちらでお渡しするものだけです。
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 お渡しするのは、
 次の４種類のアイテムとなります。
@@ -789,40 +790,40 @@ notice
 パナシーアボトル		１個
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 戦闘終了後、余ったアイテムは
 全てご返却頂きます。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 あと、参加可能な闘技場ランクですが、
 これはご自身の闘技場の実績で変化します。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 戦闘でもしも負けてしまった場合には、
 責任をもって治療いたしますので、
 安心してご参加下さい。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 私がご説明できるのはここまでです。
 後は、実践してお確かめ下さい。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 ひとつアドバイスしますと、
 ここでの戦闘はいつ終わるとも
 分からない、連続戦闘です。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 攻撃も大事ですが、防御を含めた
 総合的な戦い方を要求されます。
 それでは、頑張ってください。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 <TAG_007>もう一度聞きますか？
 はい
@@ -832,22 +833,22 @@ notice
 IN arena_selection
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 <TAG_007>どのランクに挑戦しますか？
 <x18><x65><x58><x8C><x00><x80>
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 ここからは、生死を賭けた
 真剣勝負です。
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
 一度、ご家族に会って
 おいた方がいいですよ。
 [ENDBLOCK]
-ディフィニットモード
+Definite Mode
 
 [ENDBLOCK]
 ENTER DEFINITE MODE!!!
@@ -859,16 +860,17 @@ OUT arena_selection
 IN arena_player_sel
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-<TAG_007>誰が挑戦しますか？
+<TAG_007>Who's up for the challenge?
 <x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>前に戻る
 [ENDBLOCK]
-----select <x18><x45><x58><x98><x07>iG<xC4>!<x8C><x8B>捕d<x14><x00><xAA><x80><x01>
+----select <x18><x45><x58><x98><x07><x69><x47><xC4><x21><x8C><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
+
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-<TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03>qG<xC8>!<x8C><x8B>斐<x80>にご参加でよろしいですか？
+<TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>にご参加でよろしいですか？
 はい
 いいえ
 
@@ -899,31 +901,31 @@ SET_STRINGS ENDDDDDDD
 [ENDBLOCK]
 
 [ENDBLOCK]
-ランク１
+Rank 1
 
 [ENDBLOCK]
-ランク２
+Rank 2
 
 [ENDBLOCK]
-ランク３
+Rank 3
 
 [ENDBLOCK]
-ランク４
+Rank 4
 
 [ENDBLOCK]
-？？？？？
+?????
 
 [ENDBLOCK]
-ランク５
+Rank 5
 
 [ENDBLOCK]
-ランク６
+Rank 6
 
 [ENDBLOCK]
-ディフィニットモード
+Definite Mode
 
 [ENDBLOCK]
-前に戻る
+Previous
 
 [ENDBLOCK]
 <x18><x65><x58><x44><x00><x80><x18><x65><x58><x48><x00><x80><x18><x65><x58><x4C><x00><x80><x18><x65><x58><x50><x00><x80><x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80><x18><x65><x58><x5C><x00><x80><x18><x65><x58><x60><x00><x80>
@@ -951,7 +953,7 @@ SET_STRINGS ENDDDDDDD
 OUT make_player_list
 
 [ENDBLOCK]
-<x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07>qG<xD8><x8B>捕d<x00><xAA><x80>
+<x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07><x71><x47><xD8><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -973,20 +975,20 @@ OUT make_player_list
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<x17><x28><x7F><x02><x14>/<x80>, <x17><x71><x47><xD4><x80>
+<x17><x28><x7F><x02><x14><x2F><x80>, <x17><x71><x47><xD4><x80>
 
 [ENDBLOCK]
 OUT make_player_list
 
 [ENDBLOCK]
-<x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07>qG<xD8><x8B>捕d<x00><xAA><x80>
+<x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07><x71><x47><xD8><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
 [ENDBLOCK]
 IN arena_btl_prepare
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-ご武運を。
+Good luck.
 
 [ENDBLOCK]
 FINISH arena_btl_prepare
@@ -998,54 +1000,54 @@ FINISH arena_btl_prepare
 
 
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG侮秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xE8><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG僚秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xEA><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xEC><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xEE><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xF0><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xF2><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xF4><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-<x18><x65><x57><xDC><x01>mG秒$f<x80>
+<x18><x65><x57><xDC><x01><x6D><x47><xF6><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-前のページへ
+Previous page
 
 [ENDBLOCK]
-次のページへ
+Next Page.
 
 [ENDBLOCK]
-前に戻る
+Previous
 
 [ENDBLOCK]
 <x18><x65><x57><xF8><x00><x80><x18><x65><x58><x24><x00><x80><x18><x65><x57><xFC><x00><x80><x18><x65><x58><x28><x00><x80><x18><x65><x58><x00><x00><x80><x18><x65><x58><x2C><x00><x80><x18><x65><x58><x04><x00><x80><x18><x65><x58><x30><x00><x80><x18><x65><x58><x08><x00><x80><x18><x65><x58><x34><x00><x80><x18><x65><x58><x0C><x00><x80><x18><x65><x58><x38><x00><x80><x18><x65><x58><x10><x00><x80><x18><x65><x58><x3C><x00><x80><x18><x65><x58><x14><x00><x80><x18><x65><x58><x40><x00><x80><x18><x65><x58><x18><x00><x80><x18><x65><x58><x1C><x00><x80><x18><x65><x58><x20><x00><x80>
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-<TAG_007>どの敵に挑戦しますか？
+<TAG_007>Which enemy will you challenge?
 <TAG_052>
 [ENDBLOCK]
 <x17><x71><x47><xE4><x80>, <TAG_032>
 
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-お見事でした。
+Well done.
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-残念でした。
+What a shame.
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-<TAG_007>続けて挑戦しますか？
-はい
-いいえ
+<TAG_007>Keep trying?
+Yes
+No
 
 [ENDBLOCK]
 ssssssssssssssssss  <x17><x69><x46><x7C><x80>   <x09><x01><x00><x00><x00>
@@ -1069,8 +1071,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「優勝おめでとう」
-と書かれている。
+<TAG_005>It says 「Congratulations on your win」
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1078,298 +1079,300 @@ select
 はい
 いいえ
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-頑張ってね。
+Good luck.
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-申し訳ありませんが、今現在は
-新規の方の受付をしておりません。
+We are sorry, but we are not accepting
+new applicants at this time.
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-街の方が騒がしいようですが
-何かあったのでしょうか。
+There seems to be more noise in the 
+city, is there something wrong?
 [ENDBLOCK]
-受け付け
+Information Desk
 [ENDBLOCK]
-申し訳ありませんが、今現在は
-新規の方の受付をしておりません。
+We are sorry, but we are not accepting
+new applicants at this time.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-俺はあの<Kongman>と、
-今まで三回も戦っている！
+I've fought that <Kongman>
+3 times now!
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-……三回ともボロ負けしたけどな。
+I've lost all three...
+times to rags to riches.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-ま、命だけは大切にしろよ。
+Well, just take care of your life.
 
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-観客が騒がしいな。
-どっちが勝ったんだ？
+There's a lot of noise in the crowd.
+Which one of you guys won?
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-おい、おまえら。
-イレーヌ嬢を助けたんだってな。
+Hey, you guys. I heard
+you saved Ms. Ilene.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-チャンピオン不在の今こそ、
-俺の時代の幕開けだな！
+Now, in the absence of a champion.
+This is the dawn of my era!
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-俺はあの<Kongman>と、
-今まで三回も戦っている！
+I've fought that <Kongman>
+three times now!
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-……三回ともボロ負けしたけどな。
+I've lost all three 
+times to rags to riches.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-ま、命だけは大切にしろよ。
+Well, just take care of your life.
 
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-<Kongman>と戦ったんだって？
-おまえみたいなのじゃ勝てねえよ。
+I heard you fought <Kongman>?
+You can't win to a guy like that.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-おい、おまえら。
-イレーヌ嬢を助けたんだってな。
+Hey, you guys. I heard
+you saved Ms. Ilene.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-チャンピオン不在の今こそ、
-俺の時代の幕開けだな！
+Now that there's no champion,
+it's the dawn of my era!
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-外ででかい声が聞こえたみたいだが、
-ありゃ、誰が喋ってたんだ？
+I think I heard a loud voice
+outside. Who was it talking to?
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-なんだか外が暗くなってないか？
-俺の感覚だと、今は昼のはずなんだが。
+Isn't it getting kind of dark? 
+It's supposed to be daytime now.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-いかつい戦士同士のぶつかり合いは、
-見ていてぞくぞくするのよね。
+The two warriors clashing is
+a thrilling thing to watch.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-んもう！	<Kongman>の試合チケット
-買えなかったわ！
+Oh my god! Tickets for 
+<Kongman>'s match!
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-街の方がなんだか
-騒々しい気がしない？
+Doesn't the city seem
+kind of noisy to you?
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-<Kongman>の試合見れなかったの。
-ねえ、なぐさめてよ。
+I couldn't watch <Kongman>'s match.
+(Weep)... Hold me.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-いかつい戦士同士のぶつかり合いは、
-見ていてぞくぞくするのよね。
+The two warriors clashing is
+a thrilling thing to watch.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-試合見にいってあげるんだから。
-ぞくぞくするような負け方してよ。
+I'll take you to the match. I want 
+to see a cringeworthy loss by you.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-もう、なんなのよ。
-私にぶつかった男の子、
-あやまりもしなかったのよ！
+What's wrong with you? Could at least
+apologize for bumping into me!
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-こんなところにいる場合かって？
-あたしに何ができるわけでもないしね。
+What am I doing here? It's not
+like I can do anything about it.
 [ENDBLOCK]
-熱狂的なファン
+Enthusiastic fan
 [ENDBLOCK]
-世界に平和が戻ろうが、滅びようが、
-あたしはとことん楽しんでやるわよ。
+Whether the world returns to normal,
+I'm going to enjoy every minute of it.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-おまえも挑戦者か？
-ふん、一勝は拾ったな。
+Are you a Challenger?
+Hmm, you picked up a win.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 急遽、<Kongman>の試合が
 組まれたみたいだぜ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 噂じゃチケットは
 一瞬で完売だってよ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 少しでも<Kongman>の
 体力を減らしてくれよ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-な、何かあったのか!?
+What's going on?
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 コ、<Kongman>……！
 俺とたたか……いて、舌かんだ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 <Kongman>を見つけたら、
 次こそは勝負を挑んでやる！
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-おまえも挑戦者か？
-ふん、一勝は拾ったな。
+Are you the Challenger?
+Hmm, you picked up a win.
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 少しでも<Kongman>の
 体力を減らしてくれよ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
-な、何かあったのか!?
+What's going on?
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 コ、<Kongman>……！
 俺とたたか……いて、舌かんだ。
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 <Kongman>を見つけたら、
 次こそは勝負を挑んでやる！
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 俺たち、こんなところで
 騒いでる場合なのかな？
 [ENDBLOCK]
-挑戦者
+Challenger
 [ENDBLOCK]
 どんな状況でもここは活気を失わない。
 大したものだと思わないか？
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
 こちらは控え室となります。
 関係者以外はご遠慮ください。
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
 この先は観客席と
 なっております。
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-この奥には街の人々が
-避難されております。
+All of those evacuated are
+in the back of the arena.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-街にモンスターですか？
-何をご冗談を。
+Monsters in the city? You've
+got to be kidding me.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
 この先は観客席と
 なっております。
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-この奥には街の人々が
-避難されております。
+All of those evacuated are
+in the back of the arena.
 [ENDBLOCK]
-おじさん
+Man
 [ENDBLOCK]
-街にモンスターですか？
-何をご冗談を。
+Monsters in the city? You've
+got to be kidding me.
 [ENDBLOCK]
 女性
 [ENDBLOCK]
 最後のチケットを手に入れたの！
 私ってホントについてるわ！
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
-なんでも<Kongman>の相手は、
-あの<Ilene>女史の刺客らしいですよ。
+It seems that <Kongman>'s opponent
+is the assassin of <Ilene>.
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
-ああ！
-早く始まらないかな。
+Oh! I can't wait
+for it to start.
 [ENDBLOCK]
-ねこにん
+Katz
 [ENDBLOCK]
-何かいるネコか？
+What is it, a cat?
 
 [ENDBLOCK]
-ねこにん
+Katz
 [ENDBLOCK]
-また来てもいいネコよ。
+You can come back, cat.
 
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
-お金とレンズは等価交換ウサよ。
-<x0E><x08><x00><x00><x80><x09><x64><x00><x00><x00><x0E><x08><x00><x00><x40>枚セットで売ってあげるウサね。
+Money and lenses are an
+equivalent exchange.
+<x0E><x08><x00><x00><x80><x09><x64><x00><x00><x00><x0E><x08><x00><x00><x40> I'll sell you a set of two.
 
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00><x1A><x20><x72><x04><x98><x80>				<x17><x72><x40><x18><x28>叛<x88><x80>ガルド
-<x1A><x20><x72><x08><x98><x80>		 <x17><x72><x40><x1C><x28>叛<x88><x80>ガルド
-<x1A><x20><x72><x0C><x98><x80>		 <x17><x72><x40><x20><x28>叛<x88><x80>ガルド
-<x1A><x20><x72><x40><x10><x98><x80>			<x17><x72><x40><x24><x28>叛<x88><x80>ガルド
-<x1A><x20><x72><x40><x14><x98><x80>	<x17><x72><x40><x28><x28>叛<x88><x80>ガルド
+<TAG_007><x0E><x01><x00><x00><x00><x1A><x20><x72><x04><x98><x80>				<x17><x72><x40><x18><x28><xE8><x03><x88><x80>ガルド
+<x1A><x20><x72><x08><x98><x80>		 <x17><x72><x40><x1C><x28><xE8><x03><x88><x80>ガルド
+<x1A><x20><x72><x0C><x98><x80>		 <x17><x72><x40><x20><x28><xE8><x03><x88><x80>ガルド
+<x1A><x20><x72><x40><x10><x98><x80>			<x17><x72><x40><x24><x28><xE8><x03><x88><x80>ガルド
+<x1A><x20><x72><x40><x14><x98><x80>	<x17><x72><x40><x28><x28><xE8><x03><x88><x80>ガルド
 やめる
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
 残念ながら足りてないウサよ。
 
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
 残念ながら持てないウサね。
 
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
 毎度ありウサね。
 
 [ENDBLOCK]
-うさにん
+Poor Woman
 [ENDBLOCK]
 残念ウサね。
 
@@ -1378,11 +1381,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c> <x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1400,7 +1403,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c> <x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1408,7 +1411,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qID<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x44><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x40><x00><x80></color>を取得しました。
 
@@ -1526,7 +1529,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c> <x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><x20><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

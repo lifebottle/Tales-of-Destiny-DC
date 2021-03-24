@@ -20,107 +20,107 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-あれ？	あんたは確か……
+Huh? I believe you are...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺が、何か？
+What about me?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-そうだ！	あんた確か闘技場で、
-あの<Lilith>さんに勝ったやつだろ？
+That's right. You're the one that 
+defeated <Lilith> in the arena?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-私が、何か！？
+What about me?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-で、出た！
-[ENDBLOCK]
-<Lilith>
-[ENDBLOCK]
-なによ、幽霊みたいな言い方
-しないでよね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-それで、何か用ですか？
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-な、なに。え、あ～……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<Lilith>の事は大丈夫ですから、
-話してください。
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-そのあれだ、いい情報を教えて
-やろうと思ったんだ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-どんな事ですか！
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-以前、この街に海賊が攻めてきた
-事があっただろ？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<Batista>の事だよな。
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-そのうちの沈んだ海賊船が、ここいらの
-海域にあるらしいんだ。
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-それなりの宝も一緒に、
-沈んでいる可能性もあるって事だ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-そんな貴重な情報、
-俺に教えてもいいんですか？
-[ENDBLOCK]
-船員
-[ENDBLOCK]
-どうせ場所は「海中」だ。
-俺には、到底行けない場所さ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ありがとうございます。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ほら、<Lilith>もお礼をいえよ。
+And there it is!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ありがとうございます！
+What? Don't talk to 
+me like that.
 [ENDBLOCK]
-船員
+<Stahn>
 [ENDBLOCK]
-強い奴がいればなぁ……
-俺じゃ、無理だよな……
+So, what can I do for you?
 [ENDBLOCK]
-海の作成を開始します
+Sailor
+[ENDBLOCK]
+What is it? Eh, uh~...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's okay to talk about <Lilith>,
+you can talk about her.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+That's the one. I thought I'd
+give you some good information.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What do you mean?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Didn't we once have a pirate
+invasion of this city?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I think you mean <Batista>.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+One of them is a sunken pirate ship.
+in this area of the ocean.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+It's also possible that some
+treasure had sunk with it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Are you sure you don't want to share
+such valuable information with me?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+It's at the bottom of the sea,
+anyway. I'll never get there.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Come on, <Lilith>, say thank you.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Thank you!
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I wish I was stronger.
+I can't do it, can I?
+[ENDBLOCK]
+Begin creating the ocean.
 
 [ENDBLOCK]
 失敗しました（戻り値：<TAG_031>）
@@ -160,11 +160,13 @@ business until the end!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-How about some fresh picked fruit?
+How about some
+fresh picked fruit?
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-We still have stock, feel free to shop.
+We still have stock,
+feel free to shop.
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
@@ -211,8 +213,8 @@ Oberon is controversial.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I'm a long-time resident, but I
-think it's good for the city to develop.
+I'm a long-time resident, but I think 
+it's good for the city to develop.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -335,11 +337,13 @@ Sailor
 [ENDBLOCK]
 Seafood Merchant
 [ENDBLOCK]
-How about some freshly caught fish?
+How about some
+freshly caught fish?
 [ENDBLOCK]
 Seafood Merchant
 [ENDBLOCK]
-I'll sell fish no matter what!
+I'll sell fish
+no matter what!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -353,9 +357,10 @@ level. I'll give you this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+The "Definite Strike" is 
+a group attack effective
+against monsters.
+
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -383,11 +388,13 @@ more to give you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I have nothing to say to you now.
+I have nothing
+to say to you now.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You'll have to hone your skills a bit more.
+You'll have to hone 
+your skills a bit more.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -396,13 +403,13 @@ at the heart of Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-My hometown, Lienea, is also
-here in Fitzgald.
+My hometown, Lienea,
+is also here in Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 It's not my only motivation...
-but we've gotta find Lydon soon.
+but we've gotta find <Greybum> soon.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -410,7 +417,7 @@ First, we're going to <Ilene>'s estate.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene> is the head of Oberon Company
+<Ilene> is the head of Oberon Corp.
 in the Fitzgald region.
 [ENDBLOCK]
 <Dymlos>
@@ -475,250 +482,254 @@ so hold on tight!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-みんな、出迎えご苦労！
+Thanks for the welcome, everyone!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-チャンピオンの<Kongman>様が、
-悪を倒して戻ってきたぜえ！
+The Champion <Kongman>has defeated
+the evil and returned victorious!
 [ENDBLOCK]
 
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
 
 [ENDBLOCK]
-マイティ！	マイティ！	マイティ！
+Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……頑張ったのは、
-コングだけじゃないんだけどね。
+...Kong wasn't the
+only one there.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>さん……？
+<Ilene>...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと<Ilene>の屋敷へ戻るぞ。
-こんなうるさい場所はごめんだ。
+Let's quickly return to <Ilene>'s
+estate. Sorry about all this noise.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、用事を思い出した。
-先に行ってるよ。
+I just remembered something I need
+to do. Go on ahead without me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふーん。<Stahn>の奴、
-<Ilene>が余程気になるみたいね。
+Hmmmm. <Stahn> looks pretty
+worried about <Ilene>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-年上の女性が、
-好みなんでしょうか……
+I wonder if he likes
+older women...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>……
-もしかして、がっかりしてる？
+<Philia>, are you... disappointed?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まっ、まさか。違います。
-ありえません。論外です！
+N-not at all! I would never. 
+It's impossible. Completely out
+of the question!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……そんな全力で否定しなくても。
+Wow, you really shot that down 
+with everything you've got.
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-うーん……それにしてもあの船、
-なんだったんだろうな。
+Mmmm... What was that ship?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……なんの話？
+What are you talking about?
 [ENDBLOCK]
-あんたたちが沖で戦ってた頃、
-武装船団の船が、一隻こっちへ来たんだよ。
+When you all were fighting 
+out at sea, a ship from the
+armada docked here.
 [ENDBLOCK]
-すぐにまた出て行ったけどな。
-あれ、一体なんだったんだろうな？
+But it left immediately after. 
+So what the heck was that about?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-船……？
+A ship...?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-アクアヴェイルの近くまで行ったら、
-積んであるボートに乗り換えてね。
+When you get close to Aquaveil,
+please use a rowboat to get to land.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-世話になったな、<Ilene>。
+Thanks for taking care of us, <Ilene>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うう……<Philia>さん、
-行ってしまわれるのですね。
+Uh... <Philia>, you're
+really going, aren’t you?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-街の復興の手伝いさえなければ、
-俺様も一緒について行くのに！
+If I weren't helping to rebuild the
+town, I would come along with you!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-いいんですよ。<Kongman>さんは、
-この街に必要な方なんですから。
+It'll be okay. You’re needed
+here in town, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さんはなんとお優しい！
-感激だあっ！	うおおおおん！
+<Philia>, how are you so kind!!
+What an inspiration!! Uwahhhhh!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-都合良く解釈してくれて、
-よかったわね。
+What a nice interpretation.
+That's good.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Stahn>！	俺様の代わりに、
-<Philia>さんをしっかりお守りしろよ。
+<Stahn>! Please protect
+<Philia> properly in my place.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さんにもしもの事があったら、
-おめえをぶっころーす！
+If anything happens to <Philia>,
+I will destroy you!!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-心配しなくても大丈夫さ。
-任せとけって。
+Don't worry, it'll be fine.
+Leave everything to me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ、俺たちは行きます。
-本当にありがとうございました。
+Well then, we're leaving now.
+Really, thank you so much.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>君、例の勝負、忘れちゃダメよ？
+<Stahn>, don't forget about our
+challenge from earlier, okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-忘れませんよ。どっちが先に、
-理想を実現するか、ですね。
+I won't forget. Who'll realize
+their ideal first, right?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-次に会う時までに、
-結果が出てるといいわね。
+I hope we'll have some results
+the next time we meet.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-理想ねえ……
-簡単に口に出すような事かしら。
+Ideals, huh…. wonder if that's
+something easier said than done.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>……？
+<Rutee>...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ん、なんでもない。
+N-nothing.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ、お元気で！
+Well then, take care!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この船に乗るんだな。
+You're going to get
+on this ship.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ええ。
+Yeah.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-待ちな、おめえたち！
+Hold on, you guys!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>じゃないか！
-元気だったか？
+It's <Kongman>! How have you been?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-あたりめえよ！	チャンピオンの俺様が、
-元気でないわけがあるか！
+I'm the champion, how
+can I not be cheerful?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ファンダリアへ向かうんだろ？
-俺様も一緒に行くぜ！
+You're going to Phandaria,
+aren't we? I'm coming with you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-チャンピオンのおまえが、
-街を離れてもいいのか？
+You're a champion, and you're
+willing to leave the city?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえたちだけじゃ心配だからな！
+I'm worried about you 
+guys, that's why!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お気持ちは嬉しいですけれど、
-ご無理はなさらずとも……
+I'm glad you feel that way, but
+please don't take it too hard. 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうか遠慮しないでください。
-あなたと俺様の仲ではありませんか。
+Please don't be shy. It's
+just you and me, isn't it?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どんな仲でしたっけ……？
+How did we get along...?
 [ENDBLOCK]
-<Kongman><x00>とにかく、俺様も行く！
-もう決めたからな！
+<Kongman><x00>Anyway, I'm coming with you!
+I've already decided!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった。そういう事ならよろしくな、
-<Kongman>！
+Alright. I'll take care
+of it <Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様に万事任せておけい！
-ガハハハハ！
+I'll take care of everything!
+Ga-ha-ha-ha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
 戦闘に参加できます。
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-パーティに復帰しました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]
@@ -726,7 +737,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x8C><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -734,7 +745,7 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xB0><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xAC><x00><x80></color>を取得しました。
 
@@ -852,7 +863,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x8C><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x8C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

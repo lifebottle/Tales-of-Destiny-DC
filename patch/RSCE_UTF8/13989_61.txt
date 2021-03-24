@@ -373,1190 +373,1201 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ねえ、お兄ちゃん？
+Excuse me, Sir?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕か？
+Me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>何の用だ？
-子供に用はない
+<TAG_007>What do you want?
+I have no business with children
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お兄ちゃんって食べ物の
-好き嫌いがなさそうだね。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-……ああ……
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-なんだ、関係ないじゃん。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-そんな事言わないで聞いてよ。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-昨日ね、ぼくが嫌いなお野菜を
-残したら母さまが怒るんだ。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-「そんな事じゃ
-大きくなれませんよ」って。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-それでお兄ちゃんに
-聞きたい事なんだけど。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-お兄ちゃんは嫌いな食べ物ってある？
+What kind of food do
+you usually eat?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-特に好き嫌いなどないが……
-甘いものは嫌いだ……
+...ah...
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ほんと～？
+What? It doesn't matter.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Don't say that. Listen.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Yesterday, when I left some veggies
+I didn't like, my mother got angry.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+"You won't grow if you
+don't eat your veggies"
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+So I have a question 
+for you.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Is there any food that you don't like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうして疑うんだ？
+I really don't mind anything ether way.
+However, I really don't like sweets.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-だってさ、お兄ちゃんってばちらちら
-アイスキャンディー屋さんを見てたよ。
+Really?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-嫌いなものが目に付いただけだ！
+Why would you question that?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ふーん、それなら甘いものを
-食べれば大きくなれるって事だね。
+You know, I saw you starring
+at the Softy Kreem Shop.
 [ENDBLOCK]
-<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14>/<x80>
+<Lion>
 [ENDBLOCK]
-<Stahn>
+I just saw something I didn't like!
 [ENDBLOCK]
-そういや結局、俺たちも<Lion>も、
-アイスキャンディー食べられなかったな。
+Boy
 [ENDBLOCK]
-アイスキャンディー屋
+Hmmm... so that means I can
+get bigger by eating sweets.
 [ENDBLOCK]
-いらっしゃいませ。
-どれにしましょうか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-あ、いえ俺は
-別に食べたい訳じゃ……
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-あれ？	今のセリフどっかで
-聞いた覚えがあるな？
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-ああ、思い出した！	街がモンスターに
-襲われる直前にいたお客さんだ。
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-なんか小柄だったけど、
-綺麗な顔した男の子だったな。
+<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………？
+Well, in the end, neither we nor
+<Lion> got to eat any Softy Kreem.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-食べたくないって言うんだけど、
-じーっと、アイスキャンディーを見るんだ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-それって……！
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-男には、甘いものが好きな事を
-かっこ悪いと思う人もいるからね。
+Welcome. Which one
+would you like?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、そういう事を、
-気にするやつだったと思います。
+Oh, no, I'm not. I'm not
+here to buy anything.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-…………？
+Huh? I've heard that line
+before, haven't I?
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+Softy Kreem Shop
+[ENDBLOCK]
+Oh, Yeah! You were here just before
+the city was attacked by monsters.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+You were kind of a small guy, but
+you had a beautiful face.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+...?
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+He says he doesn't want to eat it,
+but then he stares at the Softy Kreem.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's...?
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Some men think it's uncool
+to have a sweet tooth.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, I think I know someone who
+cared about that kind of thing.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+...?
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
 
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-だれか……見事な肉体をしていて、
-トップレスな奴はいないかな……
+Does anyone have a... stunning
+shirtless physique... 
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-おお、あなたしかいない！
+Oh, it's only you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ん？	俺様に用か？
+Hmm? You wanted to see me?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-突然ですが、
-あなたのその肉体に惚れました。
+Suddenly, I'm in love with
+that body of yours.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あは、あはは……
+Ha, ha, ha...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-人それぞれです……ね。
-よかったですね、<Kongman>さん……
+To each his own. Good
+for you,<Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さんまで、
-酷いじゃないですか。
+Even <Philia>, is
+being terrible?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-やい、俺様にそんな気はねえ！
+No, I don't want that!
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-あ、違います。
-勘違いしないで下さい。
+Oh, no sir. Please
+don't misunderstand.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-私、舞台の監督をやっている者です。
+I'm a stage director.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-実は、役者が病気になってしまって、
-代役を探していました。
+Actually, the actor got sick, We're
+looking for a replacement.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-という事は……<Kongman>さんを
-その代役に？
+So you want <Kongman>
+as a stand-in?
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-はい、その通りです。
+Yes, that's correct.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すごいじゃないか、
+That's great.
 <Kongman>。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ふざけるなぁ。俺様はチャンピオンだぞ。
-代役なんてやらねえ！
+You've got to be kidding me. I'm the
+champion, not an understudy!
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-そんなぁ。私の舞台監督としての、
-今後が懸かっているんです。
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-<Kongman>さん、すごいじゃないですか。
-私、お芝居って好きですよ。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-ま、まあ、<Philia>さんが、
-俺様の役者姿を見たいと言うのなら……
+I'm sorry. My future as a
+stage director is at stake.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-い、いえ、そこまでは……
-[ENDBLOCK]
-新人監督
-[ENDBLOCK]
-ホントですか！
-ありがとうございます。
-[ENDBLOCK]
-新人監督
-[ENDBLOCK]
-では、さっそく行きましょう！
+<Kongman>, aren't you amazing?
+I love theatrical performances.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-何、今やるのか!?
+Well, well, if <Philia>wants to
+see me as an actor, she will...
 [ENDBLOCK]
-新人監督
+<Philia>
 [ENDBLOCK]
-ええ！	会場には既に
-お客さんが入ってますからね！
+No, no, not that far...
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Really?!
+Thank you very much.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Well, let's get to it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……まじ……かよ。
+What, we're doing this now?
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-大丈夫、セリフはありません。
-私の指示どおりに演技をして下さい。
+Yes! There's already
+a crowd in the hall!
 [ENDBLOCK]
-新人監督
+<Kongman>
 [ENDBLOCK]
-さあ、もう舞台が始まります。
-急ぎましょう。
+...seriously?
 [ENDBLOCK]
-notice
+Director
 [ENDBLOCK]
-新人監督の指示に従って、
-演技をしてください。
+Don't worry, there are no lines.
+Just act as I tell you to.
 [ENDBLOCK]
-notice
+Director
 [ENDBLOCK]
-新人監督の指示が出た後、
-時計の針を刻む音が鳴っている間に
-正しい演技ボタンを押せば成功です。
+Now, the stage is about to
+begin. Let's hurry up.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-演技は次のようになっています。
+Please follow the Director's
+instructions and perform.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-	<Circle_ani>	両拳を突き上げる
-	<Cross_ani>	大笑いする
-	<Triangle_ani>	キザなポーズをとる
-	<Square_ani>	大泣きする
+After the Director's instructions are given,
+press the correct acting button while the 
+clock is ticking, and you will succeed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-以上です。
-もう一度説明を見ますか？
+The performance goes as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+	<Circle_ani>	Triumpant Stance
+	<Cross_ani>	Laugh
+	<Triangle_ani>	Pose
+	<Square_ani>	Weep
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+That's all. Would you like
+to see the explanation again?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-そこを出れば
-すぐに舞台となっています。
+As soon as you leave here,
+you are on the stage.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-私はここから指示を出します。
+I will direct from here.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-その指示に従って、演技をしてください。
-いいですね？
+Please follow those instructions
+and perform. Okay?
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-何、大丈夫ですよ。
-あなたなら、必ずできます。
+What? It's okay.
+I know you can do it.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-さあ、出番です！
+Now, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-頑張れ！
+Come on!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-頑張ってください！
+Good luck!
 [ENDBLOCK]
 ret <x17><x66><x14><x03><xE8><x80><x80>
 
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-私は塔に捕われの姫。
+I am a princess trapped in a tower.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-ああ、白馬の王子さま。
-いつ私を救い出してくれるのかしら？
+Oh, prince of the white horse.
+When are you going to rescue me?
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-あら、あなたは？
+Oh, and you are?
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-さあ、彼女に求愛するんだ。
+Come on, you've got to court her.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-あなたが私を助け出して下さる、
-白馬の王子さまなのですね？
+You are the prince on the white horse
+who will rescue me, aren't you?
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-強い男をアピールするんだ！
+Show them you're a strong man!
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-ああ！	なんて頼もしい！
+Oh!	How dependable!
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-ささ、私を連れ出して下さい。
+Come on, let's get out of here.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-さあ、もう一度。かっこつけるんだ。
+Now, again. Let's be cool.
 [ENDBLOCK]
-男役
+Man
 [ENDBLOCK]
-貴様、姫には触れさせん！
+You will not touch the princess!
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-あなたは一体……？
+What the hell are you...?
 [ENDBLOCK]
-男役
+Man
 [ENDBLOCK]
-私は姫を心よりお慕い申し上げる者。
-しかし、父はしがない農民……
+I completely adore the princess.
+But I'm the son of a simple farmer.
 [ENDBLOCK]
-男役
+Man
 [ENDBLOCK]
-頭では身分の違いを分かっていても、
-この心が、姫の事をあきらめさせません。
+Even though her head knows the 
+difference in status, her heart will
+not let her give up on the princess.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-まあ、私をそこまで愛してくださるの？
+Well, do you love me that much?
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-身分を越えた関係。
-それこそ、私の憧れた純愛！
+A relationship that transcends status.
+That's the pure love I've always wanted!
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-私の身も心も、
-全てをお救い下さい。
+Save my body, my 
+soul. Save me.
 [ENDBLOCK]
-男役
+Man
 [ENDBLOCK]
-私が一生、
-姫をお守りします。
+I will protect the princess
+for the rest of her life.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-……はい。
+...Yes.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-もう訳が分からない！	という笑いだ！
+I don't know what's going
+on anymore!	That's the laugh!
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-でも、状況が理解出来てきて、
-泣いてしまう！
+But then I start to understand
+the situation. I cry...!
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-いやー、素晴らしかったですよ。
+Well, it was wonderful.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-あなたなら、トップスターも夢じゃない。
+You can be a top star without a doubt.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-まあ、初舞台ですからね。
-十分ですよ。
+Well, it's your first performance.
+It's enough.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-是非、また参加してください。
+Please join us again.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-もう一度、
-舞台に挑戦しますか？
-はい
-いいえ
+Once again. Would you like to
+take the stage again?
+Yes
+No
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-それじゃ、もう一度説明しますね。
+I'll explain it again then.
 [ENDBLOCK]
-新人監督
+Director
 [ENDBLOCK]
-いつでも待ってますよ。
+I'll be waiting.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-ノイシュタット名物、
-アイスキャンディーはいかがですか？
+Neuestadt's Specialty. Would you 
+like to try a Softy Kreem?
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-先日の襲撃で、
-店は大損害ですよ。
+The other day's attack caused a
+lot of damage to the store.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-けど、こんな事で街の名物を
-失うわけにいきませんからね。
+But we can't afford to lose the city's
+specialty to something like this.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-いらっしゃいませ。
-冷たくて美味しいですよ。
+Welcome. It's cold
+and delicious.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-最近、売り上げが芳しくなくて……
+Sales have not been good lately.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-もうアイスキャンディーなんて、
-売っている場合じゃないのかな……
+I guess we don't have time
+to sell Softy Kreem anymore.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-結局商売をやめられませんでした。
-これからもごひいきに！
+I couldn't stop selling after all.
+Keep up the good work!
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-ノイシュタット名物、
-アイスキャンディーはいかがですか？
+Neuestadt's Specialty. Would you 
+like to try a Softy Kreem?
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-闘技場で有り金全部すっちまった。
-お陰で飯代にも事欠く有様さ。
+I lost all my Gald in the arena. 
+I don't have Gald for food.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-食い物はただで調達しないとな。
-……おっ、引いたか？
+You have to get your food for free.
+... Whoa, did you pull that off?
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-……引いたと思ったが気のせいか。
+I thought I pulled a... but 
+I guess I was imagining it.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-いやあ、ここがすぐに復旧
-してくれて助かったよ。
+Well, thank God this place is
+back up and running so quickly.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-港で魚釣りなんかしていたら、
-漁師たちに、にらまれるからな。
+If we were to fish in the harbor, the
+fishermen would give us the evil eye.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-あんたたち、どこで放送を聞いた？
-まったく、驚いたよなあ。
+Where did you guys hear that broadcast?
+I'm really surprised, aren't I?
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-いつモンスターが襲ってくるかも
-わからない。釣りも命がけだよ。
+You never know when a monster is
+going to attack. Fishing is also
+a deadly business.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-あんたたち、レンズを集めてるって？
-何に使うつもりなんだい？
+You guys are collecting lens?
+What are you going to use them for?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-下町にすごく素敵な女性がいるんだ。
-なんとか近づけないかなあ……
+There's a very nice woman downtown.
+I wonder if I can get close to her.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-下町のあの人が、今回の騒ぎで、
-ケガをしていなければいいけど……
+I hope that guy downtown wasn't
+injured in the commotion...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-この前妹と一緒にいるところを、
-下町のあの人に見られてしまってね。
+The other day, I was seen with my
+sister by that guy from downtown.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-誤解されていなければいいけど……
+I hope I'm not misunderstood...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの人は今、どんな気持ちでいるだろう。
-様子を見に行きたいけど……うーん。
+I wonder how they are feeling right now.
+I want to go check on him, but... hmmm.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-僕みたいなのが下町に行くと、
-無事では済まないって聞くし……
+I've heard that if I were
+to go to the downtown area,
+I wouldn't be safe.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-うーん……どうしよう……
+Hmm... What should I do?
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-闘技場なんてなくしてしまえばいいのに。
-がらの悪い連中が集まって困るわ。
+I wish they'd get rid of the arena.
+I hate dealing with those hoodlums.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-最も被害を受けたのは、
-この広場でした。
+It was this square that
+suffered the most damage.
 
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-しかし、逆に被害が集中していた分、
-すぐに復旧できた事は不幸中の幸いでした。
+On the contrary, it was fortunate
+that the damage was concentrated
+so that it could be quickly restored.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-<Ilene>様は下町の者に甘すぎます。
-ひとこと意見をさせて欲しいですわ。
+Ms. <Ilene> is too lenient with
+people from downtown. I'd give
+them a piece of my mind.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-ノイシュタットさえ無事なら、
-他はこの際どうでもいいですわ。
+As long as Neuestadt is safe,
+I don't care about the rest.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-さすがにまずい状況ですわね……
+That's a bad situation indeed.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-レンズだけでいいんですの？
-軍資金の提供もいたしますわよ。
+Are you sure you just want lens?
+I'll provide you funds for the army.
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
-だからどうか、どうか！
-私たちを助けてくださいましな。
+So please, please, please!
+Please help us.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-見てたってやらないぞ。
-あっち行けよ。
+I'm not gonna do it just to watch you.
+Get away from me.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-アイスキャンディーを食べる場所が
-戻って、安心したよ。
+I have my Softy Kreem Shop
+back. I'm so relieved. 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-あの騒ぎで食べ損ねちゃったから、
-アイスキャンディーを買い直したよ。
+I had to buy another Softy 
+Kreem because it melted after
+all of the excitement.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-最近、このあたりをうろつく
-下町のガキが増えたよな。
+There are more kids from downtown
+hanging around here these days.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ノイシュタットにだけは、
-雷を落とさないで欲しいよね。
+I'm sure Neuestadt isn't the only
+one that doesn't want to be hit.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-パパに頼んで、どこか明るい所に
-引越ししたいなあ。
+I wish I could ask my dad to
+move me somewhere brighter.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-パパが、これからは下町の連中とも
-仲良くしろって。どうしてかな？
+Dad, wants me to try and get along with
+people going forward. I wonder why?
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-あのお姉ちゃん、
-ケガ、大丈夫かな……
+Oh, my God. I 
+hope she's okay...
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-あのお姉ちゃん、
-いなくなっちゃったんだって……
+Oh, my God.
+She's gone...
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-わたしも新しい世界に行きたいな。
-きっと幸せになれると思うから。
+I want to go to a new world,
+too. I'm sure I'd be happy.
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-あの空の天井の上は、
-どうなっているのかな……
+I wonder what's going on 
+on top of that shell.
 [ENDBLOCK]
-貧しい女の子
+Poor Child
 [ENDBLOCK]
-わたしもレンズを集めたの。
-役に立ててくれると嬉しいな。
+I've collected lens too.
+I hope you find them useful.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-一本６０ガルドになります。
+It will be 60 Gald each.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_031>ガルド
+<TAG_007>Total Gald: <TAG_031>
 [ENDBLOCK]
-<TAG_007>買う
-いらない
-あたり棒を交換する
+<TAG_007>Buy
+I don't want any
+Exchange a winning stick
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-まいどありー。
+I'm sorry.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-これ以上は<ITEM_006>を
-持てないようですね。
+You can't carry 
+any more <ITEM_006>.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-お金が足りないようですね。
+You don't seem to have enough Gald.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-あたり棒をお持ちですね。
-<ITEM_006>と交換しますよ。
+You have a winning stick. I'll
+exchange it for <ITEM_006>.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-今後ともごひいきに。
+Thank you for your patronage.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-これ以上は<ITEM_006>を
-持てないようですね。
+You can't carry 
+any more <ITEM_006>.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Shop
 [ENDBLOCK]
-<ITEM_070>を
-お持ちになられたら、交換しますよ。
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-ここが<Mary>さんの言っていた、
-アイスキャンディー屋ですね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-すいませーん、五本ください。
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-どの味になさいますか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-へえ、色々種類があるんだな。
-どれどれ。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-うーん、どうしよう。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-定番の抹茶味か、限定のさくら味か。
-どっちにすればいいか、悩むわ。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-ねえ、あなたならどうする？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-えっ、俺ですか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-そうだな……思い切ってバニラとか。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-どうしてそうなるの？	私が聞いたの、
-抹茶とさくらならどっちかよ？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ふたつにひとつで決められないなら、
-第三の答えをって……ダメですか？
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-なるほど、
-そういう考えもあるか……
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-じゃあそうしましょう。
-おじさん、バニラひとつ！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-あ、俺も。バニラ五つ！
-[ENDBLOCK]
-バニラ五つ、お待たせしました。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-んー、おいし。やっぱり、
-ここのバニラは最高だわ。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-ここで一度でも食べたら、
-もう他の店じゃ満足できないわよ。
+If you have <ITEM_070> I can
+exchange it for you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん、持ちましょうか？
+This is the Softy Kreem stand
+Mary was talking about, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや、平気だよ。
+Excuse me, can I get five please?
 [ENDBLOCK]
-？？？？
+Softy Kreem Stand
 [ENDBLOCK]
-あら、お連れさんがいたのね。
-かわいい方がおふたりも。
+Which flavors would you like?
 [ENDBLOCK]
-<Rutee>
+<Stahn>
 [ENDBLOCK]
-おほめに預かり、どーも。
+Ohh, there are a bunch to choose
+from. Which one, which one
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hmm, what should I pick.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+The standard mocha flavor, or the
+limited cherry... Which one should
+I choose...? How troublesome.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hey, if it were you,
+which would you choose?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Eh? Me?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+If it were me... I'd definitely
+go with vanilla.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Why vanilla?? You heard me
+say mocha or cherry, right?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+If you can't decide between two
+options, then your answer is a
+third option... or is that wrong?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+ I see, I hadn't thought of that...
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Then I'll do that. Sir, one vanilla!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, me too. Five vanilla!
+[ENDBLOCK]
+Sorry for the wait. Here's five vanillas.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Mmm, delicious! The vanilla flavor
+here is really the best!
+[ENDBLOCK]
+????
+[ENDBLOCK]
+If you eat here just once, no other
+shop will be able to satisfy you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あら……？	あの子たち……
+<Stahn>, do you want me
+to help carry them?
 [ENDBLOCK]
-？？？？
+<Stahn>
 [ENDBLOCK]
-なあに？	みんなも食べたいの？
+Nah, I'm good.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-おじさん、ここにいる子の分も、
-ちょうだい。全員ね。
+Oh my, these are your companions?
+You're both so cute.
 [ENDBLOCK]
-よろしいんですか、お嬢様。
+<Rutee>
 [ENDBLOCK]
-？？？？
-[ENDBLOCK]
-もちろん。みんなで食べたほうが、
-おいしいに決まってるもの。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-みんな、いらっしゃい。
-アイスキャンディーをご馳走するわ。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-ほらほら、押さないの。
-ちゃんとみんなの分あるからね。
+You flatter me, thank you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-いい方ですね。
+Hmm...? Those children...
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Yoohoo~ Do you all want some, too?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Sir, I'd like one for these children
+here, if you please. All of them.
+[ENDBLOCK]
+Are you sure that's alright, miss?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Of course. It's better to eat
+with everyone, after all.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Everyone, here you go. I'm
+treating you to Softy Kreem.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hey now, don't push! There's
+enough for everyone.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+What a nice person.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はっ、どうだか。
+Ha, where're you seeing that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-金持ちのお嬢さんが、
-優越感に浸りたいだけじゃない？
+You sure a rich lady like that isn't
+just trying to bask in her sense of
+superiority?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……？
+<Rutee>...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-早く戻りましょ。
-アイスキャンディーが溶けるから。
+We should go back soon. The
+Softy Kreem is gonna melt.
 [ENDBLOCK]
-取り巻きの男
+Khang Fan
 [ENDBLOCK]
-チャンピオン様のお通りだ！
-全員、注目！
+The Champion is coming through!
+Everyone, your attention please!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-あっ、<Kongman>だ！
+Ah! It's <Kongman>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>……？
+<Kongman>...?
 [ENDBLOCK]
-わーい、<Kongman>！
+Waaah! <Kongman>!
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-<Kongman>！
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-よう、ガキども。
-今日もしぶとく生きてるか？
+<Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-貧しい者に施しをするのは、
-さぞ気持ちがいいだろうなあ。
-[ENDBLOCK]
-？？？？
-[ENDBLOCK]
-施しだなんて、思っていないわ。
+Hey, kids. Make sure you're
+living for the day.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-金で全てが買えると思うなよ、
-<Ilene>・<Rembrandt>！
+How charitous. It must feel
+good to give to the poor.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+I don't think of it as charity.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-フィッツガルド人の魂までは、
-絶対に売り渡したりしねえ！
+Don't think that money can buy
+everyting <Ilene> <Rembrandt>！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You even want the people of Fitzgald
+to sell their souls to you!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Ilene>・<Rembrandt>？
-<Stahn>、その名は確か……
+<Ilene> <Rembrandt>? <Stahn>,
+that name is definitely...
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-オベロン社の理念は、
-何度も説明したはずよ。
+I'm sure I've explained the principles
+of Oberon Company many times.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-私たちが資本を投下しているのは、
-フィッツガルドの発展を願っての事だわ。
+We're investing our funds with
+the hopes of developing Fitzgald.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-新しく来た連中が、儲けてるだけだろ。
-元からいた人間は、貧しいままだぜ。
+You newcomers are just trying to turn
+a profit. The people who've been here
+since the beginning are still poor.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-それは……きっとそのうち……
+That's... surely we're...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-フン、セインガルドの人間に、
-フィッツガルドの何がわかるってんだ。
+Hmph. What do you people from
+Seinegald know about Fitzgald?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-よそ者の出る幕じゃねえんだよ。
-さっさとこの国から出ていきな！
+This is of no concern to outsiders.
+So hurry up and leave our country!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは……違うんじゃないか。
+That's... isn't that wrong?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-生まれで人を決め付けるのは、
-良くないと思うけど。
+It's not good to judge people
+based on their birth.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんだ、坊主。
-俺様に説教しようってのか？
+What's it to you, kid? Are
+you trying to preach to me?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
-あまり口を挟まない方がいいのでは？
+<Stahn>... Isn't it better
+not to interfere?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だけど……
+But...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-こっ、これはあっ！
+Th-this is?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-やあ、そこの可憐なメガネのお嬢さん。
+My, who is this
+lovely glasses maiden?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-わっ、私ですか？
+Who? M-me?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-今、俺様のハートにビビッと来ましたよ。
-あなたこそ、俺様の理想の女性だ！
+My heart is racing? 
+You're my ideal woman!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい……？
+Okay...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-一緒に栄養ドリンクなどどうです？
-もしくは、ヒンズースクワットとか！
+Shall we drink energy drinks together?
+Or perhaps do Hindu squats!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-しびれるような口説き文句じゃのお。
+Well that's an exciting pickup line.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-いきなり性格が変わったわね……
+His personality changed
+all of a sudden...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、そ、その、私は……
+Ah?Uh, that's, um, I...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やめなよ、<Philia>が怖がってる。
+Cut it out, You're scaring <Philia>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-邪魔をする気か、坊主。
-おめえはこの美しい人の、何なんだ？
+You're interfering, boy. Who are
+you to this beauty, anyway?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>は俺の仲間だ。
+<Philia> is my friend.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なるほど……
+I see...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうやらおめえと俺様は、
-戦う運命にあるようだな！
+It seems that  you and I
+are destined to battle!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-決闘だ！
-カモン、俺様の闘技場！
+A duel! C'mon, to my arena!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんで俺とおまえが、
-決闘しないといけないんだよ。
+Why do we have to duel?!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、付き合う必要はないぞ。
-我らには遊んでいる時間などない。
+<Stahn>, you do not have to play
+along. We don't have time for games.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-怖気づいたのか、坊主。
-腰にぶら下げた剣はなまくらか？
+Have you lost your nerve, boy?
+Is that sword hanging at your
+waist too dull?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-なんだと、この無礼者が！
+What did you say, you insolent?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-真の男なら、申し込まれた決闘は、
-受けるものだぜ！	真の男ならな！
+If you are truly a man, you will accept
+my duel! IF you are a true man!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかったよ……
-そこまで言うならやってやる！
+Alright, ...I'll do it if it
+means that much to you.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-我を侮辱した事を後悔させてやる。
-<Stahn>、目に物を見せてやれ。
+I'll make you regret insulting me.
+<Stahn>, let's give him hell.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さん、見ていてください。
-勝利の後でお迎えにあがります！
+<Philia>, make sure to watch this.
+I will meet with you after my victory!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Dymlos>……あなたが<Stahn>さんを
-止めなくて、どうするの。
+<Dymlos>... If you won't stop
+him, what are we going to do?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-む……しかし……
+Ugh... but...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-好きにすれば？
-どうせあたしには関係ないし。
+Do whatever you like? It
+doesn't really concern me.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ごめんなさい、<Stahn>さん。
-私のせいで、こんな目に……
+I'm sorry, <Stahn>.
+Because of me, you...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-別に<Philia>のせいじゃないさ。
-決めたのはあくまで、俺自身だし。
+It's not really your fault, <Philia>.
+It was a decision I made by myself.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-闘技場って、どこにあるんだろう？
+So, where is the arena anyway?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-街の大通りを北へ行った、
-突き当たりに入り口があるわ。
+If you go up the main street in
+town to the north, there's an
+entrance at the end.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます。
-さっそく行ってみます。
+Thank you. I'll go now.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-アイスキャンディー……
+My Softy Kreem...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……あ、溶けてる。
+...Oh. It melted.
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-いらっしゃいませ。
-どの味になさいますか？
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-…………
-[ENDBLOCK]
-アイスキャンディー屋
-[ENDBLOCK]
-お客さん……？
+Welcome. Which flavor would you like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-お客さん！
+Oh, a customer?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あ、いや僕は別に食べたいわけじゃ……
+...
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+Yes sir!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Oh no, I don't want any.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、恥ずかしがっていないで
-買いましょうよ。
+Boy, don't be shy, let's buy come.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あ、ああ……そうだな。
+Oh yeah, ...alright.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-すまないが……
-そのアイスキャンディーを……
+Excuse me... that Softy Kreem...
 [ENDBLOCK]
-若い女性
+Young Woman
 [ENDBLOCK]
-きゃっぁぁーーーー！
+Aaahhh!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何事だ！
+What's wrong?
 [ENDBLOCK]
-アイスキャンディー屋
+Softy Kreem Stand
 [ENDBLOCK]
-モ、モンスターだ!!
+It's a monster!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、助けましょう！
+Boy, let's help!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はあぁぁっ！
+Aaahh!
 [ENDBLOCK]
-若い女性
+Young Woman
 [ENDBLOCK]
-あ、ありがとうございます。
+Oh, thank you very much.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-街の様子が気になります。
-行ってみましょう。
+I'm curious to see what the city
+has to offer. Let's go there.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-はい
-いいえ
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -1574,7 +1585,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -1582,9 +1593,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI<x80>
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><xE8><x00><x80></color>を取得しました。
+<x18><x65><x59><xE8><x00><x80></color>.
 
 [ENDBLOCK]
 <x19><x69><x49><xDC><x80>たちは
@@ -1615,7 +1626,7 @@ notice
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>は
+<x19><x69><x49><xDC><x80> has received 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1665,7 +1676,7 @@ notice
 [ENDBLOCK]
 <TAG_007>ウェブサイトで入力する
 連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
+フィッツガルドにあるTravelerの小屋で
 確認する事ができます。
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
@@ -1700,7 +1711,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

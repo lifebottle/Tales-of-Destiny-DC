@@ -483,7 +483,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -632,319 +632,334 @@ notice
 持てないようです。
 
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-神殿内は祭礼の準備のため、関係者と
-巡礼者以外の立ち入りを禁止しています。
+Due to preparations for the festival,
+the temple is closed to the public.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-申し訳ないが、出直してください。
+I'm sorry, you'll have to
+come back another time.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-夜の神殿への出入りは
-禁止されています。
+Entering the temple at night,
+is not allowed.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-お引取り下さい。
+Please pick it up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ストレイライズ神殿って、ここかな？
+Is that this town's
+Straylize temple over there?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ええ、間違いありません。
+Yes, it is.
+There's no mistaking it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、さっそく乗り込むか！
+Alright!
+Well, let's get in there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-待て。いきなり飛び込むのは危険だ。
+Wait! It would be
+foolish to just rush in!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そうですね。中の状況がどうなっているか、
-わかりませんし……
+That's right. We don't know what
+could be going on in there.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私が巡礼者を装って、
-先に中へ入っていますわ。
+I'll pretend to be a pilgrim
+and go in ahead.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-皆さんは夜になってからお越し下さい。
-裏口の鍵を開けておきます。
+Please come by after nightfall.
+I'll unlock the back door for you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな事をして大丈夫なのか？
+Will it be ok
+for you to do that?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-巡礼者が各地の神殿に滞在するのは、
-珍しい事じゃありませんから。
+Yes. It's not unusual
+for pilgrims to request
+sanctuary in holy places like this.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-昼の間は、見つからないよう、
-おとなしくしていますわ。
+During the day, I'll be
+quiet as a mouse.
+They won't suspect a thing.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-無茶はしないようにな。
+Don't do anything rash.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい。ではまた後ほど。
+I won't.
+Well then, until nightfall.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さて。あたしたちも夜まで、
-ひと休みってとこ？
+OK, that's settled.
+How about we
+take a break until it gets dark?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-宿屋で待機するとしよう。
+Let's go wait at the Inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、<Lion>。いつもの電撃で、
-さっさと<Stahn>を起こしてよ。
+Hey, <Lion>, aren't you gonna zap
+him awake, like you usually do?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その必要はない。
-じきに目が覚めるだろう。
+There's no need for that.
+He'll wake up soon enough.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うわ、何あれ。
-<Lion>の奴、気持ち悪くない？
+Hey, isn't <Lion> acting
+a little strange, suddenly?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあ、いつもの恐い<Lion>さんより
-良いじゃないですか。
+Well, isn't this <Lion> better
+than the usually scary one?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-って言ってもさあ。こんな寝方させて
-おくのもひどいんじゃない？
+Even so, it's still kinda cruel
+to just leave him 
+on the ground like this...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあ、寝相はどうしようも
-ありませんから。
+Well, we can't help that
+he's such a heavy sleeper...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ほら、起きなさい<Stahn>……
+Wake up, <Stahn>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
+<Stahn>...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>……
+<Stahn>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>さん……
+<Stahn>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、しっかりしろ！
+<Stahn>, get a hold of yourself!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、ここは……？
+Huh, where...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やれやれ。元に戻ったみたいね。
+Good grief. Looks like
+you're back to normal.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いつの間にか、朝になってたんだ……
+The sun came up
+while I was out..?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだ、グレバムは!?
+Wait, what about <Greybum>?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-逃げられた。
+He got away.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-間に合わなかったか……
+We didn't make it...
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Stahn>君、具合は大丈夫かね。
+<Stahn>, you've recovered.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-バルックさん、どうしてここへ？
+Baruk, why are you here?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-君たちがチェリクを出たと聞いてね。
-心配になって後を追って来たのだ。
+I heard you all had left Cherik.
+I got worried and followed after you.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-傭兵部隊を同行させてよかった。
-神殿内のモンスターは、全て片付けたぞ。
+I had a group of mercenaries
+accompany me. They finished off
+the monsters inside the temple.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>は知らないでしょうけど、
-あれから大変だったんだからね。
+<Stahn> doesn't know it, but it's
+been pretty tough since then.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-バルックが来てくれなかったら、
-わたしたちも危なかった。
+If Baruk hadn't come, we would
+have been in real danger.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さんがバルックさんに、
-神殿へ向かうよう頼んでくれたんです。
+<Lion> helped lead
+<Baruk> to the temple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>が……？
+<Lion> did...?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-たまたま私たちが街に到着した時、
-<Lion>と会えたのでね。
+Unexpectedly, we met up with,
+<Lion> when we arrived in town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだったのか……
+Is that so...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんなを助けてくれたんだな。
-ありがとう、<Lion>。
+You saved all of us. Thanks, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……ふん、だから言っただろう。
-おまえたちは足手まといだと。
+...Hmph, it's just as I said.
+You're all a burden.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-本当ならバルックに協力させて、
-グレバムを捕らえられたはずなんだ。
+If I had worked with Baruk from the
+beginning, <Greybum> would already have
+been caught.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-お陰でいちからやり直しだ。
-まったく、くだらんな。
+Because of this, we have to
+start over. How utterly foolish.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-聞いているのか、<Stahn>。
-いちからやり直しだと言ってるんだ。
+Did you hear me, <Stahn>?
+I said we have to start over.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、ああ。
+O-oh, yeah.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-次にグレバムと会った時は、
-こうは行かない。
+The next time <Greybum> shows himself,
+things will not go this way.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その時こそ、僕たちの実力を、
-見せつけてやる。いいな？
+Next time, we will show him
+our combined power. Okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……！
+<Lion>...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-バルック！
-グレバムの行き先はわかったか？
+Baruk! Do you know where
+<Greybum> could have gone?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-巨大なレンズらしき物体を運ぶ、
-モンスターの姿が目撃されている。
+Monsters have been sighted carrying
+what looks to be a giant lens.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-そのモンスターはどうやら、
-ノイシュタット方面へ向かったようだ。
+It's likely that they were headed
+in the direction of Neuestadt.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-船で追いかけるしかないか……
-バルック、手配を頼む。
+We'll have to pursue him by ship then...
+Baruk, I'm relying on you for the
+preparations.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕たちはカルバレイス港から出て、
-ノイシュタットへ向かう。
+We will leave for Neuestadt
+from the Port of Calvalese.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-了解した。私の権限内で、
-協力できる事は協力しよう。
+Understood. I'll do everything
+in my power to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！	みんな、すぐに出発だ！
+Alright! Everyone, let's go!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-待ちなさいよ、あんたたち！
-あわてすぎだって！
+Hang on, you two!
+Don't just rush off!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-やれやれ、あわただしい事だ。
+Oh my, they're in such a hurry.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-だが……
-これで納得したのではないかね？
+However...
+Isn't this convincing?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何がでしょう？
+What do you mean?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>は案外わかりやすいと、
-前に言った事だよ。
+Like I said before. <Lion> is
+surprisingly easy to understand.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……そうかもしれませんね。
+...That may be true.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x48><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x48><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -962,7 +977,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><x48><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x48><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -970,7 +985,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qIl<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x6C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x68><x00><x80></color>を取得しました。
 
@@ -1088,7 +1103,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><x48><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><x48><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

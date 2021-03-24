@@ -460,353 +460,359 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-やあ、久しぶり！
-セインガルドはどうだった？
+Hi, it's been a long time!
+How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-なんの事だろうか。
-どなたかと勘違いしておられるのでは？
+I think you may have mistaken me 
+for someone else.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-何とぼけているんだよ。
-ほらほら、また話を聞かせてくれよ。
+Don't go away. Come on, let's talk 
+about it again.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-本当に別人なのか？
-
+Are you really a different person?
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-これはすまない事をした。
+Oh, sorry about that.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-勘違いだと気づいてくだされば、
-構いませんが……
+As you've realized your mistake.
+Don't worry about it...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-あなたが会ったという人は、
-それほど私と似ているのですか？
+Do I really look that much like
+the person you had met before?
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-ああ、そりゃ良く似ているよ。
+Yeah, that's right.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-もし、彼を知っている人が見たら、
-そりゃ面白い反応をすると思うな。
+If one of his acquaintances sees
+you...that would be an interesting
+reaction.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-けど、彼は急いでいるみたいだったから、
-探し出すのは無理だと思うけどね。
+He seemed to be in a rush, so it 
+will be impossible to find him.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-そうだ！	だったら彼の事を
-知っている人を探してみなよ。
+That's right! Then you should find 
+somebody who might know him.
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-絶対にみんな、
-彼と勘違いするはずさ。
+I'm sure, someone has seen him.
 [ENDBLOCK]
-男性
+刷?
 [ENDBLOCK]
-だから、クレアなんて子は、
-知らないってば。
+So claire is a child if
+she doesn't know.
 [ENDBLOCK]
-男性
+刷?
 [ENDBLOCK]
-これやるから、
-もう来ないでくれよ。
+I'll do this, so don't
+come anymore.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-ねえねえ、あの小さな赤い髪の
-男の子はいないの？
+Hey, isn't that little
+red-haired boy?
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-キュートな子だったから、
-もう一回、会いたかったのに。
+she was a cute girl, so I would
+have liked to see her again.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-七将軍のリーン様って
-本当にいいわよね～。
+Leen of the Seven Generals
+is really good.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-え？	知らないの？
+What? Don't you know?
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-かっこよくて、優しくて、
-その上強くて、でねでね……
+It's cool, it's kind, 
+it's strong, and it's nice.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-んもう、聞く気ないでしょ！
+Hmph, are you done listening!
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-なんなりとお申し付け下さい、
-<Lion>様！
+Please tell us anything, <Lion>!
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-どうして俺様のようなエリートが
-街の警備をしなきゃならんのだ。
+Why do elites like me have
+to guard the city?
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-この犬が俺の足に小便を引っかけて
-くるんですよ。
+This dog keeps peeing
+on my leg.
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-いつもここに立ってるからって……
-俺、泣いてもいいですか？
+Because I'm always standing here...
+Can I  mourn.
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-なんなりとお申し付け下さい、
-<Lion>様！
+Please tell us anything, <Lion>!
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-どうして俺様のようなエリートが
-街の警備をしなきゃならんのだ。
+Why do elites like me have
+to guard the city?
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-<Lion>様は一緒じゃないのか。
-じゃあペコペコする必要はないな。
+Isn't <Lion> with you? That way
+you don't have to mess around.
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-我が国を攻撃したのは、どこの手の者だ！
-アクアヴェイルの仕業ではないのか？
+Who is the one who attacked our
+country! Isn't it the work of
+Aquavale?
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-モンスターがひっきりなしに襲ってくる。
-このままではもちそうにない……
+Monsters are constantly attacking.
+It's unlikely to be safe for long...
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-秘密兵器はまだできないのか？
+Can secret weapons
+still be made?
 [ENDBLOCK]
-王国兵士
+Royal soldier
 [ENDBLOCK]
-頼む。世界を……世界を救ってくれ！
+Ask, the world.
+ave the world.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-オベロン社はすごくお給料がいいの。
-就職できて本当に良かったわ。
+Oberon pays it's employees really good.
+I'm really glad I got the job.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-ストレイライズ神殿が、組織の
-建て直しを始めたみたいよ。
+It looks like the Straylize Temple
+has begun rebuilding the organization.
+[ENDBLOCK]
+Oberon Employee
+[ENDBLOCK]
+Oberon pays it's employees pretty well.
+I'm really glad I got the job.
+[ENDBLOCK]
+Oberon Employee
+[ENDBLOCK]
+Did the military really start
+searching the Oberon Company?
 
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-オベロン社はすごくお給料がいいの。
-就職できて本当に良かったわ。
+Oberon employees like myself,
+are now treated as bad guys.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-オベロン社に軍の捜索が入ったって、
-本当なのかしら？
-
+As a result, I wish I hadn't
+gotten the job.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-オベロン社の社員って言ったら、
-今じゃすっかり悪者扱いよ。
+You're collecting lenses in the
+castle. I'll help as much as
+I can.
 [ENDBLOCK]
-オベロン社員
+Oberon Employee
 [ENDBLOCK]
-こんな事なら、就職なんか
-しなければ良かったわ。
+To make a hole in that outer shell.
+The power of the Integrated Lens
+Cannon is amazing.
 [ENDBLOCK]
-オベロン社員
+Girl
 [ENDBLOCK]
-お城でレンズを集めてるそうね。
-いくらでも協力するわよ。
+Hey, where does <Lion> live?
 [ENDBLOCK]
-オベロン社員
+Girl
 [ENDBLOCK]
-集積レンズ砲の威力はすごいわね。
-あの外殻に穴を開けるなんて。
+The mysterious <Lion>, a beautiful 
+young swordsman, is in fact the son
+of a certain corporation president!
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ねえねえ<Lion>さまって
-どこに住んでいるの？
+There are rumors about it, but it
+seems that the truth is uncertain.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-謎の美少年剣士<Lion>、
-その正体は某社の御曹司！
+Hey, what kind of person
+is <Lion>'s mother?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-……って噂があるんだけど、
-真偽の程は定かじゃないらしいわ。
+Hey, where does <Lion> live?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ねえねえ<Lion>さまの
-お母さまってどんな方なの？
+The mysterious <Lion>, a beautiful 
+young swordsman, is in fact the son
+of a certain corporation president!
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ねえねえ<Lion>さまって
-どこに住んでいるの？
+There are rumors about it, but it
+seems that the truth is uncertain.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-謎の美少年剣士<Lion>、
-その正体は某社の御曹司！
+It seems that the CEO and 
+executives of Oberon have 
+disappeared all at once.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-……って噂があるんだけど、
-真偽の程は定かじゃないらしいわ。
+It seems that <Hugo>, the CEO of
+Oberon, was the one broadcasting that..
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-オベロン社の総帥や幹部が、
-一斉に姿を消したらしいわよ。
+It seems that the number of empty
+shells is increasing because it
+sucked up the soil of each country.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-あの放送を流していたのは、
-オベロン社総帥の<Hugo>らしいわよ。
+The name of the secret weapon made
+in the castle is the Integrated
+Lens Cannon.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-空の外殻が増えているのは、
-各国の土を吸い上げたからだそうよ。
+I don't have anymore to tell.
+I'll try to find out more.
 [ENDBLOCK]
-女の子
+Peddler
 [ENDBLOCK]
-お城で作っている秘密兵器の名は、
-集積レンズ砲というそうよ。
+I'm from the city of Cresta.
+It's big here and I'm in awe.
 [ENDBLOCK]
-女の子
+Peddler
 [ENDBLOCK]
-もう教えられる事はないわ。
-後はよろしく頼むわね。
+Is Cresta safe...?
 [ENDBLOCK]
-行商人
+Peddler
 [ENDBLOCK]
-私はクレスタの街から来ました。
-ここは広くて、迷っちゃいますね。
+Is Cresta safe for now? 
+Is that so... good...
 [ENDBLOCK]
-行商人
+Peddler
 [ENDBLOCK]
-クレスタは無事なんだろうか……？
+It seems that the lens was
+also brought from Cresta.
 [ENDBLOCK]
-行商人
+Peddler
 [ENDBLOCK]
-クレスタは今のところ無事？
-そうですか……良かった……
+I wish you victory.
 [ENDBLOCK]
-行商人
+Man
 [ENDBLOCK]
-クレスタからもレンズが
-運ばれてきたそうですよ。
+Is there a way
+to have fun?
 [ENDBLOCK]
-行商人
+Man
 [ENDBLOCK]
-勝利をお祈りしています。
+What's that? It's looks like an
+umbrella floating in the sky, 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-楽してもうける方法はないかな？
-
+Don't go up in the price of crops.
+Do you buy it up now?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-空に浮かんでる傘みたいなの、
-あれは何なんだ？
+I think I can buy up the lens
+now and make a profit...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-農作物の値段があがるな……
-今のうちに買い占めるか。
+Do you need lens anymore? I
+bought up all the stock!
 [ENDBLOCK]
-男
+Uncle
 [ENDBLOCK]
-今ならレンズを買い占めて、
-もうけられそうだな……
+How about the castle in this country?
+You will fall in love with it.
 [ENDBLOCK]
-男
+Uncle
 [ENDBLOCK]
-レンズはもう必要ないのか？
-せっかく買い占めたのによ！
+Looking at the castle, I'm glad I
+was a person from this country.
 [ENDBLOCK]
-おじさん
+Uncle
 [ENDBLOCK]
-どうだい、この国のお城は。
-ほれぼれするだろう。
+As long as this castle is here,
+Seinegald prosperity will continue.
 [ENDBLOCK]
-おじさん
+Uncle
 [ENDBLOCK]
-お城を見ていると、この国の人間で
-良かったと思うよ。
+What if that big light falls
+ toward the castle...
 [ENDBLOCK]
-おじさん
+Uncle
 [ENDBLOCK]
-このお城がある限り、
-セインガルドの繁栄は続くだろうね。
+The city is no longer safe. I
+wish I could evacuate to the
+castle.
 [ENDBLOCK]
-おじさん
+Uncle
 [ENDBLOCK]
-あの大きな光が、お城を目がけて
-落ちてきたらどうしよう……
+It is said that a tremendous
+amount of lenses are being carried
+into the castle.
 [ENDBLOCK]
-おじさん
+Uncle
 [ENDBLOCK]
-街の中はもう安全とはいえない。
-お城の中に避難できればいいのに。
-[ENDBLOCK]
-おじさん
-[ENDBLOCK]
-お城の中に、ものすごい量のレンズが
-運びこまれているそうだ。
-[ENDBLOCK]
-おじさん
-[ENDBLOCK]
-日の光を浴びて輝くお城を、
-もう一度見たいんだ！
+I want to see the castle shining
+in the sunlight again!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xCC><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xCC><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -824,7 +830,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xCC><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xCC><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -832,7 +838,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xF0><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><xEC><x00><x80></color>を取得しました。
 
@@ -950,7 +956,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><xCC><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xCC><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -1032,162 +1038,162 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-おい、俺はやきもち焼きだ。
-しかもこんがりだ。悪いか！
+Hey, I'm Yakimochiyaki. More importantly,
+it is dark. This is bad!
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-お！	おまえらにも
-俺と同じ、やきもち焼きがいるな。
+Oh! You also have the same
+yakimochi-yaki as I do.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-俺が腹立てている事を、
-聞いてくれないか？
+Can you hear
+that I'm angry?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>はい
-いいえ
+<TAG_007>Yes
+No
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これは数日前の話だ。
+This was a few
+days ago.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mr. Lewein of the Seven Generals is
+said to have structured it.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Our Madonna, The Seven
+Generals' Melina!
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-七将軍のルウェイン様が、
-仕組んだらしいのだが……
+More than anything else, I had
+the same seven generals, Ascus,
+dated.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-俺たちのマドンナ、
-七将軍の<Melina>ちゃんと！
-
+Betrayal.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-よりにもよって、同じ七将軍の
-<Ascus>の野郎をデートさせたんだ。
+<Melina>-chan was supposed to date
+<Ascus> at the behest of Lewein.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-裏切りもの～。
+No matter how long I waited, the
+Ascus guy ... didn't show up.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ルウェイン様の言いつけで、
-<Ascus>とデートをする事になった
-<Melina>ちゃんだったが……
+What an idiot <Ascus> is,
+He showed up a few hours late.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-いつまで待っても<Ascus>の
-野郎は……現れなかった。
+<Ascus> said.
+"Apologies, I forgot."
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-なんと<Ascus>のアホは、
-何時間も遅刻して来たんだ。
+Oh, think this is <Ascus>'s own voice. listen.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Ascus>は言った。
-「悪い、忘れていた」。
+<Melina> was in a dormitory like
+this. "Don't be silly. How many
+hours do you have to wait!"
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あ、これは<Ascus>本人の声だと
-思って聞いてくれな。
+Ascus said, "Then I should
+have gone home."
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Melina>ちゃんはこう返したんだ。
-「ふざけないでよ。何時間待たせるの！」。
+<Melina>-chan, "This is Lewein's
+command. You can't go home
+without permission."
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Ascus>は「それならば、
-帰ればよかったのだ」。
+The idiot continued, "I'm not
+interested in these things. Of
+course, you too. I have something
+to do."
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Melina>ちゃん、「こ、これは
-ルウェイン様の命令よ。勝手に
-帰れるわけないじゃない」。
+<Melina> said, "Why am I fluttering!
+<Ascus> is stupid!"
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-アホは続けた「俺はこういったものに
-興味がない。無論、おまえにもな。
-俺にはやるべき事がある」と。
+"I'm an idiot... 
+why is that guy..."
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-<Melina>ちゃんは「どうして私が
-フラれるのよ！	<Ascus>のバカっ！」。
-[ENDBLOCK]
-男
-[ENDBLOCK]
-「バカは私だ……どうして
-あんなやつの事……」。
-[ENDBLOCK]
-男
-[ENDBLOCK]
-とまあ、<Melina>ちゃんに、
-恥をかかせた<Ascus>は許せねぇ！
+Well, I can't forgive <Melina>,
+for the shameful <Ascus>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも今のを見る限りじゃ、
-<Melina>さんって<Ascus>さんの事を
-好きなように見えたけどな。
+But as far as I can see now, 
+<Melina> seemed to like <Ascus>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ですよね。
+That's right.
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-いやー、まさしく青春ですね。
+No, it's just youth.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-って、あれ？
-いつからそこに？
+What is that? When
+were you there?
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-<Melina>が、口を
-聞いてくれないもので……
+<Melina>, doesn't listen to me...
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-この前のデートがどうなったか、
-知っている人を、探していました。
+I was looking for someone who
+knew what happened to my last date.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これが<Ascus>の正体なんです！
-ですから、今後は<Melina>ちゃんを……
+This is the true identity of <Ascus>!
+So, from now on, <Melina>-chan...
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-燃えてきました！
+It's buring!
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-私が動けるうちに、
-ふたりをゴールインさせます！
+While I can move,
+let them finish in!
 [ENDBLOCK]
-ルウェイン
+Lewein
 [ENDBLOCK]
-こうなったら力ずくでも！
+If this happens,
+even by force!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ただの天邪鬼にも見えますね……<x00>
+It looks like just an evil spirit...<x00>
 [ENDBLOCK]

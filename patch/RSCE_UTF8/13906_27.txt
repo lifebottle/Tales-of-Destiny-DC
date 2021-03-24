@@ -2,65 +2,65 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Alright, leave it to me! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-うちは食材屋だよ。
+We're a grocery store.
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
-あ、道具屋です。
-買い物されますか？
+Oh, we're an Item store.
+Would you like to buy something?
 [ENDBLOCK]
-武器屋
+Weapon Shop
 [ENDBLOCK]
-武器の器は気持ちの気でも
-あるわけだな。うんうん。
+Weapon have feeling too ok!
+For real!
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
-ああ、こんな事がばれたら
-かあちゃんに怒られるだろうな。
+Oh, my mom will be so mad
+if she finds out about this.
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
-むりしてお父さんと
-お小遣い稼ぎに来ちゃった。
+I was forced to come here with
+my dad to earn some money...
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
-でも危なくなったら、
-すぐに逃げちゃうからね。
+But if I'm in danger, 
+I'll run away no questions asked!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -78,7 +78,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -86,7 +86,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA0><x00><x80></color>を取得しました。
 
@@ -204,7 +204,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x80><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x80><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

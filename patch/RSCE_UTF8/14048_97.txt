@@ -1,7 +1,7 @@
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
 ○pira－初期化されています
@@ -17,55 +17,52 @@
 潜伏者復帰
 
 [ENDBLOCK]
-<x1D><x76><x04><x80><xEA>wれてる
+<x1D><x76><x04><x80>離れてる
 
 [ENDBLOCK]
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-ま、待ってくれ！
-俺は海賊じゃない!!
-
+Wait, wait wait!
+I'm not a pirate!
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-あのやろうに脅されて、
-こんな格好をしているだけなんだ。
+I'm only dressed like this because
+that bastard threatened me.
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-ホ、ホントなんだ。
-信じてくれ、頼むよ！
-
+Uh, it's true.
+Trust me, please!
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-そ、そうだ、あんたに
-俺のコレクションを売ってやるよ。
+Oh, yeah, I'll sell
+you my collection.
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-これを見れば、あんたの
-味方だって分かってもらえるさ。
+If you see this, you'll
+know I'm on your side.
 [ENDBLOCK]
-海賊
+Pirate
 [ENDBLOCK]
-あんたなら、
-いつでも歓迎するぜ。
-
+You are always 
+welcome here, man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -83,7 +80,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -91,7 +88,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x1C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x18><x00><x80></color>を取得しました。
 
@@ -209,7 +206,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xF8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

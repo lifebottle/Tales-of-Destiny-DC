@@ -1,20 +1,20 @@
 
 [ENDBLOCK]
-<TAG_005>
+<TAG_005>Dead...
 [ENDBLOCK]
 
 [ENDBLOCK]
-反応が無い……
+Dead...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB8><x80></color>が
+<TAG_007><S03><turquoise><TAG_013ab></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -32,7 +32,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB8><x80></color>が
+<TAG_007><S03><turquoise><TAG_013ab></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -40,7 +40,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xDC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xDC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xD8><x00><x80></color>を取得しました。
 
@@ -158,7 +158,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xB8><x80>のソーディアンデバイスが
+<TAG_007><TAG_013ab>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

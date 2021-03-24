@@ -1,11 +1,11 @@
 notice
 [ENDBLOCK]
-扉は固く閉ざされている。
+The door is shut.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-射出装置です。
-押すと反動で飛ぶ事が出来ます。
+Ejection Device.
+Push to Eject.
 
 [ENDBLOCK]
 
@@ -14,11 +14,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xEC><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -36,7 +36,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xEC><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -44,7 +44,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qJ<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x10><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5A><x0C><x00><x80></color>を取得しました。
 
@@ -162,7 +162,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xEC><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

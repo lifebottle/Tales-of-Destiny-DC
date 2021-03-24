@@ -173,17 +173,17 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 なんて事だあ。
 こっちが本物だったのか！
 [ENDBLOCK]
-花売りの女の子
+Flower Girl
 [ENDBLOCK]
-あっ！
+Ah—!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-うっ……！
+Guh...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>さん!?
+<Ilene>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -192,23 +192,24 @@ Pull yourself together!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-It was just a clumsy misstep...
-I'm fine…. It's not a big injury.
+It was just a clumsy misstep.
+I'm fine. It's not a big deal.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-I'm fine now... don't worry.
+I'm fine now... don’t worry.
 [ENDBLOCK]
-Big sis...
+Onee-chan...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Ilene>, what's with all this ruckus?
+<Ilene>, how's the
+situation looking?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Just outside the port, an unidentified
-armada was spotted.
+Just outside the port, an
+unidentified armada was spotted.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -221,18 +222,18 @@ commanding them?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We have to beat them! We can't
-just let them run loose like this!
+We have to beat them! We can't just
+let them run loose like this!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 <Ilene>, let us borrow one of
-the Oberon Company’s ships.
+the Oberon company ships.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Please head to the port. If you
-drop my name, they'll let you pass.
+...Please head to the port. Mention 
+my name and they'll let you pass.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -246,11 +247,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xD0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -268,7 +269,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xD0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -276,7 +277,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xF4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xF0><x00><x80></color>を取得しました。
 
@@ -394,7 +395,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xD0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xD0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

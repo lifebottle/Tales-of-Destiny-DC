@@ -1,133 +1,132 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-うおぉぉ！
-いい女じゃないか！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-うげ！	なんか、
-あたしの方を見てない？
-[ENDBLOCK]
-あらくれ兵士
-[ENDBLOCK]
-よお、おまえ。
-俺の女になれよ。
+Oh, my God! You're a
+good looking woman!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はぁ？	あんた自分の顔
-見た事あんの？
+Ugh! Don't look at me?
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-ほう、ずいぶんと、
-強気な女だな。
+Yeah, you. Be my woman.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Huh? Have you seen yourself?
+[ENDBLOCK]
+Rude Soldier
+[ENDBLOCK]
+Hey, she's a very
+bullish woman.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おい、おまえ！
+Hey, you!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-イエィ！	そうよ、<Stahn>。
-とっちめてやんなさい！
+Yeah! Right, <Stahn>.
+Lay into them!
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-なんだこのガキ？
-俺たちと、やろうってのか？
+What's with this kid? What're you
+going to do to us?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、こんなところでモメ事はやめろ。
+Hey, stop doing that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、<Lion>。
-こいつらが……
+But, <Lion>. 
+These guys...
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-ま、まさか……<Lion>？
+No way, <Lion>?
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-どうしたんだよ？
+What happening?
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-バカ野郎！
-客員剣士の<Lion>・マグナスだ!!
+Stupid! This is <Lion> Magnus,
+the Honorary Knight!!
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-こいつが……
-あの<Lion>!?
+This guy's...
+That's <Lion>!?
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-逃げるぞ！
+I'm out of here!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やったー！
-ざまーみろー！
+Come on! come on!
+What's the matter?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとう、<Lion>。
-助かったよ。
+Thanks, <Lion>.
+For helping us.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-フンッ！
+Hmph!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それにしても、
-あんた、どんな評判してんのよ。
+Anyway, what kind of
+reputation do you have?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕が知るものか。
+What do I know.
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-お、また会ったな！
+Hey, good to 
+see you again.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-おや？	今日は、<Lion>は
-一緒じゃねえのか？
+Oh? Isn't <Lion>
+with you today?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-また、おまえらか！
-いいかげんにしろよ！
+And you! 
+Don't do that!
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
-どうせ、やつがいたところで、
-親父の<Hugo>に泣きつくんだろ。
+Anyway, when he was there,
+he cried at his father Hugo.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-ああ。それに噂じゃ、親父とふたりして
-軍に追われているらしいな。
+Oh. And rumor has it that him
+and his father are being chased
+by the army.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……いわよ。
+...No, no, no.
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 ああん？
 良く聞こえねえなぁ。
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 よろこべ。今日こそ、
 俺の女にしてやるよ。
@@ -136,7 +135,7 @@
 [ENDBLOCK]
 ……あんたら、うざいのよ。
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
 なんだと、女!!
 [ENDBLOCK]
@@ -152,11 +151,11 @@
 [ENDBLOCK]
 <Rutee>！
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
 女のくせに、
 やろってのか！
@@ -171,30 +170,30 @@
 ただ、そこからは……
 本気で行く！
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
 くっ……！
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 やめろ。
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
 このまま、引き下がるのか!?
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 ああ、そうだ。
 [ENDBLOCK]
-あらくれ兵士
+Rude Soldier
 [ENDBLOCK]
 すまなかったな……
 [ENDBLOCK]
-店長
+Clerk
 [ENDBLOCK]
 そういえば、最近、君に言い寄ってた
-あらくれ兵士を見ないよ。
+Rude Soldierを見ないよ。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -209,11 +208,11 @@
 そんな昔の事、
 どうでもいいでしょー。
 [ENDBLOCK]
-店長
+Clerk
 [ENDBLOCK]
 いらっしゃいませ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 お久しぶりです。
 [ENDBLOCK]
@@ -225,7 +224,7 @@
 [ENDBLOCK]
 一体、どうしたの!?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 その節は、どうも。
 [ENDBLOCK]
@@ -237,7 +236,7 @@
 <Rutee>
 [ENDBLOCK]
 何言ってるのよ、<Stahn>。
-あのあらくれ兵士じゃない。
+あのRude Soldierじゃない。
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -248,20 +247,20 @@
 鎧を脱いだら、
 見違えたじゃない。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ありがとうございます。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今は、兵士を辞めて、
+今は、Soldierを辞めて、
 田舎で家業を手伝っています。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 へぇー、そうなんだ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 それで……あの……その……
 [ENDBLOCK]
@@ -270,7 +269,7 @@
 何？	はっきり言いなさいよ。
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 お、おれの田舎に……
 一緒に来てくれないか！
@@ -279,7 +278,7 @@
 [ENDBLOCK]
 まさか、それって……！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 両親に君を
 会わせたいんだ……
@@ -292,11 +291,11 @@
 [ENDBLOCK]
 断るの、早っ！
 [ENDBLOCK]
-店長
+Clerk
 [ENDBLOCK]
 断るの、早っ！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 そうですか……
 [ENDBLOCK]
@@ -329,7 +328,7 @@
 [ENDBLOCK]
 それに……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ……？
 [ENDBLOCK]
@@ -339,97 +338,102 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>鳥の羽ばたきにより空翔ける帆船
-題名「レアバード」
+<TAG_005>A sailing ship that flies 
+by the flap of a bird's wings
+Title: "Rare Bird"
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-ご注文を承ります。
+You can place your order.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-はぁー、今日も眠いなあ……
+Huh, I'm tired again, today...
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-すみません。
-今夜は店じまいです。
+Sorry.
+I'm closing up for the night.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-ご注文を承ります。
+You can place your order.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-はぁー、今日も眠いなあ……
+Huh, I'm tired again, today...
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-先ほど放送を流していたのは、
-オベロン社総帥ではないですか？
+Wasn't it Oberon's president
+who was broadcasting just now?
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-私は最後の最後まで、店を続けます。
+I'll continue to run the
+store until the very end.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-最近、お客様の数が増えています。
-飲まずにいられないのでしょう。
+Recently, the number of customers
+has been increasing. I guess they
+can't help but drink.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-当店は未成年の方向けに、
-ミルクも販売しております。
+Our store also sells
+milk for minors.
 [ENDBLOCK]
-店長
+Manager
 [ENDBLOCK]
-無事に戻られたら、とっておきの
-ヴィンテージをおごりますよ。
+When you get back safely, 
+I'll buy you a nice vintage one.
 [ENDBLOCK]
-マスター
+Master
 [ENDBLOCK]
-最近、あらくれ兵士を見ないよ。
-現実ってものがわかったのかな？
+I haven't seen any hooligans lately.
+Have they learned what reality is?
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-これは都会で流行りの
-コスプレという商売方法なんですよ。
+This is a business method called cosplay,
+it's very popular in the city.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-準備中ぐらい普通の制服が
-あってもいい気がするのよね。
+I feel like we should at least have
+normal uniforms while we're getting ready.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-こんなところでこんな格好、
-してる場合じゃない気がするけど……
+I don't think I'm supposed
+to be here, Looking like this...
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-お客がいるんだから仕方ないわね。
+I can't help it,
+I've got customers.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-お城でレンズを買い取ってくれるって、
-本当？
+Is it true that you can
+buy lens at the castle?
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-私の新しい衣装を見たいなら、
-絶対勝って戻ってきてよね！
+If you want to see my new outfit,
+you'd better come back a winner
+for sure!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -447,7 +451,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -455,7 +459,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xCC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xC8><x00><x80></color>を取得しました。
 
@@ -573,7 +577,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xA8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xA8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -655,131 +659,134 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-わたしは<TAG_054>で交易をやっている
-<TAG_053>という者だ。
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
 [ENDBLOCK]
-まだ終わってないのか？
-やめるとか言わないでくれよ。
+You're not done yet? Please 
+don't tell me you're quitting.
 [ENDBLOCK]
-もし暇だったら、
-仕事を手伝ってくれないか？
+If you're not too busy, maybe you
+could help me with my work.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>仕事を引き受ける
-暇じゃない
-どんな仕事？
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
 
 [ENDBLOCK]
-<x18><x66><x50><x2C><x00><x80>の<x18><x66><x50><x28><x00><x80>に
-<x1A><x71><x44><x34><x80>を<TAG_035>個調達してくれ。
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
 [ENDBLOCK]
-報酬は<TAG_032>ガルドだ。
-あんたなら簡単な仕事だろ？
+The reward is <TAG_032> Gald.
+It's an easy job.
 
 [ENDBLOCK]
-select
+Job
 [ENDBLOCK]
-<TAG_007>依頼：<x18><x66><x50><x2C><x00><x80>の<x18><x66><x50><x28><x00><x80>に
-			<x1A><x71><x44><x34><x80>を<TAG_035>個調達する。
-報酬：<TAG_032>ガルド
-仕事を引き受けますか？
-やります
-やめときます
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
 [ENDBLOCK]
-とりあえず報酬の一部を
-前金として渡しておく。
+In the meantime, I'll advance 
+you a portion of the reward.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>前渡し金として
-<TAG_032>ガルド受け取りました。
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
 
 [ENDBLOCK]
-よろしく頼むぜ！
+I'm counting on you!
 [ENDBLOCK]
-なんだ残念だな。
-また頼むぜ。
+What a pity.
+Maybe next time.
 [ENDBLOCK]
-それじゃあ、暇が出来たら頼むぜ。
+Well, I'll see you the next time.
 [ENDBLOCK]
-なに、簡単な仕事さ。
+It's an easy job.
 
 [ENDBLOCK]
-別の街にいる同業の仲間に
-指定の品を買って持っていくだけ！
+Just obtain the designated items
+and take them to my cohort
+in another city!
 [ENDBLOCK]
-これで金になるんだから
-やらない手はないよな？
+I mean, there's money to be made
+in this, so why not do it, right?
 [ENDBLOCK]
-返事くらいしてくれよ。
+Please do as much as you can.
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80>の<TAG_055>から
 依頼を受けているようだな。
 [ENDBLOCK]
 注文の品は……
-<x1A><x72><x0C><x80><x99>TAG_035>個だな。
+<x1A><x72><x0C><x80>を<TAG_035>個だな。
 
 [ENDBLOCK]
-早めに頼むぜ。
+I'll be quick about it.
 
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80>は<x18><x66><x50><x24><x00><x80>にいる。
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
-<x1A><x72><x0C><x80><x99>TAG_035>個、
-間違いなく調達してくれよ。
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
 
 [ENDBLOCK]
-調達ご苦労さん！
+Good luck with the procurement!
 
 [ENDBLOCK]
-報酬の残金
+Remainder of Reward
 [ENDBLOCK]
-報酬
+Reward
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>として
-<TAG_077>ガルドもらいました。
+<TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
+<TAG_077> Gald penalty for refunding
+the payment advance.
 
 [ENDBLOCK]
-指定の品数に足りないな……
+You're short the requested number of items
 
 [ENDBLOCK]
 俺が必要なのは<x1A><x72><x40><x10><x80>を
 <TAG_075>個だぞ。
 [ENDBLOCK]
-引き受けた依頼をやめるなら
-違約金を払ってもらう事になるぞ。
+There'll be a penalty,
+if you quit the job.
 [ENDBLOCK]
-引き受けた依頼を取り消すには
-違約金が必要だぜ？
+There'll be a penalty,
+if you quit the job.
 [ENDBLOCK]
-よろしく頼むぜ。
+It's great to work with you.
 [ENDBLOCK]
-それじゃ頑張れよ。
+Well, good luck then.
 [ENDBLOCK]
-本気で言ってるのか？
-考え直すなら今のうちだぞ？
+Are you serious? If you're having
+second thoughts, now's the time.
 [ENDBLOCK]
-ちょっとガッカリだ……
+I'm a little disappointed...
 
 [ENDBLOCK]
-前金返却と違約金
+I am charging a cancellation
 [ENDBLOCK]
-違約金
+Breach of Contact Fee
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x28><x00><x80>として
-<TAG_076>ガルド払いました。
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
-違約金を払ってくれないと
-契約解除はできないぞ。
+You can't cancel the contract
+unless you pay the penalty.
 [ENDBLOCK]
 とりあえず迷惑料として
 手持ちの金を支払ってもらうぜ。
@@ -790,14 +797,14 @@ notice
 <TAG_075>ガルド支払いました。
 
 [ENDBLOCK]
-金が足りないぞ。
-用意してから来てくれ。
+You don't have enough money.
+Come back when you have it.
 [ENDBLOCK]
-よろしく頼むぜ
+I'm counting on you, man.
 
 [ENDBLOCK]
-おいおい本気かい？
-今なら考えなおせるぞ？
+Are you serious?
+This is your last chance?
 [ENDBLOCK]
 困ったヤツだな……
 
@@ -812,100 +819,100 @@ notice
 <TAG_076>ガルド払いました。
 
 [ENDBLOCK]
-違約金を払ってもらわないと
-契約解除はできないんだ。
+I can't cancel the contract
+without charging a penalty.
 [ENDBLOCK]
 とりあえず迷惑料として
 有り金全部支払ってもらうよ。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>迷惑料として
-<TAG_075>ガルド払いました。
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
 
 [ENDBLOCK]
-金を準備してから、
-また来てくれ。
+Get the Gald together
+and then come back.
 [ENDBLOCK]
-それじゃ、頑張れよ。
+Well, good luck.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>依頼を遂行する
-依頼を確認する
-依頼を破棄する
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
 
 [ENDBLOCK]
-ジェノス
+Janos
 [ENDBLOCK]
-ハーメンツ
+Harmentz
 [ENDBLOCK]
-アルメイダ
+Armeida
 [ENDBLOCK]
-ダリルシェイド
+Darilsheid
 [ENDBLOCK]
-クレスタ
+Cresta
 [ENDBLOCK]
-チェリク
+Cherik
 [ENDBLOCK]
-カルビオラ
+Kalviola
 [ENDBLOCK]
-ジャンクランド
+Junkland
 [ENDBLOCK]
-ノイシュタット
+Neuestadt
 [ENDBLOCK]
-リーネ
+Lienea
 [ENDBLOCK]
-スノーフリア
+Frostheim
 [ENDBLOCK]
-シデン
+Sheeden
 [ENDBLOCK]
-モリュウ
+Moreau
 [ENDBLOCK]
-トウケイ
+Toukei
 [ENDBLOCK]
-サイリル
+Cyril
 [ENDBLOCK]
-ハイデルベルグ
+Heidelberg
 [ENDBLOCK]
-ねこにん基地
+Calvalese
 [ENDBLOCK]
-？？？
+???
 [ENDBLOCK]
-ジェネラ
+Genera
 [ENDBLOCK]
-ハネウェル
+Honeywell
 [ENDBLOCK]
-アメクス
+Amex
 [ENDBLOCK]
-シティ
+Siti
 [ENDBLOCK]
-デュポン
+DuPont
 [ENDBLOCK]
-タピラ
+Tapira
 [ENDBLOCK]
-アルコア
+Alcoa
 [ENDBLOCK]
-ジョンソン
+Johnson
 [ENDBLOCK]
-ファイザ
+Pfizer
 [ENDBLOCK]
-フィリップ
+Philip
 [ENDBLOCK]
-ベライゾン
+Verizon
 [ENDBLOCK]
-エクソン
+Exxon
 [ENDBLOCK]
-モルガン
+Morgan
 [ENDBLOCK]
-アイビー
+Ivy
 [ENDBLOCK]
-パッカード
+Packard
 [ENDBLOCK]
-メルク
+Merick
 [ENDBLOCK]
-デポ
+Depot
 [ENDBLOCK]
-？？？<x00>
+???<x00>
 [ENDBLOCK]

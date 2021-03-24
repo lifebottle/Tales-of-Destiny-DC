@@ -2,6 +2,7 @@
 [ENDBLOCK]
 What? No! The Eye of Atamoni
 should be here!?
+
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -359,19 +360,19 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xE4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xE4><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the party.
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
 戦闘に参加できます。
 [ENDBLOCK]
-Will follow your party.
+同行します。
 [ENDBLOCK]
 パーティに復帰しました。
 [ENDBLOCK]
@@ -381,15 +382,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xE4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xE4><x80></color> 
 [ENDBLOCK]
-パーティから抜けました。
+has left the party.
 [ENDBLOCK]
 <x18><x65><x57><xD4><x00><x80><x18><x65><x57><xD8><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x08><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x04><x00><x80></color>を取得しました。
 
@@ -507,7 +508,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xE4><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xE4><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

@@ -1,4 +1,4 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
@@ -6,28 +6,26 @@ reset---------
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What a pretty skyline. There are
+What a magnificent town. There are
 so many new, beautiful buildings.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-With Oberon Company funding it, it
-looks like there’s been a lot of 
+With the Oberon Company funding, it
+looks like there's been a lot of
 rapid growth here recently.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I had no idea it was 
-this developed.
+I had no idea it was this developed...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What, did you think
-it was all rural?
+ What, did you think it was all rural?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Th-that's—
+Th-that's?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -37,13 +35,13 @@ S-sorry, <Stahn>.
 [ENDBLOCK]
 Hey, that guy...
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
 <Stahn>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's <Bacchus>!
+Hey, <Bacchus>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -51,22 +49,22 @@ Who?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-He's a childhood friend from 
-Lienea. Wow, what a coincidence!!
+He's a childhood friend from Lienea.
+Wow, what a coincidence!!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I came to Neuestadt to shop, but
-I never thought I’d meet you here!
+I came to Neuestadt to shop, but I
+never thought I'd meet you here!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-You took off so suddenly, It 
-kicked up a huge fuss.
+You took off so suddenly,
+It kicked up a huge fuss.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah—yeah...
+Ah?yeah...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -79,12 +77,12 @@ Shut up.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So yeah, when are you coming 
-back to the village?
+So yeah, when are you
+coming back to the village?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm probably not coming back.
+...I'm probably not coming back.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -92,14 +90,14 @@ Hey...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There's something I have to
-do no matter what.
+There's something I have
+to do no matter what.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't really tell you the details.
-But at any rate, I can’t come home
-right now.
+I can't really tell you the details...
+But at any rate, I can't come
+home right now.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -108,7 +106,7 @@ I'm not gonna ask.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-But you should at least write a 
+But you should at least write a
 letter to your family. Lilith is
 worried, you know?
 [ENDBLOCK]
@@ -126,9 +124,9 @@ Okay, see you around.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't want to needlessly worry 
-them, so I've kept quiet about 
-<Greybum>.
+I didn't want to needlessly worry
+them, so I’ve kept quiet about
+<Greybum>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -136,7 +134,7 @@ That's the right choice.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What happened to <Mary>.
+I don't see <Mary> anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -144,12 +142,12 @@ Where did you go?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Softy Kreem stand.
+Softy Kreem stand!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Why are you going off and 
-getting one by yourself?
+Why are you going off and getting
+one by yourself?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -157,7 +155,8 @@ It was yummy...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Can we get going to <Ilene>'s estate now.
+Enough, let's get going
+to <Ilene>'s estate now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -195,11 +194,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -217,7 +216,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -225,7 +224,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xAC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA8><x00><x80></color>を取得しました。
 
@@ -343,7 +342,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x88><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

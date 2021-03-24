@@ -1,4 +1,4 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 
@@ -229,138 +229,148 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-な、なんでもない。
+No, nothing.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-次からは気をつけるんだな！
+Be careful from now on!
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-は、はあ……
+Ha, haha...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-結界石は全て破壊したはずだ。
-もう扉を開けられるだろう。
+All the barrier stones should
+have been destroyed. You will be
+able to open the door.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！
+Alright!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-結界石は全て壊したわ。
-これで扉を開けられるはずよ。
+We've broke all the barrier stones. We should be able to open the door.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それじゃ、開けるわよ。
+Then we'll open it.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-結界石は全て破壊しました。
-これで扉を開けられるはずです。
+All the barrier stones have been
+destroyed. You should now be able
+to open the door.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-よし、入るぞ。
+Alright, let's get
+through this door.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-結界石は全て破壊しました。
-これで扉を開けられるはずです。
+All the barrier stones have been
+destroyed. You should now be able
+to open the door.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-よし、入るぞ。
+Alright, let's get through this door.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-結界石は全て破壊したはずだ。
+All the barrier stones should
+have been destroyed.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-では、扉を開けるぞ。
+Let's get this door open.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-結界石は全て破壊したはずだ。
-もう扉を開けられるだろう。
+All the barrier stones should have
+been destroyed. You will be able
+to open the door
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-開かないな。
+It's Sealed.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-結界石がまだ残っているのだ。
-神殿内をよく探してみろ。
+Some barrier stones are still in
+place. Let’s search inside the
+temple.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-開かないわ。
+It's Sealed.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-結界石がまだ残っているんだわ。
-神殿内をよく探してみましょう。
+Some barrier stones are still in
+place. Let’s search inside the
+temple.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-開かないな。
+It's Sealed.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-結界石がまだ残っているんですよ。
-神殿内をもっと探してみましょう。
+Some barrier stones are still in
+place. Let’s search inside the
+temple.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-開かないな。
+It's Sealed.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-結界石がまだ残っているんですよ。
-神殿内をもっと探してみましょう。
+Some barrier stones are still in
+place. Let’s search inside the
+temple.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-開かないな。
+It's Sealed.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-結界石が神殿内に
-残っているのだな。
+Some barrier stones are still in
+place. Let’s search inside the
+temple.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-結界石がまだ残っているのだ。
-神殿内をよく探してみろ。
+The barrier stone still remains.
+Look carefully inside the temple.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-<Greybum>が反乱を起こすなんて。
-ああ、恐ろしい……
+<Greybum> is going to revolt.
+Yeah, it's horrible.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-<Philia>さんの剣は、神殿内の
-いずれかの部屋にあるはずです。
+<Philia>'s sword should be in one
+of the rooms in the temple.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-よろしくお願いします。
+Thank you.
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 剣を見つけていただき
 ありがとうございます。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
-<Greybum>が反乱を起こすなんて。
-ああ、恐ろしい……
+<Greybum> is going to revolt.
+Yeah, it's horrible.
 [ENDBLOCK]
 神官
 [ENDBLOCK]
@@ -464,97 +474,103 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-神殿の中も、ガランとしてるわね。
+It's completely deserted
+in here, too...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-誰か！	誰かいませんか！
+Hello! Is anyone here??
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-いきなり大声を出すな。
-どこかに敵がいたらどうする。
+Don't just shout like that!
+What if the enemy heard you??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-困っている人がいるかもしれない。
-助けに来たって、教えてやらなくちゃ。
+There might be someone in
+trouble here. They need to
+know that we've come to help!
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-どなたかいらしたのですか？
-どうかここを開けてください……
+Is someone out there?
+Please, we're trapped in here..!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-あそこの扉が光っているぞ。
+Look! That door over
+there is glowing.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-中に誰かいるのか？
+Are you locked
+behind this door?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-は、はい。います！
-お助けください！
+Y-Yes! I am!
+Please help me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-任せてください。
-今、扉を開けますから。
+Don't worry! We'll get
+you out of there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-待つのだ、<Stahn>。
-この扉には、結界が張られている。
+Hold on, <Stahn>. A barrier has
+been placed upon this door.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-これは結界石によるものね。
-大昔に使われていた仕掛けのひとつよ。
+It's from Barrier Stones..!
+Those are ancient technology!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうすれば開く？
+How do we remove
+this barrier?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-周辺に設置された結界石を、
-全て破壊するんです。
+There should be Barrier Stones
+around here. Destroy them all,
+and the barrier will dissolve.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった。やろう、<Lion>！
+Gotcha. Let's do this, <Lion>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえに言われるまでもない。
-いちいち口を挟むな。
+He wasn't talking to you.
+Don't cut into our conversation.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すみません、もう少しだけ、
-待っていてください。
+Sorry, but do you mind
+waiting just a bit longer?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-わ、わかりました。
+S-Sure, that is alright.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><yellow>結界石</color>を破壊しました。
+<TAG_007><yellow>Barrier Stone</color> has been destroyed.
 [ENDBLOCK]
-<TAG_007>封印が解除されました。
+<TAG_007>The seal has been broken.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -572,7 +588,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -580,7 +596,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xC4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xC0><x00><x80></color>を取得しました。
 
@@ -698,7 +714,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xA0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xA0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

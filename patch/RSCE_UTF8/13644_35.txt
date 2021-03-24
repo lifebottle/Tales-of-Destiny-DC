@@ -1,69 +1,66 @@
-青年
+Young boy
 [ENDBLOCK]
 
 [ENDBLOCK]
-弓匠アルバ先生に教えを乞うべく、
-やってきました。
+I came here to 
+learn from Master Alba.
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-お孫さんと一緒に、この街の近くに
-お住まいだと聞いたのですが。
+I heard that he and her grandchildren 
+live near this city.
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-ハイデルベルグに、
-何が起こっているんでしょう？
+What's going on in Heidelberg? 
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-こんな時こそ、アルバ先生に
-教えを受けたいのですが……
+At the time like this, i need
+Master Alba to teach me.
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-弓の稽古をしたところで、
-今更どうしようもないですね……
+I've been practicing my archery
+for a long time.
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-レンズの手持ちが少なくて……
-代わりに現金でもいいですか？
+I don't have a lot of lens, 
+can i use my money instead?
 [ENDBLOCK]
-青年
+Young boy
 [ENDBLOCK]
-軍資金の提供なら、
-いくらでも承りますよ。
+Tell me if you want donate 
+to help our military.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お坊ちゃまのお世話をするべく、
-旅のお供を務めさせていただいてます。
+I am traveling with a young boy
+to take care of him.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-こんな大変な時に、
-なんで人の世話なんか……
+Why we have to take care of
+him at this situation?
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お坊ちゃまは弓の稽古なんて、
-本当はする気がないんですよ。
+He doesn't want to practice archery.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-結局お坊ちゃまは、
-最後まで何もしませんでしたね。
+In the end, he doesn't do anything at all. 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -81,7 +78,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -89,7 +86,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG覆<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE4><x00><x80></color>を取得しました。
 
@@ -207,7 +204,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC4><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC4><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

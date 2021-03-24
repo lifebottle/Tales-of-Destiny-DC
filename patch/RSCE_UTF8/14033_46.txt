@@ -15,7 +15,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-でも俺様にとっちゃ、この観客席は
+でも俺様にとっちゃ、このSpectators席は
 つらい事も思い出すぜ。
 [ENDBLOCK]
 <Rutee>
@@ -135,11 +135,11 @@
 あなたは、
 カルバレイスの人ですか？
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 な、何をおっしゃっているの……
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 何が目的なの？
 [ENDBLOCK]
@@ -147,16 +147,16 @@
 [ENDBLOCK]
 実はですね……
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 わかりましたわ……
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 私はこの街で裕福な男性と
 結婚して、今は見ての通り。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 私も、この幸せを逃すわけには
 いかないの。
@@ -166,12 +166,12 @@
 すみませんでした。
 ご迷惑なら帰りますね。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 違うのよ。昔の私なら、
 どんな状況でもあなたに協力していた。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 自分が変わっていた事に、
 少しショックを受けたのよ……
@@ -181,37 +181,37 @@
 それは仕方ないですよ。
 少なくとも、俺はそう思います。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 ……ありがとう。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 大っぴらには協力出来ないけど、
 これだけでも持っていって。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 そういえば、この街にはもうひとり、
 隠れカルバレイス人がいるわ。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 それじゃ、頑張ってね。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 そういえば、この街にはもうひとり、
 隠れカルバレイス人がいるわ。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 それじゃ、頑張ってね。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-私はいつも<Kongman>に賭けています。
-だから負けなしですよ。
+I always bet on <Kongman>. Part of 
+the reason I've never lost.
 [ENDBLOCK]
 男
 [ENDBLOCK]
@@ -228,10 +228,10 @@
 マイティの勇姿が、
 今も忘れられません。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-<Kongman>は強いぜ。
-無敵のチャンピオンだからな。
+<Kongman> is strong. He's 
+an invincible opponent.
 [ENDBLOCK]
 若い男
 [ENDBLOCK]
@@ -248,63 +248,63 @@
 世界の危機まで救っちまうなんて、
 チャンピオンはすげえな！
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
-そろそろチャンピオンの交代劇が
-起こってもいいと思うのよね。
+I think it's time for the champion's
+title to change hands.
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 <Kongman>不在の今こそ、
 若手が伸びるチャンスなんだけど……
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 世界が大変な時だってのに、
 こんなところにいる私って、変？
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 早く平和な世界を取り戻して、
 思い切り闘技場で楽しみたいわね。
 [ENDBLOCK]
-婦人
+Woman
 [ENDBLOCK]
 ……まあ、私は特に何もしないけど。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-ここがかの有名な、闘技場か。
-ものすごい熱気だ。
+Is this the famouse arena. Filled
+with heat of battle.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 チャンピオンがいなくても、
 ここの盛り上がりは変わらないな。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 この建物は頑丈そうだから
 空から何か落ちてきても大丈夫かな？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 ここに集まっている人間は、
 現実逃避をしているだけなんだよな。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 世界を救ってくれる英雄様は、
 ドラゴンに乗って飛び回っているそうだ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 ……え？	あんたたちがそうだって？
 はっはっは、またまた。
 [ENDBLOCK]
 Announcer
 [ENDBLOCK]
-A new challenger enters the arena!
+Now, our challenger approaches!
 [ENDBLOCK]
 A daredevil has appeared to
 challenge Mighty <Kongman>!
@@ -320,27 +320,28 @@ away. Have you prepared yourself?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I still don't really get 
+I still don't really get
 why we have to fight.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, please watch me. I will 
-devote the glory of my victory to you!
+<Philia>, please watch me. 
+I will devote the glory 
+of my victory to you!
 [ENDBLOCK]
 Now, in this very moment, witness
 this very special match!
 [ENDBLOCK]
-Champion <Kongman>!
-VS! Mister Pointy Head!
+Champion <Kongman>！
+VS!	Mr. Pointy Head!
 [ENDBLOCK]
-Oh my! We've reached an unexpected
-conclusion! The challenger has won
-the match!
+Oh my! We've reached an 
+unexpected conclusion! The
+challenger has won the match!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gah... This is ridiculous.
+Gwah... This is ridiculous.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -348,8 +349,8 @@ How was that? Do you get it now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Stop pursuing <Philia>.
-Okay? And...
+Don't cling to <Philia> 
+anymore, okay? And...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -357,20 +358,20 @@ That was a good match. Thanks.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Y-you... you're a 
-pretty refreshing guy.
+Y-you... you're a pretty
+refreshing guy.
 [ENDBLOCK]
-What's this? Are we witnessing a 
-budding friendship in the making?
-It's a bit stifling, but how touching!
+What's this? The formation of a
+friendship between these two? What a 
+strange, but touching honor this is!
 [ENDBLOCK]
-The Champion is the winner!
+The champion is the winner!
 That's what I'm talking about!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Ga-ha-ha-ha! You're afraid! I 
-can't even hear you anymore!
+Gahahahaha! You're afraid!
+I can't even hear you anymore!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -378,29 +379,28 @@ Hey...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>...sorry...
+<Philia>...I'm sorry.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You... know that person so well.
+You...seem to be close to her.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Huh, that was a good fight, man.
+...Hmm, it was a good match.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>...
+<Kongman>……
 [ENDBLOCK]
-Oops! For some reason, something
-like friendship seems to have grown
-between them! What a hot and touching
-sight!
+What's this? The formation of a
+friendship between these two? What a 
+strange, but touching honor this is!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What are you all doing
-in a place like this?!
+What are you all doing in
+a place like this?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -408,7 +408,7 @@ in a place like this?!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Are you really playing around?
+You're really playing around in here?
 Monsters are attacking the town!
 [ENDBLOCK]
 <Stahn>
@@ -421,25 +421,27 @@ What did you say?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Shit, what the hell are they doing?!
+Damn, what the hell
+is going on!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Let's hurry and get out of here too.
+Let’s hurry and get out of here too.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I am the champion! Ga-ha-ha-ha!
+I am Champion!
+Gahahahaha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
@@ -457,15 +459,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
-has left the party.
+パーティから抜けました。
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>を取得しました。
 
@@ -583,7 +585,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

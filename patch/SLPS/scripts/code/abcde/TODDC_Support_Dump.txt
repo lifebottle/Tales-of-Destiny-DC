@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -15,9 +15,11 @@ She adds a new twist to dishes made[LINE]
 from the food sack. It's so tasty[LINE]
 that it increases HP recovery.[END]
 
+
 //POINTER #18 @ $181088 - STRING #18 @ $19B3D8
 #WRITE(ptr,$181088)
 Condiment Industry[END]
+
 
 //POINTER #17 @ $181084 - STRING #17 @ $19B3E8
 #WRITE(ptr,$181084)
@@ -25,9 +27,11 @@ He undergoes a harsh bodybuilding[LINE]
 workout to improve his stats. Those[LINE]
 muscles are for everyone's sake.[END]
 
+
 //POINTER #16 @ $181080 - STRING #16 @ $19B450
 #WRITE(ptr,$181080)
 Muscle Training[END]
+
 
 //POINTER #15 @ $18107C - STRING #15 @ $19B458
 #WRITE(ptr,$18107C)
@@ -35,9 +39,11 @@ Live music is on the streets.[LINE]
 Foes will crowd you like fans, but[LINE]
 drop more items. Toss him a gald?[END]
 
+
 //POINTER #14 @ $181078 - STRING #14 @ $19B4B8
 #WRITE(ptr,$181078)
 Street Performance[END]
+
 
 //POINTER #13 @ $181074 - STRING #13 @ $19B4C8
 #WRITE(ptr,$181074)
@@ -46,9 +52,11 @@ she'll grow them with care and[LINE]
 bear fruit.[END]
 //[END]
 
+
 //POINTER #12 @ $181070 - STRING #12 @ $19B510
 #WRITE(ptr,$181070)
 Seed Raising[END]
+
 
 //POINTER #11 @ $18106C - STRING #11 @ $19B518
 #WRITE(ptr,$18106C)
@@ -57,9 +65,11 @@ gems' level by steadily polishing[LINE]
 the ones you have.[END]
 //[END]
 
+
 //POINTER #10 @ $181068 - STRING #10 @ $19B570
 #WRITE(ptr,$181068)
 Gem Polishing[END]
+
 
 //POINTER #9 @ $181064 - STRING #9 @ $19B580
 #WRITE(ptr,$181064)
@@ -68,9 +78,11 @@ move. Boosts damage in battle.[END]
 //[END]
 //[END]
 
+
 //POINTER #8 @ $181060 - STRING #8 @ $19B5C0
 #WRITE(ptr,$181060)
 Combat Instruction[END]
+
 
 //POINTER #7 @ $18105C - STRING #7 @ $19B5D0
 #WRITE(ptr,$18105C)
@@ -79,9 +91,11 @@ reducing the encounter rate.[END]
 //[END]
 //[END]
 
+
 //POINTER #6 @ $181058 - STRING #6 @ $19B610
 #WRITE(ptr,$181058)
 Vigilance[END]
+
 
 //POINTER #5 @ $181054 - STRING #5 @ $19B618
 #WRITE(ptr,$181054)
@@ -89,9 +103,11 @@ She mixes berries and chemicals[LINE]
 into a consumable concoction.[LINE]
 Sometimes it turns out strange.[END]
 
+
 //POINTER #4 @ $181050 - STRING #4 @ $19B678
 #WRITE(ptr,$181050)
 Synthesis[END]
+
 
 //POINTER #3 @ $18104C - STRING #3 @ $19B680
 #WRITE(ptr,$18104C)
@@ -99,16 +115,22 @@ Searches for Gald and Lens.[LINE]
 Increase your wealth at will.[LINE]
 Also finds valuables.[END]
 
+
 //POINTER #2 @ $181048 - STRING #2 @ $19B6D0
 #WRITE(ptr,$181048)
 Treasure Hunting[END]
 
+
+#JMP($148210)
 //POINTER #1 @ $181044 - STRING #1 @ $19B6E0
 #WRITE(ptr,$181044)
 Takes a nap to recover HP.[LINE]
 While napping, he presses[LINE]
 herbs to transform them.[END]
 
+
 //POINTER #0 @ $181040 - STRING #0 @ $19B738
 #WRITE(ptr,$181040)
 Embossing Nap[END]
+
+

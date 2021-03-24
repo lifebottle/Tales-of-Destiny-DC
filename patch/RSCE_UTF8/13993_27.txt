@@ -1,94 +1,99 @@
-フロントマン
+Concierge
 [ENDBLOCK]
-いらっしゃいませ、当ホテルへようこそ。
+Welcome to our hotel.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-当ホテルは何があっても営業いたします。
+The hotel will be open for
+business no matter what.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-本日はお泊りでしょうか？
+Would you like a room today?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Your room is upstairs.
+Have a good rest.
 [ENDBLOCK]
-いつでもどうぞ。
+Come back anytime.
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a good day.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-いらっしゃいませ、当ホテルへようこそ。
+Welcome to our hotel.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-我々にはプライドがあります。
-こんな時でも営業しますよ。
+We have pride. We will stay
+open even in times like this.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-当ホテルは何があっても営業いたします。
+The hotel will be open for
+business no matter what.
 [ENDBLOCK]
-フロントマン
+Concierge
 [ENDBLOCK]
-本日はお泊りでしょうか？
+Would you like a room today?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Take your time.
 [ENDBLOCK]
-いつでもどうぞ。
+Come back anytime.
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a good day.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-ノイシュタットの食べ物は新鮮ですよ。
+The food in Neuestadt is fresh.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-この先仕入れの量が減るかもしれません。
-買いだめされるなら今ですよ。
+We may reduce the number of items
+we make in the future. Now is the
+time to stock up.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-ノイシュタットの食べ物は新鮮ですよ。
+The food in Neuestadt is fresh.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-後で闘技場に食料を
-届けるんですよ。
+We'll deliver the food
+to the arena later.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-この先仕入れの量が減るかもしれません。
-買いだめされるなら今ですよ。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
-[ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-はい
-いいえ
+We may reduce the number of items
+we make in the future. Now is the
+time to stock up.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
-はい
-いいえ
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -106,7 +111,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -114,7 +119,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG覆<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE4><x00><x80></color>を取得しました。
 
@@ -232,7 +237,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC4><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC4><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

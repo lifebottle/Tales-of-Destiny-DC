@@ -1,4 +1,4 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
@@ -6,296 +6,308 @@ reset---------
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕の分を買って来た所で
-無駄になるからな。
+It would be a waste of time if 
+I went and got one for myself.
 [ENDBLOCK]
-街の女性
+Woman
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-なんなりとご用をお申し付け下さい。
+Please let us know if you
+need anything else.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-<Lion>様でしたら、
-少し出てくると仰っておりました。
+If it was <Lion>, he said
+he would come out a little.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-<Ilene>お嬢様が戻りましたら、
-皆様のことをお伝えします。
+When Ms. <Ilene> returns,
+I will tell her about you.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-なんなりとご用をお申し付け下さい。
+Please let us know if you
+need anything else.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-<Lion>様でしたら、
-少し出てくると仰っておりました。
+If it was up to <Lion>, he said
+he would come out a little.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-<Ilene>お嬢様は、ただいま、
-屋敷を留守にしております。
+When Ms. <Ilene> returns,
+I will tell her about you.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お嬢様はどこへ行かれたんでしょう。
-早く戻っていただきたいのですが。
+Where did the young lady go?
+I hope she comes back soon.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-もうこのお屋敷も、
-終わりかもしれませんね……
+I'm afraid this house may
+be coming to an end.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-お嬢様がいらっしゃれば、
-率先してレンズを集めていたでしょう。
+If my lady were here, she would
+have taken the initiative to 
+collect the lenses.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-どちらさまでしょうか……？
-あ、もしかして。
+And who might you all be...? Oh,
+if I'm not mistaken, are you...
 [ENDBLOCK]
-<Lion>・マグナス様と、
-そのお連れ様でいらっしゃいますか？
+<Lion> Magnus
+and his companions?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうだ。<Ilene>はいるか？
+Yes. Is <Ilene> here?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-我らに関する情報が、
-既にある程度伝わっているみたいだな。
+It seems she's already received
+information about us.
 [ENDBLOCK]
-お嬢様は、所用で出かけております。
-すぐに戻るとの事でしたが。
+The miss has left on an errand.
+But she should return shortly.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ならここで待たせてもらう。
+Then allow us to wait here.
 [ENDBLOCK]
-かしこまりました。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-……<Ilene>とか言う人、遅いわね。
-待ちくたびれたわよ。
+Certainly.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>、アイスキャンディー屋って、
-どこにあるの？
+...This <Ilene> person sure is slow.
+I'm getting tired of waiting.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<Mary>, where was that
+Softy Kreem stand again?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-街の広場だ。
+In the town plaza.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと行って来るわ。
-じっとしてるのも退屈だし。
+I'll pop in over there for a sec.
+It's so boring just standing around.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-一緒に行こう。
+I'll go with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺も。アイスキャンディーって、
-食べた事ないし。
+Me too. I've never had
+Softy Kreem before.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私も行きますわ。
+I'll go too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>はどうする？
+How about you <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ここで<Ilene>を待つ。
+I'll wait here for <Ilene>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-誰かが残らないといけないもんな。
-なら<Lion>の分も買ってきてやるよ。
+I guess someone has to stay behind,
+huh? Then, I'll go and get you one.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いらん。僕は甘い物になど、
-興味がない。
+No need. I don't really
+like sweet things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そう言うなって。
-みんなで一緒に食べよう。な？
+Ah, don't say that. Let's
+all eat together, okay?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-だからいらないと……
+But I just said...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-まあ、おまえが無理に買ってくるなら、
-食べてやらない事もないが。
+Well. I guess if you buy it for me,
+it's not like I won't eat it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、じゃあ待っててくれ。
+Alright! Then wait here a bit.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ただいま。
-<Batista>はどうなった？
+We're back! What happened
+to <Batista>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-二階の一室で、<Lion>が尋問中。
+He's upstairs in the first room. 
+<Lion>'s interrogating him.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-尋問……？
+Interrogating...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふー。
+...Ugh...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふー。
+...Hmph...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふー。
+...Hahh...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene>、遅いですね。
+<Ilene>'s certainly taking a long time.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はっ！
+Ha!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はっ！
+Ha!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はっ！
+Ha!!!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>たちも帰ってきませんね。
+<Stahn> and the other aren't
+back yet, either...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-誰も帰ってきませんよ、坊ちゃん。
+Nobody's come back yet, Young Master.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-シャル、なんだか少し暑くないか？
+Chal, isn't the 
+air kinda warm here?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-暑いかどうかは
-分かりませんよ、剣ですから。
+I wouldn't know. I'm a sword.
+I can't feel the heat.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふー、それにしても
-喉が渇いたな。
+Hmph...right.
+Either way, I'm parched.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-それでは、お茶を
-お持ちいたしましょうか？
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-冷えたものか？
-[ENDBLOCK]
-メイド
-[ENDBLOCK]
-あ、いえ、すぐにお出しでできるのは
-温かいお茶ぐらいしか……
+Would you like me to
+make you some tea?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-くそ、僕は冷えたものが欲しいのに。
-なあ、シャル。
+Is it cold?
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+Ah, no. The only kind
+of tea we have on hand
+is the warm kind...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Damn, that won't do.
+I need something cold.
+Hey, Chal...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-冷たいものと言えば、街の
-アイスキャンディーぐらいしか……
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-だが、この家には無いんだろう？
-[ENDBLOCK]
-メイド
-[ENDBLOCK]
-はい……
-[ENDBLOCK]
-メイド
-[ENDBLOCK]
-でしたら、私が急いで
-買ってきますので……
+Something cold, huh?
+Sounds like some Softy Kreem
+is just what you need.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-待て、家の者が
-誰もいなくなるのはマズイ。
+You don't have
+any here, right?
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+No, we don't...
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+I you would like, I could hurry down
+to the stand and get some for you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-だからと言って、僕がここを離れて<Ilene>と
-入れ違いになっては困るしな……
-[ENDBLOCK]
-メイド
-[ENDBLOCK]
-あの、よろしければ<Ilene>様がお帰りに
-なりましたら、皆様の事をお伝えします。
-[ENDBLOCK]
-メイド
-[ENDBLOCK]
-それで、<Ilene>様には皆様のお帰りを
-お待ち頂くのはどうでしょうか？
+No, there's no need for
+you to leave the house for me.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それなら問題ないな。
-では、少し出てくるとしよう。
+Still, it would be a 
+problem if Ilene came
+back and no one was here.
 [ENDBLOCK]
-メイド
+Maid
 [ENDBLOCK]
-はい、いってらっしゃいませ。
+Well, how about this?
+When Miss Ilene comes back,
+I'll let her know you're in town.
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+I'll wait here in
+your place for Miss Ilene!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+That sounds fine. Alright,
+I'll be back in a moment.
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+Ok, please take your time.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-……まあ、仕方ないか。
+...Well, I guess we're doing this.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -313,7 +325,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -321,7 +333,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA8><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA4><x00><x80></color>を取得しました。
 
@@ -439,7 +451,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x84><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x84><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

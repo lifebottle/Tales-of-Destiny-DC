@@ -1,4 +1,4 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 ××××××空開始××××××
@@ -463,307 +463,316 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-あれ、どうしたの<Johnny>兄ちゃん。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-聞きたい事があるんだが、
-昔、君に楽器をあげたか？
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-うん、もらったよ。
+Hey, what's up, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-すまないが、それを返して欲しいんだ。
+Let me ask you something. Did I give
+you an instrument a long time ago?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-うん、いいよ。
-でも、もうないよ。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-どういう事だ？
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-モリュウのお友達にあげちゃった。
+Yeah, you did.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-一体、誰にあげたんだ？
+I'm sorry, but I need that back.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-忘れちゃったよ。
+Yeah, okay.
+But it's gone.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-友達なんだろ？
+What do you mean?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お父さんとお母さんとモリュウに
-行った時に、一回会っただけだもん。
+I gave it to a friend in Moreau.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Who the hell did you give it to?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I've forgotten.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+He's your friend, right?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I only met him once when I went
+to Moreau with my mom and dad.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃあ、モリュウ領へ
-行ってみましょう。
+Then let's go to the
+Moreau territory.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ああ、そうしよう。
+Yeah, let's go.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-さっさとその道化姿を、
-封印してください、<Johnny>様。
+Please seal up your clownish
+appearance, <Johnny>.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-私たちの歴史は封印されて
-しまうのでしょうか？
+Will our history be sealed?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-何を言っているんだ。
-俺たちに任せておけば……
+What are you talking about?
+We'll take care of it...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、この鳥はどうしたんですか？
+Hey, what's wrong with this bird?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-空の大地が出来てから、
-小動物は、特に長く生きられません。
+Since the creation of the land in
+the sky. Small animals do not live
+particularly long.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-この子は翼に怪我もしていますし、
-もう空を飛ぶ事もできません。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-かわいそう……
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-そうね……
+She has an injured wing
+and can no longer fly.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-このままだと、この鳥は
-死んでしまうんですか？
+Poor thing.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-それはわかりません。空を飛ばなくても
-生きていけるかもしれません。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-鳥が飛ばずに生きていける？
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-例えば、私が家に連れ帰って、
-面倒を見るとかね。
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-そうすれば、この子は生きるために、
-空を飛ぶ事をやめるでしょう。
+Right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-けど、それって鳥の生き方とは、
-思えません。
+If I don't, will 
+this bird die?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-本当にそう？	人間だって少なからず
-生きていくために、考えを変える事が
-あるはずよ。
-[ENDBLOCK]
-おばあちゃん
-[ENDBLOCK]
-ですよね、<Johnny>様。
+I don't know about that. You may
+be able to live without flying.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……さて……ね。
+How can a bird live without flying?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-私ぐらい長く生きていると、
-若い命は、ただ生きていてくれるだけで、
-嬉しいものなのよ。
+For example, I could take her
+home and take care of her.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-別にいいんだよ。人に迷惑かけても、
-自分に嘘ついても。
+Then this child will stop
+flying in order to live.
 [ENDBLOCK]
-おばあちゃん
+<Stahn>
 [ENDBLOCK]
-私はそう思いますからね、<Johnny>様。
+But I don't think that's the
+way a bird should live.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Are you sure about that? I'm sure 
+people change their minds more than
+a little in order to stay alive.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+That's right, 
+Mr. <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……なるほど、ね。
+...Well...
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-はい。そうですよ。
+When you've lived as long as I have,
+young life is a joy just to be alive.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+It's okay. It doesn't matter if 
+you cause trouble for others
+or lie to yourself.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Because I think so, Mr. <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……感謝するぜ。
+...I see.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Yes. That's right.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+...Thanks, man.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>シデン漁業組合共同倉庫につき、
-関係者以外の立ち入りを禁止します。
+<TAG_005>The Sheeden Fishermen's union 
+warehouse is closed to the public.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-みんな三番目の若を悪く言うけど、
-ぼくはあの人の事、大好きさ。
+Everyone says bad things about the
+third young man, but I love him.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-三番目の若が、モリュウ領で
-大活躍したんだってさ。
+I heard that the third youngest was
+very active in the Moreau territory.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-最近、三番目の若の評判がいいんだ。
-ぼくも嬉しいよ
+The third youngest has been getting
+good reviews lately. I'm glad too.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お空に浮かんでる世界にも、
-誰か人が住んでるのかな？
+I wonder if there are people living
+in the world floating in the sky.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-お空の天井って、
-堕ちてきたりしないのかな？
+Doesn't the ceiling 
+of the sky fall down?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-若、ぼくもレンズを集めたよ。
-えらい？	えらい？
+Young, I collected lenses,
+too. Great?	Great?
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-ぼくもレンズを集めたよ。
-えらいでしょ！	えらいよね！
+Young, I collected lenses,
+too. Great?	Great?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領からの物資が届かないんだ。
-何かあったのか？
+We haven't received any supplies
+from the Moreau territory. What's wrong?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-港の事なら、船の前にいる
-船員に聞きな。
+If you want to know about the port, ask
+the sailors at the front of the ship.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領からの物資が届かないんだ。
-何かあったのか？
+We haven't received any supplies
+from the Moreau territory. What's wrong?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-モリュウ領から船が来るようになった。
-これで一安心だな。
+Ships are now coming from Moreau
+territory. It's such a relief.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これからは領海内だけでなく、
-外海へも積極的に出て行かないとな。
+From now on, we need to be proactive
+not only in our territorial waters,
+but also in the open sea.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-空の網目、外殻と言うらしいな。
-なんだか、建物らしき物もあるが……
+I've heard it called the net of the
+sky, the outer shell. There's also
+something that looks like a building.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-このところ、モンスターの襲撃が増えた。
-これも空の上にいる連中のせいか？
+The number of monster attacks has 
+increased recently. Is this also 
+the fault of those in the sky?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今こそシデン、モリュウ、トウケイの
-総力を結集しないとな！
+Now is the time we need the 
+combined strength of Sheeden,
+Moreau and Toukei!
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-モリュウ領へもトウケイ領へも、
-今は船を出すなとのお達しだ。
+We've been ordered not to send 
+any ships to Moreau or Toukei 
+territory at this time.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-ロープを探しているだって？
+You're looking for a rope?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-漁業組合の倉庫に転がってると
-思うけど……
+I think they're lying around in
+the Fishermen's union warehouse. 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-領主様のお許しがないと
-貸し出せないよ。
+I can't lend it out without
+my lord's permission.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-モリュウ領へもトウケイ領へも、
-今は船を出すなとのお達しだ。
+We've been ordered not to send 
+any ships to Moreau or Toukei 
+territory at this time.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-船に乗るのか。どこへ行きたい？
+You're going on the ship. Where
+do you want to go?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-潮風が心地いいですのう。
-モリュウを思い出しますじゃ。
+The sea breeze is soothing.
+It reminds me of Moreau.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-<Fayte>様と<Johnny>様のお陰か、
-各領間の風通しもよくなりましたの。
+Thanks to Mr. <Fayte> and <Johnny>,
+there has been a better communication
+between the various territories.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-大変な事態になりましたのう。
-領主様はどうするおつもりなのか……
+It's a terrible situation.
+What does the lord intend to do?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-もう終わりなんですかのう……
+Is it over yet?
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-<Johnny>様……どうか頼みます。
-世界にもう一度、輝きを。
+Johnny, please help me.
+Let the world shine once again.
 [ENDBLOCK]
-おばあちゃん
+Old Woman
 [ENDBLOCK]
-どうか頼みます。
-世界にもう一度、輝きを。
+I beg you. Let the
+world shine once more.
 [ENDBLOCK]
 <TAG_031>
 
@@ -772,11 +781,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -794,7 +803,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -802,7 +811,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qJ<x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x14><x98><x80>
 [ENDBLOCK]
 <x18><x65><x5A><x10><x00><x80></color>を取得しました。
 
@@ -920,7 +929,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xF0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
@@ -1044,131 +1053,134 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-わたしは<TAG_054>で交易をやっている
-<TAG_053>という者だ。
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
 [ENDBLOCK]
-まだ終わってないのか？
-やめるとか言わないでくれよ。
+You're not done yet? Please 
+don't tell me you're quitting.
 [ENDBLOCK]
-もし暇だったら、
-仕事を手伝ってくれないか？
+If you're not too busy, maybe you
+could help me with my work.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>仕事を引き受ける
-暇じゃない
-どんな仕事？
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
 
 [ENDBLOCK]
-<x18><x66><x50><x2C><x00><x80>の<x18><x66><x50><x28><x00><x80>に
-<x1A><x71><x44><x34><x80>を<TAG_035>個調達してくれ。
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
 [ENDBLOCK]
-報酬は<TAG_032>ガルドだ。
-あんたなら簡単な仕事だろ？
+The reward is <TAG_032> Gald.
+It's an easy job.
 
 [ENDBLOCK]
-select
+Job
 [ENDBLOCK]
-<TAG_007>依頼：<x18><x66><x50><x2C><x00><x80>の<x18><x66><x50><x28><x00><x80>に
-			<x1A><x71><x44><x34><x80>を<TAG_035>個調達する。
-報酬：<TAG_032>ガルド
-仕事を引き受けますか？
-やります
-やめときます
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
 [ENDBLOCK]
-とりあえず報酬の一部を
-前金として渡しておく。
+In the meantime, I'll advance 
+you a portion of the reward.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>前渡し金として
-<TAG_032>ガルド受け取りました。
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
 
 [ENDBLOCK]
-よろしく頼むぜ！
+I'm counting on you!
 [ENDBLOCK]
-なんだ残念だな。
-また頼むぜ。
+What a pity.
+Maybe next time.
 [ENDBLOCK]
-それじゃあ、暇が出来たら頼むぜ。
+Well, I'll see you the next time.
 [ENDBLOCK]
-なに、簡単な仕事さ。
+It's an easy job.
 
 [ENDBLOCK]
-別の街にいる同業の仲間に
-指定の品を買って持っていくだけ！
+Just obtain the designated items
+and take them to my cohort
+in another city!
 [ENDBLOCK]
-これで金になるんだから
-やらない手はないよな？
+I mean, there's money to be made
+in this, so why not do it, right?
 [ENDBLOCK]
-返事くらいしてくれよ。
+Please do as much as you can.
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80>の<TAG_055>から
 依頼を受けているようだな。
 [ENDBLOCK]
 注文の品は……
-<x1A><x72><x0C><x80><x99>TAG_035>個だな。
+<x1A><x72><x0C><x80>を<TAG_035>個だな。
 
 [ENDBLOCK]
-早めに頼むぜ。
+I'll be quick about it.
 
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80>は<x18><x66><x50><x24><x00><x80>にいる。
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
-<x1A><x72><x0C><x80><x99>TAG_035>個、
-間違いなく調達してくれよ。
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
 
 [ENDBLOCK]
-調達ご苦労さん！
+Good luck with the procurement!
 
 [ENDBLOCK]
-報酬の残金
+Remainder of Reward
 [ENDBLOCK]
-報酬
+Reward
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>として
-<TAG_077>ガルドもらいました。
+<TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
+<TAG_077> Gald penalty for refunding
+the payment advance.
 
 [ENDBLOCK]
-指定の品数に足りないな……
+You're short the requested number of items
 
 [ENDBLOCK]
 俺が必要なのは<x1A><x72><x40><x10><x80>を
 <TAG_075>個だぞ。
 [ENDBLOCK]
-引き受けた依頼をやめるなら
-違約金を払ってもらう事になるぞ。
+There'll be a penalty,
+if you quit the job.
 [ENDBLOCK]
-引き受けた依頼を取り消すには
-違約金が必要だぜ？
+There'll be a penalty,
+if you quit the job.
 [ENDBLOCK]
-よろしく頼むぜ。
+It's great to work with you.
 [ENDBLOCK]
-それじゃ頑張れよ。
+Well, good luck then.
 [ENDBLOCK]
-本気で言ってるのか？
-考え直すなら今のうちだぞ？
+Are you serious? If you're having
+second thoughts, now's the time.
 [ENDBLOCK]
-ちょっとガッカリだ……
+I'm a little disappointed...
 
 [ENDBLOCK]
-前金返却と違約金
+I am charging a cancellation
 [ENDBLOCK]
-違約金
+Breach of Contact Fee
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x28><x00><x80>として
-<TAG_076>ガルド払いました。
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
-違約金を払ってくれないと
-契約解除はできないぞ。
+You can't cancel the contract
+unless you pay the penalty.
 [ENDBLOCK]
 とりあえず迷惑料として
 手持ちの金を支払ってもらうぜ。
@@ -1179,14 +1191,14 @@ notice
 <TAG_075>ガルド支払いました。
 
 [ENDBLOCK]
-金が足りないぞ。
-用意してから来てくれ。
+You don't have enough money.
+Come back when you have it.
 [ENDBLOCK]
-よろしく頼むぜ
+I'm counting on you, man.
 
 [ENDBLOCK]
-おいおい本気かい？
-今なら考えなおせるぞ？
+Are you serious?
+This is your last chance?
 [ENDBLOCK]
 困ったヤツだな……
 
@@ -1201,102 +1213,102 @@ notice
 <TAG_076>ガルド払いました。
 
 [ENDBLOCK]
-違約金を払ってもらわないと
-契約解除はできないんだ。
+I can't cancel the contract
+without charging a penalty.
 [ENDBLOCK]
 とりあえず迷惑料として
 有り金全部支払ってもらうよ。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>迷惑料として
-<TAG_075>ガルド払いました。
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
 
 [ENDBLOCK]
-金を準備してから、
-また来てくれ。
+Get the Gald together
+and then come back.
 [ENDBLOCK]
-それじゃ、頑張れよ。
+Well, good luck.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>依頼を遂行する
-依頼を確認する
-依頼を破棄する
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
 
 [ENDBLOCK]
-ジェノス
+Janos
 [ENDBLOCK]
-ハーメンツ
+Harmentz
 [ENDBLOCK]
-アルメイダ
+Armeida
 [ENDBLOCK]
-ダリルシェイド
+Darilsheid
 [ENDBLOCK]
-クレスタ
+Cresta
 [ENDBLOCK]
-チェリク
+Cherik
 [ENDBLOCK]
-カルビオラ
+Kalviola
 [ENDBLOCK]
-ジャンクランド
+Junkland
 [ENDBLOCK]
-ノイシュタット
+Neuestadt
 [ENDBLOCK]
-リーネ
+Lienea
 [ENDBLOCK]
-スノーフリア
+Frostheim
 [ENDBLOCK]
-シデン
+Sheeden
 [ENDBLOCK]
-モリュウ
+Moreau
 [ENDBLOCK]
-トウケイ
+Toukei
 [ENDBLOCK]
-サイリル
+Cyril
 [ENDBLOCK]
-ハイデルベルグ
+Heidelberg
 [ENDBLOCK]
-ねこにん基地
+Calvalese
 [ENDBLOCK]
-？？？
+???
 [ENDBLOCK]
-ジェネラ
+Genera
 [ENDBLOCK]
-ハネウェル
+Honeywell
 [ENDBLOCK]
-アメクス
+Amex
 [ENDBLOCK]
-シティ
+Siti
 [ENDBLOCK]
-デュポン
+DuPont
 [ENDBLOCK]
-タピラ
+Tapira
 [ENDBLOCK]
-アルコア
+Alcoa
 [ENDBLOCK]
-ジョンソン
+Johnson
 [ENDBLOCK]
-ファイザ
+Pfizer
 [ENDBLOCK]
-フィリップ
+Philip
 [ENDBLOCK]
-ベライゾン
+Verizon
 [ENDBLOCK]
-エクソン
+Exxon
 [ENDBLOCK]
-モルガン
+Morgan
 [ENDBLOCK]
-アイビー
+Ivy
 [ENDBLOCK]
-パッカード
+Packard
 [ENDBLOCK]
-メルク
+Merick
 [ENDBLOCK]
-デポ
+Depot
 [ENDBLOCK]
-？？？
+???<x00>
 [ENDBLOCK]
 少年
 [ENDBLOCK]

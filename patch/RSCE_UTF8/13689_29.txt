@@ -460,150 +460,161 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-これは<Lion>様、
-どうぞお通りください。
+This is Sir <Lion>,
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうぞお通りください。
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-これは<Lion>様、
-どうぞお通りください。
+This is Sir <Lion>,
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうぞお通りください。
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-これは<Lion>様、
-どうぞお通りください。
+This is Sir <Lion>,
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうぞお通りください。
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-これは皆様、どうぞお通りください。
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-これは<Lion>様、
-どうぞお通りください。
+This is Sir <Lion>,
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうぞお通りください。
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-お役目ご苦労さまです、
-<Lion>様！
+This is Sir <Lion>,
+Please pass by.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-城の中では行動に気をつけて下さい。
+Be careful about your actions
+in the castle.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-お役目ご苦労さまです、
-<Lion>様！
+Thank you for your
+hard work, <Lion>!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-城の中では行動に気をつけて下さい。
+Be careful about your actions
+in the castle.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-お役目ご苦労さまです、<Lion>様！
+Thank you for your
+hard work, <Lion>!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-城の中では行動に気をつけて下さい。
+Be careful about your actions
+in the castle.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-お役目ご苦労さまです、皆様！
+Thank you for your
+hard work, <Lion>!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-お役目ご苦労さまです、<Lion>様！
+Thank you for your
+hard work, <Lion>!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-城の中では行動に気をつけて下さい。
+Be careful about your actions
+in the castle.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城の中ってどうなってるのかな～？
+I wonder what's going on
+inside the castle?
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城の中ってどうなってるのかな～？
+I wonder what's going on
+inside the castle?
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城に自由に出入りできるなんて、
-あんた、すごいんだな。
+It's amazing that you're free to
+go in and out of the castle.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城に自由に出入りできるなんて、
-あんたたち、すごいんだな。
+It's amazing of you guys to be
+able to get in and out of the
+castle freely.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-あの放送の声、誰だったかな？
-聞き覚えがあるんだけど。
+Who was the voice of that
+broadcast? Sounded good.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-空が真っ暗になっちゃったよ……
+The sky has gone black...
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城の中にいれば、
-モンスターに襲われずにすむかな？
+If you're in a castle, why don't
+you get attacked by monsters?
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-レンズをたくさん積んだ荷車が、
-次々お城の中に入っていくよ。
+A cart loaded with a lot of
+lens will enter the castle
+one after another.
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-お城の中で、すっごい秘密兵器、
-作ってるんだって？
+You're making a great secret
+weapon in the castle?
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-すげえ！	空の天井に穴が開いた！
-すげえ、すげえ！
+Amazing! There's a hole in
+the empty ceiling! No, no
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ラディスロウに行きますか？
-行く
-行かない
+<TAG_007>It's a zero-gravity elevator.
+Do you want to go to Radisrol?
+Go
+Stay
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC0><x80></color>
 [ENDBLOCK]
-パーティに加わりました。
+ has joined the party.
 [ENDBLOCK]
 仲間になりました。
 [ENDBLOCK]
@@ -619,15 +630,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013c><xC0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xC0><x80></color>
 [ENDBLOCK]
-パーティから抜けました。
+ has left the party.
 [ENDBLOCK]
 <x18><x65><x59><xB0><x00><x80><x18><x65><x59><xB4><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qI膳<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xE4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><xE0><x00><x80></color>を取得しました。
 
@@ -745,7 +756,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013c><xC0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x49><xC0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

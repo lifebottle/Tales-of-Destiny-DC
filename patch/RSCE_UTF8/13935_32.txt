@@ -1,65 +1,68 @@
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>輪っかの煙が出るほど
-辛そうな料理を作っている。
+<TAG_005>She's making a spicy dish
+that's producing a smoke ring.
 [ENDBLOCK]
-夫
+Husband
 [ENDBLOCK]
-よそ者のくせに、ずかずかと
-人の家に立ち入らないでもらおうか。
+I don't know you, you don't just
+stroll into people's houses.
 [ENDBLOCK]
-夫
+Husband
 [ENDBLOCK]
-いくら働いても、生活が楽にならない。
-こんな島、本当は出て行きたいぜ。
+No matter how much I work, it doesn't
+get any easier. I really want to
+leave this island.
 [ENDBLOCK]
-夫
+Husband
 [ENDBLOCK]
-カルバレイスにも雷が落とされたって？
-女房の奴がすっかり動揺していてな……
+I heard lightning struck Calvalese
+as well. My wife's all upset about it...
 [ENDBLOCK]
-夫
+Husband
 [ENDBLOCK]
-よそ者と一緒に、
-俺たちまで滅びる運命なのか？
+Are we doomed to perish along
+with these foreigners?
 [ENDBLOCK]
-夫
+Husband
 [ENDBLOCK]
-今まであんたたちに、
-失礼な態度を取ってすまなかったな。
+I'm sorry I've been so
+rude to you guys.
 [ENDBLOCK]
-妻
+Wife
 [ENDBLOCK]
-首都カルビオラに、
-よそ者の神を祀った神殿があるわ。
+In the capital city of Kalviola, there
+is a temple dedicated to the god
+of foreigners.
 [ENDBLOCK]
-妻
+Wife
 [ENDBLOCK]
-カルバレイスには独自の信仰がある。
-よそ者の神殿に用はないわ。
+Kalviola has its own beliefs. We have
+no business in a stranger's temple.
 [ENDBLOCK]
-妻
+Wife
 [ENDBLOCK]
-前に聞こえた声は、神の啓示ね。
-神がお怒りになっているのよ！
+The voice you heard before was a
+revelation from Atamoni. Atamoni is
+angry with you!
 [ENDBLOCK]
-妻
+Wife
 [ENDBLOCK]
-神よ……私たちの神よ……
-どうか私たちをお救いください……！
+Oh Atamoni... great Atamoni...
+Please save us!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xB4><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -77,7 +80,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xB4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xB4><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -85,7 +88,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xD8><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xD8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xD4><x00><x80></color>を取得しました。
 
@@ -203,7 +206,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xB4><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xB4><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

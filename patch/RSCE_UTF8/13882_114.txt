@@ -2,35 +2,36 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おま<x99>
+
 [ENDBLOCK]
-<xAF>のバカ力でどうにかしろ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-わかった、任せろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+Alright, leave it to me! 
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 現在の拡大率：<x1D><x75><x48><x74><x80>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-何かの装置のようだが動いていない。
+Some sort of device,
+but it's not working.
 
 [ENDBLOCK]
 ダミーショップ配置
@@ -484,116 +485,122 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ここがクレメンテの安置されている、
-輸送艦の中だ。
+This is the military vessel
+that Clemente is enshrined within.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-その名はラディスロウ。
-かつて、勇名を馳せた船です。
+It's called Radisrol.
+This ship used to be very famous.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この先は何があるかわからない。
-<Philia>は海竜の中で待っててくれ。
+We don't know what could be here.
+<Philia> should wait in the Sea Dragon.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうだな。それが一番安全だろう。
+Yeah, I reckon that'd
+be the safest place.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-文句はないな？	<Lion>。
+That sound good, <Lion>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ、行って来るよ。
+Okay...well, we're off.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい。どうか皆さん、お気をつけて。
+Alright.
+Please be careful, everyone.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-四本目のソーディアン……
+A fourth Swordian....
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私に……戦う力があれば……
+If only...
+if only I had that power, I..!
 [ENDBLOCK]
-？？？？？
+????
 [ENDBLOCK]
-<Philia>……<Philia>よ……
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-また……確かに声が聞こえたわ。
-船の上で聞いたのと、同じ声……
+<Philia>...hear me, <Philia>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私を呼ぶのは誰？
-どこにいるの？
-[ENDBLOCK]
-？？？？？
-[ENDBLOCK]
-わしがいるのはここの奥じゃ。
-来い、<Philia>よ……
+Again..that's definitely
+the same voice, the one
+I heard on the ship!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ここの、奥……？
+Who is calling me?
+Where are you?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+I await you further
+within this place.
+Come to me, young Philia.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Further...within...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それにしても<Philia>、
-よくひとりで、奥まで行けたわね。
+That reminds me, <Philia>.
+You sure caught up to us easily.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ソーディアンなしで、
-危ない目に遭わなかったか？
+How'd you get past all the danger
+without a Swordian?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-これがありましたから、なんとか。
+I managed just fine with this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-フラスコ……？
+...A flask..?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私、皆さんのお役に立ちたくて、
-新しい武器を研究中だったんです。
+I wanted to be of assistance,
+so I came up with some new weapons..
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あっ、危ない！
-フィリアボム！
+Eek! Look out!
+PHILIA BOMB!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-一撃でモンスターを……すげえ……
+Woah, she killed it in one hit!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-クレメンテは得られましたけど、
-これはこれで、活用する事にしますわ。
+I may have been chosen
+by Clemente, but I think I'll
+continue to make use of these.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Philia>はクレメンテなしでも、
-十分強かったのではないか？
+<Philia> seems pretty strong
+even without you, old man.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-…………
+.........
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-そ、それじゃ海竜に乗って、
-当初の目的地を目指しましょう。
+W-Well then, shall we
+get back on the Leviathan?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -665,11 +672,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -687,7 +694,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -695,7 +702,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xAC><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA8><x00><x80></color>を取得しました。
 
@@ -813,7 +820,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x88><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

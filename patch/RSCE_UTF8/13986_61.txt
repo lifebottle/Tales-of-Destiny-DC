@@ -16,33 +16,34 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
- mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80><x2C><x1D>(Z<x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80><x2C>no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset---------
 
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-Hey Blondie, that sword you're holding.
+Yo Blondie, about
+that sword you've got.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The sword?
+Sword..?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>What is that?
-You know about Swordians?
+<TAG_007>What the!?
+You know about the Swordians?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Oh, you can hear me? That's 
-quite a feat, isn't it?
+Oh oh, this boy knows
+about us? Impressive!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-phft, lame.
+Pbbt, it's so lame!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -50,57 +51,57 @@ phft, lame.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Phew, that was close.
+Whew..I'm relieved.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Too close!
+I'm not!!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Idiot! Don't give us away?
+Idiot! You nearly
+gave yourself away!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-What the hell is a Swordian?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Uh, uh, let's see...
+What the heck's a Swordian?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm a cleaning guy.
-[ENDBLOCK]
-Young Man
-[ENDBLOCK]
-Cleaning guy?
+Oh, no, I said, uh...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-This looks like a sword, but 
-it's actually a sword for cleaning.
+..Swat..ian..
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-I don't know. It's kind of weird, but
-it's perfect for you, you miserable
-little thing.
+..Swatian?
 [ENDBLOCK]
-Old Man
+<Stahn>
 [ENDBLOCK]
-Oh, you're <Kongman>!
+Yeah. I use this
+to swat flies!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+That's weird. You're weird.
+I guess it suits you then...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Oh you're <Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Oh, come on!
+Yeah!
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>I'm <Kongman>!
-What's that, old man?
+Waddaya want, geezer?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 I'm a big fan of yours.
 [ENDBLOCK]
@@ -108,7 +109,7 @@ I'm a big fan of yours.
 [ENDBLOCK]
 Oh, I see.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
 <Kongman>, before I die.
 I have a favor to ask you.
@@ -117,36 +118,36 @@ I have a favor to ask you.
 [ENDBLOCK]
 What's that?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-Hit me...! Hit me!
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-Excuse me?
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-If <Kongman> beats me up, I can
-brag about it to everyone.
+I..I want you to hit me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'm sorry, Gramps, but
-I can't do that.
+...What?!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+If I take a punch
+from THE <Kongman>, I
+can brag about it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'm... only going to use this
-fist of mine to protect everyone.
+Sir, I'm sorry. I can't do that.
 [ENDBLOCK]
-Old Man
+<Kongman>
+[ENDBLOCK]
+I'm..only going to use these
+fists of mine to protect everyone.
+[ENDBLOCK]
+Man
 [ENDBLOCK]
 ...I see.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Because it's...?
+And so..!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -155,84 +156,84 @@ hesitate to use this fist.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I'm sorry, but that's the way it's
-gonna have to be. Hey, old man.
+Surely you can forgive me.
+Whaddaya say, Man?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-After all, our "<Kongman>" is
-the hero of the city!
+That's our <Kongman>! 
+The hero of the city!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-Who's an old man.
+Who's a geezer?!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Why, there's nothing
-to be angry about.
+Whaat! Was it
+somethin' I said?
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Are your sisters from this city?
+Are you from this city, miss?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-No, you're not. Why not?
+Nope. Why?
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-I have a problem and I
-need you to listen.
+I have a problem
+I need help with.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh!	Is this a damsel in distress?
+Oh! A damsel in distress?
 Come on, come on, let's hear it!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Yeah, I'll get on with it then.
+Ok, I'll tell you, then!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Actually, you know, I have
-a younger brother too.
+You see, I have
+a younger brother...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Huh? Well, okay. Yeah, so?
+Really? Well, OK. Go on.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-I overheard my mom and dad talking
-about it the other day, so...
+The other day, I overheard
+mom and dad talking about him..
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-He said my brother isn't
-my real brother.
+..about how he might
+not be my real brother..
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, yeah...
+Really, now...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Then I'll answer you properly.
+Well, let me tell you this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 Even if it's not by blood, 
-he is still your brother.
+he's still your brother.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-I'm not sure.
+I don't really get it...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Heh. That was hard, wasn't it?
+Heh. It's kinda tough, eh?
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -240,13 +241,13 @@ Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well, I guess I'll just have to
-worry about that now!
+Welp, guess you just
+gotta worry about it now!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-You are so mean!
-I'm really worried about you!
+You're so mean, miss!
+I'm already worried!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -263,32 +264,33 @@ Yeah. My brother and I were fine.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Also, I found out a little more about
-what you were saying the other day.
+Also, I thought about what you
+said, and I get it, now!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, I'm not an honors student.
+Well now, you're
+pretty smart, huh!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
 I was more worried about my brother
 than myself when I was running from
-the monster.
+the monsters.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Doesn't this mean 
-we're really family.
+This means we're
+really family, right??
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Yeah, I guess so.
+Yeah, you got it!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It doesn't matter what blood ties
-you were worried about, does it?
+See? You're not related by
+blood, but you're still family!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -296,106 +298,107 @@ Yeah!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Thank you sis.
+Thanks, miss!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're welcome!
+Oh, don't mention it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Get along, you two!
+Be good to each other, yeah?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Are you from Calvalese?
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-Yeah, that's right. You
-don't have to whisper.
+Yeah, I am. 
+No need to whisper.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-What's the matter with you? 
-Have you come to make fun?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Actually, no.
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-Okay...
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-I forgot about that. The others 
-are working hard all over the 
-world, aren't they?
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-Alright. Please accept my apology.
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-It's not much, but forgive me.
+Well? Gonna make
+fun of me or what?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No worries!
+No, truth is...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-I'm going to try to do my best again
-with the same feelings I had back then.
+I see...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-That's right. I have an
-acquaintance in Aquaveil.
+I forgot...the others
+are all over the world,
+still fightin' on, huh...
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-He was a real go-getter, so maybe
-he'll make it in Aquaveil.
+Alright. Here.
 [ENDBLOCK]
-Old Man
+Man
+[ENDBLOCK]
+It ain't much, but take it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'll give it my all again,
+just like the old days.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Oh yeah! I know a
+guy who's at Aquaveil.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+He's a fighter, that one.
+Maybe he's doing well there.
+[ENDBLOCK]
+Man
 [ENDBLOCK]
 Be careful!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-I have a friend in Aquaveil.
+I know a guy at Aquaveil.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-He was a real go-getter, so maybe
-he'll make it in Aquaveil.
+He's a fighter, that one.
+Maybe he's doing well there.
 [ENDBLOCK]
-周回：<x17><x66><x14><x3B><x70><xAB><x80>
+周回：<x17><x66><x14><x3B><x70><x0C><xAB><x80>
 
 [ENDBLOCK]
 ▼▼▼▼▼矢印描画開始
 
 [ENDBLOCK]
-マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80><x20><x3D>= <TAG_033>
+マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80> == <TAG_033>
 
 [ENDBLOCK]
-場所：<x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<x00><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<x04><xAA><x80><x2C><x20><x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F>t<xAA><x80>
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-場所：<x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13>d<x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-ギミック：<x17><x66><x10><x0F><x70><xAB><x80>
+ギミック：<x17><x66><x10><x0F><x70><x08><xAB><x80>
 
 [ENDBLOCK]
 この時点でのベクトル方向：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
 
 [ENDBLOCK]
-この時点での角度：<x17><x76><x0C><x80><x01>
+この時点での角度：<x17><x76><x0C><x80>
+
 [ENDBLOCK]
 この時点での正規化：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
 
@@ -426,27 +429,28 @@ he'll make it in Aquaveil.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You seem to be the most decent one,
-so you should be the one to win,
-big brother?
+You seem like a decent guy. You're
+going to have to play the brother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, okay, but who is this guy?
+Yeah, okay, but...
+What about this guy?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I am a rich man who lives in this city.
-I am the sponsor of this game.
+I'm a wealthy resident of the
+city. I sponsor the race.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sponsor? What's that?
+Sponsor?
+What's that?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Well, to put it plainly, I am a person 
-who provides products to the winner.
+Well, simply put... I provide
+the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -454,8 +458,8 @@ Wow, but why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Well, when you're rich, you have
-a lot of time on your hands.
+Well, when you're rich. You have a
+lot of time and money on your hands.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -463,28 +467,28 @@ Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You can decide what to do 
-after this, big brother.
+You can decide what to 
+do after this, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 The course is complicated,
-so learn it well.
+so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're sure it's your brother
-you want to play with?
+Are you sure that's who
+you want to race with?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yeah, no problem. What's 
-this Man thing anyway?
+Yeah, no problem.
+Who's this guy anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I am a rich man who lives in this city.
-I am the sponsor of this game.
+I'm a wealthy resident of the
+city. I sponsor the race.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -492,13 +496,13 @@ Sponsor?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Well, to put it plainly, I am a person 
-who provides products to the winner.
+Well, simply put... I provide
+the prizes to the winner.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Why are we funding this kind of
-minigame? What's the purpose?
+Why are you funding
+this kind of event?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -511,8 +515,8 @@ Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You can decide what to do
-after this, big brother.
+What to do after this?
+It's up to you to decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -521,8 +525,8 @@ so learn it well.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The course and the way we do
-things are the same as before.
+The course, the route.
+It's the same as before.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -530,7 +534,7 @@ Yeah, I got it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'm serious about...today.
+I'm serious today.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -538,8 +542,8 @@ Come on, you can decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The course and the way we do
-things are the same as before.
+The course, the route.
+It's the same as before.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -562,7 +566,7 @@ Come on, you can decide.
 	・プレイヤーの初期化
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・マッハボーイの初期化
 
 [ENDBLOCK]
 	・富豪の初期化
@@ -583,19 +587,19 @@ Come on, you can decide.
 	・プレイヤーの初期化
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・マッハボーイの初期化
 
 [ENDBLOCK]
 	・富豪の初期化
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・マッハボーイの初期化
 
 [ENDBLOCK]
-Quit
+select
 [ENDBLOCK]
-Yes
-No
+Quit
+Continue
 
 [ENDBLOCK]
 Oh, my God, you're quitting?
@@ -604,41 +608,42 @@ I knew you couldn't beat me, you know!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What is it? Do you 
-want to play again?
+What's the matter?
+Do you want to play again?
 [ENDBLOCK]
-What is it? Do you 
-want to play again?
-[ENDBLOCK]
-Are you still going to play?
+What's the matter?
+Do you want to play again?
 [ENDBLOCK]
 Are you still going to play?
 [ENDBLOCK]
-I'm the fastest man in the city.
+Are you still going to play?
+[ENDBLOCK]
+I'm the fastest
+man in the city.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 Hey, hey, hey! Do you want
 to run a race with me?
 [ENDBLOCK]
-Hey, do you want to play with me again?
+Hey, do you want to race again?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Race
+select
 [ENDBLOCK]
 Yes
 No
 [ENDBLOCK]
-Follow me.
+Then follow me.
 [ENDBLOCK]
-Follow me.
+Then follow me.
 [ENDBLOCK]
 ...
 [ENDBLOCK]
 What a boring thing to do.
 [ENDBLOCK]
-Oh, no, that's okay then.
+Oh, no, that's fine then.
 [ENDBLOCK]
 What a boring thing to do.
 [ENDBLOCK]
@@ -649,9 +654,9 @@ Boy
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Begin
-List to Course Description
-Quit the Game
+Let the games begin!
+Listen to the course description
+Quit the game!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -667,13 +672,13 @@ Boy
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The game is raced over two laps.
+The race is two laps.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Get in position, okay.
+On your mark.
 [ENDBLOCK]
-Start
+GO!
 [ENDBLOCK]
 Finish!
 [ENDBLOCK]
@@ -682,7 +687,7 @@ Finish!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won. 
+You have won.
 Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
@@ -690,18 +695,20 @@ Please take this one.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won. Please take this one.
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too fast, big brother!
+You're too fast, brother!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won. Please take this one.
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -709,20 +716,20 @@ Did I lose...?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-But you did your best, too, big
-brother. I'll give you the win.
+But you did your best, too, brother.
+I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won. Please
-take this one.
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too fast, big brother!
+You're too fast, brother!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -732,7 +739,7 @@ Boy
 [ENDBLOCK]
 Please come back again, for sure.
 [ENDBLOCK]
-Finished...
+Finish...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -744,8 +751,8 @@ You lost.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What do you say? I'll race you
-as many times as you want.
+What do you say? I'll race with
+you as many times as you want.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -753,12 +760,12 @@ Yay, I'm faster than you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Too slow, big brother.
+You're late, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What do you say? I'll race you
-as many times as you want.
+What do you say? I'll race with
+you as many times as you want.
 [ENDBLOCK]
 ----- 敗北 -----
 
@@ -766,147 +773,149 @@ as many times as you want.
 かけっこ管理----->
 
 [ENDBLOCK]
-最大周数：<x17><x66><x50><x1C><x43>p<xAB><x80>
+最大周数：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
 
 [ENDBLOCK]
-現在結果：<x17><x66><x50><x1C><x43>p@<xAB><x80>
+現在結果：<x17><x66><x50><x1C><x43><x70><x40><x1C><xAB><x80>
 
 [ENDBLOCK]
-勝利状態：<x17><x66><x50><x1C><x43>p@(<xAB><x80>
+勝利状態：<x17><x66><x50><x1C><x43><x70><x40><x28><xAB><x80>
 
 [ENDBLOCK]
-説明状態：<x17><x66><x50><x1C><x43>p@$<xAB><x80>
+説明状態：<x17><x66><x50><x1C><x43><x70><x40><x24><xAB><x80>
 
 [ENDBLOCK]
-現レベル：<x17><x66><x50><x1C><x43>p@ <xAB><x80>
+現レベル：<x17><x66><x50><x1C><x43><x70><x40><x20><xAB><x80>
 
 [ENDBLOCK]
 プレイヤー----->
 
 [ENDBLOCK]
-現在状態：<x17><x71><x80><xE0><x15><x80>
+現在状態：<x17><x71><x80>芹<x80>
 
 [ENDBLOCK]
-現在周数：<x17><x71><x80><xE4><x15><x80>
+現在周数：<x17><x71><x80>吹<x80>
 
 [ENDBLOCK]
-現フラグ：<x17><x71><x80><xE8><x15><x80>
+現フラグ：<x17><x71><x80>頒<x80>
 
 [ENDBLOCK]
-目標座標：<x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x08><xAA><x80>
+目標座標：<x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF0><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-マッハ少年----->
+マッハBoy----->
 
 [ENDBLOCK]
-現在状態：<x17><x71><x80><x8C><x15><x80>
+現在状態：<x17><x71><x80><x8C><x80>
 
 [ENDBLOCK]
-現在周数：<x17><x71><x80><x90><x15><x80>
+現在周数：<x17><x71><x80><x90><x80>
 
 [ENDBLOCK]
-現フラグ：<x17><x71><x80><x94><x15><x80>
+現フラグ：<x17><x71><x80><x94><x80>
 
 [ENDBLOCK]
-目標座標：<x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB>xP <x0F><xAB><x74><x08><xAA><x80>
+目標座標：<x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xB4><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-それじゃ、コースの説明をするね。
+I'll explain the course.
 [ENDBLOCK]
-ここがスタート地点。
+You start here.
 [ENDBLOCK]
-僕がコースを歩きながら説明するから
-しっかりと覚えてね。
+I'll walk you through the
+course once. Pay attention, now!
 [ENDBLOCK]
-始めは噴水を横切る。
+We start across the fountain.
 [ENDBLOCK]
-この階段を下りる。
+Go down these stairs.
 [ENDBLOCK]
-ここから噴水の方に行く。
+From here, go towards the fountain.
 [ENDBLOCK]
-今度は噴水をグルリと一周するんだ。
+Then around the fountain.
 [ENDBLOCK]
-ここからは来た道を戻るよ。
+Then, go back the way
+we came from here.
 [ENDBLOCK]
-今度は噴水を横切る前に、階段を上る。
+This time, go up the stairs
+before crossing the fountain.
 [ENDBLOCK]
-そしてスタート地点だったところが
-ゴールになるよ。
+Then back at the start.
+That's the goal.
 [ENDBLOCK]
-途中でズルしても、
-分かっちゃうからね。
+I'll know
+if you cheat, too.
 [ENDBLOCK]
-勝負は「二周」だよ。忘れないでね。
+We run 2 laps. Don't forget!
 [ENDBLOCK]
-コース移動＋ターン
+Course movement + turn
 
 [ENDBLOCK]
-コース移動
+Course movement
 
 [ENDBLOCK]
-メッセージ再生全て終了済み
+All message playback
+has been completed.
 
 [ENDBLOCK]
-メッセージ再生
+Message playback
 
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
-やあ、久しぶり！
-セインガルドはどうだった？
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-なんの事だろうか。
-どなたかと勘違いしておられるのでは？
-[ENDBLOCK]
-旅人
-[ENDBLOCK]
-何とぼけているんだよ。
-ほらほら、また話を聞かせてくれよ。
-[ENDBLOCK]
-旅人
-[ENDBLOCK]
-本当に別人なのか？
-
-[ENDBLOCK]
-旅人
-[ENDBLOCK]
-これはすまない事をした。
-
+Yo! Been a while!
+How's Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-勘違いだと気づいてくだされば、
-構いませんが……
+You must be mistaken.
+I don't know you.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+Oh don't be silly.
+Come on, let's talk!
+Like old times!
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+...you're really not him?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+Whoops...my bad.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-あなたが会ったという人は、
-それほど私と似ているのですか？
+It's OK.
+You realised your mistake...
 [ENDBLOCK]
-旅人
+<Woodrow>
 [ENDBLOCK]
-ああ、そりゃ良く似ているよ。
+Do I really look
+like someone you know?
 [ENDBLOCK]
-旅人
+Traveler
+[ENDBLOCK]
+Yeah, a lot, really.
+[ENDBLOCK]
+Traveler
 [ENDBLOCK]
 もし、彼を知っている人が見たら、
 そりゃ面白い反応をすると思うな。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 けど、彼は急いでいるみたいだったから、
 探し出すのは無理だと思うけどね。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 そうだ！	だったら彼の事を
 知っている人を探してみなよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 絶対にみんな、
 彼と勘違いするはずさ。
@@ -916,27 +925,27 @@ Man
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
 ねえ、あの元気な人の、
-おOlder Sisterさんは見つかったの？
+お姉さんは見つかったの？
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
 [ENDBLOCK]
-若いMan
+若い男
 [ENDBLOCK]
 一体、どんな女の子かな……
 乙女な感じだといいなあ。
 [ENDBLOCK]
-若いMan
+若い男
 [ENDBLOCK]
 あれ！	もしかして君が!?
 [ENDBLOCK]
@@ -953,12 +962,12 @@ Woman
 [ENDBLOCK]
 あの、どこかでお会いしましたか？
 [ENDBLOCK]
-若いMan
+若い男
 [ENDBLOCK]
 なんだぁ、違うのか……
 ごめん、人違いだったみたい。
 [ENDBLOCK]
-若いMan
+若い男
 [ENDBLOCK]
 あ、もしかして！
 [ENDBLOCK]
@@ -988,7 +997,7 @@ Woman
 [ENDBLOCK]
 それで<Philia>と、間違えたのか。
 [ENDBLOCK]
-若いMan
+若い男
 [ENDBLOCK]
 じゃー、僕たちも
 どこかでゆっくりしようか。
@@ -1027,12 +1036,12 @@ Woman
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ぎゃ、逆にMan性は過去の事を
+ぎゃ、逆に男性は過去の事を
 い、いつまでも引きずるそうですわ。
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-こ、このMan性の行動は通説的には
+こ、この男性の行動は通説的には
 じょ、女性に嫌わ……
 [ENDBLOCK]
 <Stahn>
@@ -1047,434 +1056,430 @@ Woman
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-伝説のにんじん探しを
-止めてしまうんですか？
+Oh...did you wanna stop
+looking for the Legendary Carrot?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-まだにんじん探しを続ける
-もうやめる
+Keep looking for the carrot
+Give it up
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-よかった……
+Whew, I'm glad...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-もう一緒にいられないのかと
-思いました。
+I was afraid you were
+gonna up and abandon me.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-それじゃあ、行きましょう。
+Well then, let's go!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-そうですか……
+...I see...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-短い間でしたけど、
-楽しかったです。
+It was only for a little
+while, but I had fun...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-それじゃあ、さようなら。
+Well...goodbye, then...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-私の用事に付き合わせてしまい、
-本当にすみませんでした。
+Thank you so much for
+coming with me on my errand!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、ひとつ教えてくれないか。
+Hey, just tell me
+one thing, would you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-何ですか？
+What is it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-見つけたにんじんを、
-一体何に使うつもりだ。
+Just what exactly do you intend
+to do with that "Legendary Carrot"?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-うちのお兄ちゃんを叩くためです。
+I'm gonna smack my big bro
+upside the head with it!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-兄を叩く？
+..upside the head?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ええ。わたし怒ってるんです。
+That's right! I'm
+VERY angry at him!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-うちのお兄ちゃん、何にも言わずに
-いなくなったんですよ。
+He just up and left us
+one day wihthout a word!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-帰ってきても、
-絶対に許さないんだから。
+Even if he comes crawling back,
+I'm not gonna let him off easy!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうか。なら間違っても
-殺さないよう気をつけるんだな。
+I see. Well, be careful
+not to accidentally
+kill him, I guess...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あなたって口は悪いけど
-本当は優しいんですね。
+You've got a real harsh mouth, but
+you're actually a really sweet guy!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふん。バカを言うな。
+Hmph..don't say
+such dumb things...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕は用事があるからな。
-もう行くぞ。
+I need to go. I have
+something I need to do here.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あ、待って……
+Oh, wait..!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-名前教えて欲しかったのに……
+...I wanted you to
+tell me your name...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The fountain is the symbol of the city.
-It is a place for residents to relax.
+<TAG_005>A fountain that is a symbol of the city.
+It is a resting place for residents.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Neuestadt New Business Opportunities. 
-For more information, please contact Oberon.
+<TAG_005>Neuestadt New Business Opportunity
+    For more information, 
+   please contact Oberon.
 [ENDBLOCK]
-Store Placeholder
+ダミーショップ配置
 [ENDBLOCK]
-<TAG_007>Food shop: Manpuku-tei
-Toolmaker: Give and Take
-Weapon Shop: Arcadia
-Armor Shop: Deferent
-Accessory Shop：Silver Thread
-Oberon Company: West Continent Branch
+<TAG_007>食材屋：満腹亭
+道具屋：ギブアンドテイク
+武器屋：アーケディア
+防具屋：ディフェレイド
+Accessory Shop：銀の糸
+オベ社：西大陸支店
 
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-This is Neuestadt, the 
-central city of Fitzgald.
+ここはフィッツガルドの中心都市、
+ノイシュタットです。
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-What in the world is all
-of the commotion. 
+これは一体何の騒ぎなんですの！？
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-Are you the, uh...
-Kong Guy from the arena?
+あなたは闘技場の……
+ええと、コングガイさん？
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-Maybe it's because floating land
-in the sky, but the sun tends to
-shade out these days.
+空に色々な物が浮かんでいるせいか、
+このところ日がかげりがちですね。
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-Daylight has finally been
-completely cut off.
+とうとう日の光が、
+完全に遮断されましたね……
 [ENDBLOCK]
-Woman
+街の女性
 [ENDBLOCK]
-Thank you for coming! 
-Please save this city!
+よく来てくださいました！
+どうかこの街をお救いください！
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-What do you think?	Isn't
-it a beautiful town?
+どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-The prosperity of this city is
-nowhere near as great as Darilsheid.
+今やこの街の繁栄ぶりは、
+ダリルシェイドにも負けませんよ。
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-What do you think?	Isn't
-it a beautiful town?
+どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-What force is that armed fleet?!
-They're gonna tear the city apart!
+あの武装船団はどこの勢力ですか！
+街がめちゃめちゃにされてしまう！
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-I'll pay you anything you want. Please
-do something about the armed fleet!
+か、金ならいくらでも出します。
+武装船団をなんとかして下さい！
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-Mighty!	Mighty! ...haha,
-that's what I did.
+マイティ！	マイティ！
+……はっ、私とした事が。
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-I don't know when this city
-will be attacked.
+いつこの街も、
+攻撃を受けるかわかりませんね……
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-Is it all over now?
+もはや万事休すなのでしょうか……
 [ENDBLOCK]
-Gentleman
+紳士
 [ENDBLOCK]
-Mighty!	Mighty!
-Please take care of her!
+マイティ！	マイティ！
+どうかよろしく頼みます！
 [ENDBLOCK]
-Lens Merchant
+Lens Shop
 [ENDBLOCK]
-Welcome! We trade in lens.
+Welcome! We allow you to 
+redeem your lens.
 [ENDBLOCK]
-Lens Merchant
+Lens Shop
 [ENDBLOCK]
-Hmm, the company told me not
-to leave this place.
+Hmm, the company told
+me not to leave.
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-This city has grown by sucking
-the money out of Seinegald.
+セインガルドの金を吸い取って、
+この街は発展したんだよ。
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-That's what my dad said.
-I'm sure of it.
+うちのパパがそう言ってたんだ。
+間違いないよ。
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-He said that this city has developed
-entirely because of Seinegald.
+この街が発展したのは、
+全部セインガルドのお陰だってさ。
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Whoo! Pow!
+Whoo! POW!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You guys did good. 
+You guys did good.
 I'll tell your dad.
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-You're always welcome here.
+おまえなら、いつでも
+歓迎してやるぞ。
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-Hey, you guys, do something about it.
+おいおまえら、なんとかしろよ。
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-You guys, please. 
-Please, do something!
+おまえら、頼むよ。
+お願いだからなんとかしてよ！
 [ENDBLOCK]
-Boy
+Young Man
 [ENDBLOCK]
-Um, let's see...
-Good luck, <x0B><x10><x27><x00><x00>。
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-The original inhabitants of this city
-are not very dignified.
+あの、えっと……
+がんばれ、<Leader>。
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Oh, my God, help me!
+Those who originally lived
+in this city lack dignity.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-What, you're not a monster?
+H-help me!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Let's see what you can
-do to these savages!
+Oh, you're not a monster.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Wasn't it that savage Muscle
-Man who kept the peace in the city.
+野蛮な奴らめを、
+こらしめてやってください！
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-If we were attacked from above,
-it would be the same no matter 
-where we were.
+街の平和を守ったのは、
+あんな野蛮な筋肉男ではないのに。
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Will humanity have no choice
-but to perish?
+空から攻撃を受けてしまったら、
+街のどこにいても同じでしょうな。
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I never thought the day would come
-when I would be working with the 
-original inhabitants of this city.
+人類は滅びるしかないんでしょうか。
 [ENDBLOCK]
-Mother
+Old Man
 [ENDBLOCK]
-The Oberon Corporation is responsible
-for the rapid growth of this city.
+この街に元から住んでいた者たちと
+協力し合う日が来るとは。
 [ENDBLOCK]
-Mother
+母親
 [ENDBLOCK]
-I got separated from my 
-Child. I hope he's okay.
+この街が急速に発展したのは、
+オベロン社の功績ですわ。
 [ENDBLOCK]
-Mother
+母親
 [ENDBLOCK]
-It might be someone from this city
-who guided those ruffians.
+Childとはぐれてしまいました。
+無事だといいのだけれど……
 [ENDBLOCK]
-Mother
+母親
 [ENDBLOCK]
-Ms. <Ilene> from Oberon hasn't
-been around for a while.
+あのならず者たちを手引きしたのは、
+この街の誰かかもしれませんよ。
 [ENDBLOCK]
-Mother
+母親
 [ENDBLOCK]
-I'm more worried this time than
-I was when we were attacked by
-an armed fleet before.
+オベロン社の<Ilene>女史が、
+このところ姿を見せないんですよ。
 [ENDBLOCK]
-Mother
+母親
 [ENDBLOCK]
-I miss the blue sky.
+以前武装船団に襲われた時よりも、
+今回の方が不安になります。
 [ENDBLOCK]
-Woman
+母親
 [ENDBLOCK]
-I hope one day I can walk in the
-sunshine with my daughter again.
+青い空がなつかしいですわね……
+[ENDBLOCK]
+母親
+[ENDBLOCK]
+娘ともう一度、日の光の下を
+歩ける日が来るといいのですが。
 [ENDBLOCK]
 Child
 [ENDBLOCK]
 Do you know what Softy Kreem is?
-It's a specialty of this town.
+It's a specialty of this city.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Mom! Mom!
+Mommy!?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Whenever I tell her that <Kongman> has 
-saved the city, she gets in a bad mood.
+<Kongman>が街を守ったっていうと、
+ママの機嫌が悪くなるの。
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-He said that the number of people 
-complaining about Oberon has suddenly 
-increased.
+オベロン社に文句をいう人が、
+このところ急に増えたんだって。
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-There's a shadow in the sky.
+空に影が出てきたわ。
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-If it's nighttime outside all the time,
-I'll be able to avoid getting sunburned?
+お外がずっと夜だったら、
+日焼けしないで済むかな？
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-When will things be back to
-normal outside?
+お外はいつ元に戻るの？
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-How about some jewelry? We are
-confident in our selection.
+How about a jewel? I am 
+confident in the product line.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-You are all in pursuit of an armed
-ship. Please depend on our store.
+You guys are in pursuit of the armada.
+Please rely on our store.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-Our store is always open!
+Our shop is always open.
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-The climate is great, and there
-is so much to do. This city is a
-great place to live.
+気候が良くて、物がいっぱいあって。
+この街は住むのに最高ですわね。
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-I hope this will be a good opportunity
-for the residents to get to know each 
-other a little better.
+今回の事を機に、住人同士が、
+少しでも仲良くなれるといいですね。
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-The gap between the rich and the
-poor grew wider, and the wind was
-blowing harder against Oberon.
+貧富の差はますます広がり、
+オベロン社への風当たりが強くなりました。
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-I'm sure <Ilene> is disappointed.
+<Ilene>さんも落胆しているでしょうね。
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-It's times like these that we
-need to unite 
+こんな時こそ、住人同士の結束が
+必要なのに……
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-Without <Ilene> that
-would be difficult.
+<Ilene>さんがいなければ、
+それも難しいでしょうね。
 [ENDBLOCK]
-Old Woman
+おばあさま
 [ENDBLOCK]
-I wanted to show <Ilene> that I was
-working with the residents of the
-downtown area.
+下町の住人と協力しているところを、
+<Ilene>さんにも見せたかったです。
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-If you go north out of Neuestadt, 
-there's a little village called Lienea.
+If you leave Neustadt and head
+north, you will find a small 
+village called Lienea.
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-Don't talk to me in an
-emergency like this!
+Don't talk to me in
+such an emergency!
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-I knew I could count on Kongman.
-Mighty!	Mighty!
+やっぱり<Kongman>は頼れるのお。
+マイティ！	マイティ！
 [ENDBLOCK]
-Old Man
+Man
 [ENDBLOCK]
-Please be sure to use
-the lens I donated.
+わしの提出したレンズも
+必ず使ってくだされ。
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1490,38 +1495,39 @@ Boy
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You should have a race with him. 
-If you think he's just a kid,
-you're in for a world of hurt.
+You should race that kid. If you 
+think that's all he is. You're 
+in for a world of hurt.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're asking me if I'm going
-to gamble in this situation?
+You're asking me if I'm going to 
+gamble in this situation? I do it
+because of situations like this.
 [ENDBLOCK]
 Oberon Employee
 [ENDBLOCK]
-<ITEM_065>,<ITEM_066>, <ITEM_067>,
-<ITEM_068>, <ITEM_069>. Do you have
-everything?
+<ITEM_065>、<ITEM_066>、
+<ITEM_067>、<ITEM_068>、
+<ITEM_069> Do you have the materials?
 [ENDBLOCK]
-If you have everything ready and 
-bring it with you, we will mix them
-and give you <ITEM_Elixir>.
+When you have everything ready, 
+please bring the materials and 
+we'll exchange them for <ITEM_Elixir>.
 [ENDBLOCK]
 You have all the materials.
 
 [ENDBLOCK]
-<TAG_007>Do you want to exchange 
-the materials for the <ITEM_Elixir>?
+<TAG_007>Do you want to exchange the
+materials for the <ITEM_Elixir>?
 
 [ENDBLOCK]
-一つだけ交換する
-全部交換する（<TAG_077>個）
-交換しない
+Replace One
+Replace All (<TAG_077> Pieces)
+Do Not Exchange
 [ENDBLOCK]
-交換する
-交換しない
+Exchange
+Do Not Exchange
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1532,18 +1538,18 @@ notice
 <TAG_007><ITEM_Elixir>を
 <TAG_076>個手にいれました。
 [ENDBLOCK]
-またどうぞ。
+Thank you, come again.
 
 [ENDBLOCK]
-いつでも交換できます。
+It can be replaced at any time.
 
 [ENDBLOCK]
 Please come back when you
 have all the materials.
 
 [ENDBLOCK]
-<ITEM_Elixir>はこれ以上
-持てないようです。
+Can can't carry
+anymore <ITEM_Elixir>.
 
 [ENDBLOCK]
 <Stahn>
@@ -1604,39 +1610,42 @@ the monsters into the arena!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-なんですって!?
+What's that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まずい、俺たちも戻ろう！
+Oh no, we've got to get back!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-せっかくノイシュタットに来たんだから、
-<Ilene>さんに挨拶でもしていこうか？
+Since we've come all this way to
+Neuestadt. Why don't we say hello
+to <Ilene>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-たぶん……いないと思いますよ。
+She may not be there...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私たち、リーネへ行く前にも、
-この街を通ったんですけど……
+We passed through this city
+on the way to Lienea.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ilene>さん、しばらく公の場に、
-姿を見せていないそうです。
+<Ilene> hasn't been seen
+in public for a while.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どこか行ってるのかな。
+I wonder if he's
+going somewhere.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-寄り道をしているゆとりはない。
-さっさと港へ行って、船に乗るぞ。
+We don't have time for
+a detour. Let's get to the
+port and get on the boat.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1644,28 +1653,26 @@ Okay, okay.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What a pretty skyline. There are
+What a magnificent town. There are
 so many new, beautiful buildings.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-With Oberon Company funding it, it
-looks like there’s been a lot of 
+With the Oberon Company funding, it 
+looks like there's been a lot of
 rapid growth here recently.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I had no idea it was 
-this developed.
+I had no idea it was this developed...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What, did you think
-it was all rural?
+ What, did you think it was all rural?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Th-that's—
+Th-that's?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1675,13 +1682,13 @@ S-sorry, <Stahn>.
 [ENDBLOCK]
 Hey, that guy...
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
 <Stahn>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's <Bacchus>!
+Hey, <Bacchus>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1689,22 +1696,22 @@ Who?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-He's a childhood friend from 
-Lienea. Wow, what a coincidence!!
+He's a childhood friend from Lienea.
+Wow, what a coincidence!!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
 I came to Neuestadt to shop, but
-I never thought I’d meet you here!
+I never thought I'd meet you here!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-You took off so suddenly, It 
-kicked up a huge fuss.
+You took off so suddenly,
+It kicked up a huge fuss.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah—yeah...
+Ah? yeah...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1717,12 +1724,12 @@ Shut up.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So yeah, when are you coming 
+So yeah, when are you coming
 back to the village?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm probably not coming back.
+...I'm probably not coming back.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1730,13 +1737,13 @@ Hey...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There's something I have to
-do no matter what.
+There's something I have
+to do no matter what.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't really tell you the details.
-But at any rate, I can’t come home
+I can't really tell you the details...
+But at any rate, I can't come home 
 right now.
 [ENDBLOCK]
 <Bacchus>
@@ -1746,7 +1753,7 @@ I'm not gonna ask.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-But you should at least write a 
+But you should at least write a
 letter to your family. Lilith is
 worried, you know?
 [ENDBLOCK]
@@ -1764,9 +1771,9 @@ Okay, see you around.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't want to needlessly worry 
-them, so I've kept quiet about 
-<Greybum>.
+I didn't want to needlessly worry
+them, so I’ve kept quiet about
+<Greybum>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1774,7 +1781,7 @@ That's the right choice.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What happened to <Mary>.
+I don't see <Mary> anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1782,11 +1789,11 @@ Where did you go?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Softy Kreem stand.
+Softy Kreem stand!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Why are you going off and 
+Why are you going off and
 getting one by yourself?
 [ENDBLOCK]
 <Mary>
@@ -1795,82 +1802,86 @@ It was yummy...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Can we get going to <Ilene>'s estate now.
+Enough, let's get going
+to <Ilene>'s estate now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、おまえ。
-これはどういう事だ!?
+Hey, you! What's
+going on, here??
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-し、知りませんよ。海から急に
-モンスターが押し寄せてきて！
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-モンスターの数はどのくらいだ。
-[ENDBLOCK]
-青年
-[ENDBLOCK]
-もう、うじゃうじゃですよ！
+Waah... I don't know! Monsters came
+rushing in from the ocean!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-くそ、<Stahn>たちはどこへ行ったんだ。
-さすがに僕ひとりじゃ、どうにもならないぞ。
+How many were there?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I don't know, they were
+all over the place.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Damn, where are Stahn and the others?
+I can't manage this on my own, you know.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-……ふふ。
+...haha
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-こんな時に何を笑っているんだ、シャル。
+What are you laughing about
+at a time like this, Char?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-あ、いえいえ。そうですね。
-みんな、どこへ行ったんでしょう。
+Oh, no, no. That's right. I wonder
+where everyone went.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それに、<Ilene>の事も心配だ。
-無事でいてくれるといいが……
+And I'm also worried about <Ilene>.
+I hope she's okay...
 [ENDBLOCK]
-青年
+Child
 [ENDBLOCK]
-<Ilene>さんなら、さっき見た事ない連中と
-闘技場に向かいましたよ。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-本当か！
-[ENDBLOCK]
-青年
-[ENDBLOCK]
-そんな事、嘘つきませんよ。
-もう、私行っていいですか!?
+<Ilene> just left for the arena
+with a group of people I've never
+seen before.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-よし、行け。
+Really?!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I wouldn't lie to you about
+that. Can I go now?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Okay, go.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene>と一緒にいる連中って、
-<Stahn>たちだと思いません？
+Do you think the people with <Ilene>,
+are <Stahn> and the others?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-むしろそうあって欲しいところだ。
-よし闘技場へ向かうぞ。
+I'd rather that be the case. All
+right, let's head for the arena.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
@@ -1900,40 +1911,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Title:<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><x00><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x00><x19><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xFC><x18><x00><x80></color>を取得しました。
 
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>交易称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>温泉称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>自由称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ナチュレンジャー
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 称号：<turquoise>ダッシュシリーズ
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>最強の称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>たちは
+<x19><x69><x80><x80>たちは
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>は
+<x19><x69><x80><x80>は
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1983,7 +1994,7 @@ notice
 [ENDBLOCK]
 <TAG_007>ウェブサイトで入力する
 連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
+フィッツガルドにあるTravelerの小屋で
 確認する事ができます。
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です

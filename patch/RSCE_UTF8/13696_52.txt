@@ -195,61 +195,65 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>何かの計測結果を
-はき続けている。
+<TAG_005>I'm still using some
+measurement results.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案１
-「なんらかの方法で目からビーム」
+<TAG_005>Proposed new features
+of the tiara as a weapon 1:
+"Shoot beams from the eyes"
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案２
-「頭皮マッサージ」
+<TAG_005>Proposed new features
+of the tiara as a weapon 2:
+"Scalp massage"
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案３
-「電極を差し込み、視力を上げる」
+<TAG_005>Proposed new features
+of the tiara as a weapon 3:
+"Use electrodes to increase vision"
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくの研究所へようこそ！
-何かお探しですか？
+Welcome to my lab!
+What can i do for you?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-また僕の実験に協力してくれよ。
+Please, help me with my experimets
+again.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ティアラの調子はどうだい？
-報告を楽しみにしているよ。
+How's your tiara doing?
+Looking forward to your report.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくの研究所へようこそ！
-何かお探しですか？
+Welcome to my lab!
+What can i do for you?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ティアラの調子はどうだい？
-報告を楽しみにしているよ。
+How's your tiara doing?
+Looking forward to your report.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-…………
+………
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -267,7 +271,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><xA0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -275,7 +279,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xC4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xC0><x00><x80></color>を取得しました。
 
@@ -393,7 +397,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><xA0><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><xA0><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

@@ -2,59 +2,62 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-おまえのバカ力でどうにかしろ。
+Use your idiot powers 
+to do something about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかった、任せろ。
+Alright, leave it to me! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきの<ITEM_149>を使えば、
-開けられるんじゃないか？
+<ITEM_149> should open it, right?
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-つるはしで扉をこじ開けました。
+You pried the door open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-開かないようだ。
-手では動かせそうにない。
+It seems to be stuck.
+You can't open it by hand.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ダリルシェイドに行きますか？
-行く
-行かない
+<TAG_007>Zero gravity elevator,
+warp to to Darilsheid?
+Go
+Don't go
 
 [ENDBLOCK]
-雑貨屋
+Clerk
 [ENDBLOCK]
-おや？	僕は確かダリルシェイドに……
-ま、いっか。とりあえず商売しますよ。
+Hmm? I was just in Darilsheid..
+Oh, well. Let's just get down
+to business.
 [ENDBLOCK]
-雑貨屋
+Clerk
 [ENDBLOCK]
-おや？	僕は確かダリルシェイドに……
-ま、いっか。とりあえず商売しますよ。
+Hmm? I was just in Darilsheid..
+Oh, well. Let's just get down
+to business.
 [ENDBLOCK]
-雑貨屋
+Clerk
 [ENDBLOCK]
-そういえば、街から商人たちが、
-来たようですよ。
+Speaking of which, it seems that
+some merchants from the city 
+have arrived.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -72,7 +75,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -80,7 +83,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA0><x00><x80></color>を取得しました。
 
@@ -198,7 +201,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x80><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x80><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

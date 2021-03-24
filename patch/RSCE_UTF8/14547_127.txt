@@ -33,16 +33,16 @@ dir = <x17><x72><x40><x20><x80>	不明
 [ENDBLOCK]
 
 [ENDBLOCK]
-今から使用するオブジェクトは<x17><x66><x10><x5B><x70>@<x18><xAB><x80><x99><xCE>す
+今から使用するオブジェクトは<x17><x66><x10><x5B><x70><x40><x18><xAB><x80>です
 
 [ENDBLOCK]
 <TAG_035>の座標：<x1D><x66><x18><x03><xE8><xA0><x80>, <x1D><x66><x14><x03><xE8><xA0><x80>, <x1D><x66><x10><x03><xE8><xA0><x80>
 
 [ENDBLOCK]
-もともと：<x1D><x66><x1C><x5B><x44>P(<x03><xAB><x72><x40><x10><x8B>噴<x80>, <x1D><x66><x1C><x5B><x44>P8<x03><xAB><x72><x40><x10><x8B>噴<x80>, <x1D><x66><x1C><x5B><x44>PH<x03><xAB><x72><x40><x10><x8B>噴<x80>
+もともと：<x1D><x66><x1C><x5B><x44><x50><x28><x03><xAB><x72><x40><x10><x8B><xE8><xA0><x80>, <x1D><x66><x1C><x5B><x44><x50><x38><x03><xAB><x72><x40><x10><x8B><xE8><xA0><x80>, <x1D><x66><x1C><x5B><x44><x50><x48><x03><xAB><x72><x40><x10><x8B><xE8><xA0><x80>
 
 [ENDBLOCK]
-何らかの拡大率を操作	<x17><x66><x10><x07><x70><xAB><x80>
+何らかの拡大率を操作	<x17><x66><x10><x07><x70><x04><xAB><x80>
 
 [ENDBLOCK]
 X拡大：<x17><x66><x10><x07><x74><x00><xAB><x80>
@@ -57,10 +57,10 @@ X拡大：<x17><x66><x10><x07><x74><x00><xAB><x80>
 ●EREF_ST_STOP→EREF_ST_MOVEへ移行
 
 [ENDBLOCK]
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
-不正なアニメーションです＝state→<x17><x66><x14><xEF><x70>@\<xAB><x80>
+不正なアニメーションです＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
 ロディオンで利用されているメモリ：<x17><x72><x42><x3C><x80>
@@ -87,10 +87,10 @@ j = <TAG_032>
 敵発生装置の動作→update_senpc_fly(&g_Npc[<x17><x72><x40><x70><x80>], &g_NpcManage);
 
 [ENDBLOCK]
-箱からNPC作成前→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF>r@t<x8B>歩@\<xAA><x80>
+箱からNPC作成前→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF><x72><x40><x74><x8B><xE8><xD0><xEF><x70><x40><x5C><xAA><x80>
 
 [ENDBLOCK]
-箱からNPC作成→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF>r@t<x8B>歩@\<xAA><x80>
+箱からNPC作成→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF><x72><x40><x74><x8B><xE8><xD0><xEF><x70><x40><x5C><xAA><x80>
 
 [ENDBLOCK]
 通れないぞ……
@@ -126,7 +126,7 @@ j = <TAG_032>
 こんなの飛び越えられるわけ
 ないじゃない。もー、どうなってるのよ。
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 <x18><x66><x14><x00><x80>
 
@@ -179,7 +179,7 @@ notice
 ×××××通常状態の敵とエンカウントしました。×××××
 
 [ENDBLOCK]
-何らかの拡大率を操作	<x17><x66><x10><x07><x70><xAB><x80>
+何らかの拡大率を操作	<x17><x66><x10><x07><x70><x04><xAB><x80>
 
 [ENDBLOCK]
 X拡大：<x17><x66><x10><x07><x70><x00><xAB><x80>
@@ -195,11 +195,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -217,7 +217,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -225,40 +225,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x80><xA8><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xA8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xA4><x12><x00><x80></color>を取得しました。
 
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 <turquoise>交易称号
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 <turquoise>温泉称号
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 <turquoise>自由称号
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 称号：<turquoise>ナチュレンジャー
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 称号：<turquoise>ダッシュシリーズ
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 <turquoise>最強の称号
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>たちは
+<x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x80><x98><x12><x80>は
+<x19><x69><x80><x98><x80>は
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -343,7 +343,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80><x84><x12><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x80><x84><x12><x80><x99><xD5><x9A>Zーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

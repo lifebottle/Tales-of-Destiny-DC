@@ -4,13 +4,13 @@
 CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 
 [ENDBLOCK]
-フラグ	<x17><x45><x57><xB4><x23>r<x00><x8B>歩#D<x14><x03><xAA><xE8><x80><x80>, <x17><x45><x57><xB4><x23>r<x00><x8B>歩#D<x14><x03><xAA><x21><x8B>浮<x80>, <x17><x45><x57><xB4><x23>r<x00><x8B>歩#D<x14><x03><xAA><x24><x02><x8B>浮<x80>
+フラグ	<x17><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x44><x14><x03><xAA><xE8><x80><x80>, <x17><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x44><x14><x03><xAA><x21><x8B><xE8><x80><x80>, <x17><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x44><x14><x03><xAA><x24><x02><x8B><xE8><x80><x80>
 
 [ENDBLOCK]
-↑総数	<x17><x45><x57><xB4><x23>r<x00><x8B>歩#p<x00><xAA><x80>
+↑総数	<x17><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x70><x00><xAA><x80>
 
 [ENDBLOCK]
-オフセット	<x1D><x45><x57><xB4><x23>r<x00><x8B>歩#t@<x10><xAA><x80><x2C><x20><x1D><x45><x57><xB4><x23>r<x00><x8B>歩#t@<xAA><x80>
+オフセット	<x1D><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x74><x40><x10><xAA><x80>, <x1D><x45><x57><xB4><x23><x72><x00><x8B><xE8><xD0><x23><x74><x40><x14><xAA><x80>
 
 [ENDBLOCK]
 ×××××××××××××××××××××
@@ -44,7 +44,7 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
-<x0B><x10><x27><x00><x00>
+<Leader>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -76,13 +76,13 @@ CUBE3=<x1D><x75><x44><xBC><x80>,<x1D><x75><x44><xC0><x80>,<x1D><x75><x44><xC4><x
 CUBE4=<x1D><x75><x44><xC8><x80>,<x1D><x75><x44><xCC><x80>,<x1D><x75><x44><xD0><x80>
 
 [ENDBLOCK]
-パターン番号：<x17><x29><x11><x27><x72>@<x14><x72><x40><x10><x21>狸
+パターン番号：<x17><x29><x11><x27><x72><x40><x14><x72><x40><x10><x21><x14><xE5><x80>
 
 [ENDBLOCK]
-パターン番号：<x17><x72><x40><x18><x72>@<x14><x72><x40><x10><x21>狸
+パターン番号：<x17><x72><x40><x18><x72><x40><x14><x72><x40><x10><x21><x14><xE5><x80>
 
 [ENDBLOCK]
-パターン番号：<x17><x29><x11><x27><x72>@<x14><x72><x40><x10><x21>狸
+パターン番号：<x17><x29><x11><x27><x72><x40><x14><x72><x40><x10><x21><x14><xE5><x80>
 
 [ENDBLOCK]
 よんだよ
@@ -125,11 +125,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x5C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x5C><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -147,7 +147,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x5C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x5C><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -155,7 +155,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>q<x48><x80><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x80><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80></color>を取得しました。
 
@@ -273,7 +273,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x5C><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x5C><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

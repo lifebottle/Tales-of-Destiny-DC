@@ -1,58 +1,60 @@
-船長
+Captain
 [ENDBLOCK]
-フィッツガルドは独立国です。
-セインガルドの属国ではありません。
+Fitzgald is an independent country.
+It does not belong to Seinegald.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-……とはいえ、経済的な実権は、
-オベロン社に握られていますがね。
+Even though it is... the Oberon 
+Corporation still holds the 
+real economic power, though.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-この国の経済を、オベロン社だけに
-任せてはいけないと思うのですがね。
+I don't think we should leave the economy
+of this country to Oberon alone.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-このところ、オベロン社の影響力が
-著しく低下しています。
+Recently, Oberon's influence has
+been significantly diminished.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-このご時世に船に乗る人もおらず、
-すっかり暇を持て余しています。
+In this day and age, there
+is no one to take the boat,
+and I'm completely lost.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-セインガルドから母が
-遊びに来たのですが。
+My mother came to visit
+me from Seinegald.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-無理をしたのか、体調を
-崩してしまいました。
+I guess I pushed myself too
+hard, and I got sick.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-早く孫の顔を見せろと、
-いつもの口うるさくて、
-元気な母に戻って欲しいものです。
+I want my mother to go back to her 
+usual nagging and cheerful self to show
+me her grandchildren's faces soon.
 [ENDBLOCK]
-船長
+Captain
 [ENDBLOCK]
-青々と輝く大海原を、
-もう一度この目で見たいものです。
+I wish I could see the lush, shining
+ocean with my own eyes again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -70,7 +72,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013a><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -78,7 +80,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qG<x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>を取得しました。
 
@@ -196,7 +198,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013a><xC8><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

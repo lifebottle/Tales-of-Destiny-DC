@@ -70,8 +70,8 @@ the Aeth'er Wars.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The source of the great calamity
-that befell the world...
+“The source of the great calamity
+that befell the world"...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -87,7 +87,7 @@ get it back.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...Yeah. You're right.
+...Yeah. You’re right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -101,7 +101,7 @@ Y-yes!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I brought young master here.
+I've brought Master <Lion>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -111,7 +111,7 @@ Are you feeling okay?
 <Dymlos>
 [ENDBLOCK]
 If we're going to be chasing after
-Lydon, I have a proposal.
+<Greybum>, I have a proposal.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -122,7 +122,7 @@ strengthening ourselves.
 <Chaltier>
 [ENDBLOCK]
 Actually, in a nearby part of the
-ocean, there's should be a place
+ocean, there’s should be a place
 where a swordian is sleeping.
 [ENDBLOCK]
 <Atwight>
@@ -139,7 +139,8 @@ would no doubt be useful to us.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-We should go get him, young master.
+We should go 
+get him, Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -147,7 +148,7 @@ Hmm...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It's fine, isn't it? Let's go.
+It's fine, isn't it? Let’s go.
 This is a great opportunity.
 [ENDBLOCK]
 <Rutee>
@@ -171,7 +172,7 @@ then let's go.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Thank you, young master!
+Master <Lion>! Thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -220,57 +221,60 @@ of person you are.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I let <Greybum> get away...
+<Greybum> got away
+from us once again...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We're all at fault. Next time,
-we're absolutely gonna catch him.
+It's not anyone's fault.
+We'll definitely get him next time.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, you're right.
+...Yes, you're right.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-When you were working with 
-<Greybum> at the temple, what
-kinda guy was he?
+About <Greybum>, what was he
+like back at Straylize temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-He was a scholar with great 
-faith. He was highly respected.
+He was incredibly intelligent,
+and extremely pious. He was 
+someone you could look up to.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-He was adored by many of the 
-clergymen, who gathered under him.
+Many priests adored him. He had
+a lot of devout followers, but...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Speaking of which... We never saw
-<Batista> in Kalviola.
+That reminds me. We didn't
+see <Batista> in Kalviola at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Batista>?
+<Batista>..?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-He was a priest who was a close 
-aid of<Greybum>. He was something 
-of a superior to me, but...
+Another priest, and <Greybum>'s
+most trusted aide. I considered
+him to be my mentor, but...
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-You are a fool for defying 
-<Greybum>, <Philia>.
+<Philia>, you'd dare disobey 
+High Priest <Greybum>?
+You're such a stupid girl.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-It's fitting for someone like
-you to turn to stone!
+Since you're so hard-headed,
+I reckon it's only fitting
+we give you a body of stone to match!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -278,26 +282,25 @@ you to turn to stone!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-S-sorry, I spaced out 
-for a second...
+S-Sorry...I was just
+lost in thought...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What is it, <Lion>?
+What's wrong, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'll be on the deck.
+...I'll be on the deck.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion> didn't look so good,
-I wonder if he's okay.
+<Lion>'s face didn't look so good.
+Think he'll be OK?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Isn't he like that
-all the time?
+Well, isn't he always like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -469,17 +472,17 @@ to support him.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yes...
+Right.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x64><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -497,7 +500,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x64><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -505,7 +508,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<x88><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x84><x00><x80></color>を取得しました。
 
@@ -623,7 +626,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x64><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x64><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice

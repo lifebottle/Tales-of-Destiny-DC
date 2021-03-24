@@ -38,12 +38,6 @@
 <Lion>
 [ENDBLOCK]
 Damn it! Where did <Greybum> go!?
-I've been chasing him for so long!
-It's humilating that it has taken this long
-for me to get this far in my career
-only for that grey bum to slip
-through my fingers like this now 
-Marian will never love me baww!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -65,7 +59,7 @@ you're doing, right??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Shut up, Chal..!
+Be quiet, Chal..!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -79,7 +73,7 @@ Don't you think I know that!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-But right now, recovering the
+Right now, though, the
 Eye of Atamoni is more important!
 [ENDBLOCK]
 <Chaltier>
@@ -95,11 +89,11 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_033>ガルド
 [ENDBLOCK]
-<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB>!<x8B>斐<x80>
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティに加わりました。
 [ENDBLOCK]
@@ -117,7 +111,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013b><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x80><x80></color>が
 [ENDBLOCK]
 パーティから抜けました。
 [ENDBLOCK]
@@ -125,7 +119,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00>qH<xA4><x98><x80>
+称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA4><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA0><x00><x80></color>を取得しました。
 
@@ -243,7 +237,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013b><x80><x80>のソーディアンデバイスが
+<TAG_007><x19><x71><x48><x80><x80>のソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
 notice
