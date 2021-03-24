@@ -398,15 +398,16 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x80><x80></color> 
 [ENDBLOCK]
-joined the Party.
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
 戦闘に参加できます。
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-パーティに復帰しました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x59><x70><x00><x80><x18><x65><x59><x74><x00><x80>
 [ENDBLOCK]
@@ -414,9 +415,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x80><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x80><x80></color> 
 [ENDBLOCK]
-パーティから抜けました。
+has left the party.
 [ENDBLOCK]
 <x18><x65><x59><x70><x00><x80><x18><x65><x59><x74><x00><x80>
 [ENDBLOCK]

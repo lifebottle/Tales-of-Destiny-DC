@@ -1115,8 +1115,8 @@ in this, so why not do it, right?
 [ENDBLOCK]
 Please do as much as you can.
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80>の<TAG_055>から
-依頼を受けているようだな。
+I see you've received a job from <TAG_055>
+at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
 注文の品は……
 <x1A><x72><x0C><x80>を<TAG_035>個だな。
@@ -1136,34 +1136,33 @@ and deliver it as soon as you can.
 Good luck with the procurement!
 
 [ENDBLOCK]
-Remainder of Reward
+You will receive <TAG_077> Gald  after
 [ENDBLOCK]
 Reward
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
-<TAG_077> Gald penalty for refunding
+<TAG_007><x18><x66><x50><x2C><x00><x80>
+taking  the differnece for
 the payment advance.
 
 [ENDBLOCK]
-You're short the requested number of items
+You're short the requested number of items.
 
 [ENDBLOCK]
-俺が必要なのは<x1A><x72><x40><x10><x80>を
-<TAG_075>個だぞ。
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-There'll be a penalty,
-if you quit the job.
+You'll have to pay a penalty if you
+quit the job you've accepted.
 [ENDBLOCK]
-There'll be a penalty,
-if you quit the job.
+You know you have to pay a penalty to
+cancel an order you've accepted?
 [ENDBLOCK]
 It's great to work with you.
 [ENDBLOCK]
 Well, good luck then.
 [ENDBLOCK]
-Are you serious? If you're having
+Are you serious? If you're having 
 second thoughts, now's the time.
 [ENDBLOCK]
 I'm a little disappointed...
@@ -1182,13 +1181,14 @@ fee of <TAG_076> Gald.
 You can't cancel the contract
 unless you pay the penalty.
 [ENDBLOCK]
-とりあえず迷惑料として
-手持ちの金を支払ってもらうぜ。
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>迷惑料として
-<TAG_075>ガルド支払いました。
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
 
 [ENDBLOCK]
 You don't have enough money.
@@ -1216,8 +1216,9 @@ notice
 I can't cancel the contract
 without charging a penalty.
 [ENDBLOCK]
-とりあえず迷惑料として
-有り金全部支払ってもらうよ。
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1264,7 +1265,7 @@ Sheeden
 [ENDBLOCK]
 Moreau
 [ENDBLOCK]
-Toukei
+Terazzi
 [ENDBLOCK]
 Cyril
 [ENDBLOCK]
