@@ -151,7 +151,7 @@ namespace sceWork
                     index++;
                     continue;
                 }
-                else if (byteArr[index] < 0x17 && byteArr[index] > 0x01 && index + 4 < byteArr.Length)
+                if (byteArr[index] < 0x17 && byteArr[index] > 0x01 && index + 4 < byteArr.Length)
                 {
                     for (int j = 0; j < 5; j++)
                     {
@@ -163,7 +163,7 @@ namespace sceWork
                     index--;
                     continue;
                 }
-                else if (byteArr[index] >= 0x17 && byteArr[index] < 0x20 && byteArr[index] > 0x01)
+                if (byteArr[index] >= 0x17 && byteArr[index] < 0x20 && byteArr[index] > 0x01)
                 {
                     for (int j = 0; ; j++)
                     {
@@ -171,7 +171,7 @@ namespace sceWork
                         BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
                         + "3E";
                         index++;
-                        if (byteArr[index] == 0x80)
+                        if (byteArr[index] == 0x80 || index == byteArr.Length - 1)
                         {
                             break;
                         }
@@ -179,23 +179,21 @@ namespace sceWork
                     index--;
                     continue;
                 }
-                else if (byteArr[index] < 0x7F && byteArr[index] > 0x01)
+                if (byteArr[index] < 0x7F && byteArr[index] > 0x01)
                 {
                     str1 += BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty);
                     continue;
                 }
-                else if (byteArr[index] == 0x01)
+                if (byteArr[index] == 0x01)
                 {
                     str1 += "0D0A";
                     continue;
                 }
-                else /*if (byteArr[index] < 0x7F) */
-                {
-                    str1 += "3C78" +
-                    BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
-                    + "3E";
-                    continue;
-                }
+
+                str1 += "3C78" +
+                BitConverter.ToString(Encoding.GetEncoding(1251).GetBytes(BitConverter.ToString(byteArr, index, 1).Replace("-", string.Empty))).Replace("-", string.Empty)
+                + "3E";
+                continue;
 
             }
 
@@ -217,6 +215,10 @@ namespace sceWork
         public string ConvertNativeToTags(string str)
         {
             string str1 = str;
+
+            if (str1.EndsWith("00"))
+                str1 = str1.Remove(str1.Length - 2, 2);
+
             for (int index = 0; index < entry.Count; ++index)
                 str1 = Replace(str1, entry[index].A, entry[index].B);
             return str1.Replace("[", "").Replace("]", "");
@@ -240,7 +242,7 @@ namespace sceWork
 
             for (int index = 0; index < byteArr.Length; ++index)
             {
-                if ((byteArr[index] & 0x80) != 0 && index+2 <= byteArr.Length)
+                if ((byteArr[index] & 0x80) != 0 && index + 2 <= byteArr.Length)
                 {
                     string str2 = BitConverter.ToString(byteArr, index, 2).Replace("-", string.Empty);
                     int index2 = 0;
