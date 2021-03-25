@@ -970,11 +970,10 @@ in this, so why not do it, right?
 [ENDBLOCK]
 Please do as much as you can.
 [ENDBLOCK]
-I see you've received a job from <TAG_055>
-at <x18><x66><x50><x20><x00><x80>.
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
-注文の品は……
-<x1A><x72><x0C><x80>を<TAG_035>個だな。
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
 I'll be quick about it.
@@ -1055,7 +1054,8 @@ I'm counting on you, man.
 Are you serious?
 This is your last chance?
 [ENDBLOCK]
-困ったヤツだな……
+Seriously... You're 
+such a burden.
 
 [ENDBLOCK]
 前金返却と違約金
@@ -1064,8 +1064,7 @@ This is your last chance?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x28><x00><x80>として
-<TAG_076>ガルド払いました。
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
 
 [ENDBLOCK]
 I can't cancel the contract
