@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -1317,6 +1317,7 @@ Throws the forbidden spear of[LINE]
 a demon god. Grants 10 iron stance.[END]
 
 
+#JMP($19C380)
 //Text $19D268
 #WRITE(ptr,$184828)
 [Sign_6]Spoil Weapon[END]
@@ -1328,7 +1329,6 @@ a demon god. Grants 10 iron stance.[END]
 [END]
 
 
-#JMP($19C380)
 //Text $19D250
 #WRITE(ptr,$184848)
 [Sign_6]Spoil Armor[END]
@@ -4947,7 +4947,7 @@ P. ATK up with charge[END]
 
 //Text $1A24F0
 #WRITE(ptr,$1851FC)
-P. ATK+[END]
+P.ATK+[END]
 
 
 //Text $1A24D8
@@ -4957,7 +4957,7 @@ M. ATK up with charge[END]
 
 //Text $1A24D0
 #WRITE(ptr,$185210)
-M. ATK+[END]
+M.ATK+[END]
 
 
 //Text $1A24B8
@@ -4967,7 +4967,7 @@ P. DEF up with charge[END]
 
 //Text $1A24A8
 #WRITE(ptr,$185224)
-P. DEF+[END]
+P.DEF+[END]
 
 
 //Text $1A2490
@@ -4977,7 +4977,7 @@ M. DEF up with charge[END]
 
 //Text $1A2480
 #WRITE(ptr,$185238)
-M. DEF+[END]
+M.DEF+[END]
 
 
 //Text $1A2460
@@ -5342,7 +5342,7 @@ Reduce Earth spell cast time[END]
 
 //Text $1A1E30
 #WRITE(ptr,$18556C)
-HIGH SPEED[END]
+SPEED CAST[END]
 
 
 //Text $1A1E20
@@ -5442,7 +5442,7 @@ Reduce foe P. DEF[END]
 
 //Text $1A1CF0
 #WRITE(ptr,$1855F8)
-P. DEF-[END]
+P.DEF-[END]
 
 
 //Text $1A1CD8
@@ -5462,7 +5462,7 @@ Reduce foe M. DEF[END]
 
 //Text $1A1CA0
 #WRITE(ptr,$185620)
-M. DEF-[END]
+M.DEF-[END]
 
 
 //Text $1A1C90
@@ -5814,11 +5814,6 @@ Optional Selection[END]
 //Text $1A4EC0
 #WRITE(ptr,$186BC4)
 Wolf Battle[END]
-
-
-//Text $1A4EB8
-#WRITE(ptr,$186BD0)
-Draconis[END]
 
 
 //Text $1A4E98
@@ -7935,6 +7930,7 @@ Test Play Point: Reach [TAG_015][END]
 
 //Text $1A67A0
 #WRITE(ptr,$1892E8)
+#WRITE(ptr,$186BD0)
 Draconis[END]
 
 
@@ -8557,7 +8553,7 @@ Torn's Cabin[END]
 
 //Text $1A74E0
 #WRITE(ptr,$189DD4)
-Torn's Cabin[END]
+[END]
 
 
 //Text $1A74A0
@@ -9240,106 +9236,106 @@ the Er'ther Lands and the Outer Shell.[END]
 
 //Text $1AC050
 #WRITE(ptr,$18C5B0)
-The [yellow]Swordian Device[/color] is a [yellow]Device[/color] that can be set[LINE]
-to boost the abilities of a Swordian.[END]
+With the [yellow]Swordian Device[/color] you can set[LINE]
+different [turquoise]Devices[/color] that boost your abilities.[END]
 
 
 //Text $1ABFE0
 #WRITE(ptr,$18C5B4)
-The Swordian Device can be accessed from the [yellow]Equip[/color] menu[LINE]
-of the [turquoise]Swordian Master[/color].[END]
+The Swordian Device can be accessed from the[LINE]
+[yellow]Equip[/color] menu of the [turquoise]Swordian Master[/color].[END]
 
 
 //Text $1ABF88
 #WRITE(ptr,$18C5B8)
-By selecting [yellow]Swordian Device[/color],[LINE]
-you can now setup the device.[END]
+You can now access the [yellow]Swordian Device[/color][LINE]
+by pressing [Circle_ani] on Dymlos.[END]
+
 
 
 //Text $1ABF18
 #WRITE(ptr,$18C5BC)
-The device can be set by allocating [yellow]Device Points[/color].[LINE]
-Let's set the [turquoise]Attack[/color] device.[END]
+They can be set by allocating [yellow]Device Points[/color].[LINE]
+Try to set the [turquoise]Attack[/color] device.[END]
 
 
 //Text $1ABEB8
 #WRITE(ptr,$18C5C0)
-The device points will be restored if you remove the device.[LINE]
-Let's try to remove the [turquoise]Attack[/color] device.[END]
+The points will be restored if you remove them.[LINE]
+Try to remove the [turquoise]Attack[/color] device.[END]
 
 
 //Text $1ABE78
 #WRITE(ptr,$18C5C4)
-Finally, set the device of your choice,[LINE]
-and then press the [Cross_ani] button to finish.[END]
+Finally, set the device of your choice[LINE]
+then press the [Cross_ani] button to finish.[END]
 
 
 //Text $1ABDC8
 #WRITE(ptr,$18C5C8)
-[yellow]Device points[/color] will increase as you level up.[LINE]
-You can [yellow]Master[/color] devices by repeatedly fighting,[LINE]
-also mastering them will unlock [turquoise]New Devices[/color].[END]
+[yellow]Device Points[/color] will increase as you level up.[LINE]
+You can increase your [turquoise]Proficiency[/color] in battle.[LINE]
+When mastered, new tiers will be unlocked.[END]
 
 
 //Text $1ABDA0
 #WRITE(ptr,$18C5CC)
-Please select [yellow]Rerize[/color].[END]
+Please select [yellow]Rerise[/color].[END]
 
 
 //Text $1ABD30
 #WRITE(ptr,$18C5D0)
-Select the armor you wish to Rerize.[LINE]
-Select the [turquoise]Leather armor[/color] that [turquoise][Stahn][/color] is equipped with.[END]
+Select [Stahn]'s [turquoise]Leather Armor[/color] with [Circle_ani]. [LINE]
+[END]
 
 
 //Text $1ABCE8
 #WRITE(ptr,$18C5D4)
-After Rerizing, all you have to do is equip your armor.[LINE]
-Choose your favorite piece of equipment.[END]
+Choose which armor you like, you can press [Square_ani][LINE]
+for more Info. When you're done press [Circle_ani].[END]
 
 
 //Text $1ABBF8
 #WRITE(ptr,$18C5D8)
-To Rerize, you need a [yellow]Party level[/color] as well[LINE]
-as a Lens. By [turquoise]raising the level of each character[/color],[LINE]
-he party level will also increase. The more powerful [LINE]
-the armor, the higher the required party level must be[LINE]
-in order to be able to Rerise it.[LINE]
-[END]
+To Rerise you'll need the required[LINE]
+Lens and the specified [yellow]Party Level[/color].[LINE]
+When every [turquoise]character's level[/color] increases,[LINE]
+the Party Level will rise as well.[LINE]
+More powerful equipment will require[LINE]
+a higher Party level and better lens to Rerise.[END]
 
 
 //Text $1ABB50
 #WRITE(ptr,$18C5DC)
-[turquoise]Gem[/color] can only be obtained by Rerizing a [turquoise]Material[/color].[LINE]
-Also with Rerize you can add [turquoise]Special effects[/color][LINE]
-such as increased attack power or defense.[END]
+[turquoise]Gems[/color] can only be obtained by Rerising [turquoise]Materials[/color].[LINE]
+With Rerise, you can also add [yellow]Special effects[/color][LINE]
+such as increasing P. Atk or P. Def.[END]
 
 
 //Text $1ABAF0
 #WRITE(ptr,$18C5E0)
 You can rerise gems from the [yellow]Rerise[/color] menu,[LINE]
-ust like you would rerise an armor.[END]
+just like you would rerise an armor.[END]
 
 
 //Text $1ABA90
 #WRITE(ptr,$18C5E4)
-Select the material you need to rerise.[LINE]
-Please select the [turquoise]Poison Material[/color].[END]
+Select the Material you wish to Rerise.[LINE]
+In this case select the [turquoise]Poison Material[/color].[END]
 
 
 //Text $1ABA40
 #WRITE(ptr,$18C5E8)
-Select a [turquoise]Special effect[/color] to add to the gem.[LINE]
-Select the gem that you like.[END]
+Choose a [yellow]special effect[/color] to add to the gem.[LINE]
+When you're done press [Circle_ani].[END]
 
 
 //Text $1AB970
 #WRITE(ptr,$18C5EC)
-Even after material is rerise into gems,[LINE]
-gems can be [turquoise]further Rerise[/color] to increase[LINE]
-the status of special effects.[LINE]
-You can also [turquoise]re-select the special effect[/color[LINE]
-from the list of alternatives for each rerise.[LINE]
+After a material is rerised into a gem[LINE]
+you can rerise it [turquoise]further[/color] to increase[LINE]
+its strength and special effects.[LINE]
+Rerising can also change its special effects.[LINE]
 [END]
 
 
@@ -9575,7 +9571,6 @@ Attracts enemies for a fixed duration.[END]
 [Sign_9]Neutralizer[END]
 
 
-#JMP($1AB970)
 //Text $1AF548
 #WRITE(ptr,$18C840)
 Neutralize environmental poisons.[END]
@@ -9608,6 +9603,7 @@ increases physical attack by 1.[END]
 [Sign_9]Verbena[END]
 
 
+#JMP($1AB970)
 //Text $1AF470
 #WRITE(ptr,$18C894)
 A medicinal herb that[LINE]
@@ -9922,7 +9918,6 @@ A support item for cultivation.[END]
 [Sign_Box]Apple[END]
 
 
-#JMP($1AC530)
 //Text $1AEC08
 #WRITE(ptr,$18CBDC)
 A fruit with a sweet and sour aroma.[LINE]
@@ -9945,6 +9940,7 @@ A support item for mixing.[END]
 [Sign_Box]Grape[END]
 
 
+#JMP($1AC530)
 //Text $1AEB58
 #WRITE(ptr,$18CC14)
 Round, fleshy fruits formed in a bunch.[LINE]
@@ -14485,9 +14481,9 @@ power to push past one's limits.[END]
 
 //Text $1B7F90
 #WRITE(ptr,$19136C)
-Gauntlets imbued with the hidden power of[LINE]
-fantasies. Named after the brothers[LINE]
-who collected oral traditions into a book.[END]
+Gauntlets imbued with the hidden power[LINE]
+of fantasies. Named after the brothers[LINE]
+who collected oral traditions.[END]
 
 //Text $1B7F78
 #WRITE(ptr,$191388)
@@ -14573,9 +14569,9 @@ Goes well with its cloak.[END]
 
 //Text $1B7C30
 #WRITE(ptr,$19146C)
-Gloves decorated with[LINE]
-Mithril. Considered to be[LINE]
-a Dwarven work of art.[END]
+Gloves decorated with Mithril.[LINE]
+Considered to be a Dwarven[LINE]
+work of art.[END]
 
 //Text $1B7C18
 #WRITE(ptr,$191488)
@@ -14617,8 +14613,8 @@ the wearer's concentration.[END]
 
 //Text $1B7A60
 #WRITE(ptr,$1914EC)
-Necklace imbued with the Earth Spirit's[LINE]
-protection. Gives one unshakable composure.[LINE]
+Necklace imbued with the Earth Spirit's.[LINE]
+Gives one unshakable composure.[LINE]
 Increases the damage of [Sign_Earth] spells.[END]
 
 //Text $1B7A40
@@ -14628,9 +14624,9 @@ Increases the damage of [Sign_Earth] spells.[END]
 
 //Text $1B79D0
 #WRITE(ptr,$19150C)
-Necklace imbued with the Wind Spirit's[LINE]
-protection. Gives one the drive to make ideals[LINE]
-true. Increases the damage of [Sign_Wind] spells.[END]
+Necklace imbued with the Wind Spirit's.[LINE]
+Gives the drive to make dreams real.[LINE]
+Increases the damage of [Sign_Wind] spells.[END]
 
 //Text $1B79B0
 #WRITE(ptr,$191528)
@@ -14640,7 +14636,7 @@ true. Increases the damage of [Sign_Wind] spells.[END]
 //Text $1B7948
 #WRITE(ptr,$19152C)
 Necklace imbued with the Fire Spirit's[LINE]
-protection. Makes one hear hidden voices.[LINE]
+Makes one hear hidden voices.[LINE]
 Increases the damage of [Sign_Fire] spells.[END]
 
 //Text $1B7930
@@ -14650,8 +14646,8 @@ Increases the damage of [Sign_Fire] spells.[END]
 
 //Text $1B78C8
 #WRITE(ptr,$19154C)
-Necklace imbued with the Water Spirit's[LINE]
-protection. Sharpens one's willpower.[LINE]
+Necklace imbued with the Water Spirit's.[LINE]
+Sharpens one's willpower.[LINE]
 Increases the damage of [Sign_Water] spells.[END]
 
 //Text $1B78B0
@@ -14661,9 +14657,9 @@ Increases the damage of [Sign_Water] spells.[END]
 
 //Text $1B7848
 #WRITE(ptr,$19156C)
-Necklace imbued with the Light Spirit's[LINE]
-protection. heightens one's power to keep [LINE]
-secrets. Increases the damage of [Sign_Light] spells.[END]
+Necklace imbued with the Light Spirit's.[LINE]
+Heightens one's power to keep secrets.[LINE]
+Increases the damage of [Sign_Light] spells.[END]
 
 //Text $1B7830
 #WRITE(ptr,$191588)
@@ -14673,8 +14669,8 @@ secrets. Increases the damage of [Sign_Light] spells.[END]
 //Text $1B77D0
 #WRITE(ptr,$19158C)
 Necklace imbued with the Earth[LINE]
-Goddess' blessing and love. Decreases[LINE]
-the casting time of [Sign_Earth] spells.[END]
+Goddess' blessing and love.[LINE]
+Decreases the casting time of [Sign_Earth] spells.[END]
 
 //Text $1B77B0
 #WRITE(ptr,$1915A8)
@@ -14706,8 +14702,8 @@ the casting time of [Sign_Fire] spells.[END]
 //Text $1B7658
 #WRITE(ptr,$1915EC)
 Necklace imbued with the Ocean God's[LINE]
-blessing and unwavering heart. Decreases [LINE]
-the casting time of [Sign_Water] spells.[END]
+blessing and unwavering heart. [LINE]
+Decreases the casting time of [Sign_Water] spells.[END]
 
 //Text $1B7638
 #WRITE(ptr,$191608)
@@ -14717,8 +14713,8 @@ the casting time of [Sign_Water] spells.[END]
 //Text $1B75D0
 #WRITE(ptr,$19160C)
 Necklace imbued with the God of Light's[LINE]
-blessing and eternal integrity. Decreases [LINE]
-the casting time of [Sign_Light] spells.[END]
+blessing and eternal integrity.[LINE]
+Decreases the casting time of [Sign_Light] spells.[END]
 
 //Text $1B75C0
 #WRITE(ptr,$191628)
@@ -18348,7 +18344,6 @@ In battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 //Section Title
 
-#JMP($1BB0A0)
 //POINTER #16 @ $1946E8 - STRING #16 @ $1BF0D8
 #WRITE(ptr,$1946E8)
 Stowaway[END]
@@ -18373,6 +18368,7 @@ to this honesty.[END]
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
 Sword-what User[END]
+#JMP($1BB0A0)
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
