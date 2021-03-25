@@ -38,14 +38,15 @@
 ☆海賊船での表示を設定
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-すごい力で扉が押さえつけられている。
+The door is being held 
+down with great force.
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-扉の向こう側に
-誰かいるのかもしれない。
+Maybe there's someone on
+the other side of the door.
 [ENDBLOCK]
 フラグの状態：<x17><x24><x90><x14><x2F><x80>
 
