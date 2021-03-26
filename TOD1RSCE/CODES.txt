@@ -377,7 +377,8 @@
 0D A5 00 00 00=<F_Skit>
 0D A6 00 00 00=<N_Skit>
 0D A7 00 00 00=<R_Skit>
-//    Line 0E
+//    Line 0E (Text?)
+0E 00 00 04 80=<center>
 //    Line 0F
 //    Line 10
 //    Line 11

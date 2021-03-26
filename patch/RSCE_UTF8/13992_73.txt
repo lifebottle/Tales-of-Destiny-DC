@@ -160,11 +160,13 @@ business until the end!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-How about some fresh picked fruit?
+How about some
+fresh picked fruit?
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-We still have stock, feel free to shop.
+We still have stock,
+feel free to shop.
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
@@ -211,8 +213,8 @@ Oberon is controversial.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I'm a long-time resident, but I
-think it's good for the city to develop.
+I'm a long-time resident, but I think 
+it's good for the city to develop.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -335,11 +337,13 @@ Sailor
 [ENDBLOCK]
 Seafood Merchant
 [ENDBLOCK]
-How about some freshly caught fish?
+How about some
+freshly caught fish?
 [ENDBLOCK]
 Seafood Merchant
 [ENDBLOCK]
-I'll sell fish no matter what!
+I'll sell fish
+no matter what!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -384,11 +388,13 @@ more to give you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I have nothing to say to you now.
+I have nothing
+to say to you now.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You'll have to hone your skills a bit more.
+You'll have to hone 
+your skills a bit more.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -397,13 +403,13 @@ at the heart of Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-My hometown, Lienea, is also
-here in Fitzgald.
+My hometown, Lienea,
+is also here in Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 It's not my only motivation...
-but we've gotta find Lydon soon.
+but we've gotta find <Greybum> soon.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -411,7 +417,7 @@ First, we're going to <Ilene>'s estate.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene> is the head of Oberon Company
+<Ilene> is the head of Oberon Corp.
 in the Fitzgald region.
 [ENDBLOCK]
 <Dymlos>
@@ -421,7 +427,7 @@ use of her influence.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We're taking a ship. We’re going
+We're taking a ship. We're going
 out to sea to strike down that armeida.
 [ENDBLOCK]
 <Kongman>
@@ -561,12 +567,13 @@ please use a rowboat to get to land.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Thanks for taking care of us, <Ilene>.
+Thanks for taking
+care of us, <Ilene>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 Uh... <Philia>, you're
-really going, aren’t you?
+really going, aren't you?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -575,7 +582,7 @@ town, I would come along with you!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It'll be okay. You’re needed
+It'll be okay. You're needed
 here in town, <Kongman>.
 [ENDBLOCK]
 <Kongman>
@@ -712,17 +719,18 @@ notice
 はい
 いいえ
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
 戦闘に参加できます。
 [ENDBLOCK]
 同行します。
 [ENDBLOCK]
-パーティに復帰しました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]
@@ -730,9 +738,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
 [ENDBLOCK]
-パーティから抜けました。
+has left the party.
 [ENDBLOCK]
 <x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
 [ENDBLOCK]

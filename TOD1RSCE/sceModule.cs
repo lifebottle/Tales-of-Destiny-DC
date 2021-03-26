@@ -10,9 +10,12 @@ namespace sceWork
         private sceHeader header;
         private StreamFunctionAdd mainSfa;
 
+
         public void Dispose() => this.mainSfa.Dispose();
 
         public int Count => this.header.fileStrings.Count;
+
+        internal sceHeader Header { get => header; set => header = value; }
 
         public sceModule(string fileName)
         {
@@ -45,7 +48,7 @@ namespace sceWork
             this.SetBlock(idx, byteList.ToArray());
         }
 
-        public void Save() => header.WriteStrings(mainSfa);
+        public void Save(bool dedup=false) => header.WriteStrings(mainSfa, dedup);
 
         public bool isHaveText() => mainSfa.LengthStream - header.offsetStrings > 2L;
 

@@ -1006,8 +1006,8 @@ one that doesn't want to be hit.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-パパに頼んで、どこか明るい所に
-引越ししたいなあ。
+I wish I could ask my dad to
+move me somewhere brighter.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1052,7 +1052,7 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_031> Gald
+<TAG_007>Total Gald: <TAG_031>
 [ENDBLOCK]
 <TAG_007>Buy
 I don't want any
@@ -1060,7 +1060,7 @@ Exchange a winning stick
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-I'm sorry.
+Thank you.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -1561,11 +1561,11 @@ has to offer. Let's go there.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Total Gald: <TAG_033>
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>が
 [ENDBLOCK]
@@ -1593,9 +1593,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><xE8><x00><x80></color>を取得しました。
+<x18><x65><x59><xE8><x00><x80></color>.
 
 [ENDBLOCK]
 <x19><x69><x49><xDC><x80>たちは
@@ -1626,7 +1626,7 @@ notice
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>は
+<x19><x69><x49><xDC><x80> has received 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
