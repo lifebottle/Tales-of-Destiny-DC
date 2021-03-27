@@ -4,7 +4,7 @@ Plaza
 Item Shop
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 
@@ -15,7 +15,7 @@ Dock
 Item Shop
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 
@@ -26,138 +26,7 @@ Dock
 Plaza
 
 [ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Don't Go
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 
@@ -174,7 +43,7 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 Dock
@@ -189,7 +58,7 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 Dock
@@ -204,7 +73,7 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 Dock
@@ -219,7 +88,7 @@ Warehouse
 Moreau Castle
 
 [ENDBLOCK]
-Don't Go
+乗らない
 
 [ENDBLOCK]
 Dock
@@ -234,7 +103,138 @@ Warehouse
 Item Shop
 
 [ENDBLOCK]
-Don't Go
+乗らない
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
 
 [ENDBLOCK]
 Ferryman
@@ -917,26 +917,26 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+Hmm? I've got something for you.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+You'll need to work on your 
+skills a bit more, then come back.
 [ENDBLOCK]
-ダミーショップ配置
+Dummy store placement
 [ENDBLOCK]
-<TAG_007>食材屋：やどかり堂
+<TAG_007>Food shop: Yadokarido
 Item Shop
-水月花
-武器屋：海神
-防具屋：彩の色
+Water Moon Flower
+Weapon House: Poseidon
+Armor Shop: Color of Color
 
 [ENDBLOCK]
 <Stahn>
@@ -970,117 +970,131 @@ Haaah...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Wait, what’s this about backup?
+Wait, what's this about backup?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はあ……はあ……
+Haah... Gah...
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-おまえさんたちは隠れてな。
-後は俺に任せておけ。
+You guys stay out of sight.
+I'll take care of the rest.
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-ここに不審な連中が来なかったか？
+Have any suspicious-looking
+people come this way?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-なんの事だ？	俺はさっきから、
-ずっとひとりでいたぜ。
+What do you mean? I've been
+alone this whole time.
 [ENDBLOCK]
-隠し立てするとただでは置かんぞ。
+Don't think there won't
+be retaliation if you're
+hiding anything.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-ほう、そんなに俺の歌が聞きたいか。
-それじゃ、とっておきを披露しようか。
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_010>さかまく波頭を乗り越えて、いざ進まん♪
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_010>黒十字の旗のもと、	男たちよ、いざ集え♪
-[ENDBLOCK]
-ちっ。ここは違うようだ。
-向こうを探すぞ。
+Oh? Do you wish to listen to my
+songs that much? Well then, 
+I'll play my most treasured one.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_010>大海原は我らの庭だ……
+<TAG_010>Go forth now, and overcome those surging waves♪
 [ENDBLOCK]
-？？？？
+
 [ENDBLOCK]
-おやおや、まだ途中だってのに。
-風流を解さない連中だぜ。
+<TAG_010>Men, gather under the banner of the Black Cross!♪
+
+[ENDBLOCK]
+Tch. Looks like we were
+wrong. Let's keep looking.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_010>The ocean is our garden...♪
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh my, even though I'm 
+only halfway done? Some 
+people have no taste.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すみません、助かりました。
+Thank you, you really saved us.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、<Stahn>・エルロンって言います。
-あなたは……？
+I'm <Stahn> Aileron.
+And you are...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-愛と夢の狩人。
-道化の<Johnny>とは俺の事さ。
+I am a hunter of love and
+dreams, <Johnny>. You could 
+call me a jester of sorts.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……やっぱり怪しいわね。
+...As I thought, this 
+guy's definitely dodgy.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Tiberius>との会話から察するに、
-おまえさんたち、よその国から来たようだな。
+Based on what <Tiberius>
+said, I take it you’re not
+from this country?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さては……国許が送ってきた助っ人か。
+Well, well... Then might
+you be the aids sent by
+your native land?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、あなたが……
-シデン領の「若」ですか。
+Then you're... are you
+the "Prince of Shiden"?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そんなところだ。だが変だな。
-確か三人組と聞いていたが……
+I am as you say. However, I'm 
+certain I heard the aids were
+a group of just three people
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあいいさ、中に入るとしよう。
-ここで立ち話して、見つかるのもなんだ。
+Well, it doesn't matter. Let's go 
+inside. You'll certainly be 
+discovered if we stay out here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……だから、助っ人ってなんの事？
-話が全然見えないんだけど。
+Seriously, what are these "aids" 
+you keep talking about? I’m not
+following this conversation at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは……その……
+Well... that's... um...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そして俺は歌うのさ。
-あふれ出す魂のほとばしりを♪
+And I'll sing. And I'll sing♪
+about my soul overflowing♪
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Johnny>！
-こんなところで油を売っていたのか！
+<Johnny>! You've been
+selling oil in this place!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-あ、やべ。
+Oh, man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
