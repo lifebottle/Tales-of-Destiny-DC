@@ -702,7 +702,7 @@ Is this...it?[END]
 
 //Text $19ADC0
 #WRITE(ptr,$180BEC)
-You giving up?[END]
+You're giving up?[END]
 
 
 //Text $19ADA8
@@ -712,7 +712,7 @@ That voice from before?[END]
 
 //Text $19AD98
 #WRITE(ptr,$180C0C)
-And your name?[END]
+What is your name?[END]
 
 
 //Text $19AD80
@@ -722,22 +722,22 @@ And your name?[END]
 
 //Text $19AD70
 #WRITE(ptr,$180C2C)
-Listen, [Stahn][END]
+Listen well, [Stahn][END]
 
 
 //Text $19AD58
 #WRITE(ptr,$180C3C)
-I'll lend you my power.[END]
+I will lend you my power.[END]
 
 
 //Text $19AD40
 #WRITE(ptr,$180C4C)
-So, you must trust me.[END]
+But you must trust me.[END]
 
 
 //Text $19AD28
 #WRITE(ptr,$180C5C)
-Grab on tightly...[END]
+Now, grab on tightly...[END]
 
 
 //Text $19AD08
@@ -782,137 +782,138 @@ Get up, [Stahn]![END]
 
 //Text $19AEA0
 #WRITE(ptr,$180CFC)
-[Lion]！ [Lion]！[END]
+[Lion]! [Lion]!![END]
 
 
 //Text $19AE80
 #WRITE(ptr,$180D0C)
-ここも間もなく水に飲まれる[END]
+The water will fill this place too, soon...[END]
 
 
 //Text $19AE60
 #WRITE(ptr,$180D1C)
-付き合わせてすまないな シャル[END]
+I'm sorry you had to get stuck with me like this, Chal...[END]
 
 
 //Text $19AE48
 #WRITE(ptr,$180D2C)
-どこまでもお供しますよ[END]
+I will be by your side, no matter what.[END]
 
 
 //Text $19AE28
 #WRITE(ptr,$180D3C)
-僕のマスターは坊ちゃんです[END]
+It is an honor to serve you, Master [Lion].[END]
 
 
 //Text $19AE18
 #WRITE(ptr,$180D4C)
-これで……[END]
+This is...[END]
 
 
 //Text $19ADF0
 #WRITE(ptr,$180D5C)
-これで良かったんだろう？ マリアン[END]
+This is the right thing to do...right, Marian...?[END]
 
 
 //Text $19AEF0
 #WRITE(ptr,$180D7C)
-うおおおお[END]
+#WRITE(ptr,$180D9C)
+HAAAAAAAAH!!!!!![END]
 
 
 //Text $19AEE0
 #WRITE(ptr,$180D8C)
-切り裂け[END]
+Tear it apart!![END]
 
 
-//Text $19AEF0
-#WRITE(ptr,$180D9C)
-うおおおお[END]
+//Text $19AEB8
+#WRITE(ptr,$180DAC)
+It's working! We'll be able to[LINE]attack Belcrant now![END]
 
 
 //Text $19B098
 #WRITE(ptr,$180DCC)
-本当にこれしか方法はないんだな？[END]
+Is there really no other way?[END]
 
 
 //Text $19B090
 #WRITE(ptr,$180DDC)
-そうだ[END]
+There is not.[END]
 
 
 //Text $19B080
 #WRITE(ptr,$180DEC)
-いいのだよ[Stahn][END]
+It's alright, [Stahn].[END]
 
 
 //Text $19B068
 #WRITE(ptr,$180DFC)
-我らは長く生きすぎた[END]
+We Swordians have lived very long lives.[END]
 
 
 //Text $19B048
 #WRITE(ptr,$180E0C)
-不謹慎な言い方かもしれないけど[END]
+This might not be the best way to say it but...[END]
 
 
 //Text $19B028
 #WRITE(ptr,$180E1C)
-お前と旅ができて楽しかったよ[END]
+I really enjoyed our time together.[END]
 
 
 //Text $19B020
 #WRITE(ptr,$180E2C)
-我もだ[END]
+As did I.[END]
 
 
 //Text $19AFE8
 #WRITE(ptr,$180E3C)
-世話のかかる者ほど 愛着がわくというのは本当だな[END]
-
+It's true. The more I had to help you,[LINE]the more you grew on me.[END]
 
 //Text $19AFD8
 #WRITE(ptr,$180E4C)
-我は思うのだ[END]
+This is what I believe.[END]
 
 
 //Text $19AFC8
 #WRITE(ptr,$180E5C)
-お前との出会い[END]
+Our fateful meeting...[END]
 
 
+#JMP($19B370)
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
-その後の変遷を経て 今に至る過程こそ[END]
+Everything we went through[LINE]that lead us to this moment...[END]
 
 
 //Text $19AF90
 #WRITE(ptr,$180E7C)
-まさに一篇の[END]
+It's something out of a story.[END]
 
 
 //Text $19AF70
 #WRITE(ptr,$180E8C)
-運命の物語だったのかもしれんと[END]
+A tale of destiny, if you will.[END]
 
 
 //Text $19AF50
 #WRITE(ptr,$180E9C)
-この世界の未来をお前に託す[END]
+We entrust the future of this world to you.[END]
 
 
 //Text $19AF30
 #WRITE(ptr,$180EAC)
-我がマスター [Stahn]・エルロンよ[END]
+My master, [Stahn] Aileron...[END]
 
 
 //Text $19AF10
 #WRITE(ptr,$180EBC)
-さあ 最後の使命を果たすのだ[END]
+Now, let us carry out our final mission!![END]
 
 
 //Text $19AF00
 #WRITE(ptr,$180ECC)
-ディムロス……[END]
+...Dymlos...[END]
 
 
 //Section Support
@@ -924,7 +925,6 @@ from the food sack. It's so tasty[LINE]
 that it increases HP recovery.[END]
 
 
-#JMP($19B370)
 //POINTER #18 @ $181088 - STRING #18 @ $19B3D8
 #WRITE(ptr,$181088)
 Condiment Industry[END]
@@ -1006,6 +1006,7 @@ reducing the encounter rate.[END]
 Vigilance[END]
 
 
+#JMP($19BDC0)
 //POINTER #5 @ $181054 - STRING #5 @ $19B618
 #WRITE(ptr,$181054)
 She mixes berries and chemicals[LINE]
@@ -1069,7 +1070,6 @@ Embossing Nap[END]
 [Circle_ani]Inspect[END]
 
 
-#JMP($19BDC0)
 //Text $19C058
 #WRITE(ptr,$181234)
 [Circle_ani]Open[END]
@@ -1230,6 +1230,7 @@ Embossing Nap[END]
 [Cross_ani]Kick[END]
 
 
+#JMP($19C380)
 //Text $19BE30
 #WRITE(ptr,$1812B4)
 [Cross_ani]Kick Bomb[END]
@@ -1317,7 +1318,6 @@ Throws the forbidden spear of[LINE]
 a demon god. Grants 10 iron stance.[END]
 
 
-#JMP($19C380)
 //Text $19D268
 #WRITE(ptr,$184828)
 [Sign_6]Spoil Weapon[END]
@@ -8741,6 +8741,7 @@ Radisrol[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F90
 #WRITE(ptr,$18A040)
 A ship once known for its heroics.[LINE]
@@ -8792,7 +8793,6 @@ Straylize Temple[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6E38
 #WRITE(ptr,$18A0E8)
 A temple that stands neatly in the[LINE]
@@ -9093,6 +9093,7 @@ Josaia[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A4D8)
 One of the aerial cities connected[LINE]
@@ -9158,7 +9159,6 @@ Deimos[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A5B8)
 One of the aerial cities connected[LINE]
@@ -9544,6 +9544,7 @@ A cool and sweet frozen treat.[LINE]
 Restores 10% of max HP.[END]
 
 
+#JMP($1AB970)
 //Text $1AF638
 #WRITE(ptr,$18C804)
 [Sign_9]Holy Bottle[END]
@@ -9603,7 +9604,6 @@ increases physical attack by 1.[END]
 [Sign_9]Verbena[END]
 
 
-#JMP($1AB970)
 //Text $1AF470
 #WRITE(ptr,$18C894)
 A medicinal herb that[LINE]
@@ -9885,6 +9885,7 @@ A support item for cultivation.[END]
 [Sign_Box]Oriola Seed[END]
 
 
+#JMP($1AC530)
 //Text $1AED20
 #WRITE(ptr,$18CB88)
 Seeds for the proficient.[LINE]
@@ -9940,7 +9941,6 @@ A support item for mixing.[END]
 [Sign_Box]Grape[END]
 
 
-#JMP($1AC530)
 //Text $1AEB58
 #WRITE(ptr,$18CC14)
 Round, fleshy fruits formed in a bunch.[LINE]
@@ -18325,6 +18325,7 @@ In battle, when landing [TAG_015] or more hits[END]
 In battle, cures [TAG_015] once[END]
 
 
+#JMP($1BB0A0)
 //Text $1BBAE8
 #WRITE(ptr,$1946DC)
 [LINE] [LINE]
@@ -18368,7 +18369,6 @@ to this honesty.[END]
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
 Sword-what User[END]
-#JMP($1BB0A0)
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
