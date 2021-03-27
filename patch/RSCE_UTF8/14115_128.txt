@@ -4,7 +4,8 @@ Plaza
 Item Shop
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
+
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -14,7 +15,8 @@ Dock
 Item Shop
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
+
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -24,14 +26,15 @@ Dock
 Plaza
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
+
 [ENDBLOCK]
 
 [ENDBLOCK]
 Plaza
 
 [ENDBLOCK]
-Underground Warehouse
+Warehouse
 
 [ENDBLOCK]
 Item Shop
@@ -40,13 +43,13 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
 
 [ENDBLOCK]
 Dock
 
 [ENDBLOCK]
-Underground Warehouse
+Warehouse
 
 [ENDBLOCK]
 Item Shop
@@ -55,138 +58,7 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-I'm not going to ride.
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Underground Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-I'm not going to ride.
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -201,7 +73,7 @@ Item Shop
 Moreau Castle
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -210,13 +82,13 @@ Dock
 Plaza
 
 [ENDBLOCK]
-Underground Warehouse
+Warehouse
 
 [ENDBLOCK]
 Moreau Castle
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -225,18 +97,150 @@ Dock
 Plaza
 
 [ENDBLOCK]
-Underground Warehouse
+Warehouse
 
 [ENDBLOCK]
 Item Shop
 
 [ENDBLOCK]
-I'm not going to ride.
+Don't Go
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Don't Go
 
 [ENDBLOCK]
 Ferryman
+
 [ENDBLOCK]
-Hop on, Where are we going?
+Hop in, Where're we going?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -626,7 +630,7 @@ Girl
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><x0E><x00><x00><x04><x80>If you wish to take a small boat,
+<TAG_005><x0E><x00><x00><x04><x80>To take a small boat,
 please come to the boarding area.
 [ENDBLOCK]
 Girl
@@ -656,7 +660,7 @@ Are we all going to die like this?
 Girl
 [ENDBLOCK]
 I heard that they're collecting
-lens from all over the world and
+lens from everywhere and
 transporting them to Seinegald.
 [ENDBLOCK]
 Girl
@@ -670,14 +674,14 @@ Oops ...did I say that out loud?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-This city is well known for its 
-water transportation, so we use
-small boats to get around.
+This city is known for its water 
+transportation, so we use small 
+boats to get around.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
 What's going to happen to our lives
-when that empty net thing fills up?
+when that net thing fills up?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -686,9 +690,9 @@ It's the end of the world.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-Is that the young lord of the
-Shiden Territory with the 
-reputation of being a loaner?
+Is that the young lord of
+Shiden with the reputation
+of being a loaner?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -703,7 +707,7 @@ I wonder if Gino and
 <Rihanna>
 [ENDBLOCK]
 Thank you very much, <Johnny>.
-Good luck in the Terazzi territory.
+Good luck in Terazzi.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -722,7 +726,6 @@ rash or hard.
 <Rihanna>
 [ENDBLOCK]
 Don't do anything reckless.
-
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -738,8 +741,8 @@ much for that opportunity.
 <Rihanna>
 [ENDBLOCK]
 My husband is also working
-with <Johnny> to discuss 
-ways to deal with this.
+with <Johnny> on ways to
+deal with this.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -930,7 +933,8 @@ notice
 ダミーショップ配置
 [ENDBLOCK]
 <TAG_007>食材屋：やどかり堂
-Item Shop：水月花
+Item Shop
+水月花
 武器屋：海神
 防具屋：彩の色
 
@@ -1391,17 +1395,18 @@ Please obtain <TAG_035> <x1A><x72><x0C><x80>,
 and deliver it as soon as you can.
 
 [ENDBLOCK]
-Good luck with the procurement!
+Good job, getting what I needed!
 
 [ENDBLOCK]
-報酬の残金
+
 [ENDBLOCK]
-報酬
+You will receive <TAG_077> Gald
+after taking the difference
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>として
-<TAG_077>ガルドもらいました。
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
 
 [ENDBLOCK]
 You're short the requested number of items.
@@ -1518,7 +1523,7 @@ Lienea
 [ENDBLOCK]
 Frostheim
 [ENDBLOCK]
-Sheeden
+Shiden
 [ENDBLOCK]
 Moreau
 [ENDBLOCK]
