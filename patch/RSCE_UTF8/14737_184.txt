@@ -1,8 +1,8 @@
 select
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
 ●MRP20	トラップ発動
 
@@ -22,22 +22,23 @@ select
 	dycr_04d_trap02関数を実行(<x17><x6A><x00><x80>)
 
 [ENDBLOCK]
-パーティ変更
+Party
 [ENDBLOCK]
-<TAG_007>パーティチェンジしますか？
-する
-しない
+<TAG_007>Change the party?
+Yes
+No
 
 [ENDBLOCK]
-赤色の橋が消滅しました。
+The red bridge has disappeared.
 [ENDBLOCK]
-赤色の橋が出現しました。
+A red bridge has appeared.
 [ENDBLOCK]
-青色の橋が消滅しました。
+A blue bridge has disappeared.
 [ENDBLOCK]
-青色の橋が出現しました。
+A blue bridge has appeared.
 [ENDBLOCK]
-ビームで鏡の効果を無力化しました。
+A beam of light has neutralized
+the effect of a mirror.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

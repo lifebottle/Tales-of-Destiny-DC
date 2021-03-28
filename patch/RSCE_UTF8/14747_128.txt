@@ -1,8 +1,8 @@
 select
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
 ☆☆☆HAND_POINT01☆☆☆
 [ENDBLOCK]

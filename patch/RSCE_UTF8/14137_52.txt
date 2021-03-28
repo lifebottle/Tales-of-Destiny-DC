@@ -16,53 +16,60 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-新しいバルブを見つけたぞ。
-これで給水装置を動かせる。
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-新しいバルブだわ。
-これで給水装置を動かせるわね。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-新しいバルブですわ。
-これで給水装置を動かせますね。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブか……
+Valve...?
 [ENDBLOCK]
-新たなバルブだな。
-これで給水装置を動かせる。
+It's a new valve. It'll get
+the water system going.
 [ENDBLOCK]
-新しいバルブを発見したぞ。
-これで給水装置を動かせるな。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-新しいバルブを発見だぜ。
-これで給水装置を動かせる。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-水量を調節する装置がありますが、
-バルブが設置されていません。
+There's a device to control
+the water volume, but no 
+valve is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-持っているバルブは、
-接続できないようです。
+The valve I have doesn't
+seem to be able to connect.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-別の場所で試してみましょう。
+Let's try another location.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-水量を調節する装置にバルブを設置しました。
+A valve has been installed on the
+device to regulate the water volume.
 [ENDBLOCK]
 CUBE1=<x1D><x75><x44><xA4><x80>,<x1D><x75><x44><xA8><x80>,<x1D><x75><x44><xAC><x80>
 

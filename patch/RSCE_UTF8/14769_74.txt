@@ -1,23 +1,23 @@
 select
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 Device not activated.
 
 [ENDBLOCK]
-最上階
+Top Level
 [ENDBLOCK]
-一階
+First Stage
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80>にワープしますか？
-はい
-いいえ
+<x18><x66><x50><x20><x00><x80>Do you wish to warp to <x18><x66><x50><x20><x00><x80>
+Yes
+No
 
 [ENDBLOCK]
 notice
