@@ -2,13 +2,14 @@ select
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>反対側から鍵が掛けられている。
+<TAG_005>The door is locked
+from the other side.
 [ENDBLOCK]
 描画範囲設定---上層
 
