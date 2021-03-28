@@ -308,17 +308,17 @@ Alba[END]
 
 //Text $19A5A8
 #WRITE(ptr,$D8780)
-Talking Sword[END]
+A Talking Sword[END]
 
 
 //Text $19A5A0
 #WRITE(ptr,$D8784)
-Mountain Hut[END]
+Cabin[END]
 
 
 //Text $19A590
 #WRITE(ptr,$D8788)
-Lost Child[Chelsea][END]
+Lost Kid [Chelsea][END]
 
 
 //Text $19A580
@@ -338,17 +338,17 @@ At the Temple[END]
 
 //Text $19A550
 #WRITE(ptr,$D8798)
-The Kingdom's Young Swordsman[END]
+Young Swordsman[END]
 
 
 //Text $19A538
 #WRITE(ptr,$D879C)
-Royal Capital Darilsheid[END]
+Capital Darilsheid[END]
 
 
 //Text $19A520
 #WRITE(ptr,$D87A0)
-The Temple Frozen in Silence[END]
+A Temple in Silence[END]
 
 
 //Text $19A508
@@ -363,12 +363,12 @@ Desert Island[END]
 
 //Text $19A4E8
 #WRITE(ptr,$D87AC)
-Mysterious Temple[END]
+An Odd Temple[END]
 
 
 //Text $19A4D8
 #WRITE(ptr,$D87B0)
-Beautiful Partnership[END]
+Jolly Co-Op[END]
 
 
 //Text $19A4C0
@@ -388,12 +388,12 @@ The Abyss[END]
 
 //Text $19A490
 #WRITE(ptr,$D87C0)
-The Jolly Minstrel[END]
+Jolly Minstrel[END]
 
 
 //Text $19A480
 #WRITE(ptr,$D87C4)
-To Moreau Castle[END]
+Moreau Castle[END]
 
 
 //Text $19A468
@@ -403,7 +403,7 @@ Rampage! Sea Mollusk[END]
 
 //Text $19A450
 #WRITE(ptr,$D87CC)
-Depression in the Great King's Town[END]
+Silence in the streets[END]
 
 
 //Text $19A440
@@ -411,7 +411,6 @@ Depression in the Great King's Town[END]
 [Tiberius] the Great's Castle[END]
 
 
-#JMP($19A190)
 //Text $19A430
 #WRITE(ptr,$D87D4)
 Pursuing [Greybum][END]
@@ -419,7 +418,7 @@ Pursuing [Greybum][END]
 
 //Text $19A420
 #WRITE(ptr,$D87D8)
-Southern Port City[END]
+Southern Port[END]
 
 
 //Text $19A410
@@ -429,14 +428,15 @@ Frozen Forest[END]
 
 //Text $19A3F8
 #WRITE(ptr,$D87E0)
-Remembrance of Days Past[END]
+Memories of Days Past[END]
 
 
 //Text $19A3E8
 #WRITE(ptr,$D87E4)
-Secret Underground Passage[END]
+Secret Tunnel[END]
 
 
+#JMP($19A190)
 //Text $19A3D0
 #WRITE(ptr,$D87E8)
 Showdown at Heidelberg[END]
@@ -444,27 +444,27 @@ Showdown at Heidelberg[END]
 
 //Text $19A3C0
 #WRITE(ptr,$D87EC)
-Home After a Long Time[END]
+Home, Finally[END]
 
 
 //Text $19A3A8
 #WRITE(ptr,$D87F0)
-Back to Seingald[END]
+Back to Seinegald[END]
 
 
 //Text $19A398
 #WRITE(ptr,$D87F4)
-The Secret of the Lone Island[END]
+Island's Secret[END]
 
 
 //Text $19A388
 #WRITE(ptr,$D87F8)
-The Nightmare Begins[END]
+Nightmare Start[END]
 
 
 //Text $19A378
 #WRITE(ptr,$D87FC)
-Reviving the Aerial City[END]
+Aeropolis Rise[END]
 
 
 //Text $19A368
@@ -484,7 +484,7 @@ Securing Transport[END]
 
 //Text $19A328
 #WRITE(ptr,$D880C)
-A Man's Circumstances[END]
+Heroic Saga[END]
 
 
 //Text $19A318
@@ -494,32 +494,32 @@ Grieving Beauty[END]
 
 //Text $19A308
 #WRITE(ptr,$D8814)
-Suprise Attack！[END]
+Suprise Attack![END]
 
 
 //Text $19A2F8
 #WRITE(ptr,$D8818)
-Lord of the Heavens[END]
+Heavens Lord[END]
 
 
 //Text $19A2E0
 #WRITE(ptr,$D881C)
-A World Shrouded in Darkness[END]
+A World in Darkness[END]
 
 
 //Text $19A2D0
 #WRITE(ptr,$D8820)
-Attack of the Demons[END]
+Demons Attack[END]
 
 
 //Text $19A2B8
 #WRITE(ptr,$D8824)
-Strategy: Attacking the Aerial City[END]
+Aerial City Assault[END]
 
 
 //Text $19A2A8
 #WRITE(ptr,$D8828)
-The Ultimate Test[END]
+Ultimate Test[END]
 
 
 //Text $19A290
@@ -534,12 +534,12 @@ Not Enough Lens![END]
 
 //Text $19A268
 #WRITE(ptr,$D8834)
-The Night of Warriors[END]
+Warriors Night[END]
 
 
 //Text $19A258
 #WRITE(ptr,$D8838)
-Toward the Future[END]
+Toward Tomorrow[END]
 
 
 //Text $19A248
@@ -559,7 +559,7 @@ A New Mission[END]
 
 //Text $19A210
 #WRITE(ptr,$D8848)
-[Hugo]'s Prediction[END]
+[Hugo]'s Plans[END]
 
 
 //Text $19A520
@@ -569,7 +569,7 @@ A Temple in Silence[END]
 
 //Text $19A200
 #WRITE(ptr,$D8850)
-[Lion]'s Determination[END]
+[Lion]'s Resolve[END]
 
 
 //Text $19A508
@@ -629,7 +629,7 @@ Depression in the Great King's Town[END]
 
 //Text $19A440
 #WRITE(ptr,$D8880)
-[Tiberius] the Great's Castle[END]
+[Tiberius]'s Castle[END]
 
 
 //Text $19A430
@@ -649,7 +649,7 @@ Frozen Forest[END]
 
 //Text $19A3F8
 #WRITE(ptr,$D8890)
-Remembrance of Days Past[END]
+Memories of Days Past[END]
 
 
 //Text $19A3E8
@@ -669,10 +669,9 @@ Two Soldiers[END]
 
 //Text $19A1D0
 #WRITE(ptr,$D88A0)
-Time for the Two of Us[END]
+Time Together[END]
 
 
-#JMP($19AC90)
 //Text $19A1B8
 #WRITE(ptr,$D88A4)
 Unidentifiable Monster[END]
@@ -680,7 +679,7 @@ Unidentifiable Monster[END]
 
 //Text $19A1A8
 #WRITE(ptr,$D88A8)
-Broken Happiness[END]
+Lost Happiness[END]
 
 
 //Text $19A190
@@ -735,6 +734,7 @@ I will lend you my power.[END]
 But you must trust me.[END]
 
 
+#JMP($19AC90)
 //Text $19AD28
 #WRITE(ptr,$180C5C)
 Now, grab on tightly...[END]
@@ -880,7 +880,6 @@ This is what I believe.[END]
 Our fateful meeting...[END]
 
 
-#JMP($19B370)
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
 Everything we went through[LINE]that lead us to this moment...[END]
@@ -911,6 +910,7 @@ My master, [Stahn] Aileron...[END]
 Now, let us carry out our final mission!![END]
 
 
+#JMP($19B370)
 //Text $19AF00
 #WRITE(ptr,$180ECC)
 ...Dymlos...[END]
@@ -1006,7 +1006,6 @@ reducing the encounter rate.[END]
 Vigilance[END]
 
 
-#JMP($19BDC0)
 //POINTER #5 @ $181054 - STRING #5 @ $19B618
 #WRITE(ptr,$181054)
 She mixes berries and chemicals[LINE]
@@ -1031,6 +1030,7 @@ Also finds valuables.[END]
 Treasure Hunting[END]
 
 
+#JMP($19BDC0)
 //POINTER #1 @ $181044 - STRING #1 @ $19B6E0
 #WRITE(ptr,$181044)
 Takes a nap to recover HP.[LINE]
@@ -1230,7 +1230,6 @@ Embossing Nap[END]
 [Cross_ani]Kick[END]
 
 
-#JMP($19C380)
 //Text $19BE30
 #WRITE(ptr,$1812B4)
 [Cross_ani]Kick Bomb[END]
@@ -1279,6 +1278,7 @@ Embossing Nap[END]
 [Sign_6]Stop Flow[END]
 
 
+#JMP($19C380)
 //Text $19D310
 #WRITE(ptr,$1847B0)
 Stops enemy movement for 3 seconds.[LINE]
@@ -5816,6 +5816,12 @@ Optional Selection[END]
 Wolf Battle[END]
 
 
+//Text $1A4EB8
+#WRITE(ptr,$1892E8)
+#WRITE(ptr,$186BD0)
+Draconis[END]
+
+
 //Text $1A4E98
 #WRITE(ptr,$186BDC)
 The Mountain Path of Phandaria (First Half)[END]
@@ -8733,15 +8739,16 @@ of industrial waste from long ago.[END]
 
 //Text $1A6FF0
 #WRITE(ptr,$18A038)
+#WRITE(ptr,$18A460)
 Radisrol[END]
 
 
 //Text $1A6FE0
 #WRITE(ptr,$18A03C)
+#WRITE(ptr,$18A464)
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F90
 #WRITE(ptr,$18A040)
 A ship once known for its heroics.[LINE]
@@ -8759,6 +8766,7 @@ Harmentz[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
@@ -9049,16 +9057,6 @@ A snow-covered mountain road that[LINE]
 connects Janos with Torn's Cabin.[END]
 
 
-//Text $1A6FF0
-#WRITE(ptr,$18A460)
-Radisrol[END]
-
-
-//Text $1A6FE0
-#WRITE(ptr,$18A464)
-[END]
-
-
 //Text $1A7878
 #WRITE(ptr,$18A468)
 A ship once known for its heroics.[LINE]
@@ -9093,7 +9091,6 @@ Josaia[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A4D8)
 One of the aerial cities connected[LINE]
@@ -9126,6 +9123,7 @@ Rodeon[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -9544,7 +9542,6 @@ A cool and sweet frozen treat.[LINE]
 Restores 10% of max HP.[END]
 
 
-#JMP($1AB970)
 //Text $1AF638
 #WRITE(ptr,$18C804)
 [Sign_9]Holy Bottle[END]
@@ -9561,6 +9558,7 @@ Wards off enemies for a fixed duration.[END]
 [Sign_9]Dark Bottle[END]
 
 
+#JMP($1AB970)
 //Text $1AF580
 #WRITE(ptr,$18C824)
 Contains evil spirits.[LINE]
@@ -9885,7 +9883,6 @@ A support item for cultivation.[END]
 [Sign_Box]Oriola Seed[END]
 
 
-#JMP($1AC530)
 //Text $1AED20
 #WRITE(ptr,$18CB88)
 Seeds for the proficient.[LINE]
@@ -9908,6 +9905,7 @@ A support item for cultivation.[END]
 [Sign_Box]Golden Seed[END]
 
 
+#JMP($1AC530)
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
 Seeds for masters.[LINE]
@@ -18325,7 +18323,6 @@ In battle, when landing [TAG_015] or more hits[END]
 In battle, cures [TAG_015] once[END]
 
 
-#JMP($1BB0A0)
 //Text $1BBAE8
 #WRITE(ptr,$1946DC)
 [LINE] [LINE]
@@ -18350,6 +18347,7 @@ In battle, if someone's HP [lessequal] [TAG_015]％[END]
 Stowaway[END]
 
 
+#JMP($1BB0A0)
 //POINTER #17 @ $1946EC - STRING #17 @ $1BF080
 #WRITE(ptr,$1946EC)
 Stowaway found in the Draconis.[LINE]
