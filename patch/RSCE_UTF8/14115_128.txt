@@ -240,7 +240,7 @@ Don't Go
 Ferryman
 
 [ENDBLOCK]
-Hop in, Where're we going?
+Hop in, Where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -330,307 +330,314 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-友達だなんて言うから、
-てっきり……
+I thought you said we
+were friends. I thought...
+[ENDBLOCK]
+<Stahn> [ENDBLOCK]
+[ENDBLOCK]
+I didn't expect you to be an adult.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+What do you want?
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Let me ask you something. Did a kid
+give you an instrument once?
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Yeah, I got an instrument
+from a kid on a boat.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I see. Actually, that
+instrument was mine.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I'd like to have it back
+if you don't mind.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+I'm sorry, but I can't do that.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Actually, I used to play
+that instrument while I 
+was picking up passengers.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Then a customer who liked it very
+much asked me to give it to him.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+I got it as a gift. I thought
+it was okay, so I gave it away.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Is that the guy from Moreau?
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+No... from Terazzi, I 
+believe.  I think he said
+he was here on business.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まさか、大人の人だとは
-思いませんでしたね。
+It's getting a little interesting.
 [ENDBLOCK]
-Ferryman
+<Stahn> [ENDBLOCK
 [ENDBLOCK]
-なんか用かい？
+Let's go to Terazzi. Let's go.
 [ENDBLOCK]
-<Johnny>
+Sister
 [ENDBLOCK]
-ちょっと、聞きたいんだが、
-以前、子供に楽器を貰った事は
-なかったかな？
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-ああ、船に乗せたお客さんの子供に
-楽器を貰った事があるよ。
+It seems there's been an
+incident at that house.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そうですか。
-実は、その楽器は俺のもので……
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-よければ返して貰いたいのだが。
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-すまねえが、そいつは出来ねえよ。
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-実は、お客さん乗せながら
-よくその楽器を弾いていたんだ。
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-そうしたらそいつをえらく気に入った
-お客さんに、譲ってくれと言われてな。
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-俺も貰いものだから、
-まあいいかなと思って譲っちまったよ。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-その人は、モリュウの人なのか？
-[ENDBLOCK]
-Ferryman
-[ENDBLOCK]
-いや……確かトウケイから
-仕事で来たとか言ってたなぁ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-なんだか、ちょっと面白くなって
-来ましたね。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-それじゃ、トウケイに
-行きましょう。
-[ENDBLOCK]
-おねえさん
-[ENDBLOCK]
-そこの家で事件があったみたいですよ。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-<Fayte>、何かあったのか？
+<Fayte>, what's going on?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、ちょっと事件があってな。
-うちの兵士が襲われたんだ。
+Yeah, there's been a bit
+of an incident. One of my
+soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで犯人は？
+And who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、捕まった事は
-捕まったのだが……
+Yeah, And they've been caught.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしたの？
-ぱっとしない顔ね。
+What's wrong with you?
+You don't look so good.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ん……？
+Mmm...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まさか<Fayte>さん、
-この子が兵士を襲ったんですか!?
+Don't tell me, <Fayte>. Did
+this girl attack a soldier!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Fayte>さま！
-私は犯人じゃありません！
+<Sir Fayte>!
+I'm not the killer!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Johnny>さまも信じてください。
+<Johnny> Please believe me too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-確かにこんな小さな子が
-兵士を襲ったとは思えないわ。
+Surely such a small child. I can't
+believe she attacked a soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-しかしな……
+But then again...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺も信じられません。
-こんな子が……
+I can't believe it either.
+Such a girl...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Johnny>さま、
-どうか私を助けて下さい！
+Dear <Johnny>, Please help me!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-こうなったら助けないわけには
-いかないな。
+I can't help you if you
+don't help me.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、この子の処遇については
-少し待ってくれないか？
+<Fayte>, wait. can you
+give us a moment?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-わかった。この子の身柄を
-拘束する事になるが許してくれ。
+All right. Forgive me, but I have
+to take this girl into custody.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-あと、モリュウ領内で
-聞き込みをしてみたらどうだ。
+Also, why don't you ask around
+in the Moreau territory?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-事件について知っている人間が
-まだいるかもしれない。
+There might still be people
+who know about the case.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-事件が起きたのは、昨日の未明。
-このモリュウ領内で兵士が襲われました。
+The incident occurred yesterday 
+morning. A soldier was attacked 
+here in the Moreau territory.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-実はここ数日で、同様の事件が
-多発しておりました。
+Actually, there have been a
+number  of similar incidents
+in the past few days.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-襲われた兵士には決まってふたつの
-キズが残されておりました。
+The soldier who was attacked
+had two scratches on him.
 [ENDBLOCK]
-兵士
+soldier
 [ENDBLOCK]
-襲われた兵士の証言や目撃者の話を
-総合した結果、あの女の子に
-我々は行き着いたのです。
+Based on the testimony of the 
+attacked soldier and witnesses.
+We arrived at that girl.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-しかし、事件のおきた時間に
-あの子を見たというアリバイ証言も
-実はあるのです。
+However, I have an
+alibi that I saw the girl at
+the time of the incident.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-だから<Fayte>様は皆さんに
-時間をお与えになったのだと思います。
+I think that's why Master Fayte 
+gave you all this time.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-長い話になりますが、
-事件のあらましをお聞きになりますか？
-はい
-いいえ
+It's a long story. Would 
+you like to hear a synopsis?
+Yes
+No
 
 [ENDBLOCK]
-若者
+Child
 [ENDBLOCK]
-ああ、犯人の事なら聞いたよ。
-でも事件のあった時間にあの子は
-この家の下で猫と遊んでいたぜ。
+Yeah, I heard about the death.
+But he was playing with the 
+cat at the time of the murder.
 [ENDBLOCK]
-若者
+Young man.
 [ENDBLOCK]
-ここでシデンの服装をしている奴は
-目立つから間違いないはずだ。それに
-でかい声で猫に話しかけていたからな。
+Whoever's wearing Shiden outfits
+here stands out. Besides. He's been
+talking to the cat in a big voice.
 [ENDBLOCK]
-若者
+YOUNG MAN.
 [ENDBLOCK]
-猫と本気でしゃべれるのかな？
+Can you really talk to a cat?
 [ENDBLOCK]
-魚を販売する人
+Fish Shop
 [ENDBLOCK]
-女の子だろ？	ああ、事件のあった
-時間に買い物に来ていたよ。
+A girl, right? I was in here shopping
+at the time of the incident.
 [ENDBLOCK]
-魚を販売する人
+Fish Shop
 [ENDBLOCK]
-随分と長い間迷っていてな、
-決まったと思って商品を包んだら、
-やっぱり別のにすると言うんだ。
+I'd been wondering for a long time,
+and when I thought he had made up
+his mind and wrapped up the goods, 
+he said he wanted something else.
 [ENDBLOCK]
-魚を販売する人
+Fish Shop
 [ENDBLOCK]
-そんな事を何度も繰り返したから
-よく覚えているよ。
+I remember it well because it 
+happened over and over again.
 [ENDBLOCK]
-武士
+Samauri
 [ENDBLOCK]
-先日の事だが、港の魚屋で
-騒いでいた女の子を見かけたんだ。
+The other day, I was at the fish 
+market in the harbor. I saw a girl 
+who was making a lot of noise.
 [ENDBLOCK]
-武士
+Samauri
 [ENDBLOCK]
-何となく気になったが、
-まっすぐこの宿屋に帰って来たのだ。
+I was kind of curious. I came
+straight back to this inn.
 [ENDBLOCK]
-武士
+Samauri
 [ENDBLOCK]
-帰ってすぐにそこの障子を開けると、
-港にいたはずのその子が
-武器屋の傍の家から出てきたんだ。
+As soon as I returned, The boy who
+was supposed to be at the harbor.
+She came out of the house by 
+the weapons shop.
 [ENDBLOCK]
-武士
+Samauri
 [ENDBLOCK]
-この街には誰にも知られていない
-秘密の通路などないはず。
-まったく不思議なものだ。
+There are no secret passageways
+in this city. There should be no 
+such thing as a secret passage. 
+It's a wonder, really.
 [ENDBLOCK]
-兵士
+Samauri
 [ENDBLOCK]
-犯人がわかったのですか!?
-はい
-いいえ
+Did you find out who did it?
+Yes
+No
 [ENDBLOCK]
-兵士
+Samauri
 [ENDBLOCK]
-では、中に入って<Fayte>様に
-説明をお願いします。
+Now, please go inside and give
+<Fayte> a debriefing.
 [ENDBLOCK]
-兵士
+Samauri
 [ENDBLOCK]
-そうですか……犯人がわかったら
-また来てください。
+Okay... If you find the culprit.
+Please come back.
 [ENDBLOCK]
-兵士
+Samauri
 [ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_005>「特報	リアーナ妃殿下ご懐妊！」
-リアーナ様のご友人が語った
-その感動秘話。
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_005>このアクアヴェイルがより良い
-国となるため、自由な意見を
-求めています。
-								フェイト・モリュウ
+So, do you want to hear
+about the case?
+Yes
+no
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>皆様が安全に暮すため
-些細な噂話でも教えて下さい（礼金あり）。
-												モリュウ軍広報
+<TAG_005>A friend of Rihanna's
+tells me she's expecting a baby.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><x0E><x00><x00><x04><x80>To take a small boat,
+<TAG_005>We are looking for input 
+from you to help make this
+aquaveil a better country.
+							Fayte Moreau
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>In order for everyone 
+to live safely, if you see something
+suspicious say something,You will 
+get monetary compensation.
+					Moreau Military PR
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>To take a small boat,
 please come to the boarding area.
 [ENDBLOCK]
 Girl
@@ -751,170 +758,180 @@ something effective.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny>、国の事は心配しないで、
-あなたのやるべき事をやって。
+<Johnny>, don't worry about 
+the country. Just do what 
+you have to do.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-私はあなた方を信じています。
-どうかお願いします。
+I believe in you guys.
+Please do this for me.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-あなたは昔から、
-いざという時に頼れる人だったわね。
+You've always been someone
+I could count on in a pinch.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-私も出来る事をやるわ。
-だから、<Johnny>も頑張って。
+I'll do what I can. So,
+good luck to <Johnny>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-私は絶対に諦めないわ。
-必ず世界を取り戻しましょう。
+I'm never going to give up.
+Let's definitely take back the world.
 [ENDBLOCK]
-おねえさん
+Hey, lady.
 [ENDBLOCK]
-滅多な事を口にしてはダメよ。
-誰が聞いているかわからないわ。
+Don't say anything out of the
+ordinary. You never know 
+who might be listening.
 [ENDBLOCK]
-おねえさん
+Sister
 [ENDBLOCK]
-<Fayte>様なら、きっとこの国を
-立て直してくださるでしょう。
+I'm sure <Fayte> will be
+able to fix this country.
 [ENDBLOCK]
-おねえさん
+Sister
 [ENDBLOCK]
-私たちには、静かに暮らす権利は
-ないのでしょうか……
+Do we not have the 
+right to live in peace?
 [ENDBLOCK]
-おねえさん
+Sister
 [ENDBLOCK]
-街がモンスターに襲われ、
-私の父が……うっうっ……
+The city was attacked by a 
+monster. My father was... ugh...
 [ENDBLOCK]
-おねえさん
+Sister
 [ENDBLOCK]
-どうかお願いします。
-皆さんが最後の希望なんです。
+Please, please, please.
+You are my last hope.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-いきなり現れた外国人が、
-俺たちの代官になりやがった。
+A foreigner showed up out of 
+nowhere. He's become our deputy.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-騒ぎも収まって、
-これで商売に専念できるぜ。
+Now that all the fuss
+is over. Now I can focus
+on my business.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-またとんでもない事になったな。
-何が天地戦争だ。
+What a mess we've gotten 
+ourselves into again. What is
+this, the Aeth'er Wars.
 [ENDBLOCK]
-武具屋
+Armor Shop
 [ENDBLOCK]
-何があっても商売はやめないぜ。
+No matter what happens, I'm not
+going to stop doing business.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-最近、お船をあんまり見てないなー。
+I haven't seen much of the ship lately.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-モリュウの黒十字艦隊は最強さ。
-セインガルド相手でも負けないやい。
+Moreau's Black Cross fleet is the
+strongest. Even against Seingold,
+it's unbeatable.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-空に悪いやつがいるんじゃ、
-黒十字艦隊でも手が出ないかなあ。
+There are bad guys in the sky.
+I wonder if even the Black Cross
+fleet can't get a hold of them.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-おれが空を飛べたら、
-悪いやつをやっつけに行くのに。
+If I could fly. I'd go take
+out the bad guys.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-兄ちゃんたち、空の上へ行くんだろ？
-悪いやつをやっつけてくれよな。
+You're going up to take
+out the bad guys, right?
 [ENDBLOCK]
-男の子
+BOY
 [ENDBLOCK]
-姉ちゃんたち、空の上へ行くんだろ？
-悪いやつをやっつけてくれよな。
+You're going up to take
+out the bad guys, right?
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-あたしらの国を土足で踏み荒らしおった。
-<Tiberius>は許せん。
+You trampled our land 
+with your feet. I can't 
+forgive <Tiberius>.
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-<Tiberius>が健在である以上、
-今回のような事がまた起こるかもしれん。
+As long as <Tiberius> is alive
+and well. Something like this
+might happen again.
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-あやつを大王の位からおろし、
-罪を糾弾するべきじゃ。
+He should be removed from
+the throne and condemned
+for his crimes.
 [ENDBLOCK]
-おばあさん
+Old Womain
 [ENDBLOCK]
-<Tiberius>が死んだそうじゃの。
-ざまあみろじゃわい。
+I hear <Tiberius> is dead.
+I'm sorry to hear that.
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-せっかく平和になったと思ったのじゃが。
-今度は何事じゃ？
+Just when I thought things
+were getting peaceful.
+What's going on now?
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-<Fayte>様が領主になって早々、
-とんでもない事態になったのう。
+As soon as Master
+<Fayte> became Lord.
 [ENDBLOCK]
-おばあさん
+Old Woman
 [ENDBLOCK]
-あたしもレンズを差し出したよ。
-トウケイに集めるのが気に食わんが。
+I offered you my lens too.
+I don't like the idea of collecting
+them for Terazzi, though.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Hmm? Do you have a copy
+of "Definite Warfare"?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+You're good enough.
+I'll give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This is a link-up that's supposed to
+work on monsters. "Definite Strike".
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it, will you?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike by
+setting "Definite Strike" to "ON" from
+the Custom menu in the main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
+If the Definite Strike is "ON", you
+can see the Definite Strike of
+each monster in the Monster Book.
 
 [ENDBLOCK]
 Man
@@ -1585,279 +1602,286 @@ Depot
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>さんはモリュウ領の
-お妃さまなんですよね？
+<Rihanna>, you're the queen of
+the Moreau territory, right?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-ええ、そうよ。
+Yes, I am.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの、参考までに
-お妃さまの仕事を教えて欲しいです。
+Um, could I ask you 
+something, I'd like to know
+what you do as a queen.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-あら？	<Chelsea>ちゃんは
-お妃様になりたいの？
+Oh?	Do you want to be
+a queen, <Chelsea>?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-いいえ。お妃さまに
-なる予定です。
+No. I'm going to be a princess.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そうね、まずお妃様は
-見た目より苦労が多いわよ。
+Well, first of all, a queen has
+to work harder than she looks.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-まず朝起きたら、
-すぐに着替えなきゃいけないでしょ。
+First of all, when you wake
+up  in the morning, you have
+to get dressed right away.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そのくらいは。
+That much.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-外に出る時も、
-だらしない格好はできないわ。
+I can't go out, looking like 
+I just woke up.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-それはちょっと面倒ですぅ。
+That's a bit of a bother.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-毎日、お稽古の時間があるわ。
+I had time to practice, every day.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ちょっと……嫌ですねぇ。
-でも、ちょっとだけですよ。
+Hey, I don't like it either.
+But it's easy enough.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-極めつけは……
+The best part is...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-毎日忙しすぎて、
-どんどんふけるわよ。
+I'm so busy every day,
+I'm indulging more and more.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そ、それぐらい……！
+That's how much ......!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-……やっぱり、
-いーやーでーすー!!
+...I knew it, I knew it, I knew it!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>さんは
-お妃さまが嫌なんですか？
+<Rihanna>, do you not
+like being queen?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-いいえ。民の幸せな様子を
-見る事は、私にとっての誇りよ。
+Not all all, it makes me proud
+to see my people happy.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-それに、夫と同じ道を
-歩める事はとっても幸せ。
+And I'm very happy to be on
+the same path as my husband.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Chelsea>ちゃんも
-頑張ってね。
+Good luck to you too, <Chelsea>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい、私も立派な
-お妃さまになります！
+Yes, I will be a great queen!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>さんはモリュウ領の
-お妃さまなんですか？
+<Rihanna>, you're the queen of
+the Moreau territory, right?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-ええ、そうよ。でもお妃と言っても、
-<Chelsea>ちゃんの想像とはだいぶ違うわよ。
+Yes, I am, but a queen is 
+a lot different from what
+you imagine, Chelsea.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-苦労の方が多いから、
-おかげでシワが増えちゃったわ。
+It's more of a struggle, and
+it's given me more wrinkles.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>さんは
-美人だから大丈夫ですよ。
+<Rihanna>, you're beautiful,
+so you'll be fine.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-でも、ほら。
-美人は命が短いって言うでしょ。
+But you see. They say 
+that beautiful women
+have short lives.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-こんな世界の状況を壊せる人が、
-いないものかしらね。
+I wonder if there is 
+anyone  who can destroy
+this situation in the world.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-私たちがなんとかして
-みせるさ。
+We'll figure it out.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、いざとなれば
-<Johnny>の力も借りるけどね。
+Well, if push comes to shove,
+I'll ask for <Johnny>'s help.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そうね。その時は
-こき使ってちょうだい。
+Yeah. You'll have to
+work me then.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういえば、<Johnny>さんは
-元気ですか？
+By the way, how are
+you doing, <Johnny>?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-あの人の場合は本当の気持ちを
-言わないから、疲れているのか
-そうでないのかも、分からないわ。
+He doesn't tell me how
+he really feels, so I can't
+tell if he's tired or not.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-それにしても、なぜ<Johnny>は
-あんな道化みたいな事をしているんだ？
+Anyway, why is <Johnny>
+acting like such a clown?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さっすが<Mary>。
-聞きにくい事、聞くわね。
+That's <Mary>. I'll ask
+you something that's
+hard to hear.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そうね……それにはまず<Fayte>の
-事から話さなければならないわ。
+Yes... but first we need
+to talk about <Fayte>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>さんの事？
+You mean <Fayte>?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そう、<Fayte>には昔、
-<Eleanor>さんという恋人がいたの。
+Yes, <Fayte> used to have a 
+girlfriend named <Eleanor>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-よく平然と話せるわね～。
+How can you talk so calmly?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte>と<Johnny>、
-それに<Eleanor>さんは幼なじみなの。
+<Fayte>, <Johnny>, and <Eleanor>
+are childhood friends.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny>は言わないけど、
-<Johnny>は<Eleanor>さんの事を、
-愛していたんだと思うわ。
+<Johnny> doesn't say it,
+but I think he was in
+love with <Eleanor>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-けれど、<Eleanor>さんは、
-<Tiberius>に殺された……
+But <Eleanor> was
+killed by <Tiberius>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte>は、今の彼からは想像も
-つかないくらい荒れたの。
+<Fayte> was so rough,
+I can't imagine what he's
+going through now.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-その時、<Fayte>を励ました<Johnny>にも、
-<Fayte>はつらくあたったわ。
+And to <Johnny>, who encouraged 
+<Fayte> at that time. <Fayte>
+gave me a hard time.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そして果てには、「片思いのおまえには
-決して俺の苦しみが分からない！」と
-言った……
+And in the end, he said, "You, 
+with your unrequited love You
+will never understand my pain!".
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっとそれ、ひどいんじゃない。
+That's a bit much, isn't it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>さんも、すごく辛い
-出来事だったんじゃないかな。
+It must have been a very painful
+experience for you, too, <Fayte>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな言い方をしたら、<Johnny>さんが
-傷つく事ぐらい分かる人だと思うんだ。
+I think he understands
+that if  he talks like that,
+<Johnny> will be hurt.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-けど、言わずにはいられなかった……
-本当に苦しんでいたからだよ。
+But I had to say it...
+It's because I was 
+really suffering.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-ありがとう、<Stahn>さん。
+Thank you, <Stahn>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-その出来事があってから、
-<Johnny>は変わったみたい。
+After that incident, <Johnny>
+seems to have changed.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-派手な格好をし始め、
-決して他人の心に踏み込まないし、
-踏み込ませなくなった。
+He began to dress flamboyantly,
+never stepping into another person's
+mind, and never letting them into his.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte>も、それを今でも
-悔やんでいるわ。
+<Fayte> I still regret that, too.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-だから私たちは、<Johnny>の
-幸せの為ならなんだって協力する。
+That's why we'll do
+whatever we can to help
+make <Johnny> happy.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんか、意外な過去だったわね。
+It's kind of a surprising
+past, isn't it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だから<Johnny>さんは、
-あんなに優しい人に見えるんだね。
+That's why <Johnny> seems
+to be such a kind person.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-優しい人に見える……か。
-なんかそれって、ちょっと悲しい言い方ね。
+You seem like a nice person,
+That's kind of a sad thing to say.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-こんな世界の状況を変えられる。そんな、
-何もかもを壊せる人はいないかしら。<x00>
+I wonder if there's anyone
+who can change the situation
+of the world.<x00>
 [ENDBLOCK]
