@@ -1,9 +1,9 @@
- mse
-[ENDBLOCK]
-t_person_fl
-[ENDBLOCK]
-y( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 サイリル兵
 [ENDBLOCK]

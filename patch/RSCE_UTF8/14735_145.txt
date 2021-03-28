@@ -1,11 +1,11 @@
 select
 [ENDBLOCK]
-<x00>
-[ENDBLOCK]
-<x00><x00>合流しますか？
+<TAG_007>合流しますか？
 はい
 いいえ
 
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

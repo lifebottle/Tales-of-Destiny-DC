@@ -1,10 +1,10 @@
 select
 [ENDBLOCK]
-<TAG_007>入
-[ENDBLOCK]
-り口へ戻りますか？
+<TAG_007>入り口へ戻りますか？
 はい
 いいえ
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
