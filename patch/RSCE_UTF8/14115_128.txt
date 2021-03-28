@@ -1,10 +1,10 @@
 Plaza
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 
@@ -12,10 +12,10 @@ Item Shop
 Dock
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 
@@ -26,7 +26,7 @@ Dock
 Plaza
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 
@@ -37,13 +37,13 @@ Plaza
 Warehouse
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
 Moreau Castle
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -52,13 +52,13 @@ Dock
 Warehouse
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
 Moreau Castle
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -67,144 +67,13 @@ Dock
 Plaza
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
 Moreau Castle
 
 [ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Warehouse
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-Dock
-
-[ENDBLOCK]
-Plaza
-
-[ENDBLOCK]
-Item Shop
-
-[ENDBLOCK]
-Moreau Castle
-
-[ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -219,7 +88,7 @@ Warehouse
 Moreau Castle
 
 [ENDBLOCK]
-乗らない
+Don't Go
 
 [ENDBLOCK]
 Dock
@@ -231,10 +100,141 @@ Plaza
 Warehouse
 
 [ENDBLOCK]
-Item Shop
+Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
 
 [ENDBLOCK]
 Ferryman
@@ -933,7 +933,7 @@ skills a bit more, then come back.
 Dummy store placement
 [ENDBLOCK]
 <TAG_007>Food shop: Yadokarido
-Item Shop
+Shop
 Water Moon Flower
 Weapon House: Poseidon
 Armor Shop: Color of Color
