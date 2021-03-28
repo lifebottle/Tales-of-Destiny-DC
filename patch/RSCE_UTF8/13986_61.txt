@@ -650,7 +650,7 @@ What a boring thing to do.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-先ほどまでの先頭：<x17><x69><x44><x29><x80>
+Winner: <x17><x69><x44><x29><x80>
 
 [ENDBLOCK]
 select
@@ -926,17 +926,17 @@ Man
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
 ねえ、あの元気な人の、
 お姉さんは見つかったの？
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
@@ -1176,86 +1176,92 @@ It is a resting place for residents.
     For more information, 
    please contact Oberon.
 [ENDBLOCK]
-ダミーショップ配置
+Dummy Store
 [ENDBLOCK]
-<TAG_007>食材屋：満腹亭
-道具屋：ギブアンドテイク
-武器屋：アーケディア
-防具屋：ディフェレイド
-Accessory Shop：銀の糸
-オベ社：西大陸支店
+<TAG_007>Food Shop: Manpuku-tei
+Toolmaker: Give and Take
+Weapon Shop: Arcadia
+Armor Shop: Deferent
+Accessory Shop：Silver Thread
+Oberon Co.: West Continent Branch
 
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-ここはフィッツガルドの中心都市、
-ノイシュタットです。
+This is Neuestadt, the 
+central city of Fitzgald.
+Neustadt.
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-これは一体何の騒ぎなんですの！？
+What's all the fuss about?
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-あなたは闘技場の……
-ええと、コングガイさん？
+You are... in the arena.
+Uh, Mr. Kong Guy?
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-空に色々な物が浮かんでいるせいか、
-このところ日がかげりがちですね。
+Maybe it's because there are so
+many things floating in the sky, but
+the sun stays hidden these days.
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-とうとう日の光が、
-完全に遮断されましたね……
+Daylight has finally been
+completely cut off.
 [ENDBLOCK]
-街の女性
+Women
 [ENDBLOCK]
-よく来てくださいました！
-どうかこの街をお救いください！
+Thank you for coming! 
+Please save this city!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-どうです？	美しい町並みでしょう。
+What do you think?	Isn't
+it a beautiful town?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-今やこの街の繁栄ぶりは、
-ダリルシェイドにも負けませんよ。
+The prosperity of this
+city is nowhere near as
+great as Darilsheid.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-どうです？	美しい町並みでしょう。
+What do you think?	Isn't
+it a beautiful town?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-あの武装船団はどこの勢力ですか！
-街がめちゃめちゃにされてしまう！
+What force is that armed fleet?!
+They're gonna tear the city apart!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-か、金ならいくらでも出します。
-武装船団をなんとかして下さい！
+I'll pay you anything you
+want. Please do something
+about the armed fleet!
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-マイティ！	マイティ！
-……はっ、私とした事が。
+Mighty!	Mighty! ...haha,
+that's what I did.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-いつこの街も、
-攻撃を受けるかわかりませんね……
+I don't know when this city
+will be attacked.
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-もはや万事休すなのでしょうか……
+Is it all over now?
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
-マイティ！	マイティ！
-どうかよろしく頼みます！
+Mighty!	Mighty!
+Please take care of her!
 [ENDBLOCK]
 Lens Shop
 [ENDBLOCK]
@@ -1269,18 +1275,18 @@ me not to leave.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-セインガルドの金を吸い取って、
-この街は発展したんだよ。
+This city has grown by sucking
+the money out of Seinegald.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-うちのパパがそう言ってたんだ。
-間違いないよ。
+That's what my dad said.
+I'm sure of it.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-この街が発展したのは、
-全部セインガルドのお陰だってさ。
+He said that this city has developed
+entirely because of Seinegald.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1293,22 +1299,22 @@ I'll tell your dad.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-おまえなら、いつでも
-歓迎してやるぞ。
+You're always welcome here.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-おいおまえら、なんとかしろよ。
+Hey, you guys, do 
+something about it.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-おまえら、頼むよ。
-お願いだからなんとかしてよ！
+You guys, please. 
+Please, do something!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あの、えっと……
-がんばれ、<Leader>。
+Um, let's see...
+Good luck, <Leader>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -1325,61 +1331,66 @@ Oh, you're not a monster.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-野蛮な奴らめを、
-こらしめてやってください！
+Let's see what you can
+do to these savages!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-街の平和を守ったのは、
-あんな野蛮な筋肉男ではないのに。
+Wasn't it that savage Muscle
+Man who kept the peace in the city.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-空から攻撃を受けてしまったら、
-街のどこにいても同じでしょうな。
+If we were attacked from above,
+it would be the same no matter 
+where we were.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-人類は滅びるしかないんでしょうか。
+Will humanity have no choice
+but to perish?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-この街に元から住んでいた者たちと
-協力し合う日が来るとは。
+I never thought the day would come
+when I would be working with the 
+original inhabitants of this city.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-この街が急速に発展したのは、
-オベロン社の功績ですわ。
+The Oberon Corporation
+is responsible for the 
+rapid growth of this city.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-Childとはぐれてしまいました。
-無事だといいのだけれど……
+I got separated from my 
+child. I hope she's okay.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-あのならず者たちを手引きしたのは、
-この街の誰かかもしれませんよ。
+It might be someone from this city
+who guided those ruffians.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-オベロン社の<Ilene>女史が、
-このところ姿を見せないんですよ。
+Ms. <Ilene> from Oberon hasn't
+been around for a while.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-以前武装船団に襲われた時よりも、
-今回の方が不安になります。
+I'm more worried this time than
+I was when we were attacked by
+an armed fleet before.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-青い空がなつかしいですわね……
+I miss the blue sky.
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
-娘ともう一度、日の光の下を
-歩ける日が来るといいのですが。
+I hope one day I can walk in the
+sunshine with my daughter again.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -1392,26 +1403,30 @@ Mommy!?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-<Kongman>が街を守ったっていうと、
-ママの機嫌が悪くなるの。
+Whenever I tell her that 
+<Kongman> has saved the
+city, she gets in a bad mood.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-オベロン社に文句をいう人が、
-このところ急に増えたんだって。
+He said that the number of people 
+complaining about Oberon has suddenly 
+increased.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-空に影が出てきたわ。
+There's a shadow in the sky.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-お外がずっと夜だったら、
-日焼けしないで済むかな？
+If it's nighttime outside all
+the time, I'll be able to avoid
+getting sunburned?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-お外はいつ元に戻るの？
+When will things be back to
+normal outside?
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
@@ -1912,9 +1927,9 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x00><x19><x98><x80>
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x00><x19><x98><x80>
 [ENDBLOCK]
-<x18><x65><x90><xFC><x18><x00><x80></color>を取得しました。
+<x18><x65><x90><xFC><x18><x00><x80></color>
 [ENDBLOCK]
 <x19><x69><x80><xF0><x18><x80>たちは
 [ENDBLOCK]
@@ -1944,7 +1959,7 @@ notice
 [ENDBLOCK]
 <turquoise>クイズ称号
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80>は
+<x19><x69><x80><xF0><x18><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]

@@ -1,115 +1,7 @@
-広場
+Plaza
 
 [ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-乗らない
-[ENDBLOCK]
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-乗らない
-[ENDBLOCK]
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-乗らない
-[ENDBLOCK]
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
+Item Shop
 
 [ENDBLOCK]
 乗らない
@@ -117,13 +9,10 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
+Item Shop
 
 [ENDBLOCK]
 乗らない
@@ -131,13 +20,10 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-広場
-
-[ENDBLOCK]
-道具屋
+Plaza
 
 [ENDBLOCK]
 乗らない
@@ -145,13 +31,88 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-船場
+Plaza
 
 [ENDBLOCK]
-広場
+Warehouse
 
 [ENDBLOCK]
-地下倉庫
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
 
 [ENDBLOCK]
 乗らない
@@ -159,84 +120,127 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-広場
+Dock
 
 [ENDBLOCK]
-地下倉庫
+Warehouse
 
 [ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-モリュウ城
+Item Shop
 
 [ENDBLOCK]
 乗らない
 
 [ENDBLOCK]
-船場
 
 [ENDBLOCK]
-地下倉庫
+Dock
 
 [ENDBLOCK]
-道具屋
+Plaza
 
 [ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-道具屋
-
-[ENDBLOCK]
-モリュウ城
+Item Shop
 
 [ENDBLOCK]
 乗らない
 
 [ENDBLOCK]
-船場
 
 [ENDBLOCK]
-広場
+Dock
 
 [ENDBLOCK]
-地下倉庫
+Plaza
 
 [ENDBLOCK]
-モリュウ城
-
-[ENDBLOCK]
-乗らない
-
-[ENDBLOCK]
-船場
-
-[ENDBLOCK]
-広場
-
-[ENDBLOCK]
-地下倉庫
-
-[ENDBLOCK]
-道具屋
+Warehouse
 
 [ENDBLOCK]
 乗らない
 
 [ENDBLOCK]
-船頭
+
 [ENDBLOCK]
-さあ、どこに行く？
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Item Shop
+
+[ENDBLOCK]
+乗らない
+
+[ENDBLOCK]
+Ferryman
+
+[ENDBLOCK]
+Hop in, Where're we going?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -334,7 +338,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 まさか、大人の人だとは
 思いませんでしたね。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 なんか用かい？
 [ENDBLOCK]
@@ -344,7 +348,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 以前、子供に楽器を貰った事は
 なかったかな？
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 ああ、船に乗せたお客さんの子供に
 楽器を貰った事があるよ。
@@ -358,21 +362,21 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 よければ返して貰いたいのだが。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 すまねえが、そいつは出来ねえよ。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 実は、お客さん乗せながら
 よくその楽器を弾いていたんだ。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 そうしたらそいつをえらく気に入った
 お客さんに、譲ってくれと言われてな。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 俺も貰いものだから、
 まあいいかなと思って譲っちまったよ。
@@ -381,7 +385,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 その人は、モリュウの人なのか？
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 いや……確かトウケイから
 仕事で来たとか言ってたなぁ。
@@ -436,12 +440,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 <Fayte>さま！
 私は犯人じゃありません！
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 <Johnny>さまも信じてください。
 [ENDBLOCK]
@@ -459,7 +463,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 俺も信じられません。
 こんな子が……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 <Johnny>さま、
 どうか私を助けて下さい！
@@ -626,120 +630,124 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>小船に乗られる方は
-乗り場にお越しください。
+<TAG_005><x0E><x00><x00><x04><x80>To take a small boat,
+please come to the boarding area.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ここはモリュウ領。あなたたち、
-悪いときに来たわね。
+This is Moreau Territory. You 
+couldn't have come at a worst time.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-とにかく、今はこの街に、
-あまり長居しない方がいいわよ。
+Anyway, I don't think you should
+stay in this city too long now.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ここはモリュウ領。アクアヴェイルで、
-一番文化的な街よ。
+This is Moreau Territory. It's the
+most cultured city in Aquaveil.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-空から声が聞こえてきたのって、
-セインガルドがやったのかしら？
+I wonder if it was Seinegald was
+behind the voice in the sky?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-みんなこのまま死んじゃうの？
+Are we all going to die like this?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-世界中のレンズを集めて、
-セインガルドに運ぶんですってね。
+I heard that they're collecting
+lens from everywhere and
+transporting them to Seinegald.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-世界が元通りになりますように。
+May the world return to normal.
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-<Tiberius>め、覚えてろよ。
-……おっと、口が滑った。
+<Tiberius> remember that.
+Oops ...did I say that out loud?
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-この街は水運が発達してるから、
-ちょっとした移動にも小船を使うのさ。
+This city is known for its water 
+transportation, so we use small 
+boats to get around.
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-空の網目みたいなのが埋まったら、
-俺たちの暮らしはどうなるんだ？
+What's going to happen to our lives
+when that net thing fills up?
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-仲間がモンスターに殺されたんだ。
-まったく、世も末だよ。
+My friends were killed by monsters.
+It's the end of the world.
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-そこにいるのは道楽者と評判の、
-シデン領の若様かい？
+Is that the young lord of
+Shiden with the reputation
+of being a loaner?
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-何をやる気か知らねえけど、
-とにかく頼むよ。
+I don't know what you're up
+to, but I'm asking you anyway.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-ジノ様や<Fayte>様は、
-ご無事なんじゃろうか……
-[ENDBLOCK]
-<Rihanna>
-[ENDBLOCK]
-本当にありがとう、<Johnny>。
-トウケイ領でも、頑張ってね。
+I wonder if Gino and
+<Fayte> are alright...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-けど、絶対に無茶はしないでよ。
-
+Thank you very much, <Johnny>.
+Good luck in Terazzi.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+But don't do anything rash.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-おいおい、一体何を心配しているんだ。
-
+Hey, hey, what the hell
+are you worried about?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-道化は無茶も頑張りも、
-しないものだぜ。
+Clown won't do anything
+rash or hard.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-絶対に無茶はしないでね。
-
+Don't do anything reckless.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-本当にありがとうございました。
-皆さんのご恩は決して忘れません。
+Thank you very much.
+I will never forget what
+you have done for me.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-まあ、皆さん。その節は、
-本当にありがとうございました。
+Well, gentlemen. Thank you very
+much for that opportunity.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-夫は<Johnny>とも協力して、
-対応策を協議しています。
+My husband is also working
+with <Johnny> on ways to
+deal with this.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-何か有効な手が打てるといいのですが。
+I hope we can do 
+something effective.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -909,167 +917,184 @@ notice
 ディフィニットストライクを見る事ができます。
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+Hmm? I've got something for you.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say to you now.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+You'll need to work on your 
+skills a bit more, then come back.
 [ENDBLOCK]
-ダミーショップ配置
+Dummy store placement
 [ENDBLOCK]
-<TAG_007>食材屋：やどかり堂
-道具屋：水月花
-武器屋：海神
-防具屋：彩の色
+<TAG_007>Food shop: Yadokarido
+Item Shop
+Water Moon Flower
+Weapon House: Poseidon
+Armor Shop: Color of Color
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ここがモリュウ領か……
-やっと着いたぞ。
+So this is Moreau...
+We finally made it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-シデン領と雰囲気が似てるわね。
+It has a similar feel to Shiden.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-街の人間に話を聞いてみろ。
-<Greybum>の事がわかるかもしれない。
+Let's try to catch some gossip in
+town. The townspeople might know
+something about <Greybum>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの……助っ人の件は……？
+Um... what about the backup...?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-放っておくしかあるまいて。
-わしらにできる事などないじゃろ。
+We have no choice but to
+ignore it for now. There's
+nothing we can do about it.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はあ……
+Haaah...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、助っ人ってなんの話？
+Wait, what's this about backup?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はあ……はあ……
+Haah... Gah...
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-おまえさんたちは隠れてな。
-後は俺に任せておけ。
+You guys stay out of sight.
+I'll take care of the rest.
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-ここに不審な連中が来なかったか？
+Have any suspicious-looking
+people come this way?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-なんの事だ？	俺はさっきから、
-ずっとひとりでいたぜ。
+What do you mean? I've been
+alone this whole time.
 [ENDBLOCK]
-隠し立てするとただでは置かんぞ。
+Don't think there won't
+be retaliation if you're
+hiding anything.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-ほう、そんなに俺の歌が聞きたいか。
-それじゃ、とっておきを披露しようか。
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_010>さかまく波頭を乗り越えて、いざ進まん♪
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_010>黒十字の旗のもと、	男たちよ、いざ集え♪
-[ENDBLOCK]
-ちっ。ここは違うようだ。
-向こうを探すぞ。
+Oh? Do you wish to listen to my
+songs that much? Well then, 
+I'll play my most treasured one.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_010>大海原は我らの庭だ……
+<TAG_010>Go forth now, and overcome those surging waves♪
 [ENDBLOCK]
-？？？？
+
 [ENDBLOCK]
-おやおや、まだ途中だってのに。
-風流を解さない連中だぜ。
+<TAG_010>Men, gather under the banner of the Black Cross!♪
+
+[ENDBLOCK]
+Tch. Looks like we were
+wrong. Let's keep looking.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_010>The ocean is our garden...♪
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh my, even though I'm 
+only halfway done? Some 
+people have no taste.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すみません、助かりました。
+Thank you, you really saved us.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、<Stahn>・エルロンって言います。
-あなたは……？
+I'm <Stahn> Aileron.
+And you are...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-愛と夢の狩人。
-道化の<Johnny>とは俺の事さ。
+I am a hunter of love and
+dreams, <Johnny>. You could 
+call me a jester of sorts.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……やっぱり怪しいわね。
+...As I thought, this 
+guy's definitely dodgy.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Tiberius>との会話から察するに、
-おまえさんたち、よその国から来たようだな。
+Based on what <Tiberius>
+said, I take it you’re not
+from this country?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さては……国許が送ってきた助っ人か。
+Well, well... Then might
+you be the aids sent by
+your native land?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、あなたが……
-シデン領の「若」ですか。
+Then you're... are you
+the "Prince of Shiden"?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そんなところだ。だが変だな。
-確か三人組と聞いていたが……
+I am as you say. However, I'm 
+certain I heard the aids were
+a group of just three people
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあいいさ、中に入るとしよう。
-ここで立ち話して、見つかるのもなんだ。
+Well, it doesn't matter. Let's go 
+inside. You'll certainly be 
+discovered if we stay out here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……だから、助っ人ってなんの事？
-話が全然見えないんだけど。
+Seriously, what are these "aids" 
+you keep talking about? I’m not
+following this conversation at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは……その……
+Well... that's... um...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そして俺は歌うのさ。
-あふれ出す魂のほとばしりを♪
+And I'll sing. And I'll sing♪
+about my soul overflowing♪
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Johnny>！
-こんなところで油を売っていたのか！
+<Johnny>! You've been
+selling oil in this place!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-あ、やべ。
+Oh, man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1384,18 +1409,18 @@ Please obtain <TAG_035> <x1A><x72><x0C><x80>,
 and deliver it as soon as you can.
 
 [ENDBLOCK]
-Good luck with the procurement!
+Good job, getting what I needed!
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald  after
+
 [ENDBLOCK]
-Reward
+You will receive <TAG_077> Gald
+after taking the difference
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>
-taking  the differnece for
-the payment advance.
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
 
 [ENDBLOCK]
 You're short the requested number of items.
@@ -1512,7 +1537,7 @@ Lienea
 [ENDBLOCK]
 Frostheim
 [ENDBLOCK]
-Sheeden
+Shiden
 [ENDBLOCK]
 Moreau
 [ENDBLOCK]
