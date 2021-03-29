@@ -3,17 +3,17 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>湧き水のバルブがある。
+<TAG_007>There's a spring water valve.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>切り替えますか？
-はい
-いいえ
+<TAG_007>Do you want to switch?
+Yes 
+No
 [ENDBLOCK]
-水を出しました。
+You let the water out.
 [ENDBLOCK]
-水を止めました。
+You turned the water off.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

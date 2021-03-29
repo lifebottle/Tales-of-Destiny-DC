@@ -3,26 +3,26 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>部屋の中が満水で、
-扉は開けられない。
+<TAG_007The room is full of water 
+and the door can't opened.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>扉は閉ざされている。
+<TAG_007>The door is closed.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>押している間だけ扉が開く
-スイッチのようだ。
+<TAG_007>It's a switch that opens the
+door only when it's pressed.
 [ENDBLOCK]
-扉が開く音がした。
+I heard the door open.
 [ENDBLOCK]
-扉が閉まる音がした。
+I heard the door close.
 [ENDBLOCK]
-扉が開く音がした。
+I heard the door open.
 [ENDBLOCK]
-扉が閉まる音がした。
+I heard the door close.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
