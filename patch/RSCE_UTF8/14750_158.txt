@@ -1,10 +1,11 @@
 select
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
-見えないキューブを溝にはめた！
+I got the invisible
+cube in the slot!
 [ENDBLOCK]
 notice
 [ENDBLOCK]

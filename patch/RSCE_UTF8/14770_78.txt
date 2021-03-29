@@ -1,21 +1,22 @@
 select
 [ENDBLOCK]
-<TAG_007>入り口へ戻りますか？
-はい
-いいえ
+<TAG_007>Return to entrance?
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>何かがつかえていて
-回らない。
+<TAG_007>Something is holding me
+back and I can't turn.
 
 [ENDBLOCK]
-<TAG_007>光が下まで届きましたが、
-紋章が完成していません。
+<TAG_007>The light has reached the bottom, 
+but the crest is not complete.
 [ENDBLOCK]
-<TAG_007>紋章に光が当りました。
+<TAG_007>The crest lit up.
 [ENDBLOCK]
-<TAG_007>クリスタルに光が当りました。
+<TAG_007>The crystal has
+been lit up.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -27,11 +28,12 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>紋章の欠片をはめました。
+<TAG_007>You inserted a 
+piece of the crest.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>紋章が完成しました。
+<TAG_007>The crest is now complete.
 [ENDBLOCK]
     <x17><x28><x82><x04><x14><x2F><x80> 
 
@@ -39,12 +41,13 @@ notice
     <x17><x28><x83><x04><x14><x2F><x80> 
 
 [ENDBLOCK]
-<TAG_007>紋章が完成しています。
+<TAG_007>The crest is complete.
 [ENDBLOCK]
-<TAG_007>何かをはめる枠があります。
+<TAG_007>There is a frame 
+to put something in.
 [ENDBLOCK]
-<TAG_007>紋章の欠片をはめる事が
-できるようです。
+<TAG_007>It seems you can fit 
+a piece of the crest.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
