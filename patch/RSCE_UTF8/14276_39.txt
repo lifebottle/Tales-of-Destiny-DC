@@ -533,22 +533,22 @@ CYRI_CAMERA_SIGHT = OFF
 <TAG_005>そびえる雪山の向こうが
 セインガルドなのだろうか。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器がそろってるよ。
 ゆっくり見ていってくれ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器がそろってるよ。
 ちゃっちゃと見ていってくれ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器がそろってるよ。
 ゆっくり見ていってくれ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器がそろってるよ。
 ちゃっちゃと見ていってくれ。
@@ -614,27 +614,27 @@ CYRI_CAMERA_SIGHT = OFF
 今は国家存亡の危機だ。
 王家といがみ合っている場合じゃない。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 悪い王さまが死んだんですってね。
 きっとばちが当たったのよ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 新しい王さまはいい人？	悪い人？
 悪い人なら、またばちが当たるわね。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 セインガルドは悪い国だったから、
 ばちが当たったの？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 ファンダリアにもばちが当たったの？
 悪い事したから？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 新しい王さまが空の上へ行って、
 悪者をやっつけてくれるんですって！
@@ -673,53 +673,51 @@ CYRI_CAMERA_SIGHT = OFF
 あの方なら、我々サイリルの人間も、
 安心してついていける気がする。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]

@@ -82,7 +82,7 @@
 うん、わかったけど、
 この人は？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 私はこの街に住む金持ち。
 この勝負のスポンサーです。
@@ -92,7 +92,7 @@
 スポンサー？
 なんですか、それ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 まあ、分かりやすく言うと、
 勝った方に商品を提供する人間です。
@@ -101,7 +101,7 @@
 [ENDBLOCK]
 へぇーでもどうして？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 まあ、金持ちになると
 暇ですから。
@@ -129,7 +129,7 @@
 ああ、構わない。
 ところでこの男はなんだ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 私はこの街に住む金持ち。
 この勝負のスポンサーです。
@@ -138,7 +138,7 @@
 [ENDBLOCK]
 スポンサー？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ええ。分かりやすく言うと、
 勝った方に商品を提供する人間ですね。
@@ -148,7 +148,7 @@
 なぜ、こんなかけっこ程度に資金を提供する。
 目的はなんだ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ははは、目的なんてありません。
 金持ちになって暇なだけですよ。
@@ -314,11 +314,11 @@ select
 [ENDBLOCK]
 ふーん逃げるんだ……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 勝負は二周で争われます。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 位置について、よーい。
 [ENDBLOCK]
@@ -329,7 +329,7 @@ select
 □□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
@@ -337,7 +337,7 @@ select
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
@@ -349,7 +349,7 @@ select
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
@@ -366,7 +366,7 @@ select
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
@@ -791,7 +791,7 @@ select
 [ENDBLOCK]
 仲良くやりなさいよ！
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 やあ、久しぶり！
 セインガルドはどうだった？
@@ -801,17 +801,17 @@ select
 なんの事だろうか。
 どなたかと勘違いしておられるのでは？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 何とぼけているんだよ。
 ほらほら、また話を聞かせてくれよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 本当に別人なのか？
 
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 これはすまない事をした。
 
@@ -826,31 +826,31 @@ select
 あなたが会ったという人は、
 それほど私と似ているのですか？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 ああ、そりゃ良く似ているよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 もし、彼を知っている人が見たら、
 そりゃ面白い反応をすると思うな。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 けど、彼は急いでいるみたいだったから、
 探し出すのは無理だと思うけどね。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 そうだ！	だったら彼の事を
 知っている人を探してみなよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 絶対にみんな、
 彼と勘違いするはずさ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
@@ -1259,35 +1259,35 @@ select
 娘ともう一度、日の光の下を
 歩ける日が来るといいのですが。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 アイスキャンディーって知ってる？
 この街の名物よ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 ママー！
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 <Kongman>が街を守ったっていうと、
 ママの機嫌が悪くなるの。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 オベロン社に文句をいう人が、
 このところ急に増えたんだって。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 空に影が出てきたわ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 お外がずっと夜だったら、
 日焼けしないで済むかな？
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 お外はいつ元に戻るの？
 [ENDBLOCK]
@@ -1371,17 +1371,17 @@ select
 [ENDBLOCK]
 太陽が見えるようにゴーだ！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 こいつと駆け足競争をしてみろよ。
 ただの子供だと思ってると、痛い目見るぜ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 こんな状況で賭け事をやるのかって？
 こんな状況だからやるんだよ。
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
 <ITEM_065>、<ITEM_066>、
 <ITEM_067>、<ITEM_068>、

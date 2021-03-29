@@ -147,140 +147,140 @@ select
 みなさん、そして陛下
 どうかよろしくお願いします！
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いらっしゃいませ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 街が活気にあふれていれば、
 商売も繁盛するってものさ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 この商売もいつまで続けられるか……
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いらっしゃいませ！
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いらっしゃいませ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 街が活気にあふれていれば、
 商売も繁盛するってものさ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 この商売もいつまで続けられるか……
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いらっしゃいませ！
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あ、ちょっと待っててね。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 どかーん！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ……どわっ！	こらこら、
 いたずらしてはいかんぞ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 あははっ！	
 ……えーと、何か用？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 どかーん！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ……どわっ！	こらこら、
 いたずらしてはいかんぞ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 お空の合間に、変なものが見えない？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 いつになったら朝が来るの？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 レンズが山になってて、すごいの。
 もう見た？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 レンズの山、なくなっちゃった。
 残念。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 いたずらしてはいかんぞ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 千年も昔に、あんな空中都市が
 作られていたなんて……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 我々は天地戦争という名の戦いに、
 敗れたという事なのか……？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 <Greybum>にも屈さなかった我らだ。
 今回も決して負けるものか。
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 へ、陛下！	私のような者に、
 お声をかけていただけるなんて……
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 ファンダリアは世界中で、
 最も歴史ある国のひとつです。
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 町並みにも、どこか気品と、
 伝統が感じられるでしょう？
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 空に浮かぶ影が、
 どんどん大きくなってますね。
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 セインガルドもああやって、
 地面がえぐられたんですね……
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 このまま滅びの時を待つしか、
 ないんでしょうか……
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 私たちの未来は陛下にかかっております。
 どうか……どうか……！
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
 私たちの未来を守って……
 お願い……！
@@ -330,53 +330,51 @@ select
 皆様が勝利を手にご帰還される、
 その有様が目に浮かびますぞ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -392,7 +390,7 @@ notice
 まるで街全体が、
 喪に服しているようですね……
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 殿下、よくご無事で。
 事情は承知致しております。

@@ -19,7 +19,7 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 やあ、久しぶり！
 セインガルドはどうだった？
@@ -29,17 +29,17 @@
 なんの事だろうか。
 どなたかと勘違いしておられるのでは？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 何とぼけているんだよ。
 ほらほら、また話を聞かせてくれよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 本当に別人なのか？
 
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 これはすまない事をした。
 
@@ -54,98 +54,98 @@
 あなたが会ったという人は、
 それほど私と似ているのですか？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 ああ、そりゃ良く似ているよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 もし、彼を知っている人が見たら、
 そりゃ面白い反応をすると思うな。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 けど、彼は急いでいるみたいだったから、
 探し出すのは無理だと思うけどね。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 そうだ！	だったら彼の事を
 知っている人を探してみなよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 絶対にみんな、
 彼と勘違いするはずさ。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 あれ、君と以前に会ったよね。
 んん、よく見ると違う……か？
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 あいつはもっと暗い感じ
 だったかな。
 [ENDBLOCK]
-若い母親
+Young Mother
 [ENDBLOCK]
 あれ、また来たの？
 [ENDBLOCK]
-若い母親
+Young Mother
 [ENDBLOCK]
 幼なじみが、早く
 見つかるといいわね。
 [ENDBLOCK]
-若い母親
+Young Mother
 [ENDBLOCK]
 これあげるから、
 頑張って！
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 七将軍には、女もいるんだ。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 熊みたいな女を想像したろ。
 ところが、貴族出身の綺麗な女なのさ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 わしの武器は天下一品じゃ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 非常時に武器は必需品じゃ。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 <Walt>には遺跡の宝を闇で売買して、
 巨額の富を得ているとの噂がある。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 あいつの家には貴重な財宝が、
 いくつも眠っているそうだ。
 
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 どうせ<Walt>は、自分だけ、
 安全な所へ逃げる気なんだろうな。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 この街じゃ、<Walt>が率先して、
 レンズを供出したんだ。
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 俺はあいつの事を、
 誤解していたのかもしれない……
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
 <Walt>にばかりいい顔はさせない。
 俺も頑張って村を守ってみせる。
@@ -228,53 +228,51 @@
 そうだなー、これからはずっと
 ２分以内でいいよ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

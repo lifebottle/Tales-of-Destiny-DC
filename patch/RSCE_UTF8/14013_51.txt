@@ -110,22 +110,22 @@
 強い奴がいればなぁ……
 俺じゃ、無理だよな……
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器を揃えてるぜ。
 見てってくんな。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 何が起こるかわからんご時世だ。
 備えはしっかりしないとな。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 いい武器を揃えてるぜ。
 見てってくんな。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 何が起こるかわからんご時世だ。
 備えはしっかりしないとな。
@@ -158,31 +158,31 @@
 こう日が陰っちまうと、
 野菜の成長が心配だねえ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 この辺をフラフラしてると、
 売れ残りをもらえるんだ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 それを持って帰って、
 みんなで食べるんだよ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 おなかすいたなあ……
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 変な船が港に乗りこんできて、
 神官みたいな人を乗せるのを見たよ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 最近、食べ物の売れ残りを、
 あまりもらえなくなったなあ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 <Kongman>、頼むよ！
 日の光を取り戻してくれ！
@@ -271,31 +271,31 @@
 がんばれ！	<Kongman>！
 マイティ！	マイティ！
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 物質的に満たされた人々が、
 精神的にも充足しているとは限りません。
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 今、この街に最も必要なのは、
 ストレイライズ神殿ですわ。
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 この街にも神殿があればいいのですが。
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 こんな時こそ神の教えを、
 街の人々に広めるべきなのですが。
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 これも神の与えたもうた、
 試練なのでしょうか……
 [ENDBLOCK]
-シスター
+Sister
 [ENDBLOCK]
 アタモニ神は必ずや、
 皆さんの前途を照らして下さいます。
@@ -321,53 +321,51 @@
 俺はどんな事があっても
 魚を売るぜ！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
 □フォグ割合：<x1D><x76><x00><x80> -> <x1D><x76><x04><x80>□
 
@@ -758,21 +756,21 @@ notice
 [ENDBLOCK]
 そんな……
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 そんな事ないよ！	お姉ちゃんが、
 僕たちに教えてくれたじゃないか！
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 大人は金持ちも貧乏もみんな、
 自分の事ばかりだ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 でも、僕たちは違うからね。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 そうだ！	僕たちが絶対に、
 この街を変えてみせるからね。
