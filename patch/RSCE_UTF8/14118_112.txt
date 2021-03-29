@@ -893,32 +893,32 @@ Boy
 英雄様のお通りかい？
 うちの果物、持っていってくれよ！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 王家の方々の安否がわかるまで、
 軽はずみな行動はさけなければ……
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 ジノ様……お守りできず、
 本当に申し訳ありません……！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 これからは<Fayte>様を盛り立てて、
 モリュウの栄光を取り戻します。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 <Fayte>様から下手に騒がず、
 冷静な態度を取るよういわれました。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 本音をいえば不安でいっぱいですが、
 黙って任務に励みますよ。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 世界を元通りにできるなら、
 どのような苦労もいといません。
@@ -1039,7 +1039,7 @@ Girl
 モンスターなんざ追い返してやるぜ。
 モリュウ男の根性、なめんなよ。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 おまえたち、どこから来た？
 密入国者だったらただではおかんぞ。
@@ -1068,33 +1068,33 @@ select
 はい
 いいえ
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 あの<Batista>とかいう代官、
 セインガルド人だったらしいです。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 領主になって早々、こんな事になって
 <Fayte>様もお気の毒に。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 こんな事で力になれるのであれば。
 船を使ってください。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 モリュウは死なず！	
 街の平和は守ってみせる！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 ぜひ船を使って下さい！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 シデンの民
 [ENDBLOCK]
@@ -1130,79 +1130,86 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Greybum>の姿は……見えないようですね。
+I don't see <Greybum>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あそこに立ってるのが、
-<Tiberius>大王か？
+Is that King <Tiberius>
+standing over there?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふーん、なんだか偉そうね。
+Hmmm, he’s kinda
+important looking.
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-大王陛下、お願い致します。
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-モリュウの民よ、間もなくだ！
-間もなくアクアヴェイルは統一される！
+Your Majesty, if you please.
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-その時こそ、我らが悲願を、
-いよいよ実行に移すのだ！
+People of Moreau, the time
+is upon us! Soon all of 
+Aquaveil shall be united!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-宿敵・セインガルドと、
-属国フィッツガルドを討ち果たさん！
+At that time, we will finally
+be able to realize our 
+deepest desires!
+[ENDBLOCK]
+<Tiberius>
+[ENDBLOCK]
+To defeat the enemy 
+nation Seinegald and 
+the vassal Fitzgald!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだって……！
+What did he say?!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-……そこの黒髪の男！
+You, the black-haired
+man over there!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……僕に言っているのか？
+...Are you talking to me?
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-貴様の持っている剣、それはなんだ！
-我が国の宝剣ではないか！
+What is that sword you're
+carrying? Is that not the 
+treasured sword of our land?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なんだと……？
+What...?
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-<Greybum>から話は聞いているぞ。
-貴様、<Lion>・マグナスだな！
+I heard the story from <Greybum>,
+You're <Lion> Magnus!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-よくもぬけぬけと、我が国に現れおって。
-だがそれが貴様の運の尽きだ！
+How dare you so brazenly 
+appear in our land! But your
+luck has come to an end!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やば……
-あたしたちの事、ばれてるわ。
+Yikes... looks like we
+were found out.
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-あの者どもを捕らえよ！
+Capture them!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんな、逃げろ！
+Everyone, run!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
