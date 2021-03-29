@@ -127,94 +127,96 @@ WALL_2なり!!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-体の方は大丈夫？
-ここでしっかり休んでいって。
+Are you hurt? Stay here
+and get some rest.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Would you like to rest?
+Yes
+No
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-フェイトを助けて、
-無事に帰ってきてね。
+Save <Fayte>, and come back safely.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ベイビー、助けに来たぜ。
+We've come to save you, baby.
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 <Johnny>!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-よう、<Rihanna>。
-元気にしてたかい？
+Hey, <Rihanna>.
+Are you doing okay?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>の姿は見えないな。
-さては別の牢屋か……
+I haven't seen <Fayte> yet. So I take
+it he's in a different prison?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-あなた、一体ここまで、
-どうやって……
+How in the world did
+you even get here...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-なあに、外からちょいとね。
+What, I just came
+in from outside.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-紹介しよう。
-モリュウ領次期領主の奥方だ。
+Allow me to introduce you. This is
+the wife of the next lord of Moreau.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺が来たからにはもう安心だ。
-あと少しだけ、ここで待ってな。
+You're safe now, I'm here. Please
+wait here just a little longer.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny>、あの人を……
+<Johnny>, that person...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ああ、任せときな。
-<Fayte>は必ず助けてみせる。
+Yes, just leave it all to me. I will
+without fail rescue <Fayte>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-私に何か、協力できる事が、
-あればいいのだけれど……
+I wish there was something
+I could do to help...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-そうだわ。ここには応急処置用の、
-道具が揃ってる。
+Oh! This cell has everything you
+need for treating your wounds.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-ケガをした時は、無理せず戻ってきて。
+When you're hurt, return here.
+Don't push yourself too much.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-無理はしなくていいぜ。
-<Rihanna>は先に城から脱出しな。
+I could say the same for you. You
+should escape from the castle first.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-あの人の無事な姿を見届けるまで、
-私はここに残ります。
+Until I see for myself that 
+he's safe, I will remain here.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……言っても聞かないか。
-ならさっさと用事を済ませるとしよう。
+You won't listen to anything
+I say, huh. Then we shall finish
+up here as quickly as we can.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
