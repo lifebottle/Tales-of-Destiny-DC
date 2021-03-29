@@ -292,86 +292,86 @@
 [ENDBLOCK]
 お願いだ、あたしらを助けておくれ！
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 いらっしゃい。
 ゆっくり見てってくれよ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 こんな遅くに買い物に来てくれる
 なんて、あんた上客だ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 たとえ何が起ころうと、
 店をたたむ事はしないよ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 いらっしゃい。
 ゆっくり見てってくれよ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 こんな遅くに買い物に来てくれる
 なんて、あんた上客だ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 たとえ何が起ころうと、
 店をたたむ事はしないよ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 最近モンスターが増えてるの。
 きっとよその国の人間のせいね。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 去年の日照りの季節に
 ママが死んじゃったの。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 それもみんな。
 あんたみたいなよそ者のせいよ。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 最近モンスターが増えてるの。
 きっとよその国の人間のせいね。
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 なんなの、あの空は……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 私たち、どうなってしまうの……
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 お願い、カルバレイスを……
 ううん、世界を救って！
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 よそ者でも金さえ払えば客だ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 何か必要な物はないか？
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 よそ者でも金さえ払えば客だ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 好きにしろ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 何か必要な物はないか？
 [ENDBLOCK]
@@ -544,53 +544,51 @@
 世界がどうなろうと
 俺には関係ないがな……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

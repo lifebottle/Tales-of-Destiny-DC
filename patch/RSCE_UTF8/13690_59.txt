@@ -25,7 +25,7 @@ select
 <TAG_007>何よ!!	乱暴な言い方するやつね
 なんですか？
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 む！	生意気な女め。
 [ENDBLOCK]
@@ -33,12 +33,12 @@ select
 [ENDBLOCK]
 あんたもね！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 おまえ……どこかで見た顔だな。
 確か……
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 強情な魔女！
 [ENDBLOCK]
@@ -46,7 +46,7 @@ select
 [ENDBLOCK]
 おしい！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 強欲の魔法！
 [ENDBLOCK]
@@ -54,7 +54,7 @@ select
 [ENDBLOCK]
 遠くなった！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 強盗の魔女！
 [ENDBLOCK]
@@ -62,7 +62,7 @@ select
 [ENDBLOCK]
 微妙！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 剛よく柔を制す！
 [ENDBLOCK]
@@ -70,7 +70,7 @@ select
 [ENDBLOCK]
 意味わかんないし。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 豪遊の魔女！
 [ENDBLOCK]
@@ -78,7 +78,7 @@ select
 [ENDBLOCK]
 それいいかも！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 魔女っ子<Rutee>！
 [ENDBLOCK]
@@ -86,7 +86,7 @@ select
 [ENDBLOCK]
 ちょっとかわいい！
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 <Rutee>・カトレット！
 [ENDBLOCK]
@@ -99,7 +99,7 @@ select
 [ENDBLOCK]
 ……疲れた。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 おっ！	そうかそうか。
 それじゃあな、強欲の魔女さん。
@@ -109,7 +109,7 @@ select
 フフフ、<Rutee>が
 遊ばれるなんて珍しいわね。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 おや、違うのか？
 [ENDBLOCK]
@@ -117,7 +117,7 @@ select
 [ENDBLOCK]
 な、何？
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 人違いだったようだ。
 引き止めて悪かったな。
@@ -717,7 +717,7 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 <Queen>！	ご無事でございましたか！
 [ENDBLOCK]
@@ -754,7 +754,7 @@ notice
 まさか、神の眼を強奪する際に、
 城内の注意をそらすための……？
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 よかった。
 まだいらっしゃった。
@@ -763,12 +763,12 @@ notice
 [ENDBLOCK]
 どうしました？
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 <Queen>が助けてくれた
 お礼に、これをあなた方にと。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 受け取ってください。<x00>
 [ENDBLOCK]
