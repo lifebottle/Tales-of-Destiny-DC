@@ -16,35 +16,35 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-さあ、どこに行く？
+Hello, where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80>
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
-すまねぇ
-水門がふさがってて通れないな。
+Sorry. The floodgates are
+blocked. I can't get through.
 [ENDBLOCK]
 いどうできる
 
@@ -61,209 +61,212 @@
 aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
 
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-あなたは！
+You are!
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-え～～っと、
-誰でしたかな？
+Let's see ...who was it?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-すまんの。最近モノ忘れが
-酷くての。
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-構いません。
-私は<Johnny>と言います。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-ほう、シデンのドラ息子と
-同じ名前じゃの。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-ところで、わしに何か用ですかな？
+I'm sorry. I've been
+forgetting things 
+a lot lately.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-探し物をしていまして、
-以前、モリュウで楽器を
-譲り受けた事はないですか？
+No problem. My name
+is <Johnny>.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-おー、前に船頭さんに
-御願いして譲り受けましたの。
+Oh, that's the same name
+as Shiden's mucisian son.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+By the way, what can I do for you?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-実はその楽器を譲って頂けないかと
-思いまして、ここまで来ました。
+I've been looking for something, 
+have you ever given away an 
+instrument in the mortuary before?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-すまんのー。実はある男のために
-あの楽器を貰ったのじゃ。
+Oh, I asked Mr. Ferryman for
+it before and he gave it to me.
 [ENDBLOCK]
-おじいさん
+<Johnny>
 [ENDBLOCK]
-その男は音楽の才があったでな。
+Actually, I came here to see if you
+could give me that instrument.
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-じゃから、楽器はその男が
-持っておるぞ。
+I'm sorry. I was actually given 
+that instrument to another man.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+The man had a talent for music.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+So, the man has the instrument.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その人の名前は、
-なんて言うんですか？
+What's the man's name?
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
-あれ？	なんじゃったかな？
-この歳になると忘れっぽくての。
+Huh? What was it? At my age,
+I tend to forget things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-困ったなー。
+That's a problem.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-仕方ないさ。これ以上はどうしようもない。
-一旦、俺の家に戻ろう。
+I don't have a choice. There's
+nothing more we can do. Let's
+just go back to my place.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+Yes, it is.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-水門を開かないと城に潜入はできません。
-水門を開放してきてもらえませんか？
+We can't sneak into the castle without
+opening the floodgates. Can you
+please go and open the floodgates?
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>戒厳令が敷かれましたので、
-住民の皆さんは軍部の指示に従って下さい。
+<TAG_005>Martial law has been 
+declared, and all residents are 
+asked  to follow the instructions
+of the military.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-船の準備はできています。
-いつでも出発できますよ。
-[ENDBLOCK]
-Item Shop
-[ENDBLOCK]
-おんや、異国の客とは珍しいのお。
+The ship is ready.
+We can leave at any time.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-最近は異国の客も、
-珍しくなくなったのお。
+Oh, it's unusual to have a 
+guest from another country.
 [ENDBLOCK]
-少年
+Item Shop
+[ENDBLOCK]
+It's not uncommon to have visitors
+from other countries these days.
+[ENDBLOCK]
+Boy
 [ENDBLOCK]
 一番のわるものは逃げたって本当？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 空に浮かんでるのはなに？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうして夜じゃないのに暗いの？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ぼくたち、きっと助かるよね？
 だいじょうぶだよね？	ね！
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 <Tiberius>は倒れたが、
 これから先が大変だな。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 国土を踏みにじられた屈辱を、
 モリュウの人々は忘れないだろうな……
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 嫌な話だが、この騒ぎのお陰で、
 モリュウの人々の矛先がそれるな。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 モリュウだ、トウケイだと、
 言ってられない状況になったな……
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 レンズはセインガルドに集めるのか。
 あの国を信用して大丈夫なのか？
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 頼んだぜ、英雄さんたち！
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 トウケイばんざーい、ばんざーい！
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 これからは住みやすい街になるって、
 パパとママが言ってたわ。
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 お空のお屋根は穴ぼこだらけ～♪
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 お空のお屋根が閉じちゃったら、
 お日さまはどうなっちゃうの？
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 レンズ、レンズ、レンズ～♪
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 がんばってねえ～。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 モリュウ領の新領主とシデン領の若が、
 共闘して大王を倒したそうじゃな。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 今回の事を機に、セインガルドとも
 仲良くしてほしいもんじゃ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 天地戦争じゃと？	わしらはもう、
 戦いなど望んでおらんのに。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 孫の将来を考えると、
 不安でたまりませんですじゃ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 セインガルドと協力するようになるとは
 時代は変わりましたのう。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 孫の将来のためにも、
 よろしく頼みますじゃ。
@@ -320,38 +323,38 @@ Woman
 人が作った物であれば、
 人に壊せぬ道理はないですよね。
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
 へい、いらっしゃい！
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
 めでたいねえ。値段はまけないけど、
 笑顔をサービスするよ！
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
 とんでもない事になったね……
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-船の準備はできています。
-いつでも出発できますよ。
+The ship is ready. We can
+leave at any time.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-恩に着るぜ。
+I'm in your debt.
 [ENDBLOCK]
-きっといつか、
-この日が来ると信じておりました。
+I believed that, this
+day would come.
 [ENDBLOCK]
-ご武運をお祈りしております。
+I wish you the best of luck.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>船を出しますか？
-はい
-いいえ
+<TAG_007>Shall I send a ship?
+Yes
+No
 
 [ENDBLOCK]
 notice
