@@ -125,11 +125,12 @@ WALL_2なり!!
 ここはおよみにおなりでございますでしょうかね
 
 [ENDBLOCK]
-鍵を開けました。
+I unlocked the door.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-反対側から鍵がかけられているようだ。
+It appears to be locked
+from the other side.
 [ENDBLOCK]
 開始：<x1D><x76><x04><x80>, 目標：<x1D><x76><x08><x80>
 
