@@ -153,77 +153,83 @@ select
 <x17><x69><x49><x90><x80>
 
 [ENDBLOCK]
-太鼓をたたきますか？
+Do you want to play the drums?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そっちの太鼓の前に立つんだ。
+Stand in front of that
+drum over there.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-もう一度挑戦するなら
-太鼓の前に立つんだ。
+If you want to try again,
+stand in front of the drum.
 [ENDBLOCK]
 連打終了PT算出	<x17><x71><x49><x38><x80> <x17><x71><x49><x38><x24><x14><x89><x80>
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-結果発表
-満点:	<x17><x71><x49><x18><x80>ポイント
-合格:	<x17><x71><x49><x18><x3C><x9A><x99><x19><x3F><x88><x08><x99><x36><x00><x80>ポイント
-得点:	<x17><x71><x48><x5C><x80>ポイント
+Results
+Perfect Score: <x17><x71><x49><x18><x80> Points
+Passing Score: <x17><x71><x49><x18><x3C><x9A><x99><x19><x3F><x88><x08><x99><x36><x00><x80> Points
+Points Earned: <x17><x71><x48><x5C><x80> Points
 
 [ENDBLOCK]
-もう一度
-太鼓をたたきますか？
+Do you want to play
+the drums again?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-太鼓が邪魔で先に進めませんね。
+These drums are in the way,
+so we can't go forward.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-太鼓の前に立つんだ、<Stahn>。
+Stand in front of a drum, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-太鼓の前に？
-どうしてですか<Johnny>さん？
+In front of one? 
+Why, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-モリュウ城に古くから伝わる仕掛けだ。
-石像に合わせて太鼓をたたくのさ。
+There are traps and mechanisms 
+passed down from ancient times in
+Moreau Castle. Now, beat the drum
+according to those stone statues.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よく分からないけど、
-そういう事なら……
+I don’t really get it,
+but if you say so...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-目の前の石像が太鼓をたたきます。
-二体の石像がたたくタイミングに合わせて
-<Stahn>と<Johnny>に太鼓をたたかせましょう。
+The stone statues will beat the
+drums. Try to get <Stahn> and <Johnny>
+to beat their drums in time with them.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Stahn>の太鼓をたたくには<Circle_ani>を、
-<Johnny>の太鼓をたたくには<Left_blink>を押してください。
-ポイントは石像の動きを良く見る事です。
+Beat <Stahn>'s drum with the <Circle_ani>
+button, and <Johnny>'s with the <Left_blink>
+button. You will earn points by 
+following the statues carefully.
 [ENDBLOCK]
-太鼓をたたきますか？
+Do you want to play the drums?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-どうした、太鼓をたたかないのか？
+What's the matter, you don't
+want to play the drums?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-このまま部屋を出ますか？
-出る
-出ない
+Do you want to leave the room?
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
