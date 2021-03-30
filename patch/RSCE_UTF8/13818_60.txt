@@ -556,27 +556,28 @@ Thank you so much!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Philia>？	こんな遅い時間に、
-おまえ、何やってるんだ。
+<Philia>? What are you 
+doing at this late hour?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、<Batista>。
-ちょっと調べ物が長引いて……
+Ah, <Batista>. My investigations
+dragged on a little bit.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-まったく、グズな奴だな。
-……仕方ねえ。俺も手伝ってやる。
+Jeez, what a slow girl. 
+...Well, no matter. I'll help
+you, as well.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>……ありがとう。
+<Batista>... thank you.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-おまえに任せてると、
-夜が明けそうだからな。
+If I leave it to you, you'll
+be here until dawn.
 [ENDBLOCK]
 disp object ---> <TAG_031>
 
