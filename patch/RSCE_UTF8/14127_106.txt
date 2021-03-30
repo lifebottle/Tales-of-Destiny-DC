@@ -224,79 +224,83 @@ No
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ああ、犯人の事なら聞いたよ。
-でも事件のあった時間にあの子は
-この家の下で猫と遊んでいたぜ。
+Yeah, I heard about the death.
+But she was playing with her cat
+under the house at that time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ここでシデンの服装をしている奴は
-目立つから間違いないはずだ。それに
-でかい声で猫に話しかけていたからな。
+The guy that's dressed in
+Shiden gear. I'm sure he'll stand
+out. Besides he was talking 
+to the cat in a big voice.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-猫と本気でしゃべれるのかな？
+Can he really talk to a cat?
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-女の子だろ？	ああ、事件のあった
-時間に買い物に来ていたよ。
+It was a girl? Yeah, I was
+at the store at that time.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-随分と長い間迷っていてな、
-決まったと思って商品を包んだら、
-やっぱり別のにすると言うんだ。
+He was looking for quite a while, and
+when I thought he made up his mind
+and started to wrap the product, he
+said he wanted something different.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-そんな事を何度も繰り返したから
-よく覚えているよ。
+I remember it well, because I've done 
+it so many times.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-先日の事だが、港の魚屋で
-騒いでいた女の子を見かけたんだ。
+The other day, I saw a girl causing a
+scene in the fish shop at the harbor.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-何となく気になったが、
-まっすぐこの宿屋に帰って来たのだ。
+I was kind of curious, so I came
+straight back to this inn.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-帰ってすぐにそこの障子を開けると、
-港にいたはずのその子が
-武器屋の傍の家から出てきたんだ。
+As soon as I got home, I opened the
+sliding door and there was the girl,
+who was supposed to be at the port.
+Came from near the weapons shop.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-この街には誰にも知られていない
-秘密の通路などないはず。
-まったく不思議なものだ。
+No one know of a secret passage 
+in this city. It's a mystery.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-犯人がわかったのですか!?
-はい
-いいえ
+Did you find the culprit?
+Yes
+No
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では、中に入って<Fayte>様に
-説明をお願いします。
+Now please go inside
+and brief <Fayte> on
+the situation.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-そうですか……犯人がわかったら
-また来てください。
+I see... Well, when you do find
+the culprit, please come back.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
+Would you like to hear
+about the case?
+Yes
+No
 [ENDBLOCK]
 肉を販売する人
 [ENDBLOCK]
@@ -704,18 +708,20 @@ Girl
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-皆さん、船の上とはいえ
-何が起こるか分かりません。
+I don't know what'll
+happen when we're on
+the ship. 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-準備だけは怠らないで下さい。
+Don't be lazy with
+your preparations.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>出航しますか？
-はい
-いいえ
+<TAG_007>Board the ship?
+Yes
+No
 [ENDBLOCK]
 モリュウ兵
 [ENDBLOCK]

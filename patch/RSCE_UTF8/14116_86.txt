@@ -208,66 +208,58 @@ Based on the testimony of the
 attacked soldier and witnesses.
 We arrived at that girl.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-しかし、事件のおきた時間に
-あの子を見たというアリバイ証言も
-実はあるのです。
+However, I have an
+alibi that I saw the girl at
+the time of the incident.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-だから<Fayte>様は皆さんに
-時間をお与えになったのだと思います。
+I think that's why Master Fayte 
+gave you all this time.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-長い話になりますが、
-事件のあらましをお聞きになりますか？
-はい
-いいえ
+It's a long story. Would 
+you like to hear a synopsis?
+Yes
+No
 
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ああ、犯人の事なら聞いたよ。
-でも事件のあった時間にあの子は
-この家の下で猫と遊んでいたぜ。
+Yeah, I heard about the death.
+But she was playing with her cat
+under the house at that time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ここでシデンの服装をしている奴は
-目立つから間違いないはずだ。それに
-でかい声で猫に話しかけていたからな。
+The guy that's dressed in
+Shiden gear. I'm sure he'll stand
+out. Besides he was talking 
+to the cat in a big voice.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-猫と本気でしゃべれるのかな？
+Can he really talk to a cat?
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-女の子だろ？	ああ、事件のあった
-時間に買い物に来ていたよ。
+It was a girl? Yeah, I was
+at the store at that time.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-随分と長い間迷っていてな、
-決まったと思って商品を包んだら、
-やっぱり別のにすると言うんだ。
+He was looking for quite a while, and
+when I thought he made up his mind
+and started to wrap the product, he
+said he wanted something different.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-そんな事を何度も繰り返したから
-よく覚えているよ。
-[ENDBLOCK]
-武士
-[ENDBLOCK]
-先日の事だが、港の魚屋で
-騒いでいた女の子を見かけたんだ。
-[ENDBLOCK]
-武士
-[ENDBLOCK]
-何となく気になったが、
-まっすぐこの宿屋に帰って来たのだ。
+I remember it well, because I've done 
+it so many times.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
@@ -287,21 +279,23 @@ you like to hear a synopsis?
 Yes
 No
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では、中に入って<Fayte>様に
-説明をお願いします。
+Now please go inside
+and brief <Fayte> on
+the situation.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-そうですか……犯人がわかったら
-また来てください。
+I see... Well, when you do find
+the culprit, please come back.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
+Would you like to hear
+about the case?
+Yes
+No
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
