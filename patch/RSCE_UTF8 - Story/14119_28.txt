@@ -332,81 +332,87 @@ even if some time has passed.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-いらっしゃいませ。
+Welcome.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-いらっしゃい。ご用向きは何でしょう？
+Welcome. What are 
+you looking for?
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-いらっしゃい。ご用向きは何でしょう？
+Welcome. What are 
+you looking for?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-今、街はとんでもない状態だ。
-泊まるのはおすすめしませんが……
+The city is in turmoil right now. 
+I wouldn't recommend staying, but...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃい！	いい部屋があるよ。
+Welcome. I have a 
+nice room for you.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-外はこんな有様だが、泊まるかい？
+It's a jungle out there. 
+Do you want to stay?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-あんたたちのような人に
-泊まってもらえるなら光栄だよ。
+For you guys, I would be honored
+if you were to stay with us.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お泊りになりますか？
+Would you like to stay?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Have a nice day.
 [ENDBLOCK]
-いつでもどうぞ。
+Come by anytime you'd like.
 [ENDBLOCK]
-いってらっしゃいませ。
+Welcome.
 [ENDBLOCK]
-お金がたりません。
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-今、街はとんでもない状態です。
-泊まるのはおすすめしませんが……
+You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃい！	いい部屋があるよ。
+The city is in turmoil right now. 
+I wouldn't recommend staying, but...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-外はこんな有様だが、どうする？
+Welcome. I have a 
+nice room for you.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-あんたたちのような人に
-泊まってもらえるなら光栄だよ。
+It's a jungle out there. 
+Do you want to stay?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お泊りになりますか？
+For you guys, I would be honored
+if you were to stay with us.
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+Innkeeper
 [ENDBLOCK]
-ごゆっくり。
+Would you like to stay?
 [ENDBLOCK]
-いつでもどうぞ。
+ Gald.
+Is that okay?
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a nice day.
 [ENDBLOCK]
-お金がたりません。
+Come by anytime you'd like.
+[ENDBLOCK]
+Welcome.
+[ENDBLOCK]
+You don't have enough Gald.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
