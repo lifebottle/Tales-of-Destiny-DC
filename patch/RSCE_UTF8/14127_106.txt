@@ -1,362 +1,9 @@
-オブジェクト操作モード開始
-Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
-
-[ENDBLOCK]
-オブジェクト操作開始
-
-[ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
-
-[ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
-
-[ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
-
-[ENDBLOCK]
-オブジェクト操作モード終了
-[ENDBLOCK]
-オブジェクト操作終了
-
-[ENDBLOCK]
-オブジェクト再選択
-
-[ENDBLOCK]
-ステータス選択
-
-[ENDBLOCK]
-フォグステータス
-[ENDBLOCK]
-<TAG_007>フォグ始点距離：<D_FOG_START>
-フォグ終点距離：<D_FOG_END>
-始点のフォグ率：<D_FOG_RATE_START>
-終点のフォグ率：<D_FOG_RATE_END>
-フォグカラー赤：<D_FOG_COLOR_R>
-フォグカラー緑：<D_FOG_COLOR_G>
-フォグカラー青：<D_FOG_COLOR_B>
-
-[ENDBLOCK]
-<TAG_069>のステータス
-[ENDBLOCK]
-座標(x) = <D_COORD_X>
-座標(y) = <D_COORD_Y>
-座標(z) = <D_COORD_Z>
-色値(赤) = <D_COLOR_R>
-色値(緑) = <D_COLOR_G>
-色値(青) = <D_COLOR_B>
-色値(α) = <D_COLOR_A>
-拡大率(x) = <D_ZOOM_X>
-拡大率(y) = <D_ZOOM_Y>
-拡大率(z) = <D_ZOOM_Z>
-拡大率(a) = <D_ZOOM_A>
-角度(x) = <D_ANGLE_X>
-角度(y) = <D_ANGLE_Y>
-角度(z) = <D_ANGLE_Z>
-
-[ENDBLOCK]
-座標(x) = <D_COORD_X>
-座標(y) = <D_COORD_Y>
-座標(z) = <D_COORD_Z>
-色値(赤) = <D_COLOR_R>
-色値(緑) = <D_COLOR_G>
-色値(青) = <D_COLOR_B>
-色値(α) = <D_COLOR_A>
-拡大率(x) = <D_ZOOM_X>
-拡大率(y) = <D_ZOOM_Y>
-拡大率(z) = <D_ZOOM_Z>
-拡大率(a) = <D_ZOOM_A>
-角度(x) = <D_ANGLE_X>
-角度(y) = <D_ANGLE_Y>
-角度(z) = <D_ANGLE_Z>
-
-[ENDBLOCK]
-空
-[ENDBLOCK]
-<grey1>空（存在しません）</color>
-[ENDBLOCK]
-外殻
-[ENDBLOCK]
-<grey1>外殻（存在しません）</color>
-[ENDBLOCK]
-雲１
-[ENDBLOCK]
-<grey1>雲１（存在しません）</color>
-[ENDBLOCK]
-雲２
-[ENDBLOCK]
-<grey1>雲２（存在しません）</color>
-[ENDBLOCK]
-オブジェクト選択
-[ENDBLOCK]
-<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
-<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
-<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
-<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
-
-[ENDBLOCK]
-<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
-
-[ENDBLOCK]
-ステータス選択
-[ENDBLOCK]
-座標
-色値
-拡大率
-角度
-
-[ENDBLOCK]
-<TAG_073>, <TAG_072>
-
-[ENDBLOCK]
-空
-[ENDBLOCK]
-外殻
-[ENDBLOCK]
-雲１
-[ENDBLOCK]
-雲２
-[ENDBLOCK]
-不正なオブジェクト
-[ENDBLOCK]
-過去の座標(x)→<TAG_078>
-
-[ENDBLOCK]
-現在の座標(x)→<TAG_078>
-
-[ENDBLOCK]
-過去の座標(x)→<TAG_078>
-
-[ENDBLOCK]
-現在の座標(x)→<TAG_078>
-
-[ENDBLOCK]
-過去の座標(z)→<TAG_080>
-
-[ENDBLOCK]
-現在の座標(z)→<TAG_080>
-
-[ENDBLOCK]
-過去の座標(z)→<TAG_080>
-
-[ENDBLOCK]
-現在の座標(z)→<TAG_080>
-
-[ENDBLOCK]
-過去の座標(y)→<TAG_079>
-
-[ENDBLOCK]
-現在の座標(y)→<TAG_079>
-
-[ENDBLOCK]
-過去の座標(y)→<TAG_079>
-
-[ENDBLOCK]
-現在の座標(y)→<TAG_079>
-
-[ENDBLOCK]
-<TAG_054>の座標
-[ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-座標(x) = <TAG_078>
-座標(y) = <TAG_079>
-座標(z) = <TAG_080>
-加算 = <TAG_051>
-
-[ENDBLOCK]
-番号（<TAG_033>）：座標(x) = <TAG_078>
-座標(y) = <TAG_079>
-座標(z) = <TAG_080>
-
-[ENDBLOCK]
-加算変更→<TAG_050>
-
-[ENDBLOCK]
-加算変更→<TAG_050>
-
-[ENDBLOCK]
-過去の色値(赤)→<TAG_036>
-
-[ENDBLOCK]
-現在の色値(赤)→<TAG_036>
-
-[ENDBLOCK]
-過去の色値(赤)→<TAG_036>
-
-[ENDBLOCK]
-現在の色値(赤)→<TAG_036>
-
-[ENDBLOCK]
-過去の色値(緑)→<TAG_037>
-
-[ENDBLOCK]
-現在の色値(緑)→<TAG_037>
-
-[ENDBLOCK]
-過去の色値(緑)→<TAG_037>
-
-[ENDBLOCK]
-現在の色値(緑)→<TAG_037>
-
-[ENDBLOCK]
-過去の色値(青)→<TAG_038>
-
-[ENDBLOCK]
-現在の色値(青)→<TAG_038>
-
-[ENDBLOCK]
-過去の色値(青)→<TAG_038>
-
-[ENDBLOCK]
-現在の色値(青)→<TAG_038>
-
-[ENDBLOCK]
-過去の色値(α)→<TAG_039>
-
-[ENDBLOCK]
-現在の色値(α)→<TAG_039>
-
-[ENDBLOCK]
-過去の色値(α)→<TAG_039>
-
-[ENDBLOCK]
-現在の色値(α)→<TAG_039>
-
-[ENDBLOCK]
-<TAG_054>の色値
-[ENDBLOCK]
-※128が標準の色値です
-番号（<TAG_033>）、人番号（<TAG_034>）
-色値(赤) = <TAG_036>
-色値(緑) = <TAG_037>
-色値(青) = <TAG_038>
-色値(α) = <TAG_039>
-
-[ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-色値(赤) = <TAG_036>
-色値(緑) = <TAG_037>
-色値(青) = <TAG_038>
-色値(α) = <TAG_039>
-
-[ENDBLOCK]
-過去の拡大率(x)→<TAG_040>
-
-[ENDBLOCK]
-現在の拡大率(x)→<TAG_040>
-
-[ENDBLOCK]
-過去の拡大率(x)→<TAG_040>
-
-[ENDBLOCK]
-現在の拡大率(x)→<TAG_040>
-
-[ENDBLOCK]
-過去の拡大率(y)→<TAG_041>
-
-[ENDBLOCK]
-現在の拡大率(y)→<TAG_041>
-
-[ENDBLOCK]
-過去の拡大率(y)→<TAG_041>
-
-[ENDBLOCK]
-現在の拡大率(y)→<TAG_041>
-
-[ENDBLOCK]
-過去の拡大率(z)→<TAG_042>
-
-[ENDBLOCK]
-現在の拡大率(z)→<TAG_042>
-
-[ENDBLOCK]
-過去の拡大率(z)→<TAG_042>
-
-[ENDBLOCK]
-現在の拡大率(z)→<TAG_042>
-
-[ENDBLOCK]
-過去の拡大率(a)→<TAG_043>
-
-[ENDBLOCK]
-現在の拡大率(a)→<TAG_043>
-
-[ENDBLOCK]
-過去の拡大率(a)→<TAG_043>
-
-[ENDBLOCK]
-現在の拡大率(a)→<TAG_043>
-
-[ENDBLOCK]
-<TAG_054>の拡大率
-[ENDBLOCK]
-※4096が標準のサイズです
-番号（<TAG_033>）、人番号（<TAG_034>）
-拡大率(x) = <TAG_040>
-拡大率(y) = <TAG_041>
-拡大率(z) = <TAG_042>
-拡大率(a) = <TAG_043>
-
-[ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-拡大率(x) = <TAG_040>
-拡大率(y) = <TAG_041>
-拡大率(z) = <TAG_042>
-拡大率(a) = <TAG_043>
-
-[ENDBLOCK]
-過去の角度(x)→<TAG_044>
-
-[ENDBLOCK]
-現在の角度(x)→<TAG_044>
-
-[ENDBLOCK]
-過去の角度(x)→<TAG_044>
-
-[ENDBLOCK]
-現在の角度(x)→<TAG_044>
-
-[ENDBLOCK]
-過去の角度(y)→<TAG_045>
-
-[ENDBLOCK]
-現在の角度(y)→<TAG_045>
-
-[ENDBLOCK]
-過去の角度(y)→<TAG_045>
-
-[ENDBLOCK]
-現在の角度(y)→<TAG_045>
-
-[ENDBLOCK]
-過去の角度(z)→<TAG_046>
-
-[ENDBLOCK]
-現在の角度(z)→<TAG_046>
-
-[ENDBLOCK]
-過去の角度(z)→<TAG_046>
-
-[ENDBLOCK]
-現在の角度(z)→<TAG_046>
-
-[ENDBLOCK]
-<TAG_054>の回転角度
-[ENDBLOCK]
-※360度＝4096です
-番号（<TAG_033>）、人番号（<TAG_034>）
-角度(x) = <TAG_044>
-角度(y) = <TAG_045>
-角度(z) = <TAG_046>
-
-[ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-角度(x) = <TAG_044>
-角度(y) = <TAG_045>
-角度(z) = <TAG_046>
-
-[ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 半径だ<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
 
@@ -573,7 +220,7 @@ It's a long story. Would
 you like to hear a synopsis?
 Yes
 No
-
+ 
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -639,7 +286,7 @@ No
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Now please go inside
+Now please go inside 
 and brief <Fayte> on
 the situation.
 [ENDBLOCK]
@@ -846,161 +493,176 @@ Produce Merchant
 [ENDBLOCK]
 Yo, hang in there!
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-トウケイの奴らめ……
-この恨みは一生忘れないぞ。
+Those guys from Terazzi,
+I'll never forget this grudge.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-私は今までセインガルドを
-ずっと敵視してきた。
+I have always viewed 
+Seinegald as an enemy.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-今はその対象がトウケイに変わった。
-無理もないだろう？
+Now, that object has 
+changed to Terazzi, 
+It's not unreasonable,
+is it?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-セインガルドの巨大会社のトップが、
-今回の絵を描いていると聞いた。
+I heard that the head of
+a huge company in Seinegald 
+as working on this painting.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-そのトップが、セインガルド王家に
-操られているという事はないか？
+Isn't it possible that its head
+is being manipulated by the 
+royal family of Seinegald?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-オベロン社なんてものに甘くするから、
-こんな事になったんじゃないのか？
+Isn't this what happens
+when you go soft on things
+like Oberon Corporation?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-英雄様のお通りかい？
-うちの果物、持っていってくれよ！
+Is the hero on his way? Why don't
+you take some of my fruit!
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-トウケイの奴らめ……
-この恨みは一生忘れないぞ。
+Those guys from Terazzi,
+I'll never forget this grudge.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-私は今までセインガルドを
-ずっと敵視してきた。
+I have always viewed 
+Seinegald as an enemy.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-今はその対象がトウケイに変わった。
-無理もないだろう？
+Now, that object has 
+changed to Terazzi, 
+It's not unreasonable,
+is it?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-セインガルドの巨大会社のトップが、
-今回の絵を描いていると聞いた。
+I heard that the head of
+a huge company in Seinegald 
+as working on this painting.
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-そのトップが、セインガルド王家に
-操られているという事はないか？
+Isn't it possible that its head
+is being manipulated by the 
+royal family of Seinegald?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-オベロン社なんてものに甘くするから、
-こんな事になったんじゃないのか？
+Isn't this what happens
+when you go soft on things
+like Oberon Corporation?
 [ENDBLOCK]
-果物を販売する人
+Fruit Merchant
 [ENDBLOCK]
-英雄様のお通りかい？
-うちの果物、持っていってくれよ！
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-王家の方々の安否がわかるまで、
-軽はずみな行動はさけなければ……
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-ジノ様……お守りできず、
-本当に申し訳ありません……！
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-これからは<Fayte>様を盛り立てて、
-モリュウの栄光を取り戻します。
+Is the hero on his way? Why don't
+you take some of my fruit!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Fayte>様から下手に騒がず、
-冷静な態度を取るよういわれました。
+Until we know the safety
+of the royal family, we just
+avoid any rash actions.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-本音をいえば不安でいっぱいですが、
-黙って任務に励みますよ。
+Dear Gino, I am so sorry for not
+being able to protect you.....!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-世界を元通りにできるなら、
-どのような苦労もいといません。
+From now on, I'll support <Fayte>
+and bring back the glory of Moreau.
 [ENDBLOCK]
-Kid
+Soldier
 [ENDBLOCK]
-あ！	お歌の上手なお兄さんだ。
+<Fayte> advised me not to make a 
+fuss, and to keep a cool head.
 [ENDBLOCK]
-Kid
+Soldier
 [ENDBLOCK]
-ひらひらをいっぱいつけたお兄さんが、
-歌っているのを見たよ。
+Too tell you the truth, I'm overflowing 
+with anxiety, but I'll shut up and do
+my job.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I'm willing to go through anything, if 
+I can put the world back together.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Oh! It's the guy tha sings well.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I saw when you were 
+fluttering and singing.
 
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-僕、知ってるよ。
-お兄さんってシデン領の若さまでしょ。
+I know you. Your friend is the
+young Prince of Shiden, isn't  he?
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-ひらひらをつけたお兄さん、
-シデン領の若さまだったんだって。
+He said that the friend with the
+flutter style, was the young Prince
+of the Shiden territory.
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-<Fayte>さま、ばんざーい。
+Hey <Fayte>, hooray!
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-お空に浮かんでるの、なーに？
+What's that floating in the sky?
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-あれえ？	いつ夜になったんだろ？
+What? Is it really nighttime?
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-ひらひらの若さま、かっこいいよ！
-がんばってね！
+Young Prince, you're so cool!
+Keep up the good work!
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-がんばってね！
-[ENDBLOCK]
-Girl
-[ENDBLOCK]
-同じアクアヴェイルなのに、
-どうしてトウケイ領とケンカするの？
+Keep up the good work!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Fayte>さまがいれば、
-きっとみんなと仲良くできるわよね。
+Why are we fighting the
+Terazzi territory? We are
+both a part of Aquaveil.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-妙な放送に空の影……
-こわくてたまらないわ……
+With <Fayte> here, I'm sure you'll
+get along with everyone. 
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Shadows cast from the sky
+during that strange voice. 
+I'm scared out of my mind.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -1012,52 +674,52 @@ Girl
 私たち、まだ負けてないのね。
 やった！
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 船の出入りを制限されてて、
 売りもんの魚が入ってこないんだ。
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 また商売ができるようになった。
 <Fayte>様、ばんばんざいだ！
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 あの空の影、まるで意志を持って
 増えてるみたいだな……
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 空が全部ふさがっちまった。
 これからどうすりゃいいんだ？
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 モンスターなんざ追い返してやるぜ。
 モリュウ男の根性、なめんなよ。
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 船の出入りを制限されてて、
 売りもんの魚が入ってこないんだ。
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 また商売ができるようになった。
 <Fayte>様、ばんばんざいだ！
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 あの空の影、まるで意志を持って
 増えてるみたいだな……
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 空が全部ふさがっちまった。
 これからどうすりゃいいんだ？
 [ENDBLOCK]
-Fish Seller
+魚を販売する人
 [ENDBLOCK]
 モンスターなんざ追い返してやるぜ。
 モリュウ男の根性、なめんなよ。
@@ -1121,120 +783,37 @@ Soldier
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 若、ご無事なお戻り、何よりです！
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 君たちは一体何者だい？
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 <Rihanna>様のお美しさときたら、もう！
 一目でファンになりましたよ。
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 モリュウ領の様子を観察して、
 何かあればすぐ若に報告します。
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 <Rihanna>様はお体の具合が優れないとか。
 心配ですね。
 [ENDBLOCK]
-Shiden Local
+シデンの民
 [ENDBLOCK]
 <Rihanna>様、ご懐妊されたんですって？
 心配する事なかったんですね。
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-I don't see <Greybum>.
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Is that King <Tiberius>
-standing over there?
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-Hmmm, he’s kinda
-important looking.
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-Your Majesty, if you please.
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-People of Moreau, the time
-is upon us! Soon all of 
-Aquaveil shall be united!
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-At that time, we will finally
-be able to realize our 
-deepest desires!
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-To defeat the enemy 
-nation Seinegald and 
-the vassal Fitzgald!
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-What did he say?!
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-You, the black-haired
-man over there!
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-...Are you talking to me?
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-What is that sword you're
-carrying? Is that not the 
-treasured sword of our land?
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-What...?
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-I heard the story from <Greybum>,
-You're <Lion> Magnus!
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-How dare you so brazenly 
-appear in our land! But your
-luck has come to an end!
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-Yikes... looks like we
-were found out.
-[ENDBLOCK]
-<Tiberius>
-[ENDBLOCK]
-Capture them!
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Everyone, run!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1244,7 +823,7 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color> 
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
@@ -1257,59 +836,59 @@ will follow your party.
 [ENDBLOCK]
 has returned to the party.
 [ENDBLOCK]
-<x18><x65><x59><x1C><x00><x80><x18><x65><x59><x20><x00><x80>
+<x18><x65><x57><xBC><x00><x80><x18><x65><x57><xC0><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color> 
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
-<x18><x65><x59><x1C><x00><x80><x18><x65><x59><x20><x00><x80>
+<x18><x65><x57><xBC><x00><x80><x18><x65><x57><xC0><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x50><x98><x80>
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xF0><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x4C><x00><x80></color>.
+<x18><x65><x57><xEC><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>'s party received
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x40><x80> has received
+<x19><x69><x47><xE0><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x65><x59><x44><x00><x80>
-<x18><x65><x59><x48><x00><x80>
+<TAG_007><x18><x65><x57><xE4><x00><x80>
+<x18><x65><x57><xE8><x00><x80>
 [ENDBLOCK]
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
@@ -1379,7 +958,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x2C><x80>'s Swordian device
+<TAG_007><x19><x71><x47><xCC><x80>'s Swordian device
 can now be used.
 [ENDBLOCK]
 notice
@@ -1473,8 +1052,8 @@ notice
 黒十字艦隊でお送りしましょうか？
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-Yes
-No
+はい
+いいえ
 [ENDBLOCK]
 ダリルシェイド港
 
