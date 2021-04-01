@@ -18,79 +18,82 @@
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あんた確か……
+I'm pretty sure you're ......
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺か？
+Me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>道化の……
-俺は……
+<TAG_007>Clown...
+I'm not...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Johnny>だろ？
+<Johnny>, right?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ふん、知っているさ。
+Huh, I know.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そいつはどうも。
+Thanks for that.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-遊び歩いて身に付けたのは、
-その口先と役にも立たない
-ガラクタ遊びか？
+What have you learned from
+running around playing that
+useless music?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-何だよ。もう言い返せないのか？
+What the hell. Cats got your 
+tongue all of a sudden?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-俺はあんたみたいな、
-いいかげんな奴が嫌いなんだよ。
+I don't like careless people
+such as yourselves.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Fayte>様の友人かなんだか知らないが、
-俺はあんたが嫌いだ。
+I don't know if you're a 
+friend of Master <Fayte>'s or 
+what. but I don't like you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Fayte>様を助け出してくれた事は
-感謝するが。
+I appreciate your help in
+rescuing Master <Fayte>.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Fayte>様とあんたが付き合うのは
-反対だ！
+I don't want you to go
+out with Master <Fayte>.
+I'm against it!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Johnny>だろ？
+<Johnny, right?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ふん、知ってるさ。
+Yeah, I know.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-なんだ？	
-俺、嫌われているのか？
+What is it?	Do 
+they hate me?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -229,80 +232,86 @@ No
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ああ、犯人の事なら聞いたよ。
-でも事件のあった時間にあの子は
-この家の下で猫と遊んでいたぜ。
+Yeah, I heard about the death.
+But she was playing with her cat
+under the house at that time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ここでシデンの服装をしている奴は
-目立つから間違いないはずだ。それに
-でかい声で猫に話しかけていたからな。
+The guy that's dressed in
+Shiden gear. I'm sure he'll stand
+out. Besides he was talking 
+to the cat in a big voice.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-猫と本気でしゃべれるのかな？
+Can he really talk to a cat?
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-女の子だろ？	ああ、事件のあった
-時間に買い物に来ていたよ。
+It was a girl? Yeah, I was
+at the store at that time.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-随分と長い間迷っていてな、
-決まったと思って商品を包んだら、
-やっぱり別のにすると言うんだ。
+He was looking for quite a while, and
+when I thought he made up his mind
+and started to wrap the product, he
+said he wanted something different.
 [ENDBLOCK]
-魚を販売する人
+Fish Seller
 [ENDBLOCK]
-そんな事を何度も繰り返したから
-よく覚えているよ。
+I remember it well, because I've done 
+it so many times.
 [ENDBLOCK]
-武士
+Soldier.
 [ENDBLOCK]
-先日の事だが、港の魚屋で
-騒いでいた女の子を見かけたんだ。
+However, I have an
+alibi that I saw the girl at
+the time of the incident.
 [ENDBLOCK]
-武士
+Soldier.
 [ENDBLOCK]
-何となく気になったが、
-まっすぐこの宿屋に帰って来たのだ。
+I think that's why Master Fayte 
+gave you all this time.
 [ENDBLOCK]
-武士
+Soldier.
 [ENDBLOCK]
-帰ってすぐにそこの障子を開けると、
-港にいたはずのその子が
-武器屋の傍の家から出てきたんだ。
+It's a long story. Would 
+you like to hear a synopsis?
+Yes
+No
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-この街には誰にも知られていない
-秘密の通路などないはず。
-まったく不思議なものだ。
+Now please go inside
+and brief <Fayte> on
+the situation.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-犯人がわかったのですか!?
-はい
-いいえ
+I see... Well, when you do find
+the culprit, please come back.
 [ENDBLOCK]
-
-兵士
+Soldier
 [ENDBLOCK]
-では、中に入って<Fayte>様に
-説明をお願いします。
+As soon as I returned home, I opened
+the sliding door and found the boy who
+was supposed to be at the port coming
+out of the house by the weapons shop.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-そうですか……犯人がわかったら
-また来てください。
+There is no such thing as a secret
+passage in this city that no one 
+knows about. It's a mystery.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
+Would you like to hear
+about the case?
+Yes
+No
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -618,109 +627,120 @@ Hop in, Where would you like to go?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ここがトウケイ領になったら、
-私たちの学校はどうなるのかしら？
+What will happen to our school if 
+this becomes Terazzi territory?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-新しい代官さまが来てからお城の人が
-恐い人たちばかりなったわ。
+Since the arrival of the new governor,
+the people in the castle have become
+a bunch of scary people.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-この間だって持っていたナイフに
-毒を塗っているところを見たもの。
+The other day, I saw him adding
+poison to a knife he was carrying.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-モリュウの学校はアクアヴェイルで一番。
-各領の王族の方も卒業生なんですよ。
+Moreau's school is the best
+in Aquaveil. The royalty of each
+territory are also alumni.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Eleanor>さまを巡って<Fayte>さまと
-<Johnny>さまが争ったのは有名な話です。
+It is well known that
+<Fayte> and <Johnny>
+fought over <Eleanor>.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-今の<Fayte>さまと<Rihanna>さまを見ると、
-これが一番よかったと思いますけどね。
+When I look at <Fayte> and 
+<Rihanna> now. I think things
+turned out for the best.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-学校が閉鎖になってしまいました。
-再開のめどは立っていません……
+The school has been closed.
+There is no indication of
+when it will reopen...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-わたし、もう一度
-学校に行きたいんです。
+I want to go to school again.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-世界を救って下さい、<Johnny>さま！
+Please save the world, <Johnny>!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Johnny>さまをよろしくお願いします！
+Please take care of <Johnny>!
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
 にゃーにゃーはにゃーにゃーにゃ？
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-……ふう、怖い人はいなくなったね。
-ああよかった。
+Well, the scary people are 
+gone, aren't they? Oh, thank
+goodness.
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-これからはよその国とも仲良くするって
-<Fayte>さまが言ったんだって。
+<Fayte> said that from
+now on, we will get along
+with other countries.
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-空に浮かんだ変なのが、
-どんどん大きくなってるよう……
+The weird thing floating in
+the sky seems to be getting
+bigger and bigger.
 [ENDBLOCK]
-Kid
+Child
 [ENDBLOCK]
-タマも応援してるってさ。
-頑張ってね！
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-ふっ、聞こえるぜ、聞こえるぜ！
-街の人々の嘆く声が！
+He said he's rooting for you, too.
+Good luck!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-心配するな、みんな。
-正義の味方がなんとかするぜ。
+Huh, I can hear it, I can
+hear it! The lamenting of
+the people of the city!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-みんな、俺の言ったとおりだろ？
-正義の味方がなんとかしたぜ。
+Don't worry, guys.
+The righteous will
+take care of it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-正義の味方の正体は内緒だぜ。
-いやいや、俺じゃないって。
+Hey, guys, what did I
+tell you? The righteous
+did something about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-みんな、落ち着くんだぜ！
-こんな時こそヒーローの出番だ！
+Don't tell anyone you're on
+the side of justice. No, no,
+no, it's not me.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-……だめだって。
-こうなったらどうにもならないって。
+Everybody, calm down! This is
+when the heroes come in!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あんたたちこそヒーローだ！
+...... No, he said there's 
+nothing he can do about it.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You're the heroes!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
