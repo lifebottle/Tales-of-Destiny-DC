@@ -393,12 +393,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 乗らない
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 さあ、どこに行く？
 <x18><x65><x59><xFC><x00><x80><x18><x65><x5A><x00><x00><x80><x18><x65><x5A><x04><x00><x80>
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 すまねぇ
 水門がふさがってて通れないな。
@@ -704,12 +704,12 @@ Grandma
 頼んだわよ。<Fayte>様のお気持ちを、
 無駄にしないでください。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 品質には自信がありますよ。
 おひとつ、いかがです？
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 品質には自信がありますよ。
 おひとつ、いかがです？
