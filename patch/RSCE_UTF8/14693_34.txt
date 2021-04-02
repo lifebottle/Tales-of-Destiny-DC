@@ -28,77 +28,77 @@ bb
 あたったよ
 
 [ENDBLOCK]
-トラッシュマウンテン	１F
+Trash Mountain	１F
 [ENDBLOCK]
-トラッシュマウンテン
+Trash Mountain
 [ENDBLOCK]
-トラッシュマウンテン	Ｂ１
+Trash Mountain	Ｂ１
 [ENDBLOCK]
-トラッシュマウンテン
+Trash Mountain
 [ENDBLOCK]
-トラッシュマウンテン	Ｂ２
+Trash Mountain	Ｂ２
 [ENDBLOCK]
-トラッシュマウンテン
+Trash Mountain
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>毒ガスが充満しています。
-中和剤を使用しますか？
-（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80>コ）
-はい
-いいえ
+<TAG_007><center>The area is filled with poisonous gas.
+Do you want to use a neutralizer?
+(neutralizers left x <x17><x24><x15><x20><x24><x02><x15><x40><x80>.)
+Yes
+No
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>中和剤の効果が切れました。
-新しい中和剤を使用しますか？
-（中和剤所持数	<x17><x24><x15><x20><x24><x02><x15><x40><x80>コ）
-はい
-いいえ
+<TAG_007><center>The neutralizer has worn off.
+Use a fresh one?
+(neutralizers left x <x17><x24><x15><x20><x24><x02><x15><x40><x80>.)
+Yes
+No
 
 [ENDBLOCK]
-中和剤を使用しました。
+Neutralizer used.
 [ENDBLOCK]
-メニューのアイテム欄から
-中和剤を使用することができます。
+You can use neutralizers from
+the item section of the menu.
 [ENDBLOCK]
 <x1D><x45><x59><x30><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><x58><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><x80><x03><x72><x40><x24><x8B>噴<x80> <x1D><x45><x59><xA8><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><xD0><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x59><xF8><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x20><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x48><x03><x72><x40><x24><x8B><xE8><xA0><x80> <x1D><x45><x5A><x70><x03><x72><x40><x24><x8B><xE8><xA0><x80>
 
 [ENDBLOCK]
-ダメージ
+Damage
 
 [ENDBLOCK]
-ガスの噴き出し口みたいだな。
-そういえばガスって燃えるんだっけ……？
+Looks like a gas vent.
+Is this gas flammable...?
 [ENDBLOCK]
-ガスの噴き出し口ね。
-こんなところで火なんか使ったら……
+It's a gas vent. You can't
+use any fire in this place.
 [ENDBLOCK]
-ガスの噴き出し口のようですわ。
-火を使ったら……爆発かしら♪
+It looks like a gas vent. 
+If I use fire... it'll explode♪
 [ENDBLOCK]
-ガスの噴き出し口のようだな。
-火の扱いは注意した方がいいのか……？
+Looks like a gas vent. Should
+we be careful with fire?
 [ENDBLOCK]
-ガスの噴き出し口のようだな。
+Looks like a gas vent.
 [ENDBLOCK]
-ガスの噴き出し口のようだな。
-火には注意したほうがいいのか……？
+Looks like a gas vent. Should
+we be careful with fire?
 [ENDBLOCK]
-ガスの噴き出し口ですね。
-たしか……ガスに火を点けると……
+It's a gas vent.
+So If you light it... it will...?
 [ENDBLOCK]
-ガスの噴き出し口のようだ。
-火なんて使ったらドカンだぜ。
+Looks like a gas vent. If you use
+fire, you're gonna get smoked.
 [ENDBLOCK]
-ガスの噴き出し口のようだぜ。
-こんなところで火なんて使ったら……
+It looks like a gas vent. 
+Can't use fire here...
 [ENDBLOCK]
-ガス噴き出し口ね。
-ここで火なんて使ったら……
+A gas vent. You
+can't use fire here...
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
