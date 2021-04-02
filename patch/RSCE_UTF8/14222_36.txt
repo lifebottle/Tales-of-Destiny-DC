@@ -87,12 +87,12 @@
 おじいちゃん……
 あの人たちを、だましたんですか？
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 お泊りではないんですね。
 では……
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 もしかして、
 猫ちゃんの情報を!?
@@ -103,20 +103,20 @@
 猫ちゃん探しに協力しようと
 思って来たのだ。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 本当ですか！
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ありがとうございます。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 見ての通り、
 私はここを離れる事ができません。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 でも、猫ちゃんたちの事が
 心配で心配で……
@@ -136,7 +136,7 @@
 何か他の情報は
 ないんですか？
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 実は、それらしい猫ちゃんを
 ティルソの森で見かけたという
@@ -155,7 +155,7 @@
 それじゃあ、俺たちも
 ティルソの森へ向かおう。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 そうだ、言い忘れていたのですが、
 私の猫ちゃんは全部で１０匹です。
@@ -175,12 +175,12 @@
 s  <x17><x69><x46><x7D><x80>
 
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ごめんなさい。また猫ちゃんが
 逃げてしまったのです。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 もう一度捕まえに行って
 もらえないでしょうか？
@@ -193,7 +193,7 @@ s  <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 あの、すみません。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 はい、何でしょう？
 [ENDBLOCK]
@@ -202,7 +202,7 @@ s  <x17><x69><x46><x7D><x80>
 実は探しているものが
 あるんですけど……
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 それでしたら北にある
 ティルソの森の奥にあると
@@ -217,12 +217,12 @@ s  <x17><x69><x46><x7D><x80>
 ありがとう。それじゃあ、早速
 そのティルソの森に行ってみます。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ちょっと、お嬢さん
 ひとりで行かれるんですか？
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 お連れの方々は!?
 [ENDBLOCK]
@@ -245,12 +245,12 @@ s  <x17><x69><x46><x7D><x80>
 お兄ちゃんを驚かせて
 あげるんだから。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ティルソの森の奥に
 あると聞いたことがあります。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 けどひとりで行くだなんて……
 無茶だけはしないで下さい。
@@ -385,16 +385,16 @@ No
 global.cat_event   <x17><x69><x46><x7D><x80>
 
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 こんな時に金を取って商売するのは、
 気がひけるけどね……
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 いらっしゃいませ。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 本日はお泊りですか？
 [ENDBLOCK]
