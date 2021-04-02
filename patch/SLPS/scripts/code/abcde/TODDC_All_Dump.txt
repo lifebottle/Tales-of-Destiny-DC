@@ -721,7 +721,7 @@ What is your name?[END]
 
 //Text $19AD70
 #WRITE(ptr,$180C2C)
-Listen well, [Stahn][END]
+Listen well, [Stahn].[END]
 
 
 //Text $19AD58
@@ -757,7 +757,7 @@ My name is...[END]
 
 //Text $19ACD8
 #WRITE(ptr,$180C9C)
-Your name is...[END]
+Your name is...![END]
 
 
 //Text $19ACC8
@@ -787,7 +787,7 @@ Get up, [Stahn]![END]
 
 //Text $19AE80
 #WRITE(ptr,$180D0C)
-The water will fill this place too, soon...[END]
+The water will fill this place, soon...[END]
 
 
 //Text $19AE60
@@ -802,7 +802,7 @@ I will be by your side, no matter what.[END]
 
 //Text $19AE28
 #WRITE(ptr,$180D3C)
-It is an honor to serve you, Master [Lion].[END]
+You will always be my young master.[END]
 
 
 //Text $19AE18
@@ -828,7 +828,7 @@ Tear it apart!![END]
 
 //Text $19AEB8
 #WRITE(ptr,$180DAC)
-It's working! We'll be able to[LINE]attack Belcrant now![END]
+It's working! We can attack Belcrant now![END]
 
 
 //Text $19B098
@@ -882,7 +882,7 @@ Our fateful meeting...[END]
 
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
-Everything we went through[LINE]that lead us to this moment...[END]
+...and everything that lead us to this moment...[END]
 
 
 //Text $19AF90
@@ -897,7 +897,7 @@ A tale of destiny, if you will.[END]
 
 //Text $19AF50
 #WRITE(ptr,$180E9C)
-We entrust the future of this world to you.[END]
+The future of this world is in your hands.[END]
 
 
 //Text $19AF30
@@ -910,14 +910,14 @@ My master, [Stahn] Aileron...[END]
 Now, let us carry out our final mission!![END]
 
 
-#JMP($19B370)
 //Text $19AF00
 #WRITE(ptr,$180ECC)
-...Dymlos...[END]
+Dymlos...[END]
 
 
 //Section Support
 
+#JMP($19B370)
 //POINTER #19 @ $18108C - STRING #19 @ $19B370
 #WRITE(ptr,$18108C)
 She adds a new twist to dishes made[LINE]
@@ -12737,9 +12737,9 @@ made of a tortoiseshell.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-An instrument that became popular in Aquavale[LINE]
-It is general plucked with a bachi instead of fingers.[LINE]
-It is often used while telling stories.[END]
+An instrument popularized in Aquavale.[LINE]
+It is generally plucked with a bachi instead of[LINE]
+fingers and is often used while telling stories.[END]
 
 
 //Text $1B0E20
