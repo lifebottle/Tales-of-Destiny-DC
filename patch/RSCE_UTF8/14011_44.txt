@@ -508,12 +508,12 @@ Boy
 [ENDBLOCK]
 …………？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 だれか……見事な肉体をしていて、
 トップレスな奴はいないかな……
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 おお、あなたしかいない！
 [ENDBLOCK]
@@ -521,7 +521,7 @@ Boy
 [ENDBLOCK]
 ん？	俺様に用か？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 突然ですが、
 あなたのその肉体に惚れました。
@@ -544,16 +544,16 @@ Boy
 [ENDBLOCK]
 やい、俺様にそんな気はねえ！
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 あ、違います。
 勘違いしないで下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私、舞台の監督をやっている者です。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 実は、役者が病気になってしまって、
 代役を探していました。
@@ -563,7 +563,7 @@ Boy
 という事は……<Kongman>さんを
 その代役に？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 はい、その通りです。
 [ENDBLOCK]
@@ -577,7 +577,7 @@ Boy
 ふざけるなぁ。俺様はチャンピオンだぞ。
 代役なんてやらねえ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そんなぁ。私の舞台監督としての、
 今後が懸かっているんです。
@@ -596,12 +596,12 @@ Boy
 [ENDBLOCK]
 い、いえ、そこまでは……
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ホントですか！
 ありがとうございます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 では、さっそく行きましょう！
 [ENDBLOCK]
@@ -609,7 +609,7 @@ Boy
 [ENDBLOCK]
 何、今やるのか!?
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ええ！	会場には既に
 お客さんが入ってますからね！
@@ -618,12 +618,12 @@ Boy
 [ENDBLOCK]
 ……まじ……かよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 大丈夫、セリフはありません。
 私の指示どおりに演技をして下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう舞台が始まります。
 急ぎましょう。
@@ -660,26 +660,26 @@ select
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そこを出れば
 すぐに舞台となっています。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私はここから指示を出します。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 その指示に従って、演技をしてください。
 いいですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 何、大丈夫ですよ。
 あなたなら、必ずできます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、出番です！
 [ENDBLOCK]
@@ -707,7 +707,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あら、あなたは？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、彼女に求愛するんだ。
 [ENDBLOCK]
@@ -716,7 +716,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 あなたが私を助け出して下さる、
 白馬の王子さまなのですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 強い男をアピールするんだ！
 [ENDBLOCK]
@@ -728,11 +728,11 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ささ、私を連れ出して下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう一度。かっこつけるんだ。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 貴様、姫には触れさせん！
 [ENDBLOCK]
@@ -740,12 +740,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あなたは一体……？
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私は姫を心よりお慕い申し上げる者。
 しかし、父はしがない農民……
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 頭では身分の違いを分かっていても、
 この心が、姫の事をあきらめさせません。
@@ -764,7 +764,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 私の身も心も、
 全てをお救い下さい。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私が一生、
 姫をお守りします。
@@ -773,44 +773,44 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ……はい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう訳が分からない！	という笑いだ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 でも、状況が理解出来てきて、
 泣いてしまう！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いやー、素晴らしかったですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 あなたなら、トップスターも夢じゃない。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 まあ、初舞台ですからね。
 十分ですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 是非、また参加してください。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう一度、
 舞台に挑戦しますか？
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 それじゃ、もう一度説明しますね。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いつでも待ってますよ。
 [ENDBLOCK]
@@ -925,42 +925,42 @@ Man
 [ENDBLOCK]
 うーん……どうしよう……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 闘技場なんてなくしてしまえばいいのに。
 がらの悪い連中が集まって困るわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 最も被害を受けたのは、
 この広場でした。
 
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 しかし、逆に被害が集中していた分、
 すぐに復旧できた事は不幸中の幸いでした。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 <Ilene>様は下町の者に甘すぎます。
 ひとこと意見をさせて欲しいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 ノイシュタットさえ無事なら、
 他はこの際どうでもいいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 さすがにまずい状況ですわね……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 レンズだけでいいんですの？
 軍資金の提供もいたしますわよ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 だからどうか、どうか！
 私たちを助けてくださいましな。

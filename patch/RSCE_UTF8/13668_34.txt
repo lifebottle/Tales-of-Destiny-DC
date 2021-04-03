@@ -21,86 +21,84 @@
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-やあ、久しぶり！
-セインガルドはどうだった？
+Hey, long time no see!
+How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-なんの事だろうか。
-どなたかと勘違いしておられるのでは？
+I don't know who you're talking
+about. I think you're mistaken...
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-何とぼけているんだよ。
-ほらほら、また話を聞かせてくれよ。
+What a bunch of nonsense. 
+Come on, tell me another story.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-本当に別人なのか？
+Are you sure you're
+not the same guy?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+Sorry about that...
 
 [ENDBLOCK]
-Traveler
+<Woodrow>
 [ENDBLOCK]
-これはすまない事をした。
-
+It's alright no harm, no foul.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-勘違いだと気づいてくだされば、
-構いませんが……
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-あなたが会ったという人は、
-それほど私と似ているのですか？
+Is the person you say you
+met that similar to me?
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-ああ、そりゃ良く似ているよ。
+Your like double.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-もし、彼を知っている人が見たら、
-そりゃ面白い反応をすると思うな。
+Would be interesting to you two
+meet and look at your reactions.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-けど、彼は急いでいるみたいだったから、
-探し出すのは無理だと思うけどね。
+He was in a hurry so I don't
+think you'll meet him soon.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-そうだ！	だったら彼の事を
-知っている人を探してみなよ。
+That's right! Then you should try
+to find someone who knows him.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-絶対にみんな、
-彼と勘違いするはずさ。
+I'm sure everyone
+will think you're him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-あれ、君と以前に会ったよね。
-んん、よく見ると違う……か？
+Hey, I met you before, didn't I?
+Hmm- actually I might be wrong.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-あいつはもっと暗い感じ
-だったかな。
+That guy was much
+more sinister, I think.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あれ、また来たの？
+Oh, you're back?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-幼なじみが、早く
-見つかるといいわね。
+I hope you find your
+childhood friend soon.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-これあげるから、
-頑張って！
+I'll give you this. Good luck!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -113,12 +111,12 @@ like a bear, right?
 She's actually a really beautiful
 woman from a noble family.
 [ENDBLOCK]
-Armor Shop
+Weapon Shop
 [ENDBLOCK]
 My weapons are some of the
 best in the world.
 [ENDBLOCK]
-Armor Shop
+Weapon Shop
 [ENDBLOCK]
 You must arm yourself for any
 unforseen circumstances
@@ -152,8 +150,8 @@ about that guy...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I'm not going to let <Walt> get the better
-of me. I'll do my best to protect the village.
+I'm not going to let <Walt> get
+the better of me. I'll do my best to protect the village.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -161,8 +159,8 @@ I love Rock Rally.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The world is getting weird, but
-I still love Rock Rally.
+The world is getting weird, 
+but I still love Rock Rally.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -222,8 +220,8 @@ Next time, get under
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Next time, get under 1 minute
-40 seconds.
+Next time, get under
+1 minute 40 seconds.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -237,8 +235,8 @@ Aim for less than
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Next time, try to get
-under 2 minutes.
+From now on, it'll always be 
+2 minutes or less.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -247,22 +245,23 @@ Do you have the Battle record Book?
 Man
 [ENDBLOCK]
 Your skill is good enough,
-I will give you this.。
+I will give you this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Using「Definite Strike」will
-makes the battle is easier.
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Take good care of it。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting「Definite Strike」 
-to "ON" from the Customize menu
+by setting [Definite Strike] to 
+"ON" from the Customize menu
 in the Main menu.
 
 [ENDBLOCK]
@@ -270,7 +269,7 @@ notice
 [ENDBLOCK]
 You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is [ON].
 
 [ENDBLOCK]
 Man
