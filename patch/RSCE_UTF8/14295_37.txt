@@ -426,7 +426,9 @@ Soldier
 構う事はない。
 君たちは私の仲間なのだからね。
 [ENDBLOCK]
-<Woodrow><x00>街の東にある、民家へ向かってくれ。
+<Woodrow>
+[ENDBLOCK]
+街の東にある、民家へ向かってくれ。
 そこが非常通路の入り口だ。
 [ENDBLOCK]
 <Stahn>
