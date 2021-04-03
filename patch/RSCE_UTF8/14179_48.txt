@@ -1,4 +1,4 @@
-武器屋
+Weapon Shop
 
 [ENDBLOCK]
 Uniques Shop
@@ -6,29 +6,29 @@ Uniques Shop
 <IGNORE>
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-武器屋
+Weapon Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-さあ、どこに行く？
+Get in, Where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80>
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-すまねぇ
-水門がふさがってて通れないな。
+Sorry. The flood gates are
+closed. We can't get through.
 [ENDBLOCK]
 いどうできる
 
@@ -65,23 +65,26 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-城内に入る場合は、
-足下に注意して下さい。
+When entering the castle,
+please watch your step.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-城内は検証作業中です。
-立ち入りはご遠慮願います。
+The castle is undergoing
+renovation. Please refrain 
+from entering the castle.
 [ENDBLOCK]
 
 [ENDBLOCK]
-かつてこの世界には、
-いくつもの空中都市が、栄華を誇っていた。
+In the past, there were
+many aerial cities that
+flourished in this world.
 [ENDBLOCK]
 
 [ENDBLOCK]
-だが先の天地戦争を経て、全ての空中都市が、
-闇に葬られる事となった。
+However, after the last
+war, all the aerial cities
+were buried in darkness.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -89,142 +92,146 @@ Soldier
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-出迎えご苦労、<Fayte>。
+Thanks for picking me up, <Fayte>.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-……終わったようだな。
+Looks like... it's over.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……ああ。
+...Oh.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-これで<Eleanor>も浮かばれるだろう。
-ありがとう……<Johnny>。
+I'm sure <Eleanor> will be happy
+to hear this. Thanks <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おいおい、
-おまえが泣いてどうするんだ。
+Hey, hey, hey, don't let 
+everyone see you cry?
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-<Tiberius>は死んだ！
-俺たちは解放されたんだ！
+<Tiberius> is dead!
+We've been liberated!
 [ENDBLOCK]
-女の人
+Woman
 [ENDBLOCK]
-辛かった日々はもう終わりよ！
-トウケイに栄光あれ！
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-俺も混ぜてもらうか。
-ひとつ、凱旋リサイタルと行こう。
+Those hard days are
+over! Glory to, Terazzi!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-今日は思いっきり歌うぜ！
-みんな、聴きたい曲を言ってくれ！
+I'll join you. Let's have
+a triumphant recital.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I'm gonna sing my heart out today!
+Everybody, I'm now taking requests.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-皆さんには本当にお世話になりました。
-改めてお礼を言わせてください。
+I would like to thank you all
+for all your help. Please allow
+me to thank you again.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こちらこそ。<Johnny>さんのお陰で、
-助かりました。
+Thank you very much. Thanks
+to <Johnny> for his help.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-あいつが<Tiberius>と戦った、
-本当の理由……
+The real reason he
+fought <Tiberius>...
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-もしかしたら、私の考えていた事とは、
-違うのかもしれません。
+Maybe it's not what
+I had in mind.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-アクアヴェイルの為を思っての、
-行動だったんでしょうか……
+I wonder if he was acting
+out of concern for Aquaveil.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕は……そうは思わない。
+I don't think so...
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-答えは見る人の心の中に……
-きっとあいつはそう言うんでしょうね。
+The answer is in the eye
+of the beholder. I'm sure
+that's what he'd say.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-それで……皆さんはこれから、
-どうされるおつもりですか？
+So.., what do you guys
+plan to do now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ファンダリアへ向かいます。
-<Greybum>を追いかけないと。
+We're heading to Phandaria.
+We have to go after <Greybum>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ま、他に選択肢はないからね。
+Well, I don't have any other choice.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-次こそ、必ず……
+Next time, I'm sure...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Greybum>はファンダリア王家の、
-反対勢力と手を結んでいるんだったな。
+I thought <Greybum> was in league
+with the opposing forces of the
+Phandarian royal family.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-はい。あれからさらに、
-情勢は悪化しているとか……
+Yes. I heard that the situation has
+gotten even worse since then.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Greybum>のファンダリア入りで、
-火がつかなければいいのですが。
+I hope that <Greybum> doesn't cause
+Phandaria to catch fire and burn.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-のんびりしてはいられませんね。
+We can't afford to take it easy.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ。急いで出発しよう！
+Ah. Let's hurry up and get going!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ファンダリア……
+Phandaria...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-懐かしい？
+Do you miss it?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-どうだろう……よくわからない……
+I don't know... 
+I'm not sure...
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ファンダリアまでは、
-責任を持って我が艦隊がお送りします。
+Our fleet will be responsible for
+transporting you to Phandaria.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-皆さんの準備が整いましたら、
-港までお越しください。
+When everyone is ready,
+please come to the port.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
