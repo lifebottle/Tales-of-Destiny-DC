@@ -9,6 +9,8 @@ namespace sceWork
         public uint offsetScript;
         public uint offsetStrings;
         public List<sceStrings> fileStrings;
+        public List<int> lineNumberList;
+        public List<string> plainStringList;
         public List<int> sizes;
 
         public sceHeader(StreamFunctionAdd sfa)
@@ -30,13 +32,20 @@ namespace sceWork
                 if (sfa.ReadByte() == 0x47)
                 {
                     byte num = sfa.ReadByte();
-                    if (num >> 4 == 1 && sfa.ReadByte() == 0x0)
+                    if (num >> 4 == 1)
                     {
-                        fileStrings.Add(new sceStrings((uint)sfa.PositionStream - 1, offsetStrings)
+                        if (sfa.ReadByte() == 0x0)
                         {
-                            offset = ((uint)num & 0xF) + offsetStrings,
-                            typeOffset = sceStrings.OffsetType.ShortOffset
-                        });
+                            fileStrings.Add(new sceStrings((uint)sfa.PositionStream - 1, offsetStrings)
+                            {
+                                offset = ((uint)num & 0xF) + offsetStrings,
+                                typeOffset = sceStrings.OffsetType.ShortOffset
+                            });
+                        }
+                        else
+                        {
+                            sfa.PositionStream--;
+                        }
                     }
                     if (num >> 4 == 5)
                     {
@@ -76,6 +85,10 @@ namespace sceWork
         {
             sfa.PositionStream = offsetStrings;
             sfa.LengthStream = offsetStrings;
+            List<int> failedMediumStrings = new List<int>();
+            List<int> failedShortStrings = new List<int>();
+            uint lastShortLength = 0;
+            uint lastMediumLength = 0;
             long realPos = 0;
             bool matched = false;
             for (int index = 0; index < fileStrings.Count; ++index)
@@ -129,14 +142,31 @@ namespace sceWork
                     }
                     else
                     {
-                        Console.WriteLine("Can't fit desired pointer in the available space...");
-                        Console.WriteLine("- Failed at line: " + index);
-                        Console.WriteLine("- Intended offset: " + num1);
-                        Console.WriteLine(string.Format("- Position: 0x{0:X6}", fileStrings[index].offset));
-                        Console.WriteLine("- Pointer type: " + fileStrings[index].typeOffset);
-                        Console.WriteLine("Leaving as-is...");
-                        //Console.ReadKey();
-                        //throw new InvalidOperationException();
+                        Console.OutputEncoding = System.Text.Encoding.UTF8;
+                        if (Program.verbose)
+                        {
+                            MiscUtils.Warn("Can't fit desired pointer in the available space...");
+                            MiscUtils.Warn("- Failed at block: " + index + ", around line " + lineNumberList[index]);
+                            MiscUtils.Warn("- String: " + plainStringList[index]);
+                            //MiscUtils.Warn("- Intended offset: " + num1);
+                            MiscUtils.Warn(string.Format("- Position: 0x{0:X6}", fileStrings[index].offset));
+                            MiscUtils.Warn("- Pointer type: " + fileStrings[index].typeOffset);
+                            MiscUtils.Warn("Continuing insertion, but leaving pointer unchanged, expect text errors!");
+                            Console.WriteLine();
+                            //Console.ReadKey();
+                            //throw new InvalidOperationException();
+                        }
+
+                        if (fileStrings[index].typeOffset == sceStrings.OffsetType.MediumOffset)
+                        {
+                            failedMediumStrings.Add(index);
+                            lastMediumLength = num1;
+                        }
+                        else
+                        {
+                            failedShortStrings.Add(index);
+                            lastShortLength = num1;
+                        }
                     }
 
                     if (matched)
@@ -148,6 +178,34 @@ namespace sceWork
                     sfa.PositionStream = sfa.LengthStream;
                 }
             }
+
+            if (failedShortStrings.Count != 0 || failedMediumStrings.Count != 0)
+            {
+                MiscUtils.Warn("Couldn't insert all lines due to pointer size issues");
+                MiscUtils.Warn("Inserted the other lines, but left the faulty ones untouched, expect text errors!");
+                Console.WriteLine();
+
+                if (failedShortStrings.Count != 0)
+                {
+                    MiscUtils.Info("Found " + failedShortStrings.Count + " strings over the 16 line");
+                    MiscUtils.Info("Remove " + (lastShortLength - 16) + " bytes before line "
+                        + lineNumberList[failedShortStrings[0]] + " to get them back to a valid position");
+                    MiscUtils.Info("Line " + lineNumberList[failedShortStrings[0]] + " for reference:");
+                    MiscUtils.Info("\"" + plainStringList[failedShortStrings[0]] + "\"");
+                    Console.WriteLine();
+                }
+
+                if (failedMediumStrings.Count != 0)
+                {
+                    MiscUtils.Info("Found " + failedMediumStrings.Count + " strings over the 4096 line");
+                    MiscUtils.Info("Remove " + (lastMediumLength - 4096) + " bytes before line "
+                        + lineNumberList[failedMediumStrings[0]] + " to get them back to a valid position");
+                    MiscUtils.Info("Line " + lineNumberList[failedMediumStrings[0]] + " for reference:");
+                    MiscUtils.Info("\"" + plainStringList[failedMediumStrings[0]] + "\"");
+                    Console.WriteLine();
+                }
+            }
+
             sfa.SeekValueWrite(2U);
         }
     }
