@@ -180,6 +180,16 @@
 			"PointerStart":	"",
 			"PointerEnd":	""
 		
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Discovery",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"1A7878",
+			"TextEnd":		"1AA9EE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
 		}]
 	},
 	
