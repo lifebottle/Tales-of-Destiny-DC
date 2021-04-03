@@ -21,7 +21,7 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 どうだ、あれから
 上手くいったのか？
@@ -35,16 +35,16 @@
 [ENDBLOCK]
 どうかしました？
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 この前、俺は君たちに「変わりたい
 カルバレイス人もいる」と言ったが……
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺は、あれから何も出来ていない。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 君たちの役に立ちたいが、
 しょせん俺では……
@@ -63,20 +63,20 @@
 ただ少し、心のすみで応援して
 もらえれば、俺たちはそれで充分です。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 世界のどこか……？
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 そうだ！
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 実は、俺たちカルバレイス人の中には、
 他の大陸に隠れ、生活している人もいる。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 その人たちなら、
 君たちに協力してくれるかもしれない。
@@ -85,27 +85,27 @@
 [ENDBLOCK]
 そういう人たちがいるのか。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺が知っている
 隠れカルバレイス人はひとりだけだ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 その人はダリルシェイドで、
 道具屋をやっている。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 きっと、手助けしてくれると思う。
 是非、行ってみてくれ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺が知っている人はダリルシェイドで、
 道具屋をやっている。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 きっと、手助けしてくれると思う。
 是非、行ってみてくれ。
@@ -357,30 +357,30 @@ Chatty Old Man
 [ENDBLOCK]
 なるほど！	ありがとうございます！
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 ……そうか。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 まだ、俺たち以外にも
 頑張っているカルバレイス人はいるのか！
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 君たちを手助けするつもりが、
 逆に俺の方が助けられたな。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 これは、俺からの
 正真正銘の手助けだ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 是非、役に立ててくれ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 命が惜しければ、その中には入るな。
 有毒ガスにやられるぞ。
@@ -416,20 +416,20 @@ Woman
 [ENDBLOCK]
 ……他にも必要な物があれば、いいな。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 おまえたち、よそ者か……？
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 命が惜しければ、この辺に近づくな。
 有毒ガスにやられるぞ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 <ITEM_009>がなくなったのか。
 
@@ -438,43 +438,43 @@ notice
 [ENDBLOCK]
 <TAG_007>現在の所持ガルド:<TAG_031>ガルド
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 ３つで<x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00>ガルドだがいいか？
 買う
 買わない
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺にも生活があるから
 タダというわけにもいかないんだ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺にも生活があるから
 タダというわけにもいかないんだ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 早く用事を済ませろ。
 他のやつに見つかったら面倒だ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 あと、中和剤が無くなったら。
 俺か道具屋に声を掛けろよ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 頑張ってくれよ。
 俺もここから応援しているからな。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 隠れカルバレイス人は世界中にいる。
 ぜひ、彼らに会ってくれ。
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺たちにできるのはここまでだ。
 後は任せたよ。
