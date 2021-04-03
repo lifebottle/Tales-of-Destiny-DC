@@ -29,7 +29,7 @@ namespace sceWork
 
             if (args.Length == 0)
             {
-                Console.WriteLine("TOD1RSCE Module v0.5 - Decompiled Clone");
+                Console.WriteLine("TOD1RSCE Module v0.7 - Decompiled Clone");
                 Console.WriteLine("Generously donated by Temple of Tales Translations team");
                 Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
@@ -98,7 +98,7 @@ namespace sceWork
                 }
             }
             Console.WriteLine("Complete!");
-            Console.ReadKey();
+            //Console.ReadKey();
         }
 
         private static void Die(string message)
@@ -335,7 +335,12 @@ namespace sceWork
             {
                 Array.Resize(ref strArray, strArray.Length - 1);
             }
+
             List<string> stringList = new List<string>();
+            List<string> plainStringList = new List<string>();
+            List<int> lineNumberList = new List<int>();
+            int lineNumber = 0;
+            int blockLine = 0;
             string str = "";
             for (int index = 0; index < strArray.Length; ++index)
             {
@@ -344,12 +349,35 @@ namespace sceWork
 
                 if (strArray[index] == "[ENDBLOCK]")
                 {
+                    lineNumberList.Add(lineNumber - blockLine);
+                    blockLine = 0;
                     stringList.Add(str);
+                    plainStringList.Add(str.Replace("\r\n","\\r\\n"));
                     str = "";
                 }
                 else
-                    str = !(strArray[index + 1] != "[ENDBLOCK]") ? str + strArray[index] : str + strArray[index] + "\r\n";
+                {
+                    if (strArray[index + 1] == "[ENDBLOCK]")
+                    {
+                        str = str + strArray[index];
+                    }
+                    else
+                    {
+                        str = str + strArray[index] + "\r\n";
+                        blockLine++;
+                    }
+                }
+                lineNumber++;
             }
+
+            //check if same ammount of lines are present
+            if (sceModule.Header.fileStrings.Count != stringList.Count)
+            {
+                Die("Different amount of strings in the file\nexpected "
+                    + sceModule.Header.fileStrings.Count + " but got "
+                    + stringList.Count);
+            }
+
             for (int index = 0; index < stringList.Count; ++index)
                 stringList[index] = AnsiToHex(stringList[index]);
             if (jpcodes != null)
@@ -367,14 +395,21 @@ namespace sceWork
                 Console.WriteLine("No CODES.txt file! If the file has replaced tags they will be inserted verbatim!");
             }
 
+            int realLine = 0;
             for (int index = 0; index < stringList.Count; ++index)
             {
-                if (stringList[index] == AnsiToHex("<IGNORE>") + "00")
+                realLine++;
+                while (stringList[index].StartsWith(AnsiToHex("<IGNORE>")))
                 {
+                    Console.WriteLine("Ignoring block " + realLine
+                        + " (around line " + lineNumberList[index] + ")...");
+                    lineNumberList.RemoveAt(index);
+                    plainStringList.RemoveAt(index);
                     sceModule.Header.fileStrings.RemoveAt(index);
                     stringList.RemoveAt(index);
+                    realLine++;
                 }
-                sceModule.SetBlock(index, HexToArrayByte(stringList[index]));
+                sceModule.SetBlock(index, HexToArrayByte(stringList[index]), plainStringList, lineNumberList);
             }
             sceModule.Save(doDeduplication);
             sceModule.Dispose();

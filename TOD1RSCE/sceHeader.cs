@@ -9,6 +9,8 @@ namespace sceWork
         public uint offsetScript;
         public uint offsetStrings;
         public List<sceStrings> fileStrings;
+        public List<int> lineNumberList;
+        public List<string> plainStringList;
         public List<int> sizes;
 
         public sceHeader(StreamFunctionAdd sfa)
@@ -30,13 +32,20 @@ namespace sceWork
                 if (sfa.ReadByte() == 0x47)
                 {
                     byte num = sfa.ReadByte();
-                    if (num >> 4 == 1 && sfa.ReadByte() == 0x0)
+                    if (num >> 4 == 1)
                     {
-                        fileStrings.Add(new sceStrings((uint)sfa.PositionStream - 1, offsetStrings)
+                        if (sfa.ReadByte() == 0x0)
                         {
-                            offset = ((uint)num & 0xF) + offsetStrings,
-                            typeOffset = sceStrings.OffsetType.ShortOffset
-                        });
+                            fileStrings.Add(new sceStrings((uint)sfa.PositionStream - 1, offsetStrings)
+                            {
+                                offset = ((uint)num & 0xF) + offsetStrings,
+                                typeOffset = sceStrings.OffsetType.ShortOffset
+                            });
+                        }
+                        else
+                        {
+                            sfa.PositionStream--;
+                        }
                     }
                     if (num >> 4 == 5)
                     {
@@ -130,12 +139,14 @@ namespace sceWork
                     else
                     {
                         Console.WriteLine("Can't fit desired pointer in the available space...");
-                        Console.WriteLine("- Failed at line: " + index);
+                        Console.WriteLine("- Failed at block: " + index + ", around line " + lineNumberList[index]);
                         Console.WriteLine("- Intended offset: " + num1);
                         Console.WriteLine(string.Format("- Position: 0x{0:X6}", fileStrings[index].offset));
                         Console.WriteLine("- Pointer type: " + fileStrings[index].typeOffset);
-                        Console.WriteLine("Leaving as-is...");
-                        //Console.ReadKey();
+                        Console.OutputEncoding = System.Text.Encoding.UTF8;
+                        Console.WriteLine("- String: " + plainStringList[index]);
+                        Console.WriteLine("Leaving pointer unchanged...");
+                        Console.ReadKey();
                         //throw new InvalidOperationException();
                     }
 

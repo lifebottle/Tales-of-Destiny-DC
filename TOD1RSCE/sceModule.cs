@@ -40,6 +40,15 @@ namespace sceWork
                 this.header.fileStrings[idx].data.Add(data[index]);
         }
 
+        public void SetBlock(int idx, byte[] data, List<string> plainStringList, List<int> lineNumberList)
+        {
+            header.lineNumberList = lineNumberList;
+            header.plainStringList = plainStringList;
+            this.header.fileStrings[idx].data.Clear();
+            for (int index = 0; index < data.Length; ++index)
+                this.header.fileStrings[idx].data.Add(data[index]);
+        }
+
         public void SetStringBlock(int idx, string str)
         {
             List<byte> byteList = new List<byte>();
