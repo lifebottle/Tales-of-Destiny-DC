@@ -80,17 +80,17 @@ Guard
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 ねえ、あの元気な人の、
 お姉さんは見つかったの？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
@@ -136,11 +136,11 @@ Guard
 あ、違います。
 勘違いしないで下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私、舞台の監督をやっている者です。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 実は、役者が病気になってしまって、
 代役を探していました。
@@ -150,7 +150,7 @@ Guard
 という事は……<Kongman>さんを
 その代役に？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 はい、その通りです。
 [ENDBLOCK]
@@ -164,7 +164,7 @@ Guard
 ふざけるなぁ。俺様はチャンピオンだぞ。
 代役なんてやらねえ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そんなぁ。私の舞台監督としての、
 今後が懸かっているんです。
@@ -183,12 +183,12 @@ Guard
 [ENDBLOCK]
 い、いえ、そこまでは……
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ホントですか！
 ありがとうございます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 では、さっそく行きましょう！
 [ENDBLOCK]
@@ -196,7 +196,7 @@ Guard
 [ENDBLOCK]
 何、今やるのか!?
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ええ！	会場には既に
 お客さんが入ってますからね！
@@ -205,12 +205,12 @@ Guard
 [ENDBLOCK]
 ……まじ……かよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 大丈夫、セリフはありません。
 私の指示どおりに演技をして下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう舞台が始まります。
 急ぎましょう。
@@ -247,26 +247,26 @@ select
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そこを出れば
 すぐに舞台となっています。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私はここから指示を出します。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 その指示に従って、演技をしてください。
 いいですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 何、大丈夫ですよ。
 あなたなら、必ずできます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、出番です！
 [ENDBLOCK]
@@ -294,7 +294,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あら、あなたは？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、彼女に求愛するんだ。
 [ENDBLOCK]
@@ -303,7 +303,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 あなたが私を助け出して下さる、
 白馬の王子さまなのですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 強いGaurdをアピールするんだ！
 [ENDBLOCK]
@@ -315,7 +315,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ささ、私を連れ出して下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう一度。かっこつけるんだ。
 [ENDBLOCK]
@@ -360,44 +360,44 @@ Gaurd役
 [ENDBLOCK]
 ……はい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう訳が分からない！	という笑いだ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 でも、状況が理解出来てきて、
 泣いてしまう！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いやー、素晴らしかったですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 あなたなら、トップスターも夢じゃない。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 まあ、初舞台ですからね。
 十分ですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 是非、また参加してください。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう一度、
 舞台に挑戦しますか？
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 それじゃ、もう一度説明しますね。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いつでも待ってますよ。
 [ENDBLOCK]
