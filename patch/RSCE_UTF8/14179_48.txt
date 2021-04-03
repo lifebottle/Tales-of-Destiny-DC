@@ -1,7 +1,7 @@
 武器屋
 
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 <IGNORE>
 
@@ -20,12 +20,12 @@
 [ENDBLOCK]
 乗らない
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 さあ、どこに行く？
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80>
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 すまねぇ
 水門がふさがってて通れないな。

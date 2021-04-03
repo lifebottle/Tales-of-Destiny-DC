@@ -142,7 +142,7 @@
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ここは謁見の間となっております。
+This is the audience room.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -684,7 +684,9 @@ to working with you as a knight!
 それがわかってんなら、
 さっさと殴り込めばいいじゃねえか。
 [ENDBLOCK]
-<Dryden><x00>事を大きくすると気づかれる可能性がある。
+<Dryden>
+[ENDBLOCK]
+事を大きくすると気づかれる可能性がある。
 奴らに逃げられては、元も子もないからな。
 [ENDBLOCK]
 <Woodrow>

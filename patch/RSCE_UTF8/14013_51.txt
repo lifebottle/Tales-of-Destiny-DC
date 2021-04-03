@@ -16,7 +16,7 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 あれ？	あんたは確か……
 [ENDBLOCK]
@@ -24,7 +24,7 @@
 [ENDBLOCK]
 俺が、何か？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 そうだ！	あんた確か闘技場で、
 あの<Lilith>さんに勝ったやつだろ？
@@ -33,7 +33,7 @@
 [ENDBLOCK]
 私が、何か！？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 で、出た！
 [ENDBLOCK]
@@ -46,7 +46,7 @@
 [ENDBLOCK]
 それで、何か用ですか？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 な、なに。え、あ～……
 [ENDBLOCK]
@@ -55,7 +55,7 @@
 <Lilith>の事は大丈夫ですから、
 話してください。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 そのあれだ、いい情報を教えて
 やろうと思ったんだ。
@@ -64,7 +64,7 @@
 [ENDBLOCK]
 どんな事ですか！
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 以前、この街に海賊が攻めてきた
 事があっただろ？
@@ -73,12 +73,12 @@
 [ENDBLOCK]
 <Batista>の事だよな。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 そのうちの沈んだ海賊船が、ここいらの
 海域にあるらしいんだ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 それなりの宝も一緒に、
 沈んでいる可能性もあるって事だ。
@@ -88,7 +88,7 @@
 そんな貴重な情報、
 俺に教えてもいいんですか？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 どうせ場所は「海中」だ。
 俺には、到底行けない場所さ。
@@ -105,7 +105,7 @@
 [ENDBLOCK]
 ありがとうございます！
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 強い奴がいればなぁ……
 俺じゃ、無理だよな……
@@ -130,11 +130,11 @@ Weapon Shop
 何が起こるかわからんご時世だ。
 備えはしっかりしないとな。
 [ENDBLOCK]
-肉を売る商人
+Meat merchant
 [ENDBLOCK]
 フィッツガルドの肉はうまいぜ！
 [ENDBLOCK]
-肉を売る商人
+Meat merchant
 [ENDBLOCK]
 いつこの街もやられるかわからんが、
 最後まで商売は続けるぜ！
@@ -187,47 +187,47 @@ Kid
 <Kongman>、頼むよ！
 日の光を取り戻してくれ！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 オベロン社に対する街の人間の評価は、
 賛否両論です。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 私は昔からの住人ですが、
 街が発展するのはいい事だと思いますよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 自らの危険を省みず、住人を避難させた
 <Ilene>さんは立派だと思います。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 <Ilene>さんはこの街に、
 愛想を尽かしてしまったのでしょうか。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 セインガルドは被害地に、
 多数の兵士を派遣しているとか。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 でもこの国の政府は、
 こんな状況でも何もしてくれませんわ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 いつ街が襲われるかもわからないのに、
 政府は何もしてくれません。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 上が何かしてくれるのを待つより、
 自分でできる事をやろうと思いまして。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ささやかではありますが、
 手持ちのレンズを提供しましたの。
@@ -300,17 +300,17 @@ Sister
 アタモニ神は必ずや、
 皆さんの前途を照らして下さいます。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 次回出航に向けて準備中です。
 しばらくお待ちください。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 何があろうと欠航はしませんよ。
 船乗りの意地を見せてやります。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 魚を売る商人
 [ENDBLOCK]
@@ -642,12 +642,12 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ああ、<Kongman>さん。
 助けて下さいよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 以前より、街での
 もめごとが増えています。
@@ -667,17 +667,17 @@ notice
 仕方ないですよ。
 すこしでも安全なところに逃げないと。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ああやって、セインガルドから
 ぞくぞく流入してくるのです。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 このままだと、この街は、
 人で溢れてしまいます。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 おまけに、あいつらときたら
 騒ぎばかりを起こすんです……
@@ -727,7 +727,7 @@ notice
 みなさん、どうしたんですか！
 こんな事じゃ<Ilene>さんが！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 <Ilene>は逃げ出したんだろ！
 口ばっかの理想家じゃないか。
@@ -790,7 +790,7 @@ Kid
 確かに……こんな子供に言われっぱなしも
 情けないよな。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 そうね……そうよ！	みんなでこの街を
 もっと良くしていきましょうよ。
@@ -802,12 +802,12 @@ Kid
 あなたの方が一歩リードしている
 みたいです。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 以前より、街での
 もめごとが増えています。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 街のヒーローさえ
 いてくれれば……<x00>

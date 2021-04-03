@@ -36,12 +36,12 @@
 [ENDBLOCK]
 乗らない
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 さあ、どこに行く？
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80>
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 すまねぇ
 水門がふさがってて通れないな。
@@ -61,16 +61,16 @@
 aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
 
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 あなたは！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 え～～っと、
 誰でしたかな？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 すまんの。最近モノ忘れが
 酷くての。
@@ -80,12 +80,12 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 構いません。
 私は<Johnny>と言います。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 ほう、シデンのドラ息子と
 同じ名前じゃの。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 ところで、わしに何か用ですかな？
 [ENDBLOCK]
@@ -95,7 +95,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 以前、モリュウで楽器を
 譲り受けた事はないですか？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 おー、前に船頭さんに
 御願いして譲り受けましたの。
@@ -105,16 +105,16 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 実はその楽器を譲って頂けないかと
 思いまして、ここまで来ました。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 すまんのー。実はある男のために
 あの楽器を貰ったのじゃ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 その男は音楽の才があったでな。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 じゃから、楽器はその男が
 持っておるぞ。
@@ -124,7 +124,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 その人の名前は、
 なんて言うんですか？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 あれ？	なんじゃったかな？
 この歳になると忘れっぽくての。
@@ -173,87 +173,87 @@ Item Shop
 ぼくたち、きっと助かるよね？
 だいじょうぶだよね？	ね！
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 <Tiberius>は倒れたが、
 これから先が大変だな。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 国土を踏みにじられた屈辱を、
 モリュウの人々は忘れないだろうな……
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 嫌な話だが、この騒ぎのお陰で、
 モリュウの人々の矛先がそれるな。
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 モリュウだ、トウケイだと、
 言ってられない状況になったな……
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 レンズはセインガルドに集めるのか。
 あの国を信用して大丈夫なのか？
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 頼んだぜ、英雄さんたち！
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 トウケイばんざーい、ばんざーい！
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 これからは住みやすい街になるって、
 パパとママが言ってたわ。
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 お空のお屋根は穴ぼこだらけ～♪
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 お空のお屋根が閉じちゃったら、
 お日さまはどうなっちゃうの？
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 レンズ、レンズ、レンズ～♪
 [ENDBLOCK]
-孫娘
+Girl
 [ENDBLOCK]
 がんばってねえ～。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 モリュウ領の新領主とシデン領の若が、
 共闘して大王を倒したそうじゃな。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 今回の事を機に、セインガルドとも
 仲良くしてほしいもんじゃ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 天地戦争じゃと？	わしらはもう、
 戦いなど望んでおらんのに。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 孫の将来を考えると、
 不安でたまりませんですじゃ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 セインガルドと協力するようになるとは
 時代は変わりましたのう。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 孫の将来のためにも、
 よろしく頼みますじゃ。

@@ -3,65 +3,65 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>カプセルトイ！	一回<x0E><x08><x00><x00><x80><x09><xC8><x00><x00><x00><x0E><x08><x00><x00><x40>ガルド！
+<TAG_005>Capsule Toys! One time <x0E><x08><x00><x00><x80><x09><xC8><x00><x00><x00><x0E><x08><x00><x00><x40> Gald!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_031>ガルド
+<TAG_007>Current Gald: <TAG_031> Gald.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>回しますか？
-はい
-いいえ
+<TAG_007>Turn it?
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ガルドが足りません。
+We're running out of Gald.
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 いらっしゃいませ。
 最高のおもてなしをお約束いたします。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 すみません。
 今夜は一杯です。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 いらっしゃいませ。
 最高のおもてなしをお約束いたします。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 いらっしゃいませ。何が起ころうと、
 当館のサービスは変わりません。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 いらっしゃいませ。何が起ころうと、
 当館のサービスは変わりません。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 お話は承っております。
 お休みになられますか？
 はい
 いいえ
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 何かご用がありましたら、
 お申し付け下さい。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 いらっしゃいませ。何が起ころうと、
 当館のサービスは変わりません。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 お泊りになりますか？
 [ENDBLOCK]
@@ -76,125 +76,139 @@ notice
 [ENDBLOCK]
 お金がたりません。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 当ホテルは最高のサービスで
 お客様をおもてなし致します。
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 あなたたちも早く避難した方が
 いいですよ！
 [ENDBLOCK]
-宿屋のおかみ
+Innkeeper's wife
 [ENDBLOCK]
 みなさんお疲れでしょう？
 ひとまず休憩してください。
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-この街の食べ物はどれもおいしいわよ。
+All the food in this
+city is delicious.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-こんなポカポカ陽気だと
-仕事する気が起きないわよね。
+I don't fell like working
+when the weather is this
+warm and sunny.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-人に食べ物を売るより、
-自分で蓄えた方がいいんじゃ……？
+Rather than selling food
+it's better to store
+it yourself...
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-欲しい物があったら言ってね。
+If there's anything you want,
+just let me know.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-この街の食べ物はどれもおいしいわよ。
+All the food in this
+city is delicious.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-こんなポカポカ陽気だと
-仕事する気が起きないわよね。
+I don't fell like working
+when the weather is this
+warm and sunny.
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-人に食べ物を売るより、
-自分で蓄えた方がいいんじゃ……？
+Rather than selling food
+it's better to store
+it yourself...
 [ENDBLOCK]
-食材屋
+Grocer
 [ENDBLOCK]
-欲しい物があったら言ってね。
-[ENDBLOCK]
-Captain
-[ENDBLOCK]
-セインガルドは昔から貿易が盛んで、
-豊かな国でした。
-[ENDBLOCK]
-Captain
-[ENDBLOCK]
-最近はオベロン社の利益も加わり、
-国力がますます増大しています。
+If there's anything you want,
+just let me know.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-セインガルドの将来は安泰でしょうな。
+Seinegald has always been
+a prosperous country
+with a lot of trade.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-セインガルドが狙われたのは、
-豊かな国であるがゆえかもしれません。
+The country's power is
+increasing with the addition
+of Oberon's profits.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-狙われているのは、
-セインガルドだけではないようですね。
+I'm sure Seinegald's
+future is secure.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-天地戦争ですか……なぜ私たちが、
-昔の人のつけを払わされるのでしょう。
+Seinegald may have been targeted
+because it is a rich country.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-私もささやかではありますが、
-手持ちのレンズを供出しましたよ。
+It seems that Seinegald is not
+the only one being targeted.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-あなたたちは私たちの希望です。
-どうかよろしくお願いします。
+A war between Heaven and 
+Earth... Why do we have to pay
+for the people of the past?
 [ENDBLOCK]
-船長の息子
+Captain
 [ENDBLOCK]
-お父さんに連れられて、
-世界中を見て回ってるんだ。
+I also offered my lens,
+albeit modestly.
 [ENDBLOCK]
-船長の息子
+Captain
 [ENDBLOCK]
-ねえお父さん、外から聞こえてきた、
-あの声は何？
+You are our hope.
+Please save us.
 [ENDBLOCK]
-船長の息子
+Captain's Son
 [ENDBLOCK]
-ちらっと外を見たら、
-昼なのに暗いんだ。どうして？
+My dad takes me
+all over the world.
 [ENDBLOCK]
-船長の息子
+Captain's Son
 [ENDBLOCK]
-モンスターに襲われるから、
-外に出ちゃだめだっていわれたんだ。
+Hey dad, what's that voice
+I heard from outside?
 [ENDBLOCK]
-船長の息子
+Captain's Son
 [ENDBLOCK]
-お父さんが頼み事をするって事は、
-すごい人なんだね。
+Outside it's dark, even though
+it is daytime. Why?
 [ENDBLOCK]
-船長の息子
+Captain's Son
 [ENDBLOCK]
-お父さんが頼み事をするって事は、
-お姉ちゃんって、すごい人なんだね。
+I was told not to go outside
+or monsters would attack me.
+[ENDBLOCK]
+Captain's Son
+[ENDBLOCK]
+If my father asks you for
+a favor, then you must
+be an amazing guy.
+[ENDBLOCK]
+Captain's Son
+[ENDBLOCK]
+If my father asks you for
+a favor, then you must
+be an amazing girl.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

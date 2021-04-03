@@ -81,7 +81,7 @@ notice
 [ENDBLOCK]
 あの、すみません。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 はい、何でしょう？
 [ENDBLOCK]
@@ -90,7 +90,7 @@ notice
 実は探しているものが
 あるんですけど……
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 それでしたら北にある
 ティルソの森の奥にあると
@@ -105,12 +105,12 @@ notice
 ありがとう。それじゃあ、早速
 そのティルソの森に行ってみます。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ちょっと、お嬢さん
 ひとりで行かれるんですか？
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 お連れの方々は!?
 [ENDBLOCK]
@@ -133,12 +133,12 @@ notice
 お兄ちゃんを驚かせて
 あげるんだから。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ティルソの森の奥に
 あると聞いたことがあります。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 けどひとりで行くだなんて……
 無茶だけはしないで下さい。
@@ -443,12 +443,12 @@ Item Shop
 この辺の気候は厳しいよ。
 しっかり準備して行きな。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 負傷者の救援に行く気なら、
 準備はしっかりとな。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 この辺の気候は厳しいぞ。
 しっかり準備して行くのじゃぞ。

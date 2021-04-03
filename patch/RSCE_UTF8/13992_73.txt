@@ -426,8 +426,8 @@ use of her influence.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We're taking a ship. We're going
-out to sea to strike down that armeida.
+We need a ship. We're going to
+strike back at that armada.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -452,8 +452,8 @@ All right. Let's fight together!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-When you're ready, just give a
-shout. We'll sail out!
+When you're ready, just give me
+a shout, and we'll set sail!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
@@ -463,30 +463,33 @@ port, we'll attack!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Bring it on! I'll throw everything away!
+Bring 'em on! I'll smash every
+last one of 'em to bits!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Our aim is the flagship. We don't
-have enough time to do a thorough search.
+Our goal is the flagship. We don't have
+enough time to do a thorough search.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Right, we have to put an end to this,
-fast. Please bring us to the most
-prominent ship!
+Right, we have to put an end
+to this, and fast. Get us to
+the biggest ship out there!
 [ENDBLOCK]
 It's gonna be a bit rough,
 so hold on tight!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Thanks for the welcome, everyone!
+Thanks for the
+warm welcome, folks!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-The Champion <Kongman> has defeated
-the evil and returned victorious!
+Your Champion, <Kongman> has
+crushed the evil armada, and
+brought peace back to the town!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -498,8 +501,8 @@ Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-...Kong wasn't the
-only one there.
+...It's not like he did
+it all by himself...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -507,8 +510,8 @@ only one there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Let's quickly return to <Ilene>'s
-estate. Sorry about all this noise.
+I'm sick of all this noise.
+Let's head back to <Ilene>'s estate.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -527,7 +530,7 @@ older women...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>, are you... disappointed?
+<Philia>, are you...disappointed?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -542,7 +545,7 @@ with everything you've got.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Mmmm... What was that ship?
+Mmmm...What was with that ship?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -550,9 +553,9 @@ What are you talking about?
 [ENDBLOCK]
 When you all were fighting 
 out at sea, a ship from the
-armada docked here.
+armada came this way...
 [ENDBLOCK]
-But it left immediately after. 
+But then it left almost right away.
 So what the heck was that about?
 [ENDBLOCK]
 <Philia>
@@ -697,7 +700,9 @@ just you and me, isn't it?
 [ENDBLOCK]
 How did we get along...?
 [ENDBLOCK]
-<Kongman><x00>Anyway, I'm coming with you!
+<Kongman>
+[ENDBLOCK]
+Anyway, I'm coming with you!
 I've already decided!
 [ENDBLOCK]
 <Stahn>
@@ -982,12 +987,12 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ああ、<Kongman>さん。
 助けて下さいよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 以前より、街での
 もめごとが増えています。
@@ -1007,17 +1012,17 @@ notice
 仕方ないですよ。
 すこしでも安全なところに逃げないと。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ああやって、セインガルドから
 ぞくぞく流入してくるのです。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 このままだと、この街は、
 人で溢れてしまいます。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 おまけに、あいつらときたら
 騒ぎばかりを起こすんです……
@@ -1067,7 +1072,7 @@ notice
 みなさん、どうしたんですか！
 こんな事じゃ<Ilene>さんが！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 <Ilene>は逃げ出したんだろ！
 口ばっかの理想家じゃないか。
@@ -1130,7 +1135,7 @@ Kid
 確かに……こんな子供に言われっぱなしも
 情けないよな。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 そうね……そうよ！	みんなでこの街を
 もっと良くしていきましょうよ。
@@ -1142,12 +1147,12 @@ Kid
 あなたの方が一歩リードしている
 みたいです。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 以前より、街での
 もめごとが増えています。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 街のヒーローさえ
 いてくれれば……<x00>
