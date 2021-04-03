@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MiscUtils.cs" />
     <Compile Include="sceStrings.cs" />
     <Compile Include="sceModule.cs" />
     <Compile Include="sceHeader.cs" />
