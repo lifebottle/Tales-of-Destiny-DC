@@ -22,7 +22,7 @@
 set_drgn
 
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あれ、<Stahn>君。
 どこか行くの？
@@ -36,7 +36,7 @@ select
 <TAG_007>世界を救いに行くのさ
 ちょっと、ね
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 世界!?	<Stahn>君が？
 
@@ -45,7 +45,7 @@ select
 [ENDBLOCK]
 うん。まあね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 ……とか嘘ついて、
 また家出する気なんでしょ。
@@ -54,12 +54,12 @@ select
 [ENDBLOCK]
 違うさ、本当だよ。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 もう、<Stahn>君って子供！
 
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 でも、それが<Stahn>君らしいって
 気もする。
@@ -77,7 +77,7 @@ select
 [ENDBLOCK]
 <Dymlos>もひどいなー。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 ずいぶん秘密主義に
 なったのね<Stahn>君は。
@@ -86,7 +86,7 @@ select
 [ENDBLOCK]
 いや、別にそういう訳じゃ……
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 でも仕方ないか。そんなに
 可愛い女の子連れてるんじゃ。
@@ -101,31 +101,31 @@ select
 そ、そんな、
 か、か、関係では！
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そっか。<Stahn>君って
 いつまでも子供だと思ってたけど……
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 もう立派な男の人なんだね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 私もいつまでも
 女の子気分じゃダメね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 それじゃあ<Stahn>君、
 気をつけていってらっしゃい。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 あの人が、行方不明なの。
 こんな時は誰に頼めばいいのかしら!?
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 あの人が、行方不明なの。
 こんな時は誰に頼めばいいのかしら!?
@@ -161,12 +161,12 @@ select
 おじさんがいなくなった事を、
 どうして知る事が出来たんですか？
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 どうやらあの人、空からの攻撃の
 ちょうど真ん中にいたらしいんだよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 ちょうど、それを見ていた人が
 私に教えてくれたんだ。
@@ -175,12 +175,12 @@ select
 [ENDBLOCK]
 それじゃあ、おじさんは……
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 いいや、私にはわかるよ。
 あの人は生きている。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 すがっているんじゃないよ。
 ただ、分かるんだよ。
@@ -190,7 +190,7 @@ select
 分かりました。
 俺が、きっと探し出して見せます。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 あの人は人間ばなれしているからね。
 それにあの悪運は最強だよ。
@@ -234,63 +234,63 @@ select
 <TAG_005><Lilith>とバッカスの
 相合傘が手すりに彫られている。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 な、なんだそれ!?
 
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 やあ、<Lilith>ちゃん。
 今日もお買い物かい？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 ようこそ。ここはリーネの村です。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 よう、<Stahn>。今日も元気そうだな。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 ようこそ。ここはリーネの村です。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 <Stahn>、かわいい子連れてるな。
 いつ彼女ができたんだ？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 あれ、君ってもしかして
 <Stahn>の……え、えええ!!
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 なあ<Stahn>、この騒ぎは
 どこの国が起こした事なんだ？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 セインガルドか？	ファンダリアか？
 フィッツガルドじゃないよな？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 この騒ぎはなんだ!?
 どこの国が起こした事なんだ？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 のどかだったころが懐かしいな。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 よう、<Stahn>。噂は聞いてるぜ。
 大活躍だってな！
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 噂は聞いてるぜ。
 大活躍だってな！
@@ -364,79 +364,79 @@ Meat merchant
 [ENDBLOCK]
 何度でもトライだ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 きゃー、なにその青いの。
 かわいい～。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 仕入れの量を増やしたからね。
 もう品切れにはしないわ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 新鮮なお魚はいかがですか？
 
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 仕入れの量を増やしたからね。
 もう品切れにはしないわ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 旅に出るなら、魚は持てないね。
 
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あの放送を流してた人は、
 なんでこんな面倒な事をするの？
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 頼んだわよ、<Stahn>！
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あなた、頼んだわよ！
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 きゃー、なにその青いの。
 かわいい～。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 仕入れの量を増やしたからね。
 もう品切れにはしないわ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 新鮮なお魚はいかがですか？
 
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 仕入れの量を増やしたからね。
 もう品切れにはしないわ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 旅に出るなら、魚は持てないね。
 
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あの放送を流してた人は、
 なんでこんな面倒な事をするの？
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 頼んだわよ、<Stahn>！
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あなた、頼んだわよ！
 [ENDBLOCK]
@@ -612,69 +612,69 @@ Wonder Baker
 小生のパンで、
 おなかいっぱいになるがいいパン！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 そのモンスター
 すごいかっこいいね。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ねえねえ、どこで捕まえたの？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 <Lilith>お姉ちゃん
 遊ぼうよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ねえねえ、
 鬼ごっこしようよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 <Stahn>兄ちゃん、遊ぼう！
 鬼ごっこしようよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ねえねえ、
 鬼ごっこしようよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 <Stahn>兄ちゃん、旅に出るの？
 いいなー、おれも連れてってよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 おれも旅に連れてってよ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 <Stahn>兄ちゃん、ベルクラントとか、
 天地戦争とかって……何？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ベルクラント？
 天地戦争？	何なのそれ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 この前、村の中に、
 モンスターが入ってきたんだ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 前はそんな事なかったのに……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 村に入ってきたモンスターを、
 マギーおばさんがやっつけたんだよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 マギーおばさんがあんな強いなんて、
 知らなかったよ！
@@ -727,97 +727,97 @@ Wonder Baker
 あなたって英雄様なんだってね。
 頑張ってね。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 おや、<Lilith>ちゃん、
 ポケットドラゴンじゃないか。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 その子たちは神様の代わりに、
 幸せを運ぶと言われているんだよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 お兄ちゃんから、
 まだ連絡もないのかい？
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 私たちの村は大半が自給自足なんです。
 女だって力仕事をやりますよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 よっと……ほっと……
 うん？	<Stahn>じゃないか。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 精が出ますねだって？
 これくらい、楽ちんなもんさ！
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 私たちの村は大半が自給自足なんです。
 女だって力仕事をやりますよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 若いうちは好きなだけ旅をするといい。
 あたしも昔はそうだったよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 空の上から見下ろされるってのは、
 いい気分じゃないね。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 村の事は心配するんじゃないよ。
 あんたはあんたの事をやりな。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 あたしもまだまだ若いつもりだけど、
 あんたのじいさんも相当だね。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 村を襲ったモンスターを、
 あっさり片付けたのには驚いたよ。
 [ENDBLOCK]
-マギーおばさん
+Aunt Maggie
 [ENDBLOCK]
 あたしとトーマスで、
 モンスターどもは片付けたよ。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 初めて見る種類のドラゴンだけど、
 ずいぶんかわいいのね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Lilith>ちゃんが
 お母さん代わりなの？
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Bacchus>君がおじいちゃんのお使いで
 ノイシュタットに行ったけど……
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 まだ帰って来ないのよね。
 
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 まあ、セインガルドから旅を？
 
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 だったら途中で行き倒れた
 ツンツン頭の人なんて見てませんか？
@@ -827,52 +827,52 @@ Wonder Baker
 行き倒れたツンツン頭？
 見ていないな。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そうですか。それを聞いて
 少し安心しました。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Stahn>君、昔うちの庭の花、
 全部むしっちゃったの覚えてる？
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あのころはよくいたずらして、
 うちのお父さんに怒られてたよね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Stahn>君の
 お知り合いの人なんですか？
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Stahn>君、村に戻りたくなったら、
 いつでも戻ってきていいからね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 <Stahn>君の事、
 よろしくお願いします。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あの放送を流している人って誰なの？
 
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 もう二度と、お日様の下で、
 <Stahn>君と話したりできないの？
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 もう一度、お日様の下で、
 <Stahn>君とお話したかったな。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あたしも自分のできる事を頑張るわ。
 村を守らなくっちゃ。
@@ -1009,7 +1009,7 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 [ENDBLOCK]
 こいつを晩ご飯のおかずにしよう。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 くすくす。<Stahn>君ったら、
 楽しそうね。
@@ -1573,7 +1573,7 @@ Merick
 [ENDBLOCK]
 Depot
 [ENDBLOCK]
-???<x00>
+???
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1762,7 +1762,7 @@ Depot
 今、呼んで来ます。
 ちょっと待ってて下さい。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ルウェインさん……
 [ENDBLOCK]
@@ -1771,7 +1771,7 @@ Depot
 随分と久しぶりですね、トーマス。
 元気そうで何よりです。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 はい、年だけは取りましたが。
 [ENDBLOCK]
@@ -1779,7 +1779,7 @@ Depot
 [ENDBLOCK]
 それで、あの方は……？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 妻は……ずいぶんと前に。
 [ENDBLOCK]
@@ -1797,7 +1797,7 @@ Depot
 はい、もちろんです。
 なにせ……
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ル、ルウェインさん！
 [ENDBLOCK]
@@ -1842,7 +1842,7 @@ Depot
 俺はやっぱりじっちゃんの孫で
 <Lilith>の兄なのがしっくりきます。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Stahn>……
 [ENDBLOCK]

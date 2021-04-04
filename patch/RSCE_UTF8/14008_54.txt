@@ -72,7 +72,7 @@
 ●●残量メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 一番まともそうだから、
 お兄ちゃんが勝負してよね。
@@ -106,21 +106,21 @@ Man
 まあ、金持ちになると
 暇ですから。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ほらほら、もういいでしょ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 このあとどうするかは
 お兄ちゃんが決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースは複雑だから、
 しっかり覚えてね。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 勝負するのはお兄ちゃんでいいんだね？
 [ENDBLOCK]
@@ -153,21 +153,21 @@ Man
 ははは、目的なんてありません。
 金持ちになって暇なだけですよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ほらほら、もういいでしょ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 このあとどうするかは
 お兄ちゃんが決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースは複雑だから、
 しっかり覚えてね。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースもやり方も
 前までと一緒だからね。
@@ -176,15 +176,15 @@ Man
 [ENDBLOCK]
 うん、わかった。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 今日は……本気だよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 さあ、決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースもやり方も
 前までと一緒だからね。
@@ -193,11 +193,11 @@ Man
 [ENDBLOCK]
 さっさと、始めようじゃないか。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 今日は……僕も本気だよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 さあ、決めていいよ。
 [ENDBLOCK]
@@ -250,7 +250,7 @@ select
 [ENDBLOCK]
 やっぱ、僕には勝てないよね、ね！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうしたの？
 もう一回かけっこする？
@@ -265,14 +265,14 @@ select
 僕はこの街で一番
 足が速いんだよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ねえねえ、僕と
 かけっこ勝負しない？
 [ENDBLOCK]
 ねえ、もう一度僕と勝負しない？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -291,7 +291,7 @@ select
 [ENDBLOCK]
 なんだつまんないな。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 先ほどまでの先頭：<x17><x69><x44><x29><x80>
 
@@ -302,15 +302,15 @@ select
 コースの説明を聞く
 勝負をやめる
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんだあ残念。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんだあ残念。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ふーん逃げるんだ……
 [ENDBLOCK]
@@ -342,7 +342,7 @@ Man
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん速すぎだよー。
 [ENDBLOCK]
@@ -354,11 +354,11 @@ Man
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 僕が負けたの……？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 でもお兄ちゃんも頑張ったからね。
 勝ちを譲るよ。
@@ -371,42 +371,42 @@ Man
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん速すぎー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 でも、次は負けないからね！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 かならずまた来てねー。
 [ENDBLOCK]
 ゴール……
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 やったー僕の勝ち!!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃんの負けー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうする？
 もう何回でも相手したげるよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 やったー、やっぱり僕の方が速い!!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん遅いー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうする？
 もう何回でも相手したげるよ。
@@ -501,9 +501,9 @@ Man
 メッセージ再生
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おい金髪、
 おまえの持ってる剣……
@@ -522,7 +522,7 @@ select
 ほう、我の事が分かるのか？
 なかなかやるではないか。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 ……プププ、ダサい。
 [ENDBLOCK]
@@ -543,7 +543,7 @@ select
 バカもの！
 自ら明かすやつがあるか！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 何だよソーディアンって？
 [ENDBLOCK]
@@ -555,7 +555,7 @@ select
 [ENDBLOCK]
 そーじまん……だよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 掃除マン？
 [ENDBLOCK]
@@ -564,7 +564,7 @@ select
 これは剣に見えるけど、
 実は掃除をするための剣なんだ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 ほう。なんだか怪しいけど、
 みすぼらしいおまえにはピッタリだ。
@@ -855,27 +855,27 @@ Man
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 ねえ、あの元気な人の、
 お姉さんは見つかったの？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 一体、どんな女の子かな……
 乙女な感じだといいなあ。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 あれ！	もしかして君が!?
 [ENDBLOCK]
@@ -892,16 +892,16 @@ Man
 [ENDBLOCK]
 あの、どこかでお会いしましたか？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 なんだぁ、違うのか……
 ごめん、人違いだったみたい。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 あ、もしかして！
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あなたが手紙の人？
 [ENDBLOCK]
@@ -909,7 +909,7 @@ Man
 [ENDBLOCK]
 ああ!!
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 どうして<Stahn>君がいるの!?
 [ENDBLOCK]
@@ -918,7 +918,7 @@ Man
 なるほど、村長の娘さんとこちらの人が
 お手紙をやりとりしていたのですね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そうなの。でも、今日初めて
 会う事になってて。
@@ -927,12 +927,12 @@ Man
 [ENDBLOCK]
 それで<Philia>と、間違えたのか。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 じゃー、僕たちも
 どこかでゆっくりしようか。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そうね。<Stahn>君と彼女の
 邪魔をしちゃ悪いわね。
@@ -1064,197 +1064,197 @@ Old Man
 <TAG_005>ノイシュタット新規事業者募集。
 詳細はオベロン社までお問い合わせ下さい。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 ここはフィッツガルドの中心都市、
 ノイシュタットです。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 これは一体何の騒ぎなんですの！？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 あなたは闘技場の……
 ええと、コングガイさん？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 空に色々な物が浮かんでいるせいか、
 このところ日がかげりがちですね。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 とうとう日の光が、
 完全に遮断されましたね……
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 よく来てくださいました！
 どうかこの街をお救いください！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 今やこの街の繁栄ぶりは、
 ダリルシェイドにも負けませんよ。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 あの武装船団はどこの勢力ですか！
 街がめちゃめちゃにされてしまう！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 か、金ならいくらでも出します。
 武装船団をなんとかして下さい！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 マイティ！	マイティ！
 ……はっ、私とした事が。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 いつこの街も、
 攻撃を受けるかわかりませんね……
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 もはや万事休すなのでしょうか……
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 マイティ！	マイティ！
 どうかよろしく頼みます！
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 いらっしゃいませ！
 レンズの換金を承ります！
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 え～ん、会社からここを
 離れるなって言われました。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 セインガルドの金を吸い取って、
 この街は発展したんだよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 うちのパパがそう言ってたんだ。
 間違いないよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 この街が発展したのは、
 全部セインガルドのお陰だってさ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 うわーん！	パパー！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえら、よくやったな。
 パパに言っといてやるよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえなら、いつでも
 歓迎してやるぞ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おいおまえら、なんとかしろよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえら、頼むよ。
 お願いだからなんとかしてよ！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 あの、えっと……
 がんばれ、<Leader>。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 この街に元から住んでいる者たちは、
 どうも品位に欠けますな。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 ひいい、助けてっ！
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 なんだモンスターじゃないのか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 野蛮な奴らめを、
 こらしめてやってください！
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 街の平和を守ったのは、
 あんな野蛮な筋肉男ではないのに。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 空から攻撃を受けてしまったら、
 街のどこにいても同じでしょうな。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 人類は滅びるしかないんでしょうか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 この街に元から住んでいた者たちと
 協力し合う日が来るとは。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 この街が急速に発展したのは、
 オベロン社の功績ですわ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 子供とはぐれてしまいました。
 無事だといいのだけれど……
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 あのならず者たちを手引きしたのは、
 この街の誰かかもしれませんよ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 オベロン社の<Ilene>女史が、
 このところ姿を見せないんですよ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 以前武装船団に襲われた時よりも、
 今回の方が不安になります。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 青い空がなつかしいですわね……
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 娘ともう一度、日の光の下を
 歩ける日が来るといいのですが。
@@ -1291,50 +1291,50 @@ Kid
 [ENDBLOCK]
 お外はいつ元に戻るの？
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 宝石はいかがでしょうか？
 品揃えには自信がありますよ。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 武装船を追いかける皆さんですね。
 是非、当店でお買い物を。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 当店はいつでも営業中です！
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 気候が良くて、物がいっぱいあって。
 この街は住むのに最高ですわね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 今回の事を機に、住人同士が、
 少しでも仲良くなれるといいですね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 貧富の差はますます広がり、
 オベロン社への風当たりが強くなりました。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 <Ilene>さんも落胆しているでしょうね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 こんな時こそ、住人同士の結束が
 必要なのに……
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 <Ilene>さんがいなければ、
 それも難しいでしょうね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 下町の住人と協力しているところを、
 <Ilene>さんにも見せたかったです。
@@ -1359,15 +1359,15 @@ Old Man
 わしの提出したレンズも
 必ず使ってくだされ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 あの太陽に向かってゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えなくなってもゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えるようにゴーだ！
 [ENDBLOCK]
@@ -1427,7 +1427,7 @@ notice
 持てないようです。
 
 [ENDBLOCK]
-取り巻きの男
+Fan
 [ENDBLOCK]
 ノイシュタットにあるレンズは、
 これで全部です！

@@ -8,180 +8,184 @@
 RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
-陛下、先の<Greybum>の乱の
-被害調査報告書が、上がってまいりました。
+Your Majesty, the report on the 
+damage caused by the recent 
+rebellion of <Greybum> is here.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ、早急に、
-目を通させてもらうよ。
+Yes, I'll read it now.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-陛下、妃候補の資料を
-ご用意しましたので、
-必ずお目をお通しくださいませ！
+Your Majesty, I've prepared the documents
+for the princess candidates, please be sure
+to read through them!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-気は進まぬが、
-一応、見ておくよ。
+I'm not sure I want to... 
+but I'll take a look.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下、本年度の軍備予算の草案が
-まとまったとの事です。
+Your Majesty, the draft of
+the military budget for this
+year has been finalized.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-わかった。
+Understood.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下、我が城の備蓄に関する
-提案書を提出しましたので、
-是非、ご覧頂けないでしょうか。
+Your Majesty, I have submitted 
+a proposal for the reserves of 
+the Castle, and I hope you will 
+take a look at it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ありがとう。
-参考にさせてもらうよ。
+Thank you. I'll keep that in mind.
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
-みんなと陛下の
-似顔絵を、描いたんだ！
+I drew everyone 
+and His Majesty!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それは、楽しみだ。
-必ず見るからね。
+Wow! I'll definitely look at it.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ご存知の通り、父上のイザーク様は先日の
-<Greybum>の乱の際に崩御されました。
+As you know, your father, Isaac,
+passed away during the recent
+<Greybum> Rebellion.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-そして、母君はそれより前に
-逝去されています。
+And your mother passed
+ away before that...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-母を失った当時は、まだ陛下も幼く、
-部屋に何日も篭りました。
+His Majesty was very young when he
+lost his mother, and he spent many
+days holed up in his room.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-そして、三日三晩が過ぎた時です。
+And after three days
+and three nights.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-イザーク王は<Woodrow>殿下を、
-力ずくで部屋から引きずり出されました。
+King Isaac dragged His Highness
+out of the room by force.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの温厚なイザーク様がですか!?
+That mild-mannered Lord Isaac?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-はい。そして幼かった陛下を
-厳しく叱ったのです。
+Yes, and he scolded him severely.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-「おまえの前には国家が、
-後ろには国民がおるのだぞ！」と。
+"You have the nation in front of you 
+and the people behind you!" He said.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どういう事ですか？
+What does that mean?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-王が歩みを止めれば、国民はつまずき、
-決して国家も発展しない。
+If the king stops walking, the 
+people will stumble and the 
+nation will never prosper.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-むずかしいな～。
+Tough life...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-王とは、国と国民の間に
-存在するって事ですよ。
+Kingship means existing between
+a country and its people.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ですからイザーク様が倒れた時も、
-怒りを抑え、悲しみをこらえられたのです。
+That's why when Master Isaac died, 
+he was able to suppress his anger 
+and hold back his grief.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-国の明日のため、王族としての
-恥も省みず、お逃げ下さったのでしょう。
+For the country he had to 
+escape without looking back
 [ENDBLOCK]
 サブシナリオチェック:<x17><x72><x40><x20><x80>
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下、どうされました？
+Your Majesty, what is it?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、仕事があるようなのでな。
+It looks like I have work to do.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-そのような事、
-私にお任せ下さればいいものを。
+You should have leave 
+such matters to me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうもゆくまい。直接、
-頼まれてしまったのだからな。
+No, I've been asked to do it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-さほど時間はかからないと思う。
-少しの間、ここで待ってくれないか。
+It won't take long, why don't
+you wait here for me
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-は～い。
+Okay!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。
-お仕事、頑張ってください。
+I understand, 
+Do your best
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Darzen>さん。
-ひとつ聞いてもいいですか？
+<Darzen>, Can I ask
+you a question?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-なんですかな？
+What is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>さんのご家族って
-どうされたんですか？
+What happened to your
+family, <Woodrow>?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おや、戻ってこられたようですな。
+Well, it looks 
+like you're back.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-待たせてすまない。
-では、行くとしよう。
+Sorry to keep you 
+waiting. Now, let's go.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]

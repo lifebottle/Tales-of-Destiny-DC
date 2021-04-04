@@ -462,151 +462,163 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005><CENTER>Terazzi Navy Equipment Depot
+Authorized Personnel Only
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005><CENTER>Terazzi Navy Equipment Depot
+Authorized Personnel Only
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-おっかない大王がいなくなって、
-これで存分に釣りができるぜ！
+Now that the big boss is gone,
+I can fish to my heart's content!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-セインガルドと張り合う必要はない。
-俺たちは俺たちでやろうぜ。
+There's no need to compete
+with Seinegald. We'll do it
+on our own.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-あの空、何なんだろうなあ。
+I wonder what that is in the sky?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-世界中あちこちに、
-でかい穴が開けられたって本当か？
+Is it true that there are big 
+holes drilled all over the world?
 [ENDBLOCK]
-少女
+Little Girl
 [ENDBLOCK]
-大王の位を奪い、権力を極めた大王も、
-今は亡き人に……はかないですね。
+The great king who took the
+throne and reached the peak
+of his power has also died.
 [ENDBLOCK]
-少女
+Little Girl
 [ENDBLOCK]
-トウケイ領はやがてシデン領か
-モリュウ領に、編入されるでしょう。
+The Terazzi territory will 
+eventually be incorporated
+into Shiden or Moreau.
 [ENDBLOCK]
-少女
+Little Girl
 [ENDBLOCK]
-どうにかしたいと思っても、
-一介の市民にできる事なんてないですよ。
+Even if you want to do 
+something  about it, there is 
+nothing a single citizen can do.
 [ENDBLOCK]
-少女
+Little Girl
 [ENDBLOCK]
-レンズをお渡しするくらいは
-できますけど……
+I can at least give you some lens.
 [ENDBLOCK]
-少女
+Little Girl
 [ENDBLOCK]
-あの……どうか、ご無事で。
+That... please, be safe.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-大王が死んで、スカッとしたよ。
-あんな奴はいなくなって当然さ。
+I was so relieved when the
+Great One died. That guy 
+deserved to be gone.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-せっかくいい時代になったと
-思っていたんだがな。
+I thought we had come
+to a good time.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-空が完全に塞がれて、次は……？
+The sky is completely
+blocked, now what?
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-絶対勝ってくれよ。
+You've got to win.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ファンダリアへ向かうのでしたね。
+You were headed to Phandaria.
 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-それでしたら、港町の
-スノーフリアという街へ向かいます。
+If that's the case, we'll head
+to the port town of Frostheim.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>スノーフリアへ行きますか？
-はい
-いいえ
+<TAG_007>Do you want
+to go to Frostheim?
+Yes
+No
 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-栄光の黒十字艦隊が
-<Batista>に牛耳られてたなんて……
+I can't believe the glorious Black
+Cross fleet was run by <Batista>.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-……絶対言えないな。
-黙っておかないと。
+...I can never tell.
+I have to keep quiet.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-戦艦ってのは国を攻めるためでなく、
-守るためにあるのさ。
+Battleships are not for
+attacking countries, they
+are for protecting them.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-最近海が荒れてて、遭難者が
-続出してるんだよ。
+The sea has been rough
+lately, and there have been
+a lot of people in distress.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-けど、あなたたちが乗るのなら
-命を掛けさせてもらいますぜ。
+But if you guys are on
+board, I'll risk my life.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-今までは大王の権威を守るため、
-働いてきました。
+Until now, I have been 
+working to protect the
+authority of the Great King.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-これからはトウケイの民を守るため、
-働こうと思います。
+From now on, I'm going 
+to work to protect the
+people of Terazzi.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-<Eleanor>様というのは、元大王陛下の
-奥方様の事です。
+<Eleanor> is the former wife
+of His Majesty the Great.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-とはいえ、<Eleanor>様のお心が、
-大王陛下に向く事はなかったとか。
+However, I heard that <Eleanor>'s
+heart never turned to His Majesty
+the Great.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-<Eleanor>様がご存命なら、
-今回の事をどう思ったでしょうね。
+If <Eleanor> were still alive,
+Iwonder what she would have
+thought about this.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -840,36 +852,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

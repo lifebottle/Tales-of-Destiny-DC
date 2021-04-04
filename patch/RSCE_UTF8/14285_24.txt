@@ -19,7 +19,7 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 あーー!!
 [ENDBLOCK]
@@ -32,7 +32,7 @@ select
 <TAG_007>私は王家とは関係ないよ
 どうしたのだ少年？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 え？	そうなの？
 [ENDBLOCK]
@@ -40,18 +40,18 @@ select
 [ENDBLOCK]
 ああ、そうだよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんだー。絶対に<Woodrow>だと
 思ったのにな。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 でも、お兄さんも気をつけてね。
 <Woodrow>っていう悪いやつに
 似てるんだもん。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄さんって、イザーク王の息子の
 <Woodrow>じゃない？
@@ -60,7 +60,7 @@ select
 [ENDBLOCK]
 ……ああ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 え？	本当に？
 [ENDBLOCK]
@@ -68,7 +68,7 @@ select
 [ENDBLOCK]
 そうだ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 え、でも、どうして
 その事を隠さないの？
@@ -82,12 +82,12 @@ select
 嘘だけはつかない。
 ただ、そうしているだけだよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんか思っていたより
 <Woodrow>ってかっこいいよ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 あれ、あんた確か……？
 [ENDBLOCK]
@@ -100,7 +100,7 @@ select
 <TAG_007>あなたに見覚えはあるのだが……
 すまない。あなたを覚えていない
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 おー、そいつはうれしいね。
 <Mary>さん。
@@ -110,7 +110,7 @@ select
 おかしいな。あなたの顔を覚えているが、
 どうにも思い出せない……
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 はっはっは。気にするな。
 [ENDBLOCK]
@@ -118,21 +118,21 @@ select
 [ENDBLOCK]
 そうか……？
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 実は、俺は傭兵をやっていてね。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 以前、この街で雇われていた時に
 あんたを見た覚えがあったんだ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 あんたが俺の顔だけでも覚えていて
 くれたなんて、うれしいね。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 久しぶりにこの街に戻って来てから、
 あんたを見かけないなと思っていたんだ。
@@ -141,17 +141,17 @@ select
 [ENDBLOCK]
 そうなのか。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 まあ、何にせよ。
 生きていて結構な事だ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 あんたみたいな美人が死んじまったら、
 俺の楽しみが減っちまうからな。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 つれねえなー。
 おじさんガッカリ。
@@ -160,7 +160,7 @@ select
 [ENDBLOCK]
 す、すまない。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 いやいや、気にしないでいいよ。
 [ENDBLOCK]
@@ -228,40 +228,40 @@ notice
 [ENDBLOCK]
 扉は閉じられている。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 <Dalis>隊長はサイリルの英雄さ。
 二年間牢にいても死ななかったんだ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 <Dalis>隊長のケガ、
 早く治るといいなあ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 天地戦争って……何？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ベルクラントって……何？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 最近、寒さが厳しくなったみたい。
 お空が真っ暗になったせいかなあ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 レンズを使った秘密兵器で、
 空に穴を開けるんでしょ？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 がーんばれ！	がーんばれ！
 へ・い・か！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 がーんばれ！	がーんばれ！
 
@@ -370,27 +370,27 @@ notice
 [ENDBLOCK]
 あんたたち生きて帰ってきなよ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 <Greybum>様が味方してくれなきゃ、
 こううまくはいかなかっただろう。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 <Greybum>はこの国を征服するつもりで、
 俺たちを利用したのさ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 せっかく王家と和解したってのに、
 これからどうなっちまうんだ？
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 いくら雪かきしても、
 街が滅びたら意味がないよな……
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 俺もみんなのために
 出来る事をやりつづけるよ。

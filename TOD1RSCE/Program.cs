@@ -19,9 +19,12 @@ namespace sceWork
         private static bool dumpCount = false;
         private static bool flag1 = false;
         private static bool flag2 = false;
+        public static bool verbose = false;
 
         private static void Main(string[] args)
         {
+            Console.WriteLine("TOD1RSCE Module v0.8 - Decompiled Clone");
+
             if (File.Exists("jpcodes.txt"))
                 jpcodes = new tableModule("jpcodes.txt");
             if (File.Exists("codes.txt"))
@@ -29,7 +32,6 @@ namespace sceWork
 
             if (args.Length == 0)
             {
-                Console.WriteLine("TOD1RSCE Module v0.5 - Decompiled Clone");
                 Console.WriteLine("Generously donated by Temple of Tales Translations team");
                 Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
@@ -42,11 +44,12 @@ namespace sceWork
                 Console.WriteLine("    repack : .exe -r *.rsce");
                 Console.WriteLine("    repack : .exe -r <dir>");
                 Console.WriteLine("Add params:");
+                Console.WriteLine("    -v : Verbose failed string output");
                 Console.WriteLine("    -as <count> : Add <count> bytes to start file");
                 Console.WriteLine("    -ae : Seek file to 16 bytes");
                 Console.WriteLine("    -sjis : Use CP-932 (SHIFT-JIS) encoding");
                 Console.WriteLine("    -dedup : deduplicate strings on insertion");
-                Console.WriteLine("    -count : Dump byte count");
+                Console.WriteLine("    -count : Dump byte count (debug)");
                 Console.WriteLine("    -raw : Dump/insert raw bytes ignoring JPCODES and CODES");
                 //Console.ReadKey();
                 Environment.Exit(0);
@@ -62,7 +65,7 @@ namespace sceWork
                 {
                     if (jpcodes == null)
                     {
-                        Console.WriteLine("No JPCODES.txt file! Dumping raw bytes...");
+                        MiscUtils.Warn("No JPCODES.txt file! Dumping raw bytes...");
                     }
 
                     Extract(args[1]);
@@ -81,7 +84,7 @@ namespace sceWork
                 {
                     if (jpcodes == null)
                     {
-                        Console.WriteLine("No JPCODES.txt file! Assuming dump is raw...");
+                        MiscUtils.Warn("No JPCODES.txt file! Assuming dump is raw...");
                     }
 
                     Repack(args[1]);
@@ -98,14 +101,7 @@ namespace sceWork
                 }
             }
             Console.WriteLine("Complete!");
-            Console.ReadKey();
-        }
-
-        private static void Die(string message)
-        {
-            Console.WriteLine(message);
-            Console.ReadKey();
-            Environment.Exit(-1);
+            //Console.ReadKey();
         }
 
         private static void ParseArgs(string[] args)
@@ -114,44 +110,49 @@ namespace sceWork
             {
                 try
                 {
+                    if (args[index] == "-v")
+                    {
+                        verbose = true;
+                        MiscUtils.Info("verbose mode active");
+                    }
                     if (args[index] == "-sjis")
                     {
                         useSJIS = true;
-                        Console.WriteLine("using CP-932 (SHIFT-JIS) for this operation.");
+                        MiscUtils.Info("using CP-932 (SHIFT-JIS) for this operation.");
                     }
                     if (args[index] == "-count")
                     {
                         dumpCount = true;
-                        Console.WriteLine("dumping byte count to file.");
+                        MiscUtils.Info("dumping debug byte counts to file.");
                     }
                     if (args[index] == "-dedup")
                     {
                         doDeduplication = true;
-                        Console.WriteLine("string deduplication is active for this operation.");
+                        MiscUtils.Info("string deduplication is active for this operation.");
                     }
                     if (args[index] == "-raw")
                     {
                         dumpRaw = true;
-                        Console.WriteLine(" -Ignoring JPCODES and CODES for this operation.");
+                        MiscUtils.Info("Ignoring JPCODES and CODES for this operation.");
                     }
                     if (args[index] == "-as")
                     {
                         flag1 = true;
-                        Console.WriteLine(" -Activate add bytes to start.");
+                        MiscUtils.Info("Activate add bytes to start.");
                         if (!int.TryParse(args[index + 1], out _))
                         {
-                            Die("Error. The value of the -as parameter is not a number.");
+                            MiscUtils.Die("Error. The value of the -as parameter is not a number.");
                         }
                     }
                     if (args[index] == "-ae")
                     {
                         flag2 = true;
-                        Console.WriteLine(" -Activate add %16 to end.");
+                        MiscUtils.Info("Activate add %16 to end.");
                     }
                 }
                 catch (Exception)
                 {
-                    Die("Parameter reference error, perhaps a parameter was entered, but its value was not entered.");
+                    MiscUtils.Die("Parameter reference error, perhaps a parameter was entered, but its value was not entered.");
                 }
             }
         }
@@ -162,10 +163,8 @@ namespace sceWork
             Console.ForegroundColor = ConsoleColor.Red;
             for (int index = 0; index < args.Length; ++index)
             {
-
                 if (args[index] == "-as")
                 {
-                    Console.WriteLine(" -Activate add bytes to start.");
                     int.TryParse(args[index + 1], out result);
                 }
 
@@ -210,7 +209,7 @@ namespace sceWork
             }
 
             if (codes == null)
-                Console.WriteLine("No CODES.txt file! Special sequences will be ignored, output can get messy!");
+                MiscUtils.Warn("No CODES.txt file! Special sequences will be ignored, output can get messy!");
 
             List<string> stringList = new List<string>();
             for (int idx = 0; idx < sceModule.Count; ++idx)
@@ -292,8 +291,6 @@ namespace sceWork
             return;
         }
 
-
-
         private static void Repack(string fileName)
         {
             sceModule sceModule = new sceModule(fileName);
@@ -309,7 +306,7 @@ namespace sceWork
                 path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
 
             if (!File.Exists(path))
-                Die("The file \"" + Path.GetFileName(path) + "\" does not exist!");
+                MiscUtils.Die("The file \"" + Path.GetFileName(path) + "\" does not exist!");
 
             //Echo!
             Console.WriteLine(string.Format("Repacking {0}...", Path.GetFileName(fileName)));
@@ -335,21 +332,52 @@ namespace sceWork
             {
                 Array.Resize(ref strArray, strArray.Length - 1);
             }
+
             List<string> stringList = new List<string>();
+            List<string> plainStringList = new List<string>();
+            List<int> lineNumberList = new List<int>();
+            int lineNumber = 0;
+            int blockLine = 0;
             string str = "";
             for (int index = 0; index < strArray.Length; ++index)
             {
                 if (strArray[index].StartsWith("//"))
                     continue;
 
-                if (strArray[index] == "[ENDBLOCK]")
+                if (strArray[index].StartsWith("[ENDBLOCK]"))
                 {
+                    lineNumberList.Add(lineNumber - blockLine);
+                    blockLine = 0;
                     stringList.Add(str);
+                    plainStringList.Add(str.Replace("\r\n", "\\r\\n"));
                     str = "";
                 }
                 else
-                    str = !(strArray[index + 1] != "[ENDBLOCK]") ? str + strArray[index] : str + strArray[index] + "\r\n";
+                {
+                    if (strArray[index + 1].StartsWith("[ENDBLOCK]"))
+                    {
+                        str = str + strArray[index];
+                    }
+                    else
+                    {
+                        str = str + strArray[index] + "\r\n";
+                        blockLine++;
+                    }
+                }
+                lineNumber++;
             }
+
+            //check if same ammount of lines are present
+            if (sceModule.Header.fileStrings.Count != stringList.Count)
+            {
+                MiscUtils.Warn("Different amount of strings in the file!");
+                MiscUtils.Warn("expected "
+                    + sceModule.Header.fileStrings.Count + " but got "
+                    + stringList.Count);
+                MiscUtils.Warn("Packing anyway, but expect errors!");
+                Console.WriteLine();
+            }
+
             for (int index = 0; index < stringList.Count; ++index)
                 stringList[index] = AnsiToHex(stringList[index]);
             if (jpcodes != null)
@@ -364,18 +392,31 @@ namespace sceWork
             }
             else
             {
-                Console.WriteLine("No CODES.txt file! If the file has replaced tags they will be inserted verbatim!");
+                MiscUtils.Warn("No CODES.txt file! If the file has replaced tags they will be inserted verbatim!");
             }
 
+            int realLine = 0;
+            int skippedLine = 0;
             for (int index = 0; index < stringList.Count; ++index)
             {
-                if (stringList[index] == AnsiToHex("<IGNORE>") + "00")
+                realLine++;
+                while (stringList[index].StartsWith(AnsiToHex("<IGNORE>")))
                 {
+                    if (verbose)
+                        MiscUtils.Info("Ignoring block " + realLine + " (around line " + lineNumberList[index] + ")...");
+
+                    lineNumberList.RemoveAt(index);
+                    plainStringList.RemoveAt(index);
                     sceModule.Header.fileStrings.RemoveAt(index);
                     stringList.RemoveAt(index);
+                    realLine++;
+                    skippedLine++;
                 }
-                sceModule.SetBlock(index, HexToArrayByte(stringList[index]));
+                sceModule.SetBlock(index, HexToArrayByte(stringList[index]), plainStringList, lineNumberList);
             }
+
+            MiscUtils.Info("Ignored " + skippedLine + " blocks");
+            Console.WriteLine();
             sceModule.Save(doDeduplication);
             sceModule.Dispose();
         }

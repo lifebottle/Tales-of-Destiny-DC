@@ -373,7 +373,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ねえ、お兄ちゃん？
 [ENDBLOCK]
@@ -386,7 +386,7 @@ select
 <TAG_007>何の用だ？
 子供に用はない
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 お兄ちゃんって食べ物の
 好き嫌いがなさそうだね。
@@ -395,30 +395,30 @@ select
 [ENDBLOCK]
 ……ああ……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 なんだ、関係ないじゃん。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 そんな事言わないで聞いてよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 昨日ね、ぼくが嫌いなお野菜を
 残したら母さまが怒るんだ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 「そんな事じゃ
 大きくなれませんよ」って。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 それでお兄ちゃんに
 聞きたい事なんだけど。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 お兄ちゃんは嫌いな食べ物ってある？
 [ENDBLOCK]
@@ -427,7 +427,7 @@ select
 特に好き嫌いなどないが……
 甘いものは嫌いだ……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ほんと～？
 [ENDBLOCK]
@@ -435,7 +435,7 @@ select
 [ENDBLOCK]
 どうして疑うんだ？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 だってさ、お兄ちゃんってばちらちら
 アイスキャンディー屋さんを見てたよ。
@@ -444,7 +444,7 @@ select
 [ENDBLOCK]
 嫌いなものが目に付いただけだ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ふーん、それなら甘いものを
 食べれば大きくなれるって事だね。
@@ -508,12 +508,12 @@ select
 [ENDBLOCK]
 …………？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 だれか……見事な肉体をしていて、
 トップレスな奴はいないかな……
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 おお、あなたしかいない！
 [ENDBLOCK]
@@ -521,7 +521,7 @@ select
 [ENDBLOCK]
 ん？	俺様に用か？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 突然ですが、
 あなたのその肉体に惚れました。
@@ -544,16 +544,16 @@ select
 [ENDBLOCK]
 やい、俺様にそんな気はねえ！
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 あ、違います。
 勘違いしないで下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私、舞台の監督をやっている者です。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 実は、役者が病気になってしまって、
 代役を探していました。
@@ -563,7 +563,7 @@ select
 という事は……<Kongman>さんを
 その代役に？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 はい、その通りです。
 [ENDBLOCK]
@@ -577,7 +577,7 @@ select
 ふざけるなぁ。俺様はチャンピオンだぞ。
 代役なんてやらねえ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そんなぁ。私の舞台監督としての、
 今後が懸かっているんです。
@@ -596,12 +596,12 @@ select
 [ENDBLOCK]
 い、いえ、そこまでは……
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ホントですか！
 ありがとうございます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 では、さっそく行きましょう！
 [ENDBLOCK]
@@ -609,7 +609,7 @@ select
 [ENDBLOCK]
 何、今やるのか!?
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ええ！	会場には既に
 お客さんが入ってますからね！
@@ -618,12 +618,12 @@ select
 [ENDBLOCK]
 ……まじ……かよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 大丈夫、セリフはありません。
 私の指示どおりに演技をして下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう舞台が始まります。
 急ぎましょう。
@@ -660,26 +660,26 @@ select
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そこを出れば
 すぐに舞台となっています。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私はここから指示を出します。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 その指示に従って、演技をしてください。
 いいですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 何、大丈夫ですよ。
 あなたなら、必ずできます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、出番です！
 [ENDBLOCK]
@@ -707,7 +707,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あら、あなたは？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、彼女に求愛するんだ。
 [ENDBLOCK]
@@ -716,7 +716,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 あなたが私を助け出して下さる、
 白馬の王子さまなのですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 強い男をアピールするんだ！
 [ENDBLOCK]
@@ -728,11 +728,11 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ささ、私を連れ出して下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう一度。かっこつけるんだ。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 貴様、姫には触れさせん！
 [ENDBLOCK]
@@ -740,12 +740,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あなたは一体……？
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私は姫を心よりお慕い申し上げる者。
 しかし、父はしがない農民……
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 頭では身分の違いを分かっていても、
 この心が、姫の事をあきらめさせません。
@@ -764,7 +764,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 私の身も心も、
 全てをお救い下さい。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私が一生、
 姫をお守りします。
@@ -773,44 +773,44 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ……はい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう訳が分からない！	という笑いだ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 でも、状況が理解出来てきて、
 泣いてしまう！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いやー、素晴らしかったですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 あなたなら、トップスターも夢じゃない。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 まあ、初舞台ですからね。
 十分ですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 是非、また参加してください。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう一度、
 舞台に挑戦しますか？
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 それじゃ、もう一度説明しますね。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いつでも待ってますよ。
 [ENDBLOCK]
@@ -925,77 +925,77 @@ Man
 [ENDBLOCK]
 うーん……どうしよう……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 闘技場なんてなくしてしまえばいいのに。
 がらの悪い連中が集まって困るわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 最も被害を受けたのは、
 この広場でした。
 
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 しかし、逆に被害が集中していた分、
 すぐに復旧できた事は不幸中の幸いでした。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 <Ilene>様は下町の者に甘すぎます。
 ひとこと意見をさせて欲しいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 ノイシュタットさえ無事なら、
 他はこの際どうでもいいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 さすがにまずい状況ですわね……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 レンズだけでいいんですの？
 軍資金の提供もいたしますわよ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 だからどうか、どうか！
 私たちを助けてくださいましな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 見てたってやらないぞ。
 あっち行けよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 アイスキャンディーを食べる場所が
 戻って、安心したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 あの騒ぎで食べ損ねちゃったから、
 アイスキャンディーを買い直したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 最近、このあたりをうろつく
 下町のガキが増えたよな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ノイシュタットにだけは、
 雷を落とさないで欲しいよね。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパに頼んで、どこか明るい所に
 引越ししたいなあ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパが、これからは下町の連中とも
 仲良くしろって。どうしてかな？

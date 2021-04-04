@@ -446,36 +446,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

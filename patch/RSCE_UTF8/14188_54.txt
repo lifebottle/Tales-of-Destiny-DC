@@ -393,12 +393,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 乗らない
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 さあ、どこに行く？
 <x18><x65><x59><xFC><x00><x80><x18><x65><x5A><x00><x00><x80><x18><x65><x5A><x04><x00><x80>
 [ENDBLOCK]
-船頭
+Ferryman
 [ENDBLOCK]
 すまねぇ
 水門がふさがってて通れないな。
@@ -418,7 +418,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
 
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 あなた方はいつぞやの……！
 [ENDBLOCK]
@@ -427,7 +427,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 へえ。あたしたちもずいぶん
 有名になったみたいじゃない。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 ……おや？
 [ENDBLOCK]
@@ -435,7 +435,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 どうしました？
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 我がアクアヴェイルの宝剣を
 携えた剣士殿はおられないのですね。
@@ -452,7 +452,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Rutee>……
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 あの、どうかされましたか？
 [ENDBLOCK]
@@ -509,11 +509,11 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 それなのに、どうして
 取り戻さないのよ？
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 ああ、その話でしたら……
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 宝剣が宝剣として奉納される前まで、
 話を遡らなくてはなりませんね。
@@ -531,7 +531,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 じゃあ、それまで
 シャルティエは一体……？
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 長年、重罪人の処刑に
 使用されてきた剣でした。
@@ -564,17 +564,17 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 けど、そもそもどうして
 宝剣になったんですか？
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 聞いた話ですが、
 １０年くらい前の事です。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 どこかの誰かが処刑に使われている
 剣を宝剣にするべきだと……
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 当時の大王だった現シデン領主に
 進言したらしいのです。
@@ -588,7 +588,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 その王様に話した人って
 一体誰なんでしょうね。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 分かりません。ただ、
 大王に近い人物であった事は確かです。
@@ -607,12 +607,12 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 それを止めさせようとする
 人間も多かったはずさ。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 なるほど、
 確かにそうかもしれません。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 処刑を止めさせるため、処刑の剣を
 宝剣にしようとした可能性もあります。
@@ -622,32 +622,32 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 まあ、いずれにせよ
 その誰かさんの真意は闇の中さ。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 ご、ご苦労さまです！
 自分は大王派ではありません！
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 大王陛下が死んでからというもの、
 人々の表情が明るくなりました。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 今回の件、我が国を征服せんとする、
 セインガルドの陰謀なのでは？
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 大王に進言した人物って
 一体誰なんでしょうね。
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 私もだんだん気になってきました。
 
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
 信じて……いいんですよね？
 [ENDBLOCK]
@@ -700,12 +700,12 @@ Grandma
 頼んだわよ。<Fayte>様のお気持ちを、
 無駄にしないでください。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 品質には自信がありますよ。
 おひとつ、いかがです？
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 品質には自信がありますよ。
 おひとつ、いかがです？

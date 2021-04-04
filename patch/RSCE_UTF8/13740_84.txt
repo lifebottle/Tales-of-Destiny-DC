@@ -19,16 +19,16 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あら、ごめんあそばせ。
 おほほほ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 ただの主婦の雑談ですから……
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あら、あなた。
 この辺じゃ見かけない顔ね？
@@ -38,7 +38,7 @@
 ああ、わたしはファンダリアの
 サイリルという街のものだ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 あら、こちらご主人？
 [ENDBLOCK]
@@ -51,7 +51,7 @@
 いや、わたしの夫は
 サイリルにいる。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 そうなの、ごめんなさいね。
 [ENDBLOCK]
@@ -60,12 +60,12 @@
 いや、気にするな。
 それよりここで何の話をしているのだ？
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 もう、おばさんたちの
 井戸端会議に決まってるじゃない！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 今は、<Dryden>将軍の話を
 しているのよ。
@@ -75,12 +75,12 @@
 あの人、少しおっかない
 ですよね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 そうね、そういう人も
 いるのは事実ね。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 でも、このダリルシェイドでは
 すごい人気がある人なのよ。
@@ -89,7 +89,7 @@
 [ENDBLOCK]
 あのManが？
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 そうよ。軍属の人間なのに、
 国民の安全と幸せを一番に
@@ -110,7 +110,7 @@
 からかうって、<Mary>さん……
 なんか<Rutee>っぽいなあ。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 お客様、申し上げ難いのですが、
 現在、レンズ換金を行っておりません。
@@ -119,7 +119,7 @@
 [ENDBLOCK]
 え、どうして？
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 それはですね……
 [ENDBLOCK]
@@ -133,7 +133,7 @@
 <Stahn>。嘘ついてでも、
 理由を聞くのよ！
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 お客様、申し上げ難いのですが、
 現在、レンズ換金を行っておりません。
@@ -148,7 +148,7 @@
 その、明日までに借金を
 返さなくちゃ……いけないの？
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 そうなんですか？
 [ENDBLOCK]
@@ -166,7 +166,7 @@
 そうしないと、
 あたしたちに明日はない……かも。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 そう言われましても……
 [ENDBLOCK]
@@ -175,7 +175,7 @@
 それじゃ、換金できないのは
 分かったから、理由ぐらい教えてよ。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 ……オベロン社総帥の家に
 行ってみれば分かると思います。
@@ -210,10 +210,10 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ラディスロウに行きますか？
-行く
-行かない
+<TAG_007>It's a zero-gravity elevator.
+Do you want to go to Radisrol?
+Go
+Stay
 
 [ENDBLOCK]
 
@@ -394,32 +394,32 @@ Grandpa
 な、なんじゃーー！
 あの声は確か……!?
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 あの、ここにいた私の祖父を
 知りませんか？
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 いきなりどこかに行って
 しまったんです。
 何もないといいけど……
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 いったいおじいちゃんはどこに……？
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 あ！	あなたですか。
 祖父は見つかりましたよ。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 怖がってトイレに隠れていたんです。
 お騒がせしました。
 [ENDBLOCK]
-おじさん
+Old Man
 [ENDBLOCK]
 なんとかこの世界を救って下さい。
 [ENDBLOCK]
@@ -607,105 +607,105 @@ Girl
 お城へ行ってレンズを置いてきたわ。
 わたしも役に立ったでしょ？
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あら、<Lion>君？
 今、あなたの噂をしてたんだよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あなたが<Lion>君？
 いやー、近くで見ても美少年だねえ！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 聞いたよ、<Lion>君！
 大任を果たしたそうじゃないか。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あらら。私に声をかけるなんて。
 <Lion>君はホントかわいいねえ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 こないだ噂の<Lion>君を見たよ。
 ほれぼれするような美少年だったねえ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 兵隊さんの噂だと、
 <Lion>君がまた大任を果たしたそうだよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 最近、<Lion>君の姿を見ないけど、
 どこか遠くへ行ってるのかねえ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 <Lion>君はこんな大変な時に、
 どこへ行ってしまったんだい？
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 <Lion>君が悪者だったって噂があるけど、
 あたしは信じないよ。
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 あの忌々しい外殻とやらに、
 穴を開けておくれよ！
 [ENDBLOCK]
-婦人
+Lady
 [ENDBLOCK]
 絶対に負けるんじゃないよ！
 
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 <Lion>君には出世してもらいたいね。
 もう七将軍の時代じゃないんだからさ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 今日はお布団でも干そうかしらね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 <Lion>君もそろそろ七将軍に
 選ばれるんじゃないかい。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 <Lion>君には出世してもらいたいね。
 もう七将軍の時代じゃないよ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 今日はお布団でも干そうかしらね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 どうもお城の動きが、
 あわただしい気がするね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 空から聞こえてきた声、
 どこかで聞き覚えがあるんだよね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 空から放送を流していたのは、
 オベロン社の総帥だったらしいね。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 セインガルドはこれから、
 どうなってしまうのかねえ……
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 頼むよ。世界を元通りにしておくれ。
 [ENDBLOCK]
@@ -769,21 +769,21 @@ Man
 くそ、なんでだろうな……
 あの光を見てたら、涙が出てきたぜ。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 あなた総帥とお知り合いなの？
 普通にお話していたからビックリよ。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 レンズの買い取りを承っております。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 あなた総帥とお知り合いなの？
 普通にお話していたからビックリよ。
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 レンズの買い取りを承っております。
 [ENDBLOCK]
@@ -1171,7 +1171,9 @@ Soldier
 おまえという奴は……
 [ENDBLOCK]
 <Reynolds>さんが、
-意識を取り戻しました！<x00>研究室までお越しください。
+意識を取り戻しました！
+[ENDBLOCK]
+研究室までお越しください。
 お伝えしたい事があるそうです！
 [ENDBLOCK]
 <Stahn>

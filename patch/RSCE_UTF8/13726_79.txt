@@ -446,7 +446,7 @@ Meat merchant
 ダリルシェイドの民には、
 案外、人気のある人なんだよ。
 [ENDBLOCK]
-？？？？？
+???
 [ENDBLOCK]
 ん？	君は……
 [ENDBLOCK]
@@ -454,7 +454,7 @@ Meat merchant
 [ENDBLOCK]
 どこかでお会いしましたか？
 [ENDBLOCK]
-？？？？？
+???
 [ENDBLOCK]
 いや、君と話すのは初めてだ。
 だが君の噂は聞いている。
@@ -721,7 +721,7 @@ Meat merchant
 一生涯をかけて、刑に処させて
 いただきます。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 お兄さんたち……
 [ENDBLOCK]
@@ -729,7 +729,7 @@ Meat merchant
 [ENDBLOCK]
 何だ？
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 いえ、すみません。
 ただ、目が私と同じだと……
@@ -738,29 +738,29 @@ Meat merchant
 [ENDBLOCK]
 目が……同じ？
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 大切な人を、
 亡くした人の目です。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 いえね、私の親友が
 この海の近くで死にまして。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 海なんて見たくないのですが……
 けど海を離れて、あいつの事を
 忘れてしまうのも恐いんです。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あなたたちも大切な人を
 亡くした場所に、一度戻ってみると
 いいですよ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 その人もきっと、
 喜んでくれますから。
@@ -769,7 +769,7 @@ Meat merchant
 [ENDBLOCK]
 <Lion>のいなくなった場所……か。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 へへ、哀しみと戦う事なんかしないで、
 楽しく生きたいものですね。
@@ -786,150 +786,153 @@ Meat merchant
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あなたたちの中に田舎者がいるわ。
-わたしには分かるの。
+There's a redneck in your group. 
+I know it.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あなたは都会の人ね。
-格好を見ればわかるわ。
+You're a city girl. I can tell
+by the way you dress.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あなたは都会の人ね。
-格好を見ればわかるわ。
+You're a city girl. I can tell
+by the way you dress.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-最近、田舎者を見ないわ。
+I haven't seen any rednecks
+lately.
 
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あなたたち、田舎者でしょう。
-格好を見ればわかるわ。
+You're country folk, aren't you?
+I can tell by the way you're
+dressed.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あたしたちが悪い事をしたから、
-ばちが当たったの？
+Did we do something wrong?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-空に浮かんでる網目みたいなのが、
-だんだん増えている気がするわ。
+I feel like there's more and more
+of these webs floating in the sky.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空が完全にふたをされちゃったわ。
+The sky has been completely
+covered up.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-海からもモンスターが襲ってくるのよ。
-このままじゃみんな死んじゃうわ！
+Monsters are attacking us from the
+sea too. If we don't do something,
+we're all going to die!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あたしのレンズをあげる。
-だからこの街を守って！
+I'll give you my lens. So please,
+protect this city!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あたしのレンズ、役に立ったかな？
+Did my lens help?
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 俺はオベロン社は、きっと裏で、
 何か悪い事をしてると思うんだ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 そうでなきゃ、短期間のうちに、
 あそこまで大きくなるもんか。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 オベロン社はうさんくさい会社だと
 思うんだけどなあ……
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 夜は出航しないよ。
 また明日来てくれ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 俺はオベロン社は、きっと裏で、
 何か悪い事をしてると思うんだ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 そうでなきゃ、短期間のうちに、
 あそこまで大きくなるもんか。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 オベロン社はうさんくさい会社だと
 思うんだけどなあ……
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 以前、積荷の泥棒と間違えられて
 オベロン社の警備員に取り押さえ
 られた事があったよ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 あいつら、力が出なくなるガスを
 浴びせてくるから、その後
 仕事ができなくて参ったよ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 あの放送を聞いたかい？
 喋ってたのはオベロン社の<Hugo>だ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 やっぱり俺の言った通りだったろ？
 オベロン社は悪の集団だったのさ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 オベロン社の関係者は、
 全員逮捕するべきだよ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 いくらレンズをたくさん出したって、
 オベロン社が許される事はないさ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 オベロン社の総帥は独身でな。
 玉の輿を狙う女が大勢いるそうだ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 オベロン社の総帥が蒸発したそうだ。
 死んだって噂もあるぜ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 大変な事になった。
 魚なんか売ってる場合じゃないぜ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 売り物はないぜ。
 このところ入荷が途絶えててな。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 俺もあんたたちの手伝いをして、
 世界中を飛び回りたいぜ。
 [ENDBLOCK]
-魚を売る商人
+Fish Merchant
 [ENDBLOCK]
 あんたたち、頼んだぜ。
 天上方とやらに目に物見せてやれ！
@@ -1077,42 +1080,42 @@ Maid
 ……実は<Marian>にそういわれたの。
 あの人は本当に強いわね。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 ダリルシェイドへ来るのを、
 ずっと楽しみにしていたんです。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 ストレイライズ神殿に対する、
 この国の人の信仰心はすごいですね。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 僕の故郷にも神殿がありましたけど、
 全然栄えていませんでしたよ。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 これは天上神の力なのか……？
 僕たちが神の世界へ戻る日が来たのか？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 今世界に起こっている事態は、
 僕の故郷に残る言い伝えに似ています。
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 故郷の人たちはどうなっただろう？
 神の世界に戻る事ができたんだろうか？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 実は僕の出身はカルバレイスです。
 お気づきでしたか？
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
 カルバレイスに伝わっていた信仰は、
 天地戦争の事を指していたんですね。
@@ -1418,36 +1421,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

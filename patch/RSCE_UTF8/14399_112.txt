@@ -262,102 +262,102 @@ select
 休む
 休まない
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 そういえば、<Lilith>がおらんの。
 どこにいったんじゃ？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 孫娘に伝説のにんじんの話をしたら、
 村の外に飛び出して行ってしまった。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 まだ村の近くにいると
 思うのじゃが……
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 伝説のにんじんはこの村から、
 ずっと南にいった森にあるという事じゃ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 にんじんを守っている
 モンスターもいると聞いた事がある。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 気をつけるんじゃぞ。
 
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 伝説のにんじんはこの村から、
 ずっと南にいった森にあるという事じゃ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 にんじんを守っている
 モンスターもいると聞いた事がある。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Lilith>のことを
 宜しく頼みますぞ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 わしも昔はセインガルドの
 軍人でした。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 今は孫がその夢にきっと
 向かっている最中でしょう。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 どこかで会う事があれば、
 その時はよろしくお願います。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ここはおまえの家じゃ。
 好きなだけくつろぐがいい。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 みなさんも自分の家と思って
 好きなだけくつろいで下さい。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 己の信じる道を行け、<Stahn>。
 それがエルロン家の男の生き様じゃ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 わしから見れば<Stahn>もまだ子供です。
 本当によろしくお願いします。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Stahn>、おまえにはやる事があるだろう。
 こんな所で油を売っていてはいかん。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Lilith>や、
 <Stahn>を頼むぞ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 みなさんもお疲れになったら
 いつでも帰ってきてください。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ふむ、いい顔つきをしているな。
 それなら大丈夫だ。
@@ -436,7 +436,7 @@ select
 聞いてよ、おじいちゃん。
 お兄ちゃんったらひどいんだから！
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 なんじゃ<Stahn>、相変わらず、
 <Lilith>を困らせているのか。
@@ -700,12 +700,12 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Stahn>や、おまえはリーネの青年じゃ。
 疲れた時は、遠慮せずに帰ってくるんじゃぞ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 どうじゃ、久しぶりに
 家で休んでいったら。
@@ -769,7 +769,7 @@ notice
 [ENDBLOCK]
 俺も!?
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 俺は関係ないぞ。<Bacchus>だろ？
 [ENDBLOCK]
@@ -777,7 +777,7 @@ notice
 [ENDBLOCK]
 俺じゃない!!
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 僕も知らない。この人でしょ。
 [ENDBLOCK]
@@ -811,15 +811,15 @@ notice
 [ENDBLOCK]
 まさか!?
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 なんじゃと！
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 お、俺じゃないぞ……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 じゃあ、一体誰が
 お風呂をのぞいたの？
@@ -828,11 +828,11 @@ notice
 [ENDBLOCK]
 風呂を……
 [ENDBLOCK]
-青年
+Young Person
 [ENDBLOCK]
 のぞいた？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 え、え？
 [ENDBLOCK]
@@ -861,7 +861,7 @@ notice
 そのふたりは<Lilith>が怒っているのを
 見て、反射的に否定していただけ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 で、でも……
 [ENDBLOCK]
@@ -878,12 +878,12 @@ notice
 [ENDBLOCK]
 本当なの？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ……僕がお姉ちゃんの
 お風呂をのぞいた……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 すごいお兄ちゃんだね。
 お兄ちゃんの名前はなんて言うの？
@@ -892,12 +892,12 @@ notice
 [ENDBLOCK]
 俺の名前は、<Stahn>だ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 覚えさせてもらうよ、その名前！
 僕の名前は……
 [ENDBLOCK]
-Girl
+Boy
 [ENDBLOCK]
 何やってんの。このバカ！
 [ENDBLOCK]
@@ -910,7 +910,7 @@ Girl
 それにしても、
 すごいじゃないか<Stahn>！
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 急に人が変わったようで、
 驚いたぞ。
@@ -1108,7 +1108,7 @@ notice
 フィッツガルドにある旅人の小屋で
 確認する事ができます。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 これも何かの縁じゃ。
 休んでいくかね？
@@ -1119,12 +1119,12 @@ select
 はい
 いいえ
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 いつでも来ておくれ。
 
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 メニュー解放じゃ！！！！
 [ENDBLOCK]
@@ -1134,12 +1134,12 @@ notice
 新たな項目「フェイス絵」が解放
 されました。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 <Triangle_ani>を押し、
 続けて<Select_ani>を押すのじゃぞ。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 キャンバス解放じゃ！！！！
 [ENDBLOCK]
@@ -1149,11 +1149,11 @@ notice
 あなたが望めば、あの真っ白なキャンバスに
 仲間たちが、様々な表情を見せてくれるでしょう。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 蹴り石変化の術じゃ！！！！
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 この部屋を色々調べてみるがよい。
 [ENDBLOCK]
@@ -1163,7 +1163,7 @@ notice
 その新しい可能性として
 彼らが頑張ってくれるでしょう。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 ここより東の地、白銀の世界にある。
 なつかしき夫の下へ、向かえ！！！！
@@ -1247,7 +1247,7 @@ notice
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 ウェブサイトで入力する
 ゲームパスワードを忘れてしまったら、
@@ -1272,18 +1272,18 @@ notice
 話しかけて、連動ID・ゲームパスワードの
 確認の項目を選択してください。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 仲間たちの普段では見られない姿を、
 見る事ができるかもしれないぞ。
 
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 ちょいと楽しそうだとは
 思わんかね？
 [ENDBLOCK]
-？？？？？
+???
 [ENDBLOCK]
 初めて見る顔だな。
 フィッツガルドの人間かね？
@@ -1293,7 +1293,7 @@ notice
 はじめまして、<Stahn>って言います。
 生まれも育ちもリーネの村です。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 そうか、そうか。
 わしはコミュニ爺じゃ。
@@ -1304,7 +1304,7 @@ notice
 こみゅにじい……さんですね。
 よろしくお願いします。
 [ENDBLOCK]
-コミュニ爺
+Chatty Old Man
 [ENDBLOCK]
 うむ。人との触れ合いは
 一期一会。大切にな。
@@ -1323,7 +1323,7 @@ notice
 [ENDBLOCK]
 なるほど！	ありがとうございます！
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 どれ、久々に仕事でも
 手伝っていくか？
@@ -1333,12 +1333,12 @@ select
 <TAG_007>はい
 いいえ
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 そうか。
 では、羊の放牧をやってくれ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 そうじゃな、
 今はやるべき事があるじゃろ。
@@ -1351,12 +1351,12 @@ select
 [ENDBLOCK]
 何だ、ジョナサン？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 わしが弓を使っても、あんなもの
 当てられないじゃろうな……
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 わしが弓を使っても、あんなもの
 当てられないじゃろうな……
@@ -1366,7 +1366,7 @@ select
 弓の事でしたら、
 この<Chelsea>にお任せください。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 このお嬢さんが？
 [ENDBLOCK]
@@ -1375,16 +1375,16 @@ select
 <Chelsea>はすっごく弓が
 上手いんだ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 それじゃあ、お願いしようかの。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 家の前の一本木のてっぺん辺りに、
 何かが引っかかっているようなんじゃ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 矢を近くに当てれば、
 落ちてくると思うんじゃがの。
@@ -1407,7 +1407,7 @@ select
 [ENDBLOCK]
 ちょっと待ってて下さいね。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 おお、早いのお。
 もう終わったのか？
@@ -1425,7 +1425,7 @@ select
 [ENDBLOCK]
 たまごですねぇ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 これが引っかかって
 おったのか？
@@ -1460,7 +1460,7 @@ select
 <Lilith>をお母さんだと
 思っているのかな？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 <Lilith>が責任を持って
 面倒見るんじゃな。
@@ -1470,17 +1470,17 @@ select
 え～。私はお兄ちゃんだけで
 充分なのに。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ほれ、散歩でも
 連れて行ってやれ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ほれ、散歩でも
 連れて行ってやれ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 どうじゃった？
 [ENDBLOCK]
@@ -1488,7 +1488,7 @@ select
 [ENDBLOCK]
 なんか、すっごいよかった。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 そうか、でもこれから
 どうするつもりじゃ？
@@ -1498,7 +1498,7 @@ select
 おじいちゃん。しばらく
 この子の面倒をお願いしていい？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 まだ<Stahn>と一緒に
 いるつもりなのじゃな？
@@ -1508,7 +1508,7 @@ select
 うん。この子と離れるのは
 寂しいけど……
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 三人目の孫と思えば
 かわいいもんじゃ。
@@ -1518,7 +1518,7 @@ select
 何言ってるのおじいちゃん。
 「ひ孫」よ。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ほっほっほ。そうじゃな。
 <Lilith>の子供じゃったな。
@@ -1528,7 +1528,7 @@ select
 ねえ、おじいちゃん。
 あの子はどこ？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 それが、どこにいるか
 わからんのじゃ……
@@ -1546,7 +1546,7 @@ select
 あの子、自然に
 いなくなったの？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ああ、そうじゃ……
 すまないの、<Lilith>。
@@ -1559,7 +1559,7 @@ select
 [ENDBLOCK]
 <Lilith>？
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ああ。生まれた頃より
 ずっとずっと大きくなったぞ。
@@ -1600,7 +1600,7 @@ select
 今度会う時は、もしかしたら
 奥さんと子供連れてきたりして！
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 そんな事があったら、
 <Lilith>も<Stahn>にかまってられんの。
@@ -1613,7 +1613,7 @@ select
 [ENDBLOCK]
 あはははは。
 [ENDBLOCK]
-トーマス
+Thomas
 [ENDBLOCK]
 ほっほっほ。<x00>
 [ENDBLOCK]
