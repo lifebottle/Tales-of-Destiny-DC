@@ -8,18 +8,18 @@
 RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-炎を灯した。
+Light the flame.
 [ENDBLOCK]
-炎を消した。
+Extinguished the flame.
 [ENDBLOCK]
-通れるようになった。
+You were able to pass.
 [ENDBLOCK]
-通れなくなった。
+You couldn't get through.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>不思議な力が、
-道を塞いでいる。
+<TAG_007>A mysterious force
+is blocking the way.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

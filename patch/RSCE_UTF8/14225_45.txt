@@ -267,70 +267,70 @@ select
 <TAG_005>こんな平和な時代だからこそ
 家に１本、剣を備えましょう。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ティルソの森なら、
 街を出て北にあるわよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ここはスノーフリアの街よ。
 あなたたち、悪い時に来たわね。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ようこそ、ここはファンダリアの
 海の玄関口、スノーフリアよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 反乱が終わったと思ったら、
 今度は天地戦争ですって……？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 恐ろしい事になってしまいました……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 この街のレンズなら、
 既にハイデルベルグに運びましたよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 戦いを終わらせてください。頼みます。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ひとりで街の外に出るですって？
 
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 モンスターは相手が女の子ひとりでも
 容赦してくれないんだから、気をつけなさい。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 今はとにかく、
 負傷者の救護をしないと……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 一時はどうなるかと思いましたが、
 もう安心ですね。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 天地戦争って……私たちが、
 何をしたと言うんですか？
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 食べ物の蓄えがあまりないんです。
 このままの状態が続いたら……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 セインガルドですごい兵器を
 作っているそうですね。
@@ -1009,7 +1009,7 @@ Depot
 [ENDBLOCK]
 ???<x00>
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あら、あなた……？
 [ENDBLOCK]
@@ -1022,7 +1022,7 @@ select
 <TAG_007>なんだ？
 （……無視……）
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あれ……女の子よね？
 [ENDBLOCK]
@@ -1031,50 +1031,50 @@ select
 なんだと？	もう一度言ってみろ。
 どうなるか……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 キャー、ごめんごめん。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ、あなたセインガルドの人？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 だったら、<Lion>って名前の
 剣士様知らない？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 一度だけ遠くから
 お顔を拝見した事があるのよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 すっごい綺麗な剣士様で、
 私憧れてるんだ～。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あんなに小柄な体なのに、
 屈強な男たちを引き連れて、
 戦場で華麗に舞っているんだわ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 だから私、<Lion>様を
 こう呼んでいるのよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 「セインガルドの薔薇」ってね。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 私も同じ女だけど……
 <Lion>様になら……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 おや、<Mary>ちゃん？
 [ENDBLOCK]
@@ -1087,7 +1087,7 @@ select
 <TAG_007>お久しぶりです
 えーっと……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ええ。ところで<Mary>ちゃん？
 記憶をなくしていたって聞いたけど……
@@ -1096,12 +1096,12 @@ select
 [ENDBLOCK]
 ああ、すっきり忘れていたぞ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 あっはっは。
 ホント、<Mary>ちゃんは面白いねえ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 今度、サイリルに遊びに行くよ。
 <Dalis>の顔も見ておきたいからね。
@@ -1110,12 +1110,12 @@ select
 [ENDBLOCK]
 楽しみにしているぞ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 相変わらずとぼけてるとこが
 あるのね<Mary>ちゃんは。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 どうなの、<Dalis>とは
 上手くやってるの？
@@ -1124,7 +1124,7 @@ select
 [ENDBLOCK]
 おお！	あなたは!!
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 「誰？」なんていう
 ボケじゃないだろうね。
@@ -1135,11 +1135,11 @@ select
 となりに住んでいて、幼い<Dalis>の面倒を
 よく見てくれたご婦人ですね。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 よ、よく覚えてくれてるねぇ……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ま、いいよ。
 堅物の<Dalis>にはあんたぐらいの嫁が
@@ -1149,13 +1149,13 @@ select
 [ENDBLOCK]
 ありがとう。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 <Dalis>と上手くやって、
 はやくおばちゃんにあんたたちの
 子供を抱かせておくれよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ……
 [ENDBLOCK]
@@ -1168,7 +1168,7 @@ select
 <TAG_007>お嬢さん、俺様が何か？
 今はプライベートなんだ、サインは後にしてくれ
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あんたが裸でいると、
 私が不快なんだけど。
@@ -1178,7 +1178,7 @@ select
 そんなバカな。
 そんな女がいるはずがねえ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 いるんだけど、ここに。
 [ENDBLOCK]
@@ -1187,7 +1187,7 @@ select
 がっはっは。
 そんなやつはいないぜ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 はあ？
 [ENDBLOCK]
@@ -1195,16 +1195,16 @@ select
 [ENDBLOCK]
 だから、サインは後に……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 はあ？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ、あんたさ。
 なんで裸なの……？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 仲間はなんとも言わないの？
 [ENDBLOCK]
@@ -1213,7 +1213,7 @@ select
 がっはっは。
 俺様のこの筋肉を見たくないやつはいない！
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 恐……<x00>
 [ENDBLOCK]
