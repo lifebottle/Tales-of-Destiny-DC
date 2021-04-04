@@ -8,19 +8,20 @@
 RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-不思議な力が失われました。
+The mysterious power has been lost.
 [ENDBLOCK]
-不思議な力で通路が塞がれました。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007>不思議な力が、
-通路を塞いでいる。
+The passage has been blocked
+by a mysterious power.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>燭台の炎の配置に何かの
-仕掛けがありそうです。
+<TAG_007>A mysterious force 
+is blocking the passage.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There seems to be some kind of
+trick in the placement of the flames
 [ENDBLOCK]
 notice
 [ENDBLOCK]
