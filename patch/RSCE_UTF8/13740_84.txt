@@ -210,10 +210,10 @@ Lens Merchant
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ラディスロウに行きますか？
-行く
-行かない
+<TAG_007>It's a zero-gravity elevator.
+Do you want to go to Radisrol?
+Go
+Stay
 
 [ENDBLOCK]
 
@@ -1171,7 +1171,9 @@ Soldier
 おまえという奴は……
 [ENDBLOCK]
 <Reynolds>さんが、
-意識を取り戻しました！<x00>研究室までお越しください。
+意識を取り戻しました！
+[ENDBLOCK]
+研究室までお越しください。
 お伝えしたい事があるそうです！
 [ENDBLOCK]
 <Stahn>

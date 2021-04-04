@@ -764,10 +764,11 @@ to rest will go to the inn, alright?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>It's the weightless elevator.
+
+<TAG_007>It's a zero-gravity elevator.
 Do you want to go to Radisrol?
-I'm going
-Not yet
+Go
+Stay
 
 [ENDBLOCK]
 notice
