@@ -253,9 +253,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-神殿へ戻りますか？
-はい
-いいえ
+Return to the temple?
+Yes
+No
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
