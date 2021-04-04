@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -308,17 +308,17 @@ Alba[END]
 
 //Text $19A5A8
 #WRITE(ptr,$D8780)
-Talking Sword[END]
+A Talking Sword[END]
 
 
 //Text $19A5A0
 #WRITE(ptr,$D8784)
-Mountain Hut[END]
+Cabin[END]
 
 
 //Text $19A590
 #WRITE(ptr,$D8788)
-Lost Child[Chelsea][END]
+Lost Kid [Chelsea][END]
 
 
 //Text $19A580
@@ -338,17 +338,17 @@ At the Temple[END]
 
 //Text $19A550
 #WRITE(ptr,$D8798)
-The Kingdom's Young Swordsman[END]
+Young Swordsman[END]
 
 
 //Text $19A538
 #WRITE(ptr,$D879C)
-Royal Capital Darilsheid[END]
+Capital Darilsheid[END]
 
 
 //Text $19A520
 #WRITE(ptr,$D87A0)
-The Temple Frozen in Silence[END]
+A Temple in Silence[END]
 
 
 //Text $19A508
@@ -363,12 +363,12 @@ Desert Island[END]
 
 //Text $19A4E8
 #WRITE(ptr,$D87AC)
-Mysterious Temple[END]
+An Odd Temple[END]
 
 
 //Text $19A4D8
 #WRITE(ptr,$D87B0)
-Beautiful Partnership[END]
+Jolly Co-Op[END]
 
 
 //Text $19A4C0
@@ -388,12 +388,12 @@ The Abyss[END]
 
 //Text $19A490
 #WRITE(ptr,$D87C0)
-The Jolly Minstrel[END]
+Jolly Minstrel[END]
 
 
 //Text $19A480
 #WRITE(ptr,$D87C4)
-To Moreau Castle[END]
+Moreau Castle[END]
 
 
 //Text $19A468
@@ -403,7 +403,7 @@ Rampage! Sea Mollusk[END]
 
 //Text $19A450
 #WRITE(ptr,$D87CC)
-Depression in the Great King's Town[END]
+Silence in the streets[END]
 
 
 //Text $19A440
@@ -411,7 +411,6 @@ Depression in the Great King's Town[END]
 [Tiberius] the Great's Castle[END]
 
 
-#JMP($19A190)
 //Text $19A430
 #WRITE(ptr,$D87D4)
 Pursuing [Greybum][END]
@@ -419,7 +418,7 @@ Pursuing [Greybum][END]
 
 //Text $19A420
 #WRITE(ptr,$D87D8)
-Southern Port City[END]
+Southern Port[END]
 
 
 //Text $19A410
@@ -429,14 +428,15 @@ Frozen Forest[END]
 
 //Text $19A3F8
 #WRITE(ptr,$D87E0)
-Remembrance of Days Past[END]
+Memories of Days Past[END]
 
 
 //Text $19A3E8
 #WRITE(ptr,$D87E4)
-Secret Underground Passage[END]
+Secret Tunnel[END]
 
 
+#JMP($19A190)
 //Text $19A3D0
 #WRITE(ptr,$D87E8)
 Showdown at Heidelberg[END]
@@ -444,27 +444,27 @@ Showdown at Heidelberg[END]
 
 //Text $19A3C0
 #WRITE(ptr,$D87EC)
-Home After a Long Time[END]
+Home, Finally[END]
 
 
 //Text $19A3A8
 #WRITE(ptr,$D87F0)
-Back to Seingald[END]
+Back to Seinegald[END]
 
 
 //Text $19A398
 #WRITE(ptr,$D87F4)
-The Secret of the Lone Island[END]
+Island's Secret[END]
 
 
 //Text $19A388
 #WRITE(ptr,$D87F8)
-The Nightmare Begins[END]
+Nightmare Start[END]
 
 
 //Text $19A378
 #WRITE(ptr,$D87FC)
-Reviving the Aerial City[END]
+Aeropolis Rise[END]
 
 
 //Text $19A368
@@ -484,7 +484,7 @@ Securing Transport[END]
 
 //Text $19A328
 #WRITE(ptr,$D880C)
-A Man's Circumstances[END]
+Heroic Saga[END]
 
 
 //Text $19A318
@@ -494,32 +494,32 @@ Grieving Beauty[END]
 
 //Text $19A308
 #WRITE(ptr,$D8814)
-Suprise Attack！[END]
+Suprise Attack![END]
 
 
 //Text $19A2F8
 #WRITE(ptr,$D8818)
-Lord of the Heavens[END]
+Heavens Lord[END]
 
 
 //Text $19A2E0
 #WRITE(ptr,$D881C)
-A World Shrouded in Darkness[END]
+A World in Darkness[END]
 
 
 //Text $19A2D0
 #WRITE(ptr,$D8820)
-Attack of the Demons[END]
+Demons Attack[END]
 
 
 //Text $19A2B8
 #WRITE(ptr,$D8824)
-Strategy: Attacking the Aerial City[END]
+Aerial City Assault[END]
 
 
 //Text $19A2A8
 #WRITE(ptr,$D8828)
-The Ultimate Test[END]
+Ultimate Test[END]
 
 
 //Text $19A290
@@ -534,12 +534,12 @@ Not Enough Lens![END]
 
 //Text $19A268
 #WRITE(ptr,$D8834)
-The Night of Warriors[END]
+Warriors Night[END]
 
 
 //Text $19A258
 #WRITE(ptr,$D8838)
-Toward the Future[END]
+Toward Tomorrow[END]
 
 
 //Text $19A248
@@ -559,7 +559,7 @@ A New Mission[END]
 
 //Text $19A210
 #WRITE(ptr,$D8848)
-[Hugo]'s Prediction[END]
+[Hugo]'s Plans[END]
 
 
 //Text $19A520
@@ -569,7 +569,7 @@ A Temple in Silence[END]
 
 //Text $19A200
 #WRITE(ptr,$D8850)
-[Lion]'s Determination[END]
+[Lion]'s Resolve[END]
 
 
 //Text $19A508
@@ -629,7 +629,7 @@ Depression in the Great King's Town[END]
 
 //Text $19A440
 #WRITE(ptr,$D8880)
-[Tiberius] the Great's Castle[END]
+[Tiberius]'s Castle[END]
 
 
 //Text $19A430
@@ -649,7 +649,7 @@ Frozen Forest[END]
 
 //Text $19A3F8
 #WRITE(ptr,$D8890)
-Remembrance of Days Past[END]
+Memories of Days Past[END]
 
 
 //Text $19A3E8
@@ -669,10 +669,9 @@ Two Soldiers[END]
 
 //Text $19A1D0
 #WRITE(ptr,$D88A0)
-Time for the Two of Us[END]
+Time Together[END]
 
 
-#JMP($19AC90)
 //Text $19A1B8
 #WRITE(ptr,$D88A4)
 Unidentifiable Monster[END]
@@ -680,7 +679,7 @@ Unidentifiable Monster[END]
 
 //Text $19A1A8
 #WRITE(ptr,$D88A8)
-Broken Happiness[END]
+Lost Happiness[END]
 
 
 //Text $19A190
@@ -692,7 +691,7 @@ For the sake of one…[END]
 
 //Text $19ADE0
 #WRITE(ptr,$180BCC)
-Aahh...![END]
+Aahh!!![END]
 
 
 //Text $19ADD0
@@ -702,7 +701,7 @@ Is this...it?[END]
 
 //Text $19ADC0
 #WRITE(ptr,$180BEC)
-You giving up?[END]
+You're giving up?[END]
 
 
 //Text $19ADA8
@@ -712,7 +711,7 @@ That voice from before?[END]
 
 //Text $19AD98
 #WRITE(ptr,$180C0C)
-And your name?[END]
+What is your name?[END]
 
 
 //Text $19AD80
@@ -722,22 +721,23 @@ And your name?[END]
 
 //Text $19AD70
 #WRITE(ptr,$180C2C)
-Listen, [Stahn][END]
+Listen well, [Stahn].[END]
 
 
 //Text $19AD58
 #WRITE(ptr,$180C3C)
-I'll lend you my power.[END]
+I will lend you my power.[END]
 
 
 //Text $19AD40
 #WRITE(ptr,$180C4C)
-So, you must trust me.[END]
+But you must trust me.[END]
 
 
+#JMP($19AC90)
 //Text $19AD28
 #WRITE(ptr,$180C5C)
-Grab on tightly...[END]
+Now, grab on tightly...[END]
 
 
 //Text $19AD08
@@ -757,7 +757,7 @@ My name is...[END]
 
 //Text $19ACD8
 #WRITE(ptr,$180C9C)
-Your name is...[END]
+Your name is...![END]
 
 
 //Text $19ACC8
@@ -782,141 +782,142 @@ Get up, [Stahn]![END]
 
 //Text $19AEA0
 #WRITE(ptr,$180CFC)
-[Lion]！ [Lion]！[END]
+[Lion]! [Lion]!![END]
 
 
 //Text $19AE80
 #WRITE(ptr,$180D0C)
-ここも間もなく水に飲まれる[END]
+The water will fill this place, soon...[END]
 
 
 //Text $19AE60
 #WRITE(ptr,$180D1C)
-付き合わせてすまないな シャル[END]
+I'm sorry you had to get stuck with me like this, Chal...[END]
 
 
 //Text $19AE48
 #WRITE(ptr,$180D2C)
-どこまでもお供しますよ[END]
+I will be by your side, no matter what.[END]
 
 
 //Text $19AE28
 #WRITE(ptr,$180D3C)
-僕のマスターは坊ちゃんです[END]
+You will always be my young master.[END]
 
 
 //Text $19AE18
 #WRITE(ptr,$180D4C)
-これで……[END]
+This is...[END]
 
 
 //Text $19ADF0
 #WRITE(ptr,$180D5C)
-これで良かったんだろう？ マリアン[END]
+This is the right thing to do...right, Marian...?[END]
 
 
 //Text $19AEF0
 #WRITE(ptr,$180D7C)
-うおおおお[END]
+#WRITE(ptr,$180D9C)
+HAAAAAAAAH!!!!!![END]
 
 
 //Text $19AEE0
 #WRITE(ptr,$180D8C)
-切り裂け[END]
+Tear it apart!![END]
 
 
-//Text $19AEF0
-#WRITE(ptr,$180D9C)
-うおおおお[END]
+//Text $19AEB8
+#WRITE(ptr,$180DAC)
+It's working! We can attack Belcrant now![END]
 
 
 //Text $19B098
 #WRITE(ptr,$180DCC)
-本当にこれしか方法はないんだな？[END]
+Is there really no other way?[END]
 
 
 //Text $19B090
 #WRITE(ptr,$180DDC)
-そうだ[END]
+There is not.[END]
 
 
 //Text $19B080
 #WRITE(ptr,$180DEC)
-いいのだよ[Stahn][END]
+It's alright, [Stahn].[END]
 
 
 //Text $19B068
 #WRITE(ptr,$180DFC)
-我らは長く生きすぎた[END]
+We Swordians have lived very long lives.[END]
 
 
 //Text $19B048
 #WRITE(ptr,$180E0C)
-不謹慎な言い方かもしれないけど[END]
+This might not be the best way to say it but...[END]
 
 
 //Text $19B028
 #WRITE(ptr,$180E1C)
-お前と旅ができて楽しかったよ[END]
+I really enjoyed our time together.[END]
 
 
 //Text $19B020
 #WRITE(ptr,$180E2C)
-我もだ[END]
+As did I.[END]
 
 
 //Text $19AFE8
 #WRITE(ptr,$180E3C)
-世話のかかる者ほど 愛着がわくというのは本当だな[END]
-
+It's true. The more I had to help you,[LINE]the more you grew on me.[END]
 
 //Text $19AFD8
 #WRITE(ptr,$180E4C)
-我は思うのだ[END]
+This is what I believe.[END]
 
 
 //Text $19AFC8
 #WRITE(ptr,$180E5C)
-お前との出会い[END]
+Our fateful meeting...[END]
 
 
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
-その後の変遷を経て 今に至る過程こそ[END]
+...and everything that lead us to this moment...[END]
 
 
 //Text $19AF90
 #WRITE(ptr,$180E7C)
-まさに一篇の[END]
+It's something out of a story.[END]
 
 
 //Text $19AF70
 #WRITE(ptr,$180E8C)
-運命の物語だったのかもしれんと[END]
+A tale of destiny, if you will.[END]
 
 
 //Text $19AF50
 #WRITE(ptr,$180E9C)
-この世界の未来をお前に託す[END]
+The future of this world is in your hands.[END]
 
 
 //Text $19AF30
 #WRITE(ptr,$180EAC)
-我がマスター [Stahn]・エルロンよ[END]
+My master, [Stahn] Aileron...[END]
 
 
 //Text $19AF10
 #WRITE(ptr,$180EBC)
-さあ 最後の使命を果たすのだ[END]
+Now, let us carry out our final mission!![END]
 
 
 //Text $19AF00
 #WRITE(ptr,$180ECC)
-ディムロス……[END]
+Dymlos...[END]
 
 
 //Section Support
 
+#JMP($19B370)
 //POINTER #19 @ $18108C - STRING #19 @ $19B370
 #WRITE(ptr,$18108C)
 She adds a new twist to dishes made[LINE]
@@ -924,7 +925,6 @@ from the food sack. It's so tasty[LINE]
 that it increases HP recovery.[END]
 
 
-#JMP($19B370)
 //POINTER #18 @ $181088 - STRING #18 @ $19B3D8
 #WRITE(ptr,$181088)
 Condiment Industry[END]
@@ -1030,6 +1030,7 @@ Also finds valuables.[END]
 Treasure Hunting[END]
 
 
+#JMP($19BDC0)
 //POINTER #1 @ $181044 - STRING #1 @ $19B6E0
 #WRITE(ptr,$181044)
 Takes a nap to recover HP.[LINE]
@@ -1069,7 +1070,6 @@ Embossing Nap[END]
 [Circle_ani]Inspect[END]
 
 
-#JMP($19BDC0)
 //Text $19C058
 #WRITE(ptr,$181234)
 [Circle_ani]Open[END]
@@ -1278,6 +1278,7 @@ Embossing Nap[END]
 [Sign_6]Stop Flow[END]
 
 
+#JMP($19C380)
 //Text $19D310
 #WRITE(ptr,$1847B0)
 Stops enemy movement for 3 seconds.[LINE]
@@ -1328,7 +1329,6 @@ a demon god. Grants 10 iron stance.[END]
 [END]
 
 
-#JMP($19C380)
 //Text $19D250
 #WRITE(ptr,$184848)
 [Sign_6]Spoil Armor[END]
@@ -4947,7 +4947,7 @@ P. ATK up with charge[END]
 
 //Text $1A24F0
 #WRITE(ptr,$1851FC)
-P. ATK+[END]
+P.ATK+[END]
 
 
 //Text $1A24D8
@@ -4957,7 +4957,7 @@ M. ATK up with charge[END]
 
 //Text $1A24D0
 #WRITE(ptr,$185210)
-M. ATK+[END]
+M.ATK+[END]
 
 
 //Text $1A24B8
@@ -4967,7 +4967,7 @@ P. DEF up with charge[END]
 
 //Text $1A24A8
 #WRITE(ptr,$185224)
-P. DEF+[END]
+P.DEF+[END]
 
 
 //Text $1A2490
@@ -4977,7 +4977,7 @@ M. DEF up with charge[END]
 
 //Text $1A2480
 #WRITE(ptr,$185238)
-M. DEF+[END]
+M.DEF+[END]
 
 
 //Text $1A2460
@@ -5342,7 +5342,7 @@ Reduce Earth spell cast time[END]
 
 //Text $1A1E30
 #WRITE(ptr,$18556C)
-HIGH SPEED[END]
+SPEED CAST[END]
 
 
 //Text $1A1E20
@@ -5442,7 +5442,7 @@ Reduce foe P. DEF[END]
 
 //Text $1A1CF0
 #WRITE(ptr,$1855F8)
-P. DEF-[END]
+P.DEF-[END]
 
 
 //Text $1A1CD8
@@ -5462,7 +5462,7 @@ Reduce foe M. DEF[END]
 
 //Text $1A1CA0
 #WRITE(ptr,$185620)
-M. DEF-[END]
+M.DEF-[END]
 
 
 //Text $1A1C90
@@ -5817,6 +5817,7 @@ Wolf Battle[END]
 
 
 //Text $1A4EB8
+#WRITE(ptr,$1892E8)
 #WRITE(ptr,$186BD0)
 Draconis[END]
 
@@ -7935,6 +7936,7 @@ Test Play Point: Reach [TAG_015][END]
 
 //Text $1A67A0
 #WRITE(ptr,$1892E8)
+#WRITE(ptr,$186BD0)
 Draconis[END]
 
 
@@ -8557,7 +8559,7 @@ Torn's Cabin[END]
 
 //Text $1A74E0
 #WRITE(ptr,$189DD4)
-Torn's Cabin[END]
+[END]
 
 
 //Text $1A74A0
@@ -8737,11 +8739,13 @@ of industrial waste from long ago.[END]
 
 //Text $1A6FF0
 #WRITE(ptr,$18A038)
+#WRITE(ptr,$18A460)
 Radisrol[END]
 
 
 //Text $1A6FE0
 #WRITE(ptr,$18A03C)
+#WRITE(ptr,$18A464)
 [END]
 
 
@@ -8762,6 +8766,7 @@ Harmentz[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
@@ -8796,7 +8801,6 @@ Straylize Temple[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6E38
 #WRITE(ptr,$18A0E8)
 A temple that stands neatly in the[LINE]
@@ -9053,16 +9057,6 @@ A snow-covered mountain road that[LINE]
 connects Janos with Torn's Cabin.[END]
 
 
-//Text $1A6FF0
-#WRITE(ptr,$18A460)
-Radisrol[END]
-
-
-//Text $1A6FE0
-#WRITE(ptr,$18A464)
-[END]
-
-
 //Text $1A7878
 #WRITE(ptr,$18A468)
 A ship once known for its heroics.[LINE]
@@ -9129,6 +9123,7 @@ Rodeon[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -9162,7 +9157,6 @@ Deimos[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A5B8)
 One of the aerial cities connected[LINE]
@@ -9236,110 +9230,1189 @@ was once located. It is the only path connecting[LINE]
 the Er'ther Lands and the Outer Shell.[END]
 
 
+//Section Discovery
+
+//Text $1AA9E0
+#WRITE(ptr,$18BD70)
+Tia Flower[END]
+
+
+//Text $1AA9A0
+#WRITE(ptr,$18BD74)
+A flower shaped similar to a white[LINE]
+lily.The juice of the flower is used[LINE]
+to make a dangerous medicine.[END]
+
+//Text $1AA940
+#WRITE(ptr,$18BD78)
+This beautiful, although dangerous[LINE]
+flower appears to grow wildly on[LINE]
+the vicinity of Josaia[END]
+
+//Text $1AA930
+#WRITE(ptr,$18BD8C)
+Woodpecker[END]
+
+
+//Text $1AA8D8
+#WRITE(ptr,$18BD90)
+Sharp beaked bird. Mothers[LINE]
+scold their children by saying[LINE]
+"a woodpecker will peck you".[END]
+
+//Text $1AA870
+#WRITE(ptr,$18BD94)
+Those on pilgramage to the Straylise[LINE]
+Temple often hear children talk about[LINE]
+this curious and much hated bird.[END]
+
+//Text $1AA858
+#WRITE(ptr,$18BDA8)
+Big Horned Beetle[END]
+
+
+//Text $1AA818
+#WRITE(ptr,$18BDAC)
+Rhinoceros beetle with a horn[LINE]
+three times its body size. It looks[LINE]
+strong, but it's weak.[END]
+
+//Text $1AA7B0
+#WRITE(ptr,$18BDB0)
+It's green shell is very insect-like.[LINE]
+It seems to have been close[LINE]
+to the floating city laboratory .[END]
+
+//Text $1AA7A0
+#WRITE(ptr,$18BDC4)
+Money Snake Skin[END]
+
+
+//Text $1AA748
+#WRITE(ptr,$18BDC8)
+Skin of a 10 meter long great serpent.[LINE]
+It is said to make rich those who hold onto it.[LINE]
+[END]
+
+//Text $1AA6E8
+#WRITE(ptr,$18BDCC)
+If you visit the Straylise Temple you[LINE]
+are likely to see it being carried about.[END]
+
+//Text $1AA6D8
+#WRITE(ptr,$18BDE0)
+ヤミマチソウ[END]
+
+
+//Text $1AA688
+#WRITE(ptr,$18BDE4)
+Plant that blooms dimly under a moonless[LINE]
+night. It's blooming form looks ethereal.[LINE]
+[END]
+
+//Text $1AA630
+#WRITE(ptr,$18BDE8)
+A plant said to light the fire of[LINE]
+hope for a world gone dark.[LINE]
+Grows on an island off at sea.[END]
+
+//Text $1AA620
+#WRITE(ptr,$18BDFC)
+Hot Dog[END]
+
+
+//Text $1AA5C8
+#WRITE(ptr,$18BE00)
+Dog that skillfully slides down snowy mountains.[LINE]
+Due to its skill the expression "What a hotdog[LINE]
+dog!" is used to convey surprise.[END]
+
+//Text $1AA550
+#WRITE(ptr,$18BE04)
+It seems strange animal behavior can[LINE]
+become a big topic even in big cities.[LINE]
+Or maybe it's a regional quirk.[END]
+
+//Text $1AA538
+#WRITE(ptr,$18BE18)
+Mouse to Mouse[END]
+
+
+//Text $1AA4E8
+#WRITE(ptr,$18BE1C)
+Mouse species that is always in a good[LINE]
+marriage. On close inspection its lips[LINE]
+always seem to be kissing.[END]
+
+//Text $1AA470
+#WRITE(ptr,$18BE20)
+It's not like it snows here but, isn't it cold?[LINE]
+It seems most animals have been huddling[LINE]
+together ever since we crossed the border.[END]
+
+//Text $1AA458
+#WRITE(ptr,$18BE34)
+Candle Tree[END]
+
+
+//Text $1AA400
+#WRITE(ptr,$18BE38)
+Tree decorated with multicolored ornaments[LINE]
+and candles. Who would do this...[LINE]
+[END]
+
+//Text $1AA380
+#WRITE(ptr,$18BE3C)
+Travellers are coming to the region once again as[LINE]
+they come to see the hottest spots near the city.[LINE]
+The citizens seem thankful to this prankster.[END]
+
+//Text $1AA370
+#WRITE(ptr,$18BE50)
+トリトリソウ[END]
+
+
+//Text $1AA330
+#WRITE(ptr,$18BE54)
+Plant that mimics insects to attract[LINE]
+birds, upon contact the bird gets[LINE]
+stuck to it.[END]
+
+//Text $1AA2B8
+#WRITE(ptr,$18BE58)
+One can't underestimate nature even if[LINE]
+Fitzgald's countryside is said to be tranquil.[LINE]
+Terrifying vegetation included.[END]
+
+//Text $1AA2B0
+#WRITE(ptr,$18BE6C)
+Frost Tree[END]
+
+
+//Text $1AA258
+#WRITE(ptr,$18BE70)
+A kind of hoarfrost, formed when water[LINE]
+droplets freeze on trees. Looks like[LINE]
+blooming flowers.[END]
+
+//Text $1AA1E0
+#WRITE(ptr,$18BE74)
+都会でも外にでて周りの植物を見渡せば、[LINE]
+自然の厳しさと美しさを感じる事ができる[LINE]
+現象が起こるのが雪国というものらしい。[END]
+
+
+//Text $1AA1C8
+#WRITE(ptr,$18BE88)
+Diamond Dust[END]
+
+
+//Text $1AA158
+#WRITE(ptr,$18BE8C)
+Natural phenomenon in which sunlight shines[LINE]
+through small ice particles suspend in air.[LINE]
+The sparkling light looks beautiful.[END]
+
+//Text $1AA0E0
+#WRITE(ptr,$18BE90)
+二年前の動乱があった街では周辺の植物も[LINE]
+被害を受けたが、まばゆい宝石のような輝き[LINE]
+だけは誰にも奪われなかったという。[END]
+
+
+//Text $1AA0D0
+#WRITE(ptr,$18BEA4)
+Snow Throwing Bracken[END]
+
+
+//Text $1AA088
+#WRITE(ptr,$18BEA8)
+Strange plant that hurls snow at[LINE]
+approaching targets. Usually round.[LINE]
+[END]
+
+//Text $1AA008
+#WRITE(ptr,$18BEAC)
+セインガルドから来た行商人が国境を越えて[LINE]
+少し行ったところで、人にいたずらをする[LINE]
+奇妙な植物を見つけたと言っていたらしい。[END]
+
+
+//Text $1A9FF0
+#WRITE(ptr,$18BEC0)
+Seven-Colored Clover[END]
+
+
+//Text $1A9F98
+#WRITE(ptr,$18BEC4)
+Plant that is said to grant wishes to[LINE]
+those who find it. Also used as a[LINE]
+traveling amulet.[END]
+
+//Text $1A9F38
+#WRITE(ptr,$18BEC8)
+願い事があるのなら、ノイシュタットの[LINE]
+周辺に自生している鮮やかな植物を探して[LINE]
+みると良いらしい。[END]
+
+
+//Text $1A9F28
+#WRITE(ptr,$18BEDC)
+カグヤダケ[END]
+
+
+//Text $1A9EC8
+#WRITE(ptr,$18BEE0)
+A legend says that when this bamboo[LINE]
+shines a beautiful princess will emerge[LINE]
+from it. Flexible and hard.[END]
+
+//Text $1A9E80
+#WRITE(ptr,$18BEE4)
+モリュウの領地には不思議な伝説のある[LINE]
+神秘的な植物があるそうだ。[LINE]
+[END]
+
+
+//Text $1A9E68
+#WRITE(ptr,$18BEF8)
+Golden Swallowtail Butterfly[END]
+
+
+//Text $1A9E20
+#WRITE(ptr,$18BEFC)
+Swallowtail butterfly with beautifully colored[LINE]
+golden wings. Sought after by collectors.[LINE]
+[END]
+
+//Text $1A9DB8
+#WRITE(ptr,$18BF00)
+海に浮かぶ島々の中には、世間と隔絶された[LINE]
+環境に守られた、希少な昆虫が生息する[LINE]
+場所もあるという。[END]
+
+
+//Text $1A9DA8
+#WRITE(ptr,$18BF14)
+Natural Hot Spring[END]
+
+
+//Text $1A9D40
+#WRITE(ptr,$18BF18)
+Natural hot spring formed by spouting[LINE]
+underground water heated up by geothermal[LINE]
+energy. A soak may give health benefits.[END]
+
+//Text $1A9CE0
+#WRITE(ptr,$18BF1C)
+温泉が有名なスノーフリアだが、人里離れた[LINE]
+場所に万病を治す事のできる秘湯中の[LINE]
+秘湯があるそうだ。[END]
+
+
+//Text $1A9CC8
+#WRITE(ptr,$18BF30)
+ホホエミューの卵[END]
+
+
+//Text $1A9C68
+#WRITE(ptr,$18BF34)
+Egg of an enormous bird incapable of flight.[LINE]
+Considered very convenient in the world of[LINE]
+egg art due to its size and beautiful colors.[END]
+
+//Text $1A9BF0
+#WRITE(ptr,$18BF38)
+一見、砂漠には生き物がいないと思うかも[LINE]
+しれないが、チェリクの周辺を探すと巨大な[LINE]
+動物が生息している事がわかるらしい。[END]
+
+
+//Text $1A9BE0
+#WRITE(ptr,$18BF4C)
+ハヤイナゴ[END]
+
+
+//Text $1A9B98
+#WRITE(ptr,$18BF50)
+Quick jumping grasshopper.[LINE]
+Children that catch it become heroes.[LINE]
+[END]
+
+//Text $1A9B28
+#WRITE(ptr,$18BF54)
+クレスタには子供たちに見せてあげれば[LINE]
+尊敬される昆虫が近くにいるそうだが、[LINE]
+捕まえるのはとても難しいらしい。[END]
+
+
+//Text $1A9B20
+#WRITE(ptr,$18BF68)
+Sacred Tree[END]
+
+
+//Text $1A9AD0
+#WRITE(ptr,$18BF6C)
+Great tree over 1000 years old. It's[LINE]
+vitality is longed for by many, and[LINE]
+is an object of worship.[END]
+
+//Text $1A9A68
+#WRITE(ptr,$18BF70)
+シデン領地には人々にとても大事にされて[LINE]
+いる植物があるらしい。[LINE]
+他の植物と見分けられる目印があるそうだ。[END]
+
+
+//Text $1A9A60
+#WRITE(ptr,$18BF84)
+Sand Geoduck[END]
+
+
+//Text $1A99E8
+#WRITE(ptr,$18BF88)
+This shellfish's dance is thought to call upon[LINE]
+the sea winds and awaken the waves. Seamen[LINE]
+use it as a charm against shipwrecks.[END]
+
+//Text $1A9990
+#WRITE(ptr,$18BF8C)
+どこかの海岸には海に関する不思議な[LINE]
+伝説のある動物がいるというが、詳細は不明[LINE]
+らしい。[END]
+
+
+//Text $1A9980
+#WRITE(ptr,$18BFA0)
+Triangle[END]
+
+
+//Text $1A9920
+#WRITE(ptr,$18BFA4)
+Cetacean with 3 long protruding[LINE]
+teeth that look like horns. It's[LINE]
+body is not triangular shaped.[END]
+
+//Text $1A98B0
+#WRITE(ptr,$18BFA8)
+海のどこかに、おもしろい角を持つ動物が[LINE]
+棲息しているそうだが、希少動物のため、[LINE]
+めったに見る事ができないという。[END]
+
+
+//Text $1A98A0
+#WRITE(ptr,$18BFBC)
+Flying Manta[END]
+
+
+//Text $1A9848
+#WRITE(ptr,$18BFC0)
+Giant flying ray whose giant fins allow it to[LINE]
+ride the winds. It can fly for up to 500 meter[LINE]
+without landing.[END]
+
+//Text $1A97E8
+#WRITE(ptr,$18BFC4)
+船で航海をしていると、空が突然暗くなる[LINE]
+場所があるらしい。[LINE]
+船乗りの間では有名な話だそうだ。[END]
+
+
+//Text $1A97D8
+#WRITE(ptr,$18BFD8)
+Glowing Moss[END]
+
+
+//Text $1A9778
+#WRITE(ptr,$18BFDC)
+Plant that reflects a dim green light from[LINE]
+its lens shaped cells. It does not produce[LINE]
+light itself.[END]
+
+//Text $1A9730
+#WRITE(ptr,$18BFE0)
+ロディオンの近くには幻想的な雰囲気を持つ[LINE]
+植物が自生しているそうだ。[LINE]
+[END]
+
+
+//Text $1A9728
+#WRITE(ptr,$18BFF4)
+Will-o'-the-wisp[END]
+
+
+//Text $1A96C0
+#WRITE(ptr,$18BFF8)
+Eerie fireball that burns with a pale light.[LINE]
+Results from the spontaneous combustion[LINE]
+of gases formed by buried animal remains.[END]
+
+//Text $1A9668
+#WRITE(ptr,$18BFFC)
+アンスズーンの周辺には、地上の生き物の[LINE]
+怨念が空中をさまよっている場所がある[LINE]
+らしい。[END]
+
+
+//Text $1A9658
+#WRITE(ptr,$18C010)
+Skull Crag[END]
+
+
+//Text $1A9600
+#WRITE(ptr,$18C014)
+Crag that looks like a screaming skull.[LINE]
+The wind from its holes sounds like a scream.[LINE]
+[END]
+
+//Text $1A9598
+#WRITE(ptr,$18C018)
+ダイクロフトの近くには恐ろしい悲鳴が[LINE]
+聞こえてくる場所があるというが、正体を[LINE]
+確認した者はいないらしい。[END]
+
+
+//Text $1A9588
+#WRITE(ptr,$18C02C)
+Black Worm[END]
+
+
+//Text $1A9548
+#WRITE(ptr,$18C030)
+Mutated earthworm. It is black[LINE]
+colored and has keen movements.[LINE]
+[END]
+
+//Text $1A94E8
+#WRITE(ptr,$18C034)
+シュサイアの近くには素早く動く動物がいる[LINE]
+らしいが、動きが速すぎて捕まえる事は[LINE]
+難しいという。[END]
+
+
+//Text $1A94E0
+#WRITE(ptr,$18C048)
+Fire Horse[END]
+
+
+//Text $1A9480
+#WRITE(ptr,$18C04C)
+Horse with a fiery mane. It is fast,[LINE]
+but hard to ride due to its fierce temper.[LINE]
+[END]
+
+//Text $1A9430
+#WRITE(ptr,$18C050)
+トウケイの領土には、美しさと激しさを[LINE]
+兼ね備えた魅力的な動物がいるそうだ。[LINE]
+[END]
+
+
+//Text $1A9428
+#WRITE(ptr,$18C064)
+Sage's Peach[END]
+
+
+//Text $1A93D0
+#WRITE(ptr,$18C068)
+Precious peach that is said to grant[LINE]
+immortality. Its nutritional value is as[LINE]
+high as its price.[END]
+
+//Text $1A9370
+#WRITE(ptr,$18C06C)
+トウケイの領土には人々が求めてやまない[LINE]
+望みを叶える事ができるという植物が[LINE]
+自生しているそうだ。[END]
+
+
+//Text $1A9360
+#WRITE(ptr,$18C080)
+Enigmatic Ark[END]
+
+
+//Text $1A9318
+#WRITE(ptr,$18C084)
+Large ark built from Cypress wood.[LINE]
+Why it is inland is a mystery.[LINE]
+[END]
+
+//Text $1A92A8
+#WRITE(ptr,$18C088)
+カルビオラのあたりに、地上で使う事が[LINE]
+ないはずの巨大な建造物を見かけたという。[LINE]
+目の錯覚ではないだろうか？[END]
+
+
+//Text $1A9298
+#WRITE(ptr,$18C09C)
+Tin Plate Doll[END]
+
+
+//Text $1A9238
+#WRITE(ptr,$18C0A0)
+Human-sized doll accidentally discovered[LINE]
+by a common citizen. It is rumored[LINE]
+it moves itself at night.[END]
+
+//Text $1A91C0
+#WRITE(ptr,$18C0A4)
+ジャンクランドの住民が、砂漠である物を[LINE]
+見つけて家に持ち帰ったのだが、気持ちが[LINE]
+悪い事が起こったので捨てたという。[END]
+
+
+//Text $1A91B8
+#WRITE(ptr,$18C0B8)
+Luminescent Plankton[END]
+
+
+//Text $1A9168
+#WRITE(ptr,$18C0BC)
+Plankton that emits light once disturbed.[LINE]
+Makes one forget about the darkness of[LINE]
+the ocean when it illuminates the waves.[END]
+
+//Text $1A9100
+#WRITE(ptr,$18C0C0)
+リーネの村の周辺の海岸では、時が経つのも[LINE]
+忘れてしまうほど美しい景色を堪能できる[LINE]
+場所があるそうだ。[END]
+
+
+//Text $1A90F0
+#WRITE(ptr,$18C0D4)
+Ladybug[END]
+
+
+//Text $1A90A0
+#WRITE(ptr,$18C0D8)
+Bug that is said to bring about heatwaves[LINE]
+when it emerges in great quantities from[LINE]
+the ground. Quite hot to the touch.[END]
+
+//Text $1A9030
+#WRITE(ptr,$18C0DC)
+アルメイダの村の近くで熱いものが急に[LINE]
+ぶつかってきたそうだが、ビックリして[LINE]
+何かは確認できなかったらしい。[END]
+
+
+//Text $1A9020
+#WRITE(ptr,$18C0F0)
+Giant Snowman[END]
+
+
+//Text $1A8FC8
+#WRITE(ptr,$18C0F4)
+Giant snowman found on the morning[LINE]
+after a great blizzard. Theorized, with[LINE]
+no proof, to be a prank of the wind.[END]
+
+//Text $1A8F78
+#WRITE(ptr,$18C0F8)
+スノーフリアの一帯では、一晩でとても[LINE]
+巨大な雪のかたまりが出現するそうだ。[LINE]
+[END]
+
+
+//Text $1A8F68
+#WRITE(ptr,$18C10C)
+モモモモンガ[END]
+
+
+//Text $1A8EE8
+#WRITE(ptr,$18C110)
+Squirrel with pink fur. A rare mutated[LINE]
+species, said to bring about love for[LINE]
+those who see it glide.[END]
+
+//Text $1A8E78
+#WRITE(ptr,$18C114)
+ノイシュタットの周辺では若者に人気の[LINE]
+希少動物が存在するという。[LINE]
+目立つ姿をしているからすぐわかるらしい。[END]
+
+
+//Text $1A8E68
+#WRITE(ptr,$18C128)
+Dango Crab[END]
+
+
+//Text $1A8DF8
+#WRITE(ptr,$18C12C)
+Small crab that seems to be making[LINE]
+dangos while feeding. Small, but[LINE]
+makes a nice soup base.[END]
+
+//Text $1A8D90
+#WRITE(ptr,$18C130)
+ノイシュタットの近くの海岸ではスープや[LINE]
+鍋料理に大活躍の食材となる動物がたくさん[LINE]
+棲息しているそうだ。[END]
+
+
+//Text $1A8D88
+#WRITE(ptr,$18C144)
+Singing Sand[END]
+
+
+//Text $1A8D18
+#WRITE(ptr,$18C148)
+Sandy beach that produces a vitreous sound due[LINE]
+to small quartz particles rubbing against each other[LINE]
+inside it. Does not make a sound if dirtied.[END]
+
+//Text $1A8CB8
+#WRITE(ptr,$18C14C)
+リーネの村の周辺の海岸では、恵まれた[LINE]
+自然が奏でるかわいい音楽が聞ける場所が[LINE]
+あるという。[END]
+
+
+//Text $1A8CA8
+#WRITE(ptr,$18C160)
+Ocean Lungfish[END]
+
+
+//Text $1A8C40
+#WRITE(ptr,$18C164)
+Ancient fish that eats and breathes[LINE]
+with its three pair of external gills.[LINE]
+[END]
+
+//Text $1A8BD0
+#WRITE(ptr,$18C168)
+漁師たちの間でおかしな生物の目撃情報が[LINE]
+多発しているらしいが、情報が錯そうして[LINE]
+海にいる事しか分からないそうだ。[END]
+
+
+//Text $1A8BC0
+#WRITE(ptr,$18C17C)
+Pita Pita Fruit[END]
+
+
+//Text $1A8B48
+#WRITE(ptr,$18C180)
+Cactus fruit that can be picked yearly.[LINE]
+In Calvalese it's juices are used as a[LINE]
+powerful glue.[END]
+
+//Text $1A8AE8
+#WRITE(ptr,$18C184)
+ジャンクランドの周辺に住人に重宝されて[LINE]
+いる接着剤の原料となる植物が自生している[LINE]
+らしい。[END]
+
+
+//Text $1A8AD0
+#WRITE(ptr,$18C198)
+Kalviola Viola[END]
+
+
+//Text $1A8A60
+#WRITE(ptr,$18C19C)
+Drought-resistant annual plant natural to Kalviola.[LINE]
+Is short of height and small of flowers. In the[LINE]
+language of flowers it means "Please think of me".[END]
+
+//Text $1A8A08
+#WRITE(ptr,$18C1A0)
+カルビオラの辺りには、片想いの人に告白の[LINE]
+代わりとして手渡す花が咲いているそうだ。[LINE]
+[END]
+
+
+//Text $1A89F8
+#WRITE(ptr,$18C1B4)
+Snow Salmon[END]
+
+
+//Text $1A89A0
+#WRITE(ptr,$18C1B8)
+Salmon that travels up cold and snowy[LINE]
+rivers to lay its eggs. It can break frozen[LINE]
+rivers with its hardened lips.[END]
+
+//Text $1A8948
+#WRITE(ptr,$18C1BC)
+ファンダリアとセインガルドを隔てている[LINE]
+川では、根性のある魚を見る事ができる[LINE]
+らしい。[END]
+
+
+//Text $1A8938
+#WRITE(ptr,$18C1D0)
+Ancient City Ruins[END]
+
+
+//Text $1A88D0
+#WRITE(ptr,$18C1D4)
+Ancient city ruins that appeared on a[LINE]
+crater after Belcrant's bombardment.[LINE]
+Smells of adventure.[END]
+
+//Text $1A8870
+#WRITE(ptr,$18C1D8)
+ベルクラントの砲撃でできたクレーターに[LINE]
+よって、地中に埋もれていた芸術品が出現[LINE]
+したそうだ。[END]
+
+
+//Text $1A8860
+#WRITE(ptr,$18C1EC)
+Giant Wooden Horse[END]
+
+
+//Text $1A8808
+#WRITE(ptr,$18C1F0)
+Giant wooden horse that can fit[LINE]
+up to 50 people inside it.[LINE]
+It is unknown what it was used for.[END]
+
+//Text $1A87A8
+#WRITE(ptr,$18C1F4)
+ノイシュタットの辺りには、何に使われた[LINE]
+のかがわからない、不思議な木製の像が[LINE]
+あるらしい。[END]
+
+
+//Text $1A8798
+#WRITE(ptr,$18C208)
+The Golden Mask[END]
+
+
+//Text $1A8740
+#WRITE(ptr,$18C20C)
+A 60cm by 110cm mask made of gold.[LINE]
+Decorated with 90 metal feathers.[LINE]
+[END]
+
+//Text $1A86C8
+#WRITE(ptr,$18C210)
+リーネの村の近くで、チカチカと点滅する[LINE]
+のを見た人がいるというが、残念ながら[LINE]
+光の正体は見つけられなかったという。[END]
+
+
+//Text $1A86B8
+#WRITE(ptr,$18C224)
+ギリギリス[END]
+
+
+//Text $1A8650
+#WRITE(ptr,$18C228)
+A dead bug. The females die soon after[LINE]
+laying their eggs and males after copulation.[LINE]
+[END]
+
+//Text $1A85F8
+#WRITE(ptr,$18C22C)
+アンスズーンの周辺には、命の大切さと[LINE]
+はかなさを体現する健気な昆虫がいる[LINE]
+らしい。[END]
+
+
+//Text $1A85E8
+#WRITE(ptr,$18C240)
+Wave Glider[END]
+
+
+//Text $1A8598
+#WRITE(ptr,$18C244)
+Bug that glides along the waves on the[LINE]
+water's edge. It jumps over large crashing[LINE]
+waves.[END]
+
+//Text $1A8558
+#WRITE(ptr,$18C248)
+どこかの小島にある海岸には波乗りが[LINE]
+得意な昆虫がいるそうだ。[LINE]
+[END]
+
+
+//Text $1A8548
+#WRITE(ptr,$18C25C)
+Head Statues[END]
+
+
+//Text $1A84C8
+#WRITE(ptr,$18C260)
+A ruined temple's giant head statues[LINE]
+ Once used to deify royalty.[LINE]
+Its ruined figures are uncanny.[END]
+
+//Text $1A8460
+#WRITE(ptr,$18C264)
+クレスタの辺りには、この地域に古代文明の[LINE]
+存在を証明する遺跡があるという。[LINE]
+一見の価値があるそうだ。[END]
+
+
+//Text $1A8450
+#WRITE(ptr,$18C278)
+Tablet of Laws[END]
+
+
+//Text $1A83D8
+#WRITE(ptr,$18C27C)
+Emerald slab engraved with a King's laws.[LINE]
+Lost by the Phandarian royal family during[LINE]
+an old war.[END]
+
+//Text $1A8368
+#WRITE(ptr,$18C280)
+なぜかはわからないが、イグナシーの[LINE]
+近くに、ファンダリア王家から所在が[LINE]
+わからなくなっていた宝があるらしい。[END]
+
+
+//Text $1A8358
+#WRITE(ptr,$18C294)
+Celestial Hand-Mirror[END]
+
+
+//Text $1A82E0
+#WRITE(ptr,$18C298)
+A precious hand mirror capable of magnification.[LINE]
+Allow easy application of make-up and was a[LINE]
+useful item for ancient Queens.[END]
+
+//Text $1A8288
+#WRITE(ptr,$18C29C)
+ストレイライズ神殿の近くで、空に向かって[LINE]
+かぼそく伸びる、ひとすじの光を見たらしい。[LINE]
+[END]
+
+
+//Text $1A8278
+#WRITE(ptr,$18C2B0)
+Burning Mallet[END]
+
+
+//Text $1A8220
+#WRITE(ptr,$18C2B4)
+An unburnable wooden mallet. Releases[LINE]
+intense heat for all but its chosen user.[LINE]
+[END]
+
+//Text $1A81A8
+#WRITE(ptr,$18C2B8)
+守護竜の制御室があった空中都市の近くで、[LINE]
+強烈な熱気を感じたらしいが、暑すぎて[LINE]
+近づけず、原因はわからなかったそうだ。[END]
+
+
+//Text $1A8198
+#WRITE(ptr,$18C2CC)
+Mountaineer's Flower[END]
+
+
+//Text $1A8140
+#WRITE(ptr,$18C2D0)
+Flower that only blooms at high elevations.[LINE]
+Means "Attack!" in the language of flowers.[LINE]
+A plant familiar to alpinists.[END]
+
+//Text $1A80D8
+#WRITE(ptr,$18C2D4)
+地上の高原に生えている山男におなじみの[LINE]
+植物が、軍事基地だった空中都市の周辺でも[LINE]
+見られるらしい。[END]
+
+
+//Text $1A80C8
+#WRITE(ptr,$18C2E8)
+Wet Rat[END]
+
+
+//Text $1A8070
+#WRITE(ptr,$18C2EC)
+A mutated rat found when digging sediment.[LINE]
+Its long body hair is constantly wet.[LINE]
+[END]
+
+//Text $1A8020
+#WRITE(ptr,$18C2F0)
+ロディオンの周辺には地上で見る事の[LINE]
+できない珍しい動物が棲息しているそうだ。[LINE]
+[END]
+
+
+//Text $1A8008
+#WRITE(ptr,$18C304)
+Platinum Turtle[END]
+
+
+//Text $1A7F90
+#WRITE(ptr,$18C308)
+Rare tortoise with a shiny shell. An[LINE]
+endangered species as it is poached[LINE]
+for its shell and eggs.[END]
+
+//Text $1A7F30
+#WRITE(ptr,$18C30C)
+海を移動していると、運がよければ絶滅寸前[LINE]
+の美しい輝きを放つ動物に遭遇できる事が[LINE]
+あるという。[END]
+
+
+//Text $1A7F28
+#WRITE(ptr,$18C320)
+Salt Millstone[END]
+
+
+//Text $1A7EC0
+#WRITE(ptr,$18C324)
+Mysterious underwater millstone that[LINE]
+constantly realeases salt. Legends say[LINE]
+that the ocean is salty because of it.[END]
+
+//Text $1A7E70
+#WRITE(ptr,$18C328)
+海の浅瀬には、おとぎ話のような不思議な[LINE]
+ものが落ちている事があるらしい。[LINE]
+[END]
+
+
+//Text $1A7E60
+#WRITE(ptr,$18C33C)
+Leech Frog[END]
+
+
+//Text $1A7E08
+#WRITE(ptr,$18C340)
+A mutated bloodsucking frog.[LINE]
+It moves slowly despite its small body.[LINE]
+[END]
+
+//Text $1A7DB0
+#WRITE(ptr,$18C344)
+ダイクロフトの周辺には危害を加えてくる[LINE]
+動物がいるので、注意して歩く必要がある[LINE]
+そうだ。[END]
+
+
+//Text $1A7D98
+#WRITE(ptr,$18C358)
+Methane Hydrate[END]
+
+
+//Text $1A7D20
+#WRITE(ptr,$18C35C)
+Curious material that leaves nothing but water after it is[LINE]
+burned. Said to be the child of the spirits of fire and ice .[LINE]
+Also know as burnable ice, though it is cold to the touch.[END]
+
+//Text $1A7CD0
+#WRITE(ptr,$18C360)
+どこかの海岸には、炎の妖精と氷の妖精の[LINE]
+愛の結晶が発見できる場所があるという。[LINE]
+[END]
+
+
+//Text $1A7CC0
+#WRITE(ptr,$18C374)
+Lambton[END]
+
+
+//Text $1A7C70
+#WRITE(ptr,$18C378)
+Pig with a butt that looks just like a[LINE]
+rambutan fruit. Has an annoying oinking.[LINE]
+[END]
+
+//Text $1A7C08
+#WRITE(ptr,$18C37C)
+モリュウの領地には騒いでうるさいが、[LINE]
+料理をするととてもおいしい、味な食材と[LINE]
+なる動物がいるそうだ。[END]
+
+
+//Text $1A7BF8
+#WRITE(ptr,$18C390)
+Foundation Stone[END]
+
+
+//Text $1A7BC0
+#WRITE(ptr,$18C394)
+Stone monument build to celebrate[LINE]
+the founding of the Kingdom of Seingald.[LINE]
+[END]
+
+//Text $1A7B58
+#WRITE(ptr,$18C398)
+ダリルシェイドの近くには行商人たちの[LINE]
+待ち合わせ場所などの目印として活躍する[LINE]
+建造物があるらしい。[END]
+
+
+//Text $1A7B40
+#WRITE(ptr,$18C3AC)
+Lucky Cat[END]
+
+
+//Text $1A7AE0
+#WRITE(ptr,$18C3B0)
+Curious cat with six fingers.[LINE]
+Catches mice on ships, loved by sailors.[LINE]
+[END]
+
+//Text $1A7A98
+#WRITE(ptr,$18C3B4)
+シデン領地には船乗りたちに愛されている[LINE]
+希少な動物がいるそうだ。[LINE]
+[END]
+
+
+//Text $1A7A88
+#WRITE(ptr,$18C3C8)
+Rash Weed[END]
+
+
+//Text $1A7A30
+#WRITE(ptr,$18C3CC)
+A perennial plant covered in irritant[LINE]
+nettles. Hurts when touched.[LINE]
+[END]
+
+//Text $1A79B0
+#WRITE(ptr,$18C3D0)
+ある空中都市の周辺には、実験プラントから[LINE]
+あふれた危険な植物が自生しているため、[LINE]
+気をつけて歩かないと痛い目にあうらしい。[END]
+
+
+//Text $1A79A0
+#WRITE(ptr,$18C3E4)
+Happiness Bird[END]
+
+
+//Text $1A7940
+#WRITE(ptr,$18C3E8)
+Blue bird said to lead to happiness those[LINE]
+who posses it. Even if captured and taken[LINE]
+good care of, will eventually disappear.[END]
+
+//Text $1A78C8
+#WRITE(ptr,$18C3EC)
+技術研究施設のある空中都市の近くには、[LINE]
+人々が求めてやまない望みを叶える事が[LINE]
+できるという動物が棲息しているそうだ。[END]
+
+
+//Text $1A7878
+#WRITE(ptr,$18A468)
+かつて勇名を馳せた船。[LINE]
+天地戦争で用いた電撃作戦を再び敢行して[LINE]
+外殻に浮上した。[END]
+
+
 //Section Tutorial
 
 //Text $1AC050
 #WRITE(ptr,$18C5B0)
-The [yellow]Swordian Device[/color] is a [yellow]Device[/color] that can be set[LINE]
-to boost the abilities of a Swordian.[END]
+With the [yellow]Swordian Device[/color] you can set[LINE]
+different [turquoise]Devices[/color] that boost your abilities.[END]
 
 
 //Text $1ABFE0
 #WRITE(ptr,$18C5B4)
-The Swordian Device can be accessed from the [yellow]Equip[/color] menu[LINE]
-of the [turquoise]Swordian Master[/color].[END]
+The Swordian Device can be accessed from the[LINE]
+[yellow]Equip[/color] menu of the [turquoise]Swordian Master[/color].[END]
 
 
 //Text $1ABF88
 #WRITE(ptr,$18C5B8)
-By selecting [yellow]Swordian Device[/color],[LINE]
-you can now setup the device.[END]
+You can now access the [yellow]Swordian Device[/color][LINE]
+by pressing [Circle_ani] on Dymlos.[END]
+
 
 
 //Text $1ABF18
 #WRITE(ptr,$18C5BC)
-The device can be set by allocating [yellow]Device Points[/color].[LINE]
-Let's set the [turquoise]Attack[/color] device.[END]
+They can be set by allocating [yellow]Device Points[/color].[LINE]
+Try to set the [turquoise]Attack[/color] device.[END]
 
 
 //Text $1ABEB8
 #WRITE(ptr,$18C5C0)
-The device points will be restored if you remove the device.[LINE]
-Let's try to remove the [turquoise]Attack[/color] device.[END]
+The points will be restored if you remove them.[LINE]
+Try to remove the [turquoise]Attack[/color] device.[END]
 
 
 //Text $1ABE78
 #WRITE(ptr,$18C5C4)
-Finally, set the device of your choice,[LINE]
-and then press the [Cross_ani] button to finish.[END]
+Finally, set the device of your choice[LINE]
+then press the [Cross_ani] button to finish.[END]
 
 
 //Text $1ABDC8
 #WRITE(ptr,$18C5C8)
-[yellow]Device points[/color] will increase as you level up.[LINE]
-You can [yellow]Master[/color] devices by repeatedly fighting,[LINE]
-also mastering them will unlock [turquoise]New Devices[/color].[END]
+[yellow]Device Points[/color] will increase as you level up.[LINE]
+You can increase your [turquoise]Proficiency[/color] in battle.[LINE]
+When mastered, new tiers will be unlocked.[END]
 
 
 //Text $1ABDA0
 #WRITE(ptr,$18C5CC)
-Please select [yellow]Rerize[/color].[END]
+Please select [yellow]Rerise[/color].[END]
 
 
 //Text $1ABD30
 #WRITE(ptr,$18C5D0)
-Select the armor you wish to Rerize.[LINE]
-Select the [turquoise]Leather armor[/color] that [turquoise][Stahn][/color] is equipped with.[END]
+Select [Stahn]'s [turquoise]Leather Armor[/color] with [Circle_ani]. [LINE]
+[END]
 
 
 //Text $1ABCE8
 #WRITE(ptr,$18C5D4)
-After Rerizing, all you have to do is equip your armor.[LINE]
-Choose your favorite piece of equipment.[END]
+Choose which armor you like, you can press [Square_ani][LINE]
+for more Info. When you're done press [Circle_ani].[END]
 
 
 //Text $1ABBF8
 #WRITE(ptr,$18C5D8)
-To Rerize, you need a [yellow]Party level[/color] as well[LINE]
-as a Lens. By [turquoise]raising the level of each character[/color],[LINE]
-he party level will also increase. The more powerful [LINE]
-the armor, the higher the required party level must be[LINE]
-in order to be able to Rerise it.[LINE]
-[END]
+To Rerise you'll need the required[LINE]
+Lens and the specified [yellow]Party Level[/color].[LINE]
+When every [turquoise]character's level[/color] increases,[LINE]
+the Party Level will rise as well.[LINE]
+More powerful equipment will require[LINE]
+a higher Party level and better lens to Rerise.[END]
 
 
 //Text $1ABB50
 #WRITE(ptr,$18C5DC)
-[turquoise]Gem[/color] can only be obtained by Rerizing a [turquoise]Material[/color].[LINE]
-Also with Rerize you can add [turquoise]Special effects[/color][LINE]
-such as increased attack power or defense.[END]
+[turquoise]Gems[/color] can only be obtained by Rerising [turquoise]Materials[/color].[LINE]
+With Rerise, you can also add [yellow]Special effects[/color][LINE]
+such as increasing P. Atk or P. Def.[END]
 
 
 //Text $1ABAF0
 #WRITE(ptr,$18C5E0)
 You can rerise gems from the [yellow]Rerise[/color] menu,[LINE]
-ust like you would rerise an armor.[END]
+just like you would rerise an armor.[END]
 
 
 //Text $1ABA90
 #WRITE(ptr,$18C5E4)
-Select the material you need to rerise.[LINE]
-Please select the [turquoise]Poison Material[/color].[END]
+Select the Material you wish to Rerise.[LINE]
+In this case select the [turquoise]Poison Material[/color].[END]
 
 
 //Text $1ABA40
 #WRITE(ptr,$18C5E8)
-Select a [turquoise]Special effect[/color] to add to the gem.[LINE]
-Select the gem that you like.[END]
+Choose a [yellow]special effect[/color] to add to the gem.[LINE]
+When you're done press [Circle_ani].[END]
 
 
 //Text $1AB970
 #WRITE(ptr,$18C5EC)
-Even after material is rerise into gems,[LINE]
-gems can be [turquoise]further Rerise[/color] to increase[LINE]
-the status of special effects.[LINE]
-You can also [turquoise]re-select the special effect[/color[LINE]
-from the list of alternatives for each rerise.[LINE]
+After a material is rerised into a gem[LINE]
+you can rerise it [turquoise]further[/color] to increase[LINE]
+its strength and special effects.[LINE]
+Rerising can also change its special effects.[LINE]
 [END]
 
 
@@ -9474,8 +10547,8 @@ Revives dead ally with 40% HP.[END]
 
 //Text $1AF8B8
 #WRITE(ptr,$18C744)
-A strange medicine that fully restores HP.[LINE]
-Also cures incapacitation.[END]
+A strange medicine that fully [LINE]
+restores HP and cures KO.[END]
 
 
 //Text $1AF8A0
@@ -9564,6 +10637,7 @@ Wards off enemies for a fixed duration.[END]
 [Sign_9]Dark Bottle[END]
 
 
+#JMP($1AB970)
 //Text $1AF580
 #WRITE(ptr,$18C824)
 Contains evil spirits.[LINE]
@@ -9575,7 +10649,6 @@ Attracts enemies for a fixed duration.[END]
 [Sign_9]Neutralizer[END]
 
 
-#JMP($1AB970)
 //Text $1AF548
 #WRITE(ptr,$18C840)
 Neutralize environmental poisons.[END]
@@ -9911,6 +10984,7 @@ A support item for cultivation.[END]
 [Sign_Box]Golden Seed[END]
 
 
+#JMP($1AC530)
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
 Seeds for masters.[LINE]
@@ -9922,7 +10996,6 @@ A support item for cultivation.[END]
 [Sign_Box]Apple[END]
 
 
-#JMP($1AC530)
 //Text $1AEC08
 #WRITE(ptr,$18CBDC)
 A fruit with a sweet and sour aroma.[LINE]
@@ -12743,9 +13816,9 @@ made of a tortoiseshell.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-An instrument that became popular in Aquavale[LINE]
-It is general plucked with a bachi instead of fingers.[LINE]
-It is often used while telling stories.[END]
+An instrument popularized in Aquavale.[LINE]
+It is generally plucked with a bachi instead of[LINE]
+fingers and is often used while telling stories.[END]
 
 
 //Text $1B0E20
@@ -14485,9 +15558,9 @@ power to push past one's limits.[END]
 
 //Text $1B7F90
 #WRITE(ptr,$19136C)
-Gauntlets imbued with the hidden power of[LINE]
-fantasies. Named after the brothers[LINE]
-who collected oral traditions into a book.[END]
+Gauntlets imbued with the hidden power[LINE]
+of fantasies. Named after the brothers[LINE]
+who collected oral traditions.[END]
 
 //Text $1B7F78
 #WRITE(ptr,$191388)
@@ -14573,9 +15646,9 @@ Goes well with its cloak.[END]
 
 //Text $1B7C30
 #WRITE(ptr,$19146C)
-Gloves decorated with[LINE]
-Mithril. Considered to be[LINE]
-a Dwarven work of art.[END]
+Gloves decorated with Mithril.[LINE]
+Considered to be a Dwarven[LINE]
+work of art.[END]
 
 //Text $1B7C18
 #WRITE(ptr,$191488)
@@ -14617,8 +15690,8 @@ the wearer's concentration.[END]
 
 //Text $1B7A60
 #WRITE(ptr,$1914EC)
-Necklace imbued with the Earth Spirit's[LINE]
-protection. Gives one unshakable composure.[LINE]
+Necklace imbued with the Earth Spirit's.[LINE]
+Gives one unshakable composure.[LINE]
 Increases the damage of [Sign_Earth] spells.[END]
 
 //Text $1B7A40
@@ -14628,9 +15701,9 @@ Increases the damage of [Sign_Earth] spells.[END]
 
 //Text $1B79D0
 #WRITE(ptr,$19150C)
-Necklace imbued with the Wind Spirit's[LINE]
-protection. Gives one the drive to make ideals[LINE]
-true. Increases the damage of [Sign_Wind] spells.[END]
+Necklace imbued with the Wind Spirit's.[LINE]
+Gives the drive to make dreams real.[LINE]
+Increases the damage of [Sign_Wind] spells.[END]
 
 //Text $1B79B0
 #WRITE(ptr,$191528)
@@ -14640,7 +15713,7 @@ true. Increases the damage of [Sign_Wind] spells.[END]
 //Text $1B7948
 #WRITE(ptr,$19152C)
 Necklace imbued with the Fire Spirit's[LINE]
-protection. Makes one hear hidden voices.[LINE]
+Makes one hear hidden voices.[LINE]
 Increases the damage of [Sign_Fire] spells.[END]
 
 //Text $1B7930
@@ -14650,8 +15723,8 @@ Increases the damage of [Sign_Fire] spells.[END]
 
 //Text $1B78C8
 #WRITE(ptr,$19154C)
-Necklace imbued with the Water Spirit's[LINE]
-protection. Sharpens one's willpower.[LINE]
+Necklace imbued with the Water Spirit's.[LINE]
+Sharpens one's willpower.[LINE]
 Increases the damage of [Sign_Water] spells.[END]
 
 //Text $1B78B0
@@ -14661,9 +15734,9 @@ Increases the damage of [Sign_Water] spells.[END]
 
 //Text $1B7848
 #WRITE(ptr,$19156C)
-Necklace imbued with the Light Spirit's[LINE]
-protection. heightens one's power to keep [LINE]
-secrets. Increases the damage of [Sign_Light] spells.[END]
+Necklace imbued with the Light Spirit's.[LINE]
+Heightens one's power to keep secrets.[LINE]
+Increases the damage of [Sign_Light] spells.[END]
 
 //Text $1B7830
 #WRITE(ptr,$191588)
@@ -14673,8 +15746,8 @@ secrets. Increases the damage of [Sign_Light] spells.[END]
 //Text $1B77D0
 #WRITE(ptr,$19158C)
 Necklace imbued with the Earth[LINE]
-Goddess' blessing and love. Decreases[LINE]
-the casting time of [Sign_Earth] spells.[END]
+Goddess' blessing and love.[LINE]
+Decreases the casting time of [Sign_Earth] spells.[END]
 
 //Text $1B77B0
 #WRITE(ptr,$1915A8)
@@ -14706,8 +15779,8 @@ the casting time of [Sign_Fire] spells.[END]
 //Text $1B7658
 #WRITE(ptr,$1915EC)
 Necklace imbued with the Ocean God's[LINE]
-blessing and unwavering heart. Decreases [LINE]
-the casting time of [Sign_Water] spells.[END]
+blessing and unwavering heart. [LINE]
+Decreases the casting time of [Sign_Water] spells.[END]
 
 //Text $1B7638
 #WRITE(ptr,$191608)
@@ -14717,8 +15790,8 @@ the casting time of [Sign_Water] spells.[END]
 //Text $1B75D0
 #WRITE(ptr,$19160C)
 Necklace imbued with the God of Light's[LINE]
-blessing and eternal integrity. Decreases [LINE]
-the casting time of [Sign_Light] spells.[END]
+blessing and eternal integrity.[LINE]
+Decreases the casting time of [Sign_Light] spells.[END]
 
 //Text $1B75C0
 #WRITE(ptr,$191628)
@@ -18348,12 +19421,12 @@ In battle, if someone's HP [lessequal] [TAG_015]％[END]
 
 //Section Title
 
-#JMP($1BB0A0)
 //POINTER #16 @ $1946E8 - STRING #16 @ $1BF0D8
 #WRITE(ptr,$1946E8)
 Stowaway[END]
 
 
+#JMP($1BB0A0)
 //POINTER #17 @ $1946EC - STRING #17 @ $1BF080
 #WRITE(ptr,$1946EC)
 Stowaway found in the Draconis.[LINE]

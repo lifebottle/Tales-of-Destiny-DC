@@ -215,216 +215,222 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-マリアン、例の物を。
+Marian, if you will.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-来るのが遅い！
-何をぐずぐずしていた！
+You sure took your time!
+What were you even doing?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだよ、その言い草は。
+Oh come on,
+give me a break!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-ディムロス、少し落ち着いて。
-みんなは事情を知らないのだから。
+Dymlos, please calm down.
+They don't know what's going on.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-む……
+....
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-文献によれば、ソーディアンは、
-全部で六本あったと言う。
+According to ancient texts,
+there are six Swordians in all.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-そのうちの半分がここに揃った。
-考えてみればすごい事だな。
+Of those, half are gathered here...
+It's quite amazing to think of, no?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へえ、ソーディアンって、
-他にまだ三本もあるのか。
+Woah, so you're saying there's
+three more Swordians out there??
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-さて。諸君に改めて任務を伝えよう。
+Anyway, I shall now
+brief you on the details.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-王都ダリルシェイドの北にある、
-ストレイライズ神殿へ向かってほしい。
+You are to go North
+to Straylize Temple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-神の眼が無事かどうかを確認し、
-もしなかったら、取り戻すんですよね。
+You want us to make sure the
+Eye of Atamoni is safe, right?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-そうだ。これは重大な任務だぞ。
+Yes. This is extremely important.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかってるよ。俺が兵士になるための、
-チャンスだもんな。
+You got that right! This is my 
+chance to become a knight!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-そんな事はどうでもいい。
+That's not important at all!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうでもよくない！
-人の目標にケチをつけるな！
+Yes it is! Don't rain 
+on my parade, here!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしはやるなんて言ってないわ。
-勝手に話を進めないでくれる？
+Stop talking like I've
+accepted this for nothing!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-誰かに飼われるのなんて真っ平だわ。
-<Rutee>様をなめないで欲しいわね。
+You know who I am, right?
+I'm nobody's errand-girl!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-20万ガルドでどうかね。
+How's 200,000 Gald sound?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え？
+Awhuh?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-任務達成の暁に、払う報酬だよ。
-仕事と考えれば、納得できんかね？
+As compensation for a job well 
+done, of course. How about it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-も、もう一声。
+I..I d-dunno...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-25万。
+250,000 then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、それだけ出してくれるなら。
-やっても……いいかな。
+W-well, if you put it that way,
+I-I guess that's fine.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-さっきの啖呵はどこへ行ったのだ？
+She sure changed her tune.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-……つくづく、たくましい子に育ったわ。
+...She's certainly grown
+to be one tough woman.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Stahn>君の仕官の話も、
-私から陛下にとりなしてあげよう。
+I'll put in a good word with
+the King for you, too, <Stahn>.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-だから結果を出してくれたまえ。
+So please get the results
+we're looking for.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました！	任せてください！
+Got it! Leave it to me!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-私は諸君に期待している。
-頼むぞ。
+I expect great
+things from you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Stahn>と<Rutee>のソーディアンデバイス
-が使用可能になりました。
+<TAG_007><Stahn> and <Rutee> Swordian
+<center>devices can now be used.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-マリアン！
+Marian!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Lion>様。どうなさいました？
+Master <Lion>, what's wrong?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そんな呼び方、やめてくれ。
-ここには誰もいないんだ。
+Don't talk that way,
+no one else is here.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そうね。
-ごめんなさい、エミリオ。
+I see.
+Sorry, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-でもあなた、
-出かけたのではなかったの？
+But...weren't 
+you leaving?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-マリアンにまたしばらく、
-会えなくなると思ってね。
+I thought I'd come
+see you one more time.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-挨拶するのを忘れていた。
+I had forgotten
+to say goodbye.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-それだけのために？
+Is that the
+only reason?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-寂しくなるんでね。
+I'll miss you.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-仕方のない子ね。そんなでは、
-ヒューゴ様に叱られるわよ。
+You're hopeless. Master <Hugo>
+will scold you, you know.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あんな奴の事なんか、
-口にしないでくれ！
+Don't talk
+about that man!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ……
-そんな事を言うものじゃありませんよ。
+Emilio...
+You shouldn't talk like that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ごめん、マリアン……
-僕が悪かったよ……
+Sorry, Marian..
+that was wrong of me.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-わかってくれればいいわ。
+I'm glad you understand.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それじゃ、行って来るよ。
+Well...I'll be back.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ……
-気をつけてお行きなさい。
+Emilio...please
+be careful, OK?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-大丈夫だ、心配ないよ。
+I will. Don't worry.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -623,8 +629,8 @@ that would require my presence?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You should be able to handle
-this on your own.
+You should be able to
+handle this on your own.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -639,8 +645,8 @@ who are these thieves?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-They are <Rutee> Katrea and
-<Mary> Argent.
+They are <Rutee> Katrea
+and <Mary> Argent.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -658,9 +664,9 @@ another person has joined them.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-According to the report, <Rutee> Katrea
-seems to be in possession of
-a mysterious sword.
+According to the report, <Rutee>
+Katrea seems to be in possession 
+of a mysterious sword.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -735,7 +741,7 @@ Yes, young master.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>こうして、僕の任務は終わった。
+<TAG_007>Thus, my mission was over.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -894,7 +900,7 @@ Yes, young master.
 それは……<Marian>のお茶が
 いつも最高だからさ。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 失礼します。<Lion>様に至急の
 任務をお伝えに上がりました。
@@ -904,7 +910,7 @@ Yes, young master.
 わざわざすまないな。
 それで、どういった任務だ？
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 私も詳しく聞いておりませんので、
 <King>のもとへお越し下さい。
@@ -913,7 +919,7 @@ Yes, young master.
 [ENDBLOCK]
 分かった。すぐに向かおう。
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
 それでは失礼します。
 [ENDBLOCK]
@@ -962,72 +968,73 @@ Yes, young master.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>は
+<x19><x69><x48><x9C><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1045,10 +1052,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1063,22 +1067,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1100,11 +1097,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1112,76 +1109,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x88><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

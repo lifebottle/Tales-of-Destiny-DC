@@ -1,11 +1,10 @@
-<x9A>
+××××××空開始××××××
 [ENDBLOCK]
-<xD4>××<x9A>
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-<xD4>××空開始××××××
-
+<IGNORE>
 [ENDBLOCK]
 ××××××空終了××××××
 
@@ -73,7 +72,7 @@
 ●●残量メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 一番まともそうだから、
 お兄ちゃんが勝負してよね。
@@ -83,7 +82,7 @@
 うん、わかったけど、
 この人は？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 私はこの街に住む金持ち。
 この勝負のスポンサーです。
@@ -93,7 +92,7 @@
 スポンサー？
 なんですか、それ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 まあ、分かりやすく言うと、
 勝った方に商品を提供する人間です。
@@ -102,26 +101,26 @@
 [ENDBLOCK]
 へぇーでもどうして？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 まあ、金持ちになると
 暇ですから。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ほらほら、もういいでしょ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 このあとどうするかは
 お兄ちゃんが決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースは複雑だから、
 しっかり覚えてね。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 勝負するのはお兄ちゃんでいいんだね？
 [ENDBLOCK]
@@ -130,7 +129,7 @@
 ああ、構わない。
 ところでこの男はなんだ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 私はこの街に住む金持ち。
 この勝負のスポンサーです。
@@ -139,7 +138,7 @@
 [ENDBLOCK]
 スポンサー？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ええ。分かりやすく言うと、
 勝った方に商品を提供する人間ですね。
@@ -149,26 +148,26 @@
 なぜ、こんなかけっこ程度に資金を提供する。
 目的はなんだ？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 ははは、目的なんてありません。
 金持ちになって暇なだけですよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ほらほら、もういいでしょ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 このあとどうするかは
 お兄ちゃんが決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースは複雑だから、
 しっかり覚えてね。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースもやり方も
 前までと一緒だからね。
@@ -177,15 +176,15 @@
 [ENDBLOCK]
 うん、わかった。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 今日は……本気だよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 さあ、決めていいよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 コースもやり方も
 前までと一緒だからね。
@@ -194,11 +193,11 @@
 [ENDBLOCK]
 さっさと、始めようじゃないか。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 今日は……僕も本気だよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 さあ、決めていいよ。
 [ENDBLOCK]
@@ -251,7 +250,7 @@ select
 [ENDBLOCK]
 やっぱ、僕には勝てないよね、ね！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうしたの？
 もう一回かけっこする？
@@ -266,14 +265,14 @@ select
 僕はこの街で一番
 足が速いんだよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ねえねえ、僕と
 かけっこ勝負しない？
 [ENDBLOCK]
 ねえ、もう一度僕と勝負しない？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -292,7 +291,7 @@ select
 [ENDBLOCK]
 なんだつまんないな。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 先ほどまでの先頭：<x17><x69><x44><x29><x80>
 
@@ -303,23 +302,23 @@ select
 コースの説明を聞く
 勝負をやめる
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんだあ残念。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 なんだあ残念。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 ふーん逃げるんだ……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 勝負は二周で争われます。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 位置について、よーい。
 [ENDBLOCK]
@@ -330,7 +329,7 @@ select
 □□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
@@ -338,28 +337,28 @@ select
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん速すぎだよー。
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 僕が負けたの……？
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 でもお兄ちゃんも頑張ったからね。
 勝ちを譲るよ。
@@ -367,47 +366,47 @@ select
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あなたの勝利です。
 こちらをお受け取りください。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん速すぎー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 でも、次は負けないからね！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 かならずまた来てねー。
 [ENDBLOCK]
 ゴール……
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 やったー僕の勝ち!!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃんの負けー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうする？
 もう何回でも相手したげるよ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 やったー、やっぱり僕の方が速い!!
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 お兄ちゃん遅いー。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 どうする？
 もう何回でも相手したげるよ。
@@ -502,9 +501,9 @@ select
 メッセージ再生
 
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おい金髪、
 おまえの持ってる剣……
@@ -523,7 +522,7 @@ select
 ほう、我の事が分かるのか？
 なかなかやるではないか。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 ……プププ、ダサい。
 [ENDBLOCK]
@@ -544,7 +543,7 @@ select
 バカもの！
 自ら明かすやつがあるか！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 何だよソーディアンって？
 [ENDBLOCK]
@@ -556,7 +555,7 @@ select
 [ENDBLOCK]
 そーじまん……だよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 掃除マン？
 [ENDBLOCK]
@@ -565,12 +564,12 @@ select
 これは剣に見えるけど、
 実は掃除をするための剣なんだ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 ほう。なんだか怪しいけど、
 みすぼらしいおまえにはピッタリだ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 あ、あんた<Kongman>じゃろ！
 [ENDBLOCK]
@@ -583,7 +582,7 @@ select
 <TAG_007>俺様は<Kongman>だ！
 ってなんだじーさんか
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 わしゃ、おまえさんの大ファンなんじゃ。
 [ENDBLOCK]
@@ -591,7 +590,7 @@ select
 [ENDBLOCK]
 そうかそうか。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 <Kongman>、わしゃ死ぬ前に
 あんたに頼みがあるんじゃ。
@@ -600,7 +599,7 @@ select
 [ENDBLOCK]
 なんでぇ？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 わしを……わしを殴ってくれ！
 [ENDBLOCK]
@@ -608,7 +607,7 @@ select
 [ENDBLOCK]
 なんだって？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 <Kongman>に殴られたとあれば、
 わしゃ、みんなに自慢できる。
@@ -623,7 +622,7 @@ select
 俺様は……俺様のこの拳は
 みんなを守るためにしか使わねぇ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 ……そうか。
 [ENDBLOCK]
@@ -642,12 +641,12 @@ select
 勘弁してくれねえか。
 なあ、じいさん。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 やっぱりワシらの<Kongman>は
 街のヒーローじゃ！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 じいさんとはなんだ！
 [ENDBLOCK]
@@ -792,7 +791,7 @@ select
 [ENDBLOCK]
 仲良くやりなさいよ！
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 やあ、久しぶり！
 セインガルドはどうだった？
@@ -802,17 +801,17 @@ select
 なんの事だろうか。
 どなたかと勘違いしておられるのでは？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 何とぼけているんだよ。
 ほらほら、また話を聞かせてくれよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 本当に別人なのか？
 
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 これはすまない事をした。
 
@@ -827,56 +826,56 @@ select
 あなたが会ったという人は、
 それほど私と似ているのですか？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 ああ、そりゃ良く似ているよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 もし、彼を知っている人が見たら、
 そりゃ面白い反応をすると思うな。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 けど、彼は急いでいるみたいだったから、
 探し出すのは無理だと思うけどね。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 そうだ！	だったら彼の事を
 知っている人を探してみなよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 絶対にみんな、
 彼と勘違いするはずさ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あの若い女医さんはいないのか？
 俺、あの子のファンなのにな。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 ねえ、あの元気な人の、
 お姉さんは見つかったの？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私、ああいう
 熱い人って大好きなの。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 私からの
 プレゼントを渡しておいて。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 一体、どんな女の子かな……
 乙女な感じだといいなあ。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 あれ！	もしかして君が!?
 [ENDBLOCK]
@@ -893,16 +892,16 @@ select
 [ENDBLOCK]
 あの、どこかでお会いしましたか？
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 なんだぁ、違うのか……
 ごめん、人違いだったみたい。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 あ、もしかして！
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 あなたが手紙の人？
 [ENDBLOCK]
@@ -910,7 +909,7 @@ select
 [ENDBLOCK]
 ああ!!
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 どうして<Stahn>君がいるの!?
 [ENDBLOCK]
@@ -919,7 +918,7 @@ select
 なるほど、村長の娘さんとこちらの人が
 お手紙をやりとりしていたのですね。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そうなの。でも、今日初めて
 会う事になってて。
@@ -928,12 +927,12 @@ select
 [ENDBLOCK]
 それで<Philia>と、間違えたのか。
 [ENDBLOCK]
-若い男
+Young Man
 [ENDBLOCK]
 じゃー、僕たちも
 どこかでゆっくりしようか。
 [ENDBLOCK]
-村長の娘
+Chief's Daughter
 [ENDBLOCK]
 そうね。<Stahn>君と彼女の
 邪魔をしちゃ悪いわね。
@@ -989,12 +988,12 @@ select
 [ENDBLOCK]
 あなたはカルバレイスの人ですか？
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 ああ、そうじゃ。
 ……小声にせんでもいいぞ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 どうしたのじゃ？
 わしを笑いにでも来たのか？
@@ -1003,21 +1002,21 @@ select
 [ENDBLOCK]
 いえ、実はですね……
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 そうか……
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 忘れておったよ。他のやつらは、
 世界中で頑張っておるのか。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 よし。わしの気持ちを
 受け取ってくれ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 大したものじゃないが、
 許してくれ。
@@ -1026,31 +1025,31 @@ select
 [ENDBLOCK]
 ありがとうございます！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 わしも、あの頃の気持ちで、
 もう一度頑張ってみるさ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 そうじゃ。わしの知り合いが、
 アクアヴェイルにおるぞ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 あいつは本当に頑張り屋だったから、
 案外、アクアヴェイルで成功しておるかもな。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 気をつけてな！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 わしの知り合いが、
 アクアヴェイルにおるぞ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 あいつは本当に頑張り屋だったから、
 案外、アクアヴェイルで成功してるかもな。
@@ -1065,324 +1064,324 @@ select
 <TAG_005>ノイシュタット新規事業者募集。
 詳細はオベロン社までお問い合わせ下さい。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 ここはフィッツガルドの中心都市、
 ノイシュタットです。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 これは一体何の騒ぎなんですの！？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 あなたは闘技場の……
 ええと、コングガイさん？
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 空に色々な物が浮かんでいるせいか、
 このところ日がかげりがちですね。
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 とうとう日の光が、
 完全に遮断されましたね……
 [ENDBLOCK]
-街の女性
+City Lady
 [ENDBLOCK]
 よく来てくださいました！
 どうかこの街をお救いください！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 今やこの街の繁栄ぶりは、
 ダリルシェイドにも負けませんよ。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 どうです？	美しい町並みでしょう。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 あの武装船団はどこの勢力ですか！
 街がめちゃめちゃにされてしまう！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 か、金ならいくらでも出します。
 武装船団をなんとかして下さい！
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 マイティ！	マイティ！
 ……はっ、私とした事が。
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 いつこの街も、
 攻撃を受けるかわかりませんね……
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 もはや万事休すなのでしょうか……
 [ENDBLOCK]
-紳士
+Gentleman
 [ENDBLOCK]
 マイティ！	マイティ！
 どうかよろしく頼みます！
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 いらっしゃいませ！
 レンズの換金を承ります！
 [ENDBLOCK]
-レンズ屋
+Lens Merchant
 [ENDBLOCK]
 え～ん、会社からここを
 離れるなって言われました。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 セインガルドの金を吸い取って、
 この街は発展したんだよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 うちのパパがそう言ってたんだ。
 間違いないよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 この街が発展したのは、
 全部セインガルドのお陰だってさ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 うわーん！	パパー！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえら、よくやったな。
 パパに言っといてやるよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえなら、いつでも
 歓迎してやるぞ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おいおまえら、なんとかしろよ。
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 おまえら、頼むよ。
 お願いだからなんとかしてよ！
 [ENDBLOCK]
-お坊ちゃん
+Young Man
 [ENDBLOCK]
 あの、えっと……
 がんばれ、<Leader>。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 この街に元から住んでいる者たちは、
 どうも品位に欠けますな。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 ひいい、助けてっ！
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 なんだモンスターじゃないのか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 野蛮な奴らめを、
 こらしめてやってください！
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 街の平和を守ったのは、
 あんな野蛮な筋肉男ではないのに。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 空から攻撃を受けてしまったら、
 街のどこにいても同じでしょうな。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 人類は滅びるしかないんでしょうか。
 [ENDBLOCK]
-おじいさま
+Old Man
 [ENDBLOCK]
 この街に元から住んでいた者たちと
 協力し合う日が来るとは。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 この街が急速に発展したのは、
 オベロン社の功績ですわ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 子供とはぐれてしまいました。
 無事だといいのだけれど……
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 あのならず者たちを手引きしたのは、
 この街の誰かかもしれませんよ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 オベロン社の<Ilene>女史が、
 このところ姿を見せないんですよ。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 以前武装船団に襲われた時よりも、
 今回の方が不安になります。
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 青い空がなつかしいですわね……
 [ENDBLOCK]
-母親
+Mother
 [ENDBLOCK]
 娘ともう一度、日の光の下を
 歩ける日が来るといいのですが。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 アイスキャンディーって知ってる？
 この街の名物よ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 ママー！
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 <Kongman>が街を守ったっていうと、
 ママの機嫌が悪くなるの。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 オベロン社に文句をいう人が、
 このところ急に増えたんだって。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 空に影が出てきたわ。
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 お外がずっと夜だったら、
 日焼けしないで済むかな？
 [ENDBLOCK]
-子供
+Kid
 [ENDBLOCK]
 お外はいつ元に戻るの？
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 宝石はいかがでしょうか？
 品揃えには自信がありますよ。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 武装船を追いかける皆さんですね。
 是非、当店でお買い物を。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 当店はいつでも営業中です！
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 気候が良くて、物がいっぱいあって。
 この街は住むのに最高ですわね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 今回の事を機に、住人同士が、
 少しでも仲良くなれるといいですね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 貧富の差はますます広がり、
 オベロン社への風当たりが強くなりました。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 <Ilene>さんも落胆しているでしょうね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 こんな時こそ、住人同士の結束が
 必要なのに……
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 <Ilene>さんがいなければ、
 それも難しいでしょうね。
 [ENDBLOCK]
-おばあさま
+Grandmother
 [ENDBLOCK]
 下町の住人と協力しているところを、
 <Ilene>さんにも見せたかったです。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 ノイシュタットを出て北へ行くと、
 リーネってちっぽけな村があるぞ。
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 こんな非常時に、
 話しかけるでない！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 やっぱり<Kongman>は頼れるのお。
 マイティ！	マイティ！
 [ENDBLOCK]
-おじいさん
+Old Man
 [ENDBLOCK]
 わしの提出したレンズも
 必ず使ってくだされ。
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 あの太陽に向かってゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えなくなってもゴーだ！
 [ENDBLOCK]
-少年
+Boy
 [ENDBLOCK]
 太陽が見えるようにゴーだ！
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 こいつと駆け足競争をしてみろよ。
 ただの子供だと思ってると、痛い目見るぜ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 こんな状況で賭け事をやるのかって？
 こんな状況だからやるんだよ。
 [ENDBLOCK]
-オベロン社員
+Worker
 [ENDBLOCK]
 <ITEM_065>、<ITEM_066>、
 <ITEM_067>、<ITEM_068>、
@@ -1428,7 +1427,7 @@ notice
 持てないようです。
 
 [ENDBLOCK]
-取り巻きの男
+Fan
 [ENDBLOCK]
 ノイシュタットにあるレンズは、
 これで全部です！
@@ -1476,72 +1475,73 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x18><x18><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x80><x18><x18><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x90><x08><x18><x00><x80><x18><x65><x90><x0C><x18><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x18><x18><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x90><x08><x18><x00><x80><x18><x65><x90><x0C><x18><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><<x18><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x90><x38><x18><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x80><x18><x18><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x90><x08><x18><x00><x80><x18><x65><x90><x0C><x18><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><<x18><x98><x80>
+[ENDBLOCK]
+<x18><x65><x90><x38><x18><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>たちは
+<x19><x69><x80>,<x18><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>は
+<x19><x69><x80>,<x18><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1559,10 +1559,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1577,22 +1574,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1614,11 +1604,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1626,76 +1616,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80><x18><x18><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x80><x18><x18><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

@@ -16,53 +16,60 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-新しいバルブを見つけたぞ。
-これで給水装置を動かせる。
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-新しいバルブだわ。
-これで給水装置を動かせるわね。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-新しいバルブですわ。
-これで給水装置を動かせますね。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブか……
+Valve...?
 [ENDBLOCK]
-新たなバルブだな。
-これで給水装置を動かせる。
+It's a new valve. It'll get
+the water system going.
 [ENDBLOCK]
-新しいバルブを発見したぞ。
-これで給水装置を動かせるな。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-新しいバルブを発見だぜ。
-これで給水装置を動かせる。
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-バルブ……？
+Valve...?
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-水量を調節する装置がありますが、
-バルブが設置されていません。
+There's a device to control
+the water volume, but no 
+valve is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-持っているバルブは、
-接続できないようです。
+The valve I have doesn't
+seem to be able to connect.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-別の場所で試してみましょう。
+Let's try another location.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-水量を調節する装置にバルブを設置しました。
+A valve has been installed on the
+device to regulate the water volume.
 [ENDBLOCK]
 CUBE1=<x1D><x75><x44><xA4><x80>,<x1D><x75><x44><xA8><x80>,<x1D><x75><x44><xAC><x80>
 
@@ -122,103 +129,108 @@ notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-バルブを回す事で水位を上げたり、
-下げたりする事ができます。
+By turning the valve, the water
+level can be raised or lowered.
 
 [ENDBLOCK]
-ただし水に浸かった場所には入る事も、
-その中を移動する事もできません。
+However, it is not possible to enter
+or move around in a submerged area.
 
 [ENDBLOCK]
-水位を操作しながら先へ進みましょう。
+Manipulate the water level
+as you move forward.
 
 [ENDBLOCK]
-城内にある木箱は押し引きする事ができます。
+The crates in the castle can
+be pushed and pulled.
 
 [ENDBLOCK]
-特定の場所では木箱を段差から落とし、
-その衝撃で壊す事もできます。
+In certain places, crates
+can be dropped from steps
+and broken by the impact.
 
 [ENDBLOCK]
-また、木箱の上は移動もできるので
-足場としても使えます。
+The top of the crate can
+also used as a scaffold.
 
 [ENDBLOCK]
-上手く木箱を利用して先へ進みましょう。
+Use the crates to your
+advantage and move on.
 
 [ENDBLOCK]
-赤いバルブのついた装置を
-操作してみましょう。
+Try to operate the device
+with the red valve.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><x84><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x84><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>たちは
+<x19><x69><x48><x78><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>は
+<x19><x69><x48><x78><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -236,10 +248,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -254,22 +263,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -291,11 +293,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -303,76 +305,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x64><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x64><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

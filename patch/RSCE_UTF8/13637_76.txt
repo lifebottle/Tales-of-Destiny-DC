@@ -358,22 +358,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ××××××空開始××××××
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START ～ D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000 ～ D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000 ～ D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000 ～ D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END ～ D1R_EPI052_END
 
 [ENDBLOCK]
-全時系列：D1R_EPI001START	～	D1R_EPI052_END
+全時系列：D1R_EPI001START ～ D1R_EPI052_END
 
 [ENDBLOCK]
 時間は夜です。
@@ -391,22 +391,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START ～ D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000 ～ D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000 ～ D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000 ～ D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END ～ D1R_EPI052_END
 
 [ENDBLOCK]
-全段階：D1R_032_040_000	～	D1R_EPI052_END
+全段階：D1R_032_040_000 ～ D1R_EPI052_END
 
 [ENDBLOCK]
 時間は夜です。<TAG_062>>=<TAG_059>>=<TAG_061>
@@ -430,22 +430,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ●●●●●●雲開始●●●●●●
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START ～ D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000 ～ D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000 ～ D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000 ～ D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END ～ D1R_EPI052_END
 
 [ENDBLOCK]
-全時系列：D1R_EPI001START	～	D1R_EPI052_END
+全時系列：D1R_EPI001START ～ D1R_EPI052_END
 
 [ENDBLOCK]
 時間は夜です。
@@ -460,322 +460,318 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-な、ない！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-何がないんですか？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-ファンダリアへ帰るのに必要な、
-通行証がないんだ。
+W-Where is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-セインガルド方面への通行証なら
-どうにかなるけどなぁ。
+Where's what?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これじゃ、帰れないよ……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-どこかに落としたんじゃ？
-[ENDBLOCK]
-男
-[ENDBLOCK]
-ああ！
+The passport I need to return to
+Phandaria, I lost it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-思い出したんですか？
+If it is a pass to get to Seinegald
+maybe you can get one.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-……トイレ。
+If I can't find it I can't go back home.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それならはやく取りに……
+Did you drop it somewhere?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-たぶん……流しちゃった。
+Ah!
 [ENDBLOCK]
-男
+<Stahn>
 [ENDBLOCK]
-何か方法を考えよう……
+Did you remember it?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-はぁ、俺はカゴの鳥だ……
+....... the toilet.
 [ENDBLOCK]
-男
+<Stahn>
 [ENDBLOCK]
-はぁ……
+In that case if you go quickly...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I probably.... Flushed it.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'll think of something...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Haa, I'm like a caged bird...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Haa........
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうされたんですか？
+Is something wrong?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-いや、もう随分まえに
-ファンダリアへの通行証をなくしてね。
+Ah, you see, a while ago I lost
+my Phandaria passport.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ずーっと、このジェノスから
-出られないのさ。
+I've been stuck in Janos ever
+since then.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-まさに、カゴの鳥だよ。
+Just like a caged bird.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-え？	でも……
+Eh? But....
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-諦めないで下さい!!
+Please, don't give up!!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-今は例えカゴの鳥だとしても、あなたが
-そのカゴから出たい気持ちが……
+You may be like a caged bird right now,
+but if you really want to leave this cage...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-諦めない心が、いつかきっと、
-あなたを自由にしてくれますわ！
+An unwavering heart will definitely
+lead you to freedom
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……え?
+……Eh?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-おお！
-なんと、勇気付けられる言葉だ！
+YES!!
+Such encouraging words!
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-お嬢さん、あなたのおかげで
-元気がでました……
+Miss, you cheered me up...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ここ最近はくさってしまって、
-宿屋からも出ていませんでした。
+Lately I've been rotting in this
+city not even leaving the inn.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-私をカゴの中に閉じ込めていたのは、
-私自身の心だったのですね！
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-はい、そうだと思いますわ。
-[ENDBLOCK]
-男
-[ENDBLOCK]
-諦めずに、ファンダリアへ帰る方法を
-探してみます！
-[ENDBLOCK]
-男
-[ENDBLOCK]
-これはホンのお礼です。
-受け取ってください。
+If I've been stuck inside a cage all this
+time, it is a cage within my own heart!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-本当に……本当によかったですわ。
+Yes, I agree.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'll find a way home, and I will not give up!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I will give you this as thanks.
+Please take it.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Is it... Is it really okay?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あの……<Philia>？
+Umm……<Philia>？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-このジェノスって、今はもう
-通行証なしで出入りできるんだけど……
+You don't need a passport to
+go through Janos anymore...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ごめん……俺も気付いてた……
+Sorry...... I noticed it too.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-現在、ファンダリア国内の
-情勢不安が続いているため、
-この門は封鎖されています。
+Currently, due to the uncertain
+state of affairs inside Phandaria,
+this gate has been sealed off.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-となると、<Greybum>を
-倒さない限り、セインガルドへ
-帰るのも難しくなるぞ。
+That is to say, unless we defeat
+<Greybum> it will be difficult
+to return to Seinegald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ。
+Ahh.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-あれ、あなたは……もしや
-<Lion>様ですか？
+Um, are you... Sir <Lion>?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-え、王国客員剣士の？
+Eh, the Hedge Knight?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-違う。オベロン社の
-御曹司だよ。
+No. The heir of the
+Oberon Corporation.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-ですよね、<Lion>様？
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-僕に、何か用があるのか？
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-いえ、お母様のクリス様は、
-お元気かなと思いまして。
+I see, Sir <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何？
+Do you need something?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-実は私、クリス様とは
-子供時代に学友だったんですよ。
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-クリス様は本当にかわいくて。
-その上、誰にでも優しくて。
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-まわりの男の子はクリス様の
-気を引きたくて、必死でしたよ。
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-おまえも、そのひとりだったんだろ？
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-お、おれは違うさ。
+No. I was just wondering
+if your mother, Lady Chris,
+is in good health.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-フッ……
+What?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I was actually a classmate of
+Lady Chris back in the day.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+The Lady was very cute,
+and gentle to everyone.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+The boys around Lady Chris
+were very desperate to attract
+her attention.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Weren't you one of them too?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I-I was not!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ご存知なかったようだが、
-母は既に亡くなっている。
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-え？
-[ENDBLOCK]
-セインガルド兵
-[ENDBLOCK]
-それは失礼な事を聞いてしまった。
-本当に、申し訳ありませんでした。
+.......
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に気にしていない。
-それに……
+It seems you don't know it but,
+my mother has passed away.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-それに？
+Eh?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+It seems I asked a rude question.
+My deepest apologies.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや……なんでもない。
-ただ、あなたには礼を言いたい。
+I don't mind it.
+And besides....
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+And besides?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+No.... It's nothing.
+It's just, Thank you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたはカルバレイスの人ですか？
+Are you from Calvalese?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-どうして知っている？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-実は……
-[ENDBLOCK]
-男
-[ENDBLOCK]
-そうか……
-[ENDBLOCK]
-男
-[ENDBLOCK]
-よし、わかった。
-これをやる。
+How do you know?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます！
+Well...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-おまえたちのような奴らなら、
-もっと早く出会いたかったよ。
+I see...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これからもお互い
-頑張ろうぜ！
+I get it.
+Let's do it.
 [ENDBLOCK]
-男
+<Stahn>
 [ENDBLOCK]
-そうそう、確かサイリルにも
-隠れカルバレイス人がいるはずだ。
+Thank you very much!
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ただ随分と、
-病弱なやつだったけどな。
+If I knew you were like this, I
+wish I'd met you guys sooner.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-確かサイリルにも
-隠れカルバレイス人がいるはずだ。
+Let's give it our best
+from now on.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ただ随分と、
-病弱なやつだったけどな。
+Indeed, there are people from
+Calvalese hidden in Cyril too.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Only, they are in awfully bad health.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Indeed, there are people from
+Calvalese hidden in Cyril too.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Only, they are in awfully bad health.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>国境を越える前には
-宿屋でしっかり休みましょう。
------ジェノス宿泊施設協会
+<TAG_005> Before you cross the border
+make sure to rest well in an inn.
+-----Janos Lodging Association
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>お酒は大人になってから。
-
+<TAG_005>Alcohol is for adults only.
 [ENDBLOCK]
 debug
 [ENDBLOCK]
@@ -783,360 +779,374 @@ debug
 通行証がないのでとおれない
 
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-ここから先はセインガルド王国だ。
-首都のダリルシェイドは遠いぞ。
-しっかり準備をしていけよ。
+The Kingdom of Seinegald starts 
+from this point on. Its capital,
+Darilsheid is quite far away.
+Make sure you're well prepared.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-通行証がなければ、
-この先へ通す事はできない。
+You can't pass through this
+point without a passport.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-ほら、下がれ！
+Hey! Step Back!
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうした通るのか？
-はい
-いいえ
+You want to pass through?
+Yes
+No
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-たとえ<Lion>様でも
-お通しする訳にはいきません。
+I'm sorry, but I can't
+allow you through.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-申し訳ないですが、
-分かって下さい。
+I'm terribly sorry, but
+please understand.
 
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-現在、ここは封鎖中だ。
+Presently, this place is sealed off.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どの立場の人間であれ、
-許可はできない。
+I can't allow you regardless
+of your position.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-さあ、通っていいぞ。
+Please, go ahead.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-セインガルドが攻撃されたというのは、
-本当なのか!?
+Is it true? Seinegald
+was attacked!?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-くそ。どうなっているんだ。
-何か情報を知らないか!?
+Shit. What is going on?
+Do you have any information!?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-どうやらあの空を打ち抜く兵器が
-建造中らしいぞ。
+Apparently, they're building a
+weapon that can pierce the skies.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-しかし……いや悪い想像はよそう。
+But.... No. Let's not think of
+the worst case scenario.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-そうか……君たちだったのか！
-この世界を頼んだぞ。
+I see... So it was you guys!
+Please save this world.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-セインガルドへ行くのか？
+You want to go to Seinegald?
 [ENDBLOCK]
 <x19><x15><x56><x80>
 [ENDBLOCK]
-行く
-行かない
+Go
+Don't go
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-通行証を持っているか？
+Do you have a passport?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-ファンダリア国内の情勢不安から
-セインガルドへ抜ける事はできません。
+As we don't know the state of
+things in Phandaria, we can't
+allow you into Seinegald.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-ファンダリア国内の情勢不安から
-セインガルドへ抜ける事はできない。
+As we don't know the state of
+things in Phandaria, we can't
+allow you into Seinegald.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-すまないが、
-どうにもできない事だ。
+I'm sorry, but I can't
+do anything about it.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-通行証を持っているようだな。
-ならばここを通る資格がある。
+It seems you have a passport.
+Then you may go through.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-もう通行証は必要ない。セインガルドと
-ファンダリアの国交が回復したからな。
+A passport is no longer needed.
+Seinegald-Phandaria relations
+have improved significantly.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-一体何が起こっているのだ？
+What is happening?
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-たとえモンスターが襲ってきても、
-我々が食い止めてみせる。
+If monsters attack, we
+will keep them at bay.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-この街でもレンズを集め、供出した。
-我々に協力できる事は言ってくれ。
+We've collected the lenses in this
+town and delivered them.
+Let us know if we can help.
 [ENDBLOCK]
-セインガルド兵
+Soldier
 [ENDBLOCK]
-我々も応援しているぞ。
+We are rooting for you too.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ハーメンツの街は、北の門を出て、
-北西の方角よ。
+If you want to get to Harmentz,
+leave through the north
+gate and go northwest.
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-ファンダリアが滅びたって、
-本当なの？
+Is it true that Phandaria
+was destroyed?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-通行証がなくなると、
-何かいい事があるのかしら？
+I wonder if there's anything I
+can do if I lose my passport?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-空に浮かんでいる変なのは何？
+What's that weird thing
+floating in the sky?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-お空が真っ暗になっちゃった。
-どうして？
+The sky became dark. Why is that?
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-お兄ちゃん、お姉ちゃん、
-頑張ってね！
+Do your best!
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-ファンダリアの王子様は、
-銀色の髪の美しい人だそうよ。
+It seems like the Phandarian
+Prince is a handsome man
+with silver hair.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-イザーク王が亡くなったって噂、
-本当なのかしら？
+Is it true? Is King Isaac dead?
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-きっと、<Woodrow>陛下も
-あなたの様にハンサムなんでしょうね。
+I'm sure His Majesty Woodrow
+is as handsome as you are.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-<Woodrow>陛下の美しい髪には、
-さぞ王冠が似合うでしょうね。
+His Majesty Woodrow's
+beautiful hair would look
+even better with a crown.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-もう争いはこりごりよ。
-せっかく平和になったと思ったのに。
+I'm sick and tired of war.
+I was so sure we had
+finally achieved peace.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-このまま世界は滅びてしまうのかしら？
+Is the world coming to an end?
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-<Woodrow>陛下が直々に、
-レンズを回収なさっているそうね。
+I heard that His Majesty Woodrow
+is personally retrieving the lenses.
 [ENDBLOCK]
-女性
+Woman
 [ENDBLOCK]
-<Woodrow>陛下が、
-きっと平和を取り戻して下さるわ。
+I'm sure His Majesty Woodrow
+will bring us peace.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの女の人、きれいだよな。
-なんとか声をかけたいんだけど……
+That woman sure is beautiful.
+I wonder if I should call out to her...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-なんて声をかけよう？
-君の瞳に乾杯！	いやいや……
+What should I say?
+Cheers to your eyes! No, no...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの女の人、きれいだよな。
-なんとか声をかけたいんだけど……
+That woman is so beautiful.
+I wonder if I should call out to her...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの女の人に声をかけたくて、
-ずっとかけられないままだよ……
+I've been wanting to approach
+that woman for a while now,
+but I can't seem do bring myself to it...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-あの女の人に声をかけようなんて、
-言ってる場合じゃなくなったな……
+I missed a good opportunity
+to talk to that woman.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大丈夫、僕があなたを守りますよ。
-……そういえればいいんだけど。
+Don't worry, I'll protect you.
+If I were to say that...
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-はあ……ずっとこのまま、
-声をかけられないのかなあ……
+Haa.... I still haven't been
+able to approach her.
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-この間、飛行竜を見たんだ。
-随分低いところを飛んでいたな。
+I saw the Draconis fly by.
+It was flying very low.
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-セインガルドが国境に、
-軍を展開しているとの噂があるが……
+There are rumors of troop
+movements along the Seinegald
+border.
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-国境の行き来が自由になって、
-この街もますます発展するだろう。
+With free movement across the
+border I think this town will
+grow more and more.
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-セインガルド方面で、何かが光るのを
-見たんだが……あれがベルクラント？
+I saw a bright light in the direction
+of Seinegald... was that Belcrant?
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-どこへ行ったところで同じだ。
-人類は滅びるしかないんだ……
+It's the same no matter where
+you go. Is humanity finished?
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-私も家にあるレンズを出したよ。
+I brought the lens I had at home.
 [ENDBLOCK]
-若者
+Boy
 [ENDBLOCK]
-私たちには祈る事しかできないが……
-世界をよろしく頼む。
+All we can do is pray... We will
+leave the world in your hands.
 [ENDBLOCK]
-おじいちゃん
+Grandpa
 [ENDBLOCK]
-最近の若者はどうも寒がりでいかん。
-わしと一緒に乾布まさつじゃ！
+Young people are so sensitive
+to cold these days.
+Come have a towel rub with me!
 [ENDBLOCK]
-おじいちゃん
+Grandpa
 [ENDBLOCK]
-あわててはいかん。
-心を落ち着けるために乾布まさつじゃ！
+Don't panic! A towel rub
+will calm you down!
 [ENDBLOCK]
-おじいちゃん
+Grandpa
 [ENDBLOCK]
-モンスターが襲ってこようと、
-乾布まさつで乗り切ってやるわい！
+If monsters attack fret not, a good
+towel rub will get you through!
 [ENDBLOCK]
-おじいちゃん
+Grandpa
 [ENDBLOCK]
-くじけそうになったら乾布まさつじゃ。
-頑張るのじゃぞ。
+If you're disheartened,
+go for a towel rub.
+Hang in there!
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-何か方法を考えよう……
+I'll think of something...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color>
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x59><xD8><x00><x80><x18><x65><x59><xDC><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x59><xD8><x00><x80><x18><x65><x59><xDC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x0C><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x5A><x08><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color>
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><xD8><x00><x80><x18><x65><x59><xDC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x0C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5A><x08><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>たちは
+<x19><x69><x49><xFC><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80>は
+<x19><x69><x49><xFC><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1154,10 +1164,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1172,22 +1179,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1209,11 +1209,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1221,76 +1221,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><xE8><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><xE8><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani>
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue,
+and try talking to them again.
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the
+city will start the game.
+2: Battles doesn't affect the clearing
+objective of the Rock Rally game.
+3: The rock will return to its original
+location when you enter or leave
+a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

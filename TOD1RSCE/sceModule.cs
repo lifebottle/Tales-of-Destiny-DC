@@ -10,9 +10,12 @@ namespace sceWork
         private sceHeader header;
         private StreamFunctionAdd mainSfa;
 
+
         public void Dispose() => this.mainSfa.Dispose();
 
         public int Count => this.header.fileStrings.Count;
+
+        internal sceHeader Header { get => header; set => header = value; }
 
         public sceModule(string fileName)
         {
@@ -37,6 +40,15 @@ namespace sceWork
                 this.header.fileStrings[idx].data.Add(data[index]);
         }
 
+        public void SetBlock(int idx, byte[] data, List<string> plainStringList, List<int> lineNumberList)
+        {
+            header.lineNumberList = lineNumberList;
+            header.plainStringList = plainStringList;
+            this.header.fileStrings[idx].data.Clear();
+            for (int index = 0; index < data.Length; ++index)
+                this.header.fileStrings[idx].data.Add(data[index]);
+        }
+
         public void SetStringBlock(int idx, string str)
         {
             List<byte> byteList = new List<byte>();
@@ -45,7 +57,7 @@ namespace sceWork
             this.SetBlock(idx, byteList.ToArray());
         }
 
-        public void Save() => header.WriteStrings(mainSfa);
+        public void Save(bool dedup=false) => header.WriteStrings(mainSfa, dedup);
 
         public bool isHaveText() => mainSfa.LengthStream - header.offsetStrings > 2L;
 

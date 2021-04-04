@@ -373,7 +373,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ねえ、お兄ちゃん？
 [ENDBLOCK]
@@ -386,7 +386,7 @@ select
 <TAG_007>何の用だ？
 子供に用はない
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 お兄ちゃんって食べ物の
 好き嫌いがなさそうだね。
@@ -395,30 +395,30 @@ select
 [ENDBLOCK]
 ……ああ……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 なんだ、関係ないじゃん。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 そんな事言わないで聞いてよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 昨日ね、ぼくが嫌いなお野菜を
 残したら母さまが怒るんだ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 「そんな事じゃ
 大きくなれませんよ」って。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 それでお兄ちゃんに
 聞きたい事なんだけど。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 お兄ちゃんは嫌いな食べ物ってある？
 [ENDBLOCK]
@@ -427,7 +427,7 @@ select
 特に好き嫌いなどないが……
 甘いものは嫌いだ……
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ほんと～？
 [ENDBLOCK]
@@ -435,7 +435,7 @@ select
 [ENDBLOCK]
 どうして疑うんだ？
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 だってさ、お兄ちゃんってばちらちら
 アイスキャンディー屋さんを見てたよ。
@@ -444,7 +444,7 @@ select
 [ENDBLOCK]
 嫌いなものが目に付いただけだ！
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ふーん、それなら甘いものを
 食べれば大きくなれるって事だね。
@@ -508,12 +508,12 @@ select
 [ENDBLOCK]
 …………？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 だれか……見事な肉体をしていて、
 トップレスな奴はいないかな……
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 おお、あなたしかいない！
 [ENDBLOCK]
@@ -521,7 +521,7 @@ select
 [ENDBLOCK]
 ん？	俺様に用か？
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 突然ですが、
 あなたのその肉体に惚れました。
@@ -544,16 +544,16 @@ select
 [ENDBLOCK]
 やい、俺様にそんな気はねえ！
 [ENDBLOCK]
-？？？？
+???
 [ENDBLOCK]
 あ、違います。
 勘違いしないで下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私、舞台の監督をやっている者です。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 実は、役者が病気になってしまって、
 代役を探していました。
@@ -563,7 +563,7 @@ select
 という事は……<Kongman>さんを
 その代役に？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 はい、その通りです。
 [ENDBLOCK]
@@ -577,7 +577,7 @@ select
 ふざけるなぁ。俺様はチャンピオンだぞ。
 代役なんてやらねえ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そんなぁ。私の舞台監督としての、
 今後が懸かっているんです。
@@ -596,12 +596,12 @@ select
 [ENDBLOCK]
 い、いえ、そこまでは……
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ホントですか！
 ありがとうございます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 では、さっそく行きましょう！
 [ENDBLOCK]
@@ -609,7 +609,7 @@ select
 [ENDBLOCK]
 何、今やるのか!?
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 ええ！	会場には既に
 お客さんが入ってますからね！
@@ -618,12 +618,12 @@ select
 [ENDBLOCK]
 ……まじ……かよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 大丈夫、セリフはありません。
 私の指示どおりに演技をして下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう舞台が始まります。
 急ぎましょう。
@@ -660,26 +660,26 @@ select
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 そこを出れば
 すぐに舞台となっています。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 私はここから指示を出します。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 その指示に従って、演技をしてください。
 いいですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 何、大丈夫ですよ。
 あなたなら、必ずできます。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、出番です！
 [ENDBLOCK]
@@ -707,7 +707,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あら、あなたは？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、彼女に求愛するんだ。
 [ENDBLOCK]
@@ -716,7 +716,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 あなたが私を助け出して下さる、
 白馬の王子さまなのですね？
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 強い男をアピールするんだ！
 [ENDBLOCK]
@@ -728,11 +728,11 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ささ、私を連れ出して下さい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 さあ、もう一度。かっこつけるんだ。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 貴様、姫には触れさせん！
 [ENDBLOCK]
@@ -740,12 +740,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 あなたは一体……？
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私は姫を心よりお慕い申し上げる者。
 しかし、父はしがない農民……
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 頭では身分の違いを分かっていても、
 この心が、姫の事をあきらめさせません。
@@ -764,7 +764,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 私の身も心も、
 全てをお救い下さい。
 [ENDBLOCK]
-男役
+Male Role
 [ENDBLOCK]
 私が一生、
 姫をお守りします。
@@ -773,44 +773,44 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ……はい。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう訳が分からない！	という笑いだ！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 でも、状況が理解出来てきて、
 泣いてしまう！
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いやー、素晴らしかったですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 あなたなら、トップスターも夢じゃない。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 まあ、初舞台ですからね。
 十分ですよ。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 是非、また参加してください。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 もう一度、
 舞台に挑戦しますか？
 はい
 いいえ
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 それじゃ、もう一度説明しますね。
 [ENDBLOCK]
-新人監督
+Rookie Director
 [ENDBLOCK]
 いつでも待ってますよ。
 [ENDBLOCK]
@@ -853,149 +853,149 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 ノイシュタット名物、
 アイスキャンディーはいかがですか？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 闘技場で有り金全部すっちまった。
 お陰で飯代にも事欠く有様さ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 食い物はただで調達しないとな。
 ……おっ、引いたか？
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 ……引いたと思ったが気のせいか。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 いやあ、ここがすぐに復旧
 してくれて助かったよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 港で魚釣りなんかしていたら、
 漁師たちに、にらまれるからな。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 あんたたち、どこで放送を聞いた？
 まったく、驚いたよなあ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 いつモンスターが襲ってくるかも
 わからない。釣りも命がけだよ。
 [ENDBLOCK]
-旅人
+Traveler
 [ENDBLOCK]
 あんたたち、レンズを集めてるって？
 何に使うつもりなんだい？
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 下町にすごく素敵な女性がいるんだ。
 なんとか近づけないかなあ……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 下町のあの人が、今回の騒ぎで、
 ケガをしていなければいいけど……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 この前妹と一緒にいるところを、
 下町のあの人に見られてしまってね。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 誤解されていなければいいけど……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 あの人は今、どんな気持ちでいるだろう。
 様子を見に行きたいけど……うーん。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 僕みたいなのが下町に行くと、
 無事では済まないって聞くし……
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
 うーん……どうしよう……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 闘技場なんてなくしてしまえばいいのに。
 がらの悪い連中が集まって困るわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 最も被害を受けたのは、
 この広場でした。
 
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 しかし、逆に被害が集中していた分、
 すぐに復旧できた事は不幸中の幸いでした。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 <Ilene>様は下町の者に甘すぎます。
 ひとこと意見をさせて欲しいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 ノイシュタットさえ無事なら、
 他はこの際どうでもいいですわ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 さすがにまずい状況ですわね……
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 レンズだけでいいんですの？
 軍資金の提供もいたしますわよ。
 [ENDBLOCK]
-女
+Woman
 [ENDBLOCK]
 だからどうか、どうか！
 私たちを助けてくださいましな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 見てたってやらないぞ。
 あっち行けよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 アイスキャンディーを食べる場所が
 戻って、安心したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 あの騒ぎで食べ損ねちゃったから、
 アイスキャンディーを買い直したよ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 最近、このあたりをうろつく
 下町のガキが増えたよな。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 ノイシュタットにだけは、
 雷を落とさないで欲しいよね。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパに頼んで、どこか明るい所に
 引越ししたいなあ。
 [ENDBLOCK]
-男の子
+Boy
 [ENDBLOCK]
 パパが、これからは下町の連中とも
 仲良くしろって。どうしてかな？
@@ -1078,72 +1078,73 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x08><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x08><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><xF8><x00><x80><x18><x65><x58><xFC><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x08><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><xF8><x00><x80><x18><x65><x58><xFC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x2C><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x59><x28><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x49><x08><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><xF8><x00><x80><x18><x65><x58><xFC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x2C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x28><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>たちは
+<x19><x69><x49><x1C><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x1C><x80>は
+<x19><x69><x49><x1C><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1161,10 +1162,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1179,22 +1177,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1216,11 +1207,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1228,76 +1219,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x08><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><x08><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

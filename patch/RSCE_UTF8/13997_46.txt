@@ -1,200 +1,204 @@
-母
+Mother
 [ENDBLOCK]
-<Ilene>様のお屋敷に比べれば、
-私共の家など大した事はありませんわ。
+Compared to <Ilene>'s house,
+our's is nothing.
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-表が騒がしいようですけど、
-何かあったんですの？
+There seems to be a lot of noise
+out front. What's going on?
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-<Ilene>様がいなくなれば、
-私共がこの街で一番の資産家ね。
+Once Lady <Ilene> is gone, We'll be
+the wealthiest family in the city.
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-……あ、あら。聞いていらしたの？
-ほんの冗談ですわよ、ほほほ！
+... Oh, my. Did you hear that?
+I'm just kidding. Ho ho ho!
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-外で大声を出していたのは誰？
-育ちが知れますわね。
+Who was that shouting outside?
+You know how I grew up.
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-外が暗くなったようですわね。
-いつの間に夜になったんでしょう。
+It seems to have gotten dark outside.
+I wonder when it became night.
 [ENDBLOCK]
-母
+Mother
 [ENDBLOCK]
-レンズが欲しい？	無心なら、
-使用人に言って下さいな。
+Want a lens? If you don't mind.
+If you don't care, tell the servants.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-この街って栄えてるんだけど、
-どこか田舎っぽさが抜けないのよね。
+This city is prosperous, but I can't 
+seem to get rid of the country feel.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-あーあ、前に住んでたダリルシェイドに
-戻りたいな。
+Oh, my God, I want to go back
+to Darilsheid where I used to 
+live. I wish I could go back...
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-この街って栄えてるんだけど、
-どこか田舎っぽさが抜けないのよね。
+This city is prosperous, but I can't
+seem to get rid of the country feel.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-<Ilene>さんは街に嫌気がさしたのよ。
-私も気持ちはわかるわ。
+<Ilene> is fed up with the city.
+I know how she feels.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-あの放送、聞いた？
-ちょっとワクワクするわね。
+Did you hear that broadcast?
+It's kind of exciting.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-聞いた話じゃ、あちこちで、
-山とか削られちゃったんだってね。
+I heard that mountains were
+cut down all over the place.
 [ENDBLOCK]
-姉
+Older Sister
 [ENDBLOCK]
-あなたたち、ダリルシェイドにも、
-簡単に戻れるんでしょ？	いいなあ。
+You guys could easily go 
+back to Darilsheid, couldn't
+you? I'd like that.
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-マジカル～～！
+Magical~~!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-ミラクル～～！
+Miraculous!
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-シューーート！
+Shoot!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-シューーート！
+Shoot!
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-邪魔しないで。魔女ごっこして、
-遊んでるんだから。
+Don't interrupt me. I'm just
+playing witch, that's all.
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-空に浮かんでる変なの、
-撃ち落せればいいのに。
+I wish I could shoot down those weird
+things floating in the sky.
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-右手に祝福を！
+Bless my right hand!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-ミラクル～～！
+Miraculous!
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-マジカル～～！
+Magical~~!
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-シューーート！
+Shoot!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-シューーート！
+Shoot!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-マジカルマリンランドより、
-ここにけんざん！
+From Magical Marineland,
+here comes Kenzan!
 [ENDBLOCK]
-双子
+Thing 2
 [ENDBLOCK]
-魔法が使えれば、空を元通りにするのに。
+If I could use magic, I 
+would restore the sky.
 [ENDBLOCK]
-双子
+Thing 1
 [ENDBLOCK]
-左手に希望を！
+Hope in your left hand!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x57><xE8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE8><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>は
+<x19><x69><x47><xDC><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -212,10 +216,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -230,22 +231,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -267,11 +261,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -279,76 +273,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x47><xC8><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

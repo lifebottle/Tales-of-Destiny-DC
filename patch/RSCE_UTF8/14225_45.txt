@@ -81,7 +81,7 @@ notice
 [ENDBLOCK]
 あの、すみません。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 はい、何でしょう？
 [ENDBLOCK]
@@ -90,7 +90,7 @@ notice
 実は探しているものが
 あるんですけど……
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 それでしたら北にある
 ティルソの森の奥にあると
@@ -105,12 +105,12 @@ notice
 ありがとう。それじゃあ、早速
 そのティルソの森に行ってみます。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ちょっと、お嬢さん
 ひとりで行かれるんですか？
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 お連れの方々は!?
 [ENDBLOCK]
@@ -133,12 +133,12 @@ notice
 お兄ちゃんを驚かせて
 あげるんだから。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 ティルソの森の奥に
 あると聞いたことがあります。
 [ENDBLOCK]
-宿屋
+Innkeeper
 [ENDBLOCK]
 けどひとりで行くだなんて……
 無茶だけはしないで下さい。
@@ -267,331 +267,330 @@ select
 <TAG_005>こんな平和な時代だからこそ
 家に１本、剣を備えましょう。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ティルソの森なら、
 街を出て北にあるわよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ここはスノーフリアの街よ。
 あなたたち、悪い時に来たわね。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ようこそ、ここはファンダリアの
 海の玄関口、スノーフリアよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 反乱が終わったと思ったら、
 今度は天地戦争ですって……？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 恐ろしい事になってしまいました……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 この街のレンズなら、
 既にハイデルベルグに運びましたよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 戦いを終わらせてください。頼みます。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ひとりで街の外に出るですって？
 
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 モンスターは相手が女の子ひとりでも
 容赦してくれないんだから、気をつけなさい。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 今はとにかく、
 負傷者の救護をしないと……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 一時はどうなるかと思いましたが、
 もう安心ですね。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 天地戦争って……私たちが、
 何をしたと言うんですか？
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 食べ物の蓄えがあまりないんです。
 このままの状態が続いたら……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 セインガルドですごい兵器を
 作っているそうですね。
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 お姉ちゃん、
 どこかに行くの？
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 どうしてみんなケガしてるの？
 誰がやったの？
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 新しい王さまは、<Woodrow>陛下って
 言うのよ。
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 空に変な物が浮いてるよ……？
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 空が変な物で埋まっちゃったよ……？
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 どこかにレンズが堕ちてないかな～？
 [ENDBLOCK]
-娘
+Daughter
 [ENDBLOCK]
 お兄ちゃんたち、空の上へ行けるの？
 すごお～い！
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 何？	兄のためにひとりで
 ティルソの森へ行くのか。
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 何と兄想いのけなげな
 お嬢さんだ。
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 都で反乱が起きたらしい。
 今はこれ以上わからないのだ。
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 無事終わったとは言え、我が国の首都が
 反乱軍に落とされたのは事実だ。
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 この事実を、全ての国民が
 重く受け止めなくてはならない。
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 空からの攻撃を防ぐ手立てなど、
 あるのだろうか……？
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 この街もモンスターの脅威に
 さらされている……
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 レンズを集めて、今さら
 なんとかできるのだろうか？
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 今は吉報を待ちながら、
 街の防衛に全力を尽くすとしよう。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 街を反乱軍から守らないとのう。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 備えあれば憂いなしじゃよ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 街を反乱軍から守らないとのう。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 備えあれば憂いなしじゃよ。
 [ENDBLOCK]
-武具屋
+Weapon Shop
 [ENDBLOCK]
 昔、ここから南東の島ではるか上空を
 大鳥が飛んでいるのを見た事があるぞ。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 負傷者の救援に行く気なら、
 準備はしっかりね。
 [ENDBLOCK]
-道具屋
+Item Shop
 [ENDBLOCK]
 この辺の気候は厳しいよ。
 しっかり準備して行きな。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 負傷者の救援に行く気なら、
 準備はしっかりとな。
 [ENDBLOCK]
-装飾屋
+Uniques Shop
 [ENDBLOCK]
 この辺の気候は厳しいぞ。
 しっかり準備して行くのじゃぞ。
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	君はディフィニット戦記を
-持っていないのか？
+Do you have the Battle record Book?
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-君の腕前なら十分だろ。
-これをあげるよ。
+Your skill is good enough,
+I will give you this.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-これはモンスターに有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-大事に使ってくれよ。
+Take good care of it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニューのカスタムから
-「ディフィニットストライク」を「ON」に
-する事でディフィニットストライクを
-行う事ができます。
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-またディフィニットストライクが「ON」の
-状態であればモンスター図鑑から各モンスターの
-ディフィニットストライクを見る事ができます。
-
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-ん？	もうあげるものは
-ないぞ。
+I have nothing to give anymore. 
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-今の君には何も話す事はない。
+I have nothing to say anymore.
 [ENDBLOCK]
-男
+Man
 [ENDBLOCK]
-もう少し腕を磨いてからだな。
+Come back once you have honed
+your skills some more.
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 おのれ反乱軍め……
 王家に刃を向けるとは……
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 う……うう……
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 <King>陛下……申し訳ありません……
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 あの<Greybum>とかいう男は何者だ。
 なぜたやすくモンスターを操れる？
 [ENDBLOCK]
-ファンダリア兵
+Soldier
 [ENDBLOCK]
 ハイデルベルグがこうもたやすく
 陥落するとはな……
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xC8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC8><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>たちは
+<x19><x69><x48><xBC><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80>は
+<x19><x69><x48><xBC><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -609,10 +608,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -627,22 +623,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -664,11 +653,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -676,76 +665,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><xA8><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><xA8><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -820,11 +814,10 @@ in this, so why not do it, right?
 [ENDBLOCK]
 Please do as much as you can.
 [ENDBLOCK]
-<x18><x66><x50><x20><x00><x80>の<TAG_055>から
-依頼を受けているようだな。
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
-注文の品は……
-<x1A><x72><x0C><x80>を<TAG_035>個だな。
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
 I'll be quick about it.
@@ -838,37 +831,36 @@ Please obtain <TAG_035> <x1A><x72><x0C><x80>,
 and deliver it as soon as you can.
 
 [ENDBLOCK]
-Good luck with the procurement!
+Good job, getting what I needed!
 
 [ENDBLOCK]
-Remainder of Reward
+
 [ENDBLOCK]
-Reward
+You will receive <TAG_077> Gald
+after taking the difference
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>I have charged a
-<TAG_077> Gald penalty for refunding
-the payment advance.
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
 
 [ENDBLOCK]
-You're short the requested number of items
+You're short the requested number of items.
 
 [ENDBLOCK]
-俺が必要なのは<x1A><x72><x40><x10><x80>を
-<TAG_075>個だぞ。
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-There'll be a penalty,
-if you quit the job.
+You'll have to pay a penalty if you
+quit the job you've accepted.
 [ENDBLOCK]
-There'll be a penalty,
-if you quit the job.
+You know you have to pay a penalty to
+cancel an order you've accepted?
 [ENDBLOCK]
 It's great to work with you.
 [ENDBLOCK]
 Well, good luck then.
 [ENDBLOCK]
-Are you serious? If you're having
+Are you serious? If you're having 
 second thoughts, now's the time.
 [ENDBLOCK]
 I'm a little disappointed...
@@ -887,13 +879,14 @@ fee of <TAG_076> Gald.
 You can't cancel the contract
 unless you pay the penalty.
 [ENDBLOCK]
-とりあえず迷惑料として
-手持ちの金を支払ってもらうぜ。
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>迷惑料として
-<TAG_075>ガルド支払いました。
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
 
 [ENDBLOCK]
 You don't have enough money.
@@ -905,7 +898,8 @@ I'm counting on you, man.
 Are you serious?
 This is your last chance?
 [ENDBLOCK]
-困ったヤツだな……
+Seriously... You're 
+such a burden.
 
 [ENDBLOCK]
 前金返却と違約金
@@ -914,15 +908,15 @@ This is your last chance?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x28><x00><x80>として
-<TAG_076>ガルド払いました。
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
 
 [ENDBLOCK]
 I can't cancel the contract
 without charging a penalty.
 [ENDBLOCK]
-とりあえず迷惑料として
-有り金全部支払ってもらうよ。
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -969,13 +963,13 @@ Shiden
 [ENDBLOCK]
 Moreau
 [ENDBLOCK]
-Toukei
+Terazzi
 [ENDBLOCK]
 Cyril
 [ENDBLOCK]
 Heidelberg
 [ENDBLOCK]
-Katz Village
+Calvalese
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1013,9 +1007,9 @@ Merick
 [ENDBLOCK]
 Depot
 [ENDBLOCK]
-???
+???<x00>
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あら、あなた……？
 [ENDBLOCK]
@@ -1028,7 +1022,7 @@ select
 <TAG_007>なんだ？
 （……無視……）
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あれ……女の子よね？
 [ENDBLOCK]
@@ -1037,50 +1031,50 @@ select
 なんだと？	もう一度言ってみろ。
 どうなるか……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 キャー、ごめんごめん。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ、あなたセインガルドの人？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 だったら、<Lion>って名前の
 剣士様知らない？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 一度だけ遠くから
 お顔を拝見した事があるのよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 すっごい綺麗な剣士様で、
 私憧れてるんだ～。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あんなに小柄な体なのに、
 屈強な男たちを引き連れて、
 戦場で華麗に舞っているんだわ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 だから私、<Lion>様を
 こう呼んでいるのよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 「セインガルドの薔薇」ってね。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 私も同じ女だけど……
 <Lion>様になら……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 おや、<Mary>ちゃん？
 [ENDBLOCK]
@@ -1093,7 +1087,7 @@ select
 <TAG_007>お久しぶりです
 えーっと……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ええ。ところで<Mary>ちゃん？
 記憶をなくしていたって聞いたけど……
@@ -1102,12 +1096,12 @@ select
 [ENDBLOCK]
 ああ、すっきり忘れていたぞ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 あっはっは。
 ホント、<Mary>ちゃんは面白いねえ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 今度、サイリルに遊びに行くよ。
 <Dalis>の顔も見ておきたいからね。
@@ -1116,12 +1110,12 @@ select
 [ENDBLOCK]
 楽しみにしているぞ。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 相変わらずとぼけてるとこが
 あるのね<Mary>ちゃんは。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 どうなの、<Dalis>とは
 上手くやってるの？
@@ -1130,7 +1124,7 @@ select
 [ENDBLOCK]
 おお！	あなたは!!
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 「誰？」なんていう
 ボケじゃないだろうね。
@@ -1141,11 +1135,11 @@ select
 となりに住んでいて、幼い<Dalis>の面倒を
 よく見てくれたご婦人ですね。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 よ、よく覚えてくれてるねぇ……
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 ま、いいよ。
 堅物の<Dalis>にはあんたぐらいの嫁が
@@ -1155,13 +1149,13 @@ select
 [ENDBLOCK]
 ありがとう。
 [ENDBLOCK]
-おばさん
+Old Lady
 [ENDBLOCK]
 <Dalis>と上手くやって、
 はやくおばちゃんにあんたたちの
 子供を抱かせておくれよ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ……
 [ENDBLOCK]
@@ -1174,7 +1168,7 @@ select
 <TAG_007>お嬢さん、俺様が何か？
 今はプライベートなんだ、サインは後にしてくれ
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 あんたが裸でいると、
 私が不快なんだけど。
@@ -1184,7 +1178,7 @@ select
 そんなバカな。
 そんな女がいるはずがねえ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 いるんだけど、ここに。
 [ENDBLOCK]
@@ -1193,7 +1187,7 @@ select
 がっはっは。
 そんなやつはいないぜ。
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 はあ？
 [ENDBLOCK]
@@ -1201,16 +1195,16 @@ select
 [ENDBLOCK]
 だから、サインは後に……
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 はあ？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 ねえ、あんたさ。
 なんで裸なの……？
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 仲間はなんとも言わないの？
 [ENDBLOCK]
@@ -1219,7 +1213,7 @@ select
 がっはっは。
 俺様のこの筋肉を見たくないやつはいない！
 [ENDBLOCK]
-若い女
+Young Woman
 [ENDBLOCK]
 恐……<x00>
 [ENDBLOCK]

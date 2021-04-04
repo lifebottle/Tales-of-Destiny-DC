@@ -1,6 +1,6 @@
-×××××<x9A>
+××××××空開始××××××
 [ENDBLOCK]
-<xD4>空開始××××××
+<IGNORE>
 
 [ENDBLOCK]
 ××××××空終了××××××
@@ -27,7 +27,7 @@ Gusu, gusu...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's the matter, sweetheart?
+What's the matter?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -41,7 +41,7 @@ Come on, don't cry.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm in trouble.
+I'm sorry.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -54,8 +54,8 @@ But you know what...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-It's terrible... My brother,
-Gus, told me about it.
+It's terrible... and your 
+friend, thinks I'm...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -64,13 +64,13 @@ How would I know?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If you don't know what your father is,
-how can I konw what you are?
+If you don't know who your 
+father is, how would I know?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, what are you
-doing with this child?
+<Lion>, you can't do 
+anything with a  child?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -78,22 +78,21 @@ Shut up, <Stahn>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I may be your father, but I'm
-still a stranger to you.
+He may be your father, but 
+he's still a stranger to you.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-B-but your father is my...
+B-but my dad is...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 If others won't change, you'll have
-to change your way of thinking. But,
-if your father is my...
+to change your way of thinking.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes, I have to change.
+Yes, We have to change that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -102,12 +101,11 @@ Yes, I have to change.
 Child
 [ENDBLOCK]
 I don't know what you're talking
-about. It's too hard to understand.
+about. It's too confusing.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Ok, let's hurry up
-and get out of here.
+Ok. Hey, let's get a move on.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -316,7 +314,7 @@ Chatty Old Man
 [ENDBLOCK]
 Do you think it looks like fun.
 [ENDBLOCK]
-？？？？？
+???
 [ENDBLOCK]
 I've never seen you around before.
 Are you from Fitzgald?
@@ -448,23 +446,24 @@ Bye~.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>In Aquaveil's language. Sheeden 
+<TAG_005>In Aquaveil's language. Shiden 
 seem to be written as "Shiden".
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey! This is Sheeden
+Hey! This is Shiden
 territory in Aquaveil.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You guys don't look familiar, do you?
-What are you, some kind of smugglers?
+You guys don't look 
+familiar? What are you,
+some kind of smugglers?
 Masakana!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey! This is Sheeden
+Hey! This is Shiden
 territory in Aquaveil.
 [ENDBLOCK]
 Man
@@ -474,7 +473,7 @@ I have no idea.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey! This is Sheeden
+Hey! This is Shiden
 territory in Aquaveil.
 [ENDBLOCK]
 Man
@@ -485,12 +484,12 @@ Masakana!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey! This is Sheeden
+Hey! This is Shiden
 territory in Aquaveil.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-This is Sheeden territory... 
+This is Shiden territory... 
 Hey, what the hell is going on?
 [ENDBLOCK]
 Man
@@ -551,8 +550,8 @@ We don't have Rope.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-More importantly, take a
-look at the jewelry.
+More importantly, take
+a look at the jewelry.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
@@ -579,7 +578,7 @@ I'm confident in our selection.
 Weapon Shop
 [ENDBLOCK]
 That is the spirit of the people 
-of Sheeden, who are not afraid 
+of Shiden, who are not afraid 
 of adversity.
 [ENDBLOCK]
 Weapon Shop
@@ -602,7 +601,7 @@ I'm confident in our selection.
 Weapon Shop
 [ENDBLOCK]
 That is the spirit of the people
-of Sheeden, who are not afraid
+of Shiden, who are not afraid
 of adversity.
 [ENDBLOCK]
 Boy
@@ -612,25 +611,25 @@ fleet called the Black Cross Fleet!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-My father and I were fishing near a 
-cave when we were attacked by a 
-monster.
+My father and I were fishing near
+a cave when we were attacked by
+a monster.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I managed to escape, but afterwards
-I was so numb, it was hard to come
-back.
+I managed to escape, but
+afterwards I was so numb,
+it was hard to come back.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I heard that Lord <Fayte> of the Moreau
-territory was captured.
+I heard that Lord <Fayte> of the
+Moreau territory was captured.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The other day I asked <Johnny> to 
-build a fleet in Sheeden as well.
+The other day I asked <Johnny> 
+to build a fleet in Shiden as well.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -665,7 +664,7 @@ more fun things to do.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-I love some hopscotch.
+I love some Rock Rally.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
@@ -679,7 +678,7 @@ outside of towns.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-I love some hopscotch.
+I love some Rock Rally.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
@@ -692,16 +691,16 @@ outside of towns.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-Well, first of all, it's
+First you need to get
 more than 32 times.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-Well, it's more than 64 times.
+Well, now it's more than 64 times.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-Well, it's more than 96 times.
+Well, it's more than 96 times now.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
@@ -709,7 +708,7 @@ Well, it's more than 128 times.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-Well, it's over 160 times.
+Wow, now you need over 160 times.
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
@@ -821,7 +820,7 @@ come back and speak with me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, this is Sheeden? The buildings
+Wow, this is Shiden? The buildings
 are all so different.
 [ENDBLOCK]
 <Stahn>
@@ -887,7 +886,7 @@ It seems <Tiberius> called in an
 outsider as his military advisor.
 [ENDBLOCK]
 I've heard about that. His name
-was Ly... something.
+was Grey... something.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -897,8 +896,8 @@ was Ly... something.
 [ENDBLOCK]
 Shh! Be quiet!
 [ENDBLOCK]
-There are also rumors that the Third
-Prince is heading toward Moreau.
+There are also rumors that the third
+prince is heading toward Moreau.
 [ENDBLOCK]
 Isn't he just sightseeing as usual?
 That helpless libertine.
@@ -939,18 +938,19 @@ us for someone else?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Indeed, we are the backup. What's the
-best way to get to Moreau?
+Indeed, we are the backup. What's
+the best way to get to Moreau?
 [ENDBLOCK]
-You can use the sea cave. There's an
-entrance to it to the south of town.
+You can use the sea cave. 
+There's an entrance to it 
+to the south of town.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 Right, got it.
 [ENDBLOCK]
 The floor of the cavern is very
-brittle. Please take caution.
+brittle. Please be cautious.
 [ENDBLOCK]
 There are terrible monsters living
 there, as well. Be sure not to stay
@@ -996,8 +996,8 @@ Yes, we know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey <Mary>, I have this overwhelming
-urge to scream at these dumbasses.
+Hey <Mary>. I feel like screaming
+at the top of my lungs righ now.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1037,11 +1037,12 @@ No
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
 has returned to the party.
 [ENDBLOCK]
@@ -1059,40 +1060,40 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x14><x98><x80>
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x14><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x10><x00><x80></color>を取得しました。
+<x18><x65><x59><x10><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>たちは
+<x19><x69><x49><x04><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80>は
+<x19><x69><x49><x04><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1110,10 +1111,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1128,22 +1126,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1165,11 +1156,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1177,76 +1168,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><xF0><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><xF0><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

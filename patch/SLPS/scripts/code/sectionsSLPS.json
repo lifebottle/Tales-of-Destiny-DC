@@ -70,7 +70,7 @@
 			"SectionDesc":	"Menu Button",
 			"GoogleSheetId":"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
 			"TextStart":	"19BDC0",
-			"TextEnd":		"19C0DE",
+			"TextEnd":		"19C0BE",
 			"PointerStart":	"",
 			"PointerEnd":	""
 		}]
@@ -177,6 +177,16 @@
 			"GoogleSheetId":"1u_-RAmhvoRuSoLk7zxTqfUu50GhIDvKixbCujqIWhr8",
 			"TextStart":	"1A6870",
 			"TextEnd":		"1A7876",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		
+		},
+		{
+			"SectionId":	2,
+			"SectionDesc":	"Discovery",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"1A7878",
+			"TextEnd":		"1AA9EE",
 			"PointerStart":	"",
 			"PointerEnd":	""
 		

@@ -5,6 +5,9 @@
 1. Extract raw data with `sceWork.exe`
 1. Extract data with Japanese text, you also need `JPCODES.txt` in the same directory
 
+# Usage Instructions (General)
+1. Use `//` to comment out lines that do not need to be inserted
+
 # Usage Instructions (Skits)
 1. Use `pakcomposer.exe` to extract `.pak1` files
 1. BAT Example: `for %%i in (*.pak1) do pakcomposer.exe -d "%%i" -1 -x -u -v`

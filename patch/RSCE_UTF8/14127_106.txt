@@ -1,9 +1,9 @@
- m
-[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-set_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
-
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 半径だ<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
 
@@ -87,551 +87,589 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-おねえさん
+Sister
 [ENDBLOCK]
-そこの家で事件があったみたいですよ。
+It seems there's been an
+incident at that house.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、何かあったのか？
+<Fayte>, what's going on?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、ちょっと事件があってな。
-うちの兵士が襲われたんだ。
+Yeah, there's been a bit
+of an incident. One of my
+soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで犯人は？
+And who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、捕まった事は
-捕まったのだが……
+Yeah, And they've been caught.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしたの？
-ぱっとしない顔ね。
+What's wrong with you?
+You don't look so good.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ん……？
+Mmm...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まさか<Fayte>さん、
-この子が兵士を襲ったんですか!?
+Don't tell me, <Fayte>. Did
+this girl attack a soldier!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-<Fayte>さま！
-私は犯人じゃありません！
+<Sir Fayte>!
+I'm not the killer!
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-<Johnny>さまも信じてください。
+<Johnny> Please believe me too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-確かにこんな小さな子が
-兵士を襲ったとは思えないわ。
+Surely such a small child. I can't
+believe she attacked a soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-しかしな……
+But then again...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺も信じられません。
-こんな子が……
+I can't believe it either.
+Such a girl...
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
-<Johnny>さま、
-どうか私を助けて下さい！
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-こうなったら助けないわけには
-いかないな。
+Dear <Johnny>, Please help me!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、この子の処遇については
-少し待ってくれないか？
+I can't help you if you
+don't help me.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+<Fayte>, wait. can you
+give us a moment?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-わかった。この子の身柄を
-拘束する事になるが許してくれ。
+All right. Forgive me, but I have
+to take this girl into custody.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-あと、モリュウ領内で
-聞き込みをしてみたらどうだ。
+Also, why don't you ask around
+in the Moreau territory?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-事件について知っている人間が
-まだいるかもしれない。
+There might still be people
+who know about the case.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-事件が起きたのは、昨日の未明。
-このモリュウ領内で兵士が襲われました。
+The incident occurred yesterday 
+morning. A soldier was attacked 
+here in the Moreau territory.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-実はここ数日で、同様の事件が
-多発しておりました。
+Actually, there have been a
+number  of similar incidents
+in the past few days.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-襲われた兵士には決まってふたつの
-キズが残されておりました。
+The soldier who was attacked
+had two scratches on him.
 [ENDBLOCK]
-兵士
+soldier
 [ENDBLOCK]
-襲われた兵士の証言や目撃者の話を
-総合した結果、あの女の子に
-我々は行き着いたのです。
+Based on the testimony of the 
+attacked soldier and witnesses.
+We arrived at that girl.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-しかし、事件のおきた時間に
-あの子を見たというアリバイ証言も
-実はあるのです。
+However, I have an
+alibi that I saw the girl at
+the time of the incident.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-だから<Fayte>様は皆さんに
-時間をお与えになったのだと思います。
+I think that's why Master Fayte 
+gave you all this time.
 [ENDBLOCK]
-兵士
+Soldier.
 [ENDBLOCK]
-長い話になりますが、
-事件のあらましをお聞きになりますか？
-はい
-いいえ
+It's a long story. Would 
+you like to hear a synopsis?
+Yes
+No
+ 
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Yeah, I heard about the death.
+But she was playing with her cat
+under the house at that time.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The guy that's dressed in
+Shiden gear. I'm sure he'll stand
+out. Besides he was talking 
+to the cat in a big voice.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Can he really talk to a cat?
+[ENDBLOCK]
+Fish Seller
+[ENDBLOCK]
+It was a girl? Yeah, I was
+at the store at that time.
+[ENDBLOCK]
+Fish Seller
+[ENDBLOCK]
+He was looking for quite a while, and
+when I thought he made up his mind
+and started to wrap the product, he
+said he wanted something different.
+[ENDBLOCK]
+Fish Seller
+[ENDBLOCK]
+I remember it well, because I've done 
+it so many times.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+The other day, I saw a girl causing a
+scene in the fish shop at the harbor.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I was kind of curious, so I came
+straight back to this inn.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+As soon as I got home, I opened the
+sliding door and there was the girl,
+who was supposed to be at the port.
+Came from near the weapons shop.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+No one know of a secret passage 
+in this city. It's a mystery.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Did you find the culprit?
+Yes
+No
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Now please go inside 
+and brief <Fayte> on
+the situation.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I see... Well, when you do find
+the culprit, please come back.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Would you like to hear
+about the case?
+Yes
+No
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I'm from Shiden Territory. The port
+is blocked and I can't leave.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Young Prince? What 
+are you doing here?!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I'm glad you guys are okay.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I met a man from Seinegald
+the other day. I was wrong in
+thinking they were savages.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+The best way to learn about
+another country is to ask the
+people who live there.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Has Seinegald been destroyed?
+A country that was said to be
+so powerful...
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Young Prince...What
+should we do?
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+What do we do?
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Young Prince, I hear you are
+collecting lens. Keep up
+the good work!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I heard that you are collecting
+lens. Keep up the good work!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Good luck, Young Prince!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Good luck everyone!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I'm from Shiden Territory. The port
+is blocked and I can't leave.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Young Prince...What
+should we do?
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I'm glad you guys are okay.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I met a man from Seinegald
+the other day. I was wrong in
+thinking they were savages.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+The best way to learn about
+another country is to ask the
+people who live there.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Has Seinegald been destroyed?
+A country that was said to be
+so powerful...
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Young Prince...What
+should we do?
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+What do we do?
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I heard that you are collecting
+lens. Keep up the good work!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I heard that you are collecting
+lens. Keep up the good work!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Good luck, Young Prince!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Good luck everyone!
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I'm a Terazzi local, but I had
+nothing to do with this, okay?
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I can say now that <Tiberius> was
+too forceful in its approach.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+That broadcast completely
+erased the existence of 
+<Tiberius>, didn't it?
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+Is that a good or bad thing? As a
+person from the Terazzi territory,
+it's complicated.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I wonder what the Black
+Cross Fleet, the pride of
+Moreau, is doing.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I'll have to get my lens out too.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+Yo, hang in there!
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I'm a Terazzi local, but I had
+nothing to do with this, okay?
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I can say now that <Tiberius> was
+too forceful in its approach.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+That broadcast completely
+erased the existence of 
+<Tiberius>, didn't it?
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+Is that a good or bad thing? As a
+person from the Terazzi territory,
+it's complicated.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I wonder what the Black
+Cross Fleet, the pride of
+Moreau, is doing.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I'll have to get my lens out too.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+Yo, hang in there!
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Those guys from Terazzi,
+I'll never forget this grudge.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+I have always viewed 
+Seinegald as an enemy.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Now, that object has 
+changed to Terazzi, 
+It's not unreasonable,
+is it?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+I heard that the head of
+a huge company in Seinegald 
+as working on this painting.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Isn't it possible that its head
+is being manipulated by the 
+royal family of Seinegald?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Isn't this what happens
+when you go soft on things
+like Oberon Corporation?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Is the hero on his way? Why don't
+you take some of my fruit!
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Those guys from Terazzi,
+I'll never forget this grudge.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+I have always viewed 
+Seinegald as an enemy.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Now, that object has 
+changed to Terazzi, 
+It's not unreasonable,
+is it?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+I heard that the head of
+a huge company in Seinegald 
+as working on this painting.
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Isn't it possible that its head
+is being manipulated by the 
+royal family of Seinegald?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Isn't this what happens
+when you go soft on things
+like Oberon Corporation?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+Is the hero on his way? Why don't
+you take some of my fruit!
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Until we know the safety
+of the royal family, we just
+avoid any rash actions.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Dear Gino, I am so sorry for not
+being able to protect you.....!
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+From now on, I'll support <Fayte>
+and bring back the glory of Moreau.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Fayte> advised me not to make a 
+fuss, and to keep a cool head.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Too tell you the truth, I'm overflowing 
+with anxiety, but I'll shut up and do
+my job.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I'm willing to go through anything, if 
+I can put the world back together.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Oh! It's the guy tha sings well.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I saw when you were 
+fluttering and singing.
 
 [ENDBLOCK]
-若者
+Child
 [ENDBLOCK]
-ああ、犯人の事なら聞いたよ。
-でも事件のあった時間にあの子は
-この家の下で猫と遊んでいたぜ。
+I know you. Your friend is the
+young Prince of Shiden, isn't  he?
 [ENDBLOCK]
-若者
+Child
 [ENDBLOCK]
-ここでシデンの服装をしている奴は
-目立つから間違いないはずだ。それに
-でかい声で猫に話しかけていたからな。
+He said that the friend with the
+flutter style, was the young Prince
+of the Shiden territory.
 [ENDBLOCK]
-若者
+Child
 [ENDBLOCK]
-猫と本気でしゃべれるのかな？
+Hey <Fayte>, hooray!
 [ENDBLOCK]
-魚を販売する人
+Child
 [ENDBLOCK]
-女の子だろ？	ああ、事件のあった
-時間に買い物に来ていたよ。
+What's that floating in the sky?
 [ENDBLOCK]
-魚を販売する人
+Child
 [ENDBLOCK]
-随分と長い間迷っていてな、
-決まったと思って商品を包んだら、
-やっぱり別のにすると言うんだ。
+What? Is it really nighttime?
 [ENDBLOCK]
-魚を販売する人
+Child
 [ENDBLOCK]
-そんな事を何度も繰り返したから
-よく覚えているよ。
+Young Prince, you're so cool!
+Keep up the good work!
 [ENDBLOCK]
-武士
+Child
 [ENDBLOCK]
-先日の事だが、港の魚屋で
-騒いでいた女の子を見かけたんだ。
+Keep up the good work!
 [ENDBLOCK]
-武士
+Girl
 [ENDBLOCK]
-何となく気になったが、
-まっすぐこの宿屋に帰って来たのだ。
+Why are we fighting the
+Terazzi territory? We are
+both a part of Aquaveil.
 [ENDBLOCK]
-武士
+Girl
 [ENDBLOCK]
-帰ってすぐにそこの障子を開けると、
-港にいたはずのその子が
-武器屋の傍の家から出てきたんだ。
+With <Fayte> here, I'm sure you'll
+get along with everyone. 
 [ENDBLOCK]
-武士
+Girl
 [ENDBLOCK]
-この街には誰にも知られていない
-秘密の通路などないはず。
-まったく不思議なものだ。
+Shadows cast from the sky
+during that strange voice. 
+I'm scared out of my mind.
 [ENDBLOCK]
-兵士
-[ENDBLOCK]
-犯人がわかったのですか!?
-はい
-いいえ
-[ENDBLOCK]
-兵士
-[ENDBLOCK]
-では、中に入って<Fayte>様に
-説明をお願いします。
-[ENDBLOCK]
-兵士
-[ENDBLOCK]
-そうですか……犯人がわかったら
-また来てください。
-[ENDBLOCK]
-兵士
-[ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-私はシデン領から来たんだけど……
-港が封鎖されてて、帰れないの。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若？	どうしてこんなところに！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-あなたたち無事だったのね。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-この間セインガルドの人と会ったの。
-野蛮人と思ってたのは誤りだったわ。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-よその国の事は、
-そこに住む人に聞くのが一番ね。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-セインガルドは滅びてしまったの？
-あんな強いといわれた国が……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若……私たちはどうすれば……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-私たちはどうすれば……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若、レンズを集めているそうですね。
-頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-レンズを集めているそうですね。
-頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若、頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-みなさん頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-私はシデン領から来たんだけど……
-港が封鎖されてて、帰れないの。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若？	どうしてこんなところに！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-あなたたち無事だったのね。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-この間セインガルドの人と会ったの。
-野蛮人と思ってたのは誤りだったわ。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-よその国の事は、
-そこに住む人に聞くのが一番ね。
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-セインガルドは滅びてしまったの？
-あんな強いといわれた国が……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若……私たちはどうすれば……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-私たちはどうすれば……
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若、レンズを集めているそうですね。
-頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-レンズを集めているそうですね。
-頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-若、頑張ってください！
-[ENDBLOCK]
-肉を販売する人
-[ENDBLOCK]
-みなさん頑張ってください！
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-俺はトウケイの人間だが、
-今回の件とは無関係だぜ？
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-今でこそ言えるが、<Tiberius>は、
-やり方が強引すぎたよ。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-あの放送で、<Tiberius>の存在が、
-すっかり消し飛んじまったな。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-それがいいのか悪いのか……
-トウケイ領の人間としては複雑だ。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-モリュウ自慢の黒十字艦隊は、
-何をやっているんだろうな。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-俺もレンズを出さないとな……
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-よう、頑張れよ！
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-俺はトウケイの人間だが、
-今回の件とは無関係だぜ？
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-今でこそ言えるが、<Tiberius>は、
-やり方が強引すぎたよ。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-あの放送で、<Tiberius>の存在が、
-すっかり消し飛んじまったな。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-それがいいのか悪いのか……
-トウケイ領の人間としては複雑だ。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-モリュウ自慢の黒十字艦隊は、
-何をやっているんだろうな。
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-俺もレンズを出さないとな……
-[ENDBLOCK]
-野菜を販売する人
-[ENDBLOCK]
-よう、頑張れよ！
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-トウケイの奴らめ……
-この恨みは一生忘れないぞ。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-私は今までセインガルドを
-ずっと敵視してきた。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-今はその対象がトウケイに変わった。
-無理もないだろう？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-セインガルドの巨大会社のトップが、
-今回の絵を描いていると聞いた。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-そのトップが、セインガルド王家に
-操られているという事はないか？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-オベロン社なんてものに甘くするから、
-こんな事になったんじゃないのか？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-英雄様のお通りかい？
-うちの果物、持っていってくれよ！
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-トウケイの奴らめ……
-この恨みは一生忘れないぞ。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-私は今までセインガルドを
-ずっと敵視してきた。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-今はその対象がトウケイに変わった。
-無理もないだろう？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-セインガルドの巨大会社のトップが、
-今回の絵を描いていると聞いた。
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-そのトップが、セインガルド王家に
-操られているという事はないか？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-オベロン社なんてものに甘くするから、
-こんな事になったんじゃないのか？
-[ENDBLOCK]
-果物を販売する人
-[ENDBLOCK]
-英雄様のお通りかい？
-うちの果物、持っていってくれよ！
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-王家の方々の安否がわかるまで、
-軽はずみな行動はさけなければ……
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-ジノ様……お守りできず、
-本当に申し訳ありません……！
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-これからは<Fayte>様を盛り立てて、
-モリュウの栄光を取り戻します。
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-<Fayte>様から下手に騒がず、
-冷静な態度を取るよういわれました。
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-本音をいえば不安でいっぱいですが、
-黙って任務に励みますよ。
-[ENDBLOCK]
-モリュウ兵
-[ENDBLOCK]
-世界を元通りにできるなら、
-どのような苦労もいといません。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-あ！	お歌の上手なお兄さんだ。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-ひらひらをいっぱいつけたお兄さんが、
-歌っているのを見たよ。
-
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-僕、知ってるよ。
-お兄さんってシデン領の若さまでしょ。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-ひらひらをつけたお兄さん、
-シデン領の若さまだったんだって。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-<Fayte>さま、ばんざーい。
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-お空に浮かんでるの、なーに？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-あれえ？	いつ夜になったんだろ？
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-ひらひらの若さま、かっこいいよ！
-がんばってね！
-[ENDBLOCK]
-子供
-[ENDBLOCK]
-がんばってね！
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-同じアクアヴェイルなのに、
-どうしてトウケイ領とケンカするの？
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-<Fayte>さまがいれば、
-きっとみんなと仲良くできるわよね。
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-妙な放送に空の影……
-こわくてたまらないわ……
-[ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 私たち、また戦いに負けたの？
 だって天地戦争だったんでしょ？
 [ENDBLOCK]
-女の子
+Girl
 [ENDBLOCK]
 私たち、まだ負けてないのね。
 やった！
@@ -686,7 +724,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 モンスターなんざ追い返してやるぜ。
 モリュウ男の根性、なめんなよ。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 おまえたち、どこから来た？
 密入国者だったらただではおかんぞ。
@@ -702,46 +740,48 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-皆さん、船の上とはいえ
-何が起こるか分かりません。
+I don't know what'll
+happen when we're on
+the ship. 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-準備だけは怠らないで下さい。
+Don't be lazy with
+your preparations.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>出航しますか？
-はい
-いいえ
+<TAG_007>Board the ship?
+Yes
+No
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 あの<Batista>とかいう代官、
 セインガルド人だったらしいです。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 領主になって早々、こんな事になって
 <Fayte>様もお気の毒に。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 こんな事で力になれるのであれば。
 船を使ってください。
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 モリュウは死なず！	
 街の平和は守ってみせる！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 ぜひ船を使って下さい！
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
 シデンの民
 [ENDBLOCK]
@@ -777,72 +817,73 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x57><xBC><x00><x80><x18><x65><x57><xC0><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x57><xBC><x00><x80><x18><x65><x57><xC0><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xF0><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x57><xEC><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xBC><x00><x80><x18><x65><x57><xC0><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xF0><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xEC><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>たちは
+<x19><x69><x47><xE0><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xE0><x80>は
+<x19><x69><x47><xE0><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -860,10 +901,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -878,22 +916,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -915,11 +946,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -927,76 +958,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xCC><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x47><xCC><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1011,36 +1047,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

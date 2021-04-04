@@ -924,7 +924,8 @@ silver-haired man.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Is it true that King Sark has passed away?
+Is it true that King Isaac
+has passed away?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -942,7 +943,8 @@ I won't fight anymore.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Is the world going to end up like this?
+Is the world going 
+to end up like this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -956,17 +958,18 @@ will bring back the peace.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you see that
-beautiful woman over there?
+Do you see that beautiful
+woman over there?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-What should I say to her...?
+What should 
+I say to her?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you see that
-beautiful woman over there?
+Do you see that beautiful
+woman over there?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -979,18 +982,18 @@ I need to talk with her...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I will always protect her.
-I hope I can say it.
+Don't worry, I'll protect you.
+I wish I could say that...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I wonder if I'll ever be
-able to talk to her.
+I wonder if I'll ever
+be able to talk to her.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
-I saw the Draconis the other day.
-It was flying awfully low.
+I saw the Draconis the other
+day. t was flying awfully low.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
@@ -999,7 +1002,8 @@ is deploying it's army.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
-Can we make our country more prosperous?
+With the open borders, this
+city will flourish even more.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
@@ -1008,8 +1012,9 @@ Seinegald area. Is it Belcrant?
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
-Wherever we go, humankind
-will perish...
+Wherever we go, it's the
+same. We have no choice
+but to be destroyed.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
@@ -1017,27 +1022,29 @@ I will get my lens at home too.
 [ENDBLOCK]
 Young man
 [ENDBLOCK]
-All we can do is pray.
-Hope our world is save.
+All I can do is pray,
+please protect the world.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-You'll catch a cold standin' out here.
-You should come inside.
+You'll catch a cold standin' out
+here. You should come inside.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Don't get flustered.
-Have a dry towel and calm yourself.
+Don't get flustered. Have a 
+dry towel and calm yourself.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-If the monsters attack, I'll attack using that.
+If the monsters attack, 
+I'll attack using that.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-If you feel bad, use that thing.
-Do your best.
+If you feel like you're losing 
+your edge, just brush it off 
+with a towel. Hang in there!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1065,7 +1072,8 @@ What if we use force to get through?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Do you want to be fugitive in Seinegald?
+Do you want to be 
+fugitive in Seinegald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1095,8 +1103,8 @@ Is something wrong?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I don't have a passport, to get through
-the gate. What about you?
+I don't have a passport, to get
+through the gate. What about you?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1105,9 +1113,9 @@ temple near town.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I can't do anything on my own, so 
-I've come to town looking for
-help but...
+I can't do anything on my own,
+so I've come to town looking 
+for help but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1142,9 +1150,9 @@ Yeah, I guess.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-We can get to the temple by
-going through the East gate, and
-then passing through the mountains.
+We can get to the temple by going
+through the East gate, and then 
+passing through the mountains.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1162,8 +1170,8 @@ Seinegald Soldier
 [ENDBLOCK]
 It's your passport.
 [ENDBLOCK]
-When you want go to Seinegald,
-you'll need it.
+When you want to go to 
+Seinegald, you'll need it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1176,14 +1184,13 @@ in such a hurry.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-We want to thank you
-for your help.
+We want to thank
+you for your help.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 I'm sure Atwight and Dymlos have
-so much thing to talk about.
-Right?
+so much thing to talk about. Right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1191,8 +1198,8 @@ All right.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Let's go to the tavern. It's
-in the same building as the inn.
+Let's go to the tavern. It's in 
+the same building as the inn.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -1368,72 +1375,73 @@ Look, we're just performers. Okay?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><TAG_013ad></color> 
 [ENDBLOCK]
 joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x59><xE8><x00><x80><x18><x65><x59><xEC><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013ad></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x59><xE8><x00><x80><x18><x65><x59><xEC><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x1C><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x5A><x18><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><TAG_013ad></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><xE8><x00><x80><x18><x65><x59><xEC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x1C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5A><x18><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>たちは
+<x19><x69><x4A><x0C><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4A><x0C><x80>は
+<x19><x69><x4A><x0C><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1451,10 +1459,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1469,22 +1474,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1506,11 +1504,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1518,76 +1516,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_013ad>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><TAG_013ad>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

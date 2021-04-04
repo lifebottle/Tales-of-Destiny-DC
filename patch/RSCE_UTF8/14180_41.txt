@@ -462,506 +462,540 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005><CENTER>Terazzi Navy Equipment Depot
+Authorized Personnel Only
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005><CENTER>Terazzi Navy Equipment Depot
+Authorized Personnel Only
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-トウケイのモンスターは
-瀕死になると信じられない力を出します。
+The monsters of Terazzi
+give off incredible power
+when they are dying.
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-止めを刺すまで
-決して油断しないで下さい。
+Never let your guard down
+until you put a stop to it.
 [ENDBLOCK]
-モリュウ兵
+Soldier
 [ENDBLOCK]
-なんて静かなんだ。
-逆に嫌な感じがしますね。
-[ENDBLOCK]
-<Fayte>
-[ENDBLOCK]
-気をつけてな、<Johnny>。
+How quiet it is. On the
+contrary, it's horrible.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-みなさん、お気をつけて。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-おっかない大王がいなくなって、
-これで存分に釣りができるぜ！
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-セインガルドと張り合う必要はない。
-俺たちは俺たちでやろうぜ。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-あの空、何なんだろうなあ。
-[ENDBLOCK]
-おじいさん
-[ENDBLOCK]
-世界中あちこちに、
-でかい穴が開けられたって本当か？
-[ENDBLOCK]
-少女
-[ENDBLOCK]
-大王の位を奪い、権力を極めた大王も、
-今は亡き人に……はかないですね。
-[ENDBLOCK]
-少女
-[ENDBLOCK]
-トウケイ領はやがてシデン領か
-モリュウ領に、編入されるでしょう。
-[ENDBLOCK]
-少女
-[ENDBLOCK]
-どうにかしたいと思っても、
-一介の市民にできる事なんてないですよ。
-[ENDBLOCK]
-少女
-[ENDBLOCK]
-レンズをお渡しするくらいは
-できますけど……
-[ENDBLOCK]
-少女
-[ENDBLOCK]
-あの……どうか、ご無事で。
-[ENDBLOCK]
-トウケイ兵
-[ENDBLOCK]
-…………
-[ENDBLOCK]
-トウケイ兵
-[ENDBLOCK]
-大王が死んで、スカッとしたよ。
-あんな奴はいなくなって当然さ。
-[ENDBLOCK]
-トウケイ兵
-[ENDBLOCK]
-せっかくいい時代になったと
-思っていたんだがな。
-[ENDBLOCK]
-トウケイ兵
-[ENDBLOCK]
-空が完全に塞がれて、次は……？
-[ENDBLOCK]
-トウケイ兵
-[ENDBLOCK]
-絶対勝ってくれよ。
+Be careful, <Johnny>.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ファンダリアへ向かうのでしたね。
+Take care of yourselves, everyone.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Now that the big boss is gone,
+I can fish to my heart's content!
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+There's no need to compete
+with Seinegald. We'll do it
+on our own.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+I wonder what that is in the sky?
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Is it true that there are big 
+holes drilled all over the world?
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+The great king who took the
+throne and reached the peak
+of his power has also died.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+The Terazzi territory will 
+eventually be incorporated
+into Shiden or Moreau.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Even if you want to do 
+something  about it, there is 
+nothing a single citizen can do.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+I can at least give you some lens.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+That... please, be safe.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+.....
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I was so relieved when the
+Great One died. That guy 
+deserved to be gone.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I thought we had come
+to a good time.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+The sky is completely
+blocked, now what?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+You've got to win.
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+You were headed to Phandaria.
 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-それでしたら、港町の
-スノーフリアという街へ向かいます。
+If that's the case, we'll head
+to the port town of Frostheim.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>スノーフリアへ行きますか？
-はい
-いいえ
+<TAG_007>Do you want
+to go to Frostheim?
+Yes
+No
 
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-栄光の黒十字艦隊が
-<Batista>に牛耳られてたなんて……
+I can't believe the glorious Black
+Cross fleet was run by <Batista>.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-……絶対言えないな。
-黙っておかないと。
+...I can never tell.
+I have to keep quiet.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-戦艦ってのは国を攻めるためでなく、
-守るためにあるのさ。
+Battleships are not for
+attacking countries, they
+are for protecting them.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-最近海が荒れてて、遭難者が
-続出してるんだよ。
+The sea has been rough
+lately, and there have been
+a lot of people in distress.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-けど、あなたたちが乗るのなら
-命を掛けさせてもらいますぜ。
+But if you guys are on
+board, I'll risk my life.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-今までは大王の権威を守るため、
-働いてきました。
+Until now, I have been 
+working to protect the
+authority of the Great King.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-これからはトウケイの民を守るため、
-働こうと思います。
+From now on, I'm going 
+to work to protect the
+people of Terazzi.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-<Eleanor>様というのは、元大王陛下の
-奥方様の事です。
+<Eleanor> is the former wife
+of His Majesty the Great.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-とはいえ、<Eleanor>様のお心が、
-大王陛下に向く事はなかったとか。
+However, I heard that <Eleanor>'s
+heart never turned to His Majesty
+the Great.
 [ENDBLOCK]
-トウケイ兵
+Soldier
 [ENDBLOCK]
-<Eleanor>様がご存命なら、
-今回の事をどう思ったでしょうね。
+If <Eleanor> were still alive,
+Iwonder what she would have
+thought about this.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-よし。トウケイ領に到着したぜ。
+Okay. We've arrived 
+in Terazzi territory.
 [ENDBLOCK]
-船員
+Sailor
 [ENDBLOCK]
-若、よくご無事で！
+Young Prince, you're safe!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-シデン領の者か？
-<Johnny>、いつの間に準備を……
+Are you from Shiden territory?
+<Johnny>, when will you be ready...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺じゃない。国許の連中が、
-勝手に気を利かせているだけさ。
+Not me. It's just a bunch of
+people in the country who 
+have their own agendas.
 [ENDBLOCK]
-お越しになるとは聞いていませんでした。
-一体、どういう事ですか？
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-事情を説明するのは後だ。
-城へ入りたいんだが、どうすればいい？
-[ENDBLOCK]
-城門は固く閉ざされていて、
-正面からの進入は不可能です。
-[ENDBLOCK]
-船で裏口へ回るしかありません。
-我々がご案内します。
+I was not told you would be coming.
+What the hell is going on?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-モリュウ城の時と一緒だな。
-俺たちは裏口に縁があるらしい。
+I'll explain the situation later.
+I need to get into the castle.
+How do I do that?
+[ENDBLOCK]
+The gates of the castle
+are tightly closed, making
+it impossible to enter from
+the front.
+[ENDBLOCK]
+We have to go around to the
+back door by boat. We'll show
+you the way.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+It's just like the one at Moreau
+Castle. It seems we have a 
+connection to the back door.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+Yes, it is.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんだか聞こえが悪いけど、
-この際仕方ないわね。
+It sounds kind of bad,
+but I don't have a 
+hoice at this point.
 [ENDBLOCK]
-では私は、街の中央にある、
-船着場でお待ちしております。
+I will be waiting for you at the 
+pier in the center of the city.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、すぐにここを離れろ。
-<Tiberius>の兵が、押し寄せてくる。
+<Fayte>, get out of here now.
+<Tiberius>'s soldiers are closing in.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-おまえたちだけ、残していけるものか。
-ここで帰りを待つ。
+I'm not leaving you guys behind.
+I'll stay here and wait for your return.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おいおい……
+Hey, hey, hey...
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-私は私で、好きにさせてもらうだけだ。
-おまえに文句を言われる筋合いはない。
+I'll just be me and do what I want.
+You have no right to complain.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-わかったよ、好きにしな。
+All right, suit yourself.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>さん……大丈夫ですか？
+Mr. <Fayte>... are you okay？
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ご安心ください。黒十字艦隊の面々は、
-船に乗るだけが能じゃありません。
+Don't worry. The people of
+the Black Cross Fleet are
+not just good at sailing.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-陸戦だってお手の物です。
-<Tiberius>に見せ付けてやりますよ。
+I'm also good at land battles.
+I'll show <Tiberius> what I can do.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それじゃ俺たちは、
-城へ乗り込むとするか。
+Well then, we'd better
+get to the castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい！
+Right!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-面倒事も終わって、ようやくこれで、
-元の浮き草生活に戻れるぜ。
+Now that all the trouble is
+over, I can finally get back
+to my life as a drifter.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-そうはいかない。おまえは私と一緒に、
-アクアヴェイル復興を手伝ってもらう。
+Not so fast. You'll be working 
+with me to help rebuild Aquaveil.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-シデン家の了解も取ってある。
-きりきり働いてもらうからな。
+I've already gotten the approval
+from the Shiden family. You're going
+to have to work very hard.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-怖いお兄さんに捕まっちまった。
-こりゃ、逃げられそうにないか。
+I got caught by a scary older
+man. I don't think I can escape.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-わかるか？	実は一番怖いのは、
-この<Fayte>だったってわけさ。
+Do you understand? The scariest
+thing of all was this <Fayte>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>さんの活躍を、
-楽しみにしてますよ。
+I'm looking forward to seeing
+what you do, <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おまえさんまで、俺を追いつめる気か？
-性格悪いぜ。
+You're just trying to push me 
+around, aren't you? You're 
+such a bad influence.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-じゃあ俺からは、人生のアドバイスだ。
-最後くらいは、年長者らしい事を言おう。
+So I'm going to give you some advice
+on how to live your life, and for the
+last time, I'm going to say something
+that makes me feel like an elder.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんですか？
+What is it?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ひたむきに目的地を目指すのもいいが、
-たまには立ち止まるのも悪くないぜ。
+It's good to aim for a 
+destination, but it's not
+bad to stop once in a while.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ゆっくりまわりを見回す事で、
-新たな可能性が、見つかるかもしれない。
+By looking around slowly, you
+may find new possibilities.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……わかりました。覚えておきます。
+I understand... I'll keep that in mind.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-人生余計に生きてる奴の、戯言だけどな。
-……それじゃ、いったんお別れだ。
+This is the ramblings of a man 
+who got a second chance at  life.
+...So, I'll say goodbye for now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-お世話になりました。
-またお会いしましょう、<Johnny>さん。
+Thank you very much for your help.
+I will see you again, <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ああ。おまえさんたちに困った事があったら、
-さっそうと助けに現れてやるからな！
+Oh. If you guys ever need help,
+I'll be right there to help you!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、ちょっといいですか。
+Young Master, can I 
+have a word with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-突然どうした、シャル？
+What's up with you 
+all of a sudden, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-さっきはありがとうございます。
+Thank you for your help earlier.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっき？
+Earlier?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕を<Johnny>さんに
-貸してくれた事です。
+You lent me to <Johnny>.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃんは僕に、<Johnny>さんへ
-恩返しするチャンスをくれました。
+You gave me a chance
+to repay <Johnny>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕はただ……シャルの気持ちを
-無視したくなかっただけだ。
+I just didn't want to ignore...
+...your feelings.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん。
+Young Master.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に大した事じゃない。
-さっさと忘れろ……
+It's not a big deal.
+Just forget about it.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、僕が<Johnny>さんに
-恩返ししたかったのはですね。
+Young Master, this is why I
+wanted to give <Johnny>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に理由なんてどうでもいい。
+I don't really care why.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-いえ、聞いて欲しいんです。
+No, I want you to listen to me.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕が<Johnny>さんに恩返ししたかったのは
-坊ちゃんとの事があったからなんです。
+I wanted to return the favor to 
+<Johnny> because of what happened
+with the little boy.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何？
+What?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-今後も坊ちゃんと、マスターと
-ソーディアンの関係でい続けるためです。
+It is to continue to be a 
+relationship between the
+boy and the Master and 
+the Swordian.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-いつまでも他の人の事を
-考えていちゃいけないと思ったんです。
+I knew I couldn't keep thinking
+about other people forever.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-……僕は、坊ちゃんの
-剣でいたいから。
+...... because I want to
+be a monk's sword.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-シャル……
+Charl......
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-だから、坊ちゃん。
-これからも一緒にいましょうね。
+So, Young Master. Let's stay
+together from now on.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふん……僕がシャルを
-嫌にならなければな。
+Hmm... if I don't get
+sick of you sooner.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-はい。
+Yeah...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x59><x44><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x44><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>は
+<x19><x69><x49><x38><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -979,10 +1013,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -997,22 +1028,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -1034,11 +1058,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1046,76 +1070,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x24><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><x24><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1130,36 +1159,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

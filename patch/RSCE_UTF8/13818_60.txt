@@ -1,9 +1,9 @@
 
 [ENDBLOCK]
-<x00><x00>
-[ENDBLOCK]
-<x00>「誰でも分かるレンズのお話」
+<TAG_005>「誰でも分かるレンズのお話」
 という本がある。
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -344,37 +344,37 @@ For saving <Philia>.
 discovery:<x17><x15><x7B><x80>
 
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 目指すはアクアヴェイルの森だ。
 頼んだよ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 カルビオラの北を調査してくれ。
 
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 よく分からない！	が、
 セインガルドの東の島へ行くのだ！
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 <Greybum>は人の心をつかむのがうまく、
 多くの取り巻きを作っていました。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 今思えば、すべては、
 反乱の準備だったのかもしれません。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 <Greybum>は今回の事態を見越して
 行動していたのでしょうか？
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 人が人を選別し、命をもてあそぶなど、
 断じてあってはならない事です。
@@ -404,31 +404,31 @@ discovery:<x17><x15><x7B><x80>
 そうした人々を安心させるべく、
 我々も全力を尽くします。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 私は<Greybum>に抵抗したのですが、
 彼の部下にボロボロにされました……
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 こうして生きていられるのが、
 不思議なくらいですよ。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 今思えば、<Batista>は昔から、
 俗っぽさのある人物でしたね。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 <Greybum>は今回の騒ぎの黒幕に、
 操られていたという話を聞きました。
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 本当なのでしょうか……？
 [ENDBLOCK]
-神官
+Priest
 [ENDBLOCK]
 アタモニ神よ、どうか救いを……
 [ENDBLOCK]
@@ -556,99 +556,101 @@ Thank you so much!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Philia>？	こんな遅い時間に、
-おまえ、何やってるんだ。
+<Philia>? What are you 
+doing at this late hour?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、<Batista>。
-ちょっと調べ物が長引いて……
+Ah, <Batista>. My investigations
+dragged on a little bit.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-まったく、グズな奴だな。
-……仕方ねえ。俺も手伝ってやる。
+Jeez, what a slow girl. 
+...Well, no matter. I'll help
+you, as well.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>……ありがとう。
+<Batista>... thank you.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-おまえに任せてると、
-夜が明けそうだからな。
+If I leave it to you, you'll
+be here until dawn.
 [ENDBLOCK]
 disp object ---> <TAG_031>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>Current Gald: <TAG_033>Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xEC><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xEC><x80></color> 
 [ENDBLOCK]
-パーティに加わりました。
+has joined the Party.
 [ENDBLOCK]
-仲間になりました。
+is now an active 
+party member.
 [ENDBLOCK]
-戦闘に参加できます。
+can join the battle.
 [ENDBLOCK]
-同行します。
+will follow your party.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x57><xDC><x00><x80><x18><x65><x57><xE0><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xEC><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+has returned to the party.
 [ENDBLOCK]
 <x18><x65><x57><xDC><x00><x80><x18><x65><x57><xE0><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x10><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><x0C><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x47><xEC><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xDC><x00><x80><x18><x65><x57><xE0><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x10><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x0C><x00><x80></color>.
 
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-<turquoise>交易称号
+The <turquoise>Trading Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-<turquoise>温泉称号
+The <turquoise>Hot Springs Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-<turquoise>自由称号
+The <turquoise>Free Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+the Titles: <turquoise>NatuRanger
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+the <turquoise>Dash Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-<turquoise>最強の称号
+the <turquoise>Strongest Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>たちは
+<x19><x69><x48><x00><x80>'s party received
 [ENDBLOCK]
-<turquoise>クイズ称号
+the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80>は
+<x19><x69><x48><x00><x80> has received
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -666,10 +668,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -684,22 +683,15 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>website
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
@@ -721,11 +713,11 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+Device not activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+Warp device activated.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -733,76 +725,81 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xEC><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x47><xEC><x80>'s Swordian device
+can now be used.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -815,13 +812,13 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 は～……どこかに
 金持ちオーラ全開の人、
 いないかなー……
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 まさか……あなたは。
 [ENDBLOCK]
@@ -829,7 +826,7 @@ notice
 [ENDBLOCK]
 え？	俺は<Stahn>だけど。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 <Woodrow>王では!?
 [ENDBLOCK]
@@ -845,7 +842,7 @@ notice
 [ENDBLOCK]
 まあまあ、<Stahn>さん。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 僕の名前はフランツ。
 これでも考古学者なんです。
@@ -854,7 +851,7 @@ notice
 [ENDBLOCK]
 それは大変すばらしいお仕事だ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 ところで、<Woodrow>王は
 どうしてここに？
@@ -863,7 +860,7 @@ notice
 [ENDBLOCK]
 話せば長いのだが……
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 それはちょうどいい。
 [ENDBLOCK]
@@ -871,7 +868,7 @@ notice
 [ENDBLOCK]
 何がですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 実は僕は「世界四秘」について、
 研究しているのです。
@@ -881,7 +878,7 @@ notice
 世界に四ヵ所あるという、未確認の地、
 それを「世界四秘」と呼ぶのですわ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 おー、ご存知ですか。
 [ENDBLOCK]
@@ -890,12 +887,12 @@ notice
 その世界四秘と私たちと、
 何の関係があるのだ？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 実はもうすぐひとつ目の
 秘密の地の場所が、判明しそうなんです。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 判明次第、その場所をお教えするので、
 調べてきてもらえませんか？
@@ -904,21 +901,21 @@ notice
 [ENDBLOCK]
 どうして俺たちなんですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 理由は三つ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 ひとつ目は、僕は旅するのが嫌いでね。
 旅慣れた人が適任。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 ふたつ目は、僕は貧乏でね。
 旅の資金に自腹を切っても困らない人が適任。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 三つ目は、何より好奇心旺盛で、
 その上、腕が立つ事が必須だからさ！
@@ -937,32 +934,32 @@ notice
 私の知的欲求が、
 うずきますわ！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 では、ひとつ目を調べておきます。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 旅の合間にでも、時間があれば
 僕のところに寄って下さい。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 は～……どこかに
 金持ちオーラ全開の人、
 いないかな……
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 すみません。まだ調べている最中です。
 また来てください。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 いやー、研究が終わってしまうのは、
 学者として、さみしいものですね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 よく来てくれました。
 朗報ですよ。
@@ -975,7 +972,7 @@ notice
 [ENDBLOCK]
 世界四秘のひとつ目が見つかったのだね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 はい。
 [ENDBLOCK]
@@ -983,12 +980,12 @@ notice
 [ENDBLOCK]
 それで、どんな情報なんですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 それより、ひとつ目の秘密の地ですから、
 僕も付いて行きます。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 まずはダリルシェイドから船に
 乗りましょう。
@@ -997,7 +994,7 @@ notice
 [ENDBLOCK]
 わかりました。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 あと、僕の旅費は御願い
 しますね、<Woodrow>王。
@@ -1006,7 +1003,7 @@ notice
 [ENDBLOCK]
 何？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 さあ、行きますよ。
 <Stahn>さん！
@@ -1025,12 +1022,12 @@ notice
 それよりフランツさん。ひとつ目の
 世界四秘について教えて下さいよ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そうですね、
 お教えしましょう！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 ずばりひとつ目の世界四秘は
 「魔の暗礁」！
@@ -1040,12 +1037,12 @@ notice
 この辺りの、昔から海難事故が
 多発している海域の事だね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 はい。その海難事故の原因は
 謎とされてきましたが……
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 実は、この海域には神の御使いと
 言われる、巨大な竜がいるらしいのです。
@@ -1058,12 +1055,12 @@ notice
 [ENDBLOCK]
 それは凄い。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 伝説によると、その神の御使いは、
 剣をかざすと現れるのです。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そして、今は海底に沈む、
 天かける竜の宮まで
@@ -1078,7 +1075,7 @@ notice
 それが事実なら、
 すばらしい功績だ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 では、行きますよ。
 [ENDBLOCK]
@@ -1087,7 +1084,7 @@ notice
 あのさ、それ無理だと
 思うんだけど。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 僕の研究が、
 嘘だと言うんですか！
@@ -1105,7 +1102,7 @@ notice
 フランツが説明した事って、
 あたしたち既にやった事よ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 え……？
 [ENDBLOCK]
@@ -1123,26 +1120,26 @@ notice
 ごめんなさいフランツさん。
 もっと早くに気付いていれば。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 いぃやったーー!!
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 だってそうでしょ！
 僕の研究は間違っていなかったんだ！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 今回の事は残念でしたが、
 それよりも、自信がつきました。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 次の場所を調べておきますね。
 また訪ねてください。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 ひゅ～どろどろどろ。
 いや～、やっとき～た～ね～。
@@ -1151,7 +1148,7 @@ notice
 [ENDBLOCK]
 な、なんですかフランツさん！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 あ～た～ら～し～情報だよ～。
 [ENDBLOCK]
@@ -1160,13 +1157,13 @@ notice
 フ、フランツさん。
 恐いですよ！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そうだ～よね～。
 でも今回のお話はも～っと、
 こ～わ～い～よ～。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 と、冗談はここまで。
 実は新しい情報は、おばけの森さ。
@@ -1175,7 +1172,7 @@ notice
 [ENDBLOCK]
 おばけ？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 アクアヴェイルの、とある森で
 おばけがでるんだ。
@@ -1184,11 +1181,11 @@ notice
 [ENDBLOCK]
 そんなのが世界四秘ですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 立派な、四・秘・だ！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 では、頼んだよ<Stahn>君。
 [ENDBLOCK]
@@ -1196,7 +1193,7 @@ notice
 [ENDBLOCK]
 任せてください！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 君たちは誰だね？
 [ENDBLOCK]
@@ -1209,7 +1206,7 @@ notice
 さ、さあ？	フランツさんって
 ちょっと変わってるからな。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 やあ、<Stahn>君に<Rutee>君！
 [ENDBLOCK]
@@ -1218,7 +1215,7 @@ notice
 あれ！	どうしてフランツが
 ふたりも？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 はっはっは。
 違うよ、こっちは双子の兄のグランツさ。
@@ -1231,7 +1228,7 @@ notice
 [ENDBLOCK]
 それにしても、よく似てるわね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そりゃそうさ。
 色々な事情で……ね。
@@ -1246,13 +1243,13 @@ notice
 へ～、兄は兵士で弟は学者。
 まったく正反対なのね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そう、不思議なものだよね。
 もしかして、僕が先に生まれていれば、
 僕が兵士で、グランツは学者だったかもね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 まあ、もうひとつの可能性なんて、
 結局はありえないんだけどね。
@@ -1262,7 +1259,7 @@ notice
 所詮は、もうひとつの可能性なんて、
 弱者の見る夢さ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 弱者の見る夢か。相変わらず
 堅い性格だね、兄さんは。
@@ -1272,7 +1269,7 @@ notice
 ところで、フランツさん。
 新しい情報はどうですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 そうそう、
 次はカルバレイスの砂漠だ。
@@ -1290,7 +1287,7 @@ notice
 [ENDBLOCK]
 うげぇ～。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 どうやら、カルビオラの北に
 あるらしい事までは分かったけど……
@@ -1300,12 +1297,12 @@ notice
 それじゃ、とりあえず
 行ってみますね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 僕も時間があれば、
 後から行くからね。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 よろしく～。
 [ENDBLOCK]
@@ -1323,7 +1320,7 @@ notice
 モンスターでも呼び寄せたら、
 どうするのよ。
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 フッフッフ、よく来たのだ！
 [ENDBLOCK]
@@ -1336,7 +1333,7 @@ notice
 という事は、
 次の世界四秘がわかったんですか!?
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 その通り、次は
 セインガルドの東にある島だ！
@@ -1345,7 +1342,7 @@ notice
 [ENDBLOCK]
 それで、具体的にはどこに？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 よく分からない！	が、
 セインガルドの東の島へ行くのだ！
@@ -1355,7 +1352,7 @@ notice
 わかりました。
 それで、そこには何があるんですか？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 実はそこに一年……
 [ENDBLOCK]
@@ -1363,12 +1360,12 @@ notice
 [ENDBLOCK]
 一年？
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 と、書いてあったのだ、
 本に！
 [ENDBLOCK]
-フランツ
+Frantz
 [ENDBLOCK]
 何があるか分からないけど……
 いってらっしゃ～い！
