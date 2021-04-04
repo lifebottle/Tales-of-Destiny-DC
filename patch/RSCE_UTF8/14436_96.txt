@@ -1,38 +1,38 @@
 notice
 [ENDBLOCK]
-ロックされている。
+It's locked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ロックは解除されています。
+It's unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-キーコード「<red>赤<blue>青<purple>紫<yellow>黄<x13><x2C><x00><x00><x00> r<x00><x98><x80>橙</color>」を入力してください。
+Please enter [<red>Red<blue> Blue<purple> Purple<yellow> Yellow<x13><x2C><x00><x00><x00> r<x00><x98><x80> Orange</color>] Key Cards.
 [ENDBLOCK]
 １２３４５
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ロックを解除します。
+Lock released.
 [ENDBLOCK]
 ６７８７３７
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-特殊コードを認識。
-物資を支給します。
+Recognizing special codes.
+Supplies will be provided.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-既に入力されています。
+It has already been inputed.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-不正な入力です。
+Incorrect input.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
