@@ -1,136 +1,137 @@
-おねえさん
+Young Girl
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-そこの家で事件があったみたいですよ。
+I think there was an incident
+at the house over there.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、何かあったのか？
+<Fayte>, what's going on?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、ちょっと事件があってな。
-うちの兵士が襲われたんだ。
+There's been a bit of an incident.
+One of my Soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで犯人は？
+So who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ああ、捕まった事は
-捕まったのだが……
+Well, the criminal
+has been caught.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしたの？
-ぱっとしない顔ね。
+What's the matter?
+You don't look so good.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ん……？
+huh?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まさか<Fayte>さん、
-この子が兵士を襲ったんですか!?
+What!? <Fayte> is this the girl
+who attacked the Soldier?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Fayte>さま！
-私は犯人じゃありません！
+Please <Mr. Fayte>!
+I'm innocent!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Johnny>さまも信じてください。
+Please believe
+me Mr. <Johnny>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-確かにこんな小さな子が
-兵士を襲ったとは思えないわ。
+I certainly don't think such a small
+girl could have attacked a Soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-しかしな……
+But then again...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺も信じられません。
-こんな子が……
+I can't believe it either.
+This girl is...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Johnny>さま、
-どうか私を助けて下さい！
+Mr. <Johnny> Please help me!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-こうなったら助けないわけには
-いかないな。
+I can't help, i'm sorry.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、この子の処遇については
-少し待ってくれないか？
+<Fayte>, can you wait a moment to
+discuss the treatment of this girl?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-わかった。この子の身柄を
-拘束する事になるが許してくれ。
+Fine... Excuse me while 
+I take this girl into custody.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-あと、モリュウ領内で
-聞き込みをしてみたらどうだ。
+Also, you should try asking 
+around in the Moreau territory.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-事件について知っている人間が
-まだいるかもしれない。
+There might still be people who
+know something about the incident.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-事件が起きたのは、昨日の未明。
-このモリュウ領内で兵士が襲われました。
+The incident took place in the early
+hours of yesterday. A Soldier was
+attacked here in the Moreau.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-実はここ数日で、同様の事件が
-多発しておりました。
+In fact, there's been many similar
+incidents in the past few days.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-襲われた兵士には決まってふたつの
-キズが残されておりました。
+The soldier that was attacked
+had two scratches on him.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-襲われた兵士の証言や目撃者の話を
-総合した結果、あの女の子に
-我々は行き着いたのです。
+After reviewing the testimony of
+the soldier who was attacked and
+the stories of witnesses, we came
+up with the girl.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-しかし、事件のおきた時間に
-あの子を見たというアリバイ証言も
-実はあるのです。
+However, I have an alibi that I saw
+the girl at the time of the incident.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-だから<Fayte>様は皆さんに
-時間をお与えになったのだと思います。
+I think that's why Mr. <Fayte> 
+gave you all the time you needed.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-長い話になりますが、
-事件のあらましをお聞きになりますか？
-はい
-いいえ
+It's a long story, but would you like
+to hear a summary of the case?
+Yes
+No
 
 [ENDBLOCK]
 Boy
@@ -164,8 +165,8 @@ said he wanted something different.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-I remember it well, because I've done 
-it so many times.
+I remember it well, because 
+I've done it so many times.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -186,39 +187,56 @@ Came from near the weapons shop.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-No one know of a secret passage 
+No one know of a secret passage
 in this city. It's a mystery.
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-では事件のあらましを聞きますか？
-はい
-いいえ
+Did you find out who did it?
+Yes
+No
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-……<Tiberius>に従わない私を、
-捕らえに来たのか？
+Now, please go inside
+and explain to Mr. <Fayte>.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-……？	違うか。貴公らからは、
-敵意がまるで感じられぬ。
+I see... Please come back
+when you find the culprit.
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-今回の件、モリュウとトウケイの関係に
-重大な禍根を残す事となろう……
+So you want to hear about the case?
+Yes
+No
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-……私が落ち着いているのが不思議か？
-たゆまぬ精神修行の賜物だよ。
+Are you here to capture me
+for disobeying ...<Tiberius>?
 [ENDBLOCK]
-武士
+Soldier
 [ENDBLOCK]
-……本当は腰が抜けて動けんのだ。
-貴公ら、助けてくれんか。
+...? No, I don't sense
+any hostility from you.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+This case will have a serious
+impact on the relationship
+between Moreau and Terazzi...
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Do you wonder why I'm so calm? It's the
+result of relentless spiritual practice.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+...The truth is, I'm too cowardly
+to move. You guys can help me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
