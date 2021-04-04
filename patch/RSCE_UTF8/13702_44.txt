@@ -763,10 +763,10 @@ to rest will go to the inn, alright?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ラディスロウに行きますか？
-行く
-行かない
+<TAG_007>It's a zero-gravity elevator.
+Do you want to go to Radisrol?
+Go
+Stay
 
 [ENDBLOCK]
 notice
