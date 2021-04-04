@@ -1,38 +1,38 @@
 notice
 [ENDBLOCK]
-ねずみにエネルギーユニットを奪われました。
+The rats took the energy unit.
 
 [ENDBLOCK]
-ねずみからエネルギーユニットを
-取り返さないと！
+We have to get the energy
+unit back from the rats!
 [ENDBLOCK]
-何なのよあのねずみは！
-エネルギーユニットを取り返すわよ。
+What the hell is that rat? 
+Let's get that energy unit back.
 [ENDBLOCK]
-エネルギーユニットを
-取り戻さなくては。
+We have to get the
+energy unit back.
 
 [ENDBLOCK]
-エネルギーユニットを
-取り返さなければ。
+We have to get the
+energy unit back.
 [ENDBLOCK]
-ねずみだと……!?
+B-but... it's a rat!
 [ENDBLOCK]
-ねずみからエネルギーユニットを
-取り戻すぞ。
+We have to get the
+energy unit back.
 [ENDBLOCK]
-ねずみは嫌ですけど
-エネルギーユニットを取り返さないと。 
+I don't like rats, but we have
+to get the energy unit back.
 [ENDBLOCK]
-ねずみからエネルギーユニットを
-取り返さないとまずいぜ。
+We've got to get the energy
+unit back from the rats.
 [ENDBLOCK]
-エネルギーユニットを取り返すぜ。
+I'll get the energy unit back.
 [ENDBLOCK]
-エネルギーユニットを
-取り返さなくちゃ。
+We have to get the
+energy unit back.
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -68,7 +68,7 @@ now_light_b <x17><x71><x48><xA4><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-エネルギーユニットを持っていません。
+It doesn't have the energy unit.
 [ENDBLOCK]
  <TAG_031> ------------------ <x17><x24><x4F><x72><x00><x8B><x14><x2F><x80>
 
