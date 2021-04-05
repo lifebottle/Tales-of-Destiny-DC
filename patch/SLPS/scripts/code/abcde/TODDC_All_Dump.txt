@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -6149,17 +6149,17 @@ Ignasea[END]
 
 //Text $1A4878
 #WRITE(ptr,$186EE8)
- Deimos(ENG0)[END]
+Deimos(ENG0)[END]
 
 
 //Text $1A4860
 #WRITE(ptr,$186EF4)
- Deimos(ENG1)[END]
+Deimos(ENG1)[END]
 
 
 //Text $1A4848
 #WRITE(ptr,$186F00)
- Deimos(ENG2)[END]
+Deimos(ENG2)[END]
 
 
 //Text $1A4830
