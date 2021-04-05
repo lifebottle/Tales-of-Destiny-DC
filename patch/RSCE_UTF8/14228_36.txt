@@ -1,382 +1,386 @@
 Innkeeper
 [ENDBLOCK]
-お泊りではないんですね。
-では……
+You're not staying overnight,
+are you? Well then...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-もしかして、
-猫ちゃんの情報を!?
+Do you have any info
+about the cat?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-いや、わたしたちは
-猫ちゃん探しに協力しようと
-思って来たのだ。
+No, we're here to help
+you find your cat.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-本当ですか！
+Really? !
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ありがとうございます。
+Thank you.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-見ての通り、
-私はここを離れる事ができません。
+As you can see, I can't
+leave this place.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-でも、猫ちゃんたちの事が
-心配で心配で……
+But I'm so worried about my cats.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-うむ。その気持ち、
-痛いほど分かるぞ。
+Hmmm. I know exactly how you feel.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でもさ、どこにいるか全く
-分からないなら探しようがないわよ？
+But hey, if you don't know
+where they are at all, there's
+no way to find them, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何か他の情報は
-ないんですか？
+Do you have any
+other information?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-実は、それらしい猫ちゃんを
-ティルソの森で見かけたという
-情報があるんです。
+As a matter of fact, I do.  I have a
+report that a cat that looks like
+that was seen in the Tilso Forest.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-では、ティルソの森へ急ぐぞ！
+Then let's hurry to Tilso Forest!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……一目散ね……
+...Quickly...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃあ、俺たちも
-ティルソの森へ向かおう。
+Then we'll head for
+the Tilso Forest, too.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-そうだ、言い忘れていたのですが、
-私の猫ちゃんは全部で１０匹です。
+Oh yeah, I forgot to mention.
+I have ten cats in total.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-１０匹!!
+Ten of them!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ほら、<Rutee>行くよ。
+Let's go, <Rutee>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-は～～い……
+Yeah, yeah.
 [ENDBLOCK]
 s  <x17><x69><x46><x7D><x80>
 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ごめんなさい。また猫ちゃんが
-逃げてしまったのです。
+I'm sorry. The cat 
+has escaped again.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-もう一度捕まえに行って
-もらえないでしょうか？
-はい
-いいえ
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-本当にありがとうございました。
+Could you please go
+and get him again?
+Yes
+No
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、あの人たち……
+Oh, those people again...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-じゃんじゃん持ってきてくれ！
-金なら心配するな！
+Bring me all the money you can!
+Don't worry about the money!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-そうそう。国を取り戻したら、
-王家がぜーんぶ払ってくれるから！
+Yes, yes. Once we get the
+country  back, the royal family
+will re-pay everything back!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-腹が減っては戦ができないでやんす！
+We can't fight on an empty stomach!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-俺たちがいれば、勝利は疑いなしだ！
-なぜなら俺たちこそ、かの！
+With us, there's no doubt we'll win!
+Because we are the heroes!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-かの！
+In that case!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-俺たち漆黒、漆黒の翼♪
-凄腕傭兵、イエイ！
+We are Dark,the Dark Wings♪
+Awesome mercenaries, yeah!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こんにちは、皆さん。
-ファンダリアでお会いするなんて、
-思いませんでした。
+Hello, everyone.
+I never thought I'd 
+see you in Phandaria.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-うむ。前はアクアヴェイルにいたんだが、
-密航してここまでやってきたのだよ。
+Hmm. I used to be in
+Aquaveil, but we hitched
+a ride and came here.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-この国の騒ぎに乗じて、
-今度こそ一旗あげるでやんす。
+I'm going to take advantage
+of the commotion in this country
+and raise a flag this time.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-騒ぎに乗じてだなんて……ひどい……
+I can't believe they'll take
+advantage of the commotion.
+That's awful.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-おまえさんたちに頼みがある。
-屋根の雪下ろしをやってくれんか？
+I need a favor from you guys.
+I need you guys to clear the
+snow off the roof for me.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-雪下ろしだと？
-なぜ俺たちがそんな雑用を！
+Snow removal?
+Why are we doing this!
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-市街地で戦いになったときは、
-屋根の上が重要な拠点になるからの。
+The rooftops are an important
+base of operations in case of
+a battle in the city.
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-動けるように準備するのは当たり前じゃ。
-凄腕の傭兵なら、もちろん知っとるじゃろ？
+It's a given, you must be ready to go
+into action. If you're a good mercenary,
+you already know that, don't you?
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-う、うむ……知っているとも。
-仕方ない、やってやるか。
-<John>、<Millie>、行くぞ。
+Oh, uh... of course I know that.
+I don't have a choice, I'll do it.
+<John>, <Millie>, let's go.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-これで自分で雪下ろしをしなくても、
-よくなった。なんとかは使いようじゃな。
+Now I don't have to do the snow
+removal myself. I guess it's all 
+about how you use the commotion.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-おじいちゃん……
-あの人たちを、だましたんですか？
+Grandpa...
+Did you con those people?
 [ENDBLOCK]
 <x17><x28><xE5><x06><x14><x2F><x80>, <x17><x28><xE6><x06><x14><x2F><x80>, <x17><x28><xE7><x06><x14><x2F><x80>
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あの、すみません。
+Um, excuse me.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-はい、何でしょう？
+Yes, what is it?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-実は探しているものが
-あるんですけど……
+There's actually
+something I'm 
+looking for.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-それでしたら北にある
-ティルソの森の奥にあると
-聞いた事があります。
+If that's the case, I've heard
+that it's deep in the forest of
+Tilso in the north.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-本当ですか！
+Are you sure? !
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ありがとう。それじゃあ、早速
-そのティルソの森に行ってみます。
+Thank you. I'll go to that Tilso
+forest as soon as possible then.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ちょっと、お嬢さん
-ひとりで行かれるんですか？
+Excuse me, miss, are
+you going alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お連れの方々は!?
+Where are your friends?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-みんなには
-黙っていてください。
+Please don't tell anyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-私ひとりでやりたいんです。
+I want to do it by myself.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-さって、宿屋の人が言ってた北にある
-ティルソの森に行ってみようかしら。
+Now, let me go to the Tilso
+Forest in the north that 
+the innkeeper mentioned.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんを驚かせて
-あげるんだから。
+You're going to surprise
+your brother.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ティルソの森の奥に
-あると聞いたことがあります。
+I've heard that it's deep
+in the forest of Tilso.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-けどひとりで行くだなんて……
-無茶だけはしないで下さい。
+But I can't believe you're going alone.
+Please don't do anything rash.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-今日は諦めますか？
-はい
-いいえ
+Do you want to give up today?
+Yes
+No
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-さって、宿屋の人が言ってた北にある
-ティルソの森に行ってみようかしら。
+Now, let's go to the Tilso
+Forest in the north that 
+the innkeeper mentioned.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんを驚かせて
-あげるんだから。
+You're going to surprise
+your brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あ……お兄ちゃん。
+Oh... big brother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こら、<Lilith>。
-ひとりでどこに行ってたんだよ。
+Hey, <Lilith>. Where have you
+been all by yourself?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-勝手にいなくなるから
-心配しただろう。
+I was worried because you
+left without saying anything.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ごめんなさい。
-ちょっと外に出たくなって。
+I'm sorry. I just wanted
+to get out of the house.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ほら、みんなの所に戻るぞ。
+Come on, let's get back
+to the others.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ねえ、お兄ちゃん。
+Hey, big brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-これあげる。
+I'll give you this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-これは……薬草？
+Is this a ...... medicinal herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、どうして？
+But why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-外歩いてたら、
-偶然見つけたの。
+I was walking outside 
+and stumbled upon it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だったら<Lilith>が
-使えばいいじゃないか。
+Then why don't you use it?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-んもう！
+Oh, God!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんは世界を救う
-戦いをしてるのよ。
+Your in a fight to save the world.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-だからお兄ちゃんが使って！
+You need it more than I!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かった。
-それなら貰っておくよ。
+All right.
+I'll take it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-いい？	ちゃんと使ってよ。
+Okay. Make good use of it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ちゃんと使ってくれなきゃ、
-起きてる時でも……
+If you don't use it properly,
+even when you're awake...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ちょ、<Lilith>待って。
-使うよ、必ず使うからそれだけは！
+Wait, <Lilith>. I'll use it.
+I promise I'll use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-よろしい。
+Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ改めて。
-ありがとう、<Lilith>。
+See you soon.
+Thank you, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-どういたしまして。
+You're welcome.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃん。
+Big brother.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -391,16 +395,17 @@ global.cat_event   <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-こんな時に金を取って商売するのは、
-気がひけるけどね……
+I don't like the idea of
+taking money to do business
+at a time like this, though.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ。
+Welcome.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-本日はお泊りですか？
+Are you staying with us today?
 [ENDBLOCK]
  Gald.
 Is that okay?
@@ -415,61 +420,63 @@ You don't have enough Gald.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-今のうちに食材を買いだめする事を
-おすすめしますよ。
+I recommend you stock up
+on food while you can.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-さあ、見て行ってください。
+Go ahead and take a look.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-今のうちに食材を買いだめする事を
-おすすめしますよ。
+I recommend you stock up
+on food while you can.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-さあ、見て行ってください。
+Go ahead and take a look.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-あんたひとりで森まで
-行くのか？
+You're going to the 
+forest by yourself?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-やばくなったら、
-すぐに逃げるんだぞ。
+If things get dangerous, you
+need to get out of there.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-首都がどこかの軍に攻め落とされて、
-<King>が死んだそうだ。
+I heard that the capital
+was attacked by some army
+and the <King> died.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-新しい王様は不眠不休で、
-国の復興に力を注いでいるらしい。
+The new king is apparently working
+tirelessly to restore the country.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-雪に覆われてよくわからないが、
-空が変になっていないか？
+It's hard to tell with all the snow, but
+does the sky look strange to you?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-このままでは、街は氷漬けになる。
-なんとかならないものか。
+At this rate, the city will be covered 
+in ice. Can't we do something about it?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-セインガルドの技術力なら、
-きっとすごい秘密兵器が作れるだろう。
+With Seingold's technological
+prowess, I'm sure they can 
+create an amazing weapon.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-秘密兵器はうまくいったんだな。
-よかった。
+The secret weapon worked,
+didn't it? Good.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
