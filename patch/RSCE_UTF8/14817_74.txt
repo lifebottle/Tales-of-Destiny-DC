@@ -109,37 +109,37 @@ notice
 [ENDBLOCK]
 アルカナルイン
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 <TAG_052>で貴方たちと
 会うのは初めてですね。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 私は貴方たちの旅を少しだけ
 手伝わせて頂きます。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 もちろん代価を頂きますが、その際
 ＥＸポイントを頂く場合も御座います。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 ちなみにＥＸポイントは入り口でも
 ご使用頂けますので、お忘れなく。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 なお、このお取引が終わりましたら
 私はすぐに退散いたします。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 さて、本題に入りましょう。
 
@@ -155,12 +155,12 @@ notice
 現在階層：<TAG_077>
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 私は貴方たちの体力を
 完全に回復する事ができます。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 ただし、代価として
 ＥＸポイントを<TAG_034>頂きます。
@@ -178,24 +178,24 @@ notice
 ＨＰが回復しました。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 これでもう大丈夫です。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 機会がありましたら、
 またご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 残念ながら、代価が不足しているようです。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
@@ -211,12 +211,12 @@ notice
 現在対象アイテムは<x17><x72><x40><x20><x80>個持っています
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 <TAG_007>貴方が持っている<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を、
 ＥＸポイントと交換して差し上げられます。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 いかがいたしましょう？
 [ENDBLOCK]
@@ -227,15 +227,15 @@ select
 頼まない
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 残念ながら、代価が不足しているようです。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 それでは、<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を頂きます。
 [ENDBLOCK]
@@ -243,12 +243,12 @@ notice
 [ENDBLOCK]
 ＥＸポイントを<TAG_077>取得しました。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 機会がありましたら、
 またご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
@@ -258,7 +258,7 @@ notice
 ★アイテム取得開始
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 貴方に<x1A><x72><x40><x14><x80>を
 差し上げましょう。
@@ -268,7 +268,7 @@ notice
 <x1A><x72><x40><x14><x80>を<TAG_034>個、
 貰いました。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 それでは、またの機会にお目にかかりましょう。
 [ENDBLOCK]
@@ -284,13 +284,13 @@ notice
 現在EP<x17><x72><x40><x20><x80>、減少EP<TAG_077>
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 貴方が持っているＥＸポイント<TAG_077>を
 <x1A><x72><x40><x14><x80><TAG_034>個と交換して差し上げられます。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 いかがいたしましょう？
 [ENDBLOCK]
@@ -301,15 +301,15 @@ select
 頼まない
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 残念ながら、代価が不足しているようです。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 それでは、ＥＸポイントを<TAG_077>頂きます。
 [ENDBLOCK]
@@ -318,12 +318,12 @@ notice
 <x1A><x72><x40><x14><x80>を<TAG_034>個、
 貰いました。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 機会がありましたら、
 またご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
@@ -357,17 +357,17 @@ notice
 [ENDBLOCK]
 この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 この階の宝箱についての情報を
 教えて差し上げましょう。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 この階にある<TAG_054>色の宝箱</color>は、
 <TAG_055>
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 それでは、またの機会にお目にかかりましょう。
 [ENDBLOCK]
@@ -383,12 +383,12 @@ notice
 最低でも<x17><x72><x40><x24><x80>個が必要です
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 貴方が持っている<x1A><x72><x40><x1C><x80><TAG_075>個で、
 食料を持てるだけ補充して差し上げられます。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 いかがいたしましょう？
 [ENDBLOCK]
@@ -399,15 +399,15 @@ select
 頼まない
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 残念ながら、代価が不足しているようです。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 それでは、<x1A><x72><x40><x1C><x80><TAG_075>個を頂きます。
 [ENDBLOCK]
@@ -416,19 +416,19 @@ notice
 フードが満タンになりました。
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 機会がありましたら、
 またご利用ください。
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 またの機会に、ご利用ください。
 [ENDBLOCK]
 ★アイテム→フードサック終了
 
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
 「<x18><x66><x10><x00><x80>」のイベントは
 用意されていません。

@@ -1,6 +1,6 @@
 notice
 [ENDBLOCK]
-不思議な力で封じられている。
+It's sealed by a strange power.
 [ENDBLOCK]
 何かの装置かな？
 でもここからじゃ手が届かないぞ。
@@ -37,9 +37,9 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-神殿へ戻りますか？
-はい
-いいえ
+Return to the temple?
+Yes
+No
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

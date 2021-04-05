@@ -1,10 +1,10 @@
 select
 [ENDBLOCK]
-<x19><x6A><x00><x80>
-[ENDBLOCK]
-をパーティに戻しますか？
+<x19><x6A><x00><x80>をパーティに戻しますか？
 はい
 いいえ
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]

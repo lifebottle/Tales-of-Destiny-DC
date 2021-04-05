@@ -548,51 +548,52 @@ behavior in the castle.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I wonder what it's like inside
-the castle~?
+I wonder what it's like
+inside the castle~?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-お城の中ってどうなってるのかな～？
+I wonder what it's like
+inside the castle~?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-You must be an amazing person
-to come and go in the castle so freely.
+You must be an amazing person to
+come and go in the castle so freely.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-お城に自由に出入りできるなんて、
-あんたたち、すごいんだな。
+You must be an amazing person to
+come and go in the castle so freely.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あの放送の声、誰だったかな？
-聞き覚えがあるんだけど。
+Whose voice was broadcasted?
+It sounds familiar.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-空が真っ暗になっちゃったよ……
+The sky has gone dark...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-お城の中にいれば、
-モンスターに襲われずにすむかな？
+Can we stay in the castle to
+avoid the monster attacks?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-レンズをたくさん積んだ荷車が、
-次々お城の中に入っていくよ。
+Carts of lens are being brought
+to the castle one after another.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-お城の中で、すっごい秘密兵器、
-作ってるんだって？
+I heard they're building some really
+cool secret weapon in the castle.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-すげえ！	空の天井に穴が開いた！
-すげえ、すげえ！
+Woah! There's a hole in the sky!
+That's crazy!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -763,10 +764,11 @@ to rest will go to the inn, alright?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>無重量エレベータです。
-ラディスロウに行きますか？
-行く
-行かない
+
+<TAG_007>It's a zero-gravity elevator.
+Do you want to go to Radisrol?
+Go
+Stay
 
 [ENDBLOCK]
 notice
