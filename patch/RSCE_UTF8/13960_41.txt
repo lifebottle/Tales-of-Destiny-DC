@@ -1,0 +1,906 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。
+
+[ENDBLOCK]
+砂漠：no_bg_sora_desert
+
+[ENDBLOCK]
+空の作成失敗（戻り値：<TAG_062>）
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全段階：D1R_032_040_000	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。<TAG_062>>=<TAG_059>>=<TAG_061>
+
+[ENDBLOCK]
+砂漠第三：no_bg_gaikaku2_desert <x09><xB0><x01><x00><x00>
+
+[ENDBLOCK]
+砂漠最終：no_bg_gaikaku3 <x09><xB2><x01><x00><x00>
+
+[ENDBLOCK]
+= <TAG_060>
+
+[ENDBLOCK]
+外殻の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。
+
+[ENDBLOCK]
+砂漠：no_bg_kumo02
+
+[ENDBLOCK]
+雲の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset_camera_homing!!!   <x17><x75><x49><x94><x75><x49><x98><x8C><x80>
+
+[ENDBLOCK]
+init_camera_homing!!!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>特産の
+「ドクトルフィビール」の大樽だ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+よそ者が神殿を建てたのは、
+俺たちを監視するためだって噂がある。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あの放送を歓迎している人間が
+ここには多いが……大丈夫なのか？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+地上の民といった場合、
+俺たちも含まれるんじゃないか？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+カルバレイスも攻撃を受けた……
+心配が当たってしまったな
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+ジャンクランドの知り合いから、
+連絡があったぜ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あんたの演説が心にしみたってさ。
+良かったな。
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+カルバレイス人がみんな、
+自分たちの神を信じてるわけじゃないわ。
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+あのおじさん。家族が死んじゃってから、
+いーっつもお酒を飲んでるの。
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+カルバレイス人がみんな、
+自分たちの神を信じてるわけじゃないわ。
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+空が妙な陰り方をしているわね……
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+自分たちの神を信じていた人は、
+自分たちにも天罰が下ったって思うの？
+[ENDBLOCK]
+少女
+[ENDBLOCK]
+私、もう一度お日さまが見たいの。
+お願いね。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+酒で現実が消える事はないけど、
+ここの人間はそれに頼るしかないのさ。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+空にできた網目の正体は、
+すべてえぐり取られた大地だって？
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+トラッシュマウンテンで
+大活躍したんだってね。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+……なんで知ってるのかって？
+この商売やってると耳ざとくなるのさ。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+あんたたちが無事に戻ってきたら、
+一緒に祝杯をあげようじゃないか。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+酒で現実が消える事はないけど、
+ここの人間はそれに頼るしかないのさ。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+空にできた網目の正体は、
+全てえぐり取られた大地だって？
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+トラッシュマウンテンで
+大活躍したんだってね。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+……なんで知ってるのかって？
+この商売やってると耳ざとくなるのさ。
+[ENDBLOCK]
+酒場の女主人
+[ENDBLOCK]
+あんたたちが無事に戻ってきたら、
+一緒に祝杯をあげようじゃないか。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+あら、かわいいお客さんだこと。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+あの酔ったお客さんね、半年前くらいに
+チェリクから家族でここに移って来たの。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+でも、その途中で奥さんと子供さんが
+砂漠の砂嵐で遭難して……
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+それ以来、ずっとああなのよ。
+
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+あら、かわいいお客さんだこと。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+セインガルドに隕石が落ちたって本当？
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+なぜジャンクランドが攻撃されたの？
+あんなとこ、ゴミしかないのに。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+ずっと暗いのも悪くないわね。
+日焼けしないで済むもの。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+なんだか肌寒くなってきたわ。
+やっぱり、ずっと暗いのは嫌よ！
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+けっ、こんな生活、
+酒でも飲まないとやってられねえぜ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+あの外国の筋肉やろうぅ……
+女は店員しかいねえ事に気づけよ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+セインガルドに天罰が下ったってな。
+神殿の連中はどんな顔してるんだか。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+やばいのはセインガルドだけじゃ
+ないようだな……
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+神がいるならなんとかしろって、
+神殿の連中に言ってやったぜ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+そうしたら奴ら、黙りやがった。
+やっぱり神なんていねえんだよ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+神はいなくても、勇者はいるんだな。
+あんたたちがまぶしく見えるぜ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+この先は街の外に出ちゃうからね。
+それでもいいなら止めないけど。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+外へ出ても真っ暗なのは一緒だよ？
+[ENDBLOCK]
+外国の男
+[ENDBLOCK]
+俺の筋肉を見ろぉぉ……ヒック。
+俺はもてるはずなんだぁ……ヒック。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><xD8><x00><x80><x18><x65><x59><xDC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><xD8><x00><x80><x18><x65><x59><xDC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x0C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5A><x08><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><xFC><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><x00><x00><x80>
+<x18><x65><x5A><x04><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><xE8><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

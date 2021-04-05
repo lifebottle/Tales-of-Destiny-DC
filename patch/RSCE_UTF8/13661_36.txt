@@ -1,0 +1,696 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+空の作成失敗（戻り値：<TAG_062>）
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全段階：D1R_032_040_000	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全使用
+
+[ENDBLOCK]
+= <TAG_060>
+
+[ENDBLOCK]
+外殻の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+雲の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What's going on here?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Looks like people have noticed the
+connection between the world's
+state and the President of the
+Oberon Corporation
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+They've begun protesting outside of the manor...
+[ENDBLOCK]
+Oberon Employee
+[ENDBLOCK]
+At this time, President Hugo is 
+undergoing treatment for his illness
+[ENDBLOCK]
+Oberon Employee
+[ENDBLOCK]
+Please do not believe any of the rumors
+you have heard. They are not true.
+[ENDBLOCK]
+We know you're pulling our legs!
+[ENDBLOCK]
+Show him to us then,
+if he's still here!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+This is bad. At this rate, there'll be 
+ a full blown hunter's revolt.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+How do you know?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+The balance between the supply and 
+demand of Lens is crumbling.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What's that mean?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+It means that Lens Hunters earnings 
+are practically nothing now.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's definitely a problem.
+That's how they put food
+on the table.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But what can be done?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Well, the problem is that the Oberon
+Corporation can't keep up with
+the volume of lens people want
+to sell them.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+If only these people were
+just a bit more patient...
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Then little by little, Oberon would be able to
+start buying from them again.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+So all we gotta do is
+calm these people down?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, that should do it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I've got this!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What the- What are you-?!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Everyone, please, hear me!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I met with President Hugo
+just yesterday!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+He told me himself that, though
+he was real sick at first, he'll be
+back on his feet in no time!
+[ENDBLOCK]
+Oh, really? Wow!
+[ENDBLOCK]
+I don't believe it!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+I was also there when he said it.
+[ENDBLOCK]
+If two people say it...
+does that mean it's the truth?
+[ENDBLOCK]
+So then...maybe they really
+were just rumors...
+[ENDBLOCK]
+Huh. I guess we just misunderstood.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I told a complete lie...but it
+looks like it worked out.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+No big deal. You did what you
+had to do. I think it'll be fine.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+I'm worried about the other city though.
+Let's go and check on it.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた屋敷に出入りしているようだけど、
+まさか、この屋敷の人かい？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+このところオベロン社総帥や、
+屋敷の執事さんを見ないねえ。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+ここがオベロン社総帥様のお屋敷さ。
+立派なもんだろ？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+このところオベロン社総帥や、
+屋敷の執事の姿を見ないねえ。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あああ……山が……山が……
+なくなって……！
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+黒幕はオベロン社総帥なんだって？
+冗談じゃないよ！
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+こんな事になるなら、オベロン社を
+さっさと潰しとけばよかったんだよ。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+お城で作ってる秘密兵器って、
+レンズを大量に使うんだろ？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+レンズと聞くとオベロン社を
+想像しちまうねえ。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+レンズを使う秘密兵器ってのは、
+オベロン社とは関係ないんだね？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あんたたち、頼んだよ！
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+<Lion>様がここのご子息である
+事は公表されていません。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+怪しい人物には
+お気をつけ下さい。
+
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+<Lion>様の活躍を聞く度に
+誰かに自慢したくなりますよ。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+<Hugo>氏は今や我が国の重要人物。
+こうして厳重にお守りしております。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+俺は<Hugo>邸警備の任を解かれた。
+上からもういいといわれたのさ。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+それでもつい習慣で、
+ここにいてしまうんだがね。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+あの放送を流していたのは<Hugo>氏だ。
+声を聞けばすぐにわかる。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+我が国を裏切った罪は重い。
+<Hugo>は絶対に許せん。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+屋敷を見張るよう命令されたんで、
+今もこうしてここに立ってるのさ。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+屋敷で働いている<Marian>って女は、
+誰かの帰りを待っているらしい。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+今さらこの屋敷に、
+戻ってくる奴がいるとは思えんがな。
+[ENDBLOCK]
+Guard
+[ENDBLOCK]
+屋敷で働いている<Marian>って女は、
+誰かの帰りを待っているらしい。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+今じゃレンズ製品のない生活など、
+考えられません。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Hugo>総帥の功績は、
+あまりにも偉大です。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+私も昔はレンズハンターだったのですが、
+<Rembrandt>様に拾われたのです。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+今じゃレンズ製品のない生活など、
+考えられないだろう？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Hugo>総帥の功績は、
+あまりにも偉大だよ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+俺も昔はレンズハンターだったんだが、
+<Rembrandt>様に拾われたのさ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+選ばれし者による新たな世界、か。
+俺も連れて行ってもらいたいぜ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+結局空から迎えはこなかった。
+俺は選ばれなかったらしいな。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+レンズハンター時代は常に危険と
+隣りあわせだった。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+今さら空が外殻に覆われたくらいで、
+びびったりはしねえよ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+頼んだぜ、強欲の魔女！
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+頼んだぜ、あんたたち！
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+おはようございます！
+
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+今はまだ見習いですけど、
+よろしくお願いします。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+うぅ。わたしまだ
+見習いのままです……
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+知ってる？	今噂の<Lion>様って、
+実はこの屋敷の……
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+す、すみません！
+なんでもありません！
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+屋敷の中は私語厳禁なの。
+毎日、息が詰まりそう。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+空のずっと高いところから、
+光がどばーって降ってきたの。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+あんなすごい光、
+今まで見た事がないわ。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+旦那様も執事もいなくなって、
+この屋敷はもうダメね。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+今まで働いた分のお給料も、
+きっともらえないでしょうね……
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+<Marian>さんが戻ってきたわ。
+あの人、雰囲気変わったわね。
+[ENDBLOCK]
+見習使用人
+[ENDBLOCK]
+<Marian>さんにいわれて、
+あたしもお城へレンズを運んだわよ。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><x88><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

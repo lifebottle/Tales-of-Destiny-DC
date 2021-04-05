@@ -1,0 +1,633 @@
+<Rutee>
+[ENDBLOCK]
+これがレンズに
+閉じ込められた想いなの？
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+……そうですか。
+この子が……
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+さあ、恐がらずに。
+こちらへおいで。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+今日からここが、君の家ですよ。
+[ENDBLOCK]
+怒っている司祭
+[ENDBLOCK]
+もう我慢なりません！
+あいつを追い出しましょう！
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+そんな！	あの子のイタズラは、
+ただ、自分を見て欲しいという合図です。
+[ENDBLOCK]
+大司祭
+[ENDBLOCK]
+うーむ……
+[ENDBLOCK]
+怒っている司祭
+[ENDBLOCK]
+街の方からも、沢山の苦情が
+寄せられています。
+[ENDBLOCK]
+怒っている司祭
+[ENDBLOCK]
+ただでさえ、我らは肩身の狭い立場。
+これ以上は我々の立場も！
+[ENDBLOCK]
+大司祭
+[ENDBLOCK]
+うむ……そうだな……
+あれを本神殿に送ろう。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+ダメです、大司祭様！
+[ENDBLOCK]
+大司祭
+[ENDBLOCK]
+私が決めた事だ。
+意見するというのか……？
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+……も、申し訳ございません……
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+……ごめんな……
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+ヘヘン、俺が悪いんだからな。
+当然といえば、当然だろ。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+違う！	それは違うぞ。
+私が至らなかっただけだ……
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+それじゃあ……
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+すまない……バティ。
+[ENDBLOCK]
+
+[ENDBLOCK]
+ほう、あの子が……フフフ。
+[ENDBLOCK]
+
+[ENDBLOCK]
+なんと良い眼をしているのだ。
+冷たく、憎しみに満ち満ちて……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+誰だ、今の？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+さあ？
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>ボムの調合に関する
+本がある。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+読みますか？
+読んでみよう
+やめておこう
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>ボムの調合とは、そもそも
+物質間に起きる科学反応である。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>その実験が最初に確認されたのは
+いまよりも数千年も前の時代である。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>当時はおもに神官や科学者……
+[ENDBLOCK]
+難しくて読めないよ。
+[ENDBLOCK]
+なによこれ。さっぱり分からないわ。
+[ENDBLOCK]
+もう少しで読めそうですけど……
+[ENDBLOCK]
+私にこのような専門書は
+難しすぎるな。
+[ENDBLOCK]
+……
+[ENDBLOCK]
+本当にこれは文字なのか？
+[ENDBLOCK]
+え～～ん、全然わかりません。
+[ENDBLOCK]
+俺にもこいつは難しいぜ。
+[ENDBLOCK]
+こんなの読めても仕方ねえだろ。
+[ENDBLOCK]
+ぜーんぜん、興味でないわ。
+[ENDBLOCK]
+デフォルト
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「優しい天使と赤い悪魔」
+という子供向けの童話がある。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+読みますか？
+読んでみよう
+やめておこう
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>いつもみんなの幸せばかりを
+考えている心優しい天使さんが
+いました。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>しかしそれとは反対に自分の事ばかりを
+考え天使の国をのっとろうとしている
+それは醜い赤い悪魔がいました。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>赤い悪魔は天使さんに
+こう言いました。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「おまえたちからこの天使の国を
+奪ってやる」と。そして赤い悪魔は
+他の天使さんを次々に殺していきました。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「王の系譜」
+というカルバレイス人の正統性を
+題材にしたベストセラーが並んでいる。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>布教活動の際に配布される
+資料が並んでいる。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>世界の名所「ゴミの街・ジャンクランド」
+という本がある。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+読みますか？
+読んでみよう
+やめておこう
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>カルバレイス西方に位置する
+世界で最も貧しい街である。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>一年中、鼻を突くような匂いが充満し、
+大半の人々がゴミの中で生活を
+している。彼らの主な財源は……
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>小説「星の暦・２」
+の読みかけがある。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+読みますか？
+読んでみよう
+やめておこう
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>……妹が生きていたらちょうど
+君みたいな感じだったかな。
+思わず僕は口にしていた。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>彼女ははっと僕から目をそむけた。
+顔を真っ赤にして目には涙をためている。
+僕は彼女の頬を手の平で包み込む。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>彼女から溢れる涙を親指でぬぐうと
+その唇を……
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>								つづく
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「星の暦」シリーズは本作をもって
+一旦終了致します。
+なお次回作は未定です。編集部
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>バルック基金から出版されている
+カルバレイス経済白書がある。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>月刊「世界四秘」
+という本がある。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+見ますか？
+目次だけでも
+やめておこう
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>内容はオカルトや空想
+読者投稿による怪奇体験などが
+が大半を占めている。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>巻頭はフランツという学者の
+対談が掲載されている。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「砂漠での生活」という
+外国人向けの本が並んでいる。
+[ENDBLOCK]
+研究者
+[ENDBLOCK]
+偉そうな神官に目をつけられて、
+ここの出入りを禁止されていたんだ。
+[ENDBLOCK]
+研究者
+[ENDBLOCK]
+これじゃ、学会の発表に間に合わないよ。
+[ENDBLOCK]
+研究者
+[ENDBLOCK]
+俺をここから締め出していたやつが、
+今じゃ、牢獄に入れられてるぜ。
+[ENDBLOCK]
+研究者
+[ENDBLOCK]
+先の天地戦争のてん末がどうなったか、
+文献で調べているところなんだ。
+[ENDBLOCK]
+研究者
+[ENDBLOCK]
+何か重大なヒントが
+見つかるかもしれないからな。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+カルバレイスの人々は閉鎖的です。
+布教は楽ではありません。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+しかしその困難こそ、先人から
+私たちに課せられた使命なのです。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+カルバレイスの人々の中には、
+今回の騒ぎを歓迎する方もいます。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+雷が近くに落ちた事で、多くの人が、
+ようやく危機感を持ったようです。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+レンズを集めるに当たって、
+街の人々ともかなり協力しました。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+これをきっかけに、街の人々との
+交流が進むといいですね。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Greybum>の奴、どんな手を使ったのか、
+易々とモンスターを操っていたぜ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+とても神官には見えなかった。
+モンスターの親玉かと思ったよ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あの放送を流していたのは、
+カルバレイス人なのか？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+街の連中が喜んでいたから、
+そう思ったんだけどな。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+空中都市ってのは、誰が作ったんだ？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+このままこの国で死ぬのかなあ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+多くのレンズが集まったのは、
+街の連中のお陰さ。ありがたい話だ。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+カルバレイス人は神殿に無関心よ。
+彼らには独自の信仰があるしね。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+こんなところ、
+さっさと撤退すればいいのに。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+一体、世界に何が起こっているの？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+外殻をうっかり壊したら、
+地上がかえって大変にならないかしら？
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x57><xD8><x00><x80><x18><x65><x57><xDC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xD8><x00><x80><x18><x65><x57><xDC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x08><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x00><x00><x80>
+<x18><x65><x58><x04><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x47><xE8><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

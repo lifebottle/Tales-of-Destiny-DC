@@ -1,0 +1,531 @@
+
+[ENDBLOCK]
+<TAG_005>便器の中には何もない。
+
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+何かご用ですか、
+<Lion>様。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+いま手が離せません。
+後にして下さい。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+何かご用ですか、
+<Lion>様。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+いま手が離せません。
+後にして下さい。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+屋敷に兵士がたくさん来て、
+坊ちゃんや旦那様の事を聞いていたわ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+坊ちゃんと旦那様が、<King>陛下に
+反乱を起こしたって噂、本当なのね。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+こんな事なら坊ちゃんや旦那様に、
+もっと取り入っておくんだったわ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+ねえ、坊ちゃんは死んだんでしょ？
+そう聞いてるわよ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+それなのに<Marian>ったら、
+よくもああ平然としていられるわね。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+なんだか体に力が入らないの。
+いったいどうしたのかしら。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+お願い……元の世界を
+取り戻して……
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE8><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xE0><x00><x80>
+<x18><x65><x57><xE4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x47><xC8><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+今日の献立どうしようかしら。
+あなたなら、どうする？
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+今日の献立、どうすればいいかしら？
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+そうだな、カンバラーベアの、
+香草焼きなどはどうだ？
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+ええ、それはいいですね。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+それじゃ、料理本を探してこなきゃ！
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+あら、<Mary>が教えてあげれば
+よかったのに。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+でも、すでに行ってしまったからな。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+戻ってきたみたいだよ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+なんだろ、コレ？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+どうしたんですか？
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+お料理の本に、こんなメモが
+挟まっていたんです。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+見せてくれない？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+料理の材料がメモされているみたいね。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+しかし、これはまた
+甘いものばかりだな。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+確かにそうですね。
+俺もここまで甘いのはちょっと……
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+どうせ暇なメイドが、
+お菓子でも作ろうとしたんじゃない？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+この二重丸がつけられているところ。
+聞いた事のないお菓子だな。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+私も知らないな。
+ぷ……りん、というらしいな。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+なんか、おいしそうなお菓子ね。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Rutee>はお菓子の名前で、
+おいしさが分かるのか？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+なんとなく、分かるのよ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+あら、あなたたちは確か、
+<Lion>様の。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+はい。そうですけど……
+俺たちが、何か？
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+実は……その……
+誰にも言いませんか？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+何の事だかわからないけど……
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+大丈夫よ、あたしたちこう見えて
+約束破らないし、嘘もつかないわ。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+それじゃあ、お見せしますね。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+日記かしら。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+誰かの日記みたいです。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+タイトルは……
+「秘め事日記……ウフ」？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+なんだこれ？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+まあ、読んでみましょうよ。
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+きゃーん、甘いもの食べたいよー。
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+…………
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+……甘いものが好きなようね……
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+なんて言ったら、彼が私にプリンっていう
+お菓子を作ってくれたの～。
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+私って、女王様タイプなのかしら？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+しかも、のろけ日記……
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+彼が突然、私に指輪をプレゼント
+してくれたの。もー、お金もないくせにね！
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+まだ続くみたいだね、のろけ。
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+こんなに立派な宝石……
+いくら位で、売れるのかしら？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+愛情より金な女。最低ね……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+…………
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+何、見てんのよ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+いえ……
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+彼と、将来の話なんかしちゃった。
+
+[ENDBLOCK]
+秘め事日記……ウフ
+[ENDBLOCK]
+私は女の子が欲しいけど、
+彼ったら、男の子がいいって言うの。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+何、この日記？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ちょっと、<Rutee>みたいな人だね。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+全然、似てないわよ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+はい、返すわね。
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+誰の日記か、聞きたくないですか？
+聞きたいでしょ？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+結構よ。甘いものが好きで、
+金にがめつい、どっかの女の日記でしょ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<S12>何よ……
+あたしとあいつにそっくりじゃない。<x00>
+[ENDBLOCK]

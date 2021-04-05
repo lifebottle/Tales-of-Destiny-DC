@@ -1,0 +1,780 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Are you from Calvalese?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Calvalese?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You see......
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Hmm?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Is this about father?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Father?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Father lived in a very hot
+place when he was a child.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+And where is your father now?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Father died in the last war.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+.......I'm sorry.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+It's fine. I'm actually happy to see
+something looking for him.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Here, take this. As thanks.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Speaking of which, father used to
+say he wanted to be friends with
+someone from Neuestadt.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Speaking of which, father used to
+say he wanted to be friends with
+someone from Neuestadt.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+It's not know if <TAG_005>
+warms one's heart, but it
+sure warms one's body
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Are you travelers? Conduct
+yourselves properly in this town.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+We only want what's best for this
+country. Overthrowing the Royal
+Family is not our goal.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Could you be......
+Your Majesty...... King <Woodrow>......?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+A declaration of war on the entire
+surface......? Are they serious?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+That thing completely
+cratered the surface.....
+Is that Belcrant's power?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Is this the end of humanity?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I was instructed by captain
+<Dalis> to callect the lenses...
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Your Majesty <Woodrow>,
+please save humanity.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+We will make Phandaria into a new
+country with our own hands!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Captain <Dalis> has spoken to the
+new king to make sure we are not
+punished.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+What is this Aeth'er War I hear
+about? What happened!?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+If a city were to be hit by Belcrant...
+How many people would die!?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I haven't been able to rest lately...
+I keep thinking Belcrant might
+strike again.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+We will do what we can here.
+Please, save the world!
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+We were able to win the battle
+because Lord <Greybum> was on our side.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+People were praising Lord <Greybum>
+a little while ago, and now they're
+all badmouthing him.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+In the end, the grown-ups are just
+putting all the blame on Lord <Greybum>.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+The sky is looking weird.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+The sky flashed and made a
+loud sound out of nowhere.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+What will we do if the
+whole sky is blocked?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+The lenses in this city were
+all sent to Heidelberg.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+When did we start chumming
+up to that town's people?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+If everybody joins forces together
+we will definitely win.
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+Come now, come come, come see!
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+People of Cyril strive in adversity.
+We're not going to be defeated by
+something like this.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+I've lined up some good stuff here.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Want to make a snowman together?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Want to make a snowman together?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Want to make a snowman together?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+It's getting very dark outside.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Is it true that big crater opened up?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Why is it always dark outside now?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I've heard that if we collect a lot of
+lenses something good will happen.
+[ENDBLOCK]
+× MAP_LINK_GENERALフラグが立ちっぱなしです
+
+[ENDBLOCK]
+○ MAP_LINK_GENERALは０です（正常）
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+This is Cyril right?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ngh.... Walking on a snow-covered
+road chills you all over....
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Has this town also fallen
+into rebel hands.....?
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+I'll be waiting outside for the time
+being. I don't want to be found out
+and cause a commotion.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+I'll go with you.
+[ENDBLOCK]
+Rebel Soldier
+[ENDBLOCK]
+They don't look familiar.
+Who are they?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Uhmmm......
+[ENDBLOCK]
+Isn't that <Mary>!?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Do you know me?
+[ENDBLOCK]
+What are you saying?
+We fought together.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I did? With you.....?
+[ENDBLOCK]
+I though you died two years ago!
+[ENDBLOCK]
+I gotta let the captain know!
+Wait here!
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Did something happen?
+[ENDBLOCK]
+Captain <Dalis>! Good, you're here!
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+Ma...!
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+...And you are?
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+Could it be!? You......
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+They look alike, but that's not her.
+[ENDBLOCK]
+That can't be..... after all.....
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+We are returning to Heidelberg.
+You two, come with me.
+[ENDBLOCK]
+What...
+[ENDBLOCK]
+U-understood.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+We'll leave as soon as
+finish our business.
+Let's leave this country.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Are you maybe an acquaintance
+of <Mary>'s?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Wait a second. You are.....
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+I've warned you. Next
+time I won't let it slide.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Did you remember something
+about him <Mary>?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I don't know..... I don't know but.....
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<Mary>、are you okay!?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+My head is hurting a
+little..... but I'm fine.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+This place seems to be strongly
+connected to her. It's stimulating
+the part of her brain that controls
+memory.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+This city is......?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+<Philia>, go call <Woodrow> and the
+others. They can now enter the city
+wothout drawing attention.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Understood.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+If it isn't <Mary>! When
+did you come back?
+[ENDBLOCK]
+You seem to be in good health.
+I though you had died!
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+U-.....Umm.....
+[ENDBLOCK]
+It seems good things keep happening.
+First we win the battle, then Isaac died.
+[ENDBLOCK]
+Maybe this is also Lord <Greybum>'s
+influence. He seems to bring good
+luck wherever he goes.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Did you say Lord <Greybum>?
+[ENDBLOCK]
+Will you be going back
+to your house <Mary>?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+My house....?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<Mary>'s house? Where!?
+[ENDBLOCK]
+It's on the west side. The walls are
+green. The walls are green, so you
+notice it right away....
+[ENDBLOCK]
+Oh, I was in the middle of shopping.
+Well then, I'll see you later.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+it seems people from the royal
+family are not welcome in this city......
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+that way of talking..... it's too harsh....
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Best not to mind it. I'm sure
+<Greybum> deceived everyone.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+The story isn't that simple.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What isn't?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+This means that there are
+people in this country who
+are receptive to <Greybum>.
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+This town might be
+a rebel army base.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Guys...
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Be that as it may, better not
+to overstay. Let's leave as soon
+as we are done ressuplying.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Before that..... <Mary>, what do you
+want to do? Want to try going to
+your house?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+...I want to. It might make
+my memories resurface
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Certainly. Let's go guys. We gotta make
+sure what that woman said is true.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<Woodrow> is with us. So it's better
+not to do unnecessary things.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+This is not unnecessary. 
+It's important.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, we can't 
+just leave it be.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+...... If it's unavoidable
+then hurry up and go.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Lord <Woodrow>, is
+something wrong?
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+My father was once celebrated
+as a Philopher King.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Why did that father have such an
+unyielding attitude towards Cyril......?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Woodrow>.....
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+I'm sorry.... that is a question I'll
+have to find an answer for myself.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+And I suppose I won't ascend the
+throne until I have that answer.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA4><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x94><x00><x80><x18><x65><x58><x98><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA4><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x94><x00><x80><x18><x65><x58><x98><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC4><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xBC><x00><x80>
+<x18><x65><x58><xC0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><xA4><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

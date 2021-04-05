@@ -1,0 +1,1159 @@
+××××××空開始××××××
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset---------
+
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Huh? I believe you are...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What about me?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+That's right. You're the one that 
+defeated <Lilith> in the arena?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+What about me?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+And there it is!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+What? Don't talk to 
+me like that.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+So, what can I do for you?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+What is it? Eh, uh~...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's okay to talk about <Lilith>,
+you can talk about her.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+That's the one. I thought I'd
+give you some good information.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What do you mean?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Didn't we once have a pirate
+invasion of this city?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I think you mean <Batista>.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+One of them is a sunken pirate ship.
+in this area of the ocean.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+It's also possible that some
+treasure had sunk with it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Are you sure you don't want to share
+such valuable information with me?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+It's at the bottom of the sea,
+anyway. I'll never get there.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Come on, <Lilith>, say thank you.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Thank you!
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I wish I was stronger.
+I can't do it, can I?
+[ENDBLOCK]
+Begin creating the ocean.
+
+[ENDBLOCK]
+失敗しました（戻り値：<TAG_031>）
+
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+I have good weapons.
+Have a look around.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+You have no idea what's going to
+happen at a time like this. You
+should be well prepared.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+I have good weapons.
+Have a look around.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+You have no idea what's going
+to happen at a time like this.
+You should be well prepared.
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+Fitzgald meat is delicious!
+[ENDBLOCK]
+Meat Merchant
+[ENDBLOCK]
+I'm not sure how long this city will
+survive, but I'll continue to do
+business until the end!
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+How about some
+fresh picked fruit?
+[ENDBLOCK]
+Fruit Merchant
+[ENDBLOCK]
+We still have stock,
+feel free to shop.
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+Welcome.
+Make a purchase!
+[ENDBLOCK]
+Produce Merchant
+[ENDBLOCK]
+I'm worried about the produce crops,
+now that the sun is gone.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+If you hang around here long
+enough, you can get leftovers.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Take it home and eat together.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I'm hungry...
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I saw a strange ship get into the harbor
+and put some kinda priest on board.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Recently, I haven't been
+eating the leftovers.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+<Kongman>, please! Bring back
+the light of day!
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+The city's opinion of
+Oberon is controversial.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I'm a long-time resident, but I think 
+it's good for the city to develop.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I think that Ms. <Ilene> is fine with
+evacuating the residents without
+taking their own risks.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Has <Ilene> gotten over this city?
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Seinegald has sent a large number
+of soldiers to the damaged area.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+But the government of this country
+doesn't do anything in this situation.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+The government doesn't do anything,
+even though we don't know when the
+city will be attacked.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Rather than waiting for the powers
+that be, I was thinking of doing
+what I could.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+It wasn't much, But I
+gave what lens I could.
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+I don't know why that barbarian
+<Kongman> or whatever, is so popular.
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+<Kongman> took out a fleet of armed
+ships? Hmmm, can't get it out of my head.
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+<Kongman>, are you going somewhere?
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+Hey, Where's <Kongman> going to go?
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+<Kongman> is the hero of this city,
+right? Then protect this city!
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+<Kongman>, I was wrong. I'm sorry
+for being so selfish.
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+Good luck in your quest to save
+the world. Mighty! Mighty! Mighty!
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+Go for it! <Kongman>！
+Mighty! Mighty!
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+People who are satisfied with material
+things are not necessarily mentally
+satisfied as well.
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+What this city needs most right now,
+is a Straylize Temple.
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+I wish we had a temple in this city.
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+It is at times like this that we
+should spread the teachings of
+Atamoni to the people of the city.
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+Is this another test
+that Atamoni has given us...?
+[ENDBLOCK]
+Nun
+[ENDBLOCK]
+Atamoni will surely be a guide
+on your path ahead.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+We are preparing for the next
+sailing. Please wait for a while.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+No matter what happens, we won't
+cancel the flight. I'll show you what
+a sailor is capable of.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Seafood Merchant
+[ENDBLOCK]
+How about some
+freshly caught fish?
+[ENDBLOCK]
+Seafood Merchant
+[ENDBLOCK]
+I'll sell fish
+no matter what!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm?　You don't have a copy
+of Definite Warfare?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This is good enough for your skill
+level. I'll give you this.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+The "Definite Strike" is 
+a group attack effective
+against monsters.
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Take good care of it.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm?　I've got nothing
+more to give you.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing
+to say to you now.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You'll have to hone 
+your skills a bit more.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+So this is Neuestadt... the city
+at the heart of Fitzgald.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+My hometown, Lienea,
+is also here in Fitzgald.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's not my only motivation...
+but we've gotta find <Greybum> soon.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+First, we're going to <Ilene>'s estate.
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<Ilene> is the head of Oberon Corp.
+in the Fitzgald region.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+It'd be a good idea to make
+use of her influence.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+We need a ship. We're going to
+strike back at that armada.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Wait! I'm going with you!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Kongman>!?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+We have to protect our town.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+<Ilene> is doing her best, too. I'm
+not going to let her out-do me!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+All right. Let's fight together!
+[ENDBLOCK]
+Captain
+[ENDBLOCK]
+When you're ready, just give me
+a shout, and we'll set sail!
+[ENDBLOCK]
+Captain
+[ENDBLOCK]
+There's a considerable amount of
+enemy ships. As soon as we leave
+port, we'll attack!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Bring 'em on! I'll smash every
+last one of 'em to bits!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Our goal is the flagship. We don't have
+enough time to do a thorough search.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Right, we have to put an end
+to this, and fast. Get us to
+the biggest ship out there!
+[ENDBLOCK]
+It's gonna be a bit rough,
+so hold on tight!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Thanks for the
+warm welcome, folks!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Your Champion, <Kongman> has
+crushed the evil armada, and
+brought peace back to the town!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+...It's not like he did
+it all by himself...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Ilene>...?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I'm sick of all this noise.
+Let's head back to <Ilene>'s estate.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I just remembered something I need
+to do. Go on ahead without me.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Hmmmm. <Stahn> looks pretty
+worried about <Ilene>.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+I wonder if he likes
+older women...
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<Philia>, are you...disappointed?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+N-not at all! I would never. 
+It's impossible. Completely out
+of the question!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Wow, you really shot that down 
+with everything you've got.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mmmm...What was with that ship?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What are you talking about?
+[ENDBLOCK]
+When you all were fighting 
+out at sea, a ship from the
+armada came this way...
+[ENDBLOCK]
+But then it left almost right away.
+So what the heck was that about?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+A ship...?
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+When you get close to Aquaveil,
+please use a rowboat to get to land.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Thanks for taking
+care of us, <Ilene>.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Uh... <Philia>, you're
+really going, aren't you?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+If I weren't helping to rebuild the
+town, I would come along with you!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+It'll be okay. You're needed
+here in town, <Kongman>.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+<Philia>, how are you so kind!!
+What an inspiration!! Uwahhhhh!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What a nice interpretation.
+That's good.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+<Stahn>! Please protect
+<Philia> properly in my place.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+If anything happens to <Philia>,
+I will destroy you!!!!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Don't worry, it'll be fine.
+Leave everything to me.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Well then, we're leaving now.
+Really, thank you so much.
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+<Stahn>, don't forget about our
+challenge from earlier, okay?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I won't forget. Who'll realize
+their ideal first, right?
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+I hope we'll have some results
+the next time we meet.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Ideals, huh…. wonder if that's
+something easier said than done.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Rutee>...?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+N-nothing.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Well then, take care!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You're going to get
+on this ship.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Yeah.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hold on, you guys!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's <Kongman>! How have you been?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+I'm the champion, how
+can I not be cheerful?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You're going to Phandaria,
+aren't we? I'm coming with you!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You're a champion, and you're
+willing to leave the city?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+I'm worried about you 
+guys, that's why!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+I'm glad you feel that way, but
+please don't take it too hard. 
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Please don't be shy. It's
+just you and me, isn't it?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+How did we get along...?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Anyway, I'm coming with you!
+I've already decided!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Alright. I'll take care
+of it <Kongman>!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+I'll take care of everything!
+Ga-ha-ha-ha!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
+[ENDBLOCK]
+has joined the party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xAC><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA4><x00><x80>
+<x18><x65><x58><xA8><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><x8C><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Do you want to take the Ship?
+[ENDBLOCK]
+Shall I send you the Black Cross fleet?
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x4C><x00><x80>
+Yes
+No
+[ENDBLOCK]
+Darilsheid Harbor
+
+[ENDBLOCK]
+Cherik Harbor
+
+[ENDBLOCK]
+Neuestadt Harbor
+
+[ENDBLOCK]
+Shiden Harbor
+
+[ENDBLOCK]
+Moreau Harbor
+
+[ENDBLOCK]
+Terazzi Harbor
+
+[ENDBLOCK]
+Frostheim Harbor
+
+[ENDBLOCK]
+<TAG_007>Where would you like to go?
+<x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+ああ、<Kongman>さん。
+助けて下さいよ。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+以前より、街での
+もめごとが増えています。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+どんなもめごとが、
+増えているんだ？
+[ENDBLOCK]
+セインガルド人
+[ENDBLOCK]
+全く、これでこの国一番の
+都市とはね。
+[ENDBLOCK]
+セインガルド人
+[ENDBLOCK]
+仕方ないですよ。
+すこしでも安全なところに逃げないと。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+ああやって、セインガルドから
+ぞくぞく流入してくるのです。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+このままだと、この街は、
+人で溢れてしまいます。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+おまけに、あいつらときたら
+騒ぎばかりを起こすんです……
+全く、嫌になりますよ！
+[ENDBLOCK]
+セインガルド人
+[ENDBLOCK]
+おい、おまえ！
+文句があるのか！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+これ以上、街に人はいらないんだ。
+てめえの国に帰りやがれ！
+[ENDBLOCK]
+セインガルド人
+[ENDBLOCK]
+なんと野蛮な人種だ。
+吐き気がする！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+だったら、帰ればいいじゃない！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+だったら、そういうおまえらも、
+ここから出て行けよ！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+なんですって！	あんたたち
+みたいなのがいるから、この街は、
+いつまでも発展しないんでしょ！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+おい、止めろよおめえら！
+いったいどうしちまったんだ！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+邪魔するんじゃねえ！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+みなさん、どうしたんですか！
+こんな事じゃ<Ilene>さんが！
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+<Ilene>は逃げ出したんだろ！
+口ばっかの理想家じゃないか。
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+違うわよ。あの人は
+ただの妄想家よ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+なんて事言うんだ！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+おい、やめろ<Stahn>。
+おめえまで熱くなってどうする！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+<Ilene>のやった事が、
+この街のどこに残っていると
+言うんだ、ふざけるな！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+そんな……
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+そんな事ないよ！	お姉ちゃんが、
+僕たちに教えてくれたじゃないか！
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+大人は金持ちも貧乏もみんな、
+自分の事ばかりだ。
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+でも、僕たちは違うからね。
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+そうだ！	僕たちが絶対に、
+この街を変えてみせるからね。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+そうだぜ、みんな！	子供にだけ
+格好いい事を言わせておくのか！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+俺様たち大人が、だせえ事言って
+らんねえだろ！
+[ENDBLOCK]
+街の人
+[ENDBLOCK]
+確かに……こんな子供に言われっぱなしも
+情けないよな。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+そうね……そうよ！	みんなでこの街を
+もっと良くしていきましょうよ。
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Ilene>さん。俺との競争……
+あなたの方が一歩リードしている
+みたいです。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+以前より、街での
+もめごとが増えています。
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+街のヒーローさえ
+いてくれれば……<x00>
+[ENDBLOCK]

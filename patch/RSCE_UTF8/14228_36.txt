@@ -1,0 +1,703 @@
+宿屋
+[ENDBLOCK]
+お泊りではないんですね。
+では……
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+もしかして、
+猫ちゃんの情報を!?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+いや、わたしたちは
+猫ちゃん探しに協力しようと
+思って来たのだ。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+本当ですか！
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+ありがとうございます。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+見ての通り、
+私はここを離れる事ができません。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+でも、猫ちゃんたちの事が
+心配で心配で……
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+うむ。その気持ち、
+痛いほど分かるぞ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+でもさ、どこにいるか全く
+分からないなら探しようがないわよ？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+何か他の情報は
+ないんですか？
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+実は、それらしい猫ちゃんを
+ティルソの森で見かけたという
+情報があるんです。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+では、ティルソの森へ急ぐぞ！
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+……一目散ね……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+それじゃあ、俺たちも
+ティルソの森へ向かおう。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+そうだ、言い忘れていたのですが、
+私の猫ちゃんは全部で１０匹です。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+１０匹!!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ほら、<Rutee>行くよ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+は～～い……
+[ENDBLOCK]
+s  <x17><x69><x46><x7D><x80>
+
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+ごめんなさい。また猫ちゃんが
+逃げてしまったのです。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+もう一度捕まえに行って
+もらえないでしょうか？
+はい
+いいえ
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+本当にありがとうございました。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+あれ、あの人たち……
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+じゃんじゃん持ってきてくれ！
+金なら心配するな！
+[ENDBLOCK]
+<Millie>
+[ENDBLOCK]
+そうそう。国を取り戻したら、
+王家がぜーんぶ払ってくれるから！
+[ENDBLOCK]
+<John>
+[ENDBLOCK]
+腹が減っては戦ができないでやんす！
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+俺たちがいれば、勝利は疑いなしだ！
+なぜなら俺たちこそ、かの！
+[ENDBLOCK]
+<Millie>
+[ENDBLOCK]
+かの！
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+俺たち漆黒、漆黒の翼♪
+凄腕傭兵、イエイ！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+こんにちは、皆さん。
+ファンダリアでお会いするなんて、
+思いませんでした。
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+うむ。前はアクアヴェイルにいたんだが、
+密航してここまでやってきたのだよ。
+[ENDBLOCK]
+<John>
+[ENDBLOCK]
+この国の騒ぎに乗じて、
+今度こそ一旗あげるでやんす。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+騒ぎに乗じてだなんて……ひどい……
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+おまえさんたちに頼みがある。
+屋根の雪下ろしをやってくれんか？
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+雪下ろしだと？
+なぜ俺たちがそんな雑用を！
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+市街地で戦いになったときは、
+屋根の上が重要な拠点になるからの。
+
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+動けるように準備するのは当たり前じゃ。
+凄腕の傭兵なら、もちろん知っとるじゃろ？
+[ENDBLOCK]
+<Grid>
+[ENDBLOCK]
+う、うむ……知っているとも。
+仕方ない、やってやるか。
+<John>、<Millie>、行くぞ。
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+これで自分で雪下ろしをしなくても、
+よくなった。なんとかは使いようじゃな。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+おじいちゃん……
+あの人たちを、だましたんですか？
+[ENDBLOCK]
+<x17><x28><xE5><x06><x14><x2F><x80>, <x17><x28><xE6><x06><x14><x2F><x80>, <x17><x28><xE7><x06><x14><x2F><x80>
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+あの、すみません。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+はい、何でしょう？
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+実は探しているものが
+あるんですけど……
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+それでしたら北にある
+ティルソの森の奥にあると
+聞いた事があります。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+本当ですか！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+ありがとう。それじゃあ、早速
+そのティルソの森に行ってみます。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+ちょっと、お嬢さん
+ひとりで行かれるんですか？
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+お連れの方々は!?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+みんなには
+黙っていてください。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+私ひとりでやりたいんです。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+さって、宿屋の人が言ってた北にある
+ティルソの森に行ってみようかしら。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+お兄ちゃんを驚かせて
+あげるんだから。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+ティルソの森の奥に
+あると聞いたことがあります。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+けどひとりで行くだなんて……
+無茶だけはしないで下さい。
+[ENDBLOCK]
+select
+[ENDBLOCK]
+今日は諦めますか？
+はい
+いいえ
+
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+さって、宿屋の人が言ってた北にある
+ティルソの森に行ってみようかしら。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+お兄ちゃんを驚かせて
+あげるんだから。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+あ……お兄ちゃん。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+こら、<Lilith>。
+ひとりでどこに行ってたんだよ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+勝手にいなくなるから
+心配しただろう。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+ごめんなさい。
+ちょっと外に出たくなって。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ほら、みんなの所に戻るぞ。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+ねえ、お兄ちゃん。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+これあげる。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+これは……薬草？
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+うん。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+でも、どうして？
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+外歩いてたら、
+偶然見つけたの。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+だったら<Lilith>が
+使えばいいじゃないか。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+んもう！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+お兄ちゃんは世界を救う
+戦いをしてるのよ。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+だからお兄ちゃんが使って！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+分かった。
+それなら貰っておくよ。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+いい？	ちゃんと使ってよ。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+ちゃんと使ってくれなきゃ、
+起きてる時でも……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ちょ、<Lilith>待って。
+使うよ、必ず使うからそれだけは！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+よろしい。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+それじゃ改めて。
+ありがとう、<Lilith>。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+どういたしまして。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+お兄ちゃん。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+global.cat_event   <x17><x69><x46><x7D><x80>
+
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+こんな時に金を取って商売するのは、
+気がひけるけどね……
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+いらっしゃいませ。
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+本日はお泊りですか？
+[ENDBLOCK]
+ガルドになりますが、
+よろしいですか？
+[ENDBLOCK]
+ごゆっくり。
+[ENDBLOCK]
+いつでもどうぞ。
+[ENDBLOCK]
+いってらっしゃいませ。
+[ENDBLOCK]
+お金がたりません。
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+今のうちに食材を買いだめする事を
+おすすめしますよ。
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+さあ、見て行ってください。
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+今のうちに食材を買いだめする事を
+おすすめしますよ。
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+さあ、見て行ってください。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+あんたひとりで森まで
+行くのか？
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+やばくなったら、
+すぐに逃げるんだぞ。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+首都がどこかの軍に攻め落とされて、
+<King>が死んだそうだ。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+新しい王様は不眠不休で、
+国の復興に力を注いでいるらしい。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+雪に覆われてよくわからないが、
+空が変になっていないか？
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+このままでは、街は氷漬けになる。
+なんとかならないものか。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+セインガルドの技術力なら、
+きっとすごい秘密兵器が作れるだろう。
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+秘密兵器はうまくいったんだな。
+よかった。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE4><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xDC><x00><x80>
+<x18><x65><x57><xE0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x47><xC4><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

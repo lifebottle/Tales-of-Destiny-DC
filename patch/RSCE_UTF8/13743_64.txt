@@ -1,0 +1,1350 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。
+
+[ENDBLOCK]
+通常：no_bg_sora
+
+[ENDBLOCK]
+空の作成失敗（戻り値：<TAG_062>）
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全段階：D1R_032_040_000	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。<TAG_062>>=<TAG_059>>=<TAG_061>
+
+[ENDBLOCK]
+通常第三：no_bg_gaikaku2 <x09><xAF><x01><x00><x00>
+
+[ENDBLOCK]
+通常最終：no_bg_gaikaku3 <x09><xB2><x01><x00><x00>
+
+[ENDBLOCK]
+= <TAG_060>
+
+[ENDBLOCK]
+外殻の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。
+
+[ENDBLOCK]
+通常：no_bg_kumo01
+
+[ENDBLOCK]
+雲の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+ああん、私の王子さまは
+どこに……
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+私の王子さまはどこに……？
+[ENDBLOCK]
+???
+[ENDBLOCK]
+今日もまた、
+乙女をひとり泣かせてる♪
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+一体なんですか!?
+[ENDBLOCK]
+???
+[ENDBLOCK]
+そんな罪人どこにいる♪
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+どこだ！
+[ENDBLOCK]
+???
+[ENDBLOCK]
+そんな罪人ここにいる♪
+[ENDBLOCK]
+???
+[ENDBLOCK]
+フッ、悲しい想いをさせて
+ゴメンよ、キャティーガ～ル。
+[ENDBLOCK]
+リーン
+[ENDBLOCK]
+七将軍のローズプリンス。
+<Leen>・リーン。
+[ENDBLOCK]
+リーン
+[ENDBLOCK]
+乙女の涙に誘われて、
+華麗に参上。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+かっこいい人だな～。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+ふんっ、気に食わないぜ！
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+あんた！	私のリーンさまに
+なんて事言うのよ!!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+ああん？	こんなManのどこがいいんだ？
+俺様の方が断然、いいManだぜ！
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+リーンさまがスフィアレンズなら
+あんたなんか、くずレンズよ。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+おうおう、言ってくれたな！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+よし、決闘だ！
+俺様の闘技場へカモン！
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+これからノイシュタットへ
+行くのは勘弁して欲しいな。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+このリーンさんと戦うなら、
+モテMan対決ですねぇ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+モテMan対決？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+モテMan対決？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+解説しましょう！
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+モテMan対決とは!!
+街行くWomanを捕まえて、
+「どっちが好み？」と聞く。
+その結果、より多くの票を
+集めた方が勝者となるのだ!!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+うおぉぉ、燃えてくるぜ！
+[ENDBLOCK]
+リーン
+[ENDBLOCK]
+はっはっは。
+この俺に勝てるかな？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+では、私はこの勝負を
+取り仕切ろう。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+あなたは、このふたりのうち
+どちらが好みですか？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+うーーん。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+私ですか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+おーーっ！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+さすが<Woodrow>さまです！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+もういい！	次だ。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+どちらが好みですか？
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+えーーと……
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた！
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+あなた。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+なんだ、こりゃぁ！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Woodrow>さんは
+やっぱりすごいなあ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+さすがのローズプリンスも
+本物には勝てませんね！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+でも、すごく複雑な
+気分ですぅ。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>北：ヒューゴ邸
+南：ダリルシェイド港
+西：出口
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+To buy a weapon during the
+night, are you dangerous?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We've got some nice weapons
+here. Please take a look.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We've got some nice weapons
+here. Please take a look.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+Business is booming, but...it's
+not a very happy situation, 
+is it?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+To buy a weapon during the
+night, are you dangerous?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We've got some nice weapons
+here. Please take a look.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We've got some nice weapons
+here. Please take a look.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+Business is booming, but...it's
+not a very happy situation, 
+is it?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Across the sea, far, far away,
+there's a country called 
+Aquaveil.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+It was originally Seinegald 
+territory, but it became 
+independent.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+The missing flying dragon...
+Was it in Aquaveil?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+A huge thunder struck the north
+of the city. Next is the 
+middle of the city?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+There is no more hope. The 
+little light that is left will 
+soon no longer exist.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Aquaveil's fleet rescued you?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I didn't expect to work with 
+Aquaveil, let alone Phandaria.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I never imagined such a day 
+would come before.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+You have people from all over 
+the world rooting for you.
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+The days of the bunny girl 
+are over. Now it's catgirl, 
+with cat ears!
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+heee? Is that too old? 
+Excuse me!
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+Now it's time for Catgirl!
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+You guys have been through a 
+lot. I can see it in your 
+expressions.
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+I heard that when lightning 
+strikes a place, it makes a 
+big hole.
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+At this rate, the world will 
+be full of holes...
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+If a monster attacked me 
+looking like this, I wouldn't 
+be able to defend myself very 
+well.
+[ENDBLOCK]
+Catgirl
+[ENDBLOCK]
+If you win and come back, 
+you'll get plenty of service!
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+列国最強と言われる七将軍も
+もう過去のものかもしれない。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+最近は<Hugo>殿の台頭で、その権威を
+徐々に失いつつありますからね。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+ここの所、七将軍の活躍話も
+聞かなくなりましたね。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+我が軍には七人の司令官がおり、
+通称、七将軍と呼ばれています。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+最近は<Lion>殿が人気なせいで、
+やや印象が薄いですがね。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+我が軍には七人の司令官がおり、
+通称、七将軍と呼ばれています。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+今こそ七将軍の方々が、
+結束して事に当たるべきなのに……
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Dryden>閣下が指揮を執ったお陰で、
+なんとかモンスターを撃退できました。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+軍を挙げて皆様にご協力するよう、
+仰せつかっています。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'm from Fitzgald. It's a
+country far to the west.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'm from Fitzgald. It's a
+country far to the west.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Kongman> the champion! Give
+me your autograph!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Is it really <Kongman>?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Kongman>! You have to tell me
+what's going on!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You have to tell me what the
+hell is going on!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+As long as we have <Kongman>,
+this city is safe!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Isn't it safest to have
+<Kongman>?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Go see what's going on in
+Fitzgald, <Kongman>!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Is Fitzgald going to be okay?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Come on, everyone together!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+南のファンダリアは通行証がなければ、
+行き来は出来んぞ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+わしらが行けるのは国境の街
+ジェノスまでじゃ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+ジェノスからファンダリア国内へ、
+自由に行き来できる様になったらしいぞ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+温泉行きたいのお。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+我がセインガルドに匹敵する国は、
+南のファンダリアをおいてあるまい。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+あそこの王様は、
+なかなかの名君だそうじゃ。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+ファンダリアの新たな王が、
+どんな政治をするか楽しみじゃな。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+おおお……アタモニ神よ……
+どうか我らをお救いくだされ……
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+アタモニ神は、
+我らを見捨てるおつもりなのか……？
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+これから世界中をまわるのですか？
+どうかよろしくお願いいたします。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+この作戦が上手くいくかは、
+神のみぞ知る……じゃな。
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+なんと神々しい光じゃ……
+アタモニ神のご慈悲ですのう。
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+Traveling alone at night is dangerous.
+You should protect myself.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+A basic rule for survival.
+Protect yourself.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+A basic rule for survival.
+Protect yourself.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+Business is thriving, but it's
+not a very happy situation.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+夜のひとり歩きは危険だぜ。
+自分の身は自分で守らなきゃ。
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+A basic rule for survival.
+Protect yourself.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+自分の身は自分で守る。
+それが基本だぜ。
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+Business is thriving, but it's
+not a very happy situation.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+You're not? Don't you have
+a Battle record Book?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Your skill is enough.
+I'll give you this.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+This is a mini-game that uses the
+"Definite Strike" enabled for monsters.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Take care of it.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike
+by setting「Definite Strike」 
+to "ON" from the Customize menu
+in the Main menu.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is "ON".
+
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Across the sea, there is 
+a country called Aquaveil.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Originally it was the territory of
+Seinegald, but now it's an independent
+country.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Was the missing Draconis
+in Aquaveil?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+A huge thunder struck the north of
+the city. Will it hit the middle
+of the city next...?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+All hope is lost... even the
+slightest light will soon burn out.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Did the Aquaveil
+fleet assist you?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I think Phandaria is the only
+one that will cooperate with Aquaveil.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I never imagined that such
+a day would come.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Everyone, all over the world
+is rooting for you.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+I have nothing to
+say to you now.
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+Come back after honing
+your skills some more.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Oh, I wonder if the little
+boy will play with me?
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Uh-huh.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x3C><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><x2C><x00><x80><x18><x65><x59><x30><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x3C><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><x2C><x00><x80><x18><x65><x59><x30><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x60><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x5C><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><x50><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x54><x00><x80>
+<x18><x65><x59><x58><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><x3C><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

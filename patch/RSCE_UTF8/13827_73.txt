@@ -1,0 +1,506 @@
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+
+<x1D><x75><x48><x7C><x80>
+<x1D><x75><x48><x80><x80>
+
+
+
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+ああ、困ったぞ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+どうしたんだ？
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+おや？	あなたは<Philia>さんの
+お知り合いの方……
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+そうだ、聞いてください。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+この前、<Philia>さんの部屋の
+古い剣を良かれと思い倉庫に片付けたのです。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+しかし、その事を<Philia>さんに伝えると、
+すぐに返して欲しいと言うんです。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+<Philia>であれば、
+そう言うだろうな。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+しかしそれがどう困るんだ？
+もう一度、倉庫から出せばいいだろう。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+それがどの部屋の倉庫に
+しまったか忘れてしまって……
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+そうか。確かに神殿内は
+部屋が多いからな。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+私はこの場を勝手に
+離れる訳にはいきません。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+どうかお願いです。<Philia>さんの
+剣を探してもらえませんか？
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+クレメンテ老もひとり寂しく
+いじけていると思います。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+見つけてあげましょうよ、
+坊ちゃん。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+……仕方ないか。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+分かった。見つけてやれる
+保証はないが、探してやる。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+ありがとうございます。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+<Philia>さんの剣は、神殿内の
+いずれかの部屋にあるはずです。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+クレメンテ老。
+迎えにあがりましたよ。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+むう。とうとう迎えが
+来てしまったか。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+何だ？	迎えに来て欲しく
+なかった口ぶりだな。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+そりゃあ、そうじゃ。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+僕たちは、老がきっとひとりで
+寂しくしていると思って……
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+何を言うんじゃ。
+ここにいるとじゃな。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+夜中にこっそり逢引きしている
+若者を拝めるんじゃあ。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+そりゃあもう、わしの身も心も
+若返るようなきらめきタイムをじゃな……
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+おい、シャル。
+さっさとこれを連れて行くぞ。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+はい……ぜひお願いします。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+やめろ、やめてくれえ！
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+わしはここに残るんじゃあー！
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+ああ、見つけてくれたんですね。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+何とお礼を言っていいか。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+別に礼などいらない。
+しかし二度と倉庫にしまうんじゃない。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+いいか、二度とだぞ！
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+ど、どうしてそんなに
+怒るんですか!?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+おまえには関係のないことだ。
+だが約束は守ってもらうからな。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+さあ、剣を返すぞ。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+老もこれにこりて、
+盗み見なんて止めてくださいよ。
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+人聞きの悪い言い方をするでない。
+こやつが勝手にわしの前で逢引きをしたんじゃ。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+こやつって……どういう意味ですか？
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+こやつはこやつじゃ。
+おまえたちの前にいる神官だ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+おい、おまえ。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+は、はい。まだ何か？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+おまえが剣をしまった倉庫を
+まだ教えていなかったな。
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+あ、そうでしたね。
+いったいどの倉庫でしたか？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+それはおまえが、
+夜中に……
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+私が夜中に……？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+な、なんでもない。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+次からは気をつけるんだな！
+[ENDBLOCK]
+Priest
+[ENDBLOCK]
+は、はあ……
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Destroy the barrier stone?
+Yes
+No
+
+[ENDBLOCK]
+That should've opened the door.
+Let's go rescue the people inside.
+[ENDBLOCK]
+This will finally unseal the door.
+Let's hurry back.
+[ENDBLOCK]
+Let's hurry back to the door.
+[ENDBLOCK]
+Let's hurry back and
+help those people.
+[ENDBLOCK]
+Alright, this will
+unseal the door.
+[ENDBLOCK]
+Will this unseal the door?
+[ENDBLOCK]
+Hurry back to the door.
+[ENDBLOCK]
+Let's go back to the door.
+[ENDBLOCK]
+Alright! The door has been unsealed.
+[ENDBLOCK]
+
+[ENDBLOCK]
+デフォルト
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x9C><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x8C><x00><x80><x18><x65><x58><x90><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x9C><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x8C><x00><x80><x18><x65><x58><x90><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC0><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xBC><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><xB0><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xB4><x00><x80>
+<x18><x65><x58><xB8><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><x9C><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

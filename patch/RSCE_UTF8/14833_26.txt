@@ -1,0 +1,1915 @@
+Uncle Bob
+[ENDBLOCK]
+Is that you, <Stahn>?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Uncle Bob!?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Uncle Bob...?
+I've heard that name before.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's Aunt Maggie's husband, from
+Lienea. She said he was missing.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, <Stahn> said he might
+be living on the outer shell.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+And he's really on the outer shell!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+See, I knew my hunch was right.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+But how did you stay alive?
+[ENDBLOCK]
+Uncle Bob
+[ENDBLOCK]
+Well, if I had to guess, I'd say
+good luck and these clothes.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Anyway, Uncle. Aunt Maggie
+was worried about you.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah. I think we should
+go back right away.
+[ENDBLOCK]
+Uncle Bob
+[ENDBLOCK]
+Don't you guys... have anything
+to say about my outfit?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, I've already seen
+that kind of punchline.
+[ENDBLOCK]
+Uncle Bob
+[ENDBLOCK]
+Oh, yeah...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+We'll take you home. Let's 
+go back to Lienea village.
+[ENDBLOCK]
+Uncle Bob
+[ENDBLOCK]
+That's great I was having trouble
+getting back down there.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Rutee>, wait here. I'll send 
+him back with the Draconis.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, I got it.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+That was fast. Was
+your Aunt happy?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yes, he was very happy.
+She also thanked me.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Welcome to Katz Village.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Heh. They're strange
+people, aren't they?
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+The Katz People are the Katz
+that were launched into the
+sky during the bombardment.
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+And we all live here 
+together in peace.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But we're here to destroy
+the outer shell.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+.
+
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+Behind me is a rocket made
+up of parts from earth. 
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Rocket...?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Hey, what's a rocket?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Don't ask me. I have no
+idea about that stuff.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+So, cute!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Huh?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I want to hold you.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+It's a Katz with scary
+eyes. This guy...
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Hey, isn't it nice~?
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+No, no, no! We're
+already grown-up Katz.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Adults!
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Yes, Katz! That's why I'm
+not supposed to be held.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+What an imbalance!
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+In exchange for a hug. I'll
+give you something nice.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Now, come here, Katz.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Now anyone can feel like a
+Katz. Katznip suit!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hey, hey, hey, tough...
+...What the heck!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+That's right, <Mary>. It's
+hard to fight with that.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Then I'll wear it home.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Well, I'm sure <Dalis> will
+be pleased to hear that.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+...don't say, <Philia>.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I know...
+[ENDBLOCK]
+EP選択
+
+[ENDBLOCK]
+----loop2
+
+[ENDBLOCK]
+-----page = <x17><x71><x48><xD4><x80>------
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><x88><x00><x80>
+[ENDBLOCK]
+epsel -> <TAG_034>, crepsel -> <x17><x71><x49><x10><x80>
+
+[ENDBLOCK]
+case 1 : チャット選択
+
+[ENDBLOCK]
+----loop2
+
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><xC0><x00><x80>
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><xC0><x00><x80>
+[ENDBLOCK]
+crctsel -> <x17><x71><x4A><x54><x80>
+
+[ENDBLOCK]
+終了
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x20><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x24><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x28><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x2C><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x30><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x34><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x38><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x3C><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x40><x98><x80>
+
+[ENDBLOCK]
+<x1A><x2C><x00><x00><x04><x00><x71><x4A><x44><x98><x80>
+
+[ENDBLOCK]
+？？？？？
+
+[ENDBLOCK]
+Next
+
+[ENDBLOCK]
+Previous
+
+[ENDBLOCK]
+Episode Selection
+
+[ENDBLOCK]
+Episode Selection
+
+[ENDBLOCK]
+<yellow>「<x18><x65><x5A><xBC><x00><x80>」</color>
+<x18><x65><x5A><x8C><x00><x80><x18><x65><x5A><x90><x00><x80><x18><x65><x5A><x94><x00><x80><x18><x65><x5A><x98><x00><x80><x18><x65><x5A><x9C><x00><x80><x18><x65><x5A><xA0><x00><x80><x18><x65><x5A><xA4><x00><x80><x18><x65><x5A><xA8><x00><x80><x18><x65><x5A><xAC><x00><x80><x18><x65><x5A><xB0><x00><x80><x18><x65><x5A><xB4><x00><x80><x18><x65><x5A><xB8><x00><x80>
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xD8><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xDC><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xE0><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xE4><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xE8><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xEC><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xF0><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xF4><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xF8><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+<x18><x45><x57><xAC><x03><x71><x48><xFC><x8B><xE8><x28><x80>
+
+[ENDBLOCK]
+？？？？？
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Next
+[ENDBLOCK]
+Next
+
+[ENDBLOCK]
+Next
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Previous
+[ENDBLOCK]
+Previous
+
+[ENDBLOCK]
+<x0E><x01><x00><x00><x00><x18><x65><x5A><x58><x00><x80><x18><x65><x5A><x5C><x00><x80><x18><x65><x5A><x60><x00><x80><x18><x65><x5A><x64><x00><x80><x18><x65><x5A><x68><x00><x80><x18><x65><x5A><x6C><x00><x80><x18><x65><x5A><x70><x00><x80><x18><x65><x5A><x74><x00><x80><x18><x65><x5A><x78><x00><x80><x18><x65><x5A><x7C><x00><x80><x18><x65><x5A><x80><x00><x80><x18><x65><x5A><x84><x00><x80>
+[ENDBLOCK]
+ＥＰ１：<x0C><x01><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ２：<x0C><x02><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ３：<x0C><x03><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ４：<x0C><x04><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ５：<x0C><x05><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ６：<x0C><x06><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ７：<x0C><x07><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ８：<x0C><x08><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ９：<x0C><x09><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ10：<x0C><x0A><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ11：<x0C><x0B><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ12：<x0C><x0C><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ13：<x0C><x0D><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ14：<x0C><x0E><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ15：<x0C><x0F><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ16：<x0C><x10><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ17：<x0C><x11><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ18：<x0C><x12><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ19：<x0C><x13><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ20：<x0C><x14><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ21：<x0C><x15><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ22：<x0C><x16><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ23：<x0C><x17><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ24：<x0C><x18><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ25：<x0C><x19><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ26：<x0C><x1A><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ27：<x0C><x1B><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ28：<x0C><x1C><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ29：<x0C><x1D><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ30：<x0C><x1E><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ31：<x0C><x1F><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ32：<x0C><x20><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ33：<x0C><x21><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ34：<x0C><x22><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ35：<x0C><x23><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ36：<x0C><x24><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ37：<x0C><x25><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ38：<x0C><x26><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ39：<x0C><x27><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ40：<x0C><x28><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ41：<x0C><x29><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ42：<x0C><x2A><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ43：<x0C><x2B><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ44：<x0C><x2C><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ45：<x0C><x2D><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ46：<x0C><x2E><x00><x06><x00>
+[ENDBLOCK]
+ＥＰ47：<x0C><x2F><x00><x06><x00>
+[ENDBLOCK]
+汎用
+[ENDBLOCK]
+Rare Chats １
+[ENDBLOCK]
+Rare Chats ２
+[ENDBLOCK]
+Bonus
+[ENDBLOCK]
+Lion's side 1
+[ENDBLOCK]
+Lion's side 2
+[ENDBLOCK]
+Lion's side 3
+[ENDBLOCK]
+page1
+[ENDBLOCK]
+page2
+[ENDBLOCK]
+page3
+[ENDBLOCK]
+page4
+[ENDBLOCK]
+page5
+[ENDBLOCK]
+page6
+[ENDBLOCK]
+page7
+[ENDBLOCK]
+page8
+[ENDBLOCK]
+page9
+[ENDBLOCK]
+page10
+[ENDBLOCK]
+<x18><x65><x57><xDC><x00><x80>
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+♪♪♪~
+...
+[ENDBLOCK]
+page <x17><x72><x40><x10><x21><x8B><x80>
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+Meow...hehehe. You've
+been spotted bunny.
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+I'll show you what you
+want to see, for free.
+
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+Are you sure you want to see?
+Yes
+No
+
+[ENDBLOCK]
+page <TAG_035>, top <TAG_033>, selno <TAG_034>
+
+[ENDBLOCK]
+<x18><x45><x5A><xDC><x07><x72><x08><x72><x0C><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
+
+[ENDBLOCK]
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>Next
+[ENDBLOCK]
+page <TAG_035>, top <TAG_033>, selno <TAG_034>
+
+[ENDBLOCK]
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>Previous
+[ENDBLOCK]
+<TAG_007><x18><x45><x5A><xDC><x07><x72><x08><x20><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x21><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x02><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x03><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x04><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80><x18><x45><x5A><xDC><x07><x72><x08><x24><x05><x8B><x8B><xE8><xCF><x64><x14><x00><xAA><x80>Next
+Previous
+[ENDBLOCK]
+number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xCF><x70><x00><xAA><x80>
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+I'm kind of tired.
+I'm not sure what to do.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+<TAG_007>It's small, but it's a Katz that needs to rest.
+Yes
+No
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+The weather was just getting
+bad, and so were the Katz.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Well, good night~ne~ko~.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Sorry Katz.
+[ENDBLOCK]
+Glass
+[ENDBLOCK]
+???
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Glass is a good guy who
+is shy but kind-hearted.
+[ENDBLOCK]
+Glass
+[ENDBLOCK]
+<S10>...Thanks.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+You are a dazed and confused man,
+but he's one you can count on.
+[ENDBLOCK]
+Glass
+[ENDBLOCK]
+...<S05>Ha! Hi.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I may look like this, but I used
+to be a free spirit and traveled
+all over the world!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Nyan? Do you know anyone
+who looks like him?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Everyone wants to travel in search of
+freedom at least once in their life.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+From the looks of it, You and
+your friends are not free.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+It is only in the midst of inconvenience
+that we can understand freedom.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I think it's important to take a
+journey in search of freedom.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I may look like this, but I used
+to be a free spirit and traveled
+all over the world!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Nyan? Do you know anyone
+who looks like him?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Everyone wants to travel in search
+of freedom at least once in their life.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Apparently, You and your friends are
+enjoying their freedom as well.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Even though I look like this,
+I used to be a free spirit and
+traveled all over the world.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Nyan? Do you know anyone
+who looks like him?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Everyone wants to travel in search of
+freedom at least once, don't they?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+From the looks of it, You and your
+friends are not free Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+It's good to be free, isn't it?
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I found myself 
+in this place...
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's really fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+From the looks of it, you
+are not free to go.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Nevertheless, it is only in the
+midst of inconvenience that we
+can understand freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I think it's important to take a
+journey in search of freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I found myself
+in this place...
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's really fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Apparently, you guys are
+also enjoying your freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I found myself
+in this place...
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's really fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+From the looks of it, you
+are not free to go.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+A free identity is a good thing.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+What? Do you know
+someone like him?
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+We all want to travel in search of
+freedom at one time or another.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+From the looks of it, you
+are not free to go.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+It is only in the midst of
+inconvenience that we can 
+understand freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I think it's important to take a
+journey in search of freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+What? Do you know
+someone like him?
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+We all want to travel in search of
+freedom at one time or another.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Apparently, you guys are
+also enjoying your freedom.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh no, it's fun to be free
+and travel around the world!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+What? Do you know
+someone like him?
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+We all want to travel in search of
+freedom at one time or another.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+From the looks of it, you
+are not free to go.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+A free identity is a good thing.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Oh! At last, you've seen all
+that this world has to offer!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Excellent! You are worthy
+to bear this name!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+No, it's only you guys!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+Congratulations!
+"NatuRangers"!
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+I never imagined that
+this day would come.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+It was a good experience for me
+to take back to my homeland.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds hikari moss. Glowing green
+in the dirt gouged out of the earth.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I am bewitched and drawn to it,
+It feels like a fantastic landscape.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Mee's sensibilities may
+be wrong about the Katz. 
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz that found the demon
+fire. Mee is also a Katz who
+understands logic.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+That's why I can't help but think
+about the souls of the deceased.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a black worm. They
+are black in color and quick.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+With old eyes like Mee's.
+It's hard to find the Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Well, it's not a freaky thing, so I'm
+not even going to look at it properly.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Katz finds tablet of law, takes
+advantage of <Greybum>'s warfare
+to get the tablet.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A stolen Katz is caught in the 
+crossfire of Dycroft's artillery.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I'm guessing you're a Katz. It's called
+getting what you deserve, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a tia flower. It's beautiful,
+but I can't believe how dangerous it is.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+You really look like me, Katz. ♪
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a
+bighorn beetle.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+He's a typical Katz that only looks
+good but doesn't have any substance.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a skull rock. Scary
+looking Katz, but also scary
+sounding Katz, like a scream!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+No, I'm just talking in general.
+I'm not afraid of you, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz that found the grasshopper.
+I feel a little sorry for this Katz
+because he is really on the edge.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a burning mallet.
+A three-meter radius is a danger zone.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz would burn you if you got too
+close to it because of the hot wind.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a tzanka. A flower that
+can only be seen in high mountains.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I feel like I'm getting a great
+deal on a Katz that I can just
+walk around and see. ♪
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz who found a nuremouse.
+A person whose clothes are
+soaking wet from the rain.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Nuremouse is the Katz he's based on.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+...Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz finds a leech frog. 
+I can't believe I'm slurping
+human living blood.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+You're a vicious, insolent little Katz!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz that found the Ilai Lacca.
+It's actually Mee's favorite food. ♪
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Yay. The Katz fell for it. 
+If I eat that, I'm sure 
+to get an upset stomach.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz that found the Happiness
+Bird. In fact, Me is the Katz who
+once caught him.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz was happy at that time.
+But the Katz was vain.
+I let him go right away.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+That's when I realized that I'm not a
+small Katz who can be satisfied
+with happiness given to me by others.
+[ENDBLOCK]
+Old Person
+[ENDBLOCK]
+So, here's what I've
+got for you...
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz with a plant that
+has a fantastic atmosphere
+growing wild near Rodion.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+What kind of plant is it? I'll let
+you know what kind of plant it is.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+There is a place around Ansuzun where
+the grudges of earthly creatures
+wander through the air, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+It's best not to talk
+about it casually, for
+the sake of you, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Grudges are no joke, Katz...
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz spotted a quickly
+moving animal near Shusair.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+He's a very fast-moving Katz
+that's hard for you to Katzch.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Near Ignacy, the royal family of
+Fundaria had lost track of him.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz that saw the treasure.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+How could it have been left in such
+a place? ...It's a mystery, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Near Shusair, there is a plant that
+grows that looks beautiful but can
+be used to make dangerous medicines.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+It's beautiful, but the danger
+is like me, the Katz. ♪
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz with a green shell and insects. A
+Katz that was near the aerial city
+with a technology research facility.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+If it's not...it's a sorely missed Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+There is a Katz near Dycroft where
+a horrible scream can be heard.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Unfortunately, I couldn't confirm
+the identity of the Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+You think I ran away because
+I was scared of you?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I looked all around, but there really
+wasn't anything there, Katz!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Around Ansuzun, there is a Katz with a
+healthy insect that embodies the 
+importance and fragility of life.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I hope that you will find it and
+realize the importance of freedom.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The guardian dragon's control room
+was loKatzed near the aerial city.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The Katz who didn't know the
+cause because it was too hot
+to turn back.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The plants also grow on the plateau
+above ground, can also be found
+around the aerial city.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Don't you know which airborne city
+you're in, Katz?	That place is...
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+And anyway, the aerial city
+Katz was a military base!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+You don't even know that, do you?
+Katz... is a real pain in the ass.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+The area around Rodion is
+inhabited by rare animals that
+cannot be seen on Earth.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I knew it was strange that new species
+of life would emerge so quickly.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+There are animals that can harm you
+around Dycroft, so you need to be
+careful walking around the Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+He's a Katz with a very simple hand,
+and if you're not careful, you
+could get seriously hurt.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A dangerous plant that overflowed 
+from an experimental plant is 
+growing wild around Dycroft.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Don't let it hurt you.
+A Katz walking carefully.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Can't you tell by a certain airborne city?
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+That's why... is an experimental
+plant full of greenery.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I'm sorry Katz. I don't
+remember your name.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Near the Technology Research
+Centers, there's an area where
+people are seeking...
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+A Katz inhabited by an animal that
+can grant wishes. Detailed loKatzion.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+...is a secret Katz. ♪
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+The Discovery Book
+has been updated.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+You're free to stop,
+you're free to go on,
+you're free to be a Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+But even though time has passed.
+I'll always remember that you were here.
+Don't forget that I was here, Katz.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Neko! At last, a Katz that has seen
+all that this world has to offer!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Great Katz! You're the ones! You are
+the Katz who deserve this name!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+No, we're the only Katz left!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Congratulations, Katz!
+"NatuRangers"!
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+Katz never imagined that
+this day would come.
+[ENDBLOCK]
+Old Katz
+[ENDBLOCK]
+I had a good experience
+as a souvenir of my death.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+There is nothing to do on this empty
+earth, and I have no time for Katz.
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+Oussah oussah! 
+This is how you
+tease a Katz.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Katz like the tip.
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Calm down, Katz~.
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+You can come back, Katz.
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+The one in front of me is Noko.
+It looks so good, doesn't it?
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Oh, that's good.
+Looks good, Katz.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Making rockets is tiring, Katz.
+I want you to let me sleep quietly.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+The sun feels so good
+on this Katz. Goronan.
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Thrash
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Thrash
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Thrash
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+I'm still going, Katz!
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Nyan, nyan, nyan.
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Why can't you get it off the Katz?
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Gupi~gupi~.
+
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+I'm an inhabitant of the dark world.
+I continue to quietly watch the world.
+[ENDBLOCK]
+Rabbitz
+[ENDBLOCK]
+I did it. I'm finally
+becoming reluctant.♪
+[ENDBLOCK]
+It was full.
+
+[ENDBLOCK]
+称号数=><TAG_031>
+
+[ENDBLOCK]
+リオン称号数=><TAG_033>
+
+[ENDBLOCK]
+称号数+-リオン=><x17><x72><x00><x72><x08><x8C><x80>, MAX=><x09><x8F><x00><x00><x00>
+
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+Meow!
+		Meow!
+[ENDBLOCK]
+Katz
+[ENDBLOCK]
+(...Rabbitz's partner
+is also a tired Katz.)
+[ENDBLOCK]
+Stahn and Dymlos' Contract
+
+[ENDBLOCK]
+Opening
+
+[ENDBLOCK]
+Sea Dragon Appears
+
+[ENDBLOCK]
+Sea Dragon Descends to Radisrol
+
+[ENDBLOCK]
+Sea Dragon Ascends to the Ship
+
+[ENDBLOCK]
+Launch of the Draconis
+
+[ENDBLOCK]
+Threat of the Eye of Atamoni
+
+[ENDBLOCK]
+Leon's End
+
+[ENDBLOCK]
+Draconis Underwater Cave
+
+[ENDBLOCK]
+Dycroft Is Back
+
+[ENDBLOCK]
+Outer Shell - Phase 1
+
+[ENDBLOCK]
+Draconis Falling
+
+[ENDBLOCK]
+Outer Shell - Phase 2
+
+[ENDBLOCK]
+Guardian Dragon Attacks Radisrol
+
+[ENDBLOCK]
+Guardian Dragon Disassembly
+
+[ENDBLOCK]
+Outer Shell - Phase 3
+
+[ENDBLOCK]
+Outer Shell - Phase 4
+
+[ENDBLOCK]
+Penetrating Dycroft's Sheild
+
+[ENDBLOCK]
+The Fall Of Dycroft
+
+[ENDBLOCK]
+Lens Cannon
+
+[ENDBLOCK]
+Penetrating the Outer Shell
+
+[ENDBLOCK]
+Eye Of Atamoni Destruction
+
+[ENDBLOCK]
+<Stahn>'s Side Ending
+
+[ENDBLOCK]
+<Lion>'s Side Ending
+
+[ENDBLOCK]
+<x18><x65><x5A><xE8><x00><x80>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4B><xB0><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x5B><xA0><x00><x80><x18><x65><x5B><xA4><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4B><xB0><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x5B><xA0><x00><x80><x18><x65><x5B><xA4><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><xD4><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5B><xD0><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x4B><xC4><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x5B><xC8><x00><x80>
+<x18><x65><x5B><xCC><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x4B><xB0><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
+[ENDBLOCK]
+You're not done yet? Please 
+don't tell me you're quitting.
+[ENDBLOCK]
+If you're not too busy, maybe you
+could help me with my work.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
+
+[ENDBLOCK]
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+[ENDBLOCK]
+The reward is <TAG_032> Gald.
+It's an easy job.
+
+[ENDBLOCK]
+Job
+[ENDBLOCK]
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
+[ENDBLOCK]
+In the meantime, I'll advance 
+you a portion of the reward.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
+
+[ENDBLOCK]
+I'm counting on you!
+[ENDBLOCK]
+What a pity.
+Maybe next time.
+[ENDBLOCK]
+Well, I'll see you the next time.
+[ENDBLOCK]
+It's an easy job.
+
+[ENDBLOCK]
+Just obtain the designated items
+and take them to my cohort
+in another city!
+[ENDBLOCK]
+I mean, there's money to be made
+in this, so why not do it, right?
+[ENDBLOCK]
+Please do as much as you can.
+[ENDBLOCK]
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+[ENDBLOCK]
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
+
+[ENDBLOCK]
+I'll be quick about it.
+
+[ENDBLOCK]
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
+
+[ENDBLOCK]
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
+
+[ENDBLOCK]
+Good job, getting what I needed!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+You will receive <TAG_077> Gald
+after taking the difference
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
+
+[ENDBLOCK]
+You're short the requested number of items.
+
+[ENDBLOCK]
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+[ENDBLOCK]
+You'll have to pay a penalty if you
+quit the job you've accepted.
+[ENDBLOCK]
+You know you have to pay a penalty to
+cancel an order you've accepted?
+[ENDBLOCK]
+It's great to work with you.
+[ENDBLOCK]
+Well, good luck then.
+[ENDBLOCK]
+Are you serious? If you're having 
+second thoughts, now's the time.
+[ENDBLOCK]
+I'm a little disappointed...
+
+[ENDBLOCK]
+I am charging a cancellation
+[ENDBLOCK]
+Breach of Contact Fee
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
+
+[ENDBLOCK]
+You can't cancel the contract
+unless you pay the penalty.
+[ENDBLOCK]
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
+
+[ENDBLOCK]
+You don't have enough money.
+Come back when you have it.
+[ENDBLOCK]
+I'm counting on you, man.
+
+[ENDBLOCK]
+Are you serious?
+This is your last chance?
+[ENDBLOCK]
+Seriously... You're 
+such a burden.
+
+[ENDBLOCK]
+前金返却と違約金
+[ENDBLOCK]
+違約金
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+
+[ENDBLOCK]
+I can't cancel the contract
+without charging a penalty.
+[ENDBLOCK]
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
+
+[ENDBLOCK]
+Get the Gald together
+and then come back.
+[ENDBLOCK]
+Well, good luck.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
+
+[ENDBLOCK]
+Janos
+[ENDBLOCK]
+Harmentz
+[ENDBLOCK]
+Armeida
+[ENDBLOCK]
+Darilsheid
+[ENDBLOCK]
+Cresta
+[ENDBLOCK]
+Cherik
+[ENDBLOCK]
+Kalviola
+[ENDBLOCK]
+Junkland
+[ENDBLOCK]
+Neuestadt
+[ENDBLOCK]
+Lienea
+[ENDBLOCK]
+Frostheim
+[ENDBLOCK]
+Shiden
+[ENDBLOCK]
+Moreau
+[ENDBLOCK]
+Terazzi
+[ENDBLOCK]
+Cyril
+[ENDBLOCK]
+Heidelberg
+[ENDBLOCK]
+Calvalese
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Genera
+[ENDBLOCK]
+Honeywell
+[ENDBLOCK]
+Amex
+[ENDBLOCK]
+Siti
+[ENDBLOCK]
+DuPont
+[ENDBLOCK]
+Tapira
+[ENDBLOCK]
+Alcoa
+[ENDBLOCK]
+Johnson
+[ENDBLOCK]
+Pfizer
+[ENDBLOCK]
+Philip
+[ENDBLOCK]
+Verizon
+[ENDBLOCK]
+Exxon
+[ENDBLOCK]
+Morgan
+[ENDBLOCK]
+Ivy
+[ENDBLOCK]
+Packard
+[ENDBLOCK]
+Merick
+[ENDBLOCK]
+Depot
+[ENDBLOCK]
+???<x00>
+[ENDBLOCK]

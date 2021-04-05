@@ -1,0 +1,1053 @@
+××××××空開始××××××
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Gusu, gusu...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What's the matter, sweetheart?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+My dad... he doesn't
+praise me at all.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Come on, don't cry. 
+...Cheer up!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I'm in trouble.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Let it go. We've
+got work to do.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But you know what...
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+It's terrible... My brother,
+Gus, told me about it.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Of course not.
+How would I know?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+If you don't know what your father is,
+how can I konw what you are?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Lion>, what are you
+doing with this child?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Shut up, <Stahn>.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I may be your father, but I'm
+still a stranger to you.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+B-but your father is my...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+If others won't change, you'll have
+to change your way of thinking. But,
+if your father is my...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Yes, I have to change.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Lion>...?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I don't know what you're talking
+about. It's too hard to understand.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Ok, let's hurry up
+and get out of here.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, yeah, yeah.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+コミュニティパスワードを発行します。
+このパスワードをコミュニティサイトで
+入力する事でデスティニーの世界が
+さらに広がります。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+発行パスワードは
+××××××××××××××××
+です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ゲーム中のイベントやミニゲームを
+クリアするとパスワードが発行される
+事があります。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+このパスワードをコミュニティサイトで
+入力する事でデスティニーの世界が
+さらに広がります。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+コミュニティサイトで入力する
+パスワードを忘れてしまった場合は
+フィッツガルドにある旅人の小屋で
+確認する事ができます。
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+This is just a coincidence. Would you
+like to take a rest?
+[ENDBLOCK]
+select
+[ENDBLOCK]
+Are you going to rest?
+Yes
+No
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Please stop by at any time.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Menu Customization Unlocked!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+A new area, "Face Painting", has
+been Unlocked in the custom section
+of the main menu.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Press <Triangle_ani> followed by <Select_ani>.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Canvas Liberator!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Rocks abound in th world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
+[ENDBLOCK]
+oldflag -><x17><x71><x48><x98><x80>
+
+[ENDBLOCK]
+newflag -><x17><x71><x48><x9C><x80>
+
+[ENDBLOCK]
+diffflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+openflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ウェブパスワードを受け付けました。
+この世界に新たな可能性が広がりました。
+Chatty Old Manの話をよく聞いてください。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+A new item, "Face Painting," has been
+unlocked in the Custom section of
+the main menu.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+The Canvas has been released.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+It is now possible to change the
+rocks that fall around the world.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
+[ENDBLOCK]
+oldflag -><x17><x71><x48><x98><x80>
+
+[ENDBLOCK]
+newflag -><x17><x71><x48><x9C><x80>
+
+[ENDBLOCK]
+diffflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+openflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+ウェブサイトで入力する
+ゲームパスワードを忘れてしまったら、
+いつでも声をかけておくれ。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ゲーム中のイベントやミニゲームを
+クリアすると、連動IDとゲームパスワードが
+発行される事があります。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+このゲームパスワードをウェブサイトに
+入力する事で、デスティニーの世界が
+さらに広がります。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ウェブサイトで入力する連動IDと
+ゲームパスワードを忘れた場合はChatty Old Manに
+話しかけて、連動ID・ゲームパスワードの
+確認の項目を選択してください。
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+仲間たちの普段では見られない姿を、
+見る事ができるかもしれないぞ。
+
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Do you think it looks like fun.
+[ENDBLOCK]
+???
+[ENDBLOCK]
+I've never seen you around before.
+Are you from Fitzgald?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+My name is <Stahn>. I'm from
+the village of Lienea.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You must be the community Grandpa.
+Please take care of them.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+Hmm. Contact with with people is a
+once in a lifetime experience.
+Cherish it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Strawberry...?
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+He means, socialize
+without regret.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I see! Thanks!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Oh, that time!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I was angry with that girly brother
+of yours before, don't you remember?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Oh...Yeah. How are you?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+You don't remember do you?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, no...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+...I'm sorry.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I don't mind. But where's that
+girly brother of yours?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Let's see...
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I just wanted to say thank you!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+When I changed like my
+brother told me to, my
+father changed too!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Hey, do you like your dad?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Yeah, if I thought as
+an adult myself.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Even my father's stubbornness
+is starting to look kind of cute.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+He's not here right now, but 
+I'm sure he'd love to hear
+what you just said.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+It didn't look like he was going
+to be honestly happy about it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+How can you see through <Lion>'s
+personality after just one meeting?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Well then, if you see that brother
+of yours, give him this!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Bye~.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>Go around the back!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>In Aquaveil's language. Sheeden 
+seem to be written as "Shiden".
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hey! This is Sheeden
+territory in Aquaveil.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hey! This is Sheeden
+territory in Aquaveil.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You're looking for a rope?
+I have no idea.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hey! This is Sheeden
+territory in Aquaveil.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+Masakana!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hey! This is Sheeden
+territory in Aquaveil.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This is Sheeden territory... 
+Hey, what the hell is going on?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This is the third youngest!
+I'm glad to see you are well.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Oh, it's you! You're the
+young one's friend!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Nice to meet you, young man!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Everyone, please take
+care of this world.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Come on by and take a look!
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Rope? We don't have any.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+This is what we have.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Come on by and take a look!
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+So far, it hasn't
+affected my business.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+It's getting harder and harder to
+stock up. If you want to buy one,
+now is the time.
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+Good for decoration, good for 
+practical use. How about jewelry?
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+We are an Accessory Shop,
+We don't have Rope.
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+More importantly, take a
+look at the jewelry.
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+Good for decoration, good for 
+practical use. How about jewelry?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm confident in our selection.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+Rope?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm sorry, but you'll 
+have to look elsewhere.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm confident in our selection.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+That is the spirit of the people 
+of Sheeden, who are not afraid 
+of adversity.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm confident in our selection.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+Rope?
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm sorry, but you'll
+have to look elsewhere.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I'm confident in our selection.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+That is the spirit of the people
+of Sheeden, who are not afraid
+of adversity.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The Moreau territory has a cool navy
+fleet called the Black Cross Fleet!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+My father and I were fishing near a 
+cave when we were attacked by a 
+monster.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I managed to escape, but afterwards
+I was so numb, it was hard to come
+back.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I heard that Lord <Fayte> of the Moreau
+territory was captured.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The other day I asked <Johnny> to 
+build a fleet in Sheeden as well.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I heard a strange voice in the sky.
+Is it true, this is the work of 
+Seinegald.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Johnny>! I'm begging you.
+Do Something for me!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I'm begging you, do
+something for me!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You're the man, <Johnny>! I knew
+you'd do something about it.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You're the man, <Johnny>! I knew
+you'd do something about it.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+I wonder if there are 
+more fun things to do.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+I love some hopscotch.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Even if the world changes, I'm 
+showing everyone this game.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Keep kicking the rocks
+outside of towns.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+I love some hopscotch.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+I'm teaching everyone this game.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Keep kicking the rocks
+outside of towns.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, first of all, it's
+more than 32 times.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, it's more than 64 times.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, it's more than 96 times.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, it's more than 128 times.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, it's over 160 times.
+[ENDBLOCK]
+Little Girl
+[ENDBLOCK]
+Well, from now on, it's okay
+to have more than 48 times.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+There is a cave south of the city,
+but don't enter it lightly.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The ground is loose, there are a lot 
+of monsters, and if you're not
+careful, you'll never come out again.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+There is a cave south of the city,
+but don't enter it lightly.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+...Rope.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+If it was a port,
+it would be there.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+There is a cave south of the city,
+but don't enter it lightly.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The ground is loose, there are a lot 
+of monsters, and if you're not
+careful, you'll never come out again.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+There is a cave south of the city,
+but don't enter it lightly.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The cave south of the city, Is it
+connected to the Moreau territory?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+It has something to do with the
+mesh... that's forming in the sky
+and that weird broadcast, right?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+How much land was pulled up to
+cover the sky with a ceiling?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm? You don't have a
+copy of Definite Warfare?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I think you've leveled up
+enough. I'll give you this.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This shows the "Definite Strike" 
+linkage that is effective against
+monsters.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Take good care of it.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike by
+setting "Definite Strike" to "ON" from
+the Custom menu in the main menu.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can also view each monster's 
+Definite Strike in the Monster Book
+if Definite Strike is "ON".
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm? I've got nothing
+more to give you.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing to say to you now.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You'll have to work on your
+skills a little more.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Total Gald: <TAG_033>
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x00><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><xF0><x00><x80><x18><x65><x58><xF4><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x00><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><xF0><x00><x80><x18><x65><x58><xF4><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x24><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x20><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><x14><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x18><x00><x80>
+<x18><x65><x59><x1C><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><x00><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

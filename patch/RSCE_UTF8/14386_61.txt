@@ -1,0 +1,2063 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+set_drgn
+
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+あれ、<Stahn>君。
+どこか行くの？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+えーっと……
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>世界を救いに行くのさ
+ちょっと、ね
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+世界!?	<Stahn>君が？
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+うん。まあね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+……とか嘘ついて、
+また家出する気なんでしょ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+違うさ、本当だよ。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+もう、<Stahn>君って子供！
+
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+でも、それが<Stahn>君らしいって
+気もする。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ひどいなー。
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+前例を考えれば仕方あるまい。
+事実、おまえはまだまだ子供だ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Dymlos>もひどいなー。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+ずいぶん秘密主義に
+なったのね<Stahn>君は。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+いや、別にそういう訳じゃ……
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+でも仕方ないか。そんなに
+可愛い女の子連れてるんじゃ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Philia>の事？
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+わ、私は
+そ、そんな、
+か、か、関係では！
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+そっか。<Stahn>君って
+いつまでも子供だと思ってたけど……
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+もう立派な男の人なんだね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+私もいつまでも
+女の子気分じゃダメね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+それじゃあ<Stahn>君、
+気をつけていってらっしゃい。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+あの人が、行方不明なの。
+こんな時は誰に頼めばいいのかしら!?
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+あの人が、行方不明なの。
+こんな時は誰に頼めばいいのかしら!?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+マギーおばさん。僕がいるじゃないですか。
+この少年探偵の<Stahn>が、ね。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+あんた、そうやって演技してる時の方が、
+頼りがいがありそうに見えるわ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+普段からそうやってた方が、
+絶対いいわよ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Rutee>君、ものには
+限度というものがあるんだ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+やっぱ、自分じゃない
+人間を演じるのは疲れるよ～。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+それよりマギーおばさん、
+おじさんがいなくなった事を、
+どうして知る事が出来たんですか？
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+どうやらあの人、空からの攻撃の
+ちょうど真ん中にいたらしいんだよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+ちょうど、それを見ていた人が
+私に教えてくれたんだ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+それじゃあ、おじさんは……
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+いいや、私にはわかるよ。
+あの人は生きている。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+すがっているんじゃないよ。
+ただ、分かるんだよ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+分かりました。
+俺が、きっと探し出して見せます。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+あの人は人間ばなれしているからね。
+それにあの悪運は最強だよ。
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+でも、全然あてが無いわよ？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ベルクラント砲で撃たれたら、
+きっと……外殻の上？
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+あんたよくそんな突拍子も
+ない事思いつくわね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+まあ、そのうち会える気も
+するしね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+俺の勘はするどいって評判なんだよ。
+大丈夫だって。
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+この子を連れて、
+よそのお宅には入れないわ。
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+この子を連れて、
+外に出るのは危ないわ。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><Lilith>とバッカスの
+相合傘が手すりに彫られている。
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+な、なんだそれ!?
+
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+やあ、<Lilith>ちゃん。
+今日もお買い物かい？
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+ようこそ。ここはリーネの村です。
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+よう、<Stahn>。今日も元気そうだな。
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+ようこそ。ここはリーネの村です。
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+<Stahn>、かわいい子連れてるな。
+いつ彼女ができたんだ？
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+あれ、君ってもしかして
+<Stahn>の……え、えええ!!
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+なあ<Stahn>、この騒ぎは
+どこの国が起こした事なんだ？
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+セインガルドか？	ファンダリアか？
+フィッツガルドじゃないよな？
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+この騒ぎはなんだ!?
+どこの国が起こした事なんだ？
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+のどかだったころが懐かしいな。
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+よう、<Stahn>。噂は聞いてるぜ。
+大活躍だってな！
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+噂は聞いてるぜ。
+大活躍だってな！
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+……<Lilith>ちゃん？
+
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+へー、卵から……
+よ、よかったね。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+新鮮な肉の買出しに
+行ってこようかな。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+空に変なのが出来たって、
+ノイシュタットへ行く楽しみは石蹴りだね。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+ノイシュタットに買出しに
+行く唯一の楽しみは石蹴りだね。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+この楽しさを<Stahn>、
+おまえにも教えてやるよ。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+この楽しさを<Lilith>ちゃんにも
+教えてあげるよ。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+この楽しさをあんたにも、
+教えてあげるよ。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+村の前に落ちてる石を
+ノイシュタットまで蹴ってみろよ。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+そうだな、まずはトライだ。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+次は、２回目だな。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+次は、３回目だな。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+次は、４回目だな。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+次は、５回目だな。
+[ENDBLOCK]
+Meat merchant
+[ENDBLOCK]
+何度でもトライだ。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+きゃー、なにその青いの。
+かわいい～。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+仕入れの量を増やしたからね。
+もう品切れにはしないわ。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+新鮮なお魚はいかがですか？
+
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+仕入れの量を増やしたからね。
+もう品切れにはしないわ。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+旅に出るなら、魚は持てないね。
+
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+あの放送を流してた人は、
+なんでこんな面倒な事をするの？
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+頼んだわよ、<Stahn>！
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+あなた、頼んだわよ！
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+きゃー、なにその青いの。
+かわいい～。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+仕入れの量を増やしたからね。
+もう品切れにはしないわ。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+新鮮なお魚はいかがですか？
+
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+仕入れの量を増やしたからね。
+もう品切れにはしないわ。
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+旅に出るなら、魚は持てないね。
+
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+あの放送を流してた人は、
+なんでこんな面倒な事をするの？
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+頼んだわよ、<Stahn>！
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+あなた、頼んだわよ！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+かわいいパ～～～ン。
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+小生のパンで、
+おなかいっぱいになるがいいパン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+どうして空に島が浮かんでるパン？
+ワンダーだパン。
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+故郷のオヤジ殿は、
+どうしているパン……？
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+悪い奴らはパン沙雨で、
+お仕置きするがいいパン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+かわいいパ～～～ン。
+
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+どうして空に島が浮かんでるパン？
+ワンダーだパン。
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+故郷のオヤジ殿は、
+どうしているパン……？
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+悪い奴らはパン沙雨で、
+お仕置きするがいいパン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+A wonderful welcome to you!
+What kinda bread are you after?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+This isn't the
+Softy Kreem stand..?
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+I'm the Wonder Baker! I
+just recently arrived here!
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+Nice to knead ya!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Was that supposed
+to be funny? You're nuts...
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+No, not nuts! Bread!
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+What's got you so sourdough?
+was it something I said?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Whenever I look at you
+I can't help but feel frustrated.
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+I had no idea...
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+I feel like the fire in
+my oven's gone out for good...
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Now, now, Young Master.
+You shouldn't speak 
+to a lady like that.
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+You can't leave her so down.
+You should apologize.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Fine. Hey, you.
+I went too far. I apol-
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+However, I won't sink
+so easily! You're just a 
+litle loaf, after all!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+What..!?
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+OK! I reckon I'll
+let you off the peel,
+just this once.
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+こんにちはパン。
+
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+今日は何にしますかパン？
+
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+小生のパンを食べたら、
+語尾にパンが付いちゃうパン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+初めまして、小生は
+最近この村に来たパン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+よろしくだパン！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+……しょうせい？
+ちょっとおかしな人だな……
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+お菓子じゃないパン！
+パンだパン！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ごめん。おれはスタン。
+よろしくおねがいしまスタン！
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+気にしないパン！
+こちらこそよろしくだパン。
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+小生のパンで、
+おなかいっぱいになるがいいパン！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+そのモンスター
+すごいかっこいいね。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ねえねえ、どこで捕まえたの？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Lilith>お姉ちゃん
+遊ぼうよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ねえねえ、
+鬼ごっこしようよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Stahn>兄ちゃん、遊ぼう！
+鬼ごっこしようよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ねえねえ、
+鬼ごっこしようよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Stahn>兄ちゃん、旅に出るの？
+いいなー、おれも連れてってよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+おれも旅に連れてってよ！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Stahn>兄ちゃん、ベルクラントとか、
+天地戦争とかって……何？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ベルクラント？
+天地戦争？	何なのそれ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+この前、村の中に、
+モンスターが入ってきたんだ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+前はそんな事なかったのに……
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+村に入ってきたモンスターを、
+マギーおばさんがやっつけたんだよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+マギーおばさんがあんな強いなんて、
+知らなかったよ！
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+キャー！	びっくりした。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+<Lilith>ちゃんなんてものを
+連れてるんだい。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+まあ、<Lilith>ちゃんが、
+ボーイフレンド連れてるよ!?
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+お客さん、こんな田舎まで
+良く来たね。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+素通りは許さないよ、<Stahn>。
+見ていきな。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+お客さん、こんな田舎まで
+良く来たね。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+旅の途中で腹が減ったら困るだろ。
+果物を買っておきな。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+物騒な世の中になったもんだねえ……
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+あんた、今じゃ英雄様なんだってね。
+果物持っていきな。
+[ENDBLOCK]
+果物を売る商人
+[ENDBLOCK]
+あなたって英雄様なんだってね。
+頑張ってね。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+おや、<Lilith>ちゃん、
+ポケットドラゴンじゃないか。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+その子たちは神様の代わりに、
+幸せを運ぶと言われているんだよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+お兄ちゃんから、
+まだ連絡もないのかい？
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+私たちの村は大半が自給自足なんです。
+女だって力仕事をやりますよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+よっと……ほっと……
+うん？	<Stahn>じゃないか。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+精が出ますねだって？
+これくらい、楽ちんなもんさ！
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+私たちの村は大半が自給自足なんです。
+女だって力仕事をやりますよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+若いうちは好きなだけ旅をするといい。
+あたしも昔はそうだったよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+空の上から見下ろされるってのは、
+いい気分じゃないね。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+村の事は心配するんじゃないよ。
+あんたはあんたの事をやりな。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+あたしもまだまだ若いつもりだけど、
+あんたのじいさんも相当だね。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+村を襲ったモンスターを、
+あっさり片付けたのには驚いたよ。
+[ENDBLOCK]
+Aunt Maggie
+[ENDBLOCK]
+あたしとトーマスで、
+モンスターどもは片付けたよ。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+初めて見る種類のドラゴンだけど、
+ずいぶんかわいいのね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Lilith>ちゃんが
+お母さん代わりなの？
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Bacchus>君がおじいちゃんのお使いで
+ノイシュタットに行ったけど……
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+まだ帰って来ないのよね。
+
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+まあ、セインガルドから旅を？
+
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+だったら途中で行き倒れた
+ツンツン頭の人なんて見てませんか？
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+行き倒れたツンツン頭？
+見ていないな。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+そうですか。それを聞いて
+少し安心しました。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Stahn>君、昔うちの庭の花、
+全部むしっちゃったの覚えてる？
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+あのころはよくいたずらして、
+うちのお父さんに怒られてたよね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Stahn>君の
+お知り合いの人なんですか？
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Stahn>君、村に戻りたくなったら、
+いつでも戻ってきていいからね。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+<Stahn>君の事、
+よろしくお願いします。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+あの放送を流している人って誰なの？
+
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+もう二度と、お日様の下で、
+<Stahn>君と話したりできないの？
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+もう一度、お日様の下で、
+<Stahn>君とお話したかったな。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+あたしも自分のできる事を頑張るわ。
+村を守らなくっちゃ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃん？
+村の中でモンスターはどうかなと……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+困った事があったら言ってくれ。
+俺とおまえの仲じゃないか！
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+あーあ。<Lilith>ちゃん、
+どうして振り向いてくれないんだろ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+あいつの事、
+お願いしますね。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃんが悲しむから、
+おまえには村にいて欲しかったよ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+だが、まあ、仕方ない。
+<Lilith>ちゃんの事は任せておけ！
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Stahn>の事
+よろしく頼みます。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Stahn>、外を出歩いていないで、
+村に戻ってくる気はないか？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+おまえがいれば、<Lilith>ちゃんも、
+少しは安心できると思うんだがな。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃんも、
+おまえといれば安心だな。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃんも、
+<Stahn>と一緒で大変だろ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Stahn>のやつ、
+ちゃんと良い子にしてますか？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+村にあるレンズをかき集めて、
+ノイシュタットまで運んだのは、俺さ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+くれぐれも、
+無駄遣いはしないでくれよ？
+[ENDBLOCK]
+event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+晩ご飯のおかずか……
+何を買えばいいのかな。
+[ENDBLOCK]
+店員
+[ENDBLOCK]
+悪いね。今日はみんな品切れなんだよ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+よう、<Lilith>ちゃんのお使いか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ああ、そんなとこ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+おまえはいいよなあ。毎日、
+<Lilith>ちゃんの手料理食えるんだから。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃん、
+ほんと料理うまいもんなあ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+きっとライバルは多いはずだ……
+今のうちからなんとかしないと……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+よし、まずは兄貴を取り込んで……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Stahn>、よかったらこれ持ってけよ。
+バーゲン品の牛肉だけど！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+あ、くれるのか？	なら遠慮なく。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+俺からもらったって、
+<Lilith>ちゃんに言っといてくれよ！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+よし、捕まえた。
+でかくてうまそうな魚だ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+こいつを晩ご飯のおかずにしよう。
+[ENDBLOCK]
+Chief's Daughter
+[ENDBLOCK]
+くすくす。<Stahn>君ったら、
+楽しそうね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+やあ。
+[ENDBLOCK]
+急に村に帰ってきたと思ったら、
+今度は池で魚とり？
+[ENDBLOCK]
+あなたってつくづく、面白い人ね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+そうかなあ。
+[ENDBLOCK]
+あたし、そんな<Stahn>君の事、
+昔から結構好きだったんだよ？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+いきなりそんな事言われると、
+照れるな……魚、食う？
+[ENDBLOCK]
+ありがと。でもその魚、
+村のみんなで大事に飼ってるんだけどね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+あれ？
+[ENDBLOCK]
+見つかったら怒られるわよ。
+早く戻したほうがいいわ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+いや、でもこれ……
+晩ご飯のおかずにしようかと……
+[ENDBLOCK]
+だったらこれを持っていって。
+ちょうど買い物してきたところだから。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+特上の牛肉じゃないか！
+こんなの、もらっちゃ悪いよ。
+[ENDBLOCK]
+いいのよ。<Stahn>君の助けになれるなら、
+私だって嬉しいもの。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+なら、遠慮なくもらっていくよ。
+ありがとう！
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x14><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><x04><x00><x80><x18><x65><x59><x08><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x14><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><x04><x00><x80><x18><x65><x59><x08><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x38><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x34><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><x28><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x2C><x00><x80>
+<x18><x65><x59><x30><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><x14><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
+[ENDBLOCK]
+You're not done yet? Please 
+don't tell me you're quitting.
+[ENDBLOCK]
+If you're not too busy, maybe you
+could help me with my work.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
+
+[ENDBLOCK]
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+[ENDBLOCK]
+The reward is <TAG_032> Gald.
+It's an easy job.
+
+[ENDBLOCK]
+Job
+[ENDBLOCK]
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
+[ENDBLOCK]
+In the meantime, I'll advance 
+you a portion of the reward.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
+
+[ENDBLOCK]
+I'm counting on you!
+[ENDBLOCK]
+What a pity.
+Maybe next time.
+[ENDBLOCK]
+Well, I'll see you the next time.
+[ENDBLOCK]
+It's an easy job.
+
+[ENDBLOCK]
+Just obtain the designated items
+and take them to my cohort
+in another city!
+[ENDBLOCK]
+I mean, there's money to be made
+in this, so why not do it, right?
+[ENDBLOCK]
+Please do as much as you can.
+[ENDBLOCK]
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+[ENDBLOCK]
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
+
+[ENDBLOCK]
+I'll be quick about it.
+
+[ENDBLOCK]
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
+
+[ENDBLOCK]
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
+
+[ENDBLOCK]
+Good job, getting what I needed!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+You will receive <TAG_077> Gald
+after taking the difference
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
+
+[ENDBLOCK]
+You're short the requested number of items.
+
+[ENDBLOCK]
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+[ENDBLOCK]
+You'll have to pay a penalty if you
+quit the job you've accepted.
+[ENDBLOCK]
+You know you have to pay a penalty to
+cancel an order you've accepted?
+[ENDBLOCK]
+It's great to work with you.
+[ENDBLOCK]
+Well, good luck then.
+[ENDBLOCK]
+Are you serious? If you're having 
+second thoughts, now's the time.
+[ENDBLOCK]
+I'm a little disappointed...
+
+[ENDBLOCK]
+I am charging a cancellation
+[ENDBLOCK]
+Breach of Contact Fee
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
+
+[ENDBLOCK]
+You can't cancel the contract
+unless you pay the penalty.
+[ENDBLOCK]
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
+
+[ENDBLOCK]
+You don't have enough money.
+Come back when you have it.
+[ENDBLOCK]
+I'm counting on you, man.
+
+[ENDBLOCK]
+Are you serious?
+This is your last chance?
+[ENDBLOCK]
+Seriously... You're 
+such a burden.
+
+[ENDBLOCK]
+前金返却と違約金
+[ENDBLOCK]
+違約金
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+
+[ENDBLOCK]
+I can't cancel the contract
+without charging a penalty.
+[ENDBLOCK]
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
+
+[ENDBLOCK]
+Get the Gald together
+and then come back.
+[ENDBLOCK]
+Well, good luck.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
+
+[ENDBLOCK]
+Janos
+[ENDBLOCK]
+Harmentz
+[ENDBLOCK]
+Armeida
+[ENDBLOCK]
+Darilsheid
+[ENDBLOCK]
+Cresta
+[ENDBLOCK]
+Cherik
+[ENDBLOCK]
+Kalviola
+[ENDBLOCK]
+Junkland
+[ENDBLOCK]
+Neuestadt
+[ENDBLOCK]
+Lienea
+[ENDBLOCK]
+Frostheim
+[ENDBLOCK]
+Shiden
+[ENDBLOCK]
+Moreau
+[ENDBLOCK]
+Terazzi
+[ENDBLOCK]
+Cyril
+[ENDBLOCK]
+Heidelberg
+[ENDBLOCK]
+Calvalese
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Genera
+[ENDBLOCK]
+Honeywell
+[ENDBLOCK]
+Amex
+[ENDBLOCK]
+Siti
+[ENDBLOCK]
+DuPont
+[ENDBLOCK]
+Tapira
+[ENDBLOCK]
+Alcoa
+[ENDBLOCK]
+Johnson
+[ENDBLOCK]
+Pfizer
+[ENDBLOCK]
+Philip
+[ENDBLOCK]
+Verizon
+[ENDBLOCK]
+Exxon
+[ENDBLOCK]
+Morgan
+[ENDBLOCK]
+Ivy
+[ENDBLOCK]
+Packard
+[ENDBLOCK]
+Merick
+[ENDBLOCK]
+Depot
+[ENDBLOCK]
+???
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+やっぱり<Lilith>ちゃんの
+兄である、おまえの前で……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+よ、よう<Stahn>……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+どうした<Bacchus>？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+……この人たちって
+おまえと一緒に旅している人たちか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ああ、そうだよ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+という事は……
+<Lilith>ちゃんも一緒だよな。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+当然でしょ。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+あ、あのさ<Stahn>と<Lilith>ちゃん。
+話があるんだけどいいかな？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+では、私たちはすこし席を
+外そうか。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+何だよ、話って？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+あのさ、俺、<Lilith>ちゃんが
+いなくなって……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+ぽっかりと心に……穴が
+開いたみたいになって……
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+それって……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+それに、気付けばいつも、
+<Lilith>ちゃんの事を考えてる。
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+あ、あの私は。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Lilith>ちゃんも
+いなくなっちゃうと、俺……！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+私……も？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+バカする相手が
+いないんだよ！	<Stahn>!!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+はあ？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+俺、自分より下だと思う
+相手がいないと……
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+この村で、俺が一番下の様な
+気がしてくるんだぁぁ！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+お兄ちゃん、それ貸して。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+な、なんだ？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Lilith>ッ！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+<Bacchus>のバカ！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+あははは。<Bacchus>だけに、
+バカだって。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+<Stahn>！
+俺、死にかけたんだぞ！
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+なんだよ、元気そうじゃんか。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Bacchus>……？
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+ま、気長にいくさ。
+頼むぜ、お兄ちゃん。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+俺の夢はさ、死ぬまでに
+「俺は……愛に生きた！」って
+言う事なんだよなー。
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+俺の夢はさ、死ぬまでに
+「俺は……愛に生きた！」って
+言う事なんだよなー。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Bacchus>、いきなりなんだよ？
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+いいや、俺様には分かるぜ!!
+<Bacchus>！
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+おお、分かってくれるのか！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+おうよ！
+俺様も愛に生きているからな。
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+おや、君は!?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ルウェイン将軍じゃないですか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ひょっとして、じっちゃんに
+会いに来てくれたんですか？
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+はい。トーマスはいますか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+今、呼んで来ます。
+ちょっと待ってて下さい。
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+ルウェインさん……
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+随分と久しぶりですね、トーマス。
+元気そうで何よりです。
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+はい、年だけは取りましたが。
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+それで、あの方は……？
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+妻は……ずいぶんと前に。
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+そうですか……非常に残念です。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ルウェイン将軍は
+ばっちゃんを知っているんですか？
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+はい、もちろんです。
+なにせ……
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+ル、ルウェインさん！
+[ENDBLOCK]
+<Bacchus>
+[ENDBLOCK]
+珍しいな、トーマスさんが
+慌てるなんて。
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+実はね、<Stahn>君。私もあなたの
+お婆様を好きだったのです。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+えー!!	それじゃ、俺は
+セインガルドの将軍の孫だったかも
+しれないって事ですか!?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+バカ言うなよ、<Stahn>。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+もしそうだとしたら、
+おめえはこの世にいないだろ！
+[ENDBLOCK]
+ルウェイン
+[ENDBLOCK]
+そんな事、分からないですよ。
+<Stahn>君は、本当に私の孫だったかも
+しれませんよ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+うーん……
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+それも悪くないと思いますけど、
+俺はやっぱりじっちゃんの孫で
+<Lilith>の兄なのがしっくりきます。
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+<Stahn>……
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+これも、男のひとつの愛だぜ！
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Uhm...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I'm really sorry for suddenly
+attacking you back in the forest...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I thought for sure
+you were a bandit or something.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+It's no big deal. Forget it.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+You're...forgiving me?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I'm not repeating myself.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Thank you so much!!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+You even escorted me
+back to the village...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+By the way, what were
+you doing outside of the
+village by yourself?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I was looking for
+the Legendary Carrot!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Legendary...carrot..?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+That's right. I heard
+that it's somewhere
+here on Fitzgald.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Forget that, though.
+What did you need to do, here?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Here? I...uh...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...I'm looking for
+the Softy Kreem stand...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Softy Kreem?
+What's that?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I don't think we sell
+anything like that here...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I know!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Don't worry about finding
+that stand your looking for!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Instead, how about we go look
+for the Legendary Carrot together?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+....What?!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+You're so strong! It'll
+really help me out!
+Come on, pleeeaase?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Fine. If I change my mind, though,
+I'll return to Neuestadt on my own.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+OK! That's fine!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+So, I heard this
+from grandpa.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+"Somewhere in a forest south
+of here there surely rests
+the Legendary Carrot of Legend!"
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+....I see. Well, 
+let's get moving, then.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Yeah! Let's go
+get that carrot!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+This is the second time
+you've escorted me home safely...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Thank you so much for
+coming with me on my errand!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Hey, just tell me
+one thing, would you?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+What is it?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Just what exactly do you intend
+to do with that "Legendary Carrot"?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+I'm gonna smack my big bro
+upside the head with it!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...Upside the head?
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+That's right! I'm
+VERY angry at him!!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+He just up and left us
+one day wihthout a word!!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Even if he comes crawling back,
+I'm not gonna let him off easy!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I see. Well, be careful
+not to accidentally
+kill him, I guess...
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+You've got a real harsh mouth, but
+you're actually a really sweet guy!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Hmph..don't say
+such dumb things...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Well, I'm heading
+back to Neuestadt.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+..Oh, wait..!
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+...I never got your name...<x00>
+[ENDBLOCK]

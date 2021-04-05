@@ -1,0 +1,501 @@
+××××××空開始××××××
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+アタリが出入口の前で途切れてしまっているので
+ダミーマップリンク
+cher_12r：民家へ行きますか？
+[ENDBLOCK]
+<TAG_007>行く
+そのまま
+
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+If you leave the city and head north,
+you'll find the capital city, Kalviola.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+...Why, do I have to,
+teach this to foreigners!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+<Baruk> Foundation's office? I don't
+know anything about that!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Seinegald was attacked?
+Suck it up!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Did they attack Calvalese too? Why the hell not!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+The sky has closed up...
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I took out a lens.
+It's only one.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+How may I help you?
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+How may I help you?
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+I really don't want to
+sell to a foreigner.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+...I'm not in a position where
+I can turn down foreigners.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+I really don't want to
+sell to a foreigners.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+...I'm not in a position where
+I can turn down foreigners.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Oh, no! Don't talk
+to me like that!
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The sky lit up. I'm scared...
+Help me...
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+How could they do this to us?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+So, I can trust you guys?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+That <Baruk> guy, looks like
+someone I used to know...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+...Well, It's probably
+just my imagination.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Baruk> Foundation? ...hmm.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I haven't seen <Baruk> lately. 
+Not that I care.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Why should Calvalese be subjected to
+the same treatment as the stranger
+countries?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+It doesn't matter if you're a stranger
+or not. I'm looking forward to working
+with you.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+They want weapons to defend themselves,
+but they don't make enough money.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The <Baruk> Foundation office? I don't
+know. Even if I knew, I don't have to
+tell you.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+What is that thing that looks
+like an island floating in the sky?
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+I don't know if it's the effect of the
+sky, but the monsters have been getting
+more violent lately.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+In times like these, I want to have
+a weapon that will protect me at
+all costs
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+The owner of the weapon shop gave
+me some stuff for free. In exchange,
+he asked me to protect the city.
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+You don't have to tell me.
+Let's do it.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Seeing the ship up close makes me sad,
+so I watch it from a distance like this.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+.....
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+People who can get on a boat and
+leave the island are so lucky.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+At this rate, I bet I can do anything,
+anywhere and not get into trouble.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I can only cheer for you, though.
+Good luck to you.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+That's right. This is no
+place for foreigners.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Where are we? The city of Cherik,
+the port city to Calvalese.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Where are we? The city of Cherik,
+the port city to Calvalese.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+This is the port city of Calvalese...
+Oh, no, I'm not talking about that!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I'm sorry I ever called you a
+stranger. Please save the world.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm?	You don't have a copy
+of Definite Warfare?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You have honed your skills.
+Please take this.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This shows the "Definite Strike"
+linkage that is effective
+against monsters.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Make use of it.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+身を守る武器が欲しくても、
+稼ぎが少なくてどうにもならないのさ。
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+<Baruk>基金のオフィス？
+さあな。知ってても教える義理はない。
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+空に浮かんでいる島のような物は、
+何なんだ？
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+空が閉じた影響かわからないが、
+最近モンスターが凶暴化している。
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+こんな時こそ、身を守る武器を、
+なんとしても手に入れたいが……
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+武器屋の主がただで物をくれたよ。
+その代わり街を守れ、だと。
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+いわれるまでもない。
+やってやろうじゃないか。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing to say to you now.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hone your skill a little more
+and then come back.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+has left the party.<x00><x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80><x00>notice<x00>the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80><x00><x18><x65><x58><xA8><x00><x80></color>.
+<x00><x19><x69><x48><x9C><x80>'s party received<x00>The <turquoise>Trading Titles<x00><x19><x69><x48><x9C><x80>'s party received<x00>The <turquoise>Hot Springs Titles<x00><x19><x69><x48><x9C><x80>'s party received<x00>The <turquoise>Free Titles<x00><x19><x69><x48><x9C><x80>'s party received<x00>the Titles: <turquoise>NatuRanger<x00><x19><x69><x48><x9C><x80>'s party received<x00>the <turquoise>Dash Titles<x00><x19><x69><x48><x9C><x80>'s party received<x00>the <turquoise>Strongest Titles<x00><x19><x69><x48><x9C><x80>'s party received<x00>the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><x88><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00><x00>
+[ENDBLOCK]

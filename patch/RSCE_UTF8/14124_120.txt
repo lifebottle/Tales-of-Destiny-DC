@@ -1,0 +1,1750 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+半径だ<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
+
+
+[ENDBLOCK]
+初期角度<x1D><x76><x40><x1C><x80>
+
+[ENDBLOCK]
+半径<x1D><x76><x40><x44><x80>
+
+[ENDBLOCK]
+最大角度<x1D><x76><x40><x30><x80>
+ 
+[ENDBLOCK]
+最少角度<x1D><x76><x40><x34><x80>
+ 
+[ENDBLOCK]
+最大角度============<x1D><x76><x40><x30><x80>
+ 
+[ENDBLOCK]
+角度================<x1D><x76><x40><x18><x80>
+
+[ENDBLOCK]
+最少角度============<x1D><x76><x40><x34><x80>
+ 
+[ENDBLOCK]
+<TAG_076>
+
+[ENDBLOCK]
+ここだ<x17><x72><x40><x18><x3C><x00><x00><x20><x42><x14><x4A><xE9><x80>(<x00><x10><x8A><x8B><x80><x20>)
+
+[ENDBLOCK]
+<x17><x72><x40><x14><x24><x16><x14><x6F><x80>
+
+[ENDBLOCK]
+限界<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+角度！<D_FOG_COLOR_G>
+
+[ENDBLOCK]
+限界<x17><x72><x40><x3C><x80>
+
+[ENDBLOCK]
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+
+[ENDBLOCK]
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+
+[ENDBLOCK]
+限界<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+角度！<D_FOG_COLOR_G>
+
+[ENDBLOCK]
+限界<x17><x72><x40><x3C><x80>
+
+[ENDBLOCK]
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+
+[ENDBLOCK]
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Moreau Castle
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Dock
+
+[ENDBLOCK]
+Plaza
+
+[ENDBLOCK]
+Warehouse
+
+[ENDBLOCK]
+Shop
+
+[ENDBLOCK]
+Don't Go
+
+[ENDBLOCK]
+Ferryman
+
+[ENDBLOCK]
+Hop in, Where would you like to go?
+<x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80><x18><x65><x57><xD8><x00><x80>
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I thought you said we
+were friends. I thought...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I didn't expect you to be an adult.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+What do you want?
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Let me ask you something. Did a kid
+give you an instrument once?
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Yeah, I got an instrument
+from a kid on a boat.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I see. Actually, that
+instrument was mine.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I'd like to have it back
+if you don't mind.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+I'm sorry, but I can't do that.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Actually, I used to play
+that instrument while I 
+was picking up passengers.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+Then a customer who liked it very
+much asked me to give it to him.
+[ENDBLOCK]
+Ferryman.
+[ENDBLOCK]
+I got it as a gift. I thought
+it was okay, so I gave it away.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Is that the guy from Moreau?
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+No... from Terazzi, I 
+believe.  I think he said
+he was here on business.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's getting a little interesting.
+[ENDBLOCK]
+<Stahn> [ENDBLOCK
+[ENDBLOCK]
+Let's go to Terazzi. Let's go.
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+It seems there's been an
+incident at that house.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+<Fayte>, what's going on?
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+Yeah, there's been a bit
+of an incident. One of my
+soldiers was attacked.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+And who did it?
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+Yeah, And they've been caught.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What's wrong with you?
+You don't look so good.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Mmm...?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Don't tell me, <Fayte>. Did
+this girl attack a soldier!
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+<Sir Fayte>!
+I'm not the killer!
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+<Johnny> Please believe me too.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Surely such a small child. I can't
+believe she attacked a soldier.
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+But then again...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I can't believe it either.
+Such a girl...
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Dear <Johnny>, Please help me!
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+I can't help you if you
+don't help me.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+<Fayte>, wait. can you
+give us a moment?
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+All right. Forgive me, but I have
+to take this girl into custody.
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+Also, why don't you ask around
+in the Moreau territory?
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+There might still be people
+who know about the case.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+The incident occurred yesterday 
+morning. A soldier was attacked 
+here in the Moreau territory.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+Actually, there have been a
+number  of similar incidents
+in the past few days.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+The soldier who was attacked
+had two scratches on him.
+[ENDBLOCK]
+soldier
+[ENDBLOCK]
+Based on the testimony of the 
+attacked soldier and witnesses.
+We arrived at that girl.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+However, I have an
+alibi that I saw the girl at
+the time of the incident.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+I think that's why Master Fayte 
+gave you all this time.
+[ENDBLOCK]
+Soldier.
+[ENDBLOCK]
+It's a long story. Would 
+you like to hear a synopsis?
+Yes
+No
+
+[ENDBLOCK]
+Child
+[ENDBLOCK]
+Yeah, I heard about the death.
+But he was playing with the 
+cat at the time of the murder.
+[ENDBLOCK]
+Young man.
+[ENDBLOCK]
+Whoever's wearing Shiden outfits
+here stands out. Besides. He's been
+talking to the cat in a big voice.
+[ENDBLOCK]
+YOUNG MAN.
+[ENDBLOCK]
+Can you really talk to a cat?
+[ENDBLOCK]
+Fish Shop
+[ENDBLOCK]
+A girl, right? I was in here shopping
+at the time of the incident.
+[ENDBLOCK]
+Fish Shop
+[ENDBLOCK]
+I'd been wondering for a long time,
+and when I thought he had made up
+his mind and wrapped up the goods, 
+he said he wanted something else.
+[ENDBLOCK]
+Fish Shop
+[ENDBLOCK]
+I remember it well because it 
+happened over and over again.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+The other day, I was at the fish 
+market in the harbor. I saw a girl 
+who was making a lot of noise.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+I was kind of curious. I came
+straight back to this inn.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+As soon as I returned, The boy who
+was supposed to be at the harbor.
+She came out of the house by 
+the weapons shop.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+There are no secret passageways
+in this city. There should be no 
+such thing as a secret passage. 
+It's a wonder, really.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+Did you find out who did it?
+Yes
+No
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+Now, please go inside and give
+<Fayte> a debriefing.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+Okay... If you find the culprit.
+Please come back.
+[ENDBLOCK]
+Samauri
+[ENDBLOCK]
+So, do you want to hear
+about the case?
+Yes
+no
+[ENDBLOCK]
+★Nice boat, Start★
+
+[ENDBLOCK]
+Leave boat
+
+[ENDBLOCK]
+Boat: MO_MAIN
+destination_rot = <x17><x71><x47><x1C><x80>
+
+[ENDBLOCK]
+Boat: MO_AWAY
+destination_rot = <x17><x71><x47><x1C><x80>
+
+[ENDBLOCK]
+Ride boat
+
+[ENDBLOCK]
+★Nice boat, End★
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>A friend of Rihanna's
+tells me she's expecting a baby.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>We are looking for input 
+from you to help make this
+aquaveil a better country.
+							Fayte Moreau
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>In order for everyone 
+to live safely, if you see something
+suspicious say something,You will 
+get monetary compensation.
+					Moreau Military PR
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><center>To take a small boat, please
+come to the boarding area.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+This is Moreau Territory. You 
+couldn't have come at a worst time.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Anyway, I don't think you should
+stay in this city too long now.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+This is Moreau Territory. It's the
+most cultured city in Aquaveil.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+I wonder if it was Seinegald was
+behind the voice in the sky?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Are we all going to die like this?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+I heard that they're collecting
+lens from everywhere and
+transporting them to Seinegald.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+May the world return to normal.
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+<Tiberius> remember that.
+Oops ...did I say that out loud?
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+This city is known for its water 
+transportation, so we use small 
+boats to get around.
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+What's going to happen to our lives
+when that net thing fills up?
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+My friends were killed by monsters.
+It's the end of the world.
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+Is that the young lord of
+Shiden with the reputation
+of being a loaner?
+[ENDBLOCK]
+Ferryman
+[ENDBLOCK]
+I don't know what you're up
+to, but I'm asking you anyway.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+I wonder if Gino and
+<Fayte> are alright...
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Thank you very much, <Johnny>.
+Good luck in Terazzi.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+But don't do anything rash.
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+Hey, hey, what the hell
+are you worried about?
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+Clown won't do anything
+rash or hard.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Don't do anything reckless.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Thank you very much.
+I will never forget what
+you have done for me.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Well, gentlemen. Thank you very
+much for that opportunity.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+My husband is also working
+with <Johnny> on ways to
+deal with this.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I hope we can do 
+something effective.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+<Johnny>, don't worry about 
+the country. Just do what 
+you have to do.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I believe in you guys.
+Please do this for me.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+You've always been someone
+I could count on in a pinch.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I'll do what I can. So,
+good luck to <Johnny>.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I'm never going to give up.
+Let's definitely take back the world.
+[ENDBLOCK]
+Hey, lady.
+[ENDBLOCK]
+Don't say anything out of the
+ordinary. You never know 
+who might be listening.
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+I'm sure <Fayte> will be
+able to fix this country.
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+Do we not have the 
+right to live in peace?
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+The city was attacked by a 
+monster. My father was... ugh...
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+Please, please, please.
+You are my last hope.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+A foreigner showed up out of 
+nowhere. He's become our deputy.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+Now that all the fuss
+is over. Now I can focus
+on my business.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+What a mess we've gotten 
+ourselves into again. What is
+this, the Aeth'er Wars.
+[ENDBLOCK]
+Armor Shop
+[ENDBLOCK]
+No matter what happens, I'm not
+going to stop doing business.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I haven't seen much of the ship lately.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Moreau's Black Cross fleet is the
+strongest. Even against Seinegald,
+it's unbeatable.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+There are bad guys in the sky.
+I wonder if even the Black Cross
+fleet can't get a hold of them.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+If I could fly. I'd go take
+out the bad guys.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+You're going up to take
+out the bad guys, right?
+[ENDBLOCK]
+BOY
+[ENDBLOCK]
+You're going up to take
+out the bad guys, right?
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+You trampled our land 
+with your feet. I can't 
+forgive <Tiberius>.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+As long as <Tiberius> is alive
+and well. Something like this
+might happen again.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+He should be removed from
+the throne and condemned
+for his crimes.
+[ENDBLOCK]
+Old Womain
+[ENDBLOCK]
+I hear <Tiberius> is dead.
+I'm sorry to hear that.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+Just when I thought things
+were getting peaceful.
+What's going on now?
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+As soon as Master
+<Fayte> became Lord.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+I offered you my lens too.
+I don't like the idea of collecting
+them for Terazzi, though.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm? Do you have a copy
+of "Definite Warfare"?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You're good enough.
+I'll give you this.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This is a link-up that's supposed to
+work on monsters. "Definite Strike".
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Take good care of it, will you?
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike by
+setting "Definite Strike" to "ON" from
+the Custom menu in the main menu.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+If the Definite Strike is "ON", you
+can see the Definite Strike of
+each monster in the Monster Book.
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm? I've got something for you.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing to say to you now.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You'll need to work on your 
+skills a bit more, then come back.
+[ENDBLOCK]
+Dummy store placement
+[ENDBLOCK]
+<TAG_007>Food shop: Yadokarido
+Shop
+Water Moon Flower
+Weapon House: Poseidon
+Armor Shop: Color of Color
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x34><x00><x80><x18><x65><x58><x38><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x34><x00><x80><x18><x65><x58><x38><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x68><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x64><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><x58><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x5C><x00><x80>
+<x18><x65><x58><x60><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><x44><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
+[ENDBLOCK]
+You're not done yet? Please 
+don't tell me you're quitting.
+[ENDBLOCK]
+If you're not too busy, maybe you
+could help me with my work.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
+
+[ENDBLOCK]
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+[ENDBLOCK]
+The reward is <TAG_032> Gald.
+It's an easy job.
+
+[ENDBLOCK]
+Job
+[ENDBLOCK]
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
+[ENDBLOCK]
+In the meantime, I'll advance 
+you a portion of the reward.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
+
+[ENDBLOCK]
+I'm counting on you!
+[ENDBLOCK]
+What a pity.
+Maybe next time.
+[ENDBLOCK]
+Well, I'll see you the next time.
+[ENDBLOCK]
+It's an easy job.
+
+[ENDBLOCK]
+Just obtain the designated items
+and take them to my cohort
+in another city!
+[ENDBLOCK]
+I mean, there's money to be made
+in this, so why not do it, right?
+[ENDBLOCK]
+Please do as much as you can.
+[ENDBLOCK]
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+[ENDBLOCK]
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
+
+[ENDBLOCK]
+I'll be quick about it.
+
+[ENDBLOCK]
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
+
+[ENDBLOCK]
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
+
+[ENDBLOCK]
+Good job, getting what I needed!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+You will receive <TAG_077> Gald
+after taking the difference
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
+
+[ENDBLOCK]
+You're short the requested number of items.
+
+[ENDBLOCK]
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+[ENDBLOCK]
+You'll have to pay a penalty if you
+quit the job you've accepted.
+[ENDBLOCK]
+You know you have to pay a penalty to
+cancel an order you've accepted?
+[ENDBLOCK]
+It's great to work with you.
+[ENDBLOCK]
+Well, good luck then.
+[ENDBLOCK]
+Are you serious? If you're having 
+second thoughts, now's the time.
+[ENDBLOCK]
+I'm a little disappointed...
+
+[ENDBLOCK]
+I am charging a cancellation
+[ENDBLOCK]
+Breach of Contact Fee
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
+
+[ENDBLOCK]
+You can't cancel the contract
+unless you pay the penalty.
+[ENDBLOCK]
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
+
+[ENDBLOCK]
+You don't have enough money.
+Come back when you have it.
+[ENDBLOCK]
+I'm counting on you, man.
+
+[ENDBLOCK]
+Are you serious?
+This is your last chance?
+[ENDBLOCK]
+Seriously... You're 
+such a burden.
+
+[ENDBLOCK]
+前金返却と違約金
+[ENDBLOCK]
+違約金
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+
+[ENDBLOCK]
+I can't cancel the contract
+without charging a penalty.
+[ENDBLOCK]
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
+
+[ENDBLOCK]
+Get the Gald together
+and then come back.
+[ENDBLOCK]
+Well, good luck.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
+
+[ENDBLOCK]
+Janos
+[ENDBLOCK]
+Harmentz
+[ENDBLOCK]
+Armeida
+[ENDBLOCK]
+Darilsheid
+[ENDBLOCK]
+Cresta
+[ENDBLOCK]
+Cherik
+[ENDBLOCK]
+Kalviola
+[ENDBLOCK]
+Junkland
+[ENDBLOCK]
+Neuestadt
+[ENDBLOCK]
+Lienea
+[ENDBLOCK]
+Frostheim
+[ENDBLOCK]
+Shiden
+[ENDBLOCK]
+Moreau
+[ENDBLOCK]
+Terazzi
+[ENDBLOCK]
+Cyril
+[ENDBLOCK]
+Heidelberg
+[ENDBLOCK]
+Calvalese
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Genera
+[ENDBLOCK]
+Honeywell
+[ENDBLOCK]
+Amex
+[ENDBLOCK]
+Siti
+[ENDBLOCK]
+DuPont
+[ENDBLOCK]
+Tapira
+[ENDBLOCK]
+Alcoa
+[ENDBLOCK]
+Johnson
+[ENDBLOCK]
+Pfizer
+[ENDBLOCK]
+Philip
+[ENDBLOCK]
+Verizon
+[ENDBLOCK]
+Exxon
+[ENDBLOCK]
+Morgan
+[ENDBLOCK]
+Ivy
+[ENDBLOCK]
+Packard
+[ENDBLOCK]
+Merick
+[ENDBLOCK]
+Depot
+[ENDBLOCK]
+???
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Rihanna>, you're the queen of
+the Moreau territory, right?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Yes, I am.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Um, could I ask you 
+something, I'd like to know
+what you do as a queen.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Oh?	Do you want to be
+a queen, <Chelsea>?
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+No. I'm going to be a princess.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Well, first of all, a queen has
+to work harder than she looks.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+First of all, when you wake
+up  in the morning, you have
+to get dressed right away.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+That much.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I can't go out, looking like 
+I just woke up.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+That's a bit of a bother.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I had time to practice, every day.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Hey, I don't like it either.
+But it's easy enough.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+The best part is...
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I'm so busy every day,
+I'm indulging more and more.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+That's how much ......!
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+...I knew it, I knew it, I knew it!
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Rihanna>, do you not
+like being queen?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Not all all, it makes me proud
+to see my people happy.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+And I'm very happy to be on
+the same path as my husband.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Good luck to you too, <Chelsea>!
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Yes, I will be a great queen!
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Rihanna>, you're the queen of
+the Moreau territory, right?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Yes, I am, but a queen is 
+a lot different from what
+you imagine, Chelsea.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+It's more of a struggle, and
+it's given me more wrinkles.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Rihanna>, you're beautiful,
+so you'll be fine.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+But you see. They say 
+that beautiful women
+have short lives.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I wonder if there is 
+anyone  who can destroy
+this situation in the world.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+We'll figure it out.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Well, if push comes to shove,
+I'll ask for <Johnny>'s help.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Yeah. You'll have to
+work me then.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+By the way, how are
+you doing, <Johnny>?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+He doesn't tell me how
+he really feels, so I can't
+tell if he's tired or not.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Anyway, why is <Johnny>
+acting like such a clown?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+That's <Mary>. I'll ask
+you something that's
+hard to hear.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Yes... but first we need
+to talk about <Fayte>.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You mean <Fayte>?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Yes, <Fayte> used to have a 
+girlfriend named <Eleanor>.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+How can you talk so calmly?
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+<Fayte>, <Johnny>, and <Eleanor>
+are childhood friends.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+<Johnny> doesn't say it,
+but I think he was in
+love with <Eleanor>.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+But <Eleanor> was
+killed by <Tiberius>.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+<Fayte> was so rough,
+I can't imagine what he's
+going through now.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+And to <Johnny>, who encouraged 
+<Fayte> at that time. <Fayte>
+gave me a hard time.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+And in the end, he said, "You, 
+with your unrequited love You
+will never understand my pain!".
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+That's a bit much, isn't it?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It must have been a very painful
+experience for you, too, <Fayte>.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I think he understands
+that if  he talks like that,
+<Johnny> will be hurt.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But I had to say it...
+It's because I was 
+really suffering.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+Thank you, <Stahn>.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+After that incident, <Johnny>
+seems to have changed.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+He began to dress flamboyantly,
+never stepping into another person's
+mind, and never letting them into his.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+<Fayte> I still regret that, too.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+That's why we'll do
+whatever we can to help
+make <Johnny> happy.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+It's kind of a surprising
+past, isn't it?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's why <Johnny> seems
+to be such a kind person.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+You seem like a nice person,
+That's kind of a sad thing to say.
+[ENDBLOCK]
+<Rihanna>
+[ENDBLOCK]
+I wonder if there's anyone
+who can change the situation
+of the world.<x00>
+[ENDBLOCK]

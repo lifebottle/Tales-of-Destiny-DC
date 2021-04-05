@@ -1,0 +1,757 @@
+××××××空開始××××××
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+周回：<x17><x66><x14><x3B><x70><x0C><xAB><x80>
+
+[ENDBLOCK]
+▼▼▼▼▼矢印描画開始
+
+[ENDBLOCK]
+マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80> == <TAG_033>
+
+[ENDBLOCK]
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+ギミック：<x17><x66><x10><x0F><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+この時点でのベクトル方向：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
+
+[ENDBLOCK]
+この時点での角度：<x17><x76><x0C><x80>
+
+[ENDBLOCK]
+この時点での正規化：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
+
+[ENDBLOCK]
+ついでに長さも：<x1D><x76><x40><x10><x80>
+
+[ENDBLOCK]
+					スキップ判定
+
+[ENDBLOCK]
+移動停止！
+
+[ENDBLOCK]
+<x17><x66><x10><x5F><x70><x00><xAB><x80>が移動再開！のはず……
+
+[ENDBLOCK]
+ベクトルの大きさが０です
+
+[ENDBLOCK]
+ベクトルの大きさが０です(rget_vec_normal_3ds)
+
+[ENDBLOCK]
+●●概算メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
+
+[ENDBLOCK]
+●●残量メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
+
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+一番まともそうだから、
+お兄ちゃんが勝負してよね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+うん、わかったけど、
+この人は？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+私はこの街に住む金持ち。
+この勝負のスポンサーです。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+スポンサー？
+なんですか、それ？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+まあ、分かりやすく言うと、
+勝った方に商品を提供する人間です。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+へぇーでもどうして？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+まあ、金持ちになると
+暇ですから。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ほらほら、もういいでしょ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+このあとどうするかは
+お兄ちゃんが決めていいよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+コースは複雑だから、
+しっかり覚えてね。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+勝負するのはお兄ちゃんでいいんだね？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+ああ、構わない。
+ところでこの男はなんだ？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+私はこの街に住む金持ち。
+この勝負のスポンサーです。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+スポンサー？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+ええ。分かりやすく言うと、
+勝った方に商品を提供する人間ですね。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+なぜ、こんなかけっこ程度に資金を提供する。
+目的はなんだ？
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+ははは、目的なんてありません。
+金持ちになって暇なだけですよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ほらほら、もういいでしょ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+このあとどうするかは
+お兄ちゃんが決めていいよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+コースは複雑だから、
+しっかり覚えてね。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+コースもやり方も
+前までと一緒だからね。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+うん、わかった。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+今日は……本気だよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+さあ、決めていいよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+コースもやり方も
+前までと一緒だからね。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+さっさと、始めようじゃないか。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+今日は……僕も本気だよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+さあ、決めていいよ。
+[ENDBLOCK]
+	・コースデータの設定
+
+[ENDBLOCK]
+	・かけっこ全体管理の初期化
+
+[ENDBLOCK]
+	・プレイヤーの初期化
+
+[ENDBLOCK]
+	・マッハ少年の初期化
+
+[ENDBLOCK]
+	・富豪の初期化
+
+[ENDBLOCK]
+	・風船少女の初期化
+
+[ENDBLOCK]
+	・風船の初期化
+
+[ENDBLOCK]
+	・街人の初期化
+
+[ENDBLOCK]
+	・デモフラグの初期化
+
+[ENDBLOCK]
+	・プレイヤーの初期化
+
+[ENDBLOCK]
+	・マッハ少年の初期化
+
+[ENDBLOCK]
+	・富豪の初期化
+
+[ENDBLOCK]
+	・マッハ少年の初期化
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+リタイア
+続ける
+
+[ENDBLOCK]
+あれれ、もうやめちゃうの？
+[ENDBLOCK]
+やっぱ、僕には勝てないよね、ね！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+どうしたの？
+もう一回かけっこする？
+[ENDBLOCK]
+どうしたの？
+もう一回かけっこする？
+[ENDBLOCK]
+まだかけっこするの？
+[ENDBLOCK]
+まだかけっこするの？
+[ENDBLOCK]
+僕はこの街で一番
+足が速いんだよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ねえねえ、僕と
+かけっこ勝負しない？
+[ENDBLOCK]
+ねえ、もう一度僕と勝負しない？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+select
+[ENDBLOCK]
+はい
+いいえ
+[ENDBLOCK]
+じゃあ僕に付いてきて。
+[ENDBLOCK]
+じゃあ僕に付いてきて。
+[ENDBLOCK]
+……
+[ENDBLOCK]
+なんだつまんないな。
+[ENDBLOCK]
+あっそ、じゃあいいや。
+[ENDBLOCK]
+なんだつまんないな。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+先ほどまでの先頭：<x17><x69><x44><x29><x80>
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+勝負開始！
+コースの説明を聞く
+勝負をやめる
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+なんだあ残念。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+なんだあ残念。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+ふーん逃げるんだ……
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+勝負は二周で争われます。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+位置について、よーい。
+[ENDBLOCK]
+スタート
+[ENDBLOCK]
+ゴール！
+[ENDBLOCK]
+□□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あなたの勝利です。
+こちらをお受け取りください。
+[ENDBLOCK]
+□□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あなたの勝利です。
+こちらをお受け取りください。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃん速すぎだよー。
+[ENDBLOCK]
+□□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あなたの勝利です。
+こちらをお受け取りください。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+僕が負けたの……？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+でもお兄ちゃんも頑張ったからね。
+勝ちを譲るよ。
+[ENDBLOCK]
+□□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あなたの勝利です。
+こちらをお受け取りください。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃん速すぎー。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+でも、次は負けないからね！
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+かならずまた来てねー。
+[ENDBLOCK]
+ゴール……
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+やったー僕の勝ち!!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃんの負けー。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+どうする？
+もう何回でも相手したげるよ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+やったー、やっぱり僕の方が速い!!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃん遅いー。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+どうする？
+もう何回でも相手したげるよ。
+[ENDBLOCK]
+----- 敗北 -----
+
+[ENDBLOCK]
+かけっこ管理----->
+
+[ENDBLOCK]
+最大周数：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+現在結果：<x17><x66><x50><x1C><x43><x70><x40><x1C><xAB><x80>
+
+[ENDBLOCK]
+勝利状態：<x17><x66><x50><x1C><x43><x70><x40><x28><xAB><x80>
+
+[ENDBLOCK]
+説明状態：<x17><x66><x50><x1C><x43><x70><x40><x24><xAB><x80>
+
+[ENDBLOCK]
+現レベル：<x17><x66><x50><x1C><x43><x70><x40><x20><xAB><x80>
+
+[ENDBLOCK]
+プレイヤー----->
+
+[ENDBLOCK]
+現在状態：<x17><x71><x80> <x80>
+
+[ENDBLOCK]
+現在周数：<x17><x71><x80>$<x80>
+
+[ENDBLOCK]
+現フラグ：<x17><x71><x80>(<x80>
+
+[ENDBLOCK]
+目標座標：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+マッハ少年----->
+
+[ENDBLOCK]
+現在状態：<x17><x71><x80><xCC><x80>
+
+[ENDBLOCK]
+現在周数：<x17><x71><x80><xD0><x80>
+
+[ENDBLOCK]
+現フラグ：<x17><x71><x80><xD4><x80>
+
+[ENDBLOCK]
+目標座標：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+それじゃ、コースの説明をするね。
+[ENDBLOCK]
+ここがスタート地点。
+[ENDBLOCK]
+僕がコースを歩きながら説明するから
+しっかりと覚えてね。
+[ENDBLOCK]
+始めは噴水を横切る。
+[ENDBLOCK]
+この階段を下りる。
+[ENDBLOCK]
+ここから噴水の方に行く。
+[ENDBLOCK]
+今度は噴水をグルリと一周するんだ。
+[ENDBLOCK]
+ここからは来た道を戻るよ。
+[ENDBLOCK]
+今度は噴水を横切る前に、階段を上る。
+[ENDBLOCK]
+そしてスタート地点だったところが
+ゴールになるよ。
+[ENDBLOCK]
+途中でズルしても、
+分かっちゃうからね。
+[ENDBLOCK]
+勝負は「二周」だよ。忘れないでね。
+[ENDBLOCK]
+コース移動＋ターン
+
+[ENDBLOCK]
+コース移動
+
+[ENDBLOCK]
+メッセージ再生全て終了済み
+
+[ENDBLOCK]
+メッセージ再生
+
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+◆◆◆かけっこ開始
+
+[ENDBLOCK]
+座標：<x1D><x75><x80><xC4><x17><x80>, <x1D><x75><x80><xC8><x17><x80>, <x1D><x75><x80><xCC><x17><x80>	方向：<x1D><x76><x0C><x80>
+
+[ENDBLOCK]
+レベル２：<x17><x24><x82><x14><x2F><x80>
+
+[ENDBLOCK]
+勝利済み：<x17><x24><x84><x14><x2F><x80>
+
+[ENDBLOCK]
+敗北済み：<x17><x24><x83><x14><x2F><x80>
+
+[ENDBLOCK]
+説明済み：<x17><x24><x81><x14><x2F><x80>
+
+[ENDBLOCK]
+転送先：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>が
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x90><xD0><x17><x00><x80><x18><x65><x90><xD4><x17><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>が
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x90><xD0><x17><x00><x80><x18><x65><x90><xD4><x17><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x18><x98><x80>
+[ENDBLOCK]
+<x18><x65><x90><x00><x18><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x80><xF4><x17><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x90><xF8><x17><x00><x80>
+<x18><x65><x90><xFC><x17><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x80>衿<x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

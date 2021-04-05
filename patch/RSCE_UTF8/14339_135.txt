@@ -1,0 +1,1311 @@
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
+[ENDBLOCK]
+RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+Your Majesty, the report on the 
+damage caused by the recent 
+rebellion of <Greybum> is here.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Yes, I'll read it now.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Your Majesty, I've prepared the documents
+for the princess candidates, please be sure
+to read through them!
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+I'm not sure I want to... 
+but I'll take a look.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Your Majesty, the draft of
+the military budget for this
+year has been finalized.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Understood.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Your Majesty, I have submitted 
+a proposal for the reserves of 
+the Castle, and I hope you will 
+take a look at it.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Thank you. I'll keep that in mind.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I drew everyone 
+and His Majesty!
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Wow! I'll definitely look at it.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+As you know, your father, Isaac,
+passed away during the recent
+<Greybum> Rebellion.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+And your mother passed
+ away before that...
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+His Majesty was very young when he
+lost his mother, and he spent many
+days holed up in his room.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+And after three days
+and three nights.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+King Isaac dragged His Highness
+out of the room by force.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+That mild-mannered Lord Isaac?
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+Yes, and he scolded him severely.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+"You have the nation in front of you 
+and the people behind you!" He said.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What does that mean?
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+If the king stops walking, the 
+people will stumble and the 
+nation will never prosper.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Tough life...
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Kingship means existing between
+a country and its people.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+That's why when Master Isaac died, 
+he was able to suppress his anger 
+and hold back his grief.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+For the country he had to 
+escape without looking back
+[ENDBLOCK]
+サブシナリオチェック:<x17><x72><x40><x20><x80>
+
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+Your Majesty, what is it?
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+It looks like I have work to do.
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+You should have leave 
+such matters to me.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+No, I've been asked to do it.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+It won't take long, why don't
+you wait here for me
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Okay!!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I understand, 
+Do your best
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Darzen>, Can I ask
+you a question?
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+What is it?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What happened to your
+family, <Woodrow>?
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+Well, it looks 
+like you're back.
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Sorry to keep you 
+waiting. Now, let's go.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+は、はい、ただ今！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+食事の用意を急ぐのですぅ！
+[ENDBLOCK]
+Maid
+[ENDBLOCK]
+は、はい、かしこまりました！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+こんなものなんでしょうかね～？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Chelsea>!?
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さま!!
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+<Chelsea>、こんなところで
+一体何をしているんだ？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+うー、あー、その……
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Chelsea>！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+……女王ごっこですぅ。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+そんな事で、本当に
+城の人たちを動かすんじゃない。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+はい……
+ごめんなさいです。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+さあ、<Chelsea>。宿に戻ろう。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+<Chelsea>、女王は楽しめたかい？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+え……
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+はい！	最高でした！
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>本の位置がずらされている。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>「神となった男とその妻」と書かれた、
+かつて栄華を誇った支配者の伝記がある。
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+これは……レンズに閉じ込められた想い？
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+<Hugo>め……
+何を考えている。
+[ENDBLOCK]
+兵士
+[ENDBLOCK]
+どういう事ですか？
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+あやつは私に、世界中の隠された
+古代遺跡の封印を解いて回らせた。
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+しかし、今にしてみれば、
+一体、なんのためだ!?
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+くそ、分からぬ……
+[ENDBLOCK]
+兵士
+[ENDBLOCK]
+<Greybum>様が……
+[ENDBLOCK]
+兵士
+[ENDBLOCK]
+恐れている？
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+貴様、今、何と言った!!
+[ENDBLOCK]
+兵士
+[ENDBLOCK]
+す、すみません！
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+私が<Hugo>を恐れている……？
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+いいや、そのような事が
+あってたまるものか！
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+私が<Hugo>を利用しているのだ！
+初めからな！
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+クックック。しかし、<Lion>の存在を
+私に感づかれたのはまずかった。
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+私を利用しようとした事を、
+後悔させてくれるわ。
+
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+神の眼で、私は世界の王と
+なるのだからな！
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Greybum>、あなたは最初から
+最後まで踊らされていた……
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+所詮、器が違いすぎたのだ。
+相手は<Miktran>だったのだからな。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+待ってくれないか。
+もう少しなのだ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+……時間が掛かりそうだな。
+出直すか……
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+<Lion>君だったのか。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+すまなかったね。
+つい調べ物に夢中になっていた。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+構わないが……
+何を調べていたんだ？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+ソーディアン諸君に口添えしてもらって
+建造した、神の眼封印施設についてだよ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+グレバムを倒した後に
+造ったものか。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+それがどうかしたのか？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+いや、大した事ではないのだが……
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+あの時、ソーディアン諸君が配置した
+神の眼の守護者が気になってね。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+それを調べていたという訳か。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+だが、一向に守護者に関しての
+手がかりが見つからなくてね。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+何かシャルティエ君が
+知っている事はないだろうか？
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+僕も詳しくは知りません。
+知っている事といえば……
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+守護者は、昔の人たちが何かを守る時に
+使役した存在だという事くらいです。
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+お役に立てず、すみません。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+いや、気にしないでくれ。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+それだけ分かれば、
+調べるきっかけになる。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+邪魔してすまなかった。
+調べ物を続けてくれ。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+こちらも大した出迎えは出来ないが、
+どうかゆっくりしていってくれ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+うーん……やっぱり
+……でしょうか？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+わあ、<Lion>さん。
+お久しぶりです。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+お元気でしたか？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+まあな。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+お城に何か御用でも
+あったんですか？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+いや、近くまで来たついでに
+寄っただけだ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+それより、おまえこそ
+何をやっているんだ？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+肖像画を見ていました。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+この女性は誰なんだ？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さまのお母さまです。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+母親……か。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+それで私……どのように
+お呼びしようか悩んで……
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+もう！	<Lion>さんも
+にぶいですねえ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+（……僕、も？）
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+ですから！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さまのお母さま
+なんですよ！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+ああ、私は何とお呼びすれば
+いいのでしょうか？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+おばさまですか？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+お后さまですか？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+いえ、やっぱり……
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+お義母さまっ！
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+キャー！
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+これはこれは。
+お久しゅうございます。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+皆様がグレバムを討って
+以来になりますかな？
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+ああ、そうだな。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+それよりも聞いたぞ。
+<Woodrow>が王座に着いたようだな。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+おお。ご存知でしたか。
+ようやく殿下も決心されましてな。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+おっと。殿下でなく、
+陛下とお呼びしなくては。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+その影響の様だな。国内も
+落ち着きを取り戻しつつあるようだ。
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+これも<Woodrow>の人徳の
+おかげと言ったところか。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+いえ、それだけでは
+ございませぬぞ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+陛下は国王になられてからも、亡き父王に
+追いつこうと日々尽力されております。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+努力する事も、
+決して怠らぬ立派な方です。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+ところで、<Woodrow>陛下には、
+もうお会いになられましたか？
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+是非ともお会いくだされ。
+お喜びになられると思いますぞ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+陛下はその廊下の途中を
+折れた所にある自室におられます。
+[ENDBLOCK]
+回転開始→<x1D><x66><x10><x67><x74><x40><x58><xAB><x80>
+
+[ENDBLOCK]
+ステータス→<x17><x66><x10><x67><x70><x40><x60><xAB><x80>
+
+[ENDBLOCK]
+回転開始→<x1D><x66><x10><x67><x74><x40><x58><xAB><x80>
+
+[ENDBLOCK]
+ステータス→<x17><x66><x10><x67><x70><x40><x60><xAB><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><Woodrow>の母親の
+肖像画が飾られている。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>よく見ると
+儀礼用の椅子だ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+おお、<Lion>殿。
+お久しゅうございます。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+陛下であれば自室におられます。
+是非、会っていって下され。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+<Woodrow>陛下がおられる限り、
+ファンダリアは何度でも蘇りますぞ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+命に代えても、城は守ります。
+どうかご安心くださいませ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+陛下の事、何卒
+よろしくお願い申し上げます。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+お帰りなさいませ、陛下！
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+皆様、お帰りなさいませ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+我が国の領空にある空中都市の動向を、
+絶えず見張っております。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+ベルクラントを止められませんでした。
+陛下、申し訳ありません……
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+ベルクラントを止められませんでした。
+
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+各地にモンスターが降下したと、
+報告が入っております。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+しかし、心配はご無用です。
+今のところ撃退しておりますゆえ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+陛下のお姿を先代陛下にも、
+ぜひご覧いただきたかったですぞ。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+今の陛下のお姿を先代陛下にも、
+ぜひご覧いただきたかった。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+ようこそハイデルベルグ城へ。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+城の事は我らにお任せくださいませ。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+陛下、セインガルドの被害状況は……？
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+世界はどうなっているのでしょう？
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+目下ベルクラントの直撃を受けた
+被災地の情報を収集しております。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+このまま日の光が閉ざされますと、
+我が国には致命傷となります。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+ファンダリアの命運は、
+陛下の御手にかかっております。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+ファンダリアの命運は、
+みなさんにかかっております。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+ようこそ我らが城へ。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+必ずまた来てくれよ<Chelsea>。
+
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+陛下と<Chelsea>様が戻られる日を
+心よりお待ちしております。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Alba>先生のお孫さんは、
+明るくて皆の人気者でした。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+仕方ない事とはいえ、
+行ってしまわれるのは名残惜しいです。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Alba>先生はご無事でしょうか？
+心配です。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Alba>先生から、<Darzen>閣下に
+手紙が来たそうです。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+無事でやっていらっしゃるようで、
+安心しました。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+こちらは<Woodrow>陛下の私室です。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+いつ陛下が戻られてもいいよう、
+お部屋は整えておきますので。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+いつ陛下が戻られてもいいよう、
+お部屋はいつも整えております。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+陛下、色々と大変だと思いますが、
+どうかご無理はなさらないでください。
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+みなさまも決して、
+ご無理はなさらないでください。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+<Chelsea>やダーゼンには
+もう会ったのかな？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+大した出迎えも出来ないが、
+どうかゆっくりしていってくれ。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+大した出迎えも出来ないが、
+どうかゆっくりしていってくれ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+わあ、<Lion>さん。
+お久しぶりです。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+そこに飾られてる肖像画って、
+<Woodrow>さまのお母さまなんですよ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+私もいつか……
+うふ、うふふふ。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+久しぶりだね、諸君。
+元気そうで何よりだ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+ようこそお越しくださいました。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Chelsea>もいるとは思わなかったよ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+色々とお手伝いをしているうちに、
+お城に居着いちゃいました。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さまのお役に立てるよう、
+粉骨砕身の毎日です。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+ふんこ……ふんこつさいしん？
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+精一杯努力する、の意味だ。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+へえ……
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Woodrow>陛下、このたびのご即位、
+心からお祝い申し上げます。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+かしこまる必要はないよ。私たちは、
+共に苦難を乗り越えた同志だろう？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+私の事は今まで通り、
+<Woodrow>と呼んでほしい。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+わかりました。そうさせてもらいます。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+神の眼の一件……
+とんでもない事になったな。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+まさか飛行竜に襲われるとは、
+思ってもいなかった。
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<Woodrow>の方で、
+何かわかっている事はないのか？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+残念ながら、君たちと同じ程度にしか、
+私も事情を把握していない。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+この上はセインガルド<King>陛下に、
+直接、話をうかがうしかないだろう。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+じゃあ、さっそく出発しましょう。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+もちろん私もご一緒します。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さまのあるところ、
+<Chelsea>ありです。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+よろしく頼むぜ、嬢ちゃんよ！
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+即位したばかりなのに、
+国を空けて大丈夫なのか？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+<Darzen>に任せるつもりだ。
+心配ない。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+この<Darzen>、命に代えても、
+陛下のご留守を守ってみせますぞ！
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+今回の事は、セインガルドと我が国の、
+共同責任でもある。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+私には当事者のひとりとして、
+真相を突き止める義務があるからな。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+ところで、陛下。
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+お急ぎのところ恐縮ですが、
+ご出発前に処理していただきたい件が。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+む、そうか。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+聞いての通りだ、すまない。
+少しの間、待っていてもらえるかな。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Woodrow>さん、
+やる事がたくさんあるんだなあ。
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+それが国王というものだ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+あの……<Mary>さん、
+ちょっといいですか……？
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+わたしは構わないが……
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Mary>さんと<Chelsea>さん、
+ふたりでなんのお話でしょうね？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+さあ……？
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+わたしに何か？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+単刀直入にお聞きします。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Mary>さんは<Woodrow>さまの、
+味方ですか？
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+そうか……わたしが二年前、
+王家の軍と戦った事を気にしているのか。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+心配しなくていい。その件なら、
+既に決着は付いている。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+じゃあ……
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+ああ。私たちは仲間だ。
+彼の敵になる事はない。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+ふう……よかったです。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+もしわたしが違うと言ったら、
+どうするつもりだった？
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+そんなの、決まってます。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Woodrow>さまをお守りするため、
+電光石火であなたの心臓を射抜きます。
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+なるほど……
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Chelsea>は子供かと思ったが、
+どうして、立派な女だな。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+……？	ふたりしてこんな所で、
+何を話していたのだ？
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+秘密の話だ。
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+はい、秘密です。
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+待たせたね。
+では城を発つとしよう。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+はい。
+[ENDBLOCK]
+キャラクターめりこみ防止のラインを引く
+
+[ENDBLOCK]
+角度：<x1D><x76><x00><x14><x51><x80>, <x1D><x76><x04><x14><x51><x80> 距離：<x1D><x76><x08><x80>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x38><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><x28><x00><x80><x18><x65><x59><x2C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x38><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><x28><x00><x80><x18><x65><x59><x2C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x5C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x58><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><x4C><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x50><x00><x80>
+<x18><x65><x59><x54><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><x38><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

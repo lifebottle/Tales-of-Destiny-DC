@@ -1,0 +1,631 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+君はカルバレイスの人？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+カルバレイス？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+実はね……
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+ふーむ？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お父さんの事かな？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+お父さん？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お父さんは、子供の時は
+すごく暑いところに住んでたって。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+お父さんはどこにいるの？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お父さんは
+前の戦争で死んじゃった。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+……ごめんね。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+いいの。お父さんの事を
+探している人がいるなんて、
+私すごくうれしいの。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+だから、これあげるね。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+そういえば、お父さんが
+ノイシュタットにいるお友達に、
+会いたいって言ってたよ。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+そういえば、お父さんが
+ノイシュタットにいるお友達に
+会いたいって言ってたよ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+……やっぱり、似ているよ……
+うりふたつだよな……
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+……どういう事だ……？
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+見たところ、君たちも
+冒険をしてるのか？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+あ、はい。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+それだったら、
+これを見てもらえないか？
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+これがどうしたのですか？
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+友人の冒険家から、
+送られて来た写真なんだ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+どういうわけか、他の友人にも
+そっくりな写真が送られて来ている。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+一体、この写真が何を意味しているのか
+……それがさっぱり分からない。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+もし暇があれば、この場所を
+見てきてもらえないかな？
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+私も詳しい場所がわからないから、
+この写真を参考に探して欲しい。
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+はい、分かりました。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+私はしばらくここを離れられないから、
+もう一度写真を見たい時は、ここに来てくれ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+あと、もしもこの場所に何かあったら、
+私に教えてくれないかな。もちろん
+お礼はするよ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+同様に、写真が届いている友人には、
+君たちの事を紹介しておくよ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+三人はサイリルとストレイライズ神殿、
+あとシデン領にいるはずだ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+おや？	君が<Stahn>君かい？
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+え、はい……
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+前に冒険家から写真を
+見せてもらった事があるだろう？
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+私は、その冒険家の友人なんだ。
+そして私の写真はこれだ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+もし、もう一度この写真を見たければ、
+私のところへ来てくれよ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+もう一度、写真を見るのかい？
+はい
+いいえ
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+なるほど、そんな事が
+あったのか。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+ありがとう。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+コレはお礼だ。
+受け取ってくれ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+私はこれで失礼するよ。
+では。
+[ENDBLOCK]
+写真が届いている友人には、
+君たちの事を紹介しておくよ。
+[ENDBLOCK]
+サイリルとストレイライズ神殿、
+あとシデン領にいるはずだ。
+[ENDBLOCK]
+写真が届いている友人には、
+君たちの事を紹介しておくよ。
+[ENDBLOCK]
+ノイシュタットとストレイライズ神殿、
+あとシデン領にいるはずだ。
+[ENDBLOCK]
+写真が届いている友人には、
+君たちの事を紹介しておくよ。
+[ENDBLOCK]
+ノイシュタットとサイリル、
+あとシデン領にいるはずだ。
+[ENDBLOCK]
+写真が届いている友人には、
+君たちの事を紹介しておくよ。
+[ENDBLOCK]
+ノイシュタットとサイリル、
+あとストレイライズ神殿にいるはずだ。
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+冒険家
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>心が温まるかわかりませんが、
+身は暖まります。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+おまえたち、旅の者か？
+この街で妙なふるまいはするなよ。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+我々は、この国をよくしたいだけだ。
+王家を打倒するのが目的ではない。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+あなたはまさか……
+<Woodrow>王……陛下……？
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+地上全てに宣戦布告だと……？
+あの放送を流した奴、本気か？
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+大地がえぐり取られてしまった……
+あれがベルクラントの威力なのか。
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+人類はこのまま滅びるのか？
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+レンズを集めるよう、
+<Dalis>隊長に指示されたが……
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<Woodrow>陛下、頼みます。
+どうか人類を救ってください。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+ファンダリアを俺たちの手で、
+新しい国にするんだ！
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+<Dalis>隊長が俺たちを罰しないよう、
+新王にかけあってくれたそうだ。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+天地戦争って何なんだよ？
+何が起こってるんだよ！
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+あのベルクラントに直撃されて、
+どれだけの人間が死んだ？	くそっ！
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+いつまたベルクラントが撃たれるかと
+思うと……気が休まらない。
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+俺たちにできる事なら何でもやる。
+だから、世界を救ってくれ！
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+<Greybum>さまが味方してくれたから、
+戦いに勝てたのよ。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+前はあんなに持ち上げてたのに、
+今じゃみんな<Greybum>さまを悪く言うの。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+結局大人は、<Greybum>さまに責任を
+全部押し付けてるだけなのよ。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お空が変な事になってるわね。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お空がびかぁって光って、
+どどどーんって大きな音がしたの。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+お空がふさがっちゃって、
+どうすればいいの……？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+この街のレンズは、
+ハイデルベルグに運んだわ。
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+いつの間にあの街の人たちと、
+仲直りしたのかしら？
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+みんなが力を合わせたんだもの、
+絶対勝てるわよね。
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+さあ、寄っていきな！	見ていきな！
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+サイリルの人間は逆境に強いんだ。
+これくらいで負けるもんかね。
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+いい品を揃えておりますぞ。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃんたちも、
+一緒に雪だるま作る？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お兄ちゃんも、
+一緒に雪だるま作りたいの？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お姉ちゃんたちも、
+一緒に雪だるま作る？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+お外がだんだん暗くなってきたね。
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+地面に大きな穴が開いたって本当？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+どうしてお外が暗いままなの？
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+レンズをたくさん集めると、
+いい事があるって聞いたよ。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA4><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x94><x00><x80><x18><x65><x58><x98><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA4><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x94><x00><x80><x18><x65><x58><x98><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC4><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><xB8><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xBC><x00><x80>
+<x18><x65><x58><xC0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><xA4><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

@@ -1,0 +1,1605 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は昼です。
+
+[ENDBLOCK]
+雪原：no_bg_sora_snow
+
+[ENDBLOCK]
+空の作成失敗（戻り値：<TAG_062>）
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全段階：D1R_032_040_000	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は昼です。<TAG_062>>=<TAG_059>>=<TAG_061>
+
+[ENDBLOCK]
+雪原第一：no_bg_gaikaku1_snow <TAG_064>
+
+[ENDBLOCK]
+雪原第二：no_bg_gaikaku1_snow <TAG_064>
+
+[ENDBLOCK]
+= <TAG_060>
+
+[ENDBLOCK]
+外殻の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は昼です。
+
+[ENDBLOCK]
+雪原：no_bg_kumo03
+
+[ENDBLOCK]
+雲の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+No, no!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Did you lose something?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I lost my passport...
+Now I can't get
+through to Phandaria.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+If you have a passport for Seinegald 
+you should be fine.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I can't go home...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Did you drop it somewhere?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Aah!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Did you remember?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+...toilet.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You need to pick it up right away.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Maybe it's already been flushed...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'll think of another way...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'm like bird in a cage...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hah...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+What's wrong with you?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+No, I lost my passport to Phandaria
+a long time ago.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I've just been stuck at
+Janos for a long time.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Like a bird in a cage.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Huh? But...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Please don't give up!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+I know you can get out from here...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Your strong heart will
+set you free one day!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Ha?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Oh!
+What an encouraging word!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Miss, thank you,
+I've got my spirit back.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Even I don't leave from inn.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+It was my weak heart.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Yes, I believe so.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I believe, I will go
+back to Phandaria!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I only can give it, thank you.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Really...Thank you very much.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+You know...<Philia>?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Now you can get in and out to
+Janos with this passport.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Sorry...I know that...
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+This gate is currently closed
+due to the chaos.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+So, unless you defeat <Greybum>.
+You can't back to Seinegald.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Hey, are you... Sir <Lion>?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+How can you become a member of
+the King's Swordsmen?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+He's the chief of Oberon Corporation.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Isn't that right,  Sir <Lion>?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+What do you want?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+I think your mother is Lady Chris right?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+What?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+I was Lady Chris's
+childhood friend.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Lady Chris is very
+cute and kind.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+The boys try so hard
+to get her attention.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+You were one of them, right?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Oh, I'm not.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Huh...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I see, but my mother has gone.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Hah!
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Oh, I'm so sorry to hear that.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+It's okay, beside that...
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Beside that?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+No...It's doesn't matter.
+Thank you.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Are you from Calvalese?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+How do you know that?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Actually...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Yeah...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Ok, I'll do this.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+If I had met you sooner.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Let's do our best!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'm sure some Calvalese people
+still live in Cyril.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+His body is very weak.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I'm sure some Calvalese's people
+still live at Cyril.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+His body is very weak.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>Before zipping off to the border,
+take a good night's rest.
+-Janos Lodging Association
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>Alcohol is for Adults.
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+Dummy message: I can't get through without a pass.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Beyond this gate is Seinegald Kingdom, 
+Darilsheid the capital is quite
+far way, be prepared.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Without a passport, we can't 
+let you go through.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Go back!
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Do you want to get through?
+Yes
+No
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Though you are Sir <Lion>,
+we can't let you get through.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+I'm sorry
+you must understand.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+This area is forbiden.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Whoever you are, I still 
+can't let you get through.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Now, you can get through.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Is it true that
+ Seinegald was attacked?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Damn, what's going on?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+It said, that they are making
+a sky-crushing weapon.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Can't think some bad thing
+will happen.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+I'm counting on you guys.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Do you want to
+go to Seinegald?
+[ENDBLOCK]
+<x19><x15><x56><x80>
+[ENDBLOCK]
+Yes
+No
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Do you have a passport?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+There is no way to get through
+Seinegald because of this
+situation.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+There is no way to get through
+Seinegald because of this
+situation.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+I can't do anything for you.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+You have a passport, now
+you can come and go..
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+You don't need passports anymore.
+Phandaria is safe now.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+What's going on?
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+Even the monsters can't stop us.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+This city is collecting lens now.
+Let us know if we can help.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+We trust you.00>
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+To get to Harmentz, you must take
+the north gate and go
+northwest from there.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Is it true that Phandaria
+was destroyed?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+What will happen if I lose my passport?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+What's that weird thing in the sky?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Why is the sky becoming dark?
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+Good luck guys.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I heard that the prince of
+Phandaria is a pretty
+silver-haired man.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Is it true that King Isaac
+has passed away?
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I'm sure that his Highness is
+handsome like you <Woodrow>.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I believe that a crown will make
+you more glorius <Woodrow>.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I won't fight anymore.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Is the world going 
+to end up like this?
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I heard Lord <Woodrow>
+is collecting the lens.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I believe that Lord <Woodrow>
+will bring back the peace.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Do you see that beautiful
+woman over there?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+What should 
+I say to her?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Do you see that beautiful
+woman over there?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I really want to talk to her,
+but I just can't do it...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I need to talk with her...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Don't worry, I'll protect you.
+I wish I could say that...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I wonder if I'll ever
+be able to talk to her.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+I saw the Draconis the other
+day. t was flying awfully low.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+There is a rumor that Seinegald
+is deploying it's army.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+With the open borders, this
+city will flourish even more.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+I saw something shining in the
+Seinegald area. Is it Belcrant?
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+Wherever we go, it's the
+same. We have no choice
+but to be destroyed.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+I will get my lens at home too.
+[ENDBLOCK]
+Young man
+[ENDBLOCK]
+All I can do is pray,
+please protect the world.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+You'll catch a cold standin' out
+here. You should come inside.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+Don't get flustered. Have a 
+dry towel and calm yourself.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+If the monsters attack, 
+I'll attack using that.
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+If you feel like you're losing 
+your edge, just brush it off 
+with a towel. Hang in there!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+We'll find a way...
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+If you want get through,
+show your passport.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+A passport? I don't have one.
+[ENDBLOCK]
+Then we can't let you through.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But, I've come
+all this way.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What if we use force to get through?
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Do you want to be 
+fugitive in Seinegald?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Of course not,
+Hmm...this is a problem.
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Hmm, this is a problem.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Hah...
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Hah...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Hey, is something wrong?
+[ENDBLOCK]
+???
+[ENDBLOCK]
+You look troubled too.
+Is something wrong?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I don't have a passport, to get
+through the gate. What about you?
+[ENDBLOCK]
+???
+[ENDBLOCK]
+My friend got trapped at the
+temple near town.
+[ENDBLOCK]
+???
+[ENDBLOCK]
+I can't do anything on my own,
+so I've come to town looking 
+for help but...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's awful! If it's okay
+with you, I'll help you.
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Really? that'd be
+a huge help.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Aren't we going to Seinegald?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Never abandon a person in need.
+That's the Aileron family motto!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Your family sure is trusting.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, I guess.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+......
+[ENDBLOCK]
+???
+[ENDBLOCK]
+We can get to the temple by going
+through the East gate, and then 
+passing through the mountains.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+My name is <Mary> Argent. And you are?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+My name is <Stahn>. <Stahn> Aileron.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Ok, then let's go, <Stahn>.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+It's your passport.
+[ENDBLOCK]
+When you want to go to 
+Seinegald, you'll need it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ok, I'll use it now.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+W-wait a sec. Don't leave
+in such a hurry.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+We want to thank
+you for your help.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+I'm sure Atwight and Dymlos have
+so much thing to talk about. Right?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+All right.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Let's go to the tavern. It's in 
+the same building as the inn.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<Stahn>, have you heard of "Rerise"?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+"Rerise"? That's new.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Dymlos didn't explain it?
+Alright, I'll do it.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+One of the skills Swordians
+possess is "Rerise".
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+You can transform your weapons
+and armor using lens.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+The amount of lens consumed varies
+based on what it transforms into.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Careful not to overuse your lens.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Anyway, you can't transform
+your Swordian.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+So I can use lens to transform any
+armor and weapons except Swordians.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Is that what you call rerising?
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Just the basics. You should try it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I did it!
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Just try on various equipment, 
+it's pretty simple.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Are you done talking? 
+Then let's go.
+[ENDBLOCK]
+Seinegald Soldier
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Why! Why are you blocking our way?
+[ENDBLOCK]
+I already told you! If you don't
+have a passport, I'm not
+letting you through!
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh, really? Well, take a good look
+at my face! Once you realize
+who I am, you'll change your tune!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Wow, those people
+must be famous.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+That's right! We're the most 
+famous lens hunters!
+[ENDBLOCK]
+Milly
+[ENDBLOCK]
+Milly the Gale!
+[ENDBLOCK]
+John
+[ENDBLOCK]
+John the Gluttonous!
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+And me! Grid the Omnipotent!!
+[ENDBLOCK]
+Milly
+[ENDBLOCK]
+And the three of us are!
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+We are the Dark Wings,
+the famous Dark Wings, YEAH!
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+You have certainly met many
+that imitate us, but we are 
+the genuine article!
+[ENDBLOCK]
+Never heard of you.
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+Impossible!!!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Yeah, I've never heard of these performers.
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+We are a lens hunter group!
+Not a performers.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+We have a passport. Look.
+[ENDBLOCK]
+Ok. You can go through.
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+How laborious your roles must be.
+Let us encourage you from here.
+[ENDBLOCK]
+Milly
+[ENDBLOCK]
+Give it to me.
+[ENDBLOCK]
+John
+[ENDBLOCK]
+Yeah.
+[ENDBLOCK]
+You guys, stop!
+[ENDBLOCK]
+If you keep this ruckus up,
+I have an idea for you!
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+No, that's a bit...
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+Come on, it was all a joke! A joke.
+[ENDBLOCK]
+Grid
+[ENDBLOCK]
+Look, we're just performers. Okay?
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x06><xCC><x00><x00><x00><x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><TAG_013ad></color> 
+[ENDBLOCK]
+joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><xE8><x00><x80><x18><x65><x59><xEC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><TAG_013ad></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><xE8><x00><x80><x18><x65><x59><xEC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x1C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5A><x18><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x4A><x0C><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><x10><x00><x80>
+<x18><x65><x5A><x14><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><TAG_013ad>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

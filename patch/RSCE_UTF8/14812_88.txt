@@ -1,0 +1,1023 @@
+□SafePack Level 1 Get
+
+[ENDBLOCK]
+□SafePack Level 2 Get
+
+[ENDBLOCK]
+□SafePack Level 3 Get
+
+[ENDBLOCK]
+□SafePack Level 4 Get
+
+[ENDBLOCK]
+□SafePack not buy
+
+[ENDBLOCK]
+<TAG_005>すべての名声、すべての富、すべての勝利を
+手にするのは俺のはずだった……
+[ENDBLOCK]
+<TAG_005>自らを守るもの、それは畏怖だけだ……
+[ENDBLOCK]
+<TAG_005>くだらねぇ……俺が欲するのは「最凶」だけだ……
+[ENDBLOCK]
+<TAG_005>弱き存在こそが、悪だとなぜ気付かぬ……
+[ENDBLOCK]
+<TAG_005>「正義」など、俺の築いた屍の山で知れ……
+[ENDBLOCK]
+<TAG_005>てめえだけは絶対に許さねえ……！
+[ENDBLOCK]
+<TAG_005>幾千、幾万と時を重ねようとも、
+我が怨嗟だけは消えぬぞ……
+[ENDBLOCK]
+<TAG_005><Dymlos>……ここが貴様の最期の地となるのだ！
+[ENDBLOCK]
+直値計算です	param = <x1D><x76><x00><x80>
+
+[ENDBLOCK]
+現在値：<TAG_034>, 最大値：<TAG_035>, 加算：<TAG_075>, <x1D><x76><x00><x80>
+
+[ENDBLOCK]
+計算値：<x1D><x76><x00><x80>	目標：<TAG_076>
+
+[ENDBLOCK]
+新しい値：<TAG_034>	値or割合：<x1D><x76><x00><x80>
+
+[ENDBLOCK]
+宝箱の設置……番号：<x17><x66><x10><x0B><x70><x00><xAB><x80>, データ：<x17><x66><x10><x0B><x70><x04><xAB><x80>, <x17><x66><x10><x0B><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+座標：<x1D><x66><x14><x0F><x74><x00><xAB><x80>, <x1D><x66><x14><x0F><x74><x04><xAB><x80>, <x1D><x66><x14><x0F><x74><x08><xAB><x80>, Rot:<x17><x66><x14><x0F><x6C><x0C><xAB><x80>, No:<x17><x66><x50><x18><x0B><x70><x04><xAB><x80>
+
+[ENDBLOCK]
+宝箱アクションの開始	<x17><x66><x10><x0B><x70><x04><xAB><x80>
+
+[ENDBLOCK]
+アルカナルイン
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>の宝箱には、
+特別な効果を発揮するものがあります。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+体力の回復や食料の補給だけでなく、
+反対に体力の消耗や食料の強奪などの
+効果を持つものもあります。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+同じ色をした宝箱は、
+その階では同じ効果を持ちます。
+一度、開いてみると良いでしょう。
+
+[ENDBLOCK]
+×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07><x66><x10><x0B><x70><x08><xAB><x8B><xE8><xCF><x70><x00><xAA><x80>	×
+
+[ENDBLOCK]
+宝箱：ＨＰ回復
+
+[ENDBLOCK]
+この色の宝箱は体力を回復するようです。
+[ENDBLOCK]
+宝箱：ＨＰ減少
+
+[ENDBLOCK]
+この色の宝箱は体力を奪うようです。
+[ENDBLOCK]
+この色の宝箱はＥＸポイントを増やすようです。
+[ENDBLOCK]
+宝箱：ＥＰ増加	値：<TAG_032>	現在：<TAG_034>
+
+[ENDBLOCK]
+宝箱：ＥＰ減少	値：<TAG_032>	現在：<TAG_034>
+
+[ENDBLOCK]
+この色の宝箱はＥＸポイントを減らすようです。
+[ENDBLOCK]
+宝箱：フード増加	現在：<TAG_032>
+
+[ENDBLOCK]
+この色の宝箱は食料を補給するようです。
+[ENDBLOCK]
+宝箱：フード減少	現在：<TAG_032>
+
+[ENDBLOCK]
+この色の宝箱は食料を奪うようです。
+[ENDBLOCK]
+アルカナルイン
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+<TAG_052>で貴方たちと
+会うのは初めてですね。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+私は貴方たちの旅を少しだけ
+手伝わせて頂きます。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+もちろん代価を頂きますが、その際
+ＥＸポイントを頂く場合も御座います。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+ちなみにＥＸポイントは入り口でも
+ご使用頂けますので、お忘れなく。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+なお、このお取引が終わりましたら
+私はすぐに退散いたします。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+さて、本題に入りましょう。
+
+[ENDBLOCK]
+エラータイプ
+[ENDBLOCK]
+★ＨＰ回復開始
+
+[ENDBLOCK]
+現在ＥＰ：<TAG_035>（消費ＥＰ：<TAG_034>）
+
+[ENDBLOCK]
+現在階層：<TAG_077>
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+私は貴方たちの体力を
+完全に回復する事ができます。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+ただし、代価として
+ＥＸポイントを<TAG_034>頂きます。
+いかがいたしましょう？
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>残りＥＸポイント	<TAG_035>
+頼む
+頼まない
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ＨＰが回復しました。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+これでもう大丈夫です。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+機会がありましたら、
+またご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+残念ながら、代価が不足しているようです。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+★ＨＰ回復終了
+
+[ENDBLOCK]
+★アイテム→ＥＰ開始
+
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を代価に<TAG_077>が貰えます
+
+[ENDBLOCK]
+現在対象アイテムは<x17><x72><x40><x20><x80>個持っています
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+<TAG_007>貴方が持っている<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を、
+ＥＸポイントと交換して差し上げられます。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+いかがいたしましょう？
+[ENDBLOCK]
+select
+[ENDBLOCK]
+対象	<x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80>個	（現在<x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>個）
+頼む
+頼まない
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+残念ながら、代価が不足しているようです。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+それでは、<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を頂きます。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ＥＸポイントを<TAG_077>取得しました。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+機会がありましたら、
+またご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+★アイテム→ＥＰ終了
+
+[ENDBLOCK]
+★アイテム取得開始
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+貴方に<x1A><x72><x40><x14><x80>を
+差し上げましょう。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80>を<TAG_034>個、
+貰いました。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+それでは、またの機会にお目にかかりましょう。
+[ENDBLOCK]
+★アイテム取得終了
+
+[ENDBLOCK]
+★ＥＰ→アイテム開始
+
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80><TAG_034>個が貰えます（アイテムレート<TAG_076>）
+
+[ENDBLOCK]
+現在EP<x17><x72><x40><x20><x80>、減少EP<TAG_077>
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+貴方が持っているＥＸポイント<TAG_077>を
+<x1A><x72><x40><x14><x80><TAG_034>個と交換して差し上げられます。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+いかがいたしましょう？
+[ENDBLOCK]
+select
+[ENDBLOCK]
+残りＥＸポイント		<x17><x72><x40><x20><x80>
+頼む
+頼まない
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+残念ながら、代価が不足しているようです。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+それでは、ＥＸポイントを<TAG_077>頂きます。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80>を<TAG_034>個、
+貰いました。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+機会がありましたら、
+またご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+★ＥＰ→アイテム終了
+
+[ENDBLOCK]
+赤
+[ENDBLOCK]
+★宝箱情報開始
+
+[ENDBLOCK]
+<red>赤
+[ENDBLOCK]
+<blue>青
+[ENDBLOCK]
+<green>緑
+[ENDBLOCK]
+<red>赤
+[ENDBLOCK]
+体力を回復します。
+[ENDBLOCK]
+体力を奪います。
+[ENDBLOCK]
+ＥＸポイントが入っています。
+[ENDBLOCK]
+ＥＸポイントを奪います。
+[ENDBLOCK]
+食料を追加します。
+[ENDBLOCK]
+食料を奪います。
+[ENDBLOCK]
+この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+この階の宝箱についての情報を
+教えて差し上げましょう。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+この階にある<TAG_054>色の宝箱</color>は、
+<TAG_055>
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+それでは、またの機会にお目にかかりましょう。
+[ENDBLOCK]
+★宝箱情報終了
+
+[ENDBLOCK]
+★アイテム→フードサック開始
+
+[ENDBLOCK]
+<x1A><x72><x40><x1C><x80><TAG_075>個が必要です（現在所持数：<TAG_076>個）
+
+[ENDBLOCK]
+最低でも<x17><x72><x40><x24><x80>個が必要です
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+貴方が持っている<x1A><x72><x40><x1C><x80><TAG_075>個で、
+食料を持てるだけ補充して差し上げられます。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+いかがいたしましょう？
+[ENDBLOCK]
+select
+[ENDBLOCK]
+対象	<x1A><x72><x40><x1C><x80>	<TAG_075>個	（現在<x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>個）
+頼む
+頼まない
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+残念ながら、代価が不足しているようです。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+それでは、<x1A><x72><x40><x1C><x80><TAG_075>個を頂きます。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+フードが満タンになりました。
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+機会がありましたら、
+またご利用ください。
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+またの機会に、ご利用ください。
+[ENDBLOCK]
+★アイテム→フードサック終了
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+「<x18><x66><x10><x00><x80>」のイベントは
+用意されていません。
+[ENDBLOCK]
+<TAG_031>は無効値です。アップルグミの番号を返却します。
+
+[ENDBLOCK]
+<TAG_031>は無効値です。アップルグミの番号を返却します。
+
+[ENDBLOCK]
+<TAG_031>は無効値です。レートを０とします。
+
+[ENDBLOCK]
+<TAG_031>は無効値です。最低数を15とします。
+
+[ENDBLOCK]
+○気絶から復帰：パッド入力開始
+
+[ENDBLOCK]
+○跳躍から復帰：パッド入力開始
+
+[ENDBLOCK]
+○転倒から復帰：パッド入力開始
+
+[ENDBLOCK]
+次の階へ進む
+[ENDBLOCK]
+セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>ポイント必要）
+[ENDBLOCK]
+アルカナルインから脱出
+[ENDBLOCK]
+キャンセル
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>ＥＸポイント	<x17><x08><x96><x74><x00><x80>
+<x18><x66><x50><x24><x00><x80>
+<x18><x66><x50><x28><x00><x80>
+<x18><x66><x50><x2C><x00><x80>
+<x18><x66><x50><x30><x00><x80>
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>本当によろしいですか？
+はい
+いいえ
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>本当によろしいですか？
+はい
+いいえ
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>本当によろしいですか？
+はい
+いいえ
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+ＥＸポイントが不足しています。
+[ENDBLOCK]
+戦終了後の割り込み設定
+
+[ENDBLOCK]
+クリアタイム：フレーム＝<TAG_032>
+
+[ENDBLOCK]
+クリアタイム：分単位	＝<TAG_032>
+
+[ENDBLOCK]
+パーティボーナス：<TAG_075>
+
+[ENDBLOCK]
+全滅割り込み
+
+[ENDBLOCK]
+<TAG_005>弱者など要らぬわ。
+[ENDBLOCK]
+<TAG_031>はEXダンジョン番号ではありません。
+
+[ENDBLOCK]
+<TAG_032>は階層番号ではありません。
+
+[ENDBLOCK]
+アルカナルイン
+[ENDBLOCK]
+アルカナルイン
+[ENDBLOCK]
+	<TAG_032>F
+[ENDBLOCK]
+？？？？？？？？
+[ENDBLOCK]
+マップ名称の設定
+
+[ENDBLOCK]
+アルカナルイン
+[ENDBLOCK]
+EXポイント-><TAG_032>, 加算-><TAG_031>
+
+[ENDBLOCK]
+EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+
+[ENDBLOCK]
+○○○階層クリア時のパーティーボーナス：<TAG_032>
+
+[ENDBLOCK]
+○○○階層クリア時間から得られるポイント：<TAG_033>
+
+[ENDBLOCK]
+パーティの人数：<x17><x20><x14><x23><x80>
+
+[ENDBLOCK]
+○○○階層クリア時のパーティーボーナス：<TAG_031>
+
+[ENDBLOCK]
+Party: Lilith <TAG_031>
+
+[ENDBLOCK]
+パーティ選択
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00>この階の攻略メンバーを決定してください。
+選択できるメンバーは１人から５人までです。
+
+[ENDBLOCK]
+<x19><x21><x72><x00><x8B><x80>, <x17><x45><x56><x98><x00><x72><x00><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+パーティ参加人数：<x17><x72><x40><x64><x80>、戦闘参加：<x17><x72><x40><x68><x80>、サポート：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+party_list[0] = <x17><x6A><x40><x9C><x80>（パーティ人数）
+
+[ENDBLOCK]
+party_list[<TAG_031>] = <x17><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>（<x19><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>パーティを編成しました。
+[ENDBLOCK]
+パーティ選択
+[ENDBLOCK]
+<grey1>決定
+[ENDBLOCK]
+	
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x19><x21><x72><x08><x8B><x80>は<x17><x45><x56><x98><x00><x72><x08><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>このメンバーでいいですか？
+はい
+いいえ
+
+[ENDBLOCK]
+</color>決定
+[ENDBLOCK]
+<grey1>決定
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
+
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
+
+[ENDBLOCK]
+サポートキャラクター選択
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+設定しない
+
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>パーティ選択に戻る
+[ENDBLOCK]
+設定なし
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>パーティ選択に戻りますか？
+はい
+いいえ
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x58><x00><x80>でいいですか？
+はい
+いいえ
+
+[ENDBLOCK]
+<TAG_076> = <x19><x72><x40><x18><x21><x8B><x80>
+
+[ENDBLOCK]
+party_list[<x17><x6A><x01><x80>] = <x17><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80> = <x19><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+j = <x17><x6A><x02><x80>	HPを１に変更
+
+[ENDBLOCK]
+パーティを再編成します
+
+[ENDBLOCK]
+更新人数：<x17><x6A><x02><x21><x8C><x80>、戦闘要員：<x17><x69><x49><x91><x80>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x98><x21><x8C><x80>回）		<Stahn>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x98><x80>回）	<Stahn>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x99><x21><x8C><x80>回）		<Rutee>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x99><x80>回）	<Rutee>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9A><x21><x8C><x80>回）		<Philia>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9A><x80>回）	<Philia>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9B><x21><x8C><x80>回）		<Woodrow>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9B><x80>回）	<Woodrow>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9C><x21><x8C><x80>回）		<Lion>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9C><x80>回）	<Lion>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9D><x21><x8C><x80>回）		<Mary>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9D><x80>回）	<Mary>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9E><x21><x8C><x80>回）		<Chelsea>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9E><x80>回）	<Chelsea>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><x9F><x21><x8C><x80>回）		<Johnny>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><x9F><x80>回）	<Johnny>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><xA0><x21><x8C><x80>回）		<Kongman>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><xA0><x80>回）	<Kongman>
+
+[ENDBLOCK]
+<yellow>参加（残り<x17><x69><x46><xA1><x21><x8C><x80>回）		<Lilith>
+
+[ENDBLOCK]
+<grey1>不参加（残り<x17><x69><x46><xA1><x80>回）	<Lilith>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+</color><Stahn>
+
+[ENDBLOCK]
+</color><Rutee>
+
+[ENDBLOCK]
+</color><Philia>
+
+[ENDBLOCK]
+</color><Woodrow>
+
+[ENDBLOCK]
+</color><Lion>
+
+[ENDBLOCK]
+</color><Mary>
+
+[ENDBLOCK]
+</color><Chelsea>
+
+[ENDBLOCK]
+</color><Johnny>
+
+[ENDBLOCK]
+</color><Kongman>
+
+[ENDBLOCK]
+</color><Lilith>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+</color><Stahn>
+[ENDBLOCK]
+</color><Rutee>
+[ENDBLOCK]
+</color><Philia>
+[ENDBLOCK]
+</color><Woodrow>
+[ENDBLOCK]
+</color><Lion>
+[ENDBLOCK]
+</color><Mary>
+[ENDBLOCK]
+</color><Chelsea>
+[ENDBLOCK]
+</color><Johnny>
+[ENDBLOCK]
+</color><Kongman>
+[ENDBLOCK]
+</color><Lilith>
+[ENDBLOCK]
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+この台は重さに反応して下がります。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+台の上に立ち止まると、
+重さに反応して台が下がります。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+片方の台を下げる事で、
+もう片方の台が上がります。
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+×××××スコープできた？
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4D><x74><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x5D><x64><x00><x80><x18><x65><x5D><x68><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4D><x74><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x5D><x64><x00><x80><x18><x65><x5D><x68><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4D><x98><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5D><x94><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x4D><x88><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x5D><x8C><x00><x80>
+<x18><x65><x5D><x90><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x4D><x74><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

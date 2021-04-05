@@ -1,0 +1,1183 @@
+××××××空開始××××××
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><CENTER>In this time of peace, we 
+should have a sword in the house.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+If you're headed for Tirso Forest,
+it's just north of the city.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+This is the city of Frostheim.
+You guys have come at a bad time.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Welcome, you're in Frostheim, the
+ocean gateway to Phandaria.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Just when you thought the
+rebellion  was over, now there's
+a war in heaven and earth...?
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+It's been horrible.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+If it's a lens from this city, I've
+already taken it to Heidelberg.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Finish the fight. I'm asking you.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+You're going out of town by yourself?
+
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Monsters don't show mercy
+even if  you're dealing with
+a single girl, so be careful.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Right now, we just need to
+get the injured to safety.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+I wondered what would happen
+for a while, but I'm relieved now.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+The war in heaven and earth is
+...what we have done, you say?
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+I don't have much in the way of food
+reserves. If things continue like this...
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+I heard that they are making
+amazing weapons in Seinegald.
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+Sis, where are you going?
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+Why is everyone hurt?
+Who did this to you?
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+The new king's name is <Woodrow>.
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+There's something weird
+floating in the sky...?
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+Why is the sky is filled
+with weird stuff?
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+I wonder if the lens has
+fallen off somewhere?
+[ENDBLOCK]
+Daughter
+[ENDBLOCK]
+You can go up to that thing
+in the sky? That's awesome!
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+What? You're going to the Tirso 
+Forest by yourself for your friend?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+What a sweet girl who
+loves her brother.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I heard that there was a rebellion
+in the capital. We don't know any
+more at the moment.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Even though it ended without
+incident, our capital city was
+brought down by the rebels.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+This fact must be taken
+seriously by all citizens.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Is there any way to prevent
+an attack from the sky?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+This city is also under
+threat from monsters.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Can we collect the lens and
+do something about it now?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+For now, we will wait for
+good news and do our best
+to defend the city.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We have to protect the
+city from the rebels.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+The better prepared you are,
+the better off you are.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+We have to protect the
+city from the rebels.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+The better prepared you are,
+the better off you are.
+[ENDBLOCK]
+Weapon Shop
+[ENDBLOCK]
+I once saw a large bird
+flying far above us on an
+island southeast of here.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+If you're going to help
+the wounded, you'd better
+be ready.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+The weather around here is harsh.
+Make sure you're prepared.
+[ENDBLOCK]
+Uniques Shop
+[ENDBLOCK]
+If you're going to go help the
+wounded, you better be ready.
+[ENDBLOCK]
+Uniques Shop
+[ENDBLOCK]
+The weather around here is harsh.
+Be prepared for it.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Do you have the Battle record Book?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Your skill is good enough,
+I will give you this.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Take good care of it.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can perform a Definite Strike
+by setting [Definite Strike] to 
+"ON" from the Customize menu
+in the Main menu.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+You can also view each monster's
+Definite Strike in the Monster Book
+if Definite Strike is [ON].
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing to give anymore. 
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I have nothing to say anymore.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Come back once you have honed
+your skills some more.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Oh, you rebels. How dare 
+you turn on the royal family.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Uh-uh.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+<King> Your Majesty... I'm sorry...
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Who is that <Greybum> guy? How 
+can he so easily control monsters?
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I didn't expect Heidelberg
+to fall so easily.
+[ENDBLOCK]
+
+[ENDBLOCK]
+So we decided to create a new world
+of the truly talented, the chosen ones.
+[ENDBLOCK]
+
+[ENDBLOCK]
+The plan that was unfulfilled
+a  thousand years ago must
+now be realized!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+This is...!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+There are certainly a lot of soldiers.
+And some of them are injured.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+It's like they were forced to leave
+their home and fled with nothing
+but their clothes on.
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+Oh, there he is! That's the monk
+<Woodrow> picked up before!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Alba> You're the teacher!
+What are you doing here?
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+We'll talk more about it later. Can
+you help <Woodrow> and <Chelsea>?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What's the situation?
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+Together, we escaped Heidelberg
+and made our way to this city.
+[ENDBLOCK]
+<Alba>
+[ENDBLOCK]
+We got separated from our pursuers.
+They're still in the forest on the way!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Who's <Woodrow>?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+That's terrible. <Stahn>, let's
+get to the rescue now.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Well then, <Mary>, I'm sorry to
+leave you, but here goes.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Oh, yeah... 
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+<Mary>, <Stahn>, you can
+go with them. I'm fine now.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+What are you talking about, <Dalis>?
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+You know very well that <Mary> 
+is very good at what she does.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+I'm sure you can help.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+But...
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+<Mary>. Isn't that what you've
+been hoping for in your heart?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+...Indeed, what <Dalis>
+says is not untrue.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+But... that and this.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+Ever since I started living
+with you, every day has been
+a series of happiness for me.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+We should do our best to make
+this happiness a permanent one.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Dalis>...
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+And we owe you a great
+debt of gratitude, <Stahn>.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+I have to give some of that back.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I'm going to go too... I will
+now work with <Stahn>
+and others.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Mary>, are you sure you
+want to do this?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Does it bother you that
+I want to come with you?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+No way! You're 
+more than welcome.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Okay, then it's settled.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I swear it.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Even though I'll be off in a foreign
+land, my heart is always with you.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+I swear it, too.
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+My soul is always with you,
+through hard times and happy.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+So let's get going.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Nice to meet you, <Mary>!
+Thank you, <Dalis>!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Let's hurry down to <Woodrow>.
+He's at Heidelberg, wasn't he?
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Current Gald: <TAG_033>Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC8><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80> has received
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xC0><x00><x80>
+<x18><x65><x58><xC4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x48><xA8><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+Hello, my name is <TAG_053> I manage
+the trading here in <TAG_054>.
+[ENDBLOCK]
+You're not done yet? Please 
+don't tell me you're quitting.
+[ENDBLOCK]
+If you're not too busy, maybe you
+could help me with my work.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Take on a job
+I don't have time for this.
+What kind of work?
+
+[ENDBLOCK]
+Obtain and deliver <TAG_035> <x1A><x71><x44><x34><x80>
+to <x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+[ENDBLOCK]
+The reward is <TAG_032> Gald.
+It's an easy job.
+
+[ENDBLOCK]
+Job
+[ENDBLOCK]
+<TAG_007>Take <TAG_035> <x1A><x71><x44><x34><x80> to
+<x18><x66><x50><x28><x00><x80> in <x18><x66><x50><x2C><x00><x80>.
+Reward: <TAG_032> Gald
+Want the job?
+Accept
+Decline
+[ENDBLOCK]
+In the meantime, I'll advance 
+you a portion of the reward.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You will receive <TAG_032> Gald
+as advanced payment.
+
+[ENDBLOCK]
+I'm counting on you!
+[ENDBLOCK]
+What a pity.
+Maybe next time.
+[ENDBLOCK]
+Well, I'll see you the next time.
+[ENDBLOCK]
+It's an easy job.
+
+[ENDBLOCK]
+Just obtain the designated items
+and take them to my cohort
+in another city!
+[ENDBLOCK]
+I mean, there's money to be made
+in this, so why not do it, right?
+[ENDBLOCK]
+Please do as much as you can.
+[ENDBLOCK]
+I see you've received a job from
+<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+[ENDBLOCK]
+The request is for <TAG_035> <x1A><x72><x0C><x80>.
+
+[ENDBLOCK]
+I'll be quick about it.
+
+[ENDBLOCK]
+<x18><x66><x50><x20><x00><x80> is located in
+the town of <x18><x66><x50><x24><x00><x80>.
+
+[ENDBLOCK]
+Please obtain <TAG_035> <x1A><x72><x0C><x80>,
+and deliver it as soon as you can.
+
+[ENDBLOCK]
+Good job, getting what I needed!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+You will receive <TAG_077> Gald
+after taking the difference
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x2C><x00><x80> 
+for the payment advance.
+
+[ENDBLOCK]
+You're short the requested number of items.
+
+[ENDBLOCK]
+Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+[ENDBLOCK]
+You'll have to pay a penalty if you
+quit the job you've accepted.
+[ENDBLOCK]
+You know you have to pay a penalty to
+cancel an order you've accepted?
+[ENDBLOCK]
+It's great to work with you.
+[ENDBLOCK]
+Well, good luck then.
+[ENDBLOCK]
+Are you serious? If you're having 
+second thoughts, now's the time.
+[ENDBLOCK]
+I'm a little disappointed...
+
+[ENDBLOCK]
+I am charging a cancellation
+[ENDBLOCK]
+Breach of Contact Fee
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
+
+[ENDBLOCK]
+You can't cancel the contract
+unless you pay the penalty.
+[ENDBLOCK]
+In the meantime, I'm going to ask
+you to pay me the money you 
+have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I've charged <TAG_075> Gald
+for the inconvenice.
+
+[ENDBLOCK]
+You don't have enough money.
+Come back when you have it.
+[ENDBLOCK]
+I'm counting on you, man.
+
+[ENDBLOCK]
+Are you serious?
+This is your last chance?
+[ENDBLOCK]
+Seriously... You're 
+such a burden.
+
+[ENDBLOCK]
+前金返却と違約金
+[ENDBLOCK]
+違約金
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+
+[ENDBLOCK]
+I can't cancel the contract
+without charging a penalty.
+[ENDBLOCK]
+In the meantime, I'm going to
+ask  you to pay all the money
+you have as an annoyance fee.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>I charged <TAG_075> Gald
+for cancelling. 
+
+[ENDBLOCK]
+Get the Gald together
+and then come back.
+[ENDBLOCK]
+Well, good luck.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Continue the job
+Confirm Details
+Quit the job
+
+[ENDBLOCK]
+Janos
+[ENDBLOCK]
+Harmentz
+[ENDBLOCK]
+Armeida
+[ENDBLOCK]
+Darilsheid
+[ENDBLOCK]
+Cresta
+[ENDBLOCK]
+Cherik
+[ENDBLOCK]
+Kalviola
+[ENDBLOCK]
+Junkland
+[ENDBLOCK]
+Neuestadt
+[ENDBLOCK]
+Lienea
+[ENDBLOCK]
+Frostheim
+[ENDBLOCK]
+Shiden
+[ENDBLOCK]
+Moreau
+[ENDBLOCK]
+Terazzi
+[ENDBLOCK]
+Cyril
+[ENDBLOCK]
+Heidelberg
+[ENDBLOCK]
+Calvalese
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Genera
+[ENDBLOCK]
+Honeywell
+[ENDBLOCK]
+Amex
+[ENDBLOCK]
+Siti
+[ENDBLOCK]
+DuPont
+[ENDBLOCK]
+Tapira
+[ENDBLOCK]
+Alcoa
+[ENDBLOCK]
+Johnson
+[ENDBLOCK]
+Pfizer
+[ENDBLOCK]
+Philip
+[ENDBLOCK]
+Verizon
+[ENDBLOCK]
+Exxon
+[ENDBLOCK]
+Morgan
+[ENDBLOCK]
+Ivy
+[ENDBLOCK]
+Packard
+[ENDBLOCK]
+Merick
+[ENDBLOCK]
+Depot
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Oh, you're ......?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+.....
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>What is it?
+(...... ignore ......)
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+That's a girl, right?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+What the hell?	Say that
+again. See what happens...
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Oh, God, I'm sorry. I'm sorry.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Hey, are you from Seinegald?
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Then do you know a swordsman
+by the name of <Lion>?
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+I've only seen your face
+from a distance once.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+He's a very handsome swordsman,
+and I adore him.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+She has such a small body, yet she's
+so graceful on  the battlefield 
+with all those strong men in tow.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+That's why I call you Sir, <Lion>.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+It's called "The Rose of Seinegald.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+I'm the same woman.
+If you're Sir, <Lion>.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Oh, <Mary>, is that you?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+You are...
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>It's been a while.
+Let's see...
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Yeah. By the way, <Mary>?
+I heard you had lost your memory.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Oh, I'd forgotten all about you.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Hahaha. You're
+really funny, <Mary>.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+I'm going to visit Cyriil next time.
+I want to see <Dalis>'s face, again.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+I'm looking forward to it.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+You're still a bit of a jerk,
+aren't you, <Mary>?
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+How are things going
+with you and <Dalis>?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Oh!	You are!
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Who? I hope it's not
+some kind of blur.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+You are the lady who lived next door
+to <Dalis> as a child, and who took
+good care of the young <Dalis>.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Hey, you remember me well.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+Well, okay. A wife like you is just
+fine for a hard man like <Dalis>.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Thank you.
+[ENDBLOCK]
+Old Lady
+[ENDBLOCK]
+I hope you can get along with
+<Dalis> and let your auntie
+carry your child soon.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Hey...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hmm?
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007><CENTER>Ma'am, what about me?
+I'm in private now. You can sign later.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+I'm uncomfortable
+when you're naked.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+That's ridiculous. There's no 
+such thing as a woman like that.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+I'm here. I'm here.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hahahaha.
+There's no such thing.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Huh?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+So I'll sign it later.
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Huh?
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Hey, you. Why are
+you naked ......?
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Your people don't say anything?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hahahaha.
+Who wouldn't want to see
+these muscles of mine!
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+(Look of fear)...<x00>
+[ENDBLOCK]

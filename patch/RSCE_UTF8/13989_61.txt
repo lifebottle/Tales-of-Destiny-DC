@@ -1,0 +1,1800 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Excuse me, Sir?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Me?
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>What do you want?
+I have no business with children
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+What kind of food do
+you usually eat?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...Uh...
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+What kinda answer
+was that? "Uhhh"!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Don't be like that. Listen!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Yesterday, when I left some veggies
+I didn't like, my mother got angry.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+She was all, "You
+won't grow if you don't
+eat your veggies"
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+So I have
+a question for you.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Is there any food that you don't like?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I'm not particularly picky, but...
+I really don't like sweets.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Oh, reaaally~?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Yes, really. 
+You don't believe me?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I saw you staring at the
+Softy Kreem stand, you know.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+I was...staring in
+disgust, that's all!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Hmmm... so basically, I can
+grow big if I eat lots of sweets!
+[ENDBLOCK]
+<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Well, in the end, neither we nor
+<Lion> got to eat any Softy Kreem.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Welcome. Which one
+would you like?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, nevermind.
+I don't want anything.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Hm? I swear I've heard
+that one before, somewhere.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Oh, Yeah! It was just before
+the city was attacked by monsters.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+He was kinda small,
+bit of a pretty-boy, too.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+...?
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+He said he didn't want anything,
+but he kept staring at my stand.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That sounds like...!
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Guess some guys just think
+it's unmanly to like sweets.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, that definitely
+sounds like someone I know...
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+...?
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset---------
+
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Does anyone have a... stunning
+shirtless physique... 
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh, it's only you!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hmm? You wanted to see me?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Suddenly, I'm in love with
+that body of yours.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ha, ha, ha...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+To each his own. Good
+for you,<Kongman>.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Even <Philia>, is
+being terrible?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+No, I don't want that!
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh, no sir. Please
+don't misunderstand.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I'm a stage director.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Actually, the actor got sick, We're
+looking for a replacement.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+So you want <Kongman>
+as a stand-in?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Yes, that's correct.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's great.
+<Kongman>。
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You've got to be kidding me. I'm the
+champion, not an understudy!
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I'm sorry. My future as a
+stage director is at stake.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Kongman>, aren't you amazing?
+I love theatrical performances.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Well, well, if <Philia>wants to
+see me as an actor, she will...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+No, no, not that far...
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Really?!
+Thank you very much.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Well, let's get to it!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+What, we're doing this now?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Yes! There's already
+a crowd in the hall!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+...seriously?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Don't worry, there are no lines.
+Just act as I tell you to.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Now, the stage is about to
+begin. Let's hurry up.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Please follow the Director's
+instructions and perform.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+After the Director's instructions are given,
+press the correct acting button while the 
+clock is ticking, and you will succeed.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+The performance goes as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+	<Circle_ani>	Triumpant Stance
+	<Cross_ani>	Laugh
+	<Triangle_ani>	Pose
+	<Square_ani>	Weep
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+That's all. Would you like
+to see the explanation again?
+[ENDBLOCK]
+select
+[ENDBLOCK]
+Yes
+No
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+As soon as you leave here,
+you are on the stage.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I will direct from here.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Please follow those instructions
+and perform. Okay?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+What? It's okay.
+I know you can do it.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Now, you're up!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Come on!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Good luck!
+[ENDBLOCK]
+ret <x17><x66><x14><x03><xE8><x80><x80>
+
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+I am a princess trapped in a tower.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Oh, prince of the white horse.
+When are you going to rescue me?
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Oh, and you are?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Come on, you've got to court her.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+You are the prince on the white horse
+who will rescue me, aren't you?
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Show them you're a strong man!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Oh!	How dependable!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Come on, let's get out of here.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Now, again. Let's be cool.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You will not touch the princess!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+What the hell are you...?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I completely adore the princess.
+But I'm the son of a simple farmer.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Even though her head knows the 
+difference in status, her heart will
+not let her give up on the princess.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Well, do you love me that much?
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+A relationship that transcends status.
+That's the pure love I've always wanted!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Save my body, my 
+soul. Save me.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I will protect the princess
+for the rest of her life.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+...Yes.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I don't know what's going
+on anymore!	That's the laugh!
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+But then I start to understand
+the situation. I cry...!
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Well, it was wonderful.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+You can be a top star without a doubt.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Well, it's your first performance.
+It's enough.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Please join us again.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+Once again. Would you like to
+take the stage again?
+Yes
+No
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I'll explain it again then.
+[ENDBLOCK]
+Director
+[ENDBLOCK]
+I'll be waiting.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Neuestadt's Specialty. Would you 
+like to try a Softy Kreem?
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+The other day's attack caused a
+lot of damage to the store.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+But we can't afford to lose the city's
+specialty to something like this.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Welcome. It's cold
+and delicious.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Sales have not been good lately.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+I guess we don't have time
+to sell Softy Kreem anymore.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+I couldn't stop selling after all.
+Keep up the good work!
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Neuestadt's Specialty. Would you 
+like to try a Softy Kreem?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+I lost all my Gald in the arena. 
+I don't have Gald for food.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+You have to get your food for free.
+... Whoa, did you pull that off?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+I thought I pulled a... but 
+I guess I was imagining it.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+Well, thank God this place is
+back up and running so quickly.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+If we were to fish in the harbor, the
+fishermen would give us the evil eye.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+Where did you guys hear that broadcast?
+I'm really surprised, aren't I?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+You never know when a monster is
+going to attack. Fishing is also
+a deadly business.
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+You guys are collecting lens?
+What are you going to use them for?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+There's a very nice woman downtown.
+I wonder if I can get close to her.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I hope that guy downtown wasn't
+injured in the commotion...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+The other day, I was seen with my
+sister by that guy from downtown.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I hope I'm not misunderstood...
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I wonder how they are feeling right now.
+I want to go check on him, but... hmmm.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I've heard that if I were
+to go to the downtown area,
+I wouldn't be safe.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Hmm... What should I do?
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+I wish they'd get rid of the arena.
+I hate dealing with those hoodlums.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+It was this square that
+suffered the most damage.
+
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+On the contrary, it was fortunate
+that the damage was concentrated
+so that it could be quickly restored.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Ms. <Ilene> is too lenient with
+people from downtown. I'd give
+them a piece of my mind.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+As long as Neuestadt is safe,
+I don't care about the rest.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+That's a bad situation indeed.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+Are you sure you just want lens?
+I'll provide you funds for the army.
+[ENDBLOCK]
+Woman
+[ENDBLOCK]
+So please, please, please!
+Please help us.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I'm not gonna do it just to watch you.
+Get away from me.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I have my Softy Kreem Shop
+back. I'm so relieved. 
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I had to buy another Softy 
+Kreem because it melted after
+all of the excitement.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+There are more kids from downtown
+hanging around here these days.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I'm sure Neuestadt isn't the only
+one that doesn't want to be hit.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+I wish I could ask my dad to
+move me somewhere brighter.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Dad, wants me to try and get along with
+people going forward. I wonder why?
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+Oh, my God. I 
+hope she's okay...
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+Oh, my God.
+She's gone...
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+I want to go to a new world,
+too. I'm sure I'd be happy.
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+I wonder what's going on 
+on top of that shell.
+[ENDBLOCK]
+Poor Child
+[ENDBLOCK]
+I've collected lens too.
+I hope you find them useful.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+It will be 60 Gald each.
+
+[ENDBLOCK]
+select
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Total Gald: <TAG_031>
+[ENDBLOCK]
+<TAG_007>Buy
+I don't want any
+Exchange a winning stick
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Thank you.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+You can't carry 
+any more <ITEM_006>.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+You don't seem to have enough Gald.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+You have a winning stick. I'll
+exchange it for <ITEM_006>.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+Thank you for your patronage.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+You can't carry 
+any more <ITEM_006>.
+[ENDBLOCK]
+Softy Kreem Shop
+[ENDBLOCK]
+If you have <ITEM_070> I can
+exchange it for you.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+This is the Softy Kreem stand
+Mary was talking about, right?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Excuse me, can I get five please?
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+Which flavors would you like?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ohh, there are a bunch to choose
+from. Which one, which one
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hmm, what should I pick.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+The standard mocha flavor, or the
+limited cherry... Which one should
+I choose...? How troublesome.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hey, if it were you,
+which would you choose?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Eh? Me?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+If it were me... I'd definitely
+go with vanilla.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Why vanilla?? You heard me
+say mocha or cherry, right?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+If you can't decide between two
+options, then your answer is a
+third option... or is that wrong?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+ I see, I hadn't thought of that...
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Then I'll do that. Sir, one vanilla!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, me too. Five vanilla!
+[ENDBLOCK]
+Sorry for the wait. Here's five vanillas.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Mmm, delicious! The vanilla flavor
+here is really the best!
+[ENDBLOCK]
+????
+[ENDBLOCK]
+If you eat here just once, no other
+shop will be able to satisfy you.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Stahn>, do you want me
+to help carry them?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Nah, I'm good.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Oh my, these are your companions?
+You're both so cute.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+You flatter me, thank you.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Hmm...? Those children...
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Yoohoo~ Do you all want some, too?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Sir, I'd like one for these children
+here, if you please. All of them.
+[ENDBLOCK]
+Are you sure that's alright, miss?
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Of course. It's better to eat
+with everyone, after all.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Everyone, here you go. I'm
+treating you to Softy Kreem.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+Hey now, don't push! There's
+enough for everyone.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+What a nice person.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Ha, where're you seeing that?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+You sure a rich lady like that isn't
+just trying to bask in her sense of
+superiority?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Rutee>...?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+We should go back soon. The
+Softy Kreem is gonna melt.
+[ENDBLOCK]
+<Kongman> Fan
+[ENDBLOCK]
+The Champion is coming through!
+Everyone, your attention please!
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Ah! It's <Kongman>!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Kongman>...?
+[ENDBLOCK]
+Waaah! <Kongman>!
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+<Kongman>!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hey, kids. Make sure you're
+living for the day.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+How charitous. It must feel
+good to give to the poor.
+[ENDBLOCK]
+????
+[ENDBLOCK]
+I don't think of it as charity.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Don't think that money can buy
+everyting <Ilene> <Rembrandt>！
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You even want the people of Fitzgald
+to sell their souls to you!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<Ilene> <Rembrandt>? <Stahn>,
+that name is definitely...
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+I'm sure I've explained the principles
+of Oberon Company many times.
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+We're investing our funds with
+the hopes of developing Fitzgald.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You newcomers are just trying to turn
+a profit. The people who've been here
+since the beginning are still poor.
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+That's... surely we're...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Hmph. What do you people from
+Seinegald know about Fitzgald?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+This is of no concern to outsiders.
+So hurry up and leave our country!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That's... isn't that wrong?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's not good to judge people
+based on their birth.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+What's it to you, kid? Are
+you trying to preach to me?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+<Stahn>... Isn't it better
+not to interfere?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+But...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Th-this is?!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+My, who is this
+lovely glasses maiden?
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Who? M-me?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+My heart is racing? 
+You're my ideal woman!
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Okay...?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Shall we drink energy drinks together?
+Or perhaps do Hindu squats!
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+Well that's an exciting pickup line.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+His personality changed
+all of a sudden...
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ah?Uh, that's, um, I...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Cut it out, You're scaring <Philia>.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+You're interfering, boy. Who are
+you to this beauty, anyway?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Philia> is my friend.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+I see...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+It seems that  you and I
+are destined to battle!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+A duel! C'mon, to my arena!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Why do we have to duel?!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<Stahn>, you do not have to play
+along. We don't have time for games.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Have you lost your nerve, boy?
+Is that sword hanging at your
+waist too dull?
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+What did you say, you insolent?!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+If you are truly a man, you will accept
+my duel! IF you are a true man!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Alright, ...I'll do it if it
+means that much to you.
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+I'll make you regret insulting me.
+<Stahn>, let's give him hell.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+<Philia>, make sure to watch this.
+I will meet with you after my victory!
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<Dymlos>... If you won't stop
+him, what are we going to do?
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Ugh... but...
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Do whatever you like? It
+doesn't really concern me.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+I'm sorry, <Stahn>.
+Because of me, you...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's not really your fault, <Philia>.
+It was a decision I made by myself.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+So, where is the arena anyway?
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+If you go up the main street in
+town to the north, there's an
+entrance at the end.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Thank you. I'll go now.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+My Softy Kreem...
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+...Oh. It melted.
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+Welcome. Which flavor would you like?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+...Sir?
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+Excuse me, sir!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Ah, nevermind.
+I don't want anything.
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Master <Lion>, don't be shy.
+You wanted to come here.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+That's true...
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Excuse me. I'll have one Softy Kree-
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Aaahhh!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+What's wrong?
+[ENDBLOCK]
+Softy Kreem Stand
+[ENDBLOCK]
+A...a monster...!
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Master <Lion>, we need to help her!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+HAAAH!
+[ENDBLOCK]
+Young Woman
+[ENDBLOCK]
+Thank you so much!!
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+I'm worried about the rest
+of the city. Let's hurry!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Total Gald: <TAG_033>
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Yes
+No
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color> 
+[ENDBLOCK]
+has joined the Party.
+[ENDBLOCK]
+is now an active 
+party member.
+[ENDBLOCK]
+can join the battle.
+[ENDBLOCK]
+will follow your party.
+[ENDBLOCK]
+has returned to the party.
+[ENDBLOCK]
+<x18><x65><x59><xB8><x00><x80><x18><x65><x59><xBC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color> 
+[ENDBLOCK]
+has left the party.
+[ENDBLOCK]
+<x18><x65><x59><xB8><x00><x80><x18><x65><x59><xBC><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><xE8><x00><x80></color>.
+
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Trading Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Hot Springs Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+The <turquoise>Free Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+the Titles: <turquoise>NatuRanger
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Dash Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Strongest Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80>'s party received
+[ENDBLOCK]
+the <turquoise>Quiz Titles
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80> has received 
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><xE0><x00><x80>
+<x18><x65><x59><xE4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x1A><x20><x72><x0C><x98><x80>は
+すでに持っています。
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>website
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>ウェブサイトで入力する
+連動IDとゲームパスワードを忘れてしまった場合は
+フィッツガルドにあるTravelerの小屋で
+確認する事ができます。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Device not activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Warp device activated.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x19><x71><x49><xC8><x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Titles Description]
+Titles are one of the character parameters
+that can be set on a character. The
+specific set method is as follows.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>After opening the main menu,
+the character status will display.
+On this screen, hit <Square_ani> and you'll
+be able to change the character status.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>At the top of this screen, you'll see
+[Titles] On this screen, press <Triangle_ani> 
+and it'll let you pick from all the titles
+you've acquired.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>There are two purposes to titles. 
+The first is to [Set your title and 
+talk to the townspeople].
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>By setting a title, certain townspeople
+will take interest in you. When you talk
+to them several times, you might get
+interesting responses. When that
+happens, reset the title you have on
+and try talking to them again.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>Hint: When talking to townspeople, a
+[?] will appear over your character's
+head. If this happens, set a title that
+seems to be related to the dialogue, 
+and try talking to them again. 
+Something fun may happen.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>The second purpose of titles is...
+to make your status screen look cool!
+When collecting titles, you might pick
+up one you like, so you can set it on
+your status for a little flair!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>[Rock Rally] is a game in which 
+players kick rocks on the field 
+to clear certain objectives.
+
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+1: Kicking a rock outside the 
+	city will start the game.
+2: Battles doesn't affect the clearing
+	objective of the Rock Rally game.
+3: The rock will return to its original
+	location when you enter or leave
+	a city or dungeon.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...<x00>
+[ENDBLOCK]

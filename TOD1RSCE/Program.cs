@@ -14,80 +14,94 @@ namespace sceWork
         public static tableModule codes;
         public static Encoding SJIS = Encoding.GetEncoding(932);
         private static bool useSJIS = false;
+        private static bool doDeduplication = false;
         private static bool dumpRaw = false;
         private static bool dumpCount = false;
         private static bool flag1 = false;
         private static bool flag2 = false;
+        public static bool verbose = false;
 
         private static void Main(string[] args)
         {
+            Console.WriteLine("TOD1RSCE Module v0.8 - Decompiled Clone");
+
             if (File.Exists("jpcodes.txt"))
-                Program.jpcodes = new tableModule("jpcodes.txt");
+                jpcodes = new tableModule("jpcodes.txt");
             if (File.Exists("codes.txt"))
-                Program.codes = new tableModule("codes.txt");
-            if (args.Length != 0)
+                codes = new tableModule("codes.txt", true);
+
+            if (args.Length == 0)
             {
-                ParseArgs(args);
-                string str = args[0];
-                if (!(str == "-e"))
-                {
-                    if (str == "-r")
-                    {
-                        if (Path.GetExtension(args[1]) == ".rsce" || Path.GetExtension(args[1]) == ".tod1rsce" || Path.GetExtension(args[1]) == ".tod1rsce4")
-                        {
-                            Program.Repack(args[1]);
-                            Program.AddBytes(args[1], args);
-                        }
-                        else if (Directory.Exists(args[1]))
-                        {
-                            string[] array = ((IEnumerable<string>)Directory.GetFiles(args[1], "*.*", SearchOption.AllDirectories)).Where<string>((Func<string, bool>)(s => s.EndsWith(".rsce") || s.EndsWith(".tod1rsce") || s.EndsWith(".tod1rsce4"))).ToArray<string>();
-                            for (int index = 0; index < array.Length; ++index)
-                            {
-                                Program.Repack(array[index]);
-                                Program.AddBytes(array[index], args);
-                            }
-                        }
-                    }
-                }
-                else if (Path.GetExtension(args[1]) == ".rsce" || Path.GetExtension(args[1]) == ".tod1rsce" || Path.GetExtension(args[1]) == ".tod1rsce4")
-                    Program.Extract(args[1]);
-                else if (Directory.Exists(args[1]))
-                {
-                    foreach (string fileName in ((IEnumerable<string>)Directory.GetFiles(args[1], "*.*", SearchOption.AllDirectories)).Where<string>((Func<string, bool>)(s => s.EndsWith(".rsce") || s.EndsWith(".tod1rsce") || s.EndsWith(".tod1rsce4"))).ToArray<string>())
-                        Program.Extract(fileName);
-                }
-                Console.WriteLine("Complete!");
-                //Console.ReadKey();
-            }
-            else
-            {
-                Console.WriteLine("TOD1RSCE Module Decompiled Clone v0.3");
                 Console.WriteLine("Generously donated by Temple of Tales Translations team");
                 Console.WriteLine("http://temple-tales.ru/translations.html\n");
                 Console.WriteLine("Usage:");
-                Console.WriteLine("    extract : .exe -e *.tod1rsce");
-                Console.WriteLine("    extract : .exe -e *.tod1rsce4");
-                Console.WriteLine("    extract : .exe -e *.rsce");
-                Console.WriteLine("    extract : .exe -e <dir>");
-                Console.WriteLine("    repack  : .exe -r *.tod1rsce");
-                Console.WriteLine("    repack  : .exe -r *.tod1rsce4");
-                Console.WriteLine("    repack  : .exe -r *.rsce");
-                Console.WriteLine("    repack  : .exe -r <dir>");
+                Console.WriteLine("    extract: .exe -e *.tod1rsce");
+                Console.WriteLine("    extract: .exe -e *.tod1rsce4");
+                Console.WriteLine("    extract: .exe -e *.rsce");
+                Console.WriteLine("    extract: .exe -e <dir>");
+                Console.WriteLine("    repack : .exe -r *.tod1rsce");
+                Console.WriteLine("    repack : .exe -r *.tod1rsce4");
+                Console.WriteLine("    repack : .exe -r *.rsce");
+                Console.WriteLine("    repack : .exe -r <dir>");
                 Console.WriteLine("Add params:");
+                Console.WriteLine("    -v : Verbose failed string output");
                 Console.WriteLine("    -as <count> : Add <count> bytes to start file");
                 Console.WriteLine("    -ae : Seek file to 16 bytes");
                 Console.WriteLine("    -sjis : Use CP-932 (SHIFT-JIS) encoding");
-                Console.WriteLine("    -count : Dump byte count");
+                Console.WriteLine("    -dedup : deduplicate strings on insertion");
+                Console.WriteLine("    -count : Dump byte count (debug)");
                 Console.WriteLine("    -raw : Dump/insert raw bytes ignoring JPCODES and CODES");
-                Console.ReadKey();
+                //Console.ReadKey();
+                Environment.Exit(0);
             }
-        }
 
-        private static void Die(string message)
-        {
-            Console.WriteLine(message);
-            Console.ReadKey();
-            Environment.Exit(-1);
+            ParseArgs(args);
+            string str = args[0];
+
+            //Do extraction
+            if (str == "-e")
+            {
+                if (Path.GetExtension(args[1]) == ".rsce" || Path.GetExtension(args[1]) == ".tod1rsce" || Path.GetExtension(args[1]) == ".tod1rsce4")
+                {
+                    if (jpcodes == null)
+                    {
+                        MiscUtils.Warn("No JPCODES.txt file! Dumping raw bytes...");
+                    }
+
+                    Extract(args[1]);
+                }
+                else if (Directory.Exists(args[1]))
+                {
+                    foreach (string fileName in ((IEnumerable<string>)Directory.GetFiles(args[1], "*.*", SearchOption.AllDirectories)).Where<string>((Func<string, bool>)(s => s.EndsWith(".rsce") || s.EndsWith(".tod1rsce") || s.EndsWith(".tod1rsce4"))).ToArray<string>())
+                        Extract(fileName);
+                }
+            }
+
+            //Do insertion
+            if (str == "-r")
+            {
+                if (Path.GetExtension(args[1]) == ".rsce" || Path.GetExtension(args[1]) == ".tod1rsce" || Path.GetExtension(args[1]) == ".tod1rsce4")
+                {
+                    if (jpcodes == null)
+                    {
+                        MiscUtils.Warn("No JPCODES.txt file! Assuming dump is raw...");
+                    }
+
+                    Repack(args[1]);
+                    AddBytes(args[1], args);
+                }
+                else if (Directory.Exists(args[1]))
+                {
+                    string[] array = ((IEnumerable<string>)Directory.GetFiles(args[1], "*.*", SearchOption.AllDirectories)).Where<string>((Func<string, bool>)(s => s.EndsWith(".rsce") || s.EndsWith(".tod1rsce") || s.EndsWith(".tod1rsce4"))).ToArray<string>();
+                    for (int index = 0; index < array.Length; ++index)
+                    {
+                        Repack(array[index]);
+                        AddBytes(array[index], args);
+                    }
+                }
+            }
+            Console.WriteLine("Complete!");
+            //Console.ReadKey();
         }
 
         private static void ParseArgs(string[] args)
@@ -96,39 +110,49 @@ namespace sceWork
             {
                 try
                 {
+                    if (args[index] == "-v")
+                    {
+                        verbose = true;
+                        MiscUtils.Info("verbose mode active");
+                    }
                     if (args[index] == "-sjis")
                     {
                         useSJIS = true;
-                        Console.WriteLine("using CP-932 (SHIFT-JIS) for this operation.");
+                        MiscUtils.Info("using CP-932 (SHIFT-JIS) for this operation.");
                     }
                     if (args[index] == "-count")
                     {
                         dumpCount = true;
-                        Console.WriteLine("dumping byte count to file.");
+                        MiscUtils.Info("dumping debug byte counts to file.");
+                    }
+                    if (args[index] == "-dedup")
+                    {
+                        doDeduplication = true;
+                        MiscUtils.Info("string deduplication is active for this operation.");
                     }
                     if (args[index] == "-raw")
                     {
                         dumpRaw = true;
-                        Console.WriteLine(" -Ignoring JPCODES and CODES for this operation.");
+                        MiscUtils.Info("Ignoring JPCODES and CODES for this operation.");
                     }
                     if (args[index] == "-as")
                     {
                         flag1 = true;
-                        Console.WriteLine(" -Activate add bytes to start.");
+                        MiscUtils.Info("Activate add bytes to start.");
                         if (!int.TryParse(args[index + 1], out _))
                         {
-                            Die("Error. The value of the -as parameter is not a number.");
+                            MiscUtils.Die("Error. The value of the -as parameter is not a number.");
                         }
                     }
                     if (args[index] == "-ae")
                     {
                         flag2 = true;
-                        Console.WriteLine(" -Activate add %16 to end.");
+                        MiscUtils.Info("Activate add %16 to end.");
                     }
                 }
                 catch (Exception)
                 {
-                    Die("Parameter reference error, perhaps a parameter was entered, but its value was not entered.");
+                    MiscUtils.Die("Parameter reference error, perhaps a parameter was entered, but its value was not entered.");
                 }
             }
         }
@@ -139,10 +163,8 @@ namespace sceWork
             Console.ForegroundColor = ConsoleColor.Red;
             for (int index = 0; index < args.Length; ++index)
             {
-
                 if (args[index] == "-as")
                 {
-                    Console.WriteLine(" -Activate add bytes to start.");
                     int.TryParse(args[index + 1], out result);
                 }
 
@@ -172,48 +194,22 @@ namespace sceWork
             if (!sceModule.isHaveText())
                 return;
             string path = !(Path.GetDirectoryName(fileName) != "") ? Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt" : Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
-            string pathCount = !(Path.GetDirectoryName(fileName) != "") ? Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt" : Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt";
             Console.WriteLine(string.Format("Extracting {0}...", Path.GetFileName(fileName)));
 
-            if (jpcodes == null)
+            if (jpcodes == null || dumpRaw)
             {
-                Console.WriteLine("No JPCODES.txt file! Dumping raw bytes...");
-            }
-            if (jpcodes == null || dumpRaw || dumpCount)
-            {
-                List<byte> dump = new List<byte>();
-                List<string> byteInfo = new List<string>();
-                int total = 0;
-                bool switch1 = true;
-                for (int idx = 0; idx < sceModule.Count - 1; ++idx)
-                {
-                    if (dumpCount)
-                    {
-                        total += sceModule.GetBlock(idx).Length;
-                        if (total > 0xFFF && switch1)
-                        {
-                            byteInfo.Add("-----------CUT POINT-----------------------");
-                            byteInfo.Add("|       length average: " + (total / idx + 1));
-                            byteInfo.Add("-----------CUT POINT-----------------------");
-                            switch1 = false;
-                        }
-                        byteInfo.Add("Block: " + String.Format("{0:D3}", idx) + " | Line length: " + String.Format("{0:D3}", sceModule.GetBlock(idx).Length) + " total length: " + String.Format("{0:D4}", total));
-                    }
-                    else
-                    {
-                        dump.AddRange(sceModule.GetBlock(idx));
-                        dump.Add(0x0D); dump.Add(0x0A);
-                        dump.AddRange(Encoding.ASCII.GetBytes("[ENDBLOCK]"));
-                        dump.Add(0x0D); dump.Add(0x0A);
-
-                    }
-                }
-                if (dumpCount)
-                    File.WriteAllLines(pathCount, byteInfo.ToArray());
-                else
-                    File.WriteAllBytes(path, dump.ToArray());
+                ExtractRaw(fileName, sceModule);
                 return;
             }
+
+            if (dumpCount)
+            {
+                ExtractCount(fileName, sceModule);
+                return;
+            }
+
+            if (codes == null)
+                MiscUtils.Warn("No CODES.txt file! Special sequences will be ignored, output can get messy!");
 
             List<string> stringList = new List<string>();
             for (int idx = 0; idx < sceModule.Count; ++idx)
@@ -221,17 +217,78 @@ namespace sceWork
                 string str = sceModule.GetStringBlock(idx);
                 if (codes != null)
                     str = codes.ConvertNativeToTags(str);
-                else
-                    Console.WriteLine("No CODES.txt file! Special sequences will be ignored, output can get messy!");
+
                 if (jpcodes != null)
                     str = jpcodes.ConvertAtoB(str);
                 stringList.Add(HexToAnsi(str));
                 stringList.Add("[ENDBLOCK]");
             }
+
             if (useSJIS)
                 File.WriteAllLines(path, stringList.ToArray(), SJIS);
             else
                 File.WriteAllLines(path, stringList.ToArray());
+        }
+
+        private static void ExtractRaw(string fileName, sceModule sceModule)
+        {
+            string path;
+
+            if (Path.GetDirectoryName(fileName) == "")
+            {
+                path = Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_raw.txt";
+            }
+            else
+            {
+                path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_raw.txt";
+            }
+
+            List<byte> dump = new List<byte>();
+            for (int idx = 0; idx < sceModule.Count; ++idx)
+            {
+                dump.AddRange(sceModule.GetBlock(idx));
+                dump.AddRange(Encoding.ASCII.GetBytes("\r\n[ENDBLOCK]\r\n"));
+            }
+            File.WriteAllBytes(path, dump.ToArray());
+            return;
+
+        }
+        private static void ExtractCount(string fileName, sceModule sceModule)
+        {
+            string path;
+
+            if (Path.GetDirectoryName(fileName) == "")
+            {
+                path = Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt";
+            }
+            else
+            {
+                path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + "_count.txt";
+            }
+
+            List<string> byteInfo = new List<string>();
+            int total = 0;
+            bool switch1 = true;
+            for (int idx = 0; idx < sceModule.Count; ++idx)
+            {
+                total += sceModule.GetBlock(idx).Length;
+                if (total > 0xFFF && switch1)
+                {
+                    byteInfo.Add("-----------CUT POINT-----------------------");
+                    byteInfo.Add("|       length average: " + (total / idx + 1));
+                    byteInfo.Add("-----------CUT POINT-----------------------");
+                    switch1 = false;
+                }
+                byteInfo.Add(string.Format("Block: {0:D3},", idx)
+                    + string.Format(" Ptr: 0x{0:X6}", sceModule.Header.fileStrings[idx].myOffset)
+                    + string.Format(" ({0:D}),", (int)sceModule.Header.fileStrings[idx].typeOffset)
+                    + string.Format(" Text: 0x{0:X6}", sceModule.Header.fileStrings[idx].offset)
+                    + string.Format(" | Line length: {0:D3}, ", sceModule.GetBlock(idx).Length)
+                    + string.Format("total length: {0:D4}", total));
+
+            }
+            File.WriteAllLines(path, byteInfo.ToArray());
+            return;
         }
 
         private static void Repack(string fileName)
@@ -242,33 +299,21 @@ namespace sceWork
             if (!sceModule.isHaveText())
                 return;
 
-            string path = !(Path.GetDirectoryName(fileName) != "") ? Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt" : Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            string path;
+            if (Path.GetDirectoryName(fileName) == "")
+                path = Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            else
+                path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+
             if (!File.Exists(path))
-                return;
+                MiscUtils.Die("The file \"" + Path.GetFileName(path) + "\" does not exist!");
 
             //Echo!
             Console.WriteLine(string.Format("Repacking {0}...", Path.GetFileName(fileName)));
 
-            if (jpcodes == null)
-            {
-                Console.WriteLine("No JPCODES.txt file! Assuming dump is raw...");
-            }
             if (jpcodes == null || dumpRaw)
             {
-                byte[] dump = File.ReadAllBytes(path);
-                string hexStringDump = System.BitConverter.ToString(dump).Replace("-", string.Empty);
-
-                string[] hexDump = hexStringDump.Split(new[] { "0D0A5B454E44424C4F434B5D0D0A" /*"\r\n[ENDBLOCK]\r\n"*/ }, StringSplitOptions.None);
-
-                if (hexDump[hexDump.Length - 1].Equals(String.Empty))
-                {
-                    Array.Resize(ref hexDump, hexDump.Length - 1);
-                }
-
-                for (int index = 0; index < hexDump.Length; ++index)
-                    sceModule.SetBlock(index, HexToArrayByte(hexDump[index]));
-                sceModule.Save();
-                sceModule.Dispose();
+                RepackRaw(path, sceModule);
                 return;
             }
 
@@ -283,22 +328,56 @@ namespace sceWork
 
             //Can't ignore empty lines with the split (some lines might be blank in the source file)
             //but the last line can't be blank, so handle that here
-            if (strArray[strArray.Length - 1].Equals(String.Empty))
+            if (strArray[strArray.Length - 1].Equals(string.Empty))
             {
                 Array.Resize(ref strArray, strArray.Length - 1);
             }
+
             List<string> stringList = new List<string>();
+            List<string> plainStringList = new List<string>();
+            List<int> lineNumberList = new List<int>();
+            int lineNumber = 0;
+            int blockLine = 0;
             string str = "";
             for (int index = 0; index < strArray.Length; ++index)
             {
-                if (strArray[index] == "[ENDBLOCK]")
+                if (strArray[index].StartsWith("//"))
+                    continue;
+
+                if (strArray[index].StartsWith("[ENDBLOCK]"))
                 {
+                    lineNumberList.Add(lineNumber - blockLine);
+                    blockLine = 0;
                     stringList.Add(str);
+                    plainStringList.Add(str.Replace("\r\n", "\\r\\n"));
                     str = "";
                 }
                 else
-                    str = !(strArray[index + 1] != "[ENDBLOCK]") ? str + strArray[index] : str + strArray[index] + "\r\n";
+                {
+                    if (strArray[index + 1].StartsWith("[ENDBLOCK]"))
+                    {
+                        str = str + strArray[index];
+                    }
+                    else
+                    {
+                        str = str + strArray[index] + "\r\n";
+                        blockLine++;
+                    }
+                }
+                lineNumber++;
             }
+
+            //check if same ammount of lines are present
+            if (sceModule.Header.fileStrings.Count != stringList.Count)
+            {
+                MiscUtils.Warn("Different amount of strings in the file!");
+                MiscUtils.Warn("expected "
+                    + sceModule.Header.fileStrings.Count + " but got "
+                    + stringList.Count);
+                MiscUtils.Warn("Packing anyway, but expect errors!");
+                Console.WriteLine();
+            }
+
             for (int index = 0; index < stringList.Count; ++index)
                 stringList[index] = AnsiToHex(stringList[index]);
             if (jpcodes != null)
@@ -313,15 +392,52 @@ namespace sceWork
             }
             else
             {
-                Console.WriteLine("No CODES.txt file! If the file has replaced tags they will be inserted verbatim!");
+                MiscUtils.Warn("No CODES.txt file! If the file has replaced tags they will be inserted verbatim!");
             }
 
+            int realLine = 0;
+            int skippedLine = 0;
             for (int index = 0; index < stringList.Count; ++index)
-                sceModule.SetBlock(index, HexToArrayByte(stringList[index]));
-            sceModule.Save();
+            {
+                realLine++;
+                while (stringList[index].StartsWith(AnsiToHex("<IGNORE>")))
+                {
+                    if (verbose)
+                        MiscUtils.Info("Ignoring block " + realLine + " (around line " + lineNumberList[index] + ")...");
+
+                    lineNumberList.RemoveAt(index);
+                    plainStringList.RemoveAt(index);
+                    sceModule.Header.fileStrings.RemoveAt(index);
+                    stringList.RemoveAt(index);
+                    realLine++;
+                    skippedLine++;
+                }
+                sceModule.SetBlock(index, HexToArrayByte(stringList[index]), plainStringList, lineNumberList);
+            }
+
+            MiscUtils.Info("Ignored " + skippedLine + " blocks");
+            Console.WriteLine();
+            sceModule.Save(doDeduplication);
             sceModule.Dispose();
         }
+        private static void RepackRaw(string path, sceModule sceModule)
+        {
+            byte[] dump = File.ReadAllBytes(path);
+            string hexStringDump = BitConverter.ToString(dump).Replace("-", string.Empty);
 
+            string[] hexDump = hexStringDump.Split(new[] { AnsiToHex("\r\n[ENDBLOCK]\r\n") }, StringSplitOptions.None);
+
+            if (hexDump[hexDump.Length - 1].Equals(string.Empty))
+            {
+                Array.Resize(ref hexDump, hexDump.Length - 1);
+            }
+
+            for (int index = 0; index < hexDump.Length; ++index)
+                sceModule.SetBlock(index, HexToArrayByte(hexDump[index]));
+            sceModule.Save();
+            sceModule.Dispose();
+            return;
+        }
         private static byte[] HexToArrayByte(string str)
         {
             List<byte> byteList = new List<byte>();
