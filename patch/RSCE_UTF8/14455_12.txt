@@ -2,8 +2,8 @@
 01d：通常マップへ行きますか？
 (左上の方向です)
 [ENDBLOCK]
-<TAG_007>行く
-そのまま
+<TAG_007>Go
+Stay
 
 [ENDBLOCK]
 notice

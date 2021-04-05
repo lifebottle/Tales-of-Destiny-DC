@@ -1,43 +1,43 @@
 notice
 [ENDBLOCK]
-不思議な力で封じられている。
+It's sealed by a strange power.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ダリルシェイドへ戻る
-外へ出る
+<TAG_007>Back to Darilsheid
+go outside
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-反対から鍵が掛けられている。
+It's locked from the other side.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>リフトを動かす：<L+U+R+D_blink>・<L_stick_Press>
-操作をやめる  ：<Cross_ani>
+<x0E><x01><x00><x00><x00><L+U+R+D_blink> with <L_stick_Press> to move the lift
+<Cross_ani> to stop
 [ENDBLOCK]
 <x1D><x3C><x5C><x8F><x3A><x41><x3C><x00><x00><x80>@EX頭mHt<x8B>歩Kl<x04><xAA><x88><x8C><x80>
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-神殿へ戻りますか？
-はい
-いいえ
+Return to the temple?
+Yes
+No
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ここがオベロン社の、
-工場だった所ですか。
+Is this Oberon's factory?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……本当にこの中にいるのか？
+<Lion>... are you sure we're
+in the right place?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-とにかく、調べてみよう。
+Anyway, let's check it out.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

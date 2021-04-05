@@ -264,194 +264,204 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>こんな平和な時代だからこそ
-家に１本、剣を備えましょう。
+<TAG_005><CENTER>In this time of peace, we  
+should have a sword in the house.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ティルソの森なら、
-街を出て北にあるわよ。
+If you're headed for Tirso Forest,
+it's just north of the city.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ここはスノーフリアの街よ。
-あなたたち、悪い時に来たわね。
+This is the city of Frostheim.
+You guys have come at a bad time.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ようこそ、ここはファンダリアの
-海の玄関口、スノーフリアよ。
+Welcome, you're in Frostheim, the
+ocean gateway to Phandaria.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-反乱が終わったと思ったら、
-今度は天地戦争ですって……？
+Just when you thought the
+rebellion  was over, now there's
+a war in heaven and earth...?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-恐ろしい事になってしまいました……
+It's been horrible.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-この街のレンズなら、
-既にハイデルベルグに運びましたよ。
+If it's a lens from this city, I've
+already taken it to Heidelberg.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-戦いを終わらせてください。頼みます。
+Finish the fight. I'm asking you.
 [ENDBLOCK]
-Old Lady
-[ENDBLOCK]
-ひとりで街の外に出るですって？
+You're going out of town by yourself?
 
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-モンスターは相手が女の子ひとりでも
-容赦してくれないんだから、気をつけなさい。
+Monsters don't show mercy
+even if  you're dealing with
+a single girl, so be careful.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-今はとにかく、
-負傷者の救護をしないと……
+Right now, we just need to
+get the injured to safety.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-一時はどうなるかと思いましたが、
-もう安心ですね。
+I wondered what would happen
+for a while, but I'm relieved now.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-天地戦争って……私たちが、
-何をしたと言うんですか？
+The war in heaven and earth is
+...what we have done, you say?
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-食べ物の蓄えがあまりないんです。
-このままの状態が続いたら……
+I don't have much in the way of food
+reserves. If things continue like this...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-セインガルドですごい兵器を
-作っているそうですね。
+I heard that they are making
+amazing weapons in Seinegald.
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-お姉ちゃん、
-どこかに行くの？
+Sis, where are you going?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-どうしてみんなケガしてるの？
-誰がやったの？
+Why is everyone hurt?
+Who did this to you?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-新しい王さまは、<Woodrow>陛下って
-言うのよ。
+The new king's name is <Woodrow>.
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-空に変な物が浮いてるよ……？
+There's something weird
+floating in the sky...?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-空が変な物で埋まっちゃったよ……？
+Why is the sky is filled
+with weird stuff?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-どこかにレンズが堕ちてないかな～？
+I wonder if the lens has
+fallen off somewhere?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-お兄ちゃんたち、空の上へ行けるの？
-すごお～い！
+You can go up to that thing
+in the sky? That's awesome!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-何？	兄のためにひとりで
-ティルソの森へ行くのか。
+What? You're going to the Tirso 
+Forest by yourself for your friend?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-何と兄想いのけなげな
-お嬢さんだ。
+What a sweet girl who
+loves her brother.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-都で反乱が起きたらしい。
-今はこれ以上わからないのだ。
+I heard that there was a rebellion
+in the capital. We don't know any
+more at the moment.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-無事終わったとは言え、我が国の首都が
-反乱軍に落とされたのは事実だ。
+Even though it ended without
+incident, our capital city was
+brought down by the rebels.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この事実を、全ての国民が
-重く受け止めなくてはならない。
+This fact must be taken
+seriously by all citizens.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-空からの攻撃を防ぐ手立てなど、
-あるのだろうか……？
+Is there any way to prevent
+an attack from the sky?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この街もモンスターの脅威に
-さらされている……
+This city is also under
+threat from monsters.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-レンズを集めて、今さら
-なんとかできるのだろうか？
+Can we collect the lens and
+do something about it now?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-今は吉報を待ちながら、
-街の防衛に全力を尽くすとしよう。
+For now, we will wait for
+good news and do our best
+to defend the city.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-街を反乱軍から守らないとのう。
+We have to protect the
+city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-備えあれば憂いなしじゃよ。
+The better prepared you are,
+the better off you are.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-街を反乱軍から守らないとのう。
+We have to protect the
+city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-備えあれば憂いなしじゃよ。
+The better prepared you are,
+the better off you are.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-昔、ここから南東の島ではるか上空を
-大鳥が飛んでいるのを見た事があるぞ。
+I once saw a large bird
+flying far above us on an
+island southeast of here.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-負傷者の救援に行く気なら、
-準備はしっかりね。
+If you're going to help
+the wounded, you'd better
+be ready.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-この辺の気候は厳しいよ。
-しっかり準備して行きな。
+The weather around here is harsh.
+Make sure you're prepared.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-負傷者の救援に行く気なら、
-準備はしっかりとな。
+If you're going to go help the
+wounded, you better be ready.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-この辺の気候は厳しいぞ。
-しっかり準備して行くのじゃぞ。
+The weather around here is harsh.
+Be prepared for it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -499,28 +509,26 @@ Man
 Come back once you have honed
 your skills some more.
 [ENDBLOCK]
-Soldier
-[ENDBLOCK]
-おのれ反乱軍め……
-王家に刃を向けるとは……
+Oh, you rebels. How dare 
+you turn on the royal family.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-う……うう……
+Uh-uh.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<King>陛下……申し訳ありません……
+<King> Your Majesty... I'm sorry...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あの<Greybum>とかいう男は何者だ。
-なぜたやすくモンスターを操れる？
+Who is that <Greybum> guy? How 
+can he so easily control monsters?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ハイデルベルグがこうもたやすく
-陥落するとはな……
+I didn't expect Heidelberg
+to fall so easily.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1011,209 +1019,208 @@ Depot
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あら、あなた……？
+Oh, you're ......?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…………
+.....
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>なんだ？
-（……無視……）
+<TAG_007>What is it?
+(...... ignore ......)
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あれ……女の子よね？
+That's a girl, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なんだと？	もう一度言ってみろ。
-どうなるか……
+What the hell?	Say that
+again. See what happens...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-キャー、ごめんごめん。
+Oh, God, I'm sorry. I'm sorry.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ねえ、あなたセインガルドの人？
+Hey, are you from Seinegald?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-だったら、<Lion>って名前の
-剣士様知らない？
+Then do you know a swordsman
+by the name of <Lion>?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-一度だけ遠くから
-お顔を拝見した事があるのよ。
+I've only seen your face
+from a distance once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-すっごい綺麗な剣士様で、
-私憧れてるんだ～。
+He's a very handsome swordsman,
+and I adore him.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんなに小柄な体なのに、
-屈強な男たちを引き連れて、
-戦場で華麗に舞っているんだわ。
+She has such a small body, yet she's
+so graceful on  the battlefield 
+with all those strong men in tow.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-だから私、<Lion>様を
-こう呼んでいるのよ。
+That's why I call you Sir, <Lion>.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-「セインガルドの薔薇」ってね。
+It's called "The Rose of Seinegald.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-私も同じ女だけど……
-<Lion>様になら……
+I'm the same woman.
+If you're Sir, <Lion>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-おや、<Mary>ちゃん？
+Oh, <Mary>, is that you?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-あなたは……
+You are...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>お久しぶりです
-えーっと……
+<TAG_007>It's been a while.
+Let's see...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-ええ。ところで<Mary>ちゃん？
-記憶をなくしていたって聞いたけど……
+Yeah. By the way, <Mary>?
+I heard you had lost your memory.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ああ、すっきり忘れていたぞ。
+Oh, I'd forgotten all about you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-あっはっは。
-ホント、<Mary>ちゃんは面白いねえ。
+Hahaha. You're
+really funny, <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-今度、サイリルに遊びに行くよ。
-<Dalis>の顔も見ておきたいからね。
+I'm going to visit Cyriil next time.
+I want to see <Dalis>'s face, again.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-楽しみにしているぞ。
+I'm looking forward to it.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-相変わらずとぼけてるとこが
-あるのね<Mary>ちゃんは。
+You're still a bit of a jerk,
+aren't you, <Mary>?
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-どうなの、<Dalis>とは
-上手くやってるの？
+How are things going
+with you and <Dalis>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-おお！	あなたは!!
+Oh!	You are!
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-「誰？」なんていう
-ボケじゃないだろうね。
+Who? I hope it's not
+some kind of blur.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>がまだ幼少の頃に住んでいた家の
-となりに住んでいて、幼い<Dalis>の面倒を
-よく見てくれたご婦人ですね。
+You are the lady who lived next door
+to <Dalis> as a child, and who took
+good care of the young <Dalis>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-よ、よく覚えてくれてるねぇ……
+Hey, you remember me well.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-ま、いいよ。
-堅物の<Dalis>にはあんたぐらいの嫁が
-ちょうどいいってもんさ。
+Well, okay. A wife like you is just
+fine for a hard man like <Dalis>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ありがとう。
+Thank you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-<Dalis>と上手くやって、
-はやくおばちゃんにあんたたちの
-子供を抱かせておくれよ。
+I hope you can get along with
+<Dalis> and let your auntie
+carry your child soon.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ねえ……
+Hey...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うん？
+Hmm?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>お嬢さん、俺様が何か？
-今はプライベートなんだ、サインは後にしてくれ
+<TAG_007><CENTER>Ma'am, what about me?
+I'm in private now. You can sign later.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんたが裸でいると、
-私が不快なんだけど。
+I'm uncomfortable
+when you're naked.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-そんなバカな。
-そんな女がいるはずがねえ。
+That's ridiculous. There's no 
+such thing as a woman like that.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-いるんだけど、ここに。
+I'm here. I'm here.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは。
-そんなやつはいないぜ。
+Hahahaha.
+There's no such thing.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-はあ？
+Huh?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-だから、サインは後に……
+So I'll sign it later.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-はあ？
+Huh?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ねえ、あんたさ。
-なんで裸なの……？
+Hey, you. Why are
+you naked ......?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-仲間はなんとも言わないの？
+Your people don't say anything?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは。
-俺様のこの筋肉を見たくないやつはいない！
+Hahahaha.
+Who wouldn't want to see
+these muscles of mine!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-恐……<x00>
+(Look of fear)...<x00>
 [ENDBLOCK]
