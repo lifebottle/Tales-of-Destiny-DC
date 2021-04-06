@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -7936,7 +7936,6 @@ Test Play Point: Reach [TAG_015][END]
 
 //Text $1A67A0
 #WRITE(ptr,$1892E8)
-#WRITE(ptr,$186BD0)
 Draconis[END]
 
 
@@ -7981,7 +7980,8 @@ Phandaria Pass[END]
 
 //Text $1A66C8
 #WRITE(ptr,$189354)
-Phandaria PassEND]
+Phandaria Pass[END]
+
 
 //Text $1A66B0
 #WRITE(ptr,$189360)
