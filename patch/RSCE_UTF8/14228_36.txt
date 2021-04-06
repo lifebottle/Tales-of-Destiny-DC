@@ -18,7 +18,7 @@ Innkeeper
 Really? !
 [ENDBLOCK]
 Innkeeper
-[ENDBLOCK]
+[ENDBLOCK] 
 Thank you.
 [ENDBLOCK]
 Innkeeper
@@ -95,6 +95,10 @@ Could you please go
 and get him again?
 Yes
 No
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+Thank you so much for your help.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
