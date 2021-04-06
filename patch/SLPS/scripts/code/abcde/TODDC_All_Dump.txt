@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -1057,7 +1057,7 @@ Embossing Nap[END]
 
 //Text $19C088
 #WRITE(ptr,$181228)
-[Circle_ani][TAG_015] Exit [END]
+[Circle_ani]Exit [TAG_015][END]
 
 
 //Text $19C078
@@ -7942,7 +7942,7 @@ Draconis[END]
 
 //Text $1A6790
 #WRITE(ptr,$1892F4)
-Draconis (Night)[END]
+Draconis[END]
 
 
 //Text $1A6780
@@ -7952,602 +7952,598 @@ Torn's Cabin[END]
 
 //Text $1A6768
 #WRITE(ptr,$18930C)
-Torn's Cabin (Night)[END]
+Torn's Cabin[END]
 
 
 //Text $1A6750
 #WRITE(ptr,$189318)
-Torn's Cabin, Mountain Side A[END]
+Torn's Cabin, Mountain[END]
 
 
 //Text $1A6738
 #WRITE(ptr,$189324)
-Torn's Cabin, Mountain Side B[END]
+Torn's Cabin, Mountain[END]
 
 
 //Text $1A6718
 #WRITE(ptr,$189330)
-Torn's Cabin, Mountain Side A(Night)[END]
-
+Torn's Cabin, MountainEND]
 
 //Text $1A66F8
 #WRITE(ptr,$18933C)
-Torn's Cabin, Mountain Side B(Night)[END]
+Torn's Cabin, Mountain[END]
 
 
 //Text $1A66E0
 #WRITE(ptr,$189348)
-The Mountain Path of Phandaria A[END]
+Phandaria Pass[END]
 
 
 //Text $1A66C8
 #WRITE(ptr,$189354)
-The Mountain Path of Phandaria B[END]
-
+Phandaria PassEND]
 
 //Text $1A66B0
 #WRITE(ptr,$189360)
-The Mountain Path of Phandaria A(Night)[END]
+Phandaria Pass[END]
 
 
 //Text $1A6698
 #WRITE(ptr,$18936C)
-The Mountain Path of Phandaria B(Night)[END]
+Phandaria Pass[END]
 
 
 //Text $1A6688
 #WRITE(ptr,$189378)
-Janos A[END]
+Janos[END]
 
 
 //Text $1A6678
 #WRITE(ptr,$189384)
-Janos A(Night)[END]
+Janos[END]
 
 
 //Text $1A6660
 #WRITE(ptr,$189390)
-Cave that leads to the temple A[END]
+Cave leading to temple[END]
 
 
 //Text $1A6648
 #WRITE(ptr,$18939C)
-Cave that leads to the temple A(night)[END]
+Cave leading to temple[END]
 
 
 //Text $1A6640
 #WRITE(ptr,$1893A8)
-Temple A[END]
+Temple[END]
 
 
 //Text $1A6630
 #WRITE(ptr,$1893B4)
-Temple A(Night)[END]
+Temple[END]
 
 
 //Text $1A6620
 #WRITE(ptr,$1893C0)
-Harmentz A[END]
+Harmentz[END]
 
 
 //Text $1A6610
 #WRITE(ptr,$1893CC)
-Harmentz A(Night)[END]
+Harmentz[END]
 
 
 //Text $1A6600
 #WRITE(ptr,$1893D8)
-Seinegald 城A[END]
+Seinegald Castle[END]
 
 
 //Text $1A65E8
 #WRITE(ptr,$1893E4)
-Seinegald 城A(Night)[END]
+Seinegald Castle[END]
 
 
 //Text $1A65D8
 #WRITE(ptr,$1893F0)
-Darilsheid A[END]
+Darilsheid[END]
 
 
 //Text $1A65C0
 #WRITE(ptr,$1893FC)
-Darilsheid A(Night)[END]
+Darilsheid[END]
 
 
 //Text $1A65B0
 #WRITE(ptr,$189408)
-Armeida A[END]
+Armeida[END]
 
 
 //Text $1A65A0
 #WRITE(ptr,$189414)
-Armeida A(Night)[END]
+Armeida[END]
 
 
 //Text $1A6588
 #WRITE(ptr,$189420)
-Straylize Forest A[END]
+Straylize Forest[END]
 
 
 //Text $1A6570
 #WRITE(ptr,$18942C)
-Straylize Forest B[END]
+Straylize Forest[END]
 
 
 //Text $1A6558
 #WRITE(ptr,$189438)
-Straylize Forest A (Night)[END]
+Straylize Forest[END]
 
 
 //Text $1A6540
 #WRITE(ptr,$189444)
-Straylize Forest B(Night)[END]
+Straylize Forest[END]
 
 
 //Text $1A6528
 #WRITE(ptr,$189450)
-Straylize Temple A[END]
+Straylize Temple[END]
 
 
 //Text $1A6510
 #WRITE(ptr,$18945C)
-Straylize Temple A(Night)[END]
+Straylize Temple[END]
 
 
 //Text $1A6528
 #WRITE(ptr,$189468)
-Straylize Temple A[END]
+Straylize Temple[END]
 
 
 //Text $1A64F8
 #WRITE(ptr,$189474)
-Straylize Temple B[END]
+Straylize Temple[END]
 
 
 //Text $1A6510
 #WRITE(ptr,$189480)
-Straylize Temple A(Night)[END]
+Straylize Temple[END]
 
 
 //Text $1A64E0
 #WRITE(ptr,$18948C)
-Straylize Temple B(Night)[END]
+Straylize Temple[END]
 
 
 //Text $1A64D8
 #WRITE(ptr,$189498)
-Ship A[END]
+Ship[END]
 
 
 //Text $1A64C8
 #WRITE(ptr,$1894A4)
-Radisrol A[END]
+Radisrol[END]
 
 
 //Text $1A64B8
 #WRITE(ptr,$1894B0)
-Radisrol B[END]
+Radisrol[END]
 
 
 //Text $1A64A8
 #WRITE(ptr,$1894BC)
-Cherik A[END]
+Cherik[END]
 
 
 //Text $1A6498
 #WRITE(ptr,$1894C8)
-Cherik A(夜)[END]
+Cherik[END]
 
 
 //Text $1A6488
 #WRITE(ptr,$1894D4)
-Kalviola A[END]
+Kalviola[END]
 
 
 //Text $1A6470
 #WRITE(ptr,$1894E0)
-Kalviola A(Night)[END]
+Kalviola[END]
 
 
 //Text $1A6460
 #WRITE(ptr,$1894EC)
-Kalviola Temple A[END]
+Kalviola Temple[END]
 
 
 //Text $1A6450
 #WRITE(ptr,$1894F8)
-Kalviola Temple B[END]
+Kalviola Temple[END]
 
 
 //Text $1A6438
 #WRITE(ptr,$189504)
-Kalviola Temple A(Night)[END]
+Kalviola Temple[END]
 
 
 //Text $1A6420
 #WRITE(ptr,$189510)
-Kalviola Temple B(Night)[END]
+Kalviola Temple[END]
 
 
 //Text $1A6410
 #WRITE(ptr,$18951C)
-Neuestadt A[END]
+Neuestadt[END]
 
 
 //Text $1A63F8
 #WRITE(ptr,$189528)
-Neuestadt A (Night)[END]
+Neuestadt[END]
 
 
 //Text $1A63F0
 #WRITE(ptr,$189534)
-Arena A[END]
+Arena[END]
 
 
 //Text $1A63E0
 #WRITE(ptr,$189540)
-Arena A(Night)[END]
+Arena[END]
 
 
 //Text $1A63D8
 #WRITE(ptr,$18954C)
-Pirate Ship A[END]
+Pirate Ship[END]
 
 
 //Text $1A63D0
 #WRITE(ptr,$189558)
-Pirate Ship B[END]
+Pirate Ship[END]
 
 
 //Text $1A63C0
 #WRITE(ptr,$189564)
-Shiden A[END]
+Shiden[END]
 
 
 //Text $1A63B0
 #WRITE(ptr,$189570)
-Shiden A(Night)[END]
+Shiden[END]
 
 
 //Text $1A63A0
 #WRITE(ptr,$18957C)
-Shiden Undersea Cave A[END]
+Shiden Undersea Cave[END]
 
 
 //Text $1A6390
 #WRITE(ptr,$189588)
-Shiden Undersea Cave B[END]
+Shiden Undersea Cave[END]
 
 
 //Text $1A6380
 #WRITE(ptr,$189594)
-Moreau A[END]
+Moreau[END]
 
 
 //Text $1A6370
 #WRITE(ptr,$1895A0)
-Moreau A(Night)[END]
+Moreau[END]
 
 
 //Text $1A6360
 #WRITE(ptr,$1895AC)
-Moreau A[END]
+Moreau Castle[END]
 
 
 //Text $1A6350
 #WRITE(ptr,$1895B8)
-Moreau B[END]
+Moreau Castle[END]
 
 
 //Text $1A6340
 #WRITE(ptr,$1895C4)
-Terazzi A[END]
+Terazzi[END]
 
 
 //Text $1A6330
 #WRITE(ptr,$1895D0)
-Terazzi A(Night)[END]
+Terazzi[END]
 
 
 //Text $1A6320
 #WRITE(ptr,$1895DC)
-Terazzi Tower A[END]
+Terazzi Castle[END]
 
 
 //Text $1A6310
 #WRITE(ptr,$1895E8)
-Terazzi Tower B[END]
-
+Terazzi Castle[END]
 
 //Text $1A6300
 #WRITE(ptr,$1895F4)
-Frostheim A[END]
+Frostheim[END]
 
 
 //Text $1A62E8
 #WRITE(ptr,$189600)
-Frostheim A(Night)[END]
+Frostheim[END]
 
 
 //Text $1A62D8
 #WRITE(ptr,$18960C)
-Tilso Forest A[END]
+Tilso Forest[END]
 
 
 //Text $1A62C8
 #WRITE(ptr,$189618)
-Tilso Forest B[END]
+Tilso Forest[END]
 
 
 //Text $1A62B0
 #WRITE(ptr,$189624)
-Tilso Forest A(Night)[END]
+Tilso Forest[END]
 
 
 //Text $1A6298
 #WRITE(ptr,$189630)
-Tilso Forest B(Night)[END]
+Tilso Forest[END]
 
 
 //Text $1A6288
 #WRITE(ptr,$18963C)
-Cyril A[END]
+Cyril[END]
 
 
 //Text $1A6278
 #WRITE(ptr,$189648)
-Cyril A(Night)[END]
+Cyril[END]
 
 
 //Text $1A6260
 #WRITE(ptr,$189654)
-Heidelberg Street[END]
+Heidelberg[END]
 
 
 //Text $1A6248
 #WRITE(ptr,$189660)
-Heidelberg Street (Night)[END]
+Heidelberg[END]
 
 
 //Text $1A6230
 #WRITE(ptr,$18966C)
-Heidelberg Underground Passage A[END]
+Heidelberg Underground Passage[END]
 
 
 //Text $1A6218
 #WRITE(ptr,$189678)
-Heidelberg Underground Passage B[END]
+Heidelberg Underground Passage[END]
 
 
 //Text $1A6200
 #WRITE(ptr,$189684)
-Heidelberg Castle A[END]
+Heidelberg Castle[END]
 
 
 //Text $1A61E8
 #WRITE(ptr,$189690)
-Heidelberg Castle B[END]
+Heidelberg Castle[END]
 
 
 //Text $1A61D0
 #WRITE(ptr,$18969C)
-Heidelberg Castle A(Night)[END]
+Heidelberg Castle[END]
 
 
 //Text $1A61B8
 #WRITE(ptr,$1896A8)
-Heidelberg Castle B(Night)[END]
+Heidelberg Castle[END]
 
 
 //Text $1A61A0
 #WRITE(ptr,$1896B4)
-Draconis around Seingald A[END]
+Draconis around Seingald[END]
 
 
 //Text $1A6198
 #WRITE(ptr,$1896C0)
-Lienea [END]
+Lienea[END]
 
 
 //Text $1A6188
 #WRITE(ptr,$1896CC)
-Lienea (Night)[END]
+Lienea[END]
 
 
 //Text $1A6178
 #WRITE(ptr,$1896D8)
-Cresta A[END]
+Cresta[END]
 
 
 //Text $1A6168
 #WRITE(ptr,$1896E4)
-Cresta A(Night)[END]
+Cresta[END]
 
 
 //Text $1A6150
 #WRITE(ptr,$1896F0)
-Oberon Secret Factory A[END]
+Oberon's Hidden Factory[END]
 
 
 //Text $1A6138
 #WRITE(ptr,$1896FC)
-Oberon Secret Factory B[END]
+Oberon's Hidden Factory[END]
 
 
 //Text $1A6128
 #WRITE(ptr,$189708)
-Undersea Cave A[END]
+Undersea Cave[END]
 
 
 //Text $1A6118
 #WRITE(ptr,$189714)
-Undersea Cave B[END]
+Undersea Cave[END]
 
 
 //Text $1A6108
 #WRITE(ptr,$189720)
-Hidden Temple A[END]
+Hidden Temple[END]
 
 
 //Text $1A60F8
 #WRITE(ptr,$18972C)
-Ignasea A[END]
+Ignasea[END]
 
 
 //Text $1A60E8
 #WRITE(ptr,$189738)
-Ignasea B[END]
+Ignasea[END]
 
 
 //Text $1A60D8
 #WRITE(ptr,$189744)
-Deimos A[END]
+Deimos[END]
 
 
 //Text $1A60C8
 #WRITE(ptr,$189750)
-Deimos B[END]
+Deimos[END]
 
 
 //Text $1A60B8
 #WRITE(ptr,$18975C)
-Cloudius A[END]
+Cloudius[END]
 
 
 //Text $1A60A8
 #WRITE(ptr,$189768)
-Cloudius B[END]
+Cloudius[END]
 
 
 //Text $1A6098
 #WRITE(ptr,$189774)
-Rodeon A[END]
+Rodeon[END]
 
 
 //Text $1A6088
 #WRITE(ptr,$189780)
-Rodeon B[END]
+Rodeon[END]
 
 
 //Text $1A6078
 #WRITE(ptr,$18978C)
-Helraios A[END]
+Helraios[END]
 
 
 //Text $1A6068
 #WRITE(ptr,$189798)
-Helraios B[END]
+Helraios[END]
 
 
 //Text $1A6058
 #WRITE(ptr,$1897A4)
-Josaia A[END]
+Josaia[END]
 
 
 //Text $1A6048
 #WRITE(ptr,$1897B0)
-Josaia B[END]
+Josaia[END]
 
 
 //Text $1A6038
 #WRITE(ptr,$1897BC)
-Mikheil A[END]
+Mikheil[END]
 
 
 //Text $1A6028
 #WRITE(ptr,$1897C8)
-Mikheil B[END]
-
+MikheilEND]
 
 //Text $1A6018
 #WRITE(ptr,$1897D4)
-Floating Cruiser A[END]
+Floating Cruiser[END]
 
 
 //Text $1A6008
 #WRITE(ptr,$1897E0)
-Belcrant A[END]
+Belcrant[END]
 
 
 //Text $1A5FF8
 #WRITE(ptr,$1897EC)
-Belcrant B[END]
+Belcrant[END]
 
 
 //Text $1A5FE0
 #WRITE(ptr,$1897F8)
-Swordian R&D Lab A[END]
+Swordian R&D Lab[END]
 
 
 //Text $1A5FC8
 #WRITE(ptr,$189804)
-Swordian R&D Lab B[END]
+Swordian R&D Lab[END]
 
 
 //Text $1A5FB8
 #WRITE(ptr,$189810)
-Junkland A[END]
+Junkland[END]
 
 
 //Text $1A5FA0
 #WRITE(ptr,$18981C)
-Junkland A(Night)[END]
+Junkland[END]
 
 
 //Text $1A5F88
 #WRITE(ptr,$189828)
-Trash Mountain A[END]
+Trash Mountain[END]
 
 
 //Text $1A5F70
 #WRITE(ptr,$189834)
-Trash Mountain B[END]
+Trash Mountain[END]
 
 
 //Text $1A5F60
 #WRITE(ptr,$189840)
-Dycroft A[END]
+Dycroft[END]
 
 
 //Text $1A5F50
 #WRITE(ptr,$18984C)
-Dycroft B[END]
+Dycroft[END]
 
 
 //Text $1A5F40
 #WRITE(ptr,$189858)
-EX Dungeon A[END]
+EX Dungeon[END]
 
 
 //Text $1A5F30
 #WRITE(ptr,$189864)
-EX Dungeon B[END]
+EX Dungeon[END]
 
 
 //Text $1A5F20
 #WRITE(ptr,$189870)
-Traveller's Lodge A[END]
+Traveller's Lodge[END]
 
 
 //Text $1A5F10
 #WRITE(ptr,$18987C)
-Traveller's Lodge A(Night)[END]
+Traveller's Lodge[END]
 
 
 //Text $1A5F00
 #WRITE(ptr,$189888)
-Katz Village A[END]
+Katz Village[END]
 
 
 //Text $1A5EF0
 #WRITE(ptr,$189894)
-General Combat A[END]
+General Combat[END]
 
 
 //Text $1A5EE8
 #WRITE(ptr,$1898A0)
-Backup A[END]
+Backup[END]
 
 
 //Section City Name
@@ -8638,7 +8634,7 @@ towns, time passes slowly.[END]
 
 //Text $1A72A8
 #WRITE(ptr,$189EE8)
-Oberon's Hidden Factory [END]
+Oberon's Hidden Factory[END]
 
 
 //Text $1A7290
@@ -8766,7 +8762,6 @@ Harmentz[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
@@ -8852,6 +8847,7 @@ Shiden[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6CE8
 #WRITE(ptr,$18A190)
 A city in the northern region of[LINE]
@@ -9123,7 +9119,6 @@ Rodeon[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -9213,6 +9208,7 @@ A village formed by Katz who have[LINE]
 come to the Outer Shell.[END]
 
 
+#JMP($1A6870)
 //Text $1A7588
 #WRITE(ptr,$18A690)
 Hole to the Er'ther Lands[END]
@@ -10637,7 +10633,6 @@ Wards off enemies for a fixed duration.[END]
 [Sign_9]Dark Bottle[END]
 
 
-#JMP($1AB970)
 //Text $1AF580
 #WRITE(ptr,$18C824)
 Contains evil spirits.[LINE]
@@ -10742,6 +10737,7 @@ A medicinal herb that[LINE]
 increases critical hit rate by 1.[END]
 
 
+#JMP($1AB970)
 //Text $1AF2C8
 #WRITE(ptr,$18C938)
 [Sign_9]Blue Sage[END]
@@ -10984,7 +10980,6 @@ A support item for cultivation.[END]
 [Sign_Box]Golden Seed[END]
 
 
-#JMP($1AC530)
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
 Seeds for masters.[LINE]
@@ -11068,6 +11063,7 @@ Native to the mountains and is ripe when amber.[LINE]
 A support item for mixing.[END]
 
 
+#JMP($1AC530)
 //Text $1AE9D0
 #WRITE(ptr,$18CC9C)
 [Sign_Box]Sennafruit[END]
@@ -12752,13 +12748,13 @@ to impersonate Philia?[LINE]
 
 //Text $1AFDA0
 #WRITE(ptr,$18DC28)
-[Sign_2]Narikiri Garr[END]
+[Sign_2]Narikiri Woodrow[END]
 
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC2C)
 Do you have the power[LINE]
-to impersonate Garr?[LINE]
+to impersonate Woodrow?[LINE]
 [END]
 
 
@@ -12800,26 +12796,26 @@ to impersonate Chelsea?[LINE]
 
 //Text $1AFD40
 #WRITE(ptr,$18DC98)
-[Sign_2]Narikiri Karyl[END]
+[Sign_2]Narikiri Johnny[END]
 
 
 //Text $1AFDE8
 #WRITE(ptr,$18DC9C)
 Do you have the power[LINE]
-to impersonate Karyl?[LINE]
+to impersonate Johnny?[LINE]
 [LINE]
 [END]
 
 
 //Text $1AFD28
 #WRITE(ptr,$18DCB4)
-[Sign_2]Narikiri Bruiser[END]
+[Sign_2]Narikiri Kongman[END]
 
 
 //Text $1AFDE8
 #WRITE(ptr,$18DCB8)
 Do you have the power[LINE]
-to impersonate Bruiser?[LINE]
+to impersonate Kongman?[LINE]
 [LINE]
 [END]
 
@@ -19426,7 +19422,6 @@ In battle, if someone's HP [lessequal] [TAG_015]％[END]
 Stowaway[END]
 
 
-#JMP($1BB0A0)
 //POINTER #17 @ $1946EC - STRING #17 @ $1BF080
 #WRITE(ptr,$1946EC)
 Stowaway found in the Draconis.[LINE]
@@ -19486,6 +19481,7 @@ engraved in people's hearts.[END]
 Genuine Master[END]
 
 
+#JMP($1BB0A0)
 //POINTER #29 @ $19471C - STRING #29 @ $1BEE00
 #WRITE(ptr,$19471C)
 A master recognized as a truly[LINE]
