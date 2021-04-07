@@ -1,0 +1,160 @@
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S06><yellow>Lock-On !!
+[ENDBLOCK]
+<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>入りますか？
+はい
+いいえ
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>地上に降りますか？
+はい
+いいえ
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
+Hole 05 (Par <x17><x71><x48><x48><x80>)
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>Hole <x17><x71><x46><xF8><x80>
+ Par <x17><x71><x47><x08><x80>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>Start !!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>ＣＬＥＡＲ!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><x80><x02><x00><x00><yellow>Under par!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール１の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール２の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール３の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール４の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール５の賞品ＧＥＴ!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>選択できるホールが追加されました!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><xE0><x01><x00><x00><yellow>Nice Shot!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><xE0><x01><x00><x00><red>Out of Bounds...
+[ENDBLOCK]
+Main Menu
+[ENDBLOCK]
+<TAG_007>プレイヤー選択
+立ち位置を変更する
+第１打からやり直す
+ホール選択に戻る
+ゲームを終了する
+[ENDBLOCK]
+Select
+[ENDBLOCK]
+<TAG_007><x06><xC0><x00><x00><x40>Yard Player     
+150 <Lilith>
+120 <Kongman>
+ 90 <Stahn>
+ 65 <Mary>
+ 45 <Woodrow>
+ 30 <Johnny>
+ 15 <Rutee>
+  7 <Chelsea>
+  3 <Philia>
+[ENDBLOCK]
+Re-try
+[ENDBLOCK]
+<TAG_007>現在プレイしているホールを
+第１打からやり直しますか？
+はい
+いいえ
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>他に選択できるホールがありません。
+[ENDBLOCK]
+Exit
+[ENDBLOCK]
+<TAG_007>ミニゲームを終了しますか？
+はい
+いいえ
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>				「飛行竜	操作説明１」				
+	
+	<Circle_ani>	前進
+	<Square_ani>	後退
+	<Left+Right_blink>	旋回 (<L1_ani><R1_ani>でも可能)
+	<Up+Down_blink>	上昇・降下
+	<R_stick_Press>	アングル変更
+	<Cross_ani>	飛行竜を降りる
+			※丘の上や低地など歩けない場所
+				には降りる事はできません。
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>			「飛行竜	操作説明２」			
+	
+	最高速度はカスタムメニューの
+	「移動速度」で設定できます。
+	(高速) １ ←(標準)→ ８ (低速)	
+	※初期設定では ６(遅め) に
+		設定されています。
+[ENDBLOCK]

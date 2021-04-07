@@ -102,26 +102,26 @@ Innkeeper
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お泊りになりますか？
+Would you like to stay?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Have a nice day.
 [ENDBLOCK]
-いつでもどうぞ。
+Come by anytime you'd like.
 [ENDBLOCK]
-いってらっしゃいませ。
+Welcome.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_032>ガルド
+<TAG_007>Current Gald: <TAG_032>Gald
 [ENDBLOCK]
 <TAG_007><TAG_035><TAG_055>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
