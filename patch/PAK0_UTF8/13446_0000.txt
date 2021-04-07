@@ -2,55 +2,56 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><S06><yellow>Lock-On !!
+<TAG_007><S06><yellow>Lock-On!!
 [ENDBLOCK]
-<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>Lock-On Count: <x17><x71><x46><xDC><x80>x
 [ENDBLOCK]
-<S06>小石をスタート地点へ戻します。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-この大陸でのレンズレートが
-一段階アップしました。
+<S06>The rock returned to 
+its starting position.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-おめでとうございます。
-この大陸でのレンズレートが
-最大回数アップしました。
+The lens rate on this continent
+has gone up a tier.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-この大陸でのレンズレートが
-三段階分アップしました。
+Congratulations! 
+You have increased the lens rate on
+this continent to the maximum tier!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+notice
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+The lens rate on this continent
+has been increased by three tiers.
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+<S03><yellow>[Rock Rally] Start!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+<S03><yellow>[Rock Rally] Start!!
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>[Rock Rally] Start!!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>[Rock Rally] Start!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』ゴール!!
+<S03><yellow>Goal!! (Lens Rates Max!)
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>The Lens Rates Went Up!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>[Rock Rally] Goal!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』ゴール!!
+<S03><yellow>Goal!! (Lens Rates Max!)
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>The Lens Rates Went Up!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>[Rock Rally] Goal!!!
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>Goal!! (Lens Rates Max!)
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>The Lens Rates Went Up!
+[ENDBLOCK]
+<S03><yellow>Goal!! (Lens Rates Max!)
+[ENDBLOCK]
+<S03><yellow>The Lens Rates Went Up!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -58,158 +59,162 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ダリルシェイドへ戻る
-中に入る
+<TAG_007>Return to Darilshied
+Go inside
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>Do you want to enter?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>Do you want to enter?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>外殻へ行きますか？
-はい
-いいえ
+<TAG_007>Do you want to go 
+to the Outer Shell?
+Yes
+No
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
-南西：ハーメンツ
- 東 ：アルメイダ方面
- 南 ：ジェノス方面
+South West - Harmentz
+East - Armeida Area
+South - Janos Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：アルメイダ方面
-南西：ハーメンツ方面
-南東：ダリルシェイド方面
+North - Armeida Area
+SouthWest - Harmentz Area
+South East - Darilsheid Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：アルメイダ
- 南 ：ハーメンツ方面
-南東：ダリルシェイド方面
+North - Armeida
+South - Harmentz Area
+South East - Darilsheid Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 東 ：ダリルシェイド
- 西 ：ハーメンツ方面
- 南 ：クレスタ方面
- 北 ：アルメイダ方面
+East - Darilsheid
+West - Harmentz Area
+South - Cresta Area
+North - Armeida Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
-北東：ダリルシェイド方面
-北西：アルメイダ・ハーメンツ方面
- 南 ：クレスタ方面
+North East - Darilsheid Area
+North West - Armeida・Harmentz Area
+South - Cresta Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 東 ：クレスタ方面
- 西 ：ダリルシェイド方面
+East - Cresta Area
+West - Darilsheid Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：リーネ方面
- 南 ：ノイシュタット方面
+North - Lienea Area
+South - Neustadt Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 西 ：旅人の小屋
+West - Traveler's Lodge
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：リーネ方面
-南東：ノイシュタット方面
+North - Lienea Area
+South East - Neustadt Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：リーネ方面
-南東：ノイシュタット方面
+North - Lienea Area
+South East - Neustadt Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：リーネ方面
- 南 ：ノイシュタット方面
- 西 ：フィッツガルド西海岸
+North - Lienea Area
+South - Neustadt Area
+West - Fitzgald West Coast
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：海底洞窟方面
- 南 ：モリュウ領方面
+North - Tidal Cave Area
+South - Moreau Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：シデン領方面
- 南 ：海底洞窟方面
+North - Shiden Area
+South - Tidal Cave Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：カルビオラ方面
- 南 ：チェリク方面
+North - Kalviola Area
+South - Cherik Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
-北東：カルビオラ方面
- 南 ：ジャンクランド方面
+North East - Kalviola Area
+South - Junkland Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
-北西：ジャンクランド方面
- 東 ：カルビオラ方面
+North West - Junkland Area
+East - Kalviola Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
-北東：ハイデルベルグ方面
-北西：ジェノス方面
-南東：サイリル方面
+North East - Heidelberg Area
+North West - Janos Area
+South East - Cyril Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：サイリル
-北西：ハイデルベルグ・ジェノス方面
+North - Cyril
+North West - Heidelberg・Janos Area
 [ENDBLOCK]
-道標
+Guidepost
 [ENDBLOCK]
- 北 ：ハイデルベルグ・ジェノス方面
-北東：サイリル方面
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_009><Stahn>	「左から一隻来るぞ！」
+North - Heidelberg・Janos Area
+NorthEast - Cyril Area
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>船長	「了解、回避します！」
+<TAG_009><Stahn>: Enemy ship on the left!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Lion>	「右舷に注意しろ、二隻いる！」
+<TAG_009>Captain: Got it, evading!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>船長	「任せてください！」
+<TAG_009><Lion>: Watch out, two ships on starboard!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「前方にでかい船がいるぞ！あれが旗艦だ。間違いねえ！」
+<TAG_009>Captain: Leave it to me!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「よし、乗り込もう！」
+<x06><xD0><x00><x00><x40><TAG_009><Kongman>: That's a biggun dead ahead! It's gotta be the flagship,
+I'd bet my belt on it!
+
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「もたもたしていると増援が来る。目指すは敵将ただひとりだ。」
+<TAG_009><Stahn>: Yes! Time to board!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Stahn><TAG_009>	「待ってろ、<Greybum>！」
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: If we waste too much time, they'll be reinforced. 
+We want to take the enemy general when he's alone!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_009><Stahn>: Just you wait, <Greybum>!!
 [ENDBLOCK]
