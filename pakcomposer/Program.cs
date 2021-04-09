@@ -46,8 +46,11 @@ namespace pakcomposer
 
         private static string CutToExtension(string Input) => Input.Contains(".") ? Input.Remove(Input.LastIndexOf(".")) : Input;
 
+//Credit to Ethanol for fix
+
         private static string GetFileName(string DN, int number)
         {
+            DN = Path.GetFileNameWithoutExtension(DN);
             if (number < 10)
                 return DN + "_000" + (object)number;
             if (number < 100)
@@ -119,6 +122,12 @@ namespace pakcomposer
                 return ".lvd";
             if (head.Length >= 4 && head[0] == (byte)83 && (head[1] == (byte)67 && head[2] == (byte)69) && head[3] == (byte)68)
                 return ".sced";
+            if (head.Length >= 4 && head[0] == (byte)84 && (head[1] == (byte)72 && head[2] == (byte)69) && head[3] == (byte)73)
+                return ".theirsce";
+            if (head.Length >= 4 && head[0] == (byte)87 && (head[1] == (byte)69 && head[2] == (byte)65) && head[3] == (byte)67)
+                return ".weac";
+            if (head.Length >= 4 && head[0] == (byte)69 && (head[1] == (byte)78 && head[2] == (byte)69) && head[3] == (byte)77)
+                return ".enem";
             return head.Length >= 4 && head[0] == (byte)3 && (head[1] != (byte)0 || head[2] != (byte)0 || head[3] != (byte)0) ? ".compress" : ".unknown";
         }
 
@@ -375,9 +384,27 @@ namespace pakcomposer
             return file[1] != (byte)0 || file[2] != (byte)0 || file[3] != (byte)0;
         }
 
-        private static void DoExtract(string fileoriginal, string filenew) => Process.Start("comptoe.exe", string.Format("-d {0} {1}", (object)fileoriginal, (object)filenew)).WaitForExit();
-
-        private static void DoCompress(string filedecompressed, string filecompressed) => Process.Start("comptoe.exe", string.Format("-c {0} {1}", (object)filedecompressed, (object)filecompressed)).WaitForExit();
+        //shoutout to Ethanol
+        private static void DoExtract(string fileoriginal, string filenew)
+        {
+            ProcessStartInfo psi = new ProcessStartInfo();
+            psi.FileName = "comptoe.exe";
+            psi.RedirectStandardInput = true;
+            psi.RedirectStandardOutput = true;
+            psi.Arguments = string.Format("-d {0} {1}", fileoriginal, filenew);
+            psi.UseShellExecute = false;
+            Process.Start(psi).WaitForExit();
+        }
+        private static void DoCompress(string filedecompressed, string filecompressed)
+        {
+            ProcessStartInfo psi = new ProcessStartInfo();
+            psi.FileName = "comptoe.exe";
+            psi.RedirectStandardInput = true;
+            psi.RedirectStandardOutput = true;
+            psi.Arguments = string.Format("-c {0} {1}", filedecompressed, filecompressed);
+            psi.UseShellExecute = false;
+            Process.Start(psi).WaitForExit();
+        }
 
         private static void DoDeconstruct()
         {
