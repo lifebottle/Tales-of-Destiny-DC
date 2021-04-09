@@ -13,7 +13,9 @@ namespace sceWork
         public static tableModule jpcodes;
         public static tableModule codes;
         public static Encoding SJIS = Encoding.GetEncoding(932);
+        public static String altPath;
         private static bool useSJIS = false;
+        private static bool useAltPath = false;
         private static bool doDeduplication = false;
         private static bool dumpRaw = false;
         private static bool dumpCount = false;
@@ -23,12 +25,14 @@ namespace sceWork
 
         private static void Main(string[] args)
         {
-            Console.WriteLine("TOD1RSCE Module v0.8 - Decompiled Clone");
+            Console.WriteLine("TOD1RSCE Module v0.9 - Decompiled Clone");
+            string exeDir = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase);
+            exeDir = new Uri(exeDir).LocalPath;
 
-            if (File.Exists("jpcodes.txt"))
-                jpcodes = new tableModule("jpcodes.txt");
-            if (File.Exists("codes.txt"))
-                codes = new tableModule("codes.txt", true);
+            if (File.Exists(Path.Combine(exeDir, "jpcodes.txt")))
+                jpcodes = new tableModule(Path.Combine(exeDir, "jpcodes.txt"));
+            if (File.Exists(Path.Combine(exeDir, "codes.txt")))
+                codes = new tableModule(Path.Combine(exeDir, "codes.txt"), true);
 
             if (args.Length == 0)
             {
@@ -44,6 +48,7 @@ namespace sceWork
                 Console.WriteLine("    repack : .exe -r *.rsce");
                 Console.WriteLine("    repack : .exe -r <dir>");
                 Console.WriteLine("Add params:");
+                Console.WriteLine("    -i : Specify a diferent input file");
                 Console.WriteLine("    -v : Verbose failed string output");
                 Console.WriteLine("    -as <count> : Add <count> bytes to start file");
                 Console.WriteLine("    -ae : Seek file to 16 bytes");
@@ -110,6 +115,17 @@ namespace sceWork
             {
                 try
                 {
+                    if (args[index] == "-i")
+                    {
+                        useAltPath = true;
+                        if (!File.Exists(Path.GetFullPath(args[index + 1])))
+                        {
+                            MiscUtils.Die("Error. The file of the -i parameter does not exist.");
+                        }
+                        altPath = Path.GetFullPath(args[index + 1]);
+                        MiscUtils.Info("Using input file: \"" + altPath + "\"");
+                        index++;
+                    }
                     if (args[index] == "-v")
                     {
                         verbose = true;
@@ -143,6 +159,7 @@ namespace sceWork
                         {
                             MiscUtils.Die("Error. The value of the -as parameter is not a number.");
                         }
+                        index++;
                     }
                     if (args[index] == "-ae")
                     {
@@ -300,10 +317,15 @@ namespace sceWork
                 return;
 
             string path;
-            if (Path.GetDirectoryName(fileName) == "")
-                path = Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            if (useAltPath)
+                path = altPath;
             else
-                path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            {
+                if (Path.GetDirectoryName(fileName) == "")
+                    path = Environment.CurrentDirectory + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+                else
+                    path = Path.GetDirectoryName(fileName) + "\\" + Path.GetFileNameWithoutExtension(fileName) + ".txt";
+            }
 
             if (!File.Exists(path))
                 MiscUtils.Die("The file \"" + Path.GetFileName(path) + "\" does not exist!");
