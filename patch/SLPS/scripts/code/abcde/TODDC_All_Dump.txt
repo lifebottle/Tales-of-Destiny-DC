@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -9393,10 +9393,9 @@ blooming flowers.[END]
 
 //Text $1AA1E0
 #WRITE(ptr,$18BE74)
-都会でも外にでて周りの植物を見渡せば、[LINE]
-自然の厳しさと美しさを感じる事ができる[LINE]
-現象が起こるのが雪国というものらしい。[END]
-
+You can feel the harshness and beauty of[LINE]
+nature if you take a look at the plants around[LINE]
+you, doubly so if you live in a snow country.[END]
 
 //Text $1AA1C8
 #WRITE(ptr,$18BE88)
@@ -9411,10 +9410,9 @@ The sparkling light looks beautiful.[END]
 
 //Text $1AA0E0
 #WRITE(ptr,$18BE90)
-二年前の動乱があった街では周辺の植物も[LINE]
-被害を受けたが、まばゆい宝石のような輝き[LINE]
-だけは誰にも奪われなかったという。[END]
-
+Two years ago, when the city was in turmoil, even[LINE]
+the surrounding vegetation was damaged, but no[LINE]
+one could take away this dazzling jewel-like glow.[END]
 
 //Text $1AA0D0
 #WRITE(ptr,$18BEA4)
@@ -9424,15 +9422,14 @@ Snow Throwing Bracken[END]
 //Text $1AA088
 #WRITE(ptr,$18BEA8)
 Strange plant that hurls snow at[LINE]
-approaching targets. Usually round.[LINE]
-[END]
+approaching targets. Usually rolls[LINE]
+itself into a ball.[END]
 
 //Text $1AA008
 #WRITE(ptr,$18BEAC)
-セインガルドから来た行商人が国境を越えて[LINE]
-少し行ったところで、人にいたずらをする[LINE]
-奇妙な植物を見つけたと言っていたらしい。[END]
-
+Merchants that come from Seinegald[LINE]
+tell of a curious plant that play tricks[LINE]
+on those trying to cross the border.[END]
 
 //Text $1A9FF0
 #WRITE(ptr,$18BEC0)
@@ -9447,10 +9444,9 @@ traveling amulet.[END]
 
 //Text $1A9F38
 #WRITE(ptr,$18BEC8)
-願い事があるのなら、ノイシュタットの[LINE]
-周辺に自生している鮮やかな植物を探して[LINE]
-みると良いらしい。[END]
-
+I heard that if you have a wish, you[LINE]
+should look for vibrant plants[LINE]
+growing around Neuestadt.[END]
 
 //Text $1A9F28
 #WRITE(ptr,$18BEDC)
@@ -9465,14 +9461,13 @@ from it. Flexible and hard.[END]
 
 //Text $1A9E80
 #WRITE(ptr,$18BEE4)
-モリュウの領地には不思議な伝説のある[LINE]
-神秘的な植物があるそうだ。[LINE]
+There seems to be a mysterious plant[LINE]
+with a strange legend in Moreau.[LINE]
 [END]
-
 
 //Text $1A9E68
 #WRITE(ptr,$18BEF8)
-Golden Swallowtail Butterfly[END]
+Golden Butterfly[END]
 
 
 //Text $1A9E20
@@ -9483,10 +9478,9 @@ golden wings. Sought after by collectors.[LINE]
 
 //Text $1A9DB8
 #WRITE(ptr,$18BF00)
-海に浮かぶ島々の中には、世間と隔絶された[LINE]
-環境に守られた、希少な昆虫が生息する[LINE]
-場所もあるという。[END]
-
+Some of the islands ou at sea are said to[LINE]
+be home to rare insects, protected by an[LINE]
+environment that is isolated from the world.[END]
 
 //Text $1A9DA8
 #WRITE(ptr,$18BF14)
@@ -9501,10 +9495,9 @@ energy. A soak may give health benefits.[END]
 
 //Text $1A9CE0
 #WRITE(ptr,$18BF1C)
-温泉が有名なスノーフリアだが、人里離れた[LINE]
-場所に万病を治す事のできる秘湯中の[LINE]
-秘湯があるそうだ。[END]
-
+Frostheim is famous for its hot springs,[LINE]
+and I heard it has a remote, secret hot[LINE]
+spring that can cure all diseases.[END]
 
 //Text $1A9CC8
 #WRITE(ptr,$18BF30)
@@ -9519,10 +9512,9 @@ egg art due to its size and beautiful colors.[END]
 
 //Text $1A9BF0
 #WRITE(ptr,$18BF38)
-一見、砂漠には生き物がいないと思うかも[LINE]
-しれないが、チェリクの周辺を探すと巨大な[LINE]
-動物が生息している事がわかるらしい。[END]
-
+You might think there are no living creatures[LINE]
+in the desert, but one look around Cherik, and[LINE]
+you will see it is inhabited by huge animals.[END]
 
 //Text $1A9BE0
 #WRITE(ptr,$18BF4C)
@@ -10234,7 +10226,7 @@ Foundation Stone[END]
 //Text $1A7BC0
 #WRITE(ptr,$18C394)
 Stone monument build to celebrate[LINE]
-the founding of the Kingdom of Seingald.[LINE]
+the founding of the Kingdom of Seinegald.[LINE]
 [END]
 
 //Text $1A7B58
@@ -10715,6 +10707,7 @@ A medicinal herb that[LINE]
 increases accuracy by 1.[END]
 
 
+#JMP($1AB970)
 //Text $1AF378
 #WRITE(ptr,$18C900)
 [Sign_9]Savory[END]
@@ -10737,7 +10730,6 @@ A medicinal herb that[LINE]
 increases critical hit rate by 1.[END]
 
 
-#JMP($1AB970)
 //Text $1AF2C8
 #WRITE(ptr,$18C938)
 [Sign_9]Blue Sage[END]
@@ -11046,6 +11038,7 @@ A support item for mixing.[END]
 [Sign_Box]Dijon Fruit[END]
 
 
+#JMP($1AC530)
 //Text $1AEA48
 #WRITE(ptr,$18CC68)
 A fruit native to the tropics.[LINE]
@@ -11063,7 +11056,6 @@ Native to the mountains and is ripe when amber.[LINE]
 A support item for mixing.[END]
 
 
-#JMP($1AC530)
 //Text $1AE9D0
 #WRITE(ptr,$18CC9C)
 [Sign_Box]Sennafruit[END]
@@ -19460,6 +19452,7 @@ world and became a young man.[END]
 #WRITE(ptr,$194708)
 Gentle Liar[END]
 
+#JMP($1BB0A0)
 //POINTER #25 @ $19470C - STRING #25 @ $1BEEE8
 #WRITE(ptr,$19470C)
 We lie to protect those we love.[LINE]
@@ -19481,7 +19474,6 @@ engraved in people's hearts.[END]
 Genuine Master[END]
 
 
-#JMP($1BB0A0)
 //POINTER #29 @ $19471C - STRING #29 @ $1BEE00
 #WRITE(ptr,$19471C)
 A master recognized as a truly[LINE]
@@ -20130,7 +20122,8 @@ into a national project.[END]
 
 //POINTER #152 @ $194908 - STRING #152 @ $1BD780
 #WRITE(ptr,$194908)
-Honorary Knigh[END]
+Honorary Knight[END]
+
 
 //POINTER #153 @ $19490C - STRING #153 @ $1BD720
 #WRITE(ptr,$19490C)
