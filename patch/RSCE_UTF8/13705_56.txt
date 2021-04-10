@@ -1,74 +1,71 @@
-Seinegald Soldier
+Soldier
 [ENDBLOCK]
-夜も更けましたので、
-こちらはご遠慮ください。
+It is late at night, please
+refrain from coming here.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この奥は謁見の間となっております。
+Behind this is the audience room.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この奥は謁見の間となっております。
+Behind this is the audience room.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この奥は謁見の間となっております。
-
+Behind this is the audience room.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下の御前で、
-くれぐれも失礼のないように。
+Please be polite.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下の御前で、
-くれぐれも失礼のないように。
+Please be polite.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-これはソーディアンマスターの皆様、
-お待ちしておりました。
+We've been waiting for you.
+Master Swordian, this is yours.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-皆様がいらっしゃったら、
-すぐお通しするよういわれております。
+We were told to
+let everyone in.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-<Lion>様がお城にいらっしゃらないと、
-寂しいですわ。
+<Lion> I'm going to miss you
+when you're not around.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-<Lion>様がお父様を亡き者にしたとの
-噂もあります。
+<Lion>There is a rumor that
+she tried to murder your father.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-もちろん、私は信じておりませんが……
+Of course, I don't believe in that.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-諸悪の根源は<Lion>様ではなく、
-<Hugo>だったのですね。
+This wasn't <Lion>'s fault,
+but <Hugo>'s.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-<Hugo>さえも操られていたとは、
-何がなんだかわかりませんわ……
+I can't believe it,
+even <Hugo> was manipulated.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-今進めている作戦が失敗したら、
-万事休すですわね……
+If this fails,
+we're doomed.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-皆様、どうかよろしくお願いします。
-世界は皆様の肩にかかっております。
+I'll ask everyone for help.
+The world rests on your shoulders.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -302,78 +299,79 @@ notice
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-おお！	そこにいるのは、市民に
-大人気の<Dryden>将軍！
+Oh!	There he is,
+the beloved General <Dryden>!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-なんだ貴様ら！
-私を侮辱する気か!?
+What are you people doing!? 
+Are you trying to disrespect me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あの、ごめんなさい。
+Uh, I'm sorry...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>さん、本当に
-からかうとは思いませんでしたよ！
+<Mary> really had no intention 
+of making fun of you!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-からかうとはどういう事だ？
+What do you mean by
+"making fun of me"!?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-街で閣下の噂を拝聴したのだ。
-市民に人気があるのだな。
+I've been hearing rumors of
+you in the city. You're very
+popular with the people~
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みなさん、国民の安全と幸せを
-一番に考えている人と。
+You have the safety of
+the everyone at heart.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-な、何を馬鹿な……
+Ugh, what a foolish thing...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、<Dryden>さんって
-すごく恐い人だと思ってました。
+I used to think that you were
+a scary dude, Mr. Dryden.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうだな。<Stahn>は
-いつも怒られていたからな。
+Yeah, you used to always
+be angry at <Stahn>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-でもそれは、国民に危険が
-及ぶような出来事だったからか……
+But I guess that's because it was an
+emergency that put the nation at risk...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-その様なものでは……！
-私は怒りっぽいだけだ。
+That not like that... I just 
+always sound angry that's all.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-誤解しないでくれ。
-私はこれで失礼するぞ。
+It's just a big misunderstanding.
+Now excuse me, I have to leave!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだか、また怒らせちゃった
-みたいですね。
+Feels like I've 
+angered him again...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-いや……
-
+Yeah...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-やっぱり優しい人間
-なのだろうな。<x00>
+Well I guess he's a kind
+person after all.<x00>
 [ENDBLOCK]

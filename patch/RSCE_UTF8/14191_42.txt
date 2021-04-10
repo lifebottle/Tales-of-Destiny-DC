@@ -1,13 +1,3 @@
-宿屋
-[ENDBLOCK]
-いらっしゃい。うちの宿は、
-アクアヴェイルで一番だよ。
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-いやあ、めでたい。
-これで商売もしやすくなるよ。
-[ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
 いらっしゃい。うちの宿は、
@@ -20,18 +10,28 @@ Innkeeper
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お泊りになりますか？
+いらっしゃい。うちの宿は、
+アクアヴェイルで一番だよ。
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+Innkeeper
 [ENDBLOCK]
-ごゆっくり。
+いやあ、めでたい。
+これで商売もしやすくなるよ。
 [ENDBLOCK]
-いつでもどうぞ。
+Innkeeper
 [ENDBLOCK]
-いってらっしゃいませ。
+Would you like to stay?
 [ENDBLOCK]
-お金がたりません。
+ Gald.
+Is that okay?
+[ENDBLOCK]
+Have a nice day.
+[ENDBLOCK]
+Come by anytime you'd like.
+[ENDBLOCK]
+Welcome.
+[ENDBLOCK]
+You don't have enough Gald.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]

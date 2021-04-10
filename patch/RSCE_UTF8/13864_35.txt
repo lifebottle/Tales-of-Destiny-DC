@@ -467,16 +467,16 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 ……やっぱり、似ているよ……
 うりふたつだよな……
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 ……どういう事だ……？
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 見たところ、君たちも
 冒険をしてるのか？
@@ -485,7 +485,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 あ、はい。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 それだったら、
 これを見てもらえないか？
@@ -494,27 +494,27 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 これがどうしたのですか？
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 友人の冒険家から、
 送られて来た写真なんだ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 どういうわけか、他の友人にも
 そっくりな写真が送られて来ている。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 一体、この写真が何を意味しているのか
 ……それがさっぱり分からない。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 もし暇があれば、この場所を
 見てきてもらえないかな？
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 私も詳しい場所がわからないから、
 この写真を参考に探して欲しい。
@@ -523,28 +523,28 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 はい、分かりました。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 私はしばらくここを離れられないから、
 もう一度写真を見たい時は、ここに来てくれ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 あと、もしもこの場所に何かあったら、
 私に教えてくれないかな。もちろん
 お礼はするよ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 同様に、写真が届いている友人には、
 君たちの事を紹介しておくよ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 三人はサイリルとストレイライズ神殿、
 あとシデン領にいるはずだ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 おや？	君が<Stahn>君かい？
 [ENDBLOCK]
@@ -552,42 +552,42 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 え、はい……
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 前に冒険家から写真を
 見せてもらった事があるだろう？
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 私は、その冒険家の友人なんだ。
 そして私の写真はこれだ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 もし、もう一度この写真を見たければ、
 私のところへ来てくれよ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 もう一度、写真を見るのかい？
 はい
 いいえ
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 なるほど、そんな事が
 あったのか。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 ありがとう。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 コレはお礼だ。
 受け取ってくれ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 私はこれで失礼するよ。
 では。
@@ -616,7 +616,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ノイシュタットとサイリル、
 あとストレイライズ神殿にいるはずだ。
 [ENDBLOCK]
-冒険家
+Adventurer
 [ENDBLOCK]
 冒険家
 [ENDBLOCK]
@@ -781,324 +781,327 @@ Glass
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-グラスは人見知りしますが
-気の優しい良い男です。
-[ENDBLOCK]
-Glass
-[ENDBLOCK]
-<S10>……どうも。
-[ENDBLOCK]
-……
-[ENDBLOCK]
-Retired person
-[ENDBLOCK]
-グラスはボーっとしてますが
-いざとなると頼りになる男です。
+Glass may be shy but
+he's kind-hearted.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]
-……<S05>はっ！	どうも。
+<S10>...Thanks.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Retired Person
+[ENDBLOCK]
+Glass is a dullard, but when
+it comes down to it, he's a
+man you can count on.
+[ENDBLOCK]
+Glass
+[ENDBLOCK]
+...<S05> Ha! Thanks.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものニャン！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャン!?	似たような人を
-知ってるのかニャン？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものニャン。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-見たところ、ユーたちは
-自由な身ではないようだニャン。
+From the looks of it,
+you're not free, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるものニャン。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思うニャン。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものニャン！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャン!?	似たような人を
-知ってるのかニャン？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものニャン。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-どうやら、ユーたちも自由を
-満喫してるようだニャン。
+Well, it looks like you're enjoying
+your freedom too, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものネコ！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャコ!?	似たような人を
-知ってるのかネコか？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものネコね。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-見たところ、ユーたちは
-自由な身ではないようだネコ。
+From the looks of it,
+you're not free, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-自由な身分は良いものネェ～コ。
+It's good to be free,
+ isn't it? Nyan!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるというもの。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思いますよ。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-どうやら、あなたたちも自由を
-満喫しているようだ。
+Well, it looks like you're 
+enjoying your freedom too.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由な身分は良いものですよ。
+A free identity is a good thing.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるというもの。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思いますよ。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-どうやら、あなたたちも自由を
-満喫しているようだ。
+Apparently, you guys are also
+enjoying your freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由な身分は良いものですよ。
+A free identity is a good thing.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-おおっ!!	……ついに、ついに
-この世のことわりを全て見てきたの
-ですね！
+Oh! ...At last, at last, you've seen 
+all that this world has to offer!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-素晴らしい！	あなたたちこそ
-この名を名乗るのにふさわしい！
+Excellent! You're worthy
+to bear this name!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや、あなたたちしかいない！
+No, you're the only ones!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-おめでとう！
-「NatuRanger」！
+Congratulations!
+[NatuRangers]!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-まさか、この日が来るとは
-想像もしていませんでした。
+I never imagined that
+this day would come.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-冥土のみやげに良い経験を
-させてもらいましたよ。
+It was a good experience for me
+to take back to my homeland.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 アマノテカガミを見つけましたか。
 実に便利な道具ですよね。
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 ウソツツキを見つけましたな。
 あっ、おでこにつつかれた跡が！
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 私の見間違えですか。
 それは失礼しました。
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-では、ここらで仕入れた
-耳寄りなお話を……
+So here's what
+I've got for you...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 ストレイライズ神殿の近くで
 空に向かってかぼそく伸びる、
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 ひとすじの光を見ました。
 私のお迎えがきたのでしょう。
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 冗談ですよ、冗談。
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 ストレイライズ神殿へ巡礼に来る
 途中の村で、子供に嫌われている
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
 おもしろい動物の話を耳にしました。
 私は、ヤツが好きですよ。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ディスカバリー図鑑に
-情報が書きこまれました。
+Information has been written
+in the Discovery Book.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-立ち止まるのも自由、
-先に進むのも自由。
+You are free to stop, 
+or you are free to go.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-ただ、時が過ぎたとしても
-私がここにいた事は
-忘れないでくださいね。
+Just, don't forget I was here,
+even if some time has passed.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]

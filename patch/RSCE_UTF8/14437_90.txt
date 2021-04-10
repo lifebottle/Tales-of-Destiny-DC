@@ -1,33 +1,35 @@
 select
 [ENDBLOCK]
-<TAG_007>下へ行きますか？
-はい
-いいえ
+<TAG_007>Do you want to go down? 
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>上へ行きますか？
-はい
-いいえ
+<TAG_007>Do you want to go up? 
+Yes
+No
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
-さらなる深みへと
-ご案内する事が私の務め。
+It's my duty to take 
+you to deeper levels.
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
-深淵へと向かわれますか？
-はい
-いいえ
+Are you heading
+into the abyss?
+Yes.
+No
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
-いってらっしゃいませ。
+Have a nice day.
 [ENDBLOCK]
-サイグローグ
+Cyglorg
 [ENDBLOCK]
-いつでもお待ちしております。
+We are always 
+waiting for you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
