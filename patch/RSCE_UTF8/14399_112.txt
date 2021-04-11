@@ -254,221 +254,223 @@ set_drgn
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>見てはいけないモノを見てしまった。
+<TAG_005>I saw something I shouldn't have seen.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休みますか？
-休む
-休まない
+Do you want to rest?
+Yes
+No
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-そういえば、<Lilith>がおらんの。
-どこにいったんじゃ？
+Oh, by the way, <Lilith> is gone.
+Where did she go?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-孫娘に伝説のにんじんの話をしたら、
-村の外に飛び出して行ってしまった。
+When I told my granddaughter 
+about the legendary carrot, she
+ran out of the village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-まだ村の近くにいると
-思うのじゃが……
+I think he's still near the village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-伝説のにんじんはこの村から、
-ずっと南にいった森にあるという事じゃ。
+The legendary carrots are 
+said to be in the forest far
+to the south of this village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-にんじんを守っている
-モンスターもいると聞いた事がある。
+I've heard that some monsters 
+are guarding carrots.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-気をつけるんじゃぞ。
+Be careful.
 
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-伝説のにんじんはこの村から、
-ずっと南にいった森にあるという事じゃ。
+The legendary carrots are 
+said to be in the forest far
+to the south of this village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-にんじんを守っている
-モンスターもいると聞いた事がある。
+I've heard that some monsters 
+are guarding carrots.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Lilith>のことを
-宜しく頼みますぞ。
+Please take care of <Lilith> for me.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-わしも昔はセインガルドの
-軍人でした。
+I used to be a soldier of Seinegald.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-今は孫がその夢にきっと
-向かっている最中でしょう。
+I'm sure my grandchildren 
+are in the midst of working 
+on that dream right now.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-どこかで会う事があれば、
-その時はよろしくお願います。
+If we meet somewhere else, 
+please let me know.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-ここはおまえの家じゃ。
-好きなだけくつろぐがいい。
+This is your home. Make yourself
+at home as much as you like.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-みなさんも自分の家と思って
-好きなだけくつろいで下さい。
+I hope you will all feel at home here
+and relax as much as you like.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-己の信じる道を行け、<Stahn>。
-それがエルロン家の男の生き様じゃ。
+Follow the path you believe in,
+<Stahn>. That is the way of life 
+for a man of House Aileron.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-わしから見れば<Stahn>もまだ子供です。
-本当によろしくお願いします。
+From my point of view, <Stahn>
+is still a child. Thank you very 
+much for your cooperation.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Stahn>、おまえにはやる事があるだろう。
-こんな所で油を売っていてはいかん。
+<Stahn>, you have your work cut
+out for you. You can't just sit 
+here and sell oil.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Lilith>や、
-<Stahn>を頼むぞ。
+<Lilith> and <Stahn>, please.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-みなさんもお疲れになったら
-いつでも帰ってきてください。
+If you are tired, please 
+come back anytime.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-ふむ、いい顔つきをしているな。
-それなら大丈夫だ。
+Hmm, you've got a good look.
+You'll be fine then.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あ……
-あなたはあの時の!?
+Ah... You're the one
+from back then?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ひょっとして、私に会いに
-来てくれたんですか？
+Did you come to see me, by chance?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-結局、伝説のにんじん探しは
-諦めました。
+In the end, I gave up looking 
+for the legendary carrot.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あの……勝手に私とお兄ちゃんの部屋に
-入り込まないで欲しいんですけど。
+Um, I don't want you to come
+into mine and my brother's room
+without permission.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃん、おかえりなさい！
+Welcome back, big brother!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-おなかすいたんじゃない？
-何か作ってあげようか？
+I bet you're hungry. Do you want 
+me to make you something?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-みなさんも、
-おなかすきませんか？
+Are you hungry, also?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-晩ご飯のお買い物をお願いね、
-お兄ちゃん。
+Take care of the shopping 
+for dinner, big brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-約束を忘れたら承知しないからね、
-お兄ちゃん。
+I won't understand if you forget 
+your promise, big brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんの事、
-よろしくお願いします。
+Please take care of my brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あたしやおじいちゃんの事は、
-心配しなくて平気だからね。
+You don't have to worry about 
+me or grandpa, okay?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんの事、
-よろしくお願いします。
+Please take care of my brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-全部が終わって戻ってきたら、
-ご馳走作ってあげるからね。
+When it's all over and you come 
+back, I'll make you a feast.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-本当の事を言うと、お兄ちゃんには
-早く帰ってきて欲しいです。
+To tell you the truth, I want my 
+brother to come home soon.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-聞いてよ、おじいちゃん。
-お兄ちゃんったらひどいんだから！
+Listen, Grandpa.
+He's a terrible brother!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-なんじゃ<Stahn>、相変わらず、
-<Lilith>を困らせているのか。
+What the heck, <Stahn>, you're still 
+annoying <Lilith>, aren't you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-別にそんなつもりはないけど。
+I don't really mean to be.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-自覚がないから問題なんでしょ。
+You're not aware of it, 
+and that's the problem.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんって、ほんと、
-私がいないと何もできないんだから。
+Big brother, you really can't 
+do anything without me.
 [ENDBLOCK]
-家族ならまだいいが……旅の間、
-仲間に迷惑をかけなかっただろうな？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-大丈夫だと思うけど……
+If it's a family member, that's
+fine, but I hope you didn't bother
+your buddies during your ...trip.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-旅か……
+I'm sure it's fine.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれからもう三ヶ月たつんだな。
-みんな、元気かなあ……
+Travelling to...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+It's already been three months since 
+then. I hope everyone is well.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
