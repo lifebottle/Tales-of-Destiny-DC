@@ -1,4 +1,4 @@
-研究者
+Researcher
 [ENDBLOCK]
 ねえ、君はあの空を飛べる竜に、
 乗っている人だろ？
@@ -7,7 +7,7 @@
 [ENDBLOCK]
 はい、そうですけど。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 私は動物学者でね。
 折り入って、頼みがあるんだ。
@@ -16,7 +16,7 @@
 [ENDBLOCK]
 なんでしょうか？
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 この空を覆った大地が、どれだけ
 生態系に影響を与えているか、調べたいんだ。
@@ -25,11 +25,11 @@
 [ENDBLOCK]
 せい……たいけい？
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 いや、あまり難しく考えないでくれ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 僕が調べたいのは、今、
 「世界を飛んでいる鳥の数」。
@@ -39,33 +39,33 @@
 始祖竜に乗って調べれば
 いいんですか？
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 その通りだ。どうだい、
 引き受けてもらえないだろうか？
 <TAG_007>はい
 いいえ
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 そうか、残念だ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 鳥の数を数える件、
 やってくれるのかい？
 はい
 いいえ
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 そうか、残念だ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 そうか、ありがとう。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 調査方法などはここに書いてあるから、
 よく読んでくれよ。
@@ -110,17 +110,17 @@ notice
 ピカピカと点滅しているので、
 点滅している鳥を目指してください。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 理解してくれたかな？	今の説明が
 分からなかったり、調査し終わったら、
 必ず僕のところに来てくれよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 それじゃ、よろしく頼むよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 どうだい、調査は順調かい？
 調査報告をする
@@ -128,59 +128,59 @@ notice
 巨大な鳥に関する噂
 なんでもない
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 引き続き頼むよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 お、待ってましたよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 どれどれ……
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 調査によると……
 世界の鳥の数は「<x0E><x08><x00><x00><x80><x17><x71><x46><xDC><x80><x0E><x08><x00><x00><x40>羽」だね。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 いやー、助かったよ。
 ありがとう。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 まだまだ調査が必要だな。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 また時間があれば、
 継続して調査をお願いするよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 これで生態系の調査は、
 完璧だな！
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 本当にありがとう。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 あくまで住民の噂による情報なんだけど、
 ２箇所で巨大な鳥が目撃されたようだよ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 ひとつはリーネの北にある諸島付近の
 上空で、もうひとつはスノーフリアの
 南東にある諸島付近の上空でそれぞれ
 目撃されたみたいだ。
 [ENDBLOCK]
-研究者
+Researcher
 [ENDBLOCK]
 どちらも、普通の鳥に比べて高い高度を
 速いスピードで飛んでいるらしいから
@@ -383,51 +383,55 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>何かの計測結果を
-はき続けている。
+<TAG_005>It's showing some
+measurement results.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案１
-「なんらかの方法で目からビーム」
+<TAG_005>Proposed new features
+for the tiara as a weapon 1:
+"Shoot beams from the eyes"
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案２
-「頭皮マッサージ」
+<TAG_005>Proposed new features
+for the tiara as a weapon 2:
+"Scalp massage"
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>武器としてのティアラ新機能案３
-「電極を差し込み、視力を上げる」
+<TAG_005>Proposed new features
+for the tiara as a weapon 3:
+"Use electrodes to increase vision"
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくの研究所へようこそ！
-何かお探しですか？
+Welcome to my lab!
+What can i do for you?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-また僕の実験に協力してくれよ。
+Please, help me with my experimets
+again.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ティアラの調子はどうだい？
-報告を楽しみにしているよ。
+How's your tiara doing?
+Looking forward to your report.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくの研究所へようこそ！
-何かお探しですか？
+Welcome to my lab!
+What can i do for you?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ティアラの調子はどうだい？
-報告を楽しみにしているよ。
+How's your tiara doing?
+Looking forward to your report.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-…………
+………
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]

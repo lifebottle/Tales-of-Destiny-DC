@@ -11,7 +11,7 @@
 これがレンズに閉じ込められた
 想いなのか？
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 いいんですか、
 <Baruk>さん？
@@ -20,12 +20,12 @@
 [ENDBLOCK]
 何がだ？
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 ダリルシェイドからの荷の行方を
 知らないと<Lion>様に嘘を……
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 一体どうして……？
 [ENDBLOCK]
@@ -34,7 +34,7 @@
 おまえは何も知る必要はない。
 知ればおまえを……
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 …………
 [ENDBLOCK]
@@ -61,7 +61,7 @@
 まあ、だとしてもこの街の人間が
 <Lion>たちに話すとは思えんな。
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 <Baruk>さん、<Lion>様一行が
 カルビオラへ発ったそうですが……
@@ -71,7 +71,7 @@
 そうか……	この後も、
 逐一報告を入れてくれ。
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
 あの……どうして、
 <Lion>様を見張るのですか？
@@ -87,7 +87,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、なぜ部下たちには
+でも、なぜDeputyたちには
 いい顔をし続けたのかしら？
 [ENDBLOCK]
 <Stahn>
@@ -109,152 +109,156 @@
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-<Baruk>さん……？
+Mr. <Baruk>?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-じゃないですね。
-あの、どなたでしょうか？
+I'm not. Um,
+who is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺は、<Stahn>って言います。
-あの……あなたは？
+I'm <Stahn>, by the
+way. What about you?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-失礼しました。私はここで
-働いている人間です。
+I beg your pardon. I'm the
+one who works here.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-ナッシュと申します。
-よろしくお願いします。
+The name's Nash, I look forward
+to working with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ナッシュさんですね。
-こちらこそ……
+You must be Nash.
+It's my pleasure.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうされました、<Stahn>さん？
+How can I help you Mr. <Stahn>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ねえ、<Philia>。
-ナッシュっていう名前を、
-どこかで聞いた覚えない？
+Hey, <Philia>.
+Do you remember the 
+name Nash anywhere?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ナッシュですか……？
-そういえば確かに……
+Are you Nash or...?
+Oh, I'm pretty sure it's...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああっ！	カルビオラの
-エレナさんのお父さん。
+Aah! Elena's father
+is in Kalviola.
 [ENDBLOCK]
-ナッシュ
+Nash
 [ENDBLOCK]
-エレナを知っているんですか!?
+Do you know Elena?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-実は以前に私たち……
+In fact, we... before.
 [ENDBLOCK]
-ナッシュ
+Nash
 [ENDBLOCK]
-そうですか、祖父母とではなく、
-私と一緒に暮らしたいと……
+Well, he wants to live with me,
+not with his grandparents.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい。
+Yes.
 [ENDBLOCK]
-ナッシュ
+Nash
 [ENDBLOCK]
-分かりました。
-エレナに会います。
+I understand.
+I'll see Elena.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-よかったですわ！
+Oh, thank God!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>何も入っていない。
+<TAG_005>There's nothing in it.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-企業は利益を追求するだけでなく、
-地域社会にも貢献するべきだ。
+While companies are making profits 
+they should also contribute to the
+community. 
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-私は<Baruk>基金を通じて、
-この地の人々の暮らしを支援したい。
+I want to support people here,
+through the <Baruk> Foundation.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-何か情報が入ったら、教えよう。
-それまでこの地に滞在するといい。
+I'll let you know if I get
+any information. Until then,
+you may stay here.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-あまり無茶はしないで欲しかったな。
-私が<Hugo>総帥に怒られてしまう。
+I wish you hadn't been so reckless.
+I'd be pissed off at General <Hugo>.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-<Baruk>さんはカルバレイスの発展を、
-心から願っているんですわ。
+Mr. <Baruk> is really hoping for
+the development of Calvalese.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-皆さんが街を発ったと知った時、
-<Baruk>さんは珍しくあわててましたわ。
+Mr. <Baruk> was unusually 
+flustered when he found out
+that you had left town.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-<Baruk>さん……
-どこへ行ってしまったのですか？
+Mr. <Baruk>... Where
+have you gone?
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-もう二度と、<Baruk>さんは
-戻ってこない気がするんです。
+I don't think Mr. <Baruk> will 
+ever come back. I have a feeling
+he won't be back.
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-早くセインガルドの本部に、
-栄転にならないかなあ……
+I can't wait to be transferred
+to Seingold's headquarters.
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-はっ！	今言った事は、
-内緒にしてください！
+Ha!	What I just said?
+Please don't tell anyone!
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-早くセインガルドの本部に……
-いやいや。
+Hurry up to Seinegald's
+headquesters. No, no, no.
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-<Baruk>さんはダリルシェイドの本部に
-出張中です。
+<Baruk> is at Darilsheid's
+headquarters.
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-セインガルドが攻撃されたって？
-オベロン社本部は大丈夫なのか？
+I heard Seinegald was attacked?
+Is Oberon's headquarters okay?
 [ENDBLOCK]
-部下
+Deputy
 [ENDBLOCK]
-たとえ<Baruk>さんが戻らなくても、
-あの人の志は私が受け継ぎます。
+Even if Mr. <Baruk> doesn't come back.
+I will inherit his aspiration.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
