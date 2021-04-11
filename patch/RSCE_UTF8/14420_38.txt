@@ -3,25 +3,25 @@
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ここはなかなか良い街でしょう？
+This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-なんだ、<Rutee>か。
-顔なじみでも金はもらうよ。
+What is it <Rutee>?
+Even if I know you, I will still
+take your money. 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ここはなかなか良い街でしょう？
+This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-しっかりと休んでいきなさい。
+You should get some rest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ。
-お泊りですか？
+Welcome. Will you be 
 [ENDBLOCK]
  Gald.
 Is that okay?
@@ -36,25 +36,25 @@ You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ここはなかなか良い街でしょう？
+This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-なんだ、<Rutee>か。
-顔なじみでも金はもらうよ。
+What is it <Rutee>?
+Even if I know you, I will still
+take your money. 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ここはなかなか良い街でしょう？
+This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-しっかりと休んでいきなさい。
+You should get some rest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ。
-お泊りですか？
+staying the night?
 [ENDBLOCK]
  Gald.
 Is that okay?
@@ -69,8 +69,9 @@ You don't have enough Gald.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-食材の補充はいかがですか？
-フードストラップ交換も承ります。
+Interested in replenishing your
+food supply? We also offer food
+strap replacement as well.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
