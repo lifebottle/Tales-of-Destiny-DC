@@ -14,6 +14,7 @@ namespace pakcomposer
         private static bool gDoVerbose = false;
         private static bool gDoUnpack = false;
         private static bool gDoToD2 = false;
+        private static bool gDoAlign = false;
         private static byte[] dMainFile;
         private static string dDirectoryName;
         private static int dFileCount;
@@ -46,8 +47,11 @@ namespace pakcomposer
 
         private static string CutToExtension(string Input) => Input.Contains(".") ? Input.Remove(Input.LastIndexOf(".")) : Input;
 
+//Credit to Ethanol for fix
+
         private static string GetFileName(string DN, int number)
         {
+            DN = Path.GetFileNameWithoutExtension(DN);
             if (number < 10)
                 return DN + "_000" + (object)number;
             if (number < 100)
@@ -89,6 +93,8 @@ namespace pakcomposer
                         Program.gDoExtensions = true;
                     if (args[index] == "-v")
                         Program.gDoVerbose = true;
+                    if (args[index] == "-a")
+                        Program.gDoAlign = true;
                     if (args[index] == "-u")
                         Program.gDoUnpack = true;
                     if (args[index] == "-tod2_ps2_skit_padding")
@@ -119,6 +125,12 @@ namespace pakcomposer
                 return ".lvd";
             if (head.Length >= 4 && head[0] == (byte)83 && (head[1] == (byte)67 && head[2] == (byte)69) && head[3] == (byte)68)
                 return ".sced";
+            if (head.Length >= 4 && head[0] == (byte)84 && (head[1] == (byte)72 && head[2] == (byte)69) && head[3] == (byte)73)
+                return ".theirsce";
+            if (head.Length >= 4 && head[0] == (byte)87 && (head[1] == (byte)69 && head[2] == (byte)65) && head[3] == (byte)67)
+                return ".weac";
+            if (head.Length >= 4 && head[0] == (byte)69 && (head[1] == (byte)78 && head[2] == (byte)69) && head[3] == (byte)77)
+                return ".enem";
             return head.Length >= 4 && head[0] == (byte)3 && (head[1] != (byte)0 || head[2] != (byte)0 || head[3] != (byte)0) ? ".compress" : ".unknown";
         }
 
@@ -304,6 +316,9 @@ namespace pakcomposer
             for (int index = 0; index < Program.dFileCount; ++index)
             {
                 Program.dFileSizes.Add(Program.dFiles[index].Length);
+                if (gDoAlign)
+                    while (num % 16 != 0)
+                        num++;
                 Program.dFileOffsets.Add(num);
                 num += Program.dFileSizes[index];
             }
@@ -326,14 +341,29 @@ namespace pakcomposer
                     break;
                 case '1':
                     int num1 = 4 + 8 * Program.dFileCount;
+
+                    if (gDoAlign)
+                        while (num1 % 16 != 0)
+                            num1++;
+
                     binaryWriter.Write(Program.dFileCount);
                     for (int index = 0; index < Program.dFileCount; ++index)
                     {
                         binaryWriter.Write(Program.dFileOffsets[index] + num1);
                         binaryWriter.Write(Program.dFileSizes[index]);
                     }
+
+                    if (gDoAlign)
+                        while (binaryWriter.BaseStream.Position % 16 != 0)
+                            binaryWriter.Write((byte)0);
+
                     for (int index = 0; index < Program.dFileCount; ++index)
+                    {                        
                         binaryWriter.Write(Program.dFiles[index]);
+                        if (gDoAlign)
+                            while (binaryWriter.BaseStream.Position % 16 != 0)
+                                binaryWriter.Write((byte)0);
+                    }
                     break;
                 case '3':
                     int num2 = 4 + 4 * Program.dFileCount;
@@ -375,9 +405,28 @@ namespace pakcomposer
             return file[1] != (byte)0 || file[2] != (byte)0 || file[3] != (byte)0;
         }
 
-        private static void DoExtract(string fileoriginal, string filenew) => Process.Start("comptoe.exe", string.Format("-d {0} {1}", (object)fileoriginal, (object)filenew)).WaitForExit();
+        //shoutout to Ethanol
+        private static void DoExtract(string fileoriginal, string filenew)
+        {
+            ProcessStartInfo psi = new ProcessStartInfo();
+            psi.FileName = "comptoe.exe";
+            psi.RedirectStandardInput = true;
+            psi.RedirectStandardOutput = true;
+            psi.Arguments = string.Format("-d {0} {1}", fileoriginal, filenew);
+            psi.UseShellExecute = false;
+            Process.Start(psi).WaitForExit();
+        }
 
-        private static void DoCompress(string filedecompressed, string filecompressed) => Process.Start("comptoe.exe", string.Format("-c {0} {1}", (object)filedecompressed, (object)filecompressed)).WaitForExit();
+        private static void DoCompress(string filedecompressed, string filecompressed)
+        {
+            ProcessStartInfo psi = new ProcessStartInfo();
+            psi.FileName = "comptoe.exe";
+            psi.RedirectStandardInput = true;
+            psi.RedirectStandardOutput = true;
+            psi.Arguments = string.Format("-c {0} {1}", filedecompressed, filecompressed);
+            psi.UseShellExecute = false;
+            Process.Start(psi).WaitForExit();
+        }
 
         private static void DoDeconstruct()
         {
@@ -505,7 +554,7 @@ namespace pakcomposer
             if (args.Length == 0 || args[0] == "-help")
             {
                 string processName = Process.GetCurrentProcess().ProcessName;
-                Program.ColorWrite(ConsoleColor.Green, "Pakomposer v1.9fix2 Clone");
+                Program.ColorWrite(ConsoleColor.Green, "Pakomposer v1.10 fix2 Clone");
                 Program.ColorWrite(ConsoleColor.Green, "Generously donated by Temple of Tales Translations team");
                 Program.ColorWrite(ConsoleColor.Green, "http://temple-tales.ru/translations.html");
                 Program.ColorWrite(ConsoleColor.White, "Program that disassembles and assembles archives from Tales of... game series.");
@@ -523,10 +572,9 @@ namespace pakcomposer
                 Console.WriteLine("Additional flags:");
                 Console.WriteLine("-x - try to set extensions to files");
                 Console.WriteLine("-v - verbose mode");
+                Console.WriteLine("-a - align files to 16 bytes");
                 Console.WriteLine("-u - automatically use comptoe.exe (needs comptoe.exe be in the same folder as {0}.exe)", (object)processName);
                 Console.WriteLine("-tod2_ps2_skit_padding - padding addition mode");
-                Console.WriteLine("-toddc_skit_fix - change offset at 0x00000004 from 24 to 30 - To be implemented");
-                Console.WriteLine("-toddc_tm2_fix - pad with 00 and update header - To be implemented");
                 Console.WriteLine(" ");
                 Program.ColorWritePlus(ConsoleColor.Yellow, ConsoleColor.Blue, "WARNING! DON'T WORK WITH FILES WITH");
                 Program.ColorWritePlus(ConsoleColor.Yellow, ConsoleColor.Blue, "EXTENSIONS WHEN COMPRESSING BACK! BE CAREFUL!");
@@ -571,6 +619,7 @@ namespace pakcomposer
                     }
                 }
             }
+            //Console.ReadKey();
         }
     }
 }
