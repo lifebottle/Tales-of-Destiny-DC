@@ -465,72 +465,73 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたはカルバレイスの人ですか？
+Are you from Calvalese?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-ちょっと！
-何を言い出すの!!
+Stop! What are 
+you talking about?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-……それで、どこで聞いたの？
+...So, where did you
+hear about this?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-実は……
+The truth is...
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-そう……そんな事が。
+I see, the thing is...
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-分かったわ。こんな事しか
-出来ないけど、これを持っていって。
+Alright I get it, if you don't
+say anything you can take this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます！
+Thank you!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-私が知っている隠れカルバレイス人は、
-たしか、ジェノスにいるはずよ。
+The hidden Calvalese person
+I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-けど今は、何をやっているか
-分からないわ。
+But right now, I don't know
+what to do with myself.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-ただ、相手にカルバレイス人か
-どうか聞く時は注意してよ。
+Just be careful when you ask
+them if they're from Calvalese.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-カルバレイス人だとばれたら、
-生活できなくなる人もいるの。
+If they find out I'm from Calvalese,
+I'm afraid I'll lose all my buisness.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-私が知っている隠れカルバレイス人は、
-たしか、ジェノスにいるはずよ。
+The hidden Calvalese person
+I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-ただ、相手にカルバレイス人か
-どうか聞く時は注意してよ。
+Just be careful when you ask
+them if they're from Calvalese.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>鍵が掛けられている。
+<TAG_007>It's locked.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is closed
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -539,7 +540,8 @@ woman at Hugo's Mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I think she said her name is <Marian>...
+I think she said her
+name is <Marian>...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -574,79 +576,85 @@ to <Marian>, But I can't.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-いらっしゃいませ。
-当店は深夜まで開いてますよ。
+Welcome.
+We're open until midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-王都ならではの品揃え、
-ぜひご覧下さい！
+We have a wide range of products
+that only the royal capital can offer.
+Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-王都ならではの品揃え、
-ぜひご覧下さい！
+We have a wide range of products
+that only the royal capital can offer.
+Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-在庫が続く限り、お店は続けますよ！
+As long as our inventory lasts,
+we'll keep the store going!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-いらっしゃいませ。
-当店は深夜まで開いてますよ。
+Welcome.
+We're open until midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-王都ならではの品揃え、
-ぜひご覧下さい！
+We have a wide range of products
+that only the royal capital can offer.
+Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-王都ならではの品揃え、
-ぜひご覧下さい！
+We have a wide range of products
+that only the royal capital can offer.
+Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-在庫が続く限り、お店は続けますよ！
+As long as our inventory lasts,
+we'll keep the store going!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-こんばんわ。
-ぜひ見ていって下さい。
+Good evening.
+Please take a look.
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-絶対に損はさせませんよ。
-ぜひご覧下さい！
+You won't be disappointed.
+Please take a look!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-絶対に損はさせませんよ。
-ぜひご覧下さい！
+You won't be disappointed.
+Please take a look!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-隣には負けてられません！
+We can't lose to our neighbors!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-こんばんわ。
-ぜひ見ていって下さい。
+Good evening.
+Please take a look.
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-絶対に損はさせませんよ。
-ぜひご覧下さい！
+You won't be disappointed.
+Please take a look!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-絶対に損はさせませんよ。
-ぜひご覧下さい！
+You won't be disappointed.
+Please take a look!
 [ENDBLOCK]
-Uniques Shop
+Accessory Shop
 [ENDBLOCK]
-隣には負けてられません！
+We can't lose to our neighbors!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
