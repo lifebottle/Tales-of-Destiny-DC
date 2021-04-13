@@ -2,9 +2,9 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><S06><yellow>Lock-On !!
+<TAG_007><S06><yellow>Lock-On!!
 [ENDBLOCK]
-<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>Lock-On Count: <x17><x71><x46><xDC><x80>x
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -12,15 +12,16 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>Do you want to enter?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>地上に降りますか？
-はい
-いいえ
+<TAG_007>Do you want to go 
+to the Earth surface?
+Yes
+No
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
@@ -137,24 +138,23 @@ Exit
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>				「飛行竜	操作説明１」				
+<TAG_007><center>[Draconis Tutorial 1]			
 	
-	<Circle_ani>	前進
-	<Square_ani>	後退
-	<Left+Right_blink>	旋回 (<L1_ani><R1_ani>でも可能)
-	<Up+Down_blink>	上昇・降下
-	<R_stick_Press>	アングル変更
-	<Cross_ani>	飛行竜を降りる
-			※丘の上や低地など歩けない場所
-				には降りる事はできません。
+<center><Circle_ani>Move forward
+<center><Square_ani>Move backward
+<center><Left+Right_blink> or <L1_ani><R1_ani>To steer
+<center><R_stick_Press>Change angle
+<center><Cross_ani>Disembark the Draconis
+<center>[You cannot disembark at place 
+where you can't normaly walk. 
+Such as on a mountain or on sea.]
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>			「飛行竜	操作説明２」			
+<TAG_007><center>[Draconis Tutorial 2]			
 	
-	最高速度はカスタムメニューの
-	「移動速度」で設定できます。
-	(高速) １ ←(標準)→ ８ (低速)	
-	※初期設定では ６(遅め) に
-		設定されています。
+<center>The maximum speed can be set in 
+<center>[Vehicule Speed] of Customize menu. 
+<center>(Fast) 1 ← (Standard) → 8 (Slow)	
+<center>The default setting is 6 (Slow).
 [ENDBLOCK]

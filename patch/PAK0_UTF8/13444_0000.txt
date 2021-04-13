@@ -220,24 +220,24 @@ We want to take the enemy general when he's alone!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>				 「海竜	操作説明１」 				
+<TAG_007><center>[Leviathan Tutorial 1]			
 	
-	<Circle_ani>	前進
-	<Square_ani>	後退
-	<Left+Right_blink>	方向転換	(<L1_ani><R1_ani>でも可能)
-	<R_stick_Press>	アングル変更
-	<Cross_ani>	海竜を降りる
-			※浜辺に近づき、海竜の頭を
-				降りたい方向に向けてから
-				ボタンを押して下さい。
+<Circle_ani>Move forward
+<Square_ani>Move backward
+<Left+Right_blink> or <L1_ani><R1_ani>To steer
+<R_stick_Press>Change angle
+<Cross_ani>Disembark the Leviathan
+
+[Approach the beach, point the head 
+of the Leviathan in the direction you 
+want to disembark an then press <Cross_ani>]
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>			 「海竜	操作説明２」 			
+<TAG_007><center>[Leviathan Tutorial 2]			
 	
-	最高速度はカスタムメニューの
-	「移動速度」で設定できます。
-	(高速) １ ←(標準)→ ８ (低速)	
-	※初期設定では ６(遅め) に
-		設定されています。
+<center>The maximum speed can be set in 
+<center>[Vehicule Speed] of Customize menu. 
+<center>(Fast) 1 ← (Standard) → 8 (Slow)	
+<center>The default setting is 6 (Slow).
 [ENDBLOCK]
