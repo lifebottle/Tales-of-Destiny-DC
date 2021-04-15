@@ -218,19 +218,19 @@ We want to take the enemy general when he's alone!
 [ENDBLOCK]
 <TAG_009><Stahn>: Just you wait, <Greybum>!!
 [ENDBLOCK]
-[Leviathan Tutorial 1]
+Leviathan Tutorial 1
 [ENDBLOCK]
-<TAG_007><center><Circle_ani> Move forward
+<TAG_007><Circle_ani> Move forward
 <Square_ani> Move backward
 <Left+Right_blink> or <L1_ani><R1_ani> To steer
 <R_stick_Press> Change angle
 <Cross_ani> Disembark the Leviathan
-
-[Approach the beach, point the head
-of the Leviathan in the direction you 
-want to disembark an then press <Cross_ani>]
+ 
+Approach the beach, point the head
+of the Leviathan in the direction you
+want to disembark an then press <Cross_ani>.
 [ENDBLOCK]
-[Leviathan Tutorial 2]
+Leviathan Tutorial 2
 [ENDBLOCK]
 <TAG_007><center>The maximum speed can be set in
 [Vehicule Speed] of Customize menu.
