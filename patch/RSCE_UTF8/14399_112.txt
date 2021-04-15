@@ -1205,39 +1205,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放されました。
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-カスタム画面を開くには<Triangle_ani>でメニューを開き、
-続けて<Select_ani>を押して下さい。
-
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-「キャンバス」が解放されました。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-そこにある真っ白なキャンバスで
-仲間たちの様々な表情を見る事が出来ます。
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に落ちている石ころを
-変化させる事が出来るようになりました。
+It is now possible to change the
+rocks that fall around the world.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フィッツガルド中央付近にある旅人の小屋。
-その部屋にあるツボを調べる事で石が変化します。
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Dalis>のサブイベントが追加されました。
-サイリルへ行ってみましょう。
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
 [ENDBLOCK]
 oldflag -><x17><x71><x49><x40><x80>
 
