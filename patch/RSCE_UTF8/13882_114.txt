@@ -34,18 +34,18 @@ Some sort of device,
 but it's not working.
 
 [ENDBLOCK]
-ダミーショップ配置
+Dummy Shop Placement
 [ENDBLOCK]
-<TAG_007>食材屋：バランスアップ
-道具屋：コレクター
-武器屋：秘密兵器
-防具屋：機能美
-装飾屋：オーダーメイド
+<TAG_007>Ingredient shop: Balance Up
+Tool shop: Collector
+Weapon Shop: Secret Weapon
+Armor shop: Functional Beauty
+Uniques shop: Made to Order
 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうか皆さん、お気をつけて。
+Please be careful, everyone.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]
@@ -607,69 +607,69 @@ get back on the Leviathan?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ここがラディスロウか……
+Is this Radisrol...
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-私がいるのは奥の中枢部だ。
-そのまま進んでくれたまえ。
+I am in the central area in the back.
+Please work your way to me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……ねえ<Atwight>。
-<Lion>の事で聞きたいんだけど。
+Hey <Atwight>.
+I have a question about <Lion>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あいつが最後に言った事って、
-本当なの？
+Is it true? What he said?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-……明確な証拠はないけれど、
-その可能性は高いと思うわ。
+I don't have clear evidence, but I 
+think it's highly likely.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-彼はあなたの母の名を知っていたし、
-それに……
+He knew your mothers name 
+and that...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-……あの状況で、
-わざわざ嘘をつくとは思えない。
+I don't think he'd lie in a situation 
+like that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そっか……
+Okay...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>……？
+<Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、ごめん。今行くわ。
+Oh, sorry, I'm coming
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-みんなに言っておく事があった。
-無重量エレベーターを稼動させたんだ。
+I have a status report. I got the
+weightless elevator up and running.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-地上と行き来するための装置だ。
-物資の運搬などにも使える。
+It's used to travel between here and 
+the surface. It can also transport
+supplies.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-エレベーターの出入り口は、
-ダリルシェイドにつながっているよ。
+When you enter it will take 
+you to Darilsheid.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。
-ありがとうございます！
+I understand. Thank you
+very much!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
