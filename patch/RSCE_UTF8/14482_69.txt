@@ -66,68 +66,66 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それじゃあたしは、
-ここで一休みしてるわ。
+I'm going to take a break here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あとはあんたたちだけで、
-ちゃっちゃと行ってきて。
+Now you guys just go 
+and get it over with.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-すぐに戻ってくる。
-くれぐれも注意は怠るな。
+I'll be right back.
+Keep your eyes open.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ここは私が、
-<Igtenos>と共に残ろう。
+I'll stay here with <Igtenos>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私もお供します。
+I will stay you.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、<Chelsea>は、
-<Stahn>君たちと行きなさい。
+No, <Stahn> take <Chelsea> 
+with you guys.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-この先に何があるかわからない。
-戦力は多い方がいいからね。
+We don't know what's ahead of us.
+The more forces you have, the better.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わかりました。<Woodrow>さまが、
-そうおっしゃるなら……
+I understand, Lord <Woodrow>
+If you say so...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私が残りますわ。
-<Stahn>さんたちはどうか先へ。
+I'll stay. <Stahn> and the 
+others, please go ahead.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-危ない目に遭いそうになったら、
-俺様の事を呼んでください！
+If you feel like you're 
+in danger, call on me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どこにいようと、
-即座に駆け付けますので！
+Wherever you are, I'll be 
+there in a heartbeat!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-わ、わかりました……
-よろしくお願いします。
+I understand. Thank you 
+for your time.
 [ENDBLOCK]
-誰に残ってもらいますか？
+Who do you want to stay?
 
 [ENDBLOCK]
 <Rutee>
@@ -145,235 +143,244 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お帰り。用は済んだの？
+Welcome back. Did you 
+finish your business?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ああ。
+Yeah.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……あの……
+<Rutee>, uh...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあ、早く外に出ましょ。
-待ちくたびれて疲れちゃった。
+Then let's get out of here.
+I'm tired of waiting.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ……
+Uh...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お待たせ致しました、
-<Woodrow>さま。
+Thank you for waiting, 
+Lord <Woodrow>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Ｒキーは手に入ったようだね。
+I see you got the R key.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい。
+Yeah.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では戻るとしようか。
+Let's go back then, shall we?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-お待たせ致しました、
-<Philia>さん！
+Sorry to keep you 
+waiting, Ms. Philia!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お疲れさまです、<Stahn>さん。
-<Kongman>さん。
+Thanks for your help, <Stahn>,
+<Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんのこれしき！	俺様にかかれば、
-なんの事はありませんよ！
+What's this! No thanks needed.
+It was nothing.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-皆さんが無事で良かったですわ。
-それでは、外に出ましょうか。
+I'm glad you're all okay.
+Now, let's go outside.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしがいないからって
-さみしがるんじゃないわよ。
+Were you lonely just because 
+I wasn't there.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ハハ、そんなわけないか。
+Haha, no way.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>、気をつけるんだよ。
+<Chelsea>, be careful.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-みんな<Chelsea>の事を
-頼んだよ。
+You guys take care of 
+<Chelsea> for me.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私は大丈夫です。
-みなさんこそお気をつけて。
+I'm fine. Take care 
+of yourselves.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ここがＲキーのある遺跡ですか。
+Is this the site where 
+the R key is located?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-リーネの近くに、
-こんな場所があるなんて知らなかった。
+I didn't know there was such 
+a place near Lienea.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-海からでなければ来られないからの。
-気付かなかったのも無理はないじゃろ。
+You can't get here without coming
+from the sea. It's no wonder you 
+didn't notice it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！	待ってろ<Lion>。
-必ず敵を取ってやるからな。
+Okay! Wait for me, Lion. I'll get 
+vengeance on your enemies.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……それについてだが、<Stahn>。
+...about that, <Stahn>.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Lion>の事を、
-あまり意識し過ぎるな。
+Don't think too much 
+about <Lion>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あいつを忘れろってのか？
+You want me to forget him?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-そうは言わない。だが今のおまえは、
-あまりにも私怨にとらわれ過ぎている。
+I wouldn't say that. But you're too
+wrapped up in your personal grudge
+right now.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-自分がなんのために戦っているか、
-大儀を見失う事があってはならん。
+You must never lose sight of the 
+cause for which you are fighting.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかってるよ。<Hugo>を倒して、
-神の眼を取り戻すんだろ。
+I know, I know. We need to defeat 
+<Hugo> and get the Eye of Atamoni
+back.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-その通りだが……
+That's true, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫。忘れたりはしていない。
+It's okay. I haven't 
+forgotten anything.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-よーし。それじゃみんな出発よ！
-目指すはＲキー！
+All right. Let's go, everyone!
+We're searching for the R key!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Rutee>、張り切ってんな！
+<Rutee>, you're on fire!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあね～♪
+Well, yeah ♪
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Mary>さん、<Rutee>さんを、
-じっと見て……どうかしましたか？
+<Mary>. what is it with you and 
+staring at <Rutee>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-いや……
+Well...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-行き止まりじゃないか。
+It's a dead end.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-あわてるな。向こうを見ろ。
+Don't panic. Look over there.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-この遺跡には、特別なカギがないと、
-先に進めない封印が施されているのだ。
+The ruins are sealed in such a
+way that you cannot proceed 
+without a special key.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-カギというのは他でもない、
-わしらソーディアンの事じゃよ。
+The key is, of course, us, 
+the Swordians.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-つまり私たちのうちの誰かを、
-あそこにはめ込めばいいわけ。
+I mean, we could put one
+of us in there.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど……
+I see.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-封印は我らをはめ込んでいる間だけ、
-解除される。
+The seal will only be broken 
+while we are embedded into it.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-という事は、ソーディアンを、
-置いて行かなければいけないんですね。
+That means we have to leave 
+a Swordian behind, don't we?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ソーディアンだけ残すのは心もとない。
-マスターも一緒の方がいいな。
+I'm not comfortable leaving
+my Swordian alone. I'd rather 
+stay with him.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……ちょっと。
+Excuse me, <Rutee>.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-地上の民よ！
+People of the earth!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-我々の贈り物を受け取るがいい！
-二発目のベルクラントだ！
+Accept our gift! Another 
+blast from Belcrant!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何……！
+What...!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-これで猶予はあと二発か……
+So that's two shots left.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-予想以上にエネルギーの充てんが早い。
-この分では、じきに三発目も来るの。
+The energy is being replenished
+faster than expected. At this rate,
+the third shot will be coming soon.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……急いでラディスロウに
-戻らないといけませんね。
+...We need to hurry
+back to Radisrol.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
