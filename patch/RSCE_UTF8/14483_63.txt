@@ -142,7 +142,7 @@ select
 <Rutee>
 [ENDBLOCK]
 Welcome back. Did you 
-finish your business?
+get the key?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -185,7 +185,7 @@ waiting, Ms. Philia!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Thanks for your help, <Stahn>,
+Thanks for your help, <Stahn> and
 <Kongman>.
 [ENDBLOCK]
 <Kongman>
@@ -195,8 +195,8 @@ It was nothing.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'm glad you're all okay.
-Now, let's go outside.
+I'm glad you're everything's okay.
+Now, let's get going.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
