@@ -17990,7 +17990,7 @@ pointed like a beak.[END]
 //Text $1BA968
 #WRITE(ptr,$1928D8)
 A trumpet made out of animal horns.[LINE]
-Use it near the sea to call the sea dragon.[LINE]
+Use it near the sea to call the Leviathan.[LINE]
 [END]
 
 
@@ -18020,7 +18020,7 @@ to Deimos' main system.[LINE]
 
 //Text $1BA8B8
 #WRITE(ptr,$192928)
-[Sign_Key]Red Card Key[END]
+[Sign_Key]Red Key Card[END]
 
 
 //Text $1BA880
@@ -18032,7 +18032,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA868
 #WRITE(ptr,$192944)
-[Sign_Key]Blue Card Key[END]
+[Sign_Key]Blue Key Card[END]
 
 
 //Text $1BA830
@@ -18044,7 +18044,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA818
 #WRITE(ptr,$192960)
-[Sign_Key]Yellow Card Key[END]
+[Sign_Key]Yellow Key Card[END]
 
 
 //Text $1BA7E0
@@ -18056,7 +18056,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA7C8
 #WRITE(ptr,$19297C)
-[Sign_Key]Grey Card Key[END]
+[Sign_Key]Grey Key Card[END]
 
 
 //Text $1BA790
