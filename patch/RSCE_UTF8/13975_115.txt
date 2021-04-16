@@ -27,7 +27,7 @@ Priest
 そんな！	あの子のイタズラは、
 ただ、自分を見て欲しいという合図です。
 [ENDBLOCK]
-大司祭
+Head Minister
 [ENDBLOCK]
 うーむ……
 [ENDBLOCK]
@@ -41,7 +41,7 @@ Priest
 ただでさえ、我らは肩身の狭い立場。
 これ以上は我々の立場も！
 [ENDBLOCK]
-大司祭
+Head Minister
 [ENDBLOCK]
 うむ……そうだな……
 あれを本神殿に送ろう。
@@ -50,7 +50,7 @@ Priest
 [ENDBLOCK]
 ダメです、大司祭様！
 [ENDBLOCK]
-大司祭
+Head Minister
 [ENDBLOCK]
 私が決めた事だ。
 意見するというのか……？
@@ -105,9 +105,9 @@ Priest
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 
 [ENDBLOCK]
 
@@ -158,9 +158,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -199,26 +199,28 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>世界の名所「ゴミの街・ジャンクランド」
-という本がある。
+<TAG_005>There's a book titled
+World Famous Cities
+[Junktown, City of Garbage]
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>カルバレイス西方に位置する
-世界で最も貧しい街である。
+<TAG_005>West of Calvalese is located the
+poorest city in the world, Junktown.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>一年中、鼻を突くような匂いが充満し、
-大半の人々がゴミの中で生活を
-している。彼らの主な財源は……
+<TAG_005>All year round, a nose-piercing stench
+fills the air of this city. The majority
+of it's population live among the trash.
+Their main source of income is...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -227,9 +229,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]

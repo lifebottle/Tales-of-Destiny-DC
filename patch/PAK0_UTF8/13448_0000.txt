@@ -4,7 +4,7 @@
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>Lock-On Count: <x17><x71><x46><xDC><x80>x
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -12,15 +12,16 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>Do you want to enter?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>地上に降りますか？
-はい
-いいえ
+<TAG_007>Do you want to go 
+to the Earth surface?
+Yes
+No
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]

@@ -35,9 +35,9 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -76,9 +76,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -114,9 +114,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -167,9 +167,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -191,9 +191,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -220,9 +220,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -256,9 +256,9 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -372,27 +372,27 @@ Priest
 人が人を選別し、命をもてあそぶなど、
 断じてあってはならない事です。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 <Ayles>司教様にご協力して、
 一日も早く神殿を元に戻さねば。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 表向きは復興しましたが、
 反乱の傷跡はまだ残っています。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 先の反乱の傷も癒えぬまま、
 このような事態になるとは……
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 数多くの人々が、救いを求め、
 この神殿を訪れています。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 そうした人々を安心させるべく、
 我々も全力を尽くします。
@@ -425,37 +425,37 @@ Priest
 [ENDBLOCK]
 アタモニ神よ、どうか救いを……
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 <Philia>、それに他の皆様方。
 神の眼をよろしくお願いします。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 神の眼を取り戻して下さい。
 よろしくお願いします。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 この神殿には数多くの文献があります。
 いわば、人類の英知の殿堂なのです。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 天地戦争という言葉は、
 確かに文献の中にありました。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 ただの伝説と思い込んでいましたが、
 事実だったのですね。
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 先の天地戦争では救世主が現れて、
 地上の窮地を救ったそうですが……
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
 あなた方を見ていると、なぜか、
 先の天地戦争の救世主を思い出します。

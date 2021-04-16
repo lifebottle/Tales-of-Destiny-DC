@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -9529,10 +9529,9 @@ Children that catch it become heroes.[LINE]
 
 //Text $1A9B28
 #WRITE(ptr,$18BF54)
-クレスタには子供たちに見せてあげれば[LINE]
-尊敬される昆虫が近くにいるそうだが、[LINE]
-捕まえるのはとても難しいらしい。[END]
-
+It seems there are insects around Cresta, that if[LINE]
+captured, can earn you a lot of respect from the[LINE]
+local children. They are hard to catch however. [END]
 
 //Text $1A9B20
 #WRITE(ptr,$18BF68)
@@ -9547,10 +9546,9 @@ is an object of worship.[END]
 
 //Text $1A9A68
 #WRITE(ptr,$18BF70)
-シデン領地には人々にとても大事にされて[LINE]
-いる植物があるらしい。[LINE]
-他の植物と見分けられる目印があるそうだ。[END]
-
+I heard there are plants in Shiden that are highly[LINE]
+treasured by the locals. They say there are[LINE]
+markers to distinguish them from other plants.[END]
 
 //Text $1A9A60
 #WRITE(ptr,$18BF84)
@@ -9565,10 +9563,9 @@ use it as a charm against shipwrecks.[END]
 
 //Text $1A9990
 #WRITE(ptr,$18BF8C)
-どこかの海岸には海に関する不思議な[LINE]
-伝説のある動物がいるというが、詳細は不明[LINE]
-らしい。[END]
-
+It is said that somewhere on the coast there[LINE]
+is an animal with a mysterious legend related[LINE]
+to the sea, but the specifics are unknown.[END]
 
 //Text $1A9980
 #WRITE(ptr,$18BFA0)
@@ -9583,10 +9580,9 @@ body is not triangular shaped.[END]
 
 //Text $1A98B0
 #WRITE(ptr,$18BFA8)
-海のどこかに、おもしろい角を持つ動物が[LINE]
-棲息しているそうだが、希少動物のため、[LINE]
-めったに見る事ができないという。[END]
-
+It is said that somewhere in the ocean there[LINE]
+lives an animal with interesting horns, but it[LINE]
+is rare and can rarely be seen.[END]
 
 //Text $1A98A0
 #WRITE(ptr,$18BFBC)
@@ -9601,10 +9597,9 @@ without landing.[END]
 
 //Text $1A97E8
 #WRITE(ptr,$18BFC4)
-船で航海をしていると、空が突然暗くなる[LINE]
-場所があるらしい。[LINE]
-船乗りの間では有名な話だそうだ。[END]
-
+It is said that there is a place where the sky[LINE]
+suddenly darkens when you are sailing. It's[LINE]
+a well-known story among sailors.[END]
 
 //Text $1A97D8
 #WRITE(ptr,$18BFD8)
@@ -9619,10 +9614,9 @@ light itself.[END]
 
 //Text $1A9730
 #WRITE(ptr,$18BFE0)
-ロディオンの近くには幻想的な雰囲気を持つ[LINE]
-植物が自生しているそうだ。[LINE]
+A plant with an ethereal aura grows on the[LINE]
+vicinity of Rodeon.[LINE]
 [END]
-
 
 //Text $1A9728
 #WRITE(ptr,$18BFF4)
@@ -9637,10 +9631,9 @@ of gases formed by buried animal remains.[END]
 
 //Text $1A9668
 #WRITE(ptr,$18BFFC)
-アンスズーンの周辺には、地上の生き物の[LINE]
-怨念が空中をさまよっている場所がある[LINE]
-らしい。[END]
-
+It seems that there is a place around[LINE]
+Deimos where the grudges of surface[LINE]
+creatures wander through the air.[END]
 
 //Text $1A9658
 #WRITE(ptr,$18C010)
@@ -9655,10 +9648,9 @@ The wind from its holes sounds like a scream.[LINE]
 
 //Text $1A9598
 #WRITE(ptr,$18C018)
-ダイクロフトの近くには恐ろしい悲鳴が[LINE]
-聞こえてくる場所があるというが、正体を[LINE]
-確認した者はいないらしい。[END]
-
+It is said that there is a place near Dycroft[LINE]
+where horrible screams can be heard, but[LINE]
+no one has ever been able to confirm it.[END]
 
 //Text $1A9588
 #WRITE(ptr,$18C02C)
@@ -9668,15 +9660,14 @@ Black Worm[END]
 //Text $1A9548
 #WRITE(ptr,$18C030)
 Mutated earthworm. It is black[LINE]
-colored and has keen movements.[LINE]
+colored and moves nimbly.[LINE]
 [END]
 
 //Text $1A94E8
 #WRITE(ptr,$18C034)
-シュサイアの近くには素早く動く動物がいる[LINE]
-らしいが、動きが速すぎて捕まえる事は[LINE]
-難しいという。[END]
-
+They say there is a fast-moving animal near Josaia,[LINE]
+but it moves so fast that it is difficult to catch it.[LINE]
+[END]
 
 //Text $1A94E0
 #WRITE(ptr,$18C048)
@@ -10668,6 +10659,7 @@ increases physical attack by 1.[END]
 [Sign_9]Verbena[END]
 
 
+#JMP($1AB970)
 //Text $1AF470
 #WRITE(ptr,$18C894)
 A medicinal herb that[LINE]
@@ -10707,7 +10699,6 @@ A medicinal herb that[LINE]
 increases accuracy by 1.[END]
 
 
-#JMP($1AB970)
 //Text $1AF378
 #WRITE(ptr,$18C900)
 [Sign_9]Savory[END]
@@ -11005,6 +10996,7 @@ A support item for mixing.[END]
 [Sign_Box]Grape[END]
 
 
+#JMP($1AC530)
 //Text $1AEB58
 #WRITE(ptr,$18CC14)
 Round, fleshy fruits formed in a bunch.[LINE]
@@ -11038,7 +11030,6 @@ A support item for mixing.[END]
 [Sign_Box]Dijon Fruit[END]
 
 
-#JMP($1AC530)
 //Text $1AEA48
 #WRITE(ptr,$18CC68)
 A fruit native to the tropics.[LINE]
@@ -17999,7 +17990,7 @@ pointed like a beak.[END]
 //Text $1BA968
 #WRITE(ptr,$1928D8)
 A trumpet made out of animal horns.[LINE]
-Use it near the sea to call the sea dragon.[LINE]
+Use it near the sea to call the Leviathan.[LINE]
 [END]
 
 
@@ -18029,7 +18020,7 @@ to Deimos' main system.[LINE]
 
 //Text $1BA8B8
 #WRITE(ptr,$192928)
-[Sign_Key]Red Card Key[END]
+[Sign_Key]Red Key Card[END]
 
 
 //Text $1BA880
@@ -18041,7 +18032,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA868
 #WRITE(ptr,$192944)
-[Sign_Key]Blue Card Key[END]
+[Sign_Key]Blue Key Card[END]
 
 
 //Text $1BA830
@@ -18053,7 +18044,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA818
 #WRITE(ptr,$192960)
-[Sign_Key]Yellow Card Key[END]
+[Sign_Key]Yellow Key Card[END]
 
 
 //Text $1BA7E0
@@ -18065,7 +18056,7 @@ a door in Helraios.[LINE]
 
 //Text $1BA7C8
 #WRITE(ptr,$19297C)
-[Sign_Key]Grey Card Key[END]
+[Sign_Key]Grey Key Card[END]
 
 
 //Text $1BA790
@@ -19243,7 +19234,7 @@ No special effects[END]
 
 //Text $1BBA80
 #WRITE(ptr,$194664)
-Recovers HP after battle[END]
+Resuscitate them[END]
 
 
 //Text $1BBA70
@@ -19433,6 +19424,7 @@ to this honesty.[END]
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
 Sword-what User[END]
+#JMP($1BB0A0)
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
@@ -19452,7 +19444,6 @@ world and became a young man.[END]
 #WRITE(ptr,$194708)
 Gentle Liar[END]
 
-#JMP($1BB0A0)
 //POINTER #25 @ $19470C - STRING #25 @ $1BEEE8
 #WRITE(ptr,$19470C)
 We lie to protect those we love.[LINE]
