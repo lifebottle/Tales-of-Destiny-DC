@@ -21,406 +21,407 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やっぱり。ここも同じね。
+Looks like it's the same here.
 [ENDBLOCK]
-どうして、換金しないんだ！
+Why won't they buy our lenses!?
 [ENDBLOCK]
-やはり、あの噂は本当だな！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-皆さん、聞いてください。
+It seems that rumor was true!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-換金用のお金の到着が遅れています
-噂は本当ですが、どうか落ち着いて
+Guys, listen.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-オベロン社のお金を積んだ船が、
-出発前に壊れてしまいました。
+Seems the rumor that the lens 
+exchange money ship got delayed is
+true, but we need to keep calm.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、代わりの船で
-運んでいる途中みたいです。
-[ENDBLOCK]
-本当だろうな！
-[ENDBLOCK]
-信じられないぞ！
+Oberon's money transporting ship
+got broken before it could depart.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-噂は本当ですが、どうか
-落ち着いてください。
+Looks like their replacement
+ship is on the way.
 [ENDBLOCK]
-やっぱり、本当じゃないか！
+Is that true!?
 [ENDBLOCK]
-俺のレンズを先に換金しろ！
+I don't believe it!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+The rumors are true,
+but please stay calm.
+[ENDBLOCK]
+So it was true after all!
+[ENDBLOCK]
+Exchange my lenses first!
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-<Woodrow>王!!
+King <Woodrow>!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-皆さん、聞いてください。
-どうやらオベロン社の船が、
-トラブルで遅れているようです。
+Everyone, please listen. It seems
+Oberon's ship got in trouble and
+will be delayed.
 [ENDBLOCK]
-それじゃ、今の話は本当だったのか。
+Then that rumor was true after all.
 [ENDBLOCK]
-それなら、仕方ないな。
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-みなさん、聞いてください。
+If that's the case all we can do is wait.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうやらオベロン社の不手際で、
-換金用のお金の到着が遅れています。
+Everyone, please listen.
 [ENDBLOCK]
-なんだ、そんな事なのか。
+<Woodrow>
 [ENDBLOCK]
-それなら仕方ないな。
+Oberon's ineptitude caused the
+money ship to be delayed.
+[ENDBLOCK]
+What!
+[ENDBLOCK]
+No choice but wait then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたが嘘なんか
-ついていいの？
+Is it okay for you to be lying?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-国の治安にも関わる
-問題だからね。
+If it is a matter of public order.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-致し方あるまい……
-これが最善だったと思いたい。
+No way around it....
+I'd like to think this is for the best.
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-でも、これで少しは
-落ち着くと思います。
+But I think this will help
+calm things down a bit.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-しかし、この先レンズレートが
-不安定になるかもしれないな。
+But I think the lens rate might be
+unstable in the future.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-けど、換金できないよりは
-だいぶマシでしょ。
+But it's a lot better than not being
+able to exchange it at all.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>今回の騒動により、
-レンズレートの相場が不安定に
-なりました。
+<TAG_007>The recent uproar has caused
+instability in the lens rate market.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>レンズレートがこれまでよりも
-大きく変動します。
+<TAG_007>The lens rate will fluctuate
+more than before.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>換金レートの幅が今までより、
-低下する事もありますが、
-増加する事もあります。
+<TAG_007>The range of exchange rates may
+be lower than before, but it may
+also be higher.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>売り時をよく見定めて、
-レンズを交換しましょう。
+<TAG_007>Determine carefully the best time
+to exchange your lenses.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたが嘘なんか
-ついていいの？
+Is it okay for you to be lying?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-確かに忍びない。
-しかし、<Stahn>君ひとりに嘘は
-つかせられない。
+Indeed it is quite unbearable.
+And I don't think I'd ever be able
+to lie to Stahn.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-国の治安にも
-関わる事だからね。
+But I will lie if it is a
+matter of public order.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-今回は、仕方あるまい。
+There was no way around it this time.
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-でも、これでレンズレートは
-落ち着くと思います。
+But I think the exchange rate
+will stabilize a little now.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうね、ひとまず安心ってところかしら。
+Yeah, things should calm down
+a little at least for now.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-街をめちゃめちゃにされる前に、
-<Greybum>を退治できて良かったぜ。
+I'm glad we got rid of <Greybum>
+before he made a mess of the city.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-天上世界……
-陛下は何かご存知なのですか？
+The heavens eh...... Does Your
+Majesty know anything about it?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-天上世界って……
-そんなもんが昔はあったのか？
+The heavens......
+Did it really exist in the past?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-陛下、本当に暗黒世界です……
+Your Majesty, the world is really
+going dark......
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-本当に暗黒に閉じ込められちまった。
-放送で言ってた通りだ……
+We' re really trapped in the dark.
+Just like they said on the broadcast.......
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-陛下、俺にできる事はありますか？
-何でもお手伝いしますよ！
+Your Majesty, is there
+anything I can do?
+I'll help in any way I can!
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-俺にできる事はありますか？
-何でもお手伝いしますよ！
+Your Majesty, is there
+anything I can do?
+I'll help in any way I can!
 
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-何があってもいいように、
-準備しておくのは大切だよ。
+It's important to be prepared for
+anything that might happen.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Woodrow>へいか、ばんざーい！
-ばんざーい！
+Long live His Majesty <Woodrow>!
+Long live!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ファンダリア、ばんざーい！
+Long live Phandaria!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お空に浮いてる変なの、
-がいかくっていうんだって。
+I was told that strange thing floating
+in the sky is called the Shell.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どこに雷が落ちたの？
-街の近く？
+Where did the lightning strike?
+Near the city?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お空ががいかくで埋まっちゃった。
-これからは真っ暗なままなの？
+The sky was covered by the Shell.
+Will we stay in the dark forever now?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お隣の国で、がいかくに穴を開ける
-すっごい兵器を作ってるんだって！
+A big hole was made in the Shell in
+the neighboring country, I heard
+they used a big weapon!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-がいかくの上ってどうなってるんだろう。
-行ってみたいなあ。
+I wonder what it looks like above
+the Shell. I wish I could go see it.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-王は国の支え。民にとっては、
-必要不可欠な存在なのじゃ。
+The King supports the country.
+For the people he is an indispensable
+existence.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-おお、陛下。
-こんな間近でお目にかかれるとは……
+Oh! Your Majesty!
+To think I could meet him so closely.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-陛下といらっしゃるあなた様は、
-いったい……
+What is it with you and His Majesty?......
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-陛下の胸の内、お察し申し上げます。
-あえて何もお尋ねはしませぬ。
+I can only imagine what Your
+Majesty must be going through.
+I will not dare to ask anything.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-王は国の支え。民にとっては、
-必要不可欠な存在なのじゃ。
+The King supports the country.
+For the people he is an indispensable
+existence.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-陛下のなさる事に、
-間違いのあろうはずがありませぬ。
+There is no way that His Majesty
+can be wrong in what he does.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-無事のご帰還を、
-お待ち申し上げております。
+We'll be waiting for your safe return.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-みなさまの無事の帰りを、
-お待ち申し上げております。
+We'll be waiting for your safe return.
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-レンズをお持ちではありませんか？
-換金を承っております。
+Got any lenses? I can exchange
+them for cash.
 [ENDBLOCK]
 Lens Merchant
 [ENDBLOCK]
-レンズをお持ちではありませんか？
-換金を承っております。
+Got any lenses? I can exchange
+them for cash.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-先の動乱で、私の家族は、
-戦いに巻き込まれて負傷しました。
+During the last uprising, my
+family was hurt in the fighting.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-サイリルの人々にお咎めがないのは、
-正直、納得がいきません。
+To be honest, I can't accept that the
+people of Cyril came out of this unscathed.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-この国もセインガルドのように、
-攻撃されるのでしょうか。
+I wonder if our country will be
+attacked just like Seinegald was.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-誰がどんなにあがいても、
-全てむだな事なのでしょうか。
+Now matter how much we struggle
+it all means nothing in the end.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お願いします。どうかこの国に、
-再び日差しを……
+Please, I beg of you, bring the sun back....
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-やっぱりお外で遊ぶのが一番ね。
+Playing outside is the best.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-お外で遊んでてもつまんない。
-おうちに帰ろうかな。
+Playing outside is boring,
+let's go back home.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-へいかが勝ちますようにって、
-いつもお祈りしてるのよ。
+I'm praying for His Majesty to win.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-せかいがへいわになりますようにって、
-ちゃんとお祈りしてるよ。
+I'll pray for the world to be at peace.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-今度の王様は弓の修行にばかり、
-かまけていた人だからなあ。
+It seems the new King is a man who
+was very busy practicing archery.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-イザーク王のようになれるか、
-正直心配だよ。
+I'm quite worried if he will
+turn out like King Isaac.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-これは陛下！	信じております。
-私は陛下を信じておりますとも！
+My King! I believe in you!
+I believe in you I say!
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-今度の王様は弓の修行にばかり、
-かまけていた人だからなあ。
+It seems the new King is a man who
+was very busy practicing archery.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-イザーク王のようになれるか、
-正直心配だよ。
+I'm quite worried if he will
+turn out like King Isaac.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-空に浮かんでるのは外殻って言うのか？
-生きてるみたいで不気味だよ。
+That thing floating in the sky is
+called the Shell, or so Ive heard.
+It looks eerily alive.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-どう考えても、雪かきなんか
-してる場合じゃないよな……
+No matter how you cut it,
+I don't think this is the time to
+be shoveling snow......
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-陛下が無事にお戻りになられるまで、
-雪かきを続けておきますよ！
+I'll keep shoveling snow until
+the King comes back!
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-無事にお戻りになられるまで、
-雪かきを続けておきますよ！
+I'll keep shoveling snow until
+the King comes back!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-家族にも雪景色を見せたいですよ。
-きっと驚くだろうな……
+I want my family to see this snowy
+scenery too. I'm sure they'll be
+surprised.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-できれば故郷へ戻りたいものです。
+If at all possible, I'd like to
+go back to my village.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-故郷はどうなっているのでしょう……
+I wonder how it's looking down there.....
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-家族が無事でいるか心配です。
+I'm worried if my family is doing well.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、
-<ITEM_067>、<ITEM_068>、
-<ITEM_069>をお持ちでしょうか？
+Do you have <ITEM_065>, <ITEM_066>,
+<ITEM_067>, <ITEM_068>,  and
+<ITEM_069>?
 [ENDBLOCK]
-全てを準備して頂き、お持ちくだされば、
-それらを調合して<ITEM_Elixir>を
-お渡しします。
+If you give me those I'll exchange them for an <ITEM_Elixir>.
 [ENDBLOCK]
-材料がそろっていますね。
+Oh! It seems you have the materials.
 
 [ENDBLOCK]
-<TAG_007>材料と<ITEM_Elixir>を交換しますか？
+<TAG_007>Exchange materials for an <ITEM_Elixir>s?
 
 [ENDBLOCK]
-一つだけ交換する
-全部交換する（<TAG_077>個）
-交換しない
+Exchange for 1
+Exchange all （<TAG_077> units）
+Don't exchange
 [ENDBLOCK]
-交換する
-交換しない
+Exchange
+Don't exchange
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -428,21 +429,18 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><ITEM_Elixir>を
-<TAG_076>個手にいれました。
+<TAG_007><TAG_076> <ITEM_Elixir> added.
 [ENDBLOCK]
-またどうぞ。
+Come again.
 
 [ENDBLOCK]
-いつでも交換できます。
+I can trade anytime.
 
 [ENDBLOCK]
-材料がそろいましたら、
-おこしください。
+If you gather the materials, bring them to me.
 
 [ENDBLOCK]
-<ITEM_Elixir>はこれ以上
-持てないようです。
+You can't carry  any more <ITEM_Elixir>s.
 
 [ENDBLOCK]
 notice
