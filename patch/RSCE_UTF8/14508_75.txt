@@ -97,169 +97,175 @@ init_light<x17><x71><x48><x88><x80>
 <x17><x6D><x45><x84><x80>
 
 [ENDBLOCK]
-あれ？
-どうして動かないんだ。
+Huh?
+Why isn't it working?
 
 [ENDBLOCK]
-だめね。動かないみたい。
+No luck. It's not working.
 [ENDBLOCK]
-作動していないようですわ。
+It doesn't look like it's working.
 [ENDBLOCK]
-起動していないようだ。
-これでは使えないな。
+It doesn't seem to be running.
+I can't use this.
 [ENDBLOCK]
-チッ、動いていないようだな。
+Tsk, looks like it's not working.
 [ENDBLOCK]
-動いていないようだな。
+Doesn't look like it's moving.
 [ENDBLOCK]
-ダメですねー。これでは使えません。
+It's no good. I can't use it with this.
 [ENDBLOCK]
-おや？	動いていないようだな。
+Hmm? I don't think it's moving.
 [ENDBLOCK]
-あん？	使えないのか？
+Hmm? Doesn't work?
 [ENDBLOCK]
-なんで、動かないの？
+Why isn't it working?
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この扉、開かないぞ。
+This door won't open.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-アンスズーン全体のシステムが、
-ダウンしておるせいじゃ。
+It's because the entire 
+Deimos system is down.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-復旧させん事には開かんぞ。
+We can't open it until it's restored.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうすればいいんですか？
+How do we do that?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-メインシステムに、
-エネルギーを充てんするしかあるまい。
+We'll have to recharge
+the main system.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-確かここの反対側が、
-メインシステムルームだったはずよ。
+I believe the main system room
+is on the other side of here.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-エネルギーの調達は、
-警備ユニットを流用すればいいじゃろ。
+We can divert the energy 
+to the security unit.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ほれ、そこらをうろついている、
-赤く光った奴じゃ。
+Look, it's the glowing red one 
+that's been hanging around.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-あれを捕まえて、
-メインシステムに接続するのだ。
+We're going to catch that thing and
+connect it to the main system.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんだか虫取りみたいね。
+It's kind of like catching bugs.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、開いた！
+Okay, it's open!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-これで外殻大地へ抜けられる。
-次の目的地は、クラウディスだ。
+This will take us to the other
+aerial city. Our next destination
+is Cloudius.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！
+Okay!
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くみたいだな。
+It's like stepping on a switch
+makes the walls move.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くようね。
+Stepping on the switch seems
+to make the wall move.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くようですね。
+It looks like the wall moves when
+you step on the switch.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くようだな。
+Looks like the wall moves when 
+you step on the switch.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くのか。
+You step on the switch 
+and the wall moves.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くようだぞ。
+Stepping on the switch seems 
+to make the walls move.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くみたいですねぇ。
+It looks like the wall moves 
+when you step on the switch.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くのか。
+You step on the switch
+and the wall moves.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くようだな。
+Looks like the wall moves 
+when you step on the switch.
 [ENDBLOCK]
-スイッチを踏むと
-壁が動くみたいね。
+Stepping on the switch seems 
+to make the wall move.
 [ENDBLOCK]
-デフォルト
+Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-アンスズーンのシステムが回復して、
-ワープ装置が使えるようになったみたいだ。
+It seems that Deimos's systems
+have been restored and the warp
+device can now be used.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-このワープ装置があれば、アンスズーンの
-転送装置の部屋まで一気に戻れるぞ。
+With this warp device, you can
+get all the way back to Deimos's
+transporter room.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それなら、イグナシーまで
-戻る時に使えばいいんだな。
+Then I guess we can use it 
+to get back to Ignasea.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ああ、そういう事だ。
+Yes, that's what I mean.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-こういった転送装置と入り口を繋ぐ
-ワープ装置は、全ての空中都市にある。
+Warp devices that connect these
+transporter devices to the entrance
+are found in all aerial cities.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-強敵が多い上、時間のない我らには、
-重宝するはずだ。
+It should come in handy when
+we have a lot of strong enemies
+and not much time.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-だが肝心な事を忘れるな。
+But don't forget the most
+important thing.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かってる。今はここを出て、
-クラウディスを目指すんだろ。
+I know. Now we're getting out of here,
+and we're going to Cloudius.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-その通りだ。このワープ装置は、
-イグナシーへ戻る際に使用すればいい。
+That's right. You can use this warp 
+device when you return to Ignasea.
 [ENDBLOCK]
 mouserad -><x1D><x75><x49><x24><x80>
 
@@ -272,7 +278,7 @@ in HOLE_R --- <x17><x71><x49><x20><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-エネルギーユニットを取り戻しました。
+We got the energy unit back.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
