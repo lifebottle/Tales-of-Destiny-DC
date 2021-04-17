@@ -11,67 +11,70 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉ざされている。
+The door is closed.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私はここで、マートン大司教様や、
-その他の方々のご冥福を祈ります。
+I'm here to pray for the repose
+of the soul of Archbishop Merton
+and the others.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-お久しぶりです。
-お元気のようですね。
+It's been a while.
+You look well.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>でしたら、
-神殿の外にいると思いますよ。
+If you're looking for <Philia>,
+I think she's outside the temple.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-あなたのご活躍の噂、
-ここまで届いていますよ。
+The rumors of your success
+have reached here.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>も信者からあなたのことを
-聞かれると、嬉しそうに話しておりました。
+<Philia> was also happy to hear
+about you from her disciples.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私はここで、マートン大司教様や、
-その他の方々のご冥福を祈ります。
+I'm here to pray for the repose
+of the soul of Archbishop Merton
+and the others.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>、<King>陛下のお役目、
-大変でしょうが頼みましたよ。
+<Philia>, I know you have a lot 
+of work to do for His Majesty, 
+but I'm counting on you.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-皆様、お役目ご苦労さまです。
+Thank you all for your hard work.
 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-今回の騒ぎの原因となっているのも、
-神の眼なのですね……
+It's the Eye of Atamoni that's
+the source of all this commotion...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-人の身で神にも等しい力を持つのは、
-ごう慢としかいいようがないですね。
+To have power equal to that of a god with
+a human body is nothing short of arrogance.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-神の眼は人の手に委ねては、
-いけない物なのでしょうね。
+The Eye of Atamoni should've
+never fell into the hands of men.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-できれば神の御許に、
-返すべきなのでしょうが……
+If it was possible I wish it would
+of remain with the Goddess.
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 
