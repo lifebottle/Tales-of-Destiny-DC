@@ -604,7 +604,7 @@ Road to Moreau[END]
 
 //Text $19A1F0
 #WRITE(ptr,$D886C)
-Rescued from the Abyss[END]
+The Abyss[END]
 
 
 //Text $19A490
@@ -1192,12 +1192,12 @@ Embossing Nap[END]
 
 //Text $19BEC8
 #WRITE(ptr,$181294)
-[Circle_ani]Sea Dragon[END]
+[Circle_ani]Leviathan[END]
 
 
 //Text $19BEB0
 #WRITE(ptr,$181298)
-[Cross_ani]Get Off Sea Dragon[END]
+[Cross_ani]Get Off Leviathan[END]
 
 
 //Text $19BF28
