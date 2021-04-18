@@ -71,45 +71,45 @@
 [ENDBLOCK]
 <TAG_005>何もない。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 あら、<Johnny>様。
 家に帰って来るなんて珍しい。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 アルツール様も奥方様も気さくな方で、
 とても働きやすいです。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 女は家にいるもの、という考えが、
 この国では根強かったんですが……
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 アルツール様が治めるようになって、
 この国もだいぶ変わりました。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 事態打開のため、シデン家の皆様は、
 寝る間も惜しんで協議をしています。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 <Johnny>様、お帰りなさいませ。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 <Johnny>様をよろしくお願いします。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 レンズ収集は怠りなく進んでいます。
 ご安心下さい、<Johnny>様。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 皆さんと<Johnny>様のご無事を、
 心よりお祈りしています。
@@ -228,37 +228,37 @@
 皆さん、<Johnny>の
 シデン魂に期待してやって下さい！
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 <Johnny>様、お帰りなさいませ。
 
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 当屋敷はシデン領の城のような物。
 その点をお忘れなきよう。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 シデン領に城郭がないのは、
 マチエル公以来の伝統なのです。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 海の向こうの国々では、
 もっと大変な事になっているようですね。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 この混乱に乗じて、
 他国が攻めてこないか心配です。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 <Johnny>様、私にできる事なら、
 なんでもご命令ください。
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
 私にできる事なら、
 なんでもお申しつけ下さい。
@@ -267,109 +267,114 @@
 [ENDBLOCK]
 <Johnny>の父
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
-何か御用でしょうか？
+Do you need something?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-突然、申し訳ありません。
-私たちロープを探しているんです。
+Please pardon the intrusion.
+We're looking for some rope.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もし、持っていたら、
-貸してもらえないだろうか。
+If you happen to have any,
+would you mind lending it to us?
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
-突然いらっしゃって、そのような事を
-申されても困ります。
+Barging in so suddenly and making
+demands is awful rude, you know.
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
-それに、見たところ外国の方で
-いらっしゃいますよね……
+On top of that, you all look
+like you're not from here...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…………
+....
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ちょっと、待て。
-それは関係ないだろう！
+Hold it. That has nothing
+to do with anything.
 [ENDBLOCK]
-お客人、どうかされましたか？
+Is there something I can
+help you with, honored guests?
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
-旦那さんがわざわざ
-お出になる事じゃありませんよ。
+Ah, my lord, there's no
+need for you to trouble yourself.
 [ENDBLOCK]
-構わんて。外国の方が
-来てくださったのじゃ。
+I don't mind at all. Foreign
+visitors are rare, after all.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ありがとうございます。
-実は……
+Thank you! You see...
 [ENDBLOCK]
-そうかそうか。急いでおるのに、
-長々と説明させてしまって申し訳ない。
+I see, I see. Thank you for 
+explaining it, even though
+you're in such a hurry.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それで、貸してもらえるだろうか。
+So then, do you mind
+lending us some rope?
 [ENDBLOCK]
-確か、港の倉庫にあったはずじゃ。
+I believe we have some in
+the storehouse at the harbor.
 [ENDBLOCK]
-すまんが、急いで取ってきてくれんか？
+Sorry, but do you
+mind fetching it for them?
 [ENDBLOCK]
-お手伝いさん
+Housekeeper
 [ENDBLOCK]
-は、はあ……
+Whuh!? I...Certainly...
 [ENDBLOCK]
-ところで、おまえさんたち、
-セインガルドから来なさったのか？
+By the way. You've come
+from Seinegald, haven't you?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい、よくお分かりになりましたね。
+We do. You're
+very observant, sir.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、<Philia>！
+<Philia>!!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ！	すみません、おじいさん。
-今のは聞かなかった事にして下さい。
+Ack! S-Sorry, sir!
+Please forget what I said!!
 [ENDBLOCK]
-以前のわしだったら、捕まえなければ
-ならなかったところじゃが……
+Perhaps the old me would have
+immediately seized you, but...
 [ENDBLOCK]
-はっはっは。安心せい。
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-申し訳ありません。
-[ENDBLOCK]
-お手伝いさん
-[ENDBLOCK]
-はい、持ってきましたよ。
+Hahaha, just kidding.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-本当に助かりました。
-心より感謝いたします。
+Thank you, sir...
 [ENDBLOCK]
-よいて。さあ、仲間のところへ
-急ぎなされ。
+Housekeeper
+[ENDBLOCK]
+I've brought you the rope.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+This is a big help. Thank you,
+from the bottom of my heart.
+[ENDBLOCK]
+Don't mention it. Now then,
+run along and help your friends.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さあ、<Philia>行くぞ。
+OK, let's go, <Philia>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
