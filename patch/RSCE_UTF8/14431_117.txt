@@ -14,8 +14,8 @@ It's locked from the other side.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><L+U+R+D_blink> with <L_stick_Press> to move the lift
-<Cross_ani> to stop
+<x0E><x01><x00><x00><x00><L+U+R+D_blink> or <L_stick_Press> to move the lift
+<Cross_ani> to stop controlling
 [ENDBLOCK]
 <x1D><x3C><x5C><x8F><x3A><x41><x3C><x00><x00><x80>@EX頭mHt<x8B>歩Kl<x04><xAA><x88><x8C><x80>
 

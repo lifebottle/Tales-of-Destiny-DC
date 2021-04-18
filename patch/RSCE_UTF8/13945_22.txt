@@ -4,7 +4,7 @@ Innkeeper
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-いらっしゃいませ、旅のお方。
+Welcome, travelers.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -23,8 +23,9 @@ You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-うちでよければ泊まってください。
-お代は頂きますけどね。
+If it's okay with you, you can stay
+at my house. You will be charged
+for your stay, though.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -43,61 +44,44 @@ You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-あら、外国の人ですね。
-今は準備中なので後で来て下さい。
+Oh, you're a foreigner, aren't you?
+I'm just getting ready, so please
+come back later.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-皆には秘密だけど、
-私って外国びいきなの。
+It's a secret to everyone,
+but I'm a bit of a xenophobe.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-今回は特別に
-宿泊代タダにしてあげる。
+This time, I'll give you a special
+offer for free lodging.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-外は暑いですからね。
-お気をつけて。
+It's hot outside.
+Please be careful.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-夜の外出はお気をつけ下さい。
+Please be careful when
+you go out at night.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ご休憩されますか？
-はい
-いいえ
+Would you like to rest?
+Yes
+No
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-夜の外出はお気をつけ下さい。
+Please be careful when
+you go out at night.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ、旅のお方。
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-Are you staying today?
-[ENDBLOCK]
- Gald.
-Is that okay?
-[ENDBLOCK]
-Have a nice day.
-[ENDBLOCK]
-Come by anytime you'd like.
-[ENDBLOCK]
-Welcome.
-[ENDBLOCK]
-You don't have enough Gald.
-[ENDBLOCK]
-Innkeeper
-[ENDBLOCK]
-うちでよければ泊まってください。
-お代は頂きますけどね。
+Welcome, travelers.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -116,27 +100,51 @@ You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-あら、外国の人ですね。
-今は準備中なので後で来て下さい。
+If it's okay with you, you can stay
+at my house. You will be charged
+for your stay, though.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-私、外国びいきなの。今回だけは
-特別に宿泊代タダにしてあげる。
+Are you staying today?
+[ENDBLOCK]
+ Gald.
+Is that okay?
+[ENDBLOCK]
+Have a nice day.
+[ENDBLOCK]
+Come by anytime you'd like.
+[ENDBLOCK]
+Welcome.
+[ENDBLOCK]
+You don't have enough Gald.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-夜の外出はお気をつけ下さい。
+Oh, you're a foreigner, aren't you?
+I'm just getting ready, so please
+come back later.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ご休憩されますか？
-はい
-いいえ
+I'm a bit of a xenophobe... I'll give you
+free accommodation just this one time.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-夜の外出はお気をつけ下さい。
+Please be careful when
+you go out at night.
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+Would you like to rest?
+Yes
+No
+[ENDBLOCK]
+Innkeeper
+[ENDBLOCK]
+Please be careful when
+you go out at night.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

@@ -4,219 +4,226 @@
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-クレスタ駐留を命じられた時は、
-なんでそんな田舎へと思ったものです。
+When I was ordered to remain in
+Cresta, I wondered why I was 
+stationed to such a rural area.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-今ではすっかり街に馴染んでますけどね。
-王都へ戻るのが嫌なくらいです。
+I never thought it would become my
+permanent home. I don't even want
+to return to the royal capital.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Lion>様……噂に聞くより
-いい人ですね。
+Master <Lion> you are a better man
+than the rumors make you out to be.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-おい、それはどういう意味だ。
+Hey, what is that supposed to mean?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-すみません、すみません。
-噂と違って、ホントいい人ですね。
+I don't mean anything by it. 
+He's a really nice person, unlike
+the rumors.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-（……こいつ、天然だな）
+(...This guy's a natural.）
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-クレスタ駐留を命じられた時は、
-なんでそんな田舎へと思ったものです。
+When I was ordered to remain in
+Cresta, I wondered why I was 
+stationed to such a rural area.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-今ではすっかり街に馴染んでますけどね。
-王都へ戻るのが嫌なくらいです。
+I never thought it would become my
+permanent home. I don't even want
+to return to the royal capital.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-念のため、いつでも出動できるよう
-準備はしているけど……
+We are always ready to mobolize
+though, just in case...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-敵が空の上では、
-手の打ちようがありません！
+When your adversary is in the sky,
+there's no way to combat them!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえが、正体不明の
-モンスターを報告してきた者か？
+Are you the one who reported
+the mysterious monster.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あ、はい……そうですが。
-あなたは……客員剣士の<Lion>様!?
+Ah, yes...yes. Wait.
+Aren't you the great Master <Lion>!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうだ。ダリルシェイドから調査に来た。
-報告の内容を詳しく聞きたい。
+That's right. I'm here to investigate
+from Darilsheid. I want to hear
+more about your report.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-王都から……<Lion>様が……
+Master <Lion>... 
+from the royal capital...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、どうした。
-さっさと報告の詳細を話せ。
+Well, what do you have?
+Tell me the details of 
+your report.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-はっ！	せ、先日の事です。
-見知らぬモンスターが現れました。
+Sir! It was just the other day.
+A strange monster appeared.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それは知っている。
+I already know this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その先を話せ！
+Get to the point!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-強敵でした！
+It was a formidable opponent!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-具体的に話せ。例えば、
-モンスターが現れた場所などあるだろう。
+I need specifics. Where did 
+the monster first appear?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-え、えっ～と……
+Well, uh, let's see...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もういい！
+That's enough!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-…………
+.........
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それでは、どんなモンスター
-だったか話せ。
+Well, what kind of monster was it?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-そ、それも……
+Oh, about that...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、本当にモンスターが
-出現したんだろうな。
+Well, did a monster actually appear?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-は、はい……いえ。
+Ye...yes....no?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-嘘なのか……
-どうしてそんな真似を。
+You are lying....
+Why would you do such a thing?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-いえ、その……
+No, I mean...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-手柄でも上げたかったんじゃ
-ないですか？
+He was probably hoping to gain
+recongition, wasn't he?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-こんな田舎でくすぶっていれば
-そう思っても不思議じゃないですよ。
+I can understand that, especially
+when you're languishing in the 
+middle of nowhere like this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、モンスターなど
-現れていないんだな？
+So, no monsters have appeared?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-い、いえ……それは違います。
+N...no, it's not like that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いい加減にしろ。
-まだ嘘をつくのか！
+That's enough. You're still lying!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-すみませんすみません。
-本当の事を言います。
+Please, I'm sorry. 
+I'll tell you the truth.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-実は、正体不明のモンスターが
-現れたのは事実のようなのです。
+I heard that an unidentified
+creature has appeared.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-事実のよう？	……つまり、
-おまえはモンスターを見ていないのか。
+You heard...? In other words, you
+haven't actually seen it?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-……はい。
+...That's correct.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、誰が見た？
+So who actually saw it?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-この街の孤児院の娘です。
-そいつに報告しろと脅かされて。
+She's a girl from the orphanage. 
+I was threatened to report it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-娘だと？
+A girl...?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-はい、やばい感じがするから軍に
-報告しろと、剣を突きつけてきたんです。
+Yes, she put a sword to my throat
+and demanded I reported it. She
+said she sensed something terrible.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-よし、分かった。
-その娘は孤児院にいるのだな？
+I see... This girl is 
+at the orphange, correct?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あ、はい……
+Y...yes.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-その、私の事は……
+Well, you know, I'm...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-安心しろ。上手く報告しておく。
-それに、自分でもなぜだか分からないが……
+Don't worry. I will report back
+favorably. I don't understand why 
+I'm doing this, but...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえの話に妙に納得した。
+I was oddly persuaded by your tale.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

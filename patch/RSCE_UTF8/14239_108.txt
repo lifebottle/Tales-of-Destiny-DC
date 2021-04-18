@@ -402,7 +402,7 @@ Look out, <Woodrow>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm not injured, but I'm... 
+She not injured, but she's... 
 terribly debilitated.
 [ENDBLOCK]
 <Atwight>
@@ -594,22 +594,22 @@ Alright, I'll try it out.'
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><CENTER>Press <Square_ani> to shoot a beam of
+<TAG_007><center>Press <Square_ani> to shoot a beam of
 energy out of the Sorcerer Ring.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><CENTER>Use the Sorcerer Ring to melt the snow
+<TAG_007><center>Use the Sorcerer Ring to melt the snow
 blocking the path and move on.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><CENTER><red>Hint</color>: You can use the Sorcerer Ring
+<TAG_007><center><red>Hint</color>: You can use the Sorcerer Ring
 in other dungeons as well.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><CENTER>If you are stuck in a dungeon,
+<TAG_007><center>If you are stuck in a dungeon,
 try applying the Sorcerer Ring to different
 parts of the dungeon.
 [ENDBLOCK]

@@ -64,68 +64,66 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それじゃあたしは、
-ここで一休みしてるわ。
+I'm going to take a break here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あとはあんたたちだけで、
-ちゃっちゃと行ってきて。
+Now you guys just go 
+and get it over with.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-すぐに戻ってくる。
-くれぐれも注意は怠るな。
+I'll be right back.
+Keep your eyes open.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ここは私が、
-<Igtenos>と共に残ろう。
+I'll stay here with <Igtenos>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私もお供します。
+I will stay you.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、<Chelsea>は、
-<Stahn>君たちと行きなさい。
+No, <Stahn> take <Chelsea> 
+with you guys.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-この先に何があるかわからない。
-戦力は多い方がいいからね。
+We don't know what's ahead of us.
+The more forces you have, the better.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わかりました。<Woodrow>さまが、
-そうおっしゃるなら……
+I understand, Lord <Woodrow>
+If you say so...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私が残りますわ。
-<Stahn>さんたちはどうか先へ。
+I'll stay. <Stahn> and the 
+others, please go ahead.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-危ない目に遭いそうになったら、
-俺様の事を呼んでください！
+If you feel like you're 
+in danger, call on me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どこにいようと、
-即座に駆け付けますので！
+Wherever you are, I'll be 
+there in a heartbeat!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-わ、わかりました……
-よろしくお願いします。
+I understand. Thank you 
+for your time.
 [ENDBLOCK]
-誰に残ってもらいますか？
+Who do you want to stay?
 
 [ENDBLOCK]
 <Rutee>
@@ -143,85 +141,86 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お帰り。用は済んだの？
+Welcome back. Did you 
+get the key?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ああ。
+Yeah.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……あの……
+<Rutee>, uh...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあ、早く外に出ましょ。
-待ちくたびれて疲れちゃった。
+Then let's get out of here.
+I'm tired of waiting.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ……
+Uh...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お待たせ致しました、
-<Woodrow>さま。
+Thank you for waiting, 
+Lord <Woodrow>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Ｒキーは手に入ったようだね。
+I see you got the R key.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい。
+Yeah.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では戻るとしようか。
+Let's go back then, shall we?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-お待たせ致しました、
-<Philia>さん！
+Sorry to keep you 
+waiting, Ms. Philia!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お疲れさまです、<Stahn>さん。
-<Kongman>さん。
+Thanks for your help, <Stahn> and
+<Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なんのこれしき！	俺様にかかれば、
-なんの事はありませんよ！
+What's this! No thanks needed.
+It was nothing.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-皆さんが無事で良かったですわ。
-それでは、外に出ましょうか。
+I'm glad you're everything's okay.
+Now, let's get going.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしがいないからって
-さみしがるんじゃないわよ。
+Were you lonely just because 
+I wasn't there.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ハハ、そんなわけないか。
+Haha, no way.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>、気をつけるんだよ。
+<Chelsea>, be careful.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-みんな<Chelsea>の事を
-頼んだよ。
+You guys take care of 
+<Chelsea> for me.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私は大丈夫です。
-みなさんこそお気をつけて。
+I'm fine. Take care 
+of yourselves.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

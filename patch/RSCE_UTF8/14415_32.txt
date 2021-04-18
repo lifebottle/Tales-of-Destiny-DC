@@ -1,7 +1,7 @@
 
 [ENDBLOCK]
-<TAG_005><Rutee>の似顔絵らしき
-ものが飾られている。
+<TAG_005>What looks like a portrait
+of <Rutee> hangs on the wall.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -10,80 +10,82 @@ Girl
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お姉ちゃんはね、わたしの自慢なの。
+I am very proud of you, big sis.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-この前だって、街の兵隊さん
-こらしめたんだから！
+Last time, you beat up the
+soldiers in the city!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Rutee>姉ちゃんのお陰で、
-あたしたちはここで暮らせるんだよね。
+It's thanks to Miss <Rutee> that
+we can live here, isn't it?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Rutee>姉ちゃんは、
-わたしの自慢のお姉ちゃんなの。
+Miss <Rutee> is my big sister
+and I am very proud of her.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Rutee>姉ちゃん、無理はするなって、
-シスターに言われたでしょ？
+Miss <Rutee>, didn't the sisters
+tell you to take it easy?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-わかるに決まってるわ。
-あたしたち、家族だもの。
+Of course I understand. 
+We are a family.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Rutee>をイジメたら
-あたしおこるんだからね。
+If you bully <Rutee>, I'll get mad.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あたしたちは平気だから、
-他の街の人も助けてあげて。
+We will be fine, so please help
+the rest of the city.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-まあ、王都からいらしたのですか。
-この孤児院に何か御用でも？
+You've come from the royal capital,
+haven't you. Do you have some
+business with this orphanage?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-<Rutee>、体を大切にね。
-あなたは無茶をするから心配よ。
+Take care of yourself, <Rutee>.
+I'm worried about you since you're
+always so reckless.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-前も、この家の借金を、ひとりで……
+I used to manage the finances of 
+this house by myself...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-……これは言わない約束だったわね。
-ごめんなさい。
+...I promised not to mention this,
+didn't I? I'm sorry.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-<Rutee>、体を大切にね。
+<Rutee>, take care of yourself. 
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-ああ見えても<Rutee>はまだ子供。
-あなたたちが支えてやってください。
+Despite her looks, <Rutee> is still
+a child. Please support her.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-<Rutee>、あなたの無事を、
-心から祈っているからね。
+<Rutee>, I am praying for your 
+safety with all my heart.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-あなたたちの無事を、
-心から祈っていますよ。
+I will pray for your safety from
+the bottom of my heart.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -317,176 +319,178 @@ notice
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-あら、<Rutee>？
+Oh, <Rutee>？
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>どうしたの？
-（……そういや挨拶してなかったわね……）
+<TAG_007>What's up?
+（...I didn't say hello, did I...）
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-弟たちと
-買い物に行くんじゃないの？
+Aren't you going shopping
+with your brothers?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと用事が出来て
-行けなくなったのよ。
+I had some business to attend to
+and I couldn't make it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それにチビたちも元気すぎて、
-一緒の買い物は疲れるわ♪
+Besides, the little ones are so 
+energetic that shopping together
+wears me out♪
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-何言ってるの。
-そんな事言う歳じゃないでしょ。
+What are you talking about?
+You're not old enough to talk 
+like that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあね～♪
+It is what it is♪
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-まったく、この子ったら。
+God, this girl.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-そういえば、お客さんが
-来ていたようだけど。
+Oh, by the way, I see you had
+some company. 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-前に話をした人たちよ。
-それでさ、話があるんだけど。
+They were the ones I was telling
+you about. And about that, there is 
+something we need to discuss.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-また行くんでしょ？
-……分かっているわ。
+...I already know.
+You're going back, aren't you?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-でも危険な事は無しだからね。
+And it is dangerous, right?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-わかってますって。
-けどね、シスター……
+Of course you understand.
+But, sister...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-ええ、言わなくても分かってる。
-でも<Rutee>忘れないで。
+I know I don't have to tell you this.
+But don't forget, <Rutee>.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-子供たちはいつもあなたの
-帰りを待っているのよ。
+The children are always waiting
+for you to come home.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-子供たちを一番に思うなら
-一番大切にするべきなのは、
+If you have the children's best
+interest at heart, the only thing
+you should care about most is...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-あなた自身だって事を
-忘れちゃいけないからね。
+Don't forget that you are the one
+who has to do this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん、ありがと。
+Yeah, thanks.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-行ってきます！
+I'm off!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-子供たちが大きくなるに連れて、
-荷物も増えていくのよね。
+As the children get older, so do
+their belongings.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-すっきりさせたいわ。
-この部屋。
+This room is such a mess. 
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-いいところに来たわね。
+You've come at the perfect time.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何？
+Huh？
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-荷物整理してたら、
-あなたのノートが出てきたわよ。
+I was going through some things
+and I found your notebook.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしの……？
-そんなものあったかしら？
+Do I really have such a thing?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-中を読んでみれば、
-何かわかるんじゃない？
+Why don't your read it and see
+what is inside.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうね。
+I suppose you are right.
 [ENDBLOCK]
-○月×日
+○Month ×Day
 [ENDBLOCK]
-今日１０ガルド拾いました。
-やったー！
+I can't believe it. I found 10 gald!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何これ？
-小さい時の日記かしら？
+What is this? Is it a diary from
+when I was a little girl?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-１０ガルドで喜ぶなんて
-かわいいなぁ。
+It's so cute that you were happy
+finding 10 gald.
 [ENDBLOCK]
-○月×日
+○Month ×Day
 [ENDBLOCK]
-今日は１５ガルド拾いました。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-…………
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-お金の話ばっかり……だね。
-[ENDBLOCK]
-○月×日
-[ENDBLOCK]
-今日は貯めたお金で、
-グミをたくさん買いました。
-[ENDBLOCK]
-○月×日
-[ENDBLOCK]
-旅の人にグミを売ったら、
-全部で５０ガルドのもうけがでました。
+Today I picked up 15 gald.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-これはこれで恥ずかしいわね……
+............
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-子供なのに、家計簿ってやつかな？
+It is all about money...
+[ENDBLOCK]
+○Month ×Day
+[ENDBLOCK]
+Today I bought a lot of gummies
+with all the money I had saved.
+[ENDBLOCK]
+○Month ×Day
+[ENDBLOCK]
+When I sold the gummies to some
+travellers, I may a profit of 50 gald!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+This is so embarrasing...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You were just a kid, but were you 
+keeping a budget?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-いいえ。これは出納帳よ。<x00>
+No, this is a ledger.<x00>
 [ENDBLOCK]

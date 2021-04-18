@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinyDecode", "DestinyDecode.csproj", "{48F1ABA4-6C5C-48DB-A9BE-41564003737C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F1ABA4-6C5C-48DB-A9BE-41564003737C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F1ABA4-6C5C-48DB-A9BE-41564003737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F1ABA4-6C5C-48DB-A9BE-41564003737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F1ABA4-6C5C-48DB-A9BE-41564003737C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D3B971-FD69-43DC-927F-35C947D8546A}
+	EndGlobalSection
+EndGlobal

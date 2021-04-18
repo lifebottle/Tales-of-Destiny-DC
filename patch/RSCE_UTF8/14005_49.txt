@@ -75,241 +75,243 @@
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-一番まともそうだから、
-お兄ちゃんが勝負してよね。
+You seem like a decent guy. You're
+going to have to play the brother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、わかったけど、
-この人は？
+Yeah, okay, but...
+What about this guy?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-私はこの街に住む金持ち。
-この勝負のスポンサーです。
+I'm a wealthy resident of the
+city. I sponsor the race.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-スポンサー？
-なんですか、それ？
+Sponsor?
+What's that?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-まあ、分かりやすく言うと、
-勝った方に商品を提供する人間です。
+Well, simply put... I provide
+the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へぇーでもどうして？
+Wow, but why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-まあ、金持ちになると
-暇ですから。
+Well, when you're rich. You have a
+lot of time and money on your hands.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ほらほら、もういいでしょ。
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-このあとどうするかは
-お兄ちゃんが決めていいよ。
+You can decide what to 
+do after this, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-コースは複雑だから、
-しっかり覚えてね。
+The course is complicated,
+so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-勝負するのはお兄ちゃんでいいんだね？
+Are you sure that's who
+you want to race with?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、構わない。
-ところでこの男はなんだ？
+Yeah, no problem.
+Who's this guy anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-私はこの街に住む金持ち。
-この勝負のスポンサーです。
+I'm a wealthy resident of the
+city. I sponsor the race.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-スポンサー？
+Sponsor?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ええ。分かりやすく言うと、
-勝った方に商品を提供する人間ですね。
+Well, simply put... I provide
+the prizes to the winner.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なぜ、こんなかけっこ程度に資金を提供する。
-目的はなんだ？
+Why are you funding
+this kind of event?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ははは、目的なんてありません。
-金持ちになって暇なだけですよ。
+Haha, I don't have a purpose.
+I'm just rich and bored.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ほらほら、もういいでしょ。
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-このあとどうするかは
-お兄ちゃんが決めていいよ。
+What to do after this?
+It's up to you to decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-コースは複雑だから、
-しっかり覚えてね。
+The course is complicated,
+so learn it well.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-コースもやり方も
-前までと一緒だからね。
+The course, the route.
+It's the same as before.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、わかった。
+Yeah, I got it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今日は……本気だよ。
+I'm serious today.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-さあ、決めていいよ。
+Come on, you can decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-コースもやり方も
-前までと一緒だからね。
+The course, the route.
+It's the same as before.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと、始めようじゃないか。
+Let's get started, shall we?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今日は……僕も本気だよ。
+Today... I'm serious, too.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-さあ、決めていいよ。
+Come on, you can decide.
 [ENDBLOCK]
-	・コースデータの設定
+	・Setting up course data
 
 [ENDBLOCK]
-	・かけっこ全体管理の初期化
+	・Initialize the management of kake
 
 [ENDBLOCK]
-	・プレイヤーの初期化
+	・Player initialization
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・Initializing Mach Boy
 
 [ENDBLOCK]
-	・富豪の初期化
+	・Wealth initialization
 
 [ENDBLOCK]
-	・風船少女の初期化
+	・Initialization of Balloon Girl
 
 [ENDBLOCK]
-	・風船の初期化
+	・Initialize balloons
 
 [ENDBLOCK]
-	・街人の初期化
+	・Initializing the townspeople
 
 [ENDBLOCK]
-	・デモフラグの初期化
+	・Initialize the demo flag
 
 [ENDBLOCK]
-	・プレイヤーの初期化
+	・Player initialization
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・Initializing Mach Boy
 
 [ENDBLOCK]
-	・富豪の初期化
+	・Wealth initialization
 
 [ENDBLOCK]
-	・マッハ少年の初期化
+	・Initializing Mach Boy
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-リタイア
-続ける
+Quit
+Continue
 
 [ENDBLOCK]
-あれれ、もうやめちゃうの？
+Oh, my God, you're quitting?
 [ENDBLOCK]
-やっぱ、僕には勝てないよね、ね！
-[ENDBLOCK]
-Boy
-[ENDBLOCK]
-どうしたの？
-もう一回かけっこする？
-[ENDBLOCK]
-どうしたの？
-もう一回かけっこする？
-[ENDBLOCK]
-まだかけっこするの？
-[ENDBLOCK]
-まだかけっこするの？
-[ENDBLOCK]
-僕はこの街で一番
-足が速いんだよ。
+I knew you couldn't
+beat me, ya know!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、僕と
-かけっこ勝負しない？
+What's the matter loser?
+Do you wanna play again?
 [ENDBLOCK]
-ねえ、もう一度僕と勝負しない？
+What's the matter loser?
+Do you wanna play again?
+[ENDBLOCK]
+Are you still going to play?
+[ENDBLOCK]
+Are you still going to play?
+[ENDBLOCK]
+I'm the fastest
+man in the city.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Hey, hey, hey! Do you want
+to run a race with me?
+[ENDBLOCK]
+Hey, do you want to race again?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 select
 [ENDBLOCK]
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
-じゃあ僕に付いてきて。
+Then follow me.
 [ENDBLOCK]
-じゃあ僕に付いてきて。
+Then follow me.
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-なんだつまんないな。
+What a boring thing to do.
 [ENDBLOCK]
-あっそ、じゃあいいや。
+Oh, no, that's fine then.
 [ENDBLOCK]
-なんだつまんないな。
+What a boring thing to do.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-先ほどまでの先頭：<x17><x69><x44><x29><x80>
+Winner: <x17><x69><x44><x29><x80>
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-勝負開始！
-コースの説明を聞く
-勝負をやめる
+Let the games begin!
+Course description
+Quit the game!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-なんだあ残念。
+What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-なんだあ残念。
+What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -317,100 +319,100 @@ Boy
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-勝負は二周で争われます。
+The race is two laps.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-位置について、よーい。
+On your mark.
 [ENDBLOCK]
-スタート
+GO!
 [ENDBLOCK]
-ゴール！
+Finish!
 [ENDBLOCK]
 □□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won.
+Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お兄ちゃん速すぎだよー。
+You're too fast, brother!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-僕が負けたの……？
+Did I lose...?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-でもお兄ちゃんも頑張ったからね。
-勝ちを譲るよ。
+But you did your best, too,
+ brother. I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あなたの勝利です。
-こちらをお受け取りください。
+You have won.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お兄ちゃん速すぎー。
+You're too fast, brother!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-でも、次は負けないからね！
+But next time, I won't lose!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-かならずまた来てねー。
+Please come back again, for sure.
 [ENDBLOCK]
-ゴール……
-[ENDBLOCK]
-Boy
-[ENDBLOCK]
-やったー僕の勝ち!!
+Finish...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お兄ちゃんの負けー。
+Yay, I win!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どうする？
-もう何回でも相手したげるよ。
+You lost.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-やったー、やっぱり僕の方が速い!!
+What do you say? I'll race with
+you as many times as you want.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-お兄ちゃん遅いー。
+Yay, I'm faster than you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どうする？
-もう何回でも相手したげるよ。
+You're late, brother.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+What do you say? I'll race with
+you as many times as you want.
 [ENDBLOCK]
 ----- 敗北 -----
 
@@ -463,43 +465,46 @@ Boy
 目標座標：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-それじゃ、コースの説明をするね。
+I'll explain the course.
 [ENDBLOCK]
-ここがスタート地点。
+You start here.
 [ENDBLOCK]
-僕がコースを歩きながら説明するから
-しっかりと覚えてね。
+I'll walk you through the
+course once. Pay attention, now!
 [ENDBLOCK]
-始めは噴水を横切る。
+We start across the fountain.
 [ENDBLOCK]
-この階段を下りる。
+Go down these stairs.
 [ENDBLOCK]
-ここから噴水の方に行く。
+From here, go towards the fountain.
 [ENDBLOCK]
-今度は噴水をグルリと一周するんだ。
+Then around the fountain.
 [ENDBLOCK]
-ここからは来た道を戻るよ。
+Then, go back the way
+we came from here.
 [ENDBLOCK]
-今度は噴水を横切る前に、階段を上る。
+This time, go up the stairs
+before crossing the fountain.
 [ENDBLOCK]
-そしてスタート地点だったところが
-ゴールになるよ。
+Then back at the start.
+That's the goal.
 [ENDBLOCK]
-途中でズルしても、
-分かっちゃうからね。
+I'll know
+if you cheat, too.
 [ENDBLOCK]
-勝負は「二周」だよ。忘れないでね。
+We run 2 laps. Don't forget!
 [ENDBLOCK]
-コース移動＋ターン
+Course movement + turn
 
 [ENDBLOCK]
-コース移動
+Course movement
 
 [ENDBLOCK]
-メッセージ再生全て終了済み
+All message playback
+has been completed.
 
 [ENDBLOCK]
-メッセージ再生
+Message playback
 
 [ENDBLOCK]
 Boy
@@ -681,35 +686,38 @@ to <Ilene>'s estate now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-せっかくノイシュタットに来たんだから、
-<Ilene>さんに挨拶でもしていこうか？
+Since we've come all this way to
+Neuestadt. Why don't we say hello
+to <Ilene>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-たぶん……いないと思いますよ。
+She may not be there...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私たち、リーネへ行く前にも、
-この街を通ったんですけど……
+We passed through this
+city on the way to Lienea.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ilene>さん、しばらく公の場に、
-姿を見せていないそうです。
+<Ilene> hasn't been seen
+in public for a while.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どこか行ってるのかな。
+I wonder if she's
+going somewhere.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-寄り道をしているゆとりはない。
-さっさと港へ行って、船に乗るぞ。
+We don't have time for
+a detour. Let's get to the
+port and get on the boat.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかったよ。
+Okay, okay.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

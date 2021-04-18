@@ -1,54 +1,55 @@
-北
+N
 [ENDBLOCK]
-東
+E
 [ENDBLOCK]
-南
+S
 [ENDBLOCK]
-西
+W
 [ENDBLOCK]
-レンズの位置は<x18><x65><x57><xE8><x00><x80>です。
+The lens is <x18><x65><x57><xE8><x00><x80>.
 [ENDBLOCK]
     <TAG_032> / <TAG_033> / <TAG_034>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>封印が開放されました。
+<TAG_007>The seal has been released.
 [ENDBLOCK]
 
-石板の碑文を思い出す
+The inscription reads...
+
 [ENDBLOCK]
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>やりなおしますか？
-はい
-いいえ<TAG_052>
+<TAG_007>Do you want to start over?
+Yes
+No <TAG_052>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>北の星光が地上に注ぐ時、
-東の地より昇りし太陽が
-夜明けを告げる。
+<TAG_005><center>When the starlight of the north
+pours over the earth, the sun rising from 
+the eastern land heralds the dawn.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>夜明けを告げる太陽が
-東より昇る時、
-西方に弓月が沈む。
+<TAG_005><center>When the sun rises in the
+east to herald the dawn, the 
+bow moon sets in the west.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>北の空に星が輝く季節、
-南の領主に
-新たな生命が誕生する。
+<TAG_005><center>In the season when the stars shine
+in the northern sky, new life
+is born in the southern lords.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>西方に弓月が沈むと、
-新たな生命の息吹が
-南の地を訪れる。
+<TAG_005><center>When the bow moon sets in
+the west, a new breath of life 
+comes to the southern land.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
