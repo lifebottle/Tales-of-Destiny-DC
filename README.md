@@ -59,6 +59,7 @@ Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNH
 - https://www.romhacking.net/utilities/1419/
 - http://www.romhacking.net/utilities/659
 - https://wxmedit.github.io/downloads.html
+- https://github.com/Kingcom/armips
 
 ## Credits
 - Thanks to the Temple of Tales Translations team for providing tools to edit scenarios and skits (http://temple-tales.ru/translations.html) 
