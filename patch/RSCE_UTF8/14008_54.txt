@@ -1382,26 +1382,28 @@ Man
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、
-<ITEM_067>、<ITEM_068>、
-<ITEM_069>をお持ちでしょうか？
+Do you have a <ITEM_065>, 
+<ITEM_066>, <ITEM_067>, 
+<ITEM_068> and a <ITEM_069>?
 [ENDBLOCK]
-全てを準備して頂き、お持ちくだされば、
-それらを調合して<ITEM_Elixir>を
-お渡しします。
+If you prepare everything and
+bring it with you, we will mix
+them and give you a <ITEM_Elixir>.
 [ENDBLOCK]
-材料がそろっていますね。
+You have all
+the ingredients.
 
 [ENDBLOCK]
-<TAG_007>材料と<ITEM_Elixir>を交換しますか？
+<TAG_007>Would you like to replace the
+material with an <ITEM_Elixir>?
 
 [ENDBLOCK]
-一つだけ交換する
-全部交換する（<TAG_077>個）
-交換しない
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
-交換する
-交換しない
+Exchange
+Don't Exchange
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1409,21 +1411,22 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><ITEM_Elixir>を
-<TAG_076>個手にいれました。
-[ENDBLOCK]
-またどうぞ。
+<TAG_007><TAG_076>x [<ITEM_Elixir>] acquired.
 
 [ENDBLOCK]
-いつでも交換できます。
+Please come again.
 
 [ENDBLOCK]
-材料がそろいましたら、
-おこしください。
+Come back at any time.
 
 [ENDBLOCK]
-<ITEM_Elixir>はこれ以上
-持てないようです。
+Please return once you
+have the ingredients,
+
+
+[ENDBLOCK]
+[<ITEM_Elixir>] acquired but 
+you can hold any more.
 
 [ENDBLOCK]
 Fan

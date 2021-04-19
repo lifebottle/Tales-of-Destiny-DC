@@ -471,127 +471,135 @@ scn anim 終了
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>神殿の私有地につき
-関係者以外立ち入り禁止。
+<TAG_005>The temple's private property 
+is off-limits to all visitors 
+except those concerned.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-なんでえ、この神殿はよ。
-よそ者の神の分際で偉そうに。
+What's with the temple?
+They're so pompous with
+their foreign god.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-よその国の神様が、俺たちを
-助けてくれるはずがないよな。
+The gods of other countries
+won't help us.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-最後に助けてくれるのは
-俺たち自身の強い意志だけだ。
+The only thing that'll help
+us is our strong resolve.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-なんでえ、この神殿はよ。
-よそ者の神の分際で偉そうに。
+What's with the temple?
+They're so pompous with
+their foreign god.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-よその国の神様が、俺たちを
-助けてくれるはずがないよな。
+The gods of other countries
+won't help us.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-セインガルドは雷を落とされて、
-ボロボロだってな。ざまあみろ。
+I heard Seinegald was struck
+by lightning and is in ruins.
+Serves them right.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-ジャンクランドの方にも、
-雷が落ちたってな。誤爆か？
+I heard that lightning struck
+Junkland, too. A misfire?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺にはあんたたちこそ、
-神様に見えるぜ。
+You look like gods to me.
 [ENDBLOCK]
-じいさま
+Gramps
 [ENDBLOCK]
-わしは信じとる。今にわしらの神が、
-よそ者に天罰を下してくださるはずじゃ。
+I believe that by now our God would
+have pinished the foreigners.
 [ENDBLOCK]
-じいさま
+Gramps
 [ENDBLOCK]
-わしらの神の言い伝えには、
-こんな一節がある。
+In the lore of our god, there is
+a passage that goes like this.
 [ENDBLOCK]
-じいさま
+Gramps
 [ENDBLOCK]
-「空に七人の天使が舞う時、
-神は裁きの雷と共に降臨せん」
+[When the seven angels are dancing
+in the sky, God will descend with
+the thunder of judgment.]
 [ENDBLOCK]
-じいさま
+Gramps
 [ENDBLOCK]
-今がその時なのかもしれん……
+Maybe it's finaly time...
 [ENDBLOCK]
-じいさま
+Gramps
 [ENDBLOCK]
-わしが信じとった言い伝えは、
-本当の神の事ではなかったようじゃな。
+It seems that the legends I believed
+in were not about real gods...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-よそ者を見つけたら石を投げろって、
-いわれてるのさ。
+I was told that if you see a foreigner,
+you should throw a stone at him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-……兄ちゃんたち、もしかしてそう？
+...Guys, could it be?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-……兄ちゃん、もしかしてそう？
+...Bro, could it be?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-……お姉ちゃんたち、もしかしてそう？
+...Ladies, could it be?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-よそ者を見つけたら石を投げろって、
-言われてるのさ。
+I was told that if you see a foreigner,
+you should throw a stone at him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-よそ者を見つけても石は投げるなって
-言われたよ。どうしてだろ？
+I was told not to throw stones
+at foreigners when I see them.
+Why is that?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-これからはよそ者だろうと、
-仲良くしろって言われたよ。
+I was told to get along with
+them from now on, even if
+they were foreigners.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、
-<ITEM_067>、<ITEM_068>、
-<ITEM_069>をお持ちでしょうか？
+Do you have a <ITEM_065>, 
+<ITEM_066>, <ITEM_067>, 
+<ITEM_068> and a <ITEM_069>?
 [ENDBLOCK]
-全てを準備して頂き、お持ちくだされば、
-それらを調合して<ITEM_Elixir>を
-お渡しします。
+If you prepare everything and
+bring it with you, we will mix
+them and give you a <ITEM_Elixir>.
 [ENDBLOCK]
-材料がそろっていますね。
+You have all
+the ingredients.
 
 [ENDBLOCK]
-<TAG_007>材料と<ITEM_Elixir>を交換しますか？
+<TAG_007>Would you like to replace the
+material with an <ITEM_Elixir>?
 
 [ENDBLOCK]
-一つだけ交換する
-全部交換する（<TAG_077>個）
-交換しない
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
-交換する
-交換しない
+Exchange
+Don't Exchange
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -599,40 +607,42 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><ITEM_Elixir>を
-<TAG_076>個手にいれました。
-[ENDBLOCK]
-またどうぞ。
+<TAG_007><TAG_076>x [<ITEM_Elixir>] acquired.
 
 [ENDBLOCK]
-いつでも交換できます。
+Please come again.
 
 [ENDBLOCK]
-材料がそろいましたら、
-おこしください。
+Come back at any time.
 
 [ENDBLOCK]
-<ITEM_Elixir>はこれ以上
-持てないようです。
+Please return once you
+have the ingredients,
+
+
+[ENDBLOCK]
+[<ITEM_Elixir>] acquired but 
+you can hold any more.
 
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-神殿内は祭礼の準備のため、関係者と
-巡礼者以外の立ち入りを禁止しています。
+Due to preparations for the festival,
+the temple is closed to the public.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-申し訳ないが、出直してください。
+I'm sorry, you'll have to
+come back another time.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-夜の神殿への出入りは
-禁止されています。
+Entering the temple at night,
+is not allowed.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-お引取り下さい。
+Please pick it up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
