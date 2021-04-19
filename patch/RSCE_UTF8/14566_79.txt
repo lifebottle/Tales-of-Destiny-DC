@@ -3,26 +3,26 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ベルトコンベアを挟むように
-設置された装置があります。
+There is a device installed 
+across the conveyor belt.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-これらはベルトコンベア上を移動する物の
-「熱」を感知して攻撃を仕掛けてきます。
+They attack by sensing the "heat" of
+objects moving on the conveyor belt.
 [ENDBLOCK]
 黄色
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>カードキーを登録しますか？
-はい
-いいえ
+<x18><x66><x10><x00><x80> Do you want to register your card?
+Yes
+No
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>カードキーを持っていません。
+<x18><x66><x10><x00><x80> I don't have a key card.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
