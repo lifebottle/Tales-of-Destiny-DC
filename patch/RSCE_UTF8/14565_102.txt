@@ -4,113 +4,120 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やっとヘルレイオスへ着いたわね。
+We're finally in Helraios.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-確か天上軍の、
-技術研究施設があったんでしたね？
+Wasn't this the technological research
+facility for the Heavenly Host?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-さよう。各種兵器やモンスターの開発、
-製造が行われておった。
+Let's see. Various weapons and
+monsters were being developed 
+and manufactured here.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-ソーディアンの研究も進められていたわ。
-結局、実用化には至らなかったけど。
+Swordian research was also
+underway. In the end, it was 
+never put to practical use.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-お陰で遺された設備を使い、
-<Igtenos>を治せるわけじゃがの。
+Thanks to that, we'll be able to
+fix Igtenos using the equipment 
+they left behind.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Igtenos>……元に戻るといいが。
+Let's hope we can get <Igtenos>
+back to normal.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-きっと大丈夫ですよ、<Woodrow>さま！
+I'm sure he'll be fine,
+Lord Woodrow!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-こちらソーディアンチーム。
-これよりヘルレイオス攻略を開始する。
+This is Swordian Team. We will 
+now begin the attack on Helraios.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-了解した。中和装置の製作も、
-あと一息と言ったところだ。
+Understood. We're almost ready 
+to build the neutralization device.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-頼むぞ、ソーディアンチームの諸君。
+Good luck, Swordian team.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ヘルレイオスはクラウディスと同様、
-空中都市群の中でも重要な拠点だ。
+Helraios, like Cloudius, is an important
+base in the airborne city group.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ゆえに天上方からも、
-既に誰かが送り込まれているかもしれん。
+Therefore, they may have already
+placed something here for defense.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Baruk>さんのような人が、
-いるかもしれないという事ですね……
+You mean that there may be
+more people like <Baruk>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-そうだ。くれぐれも油断するな。
+That's right. So, don't 
+let your guard down.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんの音だ!?
+What's that noise?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ラディスロウからじゃ！
+It's from Radisrol!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-ベルクラント発射口から、
-高密度のエネルギー反応！
+A high-density energy reaction 
+from the Belcrant's firing port!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-何っ……！
+What the...!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-これで三発目……
+This is the third shot.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あと一回で、外殻が……
+One more time, and the 
+outer shell will be...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-いよいよ後がなくなってきたわね。
+We're running out of time.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ。とにかく、
-ラディスロウに戻ろう。
+Yeah. Anyhow, let's go
+back to Radisrol.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>カードキーを登録しますか？
-はい
-いいえ
+<x18><x66><x10><x00><x80> Do you want to register your card?
+Yes
+No
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>カードキーを持っていません。
+<x18><x66><x10><x00><x80> I don't have a key card.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
