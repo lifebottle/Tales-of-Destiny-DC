@@ -23,13 +23,14 @@ ret <TAG_031>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ピポットが一定間隔で攻撃をしてきます。
+Pipots will attack you
+at regular intervals.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-その攻撃を利用して、
-怪しいところに当ててみましょう。
+Use that attack to apply 
+it to a suspicious area.
 
 [ENDBLOCK]
 pipot_flag<x17><x6D><x47><xD4><x80>

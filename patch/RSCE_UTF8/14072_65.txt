@@ -463,12 +463,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 <Johnny>ちゃんがこんなになるなんて。
 運命だったのでしょうか？
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 <Johnny>ちゃんがこんなになるなんて。
 こうなるのは運命だったのでしょうか？
@@ -488,7 +488,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 それじゃ行ってくるぜ、
 おふくろ。
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 ちゃんとお金は持ってるの？
 [ENDBLOCK]
@@ -765,8 +765,9 @@ Adventurer
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ここはシデン家の方々のお屋敷よ。
-道なりに行けば港か、街の外に出るわ。
+This is the residence of the
+Shiden family. Follow this road
+to the port or to leave the city.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
