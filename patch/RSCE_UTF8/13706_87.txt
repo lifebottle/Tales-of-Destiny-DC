@@ -669,170 +669,171 @@ be ready.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-明朝、作戦を決行する。
+We'll launch the operation
+tomorrow morning.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-明日……
+Tomorrow...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-明日か……！
+Tomorrow!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ついては諸君には、今夜一晩、
-ゆっくり休息を取ってほしい。
+Therefore, I would like you all 
+to get a good night's rest.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-諸君のために街の宿を借り切ってある。
-好きに使ってくれ。
+I've arranged for you to stay at the
+inn. Do get some rest.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-本当は祖国へ戻りたいだろうが……
-そこまでの時間はない。すまぬ。
+I know you really want to go
+back to your homeland. We don't
+have time. I'm sorry.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いいえ。お心遣いをいただき、
-ありがとうございます。
+No, sir. Thank you for your concern.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さて、ひとまず街に移動しようぜ。
-玉座の前で立ち話ってのも恐れ多い。
+Well, let's get to the city first. 
+I'm afraid to stand in front of
+the throne and talk.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-おお、<Lion>か。おまえにしては
-時間が掛かったようだな。
+Oh, <Lion>. It took you long enough.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-王は既に就寝された。
-それで、調査はどうだった？
+The king has already gone to bed.
+So, how did the investigation go?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はい。確かに正体不明の、しかも
-強力なモンスターを発見しました。
+Fine. We have indeed found an 
+unidentified, yet powerful monster.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。では急遽、部隊を
-送り込もう。
+I see. Then let's quickly 
+send in the troops.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いえ、その必要はありません。
+No, that won't be necessary.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-付近にいたモンスターは全て
-掃討したと思います。
+I think I've wiped out all the monsters
+that were in the vicinity.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ほう、たったひとりでとは。
+Oh, all on your own.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いえ、<Chaltier>が
-いてくれたからこそです。
+No, it's because of <Chaltier>.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-うむ。そうだったな。
-さすがはソーディアンだ。
+Hmm. That's right. That's what 
+you call a Swordian.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-その見事な働き、必ずや、
-陛下へも報告をしよう。
+I'll be sure to report to His 
+Majesty on your excellent work.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-なんだかこの人に
-誉められるとすごく照れますね。
+I feel really embarrassed 
+when he person praises us.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Chaltier>も喜んでおります。
+<Chaltier> is also pleased.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-して、<Lion>。なぜその様な
-モンスターが現れたか分かるか？
+And then, <Lion>. Do you know 
+why such a monster appeared?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……モンスターは全て、
-海から現れました。
+All the monsters appeared 
+from the ocean.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もしかしたら、海底で
-何かあったのかもしれません。
+Maybe something happened at 
+the bottom of the ocean.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。追って調査をさせねばな。
-ご苦労だった、<Lion>。
+I see. I'll have them look into it.
+Thanks for your help, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、私はこれで。
+Well, I'll take my leave.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ちょっと、待ってくれ<Lion>。
+Wait a minute, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何でしょうか？
+What is it, sir?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-近々、七将軍の集まる席が
-あるのだが……どうだ？
+We have a gathering of the 
+Seven Generals coming up.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうだ、とは？
+What do you mean?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-おまえは客員剣士、内部の
-人間との関わりは薄いだろう。
+You're a visiting swordsman, you 
+won't have much to do with the 
+people on the inside.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-改めて、皆に紹介したいのだ。
+Once again, I want to introduce
+you to everyone.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……私などが同席して
-よろしいのですか？
+Are you sure you want
+me to be there?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-その返事は了承と
-受け取ってよいのか？
+Can I take that response as approval?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はい、もちろんです。
+Yes, of course.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。今日はもう遅いからな。
-その話は明日にでもしよう。
+I see. It's late today.
+Let's talk about it tomorrow.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、失礼します。
+Now, if you'll excuse me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
