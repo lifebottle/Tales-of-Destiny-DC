@@ -553,11 +553,11 @@ No, I don't want that!
 Oh, no sir. Please
 don't misunderstand.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I'm a stage director.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Actually, the actor got sick, We're
 looking for a replacement.
@@ -567,7 +567,7 @@ looking for a replacement.
 So you want <Kongman>
 as a stand-in?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Yes, that's correct.
 [ENDBLOCK]
@@ -581,7 +581,7 @@ That's great.
 You've got to be kidding me. I'm the
 champion, not an understudy!
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I'm sorry. My future as a
 stage director is at stake.
@@ -600,12 +600,12 @@ see me as an actor, she will...
 [ENDBLOCK]
 No, no, not that far...
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Really?!
 Thank you very much.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Well, let's get to it!
 [ENDBLOCK]
@@ -613,7 +613,7 @@ Well, let's get to it!
 [ENDBLOCK]
 What, we're doing this now?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Yes! There's already
 a crowd in the hall!
@@ -622,12 +622,12 @@ a crowd in the hall!
 [ENDBLOCK]
 ...seriously?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Don't worry, there are no lines.
 Just act as I tell you to.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Now, the stage is about to
 begin. Let's hurry up.
@@ -649,10 +649,10 @@ The performance goes as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-	<Circle_ani>	Triumpant Stance
-	<Cross_ani>	Laugh
-	<Triangle_ani>	Pose
-	<Square_ani>	Weep
+<Circle_ani> Triumpant Stance
+<Cross_ani> Laugh
+<Triangle_ani> Pose
+<Square_ani> Weep
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -664,26 +664,26 @@ select
 Yes
 No
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 As soon as you leave here,
 you are on the stage.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I will direct from here.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Please follow those instructions
 and perform. Okay?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 What? It's okay.
 I know you can do it.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Now, you're up!
 [ENDBLOCK]
@@ -711,7 +711,7 @@ Hostess
 [ENDBLOCK]
 Oh, and you are?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Come on, you've got to court her.
 [ENDBLOCK]
@@ -720,7 +720,7 @@ Hostess
 You are the prince on the white horse
 who will rescue me, aren't you?
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Show them you're a strong man!
 [ENDBLOCK]
@@ -732,7 +732,7 @@ Hostess
 [ENDBLOCK]
 Come on, let's get out of here.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Now, again. Let's be cool.
 [ENDBLOCK]
@@ -778,45 +778,45 @@ Hostess
 [ENDBLOCK]
 ...Yes.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I don't know what's going
 on anymore!	That's the laugh!
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 But then I start to understand
 the situation. I cry...!
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Well, it was wonderful.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 You can be a top star without a doubt.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Well, it's your first performance.
 It's enough.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Please join us again.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 Once again. Would you like to
 take the stage again?
 Yes
 No
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I'll explain it again then.
 [ENDBLOCK]
-Director
+Rookie Director
 [ENDBLOCK]
 I'll be waiting.
 [ENDBLOCK]
