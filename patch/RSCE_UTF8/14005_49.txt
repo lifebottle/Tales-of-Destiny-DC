@@ -315,7 +315,7 @@ What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ふーん逃げるんだ……
+Pfff you're fleeing!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -334,7 +334,7 @@ Finish!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
@@ -342,7 +342,7 @@ Please take this one.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
@@ -354,7 +354,7 @@ You're too fast, brother!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
@@ -364,14 +364,14 @@ Did I lose...?
 Boy
 [ENDBLOCK]
 But you did your best, too,
- brother. I'll give you the win.
+brother. I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
