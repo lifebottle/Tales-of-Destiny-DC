@@ -541,135 +541,139 @@ Chatty Old Man
 [ENDBLOCK]
 
 [ENDBLOCK]
-牢屋男
+Prisoner
 [ENDBLOCK]
-誰だ、このやろう！
+Who the hell are you?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こんな所にいるだけあって、
-恐い人ね。
+You're a terrible person for 
+being in a place like this.
 [ENDBLOCK]
-牢屋男
+Prisoner
 [ENDBLOCK]
-なんだとぉ、こらぁ！
+What the hell, man?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ごめんなさい！
+Sorry!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あー、うそです。
-今のうそですから！
+Oh, that's a lie.
+That was a lie!
 [ENDBLOCK]
-牢屋男
+Prisoner.
 [ENDBLOCK]
-怒っているわけじゃねえ。
+I'm not angry.
 [ENDBLOCK]
-牢屋男
+Prisoner
 [ENDBLOCK]
-俺を恐い男と決め付けやがったなぁ。
-俺が牢屋にいる牢屋男だからってよ。
+You've made me out to be a 
+horrible person. Just because
+I'm a prisoner.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-事実でしょ。だから牢屋に
-いるんじゃないの？
+It's true. Isn't that 
+why you're in jail?
+[ENDBLOCK]
+<Stahn>.
+[ENDBLOCK]
+<Rutee>, that's rude.
+You can't be sure.
+[ENDBLOCK]
+Prisoner.
+[ENDBLOCK]
+You know what you're
+doing, don't you?
+[ENDBLOCK]
+Prisoner.
+[ENDBLOCK]
+We imagine a person by their title 
+or position, and assume that they 
+are that kind of person.
+[ENDBLOCK]
+Prisoner
+[ENDBLOCK]
+This is a prime example.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What's changed?
+[ENDBLOCK]
+<Stahn>.
+[ENDBLOCK]
+Well, well, well?
+[ENDBLOCK]
+<red> a man imprisoned for something
+he did not do.
+[ENDBLOCK]
+Do you understand?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、失礼だよ。
-そうとも限らないじゃないか。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-てめえ分かってんじゃねえか。
-その通りだぜ。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-俺たちは、肩書きや地位でその人をイメージして、
-勝手にこんな人間なんだと思い込む。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-例えばよ……これなら？
+<Rutee>, this man is innocent.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何か変わったの？
+This is not fair.
 [ENDBLOCK]
-<Stahn>
+Innocent Prisoner
 [ENDBLOCK]
-さ、さあ……？
+Please don't say such a thing.
+My little sister is waiting for 
+me to come home.
 [ENDBLOCK]
-<red>無実で投獄された男
+<Rutee
 [ENDBLOCK]
-分かるか？
+Mmmm, that's kinda awesome.
 [ENDBLOCK]
-<Stahn>
+Prisoner
 [ENDBLOCK]
-<Rutee>、この人は
-無実なんだよ。
+And that's about it. That's what
+I'm trying to say.
 [ENDBLOCK]
-<Rutee>
+Prisoner
 [ENDBLOCK]
-こんなの卑怯よ。
+You think people are a certain way.
+What I mean is just don't assume.
 [ENDBLOCK]
-無実で投獄された男
+Prisoner.
 [ENDBLOCK]
-そんな事を言わないで下さい。
-幼い妹が帰りを待っているんです。
+In other words, if you change 
+your title, people will change 
+their attitude.
 [ENDBLOCK]
-<Rutee>
+Prisoner
 [ENDBLOCK]
-んぐぐ、ちょっと凄いわね。
+But plating is plating. It's enough
+to play with your friends.
 [ENDBLOCK]
-牢屋男
+Prisoner
 [ENDBLOCK]
-とまあ、こんな感じだ。
-つまり俺が言いたいのはだな。
+This won't work on people who 
+are really in trouble, though.
 [ENDBLOCK]
-牢屋男
+<blue>The Real King.
 [ENDBLOCK]
-人をこうだ！	と思い込む
-なって事だ。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-逆を言えば、自分の肩書きを変えれば、
-人は態度を変えるって事さ。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-ただ、メッキはメッキだ。
-仲間内で遊ぶにはこれで十分だろ。
-[ENDBLOCK]
-牢屋男
-[ENDBLOCK]
-本当に困っている奴らに、
-これは通用しねえけどな。
-[ENDBLOCK]
-<blue>本物の王様
-[ENDBLOCK]
-それでは、偽者の王を倒し、
-我が国を救ってくれい！
+Then defeat the imposter king
+and save our country!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-結局は詐欺師かなんかでしょ。
-こいつ……
+He's a fraud or something
+after all. This guy...
 [ENDBLOCK]
-牢屋男
+Prisoner
 [ENDBLOCK]
-んだよ、野郎ひとりか。
-こっち見んじゃねえ！
+You're the only one, aren't you?
+Don't look at me!
 [ENDBLOCK]
-牢屋男
+Prisoner.
 [ENDBLOCK]
-なんだ？
-肩書きを変えたくなったのか？
+What is it?
+Did you want to change your title?
 [ENDBLOCK]
 <x19><x72><x00><x80>
 [ENDBLOCK]
@@ -688,7 +692,7 @@ Chatty Old Man
 [ENDBLOCK]
 					
 [ENDBLOCK]
-自由称号変更
+Free title change
 [ENDBLOCK]
 																														
 [ENDBLOCK]
