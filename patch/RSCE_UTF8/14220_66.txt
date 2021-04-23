@@ -20,39 +20,42 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ファンダリア観光局指定
-スノーフリア温泉へようこそ。
+<TAG_005><center>Welcome to Frostheim Hot Springs, 
+designated by the Phandarian Tourism Bureau.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-怪我をしている兵隊さんが利用できる
-よう、準備をしています。
+We are preparing to make it
+available to injured soldiers.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-ただ今、準備中です。
-またお越しください。
+We are preparing now.
+Please come back later.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -622,7 +625,7 @@ notice
 [ENDBLOCK]
 さあ？
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
 今日は男湯が壊れていますので、
 お客様おひとりですし、女湯を使って下さい。
@@ -632,16 +635,16 @@ notice
 そうなのか。
 分かった。
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
 あ、そうだった。
 頼まれた用事があるんだっけ。
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
 でも……
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
 誰も、お客さん来ないだろうし、
 大丈夫よね。
