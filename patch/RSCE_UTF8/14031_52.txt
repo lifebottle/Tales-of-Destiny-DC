@@ -20,309 +20,311 @@
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-だれか……見事な肉体をしていて、
-トップレスな奴はいないかな……
+Does anyone have a... stunning
+shirtless physique... 
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-おお、あなたしかいない！
+Oh, it's only you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ん？	俺様に用か？
+Hmm? You wanted to see me?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-突然ですが、
-あなたのその肉体に惚れました。
+Suddenly, I'm in love with
+that body of yours.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あは、あはは……
+Ha, ha, ha...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-人それぞれです……ね。
-よかったですね、<Kongman>さん……
+To each his own. Good
+for you,<Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さんまで、
-酷いじゃないですか。
+Even <Philia>, is
+being terrible?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-やい、俺様にそんな気はねえ！
+No, I don't want that!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-あ、違います。
-勘違いしないで下さい。
+Oh, no sir. Please
+don't misunderstand.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-私、舞台の監督をやっている者です。
+I'm a stage director.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-実は、役者が病気になってしまって、
-代役を探していました。
+Actually, the actor got sick, We're
+looking for a replacement.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-という事は……<Kongman>さんを
-その代役に？
+So you want <Kongman>
+as a stand-in?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-はい、その通りです。
+Yes, that's correct.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すごいじゃないか、
+That's great.
 <Kongman>。
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ふざけるなぁ。俺様はチャンピオンだぞ。
-代役なんてやらねえ！
+You've got to be kidding me. I'm the
+champion, not an understudy!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-そんなぁ。私の舞台監督としての、
-今後が懸かっているんです。
+I'm sorry. My future as a
+stage director is at stake.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>さん、すごいじゃないですか。
-私、お芝居って好きですよ。
+<Kongman>, aren't you amazing?
+I love theatrical performances.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ま、まあ、<Philia>さんが、
-俺様の役者姿を見たいと言うのなら……
+Well, well, if <Philia>wants to
+see me as an actor, she will...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-い、いえ、そこまでは……
+No, no, not that far...
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-ホントですか！
-ありがとうございます。
+Really?!
+Thank you very much.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-では、さっそく行きましょう！
+Well, let's get to it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-何、今やるのか!?
+What, we're doing this now?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-ええ！	会場には既に
-お客さんが入ってますからね！
+Yes! There's already
+a crowd in the hall!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……まじ……かよ。
+...seriously?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-大丈夫、セリフはありません。
-私の指示どおりに演技をして下さい。
+Don't worry, there are no lines.
+Just act as I tell you to.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-さあ、もう舞台が始まります。
-急ぎましょう。
+Now, the stage is about to
+begin. Let's hurry up.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-新人監督の指示に従って、
-演技をしてください。
+Please follow the Director's
+instructions and perform.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-新人監督の指示が出た後、
-時計の針を刻む音が鳴っている間に
-正しい演技ボタンを押せば成功です。
+After the Director's instructions are given,
+press the correct acting button while the 
+clock is ticking, and you will succeed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-演技は次のようになっています。
+The performance goes as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-	<Circle_ani>	両拳を突き上げる
-	<Cross_ani>	大笑いする
-	<Triangle_ani>	キザなポーズをとる
-	<Square_ani>	大泣きする
+<Circle_ani> Triumpant Stance
+<Cross_ani> Laugh
+<Triangle_ani> Pose
+<Square_ani> Weep
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-以上です。
-もう一度説明を見ますか？
+That's all. Would you like
+to see the explanation again?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-そこを出れば
-すぐに舞台となっています。
+As soon as you leave here,
+you are on the stage.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-私はここから指示を出します。
+I will direct from here.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-その指示に従って、演技をしてください。
-いいですね？
+Please follow those instructions
+and perform. Okay?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-何、大丈夫ですよ。
-あなたなら、必ずできます。
+What? It's okay.
+I know you can do it.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-さあ、出番です！
+Now, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-頑張れ！
+Come on!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-頑張ってください！
+Good luck!
 [ENDBLOCK]
 ret <x17><x66><x14><x03><xE8><x80><x80>
 
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-私は塔に捕われの姫。
+I am a princess trapped in a tower.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-ああ、白馬の王子さま。
-いつ私を救い出してくれるのかしら？
+Oh, prince of the white horse.
+When are you going to rescue me?
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-あら、あなたは？
-[ENDBLOCK]
-Rookie Director
-[ENDBLOCK]
-さあ、彼女に求愛するんだ。
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-あなたが私を助け出して下さる、
-白馬の王子さまなのですね？
+Oh, and you are?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-強いGuardをアピールするんだ！
+Come on, you've got to court her.
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-ああ！	なんて頼もしい！
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-ささ、私を連れ出して下さい。
+You are the prince on the white horse
+who will rescue me, aren't you?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-さあ、もう一度。かっこつけるんだ。
+Show them you're a strong man!
 [ENDBLOCK]
-Guard役
+Hostess
 [ENDBLOCK]
-貴様、姫には触れさせん！
+Oh!	How dependable!
 [ENDBLOCK]
-姫役
+Hostess
 [ENDBLOCK]
-あなたは一体……？
-[ENDBLOCK]
-Guard役
-[ENDBLOCK]
-私は姫を心よりお慕い申し上げる者。
-しかし、父はしがない農民……
-[ENDBLOCK]
-Guard役
-[ENDBLOCK]
-頭では身分の違いを分かっていても、
-この心が、姫の事をあきらめさせません。
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-まあ、私をそこまで愛してくださるの？
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-身分を越えた関係。
-それこそ、私の憧れた純愛！
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-私の身も心も、
-全てをお救い下さい。
-[ENDBLOCK]
-Guard役
-[ENDBLOCK]
-私が一生、
-姫をお守りします。
-[ENDBLOCK]
-姫役
-[ENDBLOCK]
-……はい。
+Come on, let's get out of here.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-もう訳が分からない！	という笑いだ！
+Now, again. Let's be cool.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You will not touch the princess!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+What the hell are you...?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I completely adore the princess.
+But I'm the son of a simple farmer.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Even though her head knows the 
+difference in status, her heart will
+not let her give up on the princess.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Well, do you love me that much?
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+A relationship that transcends status.
+That's the pure love I've always wanted!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Save my body, my 
+soul. Save me.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I will protect the princess
+for the rest of her life.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+...Yes.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-でも、状況が理解出来てきて、
-泣いてしまう！
+I don't know what's going
+on anymore!	That's the laugh!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-いやー、素晴らしかったですよ。
+But then I start to understand
+the situation. I cry...!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-あなたなら、トップスターも夢じゃない。
+Well, it was wonderful.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-まあ、初舞台ですからね。
-十分ですよ。
+You can be a top star without a doubt.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-是非、また参加してください。
+Well, it's your first performance.
+It's enough.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-もう一度、
-舞台に挑戦しますか？
-はい
-いいえ
+Please join us again.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-それじゃ、もう一度説明しますね。
+Once again. Would you like to
+take the stage again?
+Yes
+No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-いつでも待ってますよ。
+I'll explain it again then.
+[ENDBLOCK]
+Rookie Director
+[ENDBLOCK]
+I'll be waiting.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
