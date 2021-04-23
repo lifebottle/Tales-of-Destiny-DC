@@ -1,385 +1,395 @@
-Researcher
+Researcher 
 [ENDBLOCK]
-ねえ、君はあの空を飛べる竜に、
-乗っている人だろ？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-はい、そうですけど。
-[ENDBLOCK]
-Researcher
-[ENDBLOCK]
-私は動物学者でね。
-折り入って、頼みがあるんだ。
+Hey, you're the ones in command
+of the Draconis, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんでしょうか？
+Yes, We are, but...
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-この空を覆った大地が、どれだけ
-生態系に影響を与えているか、調べたいんだ。
+I'm a zoologist.
+I have a favor to ask you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-せい……たいけい？
+What can I do for you?
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-いや、あまり難しく考えないでくれ。
-[ENDBLOCK]
-Researcher
-[ENDBLOCK]
-僕が調べたいのは、今、
-「世界を飛んでいる鳥の数」。
+I'm trying to find out how this 
+sky-covered earth is affecting 
+the ecosystem.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-始祖竜に乗って調べれば
-いいんですか？
+...system?
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-その通りだ。どうだい、
-引き受けてもらえないだろうか？
-<TAG_007>はい
-いいえ
+No, don't think too much about it.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-そうか、残念だ。
+What I want to find out for now:
+"The number of birds that 
+are still out flying around"
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You want me to use the Draconis
+to find out? Is that okay?
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-鳥の数を数える件、
-やってくれるのかい？
-はい
-いいえ
+That's right. How about it? Could you
+help me?
+<TAG_007>Yes
+No
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-そうか、残念だ。
+Well, that's too bad.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-そうか、ありがとう。
+About the bird count. You'll do it?
+Yes
+No
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-調査方法などはここに書いてあるから、
-よく読んでくれよ。
+Well, that's too bad.
+[ENDBLOCK]
+Researcher
+[ENDBLOCK]
+Oh, well, thank you.
+[ENDBLOCK]
+Researcher
+[ENDBLOCK]
+I've written down the research methods
+here. Please read it carefully.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中の空を飛んでいる鳥の数を数えます。
-まずは始祖竜に乗ってください。
+Count the number of birds flying in the
+sky around the world. You'll need to get
+on the Avitus Draconis, first.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-鳥の数を数える方法は簡単です。
-鳥を見つけたら、その後ろをしばらく
-追いかけてください。
+The way to count the number of
+birds is simple. When you see a 
+bird, follow it for a while.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-一定時間、鳥の後を追いかけると、
-ロックオンされます。
-それで１羽数えた事になります。
+If you follow a bird for a certain 
+amount of time, you'll lock on to it.
+That means you've counted that bird.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ただその際に、鳥と始祖竜の距離が
-重要になります。可能な限り、
-鳥のすぐ後ろで追いかけてください。
+When doing so, the distance between
+the bird and the Avitus Draconis is
+important. Whenever possible, chase
+the bird from directly behind.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ロックオンに成功すると、
-今までロックオンした数が
-画面右上に表示されます。
+When you successfully lock on, the 
+current research value will be 
+displayed in the upper right corner
+of the screen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-同じ鳥を追いかけてもカウントは
-されませんので、注意してください。
+Please note that chasing the 
+same bird will not count.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-まだロックオンされてない鳥は
-ピカピカと点滅しているので、
-点滅している鳥を目指してください。
+Any flashing bird you find have
+yet to be researched. Look for them.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-理解してくれたかな？	今の説明が
-分からなかったり、調査し終わったら、
-必ず僕のところに来てくれよ。
+Did you understand everything?
+If you ever like to hear it again or 
+have finished your research please
+come and see me.
+[ENDBLOCK]
+Researcher.
+[ENDBLOCK]
+Well, I look forward to working with you.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-それじゃ、よろしく頼むよ。
+How's the research going?
+Report my findings
+View the research manual
+Rumor about a giant bird 
+Do nothing.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-どうだい、調査は順調かい？
-調査報告をする
-調査のマニュアルを見る
-巨大な鳥に関する噂
-なんでもない
+Keep me posted.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-引き続き頼むよ。
+Oh, I've been waiting for you.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-お、待ってましたよ。
+Let's see...
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-どれどれ……
+According to the research...
+The number of birds in the world is <x0E><x08><x00><x00><x80><x17><x71><x46><xDC><x80><x0E><x08><x00><x00><x40>.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-調査によると……
-世界の鳥の数は「<x0E><x08><x00><x00><x80><x17><x71><x46><xDC><x80><x0E><x08><x00><x00><x40>羽」だね。
+Well, that was helpful.
+Thanks.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-いやー、助かったよ。
-ありがとう。
+I still need to do more research.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-まだまだ調査が必要だな。
+When you have time, please 
+continue collecting data.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-また時間があれば、
-継続して調査をお願いするよ。
+This is perfect! Our ecological
+research is complete. 
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-これで生態系の調査は、
-完璧だな！
+Thank you so much.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-本当にありがとう。
+It's just a rumor from the residents,
+but... It seems that a huge bird was
+seen in two places.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-あくまで住民の噂による情報なんだけど、
-２箇所で巨大な鳥が目撃されたようだよ。
+One was in the sky above the islands
+north of Leene. The other over the
+islands southeast of Snowfriar.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-ひとつはリーネの北にある諸島付近の
-上空で、もうひとつはスノーフリアの
-南東にある諸島付近の上空でそれぞれ
-目撃されたみたいだ。
-[ENDBLOCK]
-Researcher
-[ENDBLOCK]
-どちらも、普通の鳥に比べて高い高度を
-速いスピードで飛んでいるらしいから
-発見するのは難しいかもしれないね。
+Both birds are flying at a higher altitude
+and faster speed than normal birds.
+It may be difficult to find them.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-やあ、ちょうど良い所に
-来てくれたね。
+Hey, you've come to the right place.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-イヤな予感がしますよ
-坊ちゃん……
+I have a bad feeling about this.
+Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-同感だ。
+I agree.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あいにく、僕は忙しいんでな。
-これで失礼する。
+Unfortunately, I'm busy.
+Now if you'll excuse me.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そんな事言わないでくれよ。
-危険な事なんてないからさ。
+Please don't say that.
+There's nothing dangerous about it.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-さあ、こっちだ。
+Come on, come on.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-本当に大丈夫なんだろうな。
+I hope this is safe.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-これが成功すれば、
-君の体には驚くべき変化があるはずさ。
+If this works, there's going
+to be some amazing changes
+in your body.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-さ、心の準備は出来たかな？
+Now, are you ready to 
+get your mind right?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そーら。スイッチオン！
+There you go. Switch on!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ぐぁっ！
+Whoa!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-さて、こんなものかな？
+Okay, here's what I've got.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はあ、はあ……
+Huh. Huh.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-大丈夫ですか？
+Are you okay?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何とかな。
-シャルはどうなんだ？
+Somehow.
+Are you okay?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕はなんともありません。
+I'm fine.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、レイノルズ。
-これで僕の……。
+Hey, Reynolds.
+This is my...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-しゃっくりですか？
+Is it a hiccup?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、そのようだ……。
+Yeah, looks like it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-やった。成功だ。
+Got it. It worked.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どういうことだ……。
+What's going on?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-今回の僕の発明は、
-人にしゃっくりをさせる機械なんだ。
+My invention this time is a machine
+that makes people hiccup.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-さっきの光を浴びると、人間は
-みんなしゃっくりが止まらない。
+When exposed to the light air.
+all humans can't stop hiccupping.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-どうだい。画期的だろう？
+What do you think? Groundbreaking,
+right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、元に戻せるんだろうな……。
+Hey, you can turn it 
+back on, can't you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-まさか、もう元に戻りたいと
-言うんじゃないだろうね。
+You're not going to tell me
+you want to go back to the 
+way things were, are you?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-このまま効果がどれくらいの間
-続くか、レポートを取らせてくれよ。
+Let me get some data on how
+long this effect will last.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふざけるな……。
+Don't be silly.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっさと僕を元に戻せ。
-さもないと……。
+Now get me back to normal.
+Otherwise...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-分かったから、剣を収めてくれよ。
-治せばいいんだろう。
+All right, just put the sword 
+away, okay? I'm sure I can fix it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-早くやるんだ……。
+Do it quickly.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ヒック。
+Hiccup...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-さあ、スイッチを押すよ。
+Come on, I'll hit the switch.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-それにしても……さすがの
-王国客員剣士も……
+And yet, as you would expect
+from a Honorary swordsman of
+the realm...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ヒックヒック言うと
-形無しだね。
+Hiccup, hiccup, hiccup. 
+You're shapeless.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-貴様、もう一度言ってみろ！
+You, say that again!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……ヒック。
+...Hiccup.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-また、実験に協力を頼むよ。
+Also, I need your help 
+with an experiment.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふん。誰がやるものか。
+Hmm. Who would do that?
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -431,536 +441,556 @@ Looking forward to your report.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-………
+.....
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-皆さん、ご心配をおかけして、
-すみませんでした。
+Everyone, I'm so sorry 
+for all the trouble.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>さんが無事で、
-本当によかったです。
+<Reynolds> I'm so glad you're okay.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-外殻の上が今どうなっているか、
-わかるか？
+Do you have any idea what's
+going on up top right now?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくはラディスロウから脱出するのに
-必死で……そこまでは……
+I was desperate to get out of Radisrol.
+That's as far as I got.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうか……
+I understand.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-実は皆さんをお呼びしたのは、
-他でもありません。
+Actually, I've invited you 
+all here because...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-これを見ていただけますか？
+Can you take a look at this?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-設計図……集積レンズ砲……？
+Blueprint for... Integrated
+Lens Cannon?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-簡単に言えば、大量のレンズを集め、
-エネルギーを束ねて撃ち出す装置です。
+Simply put, it's a device that releases
+an energy shot using power collected
+from the lens.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ベルクラントには及びませんが、
-外殻に穴を開けるくらいは可能かと。
+It's not as powerful as the Belclant,
+but I think it can at least punch a 
+hole in the outer shell.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-これなら地上にある設備や材料で、
-なんとか作れそうじゃな。
+Are you sure we can make this
+with equipment and materials 
+we have on Earth?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-これは、<Ritora>が？
+Is this <Ritora>?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-いえ、僕です。
+No, it's me.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-司令の助手を務める傍ら、
-手探りで書き進めていたんです。
+While I was working as the <Ritora>'s
+assistant. I've been taking notes.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-もちろん司令の助言も、
-たくさんいただきましたけどね。
+Of course, I got a lot of advice 
+from the commander.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-凄いじゃないですか、
-<Reynolds>さん！
+That's great <Reynolds>!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-天上方にやられっぱなしなのが、
-くやしかったんだ。
+I was so frustrated that I kept 
+getting shown up by you guys. 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ベルクラントが撃たれるのを見て、
-なんとかあれと同じ物をと思って。
+I saw Belcrant blast. I thought I'd 
+make something like that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やりましょう！	地上の人間の底力を、
-<Miktran>に見せつけてやる！
+Let's show <Miktran> what the earth 
+dwellers are really made of!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちにできる事はありませんか？
-なんでもやりますよ！
+Isn't there anything we can do?
+I'll do anything!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-希望は……
-まだあるかもしれないのですね。
+The hope is...
+That he's still there.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そこで皆さんに、司令が立案した、
-最終作戦の内容をお伝えします。
+So, I'd like to give you all the details
+of the final operation the commander
+had devised. 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-最終作戦だと？
+Final operation?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲で外殻に穴を開けても、
-それで終わりではありません。
+If we use the Lens Cannon to punch
+a hole in the outer shell. It's not the
+end of the world.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-みなさんにはもう一度、
-ダイクロフトへ乗り込んでもらいます。
+I'm going to ask you all to
+board Dycroft once again.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そして全ての元凶たる<Miktran>を、
-今度こそ、倒して欲しいのです。
+And I want you to defeat <Miktran>, 
+the source of all this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-簡単に言ってくれるわね。
+That's easy for you to say.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-今の私たちには、
-上へあがる手段すらないのだが……
+Right now, we don't even have
+the means to get up there.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-壊れた飛行竜は、
-修復する事が可能だそうです。
+I've heard that the broken 
+Darconis can be repaired.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当ですか!?
+Are you sure?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-生体金属ベルセリウムがあれば。
+If there is a bio-metallic Bercerium.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-ベルセリウムは極めて希少な金属だ。
-そんな簡単に見つかるものか。
+Bercerium is an extremely rare metal.
+It's not that easy to find.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どこにあるかの、心当たりは？
+Do you have any idea 
+where it might be?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-なんでもカルバレイスにある、
-ジャンクランドへ行くといいそうです。
+Whatever it is, it's in 
+Junkland in Calvalese.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-そうか……なるほど。
+Right. I see.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-あそこには古代の産業廃棄物が、
-堆積した場所がある。そこを探せば……
+There's an ancient industrial waste
+deposit site. We can search there.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんとかなるんだな？
+You can manage that, right?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、でも……
+Ah, but...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-仮に飛行竜が直ったとしても、
-ダイクロフトの高度に届かないのでは？
+Even if we could fix the Draconis, 
+wouldn't it still be unable to reach
+Dycroft's altitude?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-前はそれで失敗しているな。
+We've failed at that before.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-その点につきましてはご心配なく。
+Don't worry about that.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-完成した外殻の重みにより、
-ダイクロフトの位置も下がっています。
+The weight of the completed outer
+shell has also lowered the position
+of the Dycroft.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-現在のダイクロフトの高度なら、
-飛行竜が直りさえすれば到達可能です。
+The current altitude of the Dycroft
+is reachable, as long as the Draconis
+is fixed.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わあ……！
+Wow!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-細かい事はよくわからねえが、
-いい感じじゃねえか。
+I'm not sure about the details, but it 
+sounds like it could work.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-なるほど……
+I see.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ぼくはこれからすぐに、
-集積レンズ砲の製作に取りかかります。
+I'm going to start building the 
+Lens Cannon right away. 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ソーディアンチームの皆さんには、
-その間にお願いしたい事があるんです。
+I'd like to ask a couple favors
+of the Swordian team. 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-なんでしょう？
+Yes, sir?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ひとつは今言った、飛行竜の修復。
+One is as I just said, 
+repair the Draconis.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そしてもうひとつ。こちらの方こそ、
-より重要なのですが……
+And more importantly...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-……ソーディアンを強化してください。
+Enhance the Swordians.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……！
+...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-強化って……
-そんな事ができるんですか？
+Enhacing is...
+Can you do that?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-地上軍の研究施設があります。
+We have a research facility
+here on Earth.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ソーディアン研究所の事か？
+You mean the Swordian R&D Lab?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-あそこは先の天地戦争の後、
-落盤で埋もれたはずじゃぞ。
+That place must have been buried 
+in a cave-in after the last war.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-その研究施設は、今でもあるのか？
+Does that research facility still exist?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-既に確認ずみです。
+I've already checked.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ベルクラント攻撃の余波で、
-土の中にあった施設が、再び現れたとか。
+In the aftermath of the Belcrant attack.
+I heard that the facility was unearthed. 
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-なんと……
+What the heck...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-その施設にある装置を使えば、
-ソーディアンの強化が可能だそうです。
+With the equipment in that facility. 
+It's possible to enhance the Swordians.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-……本当の意味での、強化が。
+Enhancements, in the truest
+sense of the word.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-それって……
+That's...
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-本当の意味、か……
+The real meaning, or...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-作戦の内容説明は以上です。
+That's it for the operation briefing.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-これだけの逆境にありながら、
-状況突破のための策を練り続ける。
+In spite of all this adversity. 
+You continue to devise a plan
+to break through the situation.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Ritora>、さすがじゃな。
+<Ritora>, I'm impressed.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-それでこそ、地上軍総司令だ。
+That's what I call a ground
+force commander.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえ、自分ではあきらめてたくせに、
-何誇らしげになってるんだよ。
+You gave up on me. What are 
+you so proud of?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-む……
+Nothing.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まあいいや。ここまで聞かされたら、
-やるしかない！	みんなそう思うだろ？
+After hearing everything. we have 
+to do it! Isn't that what we all want?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあね。
+Well, yeah.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-もちろんですわ。
+Of course.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私たちは今までも、困難な状況に、
-打ち勝って来たからな。
+We've been through some tough
+times before. We'll beat the odds.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえたちと一緒に行くぜ。
+I'm coming with you guys.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-どこまでもお供します。
+I'll accompany you wherever you go.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-うむ。
+Mm-hm.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-言うまでもないだろう？
+I don't have to tell you, do I?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……よし！	すぐに研究所へ向かおう。
-ソーディアンを強化するんだ！
+Okay! Let's head to the lab right away.
+We need to reinforce the Swordians!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……断っておくが、
-そんなに甘いものではないぞ。
+I must warn you.
+It's not so simple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まだそんな事言ってるのか？
+Are you still talking like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-せっかく希望の光が見えてきたのに、
-水を差す事ないだろ。
+Just when I thought there was a 
+glimmer of hope. You have to put 
+a damper on things.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、おまえは先ほど、
-我にこう言ったな。
+<Stahn>, you just said...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-「自分が頼りにならないなら、
-もっと鍛えてくれ」と。
+"If you can't count on me. 
+I need more training."
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-その言葉にウソはないか？
+Are you lying to me 
+when you say that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-当たり前だろ。
+Of course not.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-本当だな？
+Are you sure?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-くどい！
+You're so rude!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-他の三人のマスターも、
-同じ考えと思って構わないか？
+And the other three masters. 
+Can I assume that the other three
+masters are on the same page?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん。
+Yes.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ええ。
+Yeah.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-うむ。
+ Mm-hm.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-……決まりね。
+It's settled then.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-……こうなったら、行くしかないのお。
-ソーディアン研究所へ。
+Now we have to go
+to the Swordian R&D Lab.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-来るべき時が来たという事だ。
+It means the time has come.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-来ないですむなら、
-そのほうがよかったかもしれんが……
+If I could avoid coming. I might have.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos>。おまえさっきから、
-何をためらっているんだ？
+<Dymlos>. What are you waiting for?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-「本当の意味での強化」とは、
-我らだけの問題ではない。
+"True Enhancement" is 
+not just about us.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-さよう。剣は使い手によって、
-持てる力を発揮するもの。
+A sword is only as powerful 
+as its wielder.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-即ち強化とは、マスターに対しても、
-同時に行われねば意味がない……
+In other words, enhancements 
+must be done to the master at 
+the same time. 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-つまり、俺たちに修行しろって事か？
-望むところだ。なんでもやってやる！
+So you're saying we're supposed
+to train? I'll do whatever you want!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-そんな生易しいものではない。
-生きるか死ぬかの一発勝負だ。
+It's not that simple.
+It's a matter of life and death.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-うむ。
+Mm-hm.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-これから赴く研究所で、おまえたちは、
-かつてないほどの壁に遭遇するだろう。
+In the labs you're about to visit.
+You'll encounter more obstacles
+than ever before.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-真のソーディアンマスターとなる為の、
-最終試練という壁に。
+The final trial to become a 
+true Swordian Master.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-最終……試練……
+The final... ordeal...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-しつこいようだが、もう一度だけ問う。
-……<Stahn>・エルロン。
+I know I sound repetitive, but I'll 
+ask it one more time.
+<Stahn> Aileron.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-立ちはだかる壁を乗り越え、
-真のマスターたらん事を欲するか？
+I want to overcome the barriers 
+that stand in my way. Do you desire
+to be a true master?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もちろんだ。どんな壁であろうと、
-俺の決意は変わらない。
+Of course I do. No matter the 
+obstacles. My resolve will not
+change.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-いいだろう。ならば最後まで、
-我はおまえと行動を共にする。
+All right. I will work with
+you until the end.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-それがおまえをパートナーに選んだ、
-我の責任でもあるからな。
+It is my responsibility. I chose 
+you to be my partner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos>……
+<Dymlos>...
 [ENDBLOCK]
-<Clemente>
+<Clemente> 
 [ENDBLOCK]
-他の三人も、異存はないの？
+And you three, do you 
+have any objections?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Woodrow>陛下、貴国から急使が！
+Your Majesty, a courier 
+from our country!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-国許に何かあったのか？
+What's happened to our country?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-とにかく、謁見の間へお越しください！
+Anyway, please come to 
+the audience room!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
