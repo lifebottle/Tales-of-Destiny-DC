@@ -1,30 +1,29 @@
-正面からじゃないと
-ダメなのか？
+Does it have to be
+from the front?
 [ENDBLOCK]
-……正面からじゃないと
-ダメみたいね。
+Looks like it has to 
+be from the front.
 [ENDBLOCK]
-正面からでないと
-いけないようですね。
+It looks like it has to
+be from the front.
 [ENDBLOCK]
-正面からでないと
-反応しないようだな。
+It seems you have to be in 
+the front to interact.
 [ENDBLOCK]
-……正面か？
+...The front?
 [ENDBLOCK]
-正面から当てるのか？
+You want to hit it head-on?
 [ENDBLOCK]
-真正面から
-当てるですかねぇ？
+Do you think you can 
+hit it head-on?
 [ENDBLOCK]
-正面から
-当てるのか？
+You want to hit it head-on?
 [ENDBLOCK]
-こういう時は
-真正面からだぜ。
+In a situation like this,
+it's head-on, man.
 [ENDBLOCK]
-正面から
-当てるのかしら？
+Do you think they'll 
+hit it head-on?
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
@@ -32,9 +31,9 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>橋の位置を戻しますか？
-はい
-いいえ
+<TAG_007>Move the bridge?
+Yes
+No
 
 [ENDBLOCK]
 notice
