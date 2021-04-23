@@ -1,6 +1,6 @@
 Researcher 
 [ENDBLOCK]
-Hey, you're the guys who's in command
+Hey, you're the ones in command
 of the Draconis, right?
 [ENDBLOCK]
 <Stahn>
@@ -43,8 +43,8 @@ to find out? Is that okay?
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-That's right. How about it? Would you
-be willing to take this on?
+That's right. How about it? Could you
+help me?
 <TAG_007>Yes
 No
 [ENDBLOCK]
@@ -86,7 +86,7 @@ bird, follow it for a while.
 notice
 [ENDBLOCK]
 If you follow a bird for a certain 
-amount of time, it will lock on to you.
+amount of time, you'll lock on to it.
 That means you've counted that bird.
 [ENDBLOCK]
 notice
@@ -99,7 +99,7 @@ the bird from directly behind.
 notice
 [ENDBLOCK]
 When you successfully lock on, the 
-number of lock-ons so far will be 
+current research value will be 
 displayed in the upper right corner
 of the screen.
 [ENDBLOCK]
@@ -110,16 +110,15 @@ same bird will not count.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The birds that have not been locked
-on yet will be flashing, so aim for the
-flashing birds.
+Any flashing bird you find have
+yet to be researched. Look for them.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-Do you understand what I just explained.
-If you would like to hear it again or 
-have finished your research please come
-back and see me.
+Did you understand everything?
+If you ever like to hear it again or 
+have finished your research please
+come and see me.
 [ENDBLOCK]
 Researcher.
 [ENDBLOCK]
@@ -166,8 +165,8 @@ continue collecting data.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-Now our ecological research
-is complete. It's perfect!
+This is perfect! Our ecological
+research is complete. 
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
@@ -175,23 +174,30 @@ Thank you so much.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-It's just a rumor from the residents, but... It seems that a huge bird was seen in two places.
+It's just a rumor from the residents,
+but... It seems that a huge bird was
+seen in two places.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-One was in the sky above the islands north of Leene. One over the islands north of Leene, and the other over the islands southeast of Snowfriar. The other was spotted near the islands to the southeast of One over the northern islands of Leene, the other over the southeastern islands of Snowfriar.
+One was in the sky above the islands
+north of Leene. The other over the
+islands southeast of Snowfriar.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-Both are flying at higher altitudes and faster speeds than normal birds. Both birds are flying at a higher altitude and faster speed than normal birds. It may be difficult to find them.
+Both birds are flying at a higher altitude
+and faster speed than normal birds.
+It may be difficult to find them.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Hey, you came to the right place. You've come to the right place.
+Hey, you've come to the right place.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I have a bad feeling about this. Hey, kiddo. ......
+I have a bad feeling about this.
+Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -213,7 +219,7 @@ Come on, come on.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I hope you're really okay.
+I hope this is safe.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
