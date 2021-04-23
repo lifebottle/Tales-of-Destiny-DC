@@ -332,101 +332,95 @@ I'll be waiting.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x47><xB0><x80>
 
@@ -442,10 +436,10 @@ openflag -><x17><x71><x47><xB8><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -504,154 +498,151 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.[ENDBLOCK]
+notice
+[ENDBLOCK]
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the community Grandpa.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-やあ、いらっしゃ……？
+Hey, there...?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの……私が、何か？
+That... I, what?
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-いや、君があまりにも似ていて、
-ちょっとびっくりなんだ。
+No, it's just that you look
+so much alike. I'm just a
+little surprised.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-似ている？
+Do they look alike?
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-ああ、すまない。
+Oh, I'm sorry.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-私は、闘技場から依頼を受けて、
-新しい遊戯を制作した者です。
+I am the one who was commissioned
+by the arena to create a new game.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-<Kongman>さんが、試合に
-出られない状況が続いているからね。
+<Kongman> has been unable to fight 
+in the arena for a while now.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-闘技場も、集客を必死に
-考えたって事さ。
+The arena was desperate
+for customers.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-おっと、話がそれたね。
+Well, I digress.
 
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-その遊戯の主人公が、
-お嬢さんにそっくりなんだ。
+The main character in that game
+looks just like you <Chelsea>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-へえ、興味がわいてきました。
-どんな遊戯なんですか？
+Wow, I'm getting interested.
+What kind of game is it?
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-お！	興味あるかい？
-「ウィアードショット」と言うんだ。
-とにかく遊んでみてくれよ。
+Oh!	You're interested?
+It's called [Weird Shot].
+You should try it.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-いきなりだけど、
-準備はいいかな？
+I know it's sudden, but...
+Are you ready?
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-はい、スイッチオン！
+Yes, switch on!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-どうだい？
-面白かっただろ？
+What do you think?
+That was fun, right?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい！
+Yes!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -775,10 +766,10 @@ Information Desk
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>どうしますか？
-挑戦する
-説明を聞く
-用は無い
+<TAG_007>What do you want to do?
+Challenge
+Listen to the explanation
+Nothing
 
 [ENDBLOCK]
 Information Desk
@@ -1042,20 +1033,20 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 <x18><x65><x57><xDC><x01><x6D><x47><xF6><x8B><xE8><x60><x24><xFF><x96><x16><x66><x80>
 [ENDBLOCK]
-前のページへ
+Previous page
 
 [ENDBLOCK]
-次のページへ
+Next Page
 
 [ENDBLOCK]
-前に戻る
+Previous
 
 [ENDBLOCK]
 <x18><x65><x57><xF8><x00><x80><x18><x65><x58><x24><x00><x80><x18><x65><x57><xFC><x00><x80><x18><x65><x58><x28><x00><x80><x18><x65><x58><x00><x00><x80><x18><x65><x58><x2C><x00><x80><x18><x65><x58><x04><x00><x80><x18><x65><x58><x30><x00><x80><x18><x65><x58><x08><x00><x80><x18><x65><x58><x34><x00><x80><x18><x65><x58><x0C><x00><x80><x18><x65><x58><x38><x00><x80><x18><x65><x58><x10><x00><x80><x18><x65><x58><x3C><x00><x80><x18><x65><x58><x14><x00><x80><x18><x65><x58><x40><x00><x80><x18><x65><x58><x18><x00><x80><x18><x65><x58><x1C><x00><x80><x18><x65><x58><x20><x00><x80>
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>どの敵に挑戦しますか？
+<TAG_007>Which enemy will you challenge?
 <TAG_052>
 [ENDBLOCK]
 <x17><x71><x47><xE4><x80>, <TAG_032>
@@ -1063,161 +1054,159 @@ Information Desk
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-お見事でした。
+Well done.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-残念でした。
+What a shame.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>続けて挑戦しますか？
-はい
-いいえ
+<TAG_007>Keep trying?
+Yes
+No
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「優勝おめでとう」
-と書かれている。
+<TAG_005>It says 「Congratulations on your win」
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-頑張ってね。
+Good luck.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-申し訳ありませんが、今現在は
-新規の方の受付をしておりません。
+We are sorry, but we are not accepting
+new applicants at this time.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-街の方が騒がしいようですが
-何かあったのでしょうか。
+There seems to be more noise in the 
+city, is there something wrong?
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-申し訳ありませんが、今現在は
-新規の方の受付をしておりません。
+We are sorry, but we are not accepting
+new applicants at this time.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-俺はあの<Kongman>と、
-今まで三回も戦っている！
+I've fought that <Kongman>
+3 times now!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-……三回ともボロ負けしたけどな。
+I lost all three times, though.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-ま、命だけは大切にしろよ。
+Well, just cherish your life.
 
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-観客が騒がしいな。
-どっちが勝ったんだ？
+There's a lot of noise in the crowd.
+Which one of you guys won?
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-おい、おまえら。
-イレーヌ嬢を助けたんだってな。
+Hey, you guys. I heard
+you saved Ms. Ilene.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-チャンピオン不在の今こそ、
-俺の時代の幕開けだな！
+Now, in the absence of a champion.
+This is the dawn of my era!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-俺はあの<Kongman>と、
-今まで三回も戦っている！
+I've fought that <Kongman>
+three times now!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-……三回ともボロ負けしたけどな。
+I lost all three times, though.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-ま、命だけは大切にしろよ。
+Well, just cherish your life
 
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-<Kongman>と戦ったんだって？
-おまえみたいなのじゃ勝てねえよ。
+I heard you fought <Kongman>?
+You can't win to a guy like that.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-おい、おまえら。
-イレーヌ嬢を助けたんだってな。
+Hey, you guys. I heard
+you saved Ms. Ilene.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-チャンピオン不在の今こそ、
-俺の時代の幕開けだな！
+Now, in the absence of a champion.
+This is the dawn of my era!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-外ででかい声が聞こえたみたいだが、
-ありゃ、誰が喋ってたんだ？
+I think I heard a loud voice
+outside. Who was it talking to?
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-なんだか外が暗くなってないか？
-俺の感覚だと、今は昼のはずなんだが。
+Isn't it getting kind of dark? 
+It's supposed to be daytime now.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-いかつい戦士同士のぶつかり合いは、
-見ていてぞくぞくするのよね。
+The duel is a thrilling 
+thing to watch.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-んもう！	<Kongman>の試合チケット
-買えなかったわ！
+Oh my god! Tickets for 
+<Kongman>'s match!
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-街の方がなんだか
-騒々しい気がしない？
+Doesn't the city seem
+kind of noisy to you?
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-<Kongman>の試合見れなかったの。
-ねえ、なぐさめてよ。
+I couldn't watch <Kongman>'s match.
+(Weep)... Hold me.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-いかつい戦士同士のぶつかり合いは、
-見ていてぞくぞくするのよね。
+The duel is a thrilling 
+thing to watch.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-試合見にいってあげるんだから。
-ぞくぞくするような負け方してよ。
+I'll take you to the match. I want 
+to see a cringeworthy loss by you.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-もう、なんなのよ。
-私にぶつかった男の子、
-あやまりもしなかったのよ！
+What's wrong with you? Could at least
+apologize for bumping into me!
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-こんなところにいる場合かって？
-あたしに何ができるわけでもないしね。
+What am I doing here? It's not
+like I can do anything about it.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-世界に平和が戻ろうが、滅びようが、
-あたしはとことん楽しんでやるわよ。
+Whether the world returns to normal,
+I'm going to enjoy every minute of it.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-おまえも挑戦者か？
-ふん、一勝は拾ったな。
+Are you a challenger too?
+Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1236,7 +1225,7 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-な、何かあったのか!?
+What's going on?
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1250,8 +1239,8 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-おまえも挑戦者か？
-ふん、一勝は拾ったな。
+Are you a challenger too?
+Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1260,7 +1249,7 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-な、何かあったのか!?
+What's going on?
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1294,13 +1283,13 @@ Old Man
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-この奥には街の人々が
-避難されております。
+All of those evacuated are
+in the back of the arena.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-街にモンスターですか？
-何をご冗談を。
+Monsters in the city? You've
+got to be kidding me.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -1309,13 +1298,13 @@ Old Man
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-この奥には街の人々が
-避難されております。
+All of those evacuated are
+in the back of the arena.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-街にモンスターですか？
-何をご冗談を。
+Monsters in the city? You've
+got to be kidding me.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
