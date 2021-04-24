@@ -46,13 +46,13 @@ Ferryman
 Sorry. The floodgates are
 blocked. I can't get through.
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
 <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
@@ -139,7 +139,7 @@ just go back to my place.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yes, it is.
+Yes, you're right.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -171,170 +171,181 @@ from other countries these days.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-一番のわるものは逃げたって本当？
+Is it true that the
+bad ones escaped?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-空に浮かんでるのはなに？
+What's that thing
+floating in the sky?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どうして夜じゃないのに暗いの？
+Why is it dark when it's not night?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ぼくたち、きっと助かるよね？
-だいじょうぶだよね？	ね！
+We're gonna be okay, aren't we?
+We're gonna be okay, right? Hey!
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-<Tiberius>は倒れたが、
-これから先が大変だな。
+<Tiberius> has fallen, but
+there's a lot of work ahead.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-国土を踏みにじられた屈辱を、
-モリュウの人々は忘れないだろうな……
+The people of Moreau will never
+forget the humiliation of having
+their land trampled upon...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-嫌な話だが、この騒ぎのお陰で、
-モリュウの人々の矛先がそれるな。
+I don't like to say it, but his
+whole mess is going to deflect
+the people of Moreau.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-モリュウだ、トウケイだと、
-言ってられない状況になったな……
+We can't blame Moreau
+or Terazzi anymore...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-レンズはセインガルドに集めるのか。
-あの国を信用して大丈夫なのか？
+Seinegald is collecting all the lens.
+Are we sure we can trust that country?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-頼んだぜ、英雄さんたち！
+I'm counting on you, heroes!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-トウケイばんざーい、ばんざーい！
+Hurray for Terazzi,
+hurray for Terazzi!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-これからは住みやすい街になるって、
-パパとママが言ってたわ。
+Mom and Dad said it's going
+to be a great place to live.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空のお屋根は穴ぼこだらけ～♪
+The roof in the sky～♪
+is full of holes～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空のお屋根が閉じちゃったら、
-お日さまはどうなっちゃうの？
+What will happen to the sun
+when the roof in the sky closes?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-レンズ、レンズ、レンズ～♪
+Lens, lens, lens～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-がんばってねえ～。
+Good luck!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-モリュウ領の新領主とシデン領の若が、
-共闘して大王を倒したそうじゃな。
+I heard that the new lord of Moreau
+and the young lord of Shiden, fought
+together to defeat His Majesty.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-今回の事を機に、セインガルドとも
-仲良くしてほしいもんじゃ。
+I hope they'll take this opportunity
+to get along with Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-天地戦争じゃと？	わしらはもう、
-戦いなど望んでおらんのに。
+A war between Heaven and Earth?
+We don't want to fight anymore.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-孫の将来を考えると、
-不安でたまりませんですじゃ。
+I can't stop worrying about
+my grandchildren's future.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-セインガルドと協力するようになるとは
-時代は変わりましたのう。
+Times have changed since we
+started working with Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-孫の将来のためにも、
-よろしく頼みますじゃ。
+For the sake of my grandson's
+future, I'm counting on you.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-よっとっと……
+Aych-cha...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-シデン領の三番目の若が、
-トウケイ領主になるって噂があるわ。
+It's rumored that the third son
+of the Shiden clan is going to
+be the lord of Terazzi.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-放送を流してたのって、どこの人？
+Who was running the broadcast?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-このまま外の世界を知らないまま、
-死んじゃうのかな……
+Wonder if I'm going to die without
+knowing the outside world...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-よろしくね、あなたたち！
+Nice to meet you, guys!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-大王陛下も陛下なりに、
-この国の事を考えていたのでしょう。
+His Majesty, must have been
+thinking about this country
+in his own way.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-でもモリュウ領制圧はやりすぎでした。
-あれで人心を失ってしまったんです。
+But the conquest of Moreau
+was too much. We lost the
+hearts of the people.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-大王陛下がいなくなって、
-トウケイ領はどうなるんでしょう。
+I wonder what will happen to 
+Terazzi now that His Majesty
+the Great is gone.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ベルクラントの一撃って、
-どういう意味なんでしょう？
+A Belcrant's blow, what
+does it mean?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-空が完全に塞がれてしまった……
-人の力でこんな事ができるなんて。
+The sky has been completely blocked...
+I can't believe this is peoples work.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-人が作った物であれば、
-人に壊せぬ道理はないですよね。
+If it was made by men, there's no
+reason why people can't destroy it.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-へい、いらっしゃい！
+Hey, welcome!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-めでたいねえ。値段はまけないけど、
-笑顔をサービスするよ！
+Congratulations. I'll give you
+a discount, big as a smile!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-とんでもない事になったね……
+That was a hell of a thing to do...
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
