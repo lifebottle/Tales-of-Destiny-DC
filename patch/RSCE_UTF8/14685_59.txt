@@ -112,101 +112,95 @@ Young Person
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x70><x80>
 
@@ -222,10 +216,10 @@ openflag -><x17><x71><x48><x78><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -284,83 +278,80 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the community Grandpa.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-……そうか。
+...Right.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -369,8 +360,8 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-君たちを手助けするつもりが、
-逆に俺の方が助けられたな。
+I was triying to help you guys,
+I guess i did the opposite...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -379,34 +370,36 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-是非、役に立ててくれ。
+Come on! Do something usefull!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-命が惜しければ、その中には入るな。
-有毒ガスにやられるぞ。
+If you wanna live, don't go in there.
+It's filled with toxic gaz...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ここにあるのは大昔の人間が捨てた、
-ゴミなんだそうだ。
+All this shit you see here is garbage
+thrown away by people a long time ago.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-たとえ何が起ころうと、
-どうせ俺たちには関係ない。
+Whatever happens does
+change shit for me.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あの青い石が、役に立つ日が来るとはな。
+Never thought I'd see the day
+where the blue stone would
+be more than garbage.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-……なんか買うの？
+What're ya buyin?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-……なんか買うの？
+What're ya buyin?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -419,20 +412,20 @@ Woman
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-おまえたち、よそ者か……？
+Hey, you're foreigners right!?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-命が惜しければ、この辺に近づくな。
-有毒ガスにやられるぞ。
+If you wanna live, don't go in there.
+It's filled with toxic gaz...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-<ITEM_009>がなくなったのか。
+There's no more <ITEM_009>...
 
 [ENDBLOCK]
 notice
@@ -441,29 +434,29 @@ notice
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-３つで<x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00>ガルドだがいいか？
-買う
-買わない
+Is 3 for <x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00> Gald okay?
+Buy
+Don't buy
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺にも生活があるから
-タダというわけにもいかないんだ。
+I gotta live too. I can't just
+give them away for nothin'.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺にも生活があるから
-タダというわけにもいかないんだ。
+I gotta live too. I can't just
+give them away for nothin'.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-早く用事を済ませろ。
-他のやつに見つかったら面倒だ。
+Hurry up, If the others find you
+doing business with me, i'm toast.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-あと、中和剤が無くなったら。
-俺か道具屋に声を掛けろよ。
+Also, if you run out of neutralizer.
+Talk to me or the Shopkeeper.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -472,65 +465,67 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-隠れカルバレイス人は世界中にいる。
-ぜひ、彼らに会ってくれ。
+There's hidden Calvalese people all
+over the world. You should meet them.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺たちにできるのはここまでだ。
-後は任せたよ。
+It's the least I can do.
+I'll leave the rest to you.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-この街の人間が、
-どうやって生計を立ててるかわかる？
+You know how people in
+this city make a living?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ゴミを漁って、
-使えそうな物を見つけるのよ。
+They scavenge through the garbage
+and find things they can use.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あたしたちは空の上へ、
-連れて行ってもらえないのかしら。
+I wonder if they can 
+take us up to the sky.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-もうたくさんよ。
-どうしてこんな目に遭うの？
+I've had enough. Why are
+they doing this to me?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-青い石がもっと必要なら、
-遠慮なく言ってね。
+If you need more blue
+rocks, feel free to ask.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-あなたたち、お願いね。
+You guys, I beg you,
+do something.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-おなかすいたよう……
+I'm starving...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-お空が暗くなって、涼しくなったね。
+The sky is getting darker,
+and it's getting cooler.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-すっごい大きな雷が落ちたんだよ。
-怖かったあ。
+There was a very big thunderstorm.
+I was so scared.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-トラッシュマウンテンの中って、
-どうなってるの？
+What's going on inside
+the Trash Mountain?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-一度も入った事ないの。
-大人に止められてるから。
+I've never been in one before.
+It's forbidden by adults.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

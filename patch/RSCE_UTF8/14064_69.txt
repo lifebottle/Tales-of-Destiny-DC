@@ -463,12 +463,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 <Johnny>ちゃんがこんなになるなんて。
 運命だったのでしょうか？
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 <Johnny>ちゃんがこんなになるなんて。
 こうなるのは運命だったのでしょうか？
@@ -488,7 +488,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 それじゃ行ってくるぜ、
 おふくろ。
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
 ちゃんとお金は持ってるの？
 [ENDBLOCK]
@@ -620,7 +620,7 @@ notice
 せっかく海を渡ってきたのに、
 この扱いはひどいでやんす！
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
 そんなはずがあるか！	本物の助っ人は、
 とっくに目的地へ向け出発した後だ！
@@ -647,7 +647,7 @@ notice
 一体、どこのどいつでやんすか！
 俺様たちの名をかたったのは！
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
 ふざけるな。おまえたちみたいに、
 おちゃらけた助っ人がいるか！
@@ -779,22 +779,22 @@ Soldier
 若やみなさんの活躍を見ていると
 とても勇気付けられます！
 [ENDBLOCK]
-グリッド
+<Grid>
 [ENDBLOCK]
 この俺が真の助っ人。
 <Grid>だ！
 [ENDBLOCK]
-ジョン
+<John>
 [ENDBLOCK]
 いったいどうなってるで
 やんすか。
 [ENDBLOCK]
-ミリー
+<Millie>
 [ENDBLOCK]
 こんな辺境まで来て、
 直帰なんて嫌よ。
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
 若、こいつらをどうにかして下さい。
 [ENDBLOCK]
@@ -803,7 +803,7 @@ Soldier
 あ、ああ……
 おまえたちに任せるよ。
 [ENDBLOCK]
-謎の男
+Mysterious Man
 [ENDBLOCK]
 こいつらをどうにかしてくれ。
 [ENDBLOCK]

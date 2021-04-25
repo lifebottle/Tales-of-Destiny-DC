@@ -136,25 +136,22 @@ Exit
 はい
 いいえ
 [ENDBLOCK]
-notice
+Draconis Tutorial 1
 [ENDBLOCK]
-<TAG_007><center>[Draconis Tutorial 1]			
-	
-<center><Circle_ani>Move forward
-<center><Square_ani>Move backward
-<center><Left+Right_blink> or <L1_ani><R1_ani>To steer
-<center><R_stick_Press>Change angle
-<center><Cross_ani>Disembark the Draconis
-<center>[You cannot disembark at place 
-where you can't normaly walk. 
-Such as on a mountain or on sea.]
+<TAG_007><Circle_ani> Move forward
+<Square_ani> Move backward
+<Left+Right_blink> or <L1_ani><R1_ani> To steer
+<R_stick_Press> Change elevation
+<Cross_ani> Disembark the Draconis
+ 
+[You cannot disembark at place
+where you can't normally walk,
+such as on a mountain or the sea.]
 [ENDBLOCK]
-notice
+Draconis Tutorial 2
 [ENDBLOCK]
-<TAG_007><center>[Draconis Tutorial 2]			
-	
-<center>The maximum speed can be set in 
-<center>[Vehicule Speed] of Customize menu. 
-<center>(Fast) 1 ← (Standard) → 8 (Slow)	
-<center>The default setting is 6 (Slow).
+<TAG_007><center>The maximum speed can be set in
+[Vehicule Speed] of Customize menu.
+(Fast) 1 ← (Standard) → 8 (Slow)
+The default setting is 6 (Slow).
 [ENDBLOCK]

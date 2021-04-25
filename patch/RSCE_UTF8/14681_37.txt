@@ -329,37 +329,37 @@ even if some time has passed.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-……いらっしゃい。
+...What's up
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-……いらっしゃい。
+...What's up
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-……本当に泊まるの？
+...You sure you wanna stay?
 [ENDBLOCK]
-ガルドだよ。
+ Gald
 [ENDBLOCK]
-適当にくつろいで。
+Relax and enjoy kay!
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-お金がたりないよ。
-[ENDBLOCK]
-Grocer
-[ENDBLOCK]
-……フン。
+That's not enough money man...
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-……フン。
+...Tsss...
+[ENDBLOCK]
+Grocer
+[ENDBLOCK]
+...Tsss...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033>
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes

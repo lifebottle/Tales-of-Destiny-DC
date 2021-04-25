@@ -1,184 +1,194 @@
 <Dymlos>
 [ENDBLOCK]
-着いたぞ。ここが守護竜の、
-制御装置がある部屋だ。
+We're here. This is the room with the
+Guardian Dragon's control unit.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ここを押さえれば、
-あの守護竜を止められるんだな？
+If we hold this place, we can stop
+that Guardian Dragon, right?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-待ちたまえ。これ以上、
-君たちの好きにはさせない。
+Wait. I'm not going to let you
+do anything more than you 
+already have.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-おまえは……
+You are...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-声に聞き覚えがあるぞ。
-確か……
+I think I recognize your voice.
+I'm pretty sure it's...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだ！	カルバレイスで会った、
-オベロン社の<Baruk>さん！
+That's right! We met at Calvalese.
+Mr. <Baruk> of the Oberon Corporation!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-よく覚えていたな。
+You remember well.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた……
+You...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-やはりオベロン社の幹部が、
-<Hugo>の悪事に加担していたか。
+Were Oberon's executives complicit
+in Hugo's misdeeds after all?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたのような立派な人が、
-なぜこんな事を。
+Why would a fine man 
+like you do this?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-我々の行動を悪と見るのは、
-君たち地上の民の主観でしかない。
+It is only the subjectivity of
+your earthly people that sees
+our actions as evil.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-少なくとも私は、
-確固たる信念に基づいて行動している。
+At least I am acting on the
+basis of firm conviction.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>さん、やめてください！
+<Baruk>, please don't do this!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-話は終わりだ。
-私たちの間に、もはや語る言葉はない！
+End of story. Nothing you 
+say can change that!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>さん……
+<Baruk>...
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-例えこの身が果てようと……
-我が信念、揺らぎはしない……
+Even if it means the end of my life...
+I will not waver in my beliefs...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-空を外殻で覆って、地上の人を
-苦しめる事が、信念なんですか？
+Do you believe in covering the sky
+with an outer shell and making the 
+people on the ground suffer?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-それによってあなたたちは、
-何を手に入れるつもりなんです？
+What do you think you're
+going to get out of it?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-今さら言うまでもあるまい。
-天上界の復活だよ。
+I don't have to tell you now. It's the
+revival of the heavenly realm.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-なぜなら私は、
-カルバレイス人だからな。
+Because I'm a Calvalese.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-私の先祖は先の天地戦争で敗れ、
-苦難の道を歩む事となった……
+My ancestors were defeated in the
+last war in heaven and earth, and 
+they had to go through hardships.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-先祖の無念を晴らしたい。
-そう考えても不思議はあるまい。
+I want to avenge my ancestors.
+It's no surprise you don't understand.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だからって、こんな事をしなくても。
-カルバレイスを救う手は他にだって……
+That doesn't mean you have 
+to do this. There are other ways
+to save Calvalese.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-そう思い続けて長い間、
-カルバレイス人は苦しみ抜いたのだよ。
+That's why the Calvalese have 
+suffered for so long.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-天地戦争は私たちにとっての聖戦……
-<Hugo>様、天上人の悲願、どうか……
+The war in heaven and earth is a holy
+war for us. <Hugo>, may the Heavenly 
+Father's longing be with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>さん……
+<Baruk>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、時間がない。
-早く制御装置を操作するのだ。
+<Stahn>, we don't have much time.
+You must operate the controls quickly.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかってる。
+I understand.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうでえ……？
+How about...?
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-ソーディアンチームの諸君。
-たった今、守護竜の機能停止を確認した。
+Everyone of the Swordian team. I have
+just confirmed that the Guardian 
+Dragon has stopped functioning.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-よし。
+Okay.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-これでこちらもシールドの出力を抑え、
-その分中和装置の製作に力を注げる。
+This will also allow us to 
+reduce the output of the shields and
+focus our efforts on building a 
+neutralization device.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-諸君はアンスズーンを通って、
-いったんイグナシーへ戻って欲しい。
+I want you to go through Anthozoon
+and return to Ignasea.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-次はロディオン経由で、
-ヘルレイオスを目指すのだ。
+The next step was to go to
+Helraios via Rodeon.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-老骨をこき使ってくれるのお。
+You're going to make my 
+old bones work for me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-よし、みんなここを出よう。
+All right, everyone, let's 
+get out of here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わかりました。
+All right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>さん……本当にこれしか、
-方法がないと思ったんですか？
+<Baruk>...... did you really think that
+this was the only way to do it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、そんなの納得できないですよ……
+I don't agree with that.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

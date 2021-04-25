@@ -41,7 +41,7 @@ You know about the Swordians?
 Oh oh, this boy knows
 about us? Impressive!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Pbbt, it's so lame!
 [ENDBLOCK]
@@ -88,7 +88,7 @@ Boy
 That's weird. You're weird.
 I guess it suits you then...
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Oh you're <Kongman>!
 [ENDBLOCK]
@@ -101,7 +101,7 @@ select
 <TAG_007>I'm <Kongman>!
 Waddaya want, geezer?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 I'm a big fan of yours.
 [ENDBLOCK]
@@ -109,7 +109,7 @@ I'm a big fan of yours.
 [ENDBLOCK]
 Oh, I see.
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 <Kongman>, before I die.
 I have a favor to ask you.
@@ -118,7 +118,7 @@ I have a favor to ask you.
 [ENDBLOCK]
 What's that?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 I..I want you to hit me!
 [ENDBLOCK]
@@ -126,7 +126,7 @@ I..I want you to hit me!
 [ENDBLOCK]
 ...What?!
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 If I take a punch
 from THE <Kongman>, I
@@ -141,7 +141,7 @@ Sir, I'm sorry. I can't do that.
 I'm..only going to use these
 fists of mine to protect everyone.
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 ...I see.
 [ENDBLOCK]
@@ -159,12 +159,12 @@ hesitate to use this fist.
 Surely you can forgive me.
 Whaddaya say, Man?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 That's our <Kongman>! 
 The hero of the city!
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Who's a geezer?!
 [ENDBLOCK]
@@ -669,7 +669,7 @@ What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ふーん逃げるんだ……
+Pfff you're fleeing!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -688,7 +688,7 @@ Finish!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
@@ -696,7 +696,7 @@ Please take this one.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
@@ -708,7 +708,7 @@ You're too fast, brother!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
@@ -718,14 +718,14 @@ Did I lose...?
 Boy
 [ENDBLOCK]
 But you did your best, too,
- brother. I'll give you the win.
+brother. I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have won.
+You've won.
 Please take this one.
 [ENDBLOCK]
 Boy
@@ -903,157 +903,159 @@ Yeah, a lot, really.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-もし、彼を知っている人が見たら、
-そりゃ面白い反応をすると思うな。
+If he see's you, he'll have 
+an interesting reaction.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-けど、彼は急いでいるみたいだったから、
-探し出すのは無理だと思うけどね。
+He seemed to be in a rush, so it 
+will be impossible to find him.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-そうだ！	だったら彼の事を
-知っている人を探してみなよ。
+That's right! Then you should find 
+somebody who might know him.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-絶対にみんな、
-彼と勘違いするはずさ。
+I'm sure they'll mistake 
+you for him.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あの若い女医さんはいないのか？
-俺、あの子のファンなのにな。
+Isn't that young lady doctor here?
+Damn, I'm a fan of that girl.
 [ENDBLOCK]
 Women
 [ENDBLOCK]
-ねえ、あの元気な人の、
-お姉さんは見つかったの？
+Hey, did you find that
+energetic guy's sister?
 [ENDBLOCK]
 Women
 [ENDBLOCK]
-私、ああいう
-熱い人って大好きなの。
+I love hot guys
+like that ya know!
 [ENDBLOCK]
 Women
 [ENDBLOCK]
-私からの
-プレゼントを渡しておいて。
+I wonder what kind of girl she is...
+I hope she is a sexy-looking girl.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-一体、どんな女の子かな……
-乙女な感じだといいなあ。
+I wonder what kind of girl she is...
+I hope she is a sexy-looking girl.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-あれ！	もしかして君が!?
+Oh, my gosh! Is that you!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>の知り合いなの？
+You know him, <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-いいえ、おそらく存じ上げない方だと
-思いますが……
+No, I don't think I ever
+meet this person before.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、どこかでお会いしましたか？
+Um, where have we met?
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-なんだぁ、違うのか……
-ごめん、人違いだったみたい。
+Whaaaat, Can't be you....My bad,
+I mistook you for someone else.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-あ、もしかして！
+Oh, my God, could it be!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-あなたが手紙の人？
+Are you the one with the letter?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ!!
+Ahh!!!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-どうして<Stahn>君がいるの!?
+What are you doing here, Stahn!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-なるほど、村長の娘さんとこちらの人が
-お手紙をやりとりしていたのですね。
+I see, the village chief's daughter and
+this person were exchanging letters.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-そうなの。でも、今日初めて
-会う事になってて。
+That's right, I'm supposed to meet
+him for the first time today.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで<Philia>と、間違えたのか。
+So you mistook
+her for <Philia>.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
-じゃー、僕たちも
-どこかでゆっくりしようか。
+So, let's go somewhere
+to relax, shall we?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-そうね。<Stahn>君と彼女の
-邪魔をしちゃ悪いわね。
+For sure! I'm  so sorry to have
+inconvenience the two of you
+with this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんか、ちょっとだけ
-寂しい気持ちもするな。
+It's strange, I feel a little
+bit sad, don't you?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうしてですか？
+Why is that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや、前に彼女が俺の事を、
-好きだったって言ってくれたから。
+It's because, a long time ago
+she told me that she liked me...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、あの、<Stahn>さん！
+Oh, uh, Mr. Stahn!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なに？
+Yes?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-じょ、女性は過去の事を、
-さっぱりと忘れられますが……
+Wo-women can forget about the
+past without a second thought...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ぎゃ、逆に男性は過去の事を
-い、いつまでも引きずるそうですわ。
+O-on the contrary, men seem to
+dwell on the past forever you see...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-こ、この男性の行動は通説的には
-じょ、女性に嫌わ……
+T-this man's behavior is commonly
+di-disliked by wo-women...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そっかあ。それじゃ、
-俺も気にしていていいんだ！
+Oh, I see. Well then, I guess I won't
+give it a second thought too!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、いや、その、でも
-それは女性には嫌われ……
+Um, no, but...
+that's disliked by women as well...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1273,17 +1275,17 @@ Lens Shop
 Hmm, the company told
 me not to leave.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 This city has grown by sucking
 the money out of Seinegald.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 That's what my dad said.
 I'm sure of it.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 He said that this city has developed
 entirely because of Seinegald.
@@ -1297,21 +1299,21 @@ Boy
 You guys did good.
 I'll tell your dad.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 You're always welcome here.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Hey, you guys, do 
 something about it.
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 You guys, please. 
 Please, do something!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 Um, let's see...
 Good luck, <Leader>.
@@ -1444,37 +1446,40 @@ Our shop is always open.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-気候が良くて、物がいっぱいあって。
-この街は住むのに最高ですわね。
+The climate is great, and there is so much
+to do. This city is a great place to live.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-今回の事を機に、住人同士が、
-少しでも仲良くなれるといいですね。
+I hope this will be a good opportunity
+for the residents to get to know each
+other a little better.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-貧富の差はますます広がり、
-オベロン社への風当たりが強くなりました。
+The gap between the rich and the poor
+grew wider, and the wind was blowing
+harder against Oberon.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-<Ilene>さんも落胆しているでしょうね。
+I'm sure Ms. <Ilene> is disappointed.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-こんな時こそ、住人同士の結束が
-必要なのに……
+It's times like this that
+we need to unite...
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-<Ilene>さんがいなければ、
-それも難しいでしょうね。
+Without Ms. <Ilene>,
+it would be very difficult.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-下町の住人と協力しているところを、
-<Ilene>さんにも見せたかったです。
+I wanted to show Ms. <Ilene> that
+I was working with the residents
+of the poor district.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1489,25 +1494,26 @@ such an emergency!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-やっぱり<Kongman>は頼れるのお。
-マイティ！	マイティ！
+I knew I could count on you,
+<Kongman>. Mighty! Mighty!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-わしの提出したレンズも
-必ず使ってくだされ。
+Please be sure to use
+the lens I donated.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-あの太陽に向かってゴーだ！
+Go for that sun!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-太陽が見えなくなってもゴーだ！
+When the sun goes out
+of sight, it's a go!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-太陽が見えるようにゴーだ！
+Go so we can see the sun!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1826,7 +1832,7 @@ to <Ilene>'s estate now.
 Stop! What's
 going on here?!
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 I don't know! Monsters suddenly
 came rushing out of the ocean!!
@@ -1835,7 +1841,7 @@ came rushing out of the ocean!!
 [ENDBLOCK]
 How many were there?
 [ENDBLOCK]
-Young Man
+Boy
 [ENDBLOCK]
 I don't know, they were
 all over the place!
