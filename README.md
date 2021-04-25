@@ -5,9 +5,9 @@ Tales of Destiny - Director's Cut (Patch)
 More details to come!
 
 # Current Progress
-story = 90%
-skit = 507/711
-menu = 95%
+Story = 90%
+Skit = 507/711
+Menu = 95%
 
 Discord: 
 https://discord.gg/NUvvgUtdXW
