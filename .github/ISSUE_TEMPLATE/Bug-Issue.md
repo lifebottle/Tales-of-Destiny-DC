@@ -1,7 +1,7 @@
 ---
 name: Bug Issue
 about: Submit if rooms don't load, broken NPCs, or crashes
-title: "[Bugs]: Location - "
+title: "[Bug]: Location - "
 labels: Bug
 assignees: ''
 
