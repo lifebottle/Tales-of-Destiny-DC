@@ -6,7 +6,9 @@ More details to come!
 
 # Current Progress (First Draft)
 Story = 90%
+
 Skit = 507/711
+
 Menu = 95%
 
 Discord: 
