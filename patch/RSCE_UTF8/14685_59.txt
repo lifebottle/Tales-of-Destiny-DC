@@ -23,190 +23,180 @@
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-どうだ、あれから
-上手くいったのか？
+How'd it go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、この間は本当に、
-ありがとうございました。
+Yes, thank you very, very much.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうかしました？
+What's wrong?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-この前、俺は君たちに「変わりたい
-カルバレイス人もいる」と言ったが……
+The other day I told you guys that
+some Calvalese want to change.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺は、あれから何も出来ていない。
+I haven't done anything since.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-君たちの役に立ちたいが、
-しょせん俺では……
+I wish I could help you, but I'm not...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-気にしないで下さい。
+Don't worry about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちは常に世界のどこかで
-戦っています。
+We're always fighting 
+somewhere in the world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ただ少し、心のすみで応援して
-もらえれば、俺たちはそれで充分です。
+If you can just be our moral support, 
+that's good enough for us.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-世界のどこか……？
+Anywhere in the world...?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-そうだ！
+That's right!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-実は、俺たちカルバレイス人の中には、
-他の大陸に隠れ、生活している人もいる。
+In fact, some of us Calvalese are hiding
+and living in other continents.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-その人たちなら、
-君たちに協力してくれるかもしれない。
+Those people might be able to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういう人たちがいるのか。
+Are there people like that?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺が知っている
-隠れカルバレイス人はひとりだけだ。
+There is only one hidden 
+Calvalese that I know of.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-その人はダリルシェイドで、
-道具屋をやっている。
+That person is in Darilshied, 
+and he runs the tool shop.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-きっと、手助けしてくれると思う。
-是非、行ってみてくれ。
+I'm sure they can help you.
+Please go and see them.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺が知っている人はダリルシェイドで、
-道具屋をやっている。
+That person is in Darilshied, 
+and he runs the tool shop.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-きっと、手助けしてくれると思う。
-是非、行ってみてくれ。
+I'm sure they can help you.
+Please go and see them.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x70><x80>
 
@@ -222,10 +212,10 @@ openflag -><x17><x71><x48><x78><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -284,79 +274,76 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the community Grandpa.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -364,8 +351,8 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-まだ、俺たち以外にも
-頑張っているカルバレイス人はいるのか！
+Are there still other Calvalese
+trying to make it besides us!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -374,8 +361,7 @@ I guess i did the opposite...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-これは、俺からの
-正真正銘の手助けだ。
+This is me genuinely helping.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -412,12 +398,13 @@ What're ya buyin?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-用がないなら街から出ていきな。
-見世物じゃないんだよ。
+If you have no business here, get out
+of town. It's not a freak show.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-……他にも必要な物があれば、いいな。
+...If there's anything else you
+need, I'd love to hear it.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -439,7 +426,7 @@ There's no more <ITEM_009>...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_031>ガルド
+<TAG_007>Current Gald: <TAG_031>Gald
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -469,8 +456,8 @@ Talk to me or the Shopkeeper.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-頑張ってくれよ。
-俺もここから応援しているからな。
+Good luck to you. I'll be 
+cheering you on from here.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -538,291 +525,299 @@ It's forbidden by adults.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すっげえ……
-これが全部、ゴミの山なのか？
+Wow. Is this all a 
+big pile of trash?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-で、あたしたちはここで、
-ゴミ漁りをすると。
+And we'll be here, scavenging.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ゴミゴミ言うな。ベルセリウムが眠る、
-宝の山かもしれんのだぞ。
+Don't put it down. This could be 
+a treasure trove of Belselium.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-全員で手分けして、
-このあたりを探してみよう。
+Let's all split up and 
+search this area.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-が、頑張ります……
+Okay, I'll do my best.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>、顔色悪いわね。
-あんたにはここの環境、辛いかな？
+<ou don't look so good, <Philia>.
+Is the environment here too much
+for you?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そんな事はありません……
-大丈夫ですよ……
+No, it's not...
+I'll be fine.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-明らかに気分が悪そうだな。
+You're obviously not feeling well.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あまり無理はしないでくれよ……？
+Why don't you take it 
+easy on yourself?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ベルセリウム……
-青い金属ねえ……
+Belselium...
+Blue metal...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-きれいな石を見つけたぞ。
-これなんか、いいんじゃないか？
+I found some beautiful rocks.
+This is a good one, isn't it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それ、黄色いじゃない。
-一体何にいいってのよ？
+It's yellow. What the 
+hell is it good for?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-耳飾り……
+Earrings...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまあ～。
-泥水浴びて、汚れちゃいましたあ～
+Lord <Woodrow>. I'm filthy 
+from the muddy water!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-はいはい、後で洗濯しようね。
-今はベルセリウムを探してくれる？
+Yeah, yeah, we'll get cleaned
+up later. For now, can you 
+search for some Belselium?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ぶー。
+Hmph.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Kongman>さんが、
-ゴミの下敷きになったようだ。
+It looks like <Kongman> got 
+trapped underneath the trash.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-コングー、あんたが潰れて死んでも、
-誰も悲しまないわよー？
+<Kongman>, no one will be sad when
+you go under and die, okay?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-あさるぅ～♪
+Asaru~♪
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Johnny>！
-歌ってないで、手を動かすの！
+<Johnny>! Stop singing and 
+start moving your hands!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うう……ダメだ……
+Ugh... no...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ベルセリウムらしき物は、
-どこにも見当たらんな……
+I don't see anything that looks 
+like a Belselium anywhere.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-うむ、これは困った。
+Hmm, this is troubling.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Ritora>がなんのあてもなく、
-この地を指定するとは思えんのじゃが。
+I don't think <Ritora> would specify 
+this place without reason.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-でも、ベルセリウムは見つからなかった。
-これは事実です。
+But we couldn't find any 
+Belselium. This is a fact.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-いくらソーディアンを強化しても、
-飛行竜が直せないのでは……
+No matter how much we
+strengthen the Swordians, 
+if we can't fix the Draconis...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……やってられませんね。
+I can't do...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、あら？	私今なんて……
+Oh, no?	What did I just say?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>、なんだったら、
-街の外で休んでてもいいけど。
+<Philia>, if you want, you can
+rest outside the city.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そんな事をしたら、
-皆さんに申し訳が立ちませんわ！
+If I do that, I won't be able 
+to apologize to you all!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-いや、でも……
-切羽詰まってるっぽいし……
+No, but...
+You seem to be 
+in dire straits...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたは……？
+Are you...?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-おまえたちはどうして、
-そんなに熱心でいられるんだ？
+How can you guys be so dedicated?
 [ENDBLOCK]
-今さらどうにかなると、
-本気で思っているのか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-思ってるさ。
+Do you really think you 
+can handle it now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんなの力を合わせれば、
-きっと元の世界を取り戻せる。
-[ENDBLOCK]
-そのみんなの中には、
-俺たちカルバレイス人も？
+That's what I'm thinking.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もちろん、入ってるに決まってる。
-同じ地上の仲間じゃないか。
+If we all work together, we can
+surely bring the world back to 
+the way it was.
 [ENDBLOCK]
-この中は洞窟が広がっている。
-おまえたちの探し物も見つかるだろう。
+Are any of those people, 
+us Calvalese?
 [ENDBLOCK]
-ただし、簡単ではない。
-中は有毒ガスが充満しているからな。
+<Stahn>
+[ENDBLOCK]
+Of course the Calvalese people
+are included. We're all people of
+the same planet.
+[ENDBLOCK]
+There are caves all over the
+place. I'm sure you'll find what 
+you're looking for.
+[ENDBLOCK]
+But it won't be easy. They are
+full of toxic gas inside.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ゆ、有毒ガス……？
+Toxic gas...?
 [ENDBLOCK]
-中和剤を持っていけ。効いている間は、
-ガスにやられずに済む。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-どうして俺たちに、
-協力してくれるんだ？
-[ENDBLOCK]
-カルバレイスの人間が、
-皆同じだとは思わないで欲しい。
-[ENDBLOCK]
-自ら未来を変えたいと思う者もいる。
-……俺のように。
+Take the neutralizer. As long as 
+it works, you won't get gassed.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとう……！
+Why are you helping us?
 [ENDBLOCK]
-礼は後だ、早く行け。
-他のやつに見つかると面倒だからな。
+I don't want you to think that all 
+people in Calvalese are the same.
+[ENDBLOCK]
+Some of us want to change
+the future ourselves.
+...like me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ、わかった！
+Thank you...!
+[ENDBLOCK]
+You can thank me later, but get
+going. You don't want to get in
+trouble if the others find you.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Yeah, I got it!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-どうだった？
+How'd it go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それが……あるにはあったんだけど、
-量が少なくて……
+It was... it was there, but 
+it wasn't much, so...
 [ENDBLOCK]
-何……
+He...
 [ENDBLOCK]
-親父……！
+Dad!
 [ENDBLOCK]
-男の人
+Man
 [ENDBLOCK]
-なぜよそ者を、
-トラッシュマウンテンに入れた。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-この人を責めないでください。
-あくまで、俺たちがやった事だ。
-[ENDBLOCK]
-……向こうを見ろ。
+Why did you let strangers 
+into Trash Mountain?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれは……！
+Please don't blame him.
+He only did as we asked.
+[ENDBLOCK]
+...look over there.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+That was...!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……ベルセリウム！
+...Belselium!
 [ENDBLOCK]
-よそ者は、探し方が下手でいけない。
-持っていけ。
+Strangers shouldn't be so unskilled
+at searching. Take it.
 [ENDBLOCK]
-どういう事だ、親父？
+What's going on, Dad?
 [ENDBLOCK]
-未来を変えたいのは、
-俺たちだって同じだ。
+We want to change the future 
+as much as you do.
 [ENDBLOCK]
-俺の話を聞いていたのか……！
+If you'd been listening to me...!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-いいぞ。あれだけあれば、
-きっと足りるはずじゃ。
+That's good. I'm sure 
+that'll be enough.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます、皆さん！
-このご恩は忘れません！
+Thank you, gentlemen!
+We'll never forget!
 [ENDBLOCK]
-ふん……
+Mm-hm...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ではさっそく、ベルセリウムを
-持ち帰るとしよう。
+So let's get on with it and 
+bring back the Belselium.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+Yes, you're right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当にありがとう。助かったよ。
+Thank you so much. You've 
+been a great help.
 [ENDBLOCK]
-俺たちにできるのはここまでだ。
-後は任せた。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-……ああ。
+It's the least we can do.
+I'll leave the rest to you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし。飛行竜の所まで戻ろう。
+...Right.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Okay. Let's go back to the Draconis.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1251,7 +1246,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]

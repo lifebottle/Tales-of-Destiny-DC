@@ -555,8 +555,8 @@ Huh, yes......
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
-Has an adventurer asked you to
-look at a picture recently?
+Has an adventurer asked you
+to look at a picture recently?
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
@@ -1046,18 +1046,18 @@ to take back to my homeland.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-アマノテカガミを見つけましたか。
-実に便利な道具ですよね。
+You found the [Celestial Hand Mirror]?
+Real convenient tool it is, that one.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-ウソツツキを見つけましたな。
-あっ、おでこにつつかれた跡が！
+So you found the [Liarpecker]?
+Oh, I see marks on your forehead!
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-私の見間違えですか。
-それは失礼しました。
+No wait, sorry. Must've
+been my imagination.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
@@ -1066,27 +1066,29 @@ I've got for you...
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-ストレイライズ神殿の近くで
-空に向かってかぼそく伸びる、
+I spotted a thin beam of light
+stretching toward the sky
+over near Straylize Temple.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-ひとすじの光を見ました。
-私のお迎えがきたのでしょう。
+Guess it must finally
+be my time to go.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-冗談ですよ、冗談。
+I'm just kidding, relax.
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-ストレイライズ神殿へ巡礼に来る
-途中の村で、子供に嫌われている
+I heard about a peculiar little
+critter down at the village on
+the way to Straylize Temple
 [ENDBLOCK]
 Retired Person
 [ENDBLOCK]
-おもしろい動物の話を耳にしました。
-私は、ヤツが好きですよ。
+that all the kids hate.
+I'm already a big fan.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1105,113 +1107,118 @@ even if some time has passed.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-おや、<Philia>ではありませんか。
-すると一緒にいるのが……
+Oh, it's <Philia>, isn't it?
+And there with her is...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-皆さん、その節は<Ayles>司教様が
-大変お世話になりました。
+Everyone, I would like to thank
+Bishop <Ayles> for his great
+help on that occasion.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-これも神の与えたもうた試練。
-そう考える事にしています。
+This is another test that the Goddess has
+given me. That's what I've decided to beleive.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-苦難に立ち向かう皆様に、
-神の祝福のあらん事を。
+May the Goddess bless all of
+you who're facing hardships.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-一時期、ここは立ち入り禁止じゃった。
-何かあったんかのう？
+For a while, this place was off-limits.
+Did something happen?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-空から声が降ってきたり、
-妙な網目ができたり……驚きですわ。
+I'm amazed at the voices coming down
+from the sky and the strange webs...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-アタモニ神よ、どうかお助けを……
+Goddess Atamony, please save us...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-空の上へ行く方法が見つかったそうで。
-これもアタモニ神のご加護でしょうな。
+So they found a way to go up to the
+sky. This must be another blessing
+from the goddess Atamoni.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ごきげんよう、<Philia>さま！
+Good day to you, Ms. <Philia>!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ここはストレイライズ神殿よ。
+This is the Straylize temple.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Philia>さま、お空に浮かんでるあれ、
-一体何なんでしょうか？
+Ms. <Philia>, what's that
+thing floating in the sky?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空に浮かんでるあれ、
-一体何なんでしょうか？
+What's that thing
+floating in the sky?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-なんだか寒くなってきたみたい……
-お日さまの光がなくなっちゃったから？
+It's getting colder... Is it because
+there's no more sunshine?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Philia>さま、がんばって！
+Good luck, Ms. <Philia>!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-がんばってくださいね！
+Good luck to you!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-この神殿にはすごい宝が眠ってると、
-昔から噂されていたんですよ。
+It's been rumored for a long
+time that this temple holds
+a great treasure.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-え？	宝の正体は巨大なレンズ？
-ああ、なるほど……
+What!? The treasure is
+in reality a giant lens?
+Oh, wow!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-とんでもない事になりましたね。
-こんな展開は予想しませんでしたよ。
+What a terrible disaster.
+I didn't see it coming.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-モンスターの数が増えているとかで、
-神殿の中にずっと足止めですよ。
+The number of monsters is
+increasing, we'll be stranded
+at the temple for a long time.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さんじゃありませんか。
-神殿に何か御用でも？
+It's Mr. <Lion>, isn't it? What
+can I do for you at the temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私は司教様をお待ちしているのですが、
-一向に到着されません。
+I'm waiting for the bishop,
+but he hasn't arrived yet.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さん。
-ありがとうございます。
+Thank you very much,
+Mr. <Lion>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>さんに負けない位、
-私も頑張りますね。
+I'll do my best to be as
+good as you, Mr. <Lion>.
 [ENDBLOCK]
 取得時----------------------
 

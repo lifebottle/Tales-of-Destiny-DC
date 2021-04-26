@@ -16,43 +16,43 @@
 ●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-さあ、どこに行く？
+Hello, where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80>
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-すまねぇ
-水門がふさがってて通れないな。
+Sorry. The floodgates are
+blocked. I can't get through.
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
 <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
@@ -63,265 +63,278 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-あなたは！
+You are!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-え～～っと、
-誰でしたかな？
+Let's see ...who was it?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-すまんの。最近モノ忘れが
-酷くての。
+I'm sorry. I've been
+forgetting things 
+a lot lately.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-構いません。
-私は<Johnny>と言います。
+No problem. My name
+is <Johnny>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-ほう、シデンのドラ息子と
-同じ名前じゃの。
+Oh, that's the same name
+as Shiden's mucisian son.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-ところで、わしに何か用ですかな？
+By the way, what can I do for you?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-探し物をしていまして、
-以前、モリュウで楽器を
-譲り受けた事はないですか？
+I've been looking for something, 
+have you ever given away an 
+instrument in the mortuary before?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-おー、前に船頭さんに
-御願いして譲り受けましたの。
+Oh, I asked Mr. Ferryman for
+it before and he gave it to me.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-実はその楽器を譲って頂けないかと
-思いまして、ここまで来ました。
+Actually, I came here to see if you
+could give me that instrument.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-すまんのー。実はある男のために
-あの楽器を貰ったのじゃ。
+I'm sorry. I was actually given 
+that instrument to another man.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-その男は音楽の才があったでな。
+The man had a talent for music.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-じゃから、楽器はその男が
-持っておるぞ。
+So, the man has the instrument.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その人の名前は、
-なんて言うんですか？
+What's the man's name?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-あれ？	なんじゃったかな？
-この歳になると忘れっぽくての。
+Huh? What was it? At my age,
+I tend to forget things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-困ったなー。
+That's a problem.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-仕方ないさ。これ以上はどうしようもない。
-一旦、俺の家に戻ろう。
+I don't have a choice. There's
+nothing more we can do. Let's
+just go back to my place.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+Yes, you're right.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>戒厳令が敷かれましたので、
-住民の皆さんは軍部の指示に従って下さい。
+<TAG_005>Martial law has been 
+declared, and all residents are 
+asked  to follow the instructions
+of the military.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-おんや、異国の客とは珍しいのお。
+Oh, it's unusual to have a 
+guest from another country.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-最近は異国の客も、
-珍しくなくなったのお。
+It's not uncommon to have visitors
+from other countries these days.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-一番のわるものは逃げたって本当？
+Is it true that the
+bad ones escaped?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-空に浮かんでるのはなに？
+What's that thing
+floating in the sky?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-どうして夜じゃないのに暗いの？
+Why is it dark when it's not night?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ぼくたち、きっと助かるよね？
-だいじょうぶだよね？	ね！
+We're gonna be okay, aren't we?
+We're gonna be okay, right? Hey!
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-<Tiberius>は倒れたが、
-これから先が大変だな。
+<Tiberius> has fallen, but
+there's a lot of work ahead.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-国土を踏みにじられた屈辱を、
-モリュウの人々は忘れないだろうな……
+The people of Moreau will never
+forget the humiliation of having
+their land trampled upon...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-嫌な話だが、この騒ぎのお陰で、
-モリュウの人々の矛先がそれるな。
+I don't like to say it, but his
+whole mess is going to deflect
+the people of Moreau.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-モリュウだ、トウケイだと、
-言ってられない状況になったな……
+We can't blame Moreau
+or Terazzi anymore...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-レンズはセインガルドに集めるのか。
-あの国を信用して大丈夫なのか？
+Seinegald is collecting all the lens.
+Are we sure we can trust that country?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-頼んだぜ、英雄さんたち！
+I'm counting on you, heroes!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-トウケイばんざーい、ばんざーい！
+Hurray for Terazzi,
+hurray for Terazzi!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-これからは住みやすい街になるって、
-パパとママが言ってたわ。
+Mom and Dad said it's going
+to be a great place to live.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空のお屋根は穴ぼこだらけ～♪
+The roof in the sky～♪
+is full of holes～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空のお屋根が閉じちゃったら、
-お日さまはどうなっちゃうの？
+What will happen to the sun
+when the roof in the sky closes?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-レンズ、レンズ、レンズ～♪
+Lens, lens, lens～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-がんばってねえ～。
+Good luck!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-モリュウ領の新領主とシデン領の若が、
-共闘して大王を倒したそうじゃな。
+I heard that the new lord of Moreau
+and the young lord of Shiden, fought
+together to defeat His Majesty.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-今回の事を機に、セインガルドとも
-仲良くしてほしいもんじゃ。
+I hope they'll take this opportunity
+to get along with Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-天地戦争じゃと？	わしらはもう、
-戦いなど望んでおらんのに。
+A war between Heaven and Earth?
+We don't want to fight anymore.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-孫の将来を考えると、
-不安でたまりませんですじゃ。
+I can't stop worrying about
+my grandchildren's future.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-セインガルドと協力するようになるとは
-時代は変わりましたのう。
+Times have changed since we
+started working with Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-孫の将来のためにも、
-よろしく頼みますじゃ。
+For the sake of my grandson's
+future, I'm counting on you.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-よっとっと……
+Aych-cha...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-シデン領の三番目の若が、
-トウケイ領主になるって噂があるわ。
+It's rumored that the third son
+of the Shiden clan is going to
+be the lord of Terazzi.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-放送を流してたのって、どこの人？
+Who was running the broadcast?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-このまま外の世界を知らないまま、
-死んじゃうのかな……
+Wonder if I'm going to die without
+knowing the outside world...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-よろしくね、あなたたち！
+Nice to meet you, guys!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-大王陛下も陛下なりに、
-この国の事を考えていたのでしょう。
+His Majesty, must have been
+thinking about this country
+in his own way.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-でもモリュウ領制圧はやりすぎでした。
-あれで人心を失ってしまったんです。
+But the conquest of Moreau
+was too much. We lost the
+hearts of the people.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-大王陛下がいなくなって、
-トウケイ領はどうなるんでしょう。
+I wonder what will happen to 
+Terazzi now that His Majesty
+the Great is gone.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ベルクラントの一撃って、
-どういう意味なんでしょう？
+A Belcrant's blow, what
+does it mean?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-空が完全に塞がれてしまった……
-人の力でこんな事ができるなんて。
+The sky has been completely blocked...
+I can't believe this is peoples work.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-人が作った物であれば、
-人に壊せぬ道理はないですよね。
+If it was made by men, there's no
+reason why people can't destroy it.
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
-へい、いらっしゃい！
+Hey, welcome!
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
-めでたいねえ。値段はまけないけど、
-笑顔をサービスするよ！
+Congratulations. I'll give you
+a discount, big as a smile!
 [ENDBLOCK]
-防具屋
+Armor Shop
 [ENDBLOCK]
-とんでもない事になったね……
+That was a hell of a thing to do...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
