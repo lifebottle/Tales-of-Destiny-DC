@@ -1,7 +1,7 @@
 Man
 [ENDBLOCK]
-近頃、気付くとここに足を
-運んでいます。
+Lately, I find myself coming
+in here more often.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -132,81 +132,82 @@ Man
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたは、
-カルバレイスの人ですか？
+Are you from Calvalese?
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-な、何をおっしゃっているの……
+What are you
+talking about...?
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-何が目的なの？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-実はですね……
-[ENDBLOCK]
-Woman
-[ENDBLOCK]
-わかりましたわ……
-[ENDBLOCK]
-Woman
-[ENDBLOCK]
-私はこの街で裕福な男性と
-結婚して、今は見ての通り。
-[ENDBLOCK]
-Woman
-[ENDBLOCK]
-私も、この幸せを逃すわけには
-いかないの。
+What is it you want?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すみませんでした。
-ご迷惑なら帰りますね。
+The truth is...
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-違うのよ。昔の私なら、
-どんな状況でもあなたに協力していた。
+I understand...
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-自分が変わっていた事に、
-少しショックを受けたのよ……
+I married a wealthy man in
+this city, and now look at me.
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+I can't let this happiness
+pass me by, either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは仕方ないですよ。
-少なくとも、俺はそう思います。
+Sorry about that. If it's too much
+trouble, we can leave you alone.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-……ありがとう。
+That' s not it. The old me would have
+helped you under any circumstance...
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-大っぴらには協力出来ないけど、
-これだけでも持っていって。
+I'm just a little shocked
+at how much I've changed...
 [ENDBLOCK]
-Woman
+<Stahn>
 [ENDBLOCK]
-そういえば、この街にはもうひとり、
-隠れカルバレイス人がいるわ。
+It's inevitable, we all change
+little by little. At least,
+that's what I think.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-それじゃ、頑張ってね。
+...Thanks.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-そういえば、この街にはもうひとり、
-隠れカルバレイス人がいるわ。
+I can't help you much, but you
+can at least take this with you.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-それじゃ、頑張ってね。
+Oh, by the way, there's another
+hidden Calvalese in town.
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+Well then, good luck.
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+Oh, by the way, there's another
+hidden Calvalese in town.
+[ENDBLOCK]
+Lady
+[ENDBLOCK]
+Well then, good luck.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -215,92 +216,100 @@ Part of the reason I've never lost.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Kongman>がいなくなったら、
-誰に賭ければいいのですか！
+If <Kongman> leaves,
+who will I bet on!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-最近はろくな奴が出場しません。
-
+There's no good fighters
+competing these days.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-マイティの勇姿が、
-今も忘れられません。
+I will never forget the
+heroic deeds of Mighty.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Kongman> is strong. He's 
-an invincible opponent.
+<Kongman> is so strong! He's the
+greatest champion of all time.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-チャンピオン、しばらく休場するって、
-どういう事だよ？
+Champion, what do you mean
+you're taking a break for a while?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-今起こってる騒ぎを解決するために、
-チャンピオンも動いてるって？
+So, you're saying that the champion is
+working to resolve the current crisis?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-世界の危機まで救っちまうなんて、
-チャンピオンはすげえな！
+It's amazing that the champion
+can help save the world!
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
 I think it's time for the champion's
 title to change hands.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-<Kongman>不在の今こそ、
-若手が伸びるチャンスなんだけど……
+In <Kongman>'s absence, now's
+the time for the new generation
+of fighter to flourish...
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-世界が大変な時だってのに、
-こんなところにいる私って、変？
+Is it weird that I'm in the arena
+while the world is in crisis?
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-早く平和な世界を取り戻して、
-思い切り闘技場で楽しみたいわね。
+I can't wait for world to go
+back to normal and enjoy
+the arena like I used to.
 [ENDBLOCK]
-Woman
+Lady
 [ENDBLOCK]
-……まあ、私は特に何もしないけど。
-[ENDBLOCK]
-Sailor
-[ENDBLOCK]
-That's the famous arena!
-I can feel the heat of battle.
+...Well it's not like I'm doing
+anything different though.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-チャンピオンがいなくても、
-ここの盛り上がりは変わらないな。
+So that's the famous arena!
+The atmosphere was so
+intense during the matches.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-この建物は頑丈そうだから
-空から何か落ちてきても大丈夫かな？
+I don't think the absence of
+the champion will change the
+enthusiasm around here.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-ここに集まっている人間は、
-現実逃避をしているだけなんだよな。
+This arena looks sturdy, so if
+something falls from the sky,
+it would be safe, right?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-世界を救ってくれる英雄様は、
-ドラゴンに乗って飛び回っているそうだ。
+The people gathered here
+are just trying to escape
+from the grim reality.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-……え？	あんたたちがそうだって？
-はっはっは、またまた。
+I heard that the heroes who're
+trying to save the world are
+flying around on a dragon!?
+[ENDBLOCK]
+Sailor
+[ENDBLOCK]
+...What? You're saying it's 
+you guys, Ha ha ha, good one!
 [ENDBLOCK]
 Announcer
 [ENDBLOCK]
