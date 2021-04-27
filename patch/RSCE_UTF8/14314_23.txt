@@ -1,382 +1,387 @@
 <Stahn>
 [ENDBLOCK]
-それじゃ、お腹も一杯になったし、
-帰ろうか。
+Welp..my belly's full.
+Let's head back.
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-みなさん、おくつろぎですか？
-夜の余興に、私と一勝負しませんか？
+How're you guys doing tonight?
+How about a little contest at
+tonight's side-show?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたは？
+Who are you?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-これは申し遅れました。
-私は街から街へ旅を続けるさすらいの
-ギャンブラーでございます。
+Oh, sorry! That was rude of me. I'm simply
+a wandering gambler, going from town to
+town, on a never-ending journey.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へー、そんな人もいるんだ。
-それで、余興っていうのは？
+Huh, so there are people like
+this, too? What do you mean
+by "side-show"?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-簡単なゲームです。三つのサイコロを
-振って、その出目を当てるんです。
+It's a simple game. I throw
+three dices, and you try to
+guess the number.
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-もし的中したら、その数に応じた
-倍率のガルドを払い戻しますよ。
+If you're right, you'll win back
+your gald and then some based
+on the number you guessed!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ふーん。……それで、
-倍率はどうなってんの？
+Hmm... So what
+are the rates?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-例えば出目が「１０」でしたら７倍、
-「１８」でしたら２００倍となります。
+Well, for instance, if you guess 10 and it
+lands on 10, you get 7 times your gald
+back. If you guess 18 and it lands on 18,
+you get back 200 times your gald.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと待った！
+OK Hang on a sec!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……サイコロを三つ振った時、
-「１０」が出る確率はおよそ１２％！
+...Ok so if he throws three dice
+then the chance of them landing
+such that they equal 10 is...12%!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-「１８」が出る確率は……０．０４６％？
+...and 18 is.....046%?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、ちょっと！	掛け率が
-あたしたちに不利なんじゃない？
+Hey wait a sec! Those odds
+are massively in your favor,
+aren't they?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-まあ……私は余興を
-提供する者。
+Hey come on, I'm just offering
+a little side-entertainment here.
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-そのお代と解釈して頂ければ、
-幸いですが……
+Just think of it as the
+price of admission.
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-しかし勝負にならない
-レートでもないと思いますが？
+Still, I don't think the
+win rate is THAT bad..?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-くだらないわ。そんな事に
-使うお金は無いわよ。
+This is pointless. I'm not
+wasting our gald on this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、せっかくだし
-一回だけやってみないか？
+Aw come on <Rutee>,
+can't I try it at least once?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-んもう、仕方ないわね。
-はい、これ……
+Ugh, you're hopeless.
+Fine, here..
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-１ガルド!?
+Wh-?! One Gald!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-無駄遣いするんじゃないわよ。
+Again, I'm not wasting our Gald.
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では、どの出目に賭けますか？
+So, which stakes do
+you want to bet on?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ「１８」に１ガルド！
+Well OK. One Gald on 18 please!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと<Stahn>。「１８」なんて
-二百回振って一回出るか出ないかよ？
+Hold up Stahn! You know you'd
+have to roll 200 times for it to
+maybe come up 18 just once right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-運試しさ。運試し！
+I want to test
+my luck, so I am!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では、振りますよ？
+Well then, shall we?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
+No way...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-おめでとうございます。
-２００ガルドをお支払いいたします。
+Congratulations sir!
+You win 200 gald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+Woohoo!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんで１ガルドしか
-賭けなかったのよ！
+Why'd you only bet
+one Gald you dope!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな！
-だって<Rutee>が……
+What the?! <Rutee>, you said...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-言い訳しないの！
+No excuses!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では続けますよ？
-どの出目に賭けますか？
+Would you like to continue?
+What will the dice land on?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全額「１８」に！
+All in on 18!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-もう勘弁してよ、<Stahn>。
-「１８」なんて続けて出ないわ！
+THINK a little, <Stahn>!
+It's not gonna land on 18 again!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だってラッキーナンバーだし……
+But it's my lucky number...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では、振りますよ？
+Well then, shall we?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
+No way...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-おめでとうございます。
-見事的中しましたので４万ガルドを
-お支払いいたします。
+Congratulations sir! Your accurate
+prediction has earned you a payout
+of 40,000 Gald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+Woohoo!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-夢……じゃない！
+Am... am I dreaming...?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では続けますよ？
-どの出目に賭けますか？
+Would you like to continue?
+What will the dice land on?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全額「１８」に！
+All in on 18!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、あんたの
-強運は分かったから……
+<Stahn>, I get that you're lucky..
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ここはやめておきなさい。
-「１８」が三連続で出るなんて事、
-ありえないわ。
+But please, stop here. 
+It's impossible for the dice to
+land on 18 three times in a row!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、二度ある事は
-三度あるって言うし……
+But haven't you heard the phrase
+"What happens twice will happen thrice"? 
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では、振りますよ？
+Well then, shall we?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
+No way...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-おめでとうございます。
-見事的中しましたので……
+Congratulations! With this,
+your winnings come to...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-８００万ガルドを
-お支払いいたします。
+Eight Million Gald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+Woohoo!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ありえない……
+Impossible...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今日はラッキーだな。
-そろそろ止めて……
+Man I'm lucky today.
+Guess I'll stop for no-
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もー、痛いよ。
-<Rutee>！
+Oww! <Rutee> what gives!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-続行よ！	全額「１８」に!!
+Keep it rolling! All in on 18!!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、もう十分勝ったし、
-そろそろ止めようよ？
+<Rutee>, we've won enough.
+Shouldn't we stop?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-バカね、ラッキーデイなのよ？
-そういう時は続行なの。
+No you dope, it's your lucky
+day right? Let's keep going!!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-よろしいですか？
+You would like to roll again?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ええ、もちろん！
+Yes, of course!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では、振りますよ？
+Very well. Shall we?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-お、おめでとうございます。
-見事的中しましたので……
+C-Congratulations, miss.
+Th-This brings you to a
+total earnings of...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-１６億ガルドを
-お支払いいたします……
+O-O-One billion six hundred million Gald...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-続行よ！
-もちろん、全額「１８」に!!
+More! more! All in on 18, of course!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、
-ホントにそろそろ止めないか？
+R-<Rutee>, are you sure?
+We really should stop now shouldn't we?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うるさいわね！
+You shut up!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-……で、では、
-振りますよ？
+V-Very well, sh-Shall we?
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-お、おめでとうございます……
-見事的中しましたので……
+C-C-C-Congratulations,
+th-this means you've won..
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-３２００億ガルドを
-お支払いいたします……
+Th-Three hundred and
+twenty billion G-Gald...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-続行よ！
-全額「１８」に!!
+Keep going! All in on 18!!!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さぁ、早く振ってよ！
+Come on, hurry up
+and roll them bones!!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-では振ります……
+W-Well h-here it goes..
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
+....No way...
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-ああ、残念でしたね。「１７」です。
-賭け金は没収となります。
+Ooh, that's too bad. A 17.
+You lose all of your winnings.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-イカサマだわ！
-イカサマでしょ！
+Cheater! You cheated!!!
 [ENDBLOCK]
 Gambler
 [ENDBLOCK]
-そ、そんな……
-あなた方も勝っているうちに
-止める事はできたのですよ？
+What!? Don't be absurd!
+You could have stopped
+while you were winning,
+couldn't you?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やだやだー！
+Ohno no no nononononono!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、あきらめよう。
-残念だったね。
+<Rutee>, give it up already.
+It was bad luck.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あら、みなさん
-盛り上がってるようですわね。
+Oh, you all seem to be
+excited over something.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-いつまで経っても、戻って
-いらっしゃらないので……
+You've been here for
+quite a while now...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうかされたのですか？
+Did something happen?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-大損さ。
-１ガルドも負けたんだからね。
+Indeed, a great loss. A grand
+total of one gald has vanished.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-１ガルド失いました。
+You lost one Gald.
 [ENDBLOCK]
 Barista
 [ENDBLOCK]
