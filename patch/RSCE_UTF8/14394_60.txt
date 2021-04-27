@@ -24,928 +24,930 @@ set_drgn
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-あれ、<Stahn>君。
-どこか行くの？
+Hey, Stahn. Are you
+going somewhere?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えーっと……
+Let's see.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>世界を救いに行くのさ
-ちょっと、ね
+<TAG_007>We're going to save the world.
+Kind of, you know...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-世界!?	<Stahn>君が？
+The World! You, <Stahn>?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん。まあね。
+Yeah. Well, yeah.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-……とか嘘ついて、
-また家出する気なんでしょ。
+And you're going to lie and run 
+away from home again, aren't you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-違うさ、本当だよ。
+No, it's true.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-もう、<Stahn>君って子供！
+Oh, <Stahn>, you're such a child!
 
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-でも、それが<Stahn>君らしいって
-気もする。
+But I think that's 
+typical of you, Stahn.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ひどいなー。
+Your terrible.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-前例を考えれば仕方あるまい。
-事実、おまえはまだまだ子供だ。
+You can't help it, considering
+the precedent. In fact, you're
+still a child.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos>もひどいなー。
+<Dymlos> is terrible too.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-ずいぶん秘密主義に
-なったのね<Stahn>君は。
+You've become quite secretive, 
+haven't you, <Stahn>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや、別にそういう訳じゃ……
+No, it's not like that.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-でも仕方ないか。そんなに
-可愛い女の子連れてるんじゃ。
+But I guess I don't have a choice. 
+You have such a pretty girl with you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>の事？
+You mean <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-わ、私は
-そ、そんな、
-か、か、関係では！
+I'm not, I'm not, I'm not, 
+I'm not involved!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-そっか。<Stahn>君って
-いつまでも子供だと思ってたけど……
+I see. <Stahn> I thought you
+were always going to be a child.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-もう立派な男の人なんだね。
+You're a great guy now.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-私もいつまでも
-女の子気分じゃダメね。
+I can't be a girl forever.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-それじゃあ<Stahn>君、
-気をつけていってらっしゃい。
+Well then, have a safe trip, <Stahn>.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-あの人が、行方不明なの。
-こんな時は誰に頼めばいいのかしら!?
+He's missing. I don't know who to 
+turn to in a situation like this!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-あの人が、行方不明なの。
-こんな時は誰に頼めばいいのかしら!?
+He's missing. I don't know who to 
+turn to in a situation like this!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-マギーおばさん。僕がいるじゃないですか。
-この少年探偵の<Stahn>が、ね。
+Aunt Maggie. I'm here, aren't I?
+This boy detective, Stahn, you know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた、そうやって演技してる時の方が、
-頼りがいがありそうに見えるわ。
+You look more dependable when
+you're acting like that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-普段からそうやってた方が、
-絶対いいわよ。
+You're definitely better off doing 
+that on a regular basis.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>君、ものには
-限度というものがあるんだ。
+<Rutee> You know, there's a 
+limit to what you can do.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やっぱ、自分じゃない
-人間を演じるのは疲れるよ～。
+After all, it's exhausting to 
+play someone you're not!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それよりマギーおばさん、
-おじさんがいなくなった事を、
-どうして知る事が出来たんですか？
+More importantly, Aunt Maggie, 
+how could you have known that 
+Uncle was gone?
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-どうやらあの人、空からの攻撃の
-ちょうど真ん中にいたらしいんだよ。
+Apparently, that guy was right 
+in the middle of an aerial attack.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-ちょうど、それを見ていた人が
-私に教えてくれたんだ。
+Just then, someone who had 
+seen it told me about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃあ、おじさんは……
+Well, then, Uncle is...
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-いいや、私にはわかるよ。
-あの人は生きている。
+No, I know what I'm doing.
+That man is alive.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-すがっているんじゃないよ。
-ただ、分かるんだよ。
+I'm not trying to hang on.
+I just know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かりました。
-俺が、きっと探し出して見せます。
+I understand.
+I'm sure I'll find him.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-あの人は人間ばなれしているからね。
-それにあの悪運は最強だよ。
+He's a bit of a misanthrope, you know.
+And his bad luck is the strongest.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、全然あてが無いわよ？
+But I don't have a clue.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ベルクラント砲で撃たれたら、
-きっと……外殻の上？
+If you get hit by a Belcrant cannon, 
+surely it's on the outer shell?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたよくそんな突拍子も
-ない事思いつくわね。
+How could you come up with 
+such an outlandish idea?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まあ、そのうち会える気も
-するしね。
+Well, I have a feeling we'll 
+see each other soon.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺の勘はするどいって評判なんだよ。
-大丈夫だって。
+I have a reputation for having
+good instincts. I'll be fine.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-この子を連れて、
-よそのお宅には入れないわ。
+I can't take her into
+another's home.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-この子を連れて、
-外に出るのは危ないわ。
+It's not safe for you to 
+go out there with her.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><Lilith>とバッカスの
-相合傘が手すりに彫られている。
+<TAG_005><center><Lilith> and Bacchus are 
+carved into the railing.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-な、なんだそれ!?
+What's that?
 
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-やあ、<Lilith>ちゃん。
-今日もお買い物かい？
+Hi, <Lilith>. Are you 
+shopping again today?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-ようこそ。ここはリーネの村です。
+Welcome. This is Lienea Village.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-よう、<Stahn>。今日も元気そうだな。
+Hello, <Stahn>. You're 
+looking good today.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-ようこそ。ここはリーネの村です。
+Welcome. This is Lienea Village.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Stahn>、かわいい子連れてるな。
-いつ彼女ができたんだ？
+<Stahn>, you have a pretty girl with you.
+When did you get a girlfriend?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あれ、君ってもしかして
-<Stahn>の……え、えええ!!
+Hey, are you with 
+...<Stahn> or What?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-なあ<Stahn>、この騒ぎは
-どこの国が起こした事なんだ？
+Hey, <Stahn>, what country is 
+causing all this trouble?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-セインガルドか？	ファンダリアか？
-フィッツガルドじゃないよな？
+Seinegald? Phandaria?
+It's not Fitzgald, is it?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-この騒ぎはなんだ!?
-どこの国が起こした事なんだ？
+What is all this? Where did
+this come from?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-のどかだったころが懐かしいな。
+I miss the days when
+it was peaceful.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-よう、<Stahn>。噂は聞いてるぜ。
-大活躍だってな！
+Hey, <Stahn>. I've heard a lot about you.
+I hear you're doing great!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-噂は聞いてるぜ。
-大活躍だってな！
+Hey, <Stahn>. I've heard a lot about you.
+I hear you're doing great!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-……<Lilith>ちゃん？
+...<Lilith>?
 
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-へー、卵から……
-よ、よかったね。
+Heh, from an egg.
+I'm glad to hear that.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-新鮮な肉の買出しに
-行ってこようかな。
+I think I'll go shopping 
+for some fresh meat.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-空に変なのが出来たって、
-ノイシュタットへ行く楽しみは石蹴りだね。
+The fun of going to Neuestadt is 
+kicking rocks, even if the sky has
+gotten weird.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-ノイシュタットに買出しに
-行く唯一の楽しみは石蹴りだね。
+The only thing I look forward 
+to when I go shopping in Neuestadt
+is kicking rocks.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-この楽しさを<Stahn>、
-おまえにも教えてやるよ。
+I'll show you how much 
+fun it is, <Stahn>.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-この楽しさを<Lilith>ちゃんにも
-教えてあげるよ。
+I'll share this fun 
+with you, <Lilith>.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-この楽しさをあんたにも、
-教えてあげるよ。
+I'm going to show you 
+how to have fun, too.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-村の前に落ちてる石を
-ノイシュタットまで蹴ってみろよ。
+Try kicking a rock that's fallen
+in front of the village to Neuestadt.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-そうだな、まずはトライだ。
+Yes, we'll try first.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-次は、２回目だな。
+Next time, it'll be twice.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-次は、３回目だな。
+Next time, it'll be three.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-次は、４回目だな。
+Next time, it'll be four.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-次は、５回目だな。
+Next time, it'll be five.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-何度でもトライだ。
+Try as many times as you like.
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-きゃー、なにその青いの。
-かわいい～。
+What's that blue thing?
+It's so cute!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-仕入れの量を増やしたからね。
-もう品切れにはしないわ。
+We've increased our stocking capacity.
+We won't be out of stock anymore.
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-新鮮なお魚はいかがですか？
-
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-仕入れの量を増やしたからね。
-もう品切れにはしないわ。
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-旅に出るなら、魚は持てないね。
+Would you like some fresh fish?
 
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-あの放送を流してた人は、
-なんでこんな面倒な事をするの？
+We've increased our stocking capacity.
+We won't be out of stock anymore.
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-頼んだわよ、<Stahn>！
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-あなた、頼んだわよ！
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-きゃー、なにその青いの。
-かわいい～。
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-仕入れの量を増やしたからね。
-もう品切れにはしないわ。
-[ENDBLOCK]
-Fish Merchant
-[ENDBLOCK]
-新鮮なお魚はいかがですか？
+If I'm going to travel, I can't have fish.
 
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-仕入れの量を増やしたからね。
-もう品切れにはしないわ。
+Whoever was running that broadcast, 
+why would they go to all this trouble?
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-旅に出るなら、魚は持てないね。
+I'm counting on you, <Stahn>!
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+Honey, I'm begging you!
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+What's that blue thing?
+It's so cute!
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+We've increased our stocking capacity.
+We won't be out of stock anymore.
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+Would you like some fresh fish?
 
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-あの放送を流してた人は、
-なんでこんな面倒な事をするの？
+We've increased our stocking capacity.
+We won't be out of stock anymore.
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-頼んだわよ、<Stahn>！
+If I'm going to travel, I can't have fish.
+
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-あなた、頼んだわよ！
+Whoever was running that broadcast, 
+why would they go to all this trouble?
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+I'm counting on you, <Stahn>!
+[ENDBLOCK]
+Fish Merchant
+[ENDBLOCK]
+Honey, I'm begging you!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-かわいいパ～～～ン。
+Cute pa~n.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-小生のパンで、
-おなかいっぱいになるがいいパン！
+It's a small piece of bread, but 
+it's good bread to fill you up!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-どうして空に島が浮かんでるパン？
-ワンダーだパン。
+Why is there an island floating
+in the sky? It's a wonder bread.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-故郷のオヤジ殿は、
-どうしているパン……？
+How's the old man back 
+home doing, Pan?
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-悪い奴らはパン沙雨で、
-お仕置きするがいいパン！
+The bad guys will be punished 
+with a rain of pansas.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-かわいいパ～～～ン。
+Cute pa~n.
 
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-どうして空に島が浮かんでるパン？
-ワンダーだパン。
+Why is there an island floating
+in the sky? It's a wonder bread.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-故郷のオヤジ殿は、
-どうしているパン……？
+How's the old man back 
+home doing, Bread?
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-悪い奴らはパン沙雨で、
-お仕置きするがいいパン！
+The bad guys will be punished 
+with a rain of breads.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-いらっしゃいませパン。
-どんなパンをお探しだパン？
+A wonderful welcome to you!
+What kinda bread are you after?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-アイスキャンディー屋じゃ
-ないのか？
+This isn't the
+Softy Kreem stand..?
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-小生は最近この村に来たばかりの
-パン職人だパン！
+I'm the Wonder Baker! I
+just recently arrived here!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-よろしくだパン！
+Nice to knead ya!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-パンパンと、おかしな奴だ。
-
+Was that supposed
+to be funny? You're nuts...
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-お菓子じゃないパン！
-パンだパン。
+No, not nuts! Bread!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-どうして怒るパン。
-小生が何か悪い事したパン？
+What's got you so sourdough?
+was it something I said?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえを見ていると、
-なんだかイライラしてくる。
+Whenever I look at you
+I can't help but feel frustrated.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-そんなの知らないパン……
-
+I had no idea...
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-小生の優しい心は傷ついて、
-立ち直れないかもパン……
+I feel like the fire in
+my oven's gone out for good...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-あーあ。坊ちゃん。
-女の子相手に言い過ぎですよ。
+Now, now, Young Master.
+You shouldn't speak 
+to a lady like that.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-謝った方が
-いいんじゃないですか？
+You can't leave her so down.
+You should apologize.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、おまえ。僕が言い過ぎた。
-すまな……
+Fine. Hey, you.
+I went too far. I apol-
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-けど、小生はこんなお子様の言葉に、
-本気で傷つくほど子供じゃないパン。
+However, I won't sink
+so easily! You're just a 
+litle loaf, after all!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何だと？
+What..!?
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+OK! I reckon I'll
+let you off the peel,
+just this once.
+[ENDBLOCK]
+Wonder Baker
+[ENDBLOCK]
+Hello Bread.
 
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-分かったパン。
-小生はあなたを許してあげるパン。
-[ENDBLOCK]
-Wonder Baker
-[ENDBLOCK]
-こんにちはパン。
+What can I get you today, Bread?
 
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-今日は何にしますかパン？
-
+If you eat my bread, you'll 
+end up with bread!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-小生のパンを食べたら、
-語尾にパンが付いちゃうパン！
+Nice to meet you. I'm a recent 
+arrival to this village.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-初めまして、小生は
-最近この村に来たパン！
-[ENDBLOCK]
-Wonder Baker
-[ENDBLOCK]
-よろしくだパン！
+Nice to meet you, Bread!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……しょうせい？
-ちょっとおかしな人だな……
+...Shosei?
+You're a little crazy.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-お菓子じゃないパン！
-パンだパン！
+It's not candy, it's bread!
+Bread! Bread!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ごめん。おれはスタン。
-よろしくおねがいしまスタン！
+Sorry. I'm Stan.
+It's nice to meet you!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-気にしないパン！
-こちらこそよろしくだパン。
+I don't care, bread!
+Nice to meet you too, bread.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-小生のパンで、
-おなかいっぱいになるがいいパン！
+It's a small piece of bread, but 
+it's good bread to fill you up!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-そのモンスター
-すごいかっこいいね。
+That monster looks really cool.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、どこで捕まえたの？
+Hey, hey, where'd you get him?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Lilith>お姉ちゃん
-遊ぼうよ！
+<Lilith>, let's play, sister!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、
-鬼ごっこしようよ！
+Hey, hey, let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Stahn>兄ちゃん、遊ぼう！
-鬼ごっこしようよ！
+<Stahn> Brother, let's play!
+Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、
-鬼ごっこしようよ！
+Hey, hey, hey.
+Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Stahn>兄ちゃん、旅に出るの？
-いいなー、おれも連れてってよ！
+<Stahn> Brother, are you 
+going on a trip? That's great, 
+take me with you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-おれも旅に連れてってよ！
+Take me on a trip, too!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Stahn>兄ちゃん、ベルクラントとか、
-天地戦争とかって……何？
+<Stahn> Brother, what's this about 
+Belcrant and the Aeth'er War?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ベルクラント？
-天地戦争？	何なのそれ。
+Belcrant?
+Aeth'er War? What the is that?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-この前、村の中に、
-モンスターが入ってきたんだ。
+The other day, a monster 
+came into the village.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-前はそんな事なかったのに……
+It didn't used to be like that.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-村に入ってきたモンスターを、
-マギーおばさんがやっつけたんだよ。
+Aunt Maggie killed the monster 
+that came into the village.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-マギーおばさんがあんな強いなんて、
-知らなかったよ！
+I didn't know Aunt Maggie 
+was that strong!
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-キャー！	びっくりした。
+Aah!	You scared me.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-<Lilith>ちゃんなんてものを
-連れてるんだい。
+What have you got there, <Lilith>?
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-まあ、<Lilith>ちゃんが、
-ボーイフレンド連れてるよ!?
+Well, <Lilith>'s got a boyfriend.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-お客さん、こんな田舎まで
-良く来たね。
+You've come a long way 
+to the countryside.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-素通りは許さないよ、<Stahn>。
-見ていきな。
+You can't just walk by, <Stahn>.
+Go ahead, take a look.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-お客さん、こんな田舎まで
-良く来たね。
+You've come a long way 
+to the countryside.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-旅の途中で腹が減ったら困るだろ。
-果物を買っておきな。
+You don't want to get hungry 
+on the road. Buy some fruit.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-物騒な世の中になったもんだねえ……
+It's a dangerous world we live in.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-あんた、今じゃ英雄様なんだってね。
-果物持っていきな。
+I heard you're a hero now.
+Take the fruit.
 [ENDBLOCK]
-果物を売る商人
+Fruit Merchant
 [ENDBLOCK]
-あなたって英雄様なんだってね。
-頑張ってね。
+I hear you're a hero.
+Good luck.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-おや、<Lilith>ちゃん、
-ポケットドラゴンじゃないか。
+Oh, <Lilith>, you're a pocket 
+dragon, aren't you?
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-その子たちは神様の代わりに、
-幸せを運ぶと言われているんだよ。
+Those children are said to bring 
+happiness instead of God.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-お兄ちゃんから、
-まだ連絡もないのかい？
+You still haven't heard from 
+your brother, have you?
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-私たちの村は大半が自給自足なんです。
-女だって力仕事をやりますよ。
+Most of our village is self-sufficient.
+Even the women do the heavy lifting.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-よっと……ほっと……
-うん？	<Stahn>じゃないか。
+Hotch... potch...
+Yeah? I think it's <Stahn>.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-精が出ますねだって？
-これくらい、楽ちんなもんさ！
+That's a lot of energy, isn't it?
+This is as easy as it gets!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-私たちの村は大半が自給自足なんです。
-女だって力仕事をやりますよ。
+Most of our village is self-sufficient.
+Even the women do the heavy lifting.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-若いうちは好きなだけ旅をするといい。
-あたしも昔はそうだったよ。
+When you are young, you should 
+travel as much as you want. I used
+to do the same.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-空の上から見下ろされるってのは、
-いい気分じゃないね。
+It's not a good feeling to be 
+looked down upon from the sky.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-村の事は心配するんじゃないよ。
-あんたはあんたの事をやりな。
+Don't worry about the village.
+You do your thing.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-あたしもまだまだ若いつもりだけど、
-あんたのじいさんも相当だね。
+I still think I'm young, but your 
+grandfather is quite old, too.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-村を襲ったモンスターを、
-あっさり片付けたのには驚いたよ。
+I was amazed at how easily 
+they took care of the monster 
+that attacked the village.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-あたしとトーマスで、
-モンスターどもは片付けたよ。
+Me and Thomas took care 
+of the monsters.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-初めて見る種類のドラゴンだけど、
-ずいぶんかわいいのね。
+I've never seen this kind of dragon 
+before, but it's pretty cute.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Lilith>ちゃんが
-お母さん代わりなの？
+<Lilith> are you my mother?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Bacchus>君がおじいちゃんのお使いで
-ノイシュタットに行ったけど……
+<Bacchus> You went to Neuestadt 
+on an errand for your grandfather, 
+but...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-まだ帰って来ないのよね。
+He hasn't come home yet.
 
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-まあ、セインガルドから旅を？
+Well, you traveled from Seinegald?
 
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-だったら途中で行き倒れた
-ツンツン頭の人なんて見てませんか？
+If that's the case, have you seen
+any pointy-headed people who have
+fallen by the wayside?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-行き倒れたツンツン頭？
-見ていないな。
+A stray peckerhead?
+I haven't seen him.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-そうですか。それを聞いて
-少し安心しました。
+I see. I'm a little relieved
+to hear that.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>君、昔うちの庭の花、
-全部むしっちゃったの覚えてる？
+<Stahn>, do you remember 
+when we used to pluck all 
+the flowers in our garden?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-あのころはよくいたずらして、
-うちのお父さんに怒られてたよね。
+In those days, I used to play 
+pranks and my father used 
+to get angry with me.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>君の
-お知り合いの人なんですか？
+<Stahn> Is this someone you know?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>君、村に戻りたくなったら、
-いつでも戻ってきていいからね。
+<Stahn>, you know, if you ever 
+want to come back to the village, 
+you're always welcome.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>君の事、
-よろしくお願いします。
+<Stahn>, please take care.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-あの放送を流している人って誰なの？
+Who is the person running 
+that broadcast?
 
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-もう二度と、お日様の下で、
-<Stahn>君と話したりできないの？
+Will I ever be able to talk 
+to you in the sun again?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-もう一度、お日様の下で、
-<Stahn>君とお話したかったな。
+I wish I could have talked to 
+you one more time under the 
+sun, <Stahn>.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-あたしも自分のできる事を頑張るわ。
-村を守らなくっちゃ。
+I'm going to do what I can to help.
+I have to protect the village.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃん？
-村の中でモンスターはどうかなと……
+<Lilith>? I was wondering 
+if there were any monsters
+in the village.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-困った事があったら言ってくれ。
-俺とおまえの仲じゃないか！
+If you need help, just let me know.
+It's just you and me!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-あーあ。<Lilith>ちゃん、
-どうして振り向いてくれないんだろ。
+Oh, no. <Lilith>, why won't 
+you turn around?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-あいつの事、
-お願いしますね。
+I'll take care of that guy for you.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃんが悲しむから、
-おまえには村にいて欲しかったよ。
+I wanted you to stay in the village 
+because <Lilith> would be sad.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-だが、まあ、仕方ない。
-<Lilith>ちゃんの事は任せておけ！
+But, well, it can't be helped.
+I'll take care of you, <Lilith>!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Stahn>の事
-よろしく頼みます。
+Please take care of <Stahn>.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Stahn>、外を出歩いていないで、
-村に戻ってくる気はないか？
+<Stahn>, don't you want to come 
+back to the village instead of 
+walking around outside?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-おまえがいれば、<Lilith>ちゃんも、
-少しは安心できると思うんだがな。
+If you're here, I'm sure <Lilith> 
+will feel a little more at ease.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃんも、
-おまえといれば安心だな。
+<Lilith> will be safe with you.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃんも、
-<Stahn>と一緒で大変だろ。
+<Lilith>, you must be having 
+a hard time with <Stahn>.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Stahn>のやつ、
-ちゃんと良い子にしてますか？
+Are you being a good boy, <Stahn>?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-村にあるレンズをかき集めて、
-ノイシュタットまで運んだのは、俺さ。
+I was the one who gathered up
+all the lens in the village and 
+carried them to Neuestadt.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-くれぐれも、
-無駄遣いはしないでくれよ？
+Just don't waste any of it, okay?
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 
@@ -1461,276 +1463,277 @@ Depot
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-やっぱり<Lilith>ちゃんの
-兄である、おまえの前で……
+I knew it, <Lilith>.
+My brother, in front of you.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-よ、よう<Stahn>……
+Yo, yo <Stahn>...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうした<Bacchus>？
+What's up, <Bacchus>?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-……この人たちって
-おまえと一緒に旅している人たちか？
+... Are these the people who
+are traveling with you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ、そうだよ。
+Oh, yes.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-という事は……
-<Lilith>ちゃんも一緒だよな。
+That means that...
+<Lilith> You're with me, 
+aren't you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-当然でしょ。
+Of course.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-あ、あのさ<Stahn>と<Lilith>ちゃん。
-話があるんだけどいいかな？
+Oh, you know, <Stahn> and <Lilith>.
+Can I talk to you about something?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では、私たちはすこし席を
-外そうか。
+So, shall we leave 
+the room for a while?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何だよ、話って？
+What do you mean, talk?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-あのさ、俺、<Lilith>ちゃんが
-いなくなって……
+You know, I lost <Lilith> to...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-ぽっかりと心に……穴が
-開いたみたいになって……
+I felt like I had a... 
+hole in my heart.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-それって……
+Is that...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-それに、気付けばいつも、
-<Lilith>ちゃんの事を考えてる。
+And I find myself thinking about 
+you all the time, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あ、あの私は。
+Oh, um, I am.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃんも
-いなくなっちゃうと、俺……！
+If <Lilith> disappears too, I ......!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-私……も？
+And me ......?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-バカする相手が
-いないんだよ！	<Stahn>!!
+I have no one to make fun of!
+<Stahn>!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-はあ？
+Huh?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-俺、自分より下だと思う
-相手がいないと……
+Me, if I don't have someone 
+I think is beneath me...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-この村で、俺が一番下の様な
-気がしてくるんだぁぁ！
+I'm starting to feel like I'm the 
+lowest person in this village!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃん、それ貸して。
+Big brother, give me that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-な、なんだ？
+What? What is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lilith>ッ！
+<Lilith>!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Bacchus>のバカ！
+<Bacchus>, you idiot!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あははは。<Bacchus>だけに、
-バカだって。
+Hahaha. Only <Bacchus> 
+says it's stupid.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Stahn>！
-俺、死にかけたんだぞ！
+<Stahn>!
+I almost died!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-なんだよ、元気そうじゃんか。
+What? You look fine.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Bacchus>……？
+<Bacchus>...?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-ま、気長にいくさ。
-頼むぜ、お兄ちゃん。
+Well, I'll be patient. I'm counting 
+on you, big brother.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-俺の夢はさ、死ぬまでに
-「俺は……愛に生きた！」って
-言う事なんだよなー。
+My dream is that by the time I die, 
+I'll be able to say, "I lived for 
+...... love!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-俺の夢はさ、死ぬまでに
-「俺は……愛に生きた！」って
-言う事なんだよなー。
+My dream is that by the time I die, 
+I'll be able to say, "I lived for 
+...... love!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Bacchus>、いきなりなんだよ？
+<Bacchus>, what's with 
+the abruptness?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-いいや、俺様には分かるぜ!!
+No, I know what you're talking about!
 <Bacchus>！
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-おお、分かってくれるのか！
+Oh, you understand!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おうよ！
-俺様も愛に生きているからな。
+Oh, yeah!
+I'm living in love, too.
 [ENDBLOCK]
-ルウェイン
+Lewein 
 [ENDBLOCK]
-おや、君は!?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ルウェイン将軍じゃないですか？
+Oh, and you are?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ひょっとして、じっちゃんに
-会いに来てくれたんですか？
-[ENDBLOCK]
-ルウェイン
-[ENDBLOCK]
-はい。トーマスはいますか？
+Lewein, aren't you a General?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、呼んで来ます。
-ちょっと待ってて下さい。
+Did you come to see 
+grandpa by any chance?
 [ENDBLOCK]
-Thomas
+Lewein 
 [ENDBLOCK]
-ルウェインさん……
-[ENDBLOCK]
-ルウェイン
-[ENDBLOCK]
-随分と久しぶりですね、トーマス。
-元気そうで何よりです。
-[ENDBLOCK]
-Thomas
-[ENDBLOCK]
-はい、年だけは取りましたが。
-[ENDBLOCK]
-ルウェイン
-[ENDBLOCK]
-それで、あの方は……？
-[ENDBLOCK]
-Thomas
-[ENDBLOCK]
-妻は……ずいぶんと前に。
-[ENDBLOCK]
-ルウェイン
-[ENDBLOCK]
-そうですか……非常に残念です。
+Yes, sir. Is Thomas there?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ルウェイン将軍は
-ばっちゃんを知っているんですか？
-[ENDBLOCK]
-ルウェイン
-[ENDBLOCK]
-はい、もちろんです。
-なにせ……
+I'll go get him now.
+Please wait for me.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-ル、ルウェインさん！
+Mr. Lewein...
+[ENDBLOCK]
+Lewein 
+[ENDBLOCK]
+It's been a long time since I've
+seen you, Thomas. I'm glad to 
+hear you're doing well.
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+Yes, I'm only getting older.
+[ENDBLOCK]
+Lewein 
+[ENDBLOCK]
+So, that one is ......?
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+My wife, a long time ago.
+[ENDBLOCK]
+Lewein 
+[ENDBLOCK]
+I'm very sorry to hear that.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Lewein, does the general 
+know about grandma?
+[ENDBLOCK]
+Lewein 
+[ENDBLOCK]
+Yes, of course.
+After all...
+[ENDBLOCK]
+Thomas
+[ENDBLOCK]
+Lewein!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-珍しいな、トーマスさんが
-慌てるなんて。
+That's unusual, Thomas,
+that you're upset.
 [ENDBLOCK]
-ルウェイン
+Lewein 
 [ENDBLOCK]
-実はね、<Stahn>君。私もあなたの
-お婆様を好きだったのです。
+Actually, <Stahn>. I liked 
+your grandmother too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えー!!	それじゃ、俺は
-セインガルドの将軍の孫だったかも
-しれないって事ですか!?
+Oh, no!	So you're saying that
+I might have been the grandson
+of a Seinegald general?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-バカ言うなよ、<Stahn>。
+Don't be ridiculous, <Stahn>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-もしそうだとしたら、
-おめえはこの世にいないだろ！
+If that were true, you wouldn't 
+even be in this world!
 [ENDBLOCK]
-ルウェイン
+Lewein 
 [ENDBLOCK]
-そんな事、分からないですよ。
-<Stahn>君は、本当に私の孫だったかも
-しれませんよ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-うーん……
+I don't know about that.
+<Stahn> You could really be 
+my grandson, you know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それも悪くないと思いますけど、
-俺はやっぱりじっちゃんの孫で
-<Lilith>の兄なのがしっくりきます。
+Hmmm...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+I guess that's not a bad idea, but I'm
+more comfortable being my grandpa's
+grandson and brother of <Lilith>.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Stahn>……
+<Stahn>...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-これも、男のひとつの愛だぜ！<x00>
+That's one way to love a man!<x00>
 [ENDBLOCK]
