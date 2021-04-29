@@ -751,127 +751,137 @@ Yes, young master.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>Thus, my mission was over.
+<TAG_007>And so, my mission was over.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD8><x00><x00><x00><TAG_007>「……大人になる事」
+<x06><xD8><x00><x00><x00><TAG_007>"...To become an adult..."
 [ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>僕は僕の望んだものを
-手に入れられたのだろうか。
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_007>皮肉にも、僕は望んでいなかったものを、
-この旅で手に入れた。
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>I wonder if I really
+got what I was after...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD8><x00><x00><x00><TAG_007>「……仲間」
-[ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>それが今では、僕の中で
-日に日に大きくなっているのが分かる。
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_007>シャルが旅の最中に言った言葉。
-[ENDBLOCK]
-「……もっと多くの夢を持つべきです」
+<TAG_007>Ironically, I got something
+else on this journey. something
+I didn't even know I wanted.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>僕は本当にそれを
-許してもらえるのだろうか……
+<x06><xD8><x00><x00><x00><TAG_007> "...Friendship..."
+[ENDBLOCK]
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>Now I get it, what had
+been growing within me every day...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>Chal said something to me
+in the middle of the journey.
+[ENDBLOCK]
+"You shouldn't be so focused
+only on serious things like that."
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>I wonder if I'll
+ever be able to admit it...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おはよう、<Marian>。
+Good morning, <Marian>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あら、今日は早いのね、エミリオ。
+Well! You're up
+early today, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-すぐに、朝食の用意をするわ。
+I'll hurry and
+get breakfast ready.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうだ、今日は<Marian>も一緒に
-朝食を食べよう。
+I know, why don't you join
+me for breakfast, <Marian>?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そう言ってくれるのはうれしいけれど、
-気持ちだけ、頂いておくわね。
+It's kind of you to ask me,
+but I believe I will pass.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-今日は登城する事になっているんだ。
+I'm expected at
+the castle, today.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-近頃は、お仕事が忙しいようね。
+You seem to have
+become very busy, lately.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-世界を回った任務に比べれば、
-どれも簡単なものばかりだよ。
+Compared to my trip around
+the world, this is nothing.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あれから、もう２ヶ月以上経つのね。
+It's already been two
+months since then, hasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Stahn>たちと別れてから、
-もうそんなに……
+It feels like yesterday that
+I was saying goodbye to
+<Stahn> and the others...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ご友人とお会いできなくて、
-寂しいのでは？
+Do you feel lonely now that
+your friends aren't with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……まさか、
-そんな事あるわけない。
+...Oh come on.
+You know I'm not like that.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ふふふ。エミリオ、
-すごく変わったわ。
+Hehehe~! You've
+changed so much, Emilio.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なんだいそれ。
-以前の方がよかったって事かい？
+What's that supposed to mean?
+Did you like me better before?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いいえ。今のあなたの方が
-ずっといいわ。
+Not at all. The way
+you are now is wonderful.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、行ってくるよ。
+Well, I'm off.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ああ、そうでした。
-こちらを。
+Ahh, I just remembered.
+Here, take this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-これは？
+What's this...?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-私が用意したお守りです。
+A little something I prepared.
+May it protect you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ありがとう、<Marian>。
+Thank you, <Marian>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
