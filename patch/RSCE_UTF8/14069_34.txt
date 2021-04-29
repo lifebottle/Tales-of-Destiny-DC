@@ -1,6 +1,6 @@
-シデン領主
+Lord of Shiden
 [ENDBLOCK]
-<Johnny>の父
+<Johnny>'s Father
 [ENDBLOCK]
 我が家の末っ子はどこに……？
 [ENDBLOCK]
@@ -62,7 +62,7 @@
 [ENDBLOCK]
 Lord of Shiden
 [ENDBLOCK]
-<Johnny>の父
+<Johnny>'s Father
 [ENDBLOCK]
 我が家の末っ子は、
 どこに行ったのじゃ？
@@ -114,7 +114,7 @@ Housekeeper
 皆さんと<Johnny>様のご無事を、
 心よりお祈りしています。
 [ENDBLOCK]
-領主夫人
+Lady of the Lord
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
@@ -154,7 +154,7 @@ Housekeeper
 親バカな話ですが、私には
 この世界よりも大切な宝ですから。
 [ENDBLOCK]
-領主夫人
+Lady of the Lord
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
@@ -194,9 +194,9 @@ Housekeeper
 親バカですが、私には
 この世界よりも大切な宝ですから。
 [ENDBLOCK]
-シデン領主
+Lord of Shiden
 [ENDBLOCK]
-<Johnny>の父
+<Johnny>'s Father
 [ENDBLOCK]
 なんじゃ<Johnny>。黙って立ってないで、
 一緒に茶でもどうじゃ。
@@ -263,9 +263,9 @@ Housekeeper
 私にできる事なら、
 なんでもお申しつけ下さい。
 [ENDBLOCK]
-シデン領主
+Lord of Shiden
 [ENDBLOCK]
-<Johnny>の父
+<Johnny>'s Father
 [ENDBLOCK]
 Housekeeper
 [ENDBLOCK]
@@ -606,181 +606,185 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-領主夫人
+Lady of the Lord
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-<Johnny>の母
+<Johnny>'s Mother
 [ENDBLOCK]
-どうしたの、<Johnny>？
+What's the matter, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-昔、俺が使っていた楽器を、
-どこへやったか知らないか？
+You don't happen to know where
+I left that instrument I used to
+use a lot a long time ago, do you?
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-ちょっと、分からないわね。
+I'm not really sure..
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-お調子もののあんただから、
-街の子供にでも、あげたんじゃないの？
+Didn't you give it away on a
+whim to some kid in in town?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そうだったかな？
+Huh, did I?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ、街の子供に
-話を聞いてみましょう。
+In that case, let's go talk
+to the kids around town.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-付き合せて悪いな、<Stahn>。
+Sorry to drag you
+along like this, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いえ、気にしてませんよ。
+Ahh it's nothing.
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-<Johnny>ちゃんがこんなになるなんて。
-運命だったのでしょうか？
+I can't believe <Johnny>
+is like this. Was it fate?
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-<Johnny>ちゃんがこんなになるなんて。
-こうなるのは運命だったのでしょうか？
+Do you reackon you becomin'
+the way you are is fate, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-もうその話は聞き飽きた。
-いいかげんにしてくれよ。
+Ahh Ma, I'm sick of hearing
+that. Get on with it, will you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>さん！
-そんな言い方しちゃダメですよ。
+<Johnny>! You shouldn't talk
+like that to your mother!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それじゃ行ってくるぜ、
-おふくろ。
+Alright, we're heading out.
+Take care, Ma.
 [ENDBLOCK]
 <Johnny>'s Mother
 [ENDBLOCK]
-ちゃんとお金は持ってるの？
+Do you have enough money, Dear?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いいお母さんですね。
+Your mom's so nice!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まったくこの年で
-子供扱いされるのを見られるのは
-恥ずかしいものだな。
+Good grief, it's embarrassing
+to be seen being treated like
+a child at this age...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だったら、<Johnny>さんが
-ちゃんとすればいいじゃないですか。
+Well then <Johnny>, you should
+stop acting like one, right?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-今日はなんだか、
-突っかかるな<Stahn>。
+You've certainly turned
+against me today, <Stahn>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何言ってるのよ<Johnny>。
-あんたが悪いんでしょ。
+What are you saying, <Johnny>?
+You were awful to her.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Rutee>まで？
+You too, <Rutee>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そうです、お母さんの
-言う事を聞いてください。
+I agree, you should listen
+to what your mother says.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-しかしな、俺はもう
-立派な大人だぜ？
+Oh come on, aren't I already
+a splendid, grown man?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Johnny>さんの年齢の
-問題ではありません。
+It's not a question of
+how old you are, <Johnny>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そうです。
+That's right!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-子供はいくつになっても
-子供なのだからな。
+A child is a child,
+no matter how hold they are.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえもしっかり
-しなきゃだめだぜ。
+You gotta take this
+seriously, man.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-これはまた……
-みんなでどうしたんだ？
+This again...
+What's with everyone?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-急に俺の事をいじめるのか？
+What's gotten you all
+to bully me like this?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-違いますよ。
-みんな羨ましいんです……
+It's not that.
+We all just envy you...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……<Johnny>さんには
-ご両親がいるじゃないですか！
+...You're the only one here
+who still has parents, right??
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そうだったのか。
-俺とした事が……
+You're right, huh?
+Me, of all people...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ちょっと待っててくれ。
-おふくろに挨拶してくるよ。
+You guys wait out here.
+I'm going to go see mother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたんですか？	ちゃんと
-お母さんに優しくしてきましたか？
+What's wrong? Didn't you decide
+to be nice to your mother?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-あのおふくろ、俺に１００ガルド渡して
-無駄遣いするんじゃないよ、だと。
+That mother of mine..she gave me
+100 gald and told me not to waste it!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-勘弁してくれよ。ガキじゃあるまいし。
+Excuse me.
+I didn't mean to act like a brat.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-優しいお母様ではないですか。
-誰も笑ったりしませんよ。
+You truly have a kind mother.
+No one's laughing at you.
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-１００ガルド手に入れました。<x00>
+100 Gald acquired.<x00>
 [ENDBLOCK]
