@@ -2,124 +2,132 @@ Young Woman
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-ちょっと、そこのお兄さん。
+Uhm, Excuse me, mister...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私ですか？
+Do you mean me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>今、急いでいますので
-何用ですかな？
+<TAG_007>I'm busy now.
+Do you have business with me?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そう言わずに、話を聞いてくれよ。
+Don't say that.
+Just listen to me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……わかりました。
+...Ok.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-実は私、ファンダリア王に
-会いたいんだよ。
+Actually, I'd like to meet
+King of Phandaria.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんたに声をかけたのは、なんだか
-他のやつらと違う感じがしたから。
+I approached you because I felt that
+you were different from the others.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんたもしかしたら
-城に出入りできる人物なんじゃ？
+Maybe you're someone who
+has access to the castle?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-王に何用なのですか？
+What do you want
+with the King?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そんな事あんたに関係ないよ。
-王に会わせてくれさえすりゃいいんだ。
+It's none of your business.
+All that matters is that you
+let me see the King.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-事情を知らずにそれはできません。
-では失礼します。
+I can't do that without
+knowing what's going on.
+Now if you'll excuse me.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-話が早いわ。
-あんた、王様に会えるかい？
+I'll be quick! Are you...
+able to meet with the King?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……はい、できますが。
+...Well, yes, I am.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-だったらさ、私を王様と
-引き合わせてくれないか？
+Really? In that case, can you
+get me an audience with him?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうしてそのような事を？
+Why do you need
+to see him?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そうだね……あんた
-親切にしてくれたから話すよ。
+I see..well, since you didn't
+turn me away, I'll tell you.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-実は私の家、この前の動乱で
-焼けちゃってさ。
+The truth is..My house was
+burned down during the riot.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-家族は幼い弟と妹
-以外はみんな死んじゃって。
+My entire family, except for my 
+very young brother and sister,
+were killed.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-近くにいた兵隊さんに頼んでも、
-助けてやりたいが、順番を待てって。
+I begged the sailors that were there,
+and they wanted to help, but said I'd
+have to wait for my turn.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-けど、そんなの待ってたら
-弟と妹が……
+But..if I have to wait any
+longer... my siblings will...!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-わかりました。私が直接王様に
-その事をお伝えしましょう。
+Say no more. I will personally
+report your circumstances to
+his majesty at once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-本当かい！	ありがとう。
-ここまで来たかいがあったよ。
+R-Really?? Thank you!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ところであんたの名前は？
+By the way, what's your name?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-名前など……私はこのファンダリアを
-心より愛しているものです。
+My name is... I am simply
+someone who loves this
+country with all his heart.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-本当にありがとう。
+Thank you so much!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ファンダリア国内の
-遊びスポットのパンフレットがある。
+<TAG_005>There's a pamphlet about
+fun places in Phandaria.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]

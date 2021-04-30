@@ -56,7 +56,7 @@
 宝箱アクションの開始	<x17><x66><x10><x0B><x70><x04><xAB><x80>
 
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -111,7 +111,7 @@ notice
 [ENDBLOCK]
 この色の宝箱は食料を奪うようです。
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -339,13 +339,13 @@ Cyglorg
 ★宝箱情報開始
 
 [ENDBLOCK]
-<red>赤
+<red>Red
 [ENDBLOCK]
-<blue>青
+<blue>Blue
 [ENDBLOCK]
-<green>緑
+<green>Green
 [ENDBLOCK]
-<red>赤
+<red>Red
 [ENDBLOCK]
 体力を回復します。
 [ENDBLOCK]
@@ -458,13 +458,13 @@ Cyglorg
 ○転倒から復帰：パッド入力開始
 
 [ENDBLOCK]
-次の階へ進む
+Continue to the next floor
 [ENDBLOCK]
 セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>ポイント必要）
 [ENDBLOCK]
 アルカナルインから脱出
 [ENDBLOCK]
-キャンセル
+Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -477,23 +477,23 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当によろしいですか？
-はい
-いいえ
+<TAG_007>Are you sure?
+Yes
+No
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当によろしいですか？
-はい
-いいえ
+<TAG_007>Are you sure?
+Yes
+No
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当によろしいですか？
-はい
-いいえ
+<TAG_007>Are you sure?
+Yes
+No
 
 [ENDBLOCK]
 notice
@@ -515,7 +515,7 @@ notice
 全滅割り込み
 
 [ENDBLOCK]
-<TAG_005>弱者など要らぬわ。
+<TAG_005>We don't need weaklings.
 [ENDBLOCK]
 <TAG_031>はEXダンジョン番号ではありません。
 
@@ -523,9 +523,9 @@ notice
 <TAG_032>は階層番号ではありません。
 
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 	<TAG_032>F
 [ENDBLOCK]
@@ -534,7 +534,7 @@ notice
 マップ名称の設定
 
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 EXポイント-><TAG_032>, 加算-><TAG_031>
 
@@ -777,9 +777,9 @@ It's sealed by a strange power.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-オベロン秘密工場へ戻りますか？
-はい
-いいえ
+Return to Oberon's Hidden Factory?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -789,23 +789,24 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-闘技場へ行きますか？
-はい
-いいえ
+Go to the Arena?
+Yes
+No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-ソーディアン研究所へ行きますか？
-はい
-いいえ
+Go to the Swordian R&D Lab?
+Yes
+No
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-いつでもお待ちしております。
+Please feel free
+to visit me anytime.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-残念ながら金額が足りていないようです。
+Unfortunately, you don't have enough.
 
 [ENDBLOCK]
 Cyglorg
@@ -879,12 +880,12 @@ Undefined select no
   (not judge = <x17><x72><x42><x7C><x80>)
 
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
-はい
+Yes
 
 [ENDBLOCK]
-いいえ
+No
 
 [ENDBLOCK]
 はい（福袋購入）
@@ -899,11 +900,11 @@ Cyglorg
 [ENDBLOCK]
 フフフ……お楽しみくださいませ。
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -925,7 +926,7 @@ Cyglorg
 決してお忘れなく。「強き」事のみが、
 <x18><x66><x10><x00><x80>の存在証明でございます。
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -963,7 +964,7 @@ notice
 たどり着くには、よく考えてパーティ選択を
 する必要があります。
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -982,7 +983,7 @@ notice
 強制的に現在いる、この場所へと戻されます。
 
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1031,7 +1032,7 @@ Cyglorg
 何についてお答えしましょうか？
 <x18><x46><x50><x28><x00><x80>
 [ENDBLOCK]
-アルカナルイン
+Arcana Ruins
 [ENDBLOCK]
 アルカナルインへと進む
 [ENDBLOCK]
