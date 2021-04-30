@@ -1228,52 +1228,52 @@ I will immediately depart.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion> Magnus has arrived.
+<Lion> Magnus, reporting.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Hmm.
+Mmh.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Today, you will escort bishop
-Hermenz to Straylize Temple.
+Today, your mission is to escort
+a bishop from Harmentz Village
+over to Straylize Temple.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Since the <Greybum> incident, the
-temple is still shorthanded.
+Ever since the <Greybum> incident, the
+temple has remained short-handed.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Therefore, I would like you to 
-take the bishop back before the
-end of the day.
+Therefore, you must escort him
+to the temple before nightfall.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-This may be an easy mission
-for you. But the significance
-of this mission is great.
+To you, this may seem a simple task.
+However, understand that it is
+still of the utmost importance.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Take heart, and hang in there.
+Take care, and return safe.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yessir!
+Yes, your Highness.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-As I have told you before, I am
-entrusting you with two soldiers
-from my army.
+I've already told you, but
+I am sending two of my
+soldiers along with you.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
 I am Will. I'm honored to be
-working with you, <Lion>.
+working with you, Sir <Lion>.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
@@ -1283,24 +1283,24 @@ at least say hello.
 Jobs
 [ENDBLOCK]
 Hey, you. You're younger than me.
-Are you sure you're alright?
+Is this really gonna be OK?
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-Job's. That's why they 
-say you can't be a captain.
+Job's...that's why they 
+say you'll never be a captain...
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-My apologies, <Lion>.
+Please excuse him, Sir <Lion>.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-I'm not a cool guy like you.
+I'm not a sycophant like you.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-I am not as shallow as you.
+Well, I'm not as shallow as you.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
@@ -1308,12 +1308,12 @@ What the hell, man?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Hey, silence, you two. You're in
-the presence of the king.
+Be silent, you two! You are
+in the presence of the King!
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-I'm sorry.
+I apologize.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
@@ -1321,13 +1321,13 @@ Hmph...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-As I've told you before.., I'm 
-making one of you captains.
+...As I explained to you two earlier,
+I will be promoting one of you to captain.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-So, <Lion>. I'm asking you 
-to make that decision.
+As for which one, Sir <Lion>
+will be the judge of that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1335,62 +1335,65 @@ It's my decision?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-We had a difference of opinion
-as to which of them should be 
-the captain.
+We had a difference
+of opinion as to which of
+these two should be promoted.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-So we decided that you could be 
-trusted to make that decision.
+In the end, we decided that
+you could be trusted to
+make that decision.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-It's our consensus.
+This is the agreement we reached.
 Will you take care of it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I understand. In that case,
-I'll accept.
+If that's the case,
+then I accept.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-I'm sorry. I'm sorry for asking you, 
-a honorary swordsman, to do this.
+Please forgive us for 
+burdening our Hedge Knight's
+shoulders with this matter.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-At the end of this mission, you'll have
-to decide which of them is more 
-qualified to be the captain.
+Once your duty is completed,
+we will expect you to nominate
+one of these men for promotion.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes. Please leave it to me.
+Understood.
+That will be no issue.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-This is Jobs, and Will.
+Jobs. WIll.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 This mission will determine which 
-one of them will become the captain.
+of you two will be promoted to Captain.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Put your thoughts, abilities, 
-and everything you have into
-the mission.
+Dedicate all of your mind,
+body, and soul into the 
+completion of your task!
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-Haha. Leave it to me.
+Sir! Leave it to me!
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-I Understand!
+Roger that!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1694,7 +1697,8 @@ Yessir!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion> Magnus has arrived.
+<Lion> Magnus,
+reporting for duty.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
