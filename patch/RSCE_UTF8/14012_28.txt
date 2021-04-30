@@ -1029,13 +1029,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -1197,12 +1197,12 @@ Old Woman
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-あんた確か……
+If I remember right, you're...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>どなたでしょうか？
-あなたは以前の！
+<TAG_007>I'm sorry who're you?
+You're that woman from before!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1219,125 +1219,126 @@ Old Woman
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-なんだいなんだい
-すっかり見違えたね？
+Well well, aren't you
+completely different?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そう……でしょうか？
+Oh..Am I..?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-私もあんたに気付かなかったし、
-あんたも私に気付かなかったろ？
+Because I didn't recognize you,
+you didn't recognize me?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、それは……
+Well, that's...
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-気にするんじゃないよ。
-それで良いんだから。
+Don't worry about it.
+That's fine.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-あんた自身の心が変わったのさ。
+Seems your own
+heart has changed.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-だからあんたの瞳に映る世界が
-違って見えるのさ。
+And so the world you see
+with your eyes is different.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-以前よりずっとずっと
-良い瞳をしているよ。
+Your eyes look so much
+clearer than before.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-今のあんたの瞳は……
+Right now, I see in your eyes...
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-……乙女のまなざし。
-誰かいい人でも出来たのかい？
+The gaze of a maiden. Is it possible
+there's someone special in your life?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-ま、頑張りな。
+Well... best of luck to you.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-わー、<Kongman>が
-遊びに来てくれたぞぉ！
+Yay! <Kongman>'s come to visit us!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-よう、おまえら元気に
-していたか？
+Yo! You kids bein' good?
+Stayin' healthy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、<Kongman>。
-どうしてこの前の試合の時、
-武器を使わなかったの？
+Hey hey <Kongman>! How come
+you didn't use any weapons in
+that match a while back?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-そうだよ、相手はあんなに大きな
-剣を持っていたのに。
+That's right! The guy you were
+fightin' used a big ol' sword!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういやそうだよな。
-どうして<Kongman>は、拳で戦うの？
+Huh, that's right, why DID you
+only use your fists, <Kongman>?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様が子供の頃にな、
-無敵のチャンピオンがいたんだ。
-そいつが素手で戦っていた。
+Back when I was just a brat, there
+was an unbeatable Champion, who
+fought only with his fists.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どんな相手だろうが、
-決して武器を使わなかった。
+Didn't matter who the opponent
+was, He refused to so much as
+pick up a weapon.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-それが俺様たちに
-どれだけの勇気をくれたか……
+It gave us so
+much courage...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様の憧れだった……
+And so... so I made it my goal...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なのに……
+and yet...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……<Kongman>？
+...<Kongman>?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おっとすまねえな。
-ついボーっとしちまったぜ。
+Whoops, sorry. Had my head
+in the clouds for a sec there.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-つーわけで、
-俺様は武器をつかわねんだー。
+Well anyway, I don't
+need no fancy weapons.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-なーんだ、<Kongman>も
-まねっこなんだね。
+Wowie, so <Kongman>
+is a copycat!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うるせぃやい、
-バカにすんなっ。<x00>
+Aww hush!
+Don't make fun of me!<x00>
 [ENDBLOCK]
