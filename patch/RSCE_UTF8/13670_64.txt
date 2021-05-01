@@ -38,152 +38,161 @@ and replace your Food Strap.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-どうしてこの俺が……
+But why me...???
 
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-ここは、お連れの方を無理にでも
-連れていくしかない！
+We have no other option. We'll
+have to force him to come with us.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-まともに歩ける状態じゃねーよ。
-連れていけるわけないだろ。
+He ain't in any condition to walk.
+We can't take him with us, you dolt.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうした、何かあったのか？
+What's going on?
+What happened?
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-<Lion>様。実は司教様のお連れの方が
-倒れてしまったのです。
+Sir <Lion>. It turns out, the Bishop
+was traveling with someone. 
+Unfortunately, they've fallen ill.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-けどよ、司教様がその連れと一緒じゃなきゃ、
-神殿には行けないって言うんだ。
+On top of that, he's refusing to
+go to the temple without 'em.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-司教様。お連れの方の具合は？
+Bishop! Has your
+companion recovered?
 [ENDBLOCK]
 Bishop
 [ENDBLOCK]
-ここまでの旅の疲れだと思います。
-休ませておけば、良くなると思いますが……
+I think this is as far as they
+can go for now. They'll be right
+as rain after a good night's rest.
 [ENDBLOCK]
 Bishop
 [ENDBLOCK]
-おや、あなたは？
+Oh, hello.
+Who are you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion>・マグナス。
-今回の護衛任務の責任者だ。
+I'm <Lion> Magnus. I'm the one
+meant to escort you, this time.
 [ENDBLOCK]
 Bishop
 [ENDBLOCK]
-そうですか……あなたが。
-申し訳ないが私は弟子を置いてはいけない。
+Ahh, I see. My apologies, but I
+cannot leave my pupil behind...
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-しかし、司教様を神殿にお連れしなくては……
-お連れの方はわれわれで運びますから！
+But we have to get you to the temple...
+What if we carried your pupil there?
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-あの様子じゃ、無理だって！
-もしもの場合はどうするんだよ。
+No, that won't work at all. What
+if something happens on the way?
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-では、本日中に司教様を
-送り届ける任務はどうなる！
+Well, how else are we going to
+do this before nightfall?
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-私たちの隊長の話だってそうだろ。
+That was what our
+captain said to do!
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-そんなの関係ねえ。人の命より
-おまえは任務が大事なのかよ。
+Forget that! You're sayin' to put
+our mission over someone's life!
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-違う！	そこまで言ってない。
-だが陛下の言葉を思い出せ。
+No, I'm not saying that at all!
+Remember what his Majesty said, though.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-この任務の意義は大きい。
-失敗は許されないんだ。
+This mission is of the
+utmost importance. Failure
+will not  be tolerated!
 [ENDBLOCK]
 Bishop
 [ENDBLOCK]
-…………
+.........
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-連れの面倒を見られる人がいないなら、
-俺は絶対賛成しない。
+If we can't find someone to at least
+look after them, I'm not agreeing.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん。だったらあの人に
-頼んでみるのはどうでしょうか？
+Hey, Master <Lion>, how about
+we go ask You-Know-Who?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-あの人……？	
-そうか、あいつがいたな。
+Who do you...?
+Ah, right. That could work.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おい、面倒を頼める
-当てならあるぞ。
+Hey, if we need someone to look
+after the pupil, I know a guy.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-分かったな。この部屋で休んでいる
-彼の弟子を頼むぞ。
+Well then. We'll entrust the
+person resting in this
+room to your care.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-私が……ですか？
+You...want me to...???
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何か不満でもあるのか？
+Do you have an
+issue with this?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-い、いえ……
+N-No...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-これで問題なく神殿に
-向かえるな？
+You can go to the temple
+without any issue now, right?
 [ENDBLOCK]
 Bishop
 [ENDBLOCK]
-は、はい……
+I...yes...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえたちふたりは、すぐに
-司教様を連れて出発しろ。
+You two. Depart at once.
+Take the Bishop to Straylize Temple.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-はい。
+Yes sir.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-了解！
+Roger!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
