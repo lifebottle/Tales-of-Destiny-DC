@@ -5874,7 +5874,7 @@ Leon Battle 1[END]
 
 //Text $1A4DA0
 #WRITE(ptr,$186C54)
-Seingald F1(Around Straylize Forest)[END]
+Seinegald F1(Around Straylize Forest)[END]
 
 
 //Text $1A4D80
@@ -8339,7 +8339,7 @@ Heidelberg Castle[END]
 
 //Text $1A61A0
 #WRITE(ptr,$1896B4)
-Draconis around Seingald[END]
+Draconis around Seinegald[END]
 
 
 //Text $1A6198
@@ -17969,7 +17969,7 @@ like a backpack.[LINE]
 //Text $1BAA18
 #WRITE(ptr,$1928A0)
 A pass that's required to enter[LINE]
-Phandaria from Seingald.[LINE]
+Phandaria from Seinegald.[LINE]
 It's tough without one...[END]
 
 
