@@ -1706,91 +1706,94 @@ reporting for duty.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Thank you for coming, and thank you
-for your service the other day.
+Thank you for coming, and for your
+expert handling of your previous duty.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It's a waste of time.
+You are too kind, my liege.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Then I will hand down this mission.
+Now then, I shall brief
+you on your next mission.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Earlier today, we received 
+Early this morning, we received
 an urgent report from the 
-stationed soldiers in Cresta.
+soldiers stationed at Cresta.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-It is said that a monster that
-is not normally seen has appeared
-near Cresta.
+It stated that an unusual monster
+had been sighted in the area.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-So I want you to 
-go and nvestigate.
+Therefore, I would like
+you to investigate this sighting.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Is it a powerful monster?
+Is it a particularly
+dangerous monster?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-It hasn't been seen since.
+That is, as of now, unknown.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What does that mean?
+Unknown? Is that true?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-To tell you the truth, the report
-from Cresta is rather vague. I'm 
-not sure what to make of it.
+To be honest, the report we
+received was quite vague,
+and difficult to interpret.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Fortunately, the city hadn't 
-suffered any damage yet.
+Fortunately, it doesn't seem
+that Cresta has been attacked.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-We need more reliable information
-in order to move our troops in.
+However, we do require 
+more specific information 
+before we can act.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I see. So we can consider this a 
-research and patrol mission?
+I see. Then I should consider 
+this to be a scouting mission.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Hmmm. You may not like it, though.
+Indeed. I do understand
+this may be beneath you, but...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, that is not the case.
+No, your Majesty, not at all.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 Due to the nature of the mission,
-no troops from our army will 
-be available this time.
+I won't be able to send any
+soldiers with you, this time.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Therefore, if a monster appears,
-you can retreat without straining
-yourself.
+Therefore, if this monster does
+show itself, you are under 
+no obligation to engage.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, no problem.
-I'm not alone.
+That won't be a problem.
+I'm not alone, after all.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1798,17 +1801,18 @@ I have <Chaltier>.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young Master...
+Master <Lion>...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Either way, it's imperative that we
-figure this out. I'm counting on you
-to act quickly.
+At any rate, it is imperative that
+we understand what is truly going on.
+It is requested that you depart at once.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes, leave it to me.
+Understood.
+Leave it to me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
