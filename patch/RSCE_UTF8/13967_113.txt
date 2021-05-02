@@ -52,8 +52,8 @@ complaints about him from the town!
 [ENDBLOCK]
 Angry Priest
 [ENDBLOCK]
-At best, he is disgracing the temple!
-Our image cannot take much more besmirching!
+He is disgracing the temple!
+This cannot be tolerated.
 [ENDBLOCK]
 Head Minister
 [ENDBLOCK]
@@ -67,7 +67,7 @@ B-but, your holiness!
 Head Minister
 [ENDBLOCK]
 I have spoken. Do you take
-issue with my judgement...?
+issue with my judgement?
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -85,7 +85,7 @@ after all. I got what I deserved.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-No! That's not true at all!
+No! That's not true!
 I was just careless, is all...
 [ENDBLOCK]
 Kid
@@ -104,7 +104,7 @@ huh? heheheh.
 
 [ENDBLOCK]
 I like that look in his eyes.
-Cold, and brimming with hatred...
+Cold, brimming with hatred...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -116,8 +116,8 @@ I don't know?
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「優しい天使と赤い悪魔」
-という子供向けの童話がある。
+<TAG_005>There's a children's book titled
+"The Kind Angel and the Red Demon."
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -127,38 +127,39 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>いつもみんなの幸せばかりを
-考えている心優しい天使さんが
-いました。
+<TAG_005>There was once a kind
+angel who only wanted
+to make others happy.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>しかしそれとは反対に自分の事ばかりを
-考え天使の国をのっとろうとしている
-それは醜い赤い悪魔がいました。
-
+<TAG_005>But there was also a
+selfish, hideous red demon 
+who wished to take over
+the land of the angels.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>赤い悪魔は天使さんに
-こう言いました。
+<TAG_005>The red demon spoke
+to the angel:
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「おまえたちからこの天使の国を
-奪ってやる」と。そして赤い悪魔は
-他の天使さんを次々に殺していきました。
+<TAG_005>"Your home will be mine."
+The red demon then killed
+all of the other angels
+one after the other.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「王の系譜」
-というカルバレイス人の正統性を
-題材にしたベストセラーが並んでいる。
+<TAG_005>There's a bestselling series
+of books about Calvalese titled
+"The Lineage of Kings."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>布教活動の際に配布される
-資料が並んでいる。
+<TAG_005>Materials for missionary
+work are lined up.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -176,7 +177,6 @@ No
 [ENDBLOCK]
 <TAG_005>West of Calvalese is located the
 poorest city in the world, Junkland.
-
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -187,8 +187,8 @@ Their main source of income is...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>小説「星の暦・２」
-の読みかけがある。
+<TAG_005>There's part of the novel
+"Calendar of the Stars Pt.2"
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -198,67 +198,66 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>……妹が生きていたらちょうど
-君みたいな感じだったかな。
-思わず僕は口にしていた。
+<TAG_005>...If my sister were still here,
+I wonder if she'd be like you.
+I let those words slip from my mouth.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>彼女ははっと僕から目をそむけた。
-顔を真っ赤にして目には涙をためている。
-僕は彼女の頬を手の平で包み込む。
+<TAG_005>She turned away,
+her face flushed as tears welled.
+I placed my palm on her cheek.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>彼女から溢れる涙を親指でぬぐうと
-その唇を……
-
+<TAG_005>Wiping her tears with
+my thumb, I pressed my lips...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>								つづく
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-<TAG_005>「星の暦」シリーズは本作をもって
-一旦終了致します。
-なお次回作は未定です。編集部
+<TAG_005>        To be continued.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>バルック基金から出版されている
-カルバレイス経済白書がある。
-
+<TAG_005>The "Calender of the Stars"
+series will be on indefinite hiatus
+following this issue.
+ - Editing Department
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>月刊「世界四秘」
-という本がある。
+<TAG_005>There's a paper on
+Calvalese economics published
+by the Baruk Foundation.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>There's a monthly publication called
+"Four Secrets of the World."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-見ますか？
-目次だけでも
-やめておこう
+Would you like to read it?
+Just the table of contents
+Let's not
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>内容はオカルトや空想
-読者投稿による怪奇体験などが
-が大半を占めている。
-
+<TAG_005>The contents are mostly
+bizarre experiences
+submitted by readers.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>巻頭はフランツという学者の
-対談が掲載されている。
+<TAG_005>The intro to the publication
+was written by a scholar named Frantz.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「砂漠での生活」という
-外国人向けの本が並んでいる。
+<TAG_005>There are books aimed
+at foreigners titled
+"Life in the Desert."
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
@@ -286,7 +285,7 @@ clues to help us win this war.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-The people of Calvalese are so closed-minded.
+Calvalesians are so closed-minded.
 It's tough to do my missionary work.
 [ENDBLOCK]
 Priest
@@ -311,13 +310,13 @@ city a lot to collect the lens.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-I would hope that this will help to encourage
-more interaction with the people of the city.
+I hope this will help to encourage
+more interaction among the citizens.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I don't know how <Greybum> did it, but he
-was able to control the monsters easily.
+I don't know how <Greybum> did it, but 
+he easily controlled the monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -325,7 +324,7 @@ He didn't look like a priest at all.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Were the Calvalese people the ones
+Were the Calvalesians the ones
 who were broadcasting that?
 [ENDBLOCK]
 Man
