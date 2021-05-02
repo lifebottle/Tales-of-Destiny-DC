@@ -372,60 +372,58 @@ I see! Thank you!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-村に帰る途中、道に迷ったら
-こんな場所を見つけたんだ。
+I was on my way back to the village
+when I got lost and found this place.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-ところであんた。
-俺とどこかで会ったか？
+By the way, have we met somewhere?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-何だか見覚えがあるような……
+Something about this
+feels so familiar...
 
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃん！
-ひょっとしてわざわざ俺を探して!?
+<Lilith>! Have you come all this
+way just to find me?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-いいえ。私は伝説のにんじんを
-探してたまたまここに寄っただけですよ。
+No. I was just looking for the
+legendary carrot and happened
+to stumble upon this place.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-あんた！
-誰だか知らないが……
+Hey, who the hell are you?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-どうして<Lilith>ちゃんと
-一緒にいるんだよ！
+Why is <Lilith> with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうしてと言われてもな。
-ただの成り行きだ。
+Not that it is any of your business,
+but it was just random chance.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-そういやあんた、
-どこかで見覚えがあるような……
+Wait, you look familar to me...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-うーん、思い出せない。
-俺の気のせいだったか？
+Ugh, I can't remember. Am I
+just imagining things?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>世界中の小石を……
-玩具のアヒルにする
-カメの置物にする
-石に戻す
+<TAG_007>Stones across the world...
+Turn into a toy duck
+Turn into a turtle figurine
+Return back to stone
 [ENDBLOCK]
 select
 [ENDBLOCK]
