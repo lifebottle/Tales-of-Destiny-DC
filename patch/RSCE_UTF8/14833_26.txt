@@ -223,7 +223,7 @@ be pleased to hear that.
 [ENDBLOCK]
 I know...
 [ENDBLOCK]
-EP選択
+EP Selection
 
 [ENDBLOCK]
 ----loop2
@@ -252,7 +252,7 @@ case 1 : チャット選択
 crctsel -> <x17><x71><x4A><x54><x80>
 
 [ENDBLOCK]
-終了
+Close
 
 [ENDBLOCK]
 <x1A><x2C><x00><x00><x04><x00><x71><x4A><x20><x98><x80>
@@ -449,7 +449,7 @@ Previous
 [ENDBLOCK]
 ＥＰ47：<x0C><x2F><x00><x06><x00>
 [ENDBLOCK]
-汎用
+General
 [ENDBLOCK]
 Rare Chats １
 [ENDBLOCK]
