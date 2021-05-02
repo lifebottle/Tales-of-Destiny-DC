@@ -471,152 +471,155 @@ init_camera_homing!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おっと！
+Woah!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ゴメンね、お兄ちゃん。
+Oops, sorry, Mister.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、大丈夫だよ。
+Eh, it's Ok.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-それじゃね。
+Well, see ya!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、待ちなさい。
+Hey, hold it right there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうした？
+What is it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、あんた。あの間の抜けた
-顔のお兄ちゃんから、スッたわね？
-
+Hey, you.  Did you seriously
+just pick that dope's pocket?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしの目は誤魔化せないわよ。
-返してもらうわ、そのレンズ。
+You can't fool my eyes. Give
+back those Lens you stole.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ふん。だったら何だ。
-盗まれる方が悪いんだろ。
+Hm. So what? People who get
+robbed deserve it, after all.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何だと？
-
+What was that..?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-反省なしって訳？
-とっちめてやろうかしら。
+No sign of regret, huh?
+Well then, what should
+we do with you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-許してあげようよ、<Rutee>。
-盗まれずに、済んだんだからさ。
+It's OK, <Rutee>. I don't think
+he's going to steal anymore.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-好きにしろってんだ。
+Do whatever you want.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-おまえらだって、僕たちからたくさんの
-ものを盗んでいったじゃないか。
+People like you, you've already
+taken so much from us.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしたちは何も盗んでいないわ。
-盗んだのはあんたじゃ……
+We haven't stolen ANYTHING
+from you! You're the one who-
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-僕たちの自由と幸せの
-事だよっ！
+Shut up! You took our
+freedom, our happiness!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どういう事よ？
+Wh-What did you say??
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今まで、おまえらは盗まれる方が
-悪いって顔してきて。
+So far, you've acted like those
+who get robbed deserve it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-盗まれた途端、今度は
-盗んだ方を悪く言うのかよ。
+Then when it happens to you,
+you complain about how awful
+thieves are!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-な……
+Wh...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今だ！
+Now's my chance!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何を、ボーっとしてるんだ。
+Why did you just stand
+there like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ごめん……でも、あたしこの前、
-<Baruk>さんの前で言ったのよ。
+Sorry..it's just, it reminded me about 
+what <Baruk> said a while ago.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ここの人たちの事を「そんな昔の戦争の
-事をいつまでも気にしないでよね」って。
-
+About how the people here "Still 
+dwell on the war so long ago".
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、それがあの子の言う、
-「盗まれる方が悪いって顔して」
-って事なのかなと思って……
+But when that kid said "You act like
+people who get robbed deserve it"
+...is that what he meant?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-なんだ？	あんたら。もめ事なら
-街の外でやってくれ。
+What's going on out here?
+If you're having trouble,
+take it outside of town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、少年にレンズを
-盗まれそうになって……
+Just now, a boy stole
+a lens from us...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-そいつはジャンクランドの
-ガキだよ。たまに現れるんだ。
+I see. That brat's from Junkland.
+They show up here from time to time.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ジャンクランド？
+"Junkland"?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-西にあるゴミの街さ。
-あんたらには到底関係ない場所だ。
+It's a town made up of garbage
+west of here. Not that that place
+concerns you at all, of course.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ゴミ……？
+Garbage...?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-この国からも見捨てられた街だよ。
+The country here has
+also abandoned it.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -1369,13 +1372,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract

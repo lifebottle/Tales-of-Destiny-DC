@@ -232,70 +232,74 @@ Chief's Grandson
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、あの人たち……
+Hey, it's those guys!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-やあ、君たち！
+Yo, guys!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-君たちの噂は聞いてるよ。
-すごい活躍じゃないか。
+We've heard the rumors about you!
+You've been doing great, haven't you?
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-本当の勇者はあたしたちじゃなくて、
-あんたたちだったってわけね。
+We're not truly heroes,
+I'd say that's you guys.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-そうとも知らず、恥ずかしいでやんす。
+It's embarrasin' that
+we didn't realise that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-別に俺たちだって、大した事ないですよ。
-自分たちのやるべき事を、やってるだけです。
+Aww, it's nothing.
+We're just doing what we must.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-自分たちのやるべき事、か。そうだな。
-その点は俺たちも同じだ。
+"Doing what we must", huh.
+Very well. In that case, so are we.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-及ばずながらこの村のために、
-力を尽くすつもりだよ！
+We will devote all of our efforts,
+all of our power, all for the sake
+of this village!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-村を守ってみせるでやんす！
+We will definitely protect this village!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-よーし、久しぶりにあれをやるか！
+OK! Bring it in for old
+time's sake, ready!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-俺たち漆黒、漆黒の翼♪
-村を守るぜ、イエイ！
+We are the Dark Wings the
+Guardians of Armeida YEAH!♪
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-村の事は、俺たちに任せておけ！
-君たちは君たちの使命を果たすがいい！
+You all can count on us to keep this
+village standing! You may now carry
+out your mission in peace!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい！
+Yeah!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is locked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is locked.
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
@@ -872,13 +876,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract

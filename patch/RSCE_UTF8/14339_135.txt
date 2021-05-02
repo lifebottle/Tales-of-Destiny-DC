@@ -351,44 +351,46 @@ you know.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Wait for me please.
-I'm almost there.
+Please hold on a moment.
+I'll be right with you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It's going to take some time.
-I'm going to have to come back.
+...You seem really busy.
+Maybe I should come back, later.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Lion>, it's was you, wasn't it.
+Oh, it's you, Sir <Lion>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Sorry about that. I got carried
-away with my research.
+Please excuse me. I got
+a little caught up in a
+matter I'm investigating.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I don't mind, but...
+It's no problem.
 What were you looking into?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-The Eye of Atamoni sealing facility
-that I built with the Swordian's help.
+The Eye of Atamoni sealing facility that
+we constructed with the Swordian's advice.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It was built after defeating <Greybum>.
+The facility that was built
+after we defeated <Greybum>...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What's wrong with it?
+What about it, exactly?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Nothing, it's not a big deal.
+Well, it's nothing serious, but...
 
 [ENDBLOCK]
 <Woodrow>
@@ -399,62 +401,65 @@ placed there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So that's what you were 
-looking for.
+So that's what you
+were looking into.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-But, I haven't been able to 
-find anything about the guardian.
+I haven't been able to 
+find anything about
+this guardian, though.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chaltier>, do you know 
-anything about it?
+<Chaltier>, do you perhaps
+know anything about that?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 Speaking from what I recall, I don't
-know many details either.
+actually know many details either.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-The only thing I know about guardians
-is that they were beings that people 
-used to protect things in the past.
+All I know is that the Guardians were
+used by people in my age whenever
+something needed to be protected.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I'm sorry if that's wasn't the 
-answer you were looking for.
+I apologize if my answer
+doesn't tell you much.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-That's okay. Don't worry about it.
+That's okay.
+Don't worry about it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's enough to give 
-me a starting point.
+At the very least, you've
+given me somewhere to start.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm sorry to have disturbed 
-your work. Please continue.
+Sorry for interrupting
+your research. We'll let
+you get back to it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 I can't give you much of a welcome,
-but please enjoy your time here.
+but please make yourself at home, here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Hmmm... is it still...
+Hmm...Maybe...I dunno...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Wow, <Lion> long 
-time no see.
+Oh! <Lion>! Long 
+time no see!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -462,7 +467,7 @@ How've you been?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Fine.
+Getting by.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -471,68 +476,68 @@ here at the castle?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, I was near Heidelberg 
-and decided to stop by.
+Not really. I just happened
+to be near Heidelberg.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-More importantly, what 
-are you doing?
+Aside from that,
+what are you doing?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I was looking at a portrait.
+I was looking
+at this portrait.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Whose the portrait of?
+Who's portrait is this?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-It's <Woodrow>'s mother.
+<Woodrow>'s mother.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-His mother?
+His...mother, huh?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-So... I was wondering how I 
-should address her.
+I was wondering how
+I should address her.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-You too? Mr. <Lion> is not 
-very good at this either.
+Oooh!  You don't
+get it either, <Lion>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-(...me, too?)
+(Wait, me either?)
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-So!
+So!	
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-She's the mother of <Woodrow>!
+She's <Woodrow>'s mother!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Oh, what would you 
-like me to call you?
+Aah, what should I call her?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Are you an Aunt?
+Auntie, perhaps?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Are you a lady?
+Or maybe your Majesty?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-No, after all...
+No, I know...!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -540,46 +545,46 @@ Mother-in-law!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Aah!
+Teehee!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
 Well, well, well.
-It's been a long time.
+Look who it is.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-It's been a long time since you guys
+It's been a long time since you
 defeated <Greybum>, hasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Oh, that's right.
+Ah, that's right.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I've heard more important news.
+More importantly, I've heard that
 <Woodrow> has taken the throne.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Oh, you heard about that? Your Highness
-finally made up his mind.
+Ah, so you've heard.
+Prince <Woodrow> finally
+made up his mind.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Oops. I should call you "Your Majesty", 
-not "Your Highness".
+Ah, right. I should call him
+"King <Woodrow>", now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That seems to be the effect. 
-The country seems to be regaining
-its composure.
+The country seems more peaceful now.
+His rule is clearly taking effect, already.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I guess we owe it all to 
+I guess it's because of 
 <Woodrow>'s humanity.
 [ENDBLOCK]
 <Darzen>
@@ -589,24 +594,23 @@ the only thing.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Since becoming King, His Majesty has
-been making daily efforts to catch up
-with his late father, the King.
+Since his ascension, he's been working
+hard to make up for his late father.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
 He is an honorable man who 
-never neglects to do work hard.
+never neglects to work hard.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-By the way, have you spoke
-to His Majesty yet?
+By the way, have you spoken
+to his Majesty, yet?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Please come and meet us.
-I'm sure you'll be delighted.
+If not, you should. He'll
+be very happy to see you.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -835,8 +839,8 @@ The portrait on the wall is
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I'll get to it someday.
-Ugh, ugh.
+Someday, I'll also be...
+Hehehe!~
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

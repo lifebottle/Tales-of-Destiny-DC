@@ -23,92 +23,88 @@
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-どうだ、あれから
-上手くいったのか？
+How'd it go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、この間は本当に、
-ありがとうございました。
+Yes, thank you very, very much.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうかしました？
+What's wrong?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-この前、俺は君たちに「変わりたい
-カルバレイス人もいる」と言ったが……
+The other day I told you guys that
+some Calvalese want to change.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺は、あれから何も出来ていない。
+I haven't done anything since.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-君たちの役に立ちたいが、
-しょせん俺では……
+I wish I could help you, but I'm not...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-気にしないで下さい。
+Don't worry about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちは常に世界のどこかで
-戦っています。
+We're always fighting 
+somewhere in the world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ただ少し、心のすみで応援して
-もらえれば、俺たちはそれで充分です。
+If you can just be our moral support, 
+that's good enough for us.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-世界のどこか……？
+Anywhere in the world...?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-そうだ！
+That's right!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-実は、俺たちカルバレイス人の中には、
-他の大陸に隠れ、生活している人もいる。
+In fact, some of us Calvalese are hiding
+and living in other continents.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-その人たちなら、
-君たちに協力してくれるかもしれない。
+Those people might be able to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういう人たちがいるのか。
+Are there people like that?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺が知っている
-隠れカルバレイス人はひとりだけだ。
+There is only one hidden 
+Calvalese that I know of.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-その人はダリルシェイドで、
-道具屋をやっている。
+That person is in Darilshied, 
+and he runs the tool shop.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-きっと、手助けしてくれると思う。
-是非、行ってみてくれ。
+I'm sure they can help you.
+Please go and see them.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-俺が知っている人はダリルシェイドで、
-道具屋をやっている。
+That person is in Darilshied, 
+and he runs the tool shop.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-きっと、手助けしてくれると思う。
-是非、行ってみてくれ。
+I'm sure they can help you.
+Please go and see them.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -327,7 +323,7 @@ Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You must be the community Grandpa.
+You must be the Chatty Old Man.
 Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
@@ -355,8 +351,8 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-まだ、俺たち以外にも
-頑張っているカルバレイス人はいるのか！
+Are there still other Calvalese
+trying to make it besides us!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -365,8 +361,7 @@ I guess i did the opposite...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-これは、俺からの
-正真正銘の手助けだ。
+This is me genuinely helping.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -403,13 +398,13 @@ What're ya buyin?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you've no business here, get
-the fuck ou'of town. Our misery's
-not a fucking freak show.
+If you have no business here, get out
+of town. Our misery's not a freak show.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-……他にも必要な物があれば、いいな。
+...If there's anything else you
+need, I'd love to hear it.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -426,7 +421,7 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-There's no more <ITEM_009>...
+You don't have any more <ITEM_009>s...
 
 [ENDBLOCK]
 notice
@@ -461,8 +456,8 @@ Talk to me or the Shopkeeper.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-頑張ってくれよ。
-俺もここから応援しているからな。
+Good luck to you. I'll be 
+cheering you on from here.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -908,13 +903,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract

@@ -543,8 +543,8 @@ Girl
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-これは、前に占って
-もらった時のお礼ね。
+This is for the last time
+my fortune was told.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -763,7 +763,7 @@ Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You must be the community Grandpa.
+You must be the Chatty Old Man.
 Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
@@ -787,243 +787,244 @@ I see! Thank you!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-はぁ～、困ったわ……
+Ah, what a mess...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたんですか？
+What's the matter?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-実は、家で飼っている猫の
-健康状態が悪いみたいなの。
+Well,  my cat is not in good health.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-どうすればいいのかしら？
+What am I going to do?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですねぇ……
+Yeah...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、私の作ったお薬を
-お分けいたしますわ。
+I have some medicine that I'm
+happy to share with you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あなたが？
+Really?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そっか、<Philia>の薬品は
-すごい効果だからな！
+Oh, yeah. <Philia>'s medicines
+work wonders!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-それじゃあ、お願いしようかしら。
+Then, I must ask for some.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-本当に……大丈夫ですか？
+Are you sure...I can have it?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お・ま・か・せ！	ですわ。
+It's all yours!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、行きます！
+Well, let's go!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ちょ、ちょっとどういう事！
+Woah...hold on!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-だ、大丈夫ででですよ。
+It's fine, I assure you.
 [ENDBLOCK]
 <Philia>
-[ENDBLOCK]
-ささ、もう一度。
+Now, let's get...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ちょ、ちょっと！
+Wa....wait!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-だだだだ大丈夫ですよ。
+It's fine, I promise.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ささ、もう一度。
+Now, let's...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-さ、さあ、もう一歩ですわ。
+N...now, just one last bit...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-はぁ～、よかった。
+Oh, thank God.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-一時はどうなるかと……
+I was wondering what was going
+to happen for moment...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-え……
+Wha....
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当に<Philia>の薬品は
-すごいなぁ。
+I'm super impressed with your
+medicines, <Philia>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そ、そんな事は……
+It's...really not that impressive...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、この猫は、
-どのくらい健康になったの？
+So, how healthy will the cat be now?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-健康ってなんの事ですか？
+What do you mean by "healthy?"
 [ENDBLOCK]
 select
 [ENDBLOCK]
-子供たちを探すのをあきらめますか？
-はい
-いいえ
+Give up looking for the children?
+Yes
+No
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>噴水の中にコインが
-投げ入れられている。
+<TAG_005>A coin is tossed
+into the fountain.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-子供たちを探すのをあきらめますか？
-はい
-いいえ
+Give up looking for the children?
+Yes
+No
 
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-見つかっちゃった～。
+You've found me!
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、<Rutee>。
-何かいるかい？
+Hey, <Rutee>.
+Need anything?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-武器の手入れは怠るなよ。
+Don't neglect your weapons.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、<Rutee>。
-何かいるかい？
+Hey, <Rutee>.
+Need anything?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-武器の手入れは怠るなよ。
+Don't neglect your weapons.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ここの噴水は街のシンボルよ。
+This fountain is a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あら、その人たち、
-<Rutee>のお友達だったの。
+Oh, they are friends of <Rutee>.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ここの噴水は街のシンボルよ。
+This fountain is a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-空のあれ、空中都市っていうより、
-空中要塞という方が合ってそうね。
+That thing in the sky seems to be
+more of an aerial fotress
+than an aerial city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-街をモンスターに襲わせてるのも、
-空にいる連中なの？
+Are the people in the sky
+responsible for the monsters
+attacking the city?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-いつまた街の中に、
-モンスターが入ってくるか……
+Who knows when the monsters will
+invade our city again....
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Rutee>、あなたは昔から、
-絶対弱音をはかない子だったわね。
+<Rutee>, you have always been the
+kind of woman who never gives in.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あなたならなんとかしてくれると思う。
-よろしく頼むわね。
+I know that you will take care of it.
+I'm counting on you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-お願いします。<Rutee>を
-絶対に死なせないで。
+I beg you. Please don't 
+let <Rutee> die.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-夢とロマンを追い求め、
-やってきましたクレスタへ！
+Chasing my dreams and in search
+of romance, I've come to Cresta.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-何なんだよ、この状況。
-テンション下がるわ。
+What the hell is going on?
+It's making me depressed.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-勝利のコツは、
-相手をのんでかかる事さ。
+The secret to victory is to
+outsmart your opponent.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-ブーイングのひとつもかませばいい。
-ブーブーブー、奴らはびびってる～！
+Give them a good booing. Boo-boo,
+they are terrified~!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街外れの子供がたくさんいる家、
-あれ、いつまであるんだろう。
+A house full of children on the
+outskirts of town. I wonder how
+long that will be there.
 
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-確か借金がかさんで、
-立ち退きを迫られてたって聞いたけど。
+I heard that they were going to
+be evicted because they had
+accumulated a lot of debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -1032,14 +1033,16 @@ Young Person
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街外れの子供がたくさんいる家、
-あれ、いつまであるんだろう。
+A house full of children on the
+outskirts of town. I wonder how
+long that will be there.
 
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-確か借金がかさんで、
-立ち退きを迫られてたって聞いたけど。
+I heard that they were going to
+be evicted because they had
+accumulated a lot of debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]

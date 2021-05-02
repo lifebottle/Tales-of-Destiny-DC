@@ -8,26 +8,30 @@ No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>光の中に文字が浮かび上がっています。
-読みますか？
-読む
-読まない
+<TAG_007>The letters are floating in the light.
+Do you want to read it?
+Read
+Don't Read
 [ENDBLOCK]
-<TAG_007>神の門は再び開かれた……
+<TAG_007>The gates of God have
+been opened again...
 [ENDBLOCK]
-<TAG_007>天地神明の言霊を記した石板あり。
-舞い降りし四人の使徒が奪い合い、
-互いに譲らず地上へ落ちる。
+<TAG_007>There is a stone tablet with the words of
+Tenchi Shinmei. The four apostles who 
+descended from Heaven and fought for
+it and fell never having wavered.
 [ENDBLOCK]
-<TAG_007>天、地、神、明の四つに割れし石板。
-本来の姿を取り戻し、天より貫く光を受ける時
-閉ざされていた、神の門が再び開かれん。
+<TAG_007>A stone slab split into four parts: Heaven, 
+Earth, God, and Light. When it regains its
+original form and receives the piercing 
+light from the heavens, the closed gate 
+of God will be opened again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_007>扉は固く閉ざされている。
+<TAG_007><TAG_007>The door was tightly closed.
 [ENDBLOCK]
 ●●●赤ルートの描画制御を実行します●●●
 
@@ -45,8 +49,8 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>紋章の封印が解け、
-扉が開きました。
+<TAG_007>The seal on the sigil was
+broken and the door has opened.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

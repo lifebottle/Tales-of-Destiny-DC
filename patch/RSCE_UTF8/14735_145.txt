@@ -1,265 +1,257 @@
 select
 [ENDBLOCK]
-<TAG_007>合流しますか？
-はい
-いいえ
+<TAG_007>Do you want to join them?
+Yes
+No
 
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、気付いた事が
-あるんだけどいいかな？
-
+You know, I've realized something
+here, if you don't mind.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-たぶん、あの台座は
-ふたつ同時に踏むんじゃないかな。
-
+Maybe we should step on two of 
+those pedestals at the same time.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ここは二手に分かれて、
-やってみよう。
+Let's split up here and give it a go.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あのさ、あたしなんとなく
-分かっちゃった。
+Oh, I get it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-たぶん、あの台座はふたつ同時に
-乗るのよ。
-
+Maybe two of those pedestals 
+should be on at the same time.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-とにかく、やるだけやってみましょ。
+Anyway, let's just do it.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Um, I have an idea, 
+if you don't mind.
 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、ひとつ思いついたのですが、
-よろしいでしょうか？
-
+This is one possibility, but wouldn't
+they stand on those two pedestals at
+the same time?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-これはひとつの可能性ですが、
-あのふたつの台座に、同時に乗るのでは？
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-自信はありませんが、
-やってみる価値はあると思います。
+I'm not sure, but I think it's worth a try.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-台座がふたつある事に、
-この謎を解くカギがあると思うのだ。
+I think the key to solving this
+mystery lies in the fact that 
+there are two pedestals.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ふたつ同時に乗ってみるというのは、
-どうだろうか？
+How about standing on both 
+of them at the same time?
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-とにかく、やれる事を
-やってみよう。
+Anyway, let's do what we can.
 
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-みんな、ひとついいか？
+Guys, can I have one thing?
 
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-あくまでも、これは私の勘でしか
-ないが。
+This is just my hunch, though.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-同時に、ふたつの台座に
-乗ってみてはどうだろうか？
+Why don't we try to get on two 
+pedestals at the same time?
 
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-以前、<Rutee>が掛かった罠にも、
-同時にスイッチを押すものがあった。
+The trap that <Rutee> was trapped
+in before also had a switch that was
+pressed at the same time.
 
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-とにかくやってみよう。
+Let's do it anyway.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの、私なりに思った事を
-お伝えしますね。
+Um, I'll tell you what I think.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-もしかしたらですけど、ふたつの
-台座に乗ってみてはどうでしょうか？
+Perhaps, though, you could try
+standing on the two pedestals.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-もしそれで、何か起これば、
-それこそ「一挙両得」です。
+If something happens to it,
+it's a "win-win" situation.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-……アレ？
-何か違いますか……？
+...What?
+What's the difference...?
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっはっは。
-分かったぜ！
+Ha-ha-ha-ha.
+I get it!
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>さん。
-私は気付いてしまったのです。
+<Philia>.
+I've noticed.
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-私の思考が導き出した答え、
-それは……
+After thinking about it, 
+I've come to the conclusion....
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-同時に、ふたつの台座に乗る、
-という事です。
+It means getting on both 
+pedestals at the same time.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-恐らく、これで先に
-進めるはずです。
+Perhaps we can move on now.
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-さあ、<Philia>さんは私と一緒に。
+Come on, <Philia>, you're with me.
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……おら！	他のやつらはとっとと、
-反対に行きやがれ！
+Hey! The rest of you, get off 
+your arses and get going!
 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ひとつ思いついた事があるんだが、
-いいかな。
+I've got an idea, 
+if you don't mind.
 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さっき、俺があの台座に乗った時、
-反対側も光っていただろ？
+Earlier, when I was on that pedestal, 
+the other side was glowing too, right?
 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-だったら、反対側の台座にも、
-同時に乗ってみるのはどうかな？
+So, why don't we get to the other
+side and step the pedestals at the
+same time?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-やってみるだけ、やってみようぜ。
+Let's just try it.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Stahn>と<Woodrow>がそれぞれ、
-Ａチーム、Ｂチームの
-チームリーダーとなります。
+<TAG_007><Stahn> and <Woodrow>
+will be the leaders of Party A and
+Party B, respectively.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>その他のキャラクターを、
-Ａチーム、Ｂチームとして
-割り振ってください。
+<TAG_007>Assign the other characters
+as Party A and Party B.
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Stahn>	（リーダー）
+<yellow>Party A <Stahn> (Leader)
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Rutee>
+<yellow>Party A <Rutee>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Rutee>
+<turquoise>Party B <Rutee>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Philia>
+<yellow>Party A <Philia>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Philia>
+<turquoise>Party B <Philia>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Woodrow>	（リーダー）
+<turquoise>Party B <Woodrow> (Leader)
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Lion>
+<yellow>Party A <Lion>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Lion>
+<turquoise>Party B <Lion>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Mary>
+<yellow>Party A <Mary>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Mary>
+<turquoise>Party B <Mary>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Chelsea>
+<yellow>Party A <Chelsea>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Chelsea>
+<turquoise>Party B <Chelsea>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Johnny>
+<yellow>Party A <Johnny>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Johnny>
+<turquoise>Party B <Johnny>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Kongman>
+<yellow>Party A <Kongman>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Kongman>
+<turquoise>Party B <Kongman>
 
 [ENDBLOCK]
-<yellow>Ａチーム	<Lilith>
+<yellow>Party A <Lilith>
 
 [ENDBLOCK]
-<turquoise>Ｂチーム	<Lilith>
+<turquoise>Party B <Lilith>
 
 [ENDBLOCK]
 <red>エラー
 
 [ENDBLOCK]
-パーティ分割
+Party Splitting
 [ENDBLOCK]
-パーティをふたつに分割してください。
+Split the party into two.
 [ENDBLOCK]
 <TAG_007><S15>																								
 	
@@ -290,69 +282,69 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Stahn>はＡチームリーダーです。
+<TAG_007><Stahn> is the leader for party A.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺はＡチームにいないとな……
+I should be in party A...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Woodrow>はＢチームリーダーです。
+<TAG_007><Woodrow> is the leader for party B.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Ｂチームの事は任せてくれたまえ。
+I'll take care of party B.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-おっけー、任せておいて。
+Okay, I got it.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-わかりましたわ。
+I understand.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-こっちのチームだな、了解したぞ。
+That's our party. Got it.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-道化の<Johnny>、ここに推参。
+Here comes the jester, <Johnny>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Chelsea>が嫌がっています。
+<TAG_007><Chelsea> doesn't like it.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまと一緒がいいですぅ。
+I want to be with you, <Woodrow>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様に万事任せておけい！
-ガハハハハ！
+I'll take care of everything!
+Ga-ha-ha-ha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><Lilith>は<Stahn>に付いていくようです。
+<TAG_007><Lilith> seems to be following <Stahn>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-わたしが付いてないとダメなんだから……
+I'm the one who has to stay with you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>各チームに少なくとも
-ひとりを入れてください。
+<TAG_007>Please include at least 
+one person in each party.
 [ENDBLOCK]
-<TAG_007>パーティを分割しました。
+<TAG_007>Split the party.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>一度戻りますか？
-はい
-いいえ
+<TAG_007>Would you like to go back?
+Yes
+No
 [ENDBLOCK]
 Party
 [ENDBLOCK]

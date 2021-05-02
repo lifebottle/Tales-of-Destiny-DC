@@ -103,7 +103,7 @@ Sis, where are you going?
 Daughter
 [ENDBLOCK]
 Why is everyone hurt?
-Who did this to you?
+Who did this to them?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
@@ -321,12 +321,12 @@ but their clothes on.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-Oh, there he is! That's the monk
-<Woodrow> picked up before!
+Ah, well now! If it isn't the boy
+<Woodrow> found a while back!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Alba> You're the teacher!
+Is that you, Master <Alba>?
 What are you doing here?
 [ENDBLOCK]
 <Alba>
@@ -336,7 +336,7 @@ you help <Woodrow> and <Chelsea>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's the situation?
+What's going on?
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -350,7 +350,7 @@ They're still in the forest on the way!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Who's <Woodrow>?
+<Woodrow>...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -867,13 +867,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -985,20 +985,20 @@ Oh, you're ......?
 select
 [ENDBLOCK]
 <TAG_007>What is it?
-(...... ignore ......)
+(...Just ignore her...)
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-That's a girl, right?
+You're a girl, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What the hell?	Say that
-again. See what happens...
+What was that?! Say that
+again, see what happens...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Oh, God, I'm sorry. I'm sorry.
+Eeek! I'm sorry. I'm sorry!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1011,8 +1011,8 @@ by the name of <Lion>?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I've only seen your face
-from a distance once.
+I've only seen his face
+from a distance, once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1021,22 +1021,23 @@ and I adore him.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-She has such a small body, yet she's
-so graceful on  the battlefield 
+He's got such a small body, yet he's
+so graceful on the battlefield 
 with all those strong men in tow.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-That's why I call you Sir, <Lion>.
+So I've come up with the
+perfect title for Sir <Lion>.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-It's called "The Rose of Seinegald.
+"The Rose of Seinegald."
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I'm the same woman.
-If you're Sir, <Lion>.
+I may be a girl, but if
+it was Sir <Lion>, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
