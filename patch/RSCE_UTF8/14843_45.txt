@@ -14,119 +14,121 @@ Step up
 [ENDBLOCK]
  
 [ENDBLOCK]
-陛下の太鼓で遊ぶ
+Play His Majesty's Drums
 [ENDBLOCK]
 <x18><x20><x08><x95><x01><x00><x80><x18><x25><x7A><x08><x19><x02><x00><x80>
 <x18><x21><x08><x95><x01><x00><x80><x18><x25><x29><x08><x19><x02><x00><x80>
 <x18><x24><x02><x08><x95><x01><x00><x80><x18><x25><x28><x08><x19><x02><x00><x80>
 <x18><x24><x03><x08><x95><x01><x00><x80><x18><x25><x27><x08><x19><x02><x00><x80>
-戻る
+Return
 
 [ENDBLOCK]
-遊び方
+How to Play
 [ENDBLOCK]
-陛下の太鼓とは
-操作方法
-曲について
-モード変更について
-戻る
+What is His Majesty's Drums
+Controls
+Song Selection
+Change Modesについて
+Return
 
-[ENDBLOCK]
-
-[ENDBLOCK]
-陛下の太鼓で遊ぶ
-遊び方
-モード変更
-やめる
-[ENDBLOCK]
-モード変更
-[ENDBLOCK]
-難易度を決めます
-	簡	単	
-	普	通	
-	困	難	
 [ENDBLOCK]
 
 [ENDBLOCK]
-選べない曲を
-選びました。
+Play His Majesty's Drums
+How to Play
+Change Modes
+Quit
+[ENDBLOCK]
+Change Modes
+[ENDBLOCK]
+Select your difficulty level
+	Easy	
+	Normal
+	Hard	
+[ENDBLOCK]
 
 [ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-「陛下の太鼓」とは、音楽に合わせて
-太鼓をたたくゲームです。
-[ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-はじめに「曲を選ぶ」を選択して、
-次に遊びたい曲を選択して下さい。
-[ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-ゲームが始まると、画面中央付近の枠の中に、
-三色のレンズが右から左へと流れていきます。
+You have chosen a song that
+is currently unavailable.
 
 [ENDBLOCK]
-陛下の太鼓とは
+What is His Majesty's Drums
+[ENDBLOCK]
+"His Majesty's Drums" is a rhythm
+game where you strike the drum
+with the music.
+[ENDBLOCK]
+What is His Majesty's Drums
+[ENDBLOCK]
+First, select "Song Selection,' then
+select the song you want to play.
+[ENDBLOCK]
+What is His Majesty's Drums
+[ENDBLOCK]
+While play, three colored lens will
+scroll from the right to the left
+within a frame near the center of
+your screen.
+[ENDBLOCK]
+What is His Majesty's Drums
 [ENDBLOCK]
 レンズは右側の青い印の場所から出現します。
 対称地点にある灰色の印と、右から来たレンズが
 重なった時、対応するボタン操作をして下さい。
 [ENDBLOCK]
-陛下の太鼓とは
+What is His Majesty's Drums
 [ENDBLOCK]
 成功すると、右上のゲージがたまっていきます。
 逆に失敗すると、レンズがその場で消えます。
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
 赤レンズ(ドン)：<Left_blink> または <Circle_ani>
 青レンズ(カツ)：<L1_ani> または <R1_ani>
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
 大きい赤レンズ(ドン)：<Left_blink> と <Circle_ani> を同時
 大きい青レンズ(カツ)：<L1_ani> と <R1_ani> を同時
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
 黄レンズ(連打)：カツ、ドン連打
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
 曲が始まってからは、<Select_ani>でタイトル画面に
-戻る事ができます。
+Return事ができます。
 [ENDBLOCK]
-曲について
+Song Selection
 [ENDBLOCK]
 始めに選択できる曲は、二曲です。
 これらをクリアする事で
 曲が増えていきます。
 
 [ENDBLOCK]
-曲について
+Song Selection
 [ENDBLOCK]
 なおクリアした曲名には、
 <yellow>★</color>マークが付きます。
 
 [ENDBLOCK]
-モード変更について
+Change Modesについて
 [ENDBLOCK]
 ゲーム開始時は「簡単」に設定されています。
 「簡単」の場合は「赤レンズ」しか出てきません。
 
 [ENDBLOCK]
-モード変更について
+Change Modesについて
 [ENDBLOCK]
 「普通」に設定すると、
 「赤レンズ」の他に「青レンズ」や「黄色レンズ」が
 出てきます。
 [ENDBLOCK]
-モード変更について
+Change Modesについて
 [ENDBLOCK]
 「困難」に設定すると、
 これまでのレンズの他に、「大きいレンズ」が
