@@ -39,12 +39,11 @@ are still out flying around"
 <Stahn>
 [ENDBLOCK]
 You want me to use the Draconis
-to find out? Is that okay?
+to count? Really?
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-That's right. How about it? Could you
-help me?
+Correct. Well, Could you help me?
 <TAG_007>Yes
 No
 [ENDBLOCK]
@@ -54,7 +53,7 @@ Well, that's too bad.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
-About the bird count. You'll do it?
+Will you help count birds?
 Yes
 No
 [ENDBLOCK]
@@ -116,18 +115,18 @@ yet to be researched. Look for them.
 Researcher
 [ENDBLOCK]
 Did you understand everything?
-If you ever like to hear it again or 
+If you want to hear it again or 
 have finished your research please
 come and see me.
 [ENDBLOCK]
 Researcher.
 [ENDBLOCK]
-Well, I look forward to working with you.
+I look forward to working with you.
 [ENDBLOCK]
 Researcher
 [ENDBLOCK]
 How's the research going?
-Report my findings
+Report findings
 View the research manual
 Rumor about a giant bird 
 Do nothing.
