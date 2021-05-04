@@ -308,27 +308,26 @@ I'll be waiting.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うぉ～～んうぉ～～ん。
+Ooooh...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様のバカバカ！
-あれじゃ<Philia>さんに嫌われ
-ちまうだろっ！
+I'm such an idiot! That'll 
+make <Philia> hate me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうして駆け引きだなんて
-考えちまったんだ。
+I don't know why I thought 
+it was a bargain.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、あの<Kongman>さん
-私あなたの事勘違いしてました……
+Oh, uh, Mr. <Kongman>, 
+I was wrong about you...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-やっぱり怒ってるーー！
+I knew he was angry!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -708,8 +707,8 @@ announcing the second game!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当ですか!?
-早く、遊ばせて下さいよ！
+Are you sure?
+I can't wait to fight you!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -756,7 +755,7 @@ Not now.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-チャンプ・<Lilith>が占拠中です。
+The champ <Lilith>.
 Will you please stop her, Master <Stahn>.
 Yes
 No
@@ -868,7 +867,7 @@ Information Desk
 You'd better say your goodbyes
 to your family now.
 [ENDBLOCK]
-ディフィニットモード
+Definte Mode
 
 [ENDBLOCK]
 ENTER DEFINITE MODE!!!
@@ -921,28 +920,28 @@ SET_STRINGS ENDDDDDDD
 [ENDBLOCK]
 
 [ENDBLOCK]
-ランク１
+Rank １
 
 [ENDBLOCK]
-ランク２
+Rank ２
 
 [ENDBLOCK]
-ランク３
+Rank ３
 
 [ENDBLOCK]
-ランク４
+Rank ４
 
 [ENDBLOCK]
 ？？？？？
 
 [ENDBLOCK]
-ランク５
+Rank ５
 
 [ENDBLOCK]
-ランク６
+Rank ６
 
 [ENDBLOCK]
-ディフィニットモード
+Definte Mode
 
 [ENDBLOCK]
 Return to previous
@@ -1008,7 +1007,7 @@ IN arena_btl_prepare
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-ご武運を。
+Good luck.
 
 [ENDBLOCK]
 FINISH arena_btl_prepare
@@ -1213,18 +1212,18 @@ Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-急遽、<Kongman>の試合が
-組まれたみたいだぜ。
+It looks like a <Kongman> match
+has been hastily arranged.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-噂じゃチケットは
-一瞬で完売だってよ。
+Rumor has it that the tickets
+sold out in an instant.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-少しでも<Kongman>の
-体力を減らしてくれよ。
+You need to knock <Kongman> 
+down a few notches.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1237,8 +1236,8 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-<Kongman>を見つけたら、
-次こそは勝負を挑んでやる！
+The next time I see <Kongman>, 
+I'm going challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1247,8 +1246,8 @@ Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-少しでも<Kongman>の
-体力を減らしてくれよ。
+You need to knock <Kongman> 
+down a few notches.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1261,8 +1260,8 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-<Kongman>を見つけたら、
-次こそは勝負を挑んでやる！
+The next time I see <Kongman>, 
+I'm going challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]

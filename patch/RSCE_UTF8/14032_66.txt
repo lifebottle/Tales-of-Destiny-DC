@@ -867,7 +867,7 @@ Information Desk
 Information Desk
 [ENDBLOCK]
 <TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>Are you sure you want to join us?
-Yes
+ディフィニットモード
 No
 
 [ENDBLOCK]
@@ -920,7 +920,7 @@ Rank 6
 [ENDBLOCK]
 Definite Mode
 
-[ENDBLOCK]
+Rank
 Previous
 
 [ENDBLOCK]
@@ -1214,18 +1214,18 @@ Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-急遽、<Kongman>の試合が
-組まれたみたいだぜ。
+It looks like a <Kongman> match
+has been hastily arranged.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-噂じゃチケットは
-一瞬で完売だってよ。
+Rumor has it that the tickets
+sold out in an instant.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-少しでも<Kongman>の
-体力を減らしてくれよ。
+You need to knock <Kongman> 
+down a few notches.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1238,8 +1238,8 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-<Kongman>を見つけたら、
-次こそは勝負を挑んでやる！
+The next time I see <Kongman>, 
+I'm going challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1248,8 +1248,8 @@ Hmm, I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-少しでも<Kongman>の
-体力を減らしてくれよ。
+You need to knock <Kongman> 
+down a few notches.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1262,28 +1262,29 @@ Challenger
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-<Kongman>を見つけたら、
-次こそは勝負を挑んでやる！
+The next time I see <Kongman>, 
+I'm going challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-俺たち、こんなところで
-騒いでる場合なのかな？
+Should we really be 
+making a fuss here?
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-どんな状況でもここは活気を失わない。
-大したものだと思わないか？
+No matter what the situation, this place
+never loses its appeal. That's a deal,
+don't you think?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-こちらは控え室となります。
-関係者以外はご遠慮ください。
+This is the waiting room. Please
+refrain from using it unless you 
+are a competitor.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-この先は観客席と
-なっております。
+Beyond this is a spectator area.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -1297,8 +1298,7 @@ got to be kidding me.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-この先は観客席と
-なっております。
+Beyond this is a spectator area.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -1312,8 +1312,8 @@ got to be kidding me.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-最後のチケットを手に入れたの！
-私ってホントについてるわ！
+I got the last ticket!
+I'm so lucky!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1353,22 +1353,22 @@ Poor Woman
 [ENDBLOCK]
 Poor Woman
 [ENDBLOCK]
-残念ながら足りてないウサよ。
+Unfortunately, it's not enough.
 
 [ENDBLOCK]
 Poor Woman
 [ENDBLOCK]
-残念ながら持てないウサね。
+Unfortunately, you can't have it.
 
 [ENDBLOCK]
 Poor Woman
 [ENDBLOCK]
-毎度ありウサね。
+There's always a Usa.
 
 [ENDBLOCK]
 Poor Woman
 [ENDBLOCK]
-残念ウサね。
+Sorry, Usa.
 
 [ENDBLOCK]
 notice
