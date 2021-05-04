@@ -652,8 +652,8 @@ was very faithfully reproduced.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-（遊んでいなかったみたいだけど
-……まあいいか。）
+{Looks like he wasn't fighting.
+...Oh well.)
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -697,13 +697,14 @@ Well, It's a big hit.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-今や、闘技場と遊戯目当ての人が、
-半々くらいの割合だからね。
+Nowadays, it's an even split between
+people who want to fight seriously and
+those who want to fight for fun.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-そこで大好評につき、
-第二弾遊戯の発表だ！
+So, due to popular demand, we're 
+announcing the second game!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -712,59 +713,58 @@ Technician
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-それじゃ、いつもの行くよ！
+Okay, I'll go with the usual!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-スイッチ、オーーン！
+Switch, oh yeah!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すごく面白かったです。
+That was very interesting.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-（遊んでいなかったみたいだけど
-……まあいいか。）
+{Looks like he wasn't fighting.
+...Oh well.)
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-それはありがとう。
+Thanks for that.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-なんてったって、太鼓指導は
-<Fayte>・モリュウさん。
+After all, the drumming instructor
+is <Fayte> Moreau.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-キャラクターデザインは、
-<Darzen>さんだからね。
+The character design is by
+<Darzen>, you know.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-これからは、
-「ウィアードショット」＆
-「陛下の太鼓」を共々よろしく！
+I look forward to working with you on
+"Weird Shot" and "Your Majesty's Drum"!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-どっちで遊ぶ？
-ウィアードショット
-陛下の太鼓
-いまはいいや
+Which would you like to play?
+Weird Shot
+His Majesty's Drum
+Not now.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
 チャンプ・<Lilith>が占拠中です。
-<Stahn>様止めてください。
-はい
-いいえ
+Will you please stop her, Master <Stahn>.
+Yes
+No
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-いらっしゃいませ。ここは、
-参戦ご希望の方の受付となります。
+Welcome. This is the reception area 
+for those who wish to participate.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
@@ -776,77 +776,78 @@ Nothing
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-いつでもお待ちしています。
+We are always waiting for you.
 
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-はじめに戦闘をご希望する場合は、
-私に話し掛けて「挑戦する」と
-お申し付けください。
+If you wish to engage in more difficult
+combat at the beginning, please speak
+to me and ask for a challenge.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-その際、戦いに参加できるのは
-おひとり様のみ、となります。
+In this case, only one person can 
+participate in the battle.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-戦闘中に使用できるアイテムは、
-こちらでお渡しするものだけです。
+The only items you can use in 
+battle are the ones we give you.
 
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-お渡しするのは、
-次の４種類のアイテムとなります。
+The following four items
+will be given to you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>アップルグミ				３個
-ピーチグミ					１個
-バクチグミ					１個
-パナシーアボトル		１個
+<x0E><x01><x00><x00><x00>Apple Gels				３
+Peach Gel					１
+Gamble Gel					１
+Panacea bottle		１
 
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-戦闘終了後、余ったアイテムは
-全てご返却頂きます。
+After the battle, you will be asked
+to return all excess items.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-あと、参加可能な闘技場ランクですが、
-これはご自身の闘技場の実績で変化します。
+Also, the arena rank that you
+can participate in depends on
+your arena achievements.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-戦闘でもしも負けてしまった場合には、
-責任をもって治療いたしますので、
-安心してご参加下さい。
+If you are defeated in battle, we
+will take care of your treatment,
+so please do not worry.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-私がご説明できるのはここまでです。
-後は、実践してお確かめ下さい。
+That's all I can tell you. After that,
+please practice and see for yourself.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-ひとつアドバイスしますと、
-ここでの戦闘はいつ終わるとも
-分からない、連続戦闘です。
+One piece of advice is that the battles
+here are continuous, and you never 
+know when they will end.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-攻撃も大事ですが、防御を含めた
-総合的な戦い方を要求されます。
-それでは、頑張ってください。
+Attacking is important, but a fighting
+style that includes defense is required.
+So, good luck to all of you.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>もう一度聞きますか？
-はい
-いいえ
+<TAG_007>Do you want to hear it again?
+Yes
+No
 
 [ENDBLOCK]
 IN arena_selection
@@ -854,18 +855,18 @@ IN arena_selection
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>どのランクに挑戦しますか？
+<TAG_007>Which rank do you want to challenge?
 <x18><x65><x58><x8C><x00><x80>
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-ここからは、生死を賭けた
-真剣勝負です。
+From here on, it's a serious 
+fight of life and death.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-一度、ご家族に会って
-おいた方がいいですよ。
+You'd better say your goodbyes
+to your family now.
 [ENDBLOCK]
 ディフィニットモード
 
@@ -882,16 +883,16 @@ IN arena_player_sel
 Information Desk
 [ENDBLOCK]
 <TAG_007>誰が挑戦しますか？
-<x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>前に戻る
+<x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>Return to previous
 [ENDBLOCK]
 ----select <x18><x45><x58><x98><x07><x69><x47><xC4><x21><x8C><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
 
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>にご参加でよろしいですか？
-はい
-いいえ
+<TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>Are you sure you want to join us?
+Yes
+No
 
 [ENDBLOCK]
 OUT arena_player_sel
@@ -944,7 +945,7 @@ SET_STRINGS ENDDDDDDD
 ディフィニットモード
 
 [ENDBLOCK]
-前に戻る
+Return to previous
 
 [ENDBLOCK]
 <x18><x65><x58><x44><x00><x80><x18><x65><x58><x48><x00><x80><x18><x65><x58><x4C><x00><x80><x18><x65><x58><x50><x00><x80><x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80><x18><x65><x58><x5C><x00><x80><x18><x65><x58><x60><x00><x80>
