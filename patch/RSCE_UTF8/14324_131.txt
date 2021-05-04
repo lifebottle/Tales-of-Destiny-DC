@@ -1,308 +1,320 @@
 <Darzen>
 [ENDBLOCK]
-殿下、休まれますか？
-はい
-いいえ
+Your Highness, would
+you like to rest?
+Yes
+No
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-皆様、お休みになられますか？
-はい
-いいえ
+Will everyone be resting?
+Yes
+No
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-グレバムの手先のモンスターには
-全部の能力を下げてくる輩もおります。
+Some of <Greybum>'s monsters will
+reduce all of your abilities.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-決して油断してはなりませぬぞ。
+Don't let your guard down.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-私は街で武具屋をやっていたものです。
-必要なものがあれば言って下さい。
+I used to sell Weapons in the city.
+If you see anything you'd like, 
+just let me know.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-店のものを少しだけ持って来ました。
-必要でしたらどうぞ。
+I've brought some things from
+the store. Feel free to use them if 
+you need them.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-こんな時になんですが……
+What a time to be here.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-いらっしゃいませ。
-ご用件はなんでしょう？
+Welcome. What can
+I do for you?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ダーゼンさまがここに
-連れてきてくれたんだ。
+Mr. <Darzen> brought me here.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-彼と一緒になんとか
-逃げる事ができました。
+He and I managed to escape.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-でも、別々に逃げた家族が心配です。
-無事でいてくれればいいのですが……
+But I'm worried about my family who
+fled separately. I hope they are safe. 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ここにいる人たちは
-グレバムに反抗した人々です。
+The people here are the ones
+who rebelled against <Greybum>.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Woodrow>様、どうか
-元の平和な街を取り戻してください。
+Dear <Woodrow>, please restore the
+city to its former peaceful state.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-皆さん、どうか
-元の平和な街を取り戻してください。
+Everyone, please restore the city
+to its former peaceful state.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-いくら殿下たちでも
-空腹には勝てませんよ。
+No matter how many royalty
+there is, you can't fight hunger.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-<Greybum>のせいで、
-城下の人間は恐怖に怯えております。
+Because of <Greybum>, the people
+in the castle are terrified.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-奴め、どうやって大量のモンスターを、
-操っておるのか。
+How does he control 
+so many monsters?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-神の眼か……
+The Eye of Atamoni.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-それにしても情けないのは、
-反乱軍の連中です。
+Still, it's us, the rebels 
+who are the most shameful.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-国を変えたいだのなんだのと言って、
-結局は<Greybum>の尻馬に乗っただけ。
+He said he wanted to change the
+country, and in the end we bought
+into everything <Greybum> was selling.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-今や奴の言いなりとなって、
-街で非道を尽くすありさまですぞ！
+Now we're at his mercy, committing
+atrocities in the streets!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-バカな……<Dalis>がそんな事を、
-許すはずがない！
+Stupid ......<Dalis> would never
+allow that to happen!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おぬし……なぜあの男の肩を持つ？
+why do you still stand 
+by that man?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-気にしなくていいわ。
-話を続けて。
+Don't worry about it.
+Keep talking.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-やはり前陛下のご判断は正しかった。
+After all, His Majesty's 
+decision was correct.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-王家を脅すような不敬な奴らは、
-征伐するのが当然だったのだ。
+It was only natural to conquer those
+who were impious enough to threaten
+the royal family.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-王家を脅す、とは？
+What do you mean, threaten
+the royal family?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おや、殿下はご存知ありませんでしたか。
+Oh, your highness didn't know?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-二年前、サイリルの一党が訪れ、
-前陛下に独立を要求したのです。
+Two years ago, a party from Cyril
+was here demanding independence 
+from his former Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-断るなら武力闘争も辞さずと。
-ごう慢にも程があるというものです。
+If you refuse, you will have to resort
+to armed struggle. This is no way to 
+be arrogant.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-なんだって……
+What?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうだったのか……
+I didn't know that.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-それで王家の軍が、
-サイリルに派遣されたのだな。
+So the royal army was sent to Cyril.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-武力闘争など持ち出せば、
-そうなるのは当然だ。
+They threatened an uprising.
+It's only natural that he'd do that.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-バカな……
-<Dalis>がそんな事を……？
+Impossible...
+<Dalis> wouldn't do such a thing.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Greybum>は今、城内のどこにいる？
+Where in the castle
+is <Greybum> now?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おそらく時計塔でしょう。
-よく姿が目撃されております。
+He is often seen in the tower.
+That's probably where he is.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあ、<Dalis>も？
+And <Dalis>?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-当然、そばにいるだろう。
-今や<Greybum>の、腹心も同然だからな。
+Of course he'll be around. 
+He's almost like a confidant
+of <Greybum> now, you know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-目指す場所はただひとつか……
+Is there only one place to go?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-わからない……
-<Dalis>が何を考えていたのか……
+I don't know. I wonder what 
+<Dalis> was thinking.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-わたしは彼の事を、
-本当は何も知らなかったのか……？
+Did I really know
+nothing about him?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>、気をしっかり持ちなさい。
-ここまで来たら、真実を見極めるのよ。
+<Mary>, hold your ground. You've
+come this far, you've got to find
+out the truth.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-大丈夫、あたしがついてるわ。
+Don't worry, I'm here for you.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-あ、ああ……
+Oh, yeah.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-行くしかあるまい。
+We have to go.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだな。決着をつけよう！
+Yes, you're right. Let's settle this!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-もし<Dalis>が、本当に、
-<Greybum>に加担しているのだとしたら……
+If <Dalis> is, indeed, complicit 
+with <Greybum>, then...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-その時は……
+At that time, please go.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Darzen>、亡くなった我が父は、
-おまえから見て、どのような方だった？
+<Darzen>, what was my late father
+like from your point of view?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-賢王の名にふさわしい、
-立派な君主であらせられました。
+He was a splendid monarch, worthy
+of the name "Wise King.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-常に国全体の事にお考えを巡らせ、
-的確で、時には果断なご決断をなさる。
+He was always thinking about the
+country as a whole, and made precise
+and sometimes decisive decisions.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-そのなさりようには、一度として、
-間違いはありませんでした。
+There was never, ever a mistake
+in the way he did things.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうか……
+Okay.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-殿下、国民の期待は、
-今や殿下にかかっております。
+Your Highness, the expectations
+of the people now rest on you.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-<Greybum>めを成敗した暁には、
-速やかにご即位くださいませ。
+When you have defeated <Greybum>,
+please accede to the throne as soon
+as possible.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私は……何も知らなかった。
-それがどれ程罪深い事か……
+I didn't know anything about it.
+How sinful that is.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そんな私に、父の後を担う資格が、
-あるのだろうか……
+I wonder if I'm qualified to 
+take over from my father. 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さま……？
+<Woodrow>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ、すまない。今行く。
+Oh, I'm sorry. I'm coming.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-家族か……
+Family...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-どうしたんですか？
+Is something wrong?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こんな所で何してんのよ。
-ほら、さっさと来なさい。
+What are you doing there?
+Come on, get your butt over here.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、わかった。
+Yeah, fine.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……この任務が終われば、
-あいつとも、もう会う事はないのだろうな……
+I guess I won't be seeing him 
+again once this mission is over.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

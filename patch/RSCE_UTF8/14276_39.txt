@@ -465,62 +465,63 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-体の方はもう良さそうだな。
+Looks like you're taking good
+care of yourself.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-君はあの時<Woodrow>たちと
-共にいた少年か。
+You're that boy who was
+with <Woodrow> back then.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion>・マグナスだ。
+I'm <Lion> Magnus.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Lion>か。良い名だ。
+<Lion>, is it? A good name.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-そうだ。まだ言って
-いなかったな、<Lion>。
+That's right. I still
+haven't told you, <Lion>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-罪に問われていた<Mary>を
-見逃してくれた事、感謝している。
+Thank you for letting <Mary>
+off the hook for her crimes.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-それに……
+And also.....
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-ファンダリアを
-救ってくれた事もだ。
+And also for saving Phandaria.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-たまたま僕の任務成功に
-付いてきただけだ。
+That was just a coincidence.
+You know I was after <Greybum>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-それでも同じ事だ。
-感謝している。
+Still, I'm grateful
+all the same.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-ありがとう。
+Thank you.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-そうだ。<Mary>が
-家にいるはずだ。
+Also, <Mary> should
+be at home.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-是非、会ってやってくれ。
+Make sure to
+pay her a visit.
 [ENDBLOCK]
 CYRI_CAMERA_SIGHT = ON
 
@@ -530,148 +531,151 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>そびえる雪山の向こうが
-セインガルドなのだろうか。
+<TAG_005>You wonder if Seinegald is just beyond
+these towering snowy mountains.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-いい武器がそろってるよ。
-ゆっくり見ていってくれ。
+I've got some good weapons
+lined up here. Check them out.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-いい武器がそろってるよ。
-ちゃっちゃと見ていってくれ。
+I've got some good weapons
+lined up here. Check them out.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-いい武器がそろってるよ。
-ゆっくり見ていってくれ。
+I've got some good weapons
+lined up here. Check them out.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-いい武器がそろってるよ。
-ちゃっちゃと見ていってくれ。
+I've got some good weapons
+lined up here. Check them out.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-イザーク王はこの街にとっては敵よ。
-死んでくれて清々したわ。
+King Isaac is an enemy to this town's
+people. I'm quite relieved he's dead.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-新しい王様は、この街の事を、
-きちんと考えてくれるかしら？
+I wonder what the new King
+will think of this town.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あっ……！	へ、陛下……
+Ah.....! Y-your Majesty.....
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-陛下、事情を説明してください。
-何が起こっているんですか？
+Your Majesty, Please explain the
+situation. What is happening?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-大地に大穴を開けてしまうなんて……
+A big crater opened up you say.....
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-私たちに未来はあるのでしょうか？
+I wonder if we will have a future?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-私たちも私たちにできる努力を、
-精一杯やろうと思います。
+We will do our best to
+do what we can to help.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-みんな無邪気に喜んでいるが、
-問題はこの後だな……
+Everyone is all happy, but the
+problem is what comes after this....
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-王家方が反撃態勢を整える前に、
-地盤を固めないと。
+We need to consolidate our gains
+before the Royalists prepare their
+counterattack.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-今思うと、<Greybum>のやり方は、
-悪らつだった。
+Thinking back now, <Greybum>'s
+methods were just vicious.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-一時とはいえ、どうしてあんな男を、
-救世主と思ってしまったのか……
+I don't know why I ever thought
+that man was our savior, even if
+only for a while.....
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-空の様子が妙な事になってるな……
+The sky is looking strange.....
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-今は国家存亡の危機だ。
-王家といがみ合っている場合じゃない。
+Our country is going through a
+national crisis. This is no time for
+the royal family to be fighting.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-悪い王さまが死んだんですってね。
-きっとばちが当たったのよ。
+I heard the bad King died.
+I'm sure it was divine punishment.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-新しい王さまはいい人？	悪い人？
-悪い人なら、またばちが当たるわね。
+Is the new King a good person, or
+maybe a bad person? If he is bad,
+I'm sure the Heavens will punish him too.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-セインガルドは悪い国だったから、
-ばちが当たったの？
+Was Seinegald punished
+because it was a bad country?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-ファンダリアにもばちが当たったの？
-悪い事したから？
+Was Phandaria punished too?
+Did we do something bad?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-新しい王さまが空の上へ行って、
-悪者をやっつけてくれるんですって！
+I heard the new King went to
+the skies to beat up the bad guys!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ハイデルベルグ方面、目下動きなし。
-スノーフリア方面、目下動きなし。
+No movements from the direction of Heidelberg.
+No movements from the direction of Frostheim.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-通常警備に戻って、ほっとしました。
+I was relieved to be back to normal duty.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-くそ、空の上からの攻撃に、
-どうやって備えろというんだ。
+How are we supposed to prepare against
+attacks that come from the sky?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ベルクラントが穴を開けるところを、
-目の当たりにしちまった……
+I witnessed Belcrant's power personally.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-なんだ、あの凄まじさは……
-あんなの相手に勝てるわけがない！
+it was dreadful. We can't win
+against such an opponent!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Woodrow>王の姿勢には頭が下がる。
-自ら率先して戦いに赴くのだから。
+I gotta give it to King <Woodrow>.
+He took the initiative to go into battle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あの方なら、我々サイリルの人間も、
-安心してついていける気がする。
+I'm sure we people of Cyril
+will be able to follow him with ease
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -721,13 +725,13 @@ your skills some more.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-君らには、感謝しきれない
-程の恩がある。
+I cannot thank you
+enough for what you did.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-きっといつか、その恩を
-返させてくれ。
+Someday, I swear
+I will repay you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1043,12 +1047,12 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald
-after taking the difference
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80> 
+<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
@@ -1109,13 +1113,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -1156,7 +1160,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]

@@ -20,39 +20,42 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ファンダリア観光局指定
-スノーフリア温泉へようこそ。
+<TAG_005><center>Welcome to Frostheim Hot Springs, 
+designated by the Phandarian Tourism Bureau.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-怪我をしている兵隊さんが利用できる
-よう、準備をしています。
+We are preparing to make it
+available to injured soldiers.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-ただ今、準備中です。
-またお越しください。
+We are preparing now.
+Please come back later.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -286,459 +289,477 @@ notice
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-いやー、雪の中の温泉というのも
-なかなか風情があるな。
+Ahh... A hot spring in the middle
+of the snow is quite elegant.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うがー、戦士の休息だぜ。
+yeahh~ this is a warrior's rest.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ、たまの休息も必要だな。
+Aah... It's good to rest
+every now and then...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>たちも
-ゆっくり休めてるかな？
+Think <Rutee> and the others
+are enjoying this too?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>のって立派よねー。
-一体何食べたらそんなに。
+Wow, <Mary>, you're really something.
+Just what do you eat to get like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それでいて、この弾力か……
+Despite it all,
+you're so flexible...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-私のは……家系だろうな。
+I... guess it's just in my blood.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-むむ……あたしなんて……
-でもさすがに<Chelsea>には、
-ねぇ～。
+hmph, I'm jealous..At least I've got
+<Chelsea> beat, as expected, eh~?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-な、何を言ってるんですか!?
+Wh-What are you saying!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私はまだ成長期ですからね。
-<Rutee>さんなんてもう……
+I'm still growing you know!
+Come on, Miss <Rutee>...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ふふん、<Rutee>さんが
-１４才の時はどうだったんですかね～。
+Teehee, I bet you wouldn't be saying
+that if you were 14 too~, hehe.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんですって～！
+Oh you~!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-って、<Philia>何逃げようとしてんのよ！
+Hey, <Philia>, where do
+you think you're going!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-って、<Philia>さん逃げないで下さい！
+<Philia>, please don't run!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-や、やめてくださーい。
+N-No, please, stooop!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うがーー!!
+Ughh! I can't take it anymore!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ど、どうしたんだよ!?
+Wh-What's wrong?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Stahn>よ。男はどうして
-山に登るんだろうな？
+<Stahn>, my boy. Do you know
+why men climb mountains?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-女の人も登るよ？
+Don't women climb them, too?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-そいつはなぁ、目の前に
-山があるからじゃー、ねえのかい。
+It's because the mountain is in
+front of them! That's why, right?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そう……かもしれないけど。
+Uhm..I guess..?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえも、男だよな？
+You're also a man, right?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-一緒に山、登ろうぜ！
+Then let's scale this
+mountain together!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい？
+OK??
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-先輩が先に引っ張ってやるからな、
-遅れずについてくるんだぜ！
+Since I'm your senior here,
+I'll go first. Try to keep up!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なぁに、安心しな。
+Come on, it'll be fine!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-たとえ離れ離れになっても、
-必ずまた逢えるさ！
+Even if we get separated,
+we'll regroup!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-目指すはあの頂きだぜ!!
+Now let's aim for the summit!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-仕切りの向こうに頂きがある。
-この隙間からおめえもしっかり見るんだぜ！
+The summit's on the other side of
+this wall. You can see it through
+this crack right here!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ま、まずいって<Kongman>！
+K-<Kongman>, this is awful!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ん？
+Whuh?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、ごめーん……
+Oooops, sorry...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-手が滑って<Atwight>を
-こんな隙間にー。
+Looks like Atwight slipped out of my
+hand and right through that crack~!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うぎゃーーー!!
+GYAAAAAAAAAAA
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんな大声で
-悪巧みをしないでよ。
+Did you think you were being sneaky,
+blurting out your plan like that?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-だからって、頭に剣をさすなぁ！
+Well ya didn't have to stab
+me in the head with a sword!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-左側が男湯。右側が女湯ですね。
-それでは参りましょう。
+The men's side is on the left,
+the girls side is on the right.
+Well then, shall we go?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はーい。
+OK!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こら、<Stahn>。
-ノゾくなよ～！
+Hey <Stahn>, No Peeking~!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-の、ノゾかないよ！
+I-I won't, I promise!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-その必要などない。俺様ぐらいに
-なるとおめえのような薄着なら
-……ムムム！
+No need to say anything. 
+(When it comes to me, with you
+being lightly dressed..hehehe!)
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-な、なによ？
-その変な目つきは……
+Wh-What!? What's with
+that creepy look...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっはっは！
+Gahahahaha!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-よく分からないけど、
-何かむかつくわね。
+...Not sure why,
+but I feel sick to my stomach.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあまあ、それくらいに
-しておけよ、<Kongman>。
+Now now, there's no need
+for that, <Kongman>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>もだ。
-早く温泉に入るぞ。
+You too <Rutee>.
+Let's hurry to the baths.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では、我々も入るとしよう。
+Very well, let's go.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はぁ～、気持ちいいですね。
+Haah...This feels incredible.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ふぅ～、肌もつるつる
-になるしな。
+Whew~..it's so good
+for the skin, too.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-くぅ～、いい湯だね、こりゃ～。
+Mmhm, this is a nice hot bath~
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Chelsea>、あんた
-年寄りっぽいわよー。
+<Chelsea>, you sound
+like an old man, hehe.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまの前じゃ、
-見せられませんね。
+I don't dare show this
+side to King <Woodrow>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ひゃ！	冷たいよ。
+Gyah! C-Cold!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは！
-どうでい、俺様の特製雪だま……
+Gaahahaha! Whaddaya think?
+That was my patented SuperSnowball!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-痛て、<Johnny>おめえか！
+OUCH! <Johnny>!!
+Was that you!?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Kongman>、私をねらったな！
+<Kongman>, don't you
+dare aim that at me!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あいつらホントに子供ね～。
+Those guys are
+nothin' but children...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまも
-はしゃいじゃって。かわいい～。
+King <Woodrow>'s also
+havin' fun. It's so cute~!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-男というのは、なぜああ子供っぽい
-ところがあるんだろうな？
+I wonder what causes men
+to act so childish sometimes?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-本当に不思議で……
+It's truly a mystery...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うわ～、<Kongman>の
-大きい～。
+Woaah! <Kongman>, that's big!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは。それはな<Stahn>。
-俺様がチャンピオンだからよ！
+Gahahah! You got that right,
+<Stahn>! I'm the Champion, after all!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-いや、それにしても<Stahn>も
-小さくてかわいいじゃないか。
+Haha, even so, <Stahn>'s
+is so small and cute.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どれどれ、<Woodrow>は……
+Well well, what about <Woodrow>...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おっっきーーーい！
+WOAHH it's HUUUUGE!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様が負けるなんて……
+H-How could I have lost...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺も生まれて初めてだよ。
-こんな大きいモノをみたのは。
+I've never seen one so
+big in my entire life!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやー、気持ちよかったね。
+Ahh, that was refreshing.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-今度は<Darzen>も……
+Perhaps I should invite
+<Darzen> next time...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうしたのだ？
-みんな変な目で私を見て？
+What's wrong?
+Why is everyone staring at me like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんな、お風呂に入る前の
-<Kongman>みたいだよ。
+You look like <Kongman>
+before we went into the bath...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、いえいえ。
+Ah, n-nope nothing!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何でもありません。
+It's nothing at all.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お気になさらずに。
+Don't worry about it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうしたんでぇ？
+What's with them
+all of a sudden?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さあ？
+Who knows?
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-今日は男湯が壊れていますので、
-お客様おひとりですし、女湯を使って下さい。
+Sorry, the men's bath is currently
+out of order. If you're alone,
+you may use the women's bath, though.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そうなのか。
-分かった。
+Really, now.
+Very well.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-あ、そうだった。
-頼まれた用事があるんだっけ。
+Ah, that's right.
+I have an errand to run...
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-でも……
+But...
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-誰も、お客さん来ないだろうし、
-大丈夫よね。
+Well, as long as no other
+customer's come, I guess
+I can leave for a little bit...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふう、気持ちいい。
+Aaah...This feels amazing...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そうですねー。
+You can say that again...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-これでは貸し切りと変わらないな。
+This is like having
+a private reservation...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-だが、ちょうどよかった。人と一緒に
-入浴すると落ち着かないからな。
+Just as well. I don't think
+I'd be able to relax if
+other people were here.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そうですねー。
+Indeed...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ん、何だ？
+Huh? What's that?
 [ENDBLOCK]
-お姉さん
+Young Lady
 [ENDBLOCK]
-……ねえ、本当に大丈夫かな？
+Hey...is this really OK?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-大丈夫でしょ。いつも来てるんだし。
+It'll be fine.
+I come here all the time.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-温泉♪	温泉♪
+Hot Springs♪ Hot Springs♪
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-シャル……まずくないか？
+Chal...Isn't this bad?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-でも、受け付けの人は大丈夫だって！
+The receptionist
+said it was ok, though!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-このままだと、僕は変態呼ばわりだぞ。
-どうしたらいいんだ、シャル。
+If they come in here, I'll be
+labeled as a pervert!
+What do I do, Chal!?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-え、ええ!?
+Y-You're asking me!?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-さ、入るよ～。
+OK! Let's go in!!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-はーい。
+Yeaaah!
 [ENDBLOCK]
-お姉さん
+Young Lady
 [ENDBLOCK]
-ちょっと、待ってよー。
+Oh, wait up!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もう、そこまで迫っているぞ。
+Oh no, they're
+getting closer...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そ、そうだ！	坊ちゃん!!
-腰に巻いたそれを……！
+Ah! I have an idea! Master <Lion>,
+what if you pulled your towel up, and...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-はぁー、気持ちよかったー。
+Aaah, that was wonderful.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-また、来ましょうね。
+We should come
+back again soon.
 [ENDBLOCK]
-お姉さん
+Young Lady
 [ENDBLOCK]
-うん、そうだね。
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-どうして……どうしてだ、シャル。
+Mhm! You got that right!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-なぜこんな事で、
-僕が男だとバレないんだ！<x00>
+Why...? Tell me why, Chal!!
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Why did this
+work so well???<x00>
 [ENDBLOCK]

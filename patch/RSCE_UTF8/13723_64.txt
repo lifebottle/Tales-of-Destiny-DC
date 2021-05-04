@@ -462,63 +462,64 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あなたはカルバレイスの人ですか？
+Are you from Calvalese?
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-ちょっと！
-何を言い出すの!!
+Stop! What are 
+you talking about?
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-……それで、どこで聞いたの？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-実は……
-[ENDBLOCK]
-Shecond-hand shop
-[ENDBLOCK]
-そう……そんな事が。
-[ENDBLOCK]
-Shecond-hand shop
-[ENDBLOCK]
-分かったわ。こんな事しか
-出来ないけど、これを持っていって。
+...So, where did you
+hear about this?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます！
+The truth is...
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-私が知っている隠れカルバレイス人は、
-たしか、ジェノスにいるはずよ。
+I see, the thing is...
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-けど今は、何をやっているか
-分からないわ。
+Alright I get it, if you don't
+say anything you can take this.
 [ENDBLOCK]
-Shecond-hand shop
+<Stahn>
 [ENDBLOCK]
-ただ、相手にカルバレイス人か
-どうか聞く時は注意してよ。
+Thank you!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-カルバレイス人だとばれたら、
-生活できなくなる人もいるの。
+The hidden Calvalese person
+I know are in Janos, I believe.
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-私が知っている隠れカルバレイス人は、
-たしか、ジェノスにいるはずよ。
+But right now, I don't know
+what to do with myself.
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-ただ、相手にカルバレイス人か
-どうか聞く時は注意してよ。
+Just be careful when you ask
+them if they're from Calvalese.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+If they find out I'm from Calvalese,
+I'm afraid I'll lose all my buisness.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+The hidden Calvalese person
+I know are in Janos, I believe.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Just be careful when you ask
+them if they're from Calvalese.
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -563,85 +564,85 @@ Man
 I thought I would talk 
 to <Marian>, But I can't.
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
 Welcome.
 We're open until midnight.
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-We have a wide range of products that
-only the royal capital can offer.
+We have a wide range of products
+that only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-We have a wide range of products that
-only the royal capital can offer.
+We have a wide range of products
+that only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
 As long as our inventory lasts,
 we'll keep the store going!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
 Welcome.
 We're open until midnight.
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-We have a wide range of products that
-only the royal capital can offer.
+We have a wide range of products
+that only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
-We have a wide range of products that
-only the royal capital can offer.
+We have a wide range of products
+that only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
-Shecond-hand shop
+Item Shop
 [ENDBLOCK]
 As long as our inventory lasts,
 we'll keep the store going!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 Good evening.
 Please take a look.
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 You won't be disappointed.
 Please take a look!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 You won't be disappointed.
 Please take a look!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 We can't lose to our neighbors!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 Good evening.
 Please take a look.
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 You won't be disappointed.
 Please take a look!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 You won't be disappointed.
 Please take a look!
 [ENDBLOCK]
-Ornamental shop
+Accessory Shop
 [ENDBLOCK]
 We can't lose to our neighbors!
 [ENDBLOCK]

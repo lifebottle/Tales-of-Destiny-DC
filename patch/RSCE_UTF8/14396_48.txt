@@ -471,101 +471,95 @@ set_drgn
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x4A><x1C><x80>
 
@@ -581,46 +575,47 @@ openflag -><x17><x71><x4A><x24><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放されました。
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-カスタム画面を開くには<Triangle_ani>でメニューを開き、
-続けて<Select_ani>を押して下さい。
-
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-「キャンバス」が解放されました。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-そこにある真っ白なキャンバスで
-仲間たちの様々な表情を見る事が出来ます。
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に落ちている石ころを
-変化させる事が出来るようになりました。
+It is now possible to change the
+rocks that fall around the world.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フィッツガルド中央付近にある旅人の小屋。
-その部屋にあるツボを調べる事で石が変化します。
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Dalis>のサブイベントが追加されました。
-サイリルへ行ってみましょう。
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
 [ENDBLOCK]
 oldflag -><x17><x71><x4A><x1C><x80>
 
@@ -642,204 +637,210 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the Chatty Old Man.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わーーーい。
+Woohoo!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何だ、ジョナサン？
+What is it, Jonathan?
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>小さな窓から
-お風呂場が見える。
+<TAG_005>You can see the bathroom
+through a small window.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-羊の次はドラゴンにしたの!?
+You went from sheep to dragons?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-さっき村の外に飛び出して行った
-ようだけど、何かあったのかい？
+I saw you run out of the village a 
+while ago, what happened?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-え？	伝説のにんじんを
-探してるだって!?
+What? You're looking for 
+the legendary carrot?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あなた、都会の人でしょう？
-都会に行った事のある俺には分かりますよ。
+You're a city person, aren't you?
+I've been to the city, I know what 
+you mean.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-おまえが面倒見てた羊、
-今はトーマスさんが世話してるのか？
+The sheep that you used to 
+take care of, is Mr. Thomas 
+taking care of them now?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あなた、都会の人でしょう？
-都会に行った事のある俺には分かりますよ。
+You're a city person, aren't you?
+I've been to the city, I know what 
+you mean.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Stahn>、羊はどうするんだ？
-俺のところで引き取ってやろうか？
+<Stahn>, what about the sheep?
+Do you want me to take them 
+back to my place?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-あれ、都会の人でしょう？
-都会に行った事のある俺には分かりますよ。
+You're a city person, aren't you?
+I've been to the city, I know what 
+you mean.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-羊たちが妙におびえてるんだ。
-不穏な気配を感じているんだろうな。
+The sheep are acting strangely 
+frightened. I think they're sensing 
+a disturbance.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-村の外へ出ると、
-たちまちモンスターに襲われるのさ。
+If you go out of the village, you'll 
+be attacked by monsters.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-危なっかしくて、
-放牧にも出られやしない。
+He was too dangerous to go 
+out to pasture.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-頼んだぜ、<Stahn>。
+I'm counting on you, <Stahn>.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-羊がのんびり草を食える、
-そんなリーネを取り戻してくれ。
+I want my sheep to be able to 
+graze comfortably, and I want 
+my leeks back.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-羊がのんびり草を食える、
-そんなリーネを取り戻して下さい。
+Please bring back such a renaissance
+where sheep can graze leisurely.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-あ、あわわ！
-<Lilith>ちゃんがモンスターに!!
+Aww! <Lilith> is a monster!
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-え、違うの？
+Oh, no?
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-村の治安を守るとはいえ、
-こんな村で何が起こるわけもなし……
+Even though I'm supposed to protect
+the village, there's no way anything 
+can happen in a village like this.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-<Stahn>はいいな。自分の好きな時に、
-好きなように村を出られるんだから。
+I like <Stahn>. You can leave the 
+village whenever you want, however
+you want.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-俺も好きな時に、
-好きなように村を出たいですよ。
+I want to leave the village whenever 
+I want and however I want, too.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-非常事態発生……とはいえ、
-敵が空の上にいるんじゃな……
+There's an emergency. ...but the 
+enemy is still in the air.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-最近、モンスターの襲撃が増えてな。
-やたら忙しくなっちまったよ。
+We've been getting a lot of 
+monster attacks lately. I've 
+been extremely busy.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-こんな事で忙しくなるくらいなら、
-ヒマな方がよかったけどな。
+I'd rather be free than busy 
+with this stuff.
 [ENDBLOCK]
-治安を守る兵士
+Soldier
 [ENDBLOCK]
-村の安全は俺が守る！
-……一度言ってみたかったんだよ。
+I'll keep the village safe!
+...I just wanted to say that once.
 [ENDBLOCK]
 
 [ENDBLOCK]

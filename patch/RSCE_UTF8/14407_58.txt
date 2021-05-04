@@ -465,101 +465,95 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x49><xEC><x80>
 
@@ -575,46 +569,47 @@ openflag -><x17><x71><x49><xF4><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放されました。
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-カスタム画面を開くには<Triangle_ani>でメニューを開き、
-続けて<Select_ani>を押して下さい。
-
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-「キャンバス」が解放されました。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-そこにある真っ白なキャンバスで
-仲間たちの様々な表情を見る事が出来ます。
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に落ちている石ころを
-変化させる事が出来るようになりました。
+It is now possible to change the
+rocks that fall around the world.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フィッツガルド中央付近にある旅人の小屋。
-その部屋にあるツボを調べる事で石が変化します。
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Dalis>のサブイベントが追加されました。
-サイリルへ行ってみましょう。
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
 [ENDBLOCK]
 oldflag -><x17><x71><x49><xEC><x80>
 
@@ -636,188 +631,184 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the Chatty Old Man.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-はぁ～、困ったわ……
+Ah, what a mess...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたんですか？
+What's the matter?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-実は、家で飼っている猫の
-健康状態が悪いみたいなの。
+Well,  my cat is not in good health.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-どうすればいいのかしら？
+What am I going to do?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですねぇ……
+Yeah...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、私の作ったお薬を
-お分けいたしますわ。
+I have some medicine that I'm
+happy to share with you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あなたが？
+Really?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そっか、<Philia>の薬品は
-すごい効果だからな！
+Oh, yeah. <Philia>'s medicines
+work wonders!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-それじゃあ、お願いしようかしら。
+Then, I must ask for some.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-本当に……大丈夫ですか？
+Are you sure...I can have it?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お・ま・か・せ！	ですわ。
+It's all yours!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-では、行きます！
+Well, let's go!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ちょ、ちょっとどういう事！
+Woah...hold on!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-だ、大丈夫ででですよ。
+It's fine, I assure you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ささ、もう一度。
+Now, let's get...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ちょ、ちょっと！
+Wa....wait!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-だだだだ大丈夫ですよ。
+It's fine, I promise.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ささ、もう一度。
+Now, let's...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-さ、さあ、もう一歩ですわ。
+N...now, just one last bit...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-はぁ～、よかった。
+Oh, thank God.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-一時はどうなるかと……
+I was wondering what was going
+to happen for moment...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-え……
+Wha....
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当に<Philia>の薬品は
-すごいなぁ。
+I'm super impressed with your
+medicines, <Philia>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そ、そんな事は……
+It's...really not that impressive...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、この猫は、
-どのくらい健康になったの？
+So, how healthy will the cat be now?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-健康ってなんの事ですか？
+What do you mean by "healthy?"
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -831,8 +822,8 @@ for someone else.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-Don't go away. Come on, let's talk 
-about it again.
+Don't go away. Come on,
+let's talk about it again.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -840,7 +831,7 @@ Are you really a different person?
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-I'm sorry.
+Oh, sorry about that.
 
 [ENDBLOCK]
 <Woodrow>
@@ -879,292 +870,298 @@ you for him.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-あれ……あんたの名前は……？
-おっと、言うんじゃねえよ。
-今、思い出してみせるからな。
+Wait...your name is...? Stop, don't
+tell me. I'll get it eventually.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-……ヴェ、ヴェ……
+...Vi...Vi...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-くぅ！
-思い出せねえー!!
+Damnit! I can't remember.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ねえねえ、今日は
-占いの人、いないの？
+Hey, is there a fortune teller today?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-これは、前に占って
-もらった時のお礼ね。
+This is for the last time my
+fortune was told.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-子供たちを探すのをあきらめますか？
-はい
-いいえ
+Give up looking for the children?
+Yes
+No
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>噴水の中にコインが
-投げ入れられている。
+<TAG_005>A coin is tossed
+into the fountain.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-子供たちを探すのをあきらめますか？
-はい
-いいえ
+Give up looking for the children?
+Yes
+No
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうだ<Stahn>、<Rutee>はいたか？
+How're <Stahn>、<Rutee> doing?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ぶー、<Woodrow>さまと一緒に、
-<Rutee>さんを探そうと思っていたのに。
+Bah, I wanted to join Master 
+<Woodrow>and look for Miss <Rutee>.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-見つかっちゃった～。
+You've found me!
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、<Rutee>。
-何かいるかい？
+Hey, <Rutee>.
+Need anything?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-武器の手入れは怠るなよ。
+Don't neglect your weapons.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、<Rutee>。
-何かいるかい？
+Hey, <Rutee>.
+Need anything?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-よう、いらっしゃい。
+Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-武器の手入れは怠るなよ。
+Don't neglect your weapons.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ここの噴水は街のシンボルよ。
+This fountain is a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あら、その人たち、
-<Rutee>のお友達だったの。
+Oh, they are friends of <Rutee>.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-ここの噴水は街のシンボルよ。
+This fountain is a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-空のあれ、空中都市っていうより、
-空中要塞という方が合ってそうね。
+That thing in the sky seems to be
+more of an aerial fotress
+than an aerial city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-街をモンスターに襲わせてるのも、
-空にいる連中なの？
+Are the people in the sky
+responsible for the monsters
+attacking the city?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-いつまた街の中に、
-モンスターが入ってくるか……
+Who knows when the monsters will
+invade our city again....
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Rutee>、あなたは昔から、
-絶対弱音をはかない子だったわね。
+<Rutee>, you have always been the
+kind of woman who never gives in.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あなたならなんとかしてくれると思う。
-よろしく頼むわね。
+I know that you will take care of it.
+I'm counting on you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-お願いします。<Rutee>を
-絶対に死なせないで。
+I beg you. Please don't 
+let <Rutee> die.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-夢とロマンを追い求め、
-やってきましたクレスタへ！
+Chasing my dreams and in search
+of romance, I've come to Cresta.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-何なんだよ、この状況。
-テンション下がるわ。
+What the hell is going on?
+It's making me depressed.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-勝利のコツは、
-相手をのんでかかる事さ。
+The secret to victory is to
+outsmart your opponent.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-ブーイングのひとつもかませばいい。
-ブーブーブー、奴らはびびってる～！
+Give them a good booing. Boo-boo,
+they are terrified~!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街外れの子供がたくさんいる家、
-あれ、いつまであるんだろう。
+A house full of children on the 
+outskirts of town. I wonder how
+long that will be there.
 
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-確か借金がかさんで、
-立ち退きを迫られてたって聞いたけど。
+I heard that they were going to
+be evicted because they had
+accumulated a lot of debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-セインガルド軍人の家なら、
-ほら、その目の前に家だよ。
+The Seinegald soldier's house?
+Oh right! it's the house right here!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街外れの子供がたくさんいる家、
-あれ、いつまであるんだろう。
+A house full of children on the 
+outskirts of town. I wonder how
+long that will be there.
 
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-確か借金がかさんで、
-立ち退きを迫られてたって聞いたけど。
+I heard that they were going to
+be evicted because they had
+accumulated a lot of debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-<Rutee>、レンズハンターやめたのか？
-噂は本当だったみたいだな。
+<Rutee>, you quit being a lens 
+hunter? Guess the rumors were true.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-……何、おまえが金に汚かったのは、
-あの家の借金を返すためだって噂だよ。
+I heard a rumor that the only reason
+you were so hungry for money was
+to pay off your family's debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-<Rutee>がレンズハンターを
-やめたみたいだな。
+Looks like <Rutee> has quit
+being a lens hunter.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-これは世界的な危機だ。
-セインガルドだけの問題じゃない。
+This is a global crisis. Seinegald is
+not the only region affected.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-空の上の連中め、
-おれたちを根絶やしにする気か？
+Those things in the sky, are they
+trying to wipe us out?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街の事はおれたちでなんとかする。
-そう簡単にやられたりしないって。
+The city is ours to defend. We're not
+going to be defeated so easily.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-秘密兵器はもう完成したのか？
-もう撃ったのか？
+Is the secret weapon complete? Is 
+it ready to be used?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-おっ、みんな勢ぞろいしてるわね。
-お迎えご苦労！	なんてね。
+Oh, look who's here. Everyone's
+here. Thanks for picking me up! 
+What a surprise.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>さん、お久しぶりです。
-この街にいらっしゃったんですね。
+Hello <Rutee>, it's been a while.
+So, this is your hometown.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあね。
+Well, yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>、どうしてあんたまでいるの。
-旦那放っといていいわけ？
+<Mary>, why are you here too?
+You can't just leave him alone?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-離れていても、心はつながっている。
+Even though we are far apart, 
+our hearts are connected.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うわ、いきなりのろけと来たか。
-あんたには勝てないわ。
+Wow, you've suddenly come out of 
+nowhere with your sincerity. I'm no
+match for you.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Woodrow>も、<Chelsea>も、
-元気そうね！
+<Woodrow> and <Chelsea>.
+You look great!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ。
+Oh.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい。
+Hello.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、ダリルシェイドへ向かおう。
-<Lion>も戻っているかもしれない。
+Okay, let's head to Darilsheid.
+<Lion> might be back too.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そうですね。
+Yes, you're right.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おっほん。
-ひとり挨拶を忘れてねえか？
+Whoa. Did one of you 
+forget to say hello?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あらコング、いたの？
+Oh, Kong, you're here?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おーれさーまはチャーンピオーン。
-チャーンピオンでチャーンピオーン……
+(You are the chamion.
+You are the champion...)
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うそうそ、冗談だって。
+Oh yeah, I'm just kidding.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ダリルシェイドはクレスタの西よ。
-山を迂回しながら行きましょ。
+Darilsheid is west of Cresta.
+We'll go around the mountain.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

@@ -20,9 +20,9 @@ Yes, I'll read it now.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Your Majesty, I've prepared the documents
-for the princess candidates, please be sure
-to read through them!
+Your Majesty, I've prepared the 
+documents for the princess candidates,
+please be sure to read through them!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -189,19 +189,19 @@ waiting. Now, let's go.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-は、はい、ただ今！
+Ha, yes, just now!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-食事の用意を急ぐのですぅ！
+I'm in a hurry to prepare a meal!
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-は、はい、かしこまりました！
+Yes, yes, I understand!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-こんなものなんでしょうかね～？
+I wonder if it's like this?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -209,403 +209,413 @@ Maid
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さま!!
+<Woodrow>!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>、こんなところで
-一体何をしているんだ？
+<Chelsea>, what are 
+you doing here?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-うー、あー、その……
+Umm, uh, that...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Chelsea>！
+<Chelsea>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-……女王ごっこですぅ。
+...I'm playing queen.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そんな事で、本当に
-城の人たちを動かすんじゃない。
+That's not really how you 
+manage people in a castle.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい……
-ごめんなさいです。
+Yeah..
+I'm sorry.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-さあ、<Chelsea>。宿に戻ろう。
+Come on, <Chelsea>. Let's go 
+back to the inn.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>、女王は楽しめたかい？
+<Chelsea>, did you enjoy your time
+with the queen?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-え……
+um...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい！	最高でした！
+Yeah! It was great!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>本の位置がずらされている。
+<TAG_005><center>The position of the book
+has been moved.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「神となった男とその妻」と書かれた、
-かつて栄華を誇った支配者の伝記がある。
+<TAG_005><center>There is a biography of a once
+great ruler titled, "The Man Who 
+Became a God and His Wife."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-これは……レンズに閉じ込められた想い？
+Is this... a thought trapped in a lens?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-<Hugo>め……
-何を考えている。
+<Hugo>...
+What are you thinking?
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-どういう事ですか？
-[ENDBLOCK]
-<Greybum>
-[ENDBLOCK]
-あやつは私に、世界中の隠された
-古代遺跡の封印を解いて回らせた。
+What do you mean?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-しかし、今にしてみれば、
-一体、なんのためだ!?
+He made me go around the world
+unsealing ancient ruins.
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-くそ、分からぬ……
-[ENDBLOCK]
-兵士
-[ENDBLOCK]
-<Greybum>様が……
-[ENDBLOCK]
-兵士
-[ENDBLOCK]
-恐れている？
+But in hindsight, what was the point!?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-貴様、今、何と言った!!
+Dammit, I just don't understand...
 [ENDBLOCK]
-兵士
+Soldier
 [ENDBLOCK]
-す、すみません！
+<Greybum>...
 [ENDBLOCK]
-<Greybum>
+Soldier
 [ENDBLOCK]
-私が<Hugo>を恐れている……？
-[ENDBLOCK]
-<Greybum>
-[ENDBLOCK]
-いいや、そのような事が
-あってたまるものか！
+Aren't you afraid?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-私が<Hugo>を利用しているのだ！
-初めからな！
+What did you just say to me!!
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+I apologize.
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-クックック。しかし、<Lion>の存在を
-私に感づかれたのはまずかった。
+Me, afraid of <Hugo>...?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-私を利用しようとした事を、
-後悔させてくれるわ。
+Please, that will never happen.
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+I've been the one using <Hugo>!
+From the very beginning!
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+Hmm. But it was bad enough that <Lion>
+detected my presence.
+[ENDBLOCK]
+<Greybum>
+[ENDBLOCK]
+I'm going to make him regret
+trying to use me.
 
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-神の眼で、私は世界の王と
-なるのだからな！
+For in the Eye's of Atamoni, I shall 
+be king of the world!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Greybum>、あなたは最初から
-最後まで踊らされていた……
+<Greybum>, you've had us running
+around this entire time...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-所詮、器が違いすぎたのだ。
-相手は<Miktran>だったのだからな。
+After all, we were too different.
+The other party was <Miktran>, 
+you know.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-待ってくれないか。
-もう少しなのだ。
+Please hold on a moment.
+I'll be right with you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……時間が掛かりそうだな。
-出直すか……
+...You seem really busy.
+Maybe I should come back, later.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Lion>君だったのか。
+Oh, it's you, Sir <Lion>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-すまなかったね。
-つい調べ物に夢中になっていた。
+Please excuse me. I got
+a little caught up in a
+matter I'm investigating.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-構わないが……
-何を調べていたんだ？
+It's no problem.
+What were you looking into?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ソーディアン諸君に口添えしてもらって
-建造した、神の眼封印施設についてだよ。
+The Eye of Atamoni sealing facility that
+we constructed with the Swordian's advice.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-グレバムを倒した後に
-造ったものか。
+The facility that was built
+after we defeated <Greybum>...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それがどうかしたのか？
+What about it, exactly?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、大した事ではないのだが……
+Well, it's nothing serious, but...
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-あの時、ソーディアン諸君が配置した
-神の眼の守護者が気になってね。
+I was curious about the guardian
+of the Eye that the Swordians 
+placed there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それを調べていたという訳か。
+So that's what you
+were looking into.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-だが、一向に守護者に関しての
-手がかりが見つからなくてね。
+I haven't been able to 
+find anything about
+this guardian, though.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-何かシャルティエ君が
-知っている事はないだろうか？
+<Chaltier>, do you perhaps
+know anything about that?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕も詳しくは知りません。
-知っている事といえば……
+Speaking from what I recall, I don't
+actually know many details either.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-守護者は、昔の人たちが何かを守る時に
-使役した存在だという事くらいです。
+All I know is that the Guardians were
+used by people in my age whenever
+something needed to be protected.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-お役に立てず、すみません。
+I apologize if my answer
+doesn't tell you much.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、気にしないでくれ。
+That's okay.
+Don't worry about it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それだけ分かれば、
-調べるきっかけになる。
+At the very least, you've
+given me somewhere to start.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-邪魔してすまなかった。
-調べ物を続けてくれ。
+Sorry for interrupting
+your research. We'll let
+you get back to it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-こちらも大した出迎えは出来ないが、
-どうかゆっくりしていってくれ。
+I can't give you much of a welcome,
+but please make yourself at home, here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-うーん……やっぱり
-……でしょうか？
+Hmm...Maybe...I dunno...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わあ、<Lion>さん。
-お久しぶりです。
+Oh! <Lion>! Long 
+time no see!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お元気でしたか？
+How've you been?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-まあな。
+Getting by.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お城に何か御用でも
-あったんですか？
+Did you have some business
+here at the castle?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや、近くまで来たついでに
-寄っただけだ。
+Not really. I just happened
+to be near Heidelberg.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それより、おまえこそ
-何をやっているんだ？
+Aside from that,
+what are you doing?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-肖像画を見ていました。
+I was looking
+at this portrait.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-この女性は誰なんだ？
+Who's portrait is this?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまのお母さまです。
+<Woodrow>'s mother.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-母親……か。
+His...mother, huh?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-それで私……どのように
-お呼びしようか悩んで……
+I was wondering how
+I should address her.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-もう！	<Lion>さんも
-にぶいですねえ。
+Oooh! You don't
+get it either, <Lion>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-（……僕、も？）
+(Wait, me either?)
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ですから！
+So!	
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまのお母さま
-なんですよ！
+She's <Woodrow>'s mother!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ああ、私は何とお呼びすれば
-いいのでしょうか？
+Aah, what should I call her?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-おばさまですか？
+Auntie, perhaps?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お后さまですか？
+Or maybe your Majesty?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-いえ、やっぱり……
+No, I know...!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お義母さまっ！
+Mother-in-law!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-キャー！
+Teehee!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-これはこれは。
-お久しゅうございます。
+Well, well, well.
+Look who it is.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-皆様がグレバムを討って
-以来になりますかな？
+It's been a long time since you
+defeated <Greybum>, hasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、そうだな。
+Ah, that's right.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-それよりも聞いたぞ。
-<Woodrow>が王座に着いたようだな。
+More importantly, I've heard that
+<Woodrow> has taken the throne.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おお。ご存知でしたか。
-ようやく殿下も決心されましてな。
+Ah, so you've heard.
+Prince <Woodrow> finally
+made up his mind.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おっと。殿下でなく、
-陛下とお呼びしなくては。
+Ah, right. I should call him
+"King <Woodrow>", now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その影響の様だな。国内も
-落ち着きを取り戻しつつあるようだ。
+The country seems more peaceful now.
+His rule is clearly taking effect, already.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-これも<Woodrow>の人徳の
-おかげと言ったところか。
+I guess it's because of 
+<Woodrow>'s humanity.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-いえ、それだけでは
-ございませぬぞ。
+No, that's not 
+the only thing.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下は国王になられてからも、亡き父王に
-追いつこうと日々尽力されております。
+Since his ascension, he's been working
+hard to make up for his late father.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-努力する事も、
-決して怠らぬ立派な方です。
+He is an honorable man who 
+never neglects to work hard.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ところで、<Woodrow>陛下には、
-もうお会いになられましたか？
+By the way, have you spoken
+to his Majesty, yet?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-是非ともお会いくだされ。
-お喜びになられると思いますぞ。
+If not, you should. He'll
+be very happy to see you.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下はその廊下の途中を
-折れた所にある自室におられます。
+His Majesty is in his room 
+at the end of the corridor.
 [ENDBLOCK]
 回転開始→<x1D><x66><x10><x67><x74><x40><x58><xAB><x80>
 
@@ -621,457 +631,475 @@ Maid
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><Woodrow>の母親の
-肖像画が飾られている。
+<TAG_005><center>A portrait of <Woodrow>'s 
+mother hangs on the wall.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>よく見ると
-儀礼用の椅子だ。
+<TAG_005><center>If you look closely, you can see 
+that it is a ceremonial chair.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-おお、<Lion>殿。
-お久しゅうございます。
+Hello, <Lion>.
+It's been a while.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下であれば自室におられます。
-是非、会っていって下され。
+If you're looking for His 
+Majesty, he's in his room. 
+Please go and see him.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-<Woodrow>陛下がおられる限り、
-ファンダリアは何度でも蘇りますぞ。
+<Woodrow>, as long as you are here,
+Phandaria will rise again and again.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-命に代えても、城は守ります。
-どうかご安心くださいませ。
+Rest assured, I will protect the castle
+even at the cost of my life.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下の事、何卒
-よろしくお願い申し上げます。
+I would like to thank you for your
+kind attention to His Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-お帰りなさいませ、陛下！
+Welcome home, Your Majesty!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-皆様、お帰りなさいませ。
+Welcome back, everyone.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-我が国の領空にある空中都市の動向を、
-絶えず見張っております。
+We are constantly watching the 
+movements of the aerial city in 
+our airspace.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ベルクラントを止められませんでした。
-陛下、申し訳ありません……
+I couldn't stop Belcrant.
+I'm sorry, Your Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ベルクラントを止められませんでした。
+I couldn't stop Belcrant.
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-各地にモンスターが降下したと、
-報告が入っております。
+Reports are coming in that monsters
+have descended on various areas.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-しかし、心配はご無用です。
-今のところ撃退しておりますゆえ。
+But don't worry. So far, 
+we have repelled them.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-陛下のお姿を先代陛下にも、
-ぜひご覧いただきたかったですぞ。
+I would have loved for His Majesty's 
+father to have seen you.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-今の陛下のお姿を先代陛下にも、
-ぜひご覧いただきたかった。
+I would have loved for His 
+Majesty's father to have seen 
+what you look like now.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ようこそハイデルベルグ城へ。
+Welcome to Heidelberg Castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-城の事は我らにお任せくださいませ。
+Please leave the castle to us.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下、セインガルドの被害状況は……？
+Your Majesty, status 
+report on Seinegald?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-世界はどうなっているのでしょう？
+What is the world coming to?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-目下ベルクラントの直撃を受けた
-被災地の情報を収集しております。
+We are currently gathering 
+information on the affected areas
+that were directly hit by Belcrant.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-このまま日の光が閉ざされますと、
-我が国には致命傷となります。
+If the light of day continues
+to be blocked, it will be fatal
+to our country.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ファンダリアの命運は、
-陛下の御手にかかっております。
+The fate of Phandaria rests 
+in your hands, Your Majesty.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ファンダリアの命運は、
-みなさんにかかっております。
+The fate of Phandaria is 
+in your hands.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ようこそ我らが城へ。
+Welcome to our castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-必ずまた来てくれよ<Chelsea>。
+Be sure to come back, <Chelsea>.
 
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-陛下と<Chelsea>様が戻られる日を
-心よりお待ちしております。
+We look forward to your return.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Alba>先生のお孫さんは、
-明るくて皆の人気者でした。
+<Alba>'s grandchild was friendly and 
+got along with everyone.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-仕方ない事とはいえ、
-行ってしまわれるのは名残惜しいです。
+Even though it was inevitable, 
+it was a shame to see her go.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Alba>先生はご無事でしょうか？
-心配です。
+Is <Alba> going to be safe?
+I'm worried about him.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Alba>先生から、<Darzen>閣下に
-手紙が来たそうです。
+Mr. <Alba> has sent a letter to 
+His Excellency <Darzen>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-無事でやっていらっしゃるようで、
-安心しました。
+I am relieved to hear that you 
+are safe and doing well.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-こちらは<Woodrow>陛下の私室です。
+This is the private quarters 
+of His Majesty.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-いつ陛下が戻られてもいいよう、
-お部屋は整えておきますので。
+I'll make sure the room is ready for
+His Majesty's return at any time.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-いつ陛下が戻られてもいいよう、
-お部屋はいつも整えております。
+The room is always ready for 
+His Majesty's return.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-陛下、色々と大変だと思いますが、
-どうかご無理はなさらないでください。
+Your Majesty, I know that you are
+going through a lot, but please take
+it easy on yourself.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-みなさまも決して、
-ご無理はなさらないでください。
+Please take it easy on yourself.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>やダーゼンには
-もう会ったのかな？
+Have you met up with <Chelsea> 
+or Darzen yet?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-大した出迎えも出来ないが、
-どうかゆっくりしていってくれ。
+I can't give you much of a welcome,
+but please enjoy your time here.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-大した出迎えも出来ないが、
-どうかゆっくりしていってくれ。
+I can't give you much of a welcome,
+but please enjoy your time here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わあ、<Lion>さん。
-お久しぶりです。
+Wow, <Lion>.
+It's been a while.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そこに飾られてる肖像画って、
-<Woodrow>さまのお母さまなんですよ。
+The portrait on the wall is 
+<Woodrow>'s mother.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私もいつか……
-うふ、うふふふ。
+Someday, I'll also be...
+Hehehe!~
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-久しぶりだね、諸君。
-元気そうで何よりだ。
+It's been a long time, guys.
+I'm glad to see you're doing well.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ようこそお越しくださいました。
+Welcome to our castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Chelsea>もいるとは思わなかったよ。
+<Chelsea>? I didn't expect you 
+to be here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-色々とお手伝いをしているうちに、
-お城に居着いちゃいました。
+After helping out in various ways,
+I ended up staying at the castle.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまのお役に立てるよう、
-粉骨砕身の毎日です。
+I've been doing back-breaking 
+work to help <Woodrow>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ふんこ……ふんこつさいしん？
+Back...breaking?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-精一杯努力する、の意味だ。
+It means to do difficult work.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へえ……
+Ahhh...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Woodrow>陛下、このたびのご即位、
-心からお祝い申し上げます。
+Your Majesty, please accept my 
+heartfelt congratulations on your 
+recent accession to the throne.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-かしこまる必要はないよ。私たちは、
-共に苦難を乗り越えた同志だろう？
+There's no need to be so formal. 
+We've been through so much 
+together, haven't we?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私の事は今まで通り、
-<Woodrow>と呼んでほしい。
+I want you to call me <Woodrow>,
+as you always have.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。そうさせてもらいます。
+I have no probelms with that.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-神の眼の一件……
-とんでもない事になったな。
+In regards to the Eye of Atamoni.
+I can't believe it happened.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-まさか飛行竜に襲われるとは、
-思ってもいなかった。
+I never thought the facility would be 
+attacked by the Draconis.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Woodrow>の方で、
-何かわかっている事はないのか？
+Do you have any further 
+details about it <Woodrow>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-残念ながら、君たちと同じ程度にしか、
-私も事情を把握していない。
+Unfortunately, I'm only as aware 
+of the situation as you are.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-この上はセインガルド<King>陛下に、
-直接、話をうかがうしかないだろう。
+I guess we'll just have to ask His 
+Majesty of Seinegald directly.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-じゃあ、さっそく出発しましょう。
+Then let's get going.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-もちろん私もご一緒します。
+Of course I'll be coming with you.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまのあるところ、
-<Chelsea>ありです。
+Where there is <Woodrow>, 
+there is <Chelsea>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-よろしく頼むぜ、嬢ちゃんよ！
+Nice to meet you miss.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-即位したばかりなのに、
-国を空けて大丈夫なのか？
+Is it okay for you to leave the 
+country even though you just took
+the throne?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Darzen>に任せるつもりだ。
-心配ない。
+Don't worry. I'm leaving
+<Darzen> in charge.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-この<Darzen>、命に代えても、
-陛下のご留守を守ってみせますぞ！
+I, <Darzen>, will protect Your
+Majesty's absense even at the 
+cost of my own life.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-今回の事は、セインガルドと我が国の、
-共同責任でもある。
+This is the joint responsibility of 
+Seinegald and our country.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私には当事者のひとりとして、
-真相を突き止める義務があるからな。
+As one of the parties involved, 
+I have a duty to get to the bottom
+of this.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-ところで、陛下。
+By the way, Your Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-お急ぎのところ恐縮ですが、
-ご出発前に処理していただきたい件が。
+My apologies, Your Majesty, but
+there is something I need you to 
+take care of before you depart.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-む、そうか。
+Mmm, I see.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-聞いての通りだ、すまない。
-少しの間、待っていてもらえるかな。
+You heard the man. I'm sorry.
+If you could wait just a moment,
+please.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>さん、
-やる事がたくさんあるんだなあ。
+<Woodrow> has a lot of work 
+to do, doesn't he?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-それが国王というものだ。
+That's what kings do.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あの……<Mary>さん、
-ちょっといいですか……？
+Excuse me, <Mary>, do you 
+have a minute?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-わたしは構わないが……
+Sure.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Mary>さんと<Chelsea>さん、
-ふたりでなんのお話でしょうね？
+What are <Mary> and <Chelsea>
+going on about?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さあ……？
+I don't know...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-わたしに何か？
+What's up?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-単刀直入にお聞きします。
+I'm going to ask you a 
+straightforward question.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Mary>さんは<Woodrow>さまの、
-味方ですか？
+<Mary>, are you on 
+<Woodrow>'s side?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうか……わたしが二年前、
-王家の軍と戦った事を気にしているのか。
+So you're worried about the fact 
+that I fought against the royal 
+army two years ago?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-心配しなくていい。その件なら、
-既に決着は付いている。
+Don't worry about it. That matter 
+is no longer an issue.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-じゃあ……
+Well then...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ああ。私たちは仲間だ。
-彼の敵になる事はない。
+Oh. We're on the same side.
+We'll never be his enemy.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ふう……よかったです。
+Well... I'm glad.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-もしわたしが違うと言ったら、
-どうするつもりだった？
+What were you going to do 
+if I told you I wasn't?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そんなの、決まってます。
+Isn't it obvious.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまをお守りするため、
-電光石火であなたの心臓を射抜きます。
+In order to protect <Woodrow>, 
+I would shoot you in the heart 
+with lightning speed.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-なるほど……
+I see.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Chelsea>は子供かと思ったが、
-どうして、立派な女だな。
+I thought you were still a child, 
+but well... You've become a fine 
+woman.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……？	ふたりしてこんな所で、
-何を話していたのだ？
+What were you two talking 
+about out here?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-秘密の話だ。
+It's a secret.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい、秘密です。
+That's right, it's a secret.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-待たせたね。
-では城を発つとしよう。
+Sorry to keep you waiting.
+Now, let's leave the castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい。
+Right.
 [ENDBLOCK]
 キャラクターめりこみ防止のラインを引く
 

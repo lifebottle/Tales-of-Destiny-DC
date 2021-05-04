@@ -1,127 +1,135 @@
-宿屋
+Innkeeper
 [ENDBLOCK]
-本日、仕入れのミスがありまして、
-お食事の用意ができません。
+We've made a mistake in stocking
+up today, so we won't be able to
+serve food.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-申し訳ありませんが、
-食事は向かいの酒場で御願いします。
+I'm very sorry, but I'll have to direct
+you to the tavern across the street
+for your meals.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-そういえば、近頃夜になると……
-って、あなたに話す事じゃないわね。
-近所の奥様じゃないんだから。
+Speaking of which, lately at night.....
+Oh look at me talking to a guest as
+if they were one of the neighborhood ladies.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-では、ゆっくり
-していってくださいね。
+Now, please take your time.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-そういえば、近頃夜になっても
-お城の人たちが、働いているそうよ。
+Speaking of which, it seems the
+people at the castle keep on working
+even late at night.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ほう、城で何かしているのか？
+Ooh, I wonder what they do in the castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃあ、夜まで待って、
-お城に行ってみましょうか。
+We could wait until nighttime and go
+to there.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>と<Philia>は
-休んでいるそうだ。
+It seems <Rutee> and <Philia> are
+going to rest up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>と<Johnny>さんも、
-興味ないからって。
+<Kongman> and <Johnny> also don't
+seem to be interested.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-おや、<Chelsea>は
-どうした？
+Oh, what about <Chelsea>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そういえば、
-見当たらないな。
+Speaking of which,
+I didn't see her around.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-子供だから、この時間は
-起きてるのがつらいですよ。
+She is a child, so it must be hard
+for her to be up at this hour.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうだな、では城に行ってみよう。
+Makes sense. Then let's go check
+out the castle.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-外をうろうろしない方がいい。
-反乱軍に見つかるとうるさいよ。
+It would better for you not to wander
+around at night. Will cause a commotion
+if the rebel army finds you.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-いらっしゃい。こんな雪国でも、
-食材は豊富に取り揃えていますよ。
+Welcome. Ours might be a cold
+country, but we sure can put
+together ample ingredients.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-外をうろうろしない方がいい。
-反乱軍に見つかるとうるさいよ。
+It would better for you not to wander
+around at night. Will cause a commotion
+if the rebel army finds you.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-いらっしゃい。こんな雪国でも、
-食材は豊富に取り揃えていますよ。
+Welcome. Ours might be a cold
+country, but we sure can put
+together ample ingredients.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-今、この街に留まるのは危険ですよ。
-それでもお泊りになりますか？
+It's been quite dangerous to stay
+in this city lately. Are certain you
+would you like to stay?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ。お泊りですか？
+Welcome. Will you be staying with us?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-今、この街に留まるのは危険ですが……
+It's been quite dangerous to stay
+in this city lately.....
 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-いらっしゃいませ。
+Welcome!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お泊りになりますか？
+Would you like to stay?
 [ENDBLOCK]
-ガルドになりますが、
-よろしいですか？
+ Gald.
+Is that okay?
 [ENDBLOCK]
-ごゆっくり。
+Have a nice day.
 [ENDBLOCK]
-いつでもどうぞ。
+Come by anytime you'd like.
 [ENDBLOCK]
-いってらっしゃいませ。
+Welcome.
 [ENDBLOCK]
-お金がたりません。
+You don't have enough Gald.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_032>ガルド
+<TAG_007>Current Gald: <TAG_032>Gald
 [ENDBLOCK]
 <TAG_007><TAG_035><TAG_055>
-はい
-いいえ
+Yes
+No
 [ENDBLOCK]
 notice
 [ENDBLOCK]

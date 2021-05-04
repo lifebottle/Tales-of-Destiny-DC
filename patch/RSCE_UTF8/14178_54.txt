@@ -373,43 +373,43 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-さあ、どこに行く？
+Hello, where would you like to go?
 <x18><x65><x59><xFC><x00><x80><x18><x65><x5A><x00><x00><x80><x18><x65><x5A><x04><x00><x80>
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-すまねぇ
-水門がふさがってて通れないな。
+Sorry. The floodgates are
+blocked. I can't get through.
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
 <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
@@ -420,299 +420,312 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あなた方はいつぞやの……！
+You're the people
+from before..!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-へえ。あたしたちもずいぶん
-有名になったみたいじゃない。
+Well now! Looks like we've gotten
+pretty popular around here.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-……おや？
+...Huh?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしました？
+What's wrong?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-我がアクアヴェイルの宝剣を
-携えた剣士殿はおられないのですね。
+The swordsman who carried
+Aquaveil's Treasured Blade
+is not with you?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-…………
+...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ……
+Ah...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……
+<Rutee>...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-あの、どうかされましたか？
+Uhm, is something wrong?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、ごめん。
-気にしないで。
+Ah, sorry.
+Don't worry about it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そ、それよりさ！
+M-More importantly!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと気になって
-たんだけど、<Johnny>。
+Something's been bugging
+me a bit, <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-何かな？
+What is it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしてあいつの宝剣を
-取り返さなかったの？
+Why didn't you take the
+Divine Blade back from him?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-この国にとっては、
-大切な物なんでしょ？
+I thought it was extremely
+important to this land?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですよ、<Johnny>さん。
-どうしてですか？
+Oh, yeah, why DID
+you do that, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そんな風に責め立てられてもな。
+No need to hound
+me about it like that.
 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺にとってはただの剣だからとしか、
-言いようがない。
+All I can say is that it was
+nothing more than a sword to me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-この国の人たちも
-宝剣だって分かっていたんでしょ？
+But the people of the country here
+know it as the Divine Blade, right?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それなのに、どうして
-取り戻さないのよ？
+So despite that,
+why didn't you take it back?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ああ、その話でしたら……
+Well, regarding that...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-宝剣が宝剣として奉納される前まで、
-話を遡らなくてはなりませんね。
+We'll need to go back to before the
+Divine Blade was known as such.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-宝剣になる前の話？
+Before it was the
+Divine Blade?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え？	昔は宝剣じゃなかったの？
+Huh? I thought it was the Treasured
+Sword since ancient times?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあ、それまで
-シャルティエは一体……？
+Then..just what was
+<Chaltier> until then..?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-長年、重罪人の処刑に
-使用されてきた剣でした。
+Many years ago, it was the sword
+used to decapitate serious criminals.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-シャルティエがそんな風に
-使われていたなんて……
+I can't imagine <Chaltier>
+being used like that....
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ディムロスは知ってたのか？
+<Dymlos>, did you know this?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-いや。そのような事実、
-我も初めて聞いた。
+No. This is the first time
+I've heard about this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-元が処刑に使われていた剣じゃね。
+So he was orginally used
+for execution, huh...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-アクアヴェイルの人たちも
-取り戻そうとしなかったわけね。
+So that's why even the people
+of Aquaveil didn't want it back.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-けど、そもそもどうして
-宝剣になったんですか？
+But..how come it became known
+as the Divine Blade, then?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-聞いた話ですが、
-１０年くらい前の事です。
+I've only heard the story,
+but it was ten years ago.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-どこかの誰かが処刑に使われている
-剣を宝剣にするべきだと……
+Someone, somewhere said we should
+declare the sword used for execution
+the "Divine Blade"
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-当時の大王だった現シデン領主に
-進言したらしいのです。
+At least, it seems that's what the 
+proposed to the Emperor, who was
+the lord of Shiden at the time.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-へえ。そんな事があったんだ。
+Huh, so that's what happened.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その王様に話した人って
-一体誰なんでしょうね。
+Just who was it that would say such
+a thing to the Emperor, I wonder?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-分かりません。ただ、
-大王に近い人物であった事は確かです。
+I don't know. Still, it must have
+been someone the Emperor trusted.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-心当たりない、<Johnny>？
+Any idea who it was, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-どうかな。あの時の親父、
-数多くの悪人を処刑していたからな。
+I don't. During that time my
+father was in charge, a lot
+of criminals were executed.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それを止めさせようとする
-人間も多かったはずさ。
+There were likely many people
+who wanted it to stop as well.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-なるほど、
-確かにそうかもしれません。
+Indeed, that may be the reason.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-処刑を止めさせるため、処刑の剣を
-宝剣にしようとした可能性もあります。
+In order to put an end to the executions, 
+it's possible the blade used for them was
+deemed the "Divine Blade".
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあ、いずれにせよ
-その誰かさんの真意は闇の中さ。
+Well, we're in the dark as to whoever
+did it's true intentions, I guess.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is closed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ご、ご苦労さまです！
-自分は大王派ではありません！
+Thank you for your time!
+I'm not a supporter of the King!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-大王陛下が死んでからというもの、
-人々の表情が明るくなりました。
+Since the death of His Majesty,
+people's faces have become brighter.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-今回の件、我が国を征服せんとする、
-セインガルドの陰謀なのでは？
+Isn't this a plot by Seinegald
+to conquer our country?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-大王に進言した人物って
-一体誰なんでしょうね。
+I wonder who was the person 
+that advised His Majesty.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-私もだんだん気になってきました。
+I'm getting more and
+more curious about it.
 
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-信じて……いいんですよね？
+I can trust..., can't I?
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-全部あの軍師が悪いのさ。
-よその国の人間を使うからだよ。
+It's all the fault of that warlord.
+He uses people from other countries.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-<Fayte>様や<Johnny>様にしても、
-よその国の人間の手を借りてたんだろ？
+Even Master <Fayte> and Master
+<Johnny> had the help of people
+from other countries, right?
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-絶対セインガルドの陰謀だよ。
-間違いないって。
+It's definitely a Seinegald conspiracy.
+I'm sure of it.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-セインガルドが本当に、
-あたしらを救ってくれるのかい？
+Is Seinegald really
+going to save us?
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-<Fayte>様が黒十字艦隊を引き連れて
-港に現れた時はかっこよかったわあ。
+It was so cool when Master <Fayte>
+appeared at the port with the
+Black Cross fleet.
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-<Fayte>様がよくここへ来るんで、
-黒十字艦隊を目にする機会も増えたのよ。
+Master <Fayte> often comes here,
+so i've been seeing more of
+the Black Cross fleet.
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-黒十字艦隊の船が、
-空の上まで行ければ……
+If the ships of the Black Cross fleet
+could make it to the top of the sky...
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-<Fayte>様が陣頭指揮を執って、
-レンズを集めているんです。
+Master <Fayte> is in charge
+of collecting the lens.
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-やっぱりあの方は頼りになるわあ。
+I knew I could rely on her.
 [ENDBLOCK]
-モリュウの民
+Moreau's Citizen
 [ENDBLOCK]
-頼んだわよ。<Fayte>様のお気持ちを、
-無駄にしないでください。
+I beg you. Please don't let Master
+<Fayte>'s feelings be in vain.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-品質には自信がありますよ。
-おひとつ、いかがです？
+I'm confident about the quality.
+Would you like one?
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-品質には自信がありますよ。
-おひとつ、いかがです？
+I'm confident about the quality.
+Would you like one?
 [ENDBLOCK]
 notice
 [ENDBLOCK]

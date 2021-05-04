@@ -1,170 +1,177 @@
-赤
+Red
 [ENDBLOCK]
-青
+Blue
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-黄
+Yellow
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-すでに<x18><x66><x10><x00><x80>色が登録されています。
+The <x18><x66><x10><x00><x80> colors have already been registered.
 [ENDBLOCK]
-赤
+Red
 [ENDBLOCK]
-青
+Blue
 [ENDBLOCK]
-黄
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-すでに<x18><x66><x10><x00><x80>色が登録されています。
+Yellow
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-特殊物資搬送の対応カラーは紫です。
+The <x18><x66><x10><x00><x80> colors have already been registered.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+The corresponding color for special 
+material transport is purple.
 
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-……<Stahn>君、
-私の声が聞こえるかしら。
+...<Stahn>, can you hear me?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-<Stahn>君。
-ヘルレイオスにいるんでしょう？
+<Stahn>. You're in 
+Helraios, aren't you?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-覚えているかしら？
-私……<Ilene>・<Rembrandt>よ。
+Do you remember me?
+It's <Ilene> <Rembrandt>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>さん……！
+<Ilene>...!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>君、手を引いてくれない？
-<Hugo>様の計画の邪魔をしないで。
+<Stahn>, will you please 
+back off? Don't get in the
+way of Mr. <Hugo>'s plans.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何が計画よ！	自分たちだけの都合で、
-地上を破滅させようとしているくせに！
+What's the plan? You're trying
+to ruin the earth for your own
+reasons!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-今の声は<Rutee>さんかしら。
-やはりここにいたのね。
+Is that <Rutee>'s voice.
+I knew you were there.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-聞いて<Stahn>君。私は<Hugo>様に、
-地上の民の移住を願い出るつもりよ。
+Listen, <Stahn>. I'm going to ask
+<Hugo> to relocate the people of
+the earth.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-もちろん、
-全員と言うわけには行かないけど……
+Of course, we can't save all of them.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-適正検査を行い、認められた者であれば、
-新世界の住人となる資格はあると思う。
+I believe that anyone who is qualified
+can become an inhabitant of the new
+world.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そして認められない者は、
-野垂れ死にしろと言うわけか。
+And those who are not accepted 
+are told to die on earth.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-人の身にありながら、神の真似をする。
-その態度がごう慢とは思わないのか？
+He imitates God while in 
+human form. Don't you think 
+that attitude is arrogant?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-まさに天上人の発想だ。
-<Ilene>は立派な天上人だよ。
+It's exactly the idea of a 
+celestial being. <Ilene> is a 
+fine celestial being.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺は……引く気はありません。
+I'm not going to back down.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-……そう。話し合いは決裂のようね。
-残念だわ。
+...Yes. It looks like the talks have
+gone in the wrong direction.
+That's too bad.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>さん……
+<Ilene>...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-冗談じゃないわ、何をえっらそうに！
+I'm not kidding. How dare you!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>！	さっさとあの女のところに、
-乗り込むわよ！
+<Stahn>!	I'm going to get
+you to that woman!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あ、ああ。
+Ah, ok.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-見てなさいよ。金持ちの苦労知らずに、
-人生の厳しさを思い知らせてやる！
+Watch it. I'm going to remind the
+rich and hardscrabble how hard 
+life can be!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-何色のカードキーを登録しますか？
-赤色カードキー
-青色カードキー
-黄色カードキー
+What color card do you want to register?
+Red Keycard
+Blue Keycard
+Yellow Keycard
 [ENDBLOCK]
-赤色
+Red
 [ENDBLOCK]
-青色
+Blue
 [ENDBLOCK]
-黄色
+Yellow
 [ENDBLOCK]
-緑
+Green
 [ENDBLOCK]
 <x17><x6E><x08><x80>      <x17><x6E><x0C><x80>  <x17><x28><xB8><x0B><x14><x39><x80>   <x17><x28><xBA><x0B><x14><x39><x80> 
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_052>カードキーを登録しました。
+The <TAG_052> keycard is now registered.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_052>は持っていません。
+I don't have a <TAG_052> card.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_052>はすでに登録してあります。
+The <TAG_052> card has already been registered.
 [ENDBLOCK]
-紫
+Purple
 [ENDBLOCK]
-オレンジ
+Orange
 [ENDBLOCK]
-緑
+Green
 [ENDBLOCK]
-赤緑
+Red-Green
 [ENDBLOCK]
-青緑
+Blue-Green
 [ENDBLOCK]
-黄緑
+Yellow-Green
 [ENDBLOCK]
 
 [ENDBLOCK]
-完成した色は<TAG_052>。
+The finished color is <TAG_052>.
 [ENDBLOCK]
 
 [ENDBLOCK]

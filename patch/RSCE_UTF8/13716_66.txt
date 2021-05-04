@@ -1,112 +1,112 @@
-Seinegald Soldier
+Soldier
 [ENDBLOCK]
-おい、そこの女！
+You there, woman.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしの事？
+You talking to me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>何よ!!	乱暴な言い方するやつね
-なんですか？
+<TAG_007>How about some manners!
+What is it?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-む！	生意気な女め。
+What!? Impertinent wench.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたもね！
+Look who's talking!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-おまえ……どこかで見た顔だな。
-確か……
+You...I swear I've seen
+your face before...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-強情な魔女！
+The Seedy Witch!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-おしい！
+You're close!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-強欲の魔法！
+The Greedy Snitch!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-遠くなった！
+Not so close!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-強盗の魔女！
+The Hungry Witch!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-微妙！
+Weirdly similar!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-剛よく柔を制す！
+The Gore Eat Dew Itch!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-意味わかんないし。
+What does that even mean.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-豪遊の魔女！
+The Speedy Witch!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それいいかも！
+That one's probably fine!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-魔女っ子<Rutee>！
+Witchy <Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっとかわいい！
+That's kinda cute!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Rutee>・カトレット！
+<Rutee> Katrea!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何よそれ？	
-……ってあたしの名前！
+What? ...That's just
+my name, dude!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……疲れた。
+...This is exhausting.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-おっ！	そうかそうか。
-それじゃあな、強欲の魔女さん。
+Oh! Now I remember.
+Take care, Greedy Witch.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-フフフ、<Rutee>が
-遊ばれるなんて珍しいわね。
+Hehehe, it's not every day you
+see <Rutee> get thrown for a loop.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-おや、違うのか？
+Oh, was I mistaken?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-な、何？
+W-What?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-人違いだったようだ。
-引き止めて悪かったな。
+I thought you were someone
+else. Sorry for stopping you.
 [ENDBLOCK]
 ××××××空開始××××××
 
@@ -128,75 +128,77 @@ Soldier
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-怪しい人間は、誰ひとり、
-ここを通しません。
+No one suspicious will
+get through here.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-敬礼！
+Salute!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-夜分までご苦労様です！
+Thank you for staying
+up so late!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-怪しい人間は、誰ひとり、
-ここを通しません。
+No one suspicious will
+get through here.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-怪しい人間は、誰ひとり、
-ここを通しません。
+No one suspicious will
+get through here.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-皆様、申し訳ありません！
+Everyone, I apologize!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-……え？	なぜ謝るのかわからない？
-そ、そうですか……
+...What? Don't know why you're
+apologizing. Yes, I see...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-まさか<Lion>様が裏切るとは、
-思いませんでした……
+I didn't expect Master <Lion>
+to betray us...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-ベルクラントというのは、
-なんという威力なのでしょう……
+What a powerful 
+thing Belcrant is...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Reynolds>さんの研究室なら
-そこを左に曲がってください。
+If you're looking for <Reynolds> lab,
+turn left there.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-城内にモンスターを侵入させぬよう、
-厳戒態勢をとっています。
+We are on high alert to prevent
+monsters from entering the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-女子供は身を隠せ。
-動ける男たちで街を守るんだ！
+The men who can move must 
+protect the city! Women and 
+children, hide yourselves.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-城内にモンスターを侵入させぬよう、
-厳戒態勢をとっています。
+We are on high alert to prevent
+monsters from entering the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-奥に見えるのが集積レンズ砲です。
-大きいですね。
+The integrated lens cannon
+is in the back. It's so big!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-世界の命運は皆様にかかっています。
-どうかよろしくお願いします。
+The fate of the world depends
+on you. Please take care of it.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -205,321 +207,330 @@ get through here.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-わ～い！	お城の庭って、
-広くて気持ちいい～！
+Wow! The garden of the
+Castle is so big and nice!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-わ～い！	お城の庭って、
-広くて気持ちいい～！
+Wow! The garden of the
+Castle is so big and nice!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-飛行竜、せっかく戻ってきたのに、
-またいなくなっちゃったの。
+The Draconis, it came back,
+and now it's gone again...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お空がだんだん暗くなってるみたい。
-どうしたのかしら？
+The sky is getting darker.
+What's going on?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-もうお日さまを見る事はできないの？
+Will I ever see the sun again?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-しゅうせきレンズほうって、
-なんなのかしら？
+What's a, Integrated lens cannon?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-しゅうせきレンズほうって、すごい！
-びっくりしちゃった！
+The lens cannon is amazing!
+I'm so suprised!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様、お出かけですか？
-いずれお茶をご一緒させてくださいな。
+Mr. <Lion>, are you leaving?
+I hope you'll join us for some tea soon.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あら、見かけない方ですね。
+Oh, I haven't seen you around.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様の
-新しい部下の方かしら？
+Mr. <Lion>, are these
+your new subordinates?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あ……<Lion>様……
+Oh... Mr. <Lion>.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様、お出かけですか？
-いずれお茶をご一緒させてくださいな。
+Mr. <Lion>, are you leaving?
+I hope you'll join us for some tea soon.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あら、見かけない方ですね。
+Oh, I haven't seen you around.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様の
-新しい部下の方かしら？
+Mr. <Lion>, are these your
+new subordinates?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-……<Lion>様……
+Mr. <Lion>...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様が反乱を起こすなんて、
-信じられませんわ……
+I can't believe Mr. <Lion>
+is leading a rebellion..
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あの声はオベロン社総帥の……
-彼が全ての黒幕だったのですか？
+I heard that Oberon's CEO was
+the mastermind behind all of this.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-オベロン社総帥が死んだのに、
-戦いは終わらないのですか？
+Oberon's CEO is dead.
+Will the battle never end?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-技術者の方々は、不眠不休で
-集積レンズ砲の制作を進めています。
+Engineers are working tirelessly
+to create the lens cannon.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-私にお手伝いできる事が、
-あればいいのですけど……
+Wish there was something
+I could do to help..
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あの光を、世界中の全ての人に、
-見せたいですわね。
+Wish everyone in the world
+could see that light.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様、お出かけですか？
-いずれお茶をご一緒させてくださいな。
+Mr. <Lion>, are you leaving?
+I hope you'll join us for some tea soon.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-あら、見かけない方ですね。
+Oh, I haven't seen you around.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Lion>様の
-新しい部下の方かしら？
+Mr. <Lion>, are these your
+new subordinates?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Lion>様のご活躍は、我々のような
-武器を持たない人間にまで届いております。
+Mr. <Lion> how are you doing?
+Your success has reached
+even people like us.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-中庭の植木を丹精込めて整えるのが、
-私共の仕事でございます。
+I cultivate the plants
+in the courtyard.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-中庭の植木を丹精込めて整えるのが、
-私共の仕事でございます。
+I cultivate the plants
+in the courtyard.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-申し訳ありませんが、私共には、
-政治的な事は何もわかりません。
+I'm sorry, but I don't know
+anything about politics.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-このまま日の光が閉ざされるようですと、
-植木はもちませんな……
+If daylight continues to be blocked,
+the plants won't last..
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-再び日の光が降り注ぐ日まで、
-ここで植木の世話を続けます。
+I'll continue to care for the plants
+until the sun shines again.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あの集積レンズ砲のおかげで、
-植木がいくらか犠牲になりました。
+The plants were dying because of
+the lens cannon.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-致し方ないとはいえ、
-それが残念でなりません……
+I can't help being
+disappointed by that..
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-中庭の植木を丹精込めて整えるのが、
-私共の仕事でございます。
+I cultivate the plants
+in the courtyard.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-王様の口から決戦とか言われると、
-いよいよって感じがするわね。
+When the king talks about a 
+decisive battle, it feels like 
+it's finally happening.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-泣いても笑っても、
-明日で最後なんですね……
+Cry or laugh, tomorrow
+is the last day.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-明日か……
+Tomorrow...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-遂にこの日が来たな。
+The day has finally come.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様がいる限り、勝つのは間違いねえ。
-心配すんな。ガハハハハ！
+As long as I'm around, we'll win.
+Don't worry. Gahahahahaha!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-なんだか緊張してきました。
-うう……
+I'm getting kind of nervous.
+Ugh...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-なあ。せっかくだから、
-明日の朝まで自由時間にしないか？
+Hey. Since we're on a roll,
+how about some free time 
+until tomorrow morning?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんなバラバラって事ですか？
+Does that mean we're
+going to separate?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そう。こういう時は各々、
-やるべき事があるだろう？
+Yes. In times like these, we all have
+our own work to do, don't we?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-たとえば、国に残してきた者に、
-手紙を書くとか……
+For example, write a letter to those
+you left behind in your country.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-誰かに伝えなくちゃいけない想いを、
-伝えておくとか。
+You can confess your feelings to 
+someone that needs to hear it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では私は、
-国許に書状をしたためるとしよう。
+Then I will write a 
+letter to my country.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-わたしは明日に向けて、
-勝利のおまじないを。
+I will do a victory 
+spell for tomorrow.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-武器の手入れをしておきたかった。
+I wanted to take care
+of the weapons.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-特製スタミナドリンクを飲んで、
-快眠と行くぜえ。
+I'm going to drink my special stamina
+drink and get a good night's sleep.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おいおい、そんなのばかりか？
-色気のない集団だな。
+Oh, come on, are they all 
+like that? They're not a very
+sexy bunch, are they?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあ、誰が何をやろうと自由だが。
+Well, each of us is free to
+do whatever you want.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃああたしは、
-少しその辺でも散歩しようかな……？
+I think I'll go for a little
+walk around the area.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、あんたはどうすんの？
+<Stahn>, what about you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだな……寝るかな。
+Well... I think I'll go to bed.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-もう!?
+Oh my god, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もうって……夜だし。
+I mean... it's night.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-今はいつでも夜だけどな。
+It's always night now, though.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-明日に備えてひたすら寝てろって、
-王様にも言われたし。
+The king told said to just sleep it
+off and get ready for tomorrow.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-「ゆっくり休息を取れ」ですよ。
+"Get some rest," he said.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あっそ。そうですか。
+Oh, yeah. I see.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さすがフィッツガルドの田舎者は、
-健康的でいらっしゃいます事。
+As expected, the country folk of
+Fitzgald are very healthy.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何怒ってるんだ？
+What are you angry about?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-別に。怒ってなんかいないわ。
+Nothing. I'm not angry.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-例によって戯言なんだが……
-物事ってのは、すべからくタイミングだ。
+As usual, this is nonsense...
+Things are all about timing.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-やるべき時にやるべき事をやらないと、
-二度と機会は訪れないかもしれないぜ？
+If you don't do what you need to do
+when you need to do it, you may never
+get another chance, okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やるべき事……？
+What we need to do...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おっと、俺が口を挟むのはここまでだ。
-後は自分で考えないとな。
+Well, that's all I'm going to say
+about that. You'll have to figure
+out the rest on your own.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はあ……
+Haha...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-じゃあここで解散しよう。
-休みたくなった者は宿へ行く。いいな？
+Then let's break it up here. Those of
+you who feel like resting will go to the
+inn. All right?
 [ENDBLOCK]
 notice
 [ENDBLOCK]

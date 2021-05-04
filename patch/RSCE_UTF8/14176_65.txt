@@ -462,43 +462,43 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 角度(z) = <TAG_046>
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-装飾屋
+Accessory Shop
 
 [ENDBLOCK]
-船場
+Dock
 
 [ENDBLOCK]
-武器屋
+Weapons Shop
 
 [ENDBLOCK]
-乗らない
+Don't Go
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-さあ、どこに行く？
+Hello, where would you like to go?
 <x18><x65><x59><xFC><x00><x80><x18><x65><x5A><x00><x00><x80><x18><x65><x5A><x04><x00><x80>
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-すまねぇ
-水門がふさがってて通れないな。
+Sorry. The floodgates are
+blocked. I can't get through.
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
-いどうできる
+Ready to move.
 
 [ENDBLOCK]
 <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
@@ -509,122 +509,126 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is closed.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-怖い大王はいなくなったわ！
-うれしい！
+The Great Scary One is gone!
+I'm so happy!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-トウケイ領へようこそ！
-ここはアクアヴェイルの中心……
+Welcome to Terazzi!
+The heart of Aquaveil...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-……ではなくなって
-しまうかもしれないわね。
+... I'm afraid it might
+not be it anymore.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-いつの間に空に屋根がついたの？
+When did a roof
+covered the sky?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-真っ暗なのにお星さまが見えないね……
+It's pich black, I can
+see no stars at all...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-トウケイ領へようこそ！
-レンズは集まってるわよ。
+Welcome to Terazzi!
+The lens are getting gathered.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-お兄ちゃん、お姉ちゃん、
-それとおじちゃん、がんばってね！
+Big brother, big sister,
+and uncle, good luck!
 [ENDBLOCK]
-おかみさん
+Hostess
 [ENDBLOCK]
-大王は無理に事を運び過ぎたよ。
-最後は自滅したようなもんだね。
+His Majesty pushed things too far.
+In the end, it's like he destroyed himself.
 [ENDBLOCK]
-おかみさん
+Hostess
 [ENDBLOCK]
-<Eleanor>様がいれば、
-大王もああはならなかったかもね。
+If Mistress <Eleanor> was here,
+maybe His Majesty wouldn't
+have ended like that.
 [ENDBLOCK]
-おかみさん
+Hostess
 [ENDBLOCK]
-あの放送は何なんだい？
-セインガルドが攻めてくるのかい？
+What's that broadcast about?
+Is Seinegald about to attack?
 [ENDBLOCK]
-おかみさん
+Hostess
 [ENDBLOCK]
-あたしら、
-これからどうなっちんまうんだろう。
+I wonder what's going
+to happen to us now.
 [ENDBLOCK]
-おかみさん
+Hostess
 [ENDBLOCK]
-あんたたち、よろしく頼んだよ。
+You guys, take care of it.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-これでのびのびと生活ができる。
-いやあ、良かった良かった！
+Now i can live an unforced life.
+Well, quite good, quite good!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-モリュウやシデンだけじゃなくて、
-よその国の人も来るようになった。
+Not only from Moreau and Shiden,
+people from other countries
+started to come.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-街はすっかり賑わいを取り戻したよ。
-いやあ、良かった良かった！
+The city is completely back to
+normal. Oh, nice, very nice!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-気持ちの悪い空だよなあ……
+What an unpleasant sky...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-世界中の人間と協力し合うなんて、
-大王の時代には考えられなかったよ。
+Cooperate with people from all
+over the world was unthinkable
+in the time of His Majesty.
 [ENDBLOCK]
-武器屋
+Weapon Shop
 [ENDBLOCK]
-武器をちゃんと扱えない奴は、
-一人前とは認められないぜ。
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-いやあ、空気がうまい！
-自由ばんざい！
+If you can't handle a weapon properly,
+you can't be considered a man.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Greybum>が死んだそうだな。
-ざまあみろってんだ！
+The air feels so good, man!
+Hooray for freedom!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-次から次へと、
-色々な事が起こるもんだ……
+I heard that <Greybum> is dead.
+Thanks to the Heaven!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-空からモンスターが降ってきたぜ。
-いや、見間違いなんかじゃないって！
+One thing after another...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-レンズなんかで良けりゃ、
-いくらでも出してやるぜ。
+Monsters are falling from the sky.
+No, you're not mistaken!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-勝てよ！
+I'll give you as many
+lens as you want.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You win!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -661,32 +665,31 @@ if Definite Strike is [ON].
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-いやあ、空気がうまい！
-自由ばんざい！
+The air feels so good, man!
+Hooray for freedom!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Greybum>が死んだそうだな。
-ざまあみろってんだ！
+I heard that <Greybum> is dead.
+Thanks to the Heaven!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-次から次へと、
-色々な事が起こるもんだ……
+One thing after another...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-空からモンスターが降ってきたぜ。
-いや、見間違いなんかじゃないって！
+Monsters are falling from the sky.
+No, you're not mistaken!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-レンズなんかで良けりゃ、
-いくらでも出してやるぜ。
+I'll give you as many
+lens as you want.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-勝てよ！
+You win!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1011,12 +1014,12 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald
-after taking the difference
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80> 
+<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
@@ -1077,13 +1080,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -1124,7 +1127,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]

@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DestinyDump
+namespace DestinyDecode
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // C:\\Users\\Destiny\\Desktop\\DestinyDump\\bin\\Debug\\00014.bin
-
-            Console.WriteLine("Make sure your font file (000014.bin) in in the same directory as this EXE and type in only the file name:");
-            string filename = Console.ReadLine(); //path to 00014.bin
+            Console.WriteLine("Make sure font file (00014.bin) is in the same directory as this executable and type in the file name:");
+            string filename = Console.ReadLine(); // Use filename "00014.bin"
             string output = "";
             byte[] tbl = System.IO.File.ReadAllBytes(filename);
             byte[] shiftJisChar = new byte[2];

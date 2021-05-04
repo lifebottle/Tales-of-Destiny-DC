@@ -471,361 +471,374 @@ init_camera_homing!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おっと！
+Woah!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ゴメンね、お兄ちゃん。
+Oops, sorry, Mister.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん、大丈夫だよ。
+Eh, it's Ok.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-それじゃね。
+Well, see ya!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、待ちなさい。
+Hey, hold it right there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうした？
+What is it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、あんた。あの間の抜けた
-顔のお兄ちゃんから、スッたわね？
-
+Hey, you.  Did you seriously
+just pick that dope's pocket?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしの目は誤魔化せないわよ。
-返してもらうわ、そのレンズ。
+You can't fool my eyes. Give
+back those Lens you stole.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-ふん。だったら何だ。
-盗まれる方が悪いんだろ。
+Hm. So what? People who get
+robbed deserve it, after all.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何だと？
-
+What was that..?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-反省なしって訳？
-とっちめてやろうかしら。
+No sign of regret, huh?
+Well then, what should
+we do with you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-許してあげようよ、<Rutee>。
-盗まれずに、済んだんだからさ。
+It's OK, <Rutee>. I don't think
+he's going to steal anymore.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-好きにしろってんだ。
+Do whatever you want.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-おまえらだって、僕たちからたくさんの
-ものを盗んでいったじゃないか。
+People like you, you've already
+taken so much from us.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしたちは何も盗んでいないわ。
-盗んだのはあんたじゃ……
+We haven't stolen ANYTHING
+from you! You're the one who-
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-僕たちの自由と幸せの
-事だよっ！
+Shut up! You took our
+freedom, our happiness!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どういう事よ？
+Wh-What did you say??
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今まで、おまえらは盗まれる方が
-悪いって顔してきて。
+So far, you've acted like those
+who get robbed deserve it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-盗まれた途端、今度は
-盗んだ方を悪く言うのかよ。
+Then when it happens to you,
+you complain about how awful
+thieves are!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-な……
+Wh...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-今だ！
+Now's my chance!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何を、ボーっとしてるんだ。
+Why did you just stand
+there like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ごめん……でも、あたしこの前、
-<Baruk>さんの前で言ったのよ。
+Sorry..it's just, it reminded me about 
+what <Baruk> said a while ago.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ここの人たちの事を「そんな昔の戦争の
-事をいつまでも気にしないでよね」って。
-
+About how the people here "Still 
+dwell on the war so long ago".
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、それがあの子の言う、
-「盗まれる方が悪いって顔して」
-って事なのかなと思って……
+But when that kid said "You act like
+people who get robbed deserve it"
+...is that what he meant?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-なんだ？	あんたら。もめ事なら
-街の外でやってくれ。
+What's going on out here?
+If you're having trouble,
+take it outside of town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今、少年にレンズを
-盗まれそうになって……
+Just now, a boy stole
+a lens from us...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-そいつはジャンクランドの
-ガキだよ。たまに現れるんだ。
+I see. That brat's from Junkland.
+They show up here from time to time.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ジャンクランド？
+"Junkland"?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-西にあるゴミの街さ。
-あんたらには到底関係ない場所だ。
+It's a town made up of garbage
+west of here. Not that that place
+concerns you at all, of course.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ゴミ……？
+Garbage...?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-この国からも見捨てられた街だよ。
+The country here has
+also abandoned it.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>特産の
-「ドクトルフィビール」の大樽だ。
+<TAG_005>Local Speciality
+<center>[Doctoleaf Beer]
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-よそ者が神殿を建てたのは、
-俺たちを監視するためだって噂がある。
+There's rumors that the foreigners
+built the temple to keep an eye on us.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あの放送を歓迎している人間が
-ここには多いが……大丈夫なのか？
+There's a lot of people here
+who welcomed that broadcast...
+Got a problem with that?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-地上の民といった場合、
-俺たちも含まれるんじゃないか？
+When he said "the people of the earth",
+doesn't that include us??
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-カルバレイスも攻撃を受けた……
-心配が当たってしまったな
+Calvalese was also attacked...
+My worries have come true.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ジャンクランドの知り合いから、
-連絡があったぜ。
+I just got a letter from a
+friend of mine in Junkland.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あんたの演説が心にしみたってさ。
-良かったな。
+He said your speech touched
+his heart. That's good.
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-カルバレイス人がみんな、
-自分たちの神を信じてるわけじゃないわ。
+Not all the people of Calvalese
+believe in their own god.
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-あのおじさん。家族が死んじゃってから、
-いーっつもお酒を飲んでるの。
+That old man over there
+has been drinking all the
+time since his family died...
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-カルバレイス人がみんな、
-自分たちの神を信じてるわけじゃないわ。
+Not all the people of Calvalese
+believe in their own god.
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-空が妙な陰り方をしているわね……
+The sky has a strange
+shade to it, right?
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-自分たちの神を信じていた人は、
-自分たちにも天罰が下ったって思うの？
+Do you think that people who believed
+in their own god would've attracted
+divine punishment?
 [ENDBLOCK]
-少女
+Girl
 [ENDBLOCK]
-私、もう一度お日さまが見たいの。
-お願いね。
+I want to see the sun again. Please!
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-酒で現実が消える事はないけど、
-ここの人間はそれに頼るしかないのさ。
+Alcohol doesn't make reality go away,
+but people here have to resort to it.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-空にできた網目の正体は、
-すべてえぐり取られた大地だって？
+The webs in the sky are all carved
+out of the ground, you say?
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-トラッシュマウンテンで
-大活躍したんだってね。
+I heard that you were very
+active at Trash Mountain.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-……なんで知ってるのかって？
-この商売やってると耳ざとくなるのさ。
+...How do I know this? When you're in
+this business, you get to hear things.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-あんたたちが無事に戻ってきたら、
-一緒に祝杯をあげようじゃないか。
+Once you're back in one piece,
+we'll have a toast together.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-酒で現実が消える事はないけど、
-ここの人間はそれに頼るしかないのさ。
+Alcohol doesn't make reality go away,
+but people here have to resort to it.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-空にできた網目の正体は、
-全てえぐり取られた大地だって？
+The webs in the sky are all carved
+out of the ground, you say?
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-トラッシュマウンテンで
-大活躍したんだってね。
+I heard that you were very
+active at Trash Mountain.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-……なんで知ってるのかって？
-この商売やってると耳ざとくなるのさ。
+...How do I know this? When you're in
+this business, you get to hear things.
 [ENDBLOCK]
-酒場の女主人
+Bar Hostess
 [ENDBLOCK]
-あんたたちが無事に戻ってきたら、
-一緒に祝杯をあげようじゃないか。
+Once you're back in one piece,
+we'll have a toast together.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-あら、かわいいお客さんだこと。
+Oh, what a cute customer you are.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-あの酔ったお客さんね、半年前くらいに
-チェリクから家族でここに移って来たの。
+That drunk guy over there moved
+here with his family from Cherik
+about six months ago.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-でも、その途中で奥さんと子供さんが
-砂漠の砂嵐で遭難して……
+But on the way there, his
+wife and children got lost
+in a desert sandstorm...
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-それ以来、ずっとああなのよ。
+He's been that way ever since.
 
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-あら、かわいいお客さんだこと。
+Oh, what a cute customer you are.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-セインガルドに隕石が落ちたって本当？
+Was it true that a meteor
+fell on Seinegald!?
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-なぜジャンクランドが攻撃されたの？
-あんなとこ、ゴミしかないのに。
+Why was Junkland attacked?
+That place is nothing but trash.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-ずっと暗いのも悪くないわね。
-日焼けしないで済むもの。
+It's not so bad when it's dark all the time.
+It keeps you from getting sunburned.
 [ENDBLOCK]
-店員
+Clerk
 [ENDBLOCK]
-なんだか肌寒くなってきたわ。
-やっぱり、ずっと暗いのは嫌よ！
-[ENDBLOCK]
-Old Man
-[ENDBLOCK]
-けっ、こんな生活、
-酒でも飲まないとやってられねえぜ。
+It's starting to get chilly.
+I don't want to be out in
+the dark all the time!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-あの外国の筋肉やろうぅ……
-女は店員しかいねえ事に気づけよ。
+Damn, I can't live like this,
+I need a drink or something.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-セインガルドに天罰が下ったってな。
-神殿の連中はどんな顔してるんだか。
+That foreigner douchebag ugh...
+He doesn't realize that this woman
+is only a sales clerk.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-やばいのはセインガルドだけじゃ
-ないようだな……
+I heard that the heavens have come
+down on Seinegald. I wonder what
+the people in the temple are thinking.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-神がいるならなんとかしろって、
-神殿の連中に言ってやったぜ。
+Looks like Seinegald aren't
+the only one in trouble...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-そうしたら奴ら、黙りやがった。
-やっぱり神なんていねえんだよ。
+I told the guys at the temple,
+If there is a Goddess then make
+her do something about it!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-神はいなくても、勇者はいるんだな。
-あんたたちがまぶしく見えるぜ。
+Then they became silent.
+I knew there was no Goddess!
+[ENDBLOCK]
+Old Man
+[ENDBLOCK]
+There are no gods, but there's
+brave men. You guys look amazing.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-この先は街の外に出ちゃうからね。
-それでもいいなら止めないけど。
+I'll be out of town for 
+the rest of the day.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-外へ出ても真っ暗なのは一緒だよ？
+It's just as dark outside too!?
 [ENDBLOCK]
-外国の男
+Foreigner
 [ENDBLOCK]
-俺の筋肉を見ろぉぉ……ヒック。
-俺はもてるはずなんだぁ……ヒック。
+Look at my muscles.... Hiccup.
+I'm supposed to be popular... Hiccup.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-どうしたんですか、坊ちゃん？
+What's wrong Young Master?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1293,12 +1306,12 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald
-after taking the difference
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80> 
+<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
@@ -1359,13 +1372,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -1406,7 +1419,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]

@@ -23,7 +23,7 @@
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Gusu, gusu...
+*sniffle*
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -31,8 +31,8 @@ What's the matter?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-My dad... he doesn't
-praise me at all.
+My dad...he never says
+anything nice to me...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -50,49 +50,51 @@ got work to do.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But you know what...
+But <Lion>...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-It's terrible... and your 
-friend, thinks I'm...
+You're so mean!
+You don't know a thing about-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Of course not.
+Of course I don't.
 How would I know?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If you don't know who your 
-father is, how would I know?
+You don't understand
+your own father, yet
+you expect me to?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, you can't do 
-anything with a  child?
+<Lion>, he's just a kid, you shou-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Shut up, <Stahn>.
+<Stahn>, be quiet.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He may be your father, but 
-he's still a stranger to you.
+He's a total stranger to you,
+even though he's your father.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-B-but my dad is...
+B-but father doesn't...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If others won't change, you'll have
-to change your way of thinking.
+If he won't change, then
+it's up to you to change
+your own way of thinking.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes, We have to change that.
+Yes...That's the
+right thing to do...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -100,53 +102,49 @@ Yes, We have to change that.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-I don't know what you're talking
-about. It's too confusing.
+I...I don't
+understand at all!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Ok. Hey, let's get a move on.
+Hey, let's go.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah, yeah, yeah.
+I...O-OK.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-This is just a coincidence. Would you
-like to take a rest?
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -164,17 +162,18 @@ Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-A new area, "Face Painting", has
-been Unlocked in the custom section
-of the main menu.
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Press <Triangle_ani> followed by <Select_ani>.
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-Canvas Liberator!!!!
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -193,7 +192,7 @@ from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Rocks abound in th world. They will
+Rocks abound in the world. They will
 do their best to be that new possibity.
 [ENDBLOCK]
 Chatty Old Man
@@ -220,46 +219,47 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-Chatty Old Manの話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放されました。
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-カスタム画面を開くには<Triangle_ani>でメニューを開き、
-続けて<Select_ani>を押して下さい。
-
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-「キャンバス」が解放されました。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-そこにある真っ白なキャンバスで
-仲間たちの様々な表情を見る事が出来ます。
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に落ちている石ころを
-変化させる事が出来るようになりました。
+It is now possible to change the
+rocks that fall around the world.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フィッツガルド中央付近にある旅人の小屋。
-その部屋にあるツボを調べる事で石が変化します。
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Dalis>のサブイベントが追加されました。
-サイリルへ行ってみましょう。
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x98><x80>
 
@@ -281,33 +281,32 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はChatty Old Manに
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
@@ -331,14 +330,13 @@ Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You must be the community Grandpa.
+You must be the Chatty Old Man.
 Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Hmm. Contact with with people is a
-once in a lifetime experience.
-Cherish it.
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -825,23 +823,23 @@ are all so different.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Welp, should we go look for this
-area's branch of Oberon Company
-just like always?
+Welp, should we go look
+for the Oberon branch
+here, like in Calvalese?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We won't be doing that.
+There isn't one here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It has a national isolation
-policy, remember?
+Remember? Aquaveil has a
+policy of National Isolation.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Incidentally, there isn't
-a Straylize Temple, either.
+Incidentally, there's no
+Straylize Temple here, either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -943,7 +941,7 @@ the best way to get to Moreau?
 [ENDBLOCK]
 You can use the sea cave. 
 There's an entrance to it 
-to the south of town.
+to the South of town.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -953,18 +951,17 @@ The floor of the cavern is very
 brittle. Please be cautious.
 [ENDBLOCK]
 There are terrible monsters living
-there, as well. Be sure not to stay
-there too long.
+there, as well. Try not to linger.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You just let him mistake
-us for someone else...
+You're just going to
+lie to him like that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He's the one who so
-carelessly mistook us.
+He's the one who made
+such a careless mistake.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -997,7 +994,7 @@ Yes, we know.
 <Rutee>
 [ENDBLOCK]
 Hey <Mary>. I feel like screaming
-at the top of my lungs righ now.
+at the top of my lungs right now.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1014,16 +1011,16 @@ Yeah, yeah, whatever.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We're going to hit any 
-place we can find a rope.
+Look anywhere there might be
+some rope. Leave no stone unturned.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Don't dawdle, you two.
+Don't dawdle, you two!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Ha, yes.
+Y-Yes, sir!
 [ENDBLOCK]
 notice
 [ENDBLOCK]

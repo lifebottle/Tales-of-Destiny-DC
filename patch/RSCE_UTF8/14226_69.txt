@@ -18,101 +18,95 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-これも何かの縁じゃ。
-休んでいくかね？
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-休んでいきますか？
-はい
-いいえ
+Are you going to rest?
+Yes
+No
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-いつでも来ておくれ。
-
+Please stop by at any time.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-メニュー解放じゃ！！！！
+Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放
-されました。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-<Triangle_ani>を押し、
-続けて<Select_ani>を押すのじゃぞ。
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-キャンバス解放じゃ！！！！
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-あなたが望めば、あの真っ白なキャンバスに
-仲間たちが、様々な表情を見せてくれるでしょう。
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-蹴り石変化の術じゃ！！！！
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-この部屋を色々調べてみるがよい。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に溢れる石。
-その新しい可能性として
-彼らが頑張ってくれるでしょう。
+<Chelsea>'s room in Alba's cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ここより東の地、白銀の世界にある。
-なつかしき夫の下へ、向かえ！！！！
+The Art of Rock Rally !!!!
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+You may want to check this room
+from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニ爺の言葉に従って
-<Dalis>のところへ行ってみましょう。
-何かあるかもしれません。
+Rocks abound in the world. They will
+do their best to be that new possibity.
+[ENDBLOCK]
+Chatty Old Man
+[ENDBLOCK]
+The land east of here is a silvery new world.
+Head for your old husband!!!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x47><xB0><x80>
 
@@ -128,46 +122,47 @@ openflag -><x17><x71><x47><xB8><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-コミュニ爺の話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-メインメニュー内のカスタムに
-新たな項目「フェイス絵」が解放されました。
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-カスタム画面を開くには<Triangle_ani>でメニューを開き、
-続けて<Select_ani>を押して下さい。
-
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-「キャンバス」が解放されました。
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-トーンの山小屋の<Chelsea>の部屋。
-そこにある真っ白なキャンバスで
-仲間たちの様々な表情を見る事が出来ます。
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-世界中に落ちている石ころを
-変化させる事が出来るようになりました。
+It is now possible to change the
+rocks that fall around the world.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フィッツガルド中央付近にある旅人の小屋。
-その部屋にあるツボを調べる事で石が変化します。
+At a hut near the center of Fitzgald.
+By examining the pressure points in 
+that room, the stone will change.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Dalis>のサブイベントが追加されました。
-サイリルへ行ってみましょう。
+<Dalis>'s sub-event has been added.
+Let's go to Cyril.
 [ENDBLOCK]
 oldflag -><x17><x71><x47><xB0><x80>
 
@@ -189,325 +184,325 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はコミュニ爺に
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ちょいと楽しそうだとは
-思わんかね？
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-初めて見る顔だな。
-フィッツガルドの人間かね？
+I've never seen you around before.
+Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はじめまして、<Stahn>って言います。
-生まれも育ちもリーネの村です。
+My name is <Stahn>. I'm from
+the village of Lienea.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-そうか、そうか。
-わしはコミュニ爺じゃ。
-よろしくの。
+Well, well, well they call me,
+Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こみゅにじい……さんですね。
-よろしくお願いします。
+You must be the Chatty Old Man.
+Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-うむ。人との触れ合いは
-一期一会。大切にな。
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いちご……？
+Strawberry...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-後悔しない人付き合いをしろ、
-という意味だ。
+It means, Socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なるほど！	ありがとうございます！
+I see! Thank you!
 [ENDBLOCK]
-薄着の観光客
+Lightly Clothed Tourist
 [ENDBLOCK]
-もう～、何よこの寒さ。
-一面雪じゃない～。
+Jeeez what's with this cold?
+There's snow everywhere!!
 [ENDBLOCK]
-着込んだ観光客
+Dressed Tourist
 [ENDBLOCK]
-だから言ったでしょ、
-それじゃ薄着だってぇ。
+I told you, it's because you're
+not dressed for the weather.
 [ENDBLOCK]
-金持ち観光客
+Rich Tourist
 [ENDBLOCK]
-でもさでもさ、それじゃ
-いい男がいたら困っちゃうじゃない。
+It wouldn't be any trouble if
+we had a fine man with us.
 [ENDBLOCK]
-薄着の観光客
+Lightly Clothed Tourist
 [ENDBLOCK]
-そうそう。だよね～。
+That's sooo true~
 [ENDBLOCK]
-薄着の観光客
+Lightly Clothed Tourist
 [ENDBLOCK]
-キャー。って言ってるそばから、
-美男はっけ～ん！！
+EEEEK! Just when we say it,
+we see a hunk right in front of us!!
 
 [ENDBLOCK]
-着込んだ観光客
+Dressed Tourist
 [ENDBLOCK]
-キャー。って言ってるそばから、
-美男はっけ～ん！！
+EEEEK! Just when we say it,
+we see a hunk right in front of us!!
 
 [ENDBLOCK]
-金持ち観光客
+Rich Tourist
 [ENDBLOCK]
-キャー。って言ってるそばから、
-美男はっけ～ん！！
+EEEEK! Just when we say it,
+we see a hunk right in front of us!!
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-この美男に何かご用ですかな？
-お嬢さんたち。
+What can this hunk
+do for you, ladies~?
 [ENDBLOCK]
-金持ち観光客
+Rich Tourist
 [ENDBLOCK]
-つーか、誰この裸のおっさん？
+Guhh! What's with
+the weird naked guy?
 [ENDBLOCK]
-薄着の観光客
+Lightly Clothed Tourist
 [ENDBLOCK]
-ねえ、あなた美男ね！
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-私の事……ですか？
-[ENDBLOCK]
-着込んだ観光客
-[ENDBLOCK]
-うんうん、かなりイケてるよ。
-[ENDBLOCK]
-薄着の観光客
-[ENDBLOCK]
-ねえ、私たちと一緒に
-温泉に入ろうよ。
+Yo, handsome~!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いや、それは……
+Are you talking to me..?
+[ENDBLOCK]
+Dressed Tourist
+[ENDBLOCK]
+Oh yeah~! You're so hot
+[ENDBLOCK]
+Lightly Clothed Tourist
+[ENDBLOCK]
+Sayy~ We should all go to
+the hot spring together~
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+N-No, I couldn't possibly...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うわー、なんだか楽しそうですね。
+Woahh! That sounds like fun!
 [ENDBLOCK]
-金持ち観光客
+Rich Tourist
 [ENDBLOCK]
-ん？	まああんたも
-そこそこイケてるからいいわよ。
+Eh? Meh, yeah, ok I guess you're
+kinda cute. You can come too.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-それじゃあ、俺様も……
+A-And..what about me?
 [ENDBLOCK]
-金持ち観光客
+Rich Tourist
 [ENDBLOCK]
-いや、あんたはいい。
-[ENDBLOCK]
-<Chelsea>
-[ENDBLOCK]
-ちょっと待ってくださーい!!
+Nah, you're fine.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あなた方がお話している人が
-誰か分かっているんですか!?
+Wait just a darn minute!!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-恐れ多くも……
+Do you people have even the slightest
+clue who you're talking to!?
 [ENDBLOCK]
-薄着の観光客
+<Chelsea>
 [ENDBLOCK]
-あんたの兄貴？
+How disrespectful...
 [ENDBLOCK]
-着込んだ観光客
+Lightly Clothed Tourist
 [ENDBLOCK]
-って事は、妹！
+Is he your older brother?
 [ENDBLOCK]
-金持ちの観光客
+Dressed Tourist
 [ENDBLOCK]
-そっか、お兄ちゃんが取られそうで
-騒いでいるのね。
+Then that would make
+you... his little sister!
 [ENDBLOCK]
-薄着の観光客
+Rich Tourist
 [ENDBLOCK]
-あ、それわかるなー。
-私も……
+Ah I see, you're getting fussy
+because you don't want us to
+take your big brother away.
+[ENDBLOCK]
+Lightly Clothed Tourist
+[ENDBLOCK]
+I can understand that. I, too-
 [ENDBLOCK]
 
 [ENDBLOCK]
-<S01>40
+<S01>SIS
 [ENDBLOCK]
 
 [ENDBLOCK]
-<S01>96
+<S01>TER
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私は妹じゃありません！
-この人の妻です！
+I am not his sister!
+I'm his betrothed!!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-そして、この人は
-ファンダリア王ですよ！
+On top of that!
+He's the King of Phandaria!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-つ？
+be..?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ま？
+..trothed..?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-あんまり調子にのると、
-軍を呼びますよ。
+If you dare keep this up,
+we'll call for the army!!
 [ENDBLOCK]
-着込んだ観光客
+Dressed Tourist
 [ENDBLOCK]
-す、すみませんでしたー!!
+P-Please forgive our rudeness!!!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>……
+<Chelsea>...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-す、すみません。
-<Woodrow>さま……
+F-Forgive me, King <Woodrow>...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なあに、いいじゃねえか。
-スカッとしたぜ、嬢ちゃん。
+For what, kid?
+You handled that really well.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえも悪いんだぜ。
-あんな連中に鼻の下伸ばしやがって。
+Yall should be ashamed of yourselves,
+ogling those girls like that.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そ、そんな私は……！
+T-Thats..!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、<Kongman>も
-怒ってたじゃない。
+But..you looked pretty
+angry there, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-う、うるせいやい！
+Sh-Shaddap!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-まあ、<Chelsea>も
-悪気があったわけじゃない。
+It's ok, <Chelsea>. I know
+you had good intentions.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そういった、自由なところが
-<Chelsea>の魅力でもあるか。
+Indeed, it's charming
+how you speak your mind.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-でもこういった嘘は
-もう駄目だからね、<Chelsea>。
+That said, it's not good.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はい！
+Right!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-でも、あなたを射止めるためなら、
-私何度でも、嘘ついちゃいますからね。
+But..if it's to win your heart,
+I'll tell as many lies as it takes~!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-うふふ。
+Ehehe..
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ファンダリア観光局指定
-スノーフリア温泉へようこそ。
+<TAG_005><center>Welcome to Frostheim Hot Springs, 
+designated by the Phandarian Tourism Bureau.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-温泉をご利用になりますか？
-はい
-いいえ
+Would you like to
+use the hot spring?
+Yes
+No
 
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-怪我をしている兵隊さんが利用できる
-よう、準備をしています。
+We are preparing to make it
+available to injured soldiers.
 [ENDBLOCK]
-温泉受け付け
+Reception Desk
 [ENDBLOCK]
-ただ今、準備中です。
-またお越しください。
+We are preparing now.
+Please come back later.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -741,339 +736,348 @@ notice
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-いやー、雪の中の温泉というのも
-なかなか風情があるな。
+Ahh... A hot spring in the middle
+of the snow is quite elegant.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うがー、戦士の休息だぜ。
+yeahh~ this is a warrior's rest.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ、たまの休息も必要だな。
+Aah... It's good to rest
+every now and then...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>たちも
-ゆっくり休めてるかな？
+Think <Rutee> and the others
+are enjoying this too?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>のって立派よねー。
-一体何食べたらそんなに。
+Wow, <Mary>, you're really something.
+Just what do you eat to get like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それでいて、この弾力か……
+Despite it all,
+you're so flexible...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-私のは……家系だろうな。
+I... guess it's just in my blood.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-むむ……あたしなんて……
-でもさすがに<Chelsea>には、
-ねぇ～。
+hmph, I'm jealous..At least I've got
+<Chelsea> beat, as expected, eh~?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-な、何を言ってるんですか!?
+Wh-What are you saying!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-私はまだ成長期ですからね。
-<Rutee>さんなんてもう……
+I'm still growing you know!
+Come on, Miss <Rutee>...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ふふん、<Rutee>さんが
-１４才の時はどうだったんですかね～。
+Teehee, I bet you wouldn't be saying
+that if you were 14 too~, hehe.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんですって～！
+Oh you~!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-って、<Philia>何逃げようとしてんのよ！
+Hey, <Philia>, where do
+you think you're going!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-って、<Philia>さん逃げないで下さい！
+<Philia>, please don't run!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-や、やめてくださーい。
+N-No, please, stooop!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うがーー!!
+Ughh! I can't take it anymore!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ど、どうしたんだよ!?
+Wh-What's wrong?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Stahn>よ。男はどうして
-山に登るんだろうな？
+<Stahn>, my boy. Do you know
+why men climb mountains?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-女の人も登るよ？
+Don't women climb them, too?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-そいつはなぁ、目の前に
-山があるからじゃー、ねえのかい。
+It's because the mountain is in
+front of them! That's why, right?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そう……かもしれないけど。
+Uhm..I guess..?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おめえも、男だよな？
+You're also a man, right?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-一緒に山、登ろうぜ！
+Then let's scale this
+mountain together!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい？
+OK??
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-先輩が先に引っ張ってやるからな、
-遅れずについてくるんだぜ！
+Since I'm your senior here,
+I'll go first. Try to keep up!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-なぁに、安心しな。
+Come on, it'll be fine!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-たとえ離れ離れになっても、
-必ずまた逢えるさ！
+Even if we get separated,
+we'll regroup!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-目指すはあの頂きだぜ!!
+Now let's aim for the summit!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-仕切りの向こうに頂きがある。
-この隙間からおめえもしっかり見るんだぜ！
+The summit's on the other side of
+this wall. You can see it through
+this crack right here!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ま、まずいって<Kongman>！
+K-<Kongman>, this is awful!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ん？
+Whuh?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Uh oh, oooops!
+Oooops, sorry...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Sorry, I got
-sweat in my hand!
+Looks like Atwight slipped out of my
+hand and right through that crack~!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-UWAAGHHH!!!!
+GYAAAAAAAAAAA
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんな大声で
-悪巧みをしないでよ。
+Did you think you were being sneaky,
+blurting out your plan like that?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-だからって、頭に剣をさすなぁ！
+Well ya didn't have to stab
+me in the head with a sword!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-左側が男湯。右側が女湯ですね。
-それでは参りましょう。
+The men's side is on the left,
+the girls side is on the right.
+Well then, shall we go?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-はーい。
+OK!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こら、<Stahn>。
-ノゾくなよ～！
+Hey <Stahn>, No Peeking~!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-の、ノゾかないよ！
+I-I won't, I promise!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-その必要などない。俺様ぐらいに
-なるとおめえのような薄着なら
-……ムムム！
+No need to say anything. 
+(When it comes to me, with you
+being lightly dressed..hehehe!)
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-な、なによ？
-その変な目つきは……
+Wh-What!? What's with
+that creepy look...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっはっは！
+Gahahahaha!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-よく分からないけど、
-何かむかつくわね。
+...Not sure why,
+but I feel sick to my stomach.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-まあまあ、それくらいに
-しておけよ、<Kongman>。
+Now now, there's no need
+for that, <Kongman>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>もだ。
-早く温泉に入るぞ。
+You too <Rutee>.
+Let's hurry to the baths.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-では、我々も入るとしよう。
+Very well, let's go.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はぁ～、気持ちいいですね。
+Haah...This feels incredible.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-ふぅ～、肌もつるつる
-になるしな。
+Whew~..it's so good
+for the skin, too.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-くぅ～、いい湯だね、こりゃ～。
+Mmhm, this is a nice hot bath~
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Chelsea>、あんた
-年寄りっぽいわよー。
+<Chelsea>, you sound
+like an old man, hehe.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまの前じゃ、
-見せられませんね。
+I don't dare show this
+side to King <Woodrow>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ひゃ！	冷たいよ。
+Gyah! C-Cold!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは！
-どうでい、俺様の特製雪だま……
+Gaahahaha! Whaddaya think?
+That was my patented SuperSnowball!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-痛て、<Johnny>おめえか！
+OUCH! <Johnny>!!
+Was that you!?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Kongman>、私をねらったな！
+<Kongman>, don't you
+dare aim that at me!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あいつらホントに子供ね～。
+Those guys are
+nothin' but children...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>さまも
-はしゃいじゃって。かわいい～。
+King <Woodrow>'s also
+havin' fun. It's so cute~!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-男というのは、なぜああ子供っぽい
-ところがあるんだろうな？
+I wonder what causes men
+to act so childish sometimes?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-本当に不思議で……
+It's truly a mystery...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うわ～、<Kongman>の
-大きい～。
+Woaah! <Kongman>, that's big!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-がっはっは。それはな<Stahn>。
-俺様がチャンピオンだからよ！
+Gahahah! You got that right,
+<Stahn>! I'm the Champion, after all!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-いや、それにしても<Stahn>も
-小さくてかわいいじゃないか。
+Haha, even so, <Stahn>'s
+is so small and cute.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どれどれ、<Woodrow>は……
+Well well, what about <Woodrow>...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おっっきーーーい！
+WOAHH it's HUUUUGE!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様が負けるなんて……
+H-How could I have lost...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺も生まれて初めてだよ。
-こんな大きいモノをみたのは。
+I've never seen one so
+big in my entire life!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやー、気持ちよかったね。
+Ahh, that was refreshing.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-今度は<Darzen>も……
+Perhaps I should invite
+<Darzen> next time...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうしたのだ？
-みんな変な目で私を見て？
+What's wrong?
+Why is everyone staring at me like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんな、お風呂に入る前の
-<Kongman>みたいだよ。
+You look like <Kongman>
+before we went into the bath...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、いえいえ。
+Ah, n-nope nothing!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何でもありません。
+It's nothing at all.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-お気になさらずに。
+Don't worry about it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうしたんでぇ？
+What's with them
+all of a sudden?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さあ？<x00>
+Who knows?<x00>
 [ENDBLOCK]

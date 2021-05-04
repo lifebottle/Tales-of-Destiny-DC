@@ -5,18 +5,18 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>別行動のパーティと合流します。
+<TAG_007>Meet up with the other party.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>パーティを再編成しますか？
-はい
-いいえ
+<TAG_007>Do you want to regroup the party?
+Yes
+No
 [ENDBLOCK]
 caution
 [ENDBLOCK]
-<TAG_007>別行動のパーティが到着できません。
+<TAG_007>The separate parties cannot be reached.
 
 [ENDBLOCK]
     <x17><x71><x47><x5C><x80> 0000000000000000000000000000000000

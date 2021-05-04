@@ -10,127 +10,132 @@ Step up
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-<yellow>★<x05><x3C><x54><x41><x47>_007>
+<yellow>★</color>
 [ENDBLOCK]
  
 [ENDBLOCK]
-陛下の太鼓で遊ぶ
+Play His Majesty's Drums
 [ENDBLOCK]
 <x18><x20><x08><x95><x01><x00><x80><x18><x25><x7A><x08><x19><x02><x00><x80>
 <x18><x21><x08><x95><x01><x00><x80><x18><x25><x29><x08><x19><x02><x00><x80>
 <x18><x24><x02><x08><x95><x01><x00><x80><x18><x25><x28><x08><x19><x02><x00><x80>
 <x18><x24><x03><x08><x95><x01><x00><x80><x18><x25><x27><x08><x19><x02><x00><x80>
-戻る
+Return
 
 [ENDBLOCK]
-遊び方
+How to Play
 [ENDBLOCK]
-陛下の太鼓とは
-操作方法
-曲について
-モード変更について
-戻る
+What is His Majesty's Drums
+Controls
+Song Selection
+How to Change Modes
+Return
 
-[ENDBLOCK]
-
-[ENDBLOCK]
-陛下の太鼓で遊ぶ
-遊び方
-モード変更
-やめる
-[ENDBLOCK]
-モード変更
-[ENDBLOCK]
-難易度を決めます
-	簡	単	
-	普	通	
-	困	難	
 [ENDBLOCK]
 
 [ENDBLOCK]
-選べない曲を
-選びました。
+Play His Majesty's Drums
+How to Play
+Change Modes
+Quit
+[ENDBLOCK]
+Change Modes
+[ENDBLOCK]
+Select your difficulty level
+	Easy	
+	Normal
+	Hard	
+[ENDBLOCK]
 
 [ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-「陛下の太鼓」とは、音楽に合わせて
-太鼓をたたくゲームです。
-[ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-はじめに「曲を選ぶ」を選択して、
-次に遊びたい曲を選択して下さい。
-[ENDBLOCK]
-陛下の太鼓とは
-[ENDBLOCK]
-ゲームが始まると、画面中央付近の枠の中に、
-三色のレンズが右から左へと流れていきます。
+You have chosen a song that
+is currently unavailable.
 
 [ENDBLOCK]
-陛下の太鼓とは
+What is His Majesty's Drums
 [ENDBLOCK]
-レンズは右側の青い印の場所から出現します。
-対称地点にある灰色の印と、右から来たレンズが
-重なった時、対応するボタン操作をして下さい。
+"His Majesty's Drums" is a rhythm
+game where you strike the drum
+with the music.
 [ENDBLOCK]
-陛下の太鼓とは
+What is His Majesty's Drums
 [ENDBLOCK]
-成功すると、右上のゲージがたまっていきます。
-逆に失敗すると、レンズがその場で消えます。
+First, select "Song Selection," then
+select the song you want to play.
 [ENDBLOCK]
-操作方法
+What is His Majesty's Drums
 [ENDBLOCK]
-赤レンズ(ドン)：<Left_blink> または <Circle_ani>
-青レンズ(カツ)：<L1_ani> または <R1_ani>
+While playing, three colored lens will
+scroll from the right to the left
+within a frame near the center of
+your screen.
+[ENDBLOCK]
+What is His Majesty's Drums
+[ENDBLOCK]
+The lens will appear at the blue
+circle on the right-hand side of
+the frame. Once it overlaps with the
+grey circle, hit the correct button.
+[ENDBLOCK]
+What is His Majesty's Drums
+[ENDBLOCK]
+If your timing is right, the gauge on
+the upper right corner will increase.
+If your timing is off, the lens is lost.
+[ENDBLOCK]
+Controls
+[ENDBLOCK]
+Red Lens (Don)：<Left_blink> or <Circle_ani>
+Blue Lens (Ka)：<L1_ani> or <R1_ani>
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
-大きい赤レンズ(ドン)：<Left_blink> と <Circle_ani> を同時
-大きい青レンズ(カツ)：<L1_ani> と <R1_ani> を同時
+Large Red Lens (Don)：<Left_blink> and <Circle_ani> together
+Large Blue Lens (Ka)：<L1_ani> and <R1_ani> together
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
-黄レンズ(連打)：カツ、ドン連打
+Yellow Lens (barrage)：
+Smash 'Ka' and 'Don' repeatedly. 
 
 [ENDBLOCK]
-操作方法
+Controls
 [ENDBLOCK]
-曲が始まってからは、<Select_ani>でタイトル画面に
-戻る事ができます。
+You can use <Select_ani> during a
+song to return to the main menu.
 [ENDBLOCK]
-曲について
+Song Selection
 [ENDBLOCK]
-始めに選択できる曲は、二曲です。
-これらをクリアする事で
-曲が増えていきます。
+When you first play, only two songs
+will be available. More will unlock
+as you clear available songs.
 
 [ENDBLOCK]
-曲について
+Song Selection
 [ENDBLOCK]
-なおクリアした曲名には、
-<yellow>★</color>マークが付きます。
+Songs that have been cleared will
+be marked with a <yellow>★</color>.
 
 [ENDBLOCK]
-モード変更について
+How to Change Modes
 [ENDBLOCK]
-ゲーム開始時は「簡単」に設定されています。
-「簡単」の場合は「赤レンズ」しか出てきません。
+The default mode is 'Easy.' In this
+mode, only 'Red Lens' will appear.
 
 [ENDBLOCK]
-モード変更について
+How to Change Modes
 [ENDBLOCK]
-「普通」に設定すると、
-「赤レンズ」の他に「青レンズ」や「黄色レンズ」が
-出てきます。
+When the game mode is set to 
+'Normal,' Yellow Lens and Blue Lens
+will appear with Red Lens.
 [ENDBLOCK]
-モード変更について
+How to Change Modes
 [ENDBLOCK]
-「困難」に設定すると、
-これまでのレンズの他に、「大きいレンズ」が
-出てきます。
+When the game mode is set to
+Hard, 'Large Lens' will appear
+in addition to previous lens types.
 [ENDBLOCK]
 <x17><x71><x4A><xF4><x80>
 
@@ -141,107 +146,109 @@ _SET_FVECTOR( line[0] , <x1D><x75><x4A><xF8><x80>,<x1D><x75><x4B><x00><x80>,<x1D
 _SET_FVECTOR( line[1] , <x1D><x75><x4A><xFC><x80>,<x1D><x75><x4B><x04><x80>,<x1D><x75><x4B><x0C><x80>);
 
 [ENDBLOCK]
-ドレイアス
+Dreyas
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-誰だ！	そこにいるのは!?
+Who's there? Show yourself!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-わしに気付いた人間は、
-久しくおらんかったの。
+It has been ages since anyone
+has been able to sense my presence.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-モンスターが喋った!?
+Great. now monsters talk?!
 [ENDBLOCK]
-わしは、このアクアヴェイルを
-長久の刻にて、暁と黄昏を見守りし神妖。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-へー、すごいなぁ。
-あ、いけね……
+I am a divine being who has watched
+over Aquaveil since the dawn of time.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺の名前は……
-[ENDBLOCK]
-語らずとも分かっておる。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-さすが神妖！
-信用できるなぁ。
-[ENDBLOCK]
-そちがそのようにウィットに
-富んでいるとは知らなかった……
+Really? That's amazing.
+RIght, where are my manners...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ウィット……？
-よくわからないけど、
-ありがとうございます。
+My name is...
+[ENDBLOCK]
+Don't waste breath on what is
+already known to me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、あなたがフランツさんの
-言っていたおばけですか？
+Wow, you really ARE a divine being.
 [ENDBLOCK]
-恐らくその通りじゃ。
-して、ぶしつけだが頼みがある。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-頼みですか？	いいですよ。
-[ENDBLOCK]
-……そちを……
-[ENDBLOCK]
-食わしてくれぃ!!
-[ENDBLOCK]
-やはりわしが思ったとおりじゃ、
-そちは強い。
-[ENDBLOCK]
-実は本当の頼みは、
-これから話す事じゃ。
+Amusing, who knew you
+were so witty...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当の頼み？
-[ENDBLOCK]
-空を覆う大地が出来てから、
-アクアヴェイルに住む動物たちが
-死に瀕している。
-[ENDBLOCK]
-特に体の小さなものは、
-生命活力を日に日に奪われているようじゃ。
+Witty...?
+I'm not quite sure what you mean,
+but thank you for the compliment.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その事なら大丈夫！
-俺に任せてください。
+Wait, could you be the spirit that
+Franz was talking about?
 [ENDBLOCK]
-それはまことか？
+Perhaps we are one in the same.
+Now, I would like you to assist
+me with something in particular.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Sure, I'm happy to help.
+[ENDBLOCK]
+...Over there...
+[ENDBLOCK]
+It is time to feast!
+[ENDBLOCK]
+It is as I had suspected,
+you hold great power witin you.
+[ENDBLOCK]
+This was but a test. Now that you
+have proven worthy, I must truly ask...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Truly...ask?
+[ENDBLOCK]
+Ever since the formation of the
+land that covers the sky, the animals
+that dwell in Aquaveil have been dying.
+[ENDBLOCK]
+The smaller, more vulnerable among
+them are especially affected. They
+grow weaker every passing day.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+You don't have to say another word.
+Just leave this to me.
+[ENDBLOCK]
+Are you certain...?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すごい！
+You can count on me!
 [ENDBLOCK]
-では頼んだぞ。
-いずれ来たる暁の英雄よ。
+Then I shall entrust this task to you,
+hero of the coming dawn.
 [ENDBLOCK]
-……さらばだ。
+......Farewell....
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何かを感じるんだけどなぁ。
-神経をとぎすませれば……
+I sense something. Maybe if
+I focus my senses....
 [ENDBLOCK]
-一年島
+One Year Island
 [ENDBLOCK]
-一年島
+One Year Island
 [ENDBLOCK]
 notice
 [ENDBLOCK]

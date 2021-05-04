@@ -1,16 +1,17 @@
 Monster Researcher
 [ENDBLOCK]
-I'm studying monsters from
+We're studying monsters from
 all over the world here.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-... but that's not really
+...but that's not really
 relevant to you right now.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-You need to get stronger first.
+You need to work
+on your skills more.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
@@ -21,73 +22,72 @@ Monster Researcher
 Your skill is good enough,
 I will give you this.
 [ENDBLOCK]
-モンスター研究員
+Monster Researcher
 [ENDBLOCK]
-これはモンスターへ有効とされる連携
-「ディフィニットストライク」を
-示したものだ。
+This shows the [Definite Strike] 
+coordination that is effective 
+against monsters
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-俺はこのディフィニット戦記にある
-ディフィニットストライクを
-研究しているんだ。
+I'm studying the Definite Striked
+in the Battle record book.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-よかったら、今後君が手にする
-ディフィニットストライクの経験を
-研究データとして教えてくれないか？
+If you'd like, you can give me some
+research data on your experience
+with the Definite Strike.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-実際に君が実践したものであれば、
-モンスター図鑑のモンスター名の
-直後に★印が付くぞ。
+If you've actually practiced it, you'll
+get an ★ right after the monster's
+name in the Monster Book.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-データが揃ったときには、
-ちゃんと礼はするつもりさ。
+I'll be sure to return the favor
+when I have all the data.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-データの達成状況が知りたければ
-俺のところへ直接、聞きに来てくれよ。
+If you want to know how the data
+was obtained, you'll have to come
+to me directly to me.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-俺はこのディフィニット戦記にある
-ディフィニットストライクを研究
-しているんだ。
+I'm studying the Definite Striked
+in the Battle record book.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-よかったら、君のディフィニット
-ストライクの経験を研究データとして
-教えてくれないか？
+If you'd like, you can give me some
+research data on your experience
+with the Definite Strike.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-もちろん、君が実践した
-ディフィニットストライクじゃないと
-データにはできないけどな。
+Of course, I can't use that the
+data unless it's a Definite Strike.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-実際に君が実践したものであれば、
-モンスター図鑑のモンスター名の
-直後に★印が付くぞ。
+If you've actually practiced it, you'll
+get an ★ right after the monster's
+name in the Monster Book.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-データが揃ったときには
-ちゃんと礼はするつもりさ。
+I'll be sure to return the favor
+when I have all the data.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-データの達成状況が知りたければ
-俺のところへ直接、聞きに来てくれよ。
+If you want to know how the data
+was obtained, you'll have to come
+to me directly to me.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -114,32 +114,32 @@ bit -- <x17><x71><x47><xAC><x80>
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-よし！<x18><x66><x18><x00><x80><x18><x66><x1C><x00><x80><TAG_052><TAG_053><TAG_054><TAG_055>のデータが
-揃ったみたいだ。
+Okay, it looks like we have <x18><x66><x18><x00><x80><x18><x66><x1C><x00><x80><TAG_052><TAG_053><TAG_054><TAG_055>
+of the data.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-感謝するぜ！
-[ENDBLOCK]
-モンスター研究所
-[ENDBLOCK]
-これはほんのお礼だ。
-受け取ってくれ。
+Thank you!
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-とうとうやったな。
-これで世界中のモンスターの
-研究データが揃ったぜ。
+This is a small token of my
+appreciation. Please take it.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-君には本当に感謝している。
-これを是非、受け取ってくれ！
+You've finally done it. Now we
+have all the research data on
+the monsters of the world.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-現在の君の状況は……
+This is a small token of my
+appreciation. Please take it.
+[ENDBLOCK]
+Monster Researcher
+[ENDBLOCK]
+Your completion level is...
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
@@ -148,33 +148,33 @@ Monster Researcher
 	<x18><x65><x57><xD0><x00><x80>：<x18><x65><x57><xE8><x00><x80><x17><x71><x47><xB8><x80>%
 <x18><x65><x57><xD4><x00><x80>：<x18><x65><x57><xEC><x00><x80><x17><x71><x47><xBC><x80>%
 	<x18><x65><x57><xD8><x00><x80>：<x18><x65><x57><xF0><x00><x80><x17><x71><x47><xC0><x80>%
-		<x18><x65><x57><xDC><x00><x80>：<x18><x65><x57><xF4><x00><x80><x17><x71><x47><xC4><x80>%	だ。
+		<x18><x65><x57><xDC><x00><x80>：<x18><x65><x57><xF4><x00><x80><x17><x71><x47><xC4><x80>%
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-新しくデータが揃ったところは
-ないようだな。
+There doesn't seem to be
+any new data available.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-これからも頑張ってくれよ。
+Keep up the good work.
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
 ……と言っても君のおかげで、
 しばらくはゆっくりしてるけどな。
 [ENDBLOCK]
-セインガルド地方
+Seinegald Region
 [ENDBLOCK]
-フィッツガルド地方
+Fitzgald Region
 [ENDBLOCK]
-カルバレイス地方
+Calvalese Region
 [ENDBLOCK]
-アクアヴェイル地方
+Aquaveil Region
 [ENDBLOCK]
-ファンダリア地方
+Phandaria Region
 [ENDBLOCK]
-その他のエリア
+Other Regions
 [ENDBLOCK]
 comp <TAG_031> -> <x17><x45><x57><xB0><x03><x72><x00><x8B><xE8><x80><x80>
 
@@ -189,58 +189,59 @@ comp <TAG_031> -> <x17><x45><x57><xB0><x03><x72><x00><x8B><xE8><x80><x80>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The head of a monster you've 
+<TAG_005>The head of a monster you've
 never seen before is displayed.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>It appears the bee is 
+<TAG_005>It appears the bee is
 looking at me, warily.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
 The scales of the basilisk are
-very hard. I heard that 
-they can be used as shoehorns.
+very hard. I heard that they 
+can be used as shoehorns.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-ナメクジが塩を嫌うように
-シルルスは土を嫌がるんですよ。
+Silurus doesn't like earth
+like slugs don't like salt.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-ピヨピヨの肉は柔らかくて、
-とてもおいしいと評判です。
+Peepit's meat is known 
+to be very soft and tasty.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-世の中には卵生のベアというのが、
-いるそうです。
+It's said that there might
+be egg bears in the wild.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-クラーケンは大気中でも息ができ、
-陸に上がる事もあるそうです。
+The Kraken can breathe
+air and even go on land.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-モンスターは体内にレンズを
-含んでいます。
+Do you know that monsters
+have lens in their bodies.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-巨大なレンズを用い、共鳴させる事で、
-モンスターを操れるかもしれません。
+In theory, by using a massive lens
+and making it resonate, we may be
+able to control monsters.
 [ENDBLOCK]
 Aid
 [ENDBLOCK]
-……え？	<Greybum>がもうやった？
-そうですか……
+...What!? <Greybum> already
+did that? Interesting...
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-I just can't take my eyes off you
+I just can't take my eyes off that
 right now. Please don't talk to me.
 [ENDBLOCK]
 notice

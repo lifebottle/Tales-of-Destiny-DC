@@ -115,40 +115,36 @@ Ah, yeah, yeah.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティパスワードを発行します。
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-発行パスワードは
-××××××××××××××××
-です。
+The password is xxxxxxxxx
+(The website's dead, sorry).
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアするとパスワードが発行される
-事があります。
+Passwords may be issued after
+completing events and mini-games.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このパスワードをコミュニティサイトで
-入力する事でデスティニーの世界が
-さらに広がります。
+A community password will be issued.
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-コミュニティサイトで入力する
-パスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+If you forget the password for the
+community site, you can find it at
+the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-This is just a coincidence. Would you
-like to take a rest?
+This is just a coincidence. 
+Would you like to take a rest?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -166,17 +162,18 @@ Menu Customization Unlocked!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-A new area, "Face Painting", has
-been Unlocked in the custom section
-of the main menu.
+A new item, [Portrait type] has been
+unlocked in the Custom section of
+the main menu.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+To open the custom screen: Press <Triangle_ani>
+to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Press <Triangle_ani> followed by <Select_ani>.
-[ENDBLOCK]
-Chatty Old Man
-[ENDBLOCK]
-Canvas Liberator!!!!
+The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -195,7 +192,7 @@ from different angles.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Rocks abound in th world. They will
+Rocks abound in the world. They will
 do their best to be that new possibity.
 [ENDBLOCK]
 Chatty Old Man
@@ -222,14 +219,14 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブパスワードを受け付けました。
-この世界に新たな可能性が広がりました。
-Chatty Old Manの話をよく聞いてください。
-
+Web passwords are now unlocked.
+New possibilities have opened up
+in this world, please listen carefully
+to the Chatty old man.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-A new item, "Face Painting," has been
+A new item, [Portrait type] has been
 unlocked in the Custom section of
 the main menu.
 [ENDBLOCK]
@@ -285,33 +282,32 @@ notice
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-ウェブサイトで入力する
-ゲームパスワードを忘れてしまったら、
-いつでも声をかけておくれ。
+If you forget the game password
+you enter on the website, you can
+always ask me for it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ゲーム中のイベントやミニゲームを
-クリアすると、連動IDとゲームパスワードが
-発行される事があります。
+When you complete an event or mini-game
+in the game, you may be issued a link ID
+and game password.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このゲームパスワードをウェブサイトに
-入力する事で、デスティニーの世界が
-さらに広がります。
+By entering this password on the site,
+you can expand the world of Destiny.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ウェブサイトで入力する連動IDと
-ゲームパスワードを忘れた場合はChatty Old Manに
-話しかけて、連動ID・ゲームパスワードの
-確認の項目を選択してください。
+If you have forgotten the ID and password
+you entered on the website, talk to Chatty
+Old Man and select the option to confirm
+your ID and password.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-仲間たちの普段では見られない姿を、
-見る事ができるかもしれないぞ。
+You may be able to see your friends
+in a way you can't normally see them.
 
 [ENDBLOCK]
 Chatty Old Man
@@ -335,14 +331,13 @@ Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You must be the community Grandpa.
+You must be the Chatty Old Man.
 Please take care of them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Hmm. Contact with with people is a
-once in a lifetime experience.
-Cherish it.
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

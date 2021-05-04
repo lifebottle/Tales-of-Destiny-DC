@@ -1,0 +1,157 @@
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S06><yellow>Lock-On!!
+[ENDBLOCK]
+<S03><yellow>Lock-On Count: <x17><x71><x46><xDC><x80>x
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Now Loading...
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Do you want to enter?
+Yes
+No
+[ENDBLOCK]
+select
+[ENDBLOCK]
+<TAG_007>Do you want to go 
+to the Earth surface?
+Yes
+No
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
+[ENDBLOCK]
+Hole Select
+[ENDBLOCK]
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
+Hole 05 (Par <x17><x71><x48><x48><x80>)
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>Hole <x17><x71><x46><xF8><x80>
+ Par <x17><x71><x47><x08><x80>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>Start !!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><TAG_001><yellow>ＣＬＥＡＲ!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><x80><x02><x00><x00><yellow>Under par!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール１の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール２の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール３の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール４の賞品ＧＥＴ!!
+[ENDBLOCK]
+debug
+[ENDBLOCK]
+<TAG_007>ホール５の賞品ＧＥＴ!!
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>選択できるホールが追加されました!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><xE0><x01><x00><x00><yellow>Nice Shot!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><xE0><x01><x00><x00><red>Out of Bounds...
+[ENDBLOCK]
+Main Menu
+[ENDBLOCK]
+<TAG_007>プレイヤー選択
+立ち位置を変更する
+第１打からやり直す
+ホール選択に戻る
+ゲームを終了する
+[ENDBLOCK]
+Select
+[ENDBLOCK]
+<TAG_007><x06><xC0><x00><x00><x40>Yard Player     
+150 <Lilith>
+120 <Kongman>
+ 90 <Stahn>
+ 65 <Mary>
+ 45 <Woodrow>
+ 30 <Johnny>
+ 15 <Rutee>
+  7 <Chelsea>
+  3 <Philia>
+[ENDBLOCK]
+Re-try
+[ENDBLOCK]
+<TAG_007>現在プレイしているホールを
+第１打からやり直しますか？
+はい
+いいえ
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+<TAG_007>他に選択できるホールがありません。
+[ENDBLOCK]
+Exit
+[ENDBLOCK]
+<TAG_007>ミニゲームを終了しますか？
+はい
+いいえ
+[ENDBLOCK]
+Draconis Tutorial 1
+[ENDBLOCK]
+<TAG_007><Circle_ani> Move forward
+<Square_ani> Move backward
+<Left+Right_blink> or <L1_ani><R1_ani> To steer
+<R_stick_Press> Change elevation
+<Cross_ani> Disembark the Draconis
+ 
+[You cannot disembark at place
+where you can't normally walk,
+such as on a mountain or the sea.]
+[ENDBLOCK]
+Draconis Tutorial 2
+[ENDBLOCK]
+<TAG_007><center>The maximum speed can be set in
+[Vehicule Speed] of Customize menu.
+(Fast) 1 ← (Standard) → 8 (Slow)
+The default setting is 6 (Slow).
+[ENDBLOCK]

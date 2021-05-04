@@ -969,12 +969,12 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald
-after taking the difference
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80> 
+<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
@@ -1035,13 +1035,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -1082,7 +1082,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]
@@ -1142,7 +1142,7 @@ Depot
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 ちょいと、あんた……
 [ENDBLOCK]
@@ -1155,17 +1155,17 @@ select
 <TAG_007>私の……眼鏡ですか？
 私が……何か？
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 めずらしいね。
 初めて見たよ。
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 掛けている人は
 めずらしいからね。
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 あんた、ストレイライズの神官だね？
 [ENDBLOCK]
@@ -1178,11 +1178,11 @@ select
 神殿のないこの地で、
 我々をご存知なのですね！
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 一瞬、見間違えかと思ったけどね。
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 あんたみたいな強い意志の眼をもった
 神官がいると思わなかったからさ。
@@ -1191,26 +1191,26 @@ select
 [ENDBLOCK]
 お分かりになるのですか？
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 そうさね。あんたは何か強い思いで
 行動しているんだろ？
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 それはすばらしい事だよ。
 頑張りな。
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-あんた確か……
+If I remember right, you're...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>どなたでしょうか？
-あなたは以前の！
+<TAG_007>I'm sorry who're you?
+You're that woman from before!
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 ……うんうん。
 [ENDBLOCK]
@@ -1218,132 +1218,133 @@ select
 [ENDBLOCK]
 あの……何か？
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
 私を知らないんだね？
 結構結構！
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-なんだいなんだい
-すっかり見違えたね？
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-そう……でしょうか？
-[ENDBLOCK]
-おばちゃん
-[ENDBLOCK]
-私もあんたに気付かなかったし、
-あんたも私に気付かなかったろ？
+Well well, aren't you
+completely different?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、それは……
+Oh..Am I..?
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-気にするんじゃないよ。
-それで良いんだから。
+Because I didn't recognize you,
+you didn't recognize me?
 [ENDBLOCK]
-おばちゃん
+<Philia>
 [ENDBLOCK]
-あんた自身の心が変わったのさ。
+Well, that's...
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-だからあんたの瞳に映る世界が
-違って見えるのさ。
+Don't worry about it.
+That's fine.
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-以前よりずっとずっと
-良い瞳をしているよ。
+Seems your own
+heart has changed.
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-今のあんたの瞳は……
+And so the world you see
+with your eyes is different.
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-……乙女のまなざし。
-誰かいい人でも出来たのかい？
+Your eyes look so much
+clearer than before.
 [ENDBLOCK]
-おばちゃん
+Old Woman
 [ENDBLOCK]
-ま、頑張りな。
+Right now, I see in your eyes...
 [ENDBLOCK]
-Kid
+Old Woman
 [ENDBLOCK]
-わー、<Kongman>が
-遊びに来てくれたぞぉ！
+The gaze of a maiden. Is it possible
+there's someone special in your life?
 [ENDBLOCK]
-<Kongman>
+Old Woman
 [ENDBLOCK]
-よう、おまえら元気に
-していたか？
-[ENDBLOCK]
-Boy
-[ENDBLOCK]
-ねえねえ、<Kongman>。
-どうしてこの前の試合の時、
-武器を使わなかったの？
+Well... best of luck to you.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-そうだよ、相手はあんなに大きな
-剣を持っていたのに。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-そういやそうだよな。
-どうして<Kongman>は、拳で戦うの？
+Yay! <Kongman>'s come to visit us!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様が子供の頃にな、
-無敵のチャンピオンがいたんだ。
-そいつが素手で戦っていた。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-どんな相手だろうが、
-決して武器を使わなかった。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-それが俺様たちに
-どれだけの勇気をくれたか……
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-俺様の憧れだった……
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-なのに……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-……<Kongman>？
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-おっとすまねえな。
-ついボーっとしちまったぜ。
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-つーわけで、
-俺様は武器をつかわねんだー。
+Yo! You kids bein' good?
+Stayin' healthy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-なーんだ、<Kongman>も
-まねっこなんだね。
+Hey hey <Kongman>! How come
+you didn't use any weapons in
+that match a while back?
+[ENDBLOCK]
+Kid
+[ENDBLOCK]
+That's right! The guy you were
+fightin' used a big ol' sword!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Huh, that's right, why DID you
+only use your fists, <Kongman>?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うるせぃやい、
-バカにすんなっ。<x00>
+Back when I was just a brat, there
+was an unbeatable Champion, who
+fought only with his fists.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Didn't matter who the opponent
+was, He refused to so much as
+pick up a weapon.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+It gave us so
+much courage...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+And so... so I made it my goal...
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+and yet...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+...<Kongman>?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Whoops, sorry. Had my head
+in the clouds for a sec there.
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Well anyway, I don't
+need no fancy weapons.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+Wowie, so <Kongman>
+is a copycat!
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Aww hush!
+Don't make fun of me!<x00>
 [ENDBLOCK]

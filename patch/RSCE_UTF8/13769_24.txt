@@ -128,13 +128,14 @@ you'll make use of it.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-I'll make a trip
-to see Thomas soon.
+I'll make a trip to
+see Thomas soon.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
 Alright, hurry up.
-Aren't you on an important mission?
+Aren't you on an 
+important mission?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -186,7 +187,7 @@ Aren't you on an important mission?
 けっ！	負け犬根性のしみついた奴に、
 用はねえ！	どこへでも行っちまえ！
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
 先生！	ここにいたんですね！
 おじいちゃんを助けてください！
@@ -195,7 +196,7 @@ Aren't you on an important mission?
 [ENDBLOCK]
 村長さんがどうかしたのか？
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
 モンスターをやっつけるって
 張り切ってたけど、ぎっくり腰に……
@@ -231,214 +232,233 @@ Aren't you on an important mission?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ、あの人たち……
+Hey, it's those guys!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-やあ、君たち！
+Yo, guys!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-君たちの噂は聞いてるよ。
-すごい活躍じゃないか。
+We've heard the rumors about you!
+You've been doing great, haven't you?
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-本当の勇者はあたしたちじゃなくて、
-あんたたちだったってわけね。
+We're not truly heroes,
+I'd say that's you guys.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-そうとも知らず、恥ずかしいでやんす。
+It's embarrasin' that
+we didn't realise that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-別に俺たちだって、大した事ないですよ。
-自分たちのやるべき事を、やってるだけです。
+Aww, it's nothing.
+We're just doing what we must.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-自分たちのやるべき事、か。そうだな。
-その点は俺たちも同じだ。
+"Doing what we must", huh.
+Very well. In that case, so are we.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-及ばずながらこの村のために、
-力を尽くすつもりだよ！
+We will devote all of our efforts,
+all of our power, all for the sake
+of this village!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-村を守ってみせるでやんす！
+We will definitely protect this village!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-よーし、久しぶりにあれをやるか！
+OK! Bring it in for old
+time's sake, ready!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-俺たち漆黒、漆黒の翼♪
-村を守るぜ、イエイ！
+We are the Dark Wings the
+Guardians of Armeida YEAH!♪
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-村の事は、俺たちに任せておけ！
-君たちは君たちの使命を果たすがいい！
+You all can count on us to keep this
+village standing! You may now carry
+out your mission in peace!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい！
+Yeah!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is locked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉じられている。
+The door is locked.
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-現在の神殿における最高責任者は、
-マートン大司教です。
+The current leader of the temple
+is Archbishop Merton.
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-後を継ぐのは、おそらく、
-アイルツ司教でしょうなあ。
+The one who will succeed him will
+probably be Bishop Eilts.
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-グレバム大司祭が反乱を起こした？
-ご冗談でしょう、はっはっは。
+High Priest <Greybum> has revolted?
+You've got to be kidding me. Ha-ha-ha...
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-グレバム大司祭が死んだそうですな。
-私は最初から彼を疑っていましたよ。
+I heard that High Priest <Greybum>
+is dead. I've suspected him from
+the beginning.
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-なんですか、あの光は！
-なぜ私たちがこんな目に！
+What's with that light? Why is
+this happening to us?
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-神殿の退屈な生活に耐えかねえて、
-外の世界に出てきたというのに……
+He couldn't stand the boring life
+in the temple, so he came out to 
+the outside world...
 [ENDBLOCK]
-元・神官
+Former Priest
 [ENDBLOCK]
-世界が元通りになったら、
-神殿へ戻ろうかと思っています。
+When the world is resolved as
+they say, I'll go back to the
+temple.
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-勇者の心得そのいち……
-常に目立つ存在であれ！
+The first thing a brave man
+should know about... is to
+always stand out!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-僕が強くなって、お母さんと
-おじいちゃんを守るんだ！
+I'm going to be strong and
+protect my mom and grandpa!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生が今から暗黒魔王を
-倒した時の話をして下さるんだ。
+The teacher is now going to tell
+us the story of how he defeated
+the Dark Lord.
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生がいなくなっても、
-教えてもらった事は忘れません！
+Even though you're gone, I'll
+never forget what you taught me!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生……戻ってきてくれてないかな。
+Teacher... I hope
+you're back.
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-勇者の心得そのいち……
-常に目立つ存在であれ！
+Tips for the brave, part 1...
+Always stand out!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生が今から暗黒魔王を
-倒した時の話をして下さるんだ。
+The teacher is now going to tell
+us the story of how he defeated
+the Dark Lord.
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生がいなくなっても、
-教えてもらった事は忘れません！
+Even though you're gone, I'll
+never forget what you taught me!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生が戻ってきてくれて、
-本当に嬉しいです！
+I'm so glad you're
+back, doctor!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生を悪くいう人もいたけど、
-僕はずっと信じてました！
+Some people had bad things to
+say about the teacher, but I
+always believed in him!
 [ENDBLOCK]
-村長の孫
+Chief's Grandson
 [ENDBLOCK]
-先生と力を合わせて、
-この村を守ってみせます！
+I'll work together with you to
+protect this village!
 [ENDBLOCK]
-羊飼い
+Shepherd
 [ENDBLOCK]
-羊はいいよね。見ているだけで、
-心がなごむよね。
+Sheep are nice, aren't they?
+Just looking at them is
+soothing, isn't it?
 [ENDBLOCK]
-羊飼い
+Shepherd
 [ENDBLOCK]
-羊たちも心配しているみたいだ。
-最近、食欲がない。
+The sheep seem to be worried
+about me. I haven't been eating
+well lately.
 [ENDBLOCK]
-羊飼い
+Shepherd
 [ENDBLOCK]
-羊たちと一緒に、
-君たちの事を応援しているよ。
+I'm rooting for you guys,
+along with the sheep.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-あの三人組、本当に勇者なのかしら？
-どうも嘘っぽいわね。
+I wonder if those three guys are
+really brave? That sounds like
+a lie.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-村長さんがあの子のために
-剣の家庭教師を探してるんですって。
+The village chief is looking 
+for a sword tutor for the kid.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-あの三人組がいなくなってから、
-いつもぼーっとしてるのよね。
+Since those three guys disappeared,
+he's always in a daze.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-あの三人組、本当に勇者なのかしら？
-どうも嘘っぽいわね。
+I wonder if those three guys are
+really brave? That sounds like
+a lie.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-あの三人組、戻ってきてからというもの、
-いつもぼーっとしてるのよ。
+Ever since they came back, the
+three of them have always been
+in a daze.
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-本当の勇者だったら、こんな時こそ、
-なんとかしてくれるはずよね。
+If you were a real hero, you
+would have done something
+about this situation, wouldn't you?
 [ENDBLOCK]
-青髪の女の子
+Blue-Haired Girl
 [ENDBLOCK]
-あの三人組の人たち、見直したわ。
-一生懸命村を守ってくれるから。
+I've reviewed those three
+people. They are doing their
+best to protect the village.
 [ENDBLOCK]
-Village Chief 
+Village Leader
 [ENDBLOCK]
-勇者様が指南役を務めてくれて、
-ありがたい事ですじゃ。
+I'm grateful to you, my brave
+friend, for acting as my guide.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -790,12 +810,12 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will receive <TAG_077> Gald
-after taking the difference
+
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80> 
+<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
@@ -856,13 +876,13 @@ Seriously... You're
 such a burden.
 
 [ENDBLOCK]
-前金返却と違約金
+Return of advance payment and penalties
 [ENDBLOCK]
-違約金
+penalty.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>.
+<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
 I can't cancel the contract
@@ -903,7 +923,7 @@ Cresta
 [ENDBLOCK]
 Cherik
 [ENDBLOCK]
-Kalviola
+Calviola
 [ENDBLOCK]
 Junkland
 [ENDBLOCK]

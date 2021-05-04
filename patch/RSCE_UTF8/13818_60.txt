@@ -1,271 +1,275 @@
 
 [ENDBLOCK]
-<TAG_005>「誰でも分かるレンズのお話」
-という本がある。
+<TAG_005>There's a book titled
+"History of Lens for Dummies."
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>我々の生活に溢れている「レンズ」。
-本書では、まず始めにその歴史に
-ついてお話します。
+<TAG_005>Let's explore the history
+of the fascinating substance
+known as "Lens."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>人々は、はるか昔からレンズ内部に存在する
-エネルギーに注目し、その利用を試みてきましたが
-実用化には至りませんでした。
+<TAG_005>We have long known of the
+energies held within Lens, but
+were unable to harness them.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>そこに世界の歴史を大幅に変える事となる、
-「オベロン社」が登場します。
+<TAG_005>That is until the "Oberon
+Corporation" made history.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>オベロン社は多くの研究者を悩ませてきた
-レンズエネルギーの抽出を、会社設立から
-わずか数年のうちに成功させたのです。
+<TAG_005>Shortly after its founding,
+it had succeeded in extracting
+those ever-elusive energies.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>その結果、レンズエネルギーにより
-人々の生活は激変し、より快適でより安全な
-毎日を送る事が出来るようになりました。
+<TAG_005>Now, Lens energy has made
+drastic improvements to our lives,
+allowing greater safety and comfort.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「セインガルド栄光の夜明け」
-～七将軍とフィンレイ～
-という本がある。
+<TAG_005>There's a book titled
+"The Dawn of Seinegald's Glory - 
+Finley and the Seven Generals."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>世界一の巨大王国、セインガルドが
-現在の影響力を手に出来たのは、
-「七将軍」の力といっても過言ではない。
+<TAG_005>It's not unreasonable to say
+that Seingald, owes its great influence
+to the might of the "Seven Generals."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「七本の柱の全てを倒さない限り
-王国は倒れない。」
+<TAG_005>"So long as even a single
+of the seven pillars still stands,
+the kingdom shall never fall."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>この言葉に国民は安心し、
-敵国は恐怖した。
+<TAG_005>These words grant its citizens
+peace of mind, while deterring its foes.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>その七将軍を設立したのが、
-鬼神と称され、生涯無敗と言われた
-「フィンレイ・ダグ」、その人だった。
+<TAG_005>The founder of the Seven
+Generals was Finley Doug; a man
+undefeated in battle who earned
+himself the name Finley the Fierce.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「オットー植物記」という植物の栽培や
-遺伝子を研究したシリーズ本がある。
+<TAG_005>There's series of research books titled
+"Otto's Botanical Records."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>セインガルド出版の「世界地誌」
-という本がある。
+<TAG_005>There's a book from Seingald titled
+"World Topography."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>世界は大きく分類すると、
-五つの国家から成り立っている。
+<TAG_005>The world can be broadly
+divided into five nations.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>世界を先導する役割を担い、
-王都ダリルシェイドを中心に
-ストレイライズ本神殿を有する
-セインガルド王国。
+<TAG_005>First, the Kingdom of Seingald.
+It is centered around its capital of
+Darilsheid, and is home to the
+Straylize Main Temple.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>セインガルドとはハイデルベルグ山脈で
-隔たれ、国土の大半を雪で覆われる
-ファンダリア王国。
+<TAG_005>Second, the Kingdom of Phandalia,
+cut off from Seingald by the Heidelberg
+range. Its lands are covered in snow.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>発展途上の新興国。
-ノイシュタットのある
-フィッツガルド。
+<TAG_005>Next is Fitzgald, a developing
+country home to the city of Neuestadt.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>東の複数の島国家によって形成され、
-今なお、国交が閉鎖されたままの
-アクアヴェイル連合国家。
+<TAG_005>To the east is the Aquaveil
+Confederation, a group of island nations
+that to this day has stonewalled
+diplomatic relations.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>最後のひとつは砂漠と火山の島、
-カルバレイス。
+<TAG_005>Finally there is Calvalese, a
+volcanic and desert island.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>一般的には国家として認知されているが、
-歴史学的な観点では、その歴史から
-国家としての成立を認めない学説が
-大多数を占めている。
+<TAG_005>While it is generally recognized
+as its own nation, there are many
+who refuse to acknowledge its
+statehood due to its history.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>世界の名所「闘技場」
-という本がある。
+<TAG_005>There's a book titled
+"The World-Famous Arena."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ノイシュタットの中心街から
-北へ少し歩くと、見えてくるのは
-海に面した円柱状の建物。
-そこが世界で唯一の闘技場。
+<TAG_005>Head north along Neuestadt's main
+road and you'll find yourself facing
+a circular building set upon the sea.
+That is none other than the Arena.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ここでは、自らの威信を賭けた
-戦士たちの真剣勝負が、日夜行われています。
-その中で連戦連勝の現チャンピオンは……
+<TAG_005>There, warriors stake their honor
+day in and day out. Among them is
+the victor of consecutive battles,
+the current champion...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「レンズハンターという仕事」
-という本がある。
+<TAG_005>There's a book titled
+"Lens Hunters: A Profession."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>いまや生活の中心となったレンズを集め、
-オベロン社に買い取ってもらう事が
-主な仕事となっているレンズハンター。
+<TAG_005>The fine folk who provide
+the Lens vital to our lives
+to the Oberon CO. are known as
+Lens Hunters.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>しかし近年では、レンズ収集以外にも
-盗掘や詐欺行為などの犯罪をする者も増え、
-軍ではその警戒にあたっている。
+<TAG_005>Recently though, the number
+of hunters who have turned to
+criminal activity have been on
+the rise, prompting military action.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>女神アタモニやストレイライズ関連の
-研究書籍が並べられている。
-
+<TAG_005>Research books pertaining to
+Straylize and the goddess
+Atamoni are lined up here.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「カルバレイスの真実」
-という本がある。
+<TAG_005>There's a book titled
+"The Truth Behind Calvalese."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>はるか以前の世界戦争により、
-現在のカルバレイスへ
-追いやられたと主張する人々。
-
+<TAG_005>Some claim the people
+of Calvalese were driven there
+after a war from the distant past.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>しかしその根拠は乏しい。現存する
-最古の文献にさえ、手がかりと
-なるような一文は見当たらない。
+<TAG_005>However, not even the
+oldest records are able
+to substaniate these claims.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>おとぎ話の戦争を理由に
-他国批判を繰り返すカルバレイス。
-果たしてこの国に未来は……
+<TAG_005>Calvalese has repeatedly
+denounced other countries
+on the basis of a fictional war.
+Surely the future of such a country...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>レンズの軍事転用の研究論文が
-大量に並べられている。
-
+<TAG_005>Numerous treatises on
+Lens's military uses are lined up.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>「星の暦」
-という小説がある。
+<TAG_005>There's a book titled
+"Calendar of the Stars."
 [ENDBLOCK]
 select
 [ENDBLOCK]
-読みますか？
-読んでみよう
-やめておこう
+Would you like to read it?
+Yes
+No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>……母親に言われる前に妹を迎えに
-行く事にした。妹の事は可愛がって
-いたが、母親の事は好かなかった。
+<TAG_005>...I went to pick up my sister
+before mother told me. She was
+always pleasant, but mother
+was another story.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>家を出ると背中から母親の声が飛んできた。
-何か必死に叫んでいる。うまくろれつが
-回っていない。僕は振り返らなかった。
+<TAG_005>As I left the house I heard mother's
+voice. She was yelling. Her words
+were incomprehensible. I did not stop.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>～～中略～～
+<TAG_005>......
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>……妹が僕めがけて走ってくる。
-いつも通りの満面の笑みを浮かべて。
-その時、突然足を止めた妹が空を見上げた。
-僕もつられて空を見上げる。
+<TAG_005>...She was running towards me.
+Her facelit with that same smile.
+Suddenly, she stopped and turned
+her head to the sky. I lifted my head.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>真っ赤に燃え上がった火の塊。
-それも空一面に広がるような大きさの塊が
-僕たち兄妹に迫ってきていた。
+<TAG_005>A great flaming mass,
+so great it seemed to block out
+the entire sky as it careened toward us.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>後に知る事となったが、
-この日、僕らの星には数百もの隕石が
-降り注いだ……
+<TAG_005>As I would later learn, hundreds
+of meteorites fell upon our planet that day...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -346,126 +350,129 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-目指すはアクアヴェイルの森だ。
-頼んだよ。
+The destination is the Aquaveil
+Forest. I'm counting on you.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-カルビオラの北を調査してくれ。
-
+Investigate north
+of Calviola.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-よく分からない！	が、
-セインガルドの東の島へ行くのだ！
+I'unno! But! I know you gotta go
+to an island east of Seinegald!
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-<Greybum>は人の心をつかむのがうまく、
-多くの取り巻きを作っていました。
+<Greybum> was good at winning people's
+hearts and had created many followers.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-今思えば、すべては、
-反乱の準備だったのかもしれません。
+In hindsight, all of this may have
+been preparation for a rebellion.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-<Greybum>は今回の事態を見越して
-行動していたのでしょうか？
+Was <Greybum> acting in 
+anticipation of this situation?
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-人が人を選別し、命をもてあそぶなど、
-断じてあってはならない事です。
+People should not be allowed to pick and
+choose who gets to live and who doesn't.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-<Ayles>司教様にご協力して、
-一日も早く神殿を元に戻さねば。
+We must work with Bishop <Ayles>
+to get the temple back to normal.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-表向きは復興しましたが、
-反乱の傷跡はまだ残っています。
+Although ostensibly rebuilt,
+the scars of the rebellion still remain.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-先の反乱の傷も癒えぬまま、
-このような事態になるとは……
+I had no idea that the wounds of the
+previous rebellion would still be healing...
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-数多くの人々が、救いを求め、
-この神殿を訪れています。
+Numerous people have come to
+this temple seeking salvation.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-そうした人々を安心させるべく、
-我々も全力を尽くします。
-[ENDBLOCK]
-Priest
-[ENDBLOCK]
-私は<Greybum>に抵抗したのですが、
-彼の部下にボロボロにされました……
+We will do our best to
+reassure those people.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-こうして生きていられるのが、
-不思議なくらいですよ。
+I resisted <Greybum>, but was
+beaten to a pulp by his men...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-今思えば、<Batista>は昔から、
-俗っぽさのある人物でしたね。
+It's a wonder I'm still alive.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-<Greybum>は今回の騒ぎの黒幕に、
-操られていたという話を聞きました。
+Now that I think about it, <Batista> has
+always been a very sketchy person.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-本当なのでしょうか……？
+I heard that <Greybum> was being
+manipulated by the mastermind
+behind the whole mess.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-アタモニ神よ、どうか救いを……
+Is this true...?
 [ENDBLOCK]
-司祭
+Priest
 [ENDBLOCK]
-<Philia>、それに他の皆様方。
-神の眼をよろしくお願いします。
+Goddess Atamoni,
+please help us...
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-神の眼を取り戻して下さい。
-よろしくお願いします。
+<Philia>, and everyone else. Please
+take care of the Eye of Atamoni.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-この神殿には数多くの文献があります。
-いわば、人類の英知の殿堂なのです。
+Please bring back the Eye
+of Atamoni. Thank you.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-天地戦争という言葉は、
-確かに文献の中にありました。
+There's many documents in
+this temple. In a sense, it is
+a temple of human knowledge.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-ただの伝説と思い込んでいましたが、
-事実だったのですね。
+The term "Aeth'er war" was
+indeed found in the literature.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-先の天地戦争では救世主が現れて、
-地上の窮地を救ったそうですが……
+I had assumed it was just
+a legend, but it's true.
 [ENDBLOCK]
-司祭
+Minister
 [ENDBLOCK]
-あなた方を見ていると、なぜか、
-先の天地戦争の救世主を思い出します。
+I heard that in the last Aeth'er
+war, a savior appeared and saved
+the earth's plight...
+[ENDBLOCK]
+Minister
+[ENDBLOCK]
+For some reason,
+you remind me of him.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -814,563 +821,592 @@ notice
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-は～……どこかに
-金持ちオーラ全開の人、
-いないかなー……
+Ah~ I wonder if there's anyone out 
+there with a FULL POWER ROYAL AURA
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-まさか……あなたは。
+No way..You!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-え？	俺は<Stahn>だけど。
+Huh? I'm just <Stahn>.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-<Woodrow>王では!?
+Are you King <Woodrow>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺の事じゃないんだ……
+He didn't mean me, huh...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-確かに。私に何か用でも？
+You're correct.
+Do you need me for something?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあまあ、<Stahn>さん。
+There there, <Stahn>.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-僕の名前はフランツ。
-これでも考古学者なんです。
+My name is Frantz. 
+Believe it or not,
+I'm an archaeologist.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それは大変すばらしいお仕事だ。
+That's quite a wonderful profession.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-ところで、<Woodrow>王は
-どうしてここに？
+If I may ask, what are you
+doing here, King <Woodrow>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-話せば長いのだが……
+It's a long story but...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-それはちょうどいい。
+That's good timing!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何がですか？
+What is?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-実は僕は「世界四秘」について、
-研究しているのです。
+Y'see, I'm researching the
+"Four Secrets of the World".
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-世界に四ヵ所あるという、未確認の地、
-それを「世界四秘」と呼ぶのですわ。
+In the world it is said that there are 
+four spots, locations unconfirmed, known
+only as the "Four Secrets of the World"...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-おー、ご存知ですか。
+Aah, you know of them?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-その世界四秘と私たちと、
-何の関係があるのだ？
+What do these Four Secrets of
+the World have to do with us?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-実はもうすぐひとつ目の
-秘密の地の場所が、判明しそうなんです。
+Well, I have reason to believe I've almost
+figured out where the first secret is.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-判明次第、その場所をお教えするので、
-調べてきてもらえませんか？
+And as soon as I do, would you
+mind checking it out for me if
+I told you where to go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうして俺たちなんですか？
+Why do you want
+us to do it?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-理由は三つ。
+Three reasons.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-ひとつ目は、僕は旅するのが嫌いでね。
-旅慣れた人が適任。
+One, I hate traveling!
+You guys seem to like it though.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-ふたつ目は、僕は貧乏でね。
-旅の資金に自腹を切っても困らない人が適任。
+Two, I'm poor! You guys seem loaded 
+though, so you should have no problems
+funding the trip.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-三つ目は、何より好奇心旺盛で、
-その上、腕が立つ事が必須だからさ！
+Three, above all else, I'm curious. 
+That curiosity is what is necessary
+to excel in this field!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-うーむ。三つ目の理由で
-ごまかされた気もするが……
+Hmm.. I have my doubts about
+that third one, somehow...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも楽しそうですよ！
+Doesn't it sound fun, though?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-私の知的欲求が、
-うずきますわ！
+My curiosity is getting
+the better of me!!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-では、ひとつ目を調べておきます。
+Well then, I'll make sure to
+investigate the first secret.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-旅の合間にでも、時間があれば
-僕のところに寄って下さい。
+If you have a spare moment during
+your journey, please come and see me!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-は～……どこかに
-金持ちオーラ全開の人、
-いないかな……
+Ah~ I wonder if there's anyone out 
+there with a FULL POWER ROYAL AURA
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-すみません。まだ調べている最中です。
-また来てください。
+I'm sorry. I'm still working on it.
+Please come back later.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-いやー、研究が終わってしまうのは、
-学者として、さみしいものですね。
+Well, as a scholar, it is sad to
+see my research come to an end.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-よく来てくれました。
-朗報ですよ。
+Boy am I glad to see you.
+I have good news!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-という事は！
+Tell us!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-世界四秘のひとつ目が見つかったのだね。
+Have you located the first
+of the Four Secrets?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-はい。
+You got it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、どんな情報なんですか？
+Ok then, what info
+do you have?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-それより、ひとつ目の秘密の地ですから、
-僕も付いて行きます。
+Before I get to that... This
+being the first of the Four
+Secrets, I will go with you.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-まずはダリルシェイドから船に
-乗りましょう。
+Let's take a boat from
+Darilsheid to start.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。
+Alright.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-あと、僕の旅費は御願い
-しますね、<Woodrow>王。
+Of course... 
+I would ask that you foot
+the bill for my traveling
+expenses, King <Woodrow>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-何？
+What?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-さあ、行きますよ。
-<Stahn>さん！
+Well, let us be off, <Stahn>!
+Adventure awaits!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-さりげなく旅費の事を言ったな。
-あの男……
+He sure had no problem
+asking me to pay for him...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ？	この辺りって……
+Huh? This area is...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それよりフランツさん。ひとつ目の
-世界四秘について教えて下さいよ。
+More importantly, Mr. Frantz.
+Please tell me about the first
+of the four secrets of the world.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そうですね、
-お教えしましょう！
+Yes you're right,
+I'll tell you!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-ずばりひとつ目の世界四秘は
-「魔の暗礁」！
+The first and foremost of the
+four secrets of the world is
+the [Demon Reef]!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-この辺りの、昔から海難事故が
-多発している海域の事だね。
+This is the area where there's
+been many maritime accidents
+in the past right?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-はい。その海難事故の原因は
-謎とされてきましたが……
+Yes. The cause of those maritime
+accidents has been considered a
+mystery for a long time...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-実は、この海域には神の御使いと
-言われる、巨大な竜がいるらしいのです。
+In reality, it is said that there is a
+giant dragon in these waters, said
+to be an angel of God.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あ、あのさ……
+Ah, hold on...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それは凄い。
+That's great!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-伝説によると、その神の御使いは、
-剣をかざすと現れるのです。
+According to legend, the angel
+of God appears when you hold
+up your sword.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そして、今は海底に沈む、
-天かける竜の宮まで
-我々をいざなうのだとか。
+And it is said to take us to the Palace
+of the Heavenly Dragon, now submerged
+at the bottom of the sea.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれ？	どっかで……
+Mmm, That place...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それが事実なら、
-すばらしい功績だ。
+If that's true, it's a great
+research achievement.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-では、行きますよ。
+Well, let's go!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あのさ、それ無理だと
-思うんだけど。
+You know what, I don't
+think that's possible...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-僕の研究が、
-嘘だと言うんですか！
+Are you saying...
+that my research's a lie?!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうしてそう思うのだね？
+What makes you think that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それって、海竜とラディスロウの事ですよ。
+It's the Leviathan and Radisrol!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-フランツが説明した事って、
-あたしたち既にやった事よ。
+What Franz explained,
+we've already done it!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-え……？
+Eh...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-説明しますねフランツさん……
+Let me explain, Mr. Frantz...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうだったのか、私は海竜を
-呼んだ時の事を知らなかったからな。
+I didn't know that... because I was
+there when they called the Leviathan...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ごめんなさいフランツさん。
-もっと早くに気付いていれば。
+I'm sorry, Franz.
+I wish I had figured it out sooner.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-いぃやったーー!!
+Y-Yeah!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-だってそうでしょ！
-僕の研究は間違っていなかったんだ！
+Because you already did it! 
+It means My research wasn't wrong!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-今回の事は残念でしたが、
-それよりも、自信がつきました。
+Well, that was sorta unfortunate... but
+regardless, I'm feeling pretty optimistic!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-次の場所を調べておきますね。
-また訪ねてください。
+I'll look into the next Secret.
+Come back again sometime, please.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-ひゅ～どろどろどろ。
-いや～、やっとき～た～ね～。
+Muwahahhahaha...
+At last, the time has come!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-な、なんですかフランツさん！
+Wh-What is it, Frantz..!?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-あ～た～ら～し～情報だよ～。
+I..have...new...INFORMATION!!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-フ、フランツさん。
-恐いですよ！
+F-Frantz, you're
+acting kinda scary.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そうだ～よね～。
-でも今回のお話はも～っと、
-こ～わ～い～よ～。
+You're...riiiight~. But today's
+story is Extra SpooOoOOookyyy!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-と、冗談はここまで。
-実は新しい情報は、おばけの森さ。
+OK I'm sick of the bit. Truth is, the next
+Secret is about a Forest of Ghosts.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おばけ？
+Ghost?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-アクアヴェイルの、とある森で
-おばけがでるんだ。
+A certain forest in Aquaveil
+is said to be haunted.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんなのが世界四秘ですか？
+Is that one of
+the Four Secrets?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-立派な、四・秘・だ！
+It's truly a. . .SPOOKY SECRET!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-では、頼んだよ<Stahn>君。
+Well then, I'm counting
+on you, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-任せてください！
+I'm on it!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-君たちは誰だね？
+Who are you guys?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、こいつ何を言ってるの？
+<Stahn>, did he
+just say that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さ、さあ？	フランツさんって
-ちょっと変わってるからな。
+U-Uhm? Frantz seems
+a little different...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-やあ、<Stahn>君に<Rutee>君！
+Well! If it isn't
+<Stahn> and <Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ！	どうしてフランツが
-ふたりも？
+Hey!! Why are there
+two of you!?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-はっはっは。
-違うよ、こっちは双子の兄のグランツさ。
+Hahaha, that's not it at all.
+This is my older twin, Grantz.
 [ENDBLOCK]
-グランツ
+Grantz
 [ENDBLOCK]
-よろしくな。
+Nice to meetcha.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それにしても、よく似てるわね。
+Wow, you two
+really look alike.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そりゃそうさ。
-色々な事情で……ね。
+That's true. However, due to
+certain circumstances... well...
 [ENDBLOCK]
-グランツ
+Grantz
 [ENDBLOCK]
-申し遅れたが、私はフランツの兄の
-グランツ。これでもセインガルドの兵士さ。
+Excuse the late introduction, but
+I'm Frantz' older brother Grantz.
+I'm actually a soldier from Seinegald.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-へ～、兄は兵士で弟は学者。
-まったく正反対なのね。
+Huh, the older brother is a soldier,
+the younger a scholar. They're
+completely the opposite.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そう、不思議なものだよね。
-もしかして、僕が先に生まれていれば、
-僕が兵士で、グランツは学者だったかもね。
+Indeed, it's quite mysterious, huh?
+Perhaps if I had been born first,
+I woulda been the soldier and Grantz
+would have been the smart one.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-まあ、もうひとつの可能性なんて、
-結局はありえないんだけどね。
+Well, in the end it probably
+isn't likely at all.
 [ENDBLOCK]
-グランツ
+Grantz
 [ENDBLOCK]
-所詮は、もうひとつの可能性なんて、
-弱者の見る夢さ。
+Yeah, in the end, that possibility's
+just the dream of a wimp.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-弱者の見る夢か。相変わらず
-堅い性格だね、兄さんは。
+Dream of a wimp, huh?
+As meatheaded as ever, eh big bro?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ところで、フランツさん。
-新しい情報はどうですか？
+Well, anyway, do you have
+any new information, Frantz?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-そうそう、
-次はカルバレイスの砂漠だ。
+I do! The next Secret is
+in the Calvalese Desert.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-また、あんな暑いところに、
-行かなきゃならないの？
+That hot place again?
+Do we really have to go back?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-気持ちいいじゃないか。
+I've got a good feeling
+about this one!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うげぇ～。
+Ughh...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-どうやら、カルビオラの北に
-あるらしい事までは分かったけど……
+All I know is that there's
+something north of Calviola...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ、とりあえず
-行ってみますね。
+Well, I guess we'll
+start by going there.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-僕も時間があれば、
-後から行くからね。
+If I get the time, I'll head
+there afterwards too.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-よろしく～。
+Goodbye~.
 [ENDBLOCK]
-グランツ
+Grantz
 [ENDBLOCK]
-よろしくー。
+Goodbye.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ハモらないでよ。
-気持ち悪いわねー。
+When they say it in harmony,
+it really creeps me out.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-モンスターでも呼び寄せたら、
-どうするのよ。
+Like it's gonna summon
+a monster or something...
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-フッフッフ、よく来たのだ！
+Hehehe, good to see you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-妙なテンションですよ……フランツさん。
+You seem oddly
+tense, Franz...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-という事は、
-次の世界四秘がわかったんですか!?
+Oh wait I get it! 
+You've found the next
+of the Four Secrets!?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-その通り、次は
-セインガルドの東にある島だ！
+You got it! The next one's at
+an island east of Seinegald!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、具体的にはどこに？
+So then, where specifically
+on this island is it?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-よく分からない！	が、
-セインガルドの東の島へ行くのだ！
+I'unno! But! I know you gotta go
+to an island east of Seinegald!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。
-それで、そこには何があるんですか？
+OK, fine. So what's
+going to be there?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-実はそこに一年……
+You see, in that
+spot, one year...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-一年？
+One year?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-と、書いてあったのだ、
-本に！
+That's all that was
+written in the book!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-何があるか分からないけど……
-いってらっしゃ～い！
+I don't know if anything
+is there....but off you go!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい、いってきま～す！<x00>
+Gotcha, be back soon!!<x00>
 [ENDBLOCK]

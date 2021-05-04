@@ -1,6 +1,16 @@
 # Tales of Destiny DC
 Tales of Destiny - Director's Cut (Patch)
 
+# Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
+More details to come!
+
+# Current Progress (First Draft)
+Scenario Files Translated: 97.85%
+
+Menus: 95%
+
+Skits: 626/711
+
 Discord: 
 https://discord.gg/NUvvgUtdXW
 
@@ -56,10 +66,14 @@ Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNH
 - https://www.romhacking.net/utilities/1419/
 - http://www.romhacking.net/utilities/659
 - https://wxmedit.github.io/downloads.html
+- https://github.com/Kingcom/armips
 
 ## Credits
-- Thanks to the Temple of Tales Translations team (http://temple-tales.ru/translations.html) for providing tools to edit story and skits
-- Thanks to dizzycrunch and chucho1224 for sending me resources to speed up the patch
-- Thanks to saito for sending me tools for packaging ISO files properly
-- Thanks to @alizor for helping us get started with wonderful resources
+- Thanks to the Temple of Tales Translations team for providing tools to edit scenarios and skits (http://temple-tales.ru/translations.html) 
+- Thanks to risae for showing us how to use `abcde`, check out Growlanser 6 project here: https://bitbucket.org/Risae/growlanser-6-english-translation
+- Thanks to amarant01 for editing the game graphics, check out his other work here: https://www.behance.net/deco-7105af
+- Thanks to dizzycrunch and chucho1224 for sending resources to speed up the patch
+- Thanks to saito for sending tools for packaging ISO files properly, resulting in smaller patch sizes
+- Thanks to alizor for helping us get started with wonderful resources
+- Thanks to everyone on the Tales of Destiny DC discord who had to put up with `Bomb God Mad Temple`
 - Thanks to everyone on the Absolute Zero discord who offered advice

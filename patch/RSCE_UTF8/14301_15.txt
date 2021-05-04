@@ -1,467 +1,484 @@
-若い女性
+Young Woman
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-ちょっと、そこのお兄さん。
+Uhm, Excuse me, mister...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-私ですか？
+Do you mean me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>今、急いでいますので
-何用ですかな？
+<TAG_007>I'm busy now.
+Do you have business with me?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そう言わずに、話を聞いてくれよ。
+Don't say that.
+Just listen to me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……わかりました。
+...Ok.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-実は私、ファンダリア王に
-会いたいんだよ。
+Actually, I'd like to meet
+King of Phandaria.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんたに声をかけたのは、なんだか
-他のやつらと違う感じがしたから。
+I approached you because I felt that
+you were different from the others.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-あんたもしかしたら
-城に出入りできる人物なんじゃ？
+Maybe you're someone who
+has access to the castle?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-王に何用なのですか？
+What do you want
+with the King?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そんな事あんたに関係ないよ。
-王に会わせてくれさえすりゃいいんだ。
+It's none of your business.
+All that matters is that you
+let me see the King.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-事情を知らずにそれはできません。
-では失礼します。
+I can't do that without
+knowing what's going on.
+Now if you'll excuse me.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-話が早いわ。
-あんた、王様に会えるかい？
+I'll be quick! Are you...
+able to meet with the King?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……はい、できますが。
+...Well, yes, I am.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-だったらさ、私を王様と
-引き合わせてくれないか？
+Really? In that case, can you
+get me an audience with him?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-どうしてそのような事を？
+Why do you need
+to see him?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-そうだね……あんた
-親切にしてくれたから話すよ。
+I see..well, since you didn't
+turn me away, I'll tell you.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-実は私の家、この前の動乱で
-焼けちゃってさ。
+The truth is..My house was
+burned down during the riot.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-家族は幼い弟と妹
-以外はみんな死んじゃって。
+My entire family, except for my 
+very young brother and sister,
+were killed.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-近くにいた兵隊さんに頼んでも、
-助けてやりたいが、順番を待てって。
+I begged the sailors that were there,
+and they wanted to help, but said I'd
+have to wait for my turn.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-けど、そんなの待ってたら
-弟と妹が……
+But..if I have to wait any
+longer... my siblings will...!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-わかりました。私が直接王様に
-その事をお伝えしましょう。
+Say no more. I will personally
+report your circumstances to
+his majesty at once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-本当かい！	ありがとう。
-ここまで来たかいがあったよ。
+R-Really?? Thank you!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-ところであんたの名前は？
+By the way, what's your name?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-名前など……私はこのファンダリアを
-心より愛しているものです。
+My name is... I am simply
+someone who loves this
+country with all his heart.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-本当にありがとう。
+Thank you so much!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ファンダリア国内の
-遊びスポットのパンフレットがある。
+<TAG_005>There's a pamphlet about
+fun places in Phandaria.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-……
+...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-グラスは人見知りしますが
-気の優しい良い男です。
-[ENDBLOCK]
-Glass
-[ENDBLOCK]
-<S10>……どうも。
-[ENDBLOCK]
-……
-[ENDBLOCK]
-Retired person
-[ENDBLOCK]
-グラスはボーっとしてますが
-いざとなると頼りになる男です。
+Glass may be shy but
+he's kind-hearted.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]
-……<S05>はっ！	どうも。
+<S10>...Thanks.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Retired Person
+[ENDBLOCK]
+Glass is a dullard, but when
+it comes down to it, he's a
+man you can count on.
+[ENDBLOCK]
+Glass
+[ENDBLOCK]
+...<S05> Ha! Thanks.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものニャン！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャン!?	似たような人を
-知ってるのかニャン？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものニャン。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-見たところ、ユーたちは
-自由な身ではないようだニャン。
+From the looks of it,
+you're not free, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるものニャン。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思うニャン。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものニャン！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャン!?	似たような人を
-知ってるのかニャン？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものニャン。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-どうやら、ユーたちも自由を
-満喫してるようだニャン。
+Well, it looks like you're enjoying
+your freedom too, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-こう見えても昔は自由な身で
-諸国を漫遊したものネコ！
+I may not look like it, but I used
+to be a free spirit and traveled
+all over the world Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-ニャコ!?	似たような人を
-知ってるのかネコか？
+Nyan! Do you know anyone
+who looks like him? Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-誰でも一度は自由を求めて
-旅をしたくなるものネコね。
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-見たところ、ユーたちは
-自由な身ではないようだネコ。
+From the looks of it,
+you're not free, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-自由な身分は良いものネェ～コ。
+It's good to be free,
+ isn't it? Nyan!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるというもの。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思いますよ。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-どうやら、あなたたちも自由を
-満喫しているようだ。
+Well, it looks like you're 
+enjoying your freedom too.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-気がつけば、こんなところまで
-来てしまった……
+I found myself in this place...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは本当に楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由な身分は良いものですよ。
+A free identity is a good thing.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-とはいえ、不自由の中でこそ
-自由の意味がわかるというもの。
+However, it is only in the midst
+of adversities that we can find
+the value of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由を求める旅をしてみるのも
-大事なことだと思いますよ。
+I think It's important to take a
+journey in search of freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-どうやら、あなたたちも自由を
-満喫しているようだ。
+Apparently, you guys are also
+enjoying your freedom.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや～っ、自由な身で諸国を
-漫遊するのは楽しい！
+Oh no, it's fun to be free
+and travel around the world!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-えっ!?	似たような人を
-知っているんですか？
+What? Do you know
+someone like him?
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人間、誰でも一度は自由を求めて
-旅をしたくなるものですからね……
+Everyone wants to travel in search
+of freedom at least once in their life.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-見たところ、あなたたちは
-自由な身ではないようだ。
+From the looks of
+it, you're not free.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-自由な身分は良いものですよ。
+A free identity is a good thing.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-おおっ!!	……ついに、ついに
-この世のことわりを全て見てきたの
-ですね！
+Oh! ...At last, at last, you've seen 
+all that this world has to offer!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-素晴らしい！	あなたたちこそ
-この名を名乗るのにふさわしい！
+Excellent! You're worthy
+to bear this name!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-いや、あなたたちしかいない！
+No, you're the only ones!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-おめでとう！
-「NatuRanger」！
+Congratulations!
+[NatuRangers]!
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-まさか、この日が来るとは
-想像もしていませんでした。
+I never imagined that
+this day would come.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-冥土のみやげに良い経験を
-させてもらいましたよ。
+It was a good experience for me
+to take back to my homeland.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-ユキカケワラビを見つけましたか。
-気がつかないで急に雪をかけられると
-ビックリして心臓が止まりますよ。
+You found the [Snowball Bracken]?
+If you're not paying attention that
+thing can give you a real shock.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-私じゃ、シャレになりませんね……
+And that's the last thing
+someone like me needs...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-ダイヤモンドダストを
-発見しましたな。
+I see you've found
+the [Diamond Dust].
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-あれは氷点下の風がないところで
-起こりやすいようですね。
+Seems it only occurs when
+the temperature's below
+freezing and the winds are still.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-といっても、めったに見られる
-ものではないのですが。
+That is to say, it's a real
+one-in-a-million sight.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-では、ここらで仕入れた
-耳寄りなお話を……
+So here's what
+I've got for you...
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-セインガルドから来た行商人が
-国境を越えて少し行ったところで、
+A merchant who came from
+Seinegald told me that shortly
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-人にいたずらをする奇妙な植物を
-見つけたと言ってましたよ。
+after passing over the border,
+they spotted a plant that seemed
+to be playing tricks on people.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-……たぶん。
+...At least I think they did.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-二年前に動乱があった街では
-周辺の植物も被害を受けましたが、
+The vegetation may
+have suffered during
+the disturbance in the
+city two years prior,
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-まばゆい宝石のような輝きだけは
-誰にも奪われなかったそうです。
+but there's still something
+precious there that nobody
+could ever take away.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-なんとも詩的な表現ですな。
+It's quite poetic.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ディスカバリー図鑑に
-情報が書きこまれました。
+Information has been written
+in the Discovery Book.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-立ち止まるのも自由、
-先に進むのも自由。
+You are free to stop, 
+or you are free to go.
 [ENDBLOCK]
-Retired person
+Retired Person
 [ENDBLOCK]
-ただ、時が過ぎたとしても
-私がここにいた事は
-忘れないでくださいね。
+Just, don't forget I was here,
+even if some time has passed.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-早くファンダリア王に
-会わないと……
+I can't wait to meet 
+King of Phandaria...
 [ENDBLOCK]
 notice
 [ENDBLOCK]

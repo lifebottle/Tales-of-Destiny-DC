@@ -4,52 +4,49 @@ select
 Yes
 No
 [ENDBLOCK]
-俺たちの世界の上に
-こんなものを作るなんて。
+I can't believe we're building something
+like this on top of our world.
 [ENDBLOCK]
-美しい場所だけど
-あたしには守るものがある。
+It's a beautiful place, but I'm
+here to protect it.
 [ENDBLOCK]
-本当にこんな世界を
-作ってしまうなんて。
+I can't believe I'm really
+creating this world.
 [ENDBLOCK]
-ここがどんなに美しい
-世界でも、我々は戦う。
+No matter how beautiful the 
+world is here, we will fight.
 [ENDBLOCK]
-これは僕にも
-認められない世界だ。
+This is a world I can't
+even admit to.
 [ENDBLOCK]
-私には帰るべき家が
-あるのだ。
+I have a home to go back to.
 [ENDBLOCK]
-こんな世界、
-ニセモノです！
+This world is a sham!
 [ENDBLOCK]
-もし誰もが住める世界なら……
-所詮は無理な話だな。
+If everyone could live in a world...
+It's just not possible.
 [ENDBLOCK]
-こんな世界なんて関係ねえ！
-やろうをぶっ倒してやる。
+I don't care about this world!
+I'm going to beat the bastard.
 [ENDBLOCK]
-絶対にこんなの
-嫌なんだから。
+I don't want to do this, I swear.
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-ダイクロフト・中層
+Dycroft - Middle Level
 
 [ENDBLOCK]
-ダイクロフト・中層奥
+Dycroft - Mid-Depths Level
 
 [ENDBLOCK]
-ダイクロフト・最深部
+Dycroft - Deepest Level
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>どこへワープしますか？
+<TAG_007>Where would you like to warp to?
 <x18><x66><x1C><x00><x80><TAG_052><TAG_053>キャンセル
 [ENDBLOCK]
 <TAG_032>
@@ -57,48 +54,50 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-とうとうたどり着いたな。
+We've finally arrived.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、みんな見た？
+Hey, did you guys see that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ、驚いた。
+Oh, my God.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いつの間にか外殻大地の上が、
-緑に覆われていたとは。
+I had to see it to believe it, never
+thought the top of the outer shell 
+was covered in green.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-これもエネルギーアブソーバの影響じゃろ。
+This must be another effect
+of the energy absorber.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-こちらの予想よりもはるかに早く、
-事態が進んでおるようじゃな。
+It seems that things are 
+progressing much faster 
+than we expected.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あれが<Miktran>の目指す、
-新世界の姿なのですね。
+That is the new world that <Miktran>
+is aiming for, isn't it?
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-そう。俺たちにとっては、
-決して認める事のできない世界……
+Yes. A world we can never admit to...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全てを終わりにしよう。
-……俺たち自身の手で。
+Let's put an end to all this.
+...by our own hands.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-待ってろ、<Miktran>！
+Wait for me, <Miktran>!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
