@@ -3,6 +3,7 @@ select
 Return <x19><x6A><x00><x80> to the party?
 Yes
 No
+[ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
 <Leader>
