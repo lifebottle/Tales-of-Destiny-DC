@@ -219,13 +219,14 @@ Hopefully we'll see eachother soon.
 <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を代価に<TAG_077>が貰えます
 
 [ENDBLOCK]
-現在対象アイテムは<x17><x72><x40><x20><x80>個持っています
+I want your <x17><x72><x40><x20><x80>.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-<TAG_007>貴方が持っている<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を、
-ＥＸポイントと交換して差し上げられます。
+<TAG_007>If you give me <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>, 
+I will increase your EX Points.
+
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -233,7 +234,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80>個	（現在<x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>個）
+Exchange <x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80> (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -248,7 +249,7 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-それでは、<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を頂きます。
+Fabulous! I'll take <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -296,8 +297,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-貴方が持っているＥＸポイント<TAG_077>を
-<x1A><x72><x40><x14><x80><TAG_034>個と交換して差し上げられます。
+You can spend <TAG_077> EX Points to purchase 
+<x1A><x72><x40><x14><x80><TAG_034>.
 
 [ENDBLOCK]
 Cyglorg
@@ -395,8 +396,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-貴方が持っている<x1A><x72><x40><x1C><x80><TAG_075>個で、
-食料を持てるだけ補充して差し上げられます。
+If you exchange <x1A><x72><x40><x1C><x80>(x <TAG_075>),
+I can replenish all your food.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -404,7 +405,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x1C><x80>	<TAG_075>個	（現在<x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>個）
+Exchange <x1A><x72><x40><x1C><x80> (x	<TAG_075>)?	（Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -419,11 +420,11 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-それでは、<x1A><x72><x40><x1C><x80><TAG_075>個を頂きます。
+Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フードが満タンになりました。
+Your Food is now full.
 
 [ENDBLOCK]
 Cyglorg
