@@ -61,7 +61,7 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x1C><x00><x80>Some treasure
+<x18><x66><x1C><x00><x80> Some treasure
 chests have special effects.
 
 [ENDBLOCK]
@@ -470,9 +470,9 @@ Cyglorg
 [ENDBLOCK]
 Continue to the next floor
 [ENDBLOCK]
-セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>ポイント必要）
+Save and continue (<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>EX Points)
 [ENDBLOCK]
-アルカナルインから脱出
+Leave Arcana Ruins
 [ENDBLOCK]
 Cancel
 [ENDBLOCK]
@@ -861,7 +861,7 @@ Undecided
 <x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80>あ
 
 [ENDBLOCK]
-<x18><x66><x52><x50><x93><x64><x10><x00><xAB><x80><x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80><x17><x66><x52><x50><x93><x70><x04><xAB><x80>ガルド
+<x18><x66><x52><x50><x93><x64><x10><x00><xAB><x80><x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80><x17><x66><x52><x50><x93><x70><x04><xAB><x80> Gald
 
 [ENDBLOCK]
 Text buffer
@@ -923,8 +923,8 @@ selected members are allowed to enter
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-弱き者の存在を、<x18><x66><x10><x00><x80>は
-拒絶します。
+The presence of the weak
+is rejected by the <x18><x66><x10><x00><x80>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -932,15 +932,16 @@ Here justice is just being "strong"...
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Never forget that.「強き」事のみが、
-<x18><x66><x10><x00><x80>の存在証明でございます。
+Never forget that only the strong
+can survive in the <x18><x66><x10><x00><x80>.
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>You can organize up to a party of 5
-to challenge each floor.
+You can organize up to a party of 5
+to challenge each floor while you explore
+the <x18><x66><x10><x00><x80>.
 
 [ENDBLOCK]
 notice
@@ -1024,6 +1025,7 @@ What are the Arcana Ruins
 [ENDBLOCK]
 About Party Organization
 
+[ENDBLOCK]
 About Combat
 
 [ENDBLOCK]
@@ -1143,7 +1145,7 @@ Ugwahhh!?
 <Rutee>
 [ENDBLOCK]
 Idiot! How the hell did
-you get caught too!
+you get caught too?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
