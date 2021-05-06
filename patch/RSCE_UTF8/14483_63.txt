@@ -1,8 +1,8 @@
 select
 [ENDBLOCK]
-<x19><x6A><x00><x80>をパーティに戻しますか？
-はい
-いいえ
+Return <x19><x6A><x00><x80> to the party?
+Yes
+No
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
