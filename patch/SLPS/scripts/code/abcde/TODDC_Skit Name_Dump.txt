@@ -1,0 +1,3547 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+
+#JMP($12800)
+//Section Skit Name
+
+//Text $164F8
+#WRITE(ptr,$5464)
+Need a Weapon, Fast![END]
+
+
+//Text $164E8
+#WRITE(ptr,$5468)
+Where's [Stahn] from?[END]
+
+
+//Text $164D8
+#WRITE(ptr,$546C)
+Comfortable Once You Adjust[END]
+
+
+//Text $164C8
+#WRITE(ptr,$5470)
+Unexpected Uses[END]
+
+
+//Text $164B8
+#WRITE(ptr,$5474)
+About Master [Alba][END]
+
+
+//Text $164A8
+#WRITE(ptr,$5478)
+The Legendary Hero?[END]
+
+
+//Text $16498
+#WRITE(ptr,$547C)
+Severe Financial Conditions[END]
+
+
+//Text $16480
+#WRITE(ptr,$5480)
+Who Attacked the Draconis?[END]
+
+
+//Text $16468
+#WRITE(ptr,$5484)
+The Backwoods are the Other Way[END]
+
+
+//Text $16458
+#WRITE(ptr,$5488)
+Innocence?[END]
+
+
+//Text $16448
+#WRITE(ptr,$548C)
+Someday, I too will..[END]
+
+
+//Text $16438
+#WRITE(ptr,$5490)
+That's a Secret![END]
+
+
+//Text $16430
+#WRITE(ptr,$5494)
+Bloodthirst?[END]
+
+
+//Text $16420
+#WRITE(ptr,$5498)
+What's His Job?[END]
+
+
+//Text $16400
+#WRITE(ptr,$549C)
+Do Swordians Sleep?[END]
+
+
+//Text $163E8
+#WRITE(ptr,$54A0)
+[Chelsea]'s in the Backwoods[END]
+
+
+//Text $163D0
+#WRITE(ptr,$54A4)
+Look for the Zelkova tree in the Backwoods[END]
+
+
+//Text $163B8
+#WRITE(ptr,$54A8)
+Return to the Mountain Hut[END]
+
+
+//Text $163A8
+#WRITE(ptr,$54AC)
+Let's Go Back[END]
+
+
+//Text $16390
+#WRITE(ptr,$54B0)
+Let's Go Inside[END]
+
+
+//Text $16378
+#WRITE(ptr,$54B4)
+Janos is Southwest of [Alba's] Hut[END]
+
+
+//Text $16360
+#WRITE(ptr,$54B8)
+Janos is Southwest of the Forest[END]
+
+
+//Text $16348
+#WRITE(ptr,$54BC)
+Janos is Just a Bit Further[END]
+
+
+//Text $16338
+#WRITE(ptr,$54C0)
+Janos is the Other Way[END]
+
+
+//Text $16318
+#WRITE(ptr,$54C4)
+Seinegald is Close[END]
+
+
+//Text $16308
+#WRITE(ptr,$54C8)
+Not Everyone is Bad[END]
+
+
+//Text $162F0
+#WRITE(ptr,$54CC)
+Where's [Mary] from?[END]
+
+
+//Text $162E0
+#WRITE(ptr,$54D0)
+A Familiar Face?[END]
+
+
+//Text $162D0
+#WRITE(ptr,$54D4)
+Questioning Yourself?[END]
+
+
+//Text $162C0
+#WRITE(ptr,$54D8)
+Despite appearances..[END]
+
+
+//Text $162A0
+#WRITE(ptr,$54DC)
+Take the North Gate to Seingald[END]
+
+
+//Text $16288
+#WRITE(ptr,$54E0)
+Take the East Gate to help my friends[END]
+
+
+//Text $16270
+#WRITE(ptr,$54E4)
+Take the East Gate to go to the ruins[END]
+
+
+//Text $16258
+#WRITE(ptr,$54E8)
+Go through the Woods to Reach the Temple[END]
+
+
+//Text $16240
+#WRITE(ptr,$54EC)
+The Temple's Hidden Passage is in the Woods[END]
+
+
+//Text $16230
+#WRITE(ptr,$54F0)
+At the North Gate?[END]
+
+
+//Text $16220
+#WRITE(ptr,$54F4)
+Head to the East Gate[END]
+
+
+//Text $16210
+#WRITE(ptr,$54F8)
+This and That[END]
+
+
+//Text $161F8
+#WRITE(ptr,$54FC)
+How do I get a Pass?[END]
+
+
+//Text $161E8
+#WRITE(ptr,$5500)
+What a Coincidence[END]
+
+
+//Text $161D8
+#WRITE(ptr,$5504)
+Easily Distracted[END]
+
+
+//Text $161C0
+#WRITE(ptr,$5508)
+The Temple is through a Hidden Passage[END]
+
+
+//Text $161A8
+#WRITE(ptr,$550C)
+Hidden Passage to the Temple[END]
+
+
+//Text $16190
+#WRITE(ptr,$5510)
+How Did You Meet?[END]
+
+
+//Text $16180
+#WRITE(ptr,$5514)
+Speaking of Temples?[END]
+
+
+//Text $16170
+#WRITE(ptr,$5518)
+It's a Disgrace[END]
+
+
+//Text $16160
+#WRITE(ptr,$551C)
+[Stahn]'s Job[END]
+
+
+//Text $16150
+#WRITE(ptr,$5520)
+My Long-Awaited Pass[END]
+
+
+//Text $16140
+#WRITE(ptr,$5524)
+It's Just My Nature[END]
+
+
+//Text $16128
+#WRITE(ptr,$5528)
+Cost Management is Thorough[END]
+
+
+//Text $16118
+#WRITE(ptr,$552C)
+Fully Motivated[END]
+
+
+//Text $16108
+#WRITE(ptr,$5530)
+Let's Unite Together[END]
+
+
+//Text $160E8
+#WRITE(ptr,$5534)
+Embraced by Sunny Weather[END]
+
+
+//Text $160D8
+#WRITE(ptr,$5538)
+Deeper into the Temple[END]
+
+
+//Text $160C8
+#WRITE(ptr,$553C)
+Let's Return to the Entrance[END]
+
+
+//Text $160B0
+#WRITE(ptr,$5540)
+Let's Exit through the Front[END]
+
+
+//Text $16090
+#WRITE(ptr,$5544)
+City at the Southern Edge of the Forest[END]
+
+
+//Text $16080
+#WRITE(ptr,$5548)
+The City is South of the Forest[END]
+
+
+//Text $16068
+#WRITE(ptr,$554C)
+The Tavern is part of the Inn[END]
+
+
+//Text $16050
+#WRITE(ptr,$5550)
+The Awakened Swordian[END]
+
+
+//Text $16030
+#WRITE(ptr,$5554)
+Entering Seinegald through the North Gate [END]
+
+
+//Text $16010
+#WRITE(ptr,$5558)
+Harmentz is North of Janos[END]
+
+
+//Text $15FF0
+#WRITE(ptr,$555C)
+Harmentz is North West of Janos[END]
+
+
+//Text $15FD8
+#WRITE(ptr,$5560)
+Janos is in the Other Direction[END]
+
+
+//Text $15FC0
+#WRITE(ptr,$5564)
+Let's Hurry to the Tavern[END]
+
+
+//Text $15FA8
+#WRITE(ptr,$5568)
+We're Heading to the North Gate[END]
+
+
+//Text $15F90
+#WRITE(ptr,$556C)
+Try Not to Get Lost[END]
+
+
+//Text $15F78
+#WRITE(ptr,$5570)
+Where is [Rutee] from?[END]
+
+
+//Text $15F60
+#WRITE(ptr,$5574)
+Does not Knowing Win?[END]
+
+
+//Text $15F40
+#WRITE(ptr,$5578)
+What Kind of Person is [Dymlos]?[END]
+
+
+//Text $15F20
+#WRITE(ptr,$557C)
+Walt's House is the Largest in Town[END]
+
+
+//Text $15F08
+#WRITE(ptr,$5580)
+We Gotta Get Out of Here![END]
+
+
+//Text $15EF8
+#WRITE(ptr,$5584)
+Let's get out of here![END]
+
+
+//Text $15EE0
+#WRITE(ptr,$5588)
+We're Going to Walt's House[END]
+
+
+//Text $15EC8
+#WRITE(ptr,$558C)
+Pretty Tiara[MUSIC][END]
+
+
+//Text $15EB0
+#WRITE(ptr,$5590)
+First time at Seinegald Castle[END]
+
+
+//Text $15E98
+#WRITE(ptr,$5594)
+[Hugo]'s Vast Wealth[END]
+
+
+//Text $15E88
+#WRITE(ptr,$5598)
+The Seven Generals[END]
+
+
+//Text $15E70
+#WRITE(ptr,$559C)
+Who Was That Man in the Villas? [END]
+
+
+//Text $15E58
+#WRITE(ptr,$55A0)
+Long Time No See[END]
+
+
+//Text $15E48
+#WRITE(ptr,$55A4)
+The Origin of the Name[END]
+
+
+//Text $15E38
+#WRITE(ptr,$55A8)
+A Suitable Place[END]
+
+
+//Text $15E28
+#WRITE(ptr,$55AC)
+What's a Hedge Knight?[END]
+
+
+//Text $15E18
+#WRITE(ptr,$55B0)
+Parent to Child Respectful Language[END]
+
+
+//Text $15DF0
+#WRITE(ptr,$55B4)
+What can Swordians feel?[END]
+
+
+//Text $15DE0
+#WRITE(ptr,$55B8)
+[Lion]'s Hardship[END]
+
+
+//Text $15DC0
+#WRITE(ptr,$55BC)
+[Hugo]'s Manor is the Biggest House[END]
+
+
+//Text $15DA0
+#WRITE(ptr,$55C0)
+Let's Go to the Largest Mansion in Town[END]
+
+
+//Text $15D80
+#WRITE(ptr,$55C4)
+The Temple is North of Darilsheid[END]
+
+
+//Text $15D68
+#WRITE(ptr,$55C8)
+From Armedia to the Temple[END]
+
+
+//Text $15D48
+#WRITE(ptr,$55CC)
+Straylize Temple is to the East[END]
+
+
+//Text $15D20
+#WRITE(ptr,$55D0)
+Straylize Temple is East of Armedia[END]
+
+
+//Text $15D00
+#WRITE(ptr,$55D4)
+We'll Take the Road East to Armedia[END]
+
+
+//Text $15CE0
+#WRITE(ptr,$55D8)
+Through the Forest to Straylize Temple[END]
+
+
+//Text $15CC0
+#WRITE(ptr,$55DC)
+[Hugo]'s Mansion Is in the City[END]
+
+
+//Text $15CB0
+#WRITE(ptr,$55E0)
+Unsettling Presence[END]
+
+
+//Text $15CA0
+#WRITE(ptr,$55E4)
+Mystery of the Barrier Stone[END]
+
+
+//Text $15C90
+#WRITE(ptr,$55E8)
+A Man Is.[END]
+
+
+//Text $15C80
+#WRITE(ptr,$55EC)
+Introductions[END]
+
+
+//Text $15C68
+#WRITE(ptr,$55F0)
+Top Ranked Priest?[END]
+
+
+//Text $15C40
+#WRITE(ptr,$55F4)
+Who's the Previous Swordian Master?[END]
+
+
+//Text $15C30
+#WRITE(ptr,$55F8)
+What Happened to the Temple?[END]
+
+
+//Text $15C18
+#WRITE(ptr,$55FC)
+Let's Go Look Inside the Temple[END]
+
+
+//Text $15C00
+#WRITE(ptr,$5600)
+Destroy the Barrier Stones![END]
+
+
+//Text $15BF0
+#WRITE(ptr,$5604)
+Let's Search for the Barrier Stones[END]
+
+
+//Text $15BE0
+#WRITE(ptr,$5608)
+Head for the Cathedral[END]
+
+
+//Text $15BD0
+#WRITE(ptr,$560C)
+Hurry to the Cathedral[END]
+
+
+//Text $15BB0
+#WRITE(ptr,$5610)
+Cathedral's Hidden Passage[END]
+
+
+//Text $15B90
+#WRITE(ptr,$5614)
+Darilsheid is South of the Temple[END]
+
+
+//Text $15B78
+#WRITE(ptr,$5618)
+Return to Darilsheid[END]
+
+
+//Text $15B58
+#WRITE(ptr,$561C)
+Darilsheid Harbor is in the East side of town[END]
+
+
+//Text $15B48
+#WRITE(ptr,$5620)
+The Harbor is in the East Side of Town[END]
+
+
+//Text $15B38
+#WRITE(ptr,$5624)
+It Won't Open[END]
+
+
+//Text $15B28
+#WRITE(ptr,$5628)
+Open the Door![END]
+
+
+//Text $15B08
+#WRITE(ptr,$562C)
+Why Was Radisrol Sunk?[END]
+
+
+//Text $15AF0
+#WRITE(ptr,$5630)
+Nostalgic Radisrol[END]
+
+
+//Text $15AE0
+#WRITE(ptr,$5634)
+The Leviathan is Amazing![END]
+
+
+//Text $15AC8
+#WRITE(ptr,$5638)
+Unbeatable?[END]
+
+
+//Text $15AB8
+#WRITE(ptr,$563C)
+Everyone Together[END]
+
+
+//Text $15A98
+#WRITE(ptr,$5640)
+[Clemente] is Inside Radisrol[END]
+
+
+//Text $15A80
+#WRITE(ptr,$5644)
+[Clemente] is Further Inside[END]
+
+
+//Text $15A68
+#WRITE(ptr,$5648)
+Go to the Entrance to Get Back on the Boat[END]
+
+
+//Text $15A60
+#WRITE(ptr,$564C)
+Hot![END]
+
+
+//Text $15A50
+#WRITE(ptr,$5650)
+The Marvelous [Mary][END]
+
+
+//Text $15A38
+#WRITE(ptr,$5654)
+Calvalesian Daily Life[END]
+
+
+//Text $15A20
+#WRITE(ptr,$5658)
+Baruk is a Good Man[END]
+
+
+//Text $15A10
+#WRITE(ptr,$565C)
+Developing a Friendship[END]
+
+
+//Text $15A00
+#WRITE(ptr,$5660)
+Take Extra Care?[END]
+
+
+//Text $159E0
+#WRITE(ptr,$5664)
+World Spanning Oberon Corporation[END]
+
+
+//Text $159C0
+#WRITE(ptr,$5668)
+The Baruk Foundation Office Is in the City[END]
+
+
+//Text $159A0
+#WRITE(ptr,$566C)
+Calviola is North of Cherik[END]
+
+
+//Text $15980
+#WRITE(ptr,$5670)
+To Calviola, North of Cherik[END]
+
+
+//Text $15968
+#WRITE(ptr,$5674)
+The Unique Beliefs of Calvalese[END]
+
+
+//Text $15958
+#WRITE(ptr,$5678)
+Feeling Better?[END]
+
+
+//Text $15940
+#WRITE(ptr,$567C)
+Is the Ice Melting?[END]
+
+
+//Text $15920
+#WRITE(ptr,$5680)
+What's [Clemente] Like?[END]
+
+
+//Text $15910
+#WRITE(ptr,$5684)
+[Philia]'s Glasses[END]
+
+
+//Text $15900
+#WRITE(ptr,$5688)
+Looking for my Glasses[END]
+
+
+//Text $158F0
+#WRITE(ptr,$568C)
+Same Old, Same Old[END]
+
+
+//Text $158E0
+#WRITE(ptr,$5690)
+The Temple is in the City[END]
+
+
+//Text $158D0
+#WRITE(ptr,$5694)
+Waiting at the Inn[END]
+
+
+//Text $158B8
+#WRITE(ptr,$5698)
+Objective: Back Entrance of the Temple[END]
+
+
+//Text $158A0
+#WRITE(ptr,$569C)
+Let's Head for the Cathedral[END]
+
+
+//Text $15888
+#WRITE(ptr,$56A0)
+Let's Go to the Cathedral[END]
+
+
+//Text $15878
+#WRITE(ptr,$56A4)
+To the Back..[END]
+
+
+//Text $15868
+#WRITE(ptr,$56A8)
+Go to the Back[END]
+
+
+//Text $15840
+#WRITE(ptr,$56AC)
+Don't Forget to Search Straylize Temple[END]
+
+
+//Text $15828
+#WRITE(ptr,$56B0)
+Don't Forget to Search the Temple[END]
+
+
+//Text $15808
+#WRITE(ptr,$56B4)
+Cherik is South of calviola[END]
+
+
+//Text $157E8
+#WRITE(ptr,$56B8)
+Cherik, South of Calviola[END]
+
+
+//Text $157C0
+#WRITE(ptr,$56BC)
+We Don't have Time to Wander Aimlessly[END]
+
+//Text $157B0
+#WRITE(ptr,$56C0)
+We're Going to the Temple[END]
+
+
+//Text $157A0
+#WRITE(ptr,$56C4)
+Certainly Impressive[END]
+
+
+//Text $15790
+#WRITE(ptr,$56C8)
+We're from the Same Country[END]
+
+
+//Text $15770
+#WRITE(ptr,$56CC)
+Neustadt Sure is Lively[END]
+
+
+//Text $15758
+#WRITE(ptr,$56D0)
+Writing a Letter - 1[END]
+
+
+//Text $15740
+#WRITE(ptr,$56D4)
+My Family Is Far Away[END]
+
+
+//Text $15728
+#WRITE(ptr,$56D8)
+Looking Forward to Next Time[END]
+
+
+//Text $15718
+#WRITE(ptr,$56DC)
+[Lion] Has Been Tamed[END]
+
+
+//Text $15700
+#WRITE(ptr,$56E0)
+Don't Wander Too Far Off[END]
+
+
+//Text $156D8
+#WRITE(ptr,$56E4)
+[Ilene]'s Manor Is in Neustadt[END]
+
+
+//Text $156C0
+#WRITE(ptr,$56E8)
+Let's Look for [ilene]'s Manor[END]
+
+
+//Text $156A0
+#WRITE(ptr,$56EC)
+The Softy Kreem Stand is to the North[END]
+
+
+//Text $15680
+#WRITE(ptr,$56F0)
+Let's Look for the Softy Kreem Stand[END]
+
+
+//Text $15670
+#WRITE(ptr,$56F4)
+The Arena Is at the North Side of Town[END]
+
+
+//Text $15658
+#WRITE(ptr,$56F8)
+The Arena at the North End of Main Street[END]
+
+
+//Text $15640
+#WRITE(ptr,$56FC)
+Monsters in Town?![END]
+
+
+//Text $15620
+#WRITE(ptr,$5700)
+Follow [ilene] to the Arena[END]
+
+
+//Text $15608
+#WRITE(ptr,$5704)
+Defeat the Armored Convoy![END]
+
+
+//Text $155F8
+#WRITE(ptr,$5708)
+Head Towards the Harbor[END]
+
+
+//Text $155D8
+#WRITE(ptr,$570C)
+The Popsicle Stand is in the Square[END]
+
+
+//Text $155C0
+#WRITE(ptr,$5710)
+Once Outside the Arena..[END]
+
+
+//Text $155B0
+#WRITE(ptr,$5714)
+Let's Go to the Harbor[END]
+
+
+//Text $155A0
+#WRITE(ptr,$5718)
+Alright, let's go![END]
+
+
+//Text $15590
+#WRITE(ptr,$571C)
+Uneasy[END]
+
+
+//Text $15578
+#WRITE(ptr,$5720)
+I Want a Tiara[END]
+
+
+//Text $15558
+#WRITE(ptr,$5724)
+What's [Chaltier] like?[END]
+
+
+//Text $15540
+#WRITE(ptr,$5728)
+Aim for [Greybum][END]
+
+
+//Text $15520
+#WRITE(ptr,$572C)
+By Boat from Neustadt[END]
+
+
+//Text $15500
+#WRITE(ptr,$5730)
+By Boat to Aquaveil[END]
+
+
+//Text $154F0
+#WRITE(ptr,$5734)
+At the Port?[END]
+
+
+//Text $154D8
+#WRITE(ptr,$5738)
+Arriving at Aquaveil[END]
+
+
+//Text $154C8
+#WRITE(ptr,$573C)
+Visiting Multiple Countries[END]
+
+
+//Text $154B0
+#WRITE(ptr,$5740)
+Who is He Really?[END]
+
+
+//Text $154A0
+#WRITE(ptr,$5744)
+Discussing National Isolationism[END]
+
+
+//Text $15488
+#WRITE(ptr,$5748)
+Writing a Letter - 2[END]
+
+
+//Text $15478
+#WRITE(ptr,$574C)
+[Mary]'s Curiousty[END]
+
+
+//Text $15468
+#WRITE(ptr,$5750)
+Let's Head to Town[END]
+
+
+//Text $15448
+#WRITE(ptr,$5754)
+The Cave Entrance is to the South of Shiden[END]
+
+//Text $15430
+#WRITE(ptr,$5758)
+The Cave is to the South of Shiden[END]
+
+
+//Text $15418
+#WRITE(ptr,$575C)
+We Aren't on a Meandering Journey[END]
+
+
+//Text $15408
+#WRITE(ptr,$5760)
+There's an Ocean Above our Heads[END]
+
+
+//Text $153F0
+#WRITE(ptr,$5764)
+Have Some Tact[END]
+
+
+//Text $153D8
+#WRITE(ptr,$5768)
+Please Keep it to Yourself[END]
+
+
+//Text $153B0
+#WRITE(ptr,$576C)
+Can Swordians get Hungry?[END]
+
+
+//Text $15390
+#WRITE(ptr,$5770)
+[Dymlos] and [Atwight]'s Relationship[END]
+
+//Text $15378
+#WRITE(ptr,$5774)
+Swordian's Weakness[END]
+
+
+//Text $15358
+#WRITE(ptr,$5778)
+Through the Underwater Cave to Moreau[END]
+
+
+//Text $15340
+#WRITE(ptr,$577C)
+Let's Get to Moreau[END]
+
+
+//Text $15330
+#WRITE(ptr,$5780)
+To Moreau[END]
+
+
+//Text $15318
+#WRITE(ptr,$5784)
+Moreau is a Water Town[END]
+
+
+//Text $15308
+#WRITE(ptr,$5788)
+A Helper?[END]
+
+
+//Text $152F0
+#WRITE(ptr,$578C)
+An Acquaintance of Yours?[END]
+
+
+//Text $152D8
+#WRITE(ptr,$5790)
+Clemente's Hobby[END]
+
+
+//Text $152C0
+#WRITE(ptr,$5794)
+What Became of the Tiara?[END]
+
+
+//Text $152B0
+#WRITE(ptr,$5798)
+A Wanted Criminal[END]
+
+
+//Text $152A8
+#WRITE(ptr,$579C)
+A Playboy[END]
+
+
+//Text $15290
+#WRITE(ptr,$57A0)
+Gathering Information in Moreau[END]
+
+
+//Text $15280
+#WRITE(ptr,$57A4)
+To the Harbor[END]
+
+
+//Text $15268
+#WRITE(ptr,$57A8)
+Let's Speak to [Johnny][END]
+
+
+//Text $15248
+#WRITE(ptr,$57AC)
+To Get to Moreau Castle, You Need a Boat[END]
+
+
+//Text $15230
+#WRITE(ptr,$57B0)
+Take a Small Boat to Moreau Castle[END]
+
+
+//Text $15220
+#WRITE(ptr,$57B4)
+Isn't that the Port?[END]
+
+
+//Text $15208
+#WRITE(ptr,$57B8)
+You Should Talk to [Johnny][END]
+
+
+//Text $151F0
+#WRITE(ptr,$57BC)
+The True Helpers?[END]
+
+
+//Text $151E0
+#WRITE(ptr,$57C0)
+I'm Glad we Did This[END]
+
+
+//Text $151C8
+#WRITE(ptr,$57C4)
+[Johnny]'s Singing Lesson[END]
+
+
+//Text $151B0
+#WRITE(ptr,$57C8)
+Who's [Johnny]'s Family[END]
+
+
+//Text $151A0
+#WRITE(ptr,$57CC)
+[Johnny] and [Fayte][END]
+
+
+//Text $15190
+#WRITE(ptr,$57D0)
+Songs: A Window Into Our Soul[END]
+
+
+//Text $15180
+#WRITE(ptr,$57D4)
+Be Cool[END]
+
+
+//Text $15170
+#WRITE(ptr,$57D8)
+Let's Get to the Prison[END]
+
+
+//Text $15158
+#WRITE(ptr,$57DC)
+Assisting [Fayte][END]
+
+
+//Text $15140
+#WRITE(ptr,$57E0)
+Let's Get Below Batista[END]
+
+
+//Text $15128
+#WRITE(ptr,$57E4)
+To Batista[END]
+
+
+//Text $15118
+#WRITE(ptr,$57E8)
+Exit the Castle and Go to the Port[END]
+
+
+//Text $150F8
+#WRITE(ptr,$57EC)
+Black Cross Ships to Terazzi Isles[END]
+
+
+//Text $150E0
+#WRITE(ptr,$57F0)
+From the Port to Terazzi[END]
+
+
+//Text $150D0
+#WRITE(ptr,$57F4)
+Wait![END]
+
+
+//Text $150B8
+#WRITE(ptr,$57F8)
+Ghost Town?[END]
+
+
+//Text $150A0
+#WRITE(ptr,$57FC)
+[Fayte] is Stubborn[END]
+
+
+//Text $15088
+#WRITE(ptr,$5800)
+Let's Head to Terrazi Castle[END]
+
+
+//Text $15070
+#WRITE(ptr,$5804)
+Let's go to Terrazi Castle[END]
+
+
+//Text $15058
+#WRITE(ptr,$5808)
+The Docks Are at the Center of Town[END]
+
+
+//Text $15040
+#WRITE(ptr,$580C)
+Let's Go to Terrazi Castle Now[END]
+
+
+//Text $15030
+#WRITE(ptr,$5810)
+[Fayte] is Amazing Too[END]
+
+
+//Text $15010
+#WRITE(ptr,$5814)
+The Future of Aquaveil[END]
+
+
+//Text $15000
+#WRITE(ptr,$5818)
+New Song Material[END]
+
+
+//Text $14FE8
+#WRITE(ptr,$581C)
+Swordian Council?[END]
+
+
+//Text $14FD8
+#WRITE(ptr,$5820)
+Battle for Terrazi Castle[END]
+
+
+//Text $14FC8
+#WRITE(ptr,$5824)
+Triumphant Return[END]
+
+
+//Text $14FA8
+#WRITE(ptr,$5828)
+Following [Grebum] to Phandaria[END]
+
+
+//Text $14F90
+#WRITE(ptr,$582C)
+From the Port to Phandaria[END]
+
+
+//Text $14F78
+#WRITE(ptr,$5830)
+[Greybum] and the Eye of Atamoni[END]
+
+
+//Text $14F68
+#WRITE(ptr,$5834)
+Is There a Connection?[END]
+
+
+//Text $14F58
+#WRITE(ptr,$5838)
+Civil War Outbreak?![END]
+
+
+//Text $14F48
+#WRITE(ptr,$583C)
+We're Here to Help[END]
+
+
+//Text $14F38
+#WRITE(ptr,$5840)
+They're Compatriots[END]
+
+
+//Text $14F30
+#WRITE(ptr,$5844)
+Don't Be Overly Optimistic[END]
+
+
+//Text $14F18
+#WRITE(ptr,$5848)
+Writing a Letter - 3[END]
+
+
+//Text $14F00
+#WRITE(ptr,$584C)
+Let's Check on the City[END]
+
+
+//Text $14EE8
+#WRITE(ptr,$5850)
+Let's Go to the City[END]
+
+
+//Text $14ED0
+#WRITE(ptr,$5854)
+We Should Help [Woodrow] in the Forest[END]
+
+
+//Text $14EA8
+#WRITE(ptr,$5858)
+Through Tyrso Forest to Heidelberg [END]
+
+
+//Text $14E88
+#WRITE(ptr,$585C)
+Tyrso Forest is West of Frostheim[END]
+
+//Text $14E78
+#WRITE(ptr,$5860)
+Master Credentials[END]
+
+
+//Text $14E68
+#WRITE(ptr,$5864)
+Still a Child?[END]
+
+
+//Text $14E60
+#WRITE(ptr,$5868)
+Righteous Fury?[END]
+
+
+//Text $14E48
+#WRITE(ptr,$586C)
+When It's Cold, Find a Hot Spring[END]
+
+
+//Text $14E28
+#WRITE(ptr,$5870)
+Through the Forest to Cyril[END]
+
+
+//Text $14E08
+#WRITE(ptr,$5874)
+Reach Cyril Through the Forest[END]
+
+
+//Text $14DF8
+#WRITE(ptr,$5878)
+Cyril's Landscape[END]
+
+
+//Text $14DE8
+#WRITE(ptr,$587C)
+Critical Situation?[END]
+
+
+//Text $14DD8
+#WRITE(ptr,$5880)
+Could Be Dangerous[END]
+
+
+//Text $14DC0
+#WRITE(ptr,$5884)
+[Mary]'s House is to the West[END]
+
+
+//Text $14DA0
+#WRITE(ptr,$5888)
+Heidelberg is North of Cyril[END]
+
+
+//Text $14D88
+#WRITE(ptr,$588C)
+Cyril's to the North[END]
+
+
+//Text $14D70
+#WRITE(ptr,$5890)
+Impressions of Heidelberg[END]
+
+
+//Text $14D58
+#WRITE(ptr,$5894)
+Even Thought They're Rebels[END]
+
+
+//Text $14D38
+#WRITE(ptr,$5898)
+Emergency Passage is Located to the East  [END]
+
+
+//Text $14D18
+#WRITE(ptr,$589C)
+Emergency Passage to Heidelberg Castle[END]
+
+
+//Text $14D00
+#WRITE(ptr,$58A0)
+Respite at the End of the Passage[END]
+
+
+//Text $14CE8
+#WRITE(ptr,$58A4)
+Though the Passage to the Castle[END]
+
+
+//Text $14CD8
+#WRITE(ptr,$58A8)
+Parental Bonds[END]
+
+
+//Text $14CC8
+#WRITE(ptr,$58AC)
+Showdown at the Clock Tower[END]
+
+
+//Text $14CB8
+#WRITE(ptr,$58B0)
+To The Clock Tower[END]
+
+
+//Text $14CA8
+#WRITE(ptr,$58B4)
+We Can't Go On[END]
+
+
+//Text $14C98
+#WRITE(ptr,$58B8)
+You Forgot[END]
+
+
+//Text $14C88
+#WRITE(ptr,$58BC)
+Where's [Rutee]?[END]
+
+
+//Text $14C78
+#WRITE(ptr,$58C0)
+It's Nice to Have a Family[END]
+
+
+//Text $14C68
+#WRITE(ptr,$58C4)
+Status Report[END]
+
+
+//Text $14C58
+#WRITE(ptr,$58C8)
+So Insensitive[END]
+
+
+//Text $14C48
+#WRITE(ptr,$58CC)
+The One We Long For[END]
+
+
+//Text $14C30
+#WRITE(ptr,$58D0)
+Let's Buy Food for Dinner[END]
+
+
+//Text $14C20
+#WRITE(ptr,$58D4)
+Let's Go Home[END]
+
+
+//Text $14C00
+#WRITE(ptr,$58D8)
+Neuestadt is Northwest of Lienea[END]
+
+
+//Text $14BE0
+#WRITE(ptr,$58DC)
+Lienea is Southeast of Neuestadt[END]
+
+
+//Text $14BC0
+#WRITE(ptr,$58E0)
+You Need a Boat to Get to Phandaria[END]
+
+
+//Text $14BA0
+#WRITE(ptr,$58E4)
+I Have to Buy Something for Dinner[END]
+
+
+//Text $14B90
+#WRITE(ptr,$58E8)
+It's Fine, Right?[END]
+
+
+//Text $14B78
+#WRITE(ptr,$58EC)
+[Kongman], Aren't You Cold?[END]
+
+
+//Text $14B70
+#WRITE(ptr,$58F0)
+The Same Rank?[END]
+
+
+//Text $14B60
+#WRITE(ptr,$58F4)
+In Good Spirits?[END]
+
+
+//Text $14B50
+#WRITE(ptr,$58F8)
+Revelation from Dreams?[END]
+
+
+//Text $14B30
+#WRITE(ptr,$58FC)
+[Kongman], Aren't You Embarrassed?[END]
+
+
+//Text $14B20
+#WRITE(ptr,$5900)
+[Rutee]'s Dream[END]
+
+
+//Text $14B00
+#WRITE(ptr,$5904)
+What's [Atwight] Like?[END]
+
+
+//Text $14AE8
+#WRITE(ptr,$5908)
+My Hair will Probably Grow[END]
+
+
+//Text $14AD8
+#WRITE(ptr,$590C)
+[Rutee]'s Nature[END]
+
+
+//Text $14AC8
+#WRITE(ptr,$5910)
+What Does the Letter Mean?[END]
+
+
+//Text $14AB0
+#WRITE(ptr,$5914)
+Has [Mary] Changed?[END]
+
+
+//Text $14A90
+#WRITE(ptr,$5918)
+Towards Heidelberg[END]
+
+
+//Text $14A78
+#WRITE(ptr,$591C)
+Let's Go See [Woodrow][END]
+
+
+//Text $14A58
+#WRITE(ptr,$5920)
+Heidelberg is North Through the Forest[END]
+
+
+//Text $14A48
+#WRITE(ptr,$5924)
+Let's leave the Forest Through the North[END]
+
+
+//Text $14A30
+#WRITE(ptr,$5928)
+Let's Meet [Woodrow] at the Castle[END]
+
+
+//Text $14A20
+#WRITE(ptr,$592C)
+[Woodrow] on the Throne[END]
+
+
+//Text $14A08
+#WRITE(ptr,$5930)
+Let's Head Towards Seinegald[END]
+
+
+//Text $149F0
+#WRITE(ptr,$5934)
+Let's Go to Seinegald[END]
+
+
+//Text $149D0
+#WRITE(ptr,$5938)
+Cresta is to the East of Darilsheid[END]
+
+
+//Text $149B8
+#WRITE(ptr,$593C)
+Let's Meet [Rutee] in Cresta[END]
+
+
+//Text $149A0
+#WRITE(ptr,$5940)
+Is [Rutee] Anywhere in the City?[END]
+
+
+//Text $14988
+#WRITE(ptr,$5944)
+Let's Meet Everyone in the Square[END]
+
+
+//Text $14968
+#WRITE(ptr,$5948)
+Darilsheid is to the West of Cresta[END]
+
+
+//Text $14950
+#WRITE(ptr,$594C)
+To the West of Cresta[END]
+
+
+//Text $14938
+#WRITE(ptr,$5950)
+Let's Rush to Where the King is[END]
+
+
+//Text $14918
+#WRITE(ptr,$5954)
+To Reach the Factory, We Need a Ship[END]
+
+
+//Text $14900
+#WRITE(ptr,$5958)
+Take the Ship to the Oberon Factory[END]
+
+
+//Text $148F0
+#WRITE(ptr,$595C)
+What Do You Think?[END]
+
+
+//Text $148D8
+#WRITE(ptr,$5960)
+Why was this place Abandoned?[END]
+
+
+//Text $148B8
+#WRITE(ptr,$5964)
+Let's Examine the Factory[END]
+
+
+//Text $14898
+#WRITE(ptr,$5968)
+Let's Go Back to Oberon's Factory[END]
+
+
+//Text $14878
+#WRITE(ptr,$596C)
+Where is the Eye of Atamoni in this Cave?[END]
+
+
+//Text $15B78
+#WRITE(ptr,$5970)
+Let's Go Back to Darilsheid[END]
+
+//Text $14860
+#WRITE(ptr,$5974)
+What Kind of Person is Ritora?[END]
+
+//Text $14848
+#WRITE(ptr,$5978)
+The Ones Left Behind - 1[END]
+
+
+//Text $14830
+#WRITE(ptr,$597C)
+The Ones Left Behind - 2[END]
+
+//Text $14818
+#WRITE(ptr,$5980)
+The Ones Left Behind - 3[END]
+
+//Text $14808
+#WRITE(ptr,$5984)
+Their Feelings[END]
+
+
+//Text $147E8
+#WRITE(ptr,$5988)
+Radisrol is to the East of Calvalese[END]
+
+//Text $147C0
+#WRITE(ptr,$598C)
+Radisrol is East of Calvalese[END]
+
+//Text $147A0
+#WRITE(ptr,$5990)
+Let's Go to Radisrol Immediately[END]
+
+//Text $14778
+#WRITE(ptr,$5994)
+Ritora is at Radisrol's Center[END]
+
+//Text $14760
+#WRITE(ptr,$5998)
+Ruins Near Lienea[END]
+
+//Text $14748
+#WRITE(ptr,$599C)
+The Ruins Near Lienea Bay[END]
+
+//Text $14738
+#WRITE(ptr,$59A0)
+Ghost Story?[END]
+
+
+//Text $14728
+#WRITE(ptr,$59A4)
+The Seal is Secured[END]
+
+
+//Text $14718
+#WRITE(ptr,$59A8)
+What's [Kongman]'s Dream?[END]
+
+
+//Text $14700
+#WRITE(ptr,$59AC)
+Get the R Key[END]
+
+
+//Text $146E8
+#WRITE(ptr,$59B0)
+The R Key Is at the Far End[END]
+
+
+//Text $146D8
+#WRITE(ptr,$59B4)
+Let's Leave the Temple[END]
+
+
+//Text $146B0
+#WRITE(ptr,$59B8)
+Radisrol is East of Calvalese[END]
+
+//Text $14698
+#WRITE(ptr,$59BC)
+Let's Go Back to Radisrol[END]
+
+//Text $14688
+#WRITE(ptr,$59C0)
+Women are Amazing[END]
+
+
+//Text $14678
+#WRITE(ptr,$59C4)
+Aeth'er Army Attack[END]
+
+//Text $14658
+#WRITE(ptr,$59C8)
+Doesn't Your Hair Bother You?[END]
+
+
+//Text $14648
+#WRITE(ptr,$59CC)
+Like-Minded[END]
+
+
+//Text $14638
+#WRITE(ptr,$59D0)
+[Kongman]'s Daily Routine[END]
+
+
+//Text $14628
+#WRITE(ptr,$59D4)
+Hurry to the Central Area[END]
+
+
+//Text $14610
+#WRITE(ptr,$59D8)
+Let's Check up on [Rutee][END]
+
+
+//Text $145F8
+#WRITE(ptr,$59DC)
+Head to Ignasea[END]
+
+
+//Text $145E0
+#WRITE(ptr,$59E0)
+Going to Ignasea[END]
+
+
+//Text $145C0
+#WRITE(ptr,$59E4)
+Enter Ignasea through the Outer Shell[END]
+
+
+//Text $145A0
+#WRITE(ptr,$59E8)
+We Shouldn't Go Out Right Now[END]
+
+
+//Text $14598
+#WRITE(ptr,$59EC)
+Observer[END]
+
+
+//Text $14578
+#WRITE(ptr,$59F0)
+What's a Transporter?[END]
+
+
+//Text $14568
+#WRITE(ptr,$59F4)
+[Philia]'s Experiment[END]
+
+
+//Text $14548
+#WRITE(ptr,$59F8)
+Creating Bombs is Dangerous[END]
+
+
+//Text $14530
+#WRITE(ptr,$59FC)
+Secure the Transporter[END]
+
+
+//Text $14520
+#WRITE(ptr,$5A00)
+It's so Dark in Here[END]
+
+
+//Text $14510
+#WRITE(ptr,$5A04)
+[Philia]'s Dreams?[END]
+
+
+//Text $144F8
+#WRITE(ptr,$5A08)
+A Serious Gaze?[END]
+
+
+//Text $144D0
+#WRITE(ptr,$5A0C)
+Leaving Deimos for Cloudius[END]
+
+
+//Text $144B8
+#WRITE(ptr,$5A10)
+Find the Security Unit[END]
+
+
+//Text $14498
+#WRITE(ptr,$5A14)
+Get the Energy Unit Back[END]
+
+
+//Text $14480
+#WRITE(ptr,$5A18)
+Catch the Rat[END]
+
+
+//Text $14460
+#WRITE(ptr,$5A1C)
+Hurry to the Main System[END]
+
+
+//Text $14440
+#WRITE(ptr,$5A20)
+We Need to Get out of Deimos[END]
+
+
+//Text $14428
+#WRITE(ptr,$5A24)
+Hurry to Cloudius[END]
+
+
+//Text $14410
+#WRITE(ptr,$5A28)
+Stop the Guardian Dragon![END]
+
+
+//Text $143F8
+#WRITE(ptr,$5A2C)
+We Need to Stop the Guardian Dragon[END]
+
+
+//Text $143D8
+#WRITE(ptr,$5A30)
+To Ignasea via Deimos[END]
+
+
+//Text $143B8
+#WRITE(ptr,$5A34)
+Deimos to Ignasea[END]
+
+
+//Text $143A0
+#WRITE(ptr,$5A38)
+Return to Radisrol[END]
+
+
+//Text $14380
+#WRITE(ptr,$5A3C)
+To Helraios via Rodeon[END]
+
+
+//Text $14360
+#WRITE(ptr,$5A40)
+Rodeon to Helraios[END]
+
+
+//Text $14350
+#WRITE(ptr,$5A44)
+It Still Won't Open[END]
+
+
+//Text $14338
+#WRITE(ptr,$5A48)
+Thoughts on the Aetherians?[END]
+
+
+//Text $14328
+#WRITE(ptr,$5A4C)
+Learning Experience[END]
+
+
+//Text $14320
+#WRITE(ptr,$5A50)
+Natural Enemies?[END]
+
+
+//Text $14308
+#WRITE(ptr,$5A54)
+What are ilene's True Intentions?[END]
+
+
+//Text $142F8
+#WRITE(ptr,$5A58)
+One Job Done[END]
+
+
+//Text $142D8
+#WRITE(ptr,$5A5C)
+What Kind of Person is Igtenos?[END]
+
+
+//Text $142B0
+#WRITE(ptr,$5A60)
+Qualifications of a Swordian Master?[END]
+
+
+//Text $14298
+#WRITE(ptr,$5A64)
+Igtenos' Pain[END]
+
+
+//Text $14270
+#WRITE(ptr,$5A68)
+Through Rodeon to Helraios[END]
+
+
+//Text $14250
+#WRITE(ptr,$5A6C)
+Enter Helraios through the Outer Shell[END]
+
+
+//Text $14238
+#WRITE(ptr,$5A70)
+We're Heading for Helraios[END]
+
+
+//Text $14220
+#WRITE(ptr,$5A74)
+Attacking Helraios[END]
+
+
+//Text $14208
+#WRITE(ptr,$5A78)
+Is ilene at the Center?[END]
+
+
+//Text $141F0
+#WRITE(ptr,$5A7C)
+Let's go to the Central Area[END]
+
+
+//Text $141D8
+#WRITE(ptr,$5A80)
+Let's Return to the Others[END]
+
+
+//Text $141C0
+#WRITE(ptr,$5A84)
+We're Heading to Radisrol[END]
+
+
+//Text $141A8
+#WRITE(ptr,$5A88)
+Let's return to Radirol[END]
+
+
+//Text $14190
+#WRITE(ptr,$5A8C)
+Hurry to Raiker[END]
+
+
+//Text $14170
+#WRITE(ptr,$5A90)
+To Mikheil via Josaia[END]
+
+
+//Text $14150
+#WRITE(ptr,$5A94)
+From Josaia to Mikheil[END]
+
+
+//Text $14140
+#WRITE(ptr,$5A98)
+What If?[END]
+
+
+//Text $14128
+#WRITE(ptr,$5A9C)
+Swordian Conference[END]
+
+
+//Text $14118
+#WRITE(ptr,$5AA0)
+Reckless [Philia]?[END]
+
+
+//Text $140F0
+#WRITE(ptr,$5AA4)
+Pass Through Josaia to Mikheil[END]
+
+
+//Text $140D0
+#WRITE(ptr,$5AA8)
+Let's Leave Josaia for Mikheil[END]
+
+
+//Text $140B0
+#WRITE(ptr,$5AAC)
+Traverse the Aethersphere to Mikheil[END]
+
+
+//Text $14098
+#WRITE(ptr,$5AB0)
+Finding a Floating Cruiser[END]
+
+
+//Text $14080
+#WRITE(ptr,$5AB4)
+The Depths of the Floating Cruiser[END]
+
+
+//Text $14068
+#WRITE(ptr,$5AB8)
+[Hugo]'s True Motives?[END]
+
+
+//Text $14048
+#WRITE(ptr,$5ABC)
+Aim for Belcrant's Zenith[END]
+
+
+//Text $14030
+#WRITE(ptr,$5AC0)
+To the Top of Belcrant[END]
+
+//Text $14010
+#WRITE(ptr,$5AC4)
+Stopping [Hugo]'s Plan[END]
+
+
+//Text $13FF8
+#WRITE(ptr,$5AC8)
+For the Living[END]
+
+
+//Text $13FE8
+#WRITE(ptr,$5ACC)
+Meeting after a Long Absence[END]
+
+
+//Text $13FD8
+#WRITE(ptr,$5AD0)
+A Rivalry Emerges?[END]
+
+
+//Text $13FC8
+#WRITE(ptr,$5AD4)
+Hurry to Cresta[END]
+
+
+//Text $149D0
+#WRITE(ptr,$5AD8)
+Cresta is East of Darilsheid[END]
+
+
+//Text $13FA8
+#WRITE(ptr,$5ADC)
+What Happened to Phadaria[END]
+
+
+//Text $13F98
+#WRITE(ptr,$5AE0)
+Quickly, to the Orphanage[END]
+
+
+//Text $13F80
+#WRITE(ptr,$5AE4)
+Returning to Darilsheid[END]
+
+
+//Text $13F68
+#WRITE(ptr,$5AE8)
+We Must Return to Darilsheid[END]
+
+
+//Text $13F40
+#WRITE(ptr,$5AEC)
+Defend Darilsheid from the Monsters[END]
+
+
+//Text $13F30
+#WRITE(ptr,$5AF0)
+Let's Get to the Inn[END]
+
+
+//Text $13F18
+#WRITE(ptr,$5AF4)
+To [Reynolds]' Lab[END]
+
+
+//Text $13EF8
+#WRITE(ptr,$5AF8)
+[Reynolds]' Lab is in the Castle[END]
+
+
+//Text $13EE8
+#WRITE(ptr,$5AFC)
+[Kongman]'s Training[END]
+
+
+//Text $13EC8
+#WRITE(ptr,$5B00)
+What's it Like to Talk to a Sword?[END]
+
+
+//Text $13EB8
+#WRITE(ptr,$5B04)
+Hurry to the Audience Chamber[END]
+
+
+//Text $13EA0
+#WRITE(ptr,$5B08)
+Riding the Dragon[END]
+
+
+//Text $13E80
+#WRITE(ptr,$5B0C)
+Taking the Dragon to the Swordian R&D Lab[END]
+
+
+//Text $13E60
+#WRITE(ptr,$5B10)
+The Lab is West of Darilsheid[END]
+
+
+//Text $13E40
+#WRITE(ptr,$5B14)
+The Lab Right in Front of Darilsheid[END]
+
+
+//Text $13E30
+#WRITE(ptr,$5B18)
+What is that Song?[END]
+
+
+//Text $13E20
+#WRITE(ptr,$5B1C)
+[Chelsea]'s Feelings[END]
+
+
+//Text $13E10
+#WRITE(ptr,$5B20)
+Talking in Private[END]
+
+
+//Text $13E00
+#WRITE(ptr,$5B24)
+Hang in There, [Chelsea][END]
+
+
+//Text $13DE8
+#WRITE(ptr,$5B28)
+Where's the Lab Equipment?[END]
+
+
+//Text $13DD8
+#WRITE(ptr,$5B2C)
+Goal: Innermost Depths[END]
+
+
+//Text $13DC8
+#WRITE(ptr,$5B30)
+The Final Test[END]
+
+
+//Text $13DA0
+#WRITE(ptr,$5B34)
+Junkland is West of Calvalese [END]
+
+
+//Text $13D78
+#WRITE(ptr,$5B38)
+West of Calvalese is Junkland[END]
+
+
+//Text $13D68
+#WRITE(ptr,$5B3C)
+Just the Way You Are[END]
+
+
+//Text $13D58
+#WRITE(ptr,$5B40)
+[Woodrow]'s Dream?[END]
+
+
+//Text $13D48
+#WRITE(ptr,$5B44)
+[Johnny]'s Dream?[END]
+
+
+//Text $13D30
+#WRITE(ptr,$5B48)
+Who Do You Like? (Girls)[END]
+
+
+//Text $13D18
+#WRITE(ptr,$5B4C)
+Who Do You Like? (Boys)[END]
+
+
+//Text $13D08
+#WRITE(ptr,$5B50)
+Enthusiastic [Chelsea][END]
+
+
+//Text $13CF0
+#WRITE(ptr,$5B54)
+Let's Go to Trash Mountain[END]
+
+
+//Text $13CD8
+#WRITE(ptr,$5B58)
+Finding Berselium[END]
+
+
+//Text $13CB8
+#WRITE(ptr,$5B5C)
+Searching for Berselium[END]
+
+
+//Text $13CA8
+#WRITE(ptr,$5B60)
+Let's Get out of Here[END]
+
+
+//Text $13C80
+#WRITE(ptr,$5B64)
+Darilsheid is South East of Junkland[END]
+
+
+//Text $13C60
+#WRITE(ptr,$5B68)
+The Draconis is near Darilsheid[END]
+
+
+//Text $13C38
+#WRITE(ptr,$5B6C)
+Let's See [Reynolds] in Seinegald[END]
+
+
+//Text $13C28
+#WRITE(ptr,$5B70)
+[Chelsea]'s Dream?[END]
+
+
+//Text $13C18
+#WRITE(ptr,$5B74)
+[Johnny]'s Songwriting[END]
+
+
+//Text $13C08
+#WRITE(ptr,$5B78)
+Chance Encounter[END]
+
+
+//Text $13BE8
+#WRITE(ptr,$5B7C)
+Songs are Magical[END]
+
+
+//Text $13BD0
+#WRITE(ptr,$5B80)
+Stay Positive[END]
+
+
+//Text $13BB8
+#WRITE(ptr,$5B84)
+Searching for Lens around the World[END]
+
+
+//Text $13B98
+#WRITE(ptr,$5B88)
+Seeking Lens in NeuestadtEND]
+
+//Text $13B78
+#WRITE(ptr,$5B8C)
+Seeking Lens in Heidelberg[END]
+
+
+//Text $13B58
+#WRITE(ptr,$5B90)
+Seeking Lens in Kalviola[END]
+
+
+//Text $13B38
+#WRITE(ptr,$5B94)
+Seeing Lens in Terazzi[END]
+
+
+//Text $13B18
+#WRITE(ptr,$5B98)
+Delivering the Lens to [Reynolds][END]
+
+
+//Text $13B00
+#WRITE(ptr,$5B9C)
+A Change in [Philia]'s Image[END]
+
+
+//Text $13AE8
+#WRITE(ptr,$5BA0)
+Discussing DarilsheidEND]
+
+//Text $13AD0
+#WRITE(ptr,$5BA4)
+Preparing for Tomorrow at the Inn[END]
+
+
+//Text $13AB8
+#WRITE(ptr,$5BA8)
+If You Need a Break, Go to the Inn[END]
+
+
+//Text $13AA8
+#WRITE(ptr,$5BAC)
+What We Need to Do Now[END]
+
+
+//Text $13A90
+#WRITE(ptr,$5BB0)
+Let's Get Our People[END]
+
+
+//Text $13A78
+#WRITE(ptr,$5BB4)
+Getting to the Lens Cannon[END]
+
+
+//Text $13A68
+#WRITE(ptr,$5BB8)
+To the Lens Cannon[END]
+
+
+//Text $13A50
+#WRITE(ptr,$5BBC)
+Let's Go to the Dycroft![END]
+
+
+//Text $13A30
+#WRITE(ptr,$5BC0)
+To the Dycroft![END]
+
+
+//Text $13A20
+#WRITE(ptr,$5BC4)
+Let's Stay in Town[END]
+
+
+//Text $13A08
+#WRITE(ptr,$5BC8)
+It's Better to Go Now..[END]
+
+
+//Text $139F8
+#WRITE(ptr,$5BCC)
+Where are You Going?[END]
+
+
+//Text $139E8
+#WRITE(ptr,$5BD0)
+It Happens Tomorrow[END]
+
+
+//Text $139D0
+#WRITE(ptr,$5BD4)
+Let's Take Down [Miktran]![END]
+
+
+//Text $139B8
+#WRITE(ptr,$5BD8)
+We're going to Beat [Miktran]![END]
+
+
+//Text $139A8
+#WRITE(ptr,$5BDC)
+Keep Pushing Onward![END]
+
+
+//Text $13998
+#WRITE(ptr,$5BE0)
+At All Costs![END]
+
+
+//Text $13990
+#WRITE(ptr,$5BE4)
+Hurry![END]
+
+
+//Text $13980
+#WRITE(ptr,$5BE8)
+With All Our Might![END]
+
+
+//Text $13970
+#WRITE(ptr,$5BEC)
+Take Him Down![END]
+
+
+//Text $13958
+#WRITE(ptr,$5BF0)
+Let's Finish Him Off![END]
+
+
+//Text $13940
+#WRITE(ptr,$5BF4)
+We're Going to Take Him Down![END]
+
+
+//Text $13930
+#WRITE(ptr,$5BF8)
+It's Going to Blow![END]
+
+
+//Text $13918
+#WRITE(ptr,$5BFC)
+To the Dycroft![END]
+
+
+//Text $13908
+#WRITE(ptr,$5C00)
+Enemy Headquarters[END]
+
+
+//Text $138E8
+#WRITE(ptr,$5C04)
+Stoping a Century Old Ambition[END]
+
+
+//Text $138D0
+#WRITE(ptr,$5C08)
+Restoring Light to the World[END]
+
+
+//Text $138B8
+#WRITE(ptr,$5C0C)
+Your Courage is Inspiring[END]
+
+
+//Text $138A8
+#WRITE(ptr,$5C10)
+To the Leviathan[END]
+
+
+//Text $13898
+#WRITE(ptr,$5C14)
+Harsh Reality[END]
+
+
+//Text $13888
+#WRITE(ptr,$5C18)
+I'm a Little Rusty[END]
+
+
+//Text $13878
+#WRITE(ptr,$5C1C)
+Burning Glare[END]
+
+
+//Text $13860
+#WRITE(ptr,$5C20)
+A More Intense Glare[END]
+
+
+//Text $13840
+#WRITE(ptr,$5C24)
+You're the Future Champion?![END]
+
+
+//Text $13830
+#WRITE(ptr,$5C28)
+War of the Women?[END]
+
+
+//Text $13820
+#WRITE(ptr,$5C2C)
+Strenght's Secret[END]
+
+
+//Text $13808
+#WRITE(ptr,$5C30)
+Legendary Champion[END]
+
+
+//Text $137F8
+#WRITE(ptr,$5C34)
+Female Friendship?[END]
+
+
+//Text $137E8
+#WRITE(ptr,$5C38)
+Ghosts of the Past[END]
+
+
+//Text $137D8
+#WRITE(ptr,$5C3C)
+Enthralling Brilliance[END]
+
+
+//Text $137C0
+#WRITE(ptr,$5C40)
+The Life of a Lens Hunter[END]
+
+
+//Text $137A8
+#WRITE(ptr,$5C44)
+I Don't Want to Do This[END]
+
+
+//Text $13798
+#WRITE(ptr,$5C48)
+I'm Stuffed![END]
+
+
+//Text $13788
+#WRITE(ptr,$5C4C)
+You Need to Recover[END]
+
+
+//Text $13770
+#WRITE(ptr,$5C50)
+Don't Get Confused![END]
+
+
+//Text $13768
+#WRITE(ptr,$5C54)
+Common Sense[END]
+
+
+//Text $13758
+#WRITE(ptr,$5C58)
+A Token of Apology[END]
+
+
+//Text $13748
+#WRITE(ptr,$5C5C)
+Potential Substitute?[END]
+
+
+//Text $13738
+#WRITE(ptr,$5C60)
+Personal Responsibility[END]
+
+
+//Text $13720
+#WRITE(ptr,$5C64)
+Positive and Negative Words[END]
+
+
+//Text $13708
+#WRITE(ptr,$5C68)
+Are We Forgetting Something?[END]
+
+
+//Text $136F0
+#WRITE(ptr,$5C6C)
+I Know How You're Feeling[END]
+
+
+//Text $136D8
+#WRITE(ptr,$5C70)
+Where Are My Brother's Thoughts?[END]
+
+
+//Text $136C8
+#WRITE(ptr,$5C74)
+Thank You, Everyone![END]
+
+
+//Text $136B8
+#WRITE(ptr,$5C78)
+[Mary]'s Dream[END]
+
+
+//Text $136A0
+#WRITE(ptr,$5C7C)
+Why Won't He Tell Me His Name?[END]
+
+
+//Text $13690
+#WRITE(ptr,$5C80)
+I Love Sleeping[END]
+
+
+//Text $13678
+#WRITE(ptr,$5C84)
+Looking for Gald[END]
+
+
+//Text $13668
+#WRITE(ptr,$5C88)
+I've Got Your Back[END]
+
+
+//Text $13658
+#WRITE(ptr,$5C8C)
+Intuition on the Field?[END]
+
+
+//Text $13640
+#WRITE(ptr,$5C90)
+Suprising Suited for Command?[END]
+
+
+//Text $13630
+#WRITE(ptr,$5C94)
+I'm Enjoying This[END]
+
+
+//Text $13618
+#WRITE(ptr,$5C98)
+Growing Seeds is Fun[END]
+
+
+//Text $13608
+#WRITE(ptr,$5C9C)
+Merits and Demerits[END]
+
+
+//Text $135E8
+#WRITE(ptr,$5CA0)
+Tireless Effort is the Secret to Victory[END]
+
+
+//Text $135D0
+#WRITE(ptr,$5CA4)
+The Fun After Battle[END]
+
+
+//Text $135C0
+#WRITE(ptr,$5CA8)
+Under the Eyes of Atamoni[END]
+
+
+//Text $135B0
+#WRITE(ptr,$5CAC)
+Above the Aethersphere[END]
+
+
+//Text $135A0
+#WRITE(ptr,$5CB0)
+Let Go After Him[END]
+
+
+//Text $13588
+#WRITE(ptr,$5CB4)
+We Need to Stop [Hugo][END]
+
+
+//Text $13570
+#WRITE(ptr,$5CB8)
+We Won't Let You Harm the Surface[END]
+
+
+//Text $13560
+#WRITE(ptr,$5CBC)
+Get Back Here, Now[END]
+
+
+//Text $13550
+#WRITE(ptr,$5CC0)
+Not This Way[END]
+
+
+//Text $13548
+#WRITE(ptr,$5CC4)
+Hurry[END]
+
+
+//Text $13538
+#WRITE(ptr,$5CC8)
+We Should Hurry[END]
+
+
+//Text $13528
+#WRITE(ptr,$5CCC)
+Don't Dawdle[END]
+
+
+//Text $13518
+#WRITE(ptr,$5CD0)
+Not That Way[END]
+
+
+//Text $13508
+#WRITE(ptr,$5CD4)
+I Have Other Things to Do[END]
+
+
+//Text $134F8
+#WRITE(ptr,$5CD8)
+What We Need to Do[END]
+
+
+//Text $134D8
+#WRITE(ptr,$5CDC)
+Let's See What's Happening[END]
+
+
+//Text $134C0
+#WRITE(ptr,$5CE0)
+Let's Talk First[END]
+
+
+//Text $134A8
+#WRITE(ptr,$5CE4)
+Anyways, Let's Hear Him Out[END]
+
+
+//Text $13490
+#WRITE(ptr,$5CE8)
+Other Things to Do[END]
+
+
+//Text $13478
+#WRITE(ptr,$5CEC)
+I Have Other Things to Do Right Now[END]
+
+
+//Text $13460
+#WRITE(ptr,$5CF0)
+Let's Talk to the People in Town[END]
+
+
+//Text $13448
+#WRITE(ptr,$5CF4)
+Let's Check it Out[END]
+
+
+//Text $13430
+#WRITE(ptr,$5CF8)
+Let's Head Outside First[END]
+
+
+//Text $13420
+#WRITE(ptr,$5CFC)
+Let's Stay Here[END]
+
+
+//Text $13410
+#WRITE(ptr,$5D00)
+North from Here[END]
+
+
+//Text $13400
+#WRITE(ptr,$5D04)
+Northeast from Here[END]
+
+
+//Text $133F0
+#WRITE(ptr,$5D08)
+East from Here[END]
+
+
+//Text $133E0
+#WRITE(ptr,$5D0C)
+Southeast from Here[END]
+
+
+//Text $133D0
+#WRITE(ptr,$5D10)
+South from Here[END]
+
+
+//Text $133C0
+#WRITE(ptr,$5D14)
+Southwest from Here[END]
+
+
+//Text $133B0
+#WRITE(ptr,$5D18)
+West from Here[END]
+
+
+//Text $133A0
+#WRITE(ptr,$5D1C)
+Northwest from Here[END]
+
+
+//Text $13390
+#WRITE(ptr,$5D20)
+Let's Get on the Leviathan[END]
+
+
+//Text $13380
+#WRITE(ptr,$5D24)
+Anyway, to the Leviathan[END]
+
+
+//Text $13370
+#WRITE(ptr,$5D28)
+Let's Take the Draconis[END]
+
+
+//Text $13358
+#WRITE(ptr,$5D2C)
+Anyway, to the Draconis[END]
+
+
+//Text $13348
+#WRITE(ptr,$5D30)
+Let's Head to the Harbor[END]
+
+
+//Text $13338
+#WRITE(ptr,$5D34)
+Let's Head to the Castle[END]
+
+
+//Text $13330
+#WRITE(ptr,$5D38)
+Respite[END]
+
+
+//Text $13320
+#WRITE(ptr,$5D3C)
+The Guardian Dragon is Important[END]
+
+
+//Text $13308
+#WRITE(ptr,$5D40)
+[Igtenos] First[END]
+
+
+//Text $132E0
+#WRITE(ptr,$5D44)
+Take the Device to Radisrol[END]
+
+
+//Text $132C8
+#WRITE(ptr,$5D48)
+Top Priorty: Floating Cruiser[END]
+
+
+//Text $132B0
+#WRITE(ptr,$5D4C)
+No Business at This Town[END]
+
+
+//Text $132A0
+#WRITE(ptr,$5D50)
+My Sister's Thoughts[END]
+
+
+//Text $13290
+#WRITE(ptr,$5D54)
+Race - 1[END]
+
+
+//Text $13280
+#WRITE(ptr,$5D58)
+Race - 2[END]
+
+
+//Text $13270
+#WRITE(ptr,$5D5C)
+Question![END]
+
+
+//Text $13260
+#WRITE(ptr,$5D60)
+Ready![END]
+
+
+//Text $13250
+#WRITE(ptr,$5D64)
+Absolutely Correct![END]
+
+
+//Text $13240
+#WRITE(ptr,$5D68)
+Still Practicing[END]
+
+
+//Text $13230
+#WRITE(ptr,$5D6C)
+Expedition [Stahn][END]
+
+
+//Text $13220
+#WRITE(ptr,$5D70)
+Fortune - 1[END]
+
+
+//Text $13210
+#WRITE(ptr,$5D74)
+Fortune - 2[END]
+
+
+//Text $13200
+#WRITE(ptr,$5D78)
+Fortune - 3[END]
+
+
+//Text $131F0
+#WRITE(ptr,$5D7C)
+Fortune - 4[END]
+
+
+//Text $131E0
+#WRITE(ptr,$5D80)
+Fortune - 5[END]
+
+
+//Text $131D0
+#WRITE(ptr,$5D84)
+Fortune - 6[END]
+
+
+//Text $131C0
+#WRITE(ptr,$5D88)
+Fortune - 7[END]
+
+
+//Text $131A8
+#WRITE(ptr,$5D8C)
+"[Batista] Bomb"[END]
+
+
+//Text $13198
+#WRITE(ptr,$5D90)
+[Philia]'s True Feelings[END]
+
+
+//Text $13188
+#WRITE(ptr,$5D94)
+A Time for Dreaming[END]
+
+
+//Text $13158
+#WRITE(ptr,$5D98)
+He's Me, I'm Him, so he's...[END]
+
+
+//Text $13140
+#WRITE(ptr,$5D9C)
+[Rembrandt]'s Talent[END]
+
+
+//Text $13130
+#WRITE(ptr,$5DA0)
+Outtake 1[END]
+
+
+//Text $13120
+#WRITE(ptr,$5DA4)
+Outtake 2[END]
+
+
+//Text $13110
+#WRITE(ptr,$5DA8)
+Bonus Footage: Backstage[END]
+
+
+//Text $13100
+#WRITE(ptr,$5DAC)
+Phantasia[END]
+
+
+//Text $130F0
+#WRITE(ptr,$5DB0)
+The Abyss[END]
+
+
+//Text $130D8
+#WRITE(ptr,$5DB4)
+"Tales of" Series[END]
+
+
+//Text $130B8
+#WRITE(ptr,$5DB8)
+Tales of Destiny[END]
+
+
+//Text $130A0
+#WRITE(ptr,$5DBC)
+[Reynolds] is Useful[END]
+
+
+//Text $13088
+#WRITE(ptr,$5DC0)
+Reiker's Hologram Is Amazing![END]
+
+
+//Text $13070
+#WRITE(ptr,$5DC4)
+We've Been Together All Along[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DC8)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DCC)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DD0)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DD4)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DD8)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DDC)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DE0)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DE4)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DE8)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DEC)
+[END]
+
+
+//Text $13060
+#WRITE(ptr,$5DF0)
+[END]
+
+
+//Text $13048
+#WRITE(ptr,$5DF4)
+Another Swordian[END]
+
+
+//Text $13040
+#WRITE(ptr,$5DF8)
+Why?[END]
+
+
+//Text $13030
+#WRITE(ptr,$5DFC)
+[Marian]'s Lecture..[END]
+
+
+//Text $13020
+#WRITE(ptr,$5E00)
+We're up Against 3 People![END]
+
+
+//Text $13010
+#WRITE(ptr,$5E04)
+[Hugo] and [Rutee][END]
+
+
+//Text $12FF0
+#WRITE(ptr,$5E08)
+Not [Dymlos] and [Atwight]..[END]
+
+
+//Text $12FE0
+#WRITE(ptr,$5E0C)
+[Hugo]'s Plan[END]
+
+
+//Text $12FD0
+#WRITE(ptr,$5E10)
+Chal's Concern[END]
+
+
+//Text $12FA0
+#WRITE(ptr,$5E14)
+[Atwight] the Oasis[END]
+
+
+//Text $12F90
+#WRITE(ptr,$5E18)
+The Two of Us[END]
+
+
+//Text $12F78
+#WRITE(ptr,$5E1C)
+Softy Kreem![END]
+
+
+//Text $12F68
+#WRITE(ptr,$5E20)
+So Dashing![END]
+
+
+//Text $12F58
+#WRITE(ptr,$5E24)
+Irritated [Lion][END]
+
+
+//Text $12F40
+#WRITE(ptr,$5E28)
+Always Together!?[END]
+
+
+//Text $12F30
+#WRITE(ptr,$5E2C)
+Family..[END]
+
+
+//Text $12F20
+#WRITE(ptr,$5E30)
+[Lion] Needs Glasses[END]
+
+
+//Text $12F08
+#WRITE(ptr,$5E34)
+Will and Jobs[END]
+
+
+//Text $12EF0
+#WRITE(ptr,$5E38)
+Weeping [Chaltier][END]
+
+
+//Text $12EC8
+#WRITE(ptr,$5E3C)
+Nothing Important. Just Killing Time[END]
+
+
+//Text $12EB8
+#WRITE(ptr,$5E40)
+A Real Nice Place?[END]
+
+
+//Text $12EA8
+#WRITE(ptr,$5E44)
+About [Lion]'s Mother[END]
+
+
+//Text $12E90
+#WRITE(ptr,$5E48)
+Kind Master [lion] Isn't![END]
+
+
+//Text $12E88
+#WRITE(ptr,$5E4C)
+The Beach[END]
+
+
+//Text $12E78
+#WRITE(ptr,$5E50)
+A Building Visible on That Island[END]
+
+
+//Text $12E60
+#WRITE(ptr,$5E54)
+[Lion] and Chal's Quarrel[END]
+
+
+//Text $12E50
+#WRITE(ptr,$5E58)
+Where Are We?[END]
+
+
+//Text $12E40
+#WRITE(ptr,$5E5C)
+Farewell!?[END]
+
+
+//Text $12E30
+#WRITE(ptr,$5E60)
+[Philia]'s Glasses - 2[END]
+
+
+//Text $12E20
+#WRITE(ptr,$5E64)
+Thirsty[END]
+
+
+//Text $12E08
+#WRITE(ptr,$5E68)
+[Philia]'s Shampoo[END]
+
+
+//Text $12DF8
+#WRITE(ptr,$5E6C)
+Pow Hammer![END]
+
+
+//Text $12DE8
+#WRITE(ptr,$5E70)
+Onigiri[END]
+
+
+//Text $12DD8
+#WRITE(ptr,$5E74)
+Hamburger[END]
+
+
+//Text $12DA8
+#WRITE(ptr,$5E78)
+To the Village of Harmentz[END]
+
+
+//Text $12D80
+#WRITE(ptr,$5E7C)
+Harmentz is West of Darilsheid[END]
+
+
+//Text $12D70
+#WRITE(ptr,$5E80)
+No Business at the Castle[END]
+
+
+//Text $12D58
+#WRITE(ptr,$5E84)
+Let's go to Harmentz[END]
+
+
+//Text $12D40
+#WRITE(ptr,$5E88)
+Let's Return to Darilsheid[END]
+
+
+//Text $12D20
+#WRITE(ptr,$5E8C)
+Darilsheid is East of Harmentz[END]
+
+
+//Text $12D00
+#WRITE(ptr,$5E90)
+To the King at Seinegald Castle[END]
+
+
+//Text $12CE0
+#WRITE(ptr,$5E94)
+To the Seinegald Castle Dungeon[END]
+
+
+//Text $12CD0
+#WRITE(ptr,$5E98)
+Let's Return to the Manor[END]
+
+
+//Text $12CB8
+#WRITE(ptr,$5E9C)
+Let's Return to the Manor[END]
+
+
+//Text $12C90
+#WRITE(ptr,$5EA0)
+Straylize Temple Is North of Darilsheid[END]
+
+
+//Text $12C80
+#WRITE(ptr,$5EA4)
+To the Temple Interior[END]
+
+
+//Text $12C70
+#WRITE(ptr,$5EA8)
+To the Cathedral[END]
+
+
+//Text $12C58
+#WRITE(ptr,$5EAC)
+Further Within the Hidden Passage[END]
+
+
+//Text $12C40
+#WRITE(ptr,$5EB0)
+To Darilsheid[END]
+
+
+//Text $12C38
+#WRITE(ptr,$5EB4)
+To the Harbor[END]
+
+
+//Text $12C28
+#WRITE(ptr,$5EB8)
+Hurry to the Harbor[END]
+
+
+//Text $12C18
+#WRITE(ptr,$5EBC)
+Before the King of Seinegald[END]
+
+
+//Text $12C08
+#WRITE(ptr,$5EC0)
+Report to His Majesty[END]
+
+
+//Text $12BF0
+#WRITE(ptr,$5EC4)
+I Should Say Goodbye..[END]
+
+
+//Text $12BD8
+#WRITE(ptr,$5EC8)
+To Where [Marian] Is...[END]
+
+
+//Text $12BC8
+#WRITE(ptr,$5ECC)
+Let's Go to the Harbor[END]
+
+
+//Text $158D0
+#WRITE(ptr,$5ED0)
+To the Inn for Now[END]
+
+
+//Text $12BB8
+#WRITE(ptr,$5ED4)
+Let's Look Around Town[END]
+
+
+//Text $12BA8
+#WRITE(ptr,$5ED8)
+It's Dangerous Outside![END]
+
+
+//Text $12B90
+#WRITE(ptr,$5EDC)
+Let's Head Back to the Inn Soon[END]
+
+
+//Text $12B70
+#WRITE(ptr,$5EE0)
+Go to the Temple's Back Door![END]
+
+
+//Text $12B58
+#WRITE(ptr,$5EE4)
+Chase After [Greybum][END]
+
+
+//Text $12B48
+#WRITE(ptr,$5EE8)
+To the Front Door[END]
+
+
+//Text $12B28
+#WRITE(ptr,$5EEC)
+In Search of the Softy Kreem Stand[END]
+
+
+//Text $12B10
+#WRITE(ptr,$5EF0)
+We're Not Going Out of Town[END]
+
+
+#JMP($1C3800)
+//Text $12AF0
+#WRITE(ptr,$5EF4)
+From the Harbor to the Armada[END]
+
+
+//Text $15540
+#WRITE(ptr,$5EF8)
+My Target is Greybum[END]
+
+
+//Text $12AD8
+#WRITE(ptr,$5EFC)
+We're Returning to Shiden[END]
+
+
+//Text $12AC0
+#WRITE(ptr,$5F00)
+We're Heading Back to Shiden[END]
+
+
+//Text $12AB0
+#WRITE(ptr,$5F04)
+Let's Find Some Rope[END]
+
+
+//Text $12A98
+#WRITE(ptr,$5F08)
+Let's Explore Moreau[END]
+
+
+//Text $12A80
+#WRITE(ptr,$5F0C)
+To Seinegald Castle[END]
+
+
+//Text $12A60
+#WRITE(ptr,$5F10)
+Let's Head to Harmentz[END]
+
+
+//Text $12A40
+#WRITE(ptr,$5F14)
+Harmentz is West of the Capital[END]
+
+
+//Text $12A28
+#WRITE(ptr,$5F18)
+To Straylize Temple[END]
+
+
+//Text $12A18
+#WRITE(ptr,$5F1C)
+Let's Return to the Manor[END]
+
+
+//Text $12A00
+#WRITE(ptr,$5F20)
+Let's Return to the Manor[END]
+
+
+//Text $129E0
+#WRITE(ptr,$5F24)
+Visit the King at Seinegald Castle[END]
+
+
+//Text $129C0
+#WRITE(ptr,$5F28)
+Go to Cresta, East of Darilsheid[END]
+
+
+//Text $149D0
+#WRITE(ptr,$5F2C)
+Cresta is East of Darilsheid[END]
+
+
+//Text $12998
+#WRITE(ptr,$5F30)
+Let's Find the Seinegald Soldiers in Cresta[END]
+
+
+//Text $12980
+#WRITE(ptr,$5F34)
+Let's Find the Orphanage[END]
+
+
+//Text $12960
+#WRITE(ptr,$5F38)
+Find the Beach North of Cresta[END]
+
+
+//Text $12948
+#WRITE(ptr,$5F3C)
+Let's Debrief the Mission[END]
+
+
+//Text $12B10
+#WRITE(ptr,$5F40)
+No Business Outside[END]
+
+
+//Text $12930
+#WRITE(ptr,$5F44)
+Let's Hurry Back to the Manor[END]
+
+
+//Text $12918
+#WRITE(ptr,$5F48)
+We Need to Find [Marian][END]
+
+
+//Text $12900
+#WRITE(ptr,$5F4C)
+The Draconis is in the Castle[END]
+
+
+//Text $128E8
+#WRITE(ptr,$5F50)
+Let's hear Hugo's Orders[END]
+
+
+//Text $128D0
+#WRITE(ptr,$5F54)
+We'll Enter the Sealing Facility from Behind[END]
+
+
+//Text $128C0
+#WRITE(ptr,$5F58)
+To the Sealing Facility[END]
+
+
+//Text $128B0
+#WRITE(ptr,$5F5C)
+To the Depths[END]
+
+
+//Text $12898
+#WRITE(ptr,$5F60)
+Where's Hugo and the Others?[END]
+
+
+//Text $12878
+#WRITE(ptr,$5F64)
+Sorcerer's Ring goes Boom[END]
+
+
+//Text $12860
+#WRITE(ptr,$5F68)
+There's Still Places We Can Destroy[END]
+
+
+//Text $13550
+#WRITE(ptr,$5F6C)
+Not This Way[END]
+
+
+//Text $12840
+#WRITE(ptr,$5F70)
+We Can't Afford to Dawdle![END]
+
+
+//Text $12828
+#WRITE(ptr,$5F74)
+Let's Not Do That Now..[END]
+
+
+//Text $12820
+#WRITE(ptr,$5F78)
+Let's Go[END]
+
+
+//Text $12800
+#WRITE(ptr,$5F7C)
+I Have Somewhere Else to Be[END]
+
+
