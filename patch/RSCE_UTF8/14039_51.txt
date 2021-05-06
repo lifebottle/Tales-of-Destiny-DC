@@ -780,9 +780,9 @@ We are always waiting for you.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-If you wish to engage in more difficult
-combat at the beginning, please speak
-to me and ask for a challenge.
+If you wish to participate in the 
+arena battles, please speak to me
+and ask for a challenge.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
@@ -802,10 +802,10 @@ will be given to you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>Apple Gels				３
-Peach Gel					１
-Gamble Gel					１
-Panacea bottle		１
+3x Apple Gels
+1x Peach Gel
+1x Gamble Gel
+1x Panacea Bottle
 
 [ENDBLOCK]
 Information Desk
@@ -881,7 +881,7 @@ IN arena_player_sel
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007>誰が挑戦しますか？
+<TAG_007>Who's up for the challenge?
 <x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>Return to previous
 [ENDBLOCK]
 ----select <x18><x45><x58><x98><x07><x69><x47><xC4><x21><x8C><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
@@ -1202,8 +1202,9 @@ like I can do anything about it.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-Whether the world returns to normal,
-I'm going to enjoy every minute of it.
+Whether the world returns to
+normal or not, I'm going to enjoy
+every minute of it.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1271,7 +1272,7 @@ making a fuss here?
 Challenger
 [ENDBLOCK]
 No matter what the situation, this place
-never loses its appeal. That's a deal,
+never loses its appeal. That's a big deal,
 don't you think?
 [ENDBLOCK]
 Old Man
