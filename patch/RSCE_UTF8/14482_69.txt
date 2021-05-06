@@ -1,4 +1,4 @@
-select
+select 
 [ENDBLOCK]
 Return <x19><x6A><x00><x80> to the party?
 Yes
@@ -8,61 +8,56 @@ No
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>さんを置いてはいけないな。
+I wouldn't put it past <x19><x6A><x04><x80>.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>を置いてはいけないな。
+I wouldn't put <x19><x6A><x04><x80> there.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-おっと、<x19><x6A><x04><x80>を
-置いてくところだったわ。
+Oops, I almost left <x19><x6A><x04><x80>.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>さんを置いてはいけませんね。
+I can't leave <x19><x6A><x04><x80> out of this.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>君を置いてはいけない。
+<x19><x6A><x04><x80>, I will not leave you.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>を置いてはいけないぞ。
+Don't put down <x19><x6A><x04><x80>.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>様を置いてなんか
-いけません。
+You can't leave <x19><x6A><x04><x80> behind.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>さんを置いては
-いけません。
+Don't leave <x19><x6A><x04><x80>.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-こんなところに<x19><x6A><x04><x80>さんを
-置いてはいけないぜ。
+You can't put <x19><x6A><x04><x80> here.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-ここに<x19><x6A><x04><x80>を
-置いていくわけにもいかねえぜ。
+I can't just leave <x19><x6A><x04><x80> here.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>を置いてはいけないぜ。
+Don't put down <x19><x6A><x04><x80>, man.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>君を置いていくのは
-マズイだろうな。
+<x19><x6A><x04><x80>, it would be a bad idea
+to leave you behind.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>を置いていけない。
+We can't leave <x19><x6A><x04><x80>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
