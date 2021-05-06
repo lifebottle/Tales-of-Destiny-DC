@@ -5485,9 +5485,10 @@ the body and relieves fatigue.[END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-Dagger with a ring-shapped[LINE]
-pommel. A string can be tied to[LINE]
-the ring and the dagger throw.[END]
+A Dagger with a ring-shapped pommel,[LINE]
+can be turned into a retrievable weapon[LINE]
+when attached with a string.[END]
+
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
