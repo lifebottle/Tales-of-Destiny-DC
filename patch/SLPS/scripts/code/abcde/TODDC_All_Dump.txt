@@ -10516,7 +10516,7 @@ as well as de-buffs.[END]
 //Text $1AF918
 #WRITE(ptr,$18C728)
 Contains the water of life.[LINE]
-Revives dead ally with 40% HP.[END]
+Revives KO’d ally with 40% HP.[END]
 
 
 //Text $1AF900
@@ -13703,7 +13703,7 @@ It's a bit smelly...[END]
 //Text $1B1150
 #WRITE(ptr,$18EE4C)
 Knuckles made in the image of a dragon[LINE]
-from Aquavale legends. It will bite into[LINE]
+from Aquaveil legends. It will bite into[LINE]
 and tear apart your opponents.[END]
 
 
@@ -13798,7 +13798,7 @@ made of a tortoiseshell.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-An instrument popularized in Aquavale.[LINE]
+An instrument popularized in Aquaveil.[LINE]
 It is generally plucked with a bachi instead of[LINE]
 fingers and is often used while telling stories.[END]
 
@@ -13834,7 +13834,7 @@ and pluck them with a pick.[END]
 
 //Text $1B0D28
 #WRITE(ptr,$18F0E0)
-A string instrument originally from Aquavale.[LINE]
+A string instrument originally from Aquaveil.[LINE]
 Its three strings are plucked with a plectrum.[LINE]
 Peng! Peng![END]
 
@@ -15881,9 +15881,10 @@ the body and relieves fatigue.[END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-Dagger with a ring-shapped[LINE]
-pommel. A string can be tied to[LINE]
-the ring and the dagger throw.[END]
+A Dagger with a ring-shapped pommel,[LINE]
+can be turned into a retrievable weapon[LINE]
+when attached with a string.[END]
+
 
 //Text $1B71C8
 #WRITE(ptr,$191768)

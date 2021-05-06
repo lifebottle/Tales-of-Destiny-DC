@@ -484,7 +484,7 @@ families to take care of.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Come on, I bought it, I bought it!
+Come on, buy it!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -505,7 +505,7 @@ families to take care of.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Come on, I bought it, I bought it!
+Come on, buy it!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -885,7 +885,7 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-Hello, my name is <TAG_053> I manage
+Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
 You're not done yet? Please 
@@ -1144,62 +1144,68 @@ Depot
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-ちょいと、あんた……
+Ah, excuse me, miss...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい……？
+Yes...?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>私の……眼鏡ですか？
-私が……何か？
+<TAG_007>Is this about...my glasses?
+Is this about...me?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-めずらしいね。
-初めて見たよ。
+Well well, you're
+a new sight 'round here.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-掛けている人は
-めずらしいからね。
+Not many people here
+wear those, y'know.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-あんた、ストレイライズの神官だね？
+Could you possibly be
+from Straylize Temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-まあ、お分かりになるのですか？
+I am! How
+did you know?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-神殿のないこの地で、
-我々をご存知なのですね！
+There isn't a temple on
+this continent, so I'm very
+surprised you know about us!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-一瞬、見間違えかと思ったけどね。
+Well, for a moment,
+I wasn't certain.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-あんたみたいな強い意志の眼をもった
-神官がいると思わなかったからさ。
+I didn't think there were any priests
+with such a determined look
+in their eyes like yourself.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お分かりになるのですか？
+So that's how you knew?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-そうさね。あんたは何か強い思いで
-行動しているんだろ？
+That's right. You look like
+you're determined to see
+it through to the end.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-それはすばらしい事だよ。
-頑張りな。
+That's very admirable.
+I'm rooting for you!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1212,16 +1218,17 @@ You're that woman from before!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-……うんうん。
+...Mm-mm.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの……何か？
+Uhm...is
+something wrong?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-私を知らないんだね？
-結構結構！
+So you don't know me eh?
+It's fine, forget it!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
