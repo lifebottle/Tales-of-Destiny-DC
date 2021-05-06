@@ -36,77 +36,83 @@ Incorrect input.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-地震ですか？
+Was that an earthquake?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや、地震にしては
-妙な揺れだったな……
+No, that felt different
+from a normal earthquake.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-あ、坊ちゃん。あそこにいるのは！
+Ah! Master <Lion>,
+look over there!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-まさか、地下で……？
+What happened
+underground...?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-やはり、落盤か？
+Was it a cave-in?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-はい。神の眼を設置した際の、
-微量のエネルギー漏れが原因です。
+Yes. It was caused by a very small
+amount of energy expelled when we
+installed the Eye of Atamoni.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-問題はあるか？
+Is this a problem?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-いえ、そちらに関しては
-既に対処しました。
+No. We have already set up
+measures to deal with this.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-しかし、これで随分と遅れが出るな。
+Regardless, this has
+delayed us considerably.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-この遅れが、我々を追跡してくる者たちに
-猶予を与えてしまいますね。
+I fear this delay will allow
+those after us to catch up...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-それについては問題ない。追手が
-来たとしても、相手の予想はついている。
+That is not a problem. Even
+if they do make it here...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-その為のあいつだ。
+...We can leave
+them to him.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-しかし、それにも問題が……
+There's an issue with that...
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-……人質の<Marian>が、
-自害を図りました。
+It seems our hostage
+has attempted suicide...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-バカな……<Marian>が自害……
+N-No...!
+<Marian>...Suicide??
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-そんな……！
+That can't be...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -114,53 +120,54 @@ Incorrect input.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>っ!!
+<Hugo>!!!!!!!!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-聞いていたのか、
-全く面倒くさいやつだ。
+So you've come.
+You're such an annoyance.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-やめろ、<Lion>。おまえでは
-<Hugo>様の相手にならない。
+<Lion>, stop! You're no match
+for Master <Hugo> at all!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Baruk>、貴様！
+<Baruk>! You...!!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-どうして……あなたがそれを！
+Wh-What!? That's...!
+How does he have that?!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-まだ私の力が分かっていないようだな。
-やはり、それがおまえの限界か。
+It seems you still do not comprehend
+my true power. Such is your limit, I suppose.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-黙れ！	<Hugo>！	
-僕は絶対に貴様を許さない。
+Shut up, <Hugo>!	
+I will NEVER forgive you!!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-おまえの実力をもう一度、
-見定めてやろう。
+I will grant you one more chance
+to see just how weak you are.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-今後の事も考えてな。
+Think about it after this...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Lion>、おまえは私によって
-生かされている。それを忘れるな。
+<Lion>. You yet live because
+I will it. Do not forget this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-くっ……
+...!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
