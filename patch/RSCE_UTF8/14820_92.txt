@@ -781,19 +781,19 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 select
 [ENDBLOCK]
-ダンジョンから脱出
-キャンセル
+Leave the dungeon
+Cancel
 [ENDBLOCK]
 負けました
 
 [ENDBLOCK]
-バルバトスに挑む
+Challenge Barbatos
 [ENDBLOCK]
-セーブしてバルバトスに挑む（<x17><x72><x04><x08><xC9><x75><x00><x80>ポイント必要）
+Save and challenge Barbatos（<x17><x72><x04><x08><xC9><x75><x00><x80>EX Points）
 [ENDBLOCK]
 ？？？？???
 [ENDBLOCK]
-セーブして……？（<x17><x72><x04><x08><xC9><x75><x00><x80>ポイント必要）
+Save and...?（<x17><x72><x04><x08><xC9><x75><x00><x80>EX Points）
 [ENDBLOCK]
 Leave Arcana Ruins
 [ENDBLOCK]
@@ -801,7 +801,7 @@ Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x20><x16><x42><x80>
+<TAG_007>EX Points	<x17><x20><x16><x42><x80>
 <x18><x66><x1C><x00><x80>
 <TAG_052>
 <TAG_053>
@@ -810,13 +810,13 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-何か凶悪な力を感じる……
+I feel a malevolent presence...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当に進みますか？
-行く
-……やめよう
+<TAG_007>Are you certain you wish to proceed?
+Lets go
+On second thought...
 
 [ENDBLOCK]
 select
@@ -828,13 +828,13 @@ No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-何か凶悪な力を感じる……
+I feel a malevolent presence...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当に進みますか？
-行く
-……やめよう
+<TAG_007>Are you certain you wish to proceed?
+Lets go
+On second thought...
 
 [ENDBLOCK]
 notice
