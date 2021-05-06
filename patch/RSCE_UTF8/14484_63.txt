@@ -3,6 +3,7 @@ select
 Return <x19><x6A><x00><x80> to the party?
 Yes
 No
+[ENDBLOCK]
 <Leader>
 [ENDBLOCK]
 <x19><x6A><x04><x80>さんを置いてはいけないな。

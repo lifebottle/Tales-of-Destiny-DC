@@ -61,7 +61,7 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x1C><x00><x80>Some treasure
+<x18><x66><x1C><x00><x80> Some treasure
 chests have special effects.
 
 [ENDBLOCK]
@@ -223,13 +223,14 @@ Hopefully we'll see eachother soon.
 <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を代価に<TAG_077>が貰えます
 
 [ENDBLOCK]
-現在対象アイテムは<x17><x72><x40><x20><x80>個持っています
+I want your <x17><x72><x40><x20><x80>.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-<TAG_007>貴方が持っている<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を、
-ＥＸポイントと交換して差し上げられます。
+<TAG_007>If you give me  <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>], 
+I will increase your EX Points.
+
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -237,7 +238,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80>個	（現在<x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>個）
+Exchange <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -252,7 +253,7 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-それでは、<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を頂きます。
+Fabulous! I'll take <x17><x72><x40><x24><x80> <x1A><x72><x40><x14><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -275,12 +276,11 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-I present to you: <x1A><x72><x40><x14><x80>.
+I present you with [<x1A><x72><x40><x14><x80>].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_034> <x1A><x72><x40><x14><x80>
-<center>Received.
+<TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -300,8 +300,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-貴方が持っているＥＸポイント<TAG_077>を
-<x1A><x72><x40><x14><x80><TAG_034>個と交換して差し上げられます。
+You can spend <TAG_077> EX Points to purchase 
+<x1A><x72><x40><x14><x80><TAG_034>.
 
 [ENDBLOCK]
 Cyglorg
@@ -329,8 +329,7 @@ Alright, I'll take <TAG_077> EX Points.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_034> <x1A><x72><x40><x14><x80>
-<center>Received.
+<TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -378,8 +377,8 @@ about the chest on this floor.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-この階にある<TAG_054>色の宝箱</color>は、
-<TAG_055>
+On this floor, <TAG_054> colored chests</color>
+provide the following effect:<TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -399,8 +398,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-貴方が持っている<x1A><x72><x40><x1C><x80><TAG_075>個で、
-食料を持てるだけ補充して差し上げられます。
+If you exchange <TAG_075> <x1A><x72><x40><x1C><x80>,
+I can replenish all your food.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -408,7 +407,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-対象	<x1A><x72><x40><x1C><x80>	<TAG_075>個	（現在<x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>個）
+Exchange <TAG_075> <x1A><x72><x40><x1C><x80>?  Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -423,11 +422,11 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-それでは、<x1A><x72><x40><x1C><x80><TAG_075>個を頂きます。
+Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-フードが満タンになりました。
+Your Food is now full.
 
 [ENDBLOCK]
 Cyglorg
@@ -470,15 +469,15 @@ Cyglorg
 [ENDBLOCK]
 Continue to the next floor
 [ENDBLOCK]
-セーブして次の階へ進む（<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>ポイント必要）
+Save and continue (<x17><x72><x40><x1C><x08><xC9><x75><x00><x80>EX Points)
 [ENDBLOCK]
-アルカナルインから脱出
+Leave Arcana Ruins
 [ENDBLOCK]
 Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x08><x96><x74><x00><x80>
+<TAG_007>EX Points	<x17><x08><x96><x74><x00><x80>
 <x18><x66><x50><x24><x00><x80>
 <x18><x66><x50><x28><x00><x80>
 <x18><x66><x50><x2C><x00><x80>
@@ -593,7 +592,7 @@ notice
 [ENDBLOCK]
 Party Selection
 [ENDBLOCK]
-<grey1>決定
+<grey1>Commit
 [ENDBLOCK]
 	
 
@@ -613,9 +612,9 @@ Yes
 No
 
 [ENDBLOCK]
-</color>決定
+</color>Commit
 [ENDBLOCK]
-<grey1>決定
+<grey1>Commit
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
 
@@ -629,10 +628,10 @@ Support Member Selection
 [ENDBLOCK]
 
 [ENDBLOCK]
-設定しない
+None Selected
 
 [ENDBLOCK]
-<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>パーティ選択に戻る
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
 設定なし
 [ENDBLOCK]
@@ -665,64 +664,64 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 更新人数：<x17><x6A><x02><x21><x8C><x80>、戦闘要員：<x17><x69><x49><x91><x80>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x98><x21><x8C><x80> Left）		<Stahn>
+<yellow>Selected (<x17><x69><x46><x98><x21><x8C><x80> Left) <Stahn>
 
 [ENDBLOCK]
-<grey1>Not Selected (<x17><x69><x46><x98><x80> Left）	<Stahn>
+<grey1>Not Selected (<x17><x69><x46><x98><x80> Left) <Stahn>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x99><x21><x8C><x80> Left）		<Rutee>
+<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<grey1>Not Selected(<x17><x69><x46><x99><x80> Left）	<Rutee>
+<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9A><x21><x8C><x80> Left）		<Philia>
+<yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9A><x80> Left）	<Philia>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80> Left)  <Philia>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9B><x21><x8C><x80> Left）		<Woodrow>
+<yellow>Selected (<x17><x69><x46><x9B><x21><x8C><x80> Left)  <Woodrow>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9B><x80> Left）	<Woodrow>
+<grey1>Not Selected (<x17><x69><x46><x9B><x80> Left)  <Woodrow>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9C><x21><x8C><x80> Left）		<Lion>
+<yellow>Selected (<x17><x69><x46><x9C><x21><x8C><x80> Left)  <Lion>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9C><x80> Left）	<Lion>
+<grey1>Not Selected (<x17><x69><x46><x9C><x80> Left)  <Lion>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9D><x21><x8C><x80> Left）		<Mary>
+<yellow>Selected (<x17><x69><x46><x9D><x21><x8C><x80> Left)  <Mary>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9D><x80> Left）	<Mary>
+<grey1>Not Selected (<x17><x69><x46><x9D><x80> Left)  <Mary>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9E><x21><x8C><x80> Left）		<Chelsea>
+<yellow>Selected (<x17><x69><x46><x9E><x21><x8C><x80> Left)  <Chelsea>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9E><x80> Left）	<Chelsea>
+<grey1>Not Selected (<x17><x69><x46><x9E><x80> Left)  <Chelsea>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9F><x21><x8C><x80> Left）		<Johnny>
+<yellow>Selected (<x17><x69><x46><x9F><x21><x8C><x80> Left)  <Johnny>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9F><x80> Left）	<Johnny>
+<grey1>Not Selected (<x17><x69><x46><x9F><x80> Left)  <Johnny>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><xA0><x21><x8C><x80> Left）		<Kongman>
+<yellow>Selected (<x17><x69><x46><xA0><x21><x8C><x80> Left)  <Kongman>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><xA0><x80> Left）		<Kongman>
+<grey1>Not Selected (<x17><x69><x46><xA0><x80> Left)  <Kongman>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><xA1><x21><x8C><x80> Left）		<Lilith>
+<yellow>Selected (<x17><x69><x46><xA1><x21><x8C><x80> Left)  <Lilith>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><xA1><x80> Left）	<Lilith>
+<grey1>Not Selected (<x17><x69><x46><xA1><x80> Left)  <Lilith>
 
 [ENDBLOCK]
 
@@ -861,7 +860,7 @@ Undecided
 <x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80>あ
 
 [ENDBLOCK]
-<x18><x66><x52><x50><x93><x64><x10><x00><xAB><x80><x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80><x17><x66><x52><x50><x93><x70><x04><xAB><x80>ガルド
+<x18><x66><x52><x50><x93><x64><x10><x00><xAB><x80><x18><x66><x52><x50><x93><x44><x50><x14><x00><xAB><x80><x17><x66><x52><x50><x93><x70><x04><xAB><x80> Gald
 
 [ENDBLOCK]
 Text buffer
@@ -882,7 +881,7 @@ Cyglorg
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<x17><x72><x42><x60><x80>ガルド
+<TAG_007>Current Gald:<x17><x72><x42><x60><x80>
 
 [ENDBLOCK]
 Undefined select no
@@ -923,24 +922,25 @@ selected members are allowed to enter
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-弱き者の存在を、<x18><x66><x10><x00><x80>は
-拒絶します。
+The presence of the weak
+is rejected by the <x18><x66><x10><x00><x80>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Here justice is just being "strong"...
+Here, justice is about being "strong"...
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Never forget that.「強き」事のみが、
-<x18><x66><x10><x00><x80>の存在証明でございます。
+Never forget that only the strong
+can survive in the <x18><x66><x10><x00><x80>.
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x10><x00><x80>You can organize up to a party of 5
-to challenge each floor.
+You can organize up to a party of 5
+to challenge each floor while you explore
+the <x18><x66><x10><x00><x80>.
 
 [ENDBLOCK]
 notice
@@ -986,8 +986,8 @@ the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Second, if your party is whiped out,
-you will be forced to the beginning.
+Second, if your party is wiped out,
+you will be forced to start over.
 
 [ENDBLOCK]
 Arcana Ruins
@@ -1024,6 +1024,7 @@ What are the Arcana Ruins
 [ENDBLOCK]
 About Party Organization
 
+[ENDBLOCK]
 About Combat
 
 [ENDBLOCK]
@@ -1165,9 +1166,8 @@ Ahhh...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-We have to press the switch
-at the same time. I give the
-signal.
+We have to press the switch at the
+same time. I'll give the signal.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1324,17 +1324,18 @@ The front entrance.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、やっぱりやめましょうよ。
-神の眼の封印を解いたらどうなるか……
+Master <Lion>, please stop! I don't know
+what will happen if we unseal the Eye of Atamoni!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-おまえの意見など聞いていない。
-僕は……<Marian>を取り戻す。
+I didn't ask for your opinion.
+I...I have to do this...for <Marian>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-その為だったら、何だって……
+I'll do anything
+to keep her safe!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
