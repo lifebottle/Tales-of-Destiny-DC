@@ -36,12 +36,12 @@ class Helper:
         
         self.loadTable()
         
-    def getJsonBlock(self,blockId):
-        return [ele for ele in self.dataItems if ele['BlockId'] == int(blockId)][0]
+    def getJsonBlock(self,blockDesc):
+        return [ele for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
     
-    def showSections(self,blockId):
+    def showSections(self,blockDesc):
         
-        blockSections = self.getJsonBlock(blockId)
+        blockSections = self.getJsonBlock(blockDesc)
         sectionsInfos = [ [ele['SectionId'], ele['SectionDesc']] for ele in blockSections['Sections']]
         
         #Print the sections on the screen
@@ -87,7 +87,7 @@ class Helper:
         sh = self.gc.open_by_key(googlesheetId)
         sheets = sh.worksheets()
         
-        idSheet = [ ele.index for ele in sheets if sheetName in ele.title ][0]
+        idSheet = [ ele.index for ele in sheets if ele.title == sheetName ][0]
         if idSheet != None:
             wks = sh[idSheet]
             
@@ -221,9 +221,11 @@ class Helper:
                 
                 #print("endInt: {}".format(endInt))
                 self.currentMemoryId+= 1
+                print("Text to insert : "+v)
+                print("BankId: "+str(self.currentMemoryId))
                 
                 #Go grab a bank of memory
-                newbank = self.dfBanks[ self.dfBanks['Id'] == self.currentMemoryId]
+                newbank = self.dfBanks[ (self.dfBanks['Id'] == self.currentMemoryId) & (self.dfBanks['File'] == self.File)]
                 self.offset = int(newbank['TextStart'].tolist()[0], 16)
     
                 self.currentEnd = int(newbank['TextEnd'].tolist()[0], 16)
@@ -247,12 +249,14 @@ class Helper:
         
         return sectionText
         
-    def createBlock(self,blockId):
+    def createBlock(self,blockDesc):
         
         #gc = pygsheets.authorize(service_file="gsheet.json")
         
         #Go grab the TextStart for the jump
-        block = self.getJsonBlock(blockId)
+        block = self.getJsonBlock(blockDesc)
+        self.File = block['File']
+        
         sections = block['Sections']
         lastSection = max([ele['SectionId'] for ele in sections])
         #Variables for adjusting overlapping
@@ -279,7 +283,7 @@ class Helper:
             blockText += "//Section {}\n\n".format(sectionDesc)
             self.originalSectionEnd = int([ele['TextEnd'] for ele in sections if ele['SectionId'] == sectionId][0],16)
             if googleId != "":
-                print(sectionDesc)
+              
                 
                 #Grab the text from google sheet
                 self.getGoogleSheetTranslation(googleId, sectionDesc)
@@ -293,24 +297,25 @@ class Helper:
         print("Max Block End               :   {}".format(hex(int(textEnd, 16))))
         return block['BlockDesc'], blockText
 
-    def createAtlasScript_Block(self,blockId):
+    def createAtlasScript_Block(self,blockDesc):
         
 
-        blockDesc, block = self.createBlock(blockId)
+        blockDesc, block = self.createBlock(blockDesc)
        
         header = self.getHeader()
         with open(os.path.join(self.basePath,"abcde", "TODDC_"+blockDesc+"_Dump.txt"),encoding="utf-8", mode="w") as finalScript:
             finalScript.write(header + block)
     
-    def reinsertText_Block(self,blockId, slpsName):
+    def reinsertText_Block(self,blockDesc):
     
-        #Copy the original SLPS file first
-        shutil.copyfile( os.path.join(self.basePath,"abcde","SLPS_original","SLPS_258.42"), os.path.join(self.basePath,"abcde","SLPS_258.42"))
+        #Copy the original file
+        fileName = os.path.basename(self.File) 
+        shutil.copyfile( os.path.join(self.basePath,self.File), os.path.join(self.basePath,"abcde",fileName))
         
         #Run Atlas in command line
-        blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockId'] == int(blockId)][0]
+        blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == int(blockDesc)][0]
         
-        args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", "SLPS_258.42", "TODDC_"+blockDesc+"_Dump.txt"]
+        args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", fileName, "TODDC_"+blockDesc+"_Dump.txt"]
         listFile = subprocess.run(
             args,
             cwd= os.path.join(self.basePath, "abcde"),
@@ -319,7 +324,7 @@ class Helper:
         #Copy the new SLPS back to Google drive
         #print( "Source: " + os.path.join(path, "SLPS_258.42"))
         #print( "Destination: " + os.path.join(path,"..","..", slpsName))
-        shutil.copyfile( os.path.join(self.basePath,"abcde", "SLPS_258.42"), os.path.join(self.basePath,"..", slpsName))
+        shutil.copyfile( os.path.join(self.basePath,"abcde", fileName), os.path.join(self.basePath,"..", fileName))
     
     def createAllBanks(self):
         
@@ -327,8 +332,8 @@ class Helper:
         
         
         #For each block, pick the first and last Offset
-        listBlock = [ [ ele['BlockId'], ele['BlockDesc'], ele['Sections'][0]['TextStart'], ele['Sections'][-1]['TextEnd']] for ele in self.dataItems]
-        dfBase = pd.DataFrame(listBlock, columns=['Id', 'BlockDesc','TextStart','TextEnd'])
+        listBlock = [ [ ele['BlockDesc'], ele['Sections'][0]['TextStart'], ele['Sections'][-1]['TextEnd'], ele['File']] for ele in self.dataItems if ele['File'] == self.File]
+        dfBase = pd.DataFrame(listBlock, columns=['BlockDesc','TextStart','TextEnd', 'File'])
         
         
         #Add the 3 original memory banks
@@ -341,10 +346,8 @@ class Helper:
     def createBlockAll(self):
             
         #Consider all section as if they are memory bank
-        print("create banks")
+        self.File = "abcde/SLPS_original/SLPS_258.42"
         self.createAllBanks()
-        
-        print( self.dfBanks)
         
         #tbl dataframe to use
         self.loadTable()
@@ -367,12 +370,13 @@ class Helper:
         allText = jumpText
         
         #Loop over all block
-        blockList = [ele for ele in self.dfBanks['BlockDesc'].tolist() if ele != ""]
-        for blockDesc in blockList:
+        dfBlock = self.dfBanks[ self.dfBanks['BlockDesc'] != ""]
+        for index, row in dfBlock.iterrows():
             
-            #Grab some infos for each sections
-            print("Block: {}".format(blockDesc))
-            sections = [ele['Sections'] for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
+            
+            
+            print("Block: {}".format(row['BlockDesc']))
+            sections = [ele['Sections'] for ele in self.dataItems if ele['BlockDesc'] == row['BlockDesc']][0]
             #print(sections)
             sectionsList = [ (ele['SectionId'], ele['SectionDesc'], ele['GoogleSheetId']) for ele in sections ]
             
@@ -425,6 +429,3 @@ class Helper:
         shutil.copyfile( os.path.join(self.basePath,"abcde", "SLPS_258.42"), os.path.join(self.basePath,"..", "SLPS_258.42"))
     
     
-def updateBlock(blockId, SLPSName):
-    createAtlasScript_Block(blockId)
-    reinsertText_Block(blockId, SLPSName)

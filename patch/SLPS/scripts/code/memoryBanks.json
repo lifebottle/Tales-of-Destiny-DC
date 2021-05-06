@@ -1,19 +1,94 @@
 {
 	"memoryBanks":[
 	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
 		"Id":1,
 		"TextStart":		"148210",
 		"TextEnd":			"1498CF"	
 	},
 	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
 		"Id":2,
 		"TextStart":		"1C3800",
 		"TextEnd":			"1C3E1F"	
 	},
 	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
 		"Id":3,
 		"TextStart":		"149C08",
 		"TextEnd":			"149C38"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":4,
+		"TextStart":		"FC700",
+		"TextEnd":			"FC7FF"	
+	},
+	
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":5,
+		"TextStart":		"FC890",
+		"TextEnd":			"FC90F"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":6,
+		"TextStart":		"FC9B0",
+		"TextEnd":			"FCA3E"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":7,
+		"TextStart":		"FCA90",
+		"TextEnd":			"FCB4F"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":8,
+		"TextStart":		"FCC00",
+		"TextEnd":			"FCC6F"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":9,
+		"TextStart":		"FCD27",
+		"TextEnd":			"FCD6E"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":9,
+		"TextStart":		"FCD27",
+		"TextEnd":			"FCD6E"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":10,
+		"TextStart":		"FCA90",
+		"TextEnd":			"FCB4F"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":11,
+		"TextStart":		"FD3C0",
+		"TextEnd":			"FD4CF"	
+	},
+	{
+		"File":"abcde/SLPS_original/SLPS_258.42",
+		"Id":12,
+		"TextStart":		"1C2810",
+		"TextEnd":			"1C2C5F"	
+	},
+	
+	
+	
+	
+	
+	{
+		"File":"../../../PAK3/00016_0003.unknown.new",
+		"Id":1,
+		"TextStart":		"16830",
+		"TextEnd":			"16866"	
 	}
 	]
 }
