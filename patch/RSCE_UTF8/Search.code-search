@@ -1,0 +1,290 @@
+# Query: ?!
+
+144 results - 73 files
+
+patch\SLPS\scripts\code\abcde\abcde\Atlas.pm:
+   449: 	seek($abcde::Atlas::SCRIPT_FILE, $address, 0) or die("Seek failure!?");
+   459: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+   499: 	seek($abcde::Atlas::POINTER_FILE, $pointerAddress, 0) or die("Seek failure!?");
+   543: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+   619: 			seek($abcde::Atlas::SCRIPT_FILE, $skip, 1) or die("Seek failure!?");
+   985: 	seek($abcde::Atlas::SCRIPT_FILE, $newAddress, 0) or die("Seek failure!?");
+  1082: 	seek($abcde::Atlas::SCRIPT_FILE, $address, 0) or die("Seek failure!?");
+  1084: 	die ("read failure!?") unless (defined($num_chars_read));
+  1086: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+  1115: 	seek($abcde::Atlas::SCRIPT_FILE, $offset, 1) or die("Seek failure!?");
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\15821_0000.txt:
+  28: W-Wait, was that supposed to be about me!?<x00>
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16109_0000.txt:
+  19: like this!? Use a LIFE BOTTLE!
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16183_0000.txt:
+  19: Wh-What the..!?
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16184_0000.txt:
+  16: WHAAAAAAAT!? That's unforgivable!!
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16193_0000.txt:
+  23: Wh-What are you saying!?
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16196_0000.txt:
+  26: What?? Leads to what!?
+
+Tales-of-Destiny-DC\patch\PAK1_UTF8\16231_0000.txt:
+  8: *SAD CHALTIER NOISES!?*
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13582_61.txt:
+   68: Uwah...!?
+  100: Ahh...!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13692_75.txt:
+  313: Straylize Temple!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13696_52.txt:
+  59: Are you okay!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13697_61.txt:
+  53: How'd you get to that conclusion!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13701_49.txt:
+  495: blathering on about!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13710_71.txt:
+  250: Are you okay!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13724_65.txt:
+  481: was that!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13736_65.txt:
+  233: What were you even doing!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13738_51.txt:
+  81: Who are you!?
+  91: That voice...!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13743_64.txt:
+  481: was that!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13780_26.txt:
+  188: What are you thinking!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13817_84.txt:
+  439: A-Already..m-m-married!?
+  494: W-W-WIIIIFFEE?!??
+  753: You would defy us!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13818_60.txt:
+  1114: that my research's a lie!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13822_55.txt:
+   33: It looks totally real right!?
+   43: you end up like this!?
+  152: Ehhh, seriously!?
+  157: THAT Eye of Atamoni!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13839_82.txt:
+  415: A-Already..m-m-married!?
+  470: W-W-WIIIIFFEE?!??
+  729: You would defy us!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13840_62.txt:
+  993: that my research's a lie!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13863_39.txt:
+   606: Wh-What!?
+  1114: Blood!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13864_35.txt:
+  759: Wh-What!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13870_44.txt:
+  757: What!? Why would you think that??
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13871_56.txt:
+   81: that my research's a lie!?
+  605: Woah! What is THAT thing!?
+  615: ride it!? Awesome!!
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13926_76.txt:
+  477: Hey, hey, what's with this town!? We go
+  479: but we get ignored!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13932_66.txt:
+  477: Hey, hey, what's with this town!? We go
+  479: but we get ignored!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13978_56.txt:
+   10: What the!? Where the hell did
+  175: Ughh!! How long is this gonna be!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13986_61.txt:
+   127: ...What!?
+   169: Who's a geezer!?
+  1240: What force is that armed fleet!?
+  1833: going on here!?
+  1881: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13989_61.txt:
+   611: Really!?
+  1352: Th-this is!?
+  1418: Why do we have to duel!?
+  1433: What did you say, you insolent!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\13992_73.txt:
+  1081: What did you say!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14000_63.txt:
+  20: <Lion>...what are you doing!?
+  69: have been on that ship!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14008_54.txt:
+   611: ...What!?
+   653: Who's a geezer!?
+  1118: What force is that armed fleet!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14011_44.txt:
+  605: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14013_51.txt:
+  748: What did you say!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14021_59.txt:
+  83: GONNA HAPPEN HERE!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14031_52.txt:
+  111: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14032_66.txt:
+  91: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14033_46.txt:
+  417: a place like this!?
+  431: What did you say!?
+  435: What did you say!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14038_51.txt:
+  186: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14039_51.txt:
+  91: Really!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14090_22.txt:
+   11: What are you doing!? It was
+  266: What’s wrong!?
+  292: too excessive!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14118_112.txt:
+   666: are you doing here!?
+  1218: What did he say!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14121_109.txt:
+  256: Prince about Lord <Fayte>!?
+  261: Alone!? What does he
+  262: mean to do!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14127_106.txt:
+  313: are you doing here!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14143_69.txt:
+  202: person like you do about it!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14145_36.txt:
+  206: <Johnny>!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14208_83.txt:
+  200: Where did it go!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14219_48.txt:
+  996: What was that!? Say that
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14220_66.txt:
+  379: front of them! That's why, right!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14223_46.txt:
+  505: WHAAT!? 
+  506: The Prince of Phandaria!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14226_69.txt:
+  826: front of them! That's why, right!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14314_23.txt:
+  104: Wh-!? One Gald!?
+  154: What the!? <Rutee>, you said...
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14386_61.txt:
+  1958: ....What!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14388_57.txt:
+  952: how sick with worry I was!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14392_60.txt:
+  39: see their face!?
+  63: Who was it!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14393_81.txt:
+  647: Whaaaa!?!?
+  766: how sick with worry I was!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14400_60.txt:
+  39: see their face!?
+  63: Who was it!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14406_44.txt:
+  787: What!?
+  791: Where the hell did they go!?
+  980: to be one big happy family!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14408_37.txt:
+  343: What!?
+  347: Where the hell did they go!?
+  536: to be one big happy family!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14413_15.txt:
+   25: supposed to mean!?
+   69: As in, the Hedge Knight, <Lion>!?
+  194: So then who did!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14417_46.txt:
+  786: What!?
+  790: Where the hell did they go!?
+  979: to be one big happy family!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14419_46.txt:
+  343: What!?
+  347: Where the hell did they go!?
+  536: to be one big happy family!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14424_12.txt:
+  21: supposed to mean!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14463_41.txt:
+  251: Why are you so stubborn!?
+  317: How could you not know that!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14833_26.txt:
+   905: lets out a blood-currdling scream!?
+  1152: animals to evolve this quickly!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14834_39.txt:
+  373: lets out a blood-currdling scream!?
+  620: animals to evolve this quickly!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14843_45.txt:
+  162: Great. now monsters talk!?
+
+Tales-of-Destiny-DC\patch\RSCE_UTF8\14845_30.txt:
+  58: Wha!? L-<Lion>,
+
+Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\abcde\Atlas.pm:
+   449: 	seek($abcde::Atlas::SCRIPT_FILE, $address, 0) or die("Seek failure!?");
+   459: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+   499: 	seek($abcde::Atlas::POINTER_FILE, $pointerAddress, 0) or die("Seek failure!?");
+   543: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+   619: 			seek($abcde::Atlas::SCRIPT_FILE, $skip, 1) or die("Seek failure!?");
+   985: 	seek($abcde::Atlas::SCRIPT_FILE, $newAddress, 0) or die("Seek failure!?");
+  1082: 	seek($abcde::Atlas::SCRIPT_FILE, $address, 0) or die("Seek failure!?");
+  1084: 	die ("read failure!?") unless (defined($num_chars_read));
+  1086: 	seek($abcde::Atlas::SCRIPT_FILE, $abcde::Atlas::settings{currentInsertAddress}, 0) or die("Seek failure!?");
+  1115: 	seek($abcde::Atlas::SCRIPT_FILE, $offset, 1) or die("Seek failure!?");
