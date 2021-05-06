@@ -4,26 +4,26 @@ import os
 
 if __name__ == "__main__":
     
-    blockId = sys.argv[1]
+    blockDesc = sys.argv[1]
     
     
     helper = Helper()
     
-    if blockId != "All":
+    if blockDesc != "All":
         
-        slpsName = sys.argv[2]
+
         print("\nWhat's inside this block :")
-        helper.showSections(blockId)
+        helper.showSections(blockDesc)
         
         print("Create the script based on google sheet")
-        helper.createAtlasScript_Block(blockId)
+        helper.createAtlasScript_Block(blockDesc)
         
         
         print("Create the SLPS for this block")
-        helper.reinsertText_Block(blockId, slpsName)
+        helper.reinsertText_Block(blockDesc)
     else:
         
         helper.createAtlasScript_All()
         
         print("Create the SLPS for this block")
-        helper.reinsertText_All(blockId)
+        helper.reinsertText_All(blockDesc)

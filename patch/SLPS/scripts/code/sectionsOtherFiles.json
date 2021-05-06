@@ -1,0 +1,21 @@
+{
+	"items":[
+	{
+		"BlockDesc":		"Synopsis",
+		"File":				"
+		"TextStartBlock":	"",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Character Name",
+			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
+			"TextStart":	"199900",
+			"TextEnd":		"199C3E",
+			"PointerStart":	"D7C80",
+			"PointerEnd":	"D7D68"
+		}]
+	
+	}
+	]
+	
+}
