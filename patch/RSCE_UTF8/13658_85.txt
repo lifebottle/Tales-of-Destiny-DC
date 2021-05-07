@@ -378,7 +378,7 @@ about the chest on this floor.
 Cyglorg
 [ENDBLOCK]
 On this floor, <TAG_054> colored chests</color>
-provide the following effect:<TAG_055>
+provide the following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -673,7 +673,7 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 <yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80>  Left)  <Rutee>
 
 [ENDBLOCK]
 <yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>
