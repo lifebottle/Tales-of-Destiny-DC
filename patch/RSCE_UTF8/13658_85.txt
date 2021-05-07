@@ -127,7 +127,7 @@ Arcana Ruins
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Fancy meeting you here at <TAG_052>.
+Fancy meeting you within the <TAG_052>.
 
 [ENDBLOCK]
 Cyglorg
@@ -138,25 +138,25 @@ you assistance on your journey.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course it will cost you, but
-you may also receive EX Points.
+Of course it may cost you EX Points, 
+or maybe I'll just give you a present.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Don't forget, you can also use
-these EX Points at the entrance.
+Either way, don't forget you can 
+spend your EX Points at the entrance.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-As soon as this transaction
-ends, I'm gone.
+Whether or not you take my offer, as 
+soon as this talk ends, I'm gone.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Let's get down to business.
+Now then, let's get down to business.
 
 [ENDBLOCK]
 エラータイプ
@@ -378,7 +378,7 @@ about the chest on this floor.
 Cyglorg
 [ENDBLOCK]
 On this floor, <TAG_054> colored chests</color>
-provide the following effect:<TAG_055>
+provide the following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -673,7 +673,7 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 <yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80>  Left)  <Rutee>
 
 [ENDBLOCK]
 <yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>
@@ -918,7 +918,7 @@ Arcana Ruins
 Cyglorg
 [ENDBLOCK]
 <x18><x66><x10><x00><x80> contains 10 levels that only
-selected members are allowed to enter
+selected members are allowed to enter.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -1135,7 +1135,7 @@ It's okay, no need to thank me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hang on?!
+Hang on!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1153,7 +1153,7 @@ would happen, so...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You moron! You're so dumb!
+You moron! You're so stupid!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1231,7 +1231,7 @@ I'm glad I found <Stahn>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Who's happy?!
+Who's happy!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

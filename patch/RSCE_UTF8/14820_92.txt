@@ -57,8 +57,8 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x1C><x00><x80>Some treasure
-chests have special effects.
+Treasure chests have special effects
+within the <x18><x66><x1C><x00><x80>.
 
 [ENDBLOCK]
 notice
@@ -123,7 +123,7 @@ Arcana Ruins
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Fancy meeting you here at <TAG_052>.
+Fancy meeting you within the <TAG_052>.
 
 [ENDBLOCK]
 Cyglorg
@@ -134,25 +134,25 @@ you assistance on your journey.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course it will cost you, but
-you may also receive EX Points.
+Of course it may cost you EX Points, 
+or maybe I'll just give you a present.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Don't forget, you can also use
-these EX Points at the entrance.
+Either way, don't forget you can 
+spend your EX Points at the entrance.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-As soon as this transaction
-ends, I'm gone.
+Whether or not you take my offer, as 
+soon as this talk ends, I'm gone.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Let's get down to business.
+Now then, let's get down to business.
 
 [ENDBLOCK]
 エラータイプ
@@ -374,7 +374,7 @@ about the chest on this floor.
 Cyglorg
 [ENDBLOCK]
 On this floor, <TAG_054> colored chests</color>
-provide the following effect:<TAG_055>
+provide the following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -669,7 +669,7 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 <yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80>  Left)  <Rutee>
 
 [ENDBLOCK]
 <yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>
@@ -781,19 +781,19 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 select
 [ENDBLOCK]
-ダンジョンから脱出
-キャンセル
+Leave the dungeon
+Cancel
 [ENDBLOCK]
 負けました
 
 [ENDBLOCK]
-バルバトスに挑む
+Challenge Barbatos
 [ENDBLOCK]
-セーブしてバルバトスに挑む（<x17><x72><x04><x08><xC9><x75><x00><x80>ポイント必要）
+Save and challenge Barbatos（<x17><x72><x04><x08><xC9><x75><x00><x80>EX Points）
 [ENDBLOCK]
 ？？？？???
 [ENDBLOCK]
-セーブして……？（<x17><x72><x04><x08><xC9><x75><x00><x80>ポイント必要）
+Save and...?（<x17><x72><x04><x08><xC9><x75><x00><x80>EX Points）
 [ENDBLOCK]
 Leave Arcana Ruins
 [ENDBLOCK]
@@ -801,7 +801,7 @@ Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x20><x16><x42><x80>
+<TAG_007>EX Points	<x17><x20><x16><x42><x80>
 <x18><x66><x1C><x00><x80>
 <TAG_052>
 <TAG_053>
@@ -810,13 +810,13 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-何か凶悪な力を感じる……
+I feel a malevolent presence...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当に進みますか？
-行く
-……やめよう
+<TAG_007>Are you certain you wish to proceed?
+Lets go
+On second thought...
 
 [ENDBLOCK]
 select
@@ -828,13 +828,13 @@ No
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-何か凶悪な力を感じる……
+I feel a malevolent presence...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>本当に進みますか？
-行く
-……やめよう
+<TAG_007>Are you certain you wish to proceed?
+Lets go
+On second thought...
 
 [ENDBLOCK]
 notice

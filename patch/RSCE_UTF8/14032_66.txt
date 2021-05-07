@@ -757,9 +757,9 @@ We are always waiting for you.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-If you wish to engage in more difficult
-combat at the beginning, please speak
-to me and ask for a challenge.
+If you wish to participate in the 
+arena battles, please speak to me
+and ask for a challenge.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
@@ -779,10 +779,10 @@ will be given to you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>Apple Gels				３
-Peach Gel					１
-Gamble Gel					１
-Panacea bottle		１
+3x Apple Gels
+1x Peach Gel
+1x Gamble Gel
+1x Panacea Bottle
 
 [ENDBLOCK]
 Information Desk
@@ -866,8 +866,9 @@ Information Desk
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-<TAG_007><x19><x69><x47><xC4><x80>様が<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>Are you sure you want to join us?
-ディフィニットモード
+<TAG_007><x19><x69><x47><xC4><x80> is <x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>.
+Are you sure you want to join us?
+Definite Mode
 No
 
 [ENDBLOCK]
@@ -1204,8 +1205,9 @@ like I can do anything about it.
 [ENDBLOCK]
 Enthusiastic fan
 [ENDBLOCK]
-Whether the world returns to normal,
-I'm going to enjoy every minute of it.
+Whether the world returns to
+normal or not, I'm going to enjoy
+every minute of it.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1273,7 +1275,7 @@ making a fuss here?
 Challenger
 [ENDBLOCK]
 No matter what the situation, this place
-never loses its appeal. That's a deal,
+never loses its appeal. That's a big deal,
 don't you think?
 [ENDBLOCK]
 Old Man
