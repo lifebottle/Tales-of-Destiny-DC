@@ -1236,7 +1236,7 @@ Sell it for some Gald already![END]
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
 A piece of the meteor that sparked[LINE]
-the Aeth'er War......[LINE]
+the Aeth'er War...[LINE]
 Bet you could sell it...[END]
 
 
@@ -6620,7 +6620,7 @@ the melted cheese solidified.[END]
 #WRITE(ptr,$19266C)
 Strap with a Half-baked Kebab.[LINE]
 Please, cook meat properly.[LINE]
-So that you won't hurt your stomach....[END]
+So that you won't hurt your stomach...[END]
 
 
 //Text $1B8518
