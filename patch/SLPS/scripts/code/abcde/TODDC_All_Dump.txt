@@ -5748,7 +5748,7 @@ Cherik[END]
 
 //Text $1A4F88
 #WRITE(ptr,$1878D0)
-Kalviola[END]
+Calviola[END]
 
 
 //Text $1A4F78
@@ -5874,7 +5874,7 @@ Leon Battle 1[END]
 
 //Text $1A4DA0
 #WRITE(ptr,$186C54)
-Seinegald F1(Around Straylize Forest)[END]
+Seingald F1(Around Straylize Forest)[END]
 
 
 //Text $1A4D80
@@ -5929,7 +5929,7 @@ Calvalese F1(around Junkland)[END]
 
 //Text $1A4C80
 #WRITE(ptr,$186CD8)
-Kalviola Temple[END]
+Calviola Temple[END]
 
 
 //Text $1A4C68
@@ -6099,7 +6099,7 @@ Seinegald F2(around Straylize Forest)[END]
 
 //Text $1A4968
 #WRITE(ptr,$186E70)
-Calvalese F2(around Kalviola)[END]
+Calvalese F2(around Calviola)[END]
 
 
 //Text $1A4940
@@ -6294,7 +6294,7 @@ Phandaria F3(around Heidelberg)[END]
 
 //Text $1A4590
 #WRITE(ptr,$187044)
-Calvalese F3(around Kalviola)[END]
+Calvalese F3(around Calviola)[END]
 
 
 //Text $1A4568
@@ -6827,22 +6827,22 @@ Straylize・Armeida Grasslands 3[END]
 
 //Text $1A3A60
 #WRITE(ptr,$186310)
-Kalviola・Cherik・Sandy Desert 0[END]
+Calviola・Cherik・Sandy Desert 0[END]
 
 
 //Text $1A3A40
 #WRITE(ptr,$186318)
-Kalviola・Cherik・Sandy Desert 1[END]
+Calviola・Cherik・Sandy Desert 1[END]
 
 
 //Text $1A3A20
 #WRITE(ptr,$186320)
-Kalviola・Cherik・Sandy Desert 2[END]
+Calviola・Cherik・Sandy Desert 2[END]
 
 
 //Text $1A3A00
 #WRITE(ptr,$186328)
-Kalviola・Cherik・Sandy Desert 3[END]
+Calviola・Cherik・Sandy Desert 3[END]
 
 
 //Text $1A39E8
@@ -7177,7 +7177,7 @@ Straylize Temple・Chapel[END]
 
 //Text $1A3278
 #WRITE(ptr,$186540)
-Kalviola Temple・Corridor at Night[END]
+Calviola Temple・Corridor at Night[END]
 
 
 //Text $1A3248
@@ -7217,12 +7217,12 @@ Underwater City（Radisrol)・Corridor[END]
 
 //Text $1A3160
 #WRITE(ptr,$186580)
-Temple of Kalviola・Corridor[END]
+Temple of Calviola・Corridor[END]
 
 
 //Text $1A3148
 #WRITE(ptr,$186588)
-Temple of Kalviola・Dunegons[END]
+Temple of Calviola・Dunegons[END]
 
 
 //Text $1A3140
@@ -7602,7 +7602,7 @@ Moreau Castle・Batista Battle[END]
 
 //Text $1A2858
 #WRITE(ptr,$1867E8)
-Kalviola Temple・Battle before the Eye or Atamoni[END]
+Calviola Temple・Battle before the Eye or Atamoni[END]
 
 
 //Section Attribute and others
@@ -7936,179 +7936,88 @@ Test Play Point: Reach [TAG_015][END]
 
 //Text $1A67A0
 #WRITE(ptr,$1892E8)
-Draconis[END]
-
-
-//Text $1A6790
 #WRITE(ptr,$1892F4)
 Draconis[END]
 
 
 //Text $1A6780
 #WRITE(ptr,$189300)
-Torn's Cabin[END]
-
-
-//Text $1A6768
 #WRITE(ptr,$18930C)
 Torn's Cabin[END]
 
 
 //Text $1A6750
 #WRITE(ptr,$189318)
-Torn's Cabin, Mountain[END]
-
-
-//Text $1A6738
 #WRITE(ptr,$189324)
-Torn's Cabin, Mountain[END]
-
-
-//Text $1A6718
 #WRITE(ptr,$189330)
-Torn's Cabin, MountainEND]
-
-//Text $1A66F8
 #WRITE(ptr,$18933C)
 Torn's Cabin, Mountain[END]
 
 
 //Text $1A66E0
 #WRITE(ptr,$189348)
-Phandaria Pass[END]
-
-
-//Text $1A66C8
 #WRITE(ptr,$189354)
-Phandaria Pass[END]
-
-
-//Text $1A66B0
 #WRITE(ptr,$189360)
-Phandaria Pass[END]
-
-
-//Text $1A6698
 #WRITE(ptr,$18936C)
 Phandaria Pass[END]
 
 
 //Text $1A6688
 #WRITE(ptr,$189378)
-Janos[END]
-
-
-//Text $1A6678
 #WRITE(ptr,$189384)
 Janos[END]
 
 
 //Text $1A6660
 #WRITE(ptr,$189390)
-Cave leading to temple[END]
-
-
-//Text $1A6648
 #WRITE(ptr,$18939C)
 Cave leading to temple[END]
 
 
 //Text $1A6640
 #WRITE(ptr,$1893A8)
-Temple[END]
-
-
-//Text $1A6630
 #WRITE(ptr,$1893B4)
 Temple[END]
 
 
 //Text $1A6620
 #WRITE(ptr,$1893C0)
-Harmentz[END]
-
-
-//Text $1A6610
 #WRITE(ptr,$1893CC)
 Harmentz[END]
 
 
 //Text $1A6600
 #WRITE(ptr,$1893D8)
-Seinegald Castle[END]
-
-
-//Text $1A65E8
 #WRITE(ptr,$1893E4)
 Seinegald Castle[END]
 
 
 //Text $1A65D8
 #WRITE(ptr,$1893F0)
-Darilsheid[END]
-
-
-//Text $1A65C0
 #WRITE(ptr,$1893FC)
 Darilsheid[END]
 
 
 //Text $1A65B0
 #WRITE(ptr,$189408)
-Armeida[END]
-
-
-//Text $1A65A0
 #WRITE(ptr,$189414)
 Armeida[END]
 
 
 //Text $1A6588
 #WRITE(ptr,$189420)
-Straylize Forest[END]
-
-
-//Text $1A6570
 #WRITE(ptr,$18942C)
-Straylize Forest[END]
-
-
-//Text $1A6558
 #WRITE(ptr,$189438)
-Straylize Forest[END]
-
-
-//Text $1A6540
 #WRITE(ptr,$189444)
 Straylize Forest[END]
 
 
 //Text $1A6528
 #WRITE(ptr,$189450)
-Straylize Temple[END]
-
-
-//Text $1A6510
 #WRITE(ptr,$18945C)
-Straylize Temple[END]
-
-
-//Text $1A6528
 #WRITE(ptr,$189468)
-Straylize Temple[END]
-
-
-//Text $1A64F8
 #WRITE(ptr,$189474)
-Straylize Temple[END]
-
-
-//Text $1A6510
 #WRITE(ptr,$189480)
-Straylize Temple[END]
-
-
-//Text $1A64E0
 #WRITE(ptr,$18948C)
 Straylize Temple[END]
 
@@ -8120,264 +8029,150 @@ Ship[END]
 
 //Text $1A64C8
 #WRITE(ptr,$1894A4)
-Radisrol[END]
-
-
-//Text $1A64B8
 #WRITE(ptr,$1894B0)
 Radisrol[END]
 
 
 //Text $1A64A8
 #WRITE(ptr,$1894BC)
-Cherik[END]
-
-
-//Text $1A6498
 #WRITE(ptr,$1894C8)
 Cherik[END]
 
 
 //Text $1A6488
 #WRITE(ptr,$1894D4)
-Kalviola[END]
-
-
-//Text $1A6470
 #WRITE(ptr,$1894E0)
-Kalviola[END]
+Calviola[END]
 
 
 //Text $1A6460
 #WRITE(ptr,$1894EC)
-Kalviola Temple[END]
-
-
-//Text $1A6450
 #WRITE(ptr,$1894F8)
-Kalviola Temple[END]
-
-
-//Text $1A6438
 #WRITE(ptr,$189504)
-Kalviola Temple[END]
-
-
-//Text $1A6420
 #WRITE(ptr,$189510)
-Kalviola Temple[END]
+Calviola Temple[END]
 
 
 //Text $1A6410
 #WRITE(ptr,$18951C)
-Neuestadt[END]
-
-
-//Text $1A63F8
 #WRITE(ptr,$189528)
 Neuestadt[END]
 
 
 //Text $1A63F0
 #WRITE(ptr,$189534)
-Arena[END]
-
-
-//Text $1A63E0
 #WRITE(ptr,$189540)
 Arena[END]
 
 
 //Text $1A63D8
 #WRITE(ptr,$18954C)
-Pirate Ship[END]
-
-
-//Text $1A63D0
 #WRITE(ptr,$189558)
 Pirate Ship[END]
 
 
 //Text $1A63C0
 #WRITE(ptr,$189564)
-Shiden[END]
-
-
-//Text $1A63B0
 #WRITE(ptr,$189570)
 Shiden[END]
 
 
 //Text $1A63A0
 #WRITE(ptr,$18957C)
-Shiden Undersea Cave[END]
-
-
-//Text $1A6390
 #WRITE(ptr,$189588)
 Shiden Undersea Cave[END]
 
 
 //Text $1A6380
 #WRITE(ptr,$189594)
-Moreau[END]
-
-
-//Text $1A6370
 #WRITE(ptr,$1895A0)
 Moreau[END]
 
 
 //Text $1A6360
 #WRITE(ptr,$1895AC)
-Moreau Castle[END]
-
-
-//Text $1A6350
 #WRITE(ptr,$1895B8)
 Moreau Castle[END]
 
 
 //Text $1A6340
 #WRITE(ptr,$1895C4)
-Terazzi[END]
-
-
-//Text $1A6330
 #WRITE(ptr,$1895D0)
 Terazzi[END]
 
 
 //Text $1A6320
 #WRITE(ptr,$1895DC)
-Terazzi Castle[END]
-
-
-//Text $1A6310
 #WRITE(ptr,$1895E8)
 Terazzi Castle[END]
 
+
 //Text $1A6300
 #WRITE(ptr,$1895F4)
-Frostheim[END]
-
-
-//Text $1A62E8
 #WRITE(ptr,$189600)
 Frostheim[END]
 
 
 //Text $1A62D8
 #WRITE(ptr,$18960C)
-Tilso Forest[END]
-
-
-//Text $1A62C8
 #WRITE(ptr,$189618)
-Tilso Forest[END]
-
-
-//Text $1A62B0
 #WRITE(ptr,$189624)
-Tilso Forest[END]
-
-
-//Text $1A6298
 #WRITE(ptr,$189630)
 Tilso Forest[END]
 
 
 //Text $1A6288
 #WRITE(ptr,$18963C)
-Cyril[END]
-
-
-//Text $1A6278
 #WRITE(ptr,$189648)
 Cyril[END]
 
 
 //Text $1A6260
 #WRITE(ptr,$189654)
-Heidelberg[END]
-
-
-//Text $1A6248
 #WRITE(ptr,$189660)
+
 Heidelberg[END]
 
 
 //Text $1A6230
 #WRITE(ptr,$18966C)
-Heidelberg Underground Passage[END]
-
-
-//Text $1A6218
 #WRITE(ptr,$189678)
 Heidelberg Underground Passage[END]
 
 
 //Text $1A6200
 #WRITE(ptr,$189684)
-Heidelberg Castle[END]
-
-
-//Text $1A61E8
 #WRITE(ptr,$189690)
-Heidelberg Castle[END]
-
-
-//Text $1A61D0
 #WRITE(ptr,$18969C)
-Heidelberg Castle[END]
-
-
-//Text $1A61B8
 #WRITE(ptr,$1896A8)
 Heidelberg Castle[END]
 
 
 //Text $1A61A0
 #WRITE(ptr,$1896B4)
-Draconis around Seinegald[END]
+Draconis around Seingald[END]
 
 
 //Text $1A6198
 #WRITE(ptr,$1896C0)
-Lienea[END]
-
-
-//Text $1A6188
 #WRITE(ptr,$1896CC)
 Lienea[END]
 
 
 //Text $1A6178
 #WRITE(ptr,$1896D8)
-Cresta[END]
-
-
-//Text $1A6168
 #WRITE(ptr,$1896E4)
 Cresta[END]
 
 
 //Text $1A6150
 #WRITE(ptr,$1896F0)
-Oberon's Hidden Factory[END]
-
-
-//Text $1A6138
 #WRITE(ptr,$1896FC)
 Oberon's Hidden Factory[END]
 
 
 //Text $1A6128
 #WRITE(ptr,$189708)
-Undersea Cave[END]
-
-
-//Text $1A6118
 #WRITE(ptr,$189714)
 Undersea Cave[END]
 
@@ -8389,72 +8184,45 @@ Hidden Temple[END]
 
 //Text $1A60F8
 #WRITE(ptr,$18972C)
-Ignasea[END]
-
-
-//Text $1A60E8
 #WRITE(ptr,$189738)
 Ignasea[END]
 
 
 //Text $1A60D8
 #WRITE(ptr,$189744)
-Deimos[END]
-
-
-//Text $1A60C8
 #WRITE(ptr,$189750)
 Deimos[END]
 
 
 //Text $1A60B8
 #WRITE(ptr,$18975C)
-Cloudius[END]
-
-
-//Text $1A60A8
 #WRITE(ptr,$189768)
 Cloudius[END]
 
 
 //Text $1A6098
 #WRITE(ptr,$189774)
-Rodeon[END]
-
-
-//Text $1A6088
 #WRITE(ptr,$189780)
 Rodeon[END]
 
 
 //Text $1A6078
 #WRITE(ptr,$18978C)
-Helraios[END]
-
-
-//Text $1A6068
 #WRITE(ptr,$189798)
 Helraios[END]
 
 
 //Text $1A6058
 #WRITE(ptr,$1897A4)
-Josaia[END]
-
-
-//Text $1A6048
 #WRITE(ptr,$1897B0)
 Josaia[END]
 
 
 //Text $1A6038
 #WRITE(ptr,$1897BC)
+#WRITE(ptr,$1897C8)
 Mikheil[END]
 
-
-//Text $1A6028
-#WRITE(ptr,$1897C8)
-MikheilEND]
 
 //Text $1A6018
 #WRITE(ptr,$1897D4)
@@ -8463,50 +8231,30 @@ Floating Cruiser[END]
 
 //Text $1A6008
 #WRITE(ptr,$1897E0)
-Belcrant[END]
-
-
-//Text $1A5FF8
 #WRITE(ptr,$1897EC)
 Belcrant[END]
 
 
 //Text $1A5FE0
 #WRITE(ptr,$1897F8)
-Swordian R&D Lab[END]
-
-
-//Text $1A5FC8
 #WRITE(ptr,$189804)
 Swordian R&D Lab[END]
 
 
 //Text $1A5FB8
 #WRITE(ptr,$189810)
-Junkland[END]
-
-
-//Text $1A5FA0
 #WRITE(ptr,$18981C)
 Junkland[END]
 
 
 //Text $1A5F88
 #WRITE(ptr,$189828)
-Trash Mountain[END]
-
-
-//Text $1A5F70
 #WRITE(ptr,$189834)
 Trash Mountain[END]
 
 
 //Text $1A5F60
 #WRITE(ptr,$189840)
-Dycroft[END]
-
-
-//Text $1A5F50
 #WRITE(ptr,$18984C)
 Dycroft[END]
 
@@ -8523,10 +8271,6 @@ EX Dungeon[END]
 
 //Text $1A5F20
 #WRITE(ptr,$189870)
-Traveller's Lodge[END]
-
-
-//Text $1A5F10
 #WRITE(ptr,$18987C)
 Traveller's Lodge[END]
 
@@ -8701,7 +8445,7 @@ countries is truly a lifeline in Calvalese's harsh environment.[END]
 
 //Text $1A70F0
 #WRITE(ptr,$189FC8)
-Kalviola[END]
+Calviola[END]
 
 
 //Text $1A70E0
@@ -8796,6 +8540,7 @@ Straylize Temple[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6E38
 #WRITE(ptr,$18A0E8)
 A temple that stands neatly in the[LINE]
@@ -8847,7 +8592,6 @@ Shiden[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6CE8
 #WRITE(ptr,$18A190)
 A city in the northern region of[LINE]
@@ -9152,6 +8896,7 @@ Deimos[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A5B8)
 One of the aerial cities connected[LINE]
@@ -9208,7 +8953,6 @@ A village formed by Katz who have[LINE]
 come to the Outer Shell.[END]
 
 
-#JMP($1A6870)
 //Text $1A7588
 #WRITE(ptr,$18A690)
 Hole to the Er'ther Lands[END]
@@ -10516,7 +10260,7 @@ as well as de-buffs.[END]
 //Text $1AF918
 #WRITE(ptr,$18C728)
 Contains the water of life.[LINE]
-Revives KO’d ally with 40% HP.[END]
+Revives dead ally with 40% HP.[END]
 
 
 //Text $1AF900
@@ -10558,6 +10302,7 @@ Only usable during battle.[LINE]
 [Sign_9]Oberol C[END]
 
 
+#JMP($1AB970)
 //Text $1AF798
 #WRITE(ptr,$18C798)
 A liquid medicine from Oberon Corp.[LINE]
@@ -10605,10 +10350,9 @@ Restores 10% of max HP.[END]
 [Sign_9]Holy Bottle[END]
 
 
-#JMP($1AB970)
 //Text $1AF5E8
 #WRITE(ptr,$18C808)
-Contains holy essense.[LINE]
+Contains holy essence.[LINE]
 Wards off enemies for a fixed duration.[END]
 
 
@@ -10892,6 +10636,7 @@ Seeds intended for beginners.[LINE]
 A support item for cultivation.[END]
 
 
+#JMP($1AC530)
 //Text $1AEEE8
 #WRITE(ptr,$18CB14)
 [Sign_Box]Estima Seed[END]
@@ -10947,7 +10692,6 @@ Seeds for the proficient.[LINE]
 A support item for cultivation.[END]
 
 
-#JMP($1AC530)
 //Text $1AED08
 #WRITE(ptr,$18CBA0)
 [Sign_Box]Charak Seed[END]
@@ -11241,7 +10985,7 @@ Support Talents in the EX Dungeon![END]
 //Text $1AE378
 #WRITE(ptr,$18CE60)
 A smelly red liquid.[LINE]
-Rumored to be an ingedient[LINE]
+Rumored to be an ingredient[LINE]
 for some medicine.[END]
 
 
@@ -11425,7 +11169,7 @@ Only those who know "cloaks" can answer.[END]
 
 //Text $1ADD38
 #WRITE(ptr,$18D020)
-A mysterious sphere with "IX" on it.[LINE]
+A mysterious sphere with "X" on it.[LINE]
 Only those who know "robes" can answer.[END]
 
 
@@ -11642,7 +11386,7 @@ Bet you could sell it...[END]
 #WRITE(ptr,$18D218)
 Rerise into a gem that prevents[LINE]
 [Poison], a status ailment that[LINE]
-which reduces HP over time.[END]
+reduces HP over time.[END]
 
 
 //Text $1AD690
@@ -13703,7 +13447,7 @@ It's a bit smelly...[END]
 //Text $1B1150
 #WRITE(ptr,$18EE4C)
 Knuckles made in the image of a dragon[LINE]
-from Aquaveil legends. It will bite into[LINE]
+from Aquavale legends. It will bite into[LINE]
 and tear apart your opponents.[END]
 
 
@@ -13798,7 +13542,7 @@ made of a tortoiseshell.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-An instrument popularized in Aquaveil.[LINE]
+An instrument popularized in Aquavale.[LINE]
 It is generally plucked with a bachi instead of[LINE]
 fingers and is often used while telling stories.[END]
 
@@ -13834,7 +13578,7 @@ and pluck them with a pick.[END]
 
 //Text $1B0D28
 #WRITE(ptr,$18F0E0)
-A string instrument originally from Aquaveil.[LINE]
+A string instrument originally from Aquavale.[LINE]
 Its three strings are plucked with a plectrum.[LINE]
 Peng! Peng![END]
 
@@ -15881,10 +15625,9 @@ the body and relieves fatigue.[END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-A Dagger with a ring-shapped pommel,[LINE]
-can be turned into a retrievable weapon[LINE]
-when attached with a string.[END]
-
+Dagger with a ring-shapped[LINE]
+pommel. A string can be tied to[LINE]
+the ring and the dagger throw.[END]
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
@@ -16446,13 +16189,13 @@ pickled as a side dish.[END]
 
 //Text $1BA218
 #WRITE(ptr,$191D98)
-[Sign_3]Onigiri[END]
+[Sign_3]Jelly Donut[END]
 
 
 //Text $1BA1C8
 #WRITE(ptr,$191D9C)
-Strap with an Onigiri.[LINE]
-Carefully molded with love.[LINE]
+Strap with a Jelly Donut[LINE]
+Nothing beats a jelly filled donut.[LINE]
 One's best travelling companion.[END]
 
 
@@ -17970,7 +17713,7 @@ like a backpack.[LINE]
 //Text $1BAA18
 #WRITE(ptr,$1928A0)
 A pass that's required to enter[LINE]
-Phandaria from Seinegald.[LINE]
+Phandaria from Seingald.[LINE]
 It's tough without one...[END]
 
 
@@ -18240,7 +17983,7 @@ supply system in Moreau Castle.[LINE]
 
 //Text $1BA2A8
 #WRITE(ptr,$192B20)
-[Sign_Key]Lithograph - Sky[END]
+[Sign_Key]Lithograph - Heaven[END]
 
 
 //Text $1BA270
@@ -18319,7 +18062,7 @@ Cherik[END]
 
 //Text $1BB5C8
 #WRITE(ptr,$1941FC)
-Kalviola[END]
+Calviola[END]
 
 
 //Text $1BB5B8
@@ -18499,7 +18242,7 @@ Sunoi[END]
 
 //Text $1BB478
 #WRITE(ptr,$192CE8)
-Saigrog[END]
+Cyglorg[END]
 
 
 //Text $1BB468
@@ -18981,7 +18724,7 @@ Fly High[END]
 
 //Text $1BB920
 #WRITE(ptr,$194274)
-Riceball[END]
+Jelly Donut[END]
 
 
 //Text $1BB908
@@ -19335,6 +19078,7 @@ BG＋50[END]
 Min CC＋1[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB930
 #WRITE(ptr,$1946B4)
 Max CC＋1[END]
@@ -19392,7 +19136,6 @@ When hit by a [TAG_015] elemental attack,[LINE]
 increases resistance to [TAG_015][END]
 
 
-#JMP($1BB0A0)
 //Text $1BBAC0
 #WRITE(ptr,$1946E0)
 In battle, if Party's HP [lessequal] [TAG_015]％[END]
@@ -20372,7 +20115,8 @@ A difficult age...[END]
 
 //POINTER #202 @ $1949D0 - STRING #202 @ $1BCDA8
 #WRITE(ptr,$1949D0)
-Beautiful Girl[END]
+Cursed Beauty[END]
+
 
 //POINTER #203 @ $1949D4 - STRING #203 @ $1BCD50
 #WRITE(ptr,$1949D4)
