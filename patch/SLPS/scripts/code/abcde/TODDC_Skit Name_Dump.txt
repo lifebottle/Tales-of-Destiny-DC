@@ -321,7 +321,7 @@ Harmentz is North of Janos[END]
 
 //Text $15FF0
 #WRITE(ptr,$555C)
-Harmentz is North West of Janos[END]
+Harmentz is Northwest of Janos[END]
 
 
 //Text $15FD8
