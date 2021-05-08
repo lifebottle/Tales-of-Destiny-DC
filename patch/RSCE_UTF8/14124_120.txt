@@ -442,7 +442,7 @@ this girl attack a soldier!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Sir Fayte>!
+Sir <Fayte>!
 I'm not the killer!
 [ENDBLOCK]
 Girl
@@ -523,7 +523,7 @@ the time of the incident.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
-I think that's why Master Fayte 
+I think that's why Master <Fayte> 
 gave you all this time.
 [ENDBLOCK]
 Soldier.
@@ -637,7 +637,7 @@ Ride boat
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A friend of Rihanna's
+<TAG_005>A friend of <Rihanna>'s
 tells me she's expecting a baby.
 [ENDBLOCK]
 
