@@ -1347,7 +1347,7 @@ Impressions of Heidelberg[END]
 
 //Text $14D58
 #WRITE(ptr,$5894)
-Even Thought They're Rebels[END]
+Even Though They're Rebels[END]
 
 
 //Text $14D38
@@ -1367,7 +1367,7 @@ Respite at the End of the Passage[END]
 
 //Text $14CE8
 #WRITE(ptr,$58A4)
-Though the Passage to the Castle[END]
+Through the Passage to the Castle[END]
 
 
 //Text $14CD8
