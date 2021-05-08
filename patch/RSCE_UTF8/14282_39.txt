@@ -42,7 +42,7 @@ Thanks.
 <Stahn>
 [ENDBLOCK]
 I've been calling your 
-name in my sleep, Mary.
+name in my sleep, <Mary>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -195,7 +195,7 @@ gap between the books.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Dear Mr. Dalis,
+<TAG_005>Dear Mr. <Dalis>,
 ~~~~~~~~~~~~~~~
 					Your secret admirer
 [ENDBLOCK]

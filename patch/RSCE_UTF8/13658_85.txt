@@ -563,7 +563,7 @@ EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 ○○○階層クリア時のパーティーボーナス：<TAG_031>
 
 [ENDBLOCK]
-Party: Lilith <TAG_031>
+Party: <Lilith> <TAG_031>
 
 [ENDBLOCK]
 Party Selection
@@ -1074,7 +1074,7 @@ Need anything?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-I'm here when you need it.
+I'm here if you need me.
 
 [ENDBLOCK]
 <Stahn>
@@ -1083,12 +1083,12 @@ That's...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>, are you okay?
+<Rutee>, are you alright?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 <Mary>! Where did you go?
-Don't go leaving me!
+Don't go leaving me like this!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1098,7 +1098,7 @@ find someone to help.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, she's floating in midair.
+Woah, she's floating in midair.
 How does this thing work?
 [ENDBLOCK]
 <Mary>
@@ -1126,7 +1126,7 @@ Oh, yeah, got it.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ahh...I don't know who you are,
+Ahh... I don't know who you are,
 but thank you so much.
 [ENDBLOCK]
 <Stahn>
@@ -1212,7 +1212,7 @@ Do you know each other?
 <Rutee>
 [ENDBLOCK]
 This was the guy who got in our
-way on the Draconis!
+way back on the Draconis!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1225,12 +1225,12 @@ get what we wanted because of you!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>, you're happy, aren't you.
+<Rutee>, you're thankful, aren't you?
 I'm glad I found <Stahn>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Who's happy!?
+Who's thankful!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
