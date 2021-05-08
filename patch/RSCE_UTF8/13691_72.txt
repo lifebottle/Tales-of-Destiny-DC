@@ -74,7 +74,7 @@ king's trust. Who are you?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-I'm Hugo Gilchrist, CEO
+I'm <Hugo> Gilchrist, CEO
 of Oberon Company.
 [ENDBLOCK]
 <Hugo>
@@ -761,7 +761,7 @@ Ugh, what a foolish thing...
 <Stahn>
 [ENDBLOCK]
 I used to think that you were
-a scary dude, Mr. Dryden.
+a scary dude, Mr. <Dryden>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
