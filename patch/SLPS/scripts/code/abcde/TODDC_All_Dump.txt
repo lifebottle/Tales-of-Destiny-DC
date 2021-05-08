@@ -11373,7 +11373,7 @@ Sell it for some Gald already![END]
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
 A piece of the meteor that sparked[LINE]
-the Aeth'er War......[LINE]
+the Aeth'er War...[LINE]
 Bet you could sell it...[END]
 
 
@@ -15976,7 +15976,7 @@ the city. We can get it back again![END]
 
 //Text $1B6508
 #WRITE(ptr,$191B2C)
-Proof he has conquered the arena's[LINE]
+Proof one has conquered the arena's[LINE]
 flyweight division. Normal attacks have[LINE]
 a low chance of downing foes.[END]
 
@@ -16189,15 +16189,14 @@ pickled as a side dish.[END]
 
 //Text $1BA218
 #WRITE(ptr,$191D98)
-[Sign_3]Jelly Donut[END]
+[Sign_3]Rice Ball[END]
 
 
 //Text $1BA1C8
 #WRITE(ptr,$191D9C)
-Strap with a Jelly Donut[LINE]
-Nothing beats a jelly filled donut.[LINE]
+Strap with an Rice Ball.[LINE]
+Carefully molded with love.[LINE]
 One's best travelling companion.[END]
-
 
 //Text $1BA180
 #WRITE(ptr,$191DC8)
@@ -16759,7 +16758,7 @@ the melted cheese solidified.[END]
 #WRITE(ptr,$19266C)
 Strap with a Half-baked Kebab.[LINE]
 Please, cook meat properly.[LINE]
-So that you won't hurt your stomach....[END]
+So that you won't hurt your stomach...[END]
 
 
 //Text $1B8518
@@ -18724,7 +18723,7 @@ Fly High[END]
 
 //Text $1BB920
 #WRITE(ptr,$194274)
-Jelly Donut[END]
+Rice Ball[END]
 
 
 //Text $1BB908
@@ -19078,12 +19077,12 @@ BG＋50[END]
 Min CC＋1[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB930
 #WRITE(ptr,$1946B4)
 Max CC＋1[END]
 
 
+#JMP($1BB0A0)
 //Text $1BBBF0
 #WRITE(ptr,$1946B8)
 Every [TAG_015] battles[END]
@@ -20072,7 +20071,7 @@ Hot Mama[END]
 #WRITE(ptr,$1949AC)
 With that extraordinary body,[LINE]
 she exudes flexibility and femininity.[LINE]
-..... Damn you, Dalis.[END]
+... Damn you, Dalis.[END]
 
 //POINTER #194 @ $1949B0 - STRING #194 @ $1BCF08
 #WRITE(ptr,$1949B0)
