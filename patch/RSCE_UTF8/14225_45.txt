@@ -21,246 +21,244 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-私の飼っていた猫ちゃんたちが
-いなくなってしまいました。
-どなたか見かけたらご連絡ください。
-私は猫がとてもとても大好きで……
+My cats have gone missing.
+If you see any of them, please
+contact me.
+I love my cats very much...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-待ってくれ、<Stahn>！
+Hold up, <Stahn>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたんですか、<Mary>さん？
+What's wrong, <Mary>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-頼みがある。
-この依頼の猫を探したい。
+I have a request.
+I want to help find the cats.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-猫を探すんですか……？
+You want to look for cats...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-頼む！	わたしは知ってのとおり、
-猫ちゃん大好きだ！
+Please! As you know, I love cats!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや、知りませんでしたけど。
+No, I didn't know that.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-なあ、いいだろ。<Stahn>。
+Hey, come on, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、いいですよ。<Mary>さんが
-そこまで言うなら、やりましょう。
+Yeah, that's fine. If you're so sure
+you want to do this, let's do it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-人助けですしね！
+And we'll be helping someone!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-依頼主さんは……
-宿屋の人みたいです。
+The client seems to be...
+an innkeeper.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうか。
-では宿屋へ行ってみよう。
+I see.
+Then let's go to the inn.
 [ENDBLOCK]
 <x17><x28><xE5><x06><x14><x2F><x80>, <x17><x28><xE6><x06><x14><x2F><x80>, <x17><x28><xE7><x06><x14><x2F><x80>
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あの、すみません。
+Umm, excuse me.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-はい、何でしょう？
+Yes, what can I for you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-実は探しているものが
-あるんですけど……
+Actually, there's something
+I'm looking for...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-それでしたら北にある
-ティルソの森の奥にあると
-聞いた事があります。
+If that's the case, I've heard it's deep
+in the Tilso Forest to the north.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-本当ですか！
+Is that true!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ありがとう。それじゃあ、早速
-そのティルソの森に行ってみます。
+Thank you. Well then, I'll go to Tilso
+Forest as soon as possible.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ちょっと、お嬢さん
-ひとりで行かれるんですか？
+Excuse me, miss, but are you
+going there alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-お連れの方々は!?
+What about your companions!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-みんなには
-黙っていてください。
+Please keep this a secret from everyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-私ひとりでやりたいんです。
+I want to do this alone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-さって、宿屋の人が言ってた北にある
-ティルソの森に行ってみようかしら。
+Now then, I think I'll head over to that
+Tilso Forest up north that the
+innkeeper mentioned about.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんを驚かせて
-あげるんだから。
+I going to give a big surpise
+for my brother.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-ティルソの森の奥に
-あると聞いたことがあります。
+I've heard that it's deep
+within the Tilso Forest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-けどひとりで行くだなんて……
-無茶だけはしないで下さい。
+But I can't believe you're going alone...
+Please be careful.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-今日は諦めますか？
-はい
-いいえ
+Do you want to give up for today?
+Yes
+No
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-さって、宿屋の人が言ってた北にある
-ティルソの森に行ってみようかしら。
+Now then, I think I'll head over to that
+Tilso Forest up north that the
+innkeeper mentioned about.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんを驚かせて
-あげるんだから。
+I going to give a big surpise
+for my brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-あ……お兄ちゃん。
+Ah... big bro.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こら、<Lilith>。
-ひとりでどこに行ってたんだよ。
+Oi, <Lilith>. Where have you
+been all by yourself?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-勝手にいなくなるから
-心配しただろう。
+We were worried when you left
+without telling us.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ごめんなさい。
-ちょっと外に出たくなって。
+I'm sorry.
+I just wanted to get out for a bit.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ほら、みんなの所に戻るぞ。
+Come on, let's get back with the others.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ねえ、お兄ちゃん。
+Hey, big bro?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-これあげる。
+I'm giving this to you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-これは……薬草？
+Is this... an herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、どうして？
+But, why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-外歩いてたら、
-偶然見つけたの。
+I stumbled upon it while
+I was out walking.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だったら<Lilith>が
-使えばいいじゃないか。
+Then, why don't you use it, <Lilith>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-んもう！
+Jeez!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃんは世界を救う
-戦いをしてるのよ。
+My big bro is out fighting
+to save the world.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-だからお兄ちゃんが使って！
+So just use it, alright!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かった。
-それなら貰っておくよ。
+All right.
+Then I'll be sure to take it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-いい？	ちゃんと使ってよ。
+Take it? Make sure to use it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-ちゃんと使ってくれなきゃ、
-起きてる時でも……
+If you don't use it properly,
+then even when you're awake, I'll...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ちょ、<Lilith>待って。
-使うよ、必ず使うからそれだけは！
+H-hold up <Lilith>.
+I'll use it! I definitely promise to use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-よろしい。
+Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ改めて。
-ありがとう、<Lilith>。
+See you later then.
+Thank you, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-どういたしまして。
+You're welcome.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-お兄ちゃん。
+Big bro.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -467,18 +465,18 @@ Be prepared for it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you have the Battle record Book?
+Do you have the Battle Record book?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Your skill is good enough,
-I will give you this.
+You seem reliable enough. 
+Here, take this with you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-This shows the [Definite Strike] 
-coordination that is effective 
-against monsters
+This shows the list of attacks needed
+to complete a [Definite Strike]  
+against each monster.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -504,7 +502,7 @@ I have nothing to give anymore.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I have nothing to say to you now.
+I have nothing more to say to you now.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1023,16 +1021,16 @@ Depot
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Oh, you're ......?
+Oh, you're ...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>What is it?
-(...... ignore ......)
+(... ignore ...)
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1212,7 +1210,7 @@ Huh?
 Young Woman
 [ENDBLOCK]
 Hey, you. Why are
-you naked ......?
+you naked ...?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]

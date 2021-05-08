@@ -16,7 +16,7 @@
 <TAG_005>All the fame, wealth, and
 glory...it was supposed to be mine...
 [ENDBLOCK]
-<TAG_005>Reverence is our only protection....
+<TAG_005>Reverence is our only protection...
 [ENDBLOCK]
 <TAG_005>My only desire, to be supreme...
 [ENDBLOCK]
@@ -57,8 +57,8 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x1C><x00><x80>Some treasure
-chests have special effects.
+Treasure chests have special effects
+within the <x18><x66><x1C><x00><x80>.
 
 [ENDBLOCK]
 notice
@@ -123,7 +123,7 @@ Arcana Ruins
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Fancy meeting you here at <TAG_052>.
+Fancy meeting you within the <TAG_052>.
 
 [ENDBLOCK]
 Cyglorg
@@ -134,25 +134,25 @@ you assistance on your journey.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course it will cost you, but
-you may also receive EX Points.
+Of course it may cost you EX Points, 
+or maybe I'll just give you a present.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Don't forget, you can also use
-these EX Points at the entrance.
+Either way, don't forget you can 
+spend your EX Points at the entrance.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-As soon as this transaction
-ends, I'm gone.
+Whether or not you take my offer, as 
+soon as this talk ends, I'm gone.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Let's get down to business.
+Now then, let's get down to business.
 
 [ENDBLOCK]
 エラータイプ
@@ -234,7 +234,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Exchange <x1A><x72><x40><x14><x80>	<x17><x72><x40><x24><x80> (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
+Exchange <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -249,7 +249,7 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Fabulous! I'll take <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>
+Fabulous! I'll take <x17><x72><x40><x24><x80> <x1A><x72><x40><x14><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -272,12 +272,11 @@ Hopefully we'll see eachother soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-I present to you: <x1A><x72><x40><x14><x80>.
+I present you with [<x1A><x72><x40><x14><x80>].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_034> <x1A><x72><x40><x14><x80>
-<center>Received.
+<TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -326,8 +325,7 @@ Alright, I'll take <TAG_077> EX Points.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_034> <x1A><x72><x40><x14><x80>
-<center>Received.
+<TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -375,8 +373,8 @@ about the chest on this floor.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-この階にある<TAG_054>色の宝箱</color>は、
-<TAG_055>
+On this floor, <TAG_054> colored chests</color>
+provide the following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -396,7 +394,7 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-If you exchange <x1A><x72><x40><x1C><x80>(x <TAG_075>),
+If you exchange <TAG_075> <x1A><x72><x40><x1C><x80>,
 I can replenish all your food.
 [ENDBLOCK]
 Cyglorg
@@ -405,7 +403,7 @@ How may I be of assistance?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Exchange <x1A><x72><x40><x1C><x80> (x	<TAG_075>)?	（Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
+Exchange <TAG_075> <x1A><x72><x40><x1C><x80>?  Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
 Please
 No, thank you
 
@@ -561,7 +559,7 @@ EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 ○○○階層クリア時のパーティーボーナス：<TAG_031>
 
 [ENDBLOCK]
-Party: Lilith <TAG_031>
+Party: <Lilith> <TAG_031>
 
 [ENDBLOCK]
 Party Selection
@@ -590,7 +588,7 @@ notice
 [ENDBLOCK]
 Party Selection
 [ENDBLOCK]
-<grey1>決定
+<grey1>Commit
 [ENDBLOCK]
 	
 
@@ -610,9 +608,9 @@ Yes
 No
 
 [ENDBLOCK]
-</color>決定
+</color>Commit
 [ENDBLOCK]
-<grey1>決定
+<grey1>Commit
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
 
@@ -626,10 +624,10 @@ Support Member Selection
 [ENDBLOCK]
 
 [ENDBLOCK]
-設定しない
+None Selected
 
 [ENDBLOCK]
-<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>パーティ選択に戻る
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
 設定なし
 [ENDBLOCK]
@@ -662,64 +660,64 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 更新人数：<x17><x6A><x02><x21><x8C><x80>、戦闘要員：<x17><x69><x49><x91><x80>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x98><x21><x8C><x80> Left）		<Stahn>
+<yellow>Selected (<x17><x69><x46><x98><x21><x8C><x80> Left) <Stahn>
 
 [ENDBLOCK]
-<grey1>Not Selected (<x17><x69><x46><x98><x80> Left）	<Stahn>
+<grey1>Not Selected (<x17><x69><x46><x98><x80> Left) <Stahn>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x99><x21><x8C><x80> Left）		<Rutee>
+<yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<grey1>Not Selected(<x17><x69><x46><x99><x80> Left）	<Rutee>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80>  Left)  <Rutee>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9A><x21><x8C><x80> Left）		<Philia>
+<yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9A><x80> Left）	<Philia>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80> Left)  <Philia>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9B><x21><x8C><x80> Left）		<Woodrow>
+<yellow>Selected (<x17><x69><x46><x9B><x21><x8C><x80> Left)  <Woodrow>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9B><x80> Left）	<Woodrow>
+<grey1>Not Selected (<x17><x69><x46><x9B><x80> Left)  <Woodrow>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9C><x21><x8C><x80> Left）		<Lion>
+<yellow>Selected (<x17><x69><x46><x9C><x21><x8C><x80> Left)  <Lion>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9C><x80> Left）	<Lion>
+<grey1>Not Selected (<x17><x69><x46><x9C><x80> Left)  <Lion>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9D><x21><x8C><x80> Left）		<Mary>
+<yellow>Selected (<x17><x69><x46><x9D><x21><x8C><x80> Left)  <Mary>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9D><x80> Left）	<Mary>
+<grey1>Not Selected (<x17><x69><x46><x9D><x80> Left)  <Mary>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9E><x21><x8C><x80> Left）		<Chelsea>
+<yellow>Selected (<x17><x69><x46><x9E><x21><x8C><x80> Left)  <Chelsea>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9E><x80> Left）	<Chelsea>
+<grey1>Not Selected (<x17><x69><x46><x9E><x80> Left)  <Chelsea>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><x9F><x21><x8C><x80> Left）		<Johnny>
+<yellow>Selected (<x17><x69><x46><x9F><x21><x8C><x80> Left)  <Johnny>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><x9F><x80> Left）	<Johnny>
+<grey1>Not Selected (<x17><x69><x46><x9F><x80> Left)  <Johnny>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><xA0><x21><x8C><x80> Left）		<Kongman>
+<yellow>Selected (<x17><x69><x46><xA0><x21><x8C><x80> Left)  <Kongman>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><xA0><x80> Left）		<Kongman>
+<grey1>Not Selected (<x17><x69><x46><xA0><x80> Left)  <Kongman>
 
 [ENDBLOCK]
-<yellow>Selected（<x17><x69><x46><xA1><x21><x8C><x80> Left）		<Lilith>
+<yellow>Selected (<x17><x69><x46><xA1><x21><x8C><x80> Left)  <Lilith>
 
 [ENDBLOCK]
-<grey1>Not Selected（<x17><x69><x46><xA1><x80> Left）	<Lilith>
+<grey1>Not Selected (<x17><x69><x46><xA1><x80> Left)  <Lilith>
 
 [ENDBLOCK]
 

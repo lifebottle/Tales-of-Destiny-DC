@@ -1,7 +1,8 @@
 {
 	"items":[
 	{
-		"BlockId":			1,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Character Name",
 		"TextStartBlock":	"",
 		"Sections":[
@@ -16,7 +17,8 @@
 		}]
 	},	
 	{
-		"BlockId":			2,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Skit Episode",
 		"Sections":[
 		{
@@ -31,7 +33,8 @@
 	},
 	
 	{
-		"BlockId":			2,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Movie Subtitle",
 		"TextStartBlock":	"",
 		"Sections":[
@@ -46,7 +49,8 @@
 		}]
 	},	
 	{
-		"BlockId":			3,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Support",
 		"TextStartBlock":	"19B370",
 		"Sections":[
@@ -62,7 +66,8 @@
 	},	
 	
 	{
-		"BlockId":			3,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Menu Button",
 		"Sections":[
 		{
@@ -80,7 +85,8 @@
 	
 	
 	{
-		"BlockId":			4,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Artes_Other",
 		"TextStartBlock":	"19D388",
 		
@@ -152,7 +158,8 @@
 	},
 	
 	{
-		"BlockId":			5,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Map Location",
 		"Sections":[
 		{
@@ -168,7 +175,8 @@
 	},
 	
 	{
-		"BlockId":			5,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"City Name",
 		"Sections":[
 		{
@@ -194,7 +202,8 @@
 	},
 	
 	{
-		"BlockId":			5,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Tutorial",
 		"Sections":[
 		{
@@ -210,7 +219,8 @@
 	},
 	
 	{
-		"BlockId":			5,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Item",
 		"Sections":[
 		{
@@ -287,7 +297,8 @@
 		}]
 	},
 	{
-		"BlockId":			6,
+		"File":				"abcde/SLPS_original/SLPS_258.42",
+		"PointerHeader":	"FF000",
 		"BlockDesc":		"Title",
 		"TextStartBlock":	"1BB628",
 		"Sections":[
@@ -328,6 +339,22 @@
 			"PointerStart":	"1946E8",
 			"PointerEnd":	"194B5C"
 		}]
+	},
+	{
+		"File":				"../../../PAK3/00016_0003.unknown.new",
+		"PointerHeader":	"3D4080",
+		"BlockDesc":		"Skit Name",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Skit Name",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"12800",
+			"TextEnd":		"1650E",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}
+		]
 	}
 	
 	]

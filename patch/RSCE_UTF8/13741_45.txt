@@ -672,14 +672,14 @@ Hey, where does <Lion> live?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-The mysterious <Lion>, a beautiful 
-young swordsman, is in fact the son
-of a certain corporation president!
+<Lion>'s so handsome and mysterious!
+Did you know that he's the son of the
+president who runs that big company?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-There are rumors about it, but it
-seems that the truth is uncertain.
+There's lots of rumors floating around,
+but I don't really know how many are true.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -692,14 +692,14 @@ Hey, where does <Lion> live?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-The mysterious <Lion>, a beautiful 
-young swordsman, is in fact the son
-of a certain corporation president!
+<Lion>'s so handsome and mysterious!
+Did you know that he's the son of the
+president who runs that big company?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-There are rumors about it, but it
-seems that the truth is uncertain.
+There's lots of rumors floating around,
+but I don't really know how many are true.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -730,8 +730,8 @@ I'll try to find out more.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-I'm from the city of Cresta.
-It's big here and I'm in awe.
+Wow, I'm just in awe... this city
+sure is huge compared to Cresta.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
@@ -753,8 +753,8 @@ I wish you victory.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Is there a way
-to have fun?
+So... How do you
+have fun around here?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1155,160 +1155,158 @@ notice
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-おい、俺はやきもち焼きだ。
-しかもこんがりだ。悪いか！
+Hey, I'm jealous. 
+And I'm angry. Sorry!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-お！	おまえらにも
-俺と同じ、やきもち焼きがいるな。
+Oh! You're just as jealous
+as I am, aren't you?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-俺が腹立てている事を、
-聞いてくれないか？
+Wanna hear why I'm upset?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>はい
-いいえ
+<TAG_007>Yes
+No
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-これは数日前の話だ。
+This was a few days ago.
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-七将軍のルウェイン様が、
-仕組んだらしいのだが……
+I heard the Seven General
+<Lewein>, setup a date...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-俺たちのマドンナ、
-七将軍の<Melina>ちゃんと！
+With our Madonna, General 
+Seven's <Melina>!
 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-よりにもよって、同じ七将軍の
-<Ascus>の野郎をデートさせたんだ。
+Of all the people, She dated a guy from
+the same Seven Generals, <Ascus>.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-裏切りもの～。
+A betrayal.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-ルウェイン様の言いつけで、
-<Ascus>とデートをする事になった
-<Melina>ちゃんだったが……
+At the behest of <Lewein>, <Melina> 
+setup a date with <Ascus>, but...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-いつまで待っても<Ascus>の
-野郎は……現れなかった。
+No matter how long she waited, 
+that low life never showed.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-なんと<Ascus>のアホは、
-何時間も遅刻して来たんだ。
+What a jerk, he showed
+up hours later.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Ascus>は言った。
-「悪い、忘れていた」。
+<Ascus> said, "I'm sorry, I forgot."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-あ、これは<Ascus>本人の声だと
-思って聞いてくれな。
+Oh, listen to this as if it's the 
+voice of <Ascus> himself.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Melina>ちゃんはこう返したんだ。
-「ふざけないでよ。何時間待たせるの！」。
+She replied, "Don't be silly. How many
+hours do you want me to wait?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Ascus>は「それならば、
-帰ればよかったのだ」。
+He was like, "then you
+should have left."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Melina>ちゃん、「こ、これは
-ルウェイン様の命令よ。勝手に
-帰れるわけないじゃない」。
+<Melina> said, "This is an request from
+<Lewein>. I couldn't just leave without
+permission."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-アホは続けた「俺はこういったものに
-興味がない。無論、おまえにもな。
-俺にはやるべき事がある」と。
+The idiot continued, "I'm not interested
+in this kind of thing." Of course you're 
+not. You've got things to do.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Melina>ちゃんは「どうして私が
-フラれるのよ！	<Ascus>のバカっ！」。
+<Melina>. Why are you rejecting her!
+<Ascus>, you idiot.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-「バカは私だ……どうして
-あんなやつの事……」。
+"I'm the idiot...
+why that guy..."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-とまあ、<Melina>ちゃんに、
-恥をかかせた<Ascus>は許せねぇ！
+Well, I'll never forgive <Ascus>
+for humiliating <Melina>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも今のを見る限りじゃ、
-<Melina>さんって<Ascus>さんの事を
-好きなように見えたけどな。
+But from what I just saw, <Melina>
+seems to be hung up on <Ascus>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ですよね。
+That's right.
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-いやー、まさしく青春ですね。
+Well, it's truly youthful.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-って、あれ？
-いつからそこに？
+I mean, what? How long 
+have you been there?
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-<Melina>が、口を
-聞いてくれないもので……
+<Melina> is not talking to me.
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-この前のデートがどうなったか、
-知っている人を、探していました。
+I was looking for someone who
+knew how my last date had gone.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-これが<Ascus>の正体なんです！
-ですから、今後は<Melina>ちゃんを……
+This is what <Ascus> is all about! 
+So from now on, I'm going to call 
+you <Melina>...
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-燃えてきました！
+I'm on the verge of 
+bursting into flames.
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-私が動けるうちに、
-ふたりをゴールインさせます！
+I'll get them to the finish
+line while I still can!
 [ENDBLOCK]
-ルウェイン
+<Lewein>
 [ENDBLOCK]
-こうなったら力ずくでも！
+I'm going to have to
+do this by force!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ただの天邪鬼にも見えますね……<x00>
+It looks like he's just an innocent...<x00>
 [ENDBLOCK]

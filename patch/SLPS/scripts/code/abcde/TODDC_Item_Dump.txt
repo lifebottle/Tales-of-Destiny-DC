@@ -1236,7 +1236,7 @@ Sell it for some Gald already![END]
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
 A piece of the meteor that sparked[LINE]
-the Aeth'er War......[LINE]
+the Aeth'er War...[LINE]
 Bet you could sell it...[END]
 
 
@@ -5485,9 +5485,10 @@ the body and relieves fatigue.[END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-Dagger with a ring-shapped[LINE]
-pommel. A string can be tied to[LINE]
-the ring and the dagger throw.[END]
+A Dagger with a ring-shapped pommel,[LINE]
+can be turned into a retrievable weapon[LINE]
+when attached with a string.[END]
+
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
@@ -6619,7 +6620,7 @@ the melted cheese solidified.[END]
 #WRITE(ptr,$19266C)
 Strap with a Half-baked Kebab.[LINE]
 Please, cook meat properly.[LINE]
-So that you won't hurt your stomach....[END]
+So that you won't hurt your stomach...[END]
 
 
 //Text $1B8518

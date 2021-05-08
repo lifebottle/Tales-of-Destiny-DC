@@ -29,7 +29,7 @@ that sword you've got.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sword..?
+Sword...?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -965,7 +965,7 @@ Um, where have we met?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Whaaaat, Can't be you....My bad,
+Whaaaat, Can't be you...My bad,
 I mistook you for someone else.
 [ENDBLOCK]
 Boy
@@ -982,7 +982,7 @@ Ahh!!!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-What are you doing here, Stahn!?
+What are you doing here, <Stahn>!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1026,7 +1026,7 @@ she told me that she liked me...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Oh, uh, Mr. Stahn!
+Oh, uh, Mr. <Stahn>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1776,7 +1776,7 @@ I'm not gonna ask.
 <Bacchus>
 [ENDBLOCK]
 But you should at least write a
-letter to your family. Lilith is
+letter to your family. <Lilith> is
 worried, you know?
 [ENDBLOCK]
 <Stahn>
@@ -1824,8 +1824,8 @@ It was yummy...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Enough, let's get going
-to <Ilene>'s estate now.
+Enough, let's get going to
+<Ilene>'s estate already.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
