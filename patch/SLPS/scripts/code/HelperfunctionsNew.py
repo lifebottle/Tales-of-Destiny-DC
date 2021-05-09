@@ -128,9 +128,9 @@ class Helper:
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
 #VAR(ptr, CUSTOMPOINTER)
-#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+#CREATEPTR(ptr, "LINEAR", $-{}, 32)
 
-""".format(os.path.join(self.basePath, "abcde", self.tblName))
+""".format(os.path.join(self.basePath, "abcde", self.tblName), self.PointerHeader)
     
     
         return headerTxt
@@ -256,6 +256,8 @@ class Helper:
         #Go grab the TextStart for the jump
         block = self.getJsonBlock(blockDesc)
         self.File = block['File']
+        self.PointerHeader = block['PointerHeader']
+        self.createAllBanks()
         
         sections = block['Sections']
         lastSection = max([ele['SectionId'] for ele in sections])
@@ -300,7 +302,7 @@ class Helper:
     def createAtlasScript_Block(self,blockDesc):
         
 
-        blockDesc, block = self.createBlock(blockDesc)
+        block = self.createBlockAll(blockDesc)
        
         header = self.getHeader()
         with open(os.path.join(self.basePath,"abcde", "TODDC_"+blockDesc+"_Dump.txt"),encoding="utf-8", mode="w") as finalScript:
@@ -313,7 +315,7 @@ class Helper:
         shutil.copyfile( os.path.join(self.basePath,self.File), os.path.join(self.basePath,"abcde",fileName))
         
         #Run Atlas in command line
-        blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == int(blockDesc)][0]
+        blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
         
         args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", fileName, "TODDC_"+blockDesc+"_Dump.txt"]
         listFile = subprocess.run(
@@ -328,25 +330,29 @@ class Helper:
     
     def createAllBanks(self):
         
-        #Max of the current memoryBanks
-        
-        
+       
+
         #For each block, pick the first and last Offset
         listBlock = [ [ ele['BlockDesc'], ele['Sections'][0]['TextStart'], ele['Sections'][-1]['TextEnd'], ele['File']] for ele in self.dataItems if ele['File'] == self.File]
         dfBase = pd.DataFrame(listBlock, columns=['BlockDesc','TextStart','TextEnd', 'File'])
-        
+        print(dfBase)
         
         #Add the 3 original memory banks
         self.dfBanks = dfBase.append(self.dfBanks)
+        self.dfBanks = self.dfBanks[ self.dfBanks['File'] == self.File]
         self.dfBanks = self.dfBanks.reset_index(drop=True)
         self.dfBanks['Id'] = self.dfBanks.index + 1
+        print( self.dfBanks)
     
     
-    
-    def createBlockAll(self):
+    def createBlockAll(self, blockDesc):
             
-        #Consider all section as if they are memory bank
-        self.File = "abcde/SLPS_original/SLPS_258.42"
+        if blockDesc == "All":
+            self.File = "abcde/SLPS_original/SLPS_258.42"
+        else:
+            block = self.getJsonBlock(blockDesc)
+            self.File = block['File']
+            self.PointerHeader = block['PointerHeader']
         self.createAllBanks()
         
         #tbl dataframe to use
@@ -358,7 +364,7 @@ class Helper:
         
         banksNotEmpty = self.dfBanks[ self.dfBanks['BlockDesc'] != ""]
         lastbank = banksNotEmpty[banksNotEmpty['Id'] == banksNotEmpty['Id'].max()]
-        print(lastbank)
+        
         textStart = bank['TextStart'][0]
         finalEnd = lastbank['TextEnd'].tolist()[0]
         self.currentStart  = int(textStart, 16)
@@ -371,6 +377,7 @@ class Helper:
         
         #Loop over all block
         dfBlock = self.dfBanks[ self.dfBanks['BlockDesc'] != ""]
+        #print(self.dfBanks)
         for index, row in dfBlock.iterrows():
             
             
