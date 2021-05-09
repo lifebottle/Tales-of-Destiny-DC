@@ -5102,7 +5102,7 @@ Rescue[END]
 
 //Text $1A2280
 #WRITE(ptr,$185324)
-Kill foe to heal HP[END]
+Kill foes to heal HP[END]
 
 
 //Text $1A2278
