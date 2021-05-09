@@ -2391,7 +2391,7 @@ Iron Fist King[END]
 
 //POINTER #261 @ $194ABC - STRING #261 @ $1BC360
 #WRITE(ptr,$194ABC)
-These feelings in my fists[LINE]
+These feelings in my fists.[LINE]
 Sometimes to soothe a child.[LINE]
 Sometimes to beat the bad guys.[END]
 
