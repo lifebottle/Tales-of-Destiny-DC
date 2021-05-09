@@ -1939,7 +1939,7 @@ Attacking Helraios[END]
 
 //Text $14208
 #WRITE(ptr,$5A78)
-Is ilene at the Center?[END]
+Is <Ilene> at the Center?[END]
 
 
 //Text $141F0
