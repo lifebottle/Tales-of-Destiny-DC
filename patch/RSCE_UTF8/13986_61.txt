@@ -189,7 +189,8 @@ I need help with.
 <Rutee>
 [ENDBLOCK]
 Oh! A damsel in distress?
-Come on, come on, let's hear it!
+Come on, come on, let's 
+hear it!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -197,8 +198,8 @@ Ok, I'll tell you, then!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-You see, I have
-a younger brother...
+You see, I have a
+younger brother.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -206,13 +207,13 @@ Really? Well, OK. Go on.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-The other day, I overheard
-mom and dad talking about him..
+The other day, I overheard mom
+and dad talking about him..
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-..about how he might
-not be my real brother..
+About how he might not
+be my real brother.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1190,9 +1191,8 @@ Oberon Co.: West Continent Branch
 [ENDBLOCK]
 Women
 [ENDBLOCK]
-This is Neuestadt, the 
-central city of Fitzgald.
-Neuestadt.
+This is the central city 
+of Fitzgald. Neuestadt.
 [ENDBLOCK]
 Women
 [ENDBLOCK]
@@ -1529,9 +1529,9 @@ because of situations like this.
 [ENDBLOCK]
 Oberon Employee
 [ENDBLOCK]
-<ITEM_065>、<ITEM_066>、
-<ITEM_067>、<ITEM_068>、
-<ITEM_069> Do you have the materials?
+You will need the following materials:
+<ITEM_065>, <ITEM_066>, <ITEM_067>,
+<ITEM_068>, <ITEM_069>. Proceed?
 [ENDBLOCK]
 When you have everything ready, 
 please bring the materials and 
@@ -1557,8 +1557,7 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><ITEM_Elixir>を
-<TAG_076>個手にいれました。
+<TAG_007>We now have <TAG_076><ITEM_Elixir>.
 [ENDBLOCK]
 Thank you, come again.
 
