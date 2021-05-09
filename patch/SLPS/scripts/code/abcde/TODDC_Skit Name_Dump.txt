@@ -1894,7 +1894,7 @@ Natural Enemies?[END]
 
 //Text $14308
 #WRITE(ptr,$5A54)
-What are ilene's True Intentions?[END]
+What are <Ilene>'s True Intentions?[END]
 
 
 //Text $142F8
