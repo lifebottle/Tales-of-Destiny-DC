@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -3750,7 +3750,7 @@ wives under the cover of flashing lights.[END]
 
 //Text $19E490
 #WRITE(ptr,$184068)
-[Sign_4]Rock Kick[END]
+[Sign_4]Kick Rock[END]
 
 
 //Text $19E468
@@ -5919,7 +5919,7 @@ Undersea City(Second Half)[END]
 
 //Text $1A4CB8
 #WRITE(ptr,$186CC0)
-Calvalese F1(around Kalovia)[END]
+Calvalese F1(around Calovia)[END]
 
 
 //Text $1A4C90
@@ -7442,7 +7442,7 @@ Helraios・Battle against Eerie[END]
 
 //Text $1A2C20
 #WRITE(ptr,$1866E8)
-Helraios・Battle against <Ilene>[END]
+Helraios・Battle against Ilene[END]
 
 
 //Text $1A2C08
@@ -11373,7 +11373,7 @@ Sell it for some Gald already![END]
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
 A piece of the meteor that sparked[LINE]
-the Aeth'er War...[LINE]
+the Aeth'er War......[LINE]
 Bet you could sell it...[END]
 
 
@@ -12787,9 +12787,9 @@ is specialized for battle.[END]
 
 //Text $1B25B0
 #WRITE(ptr,$18E168)
-この斧を初めて見たキコリが、[LINE]
-「グレートだ！」と叫んだことから[LINE]
-この名がついた。切れ味も抜群。[END]
+A famous wood cutter once praised this[LINE]
+axe with the words: "Wow! It's great!",[LINE]
+which was how it received its name.[END]
 
 
 //Text $1B2598
@@ -16758,7 +16758,7 @@ the melted cheese solidified.[END]
 #WRITE(ptr,$19266C)
 Strap with a Half-baked Kebab.[LINE]
 Please, cook meat properly.[LINE]
-So that you won't hurt your stomach...[END]
+So that you won't hurt your stomach....[END]
 
 
 //Text $1B8518
@@ -18980,7 +18980,7 @@ No special effects[END]
 
 //Text $1BBA80
 #WRITE(ptr,$194664)
-Resuscitate them[END]
+Revives a fallen ally once in battle[END]
 
 
 //Text $1BBA70
@@ -19062,6 +19062,7 @@ END]
 [END]
 
 
+#JMP($1BB0A0)
 //Text $1BB968
 #WRITE(ptr,$1946A8)
 BG＋25[END]
@@ -19082,7 +19083,6 @@ Min CC＋1[END]
 Max CC＋1[END]
 
 
-#JMP($1BB0A0)
 //Text $1BBBF0
 #WRITE(ptr,$1946B8)
 Every [TAG_015] battles[END]
@@ -20071,7 +20071,7 @@ Hot Mama[END]
 #WRITE(ptr,$1949AC)
 With that extraordinary body,[LINE]
 she exudes flexibility and femininity.[LINE]
-... Damn you, Dalis.[END]
+..... Damn you, Dalis.[END]
 
 //POINTER #194 @ $1949B0 - STRING #194 @ $1BCF08
 #WRITE(ptr,$1949B0)
@@ -20412,7 +20412,7 @@ City Hero[END]
 //POINTER #259 @ $194AB4 - STRING #259 @ $1BC3C0
 #WRITE(ptr,$194AB4)
 Whenever there is a cry for help.[LINE]
-He'll show up.[LINE]
+He'll show up[LINE]
 The hero of Neustadt.[END]
 
 //POINTER #260 @ $194AB8 - STRING #260 @ $1BC3B8
@@ -20421,7 +20421,7 @@ Iron Fist King[END]
 
 //POINTER #261 @ $194ABC - STRING #261 @ $1BC360
 #WRITE(ptr,$194ABC)
-These feelings in my fists.[LINE]
+These feelings in my fists[LINE]
 Sometimes to soothe a child.[LINE]
 Sometimes to beat the bad guys.[END]
 

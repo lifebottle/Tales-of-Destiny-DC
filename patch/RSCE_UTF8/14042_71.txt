@@ -143,12 +143,12 @@ Your completion level is...
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>	<x18><x65><x57><xC8><x00><x80>：<x18><x65><x57><xE0><x00><x80><x17><x71><x47><xB0><x80>%
+<x0E><x01><x00><x00><x00><x18><x65><x57><xC8><x00><x80>：<x18><x65><x57><xE0><x00><x80><x17><x71><x47><xB0><x80>%
 <x18><x65><x57><xCC><x00><x80>：<x18><x65><x57><xE4><x00><x80><x17><x71><x47><xB4><x80>%
-	<x18><x65><x57><xD0><x00><x80>：<x18><x65><x57><xE8><x00><x80><x17><x71><x47><xB8><x80>%
+<x18><x65><x57><xD0><x00><x80>：<x18><x65><x57><xE8><x00><x80><x17><x71><x47><xB8><x80>%
 <x18><x65><x57><xD4><x00><x80>：<x18><x65><x57><xEC><x00><x80><x17><x71><x47><xBC><x80>%
-	<x18><x65><x57><xD8><x00><x80>：<x18><x65><x57><xF0><x00><x80><x17><x71><x47><xC0><x80>%
-		<x18><x65><x57><xDC><x00><x80>：<x18><x65><x57><xF4><x00><x80><x17><x71><x47><xC4><x80>%
+<x18><x65><x57><xD8><x00><x80>：<x18><x65><x57><xF0><x00><x80><x17><x71><x47><xC0><x80>%
+<x18><x65><x57><xDC><x00><x80>：<x18><x65><x57><xF4><x00><x80><x17><x71><x47><xC4><x80>%
 [ENDBLOCK]
 Monster Researcher
 [ENDBLOCK]
@@ -179,11 +179,11 @@ Other Regions
 comp <TAG_031> -> <x17><x45><x57><xB0><x03><x72><x00><x8B><xE8><x80><x80>
 
 [ENDBLOCK]
- 
+
 [ENDBLOCK]
-	
+
 [ENDBLOCK]
- 
+
 [ENDBLOCK]
 
 [ENDBLOCK]

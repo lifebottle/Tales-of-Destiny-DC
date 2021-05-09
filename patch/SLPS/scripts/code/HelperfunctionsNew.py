@@ -349,6 +349,7 @@ class Helper:
             
         if blockDesc == "All":
             self.File = "abcde/SLPS_original/SLPS_258.42"
+            self.PointerHeader = "FF000"
         else:
             block = self.getJsonBlock(blockDesc)
             self.File = block['File']
@@ -414,7 +415,7 @@ class Helper:
     def createAtlasScript_All(self):
         
 
-        allText = self.createBlockAll()
+        allText = self.createBlockAll("All")
        
         header = self.getHeader()
         with open(os.path.join(self.basePath,"abcde", "TODDC_All_Dump.txt"),encoding="utf-8", mode="w") as finalScript:
