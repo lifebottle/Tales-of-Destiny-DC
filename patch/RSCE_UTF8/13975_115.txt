@@ -94,7 +94,7 @@ Cold, brimming with hatred...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Who was that, just now?
+Who was that just now?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -102,8 +102,7 @@ I don't know?
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ボムの調合に関する
-本がある。
+<TAG_005><center>There is a book on mixing bombs.
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -114,40 +113,44 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>ボムの調合とは、そもそも
-物質間に起きる科学反応である。
+<TAG_005><center>Bomb blending is a chemical chain
+reaction between substances.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>その実験が最初に確認されたのは
-いまよりも数千年も前の時代である。
+<TAG_005><center>This experiment was first confirmed
+thousands of years ago.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>当時はおもに神官や科学者……
+<TAG_005><center>At the time,
+it was mainly
+priests and scientists...
 [ENDBLOCK]
-難しくて読めないよ。
+It's too difficult to read.
 [ENDBLOCK]
-なによこれ。さっぱり分からないわ。
+What is this? I have no idea.
 [ENDBLOCK]
-もう少しで読めそうですけど……
+I almost have the knowledge
+to read, but...
 [ENDBLOCK]
-私にこのような専門書は
-難しすぎるな。
+These technical books are 
+too difficult for me.
 [ENDBLOCK]
-……
+.....
 [ENDBLOCK]
-本当にこれは文字なのか？
+Are they sure these are letters?
 [ENDBLOCK]
-え～～ん、全然わかりません。
+Hmmm... I have no idea.
 [ENDBLOCK]
-俺にもこいつは難しいぜ。
+I'm having a difficult time
+with this one, too.
 [ENDBLOCK]
-こんなの読めても仕方ねえだろ。
+It's no wonder I can't read this stuff.
 [ENDBLOCK]
-ぜーんぜん、興味でないわ。
+I'm not interested at all.
 [ENDBLOCK]
 デフォルト
 [ENDBLOCK]
@@ -155,7 +158,7 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a children's book titled
+<TAG_005><center>There's a children's book titled
 "The Kind Angel and the Red Demon."
 [ENDBLOCK]
 select
@@ -166,43 +169,43 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There was once a kind
+<TAG_005><center>There was once a kind
 angel who only wanted
 to make others happy.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>But there was also a
+<TAG_005><center>But there was also a
 selfish, hideous red demon 
 who wished to take over
 the land of the angels.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The red demon spoke
+<TAG_005><center>The red demon spoke
 to the angel:
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>"Your home will be mine."
+<TAG_005><center>"Your home will be mine."
 The red demon then killed
 all of the other angels
 one after the other.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a bestselling series
+<TAG_005><center>There's a bestselling series
 of books about Calvalese titled
 "The Lineage of Kings."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Materials for missionary
+<TAG_005><center>Materials for missionary
 work are lined up.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005><center>There's a book titled
 World Famous Cities
 [Junkland, City of Garbage]
 [ENDBLOCK]
@@ -214,20 +217,20 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>West of Calvalese is located the
+<TAG_005><center>West of Calvalese is located the
 poorest city in the world, Junkland.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>All year round, a nose-piercing stench
+<TAG_005><center>All year round, a nose-piercing stench
 fills the air of this city. The majority
 of it's population live among the trash.
 Their main source of income is...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's part of the novel
+<TAG_005><center>There's part of the novel
 "Calendar of the Stars Pt.2"
 [ENDBLOCK]
 select
@@ -238,42 +241,42 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>...If my sister were still here,
+<TAG_005><center>If my sister were still here,
 I wonder if she'd be like you.
 I let those words slip from my mouth.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>She turned away,
+<TAG_005><center>She turned away,
 her face flushed as tears welled.
 I placed my palm on her cheek.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Wiping her tears with
+<TAG_005><center>Wiping her tears with
 my thumb, I pressed my lips...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>      To be continued.
+<TAG_005><center>      To be continued.
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The "Calendar of the Stars"
+<TAG_005><center>The "Calendar of the Stars"
 series will be on indefinite hiatus
 following this issue.
 - Editing Department
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a paper on
+<TAG_005><center>There's a paper on
 Calvalese economics published
 by the <Baruk> Foundation.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a monthly publication called
+<TAG_005><center>There's a monthly publication called
 "Four Secrets of the World."
 [ENDBLOCK]
 select
@@ -284,18 +287,18 @@ Let's not
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The contents are mostly
+<TAG_005><center>The contents are mostly
 bizarre experiences
 submitted by readers.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The intro to the publication
+<TAG_005><center>The intro to the publication
 was written by a scholar named Frantz.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There are books aimed
+<TAG_005><center>There are books aimed
 at foreigners titled
 "Life in the Desert."
 [ENDBLOCK]
