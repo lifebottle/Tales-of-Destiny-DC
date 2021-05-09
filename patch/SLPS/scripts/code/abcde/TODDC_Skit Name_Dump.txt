@@ -810,12 +810,12 @@ Don't Wander Too Far Off[END]
 
 //Text $156D8
 #WRITE(ptr,$56E4)
-[Ilene]'s Manor Is in Neustadt[END]
+<Ilene>'s Manor Is in Neustadt[END]
 
 
 //Text $156C0
 #WRITE(ptr,$56E8)
-Let's Look for [ilene]'s Manor[END]
+Let's Look for <Ilene>'s Manor[END]
 
 
 //Text $156A0
@@ -845,7 +845,7 @@ Monsters in Town?![END]
 
 //Text $15620
 #WRITE(ptr,$5700)
-Follow [ilene] to the Arena[END]
+Follow <Ilene> to the Arena[END]
 
 
 //Text $15608
