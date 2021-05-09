@@ -2,7 +2,7 @@
 Tales of Destiny - Director's Cut (Patch)
 
 # Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
-More details to come!
+https://calendar.google.com/event?action=TEMPLATE&tmeid=MzEydG1uMmdqcWtvc2xzNG0yaDZibW9jcG4gcGV0ZXJAZGF0YWNydW5jaC5jYQ&tmsrc=peter%40datacrunch.ca
 
 # Current Progress (First Draft)
 Scenario Files Translated: 97.85%
