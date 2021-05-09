@@ -2382,7 +2382,7 @@ City Hero[END]
 //POINTER #259 @ $194AB4 - STRING #259 @ $1BC3C0
 #WRITE(ptr,$194AB4)
 Whenever there is a cry for help.[LINE]
-He'll show up[LINE]
+He'll show up.[LINE]
 The hero of Neustadt.[END]
 
 //POINTER #260 @ $194AB8 - STRING #260 @ $1BC3B8
