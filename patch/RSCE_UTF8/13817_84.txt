@@ -69,12 +69,12 @@ a human body is nothing short of arrogance.
 <Ayles>
 [ENDBLOCK]
 The Eye of Atamoni should've
-never fell into the hands of men.
+never fallen into the hands of men.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-If it was possible I wish it would
-of remain with the Goddess.
+If it was possible I wish it could
+remain with the Goddess.
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 

@@ -5,11 +5,11 @@ Tales of Destiny - Director's Cut (Patch)
 https://calendar.google.com/event?action=TEMPLATE&tmeid=MzEydG1uMmdqcWtvc2xzNG0yaDZibW9jcG4gcGV0ZXJAZGF0YWNydW5jaC5jYQ&tmsrc=peter%40datacrunch.ca
 
 # Current Progress (First Draft)
-Scenario Files Translated: 97.85%
+Scenario Files Translated: 99.82%
 
-Menus: 95%
+Menus: 96%
 
-Skits: 626/711
+Skits: 700/711
 
 Discord: 
 https://discord.gg/NUvvgUtdXW
