@@ -778,20 +778,21 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-This path reacts to weight,
-causing is to plummet.
+This platform reacts to additional
+weight, causing is to lower.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-台の上に立ち止まると、
-重さに反応して台が下がります。
+When you stop on a platfrom,
+it will begin to lower in response
+to the added weight.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-片方の台を下げる事で、
-もう片方の台が上がります。
+Lowering one platform will cause
+another platform to rise.
 
 [ENDBLOCK]
 

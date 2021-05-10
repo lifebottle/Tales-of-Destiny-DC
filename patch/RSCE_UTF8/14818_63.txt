@@ -778,27 +778,27 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-この階には、スイッチを切り替える事で
-上下に移動させる事のできる「赤の台」と
-「青の台」があります。
+On this floor, red and blue platforms
+can be moved by flipping a switch.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ここにある「赤の台」と、
-もうひとつの「青の台」は
-常に連動して動きます。
+These colored platforms move in
+tandem when a switch is flipped.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-スイッチを赤に変えると「赤の台」が上がり、
-青に変えると「青の台」が上がります。
+If the switch moves the red platform
+up, that same switch can move the
+blue platform up as well.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-連動する台を上手に利用して、
-守護者が待つ場所を目指しましょう。
+Making good use of these interlocking
+platforms will create the necessary
+path to this floor's gaurdian.
 
 [ENDBLOCK]
 

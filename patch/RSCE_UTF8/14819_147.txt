@@ -778,14 +778,16 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-これは階層を移動するための装置です。
-自由に上下する事ができます。
+This device is for moving 
+through the floor. It can be
+moved up and down freely.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-上の階層と下の階層の繋がりを
-よく覚えながら進んで行きましょう。
+You should make note of the
+connections between the upper
+and lower levels as you proceed.
 
 [ENDBLOCK]
 ●●●マップパターン：<TAG_035>, ボス：<TAG_033>, ワープ：<TAG_034>
