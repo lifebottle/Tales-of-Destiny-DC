@@ -1,5 +1,6 @@
 # Tales of Destiny DC
 Tales of Destiny - Director's Cut (Patch)
+![image](https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png)
 
 # Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
 https://calendar.google.com/event?action=TEMPLATE&tmeid=MzEydG1uMmdqcWtvc2xzNG0yaDZibW9jcG4gcGV0ZXJAZGF0YWNydW5jaC5jYQ&tmsrc=peter%40datacrunch.ca
