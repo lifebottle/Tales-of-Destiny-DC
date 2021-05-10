@@ -321,7 +321,7 @@ Harmentz is North of Janos[END]
 
 //Text $15FF0
 #WRITE(ptr,$555C)
-Harmentz is North West of Janos[END]
+Harmentz is Northwest of Janos[END]
 
 
 //Text $15FD8
@@ -810,12 +810,12 @@ Don't Wander Too Far Off[END]
 
 //Text $156D8
 #WRITE(ptr,$56E4)
-[Ilene]'s Manor Is in Neustadt[END]
+<Ilene>'s Manor Is in Neustadt[END]
 
 
 //Text $156C0
 #WRITE(ptr,$56E8)
-Let's Look for [ilene]'s Manor[END]
+Let's Look for <Ilene>'s Manor[END]
 
 
 //Text $156A0
@@ -845,7 +845,7 @@ Monsters in Town?![END]
 
 //Text $15620
 #WRITE(ptr,$5700)
-Follow [ilene] to the Arena[END]
+Follow <Ilene> to the Arena[END]
 
 
 //Text $15608
@@ -1894,7 +1894,7 @@ Natural Enemies?[END]
 
 //Text $14308
 #WRITE(ptr,$5A54)
-What are ilene's True Intentions?[END]
+What are <Ilene>'s True Intentions?[END]
 
 
 //Text $142F8
@@ -1939,7 +1939,7 @@ Attacking Helraios[END]
 
 //Text $14208
 #WRITE(ptr,$5A78)
-Is ilene at the Center?[END]
+Is <Ilene> at the Center?[END]
 
 
 //Text $141F0

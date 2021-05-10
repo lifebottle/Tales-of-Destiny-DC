@@ -473,7 +473,7 @@ Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x08><x96><x74><x00><x80>
+<TAG_007>EX Points	<x17><x08><x96><x74><x00><x80>
 <x18><x66><x50><x24><x00><x80>
 <x18><x66><x50><x28><x00><x80>
 <x18><x66><x50><x2C><x00><x80>
@@ -541,10 +541,10 @@ Arcana Ruins
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
-EXポイント-><TAG_032>, 加算-><TAG_031>
+EX Points-><TAG_032>, 加算-><TAG_031>
 
 [ENDBLOCK]
-EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+EX Points補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 
 [ENDBLOCK]
 ○○○階層クリア時のパーティーボーナス：<TAG_032>
@@ -629,7 +629,7 @@ None Selected
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
-設定なし
+no support member
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -778,38 +778,38 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-炎を灯す事で守護者の場所へ
-行く事ができます。
+Light the flames to illuminate
+the path to the gaudian.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-どこかにある、炎の並んでいる燭台を
-見つけましょう。
+Somewhere on this floor you
+will find a row of candelabra.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このリフトではキャラクターを
-リフトの動きにあわせて
-操作する必要があります。
+You will need to match your
+movement with that of the lift.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-リフトよりも外に出ると
-落下してダメージを受けます。
+If you journey past the edge of the
+lift, you will fall and take damage.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-このリフトの反対の足場では、
-スイッチでリフトを呼び寄せる事ができます。
+Across from this lift, a switch
+is present in some scaffolding.
+It can be used to summon the lift.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-うまくこれらを利用して
-攻略を進めて行きましょう。
+Make good use of them to
+make it past this floor.
 
 [ENDBLOCK]
 最大数：<x09><x12><x00><x00><x00>, 作成分：<x09><x0C><x00><x00><x00>
