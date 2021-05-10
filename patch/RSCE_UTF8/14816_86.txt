@@ -541,10 +541,10 @@ Arcana Ruins
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
-EXポイント-><TAG_032>, 加算-><TAG_031>
+EX Points-><TAG_032>, 加算-><TAG_031>
 
 [ENDBLOCK]
-EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+EX Points補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 
 [ENDBLOCK]
 ○○○階層クリア時のパーティーボーナス：<TAG_032>
@@ -629,7 +629,7 @@ None Selected
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
-設定なし
+no support member
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -778,77 +778,81 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-この場所からジャンプすると、
-リフトに飛び移る事ができます。
+You can leap from this spot
+onto the lift before you.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ここではリフトが隣接していないと、
-飛び移る事ができません。
+You cannot jump over to a
+lift unless it's adjacent to you.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-リフトは回転に合わせて動かないと
-落とされてしまいます。
+The lifts must move in unison
+or else they will fall.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-また、リフトの端に行き過ぎると
-回転の力でリフトの外に弾かれます。
+Also, if you go too far and touch
+the edge of a lift, the force of the
+movement will expel you off it.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-弾かれる事で落下してしまいますが、
-その先に足場があれば飛び移れます。
+If there is a foothold ahead of you
+you can leap to it.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-リフトを使ってうまく階層を移動しましょう。
+Use your wits and the lifts
+to expertly move about the floor.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-この場所からタイミングよくジャンプすると、
-リフトに飛び移る事ができます。
+A well-time jump from this spot
+will allow you to leap onto a lift.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+While you can always jump, if there
+is no lift, you will plummet into
+the nothing below.
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+Falling in this manner will damage
+you, so you must be careful.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-常にジャンプできますが、
-リフトが無い状態ですと、
-そのまま落下してしまいます。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-落下するとダメージを受けるので、
-気を付けて行動して下さい。
+The lifts must move in unison
+or else they will fall.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-リフトも回転に合わせて動かないと
-落とされてしまいます。
+Also, if you go too far and touch
+the edge of a lift, the force of the
+movement will expel you off it.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-また、リフトの端に行き過ぎると
-回転の力でリフトの外に弾かれます。
+Being expelled has its advantages.
+You can land on a foot hold by
+using the force of being expelled.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-弾かれる事で落下してしまいますが、
-弾かれる事を逆手にこの足場に着地もできます。
-
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-リフトを使ってうまく階層を移動しましょう。
+Use your wits and the lifts
+to expertly move about the floor.
 
 [ENDBLOCK]
 Ｘにずらす方向：<x1D><x76><x40><x10><x80>
