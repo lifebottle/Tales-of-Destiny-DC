@@ -303,7 +303,8 @@ responsibility, my duty.
 <Philia>
 [ENDBLOCK]
 I will fight together with you.
-Grant me your power. ...<Clemente>!
+Grant me your power. 
+...<Clemente>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -334,7 +335,7 @@ recognize <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-...Yes! <Lion>, thank you
+...Right! <Lion>, thank you
 so much.
 [ENDBLOCK]
 <Clemente>
@@ -406,10 +407,9 @@ you can now use 「<turquoise>Support Talent</color>」.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You can change who is in your
-「Active Battle Party」 by pressing <Triangle_ani>
-on the main menu when hovering over
-a character.
+<TAG_007>Change your <turquoise>Active Battle Party</color>
+by pressing <Triangle_ani> on the main menu
+when hovering over a character.
 
 [ENDBLOCK]
 notice
