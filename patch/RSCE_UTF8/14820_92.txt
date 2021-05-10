@@ -473,7 +473,7 @@ Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x08><x96><x74><x00><x80>
+<TAG_007>EX Points	<x17><x08><x96><x74><x00><x80>
 <x18><x66><x50><x24><x00><x80>
 <x18><x66><x50><x28><x00><x80>
 <x18><x66><x50><x2C><x00><x80>
@@ -541,10 +541,10 @@ Arcana Ruins
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
-EXポイント-><TAG_032>, 加算-><TAG_031>
+EX Points-><TAG_032>, 加算-><TAG_031>
 
 [ENDBLOCK]
-EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+EX Points補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 
 [ENDBLOCK]
 ○○○階層クリア時のパーティーボーナス：<TAG_032>
@@ -629,7 +629,7 @@ None Selected
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
-設定なし
+no support member
 [ENDBLOCK]
 select
 [ENDBLOCK]
