@@ -3041,7 +3041,7 @@ Revives one KO'd ally and restores[LINE]
 //Text $19D600
 #WRITE(ptr,$184690)
 Drops a toy hammer that may[LINE]
-stuns. Is it a spell?[END]
+stun. Is it a spell?[END]
 
 
 //Text $19D5E8
@@ -6187,7 +6187,7 @@ Helraios・Battle against Eerie[END]
 
 //Text $1A2C20
 #WRITE(ptr,$1866E8)
-Helraios・Battle against Ilene[END]
+Helraios・Battle against <Ilene>[END]
 
 
 //Text $1A2C08
