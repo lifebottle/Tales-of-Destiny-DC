@@ -779,12 +779,12 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 notice
 [ENDBLOCK]
 This platform reacts to additional
-weight, causing is to lower.
+weight, causing it to lower.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-When you stop on a platfrom,
+When you stop on a platform,
 it will begin to lower in response
 to the added weight.
 
