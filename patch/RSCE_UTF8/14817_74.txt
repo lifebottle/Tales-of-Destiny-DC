@@ -82,17 +82,17 @@ Open one to discover what it is.
 Treasure Chest：HP Recovery
 
 [ENDBLOCK]
-Chests of this color
+<center>Chests of this color
 seem to restore health.
 [ENDBLOCK]
 Treasure Chest: HP Reduction
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to drain your strength.
 [ENDBLOCK]
-Chests of this color seem to
-increase EX Points. 
+<center>Chests of this color seem to
+<center>increase EX Points. 
 [ENDBLOCK]
 Treasure Chest: EX Points Increase
 Amount: <TAG_032>	Current: <TAG_034>
@@ -102,21 +102,21 @@ Treasure Chest: EX Points Decrease
 Amount: <TAG_032>	Current: <TAG_034>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to reduce current EX Points.
 [ENDBLOCK]
 Treasure Chest: Food Increase
 Current: <TAG_032>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to replenish food.
 [ENDBLOCK]
 Treasure Chest: Food Loss
 Current: <TAG_032>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to destroy some of your food.
 [ENDBLOCK]
 Arcana Ruins
@@ -204,11 +204,11 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★HP Recovery Complete.
 
@@ -224,7 +224,7 @@ I want your <x17><x72><x40><x20><x80>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-<TAG_007>If you give me <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>, 
+<TAG_007>If you give me <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>], 
 I will increase your EX Points.
 
 [ENDBLOCK]
@@ -245,7 +245,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -262,7 +262,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★Item→EP End
 
@@ -296,8 +296,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-You can spend <TAG_077> EX Points to purchase 
-<x1A><x72><x40><x14><x80><TAG_034>.
+You can spend <TAG_077> EX Points
+to purchase <TAG_034> [<x1A><x72><x40><x14><x80>].
 
 [ENDBLOCK]
 Cyglorg
@@ -317,7 +317,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -334,7 +334,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★ＥＰ→アイテム終了
 
@@ -373,8 +373,8 @@ about the chest on this floor.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-On this floor, <TAG_054> colored chests</color>
-provide the following effect: <TAG_055>
+On this floor, <TAG_054> colored chests</color> provide the
+following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -414,7 +414,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -432,7 +432,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★アイテム→フードサック終了
 
@@ -779,7 +779,7 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 notice
 [ENDBLOCK]
 Light the flames to illuminate
-the path to the gaudian.
+the path to the guardian.
 
 [ENDBLOCK]
 notice
