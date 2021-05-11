@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -4295,7 +4295,7 @@ Revives one KO'd ally and restores[LINE]
 //Text $19D600
 #WRITE(ptr,$184690)
 Drops a toy hammer that may[LINE]
-stun. Is it a spell?[END]
+stuns. Is it a spell?[END]
 
 
 //Text $19D5E8
@@ -5102,7 +5102,7 @@ Rescue[END]
 
 //Text $1A2280
 #WRITE(ptr,$185324)
-Kill foe to heal HP[END]
+Kill foes to heal HP[END]
 
 
 //Text $1A2278
@@ -8985,9 +8985,9 @@ a dangerous medicine.[END]
 
 //Text $1AA940
 #WRITE(ptr,$18BD78)
-This beautiful, although dangerous[LINE]
-flower appears to grow wildly on[LINE]
-the vicinity of Josaia[END]
+It seems there's a beautiful but[LINE]
+dangerous flower that grows in[LINE]
+the vicinity of Josaia.[END]
 
 //Text $1AA930
 #WRITE(ptr,$18BD8C)
@@ -9002,9 +9002,9 @@ are warned of by their parents.[LINE]
 
 //Text $1AA870
 #WRITE(ptr,$18BD94)
-Those on pilgramage to the Straylise[LINE]
-Temple often hear children talk about[LINE]
-this curious and much hated bird.[END]
+There's talk of an interesting creature[LINE]
+from the children in the village on the[LINE]
+way to Straylize Temple.[END]
 
 //Text $1AA858
 #WRITE(ptr,$18BDA8)
@@ -9019,9 +9019,9 @@ but it's weak.[END]
 
 //Text $1AA7B0
 #WRITE(ptr,$18BDB0)
-It's green shell is very insect-like.[LINE]
-It seems to have been close[LINE]
-to the floating city laboratory .[END]
+It seems there's an insect on the Outer Sell.[LINE]
+It's probably near the city with a research lab.[LINE]
+[END]
 
 //Text $1AA7A0
 #WRITE(ptr,$18BDC4)
@@ -9036,8 +9036,8 @@ met with great fortune.[END]
 
 //Text $1AA6E8
 #WRITE(ptr,$18BDCC)
-If you visit the Straylise Temple you[LINE]
-are likely to see it being carried about.[END]
+It seems something was found on the way to[LINE]
+Straylize Temple that'll fill your wallet up.[END]
 
 //Text $1AA6D8
 #WRITE(ptr,$18BDE0)
@@ -9052,9 +9052,9 @@ is almost magical.[END]
 
 //Text $1AA630
 #WRITE(ptr,$18BDE8)
-A plant said to light the fire of[LINE]
-hope for a world gone dark.[LINE]
-Grows on an island off at sea.[END]
+There's a plant said to be a beacon[LINE]
+of hope in a darkened world.[LINE]
+Seems it's on an island off at sea.[END]
 
 //Text $1AA620
 #WRITE(ptr,$18BDFC)
@@ -9069,9 +9069,9 @@ upon seeing it in action.[END]
 
 //Text $1AA550
 #WRITE(ptr,$18BE04)
-It seems strange animal behavior can[LINE]
-become a big topic even in big cities.[LINE]
-Or maybe it's a regional quirk.[END]
+There's some sort of creature that's got[LINE]
+the whole town talking about its feats.[LINE]
+Seems to have something to do with the locale.[END]
 
 //Text $1AA538
 #WRITE(ptr,$18BE18)
@@ -9086,9 +9086,9 @@ together and locked in a kiss.[END]
 
 //Text $1AA470
 #WRITE(ptr,$18BE20)
-It's not like it snows here but, isn't it cold?[LINE]
-It seems most animals have been huddling[LINE]
-together ever since we crossed the border.[END]
+It gets cold even outside the land of snow.[LINE]
+Seems there's some animals that are always[LINE]
+cuddled together past the border towards Seinegald.[END]
 
 //Text $1AA458
 #WRITE(ptr,$18BE34)
@@ -9103,9 +9103,9 @@ and candles. Who would do such a thing...?[LINE]
 
 //Text $1AA380
 #WRITE(ptr,$18BE3C)
-Travellers are coming to the region once again as[LINE]
-they come to see the hottest spots near the city.[LINE]
-The citizens seem thankful to this prankster.[END]
+The incident two years ago took a toll on[LINE]
+tourism numbers, but they're flocking once again.[LINE]
+Seems the citizens are thanking some mystery prankster.[END]
 
 //Text $1AA370
 #WRITE(ptr,$18BE50)
@@ -9120,9 +9120,9 @@ birds, then never lets them go.[LINE]
 
 //Text $1AA2B8
 #WRITE(ptr,$18BE58)
-One can't underestimate nature even if[LINE]
-Fitzgald's countryside is said to be tranquil.[LINE]
-Terrifying vegetation included.[END]
+It seems the tranquility of Fitzgald's countryside[LINE]
+is no reason to let your guard down. Particularly[LINE]
+in the face of on particularly terrifying plant.[END]
 
 //Text $1AA2B0
 #WRITE(ptr,$18BE6C)
@@ -9137,9 +9137,9 @@ appearance of being in bloom.[END]
 
 //Text $1AA1E0
 #WRITE(ptr,$18BE74)
-You can feel the harshness and beauty of[LINE]
-nature if you take a look at the plants around[LINE]
-you, doubly so if you live in a snow country.[END]
+There seems to be a natural phenomenon outside[LINE]
+of a snowy city that makes you appreciate both the[LINE]
+harshness and beauty of nature.[END]
 
 //Text $1AA1C8
 #WRITE(ptr,$18BE88)
@@ -9154,9 +9154,9 @@ The twinkling lights are a sight to behold.[END]
 
 //Text $1AA0E0
 #WRITE(ptr,$18BE90)
-Two years ago, when the city was in turmoil, even[LINE]
-the surrounding vegetation was damaged, but no[LINE]
-one could take away this dazzling jewel-like glow.[END]
+Despite the incident two years ago taking a toll[LINE]
+on even the vegetation around the city, it's said there's[LINE]
+still something precious there that nobody can take away.[END]
 
 //Text $1AA0D0
 #WRITE(ptr,$18BEA4)
@@ -9171,8 +9171,8 @@ passersby. Usually remains furled.[LINE]
 
 //Text $1AA008
 #WRITE(ptr,$18BEAC)
-Merchants that come from Seinegald[LINE]
-tell of a curious plant that play tricks[LINE]
+There are reports from merchants coming from[LINE]
+Seinegald of a curious plant that play tricks[LINE]
 on those trying to cross the border.[END]
 
 //Text $1A9FF0
@@ -9188,9 +9188,9 @@ traveling charm.[END]
 
 //Text $1A9F38
 #WRITE(ptr,$18BEC8)
-I heard that if you have a wish, you[LINE]
-should look for vibrant plants[LINE]
-growing around Neuestadt.[END]
+If you've got a wish you want granted,[LINE]
+you might want to take a look around[LINE]
+Neuestadt for a certain dazzling plant.[END]
 
 //Text $1A9F28
 #WRITE(ptr,$18BEDC)
@@ -9205,8 +9205,8 @@ Flexible, yet quite firm.[END]
 
 //Text $1A9E80
 #WRITE(ptr,$18BEE4)
-There seems to be a mysterious plant[LINE]
-with a strange legend in Moreau.[LINE]
+There seems to be a mystical plant that's[LINE]
+the subject of a strange myth near Moreau.[LINE]
 [END]
 
 //Text $1A9E68
@@ -9222,9 +9222,9 @@ golden wings. Highly sought-after by collectors.[LINE]
 
 //Text $1A9DB8
 #WRITE(ptr,$18BF00)
-Some of the islands ou at sea are said to[LINE]
+Some of the islands out at sea are said to[LINE]
 be home to rare insects, protected by an[LINE]
-environment that is isolated from the world.[END]
+environment isolated from the outside world.[END]
 
 //Text $1A9DA8
 #WRITE(ptr,$18BF14)
@@ -9240,8 +9240,8 @@ A dip inside is good for more than just warmth.[END]
 //Text $1A9CE0
 #WRITE(ptr,$18BF1C)
 Frostheim is famous for its hot springs,[LINE]
-and I heard it has a remote, secret hot[LINE]
-spring that can cure all diseases.[END]
+but it seems there's a secret spring[LINE]
+in a remote area that can cure all diseases.[END]
 
 //Text $1A9CC8
 #WRITE(ptr,$18BF30)
@@ -9256,9 +9256,9 @@ art due to their size and beautiful colors.[END]
 
 //Text $1A9BF0
 #WRITE(ptr,$18BF38)
-You might think there are no living creatures[LINE]
-in the desert, but one look around Cherik, and[LINE]
-you will see it is inhabited by huge animals.[END]
+At a glance it might not seem like anything[LINE]
+could survive in the desert, but it appears there[LINE]
+are traces around Cherik that would show otherwise.[END]
 
 //Text $1A9BE0
 #WRITE(ptr,$18BF4C)
@@ -9273,9 +9273,9 @@ Catch one and you'll win the hearts of children.[LINE]
 
 //Text $1A9B28
 #WRITE(ptr,$18BF54)
-It seems there are insects around Cresta, that if[LINE]
-captured, can earn you a lot of respect from the[LINE]
-local children. They are hard to catch however. [END]
+There seems to be insects around Cresta[LINE]
+that when caught, will earn you great respect[LINE]
+from the local children due to the difficulty involved.[END]
 
 //Text $1A9B20
 #WRITE(ptr,$18BF68)
@@ -9290,9 +9290,9 @@ and it became an object of worship.[END]
 
 //Text $1A9A68
 #WRITE(ptr,$18BF70)
-I heard there are plants in Shiden that are highly[LINE]
-treasured by the locals. They say there are[LINE]
-markers to distinguish them from other plants.[END]
+There appears to be a plant venerated[LINE]
+by the people near Shiden. It supposedly[LINE]
+has some sort of distinguishing marker.[END]
 
 //Text $1A9A60
 #WRITE(ptr,$18BF84)
@@ -9307,9 +9307,9 @@ use it as a charm to prevent shipwrecks.[END]
 
 //Text $1A9990
 #WRITE(ptr,$18BF8C)
-It is said that somewhere on the coast there[LINE]
-is an animal with a mysterious legend related[LINE]
-to the sea, but the specifics are unknown.[END]
+There's said to be a creature with a strange legend[LINE]
+related to the ocean on the shore, but the details are unclear.[LINE]
+[END]
 
 //Text $1A9980
 #WRITE(ptr,$18BFA0)
@@ -9325,9 +9325,8 @@ not actually resemble a hat.[END]
 //Text $1A98B0
 #WRITE(ptr,$18BFA8)
 It is said that somewhere in the ocean there[LINE]
-lives an animal with interesting horns, but it[LINE]
-is rare and can rarely be seen.[END]
-
+lives an animal with interesting horns, but its[LINE]
+scarcity makes it a rare sight.{END]
 //Text $1A98A0
 #WRITE(ptr,$18BFBC)
 Flying Manta[END]
@@ -9341,9 +9340,9 @@ distances of up to 500 meters before landing.[END]
 
 //Text $1A97E8
 #WRITE(ptr,$18BFC4)
-It is said that there is a place where the sky[LINE]
-suddenly darkens when you are sailing. It's[LINE]
-a well-known story among sailors.[END]
+Seems there's a spot out at sea where the[LINE]
+sky suddenly darkens. Stories about it are[LINE]
+famous among sailors.[END]
 
 //Text $1A97D8
 #WRITE(ptr,$18BFD8)
@@ -9358,8 +9357,8 @@ produce light itself.[END]
 
 //Text $1A9730
 #WRITE(ptr,$18BFE0)
-A plant with an ethereal aura grows on the[LINE]
-vicinity of Rodeon.[LINE]
+There appears to be a plant with a wondrous[LINE]
+aura in the vicinity of Rodeon.[LINE]
 [END]
 
 //Text $1A9728
@@ -9375,8 +9374,8 @@ gases produced by buried animal remains.[END]
 
 //Text $1A9668
 #WRITE(ptr,$18BFFC)
-It seems that there is a place around[LINE]
-Deimos where the grudges of surface[LINE]
+It seems there's a spot near Deimos[LINE]
+where the grudges left by earthly[LINE]
 creatures wander through the air.[END]
 
 //Text $1A9658
@@ -9394,7 +9393,7 @@ like a scream.[END]
 #WRITE(ptr,$18C018)
 It is said that there is a place near Dycroft[LINE]
 where horrible screams can be heard, but[LINE]
-no one has ever been able to confirm it.[END]
+one has ever been able to confirm its source.[END]
 
 //Text $1A9588
 #WRITE(ptr,$18C02C)
@@ -9409,8 +9408,8 @@ Jet-black in color and nimble in movement.[LINE]
 
 //Text $1A94E8
 #WRITE(ptr,$18C034)
-They say there is a fast-moving animal near Josaia,[LINE]
-but it moves so fast that it is difficult to catch it.[LINE]
+There seems to be a very fast creature near Josaia,[LINE]
+but it's said to be so fast it's impossible to catch.[LINE]
 [END]
 
 //Text $1A94E0
@@ -9426,8 +9425,8 @@ temperament makes it hard to handle.[END]
 
 //Text $1A9430
 #WRITE(ptr,$18C050)
-トウケイの領土には、美しさと激しさを[LINE]
-兼ね備えた魅力的な動物がいるそうだ。[LINE]
+It seems there's an animal that's as captivating[LINE]
+as it is ferocious near Terazzi.[LINE]
 [END]
 
 
@@ -9444,9 +9443,9 @@ Its price is as high as its nutritional value.[LINE]
 
 //Text $1A9370
 #WRITE(ptr,$18C06C)
-トウケイの領土には人々が求めてやまない[LINE]
-望みを叶える事ができるという植物が[LINE]
-自生しているそうだ。[END]
+There seems to be a fruit that grows near Terazzi that[LINE]
+can supposedly grant peoples' deepest desires.[LINE]
+[END]
 
 
 //Text $1A9360
@@ -9462,9 +9461,9 @@ Why it is inland is a mystery.[LINE]
 
 //Text $1A92A8
 #WRITE(ptr,$18C088)
-カルビオラのあたりに、地上で使う事が[LINE]
-ないはずの巨大な建造物を見かけたという。[LINE]
-目の錯覚ではないだろうか？[END]
+They say a massive structure was found near [LINE]
+Calviola that could never be used on land.[LINE]
+Could it be a mirage?[END]
 
 
 //Text $1A9298
@@ -9480,9 +9479,9 @@ moves by itself at night.[END]
 
 //Text $1A91C0
 #WRITE(ptr,$18C0A4)
-ジャンクランドの住民が、砂漠である物を[LINE]
-見つけて家に持ち帰ったのだが、気持ちが[LINE]
-悪い事が起こったので捨てたという。[END]
+The citizens of Junkland supposedly brought something[LINE]
+back from the desert that spooked them so much[LINE]
+they threw it back.[END]
 
 
 //Text $1A91B8
@@ -9498,9 +9497,9 @@ amidst the pitch black sea.[END]
 
 //Text $1A9100
 #WRITE(ptr,$18C0C0)
-リーネの村の周辺の海岸では、時が経つのも[LINE]
-忘れてしまうほど美しい景色を堪能できる[LINE]
-場所があるそうだ。[END]
+There seems to be vista on the beaches near Liene[LINE]
+that's so beautiful it draws you in for hours.[LINE]
+[END]
 
 
 //Text $1A90F0
@@ -9516,9 +9515,9 @@ a heatwave that year. Quite hot to the touch.[LINE]
 
 //Text $1A9030
 #WRITE(ptr,$18C0DC)
-アルメイダの村の近くで熱いものが急に[LINE]
-ぶつかってきたそうだが、ビックリして[LINE]
-何かは確認できなかったらしい。[END]
+It seems someone was struck with something scalding[LINE]
+near Armeida, but the encounter was too sudden to[LINE]
+determine its features.[END]
 
 
 //Text $1A9020
@@ -9534,8 +9533,8 @@ cosmic prank, but no definitive proof exists.[END]
 
 //Text $1A8F78
 #WRITE(ptr,$18C0F8)
-スノーフリアの一帯では、一晩でとても[LINE]
-巨大な雪のかたまりが出現するそうだ。[LINE]
+There's apparently an enormous mass of snowLINE]
+that appeared overnight near Frostheim.[LINE]
 [END]
 
 
@@ -9552,9 +9551,9 @@ who witness it gliding.[END]
 
 //Text $1A8E78
 #WRITE(ptr,$18C114)
-ノイシュタットの周辺では若者に人気の[LINE]
-希少動物が存在するという。[LINE]
-目立つ姿をしているからすぐわかるらしい。[END]
+There's a creature near Neuestadt that's said to be[LINE]
+a hit with young men. It should be easy enough[LINE]
+to identify upon spotting it.[END]
 
 
 //Text $1A8E68
@@ -9570,9 +9569,9 @@ but makes a nice soup base.[END]
 
 //Text $1A8D90
 #WRITE(ptr,$18C130)
-ノイシュタットの近くの海岸ではスープや[LINE]
-鍋料理に大活躍の食材となる動物がたくさん[LINE]
-棲息しているそうだ。[END]
+There seems to be a prolific creature[LINE]
+on the shores near Neuestad that[LINE]
+makes an excellent ingredient.[END]
 
 
 //Text $1A8D88
@@ -9588,9 +9587,9 @@ mixed into the sand. Remains silent if dirtied.[END]
 
 //Text $1A8CB8
 #WRITE(ptr,$18C14C)
-リーネの村の周辺の海岸では、恵まれた[LINE]
-自然が奏でるかわいい音楽が聞ける場所が[LINE]
-あるという。[END]
+It seems there's a beach near Liene where[LINE]
+a tune can be heard amid the abounding[LINE]
+natural beauty.[END]
 
 
 //Text $1A8CA8
@@ -9606,9 +9605,9 @@ with its three pair of external gills.[LINE]
 
 //Text $1A8BD0
 #WRITE(ptr,$18C168)
-漁師たちの間でおかしな生物の目撃情報が[LINE]
-多発しているらしいが、情報が錯そうして[LINE]
-海にいる事しか分からないそうだ。[END]
+There seem to be many eyewitness reports from[LINE]
+fisherman of a strange creature, but the only[LINE]
+thing they agree on is that it's from the sea.[END]
 
 
 //Text $1A8BC0
@@ -9624,9 +9623,9 @@ powerful adhesive.[END]
 
 //Text $1A8AE8
 #WRITE(ptr,$18C184)
-ジャンクランドの周辺に住人に重宝されて[LINE]
-いる接着剤の原料となる植物が自生している[LINE]
-らしい。[END]
+There seems to be a plant that grows near Junkland[LINE]
+that the citizens fashion into a glue[LINE]
+[END]
 
 
 //Text $1A8AD0
@@ -9642,8 +9641,8 @@ language of flowers it means "Please think of me".[END]
 
 //Text $1A8A08
 #WRITE(ptr,$18C1A0)
-カルビオラの辺りには、片想いの人に告白の[LINE]
-代わりとして手渡す花が咲いているそうだ。[LINE]
+It seems there's a flower that blooms near Calviola[LINE]
+that's given in place of confessions.[LINE]
 [END]
 
 
@@ -9660,9 +9659,9 @@ through frozen rivers with its stiff snout.[END]
 
 //Text $1A8948
 #WRITE(ptr,$18C1BC)
-ファンダリアとセインガルドを隔てている[LINE]
-川では、根性のある魚を見る事ができる[LINE]
-らしい。[END]
+There's apparently a fish with a real steel will[LINE]
+that can be found in the river between[LINE]
+Seinegald and Phandalia.[END]
 
 
 //Text $1A8938
@@ -9678,9 +9677,9 @@ Smells of adventure.[END]
 
 //Text $1A8870
 #WRITE(ptr,$18C1D8)
-ベルクラントの砲撃でできたクレーターに[LINE]
-よって、地中に埋もれていた芸術品が出現[LINE]
-したそうだ。[END]
+Something incredible has apparently been[LINE]
+unearthed by the bombardment from Belcrant.[LINE]
+[END]
 
 
 //Text $1A8860
@@ -9696,9 +9695,9 @@ Its purpose is unknown.[END]
 
 //Text $1A87A8
 #WRITE(ptr,$18C1F4)
-ノイシュタットの辺りには、何に使われた[LINE]
-のかがわからない、不思議な木製の像が[LINE]
-あるらしい。[END]
+There seems to be a strange wooden figure[LINE]
+near Neuestadt with an unknown purpose.[LINE]
+[END]
 
 
 //Text $1A8798
@@ -9714,9 +9713,9 @@ Adorned with 90 metallic feathers.[LINE]
 
 //Text $1A86C8
 #WRITE(ptr,$18C210)
-リーネの村の近くで、チカチカと点滅する[LINE]
-のを見た人がいるというが、残念ながら[LINE]
-光の正体は見つけられなかったという。[END]
+It's said that a flickering light was spotted near[LINE]
+Liene, but its source was unfortunately not found.[LINE]
+[END]
 
 
 //Text $1A86B8
@@ -9732,9 +9731,9 @@ females upon laying their eggs.[END]
 
 //Text $1A85F8
 #WRITE(ptr,$18C22C)
-アンスズーンの周辺には、命の大切さと[LINE]
-はかなさを体現する健気な昆虫がいる[LINE]
-らしい。[END]
+It seems there's an insect near Deimos that[LINE]
+makes you appreciate the fragility of life.[LINE]
+[END]
 
 
 //Text $1A85E8
@@ -9750,8 +9749,8 @@ Will fly into the air to escape large waves.[LINE]
 
 //Text $1A8558
 #WRITE(ptr,$18C248)
-どこかの小島にある海岸には波乗りが[LINE]
-得意な昆虫がいるそうだ。[LINE]
+There's apparently a bug on an island[LINE]
+somewhere that's an exceptional surfer.[LINE]
 [END]
 
 
@@ -9768,9 +9767,9 @@ of the former rulers is rather ominous.[END]
 
 //Text $1A8460
 #WRITE(ptr,$18C264)
-クレスタの辺りには、この地域に古代文明の[LINE]
-存在を証明する遺跡があるという。[LINE]
-一見の価値があるそうだ。[END]
+There's said to be ruins near Cresta[LINE]
+that prove the existence of ancient[LINE]
+civilizations that are worth visiting.[END]
 
 
 //Text $1A8450
@@ -9786,9 +9785,9 @@ the recent chaos.[END]
 
 //Text $1A8368
 #WRITE(ptr,$18C280)
-なぜかはわからないが、イグナシーの[LINE]
-近くに、ファンダリア王家から所在が[LINE]
-わからなくなっていた宝があるらしい。[END]
+For some unknown reason, a relic of the[LINE]
+Phandalian royal family that went missing[LINE]
+seems to have reappeared near Ignasea.[END]
 
 
 //Text $1A8358
@@ -9804,8 +9803,8 @@ due to its functioning even under moonlight.[END]
 
 //Text $1A8288
 #WRITE(ptr,$18C29C)
-ストレイライズ神殿の近くで、空に向かって[LINE]
-かぼそく伸びる、ひとすじの光を見たらしい。[LINE]
+There seems to be a thin beam of light pointing[LINE]
+towards the sky near Straylize Temple.[LINE]
 [END]
 
 
@@ -9822,9 +9821,9 @@ intense heat for all but its chosen user.[LINE]
 
 //Text $1A81A8
 #WRITE(ptr,$18C2B8)
-守護竜の制御室があった空中都市の近くで、[LINE]
-強烈な熱気を感じたらしいが、暑すぎて[LINE]
-近づけず、原因はわからなかったそうだ。[END]
+There's apparently a blazing heat near the city that[LINE]
+held the Lumina Draconis' control center, but the[LINE]
+intenseness made ascertaining its origin too difficult.[END]
 
 
 //Text $1A8198
@@ -9840,9 +9839,9 @@ A plant familiar to alpinists.[END]
 
 //Text $1A80D8
 #WRITE(ptr,$18C2D4)
-地上の高原に生えている山男におなじみの[LINE]
-植物が、軍事基地だった空中都市の周辺でも[LINE]
-見られるらしい。[END]
+It seems a flower familiar to mountaineers grows[LINE]
+near the city that used to be a military base.[LINE]
+[END]
 
 
 //Text $1A80C8
@@ -9858,8 +9857,8 @@ is constantly wet.[END]
 
 //Text $1A8020
 #WRITE(ptr,$18C2F0)
-ロディオンの周辺には地上で見る事の[LINE]
-できない珍しい動物が棲息しているそうだ。[LINE]
+There seems to be a rare creature that lives near[LINE]
+Rodeon that's never been seen before on the surface[LINE]
 [END]
 
 
@@ -9876,9 +9875,9 @@ poached for its tough shell and eggs.[END]
 
 //Text $1A7F30
 #WRITE(ptr,$18C30C)
-海を移動していると、運がよければ絶滅寸前[LINE]
-の美しい輝きを放つ動物に遭遇できる事が[LINE]
-あるという。[END]
+It seems there's an endangered creature[LINE]
+you might encounter while traveling out[LINE]
+in the ocean.[END]
 
 
 //Text $1A7F28
@@ -9894,8 +9893,8 @@ source of the ocean's salty taste.[END]
 
 //Text $1A7E70
 #WRITE(ptr,$18C328)
-海の浅瀬には、おとぎ話のような不思議な[LINE]
-ものが落ちている事があるらしい。[LINE]
+There's a mysterious item in the shoals[LINE]
+that seems like it's straight from a fairy-tale.[LINE]
 [END]
 
 
@@ -9912,9 +9911,9 @@ small size.[END]
 
 //Text $1A7DB0
 #WRITE(ptr,$18C344)
-ダイクロフトの周辺には危害を加えてくる[LINE]
-動物がいるので、注意して歩く必要がある[LINE]
-そうだ。[END]
+There's apparently a dangerous creature near[LINE]
+Dycroft, so take care when traveling around it.[LINE]
+[END]
 
 
 //Text $1A7D98
@@ -9930,8 +9929,8 @@ spirites. Also known as fire ice, it is cold to the touch.[END]
 
 //Text $1A7CD0
 #WRITE(ptr,$18C360)
-どこかの海岸には、炎の妖精と氷の妖精の[LINE]
-愛の結晶が発見できる場所があるという。[LINE]
+They say there's a shore somewhere where the[LINE]
+lovechild of the fire and ice spirits can be found.[LINE]
 [END]
 
 
@@ -9948,9 +9947,9 @@ a rambutan fruit. Very loud and annoying.[LINE]
 
 //Text $1A7C08
 #WRITE(ptr,$18C37C)
-モリュウの領地には騒いでうるさいが、[LINE]
-料理をするととてもおいしい、味な食材と[LINE]
-なる動物がいるそうだ。[END]
+There seems to be a rather loud and annoying[LINE]
+creature near Moreau that makes for a[LINE]
+rather tasty meal.[END]
 
 
 //Text $1A7BF8
@@ -9966,9 +9965,9 @@ founding of the Kingdom of Seinegald.[LINE]
 
 //Text $1A7B58
 #WRITE(ptr,$18C398)
-ダリルシェイドの近くには行商人たちの[LINE]
-待ち合わせ場所などの目印として活躍する[LINE]
-建造物があるらしい。[END]
+It seems there's a structure near Darilsheid[LINE]
+that's used as a meeting place between merchants.[LINE]
+[END]
 
 
 //Text $1A7B40
@@ -9984,8 +9983,8 @@ mouse-catching prowess.[END]
 
 //Text $1A7A98
 #WRITE(ptr,$18C3B4)
-シデン領地には船乗りたちに愛されている[LINE]
-希少な動物がいるそうだ。[LINE]
+There's apparently a rare creature near[LINE]
+Shiden that's beloved by sailors.[LINE]
 [END]
 
 
@@ -10002,9 +10001,9 @@ Sharply painful to the touch.[END]
 
 //Text $1A79B0
 #WRITE(ptr,$18C3D0)
-ある空中都市の周辺には、実験プラントから[LINE]
-あふれた危険な植物が自生しているため、[LINE]
-気をつけて歩かないと痛い目にあうらしい。[END]
+It seems great care needs to be taken near[LINE]
+a certain city due to plants overflowing from an[LINE]
+experimentation plant.[END]
 
 
 //Text $1A79A0
@@ -10020,17 +10019,16 @@ care of, it will eventually disappear.[END]
 
 //Text $1A78C8
 #WRITE(ptr,$18C3EC)
-技術研究施設のある空中都市の近くには、[LINE]
-人々が求めてやまない望みを叶える事が[LINE]
-できるという動物が棲息しているそうだ。[END]
+There is supposedly a creature that lives near[LINE]
+a city with a research facility that is said to[LINE]
+be able to grant peoples' desires.[END]
 
 
 //Text $1A7878
 #WRITE(ptr,$18A468)
-かつて勇名を馳せた船。[LINE]
-天地戦争で用いた電撃作戦を再び敢行して[LINE]
-外殻に浮上した。[END]
-
+A ship once known for its heroics.[LINE]
+The ship has resurfaced once again to carry[LINE]
+out the blitzkrieg strategy used in the Aeth'er War.[END]
 
 //Section Tutorial
 
@@ -10231,6 +10229,7 @@ but recovery is doubled.[LINE]
 Only usable during battle.[END]
 
 
+#JMP($1AB970)
 //Text $1AF9E8
 #WRITE(ptr,$18C6EC)
 [Sign_Apple_Gel]Panacea Bottle[END]
@@ -10302,7 +10301,6 @@ Only usable during battle.[LINE]
 [Sign_9]Oberol C[END]
 
 
-#JMP($1AB970)
 //Text $1AF798
 #WRITE(ptr,$18C798)
 A liquid medicine from Oberon Corp.[LINE]
@@ -10540,6 +10538,7 @@ Increases evasion by 2.[END]
 [Sign_9]Blue Jasmine[END]
 
 
+#JMP($1AC530)
 //Text $1AF120
 #WRITE(ptr,$18CA00)
 Increases critical by 2.[END]
@@ -10636,7 +10635,6 @@ Seeds intended for beginners.[LINE]
 A support item for cultivation.[END]
 
 
-#JMP($1AC530)
 //Text $1AEEE8
 #WRITE(ptr,$18CB14)
 [Sign_Box]Estima Seed[END]
@@ -15882,7 +15880,7 @@ Allows one to move excitedly.[END]
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
 Aiming to be classy with a stylish[LINE]
-hat. That's Johnny's style.[END]
+hat. That's Karyl's style.[END]
 
 
 //Text $1B6898
@@ -18811,6 +18809,7 @@ Kimchi[END]
 Meat Bun[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB808
 #WRITE(ptr,$1943DC)
 Loco Moco[END]
@@ -19062,7 +19061,6 @@ END]
 [END]
 
 
-#JMP($1BB0A0)
 //Text $1BB968
 #WRITE(ptr,$1946A8)
 BG＋25[END]
@@ -19677,7 +19675,7 @@ Straylize Representative[END]
 
 //POINTER #117 @ $19487C - STRING #117 @ $1BDDD0
 #WRITE(ptr,$19487C)
-[Philia] Philis, priestess (19).[LINE]
+[Philia] Felice, priestess (19).[LINE]
 162cm<$81>@45kg[LINE]
 Clemente's Swordian Master.[END]
 
@@ -20594,9 +20592,10 @@ Sister Representative[END]
 
 //POINTER #295 @ $194B44 - STRING #295 @ $1BBD18
 #WRITE(ptr,$194B44)
-[Lilith] Aileron(17) from Leane Village.[LINE]
+[Lilith] Aileron (17) from Leane Village.[LINE]
 ??cm ?kg.[LINE]
 Her hobby is cooking, even in combat.[END]
+
 
 //POINTER #296 @ $194B48 - STRING #296 @ $1BBD10
 #WRITE(ptr,$194B48)
