@@ -82,17 +82,17 @@ Open one to discover what it is.
 Treasure Chest：HP Recovery
 
 [ENDBLOCK]
-Chests of this color
+<center>Chests of this color
 seem to restore health.
 [ENDBLOCK]
 Treasure Chest: HP Reduction
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to drain your strength.
 [ENDBLOCK]
-Chests of this color seem to
-increase EX Points. 
+<center>Chests of this color seem to
+<cetner>increase EX Points. 
 [ENDBLOCK]
 Treasure Chest: EX Points Increase
 Amount: <TAG_032>	Current: <TAG_034>
@@ -102,21 +102,21 @@ Treasure Chest: EX Points Decrease
 Amount: <TAG_032>	Current: <TAG_034>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to reduce current EX Points.
 [ENDBLOCK]
 Treasure Chest: Food Increase
 Current: <TAG_032>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to replenish food.
 [ENDBLOCK]
 Treasure Chest: Food Loss
 Current: <TAG_032>
 
 [ENDBLOCK]
-Chests of this color seem
+<center>Chests of this color seem
 to destroy some of your food.
 [ENDBLOCK]
 Arcana Ruins
@@ -204,11 +204,11 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★HP Recovery Complete.
 
@@ -224,7 +224,7 @@ I want your <x17><x72><x40><x20><x80>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-<TAG_007>If you give me <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>, 
+<TAG_007>If you give me <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>], 
 I will increase your EX Points.
 
 [ENDBLOCK]
@@ -245,7 +245,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -262,7 +262,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★Item→EP End
 
@@ -296,8 +296,8 @@ See you next time.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-You can spend <TAG_077> EX Points to purchase 
-<x1A><x72><x40><x14><x80><TAG_034>.
+You can spend <TAG_077> EX Points
+to purchase <TAG_034> [<x1A><x72><x40><x14><x80>].
 
 [ENDBLOCK]
 Cyglorg
@@ -317,7 +317,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -334,7 +334,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★ＥＰ→アイテム終了
 
@@ -373,8 +373,8 @@ about the chest on this floor.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-On this floor, <TAG_054> colored chests</color>
-provide the following effect: <TAG_055>
+On this floor, <TAG_054> colored chests</color> provide the
+following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -414,7 +414,7 @@ Oh, how sad. You don't have enough.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -432,7 +432,7 @@ visit me again.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see eachother soon.
+Hopefully we'll see each other soon.
 [ENDBLOCK]
 ★アイテム→フードサック終了
 
@@ -473,7 +473,7 @@ Cancel
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ＥＸポイント	<x17><x08><x96><x74><x00><x80>
+<TAG_007>EX Points	<x17><x08><x96><x74><x00><x80>
 <x18><x66><x50><x24><x00><x80>
 <x18><x66><x50><x28><x00><x80>
 <x18><x66><x50><x2C><x00><x80>
@@ -541,10 +541,10 @@ Arcana Ruins
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
-EXポイント-><TAG_032>, 加算-><TAG_031>
+EX Points-><TAG_032>, 加算-><TAG_031>
 
 [ENDBLOCK]
-EXポイント補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+EX Points補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
 
 [ENDBLOCK]
 ○○○階層クリア時のパーティーボーナス：<TAG_032>
@@ -629,7 +629,7 @@ None Selected
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Return to Party Selection
 [ENDBLOCK]
-設定なし
+no support member
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -871,14 +871,14 @@ MAX:<x1D><x66><x14><x13><x74><x0C><xAB><x80>, MIN:<x1D><x66><x14><x13><x74><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ここにあるオブジェクトは、
-目標の方向を示しています。
+The objects here indicate the
+direction of your objective.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-指し示す方向を良く覚えて、
-迷路のような道を進んで行きましょう。
+Utilize their assistance to navigate
+the maze-like path before you.
 
 [ENDBLOCK]
 
