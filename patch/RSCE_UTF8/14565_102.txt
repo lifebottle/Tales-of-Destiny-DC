@@ -1,6 +1,6 @@
-赤色
+red
 [ENDBLOCK]
-灰色
+grey
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -110,14 +110,14 @@ back to Radisrol.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<x18><x66><x10><x00><x80> Do you want to register your card?
+Do you want to register your <x18><x66><x10><x00><x80> card?
 Yes
 No
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x18><x66><x10><x00><x80> I don't have a key card.
+I don't have a <x18><x66><x10><x00><x80> key card.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
