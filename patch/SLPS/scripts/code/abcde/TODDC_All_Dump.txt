@@ -4295,7 +4295,7 @@ Revives one KO'd ally and restores[LINE]
 //Text $19D600
 #WRITE(ptr,$184690)
 Drops a toy hammer that may[LINE]
-stuns. Is it a spell?[END]
+stun. Is it a spell?[END]
 
 
 //Text $19D5E8
@@ -5102,7 +5102,7 @@ Rescue[END]
 
 //Text $1A2280
 #WRITE(ptr,$185324)
-Kill foes to heal HP[END]
+Kill foe to heal HP[END]
 
 
 //Text $1A2278
@@ -15882,7 +15882,7 @@ Allows one to move excitedly.[END]
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
 Aiming to be classy with a stylish[LINE]
-hat. That's Karyl's style.[END]
+hat. That's Johnny's style.[END]
 
 
 //Text $1B6898
