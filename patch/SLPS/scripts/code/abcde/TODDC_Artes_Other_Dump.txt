@@ -3893,7 +3893,7 @@ Tension[END]
 
 //Text $1A21C8
 #WRITE(ptr,$185360)
-2xEXP but get killed instantly[END]
+Double EXP gained but critical hits are fatal[END]
 
 
 //Text $1A21C0
