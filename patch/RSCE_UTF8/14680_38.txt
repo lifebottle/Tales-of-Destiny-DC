@@ -430,9 +430,9 @@ notice
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Is 3 for <x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00> Gald okay?
-Buy
-Don't buy
+Buy three for <x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00> Gald?
+Yes
+No
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -525,7 +525,7 @@ It's forbidden by adults.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033>
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
