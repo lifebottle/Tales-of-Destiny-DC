@@ -293,242 +293,261 @@ notice
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-今日の献立どうしようかしら。
-あなたなら、どうする？
+What should I make for today's meal?
+What would you like?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-今日の献立、どうすればいいかしら？
+I wonder what I should
+put on the menu, tonight?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-そうだな、カンバラーベアの、
-香草焼きなどはどうだ？
+Oh, I know! How about
+seasoned Kanbalar Bear?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-ええ、それはいいですね。
+Ooh, that sounds good!
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-それじゃ、料理本を探してこなきゃ！
+Well! I need to
+find my cookbook, then!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あら、<Mary>が教えてあげれば
-よかったのに。
+Heh, you shoulda
+told her the recipe, <Mary>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-でも、すでに行ってしまったからな。
+She rushed off
+so fast, though...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-戻ってきたみたいだよ。
+Looks like she's come back.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-なんだろ、コレ？
+Oh, what do I do?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたんですか？
+What's wrong?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-お料理の本に、こんなメモが
-挟まっていたんです。
+I found this note in between
+the pages of my cookbook...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-見せてくれない？
+Can I see that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-料理の材料がメモされているみたいね。
+Looks like a list of
+ingredients for a recipe?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-しかし、これはまた
-甘いものばかりだな。
+Yeah, but it looks like
+it uses a LOT of sweet things...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-確かにそうですね。
-俺もここまで甘いのはちょっと……
+No kidding. Even I don't
+like sweets this much.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうせ暇なメイドが、
-お菓子でも作ろうとしたんじゃない？
+Maybe a maid with some free
+time wanted to make a dessert?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この二重丸がつけられているところ。
-聞いた事のないお菓子だな。
+Look at the spot where that
+double-circle is drawn. That's no
+dessert I've ever heard of.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-私も知らないな。
-ぷ……りん、というらしいな。
+I don't know it either.
+Looks like it's called...Pudding?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんか、おいしそうなお菓子ね。
+I get the feeling
+that it's really good.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>はお菓子の名前で、
-おいしさが分かるのか？
+<Rutee>, you can tell if a
+dessert is good just by the name?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんとなく、分かるのよ。
+Somehow, I just know.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-あら、あなたたちは確か、
-<Lion>様の。
+Oh hell. You're Master <Lion>'s
+companions, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい。そうですけど……
-俺たちが、何か？
+That's us! Why?
+Need something?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-実は……その……
-誰にも言いませんか？
+Well, uhm, you see...
+Promise not to tell anyone?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何の事だかわからないけど……
+You haven't even
+told US yet, though...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-大丈夫よ、あたしたちこう見えて
-約束破らないし、嘘もつかないわ。
+Well, don't worry. We're more
+trustworthy than we look.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-それじゃあ、お見せしますね。
+In that case, here.
+Take a look at this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-日記かしら。
+A notebook?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-誰かの日記みたいです。
+I think it's
+someone's diary.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-タイトルは……
-「秘め事日記……ウフ」？
+It's got a title...
+"My Diary of Secrets...Teehee!"??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだこれ？
+What on Earth...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、読んでみましょうよ。
+Well, come on,
+let's read it, already!
 [ENDBLOCK]
-秘め事日記……ウフ
+My Diary of Secrets...Teehee!
 [ENDBLOCK]
-きゃーん、甘いもの食べたいよー。
+Aaaww, I wanna eat somethin' sweet!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………
+......
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……甘いものが好きなようね……
+Guess they really liked sweets.
 [ENDBLOCK]
-秘め事日記……ウフ
+My Diary of Secrets...Teehee!
 [ENDBLOCK]
-なんて言ったら、彼が私にプリンっていう
-お菓子を作ってくれたの～。
+Can you believe it? He made me
+a desert he called "Pudding"! Eee!
 [ENDBLOCK]
-秘め事日記……ウフ
+My Diary of Secrets...Teehee!
 [ENDBLOCK]
-私って、女王様タイプなのかしら？
+It's enough to make a girl
+feel like a queen!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-しかも、のろけ日記……
+...and her boyfriend, too.
 [ENDBLOCK]
-秘め事日記……ウフ
+My Diary of Secrets...Teehee!
 [ENDBLOCK]
-彼が突然、私に指輪をプレゼント
-してくれたの。もー、お金もないくせにね！
+Out of nowhere, my darling gave
+me a ring! How did he afford this?
+He's not rich at all!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Looks like she was
+really happy to get it...
+[ENDBLOCK]
+My Diary of Secrets...Teehee!
+[ENDBLOCK]
+It's got such a lovely stone...
+...I wonder how much I
+could sell it for?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+A girl who values
+money over love? Disgusting...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+....
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+What're you
+staring at?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Nothin'...
+[ENDBLOCK]
+My Diary of Secrets...Teehee!
+[ENDBLOCK]
+We had a talk about
+ our future, tonight...
 
 [ENDBLOCK]
-<Stahn>
+My Diary of Secrets...Teehee!
 [ENDBLOCK]
-まだ続くみたいだね、のろけ。
-[ENDBLOCK]
-秘め事日記……ウフ
-[ENDBLOCK]
-こんなに立派な宝石……
-いくら位で、売れるのかしら？
+I said I want a girl, but
+he said he'd prefer a boy...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-愛情より金な女。最低ね……
+What's with this diary?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………
+It kind of reminds me
+of you a bit, <Rutee>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何、見てんのよ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-いえ……
-[ENDBLOCK]
-秘め事日記……ウフ
-[ENDBLOCK]
-彼と、将来の話なんかしちゃった。
-
-[ENDBLOCK]
-秘め事日記……ウフ
-[ENDBLOCK]
-私は女の子が欲しいけど、
-彼ったら、男の子がいいって言うの。
+I'm not like
+that at all!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何、この日記？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-ちょっと、<Rutee>みたいな人だね。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-全然、似てないわよ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-はい、返すわね。
+OK, here, take
+this back.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-誰の日記か、聞きたくないですか？
-聞きたいでしょ？
+Don't you want to know?
+You know, who wrote the diary!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-結構よ。甘いものが好きで、
-金にがめつい、どっかの女の日記でしょ。
+That's OK. It's just the diary of 
+some lady who likes sweets and money...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<S12>何よ……
-あたしとあいつにそっくりじゃない。<x00>
+<S12>Come on...
+I said I'm not like that at all...<x00>
 [ENDBLOCK]
