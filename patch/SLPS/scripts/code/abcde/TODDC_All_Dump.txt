@@ -1478,7 +1478,7 @@ A cold embrace that brings death.[END]
 
 //Text $19CEF0
 #WRITE(ptr,$1849C8)
-[Sign_7]Sacred Penance[END]
+[Sign_7]Sacred Blame[END]
 
 
 //Text $19CE98
@@ -1500,7 +1500,7 @@ Four elemental artes unleashed in succession.[END]
 
 //Text $19CE08
 #WRITE(ptr,$184A08)
-[Sign_7]Heavenly Crusader[END]
+[Sign_7]Rebirth Crusader[END]
 
 
 //Text $19CDB0
@@ -4546,7 +4546,8 @@ Close Attack[END]
 
 //Text $1A12F0
 #WRITE(ptr,$184E80)
-Use melee artes.[END]
+Alternate between close ranged attacks and spells/ranged[LINE]
+attacks depending on party composition and combat situation[END]
 
 
 //Text $1A12E0
@@ -4982,7 +4983,7 @@ M.DEF+[END]
 
 //Text $1A2460
 #WRITE(ptr,$185248)
-Remove ailment with charge[END]
+Removes ailment with charge[END]
 
 
 //Text $1A2450
@@ -5042,7 +5043,7 @@ HEAL HP[END]
 
 //Text $1A2368
 #WRITE(ptr,$1852C0)
-Increase P. ATK when charging[END]
+IncreasesP. ATK when charging[END]
 
 
 //Text $1A2358
@@ -5052,7 +5053,7 @@ CHARGE P.ATK[END]
 
 //Text $1A2338
 #WRITE(ptr,$1852D4)
-Remove de-buffs when charging[END]
+Removes de-buffs when charging[END]
 
 
 //Text $1A2328
@@ -5062,7 +5063,7 @@ DISPEL EFFECT[END]
 
 //Text $1A2308
 #WRITE(ptr,$1852E8)
-Restore [TAG_015]％ HP every 2 sec.[END]
+Restores [TAG_015]％ HP every 2 sec.[END]
 
 
 //Text $1A2518
@@ -5077,7 +5078,7 @@ Holy[END]
 
 //Text $1A22D8
 #WRITE(ptr,$1852FC)
-Fills blast gauge over time[END]
+Fills the blast gauge periodically[END]
 
 
 //Text $1A23D0
@@ -5117,7 +5118,7 @@ Gain[END]
 
 //Text $1A2250
 #WRITE(ptr,$185338)
-Kill foe to gain  CC＋[TAG_015][END]
+Defeat an enemy to gain CC＋[TAG_015][END]
 
 
 //Text $1A2240
@@ -5132,8 +5133,7 @@ Rapid[END]
 
 //Text $1A2208
 #WRITE(ptr,$18534C)
-Fill blast gauge when foe defeated[END]
-
+Fills the blast gauge upon defeating an enemy[END]
 
 //Text $1A21F8
 #WRITE(ptr,$185350)
@@ -5147,7 +5147,7 @@ Tension[END]
 
 //Text $1A21C8
 #WRITE(ptr,$185360)
-2xEXP but get killed instantly[END]
+Increasees EXP Gain by 2x, however...[END]
 
 
 //Text $1A21C0
@@ -5157,7 +5157,7 @@ CRUSH![END]
 
 //Text $1A2198
 #WRITE(ptr,$185374)
-Deal double damage but take criticals[END]
+Deals double damage but take criticals[END]
 
 
 //Text $1A2178
@@ -5492,7 +5492,7 @@ Hits recover HP[END]
 
 //Text $1A1C30
 #WRITE(ptr,$18566C)
-Recovery spell also heal caster[END]
+Recovery spell also heals caster[END]
 
 
 //Text $1A1C20
@@ -5682,7 +5682,7 @@ Phoenix[END]
 
 //Text $1A1850
 #WRITE(ptr,$1858B0)
-Fill Blast Gauge when HP is low[END]
+Fills the Blast Gauge when HP is low[END]
 
 
 //Text $1A1840
@@ -8513,6 +8513,7 @@ Seinegald. It has a mansion that is[LINE]
 out of place for the humble village.[END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F18
 #WRITE(ptr,$18A0A8)
 Armeida[END]
@@ -8540,7 +8541,6 @@ Straylize Temple[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6E38
 #WRITE(ptr,$18A0E8)
 A temple that stands neatly in the[LINE]
@@ -8849,7 +8849,7 @@ Mikheil[END]
 
 //Text $1A7768
 #WRITE(ptr,$18A510)
-A floating cruiser used to link the[LINE]
+An Aeth'er Cruiser used to link the[LINE]
 aerial cities.[END]
 
 
@@ -8879,6 +8879,7 @@ Helraios[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A76E8
 #WRITE(ptr,$18A580)
 One of the most important bases of the[LINE]
@@ -8896,7 +8897,6 @@ Deimos[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A5B8)
 One of the aerial cities connected[LINE]
@@ -10210,6 +10210,7 @@ Only usable during battle.[END]
 [Sign_Apple_Gel]Plump Gel[END]
 
 
+#JMP($1AB970)
 //Text $1AFA68
 #WRITE(ptr,$18C6B8)
 Max HP increase to 150%,[LINE]
@@ -10229,7 +10230,6 @@ but recovery is doubled.[LINE]
 Only usable during battle.[END]
 
 
-#JMP($1AB970)
 //Text $1AF9E8
 #WRITE(ptr,$18C6EC)
 [Sign_Apple_Gel]Panacea Bottle[END]
@@ -10503,6 +10503,7 @@ Increases defense by 2.[END]
 Increases magic attack by 2.[END]
 
 
+#JMP($1AC530)
 //Text $1AF1E8
 #WRITE(ptr,$18C9A8)
 [Sign_9]Blue Saffron[END]
@@ -10538,7 +10539,6 @@ Increases evasion by 2.[END]
 [Sign_9]Blue Jasmine[END]
 
 
-#JMP($1AC530)
 //Text $1AF120
 #WRITE(ptr,$18CA00)
 Increases critical by 2.[END]
@@ -15414,7 +15414,7 @@ the wearer's concentration.[END]
 
 //Text $1B7A60
 #WRITE(ptr,$1914EC)
-Necklace imbued with the Earth Spirit's.[LINE]
+Necklace imbued with the Earth Spirits.[LINE]
 Gives one unshakable composure.[LINE]
 Increases the damage of [Sign_Earth] spells.[END]
 
@@ -15425,7 +15425,7 @@ Increases the damage of [Sign_Earth] spells.[END]
 
 //Text $1B79D0
 #WRITE(ptr,$19150C)
-Necklace imbued with the Wind Spirit's.[LINE]
+Necklace imbued with the Wind Spirits.[LINE]
 Gives the drive to make dreams real.[LINE]
 Increases the damage of [Sign_Wind] spells.[END]
 
@@ -15436,7 +15436,7 @@ Increases the damage of [Sign_Wind] spells.[END]
 
 //Text $1B7948
 #WRITE(ptr,$19152C)
-Necklace imbued with the Fire Spirit's[LINE]
+Necklace imbued with the Fire Spirits.[LINE]
 Makes one hear hidden voices.[LINE]
 Increases the damage of [Sign_Fire] spells.[END]
 
@@ -15447,7 +15447,7 @@ Increases the damage of [Sign_Fire] spells.[END]
 
 //Text $1B78C8
 #WRITE(ptr,$19154C)
-Necklace imbued with the Water Spirit's.[LINE]
+Necklace imbued with the Water Spirits.[LINE]
 Sharpens one's willpower.[LINE]
 Increases the damage of [Sign_Water] spells.[END]
 
@@ -15458,7 +15458,7 @@ Increases the damage of [Sign_Water] spells.[END]
 
 //Text $1B7848
 #WRITE(ptr,$19156C)
-Necklace imbued with the Light Spirit's.[LINE]
+Necklace imbued with the Light Spirits.[LINE]
 Heightens one's power to keep secrets.[LINE]
 Increases the damage of [Sign_Light] spells.[END]
 
@@ -15469,7 +15469,7 @@ Increases the damage of [Sign_Light] spells.[END]
 
 //Text $1B77D0
 #WRITE(ptr,$19158C)
-Necklace imbued with the Earth[LINE]
+Necklace imbued with the Earth Spirits.[LINE]
 Goddess' blessing and love.[LINE]
 Decreases the casting time of [Sign_Earth] spells.[END]
 
@@ -15513,7 +15513,7 @@ Decreases the casting time of [Sign_Water] spells.[END]
 
 //Text $1B75D0
 #WRITE(ptr,$19160C)
-Necklace imbued with the God of Light's[LINE]
+Necklace imbued with the God of Light.[LINE]
 blessing and eternal integrity.[LINE]
 Decreases the casting time of [Sign_Light] spells.[END]
 
@@ -17235,12 +17235,12 @@ Diced Steak[END]
 
 //Text $1B8F90
 #WRITE(ptr,$19234C)
-Loaded[END]
+Loaded [END]
 
 
 //Text $1B8F80
 #WRITE(ptr,$192350)
-Collab Loaded[END]
+Collab Loaded [END]
 
 
 //Text $1B8F70
@@ -18729,6 +18729,7 @@ Rice Ball[END]
 Sandwich[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB8F8
 #WRITE(ptr,$19429C)
 Hamburger[END]
@@ -18809,7 +18810,6 @@ Kimchi[END]
 Meat Bun[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB808
 #WRITE(ptr,$1943DC)
 Loco Moco[END]
@@ -19180,9 +19180,10 @@ Lienean Man[END]
 
 //POINTER #23 @ $194704 - STRING #23 @ $1BEF50
 #WRITE(ptr,$194704)
-Young lad from Leene in Neustadt.[LINE]
+A young lad from Lienea in Neustadt.[LINE]
 He eventually learned about the[LINE]
 world and became a young man.[END]
+
 
 //POINTER #24 @ $194708 - STRING #24 @ $1BEF40
 #WRITE(ptr,$194708)
