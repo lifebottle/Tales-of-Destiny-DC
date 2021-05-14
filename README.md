@@ -8,7 +8,7 @@ Scenario Files Translated: 99.82%
 
 Menus: 96%
 
-Skits: 700/711
+Skits: 100%
 
 Discord: 
 https://discord.gg/NUvvgUtdXW
