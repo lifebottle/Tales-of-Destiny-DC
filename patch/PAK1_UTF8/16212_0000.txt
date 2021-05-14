@@ -5,9 +5,9 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<S09>通常・笑い
+<S09><center>Normal, Smiling
 [ENDBLOCK]
-<S09>怒り
+<S09><center>Angry
 [ENDBLOCK]
-<S09>悲しみ<x00>
+<S09><center>Sad<x00>
 [ENDBLOCK]

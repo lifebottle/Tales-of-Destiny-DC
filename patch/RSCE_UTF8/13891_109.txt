@@ -23,95 +23,114 @@ be able to get through.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Vine
+Opened the door with the Pickaxe.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Open
+It won't open. It seems you'll
+need a tool to force it open.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee> and <Hugo>.
+So <Hugo> is actually
+<Rutee>'s father...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Rutee>.
+<Rutee>'s been away alone for
+some time, now...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Stahn> you should 
-go talk to <Rutee>.
+<Stahn>...please help <Rutee>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-俺様
+Was...was it
+somethin' I said...?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ぐす……
+*Sniffle*
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Radisrol
+The R-Key we need to start up
+Radisrol should be in the 
+temple Southwest of here.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Request
+I'm counting on you all.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-The outer shell of earth.
+We must prevent the Aethersphere
+from being completed.
+I'm counting on you.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Here.
+The technology here is
+nothing short of amazing!!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Hey.
+I definitely made the right
+call following you guys here!!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-My research.
+According to my research, the Erthers used
+to suffer from the enemy's special attacks.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-I hear
+However, there was also something
+here that blocked those attacks...
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Never.
+Stay focused, everyone!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Here.
+I'm so proud to be able
+to help you out like this!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Oh.
+Oh, right. I forgot
+to tell you...
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Here.
+Seems there are more
+shops here, now.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-The store.
+To find them, leave this
+room and enter the rightmost
+of the three doors just outside.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Life.
+You won't
+forget that, right?
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Merchant Location
+To find the shops, leave this
+room and enter the rightmost
+of the three doors just outside.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Right and wrong
-
+I suggest you
+go take a look!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -148,7 +167,7 @@ Pranks...
 <Clemente>
 [ENDBLOCK]
 Well, well, it's been quite a while,
-Dymlos. You're still as stubborn as ever.
+<Dymlos>. You're still as stubborn as ever.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -157,7 +176,7 @@ you seem to be doing well.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Oh, Atwight. You're as sweet as ever.
+Oh, <Atwight>. You're as sweet as ever.
 You became a sword, too.
 [ENDBLOCK]
 <Clemente>
@@ -195,7 +214,7 @@ Hehehe.
 <Rutee>
 [ENDBLOCK]
 I won't let you do anything
-weird to Atwight.
+weird to <Atwight>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -213,7 +232,7 @@ with romance, perhaps.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Dymlos. It seems like your master
+<Dymlos>. It seems like your master
 is quite the pure-hearted man.
 [ENDBLOCK]
 <Dymlos>
@@ -330,11 +349,11 @@ recognize <Philia>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Hmph. Just don't be a nuisance.
+Hmph. Just don't be a nuisance.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-...Yes! Leon, thank you
+...Yes! <Lion>, thank you
 so much.
 [ENDBLOCK]
 <Clemente>
@@ -739,7 +758,7 @@ Josaia to get to Mikheil.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-To retrieve a floating cruiser.
+To retrieve an Aeth'er Cruiser.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -866,7 +885,7 @@ It's not your concern.
 <Rutee>
 [ENDBLOCK]
 Just because <Lion> says it's true, 
-doesn't necessarily mean it's right.
+doesn't necessarily mean it is.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -913,7 +932,7 @@ I'm sorry.
 <Chelsea>
 [ENDBLOCK]
 It's okay. It was my fault. I'm
-sorry for being so direct.
+sorry for being so blunt.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1061,9 +1080,8 @@ You no longer stand a chance!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will become a sacrifice to the
-Guardian Dragon and be reduced to
-dust for the Outer Shell!
+<center>You will become a sacrifice to the Guardian
+Dragon and be reduced to dust for the Outer Shell!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
