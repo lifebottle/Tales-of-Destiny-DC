@@ -4,7 +4,7 @@
 # Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
 
 # Current Progress (First Draft)
-Scenario Files Translated: 99.82%
+Scenario Files Translated: 100%
 
 Menus: 96%
 
