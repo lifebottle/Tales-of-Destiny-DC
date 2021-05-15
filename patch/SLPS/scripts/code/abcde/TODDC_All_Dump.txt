@@ -191,7 +191,7 @@ Marian[END]
 
 //Text $199B38
 #WRITE(ptr,$D7D10)
-Raiker[END]
+Ritora[END]
 
 
 //Text $199B28
@@ -524,7 +524,7 @@ Ultimate Test[END]
 
 //Text $19A290
 #WRITE(ptr,$D882C)
-Searching for Belselium[END]
+Searching for Berselium[END]
 
 
 //Text $19A278
@@ -4384,8 +4384,8 @@ Always Attack[END]
 
 //Text $1A17B8
 #WRITE(ptr,$184DCC)
-Ignore defense,[LINE]
-Attack in close-range.[END]
+Fight using melee attacks,[LINE]
+ignore defense.[END]
 
 
 //Text $1A17A8
@@ -4395,8 +4395,8 @@ Cut Through[END]
 
 //Text $1A1760
 #WRITE(ptr,$184DD8)
-Fights in close range, will go on the defensive[LINE]
-if its HP gets low.[END]
+Fight using melee attacks,[LINE]
+defend if HP gets low.[END]
 
 
 //Text $1A1750
@@ -4406,8 +4406,8 @@ Balance[END]
 
 //Text $1A1700
 #WRITE(ptr,$184DE4)
-Fights in close range, go ranged, or[LINE]
-defensive if HP less than half.[END]
+Prioritize melee attacks, but use ranged[LINE]
+attacks or defend if HP [lessthan] 50%.[END]
 
 
 //Text $1A16F0
@@ -4417,8 +4417,8 @@ Protect[END]
 
 //Text $1A16B0
 #WRITE(ptr,$184DF0)
-Protect ally with the lowest HP[LINE]
-attacking enemies near them.[END]
+Move towards ally with the lowest HP and[LINE]
+attack enemies near them.[END]
 
 
 //Text $1A16A0
@@ -4428,7 +4428,8 @@ Defend[END]
 
 //Text $1A1678
 #WRITE(ptr,$184DFC)
-Only defend and cast healing artes.[END]
+Don't attack, only defend and use[LINE]
+healing artes.[END]
 
 
 //Text $1A1668
@@ -4438,8 +4439,8 @@ Moderate Heal[END]
 
 //Text $1A1628
 #WRITE(ptr,$184E08)
-Focus on using healing artes on[LINE]
-allies with less than half HP.[END]
+Focus on using healing artes if there[LINE]
+are allies with less than half HP.[END]
 
 
 //Text $1A1618
@@ -4449,8 +4450,8 @@ Heal[END]
 
 //Text $1A15D0
 #WRITE(ptr,$184E14)
-If an ally has taken any damage,[LINE]
-focus on using healing artes.[END]
+Focus on using healing artes if there[LINE]
+are allies who have taken any damage.[END]
 
 
 //Text $1A15B8
@@ -4471,8 +4472,8 @@ Attack Weak Enemy[END]
 
 //Text $1A1520
 #WRITE(ptr,$184E2C)
-Focus casting spells on low HP enemies,[LINE]
-then defend when HP is critical.[END]
+Focus on casting spells on low HP[LINE]
+enemies, defend when HP [lessthan] 25%.[END]
 
 
 //Text $1A150A
@@ -4482,8 +4483,8 @@ Attack Strong Enemy[END]
 
 //Text $1A14C0
 #WRITE(ptr,$184E38)
-Focus on high-level enemies, then[LINE]
-defend against foes when HP [lessthan] 50%.[END]
+Focus on casting spells on high level[LINE]
+enemies, defend when HP [lessthan] 50%.[END]
 
 
 //Text $1A14B0
@@ -4493,8 +4494,8 @@ Attack Close[END]
 
 //Text $1A1468
 #WRITE(ptr,$184E44)
-Focus on nearest enemy, go melee[LINE]
-if they are close enough.[END]
+Cast spells on nearest enemy, use melee[LINE]
+attacks if they are close enough.[END]
 
 
 //Text $1A1458
@@ -4505,7 +4506,7 @@ Disturb Enemy[END]
 //Text $1A1418
 #WRITE(ptr,$184E50)
 Aim at attacking/casting enemies[LINE]
-with fast spells or melee.[END]
+with fast spells or melee attacks.[END]
 
 
 //Text $1A1408
@@ -4515,7 +4516,8 @@ Ranged Attack[END]
 
 //Text $1A13D8
 #WRITE(ptr,$184E5C)
-Stay in the rear, using ranged attacks.[END]
+Stay at mid/long range, fight using[LINE]
+ranged attacks.[END]
 
 
 //Text $1A13C0
@@ -4546,8 +4548,8 @@ Close Attack[END]
 
 //Text $1A12F0
 #WRITE(ptr,$184E80)
-Alternate between close ranged attacks and spells/ranged[LINE]
-attacks depending on party composition and combat situation[END]
+Alternate between melee and spells/ranged[LINE]
+attacks depending on the party and battle.[END]
 
 
 //Text $1A12E0
@@ -4557,7 +4559,7 @@ Protect Rear[END]
 
 //Text $1A12B8
 #WRITE(ptr,$184E8C)
-Protect the leader's back.[END]
+Focus on enemies behind the leader.[END]
 
 
 //Text $1A12A8
@@ -4567,7 +4569,7 @@ Hit and Run[END]
 
 //Text $1A1278
 #WRITE(ptr,$184E98)
-Follow on the leader's attack.[END]
+Follow-up on the leader's attack.[END]
 
 
 //Text $1A1268
@@ -4577,7 +4579,8 @@ Disturb Enemy[END]
 
 //Text $1A1238
 #WRITE(ptr,$184EA4)
-Move behind the enemies and attack them.[END]
+Move behind the enemies and attack them,[LINE]
+targetting enemies in the rear.[END]
 
 
 //Text $1A1228
@@ -4587,7 +4590,7 @@ Attack Strong[END]
 
 //Text $1A11F8
 #WRITE(ptr,$184EB0)
-Target high-level enemies. Going all-out.[END]
+Target high-level enemies. Go all-out.[END]
 
 
 //Text $1A11E8
@@ -4597,8 +4600,8 @@ Fire at Will[END]
 
 //Text $1A11B0
 #WRITE(ptr,$184EBC)
-Full on assault, attack without defending.[END]
-
+Fight using ranged attacks,[LINE]
+ignore defense.[END]
 
 //Text $1A11A0
 #WRITE(ptr,$184EC4)
@@ -4607,7 +4610,7 @@ Be Careful![END]
 
 //Text $1A1170
 #WRITE(ptr,$184EC8)
-Only attack from a safe distance preserving HP.[END]
+Only attack from a safe distance, preserving HP.[END]
 
 
 //Text $1A1160
@@ -4617,7 +4620,7 @@ Support[END]
 
 //Text $1A1138
 #WRITE(ptr,$184ED4)
-Focus on casting supportive spells.[END]
+Focus on using supportive artes.[END]
 
 
 //Text $1A1128
@@ -4627,7 +4630,7 @@ Balance[END]
 
 //Text $1A1100
 #WRITE(ptr,$184EE0)
-Focus using artes with status effects.[END]
+Focus on using offensive artes.[END]
 
 
 //Text $1A10F0
@@ -4637,8 +4640,8 @@ Fight Between[END]
 
 //Text $1A10A0
 #WRITE(ptr,$184EEC)
-Use support artes when at a safe distance[LINE]
-otherwise attack close enemies.[END]
+Use support artes when at a safe distance,[LINE]
+otherwise attack when at close range.[END]
 
 
 //Text $1A1090
@@ -4670,8 +4673,8 @@ Running Target[END]
 
 //Text $1A0FD8
 #WRITE(ptr,$184F10)
-Change the target every time you move.[END]
-
+Always change targets while running[LINE] 
+around the battlefield. [END]
 
 //Text $1A0FC8
 #WRITE(ptr,$184F18)
@@ -5147,7 +5150,7 @@ Tension[END]
 
 //Text $1A21C8
 #WRITE(ptr,$185360)
-Increasees EXP Gain by 2x, however...[END]
+Increases EXP Gain by 2x, however...[END]
 
 
 //Text $1A21C0
@@ -5157,7 +5160,7 @@ CRUSH![END]
 
 //Text $1A2198
 #WRITE(ptr,$185374)
-Deals double damage but take criticals[END]
+Deals double the damage, however...[END]
 
 
 //Text $1A2178
@@ -8506,6 +8509,7 @@ Harmentz[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
@@ -8513,7 +8517,6 @@ Seinegald. It has a mansion that is[LINE]
 out of place for the humble village.[END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F18
 #WRITE(ptr,$18A0A8)
 Armeida[END]
@@ -8778,7 +8781,7 @@ Lumina Draconis[END]
 //Text $1A68D8
 #WRITE(ptr,$18A3F8)
 A transport city built by the biometal[LINE]
-Belselium.[END]
+Berselium.[END]
 
 
 //Text $1A68C0
@@ -8863,6 +8866,7 @@ Rodeon[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -8879,7 +8883,6 @@ Helraios[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A76E8
 #WRITE(ptr,$18A580)
 One of the most important bases of the[LINE]
@@ -10199,6 +10202,7 @@ Only usable during battle.[END]
 [Sign_Apple_Gel]Gamble Gel[END]
 
 
+#JMP($1AB970)
 //Text $1AFAD8
 #WRITE(ptr,$18C69C)
 Changes HP to a random value.[LINE]
@@ -10210,7 +10214,6 @@ Only usable during battle.[END]
 [Sign_Apple_Gel]Plump Gel[END]
 
 
-#JMP($1AB970)
 //Text $1AFA68
 #WRITE(ptr,$18C6B8)
 Max HP increase to 150%,[LINE]
@@ -10488,6 +10491,7 @@ Increases physical attack by 2.[END]
 [Sign_9]Blue Verbena[END]
 
 
+#JMP($1AC530)
 //Text $1AF238
 #WRITE(ptr,$18C974)
 Increases defense by 2.[END]
@@ -10503,7 +10507,6 @@ Increases defense by 2.[END]
 Increases magic attack by 2.[END]
 
 
-#JMP($1AC530)
 //Text $1AF1E8
 #WRITE(ptr,$18C9A8)
 [Sign_9]Blue Saffron[END]
@@ -17824,7 +17827,7 @@ Mirror Shield.[LINE]
 
 //Text $1BA730
 #WRITE(ptr,$1929B4)
-[Sign_Key]Belselium[END]
+[Sign_Key]Berselium[END]
 
 
 //Text $1BA6F8
@@ -17836,7 +17839,7 @@ Necessary to fix the Draconis.[LINE]
 
 //Text $1BA6E0
 #WRITE(ptr,$1929D0)
-[Sign_Key]Belselium Mass[END]
+[Sign_Key]Berselium Mass[END]
 
 
 //Text $1BA6A0
@@ -18697,6 +18700,7 @@ Custom Made[END]
 Improved Balance[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB0C8
 #WRITE(ptr,$194108)
 Clandestine Weaponry[END]
@@ -18729,7 +18733,6 @@ Rice Ball[END]
 Sandwich[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB8F8
 #WRITE(ptr,$19429C)
 Hamburger[END]
@@ -19858,7 +19861,7 @@ into a national project.[END]
 
 //POINTER #152 @ $194908 - STRING #152 @ $1BD780
 #WRITE(ptr,$194908)
-Honorary Knight[END]
+Hedge Knight[END]
 
 
 //POINTER #153 @ $19490C - STRING #153 @ $1BD720
