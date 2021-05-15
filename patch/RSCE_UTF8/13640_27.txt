@@ -106,7 +106,7 @@ Please come later.
 Grocer
 [ENDBLOCK]
 Have you restocked
-your food yet??
+your food yet?
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
@@ -435,7 +435,7 @@ you a portion of the reward.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>You will receive <TAG_032> Gald
+<TAG_007>You received <TAG_032> Gald
 as advanced payment.
 
 [ENDBLOCK]
