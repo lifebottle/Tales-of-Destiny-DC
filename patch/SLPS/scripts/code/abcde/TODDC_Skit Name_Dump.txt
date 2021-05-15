@@ -2218,12 +2218,12 @@ Let's Go to Trash Mountain[END]
 
 //Text $13CD8
 #WRITE(ptr,$5B58)
-Finding Berselium[END]
+Finding Belselium[END]
 
 
 //Text $13CB8
 #WRITE(ptr,$5B5C)
-Searching for Berselium[END]
+Searching for Belselium[END]
 
 
 //Text $13CA8
