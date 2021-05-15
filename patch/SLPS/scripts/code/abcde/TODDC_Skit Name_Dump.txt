@@ -1432,7 +1432,7 @@ Let's Go Home[END]
 
 //Text $14C00
 #WRITE(ptr,$58D8)
-Neuestadt is Northwest of Lienea[END]
+Neuestadt is Southeast of Lienea[END]
 
 
 //Text $14BE0
@@ -2063,7 +2063,7 @@ Cresta is East of Darilsheid[END]
 
 //Text $13FA8
 #WRITE(ptr,$5ADC)
-What Happened to Phadaria[END]
+What Happened to Phandaria[END]
 
 
 //Text $13F98
@@ -2218,12 +2218,12 @@ Let's Go to Trash Mountain[END]
 
 //Text $13CD8
 #WRITE(ptr,$5B58)
-Finding Berselium[END]
+Finding Belselium[END]
 
 
 //Text $13CB8
 #WRITE(ptr,$5B5C)
-Searching for Berselium[END]
+Searching for Belselium[END]
 
 
 //Text $13CA8
