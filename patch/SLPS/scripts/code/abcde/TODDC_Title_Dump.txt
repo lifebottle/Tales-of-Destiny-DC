@@ -1653,7 +1653,7 @@ Straylize Representative[END]
 #WRITE(ptr,$19487C)
 [Philia] Philis, priestess (19).[LINE]
 162cm<$81>@45kg[LINE]
-Clemente's Swordian Master.[END]
+[Clemente]'s Swordian Master.[END]
 
 //POINTER #118 @ $194880 - STRING #118 @ $1BDDC0
 #WRITE(ptr,$194880)
