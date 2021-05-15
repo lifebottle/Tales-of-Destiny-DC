@@ -1432,7 +1432,7 @@ Let's Go Home[END]
 
 //Text $14C00
 #WRITE(ptr,$58D8)
-Neuestadt is Northwest of Lienea[END]
+Neuestadt is Southeast of Lienea[END]
 
 
 //Text $14BE0
