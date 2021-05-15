@@ -1,20 +1,48 @@
 {
 	"items":[
 	{
+		"FilePointer":		"../../../DAT_FILES/00071.md1",
+		"PointerHeader":	"3C7A80",
+		"GoogleSheetId":	"1LoH0p2M2A9Avu2JVn49Jc-ZCbZjjBUi5ilf2qpqesVI",
 		"BlockDesc":		"Synopsis",
-		"File":				"
-		"TextStartBlock":	"",
 		"Sections":[
 		{
 			"SectionId":	1,
-			"SectionDesc":	"Character Name",
-			"GoogleSheetId":"1ifsW9NJ3lwBUUncYasbELrHMIftldwPSXw1-yPvU0tA",
-			"TextStart":	"199900",
-			"TextEnd":		"199C3E",
-			"PointerStart":	"D7C80",
-			"PointerEnd":	"D7D68"
-		}]
-	
+			"File":			"../../../DAT_FILES/00071.md1",
+			"PointerHeader":"3C7A80",
+			"TextStart":	"28F8",
+			"TextEnd":		"C5F6"
+		},
+		{
+			"SectionId":	2,
+			"File":			"../../../UNSORTED/00014.bin",
+			"PointerHeader":"57B6C0",
+			"TextStart":	"300",
+			"TextEnd":		"1BFE"
+		}
+		]
+	},
+	{
+		"FilePointer":		"../../../PAK3/00016_0003.unknown.new",
+		"PointerHeader":	"3D4080",
+		"GoogleSheetId":	"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+		"BlockDesc":		"Skit Name",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"File":			"../../../PAK3/00016_0003.unknown.new",
+			"PointerHeader":"3D4080",
+			"TextStart":	"12800",
+			"TextEnd":		"1666E"
+		},
+		{
+			"SectionId":	2,
+			"File":			"../../../UNSORTED/00014.bin",
+			"PointerHeader":"57B6C0",
+			"TextStart":	"50",
+			"TextEnd":		"2FE"
+		}
+		]
 	}
 	]
 	
