@@ -524,7 +524,7 @@ Ultimate Test[END]
 
 //Text $19A290
 #WRITE(ptr,$D882C)
-Searching for Berselium[END]
+Searching for Belselium[END]
 
 
 //Text $19A278
@@ -8778,7 +8778,7 @@ Lumina Draconis[END]
 //Text $1A68D8
 #WRITE(ptr,$18A3F8)
 A transport city built by the biometal[LINE]
-Berselium.[END]
+Belselium.[END]
 
 
 //Text $1A68C0
@@ -17824,7 +17824,7 @@ Mirror Shield.[LINE]
 
 //Text $1BA730
 #WRITE(ptr,$1929B4)
-[Sign_Key]Berselium[END]
+[Sign_Key]Belselium[END]
 
 
 //Text $1BA6F8
@@ -17836,7 +17836,7 @@ Necessary to fix the Draconis.[LINE]
 
 //Text $1BA6E0
 #WRITE(ptr,$1929D0)
-[Sign_Key]Berselium Mass[END]
+[Sign_Key]Belselium Mass[END]
 
 
 //Text $1BA6A0
