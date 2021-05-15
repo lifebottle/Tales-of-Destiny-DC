@@ -81,54 +81,56 @@ call following you guys here!!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-僕の調べた所だと、かつての地上軍は、
-敵の特殊な攻撃に苦しめられたそうです。
+According to my research, the Erthers used
+to suffer from the enemy's special attacks.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-なんでも、こちらの術や技を封じる
-攻撃があったとか。
+However, there was also something
+here that blocked those attacks...
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-決して気を抜かないで下さいね、
-みなさん。
+Stay focused, everyone!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここでみなさんに協力できる事を
-誇りに思っています。
+I'm so proud to be able
+to help you out like this!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-あ、そうだ。
-伝え忘れるところでした。
+Oh, right. I forgot
+to tell you.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここに来ているお店の品揃えが
-増えたそうですよ。
+Seems there are more
+shops here, now.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-お店の場所は、この部屋を出て、
-三つ並んだ扉の一番右ですからね。
+To find them, leave this
+room and enter the rightmost
+of the three doors just outside.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-もちろん、忘れていませんよね？
+You won't
+forget that, right?
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-お店の場所は、この部屋を出て、
-三つ並んだ扉の一番右ですからね。
+To find the shops, leave this
+room and enter the rightmost
+of the three doors just outside.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-是非、のぞいてみてください。
-
+I suggest you
+go take a look!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -165,7 +167,7 @@ Pranks...
 <Clemente>
 [ENDBLOCK]
 Well, well, it's been quite a while,
-Dymlos. You're still as stubborn as ever.
+<Dymlos>. You're still as stubborn as ever.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -174,7 +176,7 @@ you seem to be doing well.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Oh, Atwight. You're as sweet as ever.
+Oh, <Atwight>. You're as sweet as ever.
 You became a sword, too.
 [ENDBLOCK]
 <Clemente>
@@ -212,11 +214,11 @@ Hehehe.
 <Rutee>
 [ENDBLOCK]
 I won't let you do anything
-weird to Atwight.
+weird to <Atwight>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Spoil you...?
+Spoil you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -230,7 +232,7 @@ with romance, perhaps.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Dymlos. It seems like your master
+<Dymlos>. It seems like your master
 is quite the pure-hearted man.
 [ENDBLOCK]
 <Dymlos>
@@ -347,11 +349,11 @@ recognize <Philia>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Hmph. Just don't be a nuisance.
+Hmph. Just don't be a nuisance.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-...Yes! Leon, thank you
+Yes! <Lion>, thank you
 so much.
 [ENDBLOCK]
 <Clemente>
@@ -419,7 +421,6 @@ notice
 [ENDBLOCK]
 <TAG_007>Since you have 5 people in your party,
 you can now use 「<turquoise>Support Talent</color>」.
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1078,9 +1079,8 @@ You no longer stand a chance!
 [ENDBLOCK]
 
 [ENDBLOCK]
-You will become a sacrifice to the
-Guardian Dragon and be reduced to
-dust for the Outer Shell!
+<center>You will become a sacrifice to the Guardian
+Dragon and be reduced to dust for the Outer Shell!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
