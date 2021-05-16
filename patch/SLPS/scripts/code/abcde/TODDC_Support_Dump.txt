@@ -99,7 +99,7 @@ Vigilance[END]
 
 //POINTER #5 @ $181054 - STRING #5 @ $19B618
 #WRITE(ptr,$181054)
-She mixes berries and chemicals[LINE]
+She mixes fruits and chemicals[LINE]
 into a consumable concoction.[LINE]
 Sometimes it turns out strange.[END]
 
