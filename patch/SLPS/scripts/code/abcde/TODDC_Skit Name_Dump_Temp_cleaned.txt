@@ -1,0 +1,3564 @@
+//GAME NAME:		Tales of destiny - DC (PS2)
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $12800
+#WRITE(ptr,$5464)
+Need a Weapon, Fast![END]
+// current address: $12815
+
+//Text $12815
+#WRITE(ptr,$5468)
+Where's [Stahn] from?[END]
+// current address: $12829
+
+//Text $12829
+#WRITE(ptr,$546C)
+Comfortable Once You Adjust[END]
+// current address: $12845
+
+//Text $12845
+#WRITE(ptr,$5470)
+Unexpected Uses[END]
+// current address: $12855
+
+//Text $12855
+#WRITE(ptr,$5474)
+About Master [Alba][END]
+// current address: $12868
+
+//Text $12868
+#WRITE(ptr,$5478)
+The Legendary Hero?[END]
+// current address: $1287C
+
+//Text $1287C
+#WRITE(ptr,$547C)
+Severe Financial Conditions[END]
+// current address: $12898
+
+//Text $12898
+#WRITE(ptr,$5480)
+Who Attacked the Draconis?[END]
+// current address: $128B3
+
+//Text $128B3
+#WRITE(ptr,$5484)
+The Backwoods are the Other Way[END]
+// current address: $128D3
+
+//Text $128D3
+#WRITE(ptr,$5488)
+Innocence?[END]
+// current address: $128DE
+
+//Text $128DE
+#WRITE(ptr,$548C)
+Someday, I too will..[END]
+// current address: $128F4
+
+//Text $128F4
+#WRITE(ptr,$5490)
+That's a Secret![END]
+// current address: $12905
+
+//Text $12905
+#WRITE(ptr,$5494)
+Bloodthirst?[END]
+// current address: $12912
+
+//Text $12912
+#WRITE(ptr,$5498)
+What's His Job?[END]
+// current address: $12922
+
+//Text $12922
+#WRITE(ptr,$549C)
+Do Swordians Sleep?[END]
+// current address: $12936
+
+//Text $12936
+#WRITE(ptr,$54A0)
+[Chelsea]'s in the Backwoods[END]
+// current address: $1294F
+
+//Text $1294F
+#WRITE(ptr,$54A4)
+Look for the Zelkova tree in the Backwoods[END]
+// current address: $1297A
+
+//Text $1297A
+#WRITE(ptr,$54A8)
+Return to the Mountain Hut[END]
+// current address: $12995
+
+//Text $12995
+#WRITE(ptr,$54AC)
+Let's Go Back[END]
+// current address: $129A3
+
+//Text $129A3
+#WRITE(ptr,$54B0)
+Let's Go Inside[END]
+// current address: $129B3
+
+//Text $129B3
+#WRITE(ptr,$54B4)
+Janos is Southwest of [Alba]'s Hut[END]
+// current address: $129D5
+
+//Text $129D5
+#WRITE(ptr,$54B8)
+Janos is Southwest of the Forest[END]
+// current address: $129F6
+
+//Text $129F6
+#WRITE(ptr,$54BC)
+Janos is Just a Bit Further[END]
+// current address: $12A12
+
+//Text $12A12
+#WRITE(ptr,$54C0)
+Janos is the Other Way[END]
+// current address: $12A29
+
+//Text $12A29
+#WRITE(ptr,$54C4)
+Seinegald is Close[END]
+// current address: $12A3C
+
+//Text $12A3C
+#WRITE(ptr,$54C8)
+Not Everyone is Bad[END]
+// current address: $12A50
+
+//Text $12A50
+#WRITE(ptr,$54CC)
+Where's [Mary] from?[END]
+// current address: $12A64
+
+//Text $12A64
+#WRITE(ptr,$54D0)
+A Familiar Face?[END]
+// current address: $12A75
+
+//Text $12A75
+#WRITE(ptr,$54D4)
+Questioning Yourself?[END]
+// current address: $12A8B
+
+//Text $12A8B
+#WRITE(ptr,$54D8)
+Despite appearances..[END]
+// current address: $12AA1
+
+//Text $12AA1
+#WRITE(ptr,$54DC)
+Take the North Gate to Seinegald[END]
+// current address: $12AC2
+
+//Text $12AC2
+#WRITE(ptr,$54E0)
+Take the East Gate to help my friends[END]
+// current address: $12AE8
+
+//Text $12AE8
+#WRITE(ptr,$54E4)
+Take the East Gate to go to the ruins[END]
+// current address: $12B0E
+
+//Text $12B0E
+#WRITE(ptr,$54E8)
+Go through the Woods to Reach the Temple[END]
+// current address: $12B37
+
+//Text $12B37
+#WRITE(ptr,$54EC)
+The Temple's Hidden Passage is in the Woods[END]
+// current address: $12B63
+
+//Text $12B63
+#WRITE(ptr,$54F0)
+At the North Gate?[END]
+// current address: $12B76
+
+//Text $12B76
+#WRITE(ptr,$54F4)
+Head to the East Gate[END]
+// current address: $12B8C
+
+//Text $12B8C
+#WRITE(ptr,$54F8)
+This and That[END]
+// current address: $12B9A
+
+//Text $12B9A
+#WRITE(ptr,$54FC)
+How do I get a Pass?[END]
+// current address: $12BAF
+
+//Text $12BAF
+#WRITE(ptr,$5500)
+What a Coincidence[END]
+// current address: $12BC2
+
+//Text $12BC2
+#WRITE(ptr,$5504)
+Easily Distracted[END]
+// current address: $12BD4
+
+//Text $12BD4
+#WRITE(ptr,$5508)
+The Temple is through a Hidden Passage[END]
+// current address: $12BFB
+
+//Text $12BFB
+#WRITE(ptr,$550C)
+Hidden Passage to the Temple[END]
+// current address: $12C18
+
+//Text $12C18
+#WRITE(ptr,$5510)
+How Did You Meet?[END]
+// current address: $12C2A
+
+//Text $12C2A
+#WRITE(ptr,$5514)
+Speaking of Temples?[END]
+// current address: $12C3F
+
+//Text $12C3F
+#WRITE(ptr,$5518)
+What a Disgrace[END]
+// current address: $12C4F
+
+//Text $12C4F
+#WRITE(ptr,$551C)
+[Stahn]'s Job[END]
+// current address: $12C5B
+
+//Text $12C5B
+#WRITE(ptr,$5520)
+My Long-Awaited Pass[END]
+// current address: $12C70
+
+//Text $12C70
+#WRITE(ptr,$5524)
+It's Just My Nature[END]
+// current address: $12C84
+
+//Text $12C84
+#WRITE(ptr,$5528)
+Cost Management is Thorough[END]
+// current address: $12CA0
+
+//Text $12CA0
+#WRITE(ptr,$552C)
+Fully Motivated[END]
+// current address: $12CB0
+
+//Text $12CB0
+#WRITE(ptr,$5530)
+I'm Not Like Them[END]
+// current address: $12CC2
+
+//Text $12CC2
+#WRITE(ptr,$5534)
+Embraced by Sunny Weather[END]
+// current address: $12CDC
+
+//Text $12CDC
+#WRITE(ptr,$5538)
+Deeper into the Temple[END]
+// current address: $12CF3
+
+//Text $12CF3
+#WRITE(ptr,$553C)
+Let's Return to the Entrance[END]
+// current address: $12D10
+
+//Text $12D10
+#WRITE(ptr,$5540)
+Let's Exit through the Front[END]
+// current address: $12D2D
+
+//Text $12D2D
+#WRITE(ptr,$5544)
+City at the Southern Edge of the Forest[END]
+// current address: $12D55
+
+//Text $12D55
+#WRITE(ptr,$5548)
+The City is South of the Forest[END]
+// current address: $12D75
+
+//Text $12D75
+#WRITE(ptr,$554C)
+The Tavern is part of the Inn[END]
+// current address: $12D93
+
+//Text $12D93
+#WRITE(ptr,$5550)
+The Awakened Swordian[END]
+// current address: $12DA9
+
+//Text $12DA9
+#WRITE(ptr,$5554)
+Entering Seinegald through the North Gate [END]
+// current address: $12DD4
+
+//Text $12DD4
+#WRITE(ptr,$5558)
+Harmentz is North of Janos[END]
+// current address: $12DEF
+
+//Text $12DEF
+#WRITE(ptr,$555C)
+Harmentz is North West of Janos[END]
+// current address: $12E0F
+
+//Text $12E0F
+#WRITE(ptr,$5560)
+Janos is in the Other Direction[END]
+// current address: $12E2F
+
+//Text $12E2F
+#WRITE(ptr,$5564)
+Let's Hurry to the Tavern[END]
+// current address: $12E49
+
+//Text $12E49
+#WRITE(ptr,$5568)
+We're Heading to the North Gate[END]
+// current address: $12E69
+
+//Text $12E69
+#WRITE(ptr,$556C)
+Try Not to Get Lost[END]
+// current address: $12E7D
+
+//Text $12E7D
+#WRITE(ptr,$5570)
+Where is [Rutee] from?[END]
+// current address: $12E92
+
+//Text $12E92
+#WRITE(ptr,$5574)
+Does not Knowing Win?[END]
+// current address: $12EA8
+
+//Text $12EA8
+#WRITE(ptr,$5578)
+What Kind of Person is [Dymlos]?[END]
+// current address: $12EC6
+
+//Text $12EC6
+#WRITE(ptr,$557C)
+Walt's House is the Largest in Town[END]
+// current address: $12EEA
+
+//Text $12EEA
+#WRITE(ptr,$5580)
+We Gotta Get Out of Here![END]
+// current address: $12F04
+
+//Text $12F04
+#WRITE(ptr,$5584)
+Let's get out of here![END]
+// current address: $12F1B
+
+//Text $12F1B
+#WRITE(ptr,$5588)
+We're Going to Walt's House[END]
+// current address: $12F37
+
+//Text $12F37
+#WRITE(ptr,$558C)
+Pretty Tiara[MUSIC][END]
+// current address: $12F46
+
+//Text $12F46
+#WRITE(ptr,$5590)
+First time at Seinegald Castle[END]
+// current address: $12F65
+
+//Text $12F65
+#WRITE(ptr,$5594)
+[Hugo]'s Vast Wealth[END]
+// current address: $12F79
+
+//Text $12F79
+#WRITE(ptr,$5598)
+The Seven Generals[END]
+// current address: $12F8C
+
+//Text $12F8C
+#WRITE(ptr,$559C)
+Who Was That at the Mansion? [END]
+// current address: $12FAA
+
+//Text $12FAA
+#WRITE(ptr,$55A0)
+Long Time No See[END]
+// current address: $12FBB
+
+//Text $12FBB
+#WRITE(ptr,$55A4)
+The Origin of the Name[END]
+// current address: $12FD2
+
+//Text $12FD2
+#WRITE(ptr,$55A8)
+A Suitable Place[END]
+// current address: $12FE3
+
+//Text $12FE3
+#WRITE(ptr,$55AC)
+What's a Hedge Knight?[END]
+// current address: $12FFA
+
+//Text $12FFA
+#WRITE(ptr,$55B0)
+Parent to Child Respectful Language[END]
+// current address: $1301E
+
+//Text $1301E
+#WRITE(ptr,$55B4)
+What can Swordians feel?[END]
+// current address: $13037
+
+//Text $13037
+#WRITE(ptr,$55B8)
+[Lion]'s Hardship[END]
+// current address: $13048
+
+//Text $13048
+#WRITE(ptr,$55BC)
+[Hugo]'s Manor is the Biggest House[END]
+// current address: $1306B
+
+//Text $1306B
+#WRITE(ptr,$55C0)
+Let's Go to the Largest Mansion in Town[END]
+// current address: $13093
+
+//Text $13093
+#WRITE(ptr,$55C4)
+The Temple is North of Darilsheid[END]
+// current address: $130B5
+
+//Text $130B5
+#WRITE(ptr,$55C8)
+From Armedia to the Temple[END]
+// current address: $130D0
+
+//Text $130D0
+#WRITE(ptr,$55CC)
+Straylize Temple is to the East[END]
+// current address: $130F0
+
+//Text $130F0
+#WRITE(ptr,$55D0)
+Straylize Temple is East of Armedia[END]
+// current address: $13114
+
+//Text $13114
+#WRITE(ptr,$55D4)
+We'll Take the Road East to Armedia[END]
+// current address: $13138
+
+//Text $13138
+#WRITE(ptr,$55D8)
+Through the Forest to Straylize Temple[END]
+// current address: $1315F
+
+//Text $1315F
+#WRITE(ptr,$55DC)
+[Hugo]'s Mansion Is in the City[END]
+// current address: $1317E
+
+//Text $1317E
+#WRITE(ptr,$55E0)
+Unsettling Presence[END]
+// current address: $13192
+
+//Text $13192
+#WRITE(ptr,$55E4)
+Mystery of the Barrier Stone[END]
+// current address: $131AF
+
+//Text $131AF
+#WRITE(ptr,$55E8)
+A Man Is.[END]
+// current address: $131B9
+
+//Text $131B9
+#WRITE(ptr,$55EC)
+Introductions[END]
+// current address: $131C7
+
+//Text $131C7
+#WRITE(ptr,$55F0)
+Top Ranked Priest?[END]
+// current address: $131DA
+
+//Text $131DA
+#WRITE(ptr,$55F4)
+Who's the Previous Swordian Master?[END]
+// current address: $131FE
+
+//Text $131FE
+#WRITE(ptr,$55F8)
+What Happened to the Temple?[END]
+// current address: $1321B
+
+//Text $1321B
+#WRITE(ptr,$55FC)
+Let's Go Look Inside the Temple[END]
+// current address: $1323B
+
+//Text $1323B
+#WRITE(ptr,$5600)
+Destroy the Barrier Stones![END]
+// current address: $13257
+
+//Text $13257
+#WRITE(ptr,$5604)
+Let's Search for the Barrier Stones[END]
+// current address: $1327B
+
+//Text $1327B
+#WRITE(ptr,$5608)
+Head for the Cathedral[END]
+// current address: $13292
+
+//Text $13292
+#WRITE(ptr,$560C)
+Hurry to the Cathedral[END]
+// current address: $132A9
+
+//Text $132A9
+#WRITE(ptr,$5610)
+Cathedral's Hidden Passage[END]
+// current address: $132C4
+
+//Text $132C4
+#WRITE(ptr,$5614)
+Darilsheid is South of the Temple[END]
+// current address: $132E6
+
+//Text $132E6
+#WRITE(ptr,$5618)
+Return to Darilsheid[END]
+// current address: $132FB
+
+//Text $132FB
+#WRITE(ptr,$561C)
+Darilsheid Harbor is in the East side of town[END]
+// current address: $13329
+
+//Text $13329
+#WRITE(ptr,$5620)
+The Harbor is in the East Side of Town[END]
+// current address: $13350
+
+//Text $13350
+#WRITE(ptr,$5624)
+It Won't Open[END]
+// current address: $1335E
+
+//Text $1335E
+#WRITE(ptr,$5628)
+Open the Door![END]
+// current address: $1336D
+
+//Text $1336D
+#WRITE(ptr,$562C)
+Why Was Radisrol Sunk?[END]
+// current address: $13384
+
+//Text $13384
+#WRITE(ptr,$5630)
+Nostalgic Radisrol[END]
+// current address: $13397
+
+//Text $13397
+#WRITE(ptr,$5634)
+The Leviathan is Amazing![END]
+// current address: $133B1
+
+//Text $133B1
+#WRITE(ptr,$5638)
+Unbeatable?[END]
+// current address: $133BD
+
+//Text $133BD
+#WRITE(ptr,$563C)
+Everyone Together[END]
+// current address: $133CF
+
+//Text $133CF
+#WRITE(ptr,$5640)
+[Clemente] is Inside Radisrol[END]
+// current address: $133E8
+
+//Text $133E8
+#WRITE(ptr,$5644)
+[Clemente] is Further Inside[END]
+// current address: $13400
+
+//Text $13400
+#WRITE(ptr,$5648)
+Go to the Entrance to Get Back on the Boat[END]
+// current address: $1342B
+
+//Text $1342B
+#WRITE(ptr,$564C)
+Hot![END]
+// current address: $13430
+
+//Text $13430
+#WRITE(ptr,$5650)
+The Marvelous [Mary][END]
+// current address: $13444
+
+//Text $13444
+#WRITE(ptr,$5654)
+Calvalesian Daily Life[END]
+// current address: $1345B
+
+//Text $1345B
+#WRITE(ptr,$5658)
+Baruk is a Good Man[END]
+// current address: $1346F
+
+//Text $1346F
+#WRITE(ptr,$565C)
+Developing a Friendship[END]
+// current address: $13487
+
+//Text $13487
+#WRITE(ptr,$5660)
+Take Extra Care?[END]
+// current address: $13498
+
+//Text $13498
+#WRITE(ptr,$5664)
+World Spanning Oberon Corporation[END]
+// current address: $134BA
+
+//Text $134BA
+#WRITE(ptr,$5668)
+The Baruk Foundation Office Is in the City[END]
+// current address: $134E5
+
+//Text $134E5
+#WRITE(ptr,$566C)
+Calviola is North of Cherik[END]
+// current address: $13501
+
+//Text $13501
+#WRITE(ptr,$5670)
+To Calviola, North of Cherik[END]
+// current address: $1351E
+
+//Text $1351E
+#WRITE(ptr,$5674)
+The Unique Beliefs of Calvalese[END]
+// current address: $1353E
+
+//Text $1353E
+#WRITE(ptr,$5678)
+Feeling Better?[END]
+// current address: $1354E
+
+//Text $1354E
+#WRITE(ptr,$567C)
+Is the Ice Melting?[END]
+// current address: $13562
+
+//Text $13562
+#WRITE(ptr,$5680)
+What's [Clemente] Like?[END]
+// current address: $13575
+
+//Text $13575
+#WRITE(ptr,$5684)
+[Philia]'s Glasses[END]
+// current address: $13585
+
+//Text $13585
+#WRITE(ptr,$5688)
+Looking for my Glasses[END]
+// current address: $1359C
+
+//Text $1359C
+#WRITE(ptr,$568C)
+Same Old, Same Old[END]
+// current address: $135AF
+
+//Text $135AF
+#WRITE(ptr,$5690)
+The Temple is in the City[END]
+// current address: $135C9
+
+//Text $135C9
+#WRITE(ptr,$5694)
+Waiting at the Inn[END]
+// current address: $135DC
+
+//Text $135DC
+#WRITE(ptr,$5698)
+Objective: Back Entrance of the Temple[END]
+// current address: $13603
+
+//Text $13603
+#WRITE(ptr,$569C)
+Let's Head for the Cathedral[END]
+// current address: $13620
+
+//Text $13620
+#WRITE(ptr,$56A0)
+Let's Go to the Cathedral[END]
+// current address: $1363A
+
+//Text $1363A
+#WRITE(ptr,$56A4)
+To the Basement..[END]
+// current address: $1364C
+
+//Text $1364C
+#WRITE(ptr,$56A8)
+Enter the Basement[END]
+// current address: $1365F
+
+//Text $1365F
+#WRITE(ptr,$56AC)
+Don't Forget to Search Straylize Temple[END]
+// current address: $13687
+
+//Text $13687
+#WRITE(ptr,$56B0)
+Don't Forget to Search the Temple[END]
+// current address: $136A9
+
+//Text $136A9
+#WRITE(ptr,$56B4)
+Cherik is South of Calviola[END]
+// current address: $136C5
+
+//Text $136C5
+#WRITE(ptr,$56B8)
+Cherik, South of Calviola[END]
+// current address: $136DF
+
+//Text $136DF
+#WRITE(ptr,$56BC)
+We Don't have Time to Wander Aimlessly[END]
+// current address: $13706
+
+//Text $13706
+#WRITE(ptr,$56C0)
+We're Going to the Temple[END]
+// current address: $13720
+
+//Text $13720
+#WRITE(ptr,$56C4)
+Certainly Impressive[END]
+// current address: $13735
+
+//Text $13735
+#WRITE(ptr,$56C8)
+We're from the Same Country[END]
+// current address: $13751
+
+//Text $13751
+#WRITE(ptr,$56CC)
+Neustadt Sure is Lively[END]
+// current address: $13769
+
+//Text $13769
+#WRITE(ptr,$56D0)
+Writing a Letter - 1[END]
+// current address: $1377E
+
+//Text $1377E
+#WRITE(ptr,$56D4)
+My Family Is Far Away[END]
+// current address: $13794
+
+//Text $13794
+#WRITE(ptr,$56D8)
+Looking Forward to Next Time[END]
+// current address: $137B1
+
+//Text $137B1
+#WRITE(ptr,$56DC)
+[Lion] Has Been Tamed[END]
+// current address: $137C6
+
+//Text $137C6
+#WRITE(ptr,$56E0)
+Don't Wander Too Far Off[END]
+// current address: $137DF
+
+//Text $137DF
+#WRITE(ptr,$56E4)
+[Ilene]'s Manor Is in Neustadt[END]
+// current address: $137FC
+
+//Text $137FC
+#WRITE(ptr,$56E8)
+Let's Look for [Ilene]'s Manor[END]
+// current address: $13819
+
+//Text $13819
+#WRITE(ptr,$56EC)
+The Softy Kreem Stand is to the North[END]
+// current address: $1383F
+
+//Text $1383F
+#WRITE(ptr,$56F0)
+Let's Look for the Softy Kreem Stand[END]
+// current address: $13864
+
+//Text $13864
+#WRITE(ptr,$56F4)
+The Arena Is at the North Side of Town[END]
+// current address: $1388B
+
+//Text $1388B
+#WRITE(ptr,$56F8)
+The Arena at the North End of Main Street[END]
+// current address: $138B5
+
+//Text $138B5
+#WRITE(ptr,$56FC)
+Monsters in Town?![END]
+// current address: $138C8
+
+//Text $138C8
+#WRITE(ptr,$5700)
+Follow [Ilene] to the Arena[END]
+// current address: $138E2
+
+//Text $138E2
+#WRITE(ptr,$5704)
+Defeat the Armored Convoy![END]
+// current address: $138FD
+
+//Text $138FD
+#WRITE(ptr,$5708)
+Head Towards the Harbor[END]
+// current address: $13915
+
+//Text $13915
+#WRITE(ptr,$570C)
+The Popsicle Stand is in the Square[END]
+// current address: $13939
+
+//Text $13939
+#WRITE(ptr,$5710)
+Once Outside the Arena..[END]
+// current address: $13952
+
+//Text $13952
+#WRITE(ptr,$5714)
+Let's Go to the Harbor[END]
+// current address: $13969
+
+//Text $13969
+#WRITE(ptr,$5718)
+Alright, let's go![END]
+// current address: $1397C
+
+//Text $1397C
+#WRITE(ptr,$571C)
+Uneasy[END]
+// current address: $13983
+
+//Text $13983
+#WRITE(ptr,$5720)
+I Want a Tiara[END]
+// current address: $13992
+
+//Text $13992
+#WRITE(ptr,$5724)
+What's [Chaltier] like?[END]
+// current address: $139A5
+
+//Text $139A5
+#WRITE(ptr,$5728)
+Aim for [Greybum][END]
+// current address: $139B3
+
+//Text $139B3
+#WRITE(ptr,$572C)
+By Boat from Neustadt[END]
+// current address: $139C9
+
+//Text $139C9
+#WRITE(ptr,$5730)
+By Boat to Aquaveil[END]
+// current address: $139DD
+
+//Text $139DD
+#WRITE(ptr,$5734)
+At the Port?[END]
+// current address: $139EA
+
+//Text $139EA
+#WRITE(ptr,$5738)
+Arriving at Aquaveil[END]
+// current address: $139FF
+
+//Text $139FF
+#WRITE(ptr,$573C)
+Visiting Multiple Countries[END]
+// current address: $13A1B
+
+//Text $13A1B
+#WRITE(ptr,$5740)
+Who is He Really?[END]
+// current address: $13A2D
+
+//Text $13A2D
+#WRITE(ptr,$5744)
+Discussing National Isolationism[END]
+// current address: $13A4E
+
+//Text $13A4E
+#WRITE(ptr,$5748)
+Writing a Letter - 2[END]
+// current address: $13A63
+
+//Text $13A63
+#WRITE(ptr,$574C)
+[Mary]'s Curiosity[END]
+// current address: $13A75
+
+//Text $13A75
+#WRITE(ptr,$5750)
+Let's Head to Town[END]
+// current address: $13A88
+
+//Text $13A88
+#WRITE(ptr,$5754)
+The Cave Entrance is to the South of Shiden[END]
+// current address: $13AB4
+
+//Text $13AB4
+#WRITE(ptr,$5758)
+The Cave is to the South of Shiden[END]
+// current address: $13AD7
+
+//Text $13AD7
+#WRITE(ptr,$575C)
+We Aren't on a Meandering Journey[END]
+// current address: $13AF9
+
+//Text $13AF9
+#WRITE(ptr,$5760)
+There's an Ocean Above our Heads[END]
+// current address: $13B1A
+
+//Text $13B1A
+#WRITE(ptr,$5764)
+Have Some Tact[END]
+// current address: $13B29
+
+//Text $13B29
+#WRITE(ptr,$5768)
+Please Keep it to Yourself[END]
+// current address: $13B44
+
+//Text $13B44
+#WRITE(ptr,$576C)
+Can Swordians get Hungry?[END]
+// current address: $13B5E
+
+//Text $13B5E
+#WRITE(ptr,$5770)
+[Dymlos] and [Atwight]'s Relationship[END]
+// current address: $13B7D
+
+//Text $13B7D
+#WRITE(ptr,$5774)
+Swordian's Weakness[END]
+// current address: $13B91
+
+//Text $13B91
+#WRITE(ptr,$5778)
+Through the Underwater Cave to Moreau[END]
+// current address: $13BB7
+
+//Text $13BB7
+#WRITE(ptr,$577C)
+Let's Get to Moreau[END]
+// current address: $13BCB
+
+//Text $13BCB
+#WRITE(ptr,$5780)
+To Moreau[END]
+// current address: $13BD5
+
+//Text $13BD5
+#WRITE(ptr,$5784)
+Moreau is a Water Town[END]
+// current address: $13BEC
+
+//Text $13BEC
+#WRITE(ptr,$5788)
+A Helper?[END]
+// current address: $13BF6
+
+//Text $13BF6
+#WRITE(ptr,$578C)
+An Acquaintance of Yours?[END]
+// current address: $13C10
+
+//Text $13C10
+#WRITE(ptr,$5790)
+Clemente's Hobby[END]
+// current address: $13C21
+
+//Text $13C21
+#WRITE(ptr,$5794)
+What Became of the Tiara?[END]
+// current address: $13C3B
+
+//Text $13C3B
+#WRITE(ptr,$5798)
+A Wanted Criminal[END]
+// current address: $13C4D
+
+//Text $13C4D
+#WRITE(ptr,$579C)
+A Playboy[END]
+// current address: $13C57
+
+//Text $13C57
+#WRITE(ptr,$57A0)
+Gathering Information in Moreau[END]
+// current address: $13C77
+
+//Text $13C77
+#WRITE(ptr,$57A4)
+To the Harbor[END]
+// current address: $13C85
+
+//Text $13C85
+#WRITE(ptr,$57A8)
+Let's Speak to [Johnny][END]
+// current address: $13C9A
+
+//Text $13C9A
+#WRITE(ptr,$57AC)
+To Get to Moreau Castle, You Need a Boat[END]
+// current address: $13CC3
+
+//Text $13CC3
+#WRITE(ptr,$57B0)
+Take a Small Boat to Moreau Castle[END]
+// current address: $13CE6
+
+//Text $13CE6
+#WRITE(ptr,$57B4)
+Isn't that the Port?[END]
+// current address: $13CFB
+
+//Text $13CFB
+#WRITE(ptr,$57B8)
+You Should Talk to [Johnny][END]
+// current address: $13D14
+
+//Text $13D14
+#WRITE(ptr,$57BC)
+The True Helpers?[END]
+// current address: $13D26
+
+//Text $13D26
+#WRITE(ptr,$57C0)
+I'm Glad we Did This[END]
+// current address: $13D3B
+
+//Text $13D3B
+#WRITE(ptr,$57C4)
+[Johnny]'s Singing Lesson[END]
+// current address: $13D52
+
+//Text $13D52
+#WRITE(ptr,$57C8)
+Who's [Johnny]'s Family[END]
+// current address: $13D67
+
+//Text $13D67
+#WRITE(ptr,$57CC)
+[Johnny] and [Fayte][END]
+// current address: $13D77
+
+//Text $13D77
+#WRITE(ptr,$57D0)
+Songs: A Window Into Our Soul[END]
+// current address: $13D95
+
+//Text $13D95
+#WRITE(ptr,$57D4)
+Be Cool[END]
+// current address: $13D9D
+
+//Text $13D9D
+#WRITE(ptr,$57D8)
+Let's Get to the Prison[END]
+// current address: $13DB5
+
+//Text $13DB5
+#WRITE(ptr,$57DC)
+Assisting [Fayte][END]
+// current address: $13DC5
+
+//Text $13DC5
+#WRITE(ptr,$57E0)
+Let's Get Below Batista[END]
+// current address: $13DDD
+
+//Text $13DDD
+#WRITE(ptr,$57E4)
+To Batista[END]
+// current address: $13DE8
+
+//Text $13DE8
+#WRITE(ptr,$57E8)
+Exit the Castle and Go to the Port[END]
+// current address: $13E0B
+
+//Text $13E0B
+#WRITE(ptr,$57EC)
+Take the Black Cross Ship to Terrazzi[END]
+// current address: $13E31
+
+//Text $13E31
+#WRITE(ptr,$57F0)
+From the Port to Terazzi[END]
+// current address: $13E4A
+
+//Text $13E4A
+#WRITE(ptr,$57F4)
+Wait![END]
+// current address: $13E50
+
+//Text $13E50
+#WRITE(ptr,$57F8)
+Ghost Town?[END]
+// current address: $13E5C
+
+//Text $13E5C
+#WRITE(ptr,$57FC)
+[Fayte] is Stubborn[END]
+// current address: $13E6E
+
+//Text $13E6E
+#WRITE(ptr,$5800)
+Let's Head to Terrazi Castle[END]
+// current address: $13E8B
+
+//Text $13E8B
+#WRITE(ptr,$5804)
+Let's go to Terrazi Castle[END]
+// current address: $13EA6
+
+//Text $13EA6
+#WRITE(ptr,$5808)
+The Docks Are at the Center of Town[END]
+// current address: $13ECA
+
+//Text $13ECA
+#WRITE(ptr,$580C)
+Let's Go to Terrazi Castle Now[END]
+// current address: $13EE9
+
+//Text $13EE9
+#WRITE(ptr,$5810)
+[Fayte] is Amazing Too[END]
+// current address: $13EFE
+
+//Text $13EFE
+#WRITE(ptr,$5814)
+The Future of Aquaveil[END]
+// current address: $13F15
+
+//Text $13F15
+#WRITE(ptr,$5818)
+New Song Material[END]
+// current address: $13F27
+
+//Text $13F27
+#WRITE(ptr,$581C)
+Swordian Council?[END]
+// current address: $13F39
+
+//Text $13F39
+#WRITE(ptr,$5820)
+Battle for Terrazi Castle[END]
+// current address: $13F53
+
+//Text $13F53
+#WRITE(ptr,$5824)
+Triumphant Return[END]
+// current address: $13F65
+
+//Text $13F65
+#WRITE(ptr,$5828)
+Following [Greybum] to Phandaria[END]
+// current address: $13F82
+
+//Text $13F82
+#WRITE(ptr,$582C)
+From the Port to Phandaria[END]
+// current address: $13F9D
+
+//Text $13F9D
+#WRITE(ptr,$5830)
+[Greybum] and the Eye of Atamoni[END]
+// current address: $13FBA
+
+//Text $13FBA
+#WRITE(ptr,$5834)
+Is There a Connection?[END]
+// current address: $13FD1
+
+//Text $13FD1
+#WRITE(ptr,$5838)
+Civil War Outbreak?![END]
+// current address: $13FE6
+
+//Text $13FE6
+#WRITE(ptr,$583C)
+We're Here to Help[END]
+// current address: $13FF9
+
+//Text $13FF9
+#WRITE(ptr,$5840)
+They're Compatriots[END]
+// current address: $1400D
+
+//Text $1400D
+#WRITE(ptr,$5844)
+Don't Be Overly Optimistic[END]
+// current address: $14028
+
+//Text $14028
+#WRITE(ptr,$5848)
+Writing a Letter - 3[END]
+// current address: $1403D
+
+//Text $1403D
+#WRITE(ptr,$584C)
+Let's Check on the City[END]
+// current address: $14055
+
+//Text $14055
+#WRITE(ptr,$5850)
+Let's Go to the City[END]
+// current address: $1406A
+
+//Text $1406A
+#WRITE(ptr,$5854)
+We Should Help [Woodrow] in the Forest[END]
+// current address: $1408D
+
+//Text $1408D
+#WRITE(ptr,$5858)
+Through Tyrso Forest to Heidelberg [END]
+// current address: $140B1
+
+//Text $140B1
+#WRITE(ptr,$585C)
+Tyrso Forest is West of Frostheim[END]
+// current address: $140D3
+
+//Text $140D3
+#WRITE(ptr,$5860)
+Master Credentials[END]
+// current address: $140E6
+
+//Text $140E6
+#WRITE(ptr,$5864)
+Still a Child?[END]
+// current address: $140F5
+
+//Text $140F5
+#WRITE(ptr,$5868)
+Righteous Fury?[END]
+// current address: $14105
+
+//Text $14105
+#WRITE(ptr,$586C)
+When It's Cold, Find a Hot Spring[END]
+// current address: $14127
+
+//Text $14127
+#WRITE(ptr,$5870)
+Through the Forest to Cyril[END]
+// current address: $14143
+
+//Text $14143
+#WRITE(ptr,$5874)
+Reach Cyril Through the Forest[END]
+// current address: $14162
+
+//Text $14162
+#WRITE(ptr,$5878)
+Cyril's Landscape[END]
+// current address: $14174
+
+//Text $14174
+#WRITE(ptr,$587C)
+Critical Situation?[END]
+// current address: $14188
+
+//Text $14188
+#WRITE(ptr,$5880)
+Could Be Dangerous[END]
+// current address: $1419B
+
+//Text $1419B
+#WRITE(ptr,$5884)
+[Mary]'s House is to the West[END]
+// current address: $141B8
+
+//Text $141B8
+#WRITE(ptr,$5888)
+Heidelberg is North of Cyril[END]
+// current address: $141D5
+
+//Text $141D5
+#WRITE(ptr,$588C)
+Cyril's to the North[END]
+// current address: $141EA
+
+//Text $141EA
+#WRITE(ptr,$5890)
+Impressions of Heidelberg[END]
+// current address: $14204
+
+//Text $14204
+#WRITE(ptr,$5894)
+Even Thought They're Rebels[END]
+// current address: $14220
+
+//Text $14220
+#WRITE(ptr,$5898)
+Emergency Passage is Located to the East  [END]
+// current address: $1424B
+
+//Text $1424B
+#WRITE(ptr,$589C)
+Emergency Passage to Heidelberg Castle[END]
+// current address: $14272
+
+//Text $14272
+#WRITE(ptr,$58A0)
+Respite at the End of the Passage[END]
+// current address: $14294
+
+//Text $14294
+#WRITE(ptr,$58A4)
+Though the Passage to the Castle[END]
+// current address: $142B5
+
+//Text $142B5
+#WRITE(ptr,$58A8)
+Parental Bonds[END]
+// current address: $142C4
+
+//Text $142C4
+#WRITE(ptr,$58AC)
+Showdown at the Clock Tower[END]
+// current address: $142E0
+
+//Text $142E0
+#WRITE(ptr,$58B0)
+To The Clock Tower[END]
+// current address: $142F3
+
+//Text $142F3
+#WRITE(ptr,$58B4)
+We Can't Go On[END]
+// current address: $14302
+
+//Text $14302
+#WRITE(ptr,$58B8)
+You Forgot[END]
+// current address: $1430D
+
+//Text $1430D
+#WRITE(ptr,$58BC)
+Where's [Rutee]?[END]
+// current address: $1431C
+
+//Text $1431C
+#WRITE(ptr,$58C0)
+It's Nice to Have a Family[END]
+// current address: $14337
+
+//Text $14337
+#WRITE(ptr,$58C4)
+Status Report[END]
+// current address: $14345
+
+//Text $14345
+#WRITE(ptr,$58C8)
+So Insensitive[END]
+// current address: $14354
+
+//Text $14354
+#WRITE(ptr,$58CC)
+The One We Long For[END]
+// current address: $14368
+
+//Text $14368
+#WRITE(ptr,$58D0)
+Let's Buy Food for Dinner[END]
+// current address: $14382
+
+//Text $14382
+#WRITE(ptr,$58D4)
+Let's Go Home[END]
+// current address: $14390
+
+//Text $14390
+#WRITE(ptr,$58D8)
+Neuestadt is Northwest of Lienea[END]
+// current address: $143B1
+
+//Text $143B1
+#WRITE(ptr,$58DC)
+Lienea is Southeast of Neuestadt[END]
+// current address: $143D2
+
+//Text $143D2
+#WRITE(ptr,$58E0)
+You Need a Boat to Get to Phandaria[END]
+// current address: $143F6
+
+//Text $143F6
+#WRITE(ptr,$58E4)
+I Have to Buy Something for Dinner[END]
+// current address: $14419
+
+//Text $14419
+#WRITE(ptr,$58E8)
+It's Fine, Right?[END]
+// current address: $1442B
+
+//Text $1442B
+#WRITE(ptr,$58EC)
+[Kongman], Aren't You Cold?[END]
+// current address: $14443
+
+//Text $14443
+#WRITE(ptr,$58F0)
+The Same Rank?[END]
+// current address: $14452
+
+//Text $14452
+#WRITE(ptr,$58F4)
+In Good Spirits?[END]
+// current address: $14463
+
+//Text $14463
+#WRITE(ptr,$58F8)
+Revelation from Dreams?[END]
+// current address: $1447B
+
+//Text $1447B
+#WRITE(ptr,$58FC)
+[Kongman], Aren't You Embarrassed?[END]
+// current address: $1449A
+
+//Text $1449A
+#WRITE(ptr,$5900)
+[Rutee]'s Dream[END]
+// current address: $144A8
+
+//Text $144A8
+#WRITE(ptr,$5904)
+What's [Atwight] Like?[END]
+// current address: $144BB
+
+//Text $144BB
+#WRITE(ptr,$5908)
+My Hair will Probably Grow[END]
+// current address: $144D6
+
+//Text $144D6
+#WRITE(ptr,$590C)
+[Rutee]'s Nature[END]
+// current address: $144E5
+
+//Text $144E5
+#WRITE(ptr,$5910)
+What Does the Letter Mean?[END]
+// current address: $14500
+
+//Text $14500
+#WRITE(ptr,$5914)
+Has [Mary] Changed?[END]
+// current address: $14513
+
+//Text $14513
+#WRITE(ptr,$5918)
+Towards Heidelberg[END]
+// current address: $14526
+
+//Text $14526
+#WRITE(ptr,$591C)
+Let's Go See [Woodrow][END]
+// current address: $14539
+
+//Text $14539
+#WRITE(ptr,$5920)
+Heidelberg is North Through the Forest[END]
+// current address: $14560
+
+//Text $14560
+#WRITE(ptr,$5924)
+Let's leave the Forest Through the North[END]
+// current address: $14589
+
+//Text $14589
+#WRITE(ptr,$5928)
+Let's Meet [Woodrow] at the Castle[END]
+// current address: $145A8
+
+//Text $145A8
+#WRITE(ptr,$592C)
+[Woodrow] on the Throne[END]
+// current address: $145BC
+
+//Text $145BC
+#WRITE(ptr,$5930)
+Let's Head Towards Seinegald[END]
+// current address: $145D9
+
+//Text $145D9
+#WRITE(ptr,$5934)
+Let's Go to Seinegald[END]
+// current address: $145EF
+
+//Text $145EF
+#WRITE(ptr,$5938)
+Cresta is to the East of Darilsheid[END]
+// current address: $14613
+
+//Text $14613
+#WRITE(ptr,$593C)
+Let's Meet [Rutee] in Cresta[END]
+// current address: $1462E
+
+//Text $1462E
+#WRITE(ptr,$5940)
+Is [Rutee] Anywhere in the City?[END]
+// current address: $1464D
+
+//Text $1464D
+#WRITE(ptr,$5944)
+Let's Meet Everyone in the Square[END]
+// current address: $1466F
+
+//Text $1466F
+#WRITE(ptr,$5948)
+Darilsheid is to the West of Cresta[END]
+// current address: $14693
+
+//Text $14693
+#WRITE(ptr,$594C)
+To the West of Cresta[END]
+// current address: $146A9
+
+//Text $146A9
+#WRITE(ptr,$5950)
+Let's Rush to Where the King is[END]
+// current address: $146C9
+
+//Text $146C9
+#WRITE(ptr,$5954)
+To Reach the Factory, We Need a Ship[END]
+// current address: $146EE
+
+//Text $146EE
+#WRITE(ptr,$5958)
+Take the Ship to the Oberon Factory[END]
+// current address: $14712
+
+//Text $14712
+#WRITE(ptr,$595C)
+What Do You Think?[END]
+// current address: $14725
+
+//Text $14725
+#WRITE(ptr,$5960)
+Why was this place Abandoned?[END]
+// current address: $14743
+
+//Text $14743
+#WRITE(ptr,$5964)
+Let's Examine the Factory[END]
+// current address: $1475D
+
+//Text $1475D
+#WRITE(ptr,$5968)
+Let's Go Back to Oberon's Factory[END]
+// current address: $1477F
+
+//Text $1477F
+#WRITE(ptr,$596C)
+Where is the Eye of Atamoni in this Cave?[END]
+// current address: $147A9
+
+//Text $147A9
+#WRITE(ptr,$5970)
+Let's Go Back to Darilsheid[END]
+// current address: $147C5
+
+//Text $147C5
+#WRITE(ptr,$5974)
+What Kind of Person is [Ritora]?[END]
+// current address: $147E3
+
+//Text $147E3
+#WRITE(ptr,$5978)
+The Ones Left Behind - 1[END]
+// current address: $147FC
+
+//Text $147FC
+#WRITE(ptr,$597C)
+The Ones Left Behind - 2[END]
+// current address: $14815
+
+//Text $14815
+#WRITE(ptr,$5980)
+The Ones Left Behind - 3[END]
+// current address: $1482E
+
+//Text $1482E
+#WRITE(ptr,$5984)
+Their Feelings[END]
+// current address: $1483D
+
+//Text $1483D
+#WRITE(ptr,$5988)
+Radisrol is to the East of Calvalese[END]
+// current address: $14862
+
+//Text $14862
+#WRITE(ptr,$598C)
+Radisrol is East of Calvalese[END]
+// current address: $14880
+
+//Text $14880
+#WRITE(ptr,$5990)
+Let's Go to Radisrol Immediately[END]
+// current address: $148A1
+
+//Text $148A1
+#WRITE(ptr,$5994)
+[Ritora] is at Radisrol's Center[END]
+// current address: $148BF
+
+//Text $148BF
+#WRITE(ptr,$5998)
+Ruins Near Lienea[END]
+// current address: $148D1
+
+//Text $148D1
+#WRITE(ptr,$599C)
+The Ruins Near Lienea Bay[END]
+// current address: $148EB
+
+//Text $148EB
+#WRITE(ptr,$59A0)
+Ghost Story?[END]
+// current address: $148F8
+
+//Text $148F8
+#WRITE(ptr,$59A4)
+The Seal is Secured[END]
+// current address: $1490C
+
+//Text $1490C
+#WRITE(ptr,$59A8)
+What's [Kongman]'s Dream?[END]
+// current address: $14922
+
+//Text $14922
+#WRITE(ptr,$59AC)
+Get the R Key[END]
+// current address: $14930
+
+//Text $14930
+#WRITE(ptr,$59B0)
+The R Key Is at the Far End[END]
+// current address: $1494C
+
+//Text $1494C
+#WRITE(ptr,$59B4)
+Let's Leave the Temple[END]
+// current address: $14963
+
+//Text $14963
+#WRITE(ptr,$59B8)
+Radisrol is East of Calvalese[END]
+// current address: $14981
+
+//Text $14981
+#WRITE(ptr,$59BC)
+Let's Go Back to Radisrol[END]
+// current address: $1499B
+
+//Text $1499B
+#WRITE(ptr,$59C0)
+Women are Amazing[END]
+// current address: $149AD
+
+//Text $149AD
+#WRITE(ptr,$59C4)
+Aeth'er Army Attack[END]
+// current address: $149C1
+
+//Text $149C1
+#WRITE(ptr,$59C8)
+Doesn't Your Hair Bother You?[END]
+// current address: $149DF
+
+//Text $149DF
+#WRITE(ptr,$59CC)
+Like-Minded[END]
+// current address: $149EB
+
+//Text $149EB
+#WRITE(ptr,$59D0)
+[Kongman]'s Daily Routine[END]
+// current address: $14A01
+
+//Text $14A01
+#WRITE(ptr,$59D4)
+Hurry to the Central Area[END]
+// current address: $14A1B
+
+//Text $14A1B
+#WRITE(ptr,$59D8)
+Let's Check up on [Rutee][END]
+// current address: $14A33
+
+//Text $14A33
+#WRITE(ptr,$59DC)
+Head to Ignasea[END]
+// current address: $14A43
+
+//Text $14A43
+#WRITE(ptr,$59E0)
+Going to Ignasea[END]
+// current address: $14A54
+
+//Text $14A54
+#WRITE(ptr,$59E4)
+Enter Ignasea through the Outer Shell[END]
+// current address: $14A7A
+
+//Text $14A7A
+#WRITE(ptr,$59E8)
+We Shouldn't Go Out Right Now[END]
+// current address: $14A98
+
+//Text $14A98
+#WRITE(ptr,$59EC)
+Observer[END]
+// current address: $14AA1
+
+//Text $14AA1
+#WRITE(ptr,$59F0)
+What's a Transporter?[END]
+// current address: $14AB7
+
+//Text $14AB7
+#WRITE(ptr,$59F4)
+[Philia]'s Experiment[END]
+// current address: $14ACA
+
+//Text $14ACA
+#WRITE(ptr,$59F8)
+Creating Bombs is Dangerous[END]
+// current address: $14AE6
+
+//Text $14AE6
+#WRITE(ptr,$59FC)
+Secure the Transporter[END]
+// current address: $14AFD
+
+//Text $14AFD
+#WRITE(ptr,$5A00)
+It's so Dark in Here[END]
+// current address: $14B12
+
+//Text $14B12
+#WRITE(ptr,$5A04)
+[Philia]'s Dreams?[END]
+// current address: $14B22
+
+//Text $14B22
+#WRITE(ptr,$5A08)
+A Serious Gaze?[END]
+// current address: $14B32
+
+//Text $14B32
+#WRITE(ptr,$5A0C)
+Leaving Deimos for Cloudius[END]
+// current address: $14B4E
+
+//Text $14B4E
+#WRITE(ptr,$5A10)
+Find the Security Unit[END]
+// current address: $14B65
+
+//Text $14B65
+#WRITE(ptr,$5A14)
+Get the Energy Unit Back[END]
+// current address: $14B7E
+
+//Text $14B7E
+#WRITE(ptr,$5A18)
+Catch the Rat[END]
+// current address: $14B8C
+
+//Text $14B8C
+#WRITE(ptr,$5A1C)
+Hurry to the Main System[END]
+// current address: $14BA5
+
+//Text $14BA5
+#WRITE(ptr,$5A20)
+We Need to Get out of Deimos[END]
+// current address: $14BC2
+
+//Text $14BC2
+#WRITE(ptr,$5A24)
+Hurry to Cloudius[END]
+// current address: $14BD4
+
+//Text $14BD4
+#WRITE(ptr,$5A28)
+Stop the Guardian Dragon![END]
+// current address: $14BEE
+
+//Text $14BEE
+#WRITE(ptr,$5A2C)
+We Need to Stop the Guardian Dragon[END]
+// current address: $14C12
+
+//Text $14C12
+#WRITE(ptr,$5A30)
+To Ignasea via Deimos[END]
+// current address: $14C28
+
+//Text $14C28
+#WRITE(ptr,$5A34)
+Deimos to Ignasea[END]
+// current address: $14C3A
+
+//Text $14C3A
+#WRITE(ptr,$5A38)
+Return to Radisrol[END]
+// current address: $14C4D
+
+//Text $14C4D
+#WRITE(ptr,$5A3C)
+To Helraios via Rodeon[END]
+// current address: $14C64
+
+//Text $14C64
+#WRITE(ptr,$5A40)
+Rodeon to Helraios[END]
+// current address: $14C77
+
+//Text $14C77
+#WRITE(ptr,$5A44)
+It Still Won't Open[END]
+// current address: $14C8B
+
+//Text $14C8B
+#WRITE(ptr,$5A48)
+Thoughts on the Aetherians?[END]
+// current address: $14CA7
+
+//Text $14CA7
+#WRITE(ptr,$5A4C)
+Learning Experience[END]
+// current address: $14CBB
+
+//Text $14CBB
+#WRITE(ptr,$5A50)
+Natural Enemies?[END]
+// current address: $14CCC
+
+//Text $14CCC
+#WRITE(ptr,$5A54)
+What are [Ilene]'s True Intentions?[END]
+// current address: $14CEE
+
+//Text $14CEE
+#WRITE(ptr,$5A58)
+One Job Done[END]
+// current address: $14CFB
+
+//Text $14CFB
+#WRITE(ptr,$5A5C)
+What Kind of Person is Igtenos?[END]
+// current address: $14D1B
+
+//Text $14D1B
+#WRITE(ptr,$5A60)
+Qualifications of a Swordian Master?[END]
+// current address: $14D40
+
+//Text $14D40
+#WRITE(ptr,$5A64)
+Igtenos' Pain[END]
+// current address: $14D4E
+
+//Text $14D4E
+#WRITE(ptr,$5A68)
+Through Rodeon to Helraios[END]
+// current address: $14D69
+
+//Text $14D69
+#WRITE(ptr,$5A6C)
+Enter Helraios through the Outer Shell[END]
+// current address: $14D90
+
+//Text $14D90
+#WRITE(ptr,$5A70)
+We're Heading for Helraios[END]
+// current address: $14DAB
+
+//Text $14DAB
+#WRITE(ptr,$5A74)
+Attacking Helraios[END]
+// current address: $14DBE
+
+//Text $14DBE
+#WRITE(ptr,$5A78)
+Is [Ilene] at the Center?[END]
+// current address: $14DD6
+
+//Text $14DD6
+#WRITE(ptr,$5A7C)
+Let's go to the Central Area[END]
+// current address: $14DF3
+
+//Text $14DF3
+#WRITE(ptr,$5A80)
+Let's Return to the Others[END]
+// current address: $14E0E
+
+//Text $14E0E
+#WRITE(ptr,$5A84)
+We're Heading to Radisrol[END]
+// current address: $14E28
+
+//Text $14E28
+#WRITE(ptr,$5A88)
+Let's return to Radirol[END]
+// current address: $14E40
+
+//Text $14E40
+#WRITE(ptr,$5A8C)
+Hurry to [Ritora][END]
+// current address: $14E4F
+
+//Text $14E4F
+#WRITE(ptr,$5A90)
+To Mikheil via Josaia[END]
+// current address: $14E65
+
+//Text $14E65
+#WRITE(ptr,$5A94)
+From Josaia to Mikheil[END]
+// current address: $14E7C
+
+//Text $14E7C
+#WRITE(ptr,$5A98)
+What If?[END]
+// current address: $14E85
+
+//Text $14E85
+#WRITE(ptr,$5A9C)
+Swordian Conference[END]
+// current address: $14E99
+
+//Text $14E99
+#WRITE(ptr,$5AA0)
+Reckless [Philia]?[END]
+// current address: $14EA9
+
+//Text $14EA9
+#WRITE(ptr,$5AA4)
+Pass Through Josaia to Mikheil[END]
+// current address: $14EC8
+
+//Text $14EC8
+#WRITE(ptr,$5AA8)
+Let's Leave Josaia for Mikheil[END]
+// current address: $14EE7
+
+//Text $14EE7
+#WRITE(ptr,$5AAC)
+Traverse the Aethersphere to Mikheil[END]
+// current address: $14F0C
+
+//Text $14F0C
+#WRITE(ptr,$5AB0)
+Finding an Aeth'er Cruiser[END]
+// current address: $14F27
+
+//Text $14F27
+#WRITE(ptr,$5AB4)
+The Depths of the Aeth'er Cruiser[END]
+// current address: $14F49
+
+//Text $14F49
+#WRITE(ptr,$5AB8)
+[Hugo]'s True Motives?[END]
+// current address: $14F5F
+
+//Text $14F5F
+#WRITE(ptr,$5ABC)
+Aim for Belcrant's Zenith[END]
+// current address: $14F79
+
+//Text $14F79
+#WRITE(ptr,$5AC0)
+To the Top of Belcrant[END]
+// current address: $14F90
+
+//Text $14F90
+#WRITE(ptr,$5AC4)
+Stopping [Hugo]'s Plan[END]
+// current address: $14FA6
+
+//Text $14FA6
+#WRITE(ptr,$5AC8)
+For the Living[END]
+// current address: $14FB5
+
+//Text $14FB5
+#WRITE(ptr,$5ACC)
+Meeting after a Long Absence[END]
+// current address: $14FD2
+
+//Text $14FD2
+#WRITE(ptr,$5AD0)
+A Rivalry Emerges?[END]
+// current address: $14FE5
+
+//Text $14FE5
+#WRITE(ptr,$5AD4)
+Hurry to Cresta[END]
+// current address: $14FF5
+
+//Text $14FF5
+#WRITE(ptr,$5AD8)
+Cresta is East of Darilsheid[END]
+// current address: $15012
+
+//Text $15012
+#WRITE(ptr,$5ADC)
+What Happened to Phadaria[END]
+// current address: $1502C
+
+//Text $1502C
+#WRITE(ptr,$5AE0)
+Quickly, to the Orphanage[END]
+// current address: $15046
+
+//Text $15046
+#WRITE(ptr,$5AE4)
+Returning to Darilsheid[END]
+// current address: $1505E
+
+//Text $1505E
+#WRITE(ptr,$5AE8)
+We Must Return to Darilsheid[END]
+// current address: $1507B
+
+//Text $1507B
+#WRITE(ptr,$5AEC)
+Defend Darilsheid from the Monsters[END]
+// current address: $1509F
+
+//Text $1509F
+#WRITE(ptr,$5AF0)
+Let's Get to the Inn[END]
+// current address: $150B4
+
+//Text $150B4
+#WRITE(ptr,$5AF4)
+To [Reynolds]' Lab[END]
+// current address: $150C2
+
+//Text $150C2
+#WRITE(ptr,$5AF8)
+[Reynolds]' Lab is in the Castle[END]
+// current address: $150DE
+
+//Text $150DE
+#WRITE(ptr,$5AFC)
+[Kongman]'s Training[END]
+// current address: $150EF
+
+//Text $150EF
+#WRITE(ptr,$5B00)
+What's it Like to Talk to a Sword?[END]
+// current address: $15112
+
+//Text $15112
+#WRITE(ptr,$5B04)
+Hurry to the Audience Chamber[END]
+// current address: $15130
+
+//Text $15130
+#WRITE(ptr,$5B08)
+Riding the Dragon[END]
+// current address: $15142
+
+//Text $15142
+#WRITE(ptr,$5B0C)
+Taking the Dragon to the Swordian R&D Lab[END]
+// current address: $1516C
+
+//Text $1516C
+#WRITE(ptr,$5B10)
+The Lab is West of Darilsheid[END]
+// current address: $1518A
+
+//Text $1518A
+#WRITE(ptr,$5B14)
+The Lab Right in Front of Darilsheid[END]
+// current address: $151AF
+
+//Text $151AF
+#WRITE(ptr,$5B18)
+What is that Song?[END]
+// current address: $151C2
+
+//Text $151C2
+#WRITE(ptr,$5B1C)
+[Chelsea]'s Feelings[END]
+// current address: $151D3
+
+//Text $151D3
+#WRITE(ptr,$5B20)
+Talking in Private[END]
+// current address: $151E6
+
+//Text $151E6
+#WRITE(ptr,$5B24)
+Hang in There, [Chelsea][END]
+// current address: $151FB
+
+//Text $151FB
+#WRITE(ptr,$5B28)
+Where's the Lab Equipment?[END]
+// current address: $15216
+
+//Text $15216
+#WRITE(ptr,$5B2C)
+Goal: Innermost Depths[END]
+// current address: $1522D
+
+//Text $1522D
+#WRITE(ptr,$5B30)
+The Final Test[END]
+// current address: $1523C
+
+//Text $1523C
+#WRITE(ptr,$5B34)
+Junkland is West of Calvalese [END]
+// current address: $1525B
+
+//Text $1525B
+#WRITE(ptr,$5B38)
+West of Calvalese is Junkland[END]
+// current address: $15279
+
+//Text $15279
+#WRITE(ptr,$5B3C)
+Just the Way You Are[END]
+// current address: $1528E
+
+//Text $1528E
+#WRITE(ptr,$5B40)
+[Woodrow]'s Dream?[END]
+// current address: $1529D
+
+//Text $1529D
+#WRITE(ptr,$5B44)
+[Johnny]'s Dream?[END]
+// current address: $152AC
+
+//Text $152AC
+#WRITE(ptr,$5B48)
+Who Do You Like? (Girls)[END]
+// current address: $152C5
+
+//Text $152C5
+#WRITE(ptr,$5B4C)
+Who Do You Like? (Boys)[END]
+// current address: $152DD
+
+//Text $152DD
+#WRITE(ptr,$5B50)
+Enthusiastic [Chelsea][END]
+// current address: $152F0
+
+//Text $152F0
+#WRITE(ptr,$5B54)
+Let's Go to Trash Mountain[END]
+// current address: $1530B
+
+//Text $1530B
+#WRITE(ptr,$5B58)
+Finding Berselium[END]
+// current address: $1531D
+
+//Text $1531D
+#WRITE(ptr,$5B5C)
+Searching for Berselium[END]
+// current address: $15335
+
+//Text $15335
+#WRITE(ptr,$5B60)
+Let's Get out of Here[END]
+// current address: $1534B
+
+//Text $1534B
+#WRITE(ptr,$5B64)
+Darilsheid is South East of Junkland[END]
+// current address: $15370
+
+//Text $15370
+#WRITE(ptr,$5B68)
+The Draconis is near Darilsheid[END]
+// current address: $15390
+
+//Text $15390
+#WRITE(ptr,$5B6C)
+Let's See [Reynolds] in Seinegald[END]
+// current address: $153AD
+
+//Text $153AD
+#WRITE(ptr,$5B70)
+[Chelsea]'s Dream?[END]
+// current address: $153BC
+
+//Text $153BC
+#WRITE(ptr,$5B74)
+[Johnny]'s Songwriting[END]
+// current address: $153D0
+
+//Text $153D0
+#WRITE(ptr,$5B78)
+Chance Encounter[END]
+// current address: $153E1
+
+//Text $153E1
+#WRITE(ptr,$5B7C)
+Songs are Magical[END]
+// current address: $153F3
+
+//Text $153F3
+#WRITE(ptr,$5B80)
+Stay Positive[END]
+// current address: $15401
+
+//Text $15401
+#WRITE(ptr,$5B84)
+Searching for Lens around the World[END]
+// current address: $15425
+
+//Text $15425
+#WRITE(ptr,$5B88)
+Seeking Lens in NeuestadtEND]Seeking Lens in Heidelberg[END]
+// current address: $1545D
+
+//Text $15442
+#WRITE(ptr,$5B8C)
+Seeking Lens in Heidelberg[END]
+// current address: $1545D
+
+//Text $1545D
+#WRITE(ptr,$5B90)
+Seeking Lens in Kalviola[END]
+// current address: $15476
+
+//Text $15476
+#WRITE(ptr,$5B94)
+Seeing Lens in Terazzi[END]
+// current address: $1548D
+
+//Text $1548D
+#WRITE(ptr,$5B98)
+Delivering the Lens to [Reynolds][END]
+// current address: $154AA
+
+//Text $154AA
+#WRITE(ptr,$5B9C)
+A Change in [Philia]'s Image[END]
+// current address: $154C4
+
+//Text $154C4
+#WRITE(ptr,$5BA0)
+Discussing DarilsheidEND]Preparing for Tomorrow at the Inn[END]
+// current address: $154FF
+
+//Text $154DD
+#WRITE(ptr,$5BA4)
+Preparing for Tomorrow at the Inn[END]
+// current address: $154FF
+
+//Text $154FF
+#WRITE(ptr,$5BA8)
+If You Need a Break, Go to the Inn[END]
+// current address: $15522
+
+//Text $15522
+#WRITE(ptr,$5BAC)
+What We Need to Do Now[END]
+// current address: $15539
+
+//Text $15539
+#WRITE(ptr,$5BB0)
+Let's Get Our People[END]
+// current address: $1554E
+
+//Text $1554E
+#WRITE(ptr,$5BB4)
+Getting to the Lens Cannon[END]
+// current address: $15569
+
+//Text $15569
+#WRITE(ptr,$5BB8)
+To the Lens Cannon[END]
+// current address: $1557C
+
+//Text $1557C
+#WRITE(ptr,$5BBC)
+Let's Go to the Dycroft![END]
+// current address: $15595
+
+//Text $15595
+#WRITE(ptr,$5BC0)
+To Dycroft![END]
+// current address: $155A1
+
+//Text $155A1
+#WRITE(ptr,$5BC4)
+Let's Stay in Town[END]
+// current address: $155B4
+
+//Text $155B4
+#WRITE(ptr,$5BC8)
+It's Better to Go Now..[END]
+// current address: $155CC
+
+//Text $155CC
+#WRITE(ptr,$5BCC)
+Where are You Going?[END]
+// current address: $155E1
+
+//Text $155E1
+#WRITE(ptr,$5BD0)
+It Happens Tomorrow[END]
+// current address: $155F5
+
+//Text $155F5
+#WRITE(ptr,$5BD4)
+Let's Take Down [Miktran]![END]
+// current address: $1560C
+
+//Text $1560C
+#WRITE(ptr,$5BD8)
+We're going to Beat [Miktran]![END]
+// current address: $15627
+
+//Text $15627
+#WRITE(ptr,$5BDC)
+Keep Pushing Onward![END]
+// current address: $1563C
+
+//Text $1563C
+#WRITE(ptr,$5BE0)
+At All Costs![END]
+// current address: $1564A
+
+//Text $1564A
+#WRITE(ptr,$5BE4)
+Hurry![END]
+// current address: $15651
+
+//Text $15651
+#WRITE(ptr,$5BE8)
+With All Our Might![END]
+// current address: $15665
+
+//Text $15665
+#WRITE(ptr,$5BEC)
+Take Him Down![END]
+// current address: $15674
+
+//Text $15674
+#WRITE(ptr,$5BF0)
+Let's Finish Him Off![END]
+// current address: $1568A
+
+//Text $1568A
+#WRITE(ptr,$5BF4)
+We're Going to Take Him Down![END]
+// current address: $156A8
+
+//Text $156A8
+#WRITE(ptr,$5BF8)
+It's Going to Blow![END]
+// current address: $156BC
+
+//Text $156BC
+#WRITE(ptr,$5BFC)
+To Dycroft![END]
+// current address: $156C8
+
+//Text $156C8
+#WRITE(ptr,$5C00)
+Enemy Headquarters[END]
+// current address: $156DB
+
+//Text $156DB
+#WRITE(ptr,$5C04)
+Stoping a Century Old Ambition[END]
+// current address: $156FA
+
+//Text $156FA
+#WRITE(ptr,$5C08)
+Restoring Light to the World[END]
+// current address: $15717
+
+//Text $15717
+#WRITE(ptr,$5C0C)
+Your Courage is Inspiring[END]
+// current address: $15731
+
+//Text $15731
+#WRITE(ptr,$5C10)
+To the Leviathan[END]
+// current address: $15742
+
+//Text $15742
+#WRITE(ptr,$5C14)
+Harsh Reality[END]
+// current address: $15750
+
+//Text $15750
+#WRITE(ptr,$5C18)
+I'm a Little Rusty[END]
+// current address: $15763
+
+//Text $15763
+#WRITE(ptr,$5C1C)
+Burning Glare[END]
+// current address: $15771
+
+//Text $15771
+#WRITE(ptr,$5C20)
+A More Intense Glare[END]
+// current address: $15786
+
+//Text $15786
+#WRITE(ptr,$5C24)
+You're the Future Champion?![END]
+// current address: $157A3
+
+//Text $157A3
+#WRITE(ptr,$5C28)
+War of the Women?[END]
+// current address: $157B5
+
+//Text $157B5
+#WRITE(ptr,$5C2C)
+The Key to Strength[END]
+// current address: $157C9
+
+//Text $157C9
+#WRITE(ptr,$5C30)
+Legendary Champion[END]
+// current address: $157DC
+
+//Text $157DC
+#WRITE(ptr,$5C34)
+Female Friendship?[END]
+// current address: $157EF
+
+//Text $157EF
+#WRITE(ptr,$5C38)
+Ghosts of the Past[END]
+// current address: $15802
+
+//Text $15802
+#WRITE(ptr,$5C3C)
+Enthralling Brilliance[END]
+// current address: $15819
+
+//Text $15819
+#WRITE(ptr,$5C40)
+The Life of a Lens Hunter[END]
+// current address: $15833
+
+//Text $15833
+#WRITE(ptr,$5C44)
+I Don't Want to Do This[END]
+// current address: $1584B
+
+//Text $1584B
+#WRITE(ptr,$5C48)
+I'm Stuffed![END]
+// current address: $15858
+
+//Text $15858
+#WRITE(ptr,$5C4C)
+You Need to Recover[END]
+// current address: $1586C
+
+//Text $1586C
+#WRITE(ptr,$5C50)
+Don't Get Confused![END]
+// current address: $15880
+
+//Text $15880
+#WRITE(ptr,$5C54)
+Common Sense[END]
+// current address: $1588D
+
+//Text $1588D
+#WRITE(ptr,$5C58)
+A Token of Apology[END]
+// current address: $158A0
+
+//Text $158A0
+#WRITE(ptr,$5C5C)
+Potential Substitute?[END]
+// current address: $158B6
+
+//Text $158B6
+#WRITE(ptr,$5C60)
+Personal Responsibility[END]
+// current address: $158CE
+
+//Text $158CE
+#WRITE(ptr,$5C64)
+Positive and Negative Words[END]
+// current address: $158EA
+
+//Text $158EA
+#WRITE(ptr,$5C68)
+Are We Forgetting Something?[END]
+// current address: $15907
+
+//Text $15907
+#WRITE(ptr,$5C6C)
+I Know How You're Feeling[END]
+// current address: $15921
+
+//Text $15921
+#WRITE(ptr,$5C70)
+Where Are My Brother's Thoughts?[END]
+// current address: $15942
+
+//Text $15942
+#WRITE(ptr,$5C74)
+Thank You, Everyone![END]
+// current address: $15957
+
+//Text $15957
+#WRITE(ptr,$5C78)
+[Mary]'s Dream[END]
+// current address: $15965
+
+//Text $15965
+#WRITE(ptr,$5C7C)
+Why Won't He Tell Me His Name?[END]
+// current address: $15984
+
+//Text $15984
+#WRITE(ptr,$5C80)
+I Love Sleeping[END]
+// current address: $15994
+
+//Text $15994
+#WRITE(ptr,$5C84)
+Looking for Gald[END]
+// current address: $159A5
+
+//Text $159A5
+#WRITE(ptr,$5C88)
+I've Got Your Back[END]
+// current address: $159B8
+
+//Text $159B8
+#WRITE(ptr,$5C8C)
+Intuition on the Field?[END]
+// current address: $159D0
+
+//Text $159D0
+#WRITE(ptr,$5C90)
+Suprising Suited for Command?[END]
+// current address: $159EE
+
+//Text $159EE
+#WRITE(ptr,$5C94)
+I'm Enjoying This[END]
+// current address: $15A00
+
+//Text $15A00
+#WRITE(ptr,$5C98)
+Growing Seeds is Fun[END]
+// current address: $15A15
+
+//Text $15A15
+#WRITE(ptr,$5C9C)
+Merits and Demerits[END]
+// current address: $15A29
+
+//Text $15A29
+#WRITE(ptr,$5CA0)
+Tireless Effort is the Secret to Victory[END]
+// current address: $15A52
+
+//Text $15A52
+#WRITE(ptr,$5CA4)
+The Fun After Battle[END]
+// current address: $15A67
+
+//Text $15A67
+#WRITE(ptr,$5CA8)
+Under the Eyes of Atamoni[END]
+// current address: $15A81
+
+//Text $15A81
+#WRITE(ptr,$5CAC)
+Above the Aethersphere[END]
+// current address: $15A98
+
+//Text $15A98
+#WRITE(ptr,$5CB0)
+Let's Go after Him[END]
+// current address: $15AAB
+
+//Text $15AAB
+#WRITE(ptr,$5CB4)
+We Need to Stop [Hugo][END]
+// current address: $15AC1
+
+//Text $15AC1
+#WRITE(ptr,$5CB8)
+We Won't Let You Harm the Surface[END]
+// current address: $15AE3
+
+//Text $15AE3
+#WRITE(ptr,$5CBC)
+Get Back Here, Now[END]
+// current address: $15AF6
+
+//Text $15AF6
+#WRITE(ptr,$5CC0)
+Not This Way[END]
+// current address: $15B03
+
+//Text $15B03
+#WRITE(ptr,$5CC4)
+Hurry[END]
+// current address: $15B09
+
+//Text $15B09
+#WRITE(ptr,$5CC8)
+We Should Hurry[END]
+// current address: $15B19
+
+//Text $15B19
+#WRITE(ptr,$5CCC)
+Don't Dawdle[END]
+// current address: $15B26
+
+//Text $15B26
+#WRITE(ptr,$5CD0)
+Not That Way[END]
+// current address: $15B33
+
+//Text $15B33
+#WRITE(ptr,$5CD4)
+I Have Other Things to Do[END]
+// current address: $15B4D
+
+//Text $15B4D
+#WRITE(ptr,$5CD8)
+What We Need to Do[END]
+// current address: $15B60
+
+//Text $15B60
+#WRITE(ptr,$5CDC)
+Let's See What's Happening[END]
+// current address: $15B7B
+
+//Text $15B7B
+#WRITE(ptr,$5CE0)
+Let's Talk First[END]
+// current address: $15B8C
+
+//Text $15B8C
+#WRITE(ptr,$5CE4)
+Anyways, Let's Hear Him Out[END]
+// current address: $15BA8
+
+//Text $15BA8
+#WRITE(ptr,$5CE8)
+Other Things to Do[END]
+// current address: $15BBB
+
+//Text $15BBB
+#WRITE(ptr,$5CEC)
+I Have Other Things to Do Right Now[END]
+// current address: $15BDF
+
+//Text $15BDF
+#WRITE(ptr,$5CF0)
+Let's Talk to the People in Town[END]
+// current address: $15C00
+
+//Text $15C00
+#WRITE(ptr,$5CF4)
+Let's Check it Out[END]
+// current address: $15C13
+
+//Text $15C13
+#WRITE(ptr,$5CF8)
+Let's Head Outside First[END]
+// current address: $15C2C
+
+//Text $15C2C
+#WRITE(ptr,$5CFC)
+Let's Stay Here[END]
+// current address: $15C3C
+
+//Text $15C3C
+#WRITE(ptr,$5D00)
+North from Here[END]
+// current address: $15C4C
+
+//Text $15C4C
+#WRITE(ptr,$5D04)
+Northeast from Here[END]
+// current address: $15C60
+
+//Text $15C60
+#WRITE(ptr,$5D08)
+East from Here[END]
+// current address: $15C6F
+
+//Text $15C6F
+#WRITE(ptr,$5D0C)
+Southeast from Here[END]
+// current address: $15C83
+
+//Text $15C83
+#WRITE(ptr,$5D10)
+South from Here[END]
+// current address: $15C93
+
+//Text $15C93
+#WRITE(ptr,$5D14)
+Southwest from Here[END]
+// current address: $15CA7
+
+//Text $15CA7
+#WRITE(ptr,$5D18)
+West from Here[END]
+// current address: $15CB6
+
+//Text $15CB6
+#WRITE(ptr,$5D1C)
+Northwest from Here[END]
+// current address: $15CCA
+
+//Text $15CCA
+#WRITE(ptr,$5D20)
+Let's Get on the Leviathan[END]
+// current address: $15CE5
+
+//Text $15CE5
+#WRITE(ptr,$5D24)
+Anyway, to the Leviathan[END]
+// current address: $15CFE
+
+//Text $15CFE
+#WRITE(ptr,$5D28)
+Let's Take the Draconis[END]
+// current address: $15D16
+
+//Text $15D16
+#WRITE(ptr,$5D2C)
+Anyway, to the Draconis[END]
+// current address: $15D2E
+
+//Text $15D2E
+#WRITE(ptr,$5D30)
+Let's Head to the Harbor[END]
+// current address: $15D47
+
+//Text $15D47
+#WRITE(ptr,$5D34)
+Let's Head to the Castle[END]
+// current address: $15D60
+
+//Text $15D60
+#WRITE(ptr,$5D38)
+Respite[END]
+// current address: $15D68
+
+//Text $15D68
+#WRITE(ptr,$5D3C)
+The Guardian Dragon is Important[END]
+// current address: $15D89
+
+//Text $15D89
+#WRITE(ptr,$5D40)
+[Igtenos] First[END]
+// current address: $15D95
+
+//Text $15D95
+#WRITE(ptr,$5D44)
+Take the Device to Radisrol[END]
+// current address: $15DB1
+
+//Text $15DB1
+#WRITE(ptr,$5D48)
+Top Priorty: Aeth'er Cruiser[END]
+// current address: $15DCE
+
+//Text $15DCE
+#WRITE(ptr,$5D4C)
+No Business at This Town[END]
+// current address: $15DE7
+
+//Text $15DE7
+#WRITE(ptr,$5D50)
+My Sister's Thoughts[END]
+// current address: $15DFC
+
+//Text $15DFC
+#WRITE(ptr,$5D54)
+Race - 1[END]
+// current address: $15E05
+
+//Text $15E05
+#WRITE(ptr,$5D58)
+Race - 2[END]
+// current address: $15E0E
+
+//Text $15E0E
+#WRITE(ptr,$5D5C)
+Question![END]
+// current address: $15E18
+
+//Text $15E18
+#WRITE(ptr,$5D60)
+Ready![END]
+// current address: $15E1F
+
+//Text $15E1F
+#WRITE(ptr,$5D64)
+Absolutely Correct![END]
+// current address: $15E33
+
+//Text $15E33
+#WRITE(ptr,$5D68)
+Still Practicing[END]
+// current address: $15E44
+
+//Text $15E44
+#WRITE(ptr,$5D6C)
+Expedition [Stahn][END]
+// current address: $15E55
+
+//Text $15E55
+#WRITE(ptr,$5D70)
+Fortune - 1[END]
+// current address: $15E61
+
+//Text $15E61
+#WRITE(ptr,$5D74)
+Fortune - 2[END]
+// current address: $15E6D
+
+//Text $15E6D
+#WRITE(ptr,$5D78)
+Fortune - 3[END]
+// current address: $15E79
+
+//Text $15E79
+#WRITE(ptr,$5D7C)
+Fortune - 4[END]
+// current address: $15E85
+
+//Text $15E85
+#WRITE(ptr,$5D80)
+Fortune - 5[END]
+// current address: $15E91
+
+//Text $15E91
+#WRITE(ptr,$5D84)
+Fortune - 6[END]
+// current address: $15E9D
+
+//Text $15E9D
+#WRITE(ptr,$5D88)
+Fortune - 7[END]
+// current address: $15EA9
+
+//Text $15EA9
+#WRITE(ptr,$5D8C)
+"[Batista] Bomb"[END]
+// current address: $15EB6
+
+//Text $15EB6
+#WRITE(ptr,$5D90)
+[Philia]'s True Feelings[END]
+// current address: $15ECC
+
+//Text $15ECC
+#WRITE(ptr,$5D94)
+A Time for Dreaming[END]
+// current address: $15EE0
+
+//Text $15EE0
+#WRITE(ptr,$5D98)
+He's Me, I'm Him, so he's...[END]
+// current address: $15EFD
+
+//Text $15EFD
+#WRITE(ptr,$5D9C)
+[Rembrandt]'s Talent[END]
+// current address: $15F0C
+
+//Text $15F0C
+#WRITE(ptr,$5DA0)
+Outtake 1[END]
+// current address: $15F16
+
+//Text $15F16
+#WRITE(ptr,$5DA4)
+Outtake 2[END]
+// current address: $15F20
+
+//Text $15F20
+#WRITE(ptr,$5DA8)
+Bonus Footage: Backstage[END]
+// current address: $15F39
+
+//Text $15F39
+#WRITE(ptr,$5DAC)
+Phantasia[END]
+// current address: $15F43
+
+//Text $15F43
+#WRITE(ptr,$5DB0)
+The Abyss[END]
+// current address: $15F4D
+
+//Text $15F4D
+#WRITE(ptr,$5DB4)
+"Tales of" Series[END]
+// current address: $15F5F
+
+//Text $15F5F
+#WRITE(ptr,$5DB8)
+Tales of Destiny[END]
+// current address: $15F70
+
+//Text $15F70
+#WRITE(ptr,$5DBC)
+[Reynolds] is Useful[END]
+// current address: $15F80
+
+//Text $15F80
+#WRITE(ptr,$5DC0)
+[Ritora]'s Hologram Is Amazing![END]
+// current address: $15F9D
+
+//Text $15F9D
+#WRITE(ptr,$5DC4)
+We've Been Together All Along[END]
+// current address: $15FBB
+
+//Text $15FBB
+#WRITE(ptr,$5DC8)
+[END]
+// current address: $15FBC
+
+//Text $15FBC
+#WRITE(ptr,$5DCC)
+[END]
+// current address: $15FBD
+
+//Text $15FBD
+#WRITE(ptr,$5DD0)
+[END]
+// current address: $15FBE
+
+//Text $15FBE
+#WRITE(ptr,$5DD4)
+[END]
+// current address: $15FBF
+
+//Text $15FBF
+#WRITE(ptr,$5DD8)
+[END]
+// current address: $15FC0
+
+//Text $15FC0
+#WRITE(ptr,$5DDC)
+[END]
+// current address: $15FC1
+
+//Text $15FC1
+#WRITE(ptr,$5DE0)
+[END]
+// current address: $15FC2
+
+//Text $15FC2
+#WRITE(ptr,$5DE4)
+[END]
+// current address: $15FC3
+
+//Text $15FC3
+#WRITE(ptr,$5DE8)
+[END]
+// current address: $15FC4
+
+//Text $15FC4
+#WRITE(ptr,$5DEC)
+[END]
+// current address: $15FC5
+
+//Text $15FC5
+#WRITE(ptr,$5DF0)
+[END]
+// current address: $15FC6
+
+//Text $15FC6
+#WRITE(ptr,$5DF4)
+Another Swordian[END]
+// current address: $15FD7
+
+//Text $15FD7
+#WRITE(ptr,$5DF8)
+Why?[END]
+// current address: $15FDC
+
+//Text $15FDC
+#WRITE(ptr,$5DFC)
+[Marian]'s Lecture..[END]
+// current address: $15FEE
+
+//Text $15FEE
+#WRITE(ptr,$5E00)
+We're up Against 3 People![END]
+// current address: $16009
+
+//Text $16009
+#WRITE(ptr,$5E04)
+[Hugo] and [Rutee][END]
+// current address: $16019
+
+//Text $16019
+#WRITE(ptr,$5E08)
+Not [Dymlos] and [Atwight]..[END]
+// current address: $1602F
+
+//Text $1602F
+#WRITE(ptr,$5E0C)
+[Hugo]'s Plan[END]
+// current address: $1603C
+
+//Text $1603C
+#WRITE(ptr,$5E10)
+Chal's Concern[END]
+// current address: $1604B
+
+//Text $1604B
+#WRITE(ptr,$5E14)
+[Atwight] the Oasis[END]
+// current address: $1605B
+
+//Text $1605B
+#WRITE(ptr,$5E18)
+The Two of Us[END]
+// current address: $16069
+
+//Text $16069
+#WRITE(ptr,$5E1C)
+Softy Kreem![END]
+// current address: $16076
+
+//Text $16076
+#WRITE(ptr,$5E20)
+So Dashing![END]
+// current address: $16082
+
+//Text $16082
+#WRITE(ptr,$5E24)
+Irritated [Lion][END]
+// current address: $16092
+
+//Text $16092
+#WRITE(ptr,$5E28)
+Always Together!?[END]
+// current address: $160A4
+
+//Text $160A4
+#WRITE(ptr,$5E2C)
+Family..[END]
+// current address: $160AD
+
+//Text $160AD
+#WRITE(ptr,$5E30)
+[Lion] Needs Glasses[END]
+// current address: $160C1
+
+//Text $160C1
+#WRITE(ptr,$5E34)
+Will and Jobs[END]
+// current address: $160CF
+
+//Text $160CF
+#WRITE(ptr,$5E38)
+Weeping [Chaltier][END]
+// current address: $160DD
+
+//Text $160DD
+#WRITE(ptr,$5E3C)
+Nothing Important. Just Killing Time[END]
+// current address: $16102
+
+//Text $16102
+#WRITE(ptr,$5E40)
+A Real Nice Place?[END]
+// current address: $16115
+
+//Text $16115
+#WRITE(ptr,$5E44)
+About [Lion]'s Mother[END]
+// current address: $1612A
+
+//Text $1612A
+#WRITE(ptr,$5E48)
+Kind Master [lion] Isn't![END]
+// current address: $16144
+
+//Text $16144
+#WRITE(ptr,$5E4C)
+The Beach[END]
+// current address: $1614E
+
+//Text $1614E
+#WRITE(ptr,$5E50)
+A Building Visible on That Island[END]
+// current address: $16170
+
+//Text $16170
+#WRITE(ptr,$5E54)
+[Lion] and Chal's Quarrel[END]
+// current address: $16189
+
+//Text $16189
+#WRITE(ptr,$5E58)
+Where Are We?[END]
+// current address: $16197
+
+//Text $16197
+#WRITE(ptr,$5E5C)
+Farewell!?[END]
+// current address: $161A2
+
+//Text $161A2
+#WRITE(ptr,$5E60)
+[Philia]'s Glasses - 2[END]
+// current address: $161B6
+
+//Text $161B6
+#WRITE(ptr,$5E64)
+Thirsty[END]
+// current address: $161BE
+
+//Text $161BE
+#WRITE(ptr,$5E68)
+[Philia]'s Shampoo[END]
+// current address: $161CE
+
+//Text $161CE
+#WRITE(ptr,$5E6C)
+Pow Hammer![END]
+// current address: $161DA
+
+//Text $161DA
+#WRITE(ptr,$5E70)
+Onigiri[END]
+// current address: $161E2
+
+//Text $161E2
+#WRITE(ptr,$5E74)
+Hamburger[END]
+// current address: $161EC
+
+//Text $161EC
+#WRITE(ptr,$5E78)
+To the Village of Harmentz[END]
+// current address: $16207
+
+//Text $16207
+#WRITE(ptr,$5E7C)
+Harmentz is West of Darilsheid[END]
+// current address: $16226
+
+//Text $16226
+#WRITE(ptr,$5E80)
+No Business at the Castle[END]
+// current address: $16240
+
+//Text $16240
+#WRITE(ptr,$5E84)
+Let's go to Harmentz[END]
+// current address: $16255
+
+//Text $16255
+#WRITE(ptr,$5E88)
+Let's Return to Darilsheid[END]
+// current address: $16270
+
+//Text $16270
+#WRITE(ptr,$5E8C)
+Darilsheid is East of Harmentz[END]
+// current address: $1628F
+
+//Text $1628F
+#WRITE(ptr,$5E90)
+To the King at Seinegald Castle[END]
+// current address: $162AF
+
+//Text $162AF
+#WRITE(ptr,$5E94)
+To the Seinegald Castle Dungeon[END]
+// current address: $162CF
+
+//Text $162CF
+#WRITE(ptr,$5E98)
+Let's Return to the Manor[END]
+// current address: $162E9
+
+//Text $162E9
+#WRITE(ptr,$5E9C)
+Let's Return to the Manor[END]
+// current address: $16303
+
+//Text $16303
+#WRITE(ptr,$5EA0)
+Straylize Temple Is North of Darilsheid[END]
+// current address: $1632B
+
+//Text $1632B
+#WRITE(ptr,$5EA4)
+To the Temple Interior[END]
+// current address: $16342
+
+//Text $16342
+#WRITE(ptr,$5EA8)
+To the Cathedral[END]
+// current address: $16353
+
+//Text $16353
+#WRITE(ptr,$5EAC)
+Further Within the Hidden Passage[END]
+// current address: $16375
+
+//Text $16375
+#WRITE(ptr,$5EB0)
+To Darilsheid[END]
+// current address: $16383
+
+//Text $16383
+#WRITE(ptr,$5EB4)
+To the Harbor[END]
+// current address: $16391
+
+//Text $16391
+#WRITE(ptr,$5EB8)
+Hurry to the Harbor[END]
+// current address: $163A5
+
+//Text $163A5
+#WRITE(ptr,$5EBC)
+Before the King of Seinegald[END]
+// current address: $163C2
+
+//Text $163C2
+#WRITE(ptr,$5EC0)
+Report to His Majesty[END]
+// current address: $163D8
+
+//Text $163D8
+#WRITE(ptr,$5EC4)
+I Should Say Goodbye..[END]
+// current address: $163EF
+
+//Text $163EF
+#WRITE(ptr,$5EC8)
+To Where [Marian] Is...[END]
+// current address: $16404
+
+//Text $16404
+#WRITE(ptr,$5ECC)
+Let's Go to the Harbor[END]
+// current address: $1641B
+
+//Text $1641B
+#WRITE(ptr,$5ED0)
+To the Inn for Now[END]
+// current address: $1642E
+
+//Text $1642E
+#WRITE(ptr,$5ED4)
+Let's Look Around Town[END]
+// current address: $16445
+
+//Text $16445
+#WRITE(ptr,$5ED8)
+It's Dangerous Outside![END]
+// current address: $1645D
+
+//Text $1645D
+#WRITE(ptr,$5EDC)
+Let's Head Back to the Inn Soon[END]
+// current address: $1647D
+
+//Text $1647D
+#WRITE(ptr,$5EE0)
+Go to the Temple's Back Door![END]
+// current address: $1649B
+
+//Text $1649B
+#WRITE(ptr,$5EE4)
+Chase After [Greybum][END]
+// current address: $164AD
+
+//Text $164AD
+#WRITE(ptr,$5EE8)
+To the Front Door[END]
+// current address: $164BF
+
+//Text $164BF
+#WRITE(ptr,$5EEC)
+In Search of the Softy Kreem Stand[END]
+// current address: $164E2
+
+//Text $164E2
+#WRITE(ptr,$5EF0)
+We're Not Going Out of Town[END]
+// current address: $164FE
+
+//Text $164FE
+#WRITE(ptr,$5EF4)
+From the Harbor to the Armada[END]
+// current address: $1651C
+
+//Text $1651C
+#WRITE(ptr,$5EF8)
+My Target is Greybum[END]
+// current address: $16531
+
+//Text $16531
+#WRITE(ptr,$5EFC)
+We're Returning to Shiden[END]
+// current address: $1654B
+
+//Text $1654B
+#WRITE(ptr,$5F00)
+We're Heading Back to Shiden[END]
+// current address: $16568
+
+//Text $16568
+#WRITE(ptr,$5F04)
+Let's Find Some Rope[END]
+// current address: $1657D
+
+//Text $1657D
+#WRITE(ptr,$5F08)
+Let's Explore Moreau[END]
+// current address: $16592
+
+//Text $16592
+#WRITE(ptr,$5F0C)
+To Seinegald Castle[END]
+// current address: $165A6
+
+//Text $165A6
+#WRITE(ptr,$5F10)
+Let's Head to Harmentz[END]
+// current address: $165BD
+
+//Text $165BD
+#WRITE(ptr,$5F14)
+Harmentz is West of the Capital[END]
+// current address: $165DD
+
+//Text $165DD
+#WRITE(ptr,$5F18)
+To Straylize Temple[END]
+// current address: $165F1
+
+//Text $165F1
+#WRITE(ptr,$5F1C)
+Let's Return to the Manor[END]
+// current address: $1660B
+
+//Text $1660B
+#WRITE(ptr,$5F20)
+Let's Return to the Manor[END]
+// current address: $16625
+
+//Text $16625
+#WRITE(ptr,$5F24)
+Visit the King at Seinegald Castle[END]
+// current address: $16648
+
+//Text $16648
+#WRITE(ptr,$5F28)
+Go to Cresta, East of Darilsheid[END]
+// current address: $16669
+
+//Text $16669
+#WRITE(ptr,$5F2C)
+Cresta is East of Darilsheid[END]
+// current address: $16686
+
+//Text $16686
+#WRITE(ptr,$5F30)
+Let's Find the Seinegald Soldiers in Cresta[END]
+// current address: $166B2
+
+//Text $166B2
+#WRITE(ptr,$5F34)
+Let's Find the Orphanage[END]
+// current address: $166CB
+
+//Text $166CB
+#WRITE(ptr,$5F38)
+Find the Beach North of Cresta[END]
+// current address: $166EA
+
+//Text $166EA
+#WRITE(ptr,$5F3C)
+Let's Debrief the Mission[END]
+// current address: $16704
+
+//Text $16704
+#WRITE(ptr,$5F40)
+No Business Outside[END]
+// current address: $16718
+
+//Text $16718
+#WRITE(ptr,$5F44)
+Let's Hurry Back to the Manor[END]
+// current address: $16736
+
+//Text $16736
+#WRITE(ptr,$5F48)
+We Need to Find [Marian][END]
+// current address: $1674C
+
+//Text $1674C
+#WRITE(ptr,$5F4C)
+The Draconis is in the Castle[END]
+// current address: $1676A
+
+//Text $1676A
+#WRITE(ptr,$5F50)
+Let's hear Hugo's Orders[END]
+// current address: $16783
+
+//Text $16783
+#WRITE(ptr,$5F54)
+We'll Enter the Sealing Facility from Behind[END]
+// current address: $167B0
+
+//Text $167B0
+#WRITE(ptr,$5F58)
+To the Sealing Facility[END]
+// current address: $167C8
+
+//Text $167C8
+#WRITE(ptr,$5F5C)
+To the Depths[END]
+// current address: $167D6
+
+//Text $167D6
+#WRITE(ptr,$5F60)
+Where's Hugo and the Others?[END]
+// current address: $167F3
+
+//Text $167F3
+#WRITE(ptr,$5F64)
+Sorcerer's Ring goes Boom[END]
+// current address: $1680D
+
+//Text $1680D
+#WRITE(ptr,$5F68)
+There's Still Places We Can Destroy[END]
+// current address: $16831
+
+//Text $16831
+#WRITE(ptr,$5F6C)
+Not This Way[END]
+// current address: $1683E
+
+//Text $1683E
+#WRITE(ptr,$5F70)
+We Can't Afford to Dawdle![END]
+// current address: $16859
+
+//Text $16859
+#WRITE(ptr,$5F74)
+Let's Not Do That Now..[END]
+// current address: $16871
+
+//Text $16871
+#WRITE(ptr,$5F78)
+Let's Go[END]
+// current address: $1687A
+
+//Text $1687A
+#WRITE(ptr,$5F7C)
+I Have Somewhere Else to Be[END]
+// current address: $16896

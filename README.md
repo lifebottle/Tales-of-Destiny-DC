@@ -26,7 +26,7 @@ Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).
 
 Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
 
-![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
+![image](https://user-images.githubusercontent.com/77897370/118372936-0dfd1d80-b582-11eb-9bca-00ce96672d1b.png)
 
 
 ## Resources

@@ -1,0 +1,15 @@
+#GAME NAME:			Tales of destiny - DC (PS2)
+
+#BLOCK NAME:			SkitName
+#TYPE:					NORMAL
+#METHOD:				POINTER_RELATIVE
+#POINTER ENDIAN:		LITTLE
+#POINTER TABLE START:	$5464
+#POINTER TABLE STOP:	$5F7F
+#POINTER SIZE:			$04
+#POINTER SPACE:			$00
+#ATLAS PTRS:			Yes
+#BASE POINTER:			$-3D4080	//add $FF000 to each pointer to get
+#TABLE:					toddc.tbl	//the string address
+#COMMENTS:				No
+#END BLOCK

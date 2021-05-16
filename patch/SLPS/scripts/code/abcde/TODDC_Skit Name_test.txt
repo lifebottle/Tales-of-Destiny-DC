@@ -1,0 +1,9 @@
+//GAME NAME:		TOD
+//BLOCK #000 NAME:		Dialogue Block (RAW)
+//Block Range: $28210 - $2B496
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#JMP($50)
+Visit the King at Seinegald Castle[END]
