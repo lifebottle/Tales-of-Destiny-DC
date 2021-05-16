@@ -12244,8 +12244,8 @@ enemy to break his guard.[LINE]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
-During battle, press [Square_ani2]＋[Down_blink] to temporarily[LINE]
-prevent status ailments.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to remove[LINE]
+stat-lowering effects.[LINE]
 [END]
 
 
