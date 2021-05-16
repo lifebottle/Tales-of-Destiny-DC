@@ -12872,7 +12872,7 @@ skillful, you can throw it.[END]
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
-A heavy axe with a shart cutting[LINE]
+A heavy axe with a sharp cutting[LINE]
 edge. Can shatter even the heaviest[LINE]
 of armors.[END]
 
