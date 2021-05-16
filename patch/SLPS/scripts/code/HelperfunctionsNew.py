@@ -5,6 +5,7 @@ import shutil
 import itertools
 import pandas as pd
 import pygsheets
+from os import fdopen, remove
 import re
 
 class Helper:
@@ -19,6 +20,10 @@ class Helper:
         with open(os.path.join(self.basePath, "sectionsSLPS.json")) as f:
             self.dataJson = json.load(f)
             self.dataItems = self.dataJson['items']
+            
+        with open(os.path.join(self.basePath, "sectionsOtherFiles.json")) as f:
+            self.otherJson = json.load(f)
+            self.otherItems = self.otherJson['items']
         
         with open(os.path.join(self.basePath, "memoryBanks.json")) as f:
             data = json.load(f)
@@ -36,12 +41,15 @@ class Helper:
         
         self.loadTable()
         
-    def getJsonBlock(self,blockDesc):
+    def getJsonBlock_SPLS(self,blockDesc):
         return [ele for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
+    
+    def getJsonBlock_Other(self,blockDesc):
+        return [ele for ele in self.otherItems if ele['BlockDesc'] == blockDesc][0]
     
     def showSections(self,blockDesc):
         
-        blockSections = self.getJsonBlock(blockDesc)
+        blockSections = self.getJsonBlock_SPLS(blockDesc)
         sectionsInfos = [ [ele['SectionId'], ele['SectionDesc']] for ele in blockSections['Sections']]
         
         #Print the sections on the screen
@@ -51,12 +59,38 @@ class Helper:
        
         
         
-    def parseText(self,fileName):
+    def parseGoogleSheet(self):
+            
+        dfLines = [ele.split("\n") for ele in self.dfData['English'] ]
+        lines = list(itertools.chain(*dfLines))
         
-        fread = open(os.path.join( self.basePath,"abcde", fileName),encoding="utf-8", mode="r")
+        
+        finalList = []
+        for index,row in self.dfData.iterrows():
+            
+            block = row['English']
+            lines = block.split("\n")
+            
+            textOffset  = lines[0][lines[0].find("$")+1:].replace("\n","")
+            pointer     = lines[1][lines[1].find("$")+1:].replace(")\n","")
+            text        = block[block.find(")")+1:]
+            finalList.append( [block,text, textOffset, pointer])
+        
+        
+        
+        
+        
+        
+        return finalList
+    
+
+    def parseTextFile(self, fileName):
+    
+        fread = open(os.path.join(self.basePath,"abcde", fileName),encoding="utf-8", mode="r")
         lines = fread.readlines()
         
         start=0
+        startText=0
         end=0
         mylist=[]
         dfLines = pd.DataFrame(lines, columns=["Text"])
@@ -66,10 +100,50 @@ class Helper:
             
             if "//Text " in line:
                 start=i
-            if "// current" in line:    
-                finalList.append("".join(dfLines['Text'][start:i]))
+                textOffset = line[line.find("$")+1:].replace("\n","")
+                
+               
+                    
+            if "WRITE" in line:
+                pointer = line[line.find("$")+1:].replace(")\n","")
+                startText=i+1
+                
+                    
+            if "// current" in line:  
+                text = "".join(dfLines['Text'][startText:i])
+                endOffset = line[line.find("$")+1:].replace("\n","")
+                #print("startText : {}   i: {}".format(startText, i))
+                ele = ["".join(dfLines['Text'][start:i]), text, textOffset, endOffset, pointer]
+                finalList.append(ele)
         
         return finalList
+    
+    def cleanDump(self, dumpFile):
+        
+  
+        f = open(os.path.join(self.basePath,"abcde",dumpFile), mode="r", encoding="utf-8")
+        destFile = open(os.path.join(self.basePath,"abcde",dumpFile.replace(".txt","")+"_cleaned.txt"), mode="w", encoding="utf-8")
+        for line in f:
+            if "#JMP(" not in line:
+                line = line.replace("#HDR($-{}) // Difference between ROM and RAM addresses for pointer value calculations".format(self.PointerHeader),"")
+                line = line.replace("#ACTIVETBL(Table_0) // Activate this block's starting TABLE","")
+                line = line.replace("#W32(","#WRITE(ptr,")
+                if "//BLOCK #" in line:
+                    line = ""
+                if "//POINTER " in line:
+                    line = "//Text "+line.split(" ")[-1]
+                    
+                #if "<$81>@" in line:
+                #    line = line.replace("<$81>@"," ")
+                destFile.write(line)
+            
+        f.close()
+        destFile.close()
+        self.removeBlankPointerData(dumpFile.replace(".txt","")+"_cleaned.txt")
+        os.remove(os.path.join(self.basePath, "abcde",dumpFile))
+        
+
+    
 
     def writeColumn(self,finalList, googleId):
         
@@ -102,7 +176,7 @@ class Helper:
     
 
     def removeBlankPointerData(self,fileName):
-        print(fileName)
+    
         fread = open(os.path.join( self.basePath,"abcde", fileName),encoding="utf-8", mode="r")
         fwrite = open(os.path.join( self.basePath,"abcde", "w"+fileName),encoding="utf-8", mode="w")
         
@@ -254,7 +328,7 @@ class Helper:
         #gc = pygsheets.authorize(service_file="gsheet.json")
         
         #Go grab the TextStart for the jump
-        block = self.getJsonBlock(blockDesc)
+        block = self.getJsonBlock_SPLS(blockDesc)
         self.File = block['File']
         self.PointerHeader = block['PointerHeader']
         self.createAllBanks()
@@ -312,10 +386,12 @@ class Helper:
     
         #Copy the original file
         fileName = os.path.basename(self.File) 
-        shutil.copyfile( os.path.join(self.basePath,self.File), os.path.join(self.basePath,"abcde",fileName))
+        
+        if blockDesc != "Synopsis" and fileName != "00014.bin":
+            shutil.copyfile( os.path.join(self.basePath,self.File), os.path.join(self.basePath,"abcde",fileName))
         
         #Run Atlas in command line
-        blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
+        #blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
         
         args = ["perl", "abcde.pl", "-m", "text2bin", "-cm", "abcde::Atlas", fileName, "TODDC_"+blockDesc+"_Dump.txt"]
         listFile = subprocess.run(
@@ -351,7 +427,7 @@ class Helper:
             self.File = "abcde/SLPS_original/SLPS_258.42"
             self.PointerHeader = "FF000"
         else:
-            block = self.getJsonBlock(blockDesc)
+            block = self.getJsonBlock_SPLS(blockDesc)
             self.File = block['File']
             self.PointerHeader = block['PointerHeader']
         self.createAllBanks()
@@ -411,7 +487,141 @@ class Helper:
         print("Max Block End               :   {}".format(hex(int(finalEnd, 16))))
         return allText
             
+    
+    def createBlock_Multi(self, blockDesc):
+        
+        #tbl dataframe to use
+        self.loadTable()
+        
+        #tbl dataframe to use
+        #print(self.otherItems)
+        block = self.getJsonBlock_Other(blockDesc)
+        self.PointerHeader = block['PointerHeader']
+        googleId = block['GoogleSheetId']
+        self.File = block['FilePointer']
+        print(self.File)
+        
+        #Load the google sheet data with all text, pointers
+        self.getGoogleSheetTranslation(googleId, blockDesc)
+        self.cleanData()
+        finalList = self.parseGoogleSheet()
+        dfFinal = pd.DataFrame(finalList, columns=["TextOffset", "Text", "TextOffset", "Pointer"])
+        dfFinal.to_excel("dfFinal.xlsx")
+        
+        #Create the script as is in the original file (first section file)
+        allText = "\n".join(self.dfData['English'].tolist())  
+        jumpText = "#JMP(${})\n".format(block['Sections'][0]['TextStart'])
+        header = self.getHeader()
+        with open(os.path.join(self.basePath,"abcde", "TODDC_{}_Dump.txt".format(blockDesc)),encoding="utf-8", mode="w") as finalScript:
+            finalScript.write(header + jumpText + allText)
+            
+            
+        #Run the script on the file to create a temp file
+        self.reinsertText_Block(blockDesc)
+        
+        #Extract again the text using Abcde script
+        self.extract_Block(blockDesc)
+        self.cleanDump("TODDC_{}_Dump_Temp.txt".format(blockDesc))
+
+        
+        #Store in memory the number of bytes, length of all the text
+        listText = self.parseTextFile("TODDC_{}_Dump_Temp_Cleaned.txt".format(blockDesc))
+        dfTemp = pd.DataFrame(listText, columns=["Block", "Text", "TextOffset", "EndOffset", "Pointer"])
+        dfTemp["Length"] = dfTemp['EndOffset'].apply(lambda x : int(x, 16)) - dfTemp['TextOffset'].apply(lambda x : int(x,16))
+        dfTemp["TextOffsetInt"] = dfTemp["TextOffset"].apply(lambda x: int(x,16))
+  
+        #dfFinal.to_excel("final.xlsx")
+        
+        dfTemp.to_excel("temp_Prep.xlsx")
+        
+        #Find the cutting line and separate the text in the different file
+        sections = [[ele['SectionId'], ele['File'], ele['PointerHeader'], ele['TextStart'], ele['TextEnd']] for ele in block['Sections']]
+        dfSections = pd.DataFrame(sections, columns=['SectionId','File','PointerHeader', 'TextStart', 'TextEnd'])
+        
+        lower=0
+        dfTemp['File'] = ''
+
+        for index,row in  dfSections.iterrows(): 
+        
+            #Find the last text to insert in this section
+            file = row['File']
+            pointerHeaderInt = int(row['PointerHeader'], 16)
+       
+            print("File: {}".format(file))
+        
+            
+            textStartInt = int(row['TextStart'], 16)
+            textEndInt = int(row['TextEnd'], 16)
+            
+
+            dfTempCalcul = dfTemp[ dfTemp['File'] == ""]
+            dfTempCalcul.loc[:,"TextOffsetCumul"] = dfTempCalcul['Length'].cumsum() + [textStartInt]
+            dfTemp.loc[ dfTemp['File'] == "", 'TextOffsetCumul'] = dfTempCalcul["TextOffsetCumul"]
+            
+            dfTemp.loc[ dfTemp['TextOffsetCumul'] < textEndInt, 'File'] =  file
+            dfTemp.loc[ dfTemp['TextOffsetCumul'] < textEndInt, 'PointerHeaderInt'] =  pointerHeaderInt
+            
+        dfTemp.to_excel("temp.xlsx")   
+        dfTemp.loc[:,"NewTextOffSetInt"] = dfTemp["TextOffsetCumul"] - dfTemp["Length"]
+        dfTemp["NewTextSum"]   = [hex(ele)[2:].capitalize() for ele in dfTemp["NewTextOffSetInt"] + dfTemp["PointerHeaderInt"].astype(int) ]
+        dfTemp["NewPointerValue"]   = [ ele[4:6] + ele[2:4] + ele[0:2] for ele in dfTemp["NewTextSum"]]
+        
+        
+        
+        
+        for file in dfTemp["File"].unique().tolist():
+            
+            #Create a script for reinserting the text in each file
+            dfText = dfTemp[ dfTemp["File"] == file]
+            
+            print(dfText)
+            fileName = fileName = os.path.basename(file) 
+            allText = "\n".join(dfText['Block'].tolist())  
+            
+            textStart = hex(dfText['NewTextOffSetInt'].min())[2:]
+           
+            jumpText = "#JMP(${})\n".format(textStart)
+            
+            self.PointerHeader = hex(int(dfText['PointerHeaderInt'].tolist()[0]))[2:].capitalize()
+            
+            print(self.PointerHeader)
+            header = self.getHeader()
+            with open(os.path.join(self.basePath,"abcde", "TODDC_{}_Dump.txt".format(blockDesc)),encoding="utf-8", mode="w") as finalScript:
+                finalScript.write(header + jumpText + allText)
+               
+            if file != block['FilePointer']:
+                with open(os.path.join(self.basePath,"abcde", "TODDC_{}_Dump.txt".format(blockDesc)),encoding="utf-8", mode="w") as finalScript:
                     
+                    for line in (header + jumpText + allText).splitlines(True):
+                    
+                        if not "#WRITE" in line:
+                            finalScript.write(line)
+                    
+            #Run the script on the file to create a temp file
+            self.File = file
+            
+           
+            self.reinsertText_Block(blockDesc)
+    
+            
+            #Update the pointers
+            if file != block['FilePointer']:
+               self.updatePointersBaseFile(block['FilePointer'], dfTemp[ dfTemp['File'] == file])
+            
+    def updatePointersBaseFile(self, filePointerPath, dfTemp):
+        
+        filePointer = os.path.basename(filePointerPath) 
+        hexString = "00".join(dfTemp['NewPointerValue'].tolist())
+        arrayHex = bytearray.fromhex(hexString)
+        pointerTableOffset = int(dfTemp['Pointer'].tolist()[0], 16)
+        print("PointerOffset: {}".format(pointerTableOffset))
+        
+        #Open the file
+        with open(os.path.join(self.basePath,"abcde", filePointer), mode="r+b") as f:
+            f.seek(pointerTableOffset)
+            f.write(arrayHex)
+            
+            
     def createAtlasScript_All(self):
         
 
@@ -435,5 +645,21 @@ class Helper:
             )
         
         shutil.copyfile( os.path.join(self.basePath,"abcde", "SLPS_258.42"), os.path.join(self.basePath,"..", "SLPS_258.42"))
+        
+    def extract_Block(self, blockDesc):
+        
+        #Copy the original file
+        fileName = os.path.basename(self.File) 
+        #shutil.copyfile( os.path.join(self.basePath,self.File), os.path.join(self.basePath,"abcde",fileName))
+        
+        #Run Atlas in command line
+        #blockDesc = [ele['BlockDesc'] for ele in self.dataItems if ele['BlockDesc'] == blockDesc][0]
+        
+        args = ["perl", "abcde.pl", "-m", "bin2text", "-cm", "abcde::Cartographer", fileName, os.path.join("Script_Extraction","TODDC_{}_Script.txt".format(blockDesc)), "TODDC_{}_Dump_Temp".format(blockDesc), "-s"]
+        listFile = subprocess.run(
+            args,
+            cwd= os.path.join(self.basePath, "abcde"),
+            )
+      
     
     

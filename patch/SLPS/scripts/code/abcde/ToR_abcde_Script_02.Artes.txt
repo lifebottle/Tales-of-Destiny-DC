@@ -1,0 +1,29 @@
+﻿#GAME NAME:            Tales of Rebirth
+#BLOCK NAME:           Artes_Block_1
+#TYPE:        NORMAL
+#METHOD:                  POINTER_RELATIVE
+#POINTER ENDIAN:        LITTLE
+#POINTER TABLE START:    $100BC4
+#POINTER TABLE STOP:     $100BCF
+#POINTER SIZE:        $04
+#POINTER SPACE:        $00
+#ATLAS PTRS:        Yes
+#BASE POINTER:        $-FF000        //add $FF000 to each pointer to get
+#TABLE:            ToR.tbl    //the string address
+#COMMENTS:        No
+#END BLOCK
+
+#GAME NAME:            Tales of Rebirth
+#BLOCK NAME:           Artes_Block_2
+#TYPE:        NORMAL
+#METHOD:                  POINTER_RELATIVE
+#POINTER ENDIAN:        LITTLE
+#POINTER TABLE START:    $100BF8
+#POINTER TABLE STOP:     $100C03
+#POINTER SIZE:        $04
+#POINTER SPACE:        $00
+#ATLAS PTRS:        Yes
+#BASE POINTER:        $-FF000        //add $FF000 to each pointer to get
+#TABLE:            ToR.tbl    //the string address
+#COMMENTS:        No
+#END BLOCK
