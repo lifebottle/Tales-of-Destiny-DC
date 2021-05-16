@@ -1940,7 +1940,7 @@ Can be linked to various actions.[END]
 //Text $1A0E70
 #WRITE(ptr,$183030)
 Strike an enemy with a flurry of spinning kicks.[LINE]
-Effective to foes weak against strike.[END]
+Effective against foes weak to strike.[END]
 
 
 //Text $1A0E60
