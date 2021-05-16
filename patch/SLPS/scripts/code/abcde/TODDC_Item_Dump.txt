@@ -7688,7 +7688,7 @@ Mirror Shield.[LINE]
 
 //Text $1BA730
 #WRITE(ptr,$1929B4)
-[Sign_Key]Belselium[END]
+[Sign_Key]Berselium[END]
 
 
 //Text $1BA6F8
@@ -7700,7 +7700,7 @@ Necessary to fix the Draconis.[LINE]
 
 //Text $1BA6E0
 #WRITE(ptr,$1929D0)
-[Sign_Key]Belselium Mass[END]
+[Sign_Key]Berselium Mass[END]
 
 
 //Text $1BA6A0
