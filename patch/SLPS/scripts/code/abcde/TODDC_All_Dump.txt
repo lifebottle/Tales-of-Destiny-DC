@@ -3777,7 +3777,7 @@ Is she a friend of sunfish or not?[LINE]
 
 //Text $19E3D0
 #WRITE(ptr,$1840B0)
-A spell that shoots fireballs.[LINE]
+A spell that shoots fire balls.[LINE]
 Raises P. ATK.[END]
 
 
