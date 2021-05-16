@@ -1,0 +1,2515 @@
+//GAME NAME:		Tales Of Rebirth
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\ToR.tbl", Table_0)
+
+
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-FF000, 32)
+
+
+//Text $11C8A0
+#WRITE(ptr,$100BC4)
+絶氷刃[END]
+// current address: $11C8A7
+
+//Text $11C890
+#WRITE(ptr,$100BC8)
+ゼッヒョウジン[END]
+// current address: $11C89F
+
+//Text $11C840
+#WRITE(ptr,$100BCC)
+圧縮した冷気で切り込む特技。水属性を付加。[LINE]特技は通常攻撃から連携できる。[END]
+// current address: $11C88A
+
+
+
+
+
+//Text $11C838
+#WRITE(ptr,$100BF8)
+瞬連塵[END]
+// current address: $11C83F
+
+//Text $11C828
+#WRITE(ptr,$100BFC)
+シュンレンジン[END]
+// current address: $11C837
+
+//Text $11C7E8
+#WRITE(ptr,$100C00)
+踏み込んでの切り込みで間合いを詰め、[LINE]高速の３連突きを行う特技。[END]
+// current address: $11C828
+
+
+
+
+
+//Text $11C7E0
+#WRITE(ptr,$100C2C)
+裂破衝[END]
+// current address: $11C7E7
+
+//Text $11C7D0
+#WRITE(ptr,$100C30)
+レッパショウ[END]
+// current address: $11C7DD
+
+//Text $11C790
+#WRITE(ptr,$100C34)
+前方に広範囲の衝撃波を放つ特技。[LINE]隣のラインにも効果がある。[END]
+// current address: $11C7CC
+
+
+
+
+
+//Text $11C788
+#WRITE(ptr,$100C60)
+絶翔斬[END]
+// current address: $11C78F
+
+//Text $11C778
+#WRITE(ptr,$100C64)
+ゼッショウザン[END]
+// current address: $11C787
+
+//Text $11C738
+#WRITE(ptr,$100C68)
+冷気を纏いながら上空に切り上げる衝撃で[LINE]敵を切り刻む特技。[END]
+// current address: $11C772
+
+
+
+
+
+//Text $11C730
+#WRITE(ptr,$100C94)
+幻龍斬[END]
+// current address: $11C737
+
+//Text $11C720
+#WRITE(ptr,$100C98)
+ゲンリュウザン[END]
+// current address: $11C72F
+
+//Text $11C6F0
+#WRITE(ptr,$100C9C)
+突きとともに敵の背後に回りこむ性能を[LINE]持つ特技。[END]
+// current address: $11C720
+
+
+
+
+
+//Text $11C6E8
+#WRITE(ptr,$100CC8)
+無影衝[END]
+// current address: $11C6EF
+
+//Text $11C6D8
+#WRITE(ptr,$100CCC)
+ムエイショウ[END]
+// current address: $11C6E5
+
+//Text $11C688
+#WRITE(ptr,$100CD0)
+高い回避性能を備えた瞬速多段斬りを行う特技。[LINE]敵の攻撃をかわしながら攻撃できる。[END]
+// current address: $11C6D8
+
+
+
+
+
+//Text $11C680
+#WRITE(ptr,$100CFC)
+魔神剣[END]
+// current address: $11C687
+
+
+
+
+
+//Text $11C678
+#WRITE(ptr,$100D30)
+風神剣[END]
+// current address: $11C67F
+
+
+
+
+
+//Text $11C668
+#WRITE(ptr,$100D64)
+虎牙破斬[END]
+// current address: $11C671
+
+
+
+
+
+//Text $11C660
+#WRITE(ptr,$100D98)
+閃光衝[END]
+// current address: $11C667
+
+
+
+
+
+//Text $11C658
+#WRITE(ptr,$100DCC)
+空襲剣[END]
+// current address: $11C65F
+
+
+
+
+
+//Text $11C650
+#WRITE(ptr,$100E00)
+霧氷翔[END]
+// current address: $11C657
+
+
+
+
+
+//Text $11C640
+#WRITE(ptr,$100E34)
+絶・霧氷装[END]
+// current address: $11C64B
+
+//Text $11C628
+#WRITE(ptr,$100E38)
+ゼツ・ムヒョウソウ[END]
+// current address: $11C63B
+
+//Text $11C5D8
+#WRITE(ptr,$100E3C)
+武器に水属性を付加し、凍結の潜在効果を[LINE]加える練術。発動時にＲＧが半分になる。[END]
+// current address: $11C626
+
+
+
+
+
+//Text $11C5C8
+#WRITE(ptr,$100E68)
+絶・瞬影迅[END]
+// current address: $11C5D3
+
+//Text $11C5B0
+#WRITE(ptr,$100E6C)
+ゼツ・シュンエイジン[END]
+// current address: $11C5C5
+
+//Text $11C558
+#WRITE(ptr,$100E70)
+一定時間ダッシュ速度が１．５倍になる練術。[LINE]ダッシュ中はＲＧが減り、鋼体効果も付加。[END]
+// current address: $11C5AC
+
+
+
+
+
+//Text $11C548
+#WRITE(ptr,$100E9C)
+連塵裂氷撃[END]
+// current address: $11C553
+
+//Text $11C530
+#WRITE(ptr,$100EA0)
+レンジンレッヒョウゲキ[END]
+// current address: $11C547
+
+//Text $11C4E8
+#WRITE(ptr,$100EA4)
+連続突きから冷気の斬撃に繋ぐ奥義。[LINE]奥義は特技からのみ連携できる。[END]
+// current address: $11C52A
+
+
+
+
+
+//Text $11C4D8
+#WRITE(ptr,$100ED0)
+凍牙衝裂破[END]
+// current address: $11C4E3
+
+//Text $11C4C0
+#WRITE(ptr,$100ED4)
+トウガショウレッパ[END]
+// current address: $11C4D3
+
+//Text $11C468
+#WRITE(ptr,$100ED8)
+冷気をまとった斬撃がＶの字に拡散する奥義。[LINE]消費ＦＧが少なめで、ＨＰ回復力もある。[END]
+// current address: $11C4BA
+
+
+
+
+
+//Text $11C458
+#WRITE(ptr,$100F04)
+絶空裂氷撃[END]
+// current address: $11C463
+
+//Text $11C440
+#WRITE(ptr,$100F08)
+ゼックウレッヒョウゲキ[END]
+// current address: $11C457
+
+//Text $11C3F8
+#WRITE(ptr,$100F0C)
+切り上げの衝撃で無数の氷柱を生み出す奥義。[LINE]複数の敵にヒット可能。[END]
+// current address: $11C43A
+
+
+
+
+
+//Text $11C3E8
+#WRITE(ptr,$100F38)
+凍牙龍影刃[END]
+// current address: $11C3F3
+
+//Text $11C3D0
+#WRITE(ptr,$100F3C)
+トウガリュウエイジン[END]
+// current address: $11C3E5
+
+//Text $11C390
+#WRITE(ptr,$100F40)
+斬撃により氷柱を生み出して敵を固め、[LINE]氷柱ごと敵を貫く奥義。[END]
+// current address: $11C3CC
+
+
+
+
+
+//Text $11C380
+#WRITE(ptr,$100F6C)
+凍牙無影剣[END]
+// current address: $11C38B
+
+//Text $11C368
+#WRITE(ptr,$100F70)
+トウガムエイケン[END]
+// current address: $11C379
+
+//Text $11C320
+#WRITE(ptr,$100F74)
+冷気を纏った強力な斬撃を繰り出す奥義。[LINE]技の出始めは敵の攻撃を回避可能。[END]
+// current address: $11C368
+
+
+
+
+
+//Text $11C310
+#WRITE(ptr,$100FA0)
+衝破連牙衝[END]
+// current address: $11C31B
+
+//Text $11C2F8
+#WRITE(ptr,$100FA4)
+ショウハレンガショウ[END]
+// current address: $11C30D
+
+//Text $11C2A8
+#WRITE(ptr,$100FA8)
+交差斬りから、渾身の突きで間合いを離す[LINE]奥義。素早いライン攻撃を状況に応じて。[END]
+// current address: $11C2F6
+
+
+
+
+
+//Text $11C298
+#WRITE(ptr,$100FD4)
+連塵斬翔剣[END]
+// current address: $11C2A3
+
+//Text $11C280
+#WRITE(ptr,$100FD8)
+レンジンザンショウケン[END]
+// current address: $11C297
+
+//Text $11C238
+#WRITE(ptr,$100FDC)
+連続斬りで打ち上げ、空中で追撃する奥義。[LINE]体重の軽い敵をダウンさせる。[END]
+// current address: $11C27E
+
+
+
+
+
+//Text $11C228
+#WRITE(ptr,$101008)
+連塵龍影刃[END]
+// current address: $11C233
+
+//Text $11C210
+#WRITE(ptr,$10100C)
+レンジンリュウエイジン[END]
+// current address: $11C227
+
+//Text $11C1E0
+#WRITE(ptr,$101010)
+９連続突きで敵を貫く奥義。[LINE]ヒット数は随一。[END]
+// current address: $11C20C
+
+
+
+
+
+//Text $11C1D0
+#WRITE(ptr,$10103C)
+幻魔連牙衝[END]
+// current address: $11C1DB
+
+//Text $11C1B8
+#WRITE(ptr,$101040)
+ゲンマレンガショウ[END]
+// current address: $11C1CB
+
+//Text $11C198
+#WRITE(ptr,$101044)
+神速の８連斬りを繰り出す奥義。[LINE][END]
+// current address: $11C1B8
+
+
+
+
+
+//Text $11C188
+#WRITE(ptr,$101070)
+絶空衝裂破[END]
+// current address: $11C193
+
+//Text $11C170
+#WRITE(ptr,$101074)
+ゼックウショウレッパ[END]
+// current address: $11C185
+
+//Text $11C128
+#WRITE(ptr,$101078)
+ニ連続の回転斬り。二発目は複数ラインに効果の[LINE]ある衝撃波を放つ奥義。[END]
+// current address: $11C16C
+
+
+
+
+
+//Text $11C118
+#WRITE(ptr,$1010A4)
+崩龍衝裂破[END]
+// current address: $11C123
+
+//Text $11C100
+#WRITE(ptr,$1010A8)
+ホウリュウショウレッパ[END]
+// current address: $11C117
+
+//Text $11C0C0
+#WRITE(ptr,$1010AC)
+敵を斬り抜ける高速剣を繰り出す奥義。[LINE]奥にいる敵へも攻撃する。[END]
+// current address: $11C0FE
+
+
+
+
+
+//Text $11C0B0
+#WRITE(ptr,$1010D8)
+幻魔衝裂破[END]
+// current address: $11C0BB
+
+//Text $11C098
+#WRITE(ptr,$1010DC)
+ゲンマショウレッパ[END]
+// current address: $11C0AB
+
+//Text $11C048
+#WRITE(ptr,$1010E0)
+間合いを取ってからの真空交差斬りを繰り出す[LINE]奥義。隣のラインにも効果を持つ。[END]
+// current address: $11C094
+
+
+
+
+
+//Text $11C038
+#WRITE(ptr,$10110C)
+絶空龍影刃[END]
+// current address: $11C043
+
+//Text $11C020
+#WRITE(ptr,$101110)
+ゼックウリュウエイジン[END]
+// current address: $11C037
+
+//Text $11BFF0
+#WRITE(ptr,$101114)
+敵を斬り上げ、高速移動での斬撃を重ねる奥義。[LINE][END]
+// current address: $11C01E
+
+
+
+
+
+//Text $11BFE0
+#WRITE(ptr,$101140)
+幻魔斬翔剣[END]
+// current address: $11BFEB
+
+//Text $11BFC8
+#WRITE(ptr,$101144)
+ゲンマザンショウケン[END]
+// current address: $11BFDD
+
+//Text $11BF80
+#WRITE(ptr,$101148)
+衝撃波を伴った神速斬りで浮かした敵に、渾身の[LINE]多段斬りを刻み込む奥義。[END]
+// current address: $11BFC6
+
+
+
+
+
+//Text $11BF70
+#WRITE(ptr,$101174)
+崩龍無影剣[END]
+// current address: $11BF7B
+
+//Text $11BF58
+#WRITE(ptr,$101178)
+ホウリュウムエイケン[END]
+// current address: $11BF6D
+
+//Text $11BF28
+#WRITE(ptr,$10117C)
+極限まで高めた凍気で切り刻む、[LINE]奥義の最高峰。[END]
+// current address: $11BF56
+
+
+
+
+
+//Text $11BF18
+#WRITE(ptr,$1011A8)
+ウィンドエッジ[END]
+// current address: $11BF27
+
+//Text $11BEC0
+#WRITE(ptr,$1011B0)
+真空の刃を続けて生み出す風系導術。[LINE]敵を奥のラインへ吹き飛ばせ、ＨＰ回復量も多い。[END]
+// current address: $11BF12
+
+
+
+
+
+//Text $11BEB0
+#WRITE(ptr,$1011DC)
+フレアショット[END]
+// current address: $11BEBF
+
+//Text $11BE60
+#WRITE(ptr,$1011E4)
+小さな火球を撃ち出し、爆発させる炎系導術。[LINE]単発だがゲージの回復が早いのが利点。[END]
+// current address: $11BEB0
+
+
+
+
+
+//Text $11BE50
+#WRITE(ptr,$101210)
+アーチシェイド[END]
+// current address: $11BE5F
+
+//Text $11BE10
+#WRITE(ptr,$101218)
+歪みの力が両側から引き裂く闇系導術。[LINE]３ラインに効果がある。[END]
+// current address: $11BE4C
+
+
+
+
+
+//Text $11BDF8
+#WRITE(ptr,$101244)
+ガスティーネイル[END]
+// current address: $11BE09
+
+//Text $11BDA8
+#WRITE(ptr,$10124C)
+巨大な真空の爪で敵を切り裂く風系導術。[LINE]風の刃は敵を手前ラインへ吹き飛ばす。[END]
+// current address: $11BDF4
+
+
+
+
+
+//Text $11BD90
+#WRITE(ptr,$101278)
+バーンストライク[END]
+// current address: $11BDA1
+
+//Text $11BD38
+#WRITE(ptr,$101280)
+地面で爆発する爆炎弾を３発撃ち出す炎系導術。[LINE]空中にいる敵は当たりづらいので連携中に。[END]
+// current address: $11BD8E
+
+
+
+
+
+//Text $11BD20
+#WRITE(ptr,$1012AC)
+ブラッディクロス[END]
+// current address: $11BD31
+
+//Text $11BCD0
+#WRITE(ptr,$1012B4)
+裁きの十字架で敵を葬る闇系導術。[LINE]敵の大きさ・重さによっては高威力が期待できる。[END]
+// current address: $11BD20
+
+
+
+
+
+//Text $11BCC0
+#WRITE(ptr,$1012E0)
+Ｆ・フレイム[END]
+// current address: $11BCCD
+
+//Text $11BCA8
+#WRITE(ptr,$1012E4)
+フォルス・フレイム[END]
+// current address: $11BCBB
+
+//Text $11BC58
+#WRITE(ptr,$1012E8)
+瞬時に炎を生み出し、敵を吹き飛ばす錬術。[LINE]乱戦・危機回避・緊急回復で使える。[END]
+// current address: $11BCA4
+
+
+
+
+
+//Text $11BC40
+#WRITE(ptr,$101314)
+Ｆ・エンチャント[END]
+// current address: $11BC51
+
+//Text $11BC28
+#WRITE(ptr,$101318)
+フレイム・エンチャント[END]
+// current address: $11BC3F
+
+//Text $11BBD0
+#WRITE(ptr,$10131C)
+一定時間、武器に火属性を加え、武器ダメージ[LINE]を２倍にする錬術。操作キャラならおすすめ。[END]
+// current address: $11BC26
+
+
+
+
+
+//Text $11BBB8
+#WRITE(ptr,$101348)
+ゲイルスラッシュ[END]
+// current address: $11BBC9
+
+//Text $11BB78
+#WRITE(ptr,$101350)
+横殴りの突風が敵を襲う暴風導術。[LINE]敵を奥ラインへ吹き飛ばす。[END]
+// current address: $11BBB4
+
+
+
+
+
+//Text $11BB60
+#WRITE(ptr,$10137C)
+エイミングヒート[END]
+// current address: $11BB71
+
+//Text $11BB38
+#WRITE(ptr,$101384)
+灼熱弾を乱れ撃ちして敵を狙う熱波導術。[LINE][END]
+// current address: $11BB60
+
+
+
+
+
+//Text $11BB20
+#WRITE(ptr,$1013B0)
+ネガティブゲイト[END]
+// current address: $11BB31
+
+//Text $11BB00
+#WRITE(ptr,$1013B8)
+異空間の扉を開く空間導術。[LINE][END]
+// current address: $11BB1C
+
+
+
+
+
+//Text $11BAE8
+#WRITE(ptr,$1013E4)
+フィアフルストーム[END]
+// current address: $11BAFB
+
+//Text $11BAA0
+#WRITE(ptr,$1013EC)
+敵を恐怖に陥れる竜巻を生み出す暴風導術。[LINE]敵を吸い込み、高く浮かす。[END]
+// current address: $11BAE4
+
+
+
+
+
+//Text $11BA88
+#WRITE(ptr,$101418)
+ブレイジングハーツ[END]
+// current address: $11BA9B
+
+//Text $11BA30
+#WRITE(ptr,$101420)
+灼熱弾が意思を持つがごとく敵に炸裂、その衝撃波[LINE]で更に十字範囲の敵を巻き込む熱波導術。[END]
+// current address: $11BA86
+
+
+
+
+
+//Text $11BA18
+#WRITE(ptr,$10144C)
+ディザスターロアー[END]
+// current address: $11BA2B
+
+//Text $11B9B8
+#WRITE(ptr,$101454)
+絶望の咆哮が敵を引き裂く防御不可能の空間導術。[LINE]ランダム１ラインに凶悪な破壊力を誇るバクチ技。[END]
+// current address: $11BA16
+
+
+
+
+
+//Text $11B9B0
+#WRITE(ptr,$101480)
+旋風槍[END]
+// current address: $11B9B7
+
+//Text $11B9A0
+#WRITE(ptr,$101484)
+センプウソウ[END]
+// current address: $11B9AD
+
+//Text $11B958
+#WRITE(ptr,$101488)
+槍を横に薙いだ衝撃で真空波を起こし、[LINE]両隣のラインにも威力を持つ特技。[END]
+// current address: $11B99E
+
+
+
+
+
+//Text $11B950
+#WRITE(ptr,$1014B4)
+裂駆槍[END]
+// current address: $11B957
+
+//Text $11B940
+#WRITE(ptr,$1014B8)
+レックソウ[END]
+// current address: $11B94B
+
+//Text $11B918
+#WRITE(ptr,$1014BC)
+最大限のリーチで槍を突き出す特技。[LINE][END]
+// current address: $11B93C
+
+
+
+
+
+//Text $11B910
+#WRITE(ptr,$1014E8)
+轟破槍[END]
+// current address: $11B917
+
+//Text $11B900
+#WRITE(ptr,$1014EC)
+ゴウハソウ[END]
+// current address: $11B90B
+
+//Text $11B8B8
+#WRITE(ptr,$1014F0)
+鋼を具現化させて前後の敵に攻撃を繰り出す特技。[LINE]乱戦時に効果を発揮する。[END]
+// current address: $11B900
+
+
+
+
+
+//Text $11B8B0
+#WRITE(ptr,$10151C)
+瞬迅槍[END]
+// current address: $11B8B7
+
+//Text $11B8A0
+#WRITE(ptr,$101520)
+シュンジンソウ[END]
+// current address: $11B8AF
+
+//Text $11B878
+#WRITE(ptr,$101524)
+槍を左右に振り回しながら突進する特技。[LINE][END]
+// current address: $11B8A0
+
+
+
+
+
+//Text $11B870
+#WRITE(ptr,$101550)
+天雷槍[END]
+// current address: $11B877
+
+//Text $11B860
+#WRITE(ptr,$101554)
+テンライソウ[END]
+// current address: $11B86D
+
+//Text $11B820
+#WRITE(ptr,$101558)
+槍を上に謎ぎ払い、雷撃を加える特技。[LINE]浮かし技として優洲。[END]
+// current address: $11B85A
+
+
+
+
+
+//Text $11B818
+#WRITE(ptr,$101584)
+滅翔槍[END]
+// current address: $11B81F
+
+//Text $11B808
+#WRITE(ptr,$101588)
+メッショウソウ[END]
+// current address: $11B817
+
+//Text $11B7B8
+#WRITE(ptr,$10158C)
+敵を跳ね上げた後、空中で追い討ちをかけて[LINE]叩き落とす特技。高い攻撃力を持つ。[END]
+// current address: $11B804
+
+
+
+
+
+//Text $11B7A8
+#WRITE(ptr,$1015B8)
+錬・鋼体装[END]
+// current address: $11B7B3
+
+//Text $11B790
+#WRITE(ptr,$1015BC)
+レン・コウタイソウ[END]
+// current address: $11B7A3
+
+//Text $11B740
+#WRITE(ptr,$1015C0)
+一定時間導術攻撃にのけぞらずに行動できる[LINE]錬術。ダメージは受けるので注意。[END]
+// current address: $11B78A
+
+
+
+
+
+//Text $11B730
+#WRITE(ptr,$1015EC)
+錬・鏡銘弾[END]
+// current address: $11B73B
+
+//Text $11B718
+#WRITE(ptr,$1015F0)
+レン・キョウメイダン[END]
+// current address: $11B72D
+
+//Text $11B6C0
+#WRITE(ptr,$1015F4)
+一定時間、防御時に敵の攻撃を弾いて[LINE]のけぞらせる錬術。ＲＧが高いほど成功しやすい。[END]
+// current address: $11B712
+
+
+
+
+
+//Text $11B6B0
+#WRITE(ptr,$101620)
+裂風迅槍衝[END]
+// current address: $11B6BB
+
+//Text $11B698
+#WRITE(ptr,$101624)
+レップウジンソウショウ[END]
+// current address: $11B6AF
+
+//Text $11B668
+#WRITE(ptr,$101628)
+疾風をまとった回転突きで敵を切り裂く奥義。[LINE][END]
+// current address: $11B694
+
+
+
+
+
+//Text $11B658
+#WRITE(ptr,$101654)
+轟爆旋風牙[END]
+// current address: $11B663
+
+//Text $11B640
+#WRITE(ptr,$101658)
+ゴウバクセンプウガ[END]
+// current address: $11B653
+
+//Text $11B5F8
+#WRITE(ptr,$10165C)
+地面に槍を突き立てた衝撃で旋風が嘘巻く奥義。[LINE]周囲の敵に効果がある。[END]
+// current address: $11B63C
+
+
+
+
+
+//Text $11B5E8
+#WRITE(ptr,$101688)
+裂風瞬迅殺[END]
+// current address: $11B5F3
+
+//Text $11B5D0
+#WRITE(ptr,$10168C)
+レップウシュンジンサツ[END]
+// current address: $11B5E7
+
+//Text $11B598
+#WRITE(ptr,$101690)
+横斬りの真空波の後、縦斬りの真空波を加える[LINE]奥義。[END]
+// current address: $11B5CA
+
+
+
+
+
+//Text $11B588
+#WRITE(ptr,$1016BC)
+裂風爆雷陣[END]
+// current address: $11B593
+
+//Text $11B570
+#WRITE(ptr,$1016C0)
+レップウバクライジン[END]
+// current address: $11B585
+
+//Text $11B530
+#WRITE(ptr,$1016C4)
+素早く斬りつけ、横に薙ぐと同時に[LINE]複数ラインに雷を落とす奥義。[END]
+// current address: $11B56E
+
+
+
+
+
+//Text $11B520
+#WRITE(ptr,$1016F0)
+滅殺旋風牙[END]
+// current address: $11B52B
+
+//Text $11B508
+#WRITE(ptr,$1016F4)
+メッサツセンプウガ[END]
+// current address: $11B51B
+
+//Text $11B4D8
+#WRITE(ptr,$1016F8)
+滅翔槍で叩き付けた地面から竜巻を起こす奥義。[LINE][END]
+// current address: $11B506
+
+
+
+
+
+//Text $11B4C8
+#WRITE(ptr,$101724)
+轟爆迅槍衝[END]
+// current address: $11B4D3
+
+//Text $11B4B0
+#WRITE(ptr,$101728)
+ゴウバクジンソウショウ[END]
+// current address: $11B4C7
+
+//Text $11B468
+#WRITE(ptr,$10172C)
+轟破槍から追撃で前後に衝撃波を放つ奥義。[LINE]攻撃範囲が広いのが特徴。[END]
+// current address: $11B4AA
+
+
+
+
+
+//Text $11B458
+#WRITE(ptr,$101758)
+瞬殺迅槍衝[END]
+// current address: $11B463
+
+//Text $11B438
+#WRITE(ptr,$10175C)
+シュンサツジンソウショウ[END]
+// current address: $11B451
+
+//Text $11B3E0
+#WRITE(ptr,$101760)
+敵を吹き飛ばしながら切り抜け、奥の敵に[LINE]突きを加える奥義。敵の隊列を乱すのに効果的。[END]
+// current address: $11B434
+
+
+
+
+
+//Text $11B3D0
+#WRITE(ptr,$10178C)
+裂走爆雷陣[END]
+// current address: $11B3DB
+
+//Text $11B3B8
+#WRITE(ptr,$101790)
+レッソウバクライジン[END]
+// current address: $11B3CD
+
+//Text $11B370
+#WRITE(ptr,$101794)
+リーチの長い攻撃で槍で敵を貫き、更に幾重もの[LINE]雷撃を浴びせる奥義。[END]
+// current address: $11B3B2
+
+
+
+
+
+//Text $11B360
+#WRITE(ptr,$1017C0)
+裂走天翔撃[END]
+// current address: $11B36B
+
+//Text $11B348
+#WRITE(ptr,$1017C4)
+レッソウテンショウゲキ[END]
+// current address: $11B35F
+
+//Text $11B308
+#WRITE(ptr,$1017C8)
+突きの衝撃で天高く浮かし、すかさず槍で突き[LINE]さらに叩き落す奥義。[END]
+// current address: $11B348
+
+
+
+
+
+//Text $11B2F8
+#WRITE(ptr,$1017F4)
+瞬殺轟衝撃[END]
+// current address: $11B303
+
+//Text $11B2D8
+#WRITE(ptr,$1017F8)
+シュンサツゴウショウゲキ[END]
+// current address: $11B2F1
+
+//Text $11B2A8
+#WRITE(ptr,$1017FC)
+３連斬りで駆け抜け、鋼の追撃を食らわせる[LINE]奥義。[END]
+// current address: $11B2D8
+
+
+
+
+
+//Text $11B298
+#WRITE(ptr,$101828)
+迅雷轟衝撃[END]
+// current address: $11B2A3
+
+//Text $11B280
+#WRITE(ptr,$10182C)
+ジンライゴウショウゲキ[END]
+// current address: $11B297
+
+//Text $11B240
+#WRITE(ptr,$101830)
+雷撃と共に打ち上げ、地面から鉱石を跳ね上げて[LINE]追撃する奥義。[END]
+// current address: $11B27C
+
+
+
+
+
+//Text $11B230
+#WRITE(ptr,$10185C)
+轟爆天翔撃[END]
+// current address: $11B23B
+
+//Text $11B218
+#WRITE(ptr,$101860)
+ゴウバクテンショウゲキ[END]
+// current address: $11B22F
+
+//Text $11B1D8
+#WRITE(ptr,$101864)
+鋼を具現化して浮かし、さらに追撃で巨大な[LINE]鋼を打ち出す奥義。[END]
+// current address: $11B214
+
+
+
+
+
+//Text $11B1C8
+#WRITE(ptr,$101890)
+迅雷瞬迅殺[END]
+// current address: $11B1D3
+
+//Text $11B1B0
+#WRITE(ptr,$101894)
+ジンライシュンジンサツ[END]
+// current address: $11B1C7
+
+//Text $11B168
+#WRITE(ptr,$101898)
+雷撃をまとった、斬撃と連続突きのコンビネーション[LINE]を繰り出す奥義。[END]
+// current address: $11B1AA
+
+
+
+
+
+//Text $11B158
+#WRITE(ptr,$1018C4)
+瞬殺天翔撃[END]
+// current address: $11B163
+
+//Text $11B138
+#WRITE(ptr,$1018C8)
+シュンサツテンショウゲキ[END]
+// current address: $11B151
+
+//Text $11B0F8
+#WRITE(ptr,$1018CC)
+不意打ちで敵の防御を崩し、鉱石を跳ね上げて[LINE]敵を吹き飛ばす奥義。[END]
+// current address: $11B138
+
+
+
+
+
+//Text $11B0E8
+#WRITE(ptr,$1018F8)
+迅雷天翔撃[END]
+// current address: $11B0F3
+
+//Text $11B0D0
+#WRITE(ptr,$1018FC)
+ジンライテンショウゲキ[END]
+// current address: $11B0E7
+
+//Text $11B088
+#WRITE(ptr,$101900)
+雷撃で浮かせ、そして巨大な鋼を具現化させて[LINE]敵へと落とす最大奥義。[END]
+// current address: $11B0CA
+
+
+
+
+
+//Text $11B070
+#WRITE(ptr,$10192C)
+パワー・クラフト[END]
+// current address: $11B081
+
+//Text $11B018
+#WRITE(ptr,$101934)
+範囲内の味方の攻撃力を上昇させると同時に[LINE]攻撃力減少・熱毒を解除する弧法陣を張る陣術。[END]
+// current address: $11B06E
+
+
+
+
+
+//Text $11B000
+#WRITE(ptr,$101960)
+ガード・ヴァッサー[END]
+// current address: $11B013
+
+//Text $11AFA8
+#WRITE(ptr,$101968)
+範囲内の味方の防御力を上昇させると同時に[LINE]防御力減少・凍結を解除する弧法陣を張る陣術。[END]
+// current address: $11AFFE
+
+
+
+
+
+//Text $11AF90
+#WRITE(ptr,$101994)
+マインド・ガイスト[END]
+// current address: $11AFA3
+
+//Text $11AF30
+#WRITE(ptr,$10199C)
+範囲内の味方の術攻撃力を上昇させると同時に[LINE]術攻撃力減少・マヒを解除する弧法陣を張る陣術。[END]
+// current address: $11AF8A
+
+
+
+
+
+//Text $11AF18
+#WRITE(ptr,$1019C8)
+レジスト・ヴィレ[END]
+// current address: $11AF29
+
+//Text $11AEB8
+#WRITE(ptr,$1019D0)
+範囲内の味方の術防御力を上昇させると同時に[LINE]術防御力減少・恐慌を解除する弧法陣を張る陣術。[END]
+// current address: $11AF12
+
+
+
+
+
+//Text $11AEA0
+#WRITE(ptr,$1019FC)
+ライフ・マテリア[END]
+// current address: $11AEB1
+
+//Text $11AE40
+#WRITE(ptr,$101A04)
+範囲内の味方のＨＰ回復力を上昇させると同時に[LINE]ＨＰ回復力減少・鈍足を解除する弧法陣を張る陣術。[END]
+// current address: $11AE9E
+
+
+
+
+
+//Text $11AE28
+#WRITE(ptr,$101A30)
+チャージ・ヴィント[END]
+// current address: $11AE3B
+
+//Text $11ADC8
+#WRITE(ptr,$101A38)
+範囲内の味方のＦＧ回復力を上昇させると同時に[LINE]ＦＧ回復力減少・衰弱を解除する弧法陣を張る陣術。[END]
+// current address: $11AE26
+
+
+
+
+
+//Text $11ADB8
+#WRITE(ptr,$101A64)
+Ｄ・レーベン[END]
+// current address: $11ADC5
+
+//Text $11ADA0
+#WRITE(ptr,$101A68)
+ドラッグ・レーベン[END]
+// current address: $11ADB3
+
+//Text $11AD68
+#WRITE(ptr,$101A6C)
+範囲内の敵のＨＰを吸収して自分のＨＰを[LINE]回復させる錬術。[END]
+// current address: $11ADA0
+
+
+
+
+
+//Text $11AD58
+#WRITE(ptr,$101A98)
+Ｒ・エリキシル[END]
+// current address: $11AD67
+
+//Text $11AD40
+#WRITE(ptr,$101A9C)
+ライズ・エリキシル[END]
+// current address: $11AD53
+
+//Text $11AD10
+#WRITE(ptr,$101AA0)
+範囲内の戦闘不能の味方を復活させる錬術。[LINE][END]
+// current address: $11AD3A
+
+
+
+
+
+//Text $11ACF8
+#WRITE(ptr,$101ACC)
+レデュース・レーゲン[END]
+// current address: $11AD0D
+
+//Text $11ACD0
+#WRITE(ptr,$101AD4)
+広範囲の敵の攻撃力を下げる陣術奥義。[LINE][END]
+// current address: $11ACF6
+
+
+
+
+
+//Text $11ACB8
+#WRITE(ptr,$101B00)
+シェイブ・レーゲン[END]
+// current address: $11ACCB
+
+//Text $11AC90
+#WRITE(ptr,$101B08)
+広範囲の敵の防御力を下げる陣術奥義。[LINE][END]
+// current address: $11ACB6
+
+
+
+
+
+//Text $11AC78
+#WRITE(ptr,$101B34)
+ブラスト・レーゲン[END]
+// current address: $11AC8B
+
+//Text $11AC50
+#WRITE(ptr,$101B3C)
+広範囲の敵の術攻撃力を下げる陣術奥義。[LINE][END]
+// current address: $11AC78
+
+
+
+
+
+//Text $11AC38
+#WRITE(ptr,$101B68)
+ガンビット・レーゲン[END]
+// current address: $11AC4D
+
+//Text $11AC10
+#WRITE(ptr,$101B70)
+広範囲の敵の術防御力を下げる陣術奥義。[LINE][END]
+// current address: $11AC38
+
+
+
+
+
+//Text $11ABF8
+#WRITE(ptr,$101B9C)
+ペイン・レーゲン[END]
+// current address: $11AC09
+
+//Text $11ABC8
+#WRITE(ptr,$101BA4)
+発動中の敵ののけぞり時間を延長させる陣術奥義。[LINE][END]
+// current address: $11ABF8
+
+
+
+
+
+//Text $11ABB0
+#WRITE(ptr,$101BD0)
+バースト・レーゲン[END]
+// current address: $11ABC3
+
+//Text $11AB88
+#WRITE(ptr,$101BD8)
+広範囲の敵のＲＧを上げる陣術奥義。[LINE][END]
+// current address: $11ABAC
+
+
+
+
+
+//Text $11AB70
+#WRITE(ptr,$101C04)
+スタン・レーゲン[END]
+// current address: $11AB81
+
+//Text $11AB48
+#WRITE(ptr,$101C0C)
+広範囲の敵のＲＧを下げる陣術奥義。[LINE][END]
+// current address: $11AB6C
+
+
+
+
+
+//Text $11AB30
+#WRITE(ptr,$101C38)
+ヒール・レーゲン[END]
+// current address: $11AB41
+
+//Text $11AB00
+#WRITE(ptr,$101C40)
+広範囲の味方のＨＰを微量回復させる陣術奥義。[LINE][END]
+// current address: $11AB2E
+
+
+
+
+
+//Text $11AAE8
+#WRITE(ptr,$101C6C)
+フラッシュ・レーゲン[END]
+// current address: $11AAFD
+
+//Text $11AAB8
+#WRITE(ptr,$101C74)
+発動中、敵からの攻撃を無効化する陣術奥義。[LINE][END]
+// current address: $11AAE4
+
+
+
+
+
+//Text $11AAA0
+#WRITE(ptr,$101CA0)
+ファスト・レーゲン[END]
+// current address: $11AAB3
+
+//Text $11AA70
+#WRITE(ptr,$101CA8)
+広範囲の味方の移動速度を上げる陣術奥義。[LINE][END]
+// current address: $11AA9A
+
+
+
+
+
+//Text $11AA58
+#WRITE(ptr,$101CD4)
+アーツ・レーゲン[END]
+// current address: $11AA69
+
+//Text $11AA10
+#WRITE(ptr,$101CDC)
+発動中、味方全員が、ＲＧに関係なく[LINE]奥義を発動できるようになる陣術奥義。[END]
+// current address: $11AA58
+
+
+
+
+
+//Text $11A9F8
+#WRITE(ptr,$101D08)
+ブレイク・レーゲン[END]
+// current address: $11AA0B
+
+//Text $11A9C8
+#WRITE(ptr,$101D10)
+発動中、敵のガードを破れるようになる陣術奥義。[LINE][END]
+// current address: $11A9F8
+
+
+
+
+
+//Text $11A9C0
+#WRITE(ptr,$101D3C)
+翔連脚[END]
+// current address: $11A9C7
+
+//Text $11A9A8
+#WRITE(ptr,$101D40)
+ショウレンキャク[END]
+// current address: $11A9B9
+
+//Text $11A960
+#WRITE(ptr,$101D44)
+空中回転二連蹴りを繰り出す特技。[LINE]敵の背が低いとあたりづらいのが欠点。[END]
+// current address: $11A9A6
+
+
+
+
+
+//Text $11A958
+#WRITE(ptr,$101D70)
+轟裂破[END]
+// current address: $11A95F
+
+//Text $11A948
+#WRITE(ptr,$101D74)
+ゴウレッパ[END]
+// current address: $11A953
+
+//Text $11A910
+#WRITE(ptr,$101D78)
+強烈に吹き飛ばす特技。[LINE]間合いを開けるのに重宝する。[END]
+// current address: $11A944
+
+
+
+
+
+//Text $11A908
+#WRITE(ptr,$101DA4)
+牙連撃[END]
+// current address: $11A90F
+
+//Text $11A8F8
+#WRITE(ptr,$101DA8)
+ガレンゲキ[END]
+// current address: $11A903
+
+//Text $11A8B8
+#WRITE(ptr,$101DAC)
+拳の連撃を叩き込む特技。[LINE]連携のしやすさではトップクラス。[END]
+// current address: $11A8F2
+
+
+
+
+
+//Text $11A8B0
+#WRITE(ptr,$101DD8)
+疾空波[END]
+// current address: $11A8B7
+
+//Text $11A8A0
+#WRITE(ptr,$101DDC)
+シックウハ[END]
+// current address: $11A8AB
+
+//Text $11A848
+#WRITE(ptr,$101DE0)
+スライディングから繋ぐ回転蹴りで、敵を[LINE]手前ラインに蹴り飛ばす特技。自分も飛んでく。[END]
+// current address: $11A89C
+
+
+
+
+
+//Text $11A840
+#WRITE(ptr,$101E0C)
+樹砲閃[END]
+// current address: $11A847
+
+//Text $11A830
+#WRITE(ptr,$101E10)
+ジュホウセン[END]
+// current address: $11A83D
+
+//Text $11A7E8
+#WRITE(ptr,$101E14)
+足元に射撃した矢を反射させて敵を狙う[LINE]射撃特技。単発だが追尾能力は高い。[END]
+// current address: $11A830
+
+
+
+
+
+//Text $11A7E0
+#WRITE(ptr,$101E40)
+扇翔閃[END]
+// current address: $11A7E7
+
+//Text $11A7D0
+#WRITE(ptr,$101E44)
+センショウセン[END]
+// current address: $11A7DF
+
+//Text $11A778
+#WRITE(ptr,$101E48)
+上空に射撃し、矢を炸裂させて広範囲の敵を[LINE]狙う射撃特技。敵によってヒット数が変わる。[END]
+// current address: $11A7CC
+
+
+
+
+
+//Text $11A768
+#WRITE(ptr,$101E74)
+激・樹装壁[END]
+// current address: $11A773
+
+//Text $11A750
+#WRITE(ptr,$101E78)
+ゲキ・ジュソウヘキ[END]
+// current address: $11A763
+
+//Text $11A710
+#WRITE(ptr,$101E7C)
+自然の加護を得て、防御中にＨＰが回復する[LINE]ようになる錬術。[END]
+// current address: $11A74A
+
+
+
+
+
+//Text $11A700
+#WRITE(ptr,$101EA8)
+激・瞬殺連[END]
+// current address: $11A70B
+
+//Text $11A6E8
+#WRITE(ptr,$101EAC)
+ゲキ・シュンサツレン[END]
+// current address: $11A6FD
+
+//Text $11A690
+#WRITE(ptr,$101EB0)
+体内に眠る全ての力を解放し、打撃特技後の[LINE]スキをなくす錬術。のけぞり時間も短くなる。[END]
+// current address: $11A6E4
+
+
+
+
+
+//Text $11A680
+#WRITE(ptr,$101EDC)
+飛連轟衝牙[END]
+// current address: $11A68B
+
+//Text $11A668
+#WRITE(ptr,$101EE0)
+ヒレンゴウショウガ[END]
+// current address: $11A67B
+
+//Text $11A628
+#WRITE(ptr,$101EE4)
+連続回し蹴りから轟裂破に繋げる奥義。[LINE]吹き飛び方はやや短い。[END]
+// current address: $11A664
+
+
+
+
+
+//Text $11A618
+#WRITE(ptr,$101F10)
+愚連連天脚[END]
+// current address: $11A623
+
+//Text $11A600
+#WRITE(ptr,$101F14)
+グレンレンテンキャク[END]
+// current address: $11A615
+
+//Text $11A5D0
+#WRITE(ptr,$101F18)
+蹴りと拳を交えた連続攻撃を繰り出す奥義。[LINE][END]
+// current address: $11A5FA
+
+
+
+
+
+//Text $11A5C0
+#WRITE(ptr,$101F44)
+飛連斬空脚[END]
+// current address: $11A5CB
+
+//Text $11A5A8
+#WRITE(ptr,$101F48)
+ヒレンザンクウキャク[END]
+// current address: $11A5BD
+
+//Text $11A558
+#WRITE(ptr,$101F4C)
+果てしなく蹴り上げる奥義。一人旅に注意。[LINE]あるいは狙って攻撃回避にも使える？[END]
+// current address: $11A5A4
+
+
+
+
+
+//Text $11A548
+#WRITE(ptr,$101F78)
+飛連墜蓮閃[END]
+// current address: $11A553
+
+//Text $11A530
+#WRITE(ptr,$101F7C)
+ヒレンツイレンセン[END]
+// current address: $11A543
+
+//Text $11A4E0
+#WRITE(ptr,$101F80)
+気合の蹴り上げから、貫通ショットを放つ[LINE]奥義。後ろに複数の敵がいる場合に有効。[END]
+// current address: $11A52E
+
+
+
+
+
+//Text $11A4D0
+#WRITE(ptr,$101FAC)
+蒼破連天脚[END]
+// current address: $11A4DB
+
+//Text $11A4B8
+#WRITE(ptr,$101FB0)
+ソウハレンテンキャク[END]
+// current address: $11A4CD
+
+//Text $11A468
+#WRITE(ptr,$101FB4)
+曲撃ちで敵を引き寄せ、連続蹴りを見舞う[LINE]奥義。初段のショットはガードを破れる。[END]
+// current address: $11A4B6
+
+
+
+
+
+//Text $11A458
+#WRITE(ptr,$101FE0)
+轟裂連牙弾[END]
+// current address: $11A463
+
+//Text $11A440
+#WRITE(ptr,$101FE4)
+ゴウレツレンガダン[END]
+// current address: $11A453
+
+//Text $11A410
+#WRITE(ptr,$101FE8)
+気を溜めて多段ヒットする気功弾を生み出す[LINE]奥義。[END]
+// current address: $11A440
+
+
+
+
+
+//Text $11A400
+#WRITE(ptr,$102014)
+轟裂斬空脚[END]
+// current address: $11A40B
+
+//Text $11A3E8
+#WRITE(ptr,$102018)
+ゴウレツザンクウキャク[END]
+// current address: $11A3FF
+
+//Text $11A398
+#WRITE(ptr,$10201C)
+アッパー、そして謎の三角蹴りで敵を[LINE]目も当てられないくらい吹き飛ばす奥義。[END]
+// current address: $11A3E2
+
+
+
+
+
+//Text $11A388
+#WRITE(ptr,$102048)
+緋桜轟衝牙[END]
+// current address: $11A393
+
+//Text $11A370
+#WRITE(ptr,$10204C)
+ヒオウゴウショウガ[END]
+// current address: $11A383
+
+//Text $11A328
+#WRITE(ptr,$102050)
+気功弾を放ち、間合いの離れた敵も狙える[LINE]奥義。密着状態で６ヒットする。[END]
+// current address: $11A36E
+
+
+
+
+
+//Text $11A318
+#WRITE(ptr,$10207C)
+轟裂蒼翔閃[END]
+// current address: $11A323
+
+//Text $11A300
+#WRITE(ptr,$102080)
+ゴウレツソウショウセン[END]
+// current address: $11A317
+
+//Text $11A2B8
+#WRITE(ptr,$102084)
+間合いが開いた敵を更に吹き飛ばせる、[LINE]踏み込みからの水圧射撃を放つ奥義。[END]
+// current address: $11A300
+
+
+
+
+
+//Text $11A2A8
+#WRITE(ptr,$1020B0)
+愚連斬空脚[END]
+// current address: $11A2B3
+
+//Text $11A290
+#WRITE(ptr,$1020B4)
+グレンザンクウキャク[END]
+// current address: $11A2A5
+
+//Text $11A240
+#WRITE(ptr,$1020B8)
+脚を使った往復ビンタをかます奥義。[LINE]締めの蹴りで敵を奥ラインに吹き飛ばす。[END]
+// current address: $11A28A
+
+
+
+
+
+//Text $11A230
+#WRITE(ptr,$1020E4)
+愚連墜蓮閃[END]
+// current address: $11A23B
+
+//Text $11A218
+#WRITE(ptr,$1020E8)
+グレンツイレンセン[END]
+// current address: $11A22B
+
+//Text $11A1E0
+#WRITE(ptr,$1020EC)
+樹砲閃の３連射を繰り出す奥義。[LINE]浮かし能力にも優れる。[END]
+// current address: $11A216
+
+
+
+
+
+//Text $11A1D0
+#WRITE(ptr,$102118)
+愚連蒼翔閃[END]
+// current address: $11A1DB
+
+//Text $11A1B8
+#WRITE(ptr,$10211C)
+グレンソウショウセン[END]
+// current address: $11A1CD
+
+//Text $11A168
+#WRITE(ptr,$102120)
+斜め上に向けての拡散連射奥義。普段は[LINE]なにげにヒットしないが、巨大な敵には<$9A><$C5><$9A><$C5>[END]
+// current address: $11A1B6
+
+
+
+
+
+//Text $11A158
+#WRITE(ptr,$10214C)
+空破墜蓮閃[END]
+// current address: $11A163
+
+//Text $11A140
+#WRITE(ptr,$102150)
+クウハツイレンセン[END]
+// current address: $11A153
+
+//Text $11A0F0
+#WRITE(ptr,$102154)
+強烈極まるカカト落としで敵を地面に釘付けに[LINE]する奥義。衝撃波で他の敵も巻き込む。[END]
+// current address: $11A140
+
+
+
+
+
+//Text $11A0E0
+#WRITE(ptr,$102180)
+空破蒼翔閃[END]
+// current address: $11A0EB
+
+//Text $11A0C8
+#WRITE(ptr,$102184)
+クウハソウショウセン[END]
+// current address: $11A0DD
+
+//Text $11A088
+#WRITE(ptr,$102188)
+鋭い踏み込みで間合いを詰め、水流と[LINE]共に拳を突き上げる奥義。[END]
+// current address: $11A0C4
+
+
+
+
+
+//Text $11A078
+#WRITE(ptr,$1021B4)
+蒼破墜蓮閃[END]
+// current address: $11A083
+
+//Text $11A060
+#WRITE(ptr,$1021B8)
+ソウハツイレンセン[END]
+// current address: $11A073
+
+//Text $11A028
+#WRITE(ptr,$1021BC)
+範囲内の敵を逃さない無数の曲撃ちを[LINE]繰り出す奥義。[END]
+// current address: $11A05A
+
+
+
+
+
+//Text $11A018
+#WRITE(ptr,$1021E8)
+ロックバラージ[END]
+// current address: $11A027
+
+//Text $119FD0
+#WRITE(ptr,$1021F0)
+地面から岩つぶてを射出する地系導術。[LINE]敵の背が低すぎると当たりづらい。[END]
+// current address: $11A016
+
+
+
+
+
+//Text $119FC0
+#WRITE(ptr,$10221C)
+スプラッシャー[END]
+// current address: $119FCF
+
+//Text $119F78
+#WRITE(ptr,$102224)
+地面から垂直に水流を噴き出す水系導術。[LINE]浮かし効果があるが、範囲が狭い。[END]
+// current address: $119FC0
+
+
+
+
+
+//Text $119F68
+#WRITE(ptr,$102250)
+サンダースピア[END]
+// current address: $119F77
+
+//Text $119F18
+#WRITE(ptr,$102258)
+術者から地面を這う雷撃を放つ光系導術。[LINE]ラインを合わせてから詠唱する必要がある。[END]
+// current address: $119F68
+
+
+
+
+
+//Text $119F00
+#WRITE(ptr,$102284)
+ストーンブレイク[END]
+// current address: $119F11
+
+//Text $119EC8
+#WRITE(ptr,$10228C)
+円周上に石片を生み出し、巨大な石槍で貫く[LINE]地系導術。[END]
+// current address: $119EFC
+
+
+
+
+
+//Text $119EB0
+#WRITE(ptr,$1022B8)
+アクアストリーム[END]
+// current address: $119EC1
+
+//Text $119E58
+#WRITE(ptr,$1022C0)
+水流の圧力と衝撃で敵を吹き飛ばす水系導術。[LINE]攻撃範囲はやや狭いが、詠唱時間が短め。[END]
+// current address: $119EAA
+
+
+
+
+
+//Text $119E40
+#WRITE(ptr,$1022EC)
+シャイニングレイ[END]
+// current address: $119E51
+
+//Text $119DF8
+#WRITE(ptr,$1022F4)
+無数の光の針が敵を貫く光系導術。[LINE]安定して複数の敵にダメージを与える。[END]
+// current address: $119E3E
+
+
+
+
+
+//Text $119DE8
+#WRITE(ptr,$102320)
+Ｌ・ローブ[END]
+// current address: $119DF3
+
+//Text $119DD0
+#WRITE(ptr,$102324)
+ライトニング・ローブ[END]
+// current address: $119DE5
+
+//Text $119D98
+#WRITE(ptr,$102328)
+一定時間、物理攻撃を受けたときに[LINE]雷撃で反撃を行う錬術。[END]
+// current address: $119DD0
+
+
+
+
+
+//Text $119D88
+#WRITE(ptr,$102354)
+Ｌ・ソーサリー[END]
+// current address: $119D97
+
+//Text $119D70
+#WRITE(ptr,$102358)
+リミテッド・ソーサリー[END]
+// current address: $119D87
+
+//Text $119D28
+#WRITE(ptr,$10235C)
+一定時間、詠唱時間を３／４にし、通常攻撃時[LINE]のＦＧ回復量を倍にする錬術。[END]
+// current address: $119D70
+
+
+
+
+
+//Text $119D10
+#WRITE(ptr,$102388)
+クラスターレイド[END]
+// current address: $119D21
+
+//Text $119CC0
+#WRITE(ptr,$102390)
+８発の水晶を円周上に突き刺す、結晶導術。[LINE]目標が小さいと当たりづらいので注意。[END]
+// current address: $119D0E
+
+
+
+
+
+//Text $119CA8
+#WRITE(ptr,$1023BC)
+フリーズランサー[END]
+// current address: $119CB9
+
+//Text $119C50
+#WRITE(ptr,$1023C4)
+氷の槍を扇状に打ち出す氷結導術。目標への[LINE]命中率は高く、距離次第で複数の敵に当たる。[END]
+// current address: $119CA4
+
+
+
+
+
+//Text $119C38
+#WRITE(ptr,$1023F0)
+フラッシュティア[END]
+// current address: $119C49
+
+//Text $119BF0
+#WRITE(ptr,$1023F8)
+十字の印を焼き付ける神聖導術。[LINE]紋章の上に立つ者にダメージを与える。[END]
+// current address: $119C34
+
+
+
+
+
+//Text $119BD8
+#WRITE(ptr,$102424)
+グランドダッシャー[END]
+// current address: $119BEB
+
+//Text $119B88
+#WRITE(ptr,$10242C)
+地面に秘められた力を解放する結晶導術。[LINE]１ラインのみだが高い威力を発揮する。[END]
+// current address: $119BD4
+
+
+
+
+
+//Text $119B70
+#WRITE(ptr,$102458)
+フリジットコフィン[END]
+// current address: $119B83
+
+//Text $119B20
+#WRITE(ptr,$102460)
+氷霧を散らし、結晶化させて敵を貫く氷結導術。[LINE]氷塊によりヒット数が変化する。[END]
+// current address: $119B6C
+
+
+
+
+
+//Text $119B08
+#WRITE(ptr,$10248C)
+ディバインセイバー[END]
+// current address: $119B1B
+
+//Text $119AC0
+#WRITE(ptr,$102494)
+聖なる落雷で敵を討つ神聖導術。[LINE]中心にいる敵に脅威的な威力を与える。[END]
+// current address: $119B04
+
+
+
+
+
+//Text $119AB0
+#WRITE(ptr,$1024C0)
+テスト魔法[END]
+// current address: $119ABB
+
+
+
+
+
+//Text $119A98
+#WRITE(ptr,$1024F4)
+シュタイフェ・ブリーゼ[END]
+// current address: $119AAF
+
+
+
+
+
+//Text $119A80
+#WRITE(ptr,$102528)
+マグネティックゲイザー[END]
+// current address: $119A97
+
+
+
+
+
+//Text $119A70
+#WRITE(ptr,$10255C)
+ワルトゥ魔法[END]
+// current address: $119A7D
+
+
+
+
+
+//Text $119A58
+#WRITE(ptr,$102590)
+スペクトルフィールド[END]
+// current address: $119A6D
+
+
+
+
+
+//Text $119A40
+#WRITE(ptr,$1025C4)
+ドリフトウェーブ[END]
+// current address: $119A51
+
+
+
+
+
+//Text $119A28
+#WRITE(ptr,$1025F8)
+フレイムウォール[END]
+// current address: $119A39
+
+
+
+
+
+//Text $119A10
+#WRITE(ptr,$10262C)
+クロスウィンガー[END]
+// current address: $119A21
+
+
+
+
+
+//Text $1199F8
+#WRITE(ptr,$102660)
+グラヴィティプリズン[END]
+// current address: $119A0D
+
+
+
+
+
+//Text $1199E8
+#WRITE(ptr,$102694)
+ペリフェライ[END]
+// current address: $1199F5
+
+
+
+
+
+//Text $1199D8
+#WRITE(ptr,$1026C8)
+ソウルプレイ[END]
+// current address: $1199E5
+
+
+
+
+
+//Text $1199C0
+#WRITE(ptr,$1026FC)
+アクエリアス・スフィア[END]
+// current address: $1199D7
+
+
+
+
+
+//Text $1199A8
+#WRITE(ptr,$102730)
+プリズミック・スターズ[END]
+// current address: $1199BF
+
+
+
+
+
+//Text $119990
+#WRITE(ptr,$102764)
+ブライティスト・ゲート[END]
+// current address: $1199A7
+
+
+
+
+
+//Text $119970
+#WRITE(ptr,$102798)
+エクスプロージョン・ノヴァ[END]
+// current address: $11998B
+
+
+
+
+
+//Text $119958
+#WRITE(ptr,$1027CC)
+マクスウェル・ロアー[END]
+// current address: $11996D
+
+
+
+
+
+//Text $119938
+#WRITE(ptr,$102800)
+ディメンジョナル・マテリアル[END]
+// current address: $119955
+
+
+
+
+
+//Text $119928
+#WRITE(ptr,$102834)
+ブルー・アース[END]
+// current address: $119937
+
+
+
+
+
+//Text $119910
+#WRITE(ptr,$102868)
+スプレッド・ブルー[END]
+// current address: $119923
+
+
+
+
+
+//Text $1198F8
+#WRITE(ptr,$10289C)
+パニッシュメント[END]
+// current address: $119909
+
+
+
+
+
+//Text $1198D8
+#WRITE(ptr,$1028D0)
+シェイドムーン・レベリオン[END]
+// current address: $1198F3
+
+
+
+
+
+//Text $1198B8
+#WRITE(ptr,$102904)
+セベラティ・オーバーロード[END]
+// current address: $1198D3
+
+
+
+
+
+//Text $119898
+#WRITE(ptr,$102938)
+ファイデリティ・テスタメント[END]
+// current address: $1198B5
+
+
+
+
+
+//Text $119890
+#WRITE(ptr,$10296C)
+敵法陣[END]
+// current address: $119897
+
+
+
+
+
+
+
+
+
+//Text $11D8C0
+#WRITE(ptr,$1029D4)
+BARRIER[END]
+// current address: $11D8C8
+
+//Text $11D880
+#WRITE(ptr,$1029D8)
+ボタンを押し続けることでRGが０になるまで[LINE]召術攻撃を防御する。[END]
+// current address: $11D8BE
+
+
+
+
+
+//Text $11D740
+#WRITE(ptr,$102A08)
+戦場の属性因子に対応した能力が一定時間[LINE]強化される。RGは６０へ近づく。[END]
+// current address: $11D786
+
+//Text $11D730
+#WRITE(ptr,$102A10)
+パワーブレイド[END]
+// current address: $11D73F
+
+
+
+
+
+//Text $FFFFFFFFFFFF1000
+#WRITE(ptr,$102A3C)
+ピピスタ特産の麻織物[END]
+// current address: $1FFFFFFFFFFF1015
+
+//Text $11D5F8
+#WRITE(ptr,$102A40)
+ラッシュブレイド[END]
+// current address: $11D609
+
+//Text $11D5E8
+#WRITE(ptr,$102A44)
+INPACT *2[END]
+// current address: $11D5F2
+
+
+
+
+
+//Text $11D4F0
+#WRITE(ptr,$102A70)
+アーマースラスト[END]
+// current address: $11D501
+
+//Text $11D4E0
+#WRITE(ptr,$102A74)
+ARMOR THRUST[END]
+// current address: $11D4ED
+
+//Text $11D4B0
+#WRITE(ptr,$102A78)
+敵の防御力を一定時間下げる瞬速攻撃を行う[LINE][END]
+// current address: $11D4DA
+
+
+
+
+
+//Text $11D490
+#WRITE(ptr,$102AA4)
+THRUST ATTACK[END]
+// current address: $11D49E
+
+//Text $11D3E0
+#WRITE(ptr,$102AA8)
+敵のFG回復力を一定時間下げる瞬速攻撃を行う[LINE][END]
+// current address: $11D40C
+
+//Text $FFFFFFFFFFF41000
+#WRITE(ptr,$102AAC)
+[12][END]
+// current address: $1FFFFFFFFFF41002
+
+
+
+
+
+//Text $11D298
+#WRITE(ptr,$102AD8)
+溜め攻撃により、敵を吹き飛ばす。[LINE]吹き飛ばす方向はセット位置により変化。[END]
+// current address: $11D2E0
+
+//Text $11D280
+#WRITE(ptr,$102AE0)
+ハインドステップ[END]
+// current address: $11D291
+
+
+
+
+
+//Text $11D190
+#WRITE(ptr,$102B10)
+アサルトシュート[END]
+// current address: $11D1A1
+
+//Text $11D180
+#WRITE(ptr,$102B14)
+ASSAULT SHOOT[END]
+// current address: $11D18E
+
+
+
+
+
+//Text $11D0A0
+#WRITE(ptr,$102B40)
+マインドドレイン[END]
+// current address: $11D0B1
+
+//Text $11D090
+#WRITE(ptr,$102B44)
+MIND DRAIN[END]
+// current address: $11D09B
+
+//Text $11D050
+#WRITE(ptr,$102B48)
+行動後に唱えた召術に、[LINE]敵の術攻撃力を低下させる効果を付加する。[END]
+// current address: $11D090
+
+
+
+
+
+//Text $11CF58
+#WRITE(ptr,$102B74)
+RISE DRAIN[END]
+// current address: $11CF63
+
+//Text $11CF10
+#WRITE(ptr,$102B78)
+行動後に唱えた召術に、[LINE]敵攻撃の覚醒率を一定時間減少する効果を付加。[END]
+// current address: $11CF54
+
+
+
+
+
+//Text $11CE28
+#WRITE(ptr,$102BA8)
+行動後、召術使用によるHP回復量を[LINE]２倍にする。[END]
+// current address: $11CE56
+
+//Text $11CE10
+#WRITE(ptr,$102BB0)
+ブレイクアームド[END]
+// current address: $11CE21
+
+
+
+
+
+//Text $11CD18
+#WRITE(ptr,$102BE0)
+パワーブラッド[END]
+// current address: $11CD27
+
+//Text $11CD08
+#WRITE(ptr,$102BE4)
+POWER BLOOD[END]
+// current address: $11CD14
+
+
+
+
+
+//Text $11CBD0
+#WRITE(ptr,$102C10)
+ワイドフォーム[END]
+// current address: $11CBDF
+
+//Text $11CBC0
+#WRITE(ptr,$102C14)
+WIDE FORM[END]
+// current address: $11CBCA
+
+//Text $11CB80
+#WRITE(ptr,$102C18)
+陣術発動後に入力することで、[LINE]効果半径を広げ、効果時間を減らす。[END]
+// current address: $11CBC0
+
+
+
+
+
+//Text $11CA88
+#WRITE(ptr,$102C44)
+CURSED FORM[END]
+// current address: $11CA94
+
+//Text $11CA48
+#WRITE(ptr,$102C48)
+陣術発動後に入力することで、[LINE]近くの敵へ方陣を移動させる。[END]
+// current address: $11CA82
+
+
+
+
+
+//Text $11C910
+#WRITE(ptr,$102C78)
+発動後に入力することで、[LINE]弧法陣を、敵のHPを下げる効果にする。[END]
+// current address: $11C94E
+
+//Text $11C900
+#WRITE(ptr,$102C80)
+マッドシール[END]
+// current address: $11C90D
+

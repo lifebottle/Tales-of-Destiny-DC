@@ -1,0 +1,47 @@
+//GAME NAME:		Tales of Rebirth
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\ToR.tbl", Table_0)
+
+//BLOCK #000 NAME:		Artes_Block_1
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($11C840, $11C8A6) // Jump to insertion point
+#HDR($-FF000) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $100BC4 - STRING #0 @ $11C8A0
+#W32($100BC4)
+絶氷刃[END]
+// current address: $11C8A7
+
+//POINTER #1 @ $100BC8 - STRING #1 @ $11C890
+#W32($100BC8)
+ゼッヒョウジン[END]
+// current address: $11C89F
+
+//POINTER #2 @ $100BCC - STRING #2 @ $11C840
+#W32($100BCC)
+圧縮した冷気で切り込む特技。水属性を付加。[LINE]特技は通常攻撃から連携できる。[END]
+// current address: $11C88A
+
+//BLOCK #001 NAME:		Artes_Block_2
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($11C7E8, $11C83E) // Jump to insertion point
+#HDR($-FF000) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $100BF8 - STRING #0 @ $11C838
+#W32($100BF8)
+瞬連塵[END]
+// current address: $11C83F
+
+//POINTER #1 @ $100BFC - STRING #1 @ $11C828
+#W32($100BFC)
+シュンレンジン[END]
+// current address: $11C837
+
+//POINTER #2 @ $100C00 - STRING #2 @ $11C7E8
+#W32($100C00)
+踏み込んでの切り込みで間合いを詰め、[LINE]高速の３連突きを行う特技。[END]
+// current address: $11C828

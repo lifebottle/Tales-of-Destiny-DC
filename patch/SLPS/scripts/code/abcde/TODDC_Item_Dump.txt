@@ -1571,9 +1571,9 @@ an enemy's guard with [Square_ani2]＋[Down_blink].[LINE]
 
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
-Rerise into a gem that will[LINE]
-temporarily prevent status[LINE]
-ailments with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that[LINE]
+will remove stat-lowering[LINE]
+effects with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACB18
@@ -2106,8 +2106,8 @@ enemy to break his guard.[LINE]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
-During battle, press [Square_ani2]＋[Down_blink] to temporarily[LINE]
-prevent status ailments.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to remove[LINE]
+stat-lowering effects.[LINE]
 [END]
 
 
@@ -7688,7 +7688,7 @@ Mirror Shield.[LINE]
 
 //Text $1BA730
 #WRITE(ptr,$1929B4)
-[Sign_Key]Belselium[END]
+[Sign_Key]Berselium[END]
 
 
 //Text $1BA6F8
@@ -7700,7 +7700,7 @@ Necessary to fix the Draconis.[LINE]
 
 //Text $1BA6E0
 #WRITE(ptr,$1929D0)
-[Sign_Key]Belselium Mass[END]
+[Sign_Key]Berselium Mass[END]
 
 
 //Text $1BA6A0

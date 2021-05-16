@@ -1,0 +1,91 @@
+//GAME NAME:		Tales of Rebirth
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("E:\! Temple Of Tales\! A-Temple of Tales Translations\Tales Of Rebirth\!test (2021)\00. (0) ELF=abcde (Inception)\01. ELF=Data\ToR.tbl", Table_0)
+
+//BLOCK #000 NAME:		Names
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($111980, $111A40) // Jump to insertion point
+#HDR($-FF000) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $CAC08 - STRING #0 @ $111A38
+#W32($CAC08)
+ヴェイグ[END]
+// current address: $111A41
+
+//POINTER #1 @ $CAC0C - STRING #1 @ $111A28
+#W32($CAC0C)
+リュングベル[END]
+// current address: $111A35
+
+//POINTER #2 @ $CAC10 - STRING #2 @ $111A20
+#W32($CAC10)
+マオ[END]
+// current address: $111A25
+
+//POINTER #3 @ $CAC14 - STRING #3 @ $111A18
+#W32($CAC14)
+[END]
+// current address: $111A19
+
+//POINTER #4 @ $CAC18 - STRING #4 @ $111A08
+#W32($CAC18)
+ユージーン[END]
+// current address: $111A13
+
+//POINTER #5 @ $CAC1C - STRING #5 @ $1119F8
+#W32($CAC1C)
+ガラルド[END]
+// current address: $111A01
+
+//POINTER #6 @ $CAC20 - STRING #6 @ $1119F0
+#W32($CAC20)
+アニー[END]
+// current address: $1119F7
+
+//POINTER #7 @ $CAC24 - STRING #7 @ $1119E8
+#W32($CAC24)
+バース[END]
+// current address: $1119EF
+
+//POINTER #8 @ $CAC28 - STRING #8 @ $1119D8
+#W32($CAC28)
+ティトレイ[END]
+// current address: $1119E3
+
+//POINTER #9 @ $CAC2C - STRING #9 @ $1119D0
+#W32($CAC2C)
+クロウ[END]
+// current address: $1119D7
+
+//POINTER #10 @ $CAC30 - STRING #10 @ $1119C8
+#W32($CAC30)
+ヒルダ[END]
+// current address: $1119CF
+
+//POINTER #11 @ $CAC34 - STRING #11 @ $1119B8
+#W32($CAC34)
+ランブリング[END]
+// current address: $1119C5
+
+//POINTER #12 @ $CAC38 - STRING #12 @ $1119B0
+#W32($CAC38)
+クレア[END]
+// current address: $1119B7
+
+//POINTER #13 @ $CAC3C - STRING #13 @ $1119A0
+#W32($CAC3C)
+ベネット[END]
+// current address: $1119A9
+
+//POINTER #14 @ $CAC40 - STRING #14 @ $111990
+#W32($CAC40)
+アガーテ[END]
+// current address: $111999
+
+//POINTER #15 @ $CAC44 - STRING #15 @ $111980
+#W32($CAC44)
+リンドブロム[END]
+// current address: $11198D
