@@ -19380,7 +19380,7 @@ I wonder if something important happened?[END]
 
 //POINTER #60 @ $194798 - STRING #60 @ $1BE7F8
 #WRITE(ptr,$194798)
-Ex-Lens Hunter[END]
+Ex-lens hunter[END]
 
 //POINTER #61 @ $19479C - STRING #61 @ $1BE798
 #WRITE(ptr,$19479C)
