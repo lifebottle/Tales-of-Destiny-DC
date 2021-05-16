@@ -11709,9 +11709,9 @@ an enemy's guard with [Square_ani2]＋[Down_blink].[LINE]
 
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
-Rerise into a gem that will[LINE]
-temporarily prevent status[LINE]
-ailments with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that[LINE]
+will remove stat-lowering[LINE]
+effects with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACB18
