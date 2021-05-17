@@ -2305,7 +2305,7 @@ Seeking Lens in Heidelberg[END]
 
 //Text $1545D
 #WRITE(ptr,$5B90)
-Seeking Lens in Kalviola[END]
+Seeking Lens in Calviola[END]
 // current address: $15476
 
 //Text $15476
