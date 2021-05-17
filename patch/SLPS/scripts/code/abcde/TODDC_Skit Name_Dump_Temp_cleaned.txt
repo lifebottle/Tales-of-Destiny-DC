@@ -2295,7 +2295,7 @@ Searching for Lens around the World[END]
 
 //Text $15425
 #WRITE(ptr,$5B88)
-Seeking Lens in NeuestadtEND]Seeking Lens in Heidelberg[END]
+Seeking Lens in Neuestadt[END]
 // current address: $1545D
 
 //Text $15442
@@ -2305,7 +2305,7 @@ Seeking Lens in Heidelberg[END]
 
 //Text $1545D
 #WRITE(ptr,$5B90)
-Seeking Lens in Kalviola[END]
+Seeking Lens in Calviola[END]
 // current address: $15476
 
 //Text $15476
@@ -2325,7 +2325,7 @@ A Change in [Philia]'s Image[END]
 
 //Text $154C4
 #WRITE(ptr,$5BA0)
-Discussing DarilsheidEND]Preparing for Tomorrow at the Inn[END]
+Discussing Darilsheid[END]
 // current address: $154FF
 
 //Text $154DD

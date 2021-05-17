@@ -9633,12 +9633,12 @@ that the citizens fashion into a glue[LINE]
 
 //Text $1A8AD0
 #WRITE(ptr,$18C198)
-Kalviola Viola[END]
+Calviola Viola[END]
 
 
 //Text $1A8A60
 #WRITE(ptr,$18C19C)
-Drought-resistant annual plant found in Kalviola.[LINE]
+Drought-resistant annual plant found in Calviola.[LINE]
 Short in height with small-sized flowers. In the[LINE]
 language of flowers it means "Please think of me".[END]
 
@@ -9664,7 +9664,7 @@ through frozen rivers with its stiff snout.[END]
 #WRITE(ptr,$18C1BC)
 There's apparently a fish with a real steel will[LINE]
 that can be found in the river between[LINE]
-Seinegald and Phandalia.[END]
+Seinegald and Phandaria.[END]
 
 
 //Text $1A8938
