@@ -9,9 +9,11 @@ if __name__ == "__main__":
     
     helper = Helper()
     
-    if blockDesc != "All":
+    if blockDesc in ["Skit Name", "Synopsis"]:
+        helper.createBlock_Multi(blockDesc)
         
-
+    elif blockDesc != "All":
+        
         print("\nWhat's inside this block :")
         helper.showSections(blockDesc)
         

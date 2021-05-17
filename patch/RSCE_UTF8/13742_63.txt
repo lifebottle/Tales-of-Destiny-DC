@@ -487,8 +487,8 @@ I see, the thing is...
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Alright I get it, if you don't
-say anything you can take this.
+Alright, I get it. If you don't
+say anything, you can take this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -496,6 +496,8 @@ Thank you!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
+//TODO fix this line,
+//either person -> people or are -> is depending on context
 The hidden Calvalese person
 I know are in Janos, I believe.
 [ENDBLOCK]
@@ -566,7 +568,7 @@ to <Hugo>'s Mansion.
 Man
 [ENDBLOCK]
 The atmosphere has changed since
-then... or perhaps her impression
+then... or perhaps her expression
 has become more melancholy.
 [ENDBLOCK]
 Man

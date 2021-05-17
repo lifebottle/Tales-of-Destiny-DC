@@ -1,8 +1,6 @@
 # Tales of Destiny DC
 ![image](https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png)
 
-# Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
-
 # Current Progress (First Draft)
 Scenario Files Translated: 100%
 
@@ -26,7 +24,7 @@ Use xdelta to patch your ROM with a clean ISO (http://redump.org/disc/2808/).
 
 Translation - Progress: https://docs.google.com/spreadsheets/d/1nw_GkUXp4MADdVlBsq_vcfuq3yDXv7d_5xo11xwL3ZQ
 
-![alt text](https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-DC/master/menu_patch.png "Sample menu patch.")
+![image](https://user-images.githubusercontent.com/77897370/118372936-0dfd1d80-b582-11eb-9bca-00ce96672d1b.png)
 
 
 ## Resources
