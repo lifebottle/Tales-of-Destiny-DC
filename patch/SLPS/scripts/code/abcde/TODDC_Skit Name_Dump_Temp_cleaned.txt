@@ -2295,7 +2295,7 @@ Searching for Lens around the World[END]
 
 //Text $15425
 #WRITE(ptr,$5B88)
-Seeking Lens in NeuestadtEND]Seeking Lens in Heidelberg[END]
+Seeking Lens in Neuestadt[END]
 // current address: $1545D
 
 //Text $15442
