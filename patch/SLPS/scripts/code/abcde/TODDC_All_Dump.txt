@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -9633,7 +9633,7 @@ that the citizens fashion into a glue[LINE]
 
 //Text $1A8AD0
 #WRITE(ptr,$18C198)
-Kalviola Viola[END]
+Calviola Viola[END]
 
 
 //Text $1A8A60
@@ -11116,7 +11116,7 @@ Only those who know "instruments" can answer.[END]
 //Text $1ADF58
 #WRITE(ptr,$18CF94)
 A mysterious sphere with "V" on it.[LINE]
-Only those who know "ladies" can answer.[END]
+Only those who know "ladles" can answer.[END]
 
 
 //Text $1ADF40
@@ -11853,8 +11853,8 @@ an enemy.[END]
 
 //Text $1AC6E8
 #WRITE(ptr,$18D65C)
-Rerise into a gem that increases[LINE]
-defense during a front step.[LINE]
+Rerise into a gem that lets you guard[LINE]
+physical attacks during a front step.[LINE]
 [END]
 
 
@@ -12388,8 +12388,8 @@ when you defeat an enemy.[LINE]
 
 //Text $1AFF58
 #WRITE(ptr,$18DB4C)
-Increases defense during a[LINE]
-front step.[LINE]
+Lets you guard physical attacks[LINE]
+during a front step.[LINE]
 [END]
 
 
@@ -17581,7 +17581,7 @@ we've eaten.[LINE]
 //Text $1BAE70
 #WRITE(ptr,$19276C)
 An encyclopedia of all the things[LINE]
-we found in the world.[LINE]
+you found in the world.[LINE]
 A record of our encounters while traveling.[END]
 
 
@@ -18695,12 +18695,12 @@ Functional Beauty[END]
 Custom Made[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB0E8
 #WRITE(ptr,$1940D0)
 Improved Balance[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB0C8
 #WRITE(ptr,$194108)
 Clandestine Weaponry[END]
@@ -19308,13 +19308,15 @@ who love and protect nature and culture.[END]
 
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
 #WRITE(ptr,$194760)
-Leane Official[END]
+Lienean Official[END]
+
 
 //POINTER #47 @ $194764 - STRING #47 @ $1BEA78
 #WRITE(ptr,$194764)
-[Stahn] Aileron (19) from the village of Leane.[LINE]
+[Stahn] Aileron (19) from the village of Lienea.[LINE]
 １７２ｃｍ ６３ｋｇ[LINE]
 Dymlos Swordian Master.[END]
+
 
 //POINTER #48 @ $194768 - STRING #48 @ $1BEA68
 #WRITE(ptr,$194768)

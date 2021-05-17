@@ -686,7 +686,7 @@ Can be linked to various actions.[END]
 //Text $1A0E70
 #WRITE(ptr,$183030)
 Strike an enemy with a flurry of spinning kicks.[LINE]
-Effective to foes weak against strike。[END]
+Effective against foes weak to strike。[END]
 
 
 //Text $1A0E60
@@ -2523,7 +2523,7 @@ Is she a friend of sunfish or not?[LINE]
 
 //Text $19E3D0
 #WRITE(ptr,$1840B0)
-A spell that shoots fireballs.[LINE]
+A spell that shoots fire balls.[LINE]
 Raises P. ATK.[END]
 
 
@@ -4494,7 +4494,7 @@ Cherik[END]
 
 //Text $1A4F88
 #WRITE(ptr,$1878D0)
-Kalviola[END]
+Calviola[END]
 
 
 //Text $1A4F78
@@ -4674,7 +4674,7 @@ Calvalese F1(around Junkland)[END]
 
 //Text $1A4C80
 #WRITE(ptr,$186CD8)
-Kalviola Temple[END]
+Calviola Temple[END]
 
 
 //Text $1A4C68
@@ -4844,7 +4844,7 @@ Seinegald F2(around Straylize Forest)[END]
 
 //Text $1A4968
 #WRITE(ptr,$186E70)
-Calvalese F2(around Kalviola)[END]
+Calvalese F2(around Calviola)[END]
 
 
 //Text $1A4940
@@ -5039,7 +5039,7 @@ Phandaria F3(around Heidelberg)[END]
 
 //Text $1A4590
 #WRITE(ptr,$187044)
-Calvalese F3(around Kalviola)[END]
+Calvalese F3(around Calviola)[END]
 
 
 //Text $1A4568
@@ -5922,7 +5922,7 @@ Straylize Temple・Chapel[END]
 
 //Text $1A3278
 #WRITE(ptr,$186540)
-Kalviola Temple・Corridor at Night[END]
+Calviola Temple・Corridor at Night[END]
 
 
 //Text $1A3248
@@ -6347,7 +6347,7 @@ Moreau Castle・Batista Battle[END]
 
 //Text $1A2858
 #WRITE(ptr,$1867E8)
-Kalviola Temple・Battle before the Eye or Atamoni[END]
+Calviola Temple・Battle before the Eye or Atamoni[END]
 
 
 //Section Attribute and others
