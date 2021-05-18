@@ -1273,12 +1273,12 @@ We Should Help [Woodrow] in the Forest[END]
 
 //Text $14EA8
 #WRITE(ptr,$5858)
-Through Tyrso Forest to Heidelberg [END]
+Through Tilso Forest to Heidelberg [END]
 
 
 //Text $14E88
 #WRITE(ptr,$585C)
-Tyrso Forest is West of Frostheim[END]
+Tilso Forest is West of Frostheim[END]
 
 //Text $14E78
 #WRITE(ptr,$5860)
