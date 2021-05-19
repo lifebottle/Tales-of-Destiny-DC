@@ -7580,22 +7580,22 @@ Heidelberg Castle vs. Grevam[END]
 
 //Text $1A28C8
 #WRITE(ptr,$1867C0)
-Tyrso Forest · 0[END]
+Tilso Forest · 0[END]
 
 
 //Text $1A28B8
 #WRITE(ptr,$1867C8)
-Tyrso Forest · 1[END]
+Tilso Forest · 1[END]
 
 
 //Text $1A28A8
 #WRITE(ptr,$1867D0)
-Tyrso Forest · 2[END]
+Tilso Forest · 2[END]
 
 
 //Text $1A2898
 #WRITE(ptr,$1867D8)
-Tyrso Forest · 3[END]
+Tilso Forest · 3[END]
 
 
 //Text $1A2878
