@@ -2,7 +2,7 @@
 
 // Define required TABLE variables and load the corresponding tables
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 
 
@@ -155,17 +155,17 @@ Questioning Yourself?[END]
 
 //Text $12A8B
 #WRITE(ptr,$54D8)
-Despite appearances..[END]
-// current address: $12AA1
+Despite Appearances...[END]
+// current address: $12AA2
 
-//Text $12AA1
+//Text $12AA2
 #WRITE(ptr,$54DC)
 Take the North Gate to Seinegald[END]
-// current address: $12AC2
+// current address: $12AC3
 
-//Text $12AC2
+//Text $12AC3
 #WRITE(ptr,$54E0)
-Take the East Gate to Help my Friends[END]
+Take the East Gate to Help My Friend[END]
 // current address: $12AE8
 
 //Text $12AE8
@@ -1276,12 +1276,12 @@ We Should Help [Woodrow] in the Forest[END]
 //Text $1407F
 #WRITE(ptr,$5858)
 Through Tilso Forest to Heidelberg[END]
-// current address: $140B1
+// current address: $140A2
 
 //Text $140A2
 #WRITE(ptr,$585C)
 Tilso Forest is West of Frostheim[END]
-// current address: $140D3
+// current address: $140C4
 
 //Text $140C4
 #WRITE(ptr,$5860)

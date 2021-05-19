@@ -1,0 +1,385 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-3d4080, 32)
+
+#JMP($18d40)
+//Text $18D40
+#WRITE(ptr,$13E00)
+Pause[END]
+
+//Text $18D46
+#WRITE(ptr,$13E04)
+Congratulations[END]
+
+//Text $18D56
+#WRITE(ptr,$13E08)
+Time Over[END]
+
+//Text $18D60
+#WRITE(ptr,$13E0C)
+Start[END]
+
+//Text $18D66
+#WRITE(ptr,$13E10)
+[Cross_copy]:[TAG_015][END]
+
+//Text $18D72
+#WRITE(ptr,$13E14)
+[Down]:[TAG_015][END]
+
+//Text $18D7E
+#WRITE(ptr,$13E18)
+[Left+Right]:[TAG_015][END]
+
+//Text $18D8A
+#WRITE(ptr,$13E1C)
+[Up]:[TAG_015][END]
+
+//Text $18D96
+#WRITE(ptr,$13E20)
+Resolve[END]
+
+//Text $18D9E
+#WRITE(ptr,$13E24)
+Flight[END]
+
+//Text $18DA5
+#WRITE(ptr,$13E28)
+Storm[END]
+
+//Text $18DAB
+#WRITE(ptr,$13E2C)
+Dead Sky[END]
+
+//Text $18DB4
+#WRITE(ptr,$13E30)
+[Select_ani]：Back to Title[END]
+
+//Text $18DC9
+#WRITE(ptr,$13E34)
+TIME[END]
+
+//Text $18DCE
+#WRITE(ptr,$13E38)
+MAX CHAINS[END]
+
+//Text $18DD9
+#WRITE(ptr,$13E3C)
+MAX HITS[END]
+
+//Text $18DE2
+#WRITE(ptr,$13E40)
+1ST[END]
+
+//Text $18DE6
+#WRITE(ptr,$13E44)
+2ND[END]
+
+//Text $18DEA
+#WRITE(ptr,$13E48)
+3RD[END]
+
+//Text $18DEE
+#WRITE(ptr,$13E4C)
+OUT[END]
+
+//Text $18DF2
+#WRITE(ptr,$13E50)
+RANKING[END]
+
+//Text $18DFA
+#WRITE(ptr,$13E54)
+POINTS[END]
+
+//Text $18E01
+#WRITE(ptr,$13E58)
+RANK[END]
+
+//Text $18E06
+#WRITE(ptr,$13E5C)
+D[END]
+
+//Text $18E08
+#WRITE(ptr,$13E60)
+C[END]
+
+//Text $18E0A
+#WRITE(ptr,$13E64)
+B[END]
+
+//Text $18E0C
+#WRITE(ptr,$13E68)
+A[END]
+
+//Text $18E0E
+#WRITE(ptr,$13E6C)
+S[END]
+
+//Text $18E10
+#WRITE(ptr,$13E70)
+GOD[END]
+
+//Text $18E14
+#WRITE(ptr,$13E74)
+YOU ARE A CHAMPION[END]
+
+//Text $18E27
+#WRITE(ptr,$13E78)
+[Circle_Press]WAIT[END]
+
+//Text $18E31
+#WRITE(ptr,$13E7C)
+[Cross_ani]SKIP[END]
+
+//Text $18E3B
+#WRITE(ptr,$13E80)
+[Cross_Press]SKIP[END]
+
+//Text $18E45
+#WRITE(ptr,$13E84)
+Simple Controls![END]
+
+//Text $18E56
+#WRITE(ptr,$13E88)
+[LINE]
+[END]
+
+//Text $18E58
+#WRITE(ptr,$13E8C)
+Hold [Circle_Press] to charge power![END]
+
+//Text $18E74
+#WRITE(ptr,$13E90)
+Move [L_stick_Press] to aim![END]
+
+//Text $18E87
+#WRITE(ptr,$13E94)
+That's all![END]
+
+//Text $18E93
+#WRITE(ptr,$13E98)
+[LINE]
+[END]
+
+//Text $18E95
+#WRITE(ptr,$13E9C)
+Get enough points before[END]
+
+//Text $18EAE
+#WRITE(ptr,$13EA0)
+time runs out and...![END]
+
+//Text $18EC4
+#WRITE(ptr,$13EA4)
+Power Gauge[END]
+
+//Text $18ED0
+#WRITE(ptr,$13EA8)
+[LINE]
+[END]
+
+//Text $18ED2
+#WRITE(ptr,$13EAC)
+The stars that fill up[END]
+
+//Text $18EE9
+#WRITE(ptr,$13EB0)
+as you charge are[END]
+
+//Text $18EFB
+#WRITE(ptr,$13EB4)
+the power gauge.[END]
+
+//Text $18F0C
+#WRITE(ptr,$13EB8)
+[LINE]
+[END]
+
+//Text $18F0E
+#WRITE(ptr,$13EBC)
+Each level has an effect,[END]
+
+//Text $18F28
+#WRITE(ptr,$13EC0)
+so pay close attention![END]
+
+//Text $18F40
+#WRITE(ptr,$13EC4)
+Items[END]
+
+//Text $18F46
+#WRITE(ptr,$13EC8)
+[LINE]
+[END]
+
+//Text $18F48
+#WRITE(ptr,$13ECC)
+　　　Fire 3 arrows[END]
+
+//Text $18F5C
+#WRITE(ptr,$13ED0)
+　　　Arrows will pierce[END]
+
+//Text $18F75
+#WRITE(ptr,$13ED4)
+　　　Arrows fly straight[END]
+
+//Text $18F8F
+#WRITE(ptr,$13ED8)
+　　　No damage[END]
+
+//Text $18F9F
+#WRITE(ptr,$13EDC)
+　　　Earn double score[END]
+
+//Text $18FB7
+#WRITE(ptr,$13EE0)
+　　　Special, use with [Square_ani2][END]
+
+//Text $18FD5
+#WRITE(ptr,$13EE4)
+Ranking Up[END]
+
+//Text $18FE0
+#WRITE(ptr,$13EE8)
+[LINE]
+[END]
+
+//Text $18FE2
+#WRITE(ptr,$13EEC)
+Meet certain time and point[END]
+
+//Text $18FFE
+#WRITE(ptr,$13EF0)
+requirements to rank up.[END]
+
+//Text $19017
+#WRITE(ptr,$13EF4)
+The higher your rank, the[END]
+
+//Text $19031
+#WRITE(ptr,$13EF8)
+more enemies you fight[END]
+
+//Text $19048
+#WRITE(ptr,$13EFC)
+and more points you earn.[END]
+
+//Text $19062
+#WRITE(ptr,$13F00)
+Work hard, win prizes!![END]
+
+//Text $1907A
+#WRITE(ptr,$13F04)
+Chaining[END]
+
+//Text $19083
+#WRITE(ptr,$13F08)
+[LINE]
+[END]
+
+//Text $19085
+#WRITE(ptr,$13F0C)
+Defeat enemies without[END]
+
+//Text $1909C
+#WRITE(ptr,$13F10)
+missing a shot! The[END]
+
+//Text $190B0
+#WRITE(ptr,$13F14)
+higher your Chain, the[END]
+
+//Text $190C7
+#WRITE(ptr,$13F18)
+more points you earn. The[END]
+
+//Text $190E1
+#WRITE(ptr,$13F1C)
+counter's at the top right![END]
+
+//Text $190FD
+#WRITE(ptr,$13F20)
+Check when it's safe to![END]
+
+//Text $19116
+#WRITE(ptr,$13F24)
+Aiming Higher[END]
+
+//Text $19124
+#WRITE(ptr,$13F28)
+[LINE]
+[END]
+
+//Text $19126
+#WRITE(ptr,$13F2C)
+You can jump with [Triangle_ani2].[END]
+
+//Text $1913F
+#WRITE(ptr,$13F30)
+It lets you charge faster[END]
+
+//Text $19159
+#WRITE(ptr,$13F34)
+and avoid ground attacks,[END]
+
+//Text $19173
+#WRITE(ptr,$13F38)
+but be careful, you lose[END]
+
+//Text $1918C
+#WRITE(ptr,$13F3C)
+your charge when you land.[END]
+
+//Text $191A7
+#WRITE(ptr,$13F40)
+Scoring Hints[END]
+
+//Text $191B5
+#WRITE(ptr,$13F44)
+[LINE]
+[END]
+
+//Text $191B7
+#WRITE(ptr,$13F48)
+1. One shot for many foes![END]
+
+//Text $191D2
+#WRITE(ptr,$13F4C)
+2. Build up that Chain![END]
+
+//Text $191EA
+#WRITE(ptr,$13F50)
+3. Don't waste shots![END]
+
+//Text $19200
+#WRITE(ptr,$13F54)
+4. Cancel enemy fire![END]
+
+//Text $19216
+#WRITE(ptr,$13F58)
+5. Use those items![END]
+
+//Text $1922A
+#WRITE(ptr,$13F5C)
+Staff[END]
+
+//Text $19230
+#WRITE(ptr,$13F60)
+Programming[END]
+
+//Text $1923C
+#WRITE(ptr,$13F64)
+Graphics[END]
+
+//Text $19245
+#WRITE(ptr,$13F68)
+Sound[END]
+
+//Text $1924B
+#WRITE(ptr,$13F6C)
+Special Thanks[END]

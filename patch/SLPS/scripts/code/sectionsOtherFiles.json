@@ -43,7 +43,21 @@
 			"TextEnd":		"2FE"
 		}
 		]
-	}
-	]
+	},
+	{
+		"FilePointer":		"../../../DAT_FILES/00019.md1",
+		"PointerHeader":	"3D4080",
+		"GoogleSheetId":	"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+		"BlockDesc":		"Minigame",
+		"Sections":[
+			{
+				"SectionId":	1,
+				"File":			"../../../DAT_FILES/00019.md1",
+				"PointerHeader":"3D4080",
+				"TextStart":	"18D40",
+				"TextEnd":		"1942E"
+			}
+		]
+	}]
 	
 }

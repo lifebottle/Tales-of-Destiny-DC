@@ -28,7 +28,12 @@ as the ship is beset by monsters.[END]
 //Text $28F8
 #WRITE(ptr,$1878)
 A Talking Sword[END]
-// current address: $2908
+
+Hoping for passage as a stowaway[LINE]
+aboard the Seinegald-bound Draconis,[LINE]
+[Stahn] finds himself in search of a weapon[LINE]
+as the ship is beset by monsters.[END]
+// current address: $299A
 
 //Text $299A
 #WRITE(ptr,$187C)
@@ -47,7 +52,19 @@ searches for its source.[END]
 //Text $28F8
 #WRITE(ptr,$1888)
 A Talking Sword[END]
-// current address: $2908
+
+Hoping for passage as a stowaway[LINE]
+aboard the Seinegald-bound Draconis,[LINE]
+[Stahn] finds himself in search of a weapon[LINE]
+as the ship is beset by monsters.[END]
+
+Pursued by monsters, [Stahn][LINE]
+flees into the hold of the ship,[LINE]
+where he hears a mysterious voice[LINE]
+calling out to him.[LINE]
+Drawn to this voice, [Stahn][LINE]
+searches for its source.[END]
+// current address: $2A40
 
 //Text $2A40
 #WRITE(ptr,$188C)
@@ -67,7 +84,27 @@ to assess the situation.[END]
 //Text $28F8
 #WRITE(ptr,$1898)
 A Talking Sword[END]
-// current address: $2908
+
+Hoping for passage as a stowaway[LINE]
+aboard the Seinegald-bound Draconis,[LINE]
+[Stahn] finds himself in search of a weapon[LINE]
+as the ship is beset by monsters.[END]
+
+Pursued by monsters, [Stahn][LINE]
+flees into the hold of the ship,[LINE]
+where he hears a mysterious voice[LINE]
+calling out to him.[LINE]
+Drawn to this voice, [Stahn][LINE]
+searches for its source.[END]
+
+[Stahn] finds a mysterious sword [LINE]
+within the hold of the Draconis. [LINE]
+Blade in hand, he makes[LINE]
+short work of the monsters.[LINE]
+The ship then shakes violently. [LINE]
+[Stahn] leaves the hold[LINE]
+to assess the situation.[END]
+// current address: $2B06
 
 //Text $2B06
 #WRITE(ptr,$189C)
@@ -414,12 +451,12 @@ Now they must escape![END]
 
 
 
-//Text $3779
+//Text $3500
 #WRITE(ptr,$19B8)
 Young Swordsman[END]
-// current address: $3789
+// current address: $3510
 
-//Text $3789
+//Text $3779
 #WRITE(ptr,$19BC)
 It was soldiers from Seinegald[LINE]
 that had surrounded the party.[LINE]
@@ -429,18 +466,18 @@ of the unit, a swordsman who[LINE]
 introduces himself as[LINE]
 [Lion] Magnus.[LINE]
 [END]
-// current address: $3844
+// current address: $3834
 
 
 
 
 
-//Text $3844
+//Text $3834
 #WRITE(ptr,$19C8)
 Capital Darilsheid[END]
-// current address: $3857
+// current address: $3847
 
-//Text $3857
+//Text $3847
 #WRITE(ptr,$19CC)
 [Stahn] and the others are brought[LINE]
 to the royal capital as criminals,[LINE]
@@ -450,18 +487,18 @@ Their first order of business is to reclaim[LINE]
 the confiscated Swordians from [Hugo]'s estate.[LINE]
 [LINE]
 [END]
-// current address: $394E
+// current address: $393E
 
 
 
 
 
-//Text $394E
+//Text $3834
 #WRITE(ptr,$19D8)
 Capital Darilsheid[END]
-// current address: $3961
+// current address: $3847
 
-//Text $3961
+//Text $393E
 #WRITE(ptr,$19DC)
 [Stahn] and the others meet [Hugo],[LINE]
 the President and CEO of[LINE]
@@ -470,36 +507,36 @@ and are returned their Swordians.[LINE]
 With renewed vigor, the party[LINE]
 sets out for Straylize Temple[LINE]
 to secure the Eye of Atamoni.[END]
-// current address: $3A30
+// current address: $3A0D
 
 
 
 
 
-//Text $3A30
+//Text $3834
 #WRITE(ptr,$19E8)
 Capital Darilsheid[END]
-// current address: $3A43
+// current address: $3847
 
-//Text $3A43
+//Text $3A0D
 #WRITE(ptr,$19EC)
 Having left Darilsheid,[LINE]
 [Stahn] and the others[LINE]
 set their sights to the[LINE]
 Staylize Temple to the north.[LINE]
 [END]
-// current address: $3AA7
+// current address: $3A71
 
 
 
 
 
-//Text $3AA7
+//Text $3A71
 #WRITE(ptr,$19F8)
 A Temple in Silence[END]
-// current address: $3ABB
+// current address: $3A85
 
-//Text $3ABB
+//Text $3A85
 #WRITE(ptr,$19FC)
 The party arrives[LINE]
 at Straylize Temple[LINE]
@@ -507,18 +544,18 @@ only to find it empty.[LINE]
 What could have happened[LINE]
 to everyone?[LINE]
 [END]
-// current address: $3B1F
+// current address: $3AE9
 
 
 
 
 
-//Text $3B1F
+//Text $3A71
 #WRITE(ptr,$1A08)
 A Temple in Silence[END]
-// current address: $3B33
+// current address: $3A85
 
-//Text $3B33
+//Text $3AE9
 #WRITE(ptr,$1A0C)
 [Stahn] and the others discover[LINE]
 someone has been trapped in a room[LINE]
@@ -529,18 +566,18 @@ of them must be destroyed[LINE]
 in order to disable the seal.[LINE]
 [LINE]
 [END]
-// current address: $3C00
+// current address: $3BB6
 
 
 
 
 
-//Text $3C00
+//Text $3A71
 #WRITE(ptr,$1A18)
 A Temple in Silence[END]
-// current address: $3C14
+// current address: $3A85
 
-//Text $3C14
+//Text $3BB6
 #WRITE(ptr,$1A1C)
 They destroy the wardstones[LINE]
 and are able to rescue the captive[LINE]
@@ -549,18 +586,18 @@ The bishop then leads the party[LINE]
 to the cathedral in order to confirm[LINE]
 the whereabouts of the Eye of Atamoni.[LINE]
 [END]
-// current address: $3CCE
+// current address: $3C70
 
 
 
 
 
-//Text $3CCE
+//Text $3A71
 #WRITE(ptr,$1A28)
 A Temple in Silence[END]
-// current address: $3CE2
+// current address: $3A85
 
-//Text $3CE2
+//Text $3C70
 #WRITE(ptr,$1A2C)
 Within the cathedral, [Ayles][LINE]
 reveals a hidden passageway[LINE]
@@ -568,25 +605,44 @@ to the basement.[LINE]
 The Eye of Atamoni supposedly[LINE]
 waits at the end of the passage.[LINE]
 [END]
-// current address: $3D6B
+// current address: $3CF9
 
 
 
 
 
-//Text $3D6B
+//Text $3A71
 #WRITE(ptr,$1A38)
 A Temple in Silence[END]
-// current address: $3D7F
+// current address: $3A85
 
-//Text $3D7F
+//Text $3CF9
 #WRITE(ptr,$1A3C)
-The Eye of Atamoni was[LINE]
+The Eye of Atamoni has been[LINE]
 taken by High Priest [Greybum].[LINE]
 [Stahn] and company release the[LINE]
 priestess [Philia] from her petrification,[LINE]
 then head for Calvalese alongside her[LINE]
 in pursuit of [Greybum].[LINE]
+[END]
+// current address: $3DB3
+
+
+
+
+
+//Text $3A71
+#WRITE(ptr,$1A48)
+A Temple in Silence[END]
+// current address: $3A85
+
+//Text $3DB3
+#WRITE(ptr,$1A4C)
+The only way to reach[LINE]
+Calvalese is via ship,[LINE]
+so the party first returns[LINE]
+to Darilsheid in order to[LINE]
+secure passage at the harbor.[LINE]
 [END]
 // current address: $3E34
 
@@ -595,30 +651,11 @@ in pursuit of [Greybum].[LINE]
 
 
 //Text $3E34
-#WRITE(ptr,$1A48)
-A Temple in Silence[END]
+#WRITE(ptr,$1A58)
+The Fourth Swordian[END]
 // current address: $3E48
 
 //Text $3E48
-#WRITE(ptr,$1A4C)
-The only way to reach[LINE]
-Calvalese is via ship,[LINE]
-so the party first returns[LINE]
-to Darilsheid to find one[LINE]
-at the harbor.[LINE]
-[END]
-// current address: $3EBA
-
-
-
-
-
-//Text $3EBA
-#WRITE(ptr,$1A58)
-The Fourth Swordian[END]
-// current address: $3ECE
-
-//Text $3ECE
 #WRITE(ptr,$1A5C)
 During the voyage to Calvalese[LINE]
 the Swordians make a request[LINE]
@@ -628,18 +665,18 @@ sank beneath the sea.[LINE]
 According to them, the Swordian[LINE]
 [Clemente] is enshrined there.[LINE]
 [END]
-// current address: $3F92
+// current address: $3F0C
 
 
 
 
 
-//Text $3F92
+//Text $3E34
 #WRITE(ptr,$1A68)
 The Fourth Swordian[END]
-// current address: $3FA6
+// current address: $3E48
 
-//Text $3FA6
+//Text $3F0C
 #WRITE(ptr,$1A6C)
 [Stahn]'s group heads for the[LINE]
 depths of the transport ship Radisrol[LINE]
@@ -648,18 +685,18 @@ in search of [Clemente].[LINE]
 the entrance, hears a mysterious [LINE]
 voice call out to her.[LINE]
 [END]
-// current address: $404D
+// current address: $3FB3
 
 
 
 
 
-//Text $404D
+//Text $3E34
 #WRITE(ptr,$1A78)
 The Fourth Swordian[END]
-// current address: $4061
+// current address: $3E48
 
-//Text $4061
+//Text $3FB3
 #WRITE(ptr,$1A7C)
 [Clemente] is discovered in the[LINE]
 deepest area of Radisrol.[LINE]
@@ -670,35 +707,35 @@ into [Stahn]'s group of allies.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $4113
+// current address: $4065
 
 
 
 
 
-//Text $4113
+//Text $3E34
 #WRITE(ptr,$1A88)
 The Fourth Swordian[END]
-// current address: $4127
+// current address: $3E48
 
-//Text $4127
+//Text $4065
 #WRITE(ptr,$1A8C)
 With [Clemente] recovered,[LINE]
 [Stahn] and the others[LINE]
-leave the Radisrol and board[LINE]
+leave the Radisrol and board the[LINE]
 Leviathan to continue their journey.[END]
-// current address: $4194
+// current address: $40D6
 
 
 
 
 
-//Text $4194
+//Text $40D6
 #WRITE(ptr,$1A98)
 Desert Island[END]
-// current address: $41A2
+// current address: $40E4
 
-//Text $41A2
+//Text $40E4
 #WRITE(ptr,$1A9C)
 Arriving in Calvalese,[LINE]
 [Stahn]'s group decides[LINE]
@@ -708,18 +745,18 @@ However, they quickly realize[LINE]
 that the locals do not[LINE]
 take kindly to strangers.[LINE]
 [END]
-// current address: $4263
+// current address: $41A5
 
 
 
 
 
-//Text $4263
+//Text $40D6
 #WRITE(ptr,$1AA8)
 Desert Island[END]
-// current address: $4271
+// current address: $40E4
 
-//Text $4271
+//Text $41A5
 #WRITE(ptr,$1AAC)
 [Stahn] and the others find[LINE]
 a potential lead on [Greybum],[LINE]
@@ -728,18 +765,18 @@ to the capital city of Calviola.[LINE]
 They decide to pursue him,[LINE]
 and leave Cherik for the capital.[LINE]
 [END]
-// current address: $431F
+// current address: $4253
 
 
 
 
 
-//Text $431F
+//Text $4253
 #WRITE(ptr,$1AB8)
 An Odd Temple[END]
-// current address: $432D
+// current address: $4261
 
-//Text $432D
+//Text $4261
 #WRITE(ptr,$1ABC)
 The party learns of the location[LINE]
 of another Straylize Temple from[LINE]
@@ -747,18 +784,18 @@ the residents of Calviola.[LINE]
 Perhaps that is where[LINE]
 [Greybum] can be found.[LINE]
 [END]
-// current address: $43B5
+// current address: $42E9
 
 
 
 
 
-//Text $43B5
+//Text $4253
 #WRITE(ptr,$1AC8)
 An Odd Temple[END]
-// current address: $43C3
+// current address: $4261
 
-//Text $43C3
+//Text $42E9
 #WRITE(ptr,$1ACC)
 The group locates the temple[LINE]
 and devise a plan.[LINE]
@@ -767,18 +804,18 @@ and enter undercover, while[LINE]
 the others wait until nightfall[LINE]
 for the chance to join her.[LINE]
 [END]
-// current address: $4469
+// current address: $438F
 
 
 
 
 
-//Text $4469
+//Text $4253
 #WRITE(ptr,$1AD8)
 An Odd Temple[END]
-// current address: $4477
+// current address: $4261
 
-//Text $4477
+//Text $438F
 #WRITE(ptr,$1ADC)
 [Stahn] and the others wait for[LINE]
 night at the inn to begin their operation.[LINE]
@@ -787,18 +824,18 @@ the back door for them.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $44FE
+// current address: $4416
 
 
 
 
 
-//Text $44FE
+//Text $4253
 #WRITE(ptr,$1AE8)
 An Odd Temple[END]
-// current address: $450C
+// current address: $4261
 
-//Text $450C
+//Text $4416
 #WRITE(ptr,$1AEC)
 The party is able to safely[LINE]
 infiltrate the temple[LINE]
@@ -808,18 +845,18 @@ while avoiding the watchful[LINE]
 eyes of the clergy. Perhaps there[LINE]
 there is path hidden within, just as[LINE]
 there was in Seinegald's temple.[END]
-// current address: $45F4
+// current address: $44FE
 
 
 
 
 
-//Text $45F4
+//Text $4253
 #WRITE(ptr,$1AF8)
 An Odd Temple[END]
-// current address: $4602
+// current address: $4261
 
-//Text $4602
+//Text $44FE
 #WRITE(ptr,$1AFC)
 [Stahn] and company arrive[LINE]
 at the inner cathedral.[LINE]
@@ -829,18 +866,18 @@ to the basement below.[LINE]
 Will they finally find [Greybum][LINE]
 and the Eye of Atamoni?[LINE]
 [END]
-// current address: $46BF
+// current address: $45BB
 
 
 
 
 
-//Text $46BF
+//Text $4253
 #WRITE(ptr,$1B08)
 An Odd Temple[END]
-// current address: $46CD
+// current address: $4261
 
-//Text $46CD
+//Text $45BB
 #WRITE(ptr,$1B0C)
 Although [Stahn] and company at last come[LINE]
 face-to-face with [Greybum] in the basement,[LINE]
@@ -850,36 +887,36 @@ who decide to head to Cherik,[LINE]
 in order to pursue [Greybum][LINE]
 to Neuestadt by sea.[LINE]
 [END]
-// current address: $47A4
+// current address: $4692
 
 
 
 
 
-//Text $47A4
+//Text $4253
 #WRITE(ptr,$1B18)
 An Odd Temple[END]
-// current address: $47B2
+// current address: $4261
 
-//Text $47B2
+//Text $4692
 #WRITE(ptr,$1B1C)
 The group returns to Cherik,[LINE]
 where they will need to[LINE]
 travel to the harbor in order[LINE]
 to continue their journey.[LINE]
 [END]
-// current address: $4821
+// current address: $4701
 
 
 
 
 
-//Text $4821
+//Text $4701
 #WRITE(ptr,$1B28)
 Jolly Co-Op[END]
-// current address: $482D
+// current address: $470D
 
-//Text $482D
+//Text $470D
 #WRITE(ptr,$1B2C)
 Following [Greybum]'s trail,[LINE]
 the party arrives in Neuestadt,[LINE]
@@ -889,18 +926,18 @@ visiting the residence of[LINE]
 [Illene], head of the region's[LINE]
 Oberon Coporation branch.[LINE]
 [END]
-// current address: $48F0
+// current address: $47D0
 
 
 
 
 
-//Text $48F0
+//Text $4701
 #WRITE(ptr,$1B38)
 Jolly Co-Op[END]
-// current address: $48FC
+// current address: $470D
 
-//Text $48FC
+//Text $47D0
 #WRITE(ptr,$1B3C)
 The group is taken by the beauty of[LINE]
 Neuestadt. [Stahn] happens upon[LINE]
@@ -909,18 +946,18 @@ an acquaintance from his hometown,[LINE]
 make their way toward [Ilene]'s home.[LINE]
 [LINE]
 [END]
-// current address: $49A7
+// current address: $487B
 
 
 
 
 
-//Text $49A7
+//Text $4701
 #WRITE(ptr,$1B48)
 Jolly Co-Op[END]
-// current address: $49B3
+// current address: $470D
 
-//Text $49B3
+//Text $487B
 #WRITE(ptr,$1B4C)
 [Ilene] is not available[LINE]
 when [Stahn] and the[LINE]
@@ -930,18 +967,18 @@ enjoy some popsicles. [LINE]
 Everyone but [Lion] agree,[LINE]
 heading out to purchase some.[LINE]
 [END]
-// current address: $4A5B
+// current address: $4923
 
 
 
 
 
-//Text $4A5B
+//Text $4701
 #WRITE(ptr,$1B58)
 Jolly Co-Op[END]
-// current address: $4A67
+// current address: $470D
 
-//Text $4A67
+//Text $4923
 #WRITE(ptr,$1B5C)
 [Stahn] and the others witness a[LINE]
 young girl desperately trying to sell flowers,[LINE]
@@ -952,18 +989,18 @@ to purchase popsicles.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $4B4E
+// current address: $4A0A
 
 
 
 
 
-//Text $4B4E
+//Text $4701
 #WRITE(ptr,$1B68)
 Jolly Co-Op[END]
-// current address: $4B5A
+// current address: $470D
 
-//Text $4B5A
+//Text $4A0A
 #WRITE(ptr,$1B6C)
 [Stahn]'s group meets [Ilene] [Rembrandt][LINE]
 at the popsicle stand.[LINE]
@@ -973,18 +1010,18 @@ and [Stahn] ends up having to[LINE]
 fight a duel against him.[LINE]
 [LINE]
 [END]
-// current address: $4C03
+// current address: $4AB3
 
 
 
 
 
-//Text $4C03
+//Text $4701
 #WRITE(ptr,$1B78)
 Jolly Co-Op[END]
-// current address: $4C0F
+// current address: $470D
 
-//Text $4C0F
+//Text $4ABF
 #WRITE(ptr,$1B7C)
 The duel between [Stahn] and [Kongman][LINE]
 takes place within the Arena,[LINE]
@@ -994,18 +1031,18 @@ after exchanging blows.[LINE]
 troubling news: Neuestadt is[LINE]
 currently under siege by monsters.[LINE]
 [END]
-// current address: $4CDF
+// current address: $4B8F
 
 
 
 
 
-//Text $4CDF
+//Text $4B8F
 #WRITE(ptr,$1B88)
 Jolly Co-Op[END]
-// current address: $4CEB
+// current address: $4B9B
 
-//Text $4CEB
+//Text $4B9B
 #WRITE(ptr,$1B8C)
 The culprit behind the monster attack[LINE]
 and ensuing chaos appears to be an[LINE]
@@ -1014,18 +1051,18 @@ armada that appeared off the coast.[LINE]
 to a boat courtesy of [Ilene],[LINE]
 and decide to take on the armada.[LINE]
 [END]
-// current address: $4DB9
+// current address: $4C69
 
 
 
 
 
-//Text $4DB9
+//Text $4C69
 #WRITE(ptr,$1B98)
 Jolly Co-Op[END]
-// current address: $4DC5
+// current address: $4C75
 
-//Text $4DC5
+//Text $4C75
 #WRITE(ptr,$1B9C)
 Upon arriving at the port, [Kongman][LINE]
 appears and offers his assistance.[LINE]
@@ -1034,18 +1071,18 @@ the party is poised to strike at the Armada![LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $4E5B
+// current address: $4D0B
 
 
 
 
 
-//Text $4E5B
+//Text $4D0B
 #WRITE(ptr,$1BA8)
 Strike the Armada![END]
-// current address: $4E6E
+// current address: $4D1E
 
-//Text $4E6E
+//Text $4D1E
 #WRITE(ptr,$1BAC)
 [Stahn] and the others[LINE]
 hastily board the flagship of[LINE]
@@ -1053,18 +1090,18 @@ the armada. They must [LINE]
 quickly locate the enemy leader[LINE]
 and take them out before[LINE]
 reinforcements have the chance to arrive.[END]
-// current address: $4F1B
+// current address: $4DCB
 
 
 
 
 
-//Text $4F1B
+//Text $4DCB
 #WRITE(ptr,$1BB8)
 Strike the Armada![END]
-// current address: $4F2E
+// current address: $4DDE
 
-//Text $4F2E
+//Text $4DDE
 #WRITE(ptr,$1BBC)
 With the leader of the fleet [Batista][LINE]
 defeated, the group makes a[LINE]
@@ -1074,18 +1111,18 @@ escape, and determines that[LINE]
 his target is Aquaveil.[LINE]
 [LINE]
 [END]
-// current address: $4FE2
+// current address: $4E92
 
 
 
 
 
-//Text $4FE2
+//Text $4E92
 #WRITE(ptr,$1BC8)
 Strike the Armada![END]
-// current address: $4FF5
+// current address: $4EA5
 
-//Text $4FF5
+//Text $4EA5
 #WRITE(ptr,$1BCC)
 Saying their farewells to[LINE]
 their new friends in Neuestadt,[LINE]
@@ -1094,18 +1131,18 @@ for Aquaveil. What could await them[LINE]
 at this new location?[LINE]
 [LINE]
 [END]
-// current address: $5086
+// current address: $4F36
 
 
 
 
 
-//Text $5086
+//Text $4F36
 #WRITE(ptr,$1BD8)
 Road to Moreau[END]
-// current address: $5095
+// current address: $4F45
 
-//Text $5095
+//Text $4F45
 #WRITE(ptr,$1BDC)
 The ship arrives near the coast of[LINE]
 Shiden, a territory of Aquaveil.[LINE]
@@ -1114,18 +1151,18 @@ due to the country's isolationist policies.[LINE]
 So, [Stahn] and the others make for[LINE]
 Shiden on a smaller boat.[LINE]
 [END]
-// current address: $5166
+// current address: $5016
 
 
 
 
 
-//Text $5166
+//Text $5016
 #WRITE(ptr,$1BE8)
 Road to Moreau[END]
-// current address: $5175
+// current address: $5025
 
-//Text $5175
+//Text $5025
 #WRITE(ptr,$1BEC)
 [Stahn]'s group learns that [Greybum][LINE]
 is currently in the Moreau region.[LINE]
@@ -1134,18 +1171,18 @@ knowledge of an oceanside cavern[LINE]
 to the south of the city, and the[LINE]
 party makes their way there.[LINE]
 [END]
-// current address: $523D
+// current address: $50ED
 
 
 
 
 
-//Text $523D
+//Text $50ED
 #WRITE(ptr,$1BF8)
 The Abyss[END]
-// current address: $5247
+// current address: $50F7
 
-//Text $5247
+//Text $50F7
 #WRITE(ptr,$1BFC)
 [Stahn] and the others enter[LINE]
 the seaside cavern in order[LINE]
@@ -1155,18 +1192,18 @@ and it appears to be home to fiendish monsters.[LINE]
 Extreme caution will be necessary to proceed.[LINE]
 [LINE]
 [END]
-// current address: $5322
+// current address: $51D2
 
 
 
 
 
-//Text $5322
+//Text $51D2
 #WRITE(ptr,$1C08)
 The Abyss[END]
-// current address: $532C
+// current address: $51DC
 
-//Text $532C
+//Text $51DC
 #WRITE(ptr,$1C0C)
 In the midst of traversing the cavern,[LINE]
 [Stahn] and [Rutee] both wind up[LINE]
@@ -1176,18 +1213,18 @@ for rescue, and [Stahn] learns[LINE]
 the reason behind [Rutee]'s[LINE]
 obsession with money.[LINE]
 [END]
-// current address: $53F6
+// current address: $52A6
 
 
 
 
 
-//Text $53F6
+//Text $52A6
 #WRITE(ptr,$1C18)
 The Abyss[END]
-// current address: $5400
+// current address: $52B0
 
-//Text $5400
+//Text $52B0
 #WRITE(ptr,$1C1C)
 Upon reaching the end of the cavern,[LINE]
 the group is attacked by a fearsome monster.[LINE]
@@ -1197,18 +1234,18 @@ continuing their journey to Moreau.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $54B1
+// current address: $5361
 
 
 
 
 
-//Text $54B1
+//Text $5361
 #WRITE(ptr,$1C28)
 Jolly Minstrel[END]
-// current address: $54C0
+// current address: $5370
 
-//Text $54C0
+//Text $5370
 #WRITE(ptr,$1C2C)
 [Stahn] and the others arrive at Moreau.[LINE]
 To determin whether or not [Greybum][LINE]
@@ -1217,18 +1254,18 @@ now question the townspeople for information.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $5559
+// current address: $5409
 
 
 
 
 
-//Text $5559
+//Text $5409
 #WRITE(ptr,$1C38)
 Jolly Minstrel[END]
-// current address: $5568
+// current address: $5418
 
-//Text $5568
+//Text $5418
 #WRITE(ptr,$1C3C)
 The party meets a lone[LINE]
 minstrel within Moreau,[LINE]
@@ -1238,18 +1275,18 @@ A soldier then appears with[LINE]
 orders to assemble at the harbor,[LINE]
 as it seems someone known as[LINE]
 King [Tiberius] will be there.[END]
-// current address: $5633
+// current address: $54E3
 
 
 
 
 
-//Text $5633
+//Text $54E3
 #WRITE(ptr,$1C48)
 Jolly Minstrel[END]
-// current address: $5642
+// current address: $54F2
 
-//Text $5642
+//Text $54F2
 #WRITE(ptr,$1C4C)
 [Stahn] and the others are[LINE]
 noticed by [Tiberius], who sends[LINE]
@@ -1258,18 +1295,18 @@ However, a helping hand from[LINE]
 none other than [Johnny],[LINE]
 the minstrel they just met,[LINE]
 keeps them from being caught.[END]
-// current address: $56FA
+// current address: $55AA
 
 
 
 
 
-//Text $56FA
+//Text $55AA
 #WRITE(ptr,$1C58)
 Jolly Minstrel[END]
-// current address: $5709
+// current address: $55B9
 
-//Text $5709
+//Text $55B9
 #WRITE(ptr,$1C5C)
 In actuality, [Johnny] hails from[LINE]
 the Shiden royal line.[LINE]
@@ -1278,18 +1315,18 @@ in order to rescue his friend [Fayte],[LINE]
 and the party quickly[LINE]
 follows after him.[LINE]
 [END]
-// current address: $57AF
+// current address: $565F
 
 
 
 
 
-//Text $57AF
+//Text $565F
 #WRITE(ptr,$1C68)
 Moreau Castle[END]
-// current address: $57BD
+// current address: $566D
 
-//Text $57BD
+//Text $566D
 #WRITE(ptr,$1C6C)
 [Stahn] and company catch up[LINE]
 with [Johnny] at the castle's[LINE]
@@ -1298,18 +1335,18 @@ secret entrance, and offer their help.[LINE]
 they storm the castle.[LINE]
 They must first rescue [Fayte][LINE]
 from the cell he is locked in.[END]
-// current address: $5888
+// current address: $5738
 
 
 
 
 
-//Text $5888
+//Text $5738
 #WRITE(ptr,$1C78)
 Moreau Castle[END]
-// current address: $5896
+// current address: $5746
 
-//Text $5896
+//Text $5746
 #WRITE(ptr,$1C7C)
 The group meets [Fayte]'s wife,[LINE]
 [Rihanna], in one of the jail cells.[LINE]
@@ -1318,18 +1355,18 @@ will rescue [Fayte] no matter what,[LINE]
 and the party searches for [Batista].[LINE]
 [LINE]
 [END]
-// current address: $5936
+// current address: $57E6
 
 
 
 
 
-//Text $5936
+//Text $57E6
 #WRITE(ptr,$1C88)
 Moreau Castle[END]
-// current address: $5944
+// current address: $57F4
 
-//Text $5944
+//Text $57F4
 #WRITE(ptr,$1C8C)
 [Stahn] and the others defeat [Batista],[LINE]
 and rescue [Fayte].[LINE]
@@ -1339,18 +1376,18 @@ to [Batista] on her own.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $59E0
+// current address: $5890
 
 
 
 
 
-//Text $59E0
+//Text $5890
 #WRITE(ptr,$1C98)
 Moreau Castle[END]
-// current address: $59EE
+// current address: $589E
 
-//Text $59EE
+//Text $589E
 #WRITE(ptr,$1C9C)
 [Rihanna] greets the group[LINE]
 as they leave Moreau Castle.[LINE]
@@ -1358,18 +1395,18 @@ They arrange to take a ship from[LINE]
 [Fayte]'s Black Cross fleet to Terazzi,[LINE]
 and head to the harbor.[LINE]
 [END]
-// current address: $5A82
+// current address: $5932
 
 
 
 
 
-//Text $5A82
+//Text $5932
 #WRITE(ptr,$1CA8)
 Rampage! Sea Mollusk[END]
-// current address: $5A97
+// current address: $5947
 
-//Text $5A97
+//Text $5947
 #WRITE(ptr,$1CAC)
 While aboard the Black Cross[LINE]
 on the way to Terazzi,[LINE]
@@ -1379,18 +1416,18 @@ Could it be malicious?[LINE]
 [Stahn] and the others make[LINE]
 for the deck to survey the situation.[LINE]
 [END]
-// current address: $5B51
+// current address: $5A01
 
 
 
 
 
-//Text $5B51
+//Text $5A01
 #WRITE(ptr,$1CB8)
 Rampage! Sea Mollusk[END]
-// current address: $5B66
+// current address: $5A16
 
-//Text $5B66
+//Text $5A16
 #WRITE(ptr,$1CBC)
 After defeating the Kraken[LINE]
 [Stahn] and [Lion] witness[LINE]
@@ -1399,37 +1436,38 @@ on the ship's deck.[LINE]
 Just who is [Eleanor],[LINE]
 and what is [Johnny] planning?[LINE]
 [END]
-// current address: $5C01
+// current address: $5AB1
 
 
 
 
 
-//Text $5C01
+//Text $5AB1
 #WRITE(ptr,$1CC8)
 Silence in the Streets[END]
-// current address: $5C18
+// current address: $5AC8
 
-//Text $5C18
+//Text $5AC8
 #WRITE(ptr,$1CCC)
 [Stahn] and company are able to[LINE]
 break through the blockade around Terazzi,[LINE]
 and infiltrate at the port.[LINE]
 They then head for the wharf[LINE]
 within the town in order to[LINE]
-storm the castle whereLINE][Tiberius] and [Greybum] are.[END]
-// current address: $5CE6
+storm the castle where[LINE]
+[Tiberius] and [Greybum] are.[END]
+// current address: $5B92
 
 
 
 
 
-//Text $5CE6
+//Text $5B92
 #WRITE(ptr,$1CD8)
 Silence in the Streets[END]
-// current address: $5CFD
+// current address: $5BA9
 
-//Text $5CFD
+//Text $5BA9
 #WRITE(ptr,$1CDC)
 The party arrives at the wharf[LINE]
 within the city, and with help[LINE]
@@ -1437,18 +1475,18 @@ from an associate of [Johnny]'s[LINE]
 that had infiltrated the city beforehand,[LINE]
 make for Terazzi Castle.[LINE]
 [END]
-// current address: $5D9C
+// current address: $5C48
 
 
 
 
 
-//Text $5D9C
+//Text $5C48
 #WRITE(ptr,$1CE8)
 [Tiberius]'s Castle[END]
-// current address: $5DAB
+// current address: $5C57
 
-//Text $5DAB
+//Text $5C57
 #WRITE(ptr,$1CEC)
 [Stahn] and the others finally[LINE]
 arrive at Terazzi Castle,[LINE]
@@ -1456,18 +1494,18 @@ and [Tiberius] and [Greybum][LINE]
 seem to be on the highest floor.[LINE]
 They've made it this far, all that's left[LINE]
 is one final push![END]
-// current address: $5E54
+// current address: $5D00
 
 
 
 
 
-//Text $5E54
+//Text $5D00
 #WRITE(ptr,$1CF8)
 [Tiberius]'s Castle[END]
-// current address: $5E63
+// current address: $5D0F
 
-//Text $5E63
+//Text $5D0F
 #WRITE(ptr,$1CFC)
 Though they were successful in[LINE]
 defeating [Tiberius], [Greybum] was[LINE]
@@ -1477,97 +1515,97 @@ using the Draconis.[LINE]
 and finishes off [Tiberius] in a duel.[LINE]
 [LINE]
 [END]
-// current address: $5F0A
+// current address: $5DB6
 
 
 
 
 
-//Text $5F0A
+//Text $5DB6
 #WRITE(ptr,$1D08)
 [Tiberius]'s Castle[END]
-// current address: $5F19
+// current address: $5DC5
 
-//Text $5F19
+//Text $5DC5
 #WRITE(ptr,$1D0C)
 The group is met with the[LINE]
 the jubilant cries of the townspeople[LINE]
 upon leaving the castle.[LINE]
 In order to puruse [Greybum],[LINE]
 they must next venture[LINE]
-to Phandaria.[LINE]
+to Phandalia.[LINE]
 [END]
-// current address: $5FB2
+// current address: $5E5E
 
 
 
 
 
-//Text $5FB2
+//Text $5E5E
 #WRITE(ptr,$1D18)
 [Tiberius]'s Castle[END]
-// current address: $5FC1
+// current address: $5E6D
 
-//Text $5FC1
+//Text $5E6D
 #WRITE(ptr,$1D1C)
 [Johnny] parts ways with the group,[LINE]
 as they make their final preparations[LINE]
-before setting sail for Phandaria.[LINE]
+before setting sail for Phandalia.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $602E
+// current address: $5EDA
 
 
 
 
 
-//Text $602E
+//Text $5EDA
 #WRITE(ptr,$1D28)
 Pursuing [Greybum][END]
-// current address: $603D
+// current address: $5EE9
 
-//Text $603D
+//Text $5EE9
 #WRITE(ptr,$1D2C)
 As [Stahn] and the others[LINE]
-approach Phandaria by sea.[LINE]
+approach Phandalia by sea.[LINE]
 [Mary] begins to recall seeing[LINE]
 the snowy scenery before.[LINE]
 However, she is still unable to[LINE]
 regain her lost memories.[LINE]
 [END]
-// current address: $60E3
+// current address: $5F8F
 
 
 
 
 
-//Text $60E3
+//Text $5F8F
 #WRITE(ptr,$1D38)
 Southern Port[END]
-// current address: $60F1
+// current address: $5F9D
 
-//Text $60F1
+//Text $5F9D
 #WRITE(ptr,$1D3C)
 The party encounters an injured[LINE]
 soldier upon arriving in the port town[LINE]
 of Frostheim, and are told that[LINE]
-Phandaria is in ruins.[LINE]
+Phandalia is in ruins.[LINE]
 They then rush into town[LINE]
 to investigate.[LINE]
 [END]
-// current address: $6199
+// current address: $6045
 
 
 
 
 
-//Text $6199
+//Text $6045
 #WRITE(ptr,$1D48)
 Southern Port[END]
-// current address: $61A7
+// current address: $6053
 
-//Text $61A7
+//Text $6053
 #WRITE(ptr,$1D4C)
 [Stahn] meets [Alba] once again[LINE]
 within Frostheim, and is surprised[LINE]
@@ -1577,20 +1615,20 @@ in the forest outside of town.[LINE]
 The group must now hurry to their rescue![LINE]
 [LINE]
 [END]
-// current address: $6270
+// current address: $611C
 
 
 
 
 
-//Text $6270
+//Text $611C
 #WRITE(ptr,$1D58)
 Southern Port[END]
-// current address: $627E
+// current address: $612A
 
-//Text $627E
+//Text $612A
 #WRITE(ptr,$1D5C)
-The cause of Phandaria's troubles[LINE]
+The cause of Phandalia's troubles[LINE]
 turns out to be an insurrection led by[LINE]
 [Greybum] in Heidelberg.[LINE]
 [Woodrow] and [Chelsea] join[LINE]
@@ -1598,18 +1636,18 @@ turns out to be an insurrection led by[LINE]
 decide to head for Heidelberg.[LINE]
 [LINE]
 [END]
-// current address: $632E
+// current address: $61DA
 
 
 
 
 
-//Text $632E
+//Text $61DA
 #WRITE(ptr,$1D68)
 Frozen Forest[END]
-// current address: $633C
+// current address: $61E8
 
-//Text $633C
+//Text $61E8
 #WRITE(ptr,$1D6C)
 [Stahn] and the others proceed[LINE]
 through a snow-covered forest[LINE]
@@ -1619,18 +1657,18 @@ While [Woodrow] acknowledges[LINE]
 evokes even more of a reaction[LINE]
 from Mary. Her memories could[LINE]
 finally be returning...[END]
-// current address: $6410
+// current address: $62BC
 
 
 
 
 
-//Text $6410
+//Text $62BC
 #WRITE(ptr,$1D78)
 Memories of Days Past[END]
-// current address: $6426
+// current address: $62D2
 
-//Text $6426
+//Text $62D2
 #WRITE(ptr,$1D7C)
 After making it through forest[LINE]
 the party arrives at Cyril,[LINE]
@@ -1641,18 +1679,18 @@ In order to discover her relation[LINE]
 to a man known as Captain [Dalis],[LINE]
 the group heads to [Mary]'s home.[LINE]
 [END]
-// current address: $6503
+// current address: $63AF
 
 
 
 
 
-//Text $6503
+//Text $63AF
 #WRITE(ptr,$1D88)
 Memories of Days Past[END]
-// current address: $6519
+// current address: $63C5
 
-//Text $6519
+//Text $63C5
 #WRITE(ptr,$1D8C)
 [Mary]'s memories come[LINE]
 flooding back upon returning home.[LINE]
@@ -1662,18 +1700,18 @@ The party must hurry to Heidelberg[LINE]
 in order to find out whether[LINE]
 he truly is cooperating with [Greybum].[LINE]
 [END]
-// current address: $65EA
+// current address: $6496
 
 
 
 
 
-//Text $65EA
+//Text $6496
 #WRITE(ptr,$1D98)
 Memories of Days Past[END]
-// current address: $6600
+// current address: $64AC
 
-//Text $6600
+//Text $64AC
 #WRITE(ptr,$1D9C)
 As [Stahn] and the others leave[LINE]
 Cyril for Heidelberg, [Woodrow][LINE]
@@ -1683,18 +1721,18 @@ such drastic measures against Cyril.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $6692
+// current address: $653E
 
 
 
 
 
-//Text $6692
+//Text $653E
 #WRITE(ptr,$1DA8)
 Secret Tunnel[END]
-// current address: $66A0
+// current address: $654C
 
-//Text $66A0
+//Text $654C
 #WRITE(ptr,$1DAC)
 [Stahn]'s groups arrives in Heidelberg[LINE]
 to find it as still as as a graveyard.[LINE]
@@ -1702,38 +1740,38 @@ There, they decide to use an emergency[LINE]
 tunnel to infiltrate the castle.[LINE]
 [LINE]
 [END]
-// current address: $6736
+// current address: $65E2
 
 
 
 
 
-//Text $6736
+//Text $65E2
 #WRITE(ptr,$1DB8)
 Secret Tunnel[END]
-// current address: $6744
+// current address: $65F0
 
-//Text $6744
+//Text $65F0
 #WRITE(ptr,$1DBC)
 [Stahn] is attacked in the[LINE]
 emergency tunnel by a man[LINE]
 named [Darzen],[LINE]
 who turns out to be[LINE]
-one of Phandaria's chief vassals.[LINE]
+one of Phandalia's chief vassals.[LINE]
 He then informs the party of the[LINE]
 details of the insurrection.[END]
-// current address: $67F8
+// current address: $66A4
 
 
 
 
 
-//Text $67F8
+//Text $66A4
 #WRITE(ptr,$1DC8)
 Secret Tunnel[END]
-// current address: $6806
+// current address: $66B2
 
-//Text $6806
+//Text $66B2
 #WRITE(ptr,$1DCC)
 Learning that [Greybum] and [Dalis][LINE]
 are within the castle's clocktower,[LINE]
@@ -1743,18 +1781,18 @@ at their destination...?[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $68A4
+// current address: $6750
 
 
 
 
 
-//Text $68A4
+//Text $6750
 #WRITE(ptr,$1DD8)
 Showdown at Heidelberg[END]
-// current address: $68BB
+// current address: $6767
 
-//Text $68BB
+//Text $6767
 #WRITE(ptr,$1DDC)
 The group encounters [Dalis] once more,[LINE]
 and engage him in battle.[LINE]
@@ -1763,35 +1801,35 @@ instructs [Dalis] to flee the castle,[LINE]
 and [Mary] decides to accompany him.[LINE]
 All that remains is confronting [Greybum].[LINE]
 [END]
-// current address: $6986
+// current address: $6832
 
 
 
 
 
-//Text $6986
+//Text $6832
 #WRITE(ptr,$1DE8)
 Showdown at Heidelberg[END]
-// current address: $699D
+// current address: $6849
 
-//Text $699D
+//Text $6849
 #WRITE(ptr,$1DEC)
 [Stahn] and the others[LINE]
 head straight for the clocktower.[LINE]
 The decisive showdown with [Greybum][LINE]
 is nearly at hand![END]
-// current address: $6A08
+// current address: $68B4
 
 
 
 
 
-//Text $6A08
+//Text $68B4
 #WRITE(ptr,$1DF8)
 Showdown at Heidelberg[END]
-// current address: $6A1F
+// current address: $68CB
 
-//Text $6A1F
+//Text $68CB
 #WRITE(ptr,$1DFC)
 [Greybum] is defeated, and the group[LINE]
 returns to Seinegald with the[LINE]
@@ -1801,36 +1839,36 @@ the time has come to say farewell.[LINE]
 [Stahn] notices [Rutee] is[LINE]
 nowhere to be found,[LINE]
 and sets off to find her.[END]
-// current address: $6AF8
+// current address: $69A4
 
 
 
 
 
-//Text $6AF8
+//Text $69A4
 #WRITE(ptr,$1E08)
 Home, Finally[END]
-// current address: $6B06
+// current address: $69B2
 
-//Text $6B06
+//Text $69B2
 #WRITE(ptr,$1E0C)
 [Stahn] has returned to a peaceful[LINE]
 life in his hometown.[LINE]
 His sister [Lilith] has sent him[LINE]
 out again to get ingredients for dinner.[LINE]
 Now, what should he buy?[END]
-// current address: $6B9D
+// current address: $6A49
 
 
 
 
 
-//Text $6B9D
+//Text $6A49
 #WRITE(ptr,$1E18)
 Home, Finally[END]
-// current address: $6BAB
+// current address: $6A57
 
-//Text $6BAB
+//Text $6A57
 #WRITE(ptr,$1E1C)
 [Philia] brings along [Dymlos][LINE]
 to visit [Stahn][LINE]
@@ -1840,57 +1878,57 @@ steal the Eye of Atamoni.[LINE]
 After persuading [Lilith],[LINE]
 [Stahn] sets off with [Philia].[LINE]
 [END]
-// current address: $6C4F
+// current address: $6AFB
 
 
 
 
 
-//Text $6C4F
+//Text $6AFB
 #WRITE(ptr,$1E28)
 Home, Finally[END]
-// current address: $6C5D
+// current address: $6B09
 
-//Text $6C5D
+//Text $6B09
 #WRITE(ptr,$1E2C)
 [Stahn] and [Philia] arrive in[LINE]
 Neuestadt, and decide to head[LINE]
 to the harbor to charter[LINE]
-a ship to Phandaria.[LINE]
+a ship to Phandalia.[LINE]
 [END]
-// current address: $6CC4
+// current address: $6B70
 
 
 
 
 
-//Text $6CC4
+//Text $6B70
 #WRITE(ptr,$1E38)
 Home, Finally[END]
-// current address: $6CD2
+// current address: $6B7E
 
-//Text $6CD2
+//Text $6B7E
 #WRITE(ptr,$1E3C)
 [Stahn] and [Philia] meet [Kongman][LINE]
 at the harbor, who offers his[LINE]
 assistance after learning[LINE]
 just the two of them are setting out.[LINE]
-Thus, the two head for Phandaria[LINE]
+Thus, the two head for Phandalia[LINE]
 with [Kongman] now in tow.[LINE]
 [LINE]
 [END]
-// current address: $6D85
+// current address: $6C31
 
 
 
 
 
-//Text $6D85
+//Text $6C31
 #WRITE(ptr,$1E48)
 Back to Seinegald[END]
-// current address: $6D97
+// current address: $6C43
 
-//Text $6D97
+//Text $6C43
 #WRITE(ptr,$1E4C)
 As the group arrives in Frostheim[LINE]
 they encounter [Mary] and [Dalis],[LINE]
@@ -1898,18 +1936,18 @@ who had come to partake[LINE]
 in the hotsprings as part of[LINE]
 [Dalis]'s rehabilitation.[LINE]
 [END]
-// current address: $6E27
+// current address: $6CD3
 
 
 
 
 
-//Text $6E27
+//Text $6CD3
 #WRITE(ptr,$1E58)
 Back to Seinegald[END]
-// current address: $6E39
+// current address: $6CE5
 
-//Text $6E39
+//Text $6CE5
 #WRITE(ptr,$1E5C)
 Upon [Dalis]'s insistence, [Mary][LINE]
 decides to join [Stahn]'s group once more.[LINE]
@@ -1918,18 +1956,18 @@ the party sets out for Heidelberg[LINE]
 to meet [Woodrow].[LINE]
 [LINE]
 [END]
-// current address: $6EDC
+// current address: $6D88
 
 
 
 
 
-//Text $6EDC
+//Text $6D88
 #WRITE(ptr,$1E68)
 Back to Seinegald[END]
-// current address: $6EEE
+// current address: $6D9A
 
-//Text $6EEE
+//Text $6D9A
 #WRITE(ptr,$1E6C)
 The group finds Heidelberg[LINE]
 in considerably greater spirits[LINE]
@@ -1939,18 +1977,18 @@ has very recently ascended[LINE]
 the throne, and they all head[LINE]
 to the castle to meet with him.[LINE]
 [END]
-// current address: $6FB3
+// current address: $6E5F
 
 
 
 
 
-//Text $6FB3
+//Text $6E5F
 #WRITE(ptr,$1E78)
 Back to Seinegald[END]
-// current address: $6FC5
+// current address: $6E71
 
-//Text $6FC5
+//Text $6E71
 #WRITE(ptr,$1E7C)
 [Stahn] and the group[LINE]
 meet [Woodrow] and [Chelsea],[LINE]
@@ -1958,18 +1996,18 @@ who both decide to join them[LINE]
 on the rest of their journey.[LINE]
 [LINE]
 [END]
-// current address: $702C
+// current address: $6ED8
 
 
 
 
 
-//Text $702C
+//Text $6ED8
 #WRITE(ptr,$1E88)
 Back to Seinegald[END]
-// current address: $703E
+// current address: $6EEA
 
-//Text $703E
+//Text $6EEA
 #WRITE(ptr,$1E8C)
 Everyone decides to head for[LINE]
 [Rutee]'s hometown, the city of[LINE]
@@ -1979,18 +2017,18 @@ never to come visit her,[LINE]
 he tells himself the[LINE]
 situation calls for some leniency.[LINE]
 [END]
-// current address: $70FA
+// current address: $6FA6
 
 
 
 
 
-//Text $70FA
+//Text $6FA6
 #WRITE(ptr,$1E98)
 Back to Seinegald[END]
-// current address: $710C
+// current address: $6FB8
 
-//Text $710C
+//Text $6FB8
 #WRITE(ptr,$1E9C)
 [Stahn] and company reach[LINE]
 Cresta at last, and split[LINE]
@@ -1999,18 +2037,18 @@ Is she really in town?[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $7173
+// current address: $701F
 
 
 
 
 
-//Text $7173
+//Text $701F
 #WRITE(ptr,$1EA8)
 Back to Seinegald[END]
-// current address: $7185
+// current address: $7031
 
-//Text $7185
+//Text $7031
 #WRITE(ptr,$1EAC)
 [Stahn] finds [Rutee] at an[LINE]
 orphanage on the outskirts of town.[LINE]
@@ -2019,18 +2057,18 @@ speaking to her, she notices him[LINE]
 and ends up deciding to join[LINE]
 the group herself.[LINE]
 [END]
-// current address: $7234
+// current address: $70E0
 
 
 
 
 
-//Text $7234
+//Text $70E0
 #WRITE(ptr,$1EB8)
 Back to Seinegald[END]
-// current address: $7246
+// current address: $70F2
 
-//Text $7246
+//Text $70F2
 #WRITE(ptr,$1EBC)
 The group reconvenes near the[LINE]
 fountain plaza in town[LINE]
@@ -2039,18 +2077,18 @@ the capital city of Darilsheid.[LINE]
 Perhaps they will reunite with[LINE]
 [Lion] there.[LINE]
 [END]
-// current address: $72F1
+// current address: $719D
 
 
 
 
 
-//Text $72F1
+//Text $719D
 #WRITE(ptr,$1EC8)
 Back to Seinegald[END]
-// current address: $7303
+// current address: $71AF
 
-//Text $7303
+//Text $71AF
 #WRITE(ptr,$1ECC)
 The party learns the shocking truth[LINE]
 from the king of Seinegald:[LINE]
@@ -2060,36 +2098,36 @@ stole the Eye of Atamoni.[LINE]
 head for an Oberon facility to find out[LINE]
 just what's going on themselves.[LINE]
 [END]
-// current address: $73DC
+// current address: $7288
 
 
 
 
 
-//Text $73DC
+//Text $7288
 #WRITE(ptr,$1ED8)
 Back to Seinegald[END]
-// current address: $73EE
+// current address: $729A
 
-//Text $73EE
+//Text $729A
 #WRITE(ptr,$1EDC)
 The party boards a ship and heads[LINE]
 for the small island the facility is on.[LINE]
 Just what awaits them[LINE]
 at their destination?[LINE]
 [END]
-// current address: $7466
+// current address: $7312
 
 
 
 
 
-//Text $7466
+//Text $7312
 #WRITE(ptr,$1EE8)
 Island's Secret[END]
-// current address: $7476
+// current address: $7322
 
-//Text $7476
+//Text $7322
 #WRITE(ptr,$1EEC)
 [Stahn] and the others[LINE]
 arrive at the Oberon facility[LINE]
@@ -2099,18 +2137,18 @@ Will they really find [Lion] here...?[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $7505
+// current address: $73B1
 
 
 
 
 
-//Text $7505
+//Text $73B1
 #WRITE(ptr,$1EF8)
 Nightmare Start[END]
-// current address: $7515
+// current address: $73C1
 
-//Text $7515
+//Text $73C1
 #WRITE(ptr,$1EFC)
 The party was unable to find[LINE]
 [Lion] within the facility,[LINE]
@@ -2120,18 +2158,18 @@ cavern deep below.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $75A0
+// current address: $744C
 
 
 
 
 
-//Text $75A0
+//Text $744C
 #WRITE(ptr,$1F08)
 Nightmare Start[END]
-// current address: $75B0
+// current address: $745C
 
-//Text $75B0
+//Text $745C
 #WRITE(ptr,$1F0C)
 [Lion] has indeed been working[LINE]
 together with [Hugo].[LINE]
@@ -2141,60 +2179,60 @@ crosses blades with [Lion].[LINE]
 But the nightmare doesn't end there:[LINE]
 [Lion] is lost,[LINE]
 and the Aeropolis rise again...[END]
-// current address: $768B
+// current address: $7537
 
 
 
 
 
-//Text $768B
+//Text $7537
 #WRITE(ptr,$1F18)
 Aeropolis Rise[END]
-// current address: $769A
+// current address: $7546
 
-//Text $769A
+//Text $7546
 #WRITE(ptr,$1F1C)
 The one who revived the Aeropolis was[LINE]
 none other than [Hugo],[LINE]
 who declares the commencement[LINE]
-of the Aeth'er Wars.[LINE]
+of the Ae'ther War.[LINE]
 [Stahn] and the others receive[LINE]
 orders to assemble from the[LINE]
 Er'ther forces commander [Ritora],[LINE]
 and head for the Radisrol.[END]
-// current address: $777D
+// current address: $7629
 
 
 
 
 
-//Text $777D
+//Text $7629
 #WRITE(ptr,$1F28)
 Aeropolis Rise[END]
-// current address: $778C
+// current address: $7638
 
-//Text $778C
+//Text $7638
 #WRITE(ptr,$1F2C)
 [Stahn] and company ride[LINE]
 the Leviathan to the Radisrol,[LINE]
 the location [Ritora] should be[LINE]
 waiting for them at.[LINE]
 [END]
-// current address: $77F5
+// current address: $76A1
 
 
 
 
 
-//Text $77F5
+//Text $76A1
 #WRITE(ptr,$1F38)
 Aeropolis Rise[END]
-// current address: $7804
+// current address: $76B0
 
-//Text $7804
+//Text $76B0
 #WRITE(ptr,$1F3C)
 [Hugo]'s goal appears to be the[LINE]
-reformation of the Outer Shell,[LINE]
+reformation of the Aethersphere,[LINE]
 which will plunge the surface into darkness.[LINE]
 In order to thwart these plans,[LINE]
 [Stahn] and the others spring into action.[LINE]
@@ -2202,18 +2240,18 @@ Their first order of business is acquiring[LINE]
 the equipment that will allow the Radisrol[LINE]
 to take flight once again.[LINE]
 [END]
-// current address: $792B
+// current address: $77D8
 
 
 
 
 
-//Text $792B
+//Text $77D8
 #WRITE(ptr,$1F48)
 Aeropolis Rise[END]
-// current address: $793A
+// current address: $77E7
 
-//Text $793A
+//Text $77E7
 #WRITE(ptr,$1F4C)
 The group departs the Radisrol[LINE]
 for the ruins near Liene village.[LINE]
@@ -2223,18 +2261,18 @@ the meaning behind his[LINE]
 final message.[LINE]
 [LINE]
 [END]
-// current address: $79D9
+// current address: $7886
 
 
 
 
 
-//Text $79D9
+//Text $7886
 #WRITE(ptr,$1F58)
 The Hidden Key[END]
-// current address: $79E8
+// current address: $7895
 
-//Text $79E8
+//Text $7895
 #WRITE(ptr,$1F5C)
 The party arrives at the ruins[LINE]
 that hold the R Key, a device[LINE]
@@ -2244,18 +2282,18 @@ focus too intently on [Lion],[LINE]
 to which [Stahn] replies that he[LINE]
 has not lost sight of their mission...[LINE]
 [END]
-// current address: $7ACF
+// current address: $797C
 
 
 
 
 
-//Text $7ACF
+//Text $797C
 #WRITE(ptr,$1F68)
 The Hidden Key[END]
-// current address: $7ADE
+// current address: $798B
 
-//Text $7ADE
+//Text $798B
 #WRITE(ptr,$1F6C)
 The seals within the ruins[LINE]
 require a special key:[LINE]
@@ -2264,18 +2302,18 @@ In order to access its depths,[LINE]
 the Swordians must remain behind.[LINE]
 Who should be left behind, and in what order?[LINE]
 [END]
-// current address: $7B8F
+// current address: $7A3C
 
 
 
 
 
-//Text $7B8F
+//Text $7A3C
 #WRITE(ptr,$1F78)
 The Hidden Key[END]
-// current address: $7B9E
+// current address: $7A4B
 
-//Text $7B9E
+//Text $7A4B
 #WRITE(ptr,$1F7C)
 The party finally arrives at the deepest[LINE]
 section of the ruins and obtains the R Key.[LINE]
@@ -2283,18 +2321,18 @@ Before returning, [Mary] requests[LINE]
 that [Stahn] find a way to[LINE]
 cheer [Rutee] up.[LINE]
 [END]
-// current address: $7C3E
+// current address: $7AEB
 
 
 
 
 
-//Text $7C3E
+//Text $7AEB
 #WRITE(ptr,$1F88)
 The Hidden Key[END]
-// current address: $7C4D
+// current address: $7AFA
 
-//Text $7C4D
+//Text $7AFA
 #WRITE(ptr,$1F8C)
 As [Stahn] and the others leave[LINE]
 the ruins, [Hugo]'s voice booms[LINE]
@@ -2304,18 +2342,18 @@ With little time left[LINE]
 before the surface is completely[LINE]
 enclosed, the party hurries[LINE]
 back to the Radisrol.[END]
-// current address: $7D2D
+// current address: $7BDA
 
 
 
 
 
-//Text $7D2D
+//Text $7BDA
 #WRITE(ptr,$1F98)
 Objective: Aethershpere[END]
-// current address: $7D45
+// current address: $7BF2
 
-//Text $7D45
+//Text $7BF2
 #WRITE(ptr,$1F9C)
 The party is left to wait[LINE]
 as preparations are made.[LINE]
@@ -2326,18 +2364,18 @@ and runs off alone.[LINE]
 [LINE]
 [LINE]
 [END]
-// current address: $7DF0
+// current address: $7C9D
 
 
 
 
 
-//Text $7DF0
+//Text $7C9D
 #WRITE(ptr,$1FA8)
 Objective: Aethershpere[END]
-// current address: $7E08
+// current address: $7CB5
 
-//Text $7E08
+//Text $7CB5
 #WRITE(ptr,$1FAC)
 [Rutee] is torn over the knowledge[LINE]
 that [Lion] and [Hugo] are her family,[LINE]
@@ -2346,18 +2384,18 @@ unsure of how she should feel.[LINE]
 they should grieve together.[LINE]
 [LINE]
 [END]
-// current address: $7E9C
+// current address: $7D49
 
 
 
 
 
-//Text $7E9C
+//Text $7D49
 #WRITE(ptr,$1FB8)
 Objective: Aethershpere[END]
-// current address: $7EB4
+// current address: $7D61
 
-//Text $7EB4
+//Text $7D61
 #WRITE(ptr,$1FBC)
 The Radisrol takes flight[LINE]
 with Dycroft in its sights,[LINE]
@@ -2367,1266 +2405,1268 @@ party decides to head for[LINE]
 the Aeropolis known as Ignasea.[LINE]
 [LINE]
 [END]
-// current address: $7F64
+// current address: $7E11
 
 
 
 
 
-//Text $7F64
+//Text $7E11
 #WRITE(ptr,$1FC8)
 Objective: Aethershpere[END]
-// current address: $7F7C
+// current address: $7E29
 
-//Text $7F7C
+//Text $7E29
 #WRITE(ptr,$1FCC)
-ラディスロウを出ようとして[LINE]
-いた[Stahn]たちに、[LINE]
-[Reynolds]から報告が入る。[LINE]
-ダリルシェイドとの間に[LINE]
-無重量エレベーターが開通[LINE]
-したらしい。[LINE]
-これでいつでも地上へ[LINE]
-戻れる。[END]
-// current address: $801A
+As the group is about to depart[LINE]
+the Radirol, [Reynolds] informs them[LINE]
+that their anti-gravity elevator[LINE]
+has established a link to Darilsheid,[LINE]
+allowing travel back to the surface.[LINE]
+[LINE]
+[LINE]
+[END]
+// current address: $7ED8
 
 
 
 
 
-//Text $801A
+//Text $7ED8
 #WRITE(ptr,$1FD8)
 Securing Transport[END]
-// current address: $802D
+// current address: $7EEB
 
-//Text $802D
+//Text $7EEB
 #WRITE(ptr,$1FDC)
-[Stahn]たちは[LINE]
-外殻大地を歩いて、[LINE]
-イグナシーへ到着する。[LINE]
-すみやかに内部を制圧し、[LINE]
-転送装置のターミナルを[LINE]
-確保しなければならない。[END]
-// current address: $80AC
+[Stahn] and the others[LINE]
+travel across the Aethersphere[LINE]
+to Ignasea, where they must[LINE]
+swiftly secure the teleportation[LINE]
+terminal within.[LINE]
+[END]
+// current address: $7F6E
 
 
 
 
 
-//Text $80AC
+//Text $7F6E
 #WRITE(ptr,$1FE8)
 Securing Transport[END]
-// current address: $80BF
+// current address: $7F81
 
-//Text $80BF
+//Text $7F81
 #WRITE(ptr,$1FEC)
-転送装置のターミナルを確保[LINE]
-した[Stahn]たち。[LINE]
-行き先をアンスズーンに設定[LINE]
-し、一行は装置に入る。[LINE]
+With the teleportation terminal[LINE]
+under their control, the group[LINE]
+sets the target to Deimos[LINE]
+and heads through.[LINE]
 [END]
-// current address: $811D
+// current address: $7FEE
 
 
 
 
 
-//Text $811D
+//Text $7FEE
 #WRITE(ptr,$1FF8)
 Heroic Saga[END]
-// current address: $8129
+// current address: $7FFA
 
-//Text $8129
+//Text $7FFA
 #WRITE(ptr,$1FFC)
-転送装置を用い、イグナシー[LINE]
-から一瞬で別の空中都市[LINE]
-アンスズーンに移動した[LINE]
-[Stahn]たち。[LINE]
-次の目的はここを抜け、[LINE]
-守護竜の制御装置がある[LINE]
-クラウディスにたどり着く[LINE]
-事だ。[END]
-// current address: $81CC
+Using the teleporter, the group[LINE]
+is able to travel to Deimos in[LINE]
+an instant. Their next objective is[LINE]
+the control unit for the Guardian Dragon[LINE]
+located in Cloudius.[LINE]
+[LINE]
+[LINE]
+[END]
+// current address: $809E
 
 
 
 
 
-//Text $81CC
+//Text $809E
 #WRITE(ptr,$2008)
 Heroic Saga[END]
-// current address: $81D8
+// current address: $80AA
 
-//Text $81D8
+//Text $80AA
 #WRITE(ptr,$200C)
-アンスズーンのシステムが[LINE]
-ダウンしているせいで、[LINE]
-外へ出られなくなった[LINE]
-[Stahn]たち一行。[LINE]
-ソーディアンの提示した[LINE]
-作戦は、エネルギーユニット[LINE]
-を集め、メインシステムに[LINE]
-つなぐ事だった。[LINE]
+Due to the systems in Deimos[LINE]
+being offline, the group is unable to leave.[LINE]
+At the suggestion of the Swordians,[LINE]
+they begin searching for energy units[LINE]
+to use to supply it power.[LINE]
+[LINE]
+[LINE]
+[LINE]
 [END]
-// current address: $828A
+// current address: $815D
 
 
 
 
 
-//Text $828A
+//Text $815D
 #WRITE(ptr,$2018)
 Heroic Saga[END]
-// current address: $8296
+// current address: $8169
 
-//Text $8296
+//Text $8169
 #WRITE(ptr,$201C)
-[Stahn]たちは、[LINE]
-クラウディスへ到着する。[LINE]
-そこは緑が生い茂り、[LINE]
-密林のようになっていた。[LINE]
-[Dymlos]の話では、[LINE]
-ここの一番奥に、守護竜の[LINE]
-制御装置があるらしい。[END]
-// current address: $832B
+[Stahn] and company arrive at[LINE]
+Cloudius at last, which they find[LINE]
+to be covered in thick green overgrowth.[LINE]
+According to [Dymlos],[LINE]
+the Guardian Dragon's control unit[LINE]
+lies in the innermost depths.[LINE]
+[END]
+// current address: $8226
 
 
 
 
 
-//Text $832B
+//Text $8226
 #WRITE(ptr,$2028)
 Heroic Saga[END]
-// current address: $8337
+// current address: $8232
 
-//Text $8337
+//Text $8232
 #WRITE(ptr,$202C)
-クラウディスの奥で一行を[LINE]
-待ち受けていたのは、[LINE]
-オベロン社の幹部・[LINE]
-[Baruk]だった。[LINE]
-戦いの後、[Baruk]は自分が[LINE]
-カルバレイス人である事を[LINE]
-[Stahn]たちに打ち明け[LINE]
-息絶える。[END]
-// current address: $83D6
+Awaiting the group at[LINE]
+the center of Cloudius is Baruk,[LINE]
+one of the managers of the Oberon Corp.[LINE]
+After his defeat in battle,[LINE]
+[Baruk] reveals to the party that[LINE]
+he was of Calvalese descent[LINE]
+before passing away.[LINE]
+[END]
+// current address: $82FF
 
 
 
 
 
-//Text $83D6
+//Text $82FF
 #WRITE(ptr,$2038)
 Heroic Saga[END]
-// current address: $83E2
+// current address: $830B
 
-//Text $83E2
+//Text $830B
 #WRITE(ptr,$203C)
-ラディスロウを後にした[LINE]
-[Stahn]たち。[LINE]
-次の目的地はヘルレイオス。[LINE]
-まずはアンスズーンを通って[LINE]
-イグナシーへ戻り、そこから[LINE]
-転送装置でロディオンへ[LINE]
-向かわなければならない。[END]
-// current address: $8486
+The party's destination[LINE]
+is now Helraios.[LINE]
+In order to reach it they must[LINE]
+first return to Ignasea through Deimos,[LINE]
+then adjust the teleporter to[LINE]
+travel to Rodeon.[LINE]
+[END]
+// current address: $83AC
 
 
 
 
 
-//Text $8486
+//Text $83AC
 #WRITE(ptr,$2048)
 Grieving Beauty[END]
-// current address: $8496
+// current address: $83BC
 
-//Text $8496
+//Text $83BC
 #WRITE(ptr,$204C)
-ロディオンへやって来た[LINE]
-[Stahn]たち。[LINE]
-[Stahn]は[Dymlos]に[LINE]
-天上人と普通の人間の違いを[LINE]
-尋ねる。[Dymlos]の話では[LINE]
-両者に明確な差はなく、[LINE]
-あくまで意識の問題[LINE]
-らしいが……[END]
-// current address: $8530
+Arriving in Rodeon,[LINE]
+[Stahn] questions [Dymlos] about[LINE]
+the difference between the[LINE]
+Aeth'erians and the Er'thers.[LINE]
+[Dymlos] informs him[LINE]
+that there was no[LINE]
+significant biological difference,[LINE]
+it was just a matter of standings.[END]
+// current address: $848F
 
 
 
 
 
-//Text $8530
+//Text $848F
 #WRITE(ptr,$2058)
 Grieving Beauty[END]
-// current address: $8540
+// current address: $849F
 
-//Text $8540
+//Text $849F
 #WRITE(ptr,$205C)
-[Stahn]たちは、[LINE]
-ロディオンの出入り口へと[LINE]
-たどり着く。[LINE]
-ここから外殻大地へ抜け、[LINE]
-目指すはヘルレイオスだ。[LINE]
-そこにある技術研究施設で、[LINE]
-[Igtenos]を治せる[LINE]
-らしい。[END]
-// current address: $85D8
+The group exits Rodeon[LINE]
+so they can cross the Aethersphere[LINE]
+to reach Helraios.[LINE]
+There they hope to use[LINE]
+the research lab to repair [Igtenos].[LINE]
+[LINE]
+[LINE]
+[END]
+// current address: $8528
 
 
 
 
 
-//Text $85D8
+//Text $8528
 #WRITE(ptr,$2068)
 Grieving Beauty[END]
-// current address: $85E8
+// current address: $8538
 
-//Text $85E8
+//Text $8538
 #WRITE(ptr,$206C)
-ヘルレイオスに突入する[LINE]
-[Stahn]たち。[LINE]
-ヘルレイオスは空中都市群の[LINE]
-中でも重要な拠点のひとつ[LINE]
-だった。天上方からも、既に[LINE]
-人が送り込まれているかも[LINE]
-しれない。[LINE]
-慎重に進まなければ。[LINE]
+[Stahn] and the others enter Helraios,[LINE]
+one of the major holds[LINE]
+among the Aeropolis.[LINE]
+It is highly likely that[LINE]
+another foe awaits them within,[LINE]
+so they must proceed carefully.[LINE]
+[LINE]
+[LINE]
 [END]
-// current address: $8694
+// current address: $85E5
 
 
 
 
 
-//Text $8694
+//Text $85E5
 #WRITE(ptr,$2078)
 Grieving Beauty[END]
-// current address: $86A4
+// current address: $85F5
 
-//Text $86A4
+//Text $85F5
 #WRITE(ptr,$207C)
-ヘルレイオスの内部を進む[LINE]
-[Stahn]たちの耳に、[LINE]
-聞こえてくる懐かしい声。[LINE]
-それは[Stahn]がかつて[LINE]
-互いの理想を語り合った相手[LINE]
-[Ilene]・[Rembrandt][LINE]
-だった。[END]
-// current address: $872D
+As they make their way through[LINE]
+Helraios, the party is greeted[LINE]
+by a familiar voice.[LINE]
+A voice belonging to none other[LINE]
+than the woman [Stahn] discusses ideals with:[LINE]
+[Ilene] [Rembrandt].[LINE]
+[END]
+// current address: $86A2
 
 
 
 
 
-//Text $872D
+//Text $86A2
 #WRITE(ptr,$2088)
 Grieving Beauty[END]
-// current address: $873D
+// current address: $86B2
 
-//Text $873D
+//Text $86B2
 #WRITE(ptr,$208C)
-[Ilene]と再会した[LINE]
-[Stahn]たち。[LINE]
-互いの進む道は分かたれ、[LINE]
-もはや戦うしかなかった。[LINE]
-[Stahn]は正義とは何かと[LINE]
-思い悩む。[LINE]
-そんな[Stahn]を、[LINE]
-[Rutee]が懸命に励ます。[END]
-// current address: $87D2
+[Stahn] comes face to face[LINE]
+with [Ilene] once more.[LINE]
+The paths they walk have diverged,[LINE]
+and they have no choice but to fight.[LINE]
+[Stahn] loses sight of what[LINE]
+is just and what is not,[LINE]
+but [Rutee] does her best to[LINE]
+raise his spirits.[END]
+// current address: $878B
 
 
 
 
 
-//Text $87D2
+//Text $878B
 #WRITE(ptr,$2098)
 Grieving Beauty[END]
-// current address: $87E2
+// current address: $879B
 
-//Text $87E2
+//Text $879B
 #WRITE(ptr,$209C)
-[Woodrow]は修復の完了[LINE]
-した[Igtenos]と、[LINE]
-正式に契約を交わす。[LINE]
-そこへ[Ritora]から、鏡面[LINE]
-バリアー中和装置が完成した[LINE]
-との知らせが入る。[LINE]
-一行は装置を受け取るべく、[LINE]
-ラディスロウへ戻る事に。[END]
-// current address: $888F
+With [Igtenos] finally restored,[LINE]
+[Woodrow] makes a formal contract.[LINE]
+The party then learns from[LINE]
+[Ritora] that the mirror barrier[LINE]
+neutralization device has been completed,[LINE]
+and decide to return to[LINE]
+the Radisrol in order to retrieve it.[LINE]
+[END]
+// current address: $8879
 
 
 
 
 
-//Text $888F
+//Text $8879
 #WRITE(ptr,$20A8)
 Grieving Beauty[END]
-// current address: $889F
+// current address: $8889
 
-//Text $889F
+//Text $8889
 #WRITE(ptr,$20AC)
-[Stahn]たちの努力を[LINE]
-あざ笑うかのごとく、三発目[LINE]
-のベルクラントが地上へ向け[LINE]
-発射される。[LINE]
-外殻大地が完成するまでの[LINE]
-猶予はあと一発。[LINE]
-もう後がない。[END]
-// current address: $892D
+As it to mock their progress,[LINE]
+the Belcrant is fired upon the[LINE]
+surface for a third time.[LINE]
+The Aethersphere[LINE]
+will be complete after[LINE]
+just one more firing.[LINE]
+Time is almost up.[END]
+// current address: $8931
 
 
 
 
 
-//Text $892D
+//Text $8931
 #WRITE(ptr,$20B8)
 Grieving Beauty[END]
-// current address: $893D
+// current address: $8941
 
-//Text $893D
+//Text $8941
 #WRITE(ptr,$20BC)
-ひとまずラディスロウへ[LINE]
-戻ってきた[Stahn][LINE]
-たち。完成した中和装置を[LINE]
-受け取り、次に目指すは[LINE]
-ミックハイル。[LINE]
-そこで浮遊クルーザーを[LINE]
-手に入れ、ダイクロフトへ[LINE]
-乗り込むのだ！[END]
-// current address: $89E2
+[Stahn] and the others[LINE]
+return to the Radisrol briefly.[LINE]
+With the neutralization device in hand,[LINE]
+their next destination is Mikheil,[LINE]
+to obtain the cruiser that[LINE]
+will allow them to infiltrate Dycroft![LINE]
+[LINE]
+[END]
+// current address: $8A05
 
 
 
 
 
-//Text $89E2
+//Text $8A05
 #WRITE(ptr,$20C8)
 Suprise Attack![END]
-// current address: $89F2
+// current address: $8A15
 
-//Text $89F2
+//Text $8A15
 #WRITE(ptr,$20CC)
-[Stahn]たちは[LINE]
-イグナシーから、シュサイア[LINE]
-へとやって来る。[LINE]
-目的地であるミックハイルへ[LINE]
-たどり着くには、ここから[LINE]
-外殻大地へ抜けなければ[LINE]
-ならない。[END]
-// current address: $8A80
+[Stahn]'s group travels[LINE]
+to Josaia through Ignasea,[LINE]
+and from there must travel across[LINE]
+the Aethersphere once more[LINE]
+to reach Mikheil.[LINE]
+[LINE]
+[END]
+// current address: $8A97
 
 
 
 
 
-//Text $8A80
+//Text $8A97
 #WRITE(ptr,$20D8)
 Suprise Attack![END]
-// current address: $8A90
+// current address: $8AA7
 
-//Text $8A90
+//Text $8AA7
 #WRITE(ptr,$20DC)
-シュサイアの出入り口へ[LINE]
-たどり着いた[Stahn][LINE]
-たち。[LINE]
-外殻大地を通って、[LINE]
-目指すはミックハイルだ。[END]
-// current address: $8AEC
+The party leaves Josaia,[LINE]
+and begins their trek[LINE]
+across the Aethersphere[LINE]
+towards Mikheil.[LINE]
+[END]
+// current address: $8B00
 
 
 
 
 
-//Text $8AEC
+//Text $8B00
 #WRITE(ptr,$20E8)
 Suprise Attack![END]
-// current address: $8AFC
+// current address: $8B10
 
-//Text $8AFC
+//Text $8B10
 #WRITE(ptr,$20EC)
-[Stahn]たちは[LINE]
-ミックハイルに到着する。[LINE]
-クラウディスやヘルレイオス[LINE]
-同様、ここにも誰かが[LINE]
-待ち構えている可能性は[LINE]
-高い。[LINE]
-だが、ここまで来たら、[LINE]
-もはや後には引けない。[END]
-// current address: $8B9D
+[Stahn] and the others[LINE]
+arrive at Mikheil.[LINE]
+The expect someone[LINE]
+to be waiting for them[LINE]
+much like they were[LINE]
+in Cloudius and Helraios,[LINE]
+but they can no longer[LINE]
+afford to turn back.[END]
+// current address: $8BBC
 
 
 
 
 
-//Text $8B9D
+//Text $8BBC
 #WRITE(ptr,$20F8)
 Suprise Attack![END]
-// current address: $8BAD
+// current address: $8BCC
 
-//Text $8BAD
+//Text $8BCC
 #WRITE(ptr,$20FC)
-[Stahn]たちは[LINE]
-[Ilene]の父、シャイン・[LINE]
-[Rembrandt]と戦い、勝利[LINE]
-する。人質となっていた[LINE]
-[Marian]を地上へ避難[LINE]
-させた後、一行は[LINE]
-ベルクラントへ向け、浮遊[LINE]
-クルーザーを発進させる。[END]
-// current address: $8C4D
+The party emerges victorious[LINE]
+from their battle with Shane [Rembrandt],[LINE]
+[Ilene]'s father.[LINE]
+After returning his hostage[LINE]
+[Marian] to the surface,[LINE]
+the group departs[LINE]
+in the cruiser for Belcrant.[LINE]
+[END]
+// current address: $8C7F
 
 
 
 
 
-//Text $8C4D
+//Text $8C7F
 #WRITE(ptr,$2108)
 Heavens Lord[END]
-// current address: $8C5A
+// current address: $8C8C
 
-//Text $8C5A
+//Text $8C8C
 #WRITE(ptr,$210C)
-鏡面バリアーを無効化し、[LINE]
-ベルクラント内部へ突入を[LINE]
-果たした[Stahn]たち。[LINE]
-ここから最上部へと[LINE]
-駆け上がり、最終的に[LINE]
-目指すのは神の眼が安置[LINE]
-されているはずの、[LINE]
-ダイクロフト本体だ！[END]
-// current address: $8D07
+[Stahn] and the others[LINE]
+neutralize the barrier[LINE]
+and successfully infiltrate the Belcrant.[LINE]
+They now must dash[LINE]
+into Dycroft proper,[LINE]
+to the topmost layer[LINE]
+where the Eye of Atamoni[LINE]
+is enshrined![END]
+// current address: $8D46
 
 
 
 
 
-//Text $8D07
+//Text $8D46
 #WRITE(ptr,$2118)
 Heavens Lord[END]
-// current address: $8D14
+// current address: $8D53
 
-//Text $8D14
+//Text $8D53
 #WRITE(ptr,$211C)
-ベルクラントの内部で、[LINE]
-[Stahn]たちは[LINE]
-転送装置を見つけ、機能を[LINE]
-回復させる。[LINE]
-これでイグナシーまでは[LINE]
-いつでも戻れるはずだ。[END]
-// current address: $8D8B
+The group locates and[LINE]
+reactivates a teleportation[LINE]
+station within Belcrant,[LINE]
+which allows them to return[LINE]
+to Ignasea at any time.[LINE]
+[END]
+// current address: $8DD3
 
 
 
 
 
-//Text $8D8B
+//Text $8DD3
 #WRITE(ptr,$2128)
 Heavens Lord[END]
-// current address: $8D98
+// current address: $8DE0
 
-//Text $8D98
+//Text $8DE0
 #WRITE(ptr,$212C)
-激闘の末、[Hugo]に勝利[LINE]
-した[Stahn]たち。[LINE]
-だが復活した[Miktran]の[LINE]
-前に手も足も出ず、惨敗[LINE]
-を喫してしまう。絶体絶命の[LINE]
-危機に陥った一行を救った[LINE]
-のは、[Hugo]のなけなしの[LINE]
-意志だった。[END]
-// current address: $8E42
+[Stahn]'s group manages[LINE]
+to overcome [Hugo][LINE]
+after a fierce battle,[LINE]
+but are powerless before[LINE]
+the newly resurrected[Miktran][LINE]
+and suffer a crushing defeat.[LINE]
+They are only able to escape[LINE]
+thanks to the final flicker of [Hugo]'s will.[END]
+// current address: $8EBB
 
 
 
 
 
-//Text $8E42
+//Text $8EBB
 #WRITE(ptr,$2138)
 A World in Darkness[END]
-// current address: $8E56
+// current address: $8ECF
 
-//Text $8E56
+//Text $8ECF
 #WRITE(ptr,$213C)
-外殻は完成し、地上世界は[LINE]
-闇に包まれる。さらに[LINE]
-追い討ちをかけるように、[LINE]
-クレスタの街がモンスターの[LINE]
-大群に襲われているとの[LINE]
-知らせが。[Johnny]を[LINE]
-仲間に加え、[Stahn][LINE]
-たちはクレスタに急行する。[END]
-// current address: $8F0E
+With the Outer Shell completed,[LINE]
+the surface world is now[LINE]
+completely enveloped in darkness.[LINE]
+To make matters worse,[LINE]
+the group learns that a[LINE]
+massive legion of monsters[LINE]
+has descended upon Cresta.[LINE]
+[Johnny] joins the group, who head there to help.[END]
+// current address: $8FBE
 
 
 
 
 
-//Text $8F0E
+//Text $8FBE
 #WRITE(ptr,$2148)
 Demons Attack[END]
-// current address: $8F1C
+// current address: $8FCC
 
-//Text $8F1C
+//Text $8FCC
 #WRITE(ptr,$214C)
-クレスタの街では、既に[LINE]
-モンスターとの激闘が[LINE]
-繰り広げられていた。[LINE]
-果たして孤児院は無事[LINE]
-なのか？[END]
-// current address: $8F7B
+The party arrives in Cresta[LINE]
+to find it already embroiled in[LINE]
+fierce battle against the monsters.[LINE]
+Is the orphanage still safe?[LINE]
+[END]
+// current address: $904A
 
 
 
 
 
-//Text $8F7B
+//Text $904A
 #WRITE(ptr,$2158)
 Demons Attack[END]
-// current address: $8F89
+// current address: $9058
 
-//Text $8F89
+//Text $9058
 #WRITE(ptr,$215C)
-モンスターに襲われかけて[LINE]
-いた子供たちを、間一髪[LINE]
-助けた[Stahn]たち。[LINE]
-だが休む間もなく、今度は[LINE]
-ダリルシェイドが攻撃を[LINE]
-受けているとの知らせが！[LINE]
-一行は急いでダリルシェイド[LINE]
-へ取って返す。[END]
-// current address: $903E
+[Stahn] and the others reach[LINE]
+the children just in time to[LINE]
+save them from certain death.[LINE]
+But they are given no time to recuperate,[LINE]
+as they learn Darilsheid[LINE]
+is now under attack as well![LINE]
+The group makes for the capital at once.[LINE]
+[END]
+// current address: $9138
 
 
 
 
 
-//Text $903E
+//Text $9138
 #WRITE(ptr,$2168)
 Demons Attack[END]
-// current address: $904C
+// current address: $9146
 
-//Text $904C
+//Text $9146
 #WRITE(ptr,$216C)
-ダリルシェイドへ戻ってきた[LINE]
-[Stahn]たち。[LINE]
-街に入り込んだモンスターを[LINE]
-急いで排除しなければ！[LINE]
-ダリルシェイドを敵の手に[LINE]
-明け渡すわけにはいかない！[LINE]
+The party returns to Darilsheid[LINE]
+where they must quickly eliminate[LINE]
+the monsters roaming the city![LINE]
+Darilsheid cannot fall into[LINE]
+the enemy's hands![LINE]
+[LINE]
 [END]
-// current address: $90DA
+// current address: $91D8
 
 
 
 
 
-//Text $90DA
+//Text $91D8
 #WRITE(ptr,$2178)
 Demons Attack[END]
-// current address: $90E8
+// current address: $91E6
 
-//Text $90E8
+//Text $91E6
 #WRITE(ptr,$217C)
-モンスターと戦い、勝利[LINE]
-した[Stahn]たち。[LINE]
-だがそこへ新手が。[LINE]
-果てしなく続く戦いに、[LINE]
-終わりはいつ訪れるのか？[END]
-// current address: $9152
+[Stahn]'s group defeats[LINE]
+one group of monsters,[LINE]
+but another quickly takes its place.[LINE]
+Will there ever be any end[LINE]
+to all of this fighting?[END]
+// current address: $926C
 
 
 
 
 
-//Text $9152
+//Text $926C
 #WRITE(ptr,$2188)
 Demons Attack[END]
-// current address: $9160
+// current address: $927A
 
-//Text $9160
+//Text $927A
 #WRITE(ptr,$218C)
-モンスターの攻撃をしのぎ、[LINE]
-ダリルシェイドの街は[LINE]
-ひとまず窮地を脱する。[LINE]
-休める時に休んでおこうと、[LINE]
-[Stahn]たちはひとまず[LINE]
-宿屋へ向かう事に。[END]
-// current address: $91E9
+Darilsheid endures the monster[LINE]
+attack and is allowed a brief[LINE]
+moment of respite.[LINE]
+[Stahn] and the others[LINE]
+head for the inn[LINE]
+to collect themselves.[END]
+// current address: $9307
 
 
 
 
 
-//Text $91E9
+//Text $9307
 #WRITE(ptr,$2198)
 Demons Attack[END]
-// current address: $91F7
+// current address: $9315
 
-//Text $91F7
+//Text $9315
 #WRITE(ptr,$219C)
-このままでは[Miktran]に[LINE]
-勝てない。そう[Dymlos]に[LINE]
-いわれた[Stahn]だったが、[LINE]
-決してあきらめようと[LINE]
-しない。そんな中、[LINE]
-意識不明だった[Reynolds]が[LINE]
-目覚めたとの知らせが入る。[END]
-// current address: $9292
+[Dymlos] tells [Stahn] that they[LINE]
+cannot overcome [Miktran][LINE]
+as they are now, to which [Stahn][LINE]
+declares that he will never give up.[LINE]
+At that moment, the group[LINE]
+receives news from the[LINE]
+now conscious [Reynolds].[END]
+// current address: $93D2
 
 
 
 
 
-//Text $9292
+//Text $93D2
 #WRITE(ptr,$21A8)
 Aerial City Assault[END]
-// current address: $92A6
+// current address: $93E6
 
-//Text $92A6
+//Text $93E6
 #WRITE(ptr,$21AC)
-まだ希望はある。[Reynolds][LINE]
-から最終作戦の全貌を[LINE]
-聞かされ、沸き立つ[LINE]
-[Stahn]たち。[LINE]
-そんな中、ソーディアンたち[LINE]
-が「真のマスターとなるため[LINE]
-の最終試練」を受ける覚悟が[LINE]
-あるかと一行に問う。[END]
-// current address: $9356
+There is still hope after all.[LINE]
+The party is ecstatic upon hearing[LINE]
+the particulars of [Reynolds]'[LINE]
+final battle plan.[LINE]
+The group is also asked by the Swordians[LINE]
+if they possess the resolve to pass[LINE]
+the final trial to become[LINE]
+true Swordian Masters.[END]
+// current address: $94D3
 
 
 
 
 
-//Text $9356
+//Text $94D3
 #WRITE(ptr,$21B8)
 Aerial City Assault[END]
-// current address: $936A
+// current address: $94E7
 
-//Text $936A
+//Text $94E7
 #WRITE(ptr,$21BC)
-[Stahn]たちは[LINE]
-セインガルド城を訪れた[LINE]
-[Dalis]から、ドラゴンを[LINE]
-託される。[LINE]
-一行はさっそくドラゴンに[LINE]
-乗り、最終試練の場たる[LINE]
-ソーディアン研究所を目指す[LINE]
-事にする。[END]
-// current address: $9404
+[Stahn] and the others are[LINE]
+summoned to Seinegald Castle,[LINE]
+where they are entrusted the _ by [Dalis].[LINE]
+The group use the _[LINE]
+to reach the location of their[LINE]
+final trial, the Swordian R&D Lab.[LINE]
+[LINE]
+[END]
+// current address: $959F
 
 
 
 
 
-//Text $9404
+//Text $959F
 #WRITE(ptr,$21C8)
 Ultimate Test[END]
-// current address: $9412
+// current address: $95AD
 
-//Text $9412
+//Text $95AD
 #WRITE(ptr,$21CC)
-ソーディアン研究所の中へ[LINE]
-足を踏み入れた[LINE]
-[Stahn]たち。[LINE]
-この奥で何が待ち受けている[LINE]
-のか？[LINE]
-最終試練の内容とは？[END]
-// current address: $947D
+The party reaches the R&D Lab[LINE]
+and sets foot inside.[LINE]
+What awaits them within?[LINE]
+What will their trial comprise?[LINE]
+[LINE]
+[END]
+// current address: $961C
 
 
 
 
 
-//Text $947D
+//Text $961C
 #WRITE(ptr,$21D8)
 Ultimate Test[END]
-// current address: $948B
+// current address: $962A
 
-//Text $948B
+//Text $962A
 #WRITE(ptr,$21DC)
-研究所の奥にあった装置を[LINE]
-用いて、[Stahn]たちは[LINE]
-ソーディアンを強化する事に[LINE]
-成功する。[LINE]
-次はいよいよ自分たちの番、[LINE]
-最終試練だ。[END]
-// current address: $9506
+Using the equipment in[LINE]
+the R&D Lab's depths,[LINE]
+the group is able to strengthen the Swordians.[LINE]
+What follows will be the final test[LINE]
+for each of the masters themselves.[LINE]
+[END]
+// current address: $96CF
 
 
 
 
 
-//Text $9506
+//Text $96CF
 #WRITE(ptr,$21E8)
 Ultimate Test[END]
-// current address: $9514
+// current address: $96DD
 
-//Text $9514
+//Text $96DD
 #WRITE(ptr,$21EC)
-最終試練の内容、それは[LINE]
-元のマスターと戦い、勝利[LINE]
-する事だった。[LINE]
-[Stahn]たちとソーディ[LINE]
-アンたちは力を合わせ、[LINE]
-全員で試練を突破する。[LINE]
+The ultimate test is a[LINE]
+battle with the original Master.[LINE]
+The current Masters and their Swordians[LINE]
+combine their strength, and each[LINE]
+overcome their own trial.[LINE]
+[LINE]
 [END]
-// current address: $9596
+// current address: $977A
 
 
 
 
 
-//Text $9596
+//Text $977A
 #WRITE(ptr,$21F8)
 Searching for Berselium[END]
-// current address: $95AE
+// current address: $9792
 
-//Text $95AE
+//Text $9792
 #WRITE(ptr,$21FC)
-飛行竜を修復するため、[LINE]
-ベルセリウムを求めて[LINE]
-ジャンクランドを訪れた[LINE]
-[Stahn]たち。[LINE]
-街の人に協力を求めるも、[LINE]
-反応は芳しくない。[LINE]
-やむなく一行は、自分たち[LINE]
-だけで捜索を開始するが……[END]
-// current address: $965D
+[Stahn] and the others pay a visit to[LINE]
+Junkland in order to find the Berselium[LINE]
+they need to repair the Draconis.[LINE]
+However, they do not receive much[LINE]
+assistance from the townspeople.[LINE]
+Left with no other choice,[LINE]
+they begin searching for[LINE]
+the material themselves...[END]
+// current address: $9892
 
 
 
 
 
-//Text $965D
+//Text $9892
 #WRITE(ptr,$2208)
 Searching for Berselium[END]
-// current address: $9675
+// current address: $98AA
 
-//Text $9675
+//Text $98AA
 #WRITE(ptr,$220C)
-ベルセリウムを探して、[LINE]
-[Stahn]たちは懸命に[LINE]
-ゴミ漁りを続ける。[LINE]
-そこへひとりの青年が[LINE]
-近づいてきて、トラッシュ[LINE]
-マウンテンの入り口を開いて[LINE]
-くれる。[END]
-// current address: $9703
+As the group is desperately[LINE]
+searching the refuse for any[LINE]
+sign of Berselium,[LINE]
+a young man approaches them[LINE]
+and shows them the way to[LINE]
+Trash Mountain.[LINE]
+[END]
+// current address: $993D
 
 
 
 
 
-//Text $9703
+//Text $993D
 #WRITE(ptr,$2218)
 Searching for Berselium[END]
-// current address: $971B
+// current address: $9955
 
-//Text $971B
+//Text $9955
 #WRITE(ptr,$221C)
-[Stahn]たちは[LINE]
-トラッシュマウンテンの中に[LINE]
-入る。そこは有毒ガスが充満[LINE]
-した、危険な場所だった。[LINE]
-果たしてベルセリウムは[LINE]
-見つかるのだろうか？[END]
-// current address: $97A2
+[Stahn] and the others enter[LINE]
+Trash Mountain, a dangerous[LINE]
+lcoation filled with toxic fumes.[LINE]
+Will they really be able to[LINE]
+find any Berselium there?[LINE]
+[END]
+// current address: $99E5
 
 
 
 
 
-//Text $97A2
+//Text $99E5
 #WRITE(ptr,$2228)
 Searching for Berselium[END]
-// current address: $97BA
+// current address: $99FD
 
-//Text $97BA
+//Text $99FD
 #WRITE(ptr,$222C)
-トラッシュマウンテンの中で[LINE]
-ベルセリウムを発見した[LINE]
-[Stahn]たち。[LINE]
-だが期待したほどの量は[LINE]
-得られなかった。[LINE]
-これからどうするべきか？[LINE]
-善後策を協議するべく、[LINE]
-一行は外へ出る事にする。[END]
-// current address: $9869
+The party locates some Berselium[LINE]
+within Trash Mountain at last.[LINE]
+However, the quantity they[LINE]
+find is not nearly enough.[LINE]
+What options are left for them now?[LINE]
+In order to discuss potential[LINE]
+backup plans, they head for the exit.[LINE]
+[END]
+// current address: $9ADC
 
 
 
 
 
-//Text $9869
+//Text $9ADC
 #WRITE(ptr,$2238)
 Searching for Berselium[END]
-// current address: $9881
-
-//Text $9881
-#WRITE(ptr,$223C)
-街の人々の協力により、[LINE]
-大量のベルセリウムを手に[LINE]
-入れた[Stahn]たち。[LINE]
-人々に厚く礼を述べた後、[LINE]
-一行は飛行竜のあるダリル[LINE]
-シェイドへ戻る事にする。[END]
-// current address: $990E
-
-
-
-
-
-//Text $990E
-#WRITE(ptr,$2248)
-Searching for Berselium[END]
-// current address: $9926
-
-//Text $9926
-#WRITE(ptr,$224C)
-無事にベルセリウムを届けた[LINE]
-[Stahn]たちに、[LINE]
-[Reynolds]から伝言が。[LINE]
-話があるので、セインガルド[LINE]
-城まで来て欲しいとの事[LINE]
-だが……[END]
-// current address: $999C
-
-
-
-
-
-//Text $999C
-#WRITE(ptr,$2258)
-Not Enough Lens![END]
-// current address: $99AD
-
-//Text $99AD
-#WRITE(ptr,$225C)
-城の中庭では集積レンズ砲の[LINE]
-建造が進められていた。[LINE]
-だが、エネルギー源となる[LINE]
-レンズの量が、まだ足りない[LINE]
-らしい。[Stahn]たちは[LINE]
-[Reynolds]の依頼で、[LINE]
-世界中のレンズを集めに[LINE]
-行く事に。[END]
-// current address: $9A59
-
-
-
-
-
-//Text $9A59
-#WRITE(ptr,$2268)
-Not Enough Lens![END]
-// current address: $9A6A
-
-//Text $9A6A
-#WRITE(ptr,$226C)
-ノイシュタットの街で、[LINE]
-レンズを回収した[LINE]
-[Stahn]たち。[LINE]
-街の人々の熱烈なマイティ・[LINE]
-コールに、[Kongman]や[LINE]
-[Stahn]たちの気合が[LINE]
-いやがうえにも高まる。[END]
 // current address: $9AF4
 
-
-
-
-
 //Text $9AF4
+#WRITE(ptr,$223C)
+Thanks to the efforts of the[LINE]
+citizens of Junkland, the group[LINE]
+is able to procure enough Berselium.[LINE]
+After saying their thanks to the townspeople,[LINE]
+they make their way to the location of the Draconis.[LINE]
+[END]
+// current address: $9BBA
+
+
+
+
+
+//Text $9BBA
+#WRITE(ptr,$2248)
+Searching for Berselium[END]
+// current address: $9BD2
+
+//Text $9BD2
+#WRITE(ptr,$224C)
+[Stahn] and the others are able[LINE]
+to deliver the Berselium safely.[LINE]
+They then learn that [Reynolds][LINE]
+wishes to speak with them directly,[LINE]
+and are asked to return to Seinegald Castle...[LINE]
+[END]
+// current address: $9C80
+
+
+
+
+
+//Text $9C80
+#WRITE(ptr,$2258)
+Not Enough Lens![END]
+// current address: $9C91
+
+//Text $9C91
+#WRITE(ptr,$225C)
+Construction of the Integreated[LINE]
+Lens Cannon is underway[LINE]
+in the castle's courtyard.[LINE]
+However, they are informed by [Reynolds][LINE]
+that they do not have enough lens[LINE]
+to power the cannon,[LINE]
+and he requests that [Stahn][LINE]
+and his companions journey across[LINE]
+the world to collect more.[END]
+// current address: $9D97
+
+
+
+
+
+//Text $9D97
+#WRITE(ptr,$2268)
+Not Enough Lens![END]
+// current address: $9DA8
+
+//Text $9DA8
+#WRITE(ptr,$226C)
+After collecting the lens in Neuestadt,[LINE]
+[Stahn], [Kongman] and the others[LINE]
+are met with a cacophony of cheers[LINE]
+that renew their fighting spirit.[LINE]
+[LINE]
+[LINE]
+[END]
+// current address: $9E34
+
+
+
+
+
+//Text $9E34
 #WRITE(ptr,$2278)
 Not Enough Lens![END]
-// current address: $9B05
+// current address: $9E45
 
-//Text $9B05
+//Text $9E45
 #WRITE(ptr,$227C)
-ハイデルベルグの街で、[LINE]
-レンズを回収した[LINE]
-[Stahn]たち。[LINE]
-[Woodrow]は留守役の[LINE]
-[Darzen]に、苦難の時はあと[LINE]
-少しで終わる、それまで耐え[LINE]
-忍んで欲しいと告げる。[END]
-// current address: $9B93
+The party arrives in Heidelberg,[LINE]
+and collects the lens its citizens have gathered.[LINE]
+[Woodrow] promises [Darzen][LINE]
+that their times of hardship will soon[LINE]
+be at an end, and asks that he[LINE]
+stay strong and endure until that time.[LINE]
+[END]
+// current address: $9F1C
 
 
 
 
 
-//Text $9B93
+//Text $9F1C
 #WRITE(ptr,$2288)
 Not Enough Lens![END]
-// current address: $9BA4
+// current address: $9F2D
 
-//Text $9BA4
+//Text $9F2D
 #WRITE(ptr,$228C)
-トウケイ領でレンズを回収[LINE]
-した[Stahn]たち。[LINE]
-[Johnny]は[Rihanna]から[LINE]
-懐妊の事実を知らされ、[LINE]
-生まれる子の名付け親に[LINE]
-なって欲しいと頼まれる。[LINE]
+[Stahn] and company arrive in Terazzi[LINE]
+to collect more lens.[LINE]
+While there, [Johnny] learns that[LINE]
+[Rihanna] is pregnant,[LINE]
+and she requests that[LINE]
+he becomes its godfather.[LINE]
+[LINE]
 [END]
-// current address: $9C26
+// current address: $9FCB
 
 
 
 
 
-//Text $9C26
+//Text $9FCB
 #WRITE(ptr,$2298)
 Not Enough Lens![END]
-// current address: $9C37
+// current address: $9FDC
 
-//Text $9C37
+//Text $9FDC
 #WRITE(ptr,$229C)
-カルビオラの街でレンズを[LINE]
-回収した[Stahn]たち。[LINE]
-街の人々の声援はなかった[LINE]
-が、レンズを提供してくれた[LINE]
-だけでも、十分協力的と[LINE]
-いえるだろう。[END]
-// current address: $9CBE
+The group reaches Calviola[LINE]
+and accepts the lens they provide.[LINE]
+Although they were not met[LINE]
+with the cheers of a crowd,[LINE]
+their offering said all it needed to.[LINE]
+[END]
+// current address: $A078
 
 
 
 
 
-//Text $9CBE
+//Text $A078
 #WRITE(ptr,$22A8)
 Warrior's Night[END]
-// current address: $9CCE
+// current address: $A088
 
-//Text $9CCE
+//Text $A088
 #WRITE(ptr,$22AC)
-集積レンズ砲は完成し、[LINE]
-十分な量のレンズも[LINE]
-集まった。[LINE]
-明朝の作戦決行を前に、[LINE]
-[Stahn]たちは[LINE]
-セインガルド[King]から、[LINE]
-一晩ゆっくり休むよう[LINE]
-いわれる。[END]
-// current address: $9D5E
+The Integrated Lens Cannon[LINE]
+has been completed and[LINE]
+sufficent lens has been gathered.[LINE]
+The [King] of Seinegald insists[LINE]
+that [Stahn]'s party rest for the night,[LINE]
+so they may be ready to enact their[LINE]
+plan the following morning.[LINE]
+[END]
+// current address: $A163
 
 
 
 
 
-//Text $9D5E
+//Text $A163
 #WRITE(ptr,$22B8)
 Warrior's Night[END]
-// current address: $9D6E
+// current address: $A173
 
-//Text $9D6E
+//Text $A173
 #WRITE(ptr,$22BC)
-明朝まで各自自由時間と[LINE]
-なった[Stahn]たち。[LINE]
-[Stahn]は[Johnny][LINE]
-から、やるべき時にやるべき[LINE]
-事をやらないと、二度と機会[LINE]
-は訪れないかもしれないと[LINE]
-助言される。果たして、[LINE]
-[Johnny]の真意とは？[END]
-// current address: $9E1C
+[Stahn] and the others[LINE]
+are given time to do whatever they wish[LINE]
+until the morning.[LINE]
+[Johnny] warns [Stahn][LINE]
+that if he has any unfinished[LINE]
+business, he may never get[LINE]
+another chance. What could[LINE]
+[Johnny] be implying?[END]
+// current address: $A23C
 
 
 
 
 
-//Text $9E1C
+//Text $A23C
 #WRITE(ptr,$22C8)
 Warrior's Night[END]
-// current address: $9E2C
+// current address: $A24C
 
-//Text $9E2C
+//Text $A24C
 #WRITE(ptr,$22CC)
-[Philia]の後押しもあり[LINE]
-自らの気持ちを自覚した[LINE]
-[Stahn]は[Rutee][LINE]
-に思いを告げる。[LINE]
-「この戦いが終わったら、[LINE]
-ふたりで旅をしたい」[LINE]
-[Rutee]は帰ってきたら[LINE]
-返事をすると答える。[END]
-// current address: $9ECC
+With [Philia]'s help,[LINE]
+[Stahn] realizes and confess[LINE]
+his true feelings for [Rutee],[LINE]
+"When all of this is over[LINE]
+I want to go on a journey,[LINE]
+just the two of us." [LINE]
+[Rutee] will only give him[LINE]
+an answer when they return.[END]
+// current address: $A317
 
 
 
 
 
-//Text $9ECC
+//Text $A317
 #WRITE(ptr,$22D8)
 Warrior's Night[END]
-// current address: $9EDC
+// current address: $A327
 
-//Text $9EDC
+//Text $A327
 #WRITE(ptr,$22DC)
-もう思い残す事はない。[LINE]
-いよいよ決戦の時だ。[LINE]
-城の中庭で、集積レンズ砲の[LINE]
-発射準備が進められている[LINE]
-はずだ。[LINE]
-すぐに向かわなければ。[END]
-// current address: $9F5C
+There's no room left for regrets.[LINE]
+The final battle is at hand.[LINE]
+The cannon in the courtyard[LINE]
+should be nearly ready to fire.[LINE]
+Now is the time.[LINE]
+[END]
+// current address: $A3B4
 
 
 
 
 
-//Text $9F5C
+//Text $A3B4
 #WRITE(ptr,$22E8)
 Warrior's Night[END]
-// current address: $9F6C
+// current address: $A3C4
 
-//Text $9F6C
+//Text $A3C4
 #WRITE(ptr,$22EC)
-ついに最終作戦が始まる。[LINE]
-[Ritora]の尊い犠牲により、[LINE]
-外殻大地が集積レンズ砲で[LINE]
-撃ち抜かれ、一筋の光が[LINE]
-地上にもたらされる。[LINE]
-後は飛行竜でダイクロフトへ[LINE]
-乗り込むだけだ。[END]
-// current address: $A00E
+Through [Ritora]'s noble sacrifice,[LINE]
+the cannon was able to pierce[LINE]
+the Aethersphere, shedding a ray of hope[LINE]
+upon the darkened land.[LINE]
+All that remains is to take to[LINE]
+Dycroft aboard the Draconis.[LINE]
+[END]
+// current address: $A481
 
 
 
 
 
-//Text $A00E
+//Text $A481
 #WRITE(ptr,$22F8)
 Warrior's Night[END]
-// current address: $A01E
+// current address: $A491
 
-//Text $A01E
+//Text $A491
 #WRITE(ptr,$22FC)
-飛行竜に乗り込み、[LINE]
-外殻大地の上へ向かう[LINE]
-[Stahn]たち。[LINE]
-さまざまな人々の思いを[LINE]
-背負い、今こそ最終決戦の[LINE]
-地、ダイクロフトを目指す。[END]
-// current address: $A09D
+Carrying the hopes and[LINE]
+prayers of humanity,[LINE]
+[Stahn] and his companions[LINE]
+ascend to the Aethersphere[LINE]
+and towards Dycroft,[LINE]
+their final battleground.[END]
+// current address: $A520
 
 
 
 
 
-//Text $A09D
+//Text $A520
 #WRITE(ptr,$2308)
 Toward Tomorrow[END]
-// current address: $A0AD
+// current address: $A530
 
-//Text $A0AD
+//Text $A530
 #WRITE(ptr,$230C)
-外殻大地の上は、緑に[LINE]
-覆われた別世界となって[LINE]
-いた。地上の生命を犠牲に[LINE]
-した[Miktran]の理想郷[LINE]
-など、認めるわけには[LINE]
-いかない。[LINE]
-全てを終わりにしなければ！[END]
-// current address: $A13F
+The surface of the Aethersphere is[LINE]
+like a brand new world[LINE]
+covered in vast greenery.[LINE]
+This false utopia created by [Miktran][LINE]
+at the expense of life on the surface[LINE]
+is unacceptable.[LINE]
+It must be brought to an end![END]
+// current address: $A5FC
 
 
 
 
 
-//Text $A13F
+//Text $A5FC
 #WRITE(ptr,$2318)
 Toward Tomorrow[END]
-// current address: $A14F
+// current address: $A60C
 
-//Text $A14F
+//Text $A60C
 #WRITE(ptr,$231C)
-ダイクロフトの最終地点で、[LINE]
-[Stahn]たちはついに、[LINE]
-[Miktran]と対峙する。[LINE]
-[Miktran]は神の眼の前で[LINE]
-決着を着けようといい、[LINE]
-[Stahn]たちもそれを[LINE]
-受け入れる。[END]
-// current address: $A1DA
+At long last [Stahn] and his[LINE]
+companions confront [Miktran][LINE]
+at the terminus of the Dycroft.[LINE]
+[Miktran] challenges the party[LINE]
+before the Eye of Atamoni,[LINE]
+and their final battle commences.[LINE]
+[END]
+// current address: $A6BA
 
 
 
 
 
-//Text $A1DA
+//Text $A6BA
 #WRITE(ptr,$2328)
 Toward Tomorrow[END]
-// current address: $A1EA
+// current address: $A6CA
 
-//Text $A1EA
+//Text $A6CA
 #WRITE(ptr,$232C)
-死力を尽くした戦いの果てに[LINE]
-とうとう[Miktran]を倒した[LINE]
-[Stahn]たち。[LINE]
-だがそれは、ソーディアン[LINE]
-たちとの永遠の別れをも、[LINE]
-意味していた……[END]
-// current address: $A26A
+After a hard-fought battle,[LINE]
+[Stahn] and the others emerge[LINE]
+victorious over [Miktran] at last.[LINE]
+However, their victory came at great cost:[LINE]
+a final parting with the Swordians...[LINE]
+[END]
+// current address: $A773
 
 
 
 
 
-//Text $A26A
+//Text $A773
 #WRITE(ptr,$2338)
 Epilogue[END]
-// current address: $A273
+// current address: $A77C
 
-//Text $A273
+//Text $A77C
 #WRITE(ptr,$233C)
-[Miktran]との戦いから一年[LINE]
-の後。[LINE]
-[Stahn]はリーネの村で[LINE]
-仲間たちと再会する。[LINE]
-そして皆の祝福を受けながら[LINE]
-[Rutee]とふたり、[LINE]
-新たな旅路に就く。[END]
-// current address: $A2F7
+One year has passed since[LINE]
+[Miktran]'s defeat.[LINE]
+[Stahn] reunites with his[LINE]
+friends in Liene,[LINE]
+and with everyone's blessing,[LINE]
+[Rutee] and [Stahn] embark[LINE]
+on a new adventure, together.[END]
+// current address: $A823
 
 
 
 
 
-//Text $A2F7
+//Text $A823
 #WRITE(ptr,$2348)
 A New Mission[END]
-// current address: $A305
+// current address: $A831
 
-//Text $A305
+//Text $A831
 #WRITE(ptr,$234C)
-[Lion] and [Marian] are enjoying[LINE]
-a conversation when they are[LINE]
-interrupted. [Lion] receives an[LINE]
-urgent mission to apprehend [LINE]
-two thieves, and one is his sister[LINE]
-[Rutee]. Morever, she may be in[LINE]
-posession of a Swordian. [Lion] [LINE]
-immediately heads towards Harmentz.[END]
-// current address: $A400
+It is an otherwise ordinary day,[LINE]
+as [Lion] enjoys a conversation with [Marian].[LINE]
+However, [Lion] receives an urgent mission[LINE]
+apprehend some thieves,[LINE]
+and upon realizing that[LINE]
+the one wielding a Swordian[LINE]
+is his sister [Rutee],[LINE]
+sets out for Harmentz.[END]
+// current address: $A91F
 
 
 
 
 
-//Text $A400
+//Text $A91F
 #WRITE(ptr,$2358)
 Versus Swordians[END]
-// current address: $A411
+// current address: $A930
 
-//Text $A411
+//Text $A930
 #WRITE(ptr,$235C)
 [Lion] easily apprehends[LINE]
 [Rutee] and her companions[LINE]
-in Harmentz. They were in[LINE]
-possession of two Swordians[LINE]
-which have been retrieved.[LINE]
-[Lion] returns to Seinegald[LINE]
-to report the completion of his task.[END]
-// current address: $A4D4
+in Harmentz, and finds they were in[LINE]
+possession of two Swordians.[LINE]
+He then returns to Seinegald[LINE]
+in order to report his success.[LINE]
+[END]
+// current address: $A9E0
 
 
 
 
 
-//Text $A4D4
+//Text $A9E0
 #WRITE(ptr,$2368)
 Versus Swordians[END]
-// current address: $A4E5
+// current address: $A9F1
 
-//Text $A4E5
+//Text $A9F1
 #WRITE(ptr,$236C)
 [Rutee] and her companions[LINE]
-are implicated in the disappearance[LINE]
-of the Draconis. [Hugo] [LINE]
-[Hugo] orders that they are[LINE]
-taken to the [King].[LINE]
-Following orders, [Lion][LINE]
-heads for the dungeons.[END]
-// current address: $A599
+are implicated in the[LINE]
+disappearance of the Draconis.[LINE]
+[Hugo] orders that they[LINE]
+be brought before the [King],[LINE]
+and [Lion] heads to the dungeon.[LINE]
+to gather them.[END]
+// current address: $AAA3
 
 
 
 
 
-//Text $A599
+//Text $AAA3
 #WRITE(ptr,$2378)
 [Hugo]'s Plans[END]
-// current address: $A5A7
+// current address: $AAB1
 
-//Text $A5A7
+//Text $AAB1
 #WRITE(ptr,$237C)
-During the interrogation[LINE]
-an incident at Straylize Temple[LINE]
-is reported. [Hugo] suggests[LINE]
-[Rutee] and her companions should[LINE]
-be taken to investigate. [Lion][LINE]
-returns to the mansion to retrieve[LINE]
-the confiscated Swordians.[LINE]
-[END]
-// current address: $A67A
+During the interrogation,[LINE]
+a report is received of an incident[LINE]
+at Straylize Temple.[LINE]
+At [Hugo]'s suggestion,[LINE]
+[Lion] is given custody of[LINE]
+[Stahn] and the others and ordered to investigate.[LINE]
+He then heads to the manor[LINE]
+to retrieve the confiscated Swordians.[END]
+// current address: $ABA8
 
 
 
 
 
-//Text $A67A
+//Text $ABA8
 #WRITE(ptr,$2388)
 [Hugo]'s Plans[END]
-// current address: $A688
+// current address: $ABB6
 
-//Text $A688
+//Text $ABB6
 #WRITE(ptr,$238C)
 [Hugo] returns the Swordians[LINE]
 to [Stahn] and the others.[LINE]
-In order to ensure the[LINE]
-safety of the Eye of Atamoni,[LINE]
-the group leave to travel to[LINE]
-the Straylize Temple.[END]
-// current address: $A725
+The group then sets out[LINE]
+for Straylize Temple,[LINE]
+in order to confirm the safety[LINE]
+of the Eye of Atamoni.[END]
+// current address: $AC4F
 
 
 
 
 
-//Text $A725
+//Text $AC4F
 #WRITE(ptr,$2398)
 [Hugo]'s Plans[END]
-// current address: $A733
+// current address: $AC5D
 
-//Text $A733
+//Text $AC5D
 #WRITE(ptr,$239C)
 Just before leaving the city[LINE]
 [Stahn] offers his hand in[LINE]
-friendship. However, [Lion][LINE]
-ignores the gesture. He informs[LINE]
-the group that the Straylize[LINE]
-Temple is north of Darilsheid[LINE]
-and starts walking ahead[LINE]
-of the group, alone. END]A Temple in Silence[END]
-// current address: $A825
+friendship, but is rebuekd by [Lion].[LINE]
+He informs the others that[LINE]
+Straylize Temple lies[LINE]
+to the north of Darilsheid,[LINE]
+and sets out ahead of them.[LINE]
+[END]
+// current address: $AD22
 
 
 
 
 
-//Text $A811
+//Text $AD22
 #WRITE(ptr,$23A8)
 A Temple in Silence[END]
-// current address: $A825
+// current address: $AD36
 
-//Text $A825
+//Text $AD36
 #WRITE(ptr,$23AC)
 The party arrives[LINE]
 at Straylize Temple[LINE]
@@ -3634,18 +3674,18 @@ only to find it empty.[LINE]
 What could have happened[LINE]
 to everyone?[LINE]
 [END]
-// current address: $A889
+// current address: $AD9A
 
 
 
 
 
-//Text $A889
+//Text $AD9A
 #WRITE(ptr,$23B8)
 A Temple in Silence[END]
-// current address: $A89D
+// current address: $ADAE
 
-//Text $A89D
+//Text $ADAE
 #WRITE(ptr,$23BC)
 [Lion] and the others discover[LINE]
 someone has been trapped in a room[LINE]
@@ -3656,18 +3696,18 @@ of them must be destroyed[LINE]
 in order to disable the seal.[LINE]
 [LINE]
 [END]
-// current address: $A96A
+// current address: $AE7B
 
 
 
 
 
-//Text $A96A
+//Text $AE7B
 #WRITE(ptr,$23C8)
 A Temple in Silence[END]
-// current address: $A97E
+// current address: $AE8F
 
-//Text $A97E
+//Text $AE8F
 #WRITE(ptr,$23CC)
 They destroy the wardstones[LINE]
 and are able to rescue the captive[LINE]
@@ -3676,18 +3716,18 @@ The bishop then leads the party[LINE]
 to the cathedral in order to confirm[LINE]
 the whereabouts of the Eye of Atamoni.[LINE]
 [END]
-// current address: $AA38
+// current address: $AF49
 
 
 
 
 
-//Text $AA38
+//Text $AF49
 #WRITE(ptr,$23D8)
 A Temple in Silence[END]
-// current address: $AA4C
+// current address: $AF5D
 
-//Text $AA4C
+//Text $AF5D
 #WRITE(ptr,$23DC)
 Within the cathedral, [Ayles][LINE]
 reveals a hidden passageway[LINE]
@@ -3695,178 +3735,178 @@ to the basement.[LINE]
 The Eye of Atamoni supposedly[LINE]
 waits at the end of the passage.[LINE]
 [END]
-// current address: $AAD5
+// current address: $AFE6
 
 
 
 
 
-//Text $AAD5
+//Text $AFE6
 #WRITE(ptr,$23E8)
 A Temple in Silence[END]
-// current address: $AAE9
+// current address: $AFFA
 
-//Text $AAE9
+//Text $AFFA
 #WRITE(ptr,$23EC)
-The Eye of Atamoni was[LINE]
+The Eye of Atamoni has been[LINE]
 taken by High Priest [Greybum].[LINE]
 [Stahn] and company release the[LINE]
 priestess [Philia] from her petrification,[LINE]
 then head for Calvalese alongside her[LINE]
 in pursuit of [Greybum].[LINE]
 [END]
-// current address: $AB9E
+// current address: $B0B4
 
 
 
 
 
-//Text $AB9E
+//Text $B0B4
 #WRITE(ptr,$23F8)
 [Lion]'s Resolve[END]
-// current address: $ABAE
+// current address: $B0C4
 
-//Text $ABAE
+//Text $B0C4
 #WRITE(ptr,$23FC)
 [Lion] and the others return[LINE]
-to Darilsheid and head to[LINE]
-Calvalese. The ship that[LINE]
-carried [Greybum] has already[LINE]
-left the port. [Lion] hurries to the[LINE]
-[King] in order to arrange[LINE]
-special transport to[LINE]
-pursue [Greybum].[END]
-// current address: $AC78
+to Darilsheid in order to[LINE]
+set a course for Calvalese.[LINE]
+The ship believed to be used by [Greybum][LINE]
+has already left the port,[LINE]
+so [Lion] hurries to request[LINE]
+that the [King] arrange a special[LINE]
+transport for their pursuit.[END]
+// current address: $B1B1
 
 
 
 
 
-//Text $AC78
+//Text $B1B1
 #WRITE(ptr,$2408)
 [Lion]'s Resolve[END]
-// current address: $AC88
+// current address: $B1C1
 
-//Text $AC88
+//Text $B1C1
 #WRITE(ptr,$240C)
-[Lion] secures transportation.[LINE]
-However, he is reminded that first[LINE]
-and foremost he is [Hugo]'s son[LINE]
-and that defines him more than[LINE]
-being a man named [Lion].[LINE]
-This reminder infront of his father[LINE]
-leaves [Lion] feeling disheartend.[LINE]
+[Lion] is able to secure transportation.[LINE]
+However, he is once again made[LINE]
+aware that before [Hugo],[LINE]
+[Lion] is his son first and foremost[LINE]
+before he is his own person,[LINE]
+and is left disheartened.[LINE]
+[LINE]
 [END]
-// current address: $AD67
+// current address: $B27E
 
 
 
 
 
-//Text $AD67
+//Text $B27E
 #WRITE(ptr,$2418)
 [Lion]'s Resolve[END]
-// current address: $AD77
+// current address: $B28E
 
-//Text $AD77
+//Text $B28E
 #WRITE(ptr,$241C)
 Prior to setting sail, [Lion][LINE]
 visits [Marian] to say farewell.[LINE]
-She can see that something[LINE]
-is troubling him. She asks [Lion][LINE]
-if she should call him by his other[LINE]
-name. [Lion] is reminded of his[LINE]
-purpose and refuses.[LINE]
+[Marian] senses that something[LINE]
+is troubling him, and asks[LINE]
+if he would consider changing his name back.[LINE]
+[Lion] refuses, remembering[LINE]
+what his goals are.[LINE]
 [END]
-// current address: $AE47
+// current address: $B35D
 
 
 
 
 
-//Text $AE47
+//Text $B35D
 #WRITE(ptr,$2428)
 [Lion]'s Resolve[END]
-// current address: $AE57
+// current address: $B36D
 
-//Text $AE57
+//Text $B36D
 #WRITE(ptr,$242C)
 [Lion] and his companions[LINE]
 board the ship that has been[LINE]
-prepared for them by President [Hugo].[LINE]
-They set cours for Calvalese, once[LINE]
-known as the "Second Continent."[END]
-// current address: $AEF7
+prepared for them by [Hugo][LINE]
+and set sail for Calvalese, once known[LINE]
+as the "Second Continent."[END]
+// current address: $B400
 
 
 
 
 
-//Text $AEF7
+//Text $B400
 #WRITE(ptr,$2438)
 The Fourth Swordian[END]
-// current address: $AF0B
+// current address: $B414
 
-//Text $AF0B
+//Text $B414
 #WRITE(ptr,$243C)
 [Lion], completely seasick, [LINE]
 receives a request from the[LINE]
 Swordians to retrieve their lost[LINE]
 companion from a transport ship[LINE]
-that sunk to the bottom of the sea.[LINE]
+that sank to the bottom of the sea.[LINE]
 Leviathan is summone to aid them[LINE]
 in their journey to the sea floor.[END]
-// current address: $AFEC
+// current address: $B4F5
 
 
 
 
 
-//Text $AFEC
+//Text $B4F5
 #WRITE(ptr,$2448)
 The Fourth Swordian[END]
-// current address: $B000
+// current address: $B509
 
-//Text $B000
+//Text $B509
 #WRITE(ptr,$244C)
 [Clemente] is discovered in the[LINE]
 deepest area of Radisrol.[LINE]
 There, [Philia] unites with the group[LINE]
-and becomes [Clemente]'s master.[LINE]
-[Lion] recognizes [Philia] as a[LINE]
-comrade in arms.[LINE]
+and becomes [Clemente]'s master,[LINE]
+and [Lion] allows [Philia] to join them[LINE]
+as a comrade in arms.[LINE]
 [END]
-// current address: $B0A2
+// current address: $B5B8
 
 
 
 
 
-//Text $B0A2
+//Text $B5B8
 #WRITE(ptr,$2458)
 The Fourth Swordian[END]
-// current address: $B0B6
+// current address: $B5CC
 
-//Text $B0B6
+//Text $B5CC
 #WRITE(ptr,$245C)
 Having gained the power[LINE]
 of the Swordian [Clemente],[LINE]
 [Lion] and the others leave[LINE]
-Radisrol behind aboard Leviathan.[LINE]
+Radisrol behind aboard the Leviathan.[LINE]
 The continue their pursuit of [Greybum][LINE]
 once again and proceed to Calvalese.[END]
-// current address: $B16B
+// current address: $B685
 
 
 
 
 
-//Text $B16B
+//Text $B685
 #WRITE(ptr,$2468)
 Desert Island[END]
-// current address: $B179
+// current address: $B693
 
-//Text $B179
+//Text $B693
 #WRITE(ptr,$246C)
 Arriving in Calvalese,[LINE]
 [Lion] and the others decide[LINE]
@@ -3876,18 +3916,18 @@ However, they quickly realize[LINE]
 that the locals do not[LINE]
 take kindly to strangers.[LINE]
 [END]
-// current address: $B240
+// current address: $B75A
 
 
 
 
 
-//Text $B240
+//Text $B75A
 #WRITE(ptr,$2478)
 Desert Island[END]
-// current address: $B24E
+// current address: $B768
 
-//Text $B24E
+//Text $B768
 #WRITE(ptr,$247C)
 [Lion] and the others find[LINE]
 a potential lead on [Greybum],[LINE]
@@ -3896,98 +3936,98 @@ to the capital city of Calviola.[LINE]
 They decide to pursue him,[LINE]
 and leave Cherik for the capital.[LINE]
 [END]
-// current address: $B2FC
+// current address: $B816
 
 
 
 
 
-//Text $B2FC
+//Text $B816
 #WRITE(ptr,$2488)
 An Odd Temple[END]
-// current address: $B30A
+// current address: $B824
 
-//Text $B30A
+//Text $B824
 #WRITE(ptr,$248C)
 The party learns of the location[LINE]
 of another Straylize Temple from[LINE]
 the residents of Calviola.[LINE]
-Apparently, the temple is[LINE]
-located in the city.[END]
-// current address: $B396
+The temple is apparently[LINE]
+located somewhere in the city.[END]
+// current address: $B8B9
 
 
 
 
 
-//Text $B396
+//Text $B8B9
 #WRITE(ptr,$2498)
 An Odd Temple[END]
-// current address: $B3A4
+// current address: $B8C7
 
-//Text $B3A4
+//Text $B8C7
 #WRITE(ptr,$249C)
 The group locates the temple[LINE]
 and devise a plan.[LINE]
-[Philia] will pose as a pilgrim[LINE]
-and enter undercover, while[LINE]
-the others wait until nightfall[LINE]
-for the chance to join her.[LINE]
-[END]
-// current address: $B44A
+[Philia] is chosen to pose as a pilgrim[LINE]
+and enter undercover, where[LINE]
+she will then wait until nightfall[LINE]
+to allow the others in[LINE]
+through the rear entrance.[END]
+// current address: $B98D
 
 
 
 
 
-//Text $B44A
+//Text $B98D
 #WRITE(ptr,$24A8)
 An Odd Temple[END]
-// current address: $B458
+// current address: $B99B
 
-//Text $B458
+//Text $B99B
 #WRITE(ptr,$24AC)
-[Lion] spends the time[LINE]
-before nightfall exploring[LINE]
-the city. He learns of [LINE]
-residents their philoshophy[LINE]
-of abandoning the weaklings[LINE]
-that slow them down in[LINE]
-order to ensure survival.[LINE]
-[END]
-// current address: $B50B
+[Lion] spends some time[LINE]
+exploring the city,[LINE]
+where admits his belief[LINE]
+that the residents of Calvalese[LINE]
+have only survived so far[LINE]
+because they abandoned[LINE]
+any who became a burden[LINE]
+through their own weakness.[END]
+// current address: $BA63
 
 
 
 
 
-//Text $B50B
+//Text $BA63
 #WRITE(ptr,$24B8)
 An Odd Temple[END]
-// current address: $B519
+// current address: $BA71
 
-//Text $B519
+//Text $BA71
 #WRITE(ptr,$24BC)
 [Lion] and the others wait for[LINE]
 night at the inn to begin their[LINE]
 operation. When night falls[LINE]
 and the city becomes silent,[LINE]
 they make their move.[LINE]
-Hopefully [Philia] has done her[LINE]
-part and has unlcoked the back door.[LINE]
+[Philia] is supposed to have unlocked[LINE]
+the back door for them.[LINE]
 [END]
-// current address: $B5E9
+// current address: $BB3A
 
 
 
 
 
-//Text $B5E9
+//Text $BB3A
 #WRITE(ptr,$24C8)
 An Odd Temple[END]
-// current address: $B5F7
+// current address: $BB48
 
-//Text $B5F7
+//Text $BB48
 #WRITE(ptr,$24CC)
 The party is able to safely[LINE]
 infiltrate the temple[LINE]
@@ -3997,18 +4037,18 @@ while avoiding the watchful[LINE]
 eyes of the clergy. Perhaps there[LINE]
 there is path hidden within, just as[LINE]
 there was in Seinegald's temple.[END]
-// current address: $B6DF
+// current address: $BC30
 
 
 
 
 
-//Text $B6DF
+//Text $BC30
 #WRITE(ptr,$24D8)
 An Odd Temple[END]
-// current address: $B6ED
+// current address: $BC3E
 
-//Text $B6ED
+//Text $BC3E
 #WRITE(ptr,$24DC)
 [Lion] and company arrive[LINE]
 at the inner cathedral.[LINE]
@@ -4017,133 +4057,133 @@ the mechanism and open the path[LINE]
 to the basement below.[LINE]
 Will they finally find [Greybum][LINE]
 and the Eye of Atamoni?[END]
-// current address: $B7A9
+// current address: $BCFA
 
 
 
 
 
-//Text $B7A9
+//Text $BCFA
 #WRITE(ptr,$24E8)
 An Odd Temple[END]
-// current address: $B7B7
+// current address: $BD08
 
-//Text $B7B7
+//Text $BD08
 #WRITE(ptr,$24EC)
-[Lion] and the others confront[LINE]
-[Greybum] in the basement of[LINE]
-the temple. However, he escapes.[LINE]
+Although [Lion] and company at last come[LINE]
+face-to-face with [Greybum] in the basement,[LINE]
+he ultimately manages to escape.[LINE]
 Deciding that [Stahn] and the[LINE]
-others are slowing him down,[LINE]
-[Lion] chases after [Greybum] alone.[END]
-// current address: $B868
+others have become a burden,[LINE]
+[Lion] sets off in pursuit of [Greybum] alone.[END]
+// current address: $BDDD
 
 
 
 
 
-//Text $B868
+//Text $BDDD
 #WRITE(ptr,$24F8)
 An Odd Temple[END]
-// current address: $B876
+// current address: $BDEB
 
-//Text $B876
+//Text $BDEB
 #WRITE(ptr,$24FC)
-[Baruk]'s words make [Lion][LINE]
-change his course of action,[LINE]
-rescuing [Stahn] and the others.[LINE]
-When [Stahn] awakens[LINE]
-[Lion] tells [Stahn] that[LINE]
-next time they must ensure the[LINE]
-return of the Eye of Atamoni.[END]
-// current address: $B932
+[Baruk]'s words cause [Lion][LINE]
+to reconsider his actions,[LINE]
+and he returns to rescue [Stahn].[LINE]
+When [Stahn] awakens,[LINE]
+[Lion] tells him that[LINE]
+next time, they will secure[LINE]
+the Eye of Atamoni without fail.[END]
+// current address: $BEA6
 
 
 
 
 
-//Text $B932
+//Text $BEA6
 #WRITE(ptr,$2508)
 An Odd Temple[END]
-// current address: $B940
+// current address: $BEB4
 
-//Text $B940
+//Text $BEB4
 #WRITE(ptr,$250C)
-The group returns to Cherik.[LINE]
-Thanks to information provided by[LINE]
-[Baruk], [Lion] and the others board[LINE]
-a ship and set course for Neuestadt.[LINE]
+The group returns to Cherik,[LINE]
+where they board a ship to Neuestadt[LINE]
+following the information[LINE]
+they received from [Baruk].[LINE]
 [END]
-// current address: $B9C7
+// current address: $BF2B
 
 
 
 
 
-//Text $B9C7
+//Text $BF2B
 #WRITE(ptr,$2518)
 Jolly Co-Op[END]
-// current address: $B9D3
+// current address: $BF37
 
-//Text $B9D3
+//Text $BF37
 #WRITE(ptr,$251C)
-On deck, [Lion] discusses[LINE]
-with [Stahn] how joining him[LINE]
-and his friends could[LINE]
-feel as a betrayal to [Chaltier].[LINE]
-However, [Chaltier] expresses[LINE]
-to [Lion] that he is overjoyed[LINE]
-to have companions again and[LINE]
-that he should welcome more.[END]
-// current address: $BAAB
+On the deck, [Lion] admits that[LINE]
+he feels him becoming friends[LINE]
+with [Stahn] is like betraying[LINE]
+[Chaltier]. However, [Chaltier][LINE]
+tells him that friendship is[LINE]
+something to be cherished,[LINE]
+and that [Lion] should embrace[LINE]
+that camaraderie.[END]
+// current address: $C00F
 
 
 
 
 
-//Text $BAAB
+//Text $C00F
 #WRITE(ptr,$2528)
 Jolly Co-Op[END]
-// current address: $BAB7
+// current address: $C01B
 
-//Text $BAB7
+//Text $C01B
 #WRITE(ptr,$252C)
-Tired of wasting his time[LINE]
-waiting for [Ilene], [Lion][LINE]
-searches for a popsicle[LINE]
-shop somewhere within Neuestadt.[LINE]
+Tired of waiting for [Ilene][LINE]
+at her estate, [Lion] sets out[LINE]
+to search for a popsicle stand[LINE]
+somewhere in Neuestadt.[LINE]
 [END]
-// current address: $BB24
+// current address: $C08C
 
 
 
 
 
-//Text $BB24
+//Text $C08C
 #WRITE(ptr,$2538)
 Jolly Co-Op[END]
-// current address: $BB30
+// current address: $C098
 
-//Text $BB30
+//Text $C098
 #WRITE(ptr,$253C)
-[Lion]'s purchase is stopped[LINE]
-when monsters appear in the city.[LINE]
-Realizing that he cannot defeat[LINE]
-these monsters on his own,[LINE]
-[Lion] rushes to the arena to[LINE]
-find [Stahn] and the others.[END]
-// current address: $BBE1
+[Lion]'s popsicle excursion[LINE]
+is cut short when monsters[LINE]
+appear in the city. Realizing[LINE]
+that he cannot defeat them[LINE]
+alone, [Lion] rushes to the Arena[LINE]
+to gather [Stahn] and the others.[END]
+// current address: $C148
 
 
 
 
 
-//Text $BBE1
+//Text $C148
 #WRITE(ptr,$2548)
 Jolly Co-Op[END]
-// current address: $BBED
+// current address: $C154
 
-//Text $BBED
+//Text $C154
 #WRITE(ptr,$254C)
 The culprit behind the monster attack[LINE]
 and ensuing chaos appears to be an[LINE]
@@ -4152,36 +4192,36 @@ armada that appeared off the coast.[LINE]
 to a boat courtesy of [Ilene],[LINE]
 and decide to take on the armada.[LINE]
 [END]
-// current address: $BCBB
+// current address: $C222
 
 
 
 
 
-//Text $BCBB
+//Text $C222
 #WRITE(ptr,$2558)
 Jolly Co-Op[END]
-// current address: $BCC7
+// current address: $C22E
 
-//Text $BCC7
+//Text $C22E
 #WRITE(ptr,$255C)
 Upon arriving at the port, [Kongman][LINE]
 appears and offers his assistance.[LINE]
 With their numbers now bolstered,[LINE]
 the party is poised to strike at the Armada![LINE]
 [END]
-// current address: $BD5B
+// current address: $C2C2
 
 
 
 
 
-//Text $BD5B
+//Text $C2C2
 #WRITE(ptr,$2568)
 Strike the Armada![END]
-// current address: $BD6E
+// current address: $C2D5
 
-//Text $BD6E
+//Text $C2D5
 #WRITE(ptr,$256C)
 [Lion] and the others[LINE]
 hastily board the flagship of[LINE]
@@ -4189,18 +4229,18 @@ the armada. They must [LINE]
 quickly locate the enemy leader[LINE]
 and take them out before[LINE]
 reinforcements have the chance to arrive.[END]
-// current address: $BE1B
+// current address: $C382
 
 
 
 
 
-//Text $BE1B
+//Text $C382
 #WRITE(ptr,$2578)
 Strike the Armada![END]
-// current address: $BE2E
+// current address: $C395
 
-//Text $BE2E
+//Text $C395
 #WRITE(ptr,$257C)
 With the leader of the fleet [Batista][LINE]
 defeated, the group makes a[LINE]
@@ -4209,18 +4249,18 @@ triumphant return to town.[LINE]
 escape, and determines that[LINE]
 his target is Aquaveil.[LINE]
 [END]
-// current address: $BEE1
+// current address: $C448
 
 
 
 
 
-//Text $BEE1
+//Text $C448
 #WRITE(ptr,$2588)
 Strike the Armada![END]
-// current address: $BEF4
+// current address: $C45B
 
-//Text $BEF4
+//Text $C45B
 #WRITE(ptr,$258C)
 Saying their farewells to[LINE]
 their new friends in Neuestadt,[LINE]
@@ -4229,18 +4269,18 @@ for Aquaveil. What could await them[LINE]
 at this new location?[LINE]
 [LINE]
 Road to Moreau[END]
-// current address: $BF93
+// current address: $C4FA
 
 
 
 
 
-//Text $BF84
+//Text $C4EB
 #WRITE(ptr,$2598)
 Road to Moreau[END]
-// current address: $BF93
+// current address: $C4FA
 
-//Text $BF93
+//Text $C4FA
 #WRITE(ptr,$259C)
 The ship arrives near the coast of[LINE]
 Shiden, a territory of Aquaveil.[LINE]
@@ -4249,37 +4289,37 @@ due to the country's isolationist policies.[LINE]
 So, [Lion] and the others make for[LINE]
 Shiden on a smaller boat.[LINE]
 [END]
-// current address: $C064
+// current address: $C5CB
 
 
 
 
 
-//Text $C064
+//Text $C5CB
 #WRITE(ptr,$25A8)
 Road to Moreau[END]
-// current address: $C073
+// current address: $C5DA
 
-//Text $C073
+//Text $C5DA
 #WRITE(ptr,$25AC)
 The group learns that[LINE]
 [Greybum] is currently in the[LINE]
 Moreau region. After learning[LINE]
-of the existence of an onceanside[LINE]
+of the existence of an oceanside[LINE]
 cavern that leads to Moreau, [Lion][LINE]
-and his companions head there.[END]
-// current address: $C125
+and his companions make their way there.[END]
+// current address: $C695
 
 
 
 
 
-//Text $C125
+//Text $C695
 #WRITE(ptr,$25B8)
 The Abyss[END]
-// current address: $C12F
+// current address: $C69F
 
-//Text $C12F
+//Text $C69F
 #WRITE(ptr,$25BC)
 [Lion] and the others enter[LINE]
 the seaside cavern in order[LINE]
@@ -4288,70 +4328,70 @@ the cavern is poor in numerous places,[LINE]
 and it appears to be home to fiendish monsters.[LINE]
 Extreme caution will be necessary to proceed.[LINE]
 [END]
-// current address: $C209
+// current address: $C779
 
 
 
 
 
-//Text $C125
+//Text $C695
 #WRITE(ptr,$25C8)
 The Abyss[END]
-// current address: $C12F
+// current address: $C69F
 
-//Text $C209
+//Text $C779
 #WRITE(ptr,$25CC)
 In the midst of traversing the cavern,[LINE]
 [Stahn] and [Rutee] both wind up[LINE]
 falling into its depths.[LINE]
 [Lion] returns to the Shiden[LINE]
 region to assist them.[END]
-// current address: $C299
+// current address: $C809
 
 
 
 
 
-//Text $C125
+//Text $C695
 #WRITE(ptr,$25D8)
 The Abyss[END]
-// current address: $C12F
+// current address: $C69F
 
-//Text $C299
+//Text $C809
 #WRITE(ptr,$25DC)
-[Lion] and the others begin[LINE]
-searching for rope. They question[LINE]
-the residents in town as well[LINE]
-as search on their own.[END]
-// current address: $C30C
+[Lion] and the others return[LINE]
+to Shiden in order to locate rope.[LINE]
+Their only option is to ask around[LINE]
+anywhere they can hoping to find some.[END]
+// current address: $C892
 
 
 
 
 
-//Text $C125
+//Text $C695
 #WRITE(ptr,$25E8)
 The Abyss[END]
-// current address: $C12F
+// current address: $C69F
 
-//Text $C30C
+//Text $C892
 #WRITE(ptr,$25EC)
-[Stahn] and [Rutee] are[LINE]
-saved by [Lion] and the others[LINE]
-without incident. Reunited, the[LINE]
-group searches for an exit.[END]
-// current address: $C37A
+[Lion] and the others are able to rescue[LINE]
+[Stahn] and [Rutee] without incident.[LINE]
+They now must search for an exit[LINE]
+as quickly as they can.[END]
+// current address: $C915
 
 
 
 
 
-//Text $C125
+//Text $C695
 #WRITE(ptr,$25F8)
 The Abyss[END]
-// current address: $C12F
+// current address: $C69F
 
-//Text $C37A
+//Text $C915
 #WRITE(ptr,$25FC)
 Upon reaching the end of the cavern,[LINE]
 the group is attacked by a fearsome monster.[LINE]
@@ -4359,36 +4399,36 @@ They manage to drive it off somehow[LINE]
 and leave the cave,[LINE]
 continuing their journey to Moreau.[LINE]
 [END]
-// current address: $C429
+// current address: $C9C4
 
 
 
 
 
-//Text $C429
+//Text $C9C4
 #WRITE(ptr,$2608)
 Jolly Minstrel[END]
-// current address: $C438
+// current address: $C9D3
 
-//Text $C438
+//Text $C9D3
 #WRITE(ptr,$260C)
 [Lion] and the others arrive at Moreau.[LINE]
 To determin whether or not [Greybum][LINE]
 truly is in the city, they must[LINE]
 now question the townspeople for information.[LINE]
 [END]
-// current address: $C4CF
+// current address: $CA6A
 
 
 
 
 
-//Text $C429
+//Text $C9C4
 #WRITE(ptr,$2618)
 Jolly Minstrel[END]
-// current address: $C438
+// current address: $C9D3
 
-//Text $C4CF
+//Text $CA6A
 #WRITE(ptr,$261C)
 The party meets a lone[LINE]
 minstrel within Moreau.[LINE]
@@ -4396,18 +4436,18 @@ Before long, a soldier appears[LINE]
 with orders to assemble at the harbor,[LINE]
 as it seems someone known as[LINE]
 King [Tiberius] will be there.[END]
-// current address: $C57B
+// current address: $CB16
 
 
 
 
 
-//Text $C429
+//Text $C9C4
 #WRITE(ptr,$2628)
 Jolly Minstrel[END]
-// current address: $C438
+// current address: $C9D3
 
-//Text $C57B
+//Text $CB16
 #WRITE(ptr,$262C)
 [Lion] and the others are[LINE]
 noticed by [Tiberius], who sends[LINE]
@@ -4416,18 +4456,18 @@ However, a helping hand from[LINE]
 none other than [Johnny],[LINE]
 the minstrel they just met,[LINE]
 keeps them from being caught.[END]
-// current address: $C633
+// current address: $CBCE
 
 
 
 
 
-//Text $C429
+//Text $C9C4
 #WRITE(ptr,$2638)
 Jolly Minstrel[END]
-// current address: $C438
+// current address: $C9D3
 
-//Text $C633
+//Text $CBCE
 #WRITE(ptr,$263C)
 In actuality, [Johnny] hails from[LINE]
 the Shiden royal line.[LINE]
@@ -4436,18 +4476,18 @@ in order to rescue his friend [Fayte],[LINE]
 and the party quickly[LINE]
 follows after him.[LINE]
 [END]
-// current address: $C6D9
+// current address: $CC74
 
 
 
 
 
-//Text $C6D9
+//Text $CC74
 #WRITE(ptr,$2648)
 Moreau Castle[END]
-// current address: $C6E7
+// current address: $CC82
 
-//Text $C6E7
+//Text $CC82
 #WRITE(ptr,$264C)
 [Lion] and company catch up[LINE]
 with [Johnny] at the castle's[LINE]
@@ -4456,18 +4496,18 @@ secret entrance, and offer their help.[LINE]
 they storm the castle.[LINE]
 They must first rescue [Fayte][LINE]
 from the cell he is locked in.[END]
-// current address: $C7B2
+// current address: $CD4D
 
 
 
 
 
-//Text $C6D9
+//Text $CC74
 #WRITE(ptr,$2658)
 Moreau Castle[END]
-// current address: $C6E7
+// current address: $CC82
 
-//Text $C7B2
+//Text $CD4D
 #WRITE(ptr,$265C)
 The group meets [Fayte]'s wife,[LINE]
 [Rihanna], in one of the jail cells.[LINE]
@@ -4475,78 +4515,78 @@ The group meets [Fayte]'s wife,[LINE]
 will rescue [Fayte] no matter what,[LINE]
 and the party searches for [Batista].[LINE]
 [END]
-// current address: $C851
+// current address: $CDEC
 
 
 
 
 
-//Text $C6D9
+//Text $CC74
 #WRITE(ptr,$2668)
 Moreau Castle[END]
-// current address: $C6E7
+// current address: $CC82
 
-//Text $C851
+//Text $CDEC
 #WRITE(ptr,$266C)
-[Lion]'s party is successful in [LINE]
-defeating [Batista] and rescuing [Fayte].[LINE]
-They arrange to take a ship[LINE]
-from [Fayte]'s Black Cross fleet[LINE]
-to Terrazi. With [Greybum] back[LINE]
-in their sights, the party heads[LINE]
-to the port to continue pursuit.[END]
-// current address: $C92E
+[Lion] and the others defeat [Batista],[LINE]
+and rescue [Fayte].[LINE]
+They then arrange to take a ship from[LINE]
+[Fayte]'s Black Cross fleet to Terazzi,[LINE]
+and head to the harbor.[LINE]
+[Greybum] is within their reach![LINE]
+[END]
+// current address: $CEA3
 
 
 
 
 
-//Text $C92E
+//Text $CEA3
 #WRITE(ptr,$2678)
 Rampage! Sea Mollusk[END]
-// current address: $C943
+// current address: $CEB8
 
-//Text $C943
+//Text $CEB8
 #WRITE(ptr,$267C)
 While aboard the Black Cross[LINE]
 on the way to Terazzi,[LINE]
 the ship is suddenly met[LINE]
 with a great impact.[LINE]
 [Lion] and the others rush to the[LINE]
-deck where they encounter Kraken,[LINE]
-the dreaded sea demon.[END]
-// current address: $C9FF
+deck where they find the Kraken,[LINE]
+dreaded demon of the sea.[END]
+// current address: $CF76
 
 
 
 
 
-//Text $C92E
+//Text $CEA3
 #WRITE(ptr,$2688)
 Rampage! Sea Mollusk[END]
-// current address: $C943
+// current address: $CEB8
 
-//Text $C9FF
+//Text $CF76
 #WRITE(ptr,$268C)
-On deck [Chaltier] says[LINE]
-he wants to repay [Johnny][LINE]
-for his assistance earlier by[LINE]
-helping him. However,[LINE]
-[Lion] cuts the conversation[LINE]
-short as it makes him uncomfortable.[LINE]
+On the deck, [Chaltier] tells [Lion][LINE]
+he wishes to repay a debt[LINE]
+he owes to [Johnny] from the past,[LINE]
+but [Lion] grows uncomfortable[LINE]
+and cuts the conversation short.[LINE]
+[LINE]
 [END]
-// current address: $CAA0
+// current address: $D010
 
 
 
 
 
-//Text $CAA0
+//Text $D010
 #WRITE(ptr,$2698)
 Silence in the Streets[END]
-// current address: $CAB7
+// current address: $D027
 
-//Text $CAB7
+//Text $D027
 #WRITE(ptr,$269C)
 [Lion] and company are able to[LINE]
 break through the blockade around Terazzi,[LINE]
@@ -4554,18 +4594,18 @@ and infiltrate at the port.[LINE]
 They then head for the wharf[LINE]
 within the town in order to[LINE]
 storm the castle whereLINE][Tiberius] and [Greybum] are.[END]
-// current address: $CB85
+// current address: $D0F5
 
 
 
 
 
-//Text $CAA0
+//Text $D010
 #WRITE(ptr,$26A8)
 Silence in the Streets[END]
-// current address: $CAB7
+// current address: $D027
 
-//Text $CB85
+//Text $D0F5
 #WRITE(ptr,$26AC)
 The party arrives at the wharf[LINE]
 within the city, and with help[LINE]
@@ -4573,18 +4613,18 @@ from an associate of [Johnny]'s[LINE]
 that had infiltrated the city beforehand,[LINE]
 make for Terazzi Castle.[LINE]
 [END]
-// current address: $CC24
+// current address: $D194
 
 
 
 
 
-//Text $CC24
+//Text $D194
 #WRITE(ptr,$26B8)
 [Tiberius]'s Castle[END]
-// current address: $CC33
+// current address: $D1A3
 
-//Text $CC33
+//Text $D1A3
 #WRITE(ptr,$26BC)
 [Lion] and the others finally[LINE]
 arrive at Terazzi Castle,[LINE]
@@ -4592,179 +4632,179 @@ and [Tiberius] and [Greybum][LINE]
 seem to be on the highest floor.[LINE]
 They've made it this far, all that's left[LINE]
 is one final push![END]
-// current address: $CCDC
+// current address: $D24C
 
 
 
 
 
-//Text $CC24
+//Text $D194
 #WRITE(ptr,$26C8)
 [Tiberius]'s Castle[END]
-// current address: $CC33
+// current address: $D1A3
 
-//Text $CCDC
+//Text $D24C
 #WRITE(ptr,$26CC)
-[Lion] defeats [Tiberius].[LINE]
-Unfortunately, [Greybum] was[LINE]
+Although [Lion] is able to[LINE]
+defeat [Tiberius], [Greybum] was[LINE]
 once again able to escape using[LINE]
-the Draconis. [Lion] sense [Chalter]'s[LINE]
-desire to assist [Johnny]. [LINE]
-[Lion] lends [Chaltier] to [Johnny][LINE]
-to assist him in his duel[LINE]
-against [Tiberius].[END]
-// current address: $CDAD
+the Draconis. Sympathizing with[LINE]
+[Chaltier]'s desire to assist [Johnny],[LINE]
+[Lion] lends him to [Johnny][LINE]
+to use in his duel against [Tiberius].[LINE]
+[END]
+// current address: $D31A
 
 
 
 
 
-//Text $CC24
+//Text $D194
 #WRITE(ptr,$26D8)
 [Tiberius]'s Castle[END]
-// current address: $CC33
+// current address: $D1A3
 
-//Text $CDAD
+//Text $D31A
 #WRITE(ptr,$26DC)
 The group is met with the[LINE]
 the jubilant cries of the townspeople[LINE]
 upon leaving the castle.[LINE]
 In order to puruse [Greybum],[LINE]
 they must next venture[LINE]
-to Phandaria.[LINE]
+to Phandalia.[LINE]
 [END]
-// current address: $CE46
+// current address: $D3B3
 
 
 
 
 
-//Text $CC24
+//Text $D194
 #WRITE(ptr,$26E8)
 [Tiberius]'s Castle[END]
-// current address: $CC33
+// current address: $D1A3
 
-//Text $CE46
+//Text $D3B3
 #WRITE(ptr,$26EC)
-Prior to their departure from,[LINE]
-Aquaveil, [Chaltier] expresses[LINE]
-gratitude for being weilded by [Johnny].[LINE]
-[Johnny] parts way with the group[LINE]
-and the bond between[LINE]
-[Lion] and [Chaltier] has[LINE]
-never been stonger.[END]
-// current address: $CF01
+[Johnny] parts ways with the group,[LINE]
+as they make their final preparations.[LINE]
+Before setting off, [Chaltier] expresses[LINE]
+his gratitude for being allowed to help [Johnny],[LINE]
+and the bond between him[LINE]
+and [Lion] grows stronger than ever.[LINE]
+[END]
+// current address: $D48C
 
 
 
 
 
-//Text $CF01
+//Text $D48C
 #WRITE(ptr,$26F8)
 Pursuing [Greybum][END]
-// current address: $CF10
+// current address: $D49B
 
-//Text $CF10
+//Text $D49B
 #WRITE(ptr,$26FC)
 As [Lion] and the others[LINE]
-approach Phandaria by sea.[LINE]
+approach Phandalia by sea.[LINE]
 [Mary] begins to recall seeing[LINE]
 the snowy scenery before.[LINE]
 However, she is still unable to[LINE]
 regain her lost memories.[LINE]
 [END]
-// current address: $CFB6
+// current address: $D541
 
 
 
 
 
-//Text $CFB6
+//Text $D541
 #WRITE(ptr,$2708)
 Southern Port[END]
-// current address: $CFC4
+// current address: $D54F
 
-//Text $CFC4
+//Text $D54F
 #WRITE(ptr,$270C)
 The party encounters an injured[LINE]
 soldier upon arriving in the port town[LINE]
 of Frostheim, and are told that[LINE]
-Phandaria is in ruins.[LINE]
+Phandalia is in ruins.[LINE]
 They then rush into town[LINE]
 to investigate.[LINE]
 [END]
-// current address: $D06C
+// current address: $D5F7
 
 
 
 
 
-//Text $CFB6
+//Text $D541
 #WRITE(ptr,$2718)
 Southern Port[END]
-// current address: $CFC4
+// current address: $D54F
 
-//Text $D06C
+//Text $D5F7
 #WRITE(ptr,$271C)
-[Stahn] reunites with an old man[LINE]
+[Stahn] reunites with an elderly man[LINE]
 named [Alba] within Frostheim.[LINE]
-[Alba] beseeches the party for aid.[LINE]
-It seems [Woodrow] and [Chelsea][LINE]
-are being chased and are in danger.[LINE]
-It is decided to journey to the forest[LINE]
-outside the city to resuce them.[END]
-// current address: $D151
+[Alba] informs them that [Woodrow][LINE]
+and [Chelsea] are being hunted[LINE]
+in the forest outside of town,[LINE]
+and requests the group go to their aid.[LINE]
+[END]
+// current address: $D6B9
 
 
 
 
 
-//Text $CFB6
+//Text $D541
 #WRITE(ptr,$2728)
 Southern Port[END]
-// current address: $CFC4
+// current address: $D54F
 
-//Text $D151
+//Text $D6B9
 #WRITE(ptr,$272C)
-The cause of Phandaria's troubles[LINE]
+The cause of Phandalia's troubles[LINE]
 turns out to be an insurrection led by[LINE]
 [Greybum] in Heidelberg.[LINE]
 [Woodrow] and [Chelsea] join[LINE]
 [Stahn]'s group, and they all[LINE]
 decide to head for Heidelberg.[LINE]
 [END]
-// current address: $D200
+// current address: $D768
 
 
 
 
 
-//Text $D200
+//Text $D768
 #WRITE(ptr,$2738)
 Frozen Forest[END]
-// current address: $D20E
+// current address: $D776
 
-//Text $D20E
+//Text $D776
 #WRITE(ptr,$273C)
 [Lion] and the others proceed[LINE]
 through a snow-covered forest[LINE]
-along the way.[LINE]
-The snowy scenery evokes[LINE]
-a powerful response from [Mary][LINE]
-Maybe her memories could[LINE]
+along the way. The snowy scenery[LINE]
+evokes a powerful response from [Mary],[LINE]
+who then faints[LINE]
+Her memories could[LINE]
 finally be returning...[END]
-// current address: $D2C1
+// current address: $D834
 
 
 
 
 
-//Text $D2C1
+//Text $D834
 #WRITE(ptr,$2748)
 Memories of Days Past[END]
-// current address: $D2D7
+// current address: $D84A
 
-//Text $D2D7
+//Text $D84A
 #WRITE(ptr,$274C)
 After making it through forest[LINE]
 the party arrives at Cyril,[LINE]
@@ -4775,18 +4815,18 @@ In order to discover her relation[LINE]
 to a man known as Captain [Dalis],[LINE]
 the group heads to [Mary]'s home.[LINE]
 [END]
-// current address: $D3B4
+// current address: $D927
 
 
 
 
 
-//Text $D2C1
+//Text $D834
 #WRITE(ptr,$2758)
 Memories of Days Past[END]
-// current address: $D2D7
+// current address: $D84A
 
-//Text $D3B4
+//Text $D927
 #WRITE(ptr,$275C)
 [Mary]'s memories come[LINE]
 flooding back upon returning home.[LINE]
@@ -4796,18 +4836,18 @@ The party must hurry to Heidelberg[LINE]
 in order to find out whether[LINE]
 he truly is cooperating with [Greybum].[LINE]
 [END]
-// current address: $D485
+// current address: $D9F8
 
 
 
 
 
-//Text $D2C1
+//Text $D834
 #WRITE(ptr,$2768)
 Memories of Days Past[END]
-// current address: $D2D7
+// current address: $D84A
 
-//Text $D485
+//Text $D9F8
 #WRITE(ptr,$276C)
 As [Lion] and the others leave[LINE]
 Cyril for Heidelberg, [Woodrow][LINE]
@@ -4815,18 +4855,18 @@ stops to ponder why his father[LINE]
 would have taken[LINE]
 such drastic measures against Cyril.[LINE]
 [END]
-// current address: $D515
+// current address: $DA88
 
 
 
 
 
-//Text $D515
+//Text $DA88
 #WRITE(ptr,$2778)
 Secret Tunnel[END]
-// current address: $D523
+// current address: $DA96
 
-//Text $D523
+//Text $DA96
 #WRITE(ptr,$277C)
 [Lion]'s groups arrives in Heidelberg[LINE]
 to find it as still as as a graveyard.[LINE]
@@ -4834,56 +4874,56 @@ There, they decide to use an emergency[LINE]
 tunnel to infiltrate the castle.[LINE]
 [LINE]
 [END]
-// current address: $D5B9
+// current address: $DB2C
 
 
 
 
 
-//Text $D515
+//Text $DA88
 #WRITE(ptr,$2788)
 Secret Tunnel[END]
-// current address: $D523
+// current address: $DA96
 
-//Text $D5B9
+//Text $DB2C
 #WRITE(ptr,$278C)
 [Stahn] is attacked in the[LINE]
 emergency tunnel by a man[LINE]
 named [Darzen],[LINE]
 who turns out to be[LINE]
-one of Phandaria's chief vassals.[LINE]
+one of Phandalia's chief vassals.[LINE]
 He then informs the party of the[LINE]
 details of the insurrection.[END]
-// current address: $D66D
+// current address: $DBE0
 
 
 
 
 
-//Text $D515
+//Text $DA88
 #WRITE(ptr,$2798)
 Secret Tunnel[END]
-// current address: $D523
+// current address: $DA96
 
-//Text $D66D
+//Text $DBE0
 #WRITE(ptr,$279C)
 Learning that [Greybum] and [Dalis][LINE]
 are within the castle's clocktower,[LINE]
 the party sets forth with mixed feelings.[LINE]
 What could await them[LINE]
 at their destination...?[END]
-// current address: $D708
+// current address: $DC7B
 
 
 
 
 
-//Text $D708
+//Text $DC7B
 #WRITE(ptr,$27A8)
 Showdown at Heidelberg[END]
-// current address: $D71F
+// current address: $DC92
 
-//Text $D71F
+//Text $DC92
 #WRITE(ptr,$27AC)
 The group encounters [Dalis] once more,[LINE]
 and engage him in battle.[LINE]
@@ -4891,342 +4931,341 @@ Following the clash, [Woodrow][LINE]
 instructs [Dalis] to flee the castle,[LINE]
 and [Mary] decides to accompany him.[LINE]
 All that remains is confronting [Greybum].[END]
-// current address: $D7E9
+// current address: $DD5C
 
 
 
 
 
-//Text $D708
+//Text $DC7B
 #WRITE(ptr,$27B8)
 Showdown at Heidelberg[END]
-// current address: $D71F
+// current address: $DC92
 
-//Text $D7E9
+//Text $DD5C
 #WRITE(ptr,$27BC)
 [Lion] and the others[LINE]
 head straight for the clocktower.[LINE]
 The decisive showdown with [Greybum][LINE]
 is nearly at hand![END]
-// current address: $D854
+// current address: $DDC7
 
 
 
 
 
-//Text $D708
+//Text $DC7B
 #WRITE(ptr,$27C8)
 Showdown at Heidelberg[END]
-// current address: $D71F
+// current address: $DC92
 
-//Text $D854
+//Text $DDC7
 #WRITE(ptr,$27CC)
 [Greybum] is defeated, and the group[LINE]
 returns to Seinegald with the[LINE]
 Eye of Atamoni in hand.[LINE]
-With their journey over,[LINE]
-the time has come to say farewell.[LINE]
-So [Lion] walks toward the masion[LINE]
+With the mission complete,[LINE]
+the time has come for everyone to return home.[LINE]
+[Lion] heads to the mansion[LINE]
 where [Marian] awaits.[END]
-// current address: $D91C
+// current address: $DE97
 
 
 
 
 
-//Text $D91C
+//Text $DE97
 #WRITE(ptr,$27D8)
 Two Soldiers[END]
-// current address: $D929
+// current address: $DEA4
 
-//Text $D929
+//Text $DEA4
 #WRITE(ptr,$27DC)
-[Lion] returned to his old[LINE]
-life after completing his journey[LINE]
-with [Stahn] and the others.[LINE]
-He visits the castle once again[LINE]
-to perform his duties as[LINE]
+His journey with [Stahn] and the others[LINE]
+complete, [Lion] returns to his old life.[LINE]
+The day was like any other,[LINE]
+and he is summoned to the[LINE]
+castle to perform his duties as[LINE]
 a hedge knight.[END]
-// current address: $D9C9
+// current address: $DF59
 
 
 
 
 
-//Text $D91C
+//Text $DE97
 #WRITE(ptr,$27E8)
 Two Soldiers[END]
-// current address: $D929
+// current address: $DEA4
 
-//Text $D9C9
+//Text $DF59
 #WRITE(ptr,$27EC)
 [Lion] is given the task of[LINE]
-escorting the Archbishop [LINE]
+escorting a bishop[LINE]
 to Straylize Temple. He is[LINE]
-also tasked on assessing two[LINE]
-young soldiers during his mission.[LINE]
-Upon completion, he must decide[LINE]
-which soldier is more suitable to[LINE]
-be promoted to captin.[END]
-// current address: $DAB2
+also tasked with assessing two[LINE]
+young soldiers during his mission,[LINE]
+and must decide which of them[LINE]
+is more suited for the role of captain[LINE]
+upon its completion.[END]
+// current address: $E03E
 
 
 
 
 
-//Text $D91C
+//Text $DE97
 #WRITE(ptr,$27F8)
 Two Soldiers[END]
-// current address: $D929
+// current address: $DEA4
 
-//Text $DAB2
+//Text $E03E
 #WRITE(ptr,$27FC)
 Upon arriving in Harmentz,[LINE]
-one of the Archbishop's deciples[LINE]
-collapses from fatigue. [Lion][LINE]
-entrusts the disciple's care[LINE]
-to [Walt] and commands the[LINE]
-two soldiers to continue escorting[LINE]
-the Archbishop to the Straylize[LINE]
-Temple post haste.[END]
-// current address: $DB99
+they find one of the bishop's disciples[LINE]
+has collapsed from fatigue.[LINE]
+[Lion] entrusts [Walt] with[LINE]
+the disciple's care and commands the[LINE]
+two soldiers to escort the bishop[LINE]
+to Straylize Temple at once.[LINE]
+[END]
+// current address: $E11C
 
 
 
 
 
-//Text $D91C
+//Text $DE97
 #WRITE(ptr,$2808)
 Two Soldiers[END]
-// current address: $D929
+// current address: $DEA4
 
-//Text $DB99
+//Text $E11C
 #WRITE(ptr,$280C)
 [Lion] catches up with the[LINE]
-Archbishop and his two soldiers[LINE]
-within the forest. There is little time[LINE]
-for pleasantries as a monster attacks.[LINE]
-The two soldiers take the Archbishop[LINE]
-away for safety. After defeating the[LINE]
-monster, [Lion] hurries to Straylize[LINE]
-Temple to complete his mission.[END]
-// current address: $DCB0
+bishop and soldiers inside the forest,[LINE]
+but the group finds themselves[LINE]
+under attack by monsters.[LINE]
+The two soldiers take the bishop[LINE]
+and flee while [Lion] defeats the[LINE]
+monster, who then heads to[LINE]
+Straylize Temple to complete the mission.[END]
+// current address: $E21D
 
 
 
 
 
-//Text $D91C
+//Text $DE97
 #WRITE(ptr,$2818)
 Two Soldiers[END]
-// current address: $D929
+// current address: $DEA4
 
-//Text $DCB0
+//Text $E21D
 #WRITE(ptr,$281C)
-With his escort and assessment[LINE]
-duties complete, [Lion] makes[LINE]
-his decision as to which of the[LINE]
-two soldiers is more suited to[LINE]
-the post of captain. His duty complete,[LINE]
+[Lion] returns to the castle[LINE]
+and makes his decision as[LINE]
+to which of the two soldiers[LINE]
+is more suited to the role of captain.[LINE]
+With today's duties now complete,[LINE]
 [Lion] returns to the mansion.[END]
-// current address: $DD71
+// current address: $E2D7
 
 
 
 
 
-//Text $DD71
+//Text $E2D7
 #WRITE(ptr,$2828)
 Time Together[END]
-// current address: $DD7F
+// current address: $E2E5
 
-//Text $DD7F
+//Text $E2E5
 #WRITE(ptr,$282C)
-[Lion] accompanies [Marian] while[LINE]
-she shops for ingredients for the[LINE]
-head chef. After, [Marian] and [Lion][LINE]
-rest at the port. [Marian] is so[LINE]
-proud of the respectable young[LINE]
-man that [Lion] has become. [LINE]
-Out of respect, she tells him that[LINE]
-she will no longer call him Emilio.[END]
-// current address: $DE81
+[Lion] accompanies [Marian] as[LINE]
+she sets out to shop for ingredients[LINE]
+for the head chef.[LINE]
+Afterward the two relax at the port,[LINE]
+where [Marian], proud of the[LINE]
+respectable man that [Lion] has become,[LINE]
+tells him that that she will[LINE]
+no longer call him Emilio.[END]
+// current address: $E3D6
 
 
 
 
 
-//Text $DD71
+//Text $E2D7
 #WRITE(ptr,$2838)
 Time Together[END]
-// current address: $DD7F
+// current address: $E2E5
 
-//Text $DE81
+//Text $E3D6
 #WRITE(ptr,$283C)
-A report from Cresta [LINE]
-reports an unidentified monster[LINE]
-has been spotted.[LINE]
-[Lion] leaves for Cresta[LINE]
-to investigate and find the[LINE]
-and patrol the area.[END]
-// current address: $DF12
+A report from Cresta arrives[LINE]
+regarding an unidentified monster.[LINE]
+[Lion] sets out on a mission[LINE]
+to investigate and patrol the area.[LINE]
+[LINE]
+[END]
+// current address: $E458
 
 
 
 
 
-//Text $DF12
+//Text $E458
 #WRITE(ptr,$2848)
 Unidentifiable Monster[END]
-// current address: $DF29
+// current address: $E46F
 
-//Text $DF29
+//Text $E46F
 #WRITE(ptr,$284C)
-[Lion] arrives in Cresta due to[LINE]
-reports of an unidentified monster.[LINE]
-According to the soldier questioned,[LINE]
-the monster is real. However,[LINE]
-the person who reported the[LINE]
-monsters is apparently a child[LINE]
-of the local orphanage.[LINE]
-[Lion] searches for the orphanage.[END]
-// current address: $E024
+[Lion] arrives in Cresta and locates[LINE]
+the soldier that sent the report[LINE]
+on the unidentified monster.[LINE]
+The soldier claims the monster[LINE]
+is indeed real, but informs [Lion] that[LINE]
+the one who made the report was actually[LINE]
+a someone from the local orphanage,[LINE]
+and [Lion] heads there to confirm.[END]
+// current address: $E586
 
 
 
 
 
-//Text $DF12
+//Text $E458
 #WRITE(ptr,$2858)
 Unidentifiable Monster[END]
-// current address: $DF29
+// current address: $E46F
 
-//Text $E024
+//Text $E586
 #WRITE(ptr,$285C)
-[Lion] arrives at the orphanage.[LINE]
-However, the girl who made the[LINE]
-original report is not there.[LINE]
-According to the other orphans,[LINE]
+[Lion] arrives at the orphanage[LINE]
+only to find that whoever made the[LINE]
+report is out at the moment.[LINE]
+According to the children,[LINE]
 the monster was spotted on a beach[LINE]
-north of town. They claim that[LINE]
-they could see an old building[LINE]
-across the sea from that location.[END]
-// current address: $E125
+north of town where an old[LINE]
+building is visible across the sea.[LINE]
+[END]
+// current address: $E663
 
 
 
 
 
-//Text $DF12
+//Text $E458
 #WRITE(ptr,$2868)
 Unidentifiable Monster[END]
-// current address: $DF29
+// current address: $E46F
 
-//Text $E125
+//Text $E663
 #WRITE(ptr,$286C)
 [Lion] engages in battle[LINE]
-after battle against monsters[LINE]
+after battle against the monsters[LINE]
 that emerge from the sea.[LINE]
-After a hard fought battle,[LINE]
-the monsters are eliminated.[LINE]
-Having eliminated the threat,[LINE]
-[Lion] returns to report his findings.[END]
-// current address: $E1F2
+He is eventually victorious[LINE]
+in eliminating all monsters in the vicinity,[LINE]
+and returns to the castle[LINE]
+to report his findings.[END]
+// current address: $E732
 
 
 
 
 
-//Text $DF12
+//Text $E458
 #WRITE(ptr,$2878)
 Unidentifiable Monster[END]
-// current address: $DF29
+// current address: $E46F
 
-//Text $E1F2
+//Text $E732
 #WRITE(ptr,$287C)
-When [Lion] arrives at Darilsheid[LINE]
-the sun has already set.[LINE]
-[Lion] informs [Dryden] of[LINE]
+[Lion] arrives at Darilsheid[LINE]
+long after the sun has set.[LINE]
+He informs [Dryden] of[LINE]
 the results of his investigation[LINE]
 before hurrying back to the mansion.[END]
-// current address: $E289
+// current address: $E7C4
 
 
 
 
 
-//Text $E289
+//Text $E7C4
 #WRITE(ptr,$2888)
 Lost Happiness[END]
-// current address: $E298
+// current address: $E7D3
 
-//Text $E298
+//Text $E7D3
 #WRITE(ptr,$288C)
 [Lion] returns to the mansion[LINE]
-to find [Marian] and the[LINE]
-other servants are nowhere to [LINE]
-be found. While searching for her,[LINE]
-a masked [Hugo] appears and[LINE]
-forces [Lion] to steal the Draconis.[LINE]
-With [Marian] being held hostage[LINE]
-[Lion] has no choice but to comply.[END]
-// current address: $E38D
+to find that [Marian] and the[LINE]
+other servants are nowhere to be found.[LINE]
+While searching for her,[LINE]
+a masked [Hugo] appears[LINE]
+and coerces [Lion] to steal the Draconis[LINE]
+using [Marian] as a hostage.[LINE]
+[END]
+// current address: $E8A6
 
 
 
 
 
-//Text $E289
+//Text $E7C4
 #WRITE(ptr,$2898)
 Lost Happiness[END]
-// current address: $E298
+// current address: $E7D3
 
-//Text $E38D
+//Text $E8A6
 #WRITE(ptr,$289C)
-[Lion] infultrates the Draconis.[LINE]
-Gaurding it was a soldier[LINE]
-[Lion] had appointed as captain.[LINE]
-With regret, [Lion] cuts [LINE]
-him down and enters the[LINE]
-bridge of the Draconis.[LINE]
-[END]
-// current address: $E431
+[Lion] infiltrates the Draconis[LINE]
+and finds the its guard[LINE]
+was the soldier he hadLINE]appointed as captain.[LINE]
+With great regret,[LINE]
+[Lion] cuts him down[LINE]
+and enters the bridge.[END]
+// current address: $E94C
 
 
 
 
 
-//Text $E431
+//Text $E94C
 #WRITE(ptr,$28A8)
 For the sake of one...[END]
-// current address: $E448
+// current address: $E963
 
-//Text $E448
+//Text $E963
 #WRITE(ptr,$28AC)
-[Hugo]'s goal: the Eye of Atamoni.[LINE]
+[Hugo]'s goal is the Eye of Atamoni.[LINE]
 The Draconis heads for the[LINE]
-facility that has sealed the eye.[LINE]
-[Lion] desends into the depths[LINE]
-of the facility to steal the[LINE]
-Eye of Atamoni, at [Hugo]'s behest.[END]
-// current address: $E505
+facility where the Eye is sealed,[LINE]
+and [Lion] desends into its depths[LINE]
+to retrieve it on [Hugo]'s orders.[LINE]
+[END]
+// current address: $EA09
 
 
 
 
 
-//Text $E431
+//Text $E94C
 #WRITE(ptr,$28B8)
 For the sake of one...[END]
-// current address: $E448
+// current address: $E963
 
-//Text $E505
+//Text $EA09
 #WRITE(ptr,$28BC)
-[Lion] laments his inability[LINE]
-to overcome [Hugo]'s[LINE]
-overwhelming influence.[LINE]
-[Marian] can only be saved[LINE]
-in one way, for[LINE]
-[Lion] to risk his life[LINE]
-to fight [Stahn] and the others.[END]
-// current address: $E5AB
+[Lion] laments his own powerlessness[LINE]
+before [Hugo]'s overwhelming strength.[LINE]
+His only chance to save [Marian] now[LINE]
+is by putting everything on the line[LINE]
+and meeting [Stahn] and the others in battle.[LINE]
+[LINE]
+[END]
+// current address: $EAC8

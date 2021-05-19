@@ -10,8 +10,6 @@
 #ATLAS PTRS:		Yes
 #BASE POINTER:		$-3C7A80		//add $FF000 to each pointer to get
 #TABLE:			toddc.tbl	//the string address
-#STRINGS END AT NEXT POINTER: Yes
-#SORT OUTPUT BY STRING ADDRESS: Yes
 #COMMENTS:		No
 #END BLOCK
 
@@ -26,10 +24,7 @@
 #ATLAS PTRS:		Yes
 #BASE POINTER:		$-3C7A80		//add $FF000 to each pointer to get
 #TABLE:			toddc.tbl	//the string address
-#STRINGS END AT NEXT POINTER: Yes
-#SORT OUTPUT BY STRING ADDRESS: Yes
 #COMMENTS:		No
-
 #END BLOCK
 
 #BLOCK NAME:	Items_3
@@ -43,8 +38,6 @@
 #ATLAS PTRS:		Yes
 #BASE POINTER:		$-3C7A80		//add $FF000 to each pointer to get
 #TABLE:			toddc.tbl	//the string address
-#STRINGS END AT NEXT POINTER: Yes
-#SORT OUTPUT BY STRING ADDRESS: Yes
 #COMMENTS:		No
 #END BLOCK
 
@@ -59,8 +52,6 @@
 #ATLAS PTRS:		Yes
 #BASE POINTER:		$-3C7A80		//add $FF000 to each pointer to get
 #TABLE:			toddc.tbl	//the string address
-#STRINGS END AT NEXT POINTER: Yes
-#SORT OUTPUT BY STRING ADDRESS: Yes
 #COMMENTS:		No
 #END BLOCK
 

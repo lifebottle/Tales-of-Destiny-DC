@@ -9,13 +9,12 @@ if __name__ == "__main__":
     
     helper = Helper()
     
-    if blockDesc in ["Skit Name", "Synopsis"]:
+    if blockDesc in ["Skit Name", "Synopsis", "Minigame"]:
         helper.createBlock_Multi(blockDesc)
         
     elif blockDesc != "All":
-        
-        print("\nWhat's inside this block :")
-        helper.showSections(blockDesc)
+    
+
         
         print("Create the script based on google sheet")
         helper.createAtlasScript_Block(blockDesc)

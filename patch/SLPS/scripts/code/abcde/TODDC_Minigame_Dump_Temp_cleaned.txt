@@ -1,0 +1,478 @@
+//GAME NAME:		TODDC
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+
+
+
+
+//Text $18D40
+#WRITE(ptr,$13E00)
+Pause[END]
+// current address: $18D46
+
+//Text $18D46
+#WRITE(ptr,$13E04)
+Congratulations[END]
+// current address: $18D56
+
+//Text $18D56
+#WRITE(ptr,$13E08)
+Time Over[END]
+// current address: $18D60
+
+//Text $18D60
+#WRITE(ptr,$13E0C)
+Start[END]
+// current address: $18D66
+
+//Text $18D66
+#WRITE(ptr,$13E10)
+[Cross_copy]:[TAG_015][END]
+// current address: $18D72
+
+//Text $18D72
+#WRITE(ptr,$13E14)
+[Down]:[TAG_015][END]
+// current address: $18D7E
+
+//Text $18D7E
+#WRITE(ptr,$13E18)
+[Left+Right]:[TAG_015][END]
+// current address: $18D8A
+
+//Text $18D8A
+#WRITE(ptr,$13E1C)
+[Up]:[TAG_015][END]
+// current address: $18D96
+
+//Text $18D96
+#WRITE(ptr,$13E20)
+Resolve[END]
+// current address: $18D9E
+
+//Text $18D9E
+#WRITE(ptr,$13E24)
+Flight[END]
+// current address: $18DA5
+
+//Text $18DA5
+#WRITE(ptr,$13E28)
+Storm[END]
+// current address: $18DAB
+
+//Text $18DAB
+#WRITE(ptr,$13E2C)
+Dead Sky[END]
+// current address: $18DB4
+
+//Text $18DB4
+#WRITE(ptr,$13E30)
+[Select_ani]：Back to Title[END]
+// current address: $18DC9
+
+//Text $18DC9
+#WRITE(ptr,$13E34)
+TIME[END]
+// current address: $18DCE
+
+//Text $18DCE
+#WRITE(ptr,$13E38)
+MAX CHAINS[END]
+// current address: $18DD9
+
+//Text $18DD9
+#WRITE(ptr,$13E3C)
+MAX HITS[END]
+// current address: $18DE2
+
+//Text $18DE2
+#WRITE(ptr,$13E40)
+1ST[END]
+// current address: $18DE6
+
+//Text $18DE6
+#WRITE(ptr,$13E44)
+2ND[END]
+// current address: $18DEA
+
+//Text $18DEA
+#WRITE(ptr,$13E48)
+3RD[END]
+// current address: $18DEE
+
+//Text $18DEE
+#WRITE(ptr,$13E4C)
+OUT[END]
+// current address: $18DF2
+
+//Text $18DF2
+#WRITE(ptr,$13E50)
+RANKING[END]
+// current address: $18DFA
+
+//Text $18DFA
+#WRITE(ptr,$13E54)
+POINTS[END]
+// current address: $18E01
+
+//Text $18E01
+#WRITE(ptr,$13E58)
+RANK[END]
+// current address: $18E06
+
+//Text $18E06
+#WRITE(ptr,$13E5C)
+D[END]
+// current address: $18E08
+
+//Text $18E08
+#WRITE(ptr,$13E60)
+C[END]
+// current address: $18E0A
+
+//Text $18E0A
+#WRITE(ptr,$13E64)
+B[END]
+// current address: $18E0C
+
+//Text $18E0C
+#WRITE(ptr,$13E68)
+A[END]
+// current address: $18E0E
+
+//Text $18E0E
+#WRITE(ptr,$13E6C)
+S[END]
+// current address: $18E10
+
+//Text $18E10
+#WRITE(ptr,$13E70)
+GOD[END]
+// current address: $18E14
+
+//Text $18E14
+#WRITE(ptr,$13E74)
+YOU ARE A CHAMPION[END]
+// current address: $18E27
+
+//Text $18E27
+#WRITE(ptr,$13E78)
+[Circle_Press]WAIT[END]
+// current address: $18E31
+
+//Text $18E31
+#WRITE(ptr,$13E7C)
+[Cross_ani]SKIP[END]
+// current address: $18E3B
+
+//Text $18E3B
+#WRITE(ptr,$13E80)
+[Cross_Press]SKIP[END]
+// current address: $18E45
+
+//Text $18E45
+#WRITE(ptr,$13E84)
+Simple Controls![END]
+// current address: $18E56
+
+//Text $18E56
+#WRITE(ptr,$13E88)
+[LINE]
+[END]
+// current address: $18E58
+
+//Text $18E58
+#WRITE(ptr,$13E8C)
+Hold [Circle_Press] to charge power![END]
+// current address: $18E74
+
+//Text $18E74
+#WRITE(ptr,$13E90)
+Move [L_stick_Press] to aim![END]
+// current address: $18E87
+
+//Text $18E87
+#WRITE(ptr,$13E94)
+That's all![END]
+// current address: $18E93
+
+//Text $18E93
+#WRITE(ptr,$13E98)
+[LINE]
+[END]
+// current address: $18E95
+
+//Text $18E95
+#WRITE(ptr,$13E9C)
+Get enough points before[END]
+// current address: $18EAE
+
+//Text $18EAE
+#WRITE(ptr,$13EA0)
+time runs out and...![END]
+// current address: $18EC4
+
+//Text $18EC4
+#WRITE(ptr,$13EA4)
+Power Gauge[END]
+// current address: $18ED0
+
+//Text $18ED0
+#WRITE(ptr,$13EA8)
+[LINE]
+[END]
+// current address: $18ED2
+
+//Text $18ED2
+#WRITE(ptr,$13EAC)
+The stars that fill up[END]
+// current address: $18EE9
+
+//Text $18EE9
+#WRITE(ptr,$13EB0)
+as you charge are[END]
+// current address: $18EFB
+
+//Text $18EFB
+#WRITE(ptr,$13EB4)
+the power gauge.[END]
+// current address: $18F0C
+
+//Text $18F0C
+#WRITE(ptr,$13EB8)
+[LINE]
+[END]
+// current address: $18F0E
+
+//Text $18F0E
+#WRITE(ptr,$13EBC)
+Each level has an effect,[END]
+// current address: $18F28
+
+//Text $18F28
+#WRITE(ptr,$13EC0)
+so pay close attention![END]
+// current address: $18F40
+
+//Text $18F40
+#WRITE(ptr,$13EC4)
+Items[END]
+// current address: $18F46
+
+//Text $18F46
+#WRITE(ptr,$13EC8)
+[LINE]
+[END]
+// current address: $18F48
+
+//Text $18F48
+#WRITE(ptr,$13ECC)
+　　　Fire 3 arrows[END]
+// current address: $18F5C
+
+//Text $18F5C
+#WRITE(ptr,$13ED0)
+　　　Arrows will pierce[END]
+// current address: $18F75
+
+//Text $18F75
+#WRITE(ptr,$13ED4)
+　　　Arrows fly straight[END]
+// current address: $18F8F
+
+//Text $18F8F
+#WRITE(ptr,$13ED8)
+　　　No damage[END]
+// current address: $18F9F
+
+//Text $18F9F
+#WRITE(ptr,$13EDC)
+　　　Earn double score[END]
+// current address: $18FB7
+
+//Text $18FB7
+#WRITE(ptr,$13EE0)
+　　　Special, use with [Square_ani2][END]
+// current address: $18FD5
+
+//Text $18FD5
+#WRITE(ptr,$13EE4)
+Ranking Up[END]
+// current address: $18FE0
+
+//Text $18FE0
+#WRITE(ptr,$13EE8)
+[LINE]
+[END]
+// current address: $18FE2
+
+//Text $18FE2
+#WRITE(ptr,$13EEC)
+Meet certain time and point[END]
+// current address: $18FFE
+
+//Text $18FFE
+#WRITE(ptr,$13EF0)
+requirements to rank up.[END]
+// current address: $19017
+
+//Text $19017
+#WRITE(ptr,$13EF4)
+The higher your rank, the[END]
+// current address: $19031
+
+//Text $19031
+#WRITE(ptr,$13EF8)
+more enemies you fight[END]
+// current address: $19048
+
+//Text $19048
+#WRITE(ptr,$13EFC)
+and more points you earn.[END]
+// current address: $19062
+
+//Text $19062
+#WRITE(ptr,$13F00)
+Work hard, win prizes!![END]
+// current address: $1907A
+
+//Text $1907A
+#WRITE(ptr,$13F04)
+Chaining[END]
+// current address: $19083
+
+//Text $19083
+#WRITE(ptr,$13F08)
+[LINE]
+[END]
+// current address: $19085
+
+//Text $19085
+#WRITE(ptr,$13F0C)
+Defeat enemies without[END]
+// current address: $1909C
+
+//Text $1909C
+#WRITE(ptr,$13F10)
+missing a shot! The[END]
+// current address: $190B0
+
+//Text $190B0
+#WRITE(ptr,$13F14)
+higher your Chain, the[END]
+// current address: $190C7
+
+//Text $190C7
+#WRITE(ptr,$13F18)
+more points you earn. The[END]
+// current address: $190E1
+
+//Text $190E1
+#WRITE(ptr,$13F1C)
+counter's at the top right![END]
+// current address: $190FD
+
+//Text $190FD
+#WRITE(ptr,$13F20)
+Check when it's safe to![END]
+// current address: $19116
+
+//Text $19116
+#WRITE(ptr,$13F24)
+Aiming Higher[END]
+// current address: $19124
+
+//Text $19124
+#WRITE(ptr,$13F28)
+[LINE]
+[END]
+// current address: $19126
+
+//Text $19126
+#WRITE(ptr,$13F2C)
+You can jump with [Triangle_ani2].[END]
+// current address: $1913F
+
+//Text $1913F
+#WRITE(ptr,$13F30)
+It lets you charge faster[END]
+// current address: $19159
+
+//Text $19159
+#WRITE(ptr,$13F34)
+and avoid ground attacks,[END]
+// current address: $19173
+
+//Text $19173
+#WRITE(ptr,$13F38)
+but be careful, you lose[END]
+// current address: $1918C
+
+//Text $1918C
+#WRITE(ptr,$13F3C)
+your charge when you land.[END]
+// current address: $191A7
+
+//Text $191A7
+#WRITE(ptr,$13F40)
+Scoring Hints[END]
+// current address: $191B5
+
+//Text $191B5
+#WRITE(ptr,$13F44)
+[LINE]
+[END]
+// current address: $191B7
+
+//Text $191B7
+#WRITE(ptr,$13F48)
+1. One shot for many foes![END]
+// current address: $191D2
+
+//Text $191D2
+#WRITE(ptr,$13F4C)
+2. Build up that Chain![END]
+// current address: $191EA
+
+//Text $191EA
+#WRITE(ptr,$13F50)
+3. Don't waste shots![END]
+// current address: $19200
+
+//Text $19200
+#WRITE(ptr,$13F54)
+4. Cancel enemy fire![END]
+// current address: $19216
+
+//Text $19216
+#WRITE(ptr,$13F58)
+5. Use those items![END]
+// current address: $1922A
+
+//Text $1922A
+#WRITE(ptr,$13F5C)
+Staff[END]
+// current address: $19230
+
+//Text $19230
+#WRITE(ptr,$13F60)
+Programming[END]
+// current address: $1923C
+
+//Text $1923C
+#WRITE(ptr,$13F64)
+Graphics[END]
+// current address: $19245
+
+//Text $19245
+#WRITE(ptr,$13F68)
+Sound[END]
+// current address: $1924B
+
+//Text $1924B
+#WRITE(ptr,$13F6C)
+Special Thanks[END]
+// current address: $1925A
