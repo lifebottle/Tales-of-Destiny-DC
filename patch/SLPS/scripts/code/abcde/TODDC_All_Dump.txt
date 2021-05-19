@@ -7580,22 +7580,22 @@ Heidelberg Castle vs. Grevam[END]
 
 //Text $1A28C8
 #WRITE(ptr,$1867C0)
-Tyrso Forest · 0[END]
+Tilso Forest · 0[END]
 
 
 //Text $1A28B8
 #WRITE(ptr,$1867C8)
-Tyrso Forest · 1[END]
+Tilso Forest · 1[END]
 
 
 //Text $1A28A8
 #WRITE(ptr,$1867D0)
-Tyrso Forest · 2[END]
+Tilso Forest · 2[END]
 
 
 //Text $1A2898
 #WRITE(ptr,$1867D8)
-Tyrso Forest · 3[END]
+Tilso Forest · 3[END]
 
 
 //Text $1A2878
@@ -12872,7 +12872,7 @@ skillful, you can throw it.[END]
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
-A heavy axe with a shart cutting[LINE]
+A heavy axe with a sharp cutting[LINE]
 edge. Can shatter even the heaviest[LINE]
 of armors.[END]
 
@@ -12970,7 +12970,7 @@ of metal.[END]
 #WRITE(ptr,$18E4EC)
 An axe reinforced with metal[LINE]
 for extra strength. Can be[LINE]
-used as an everday tool.[END]
+used as an everyday tool.[END]
 
 
 //Text $1B1FE0
@@ -13894,7 +13894,7 @@ Armor, but also heavier.[END]
 
 //Text $1B5750
 #WRITE(ptr,$18F770)
-A beautiful and shinning[LINE]
+A beautiful and shining[LINE]
 black armor. Jet black[LINE]
 armor used in rituals.[END]
 
@@ -14050,7 +14050,7 @@ balance. Can only be acquired by the chosen ones.[END]
 #WRITE(ptr,$18FAB8)
 Leathern breastplate.[LINE]
 Favored by adventurers due to its[LINE]
-lighteness and fair protection.[END]
+lightness and fair protection.[END]
 
 
 //Text $1B51A0
@@ -14492,7 +14492,7 @@ Can only be acquired by the chosen ones.[END]
 //Text $1B42B0
 #WRITE(ptr,$1903DC)
 Favored by female adventurers[LINE]
-due to its lighteness and fair[LINE]
+due to its lightness and fair[LINE]
 protection.[END]
 
 //Text $1B4298
@@ -16195,7 +16195,7 @@ pickled as a side dish.[END]
 
 //Text $1BA1C8
 #WRITE(ptr,$191D9C)
-Strap with an Rice Ball.[LINE]
+Strap with a Rice Ball.[LINE]
 Carefully molded with love.[LINE]
 One's best travelling companion.[END]
 
@@ -17663,7 +17663,7 @@ the field.[END]
 
 //Text $1BAB98
 #WRITE(ptr,$192830)
-A mysterious bag that serves food.[LINE]
+A mysterious bag that stores food.[LINE]
 Don't forget to refill it![LINE]
 4 food straps can be attached.[END]
 

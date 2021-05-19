@@ -1276,12 +1276,12 @@ We Should Help [Woodrow] in the Forest[END]
 //Text $1407F
 #WRITE(ptr,$5858)
 Through Tilso Forest to Heidelberg[END]
-// current address: $140A2
+// current address: $140B1
 
 //Text $140A2
 #WRITE(ptr,$585C)
 Tilso Forest is West of Frostheim[END]
-// current address: $140C4
+// current address: $140D3
 
 //Text $140C4
 #WRITE(ptr,$5860)
