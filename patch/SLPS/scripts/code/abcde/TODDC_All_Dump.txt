@@ -927,7 +927,7 @@ that it increases HP recovery.[END]
 
 //POINTER #18 @ $181088 - STRING #18 @ $19B3D8
 #WRITE(ptr,$181088)
-Condiment Industry[END]
+Art of Seasoning[END]
 
 
 //POINTER #17 @ $181084 - STRING #17 @ $19B3E8
@@ -939,7 +939,7 @@ muscles are for everyone's sake.[END]
 
 //POINTER #16 @ $181080 - STRING #16 @ $19B450
 #WRITE(ptr,$181080)
-Muscle Training[END]
+Bodybuilding[END]
 
 
 //POINTER #15 @ $18107C - STRING #15 @ $19B458
@@ -1008,7 +1008,7 @@ Vigilance[END]
 
 //POINTER #5 @ $181054 - STRING #5 @ $19B618
 #WRITE(ptr,$181054)
-She mixes berries and chemicals[LINE]
+She mixes fruits with chemicals[LINE]
 into a consumable concoction.[LINE]
 Sometimes it turns out strange.[END]
 
@@ -1586,7 +1586,7 @@ Flames that purify good and evil.[END]
 //Text $19CB28
 #WRITE(ptr,$184AB0)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 2 BG＞[/color][LINE]
-Converts all his power to obliteration.[END]
+Converts his willpower into a destructive force.[END]
 
 
 //Text $19CB10
@@ -1857,7 +1857,7 @@ the target's HP.[END]
 //Text $19C3E8
 #WRITE(ptr,$184D50)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 3 BG＞[/color][LINE]
-Gathers all his power for a single blow.[END]
+Unleash accumulated energies in one swift strike.[END]
 
 
 //Text $19C3D0
@@ -3520,7 +3520,7 @@ Uses a flying kick in midair.[END]
 
 //Text $19EC28
 #WRITE(ptr,$183DE8)
-[Sign_4]1-2 Combo[END]
+[Sign_4]Rhomb Shoulder[END]
 
 
 //Text $19EBE0
@@ -9638,7 +9638,7 @@ Calviola Viola[END]
 
 //Text $1A8A60
 #WRITE(ptr,$18C19C)
-Drought-resistant annual plant found in Calviola.[LINE]
+Drought-resistant annual plant found in Kalviola.[LINE]
 Short in height with small-sized flowers. In the[LINE]
 language of flowers it means "Please think of me".[END]
 
@@ -9664,7 +9664,7 @@ through frozen rivers with its stiff snout.[END]
 #WRITE(ptr,$18C1BC)
 There's apparently a fish with a real steel will[LINE]
 that can be found in the river between[LINE]
-Seinegald and Phandaria.[END]
+Seinegald and Phandalia.[END]
 
 
 //Text $1A8938
@@ -11116,7 +11116,7 @@ Only those who know "instruments" can answer.[END]
 //Text $1ADF58
 #WRITE(ptr,$18CF94)
 A mysterious sphere with "V" on it.[LINE]
-Only those who know "ladies" can answer.[END]
+Only those who know "ladles" can answer.[END]
 
 
 //Text $1ADF40
@@ -11710,8 +11710,8 @@ an enemy's guard with [Square_ani2]＋[Down_blink].[LINE]
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
 Rerise into a gem that will[LINE]
-temporarily prevent status[LINE]
-ailments with [Square_ani2]＋[Down_blink].[END]
+remove de-buffs with[LINE]
+[Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACB18
@@ -11853,8 +11853,8 @@ an enemy.[END]
 
 //Text $1AC6E8
 #WRITE(ptr,$18D65C)
-Rerise into a gem that increases[LINE]
-defense during a front step.[LINE]
+Rerise into a gem that lets you guard[LINE]
+physical attacks during a front step.[LINE]
 [END]
 
 
@@ -12244,8 +12244,8 @@ enemy to break his guard.[LINE]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
-During battle, press [Square_ani2]＋[Down_blink] to temporarily[LINE]
-prevent status ailments.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+remove de-buffs.[LINE]
 [END]
 
 
@@ -12388,8 +12388,8 @@ when you defeat an enemy.[LINE]
 
 //Text $1AFF58
 #WRITE(ptr,$18DB4C)
-Increases defense during a[LINE]
-front step.[LINE]
+Lets you guard physical attacks[LINE]
+during a front step.[LINE]
 [END]
 
 
@@ -14010,7 +14010,7 @@ genius scientist during the Aeth'er War.[END]
 
 //Text $1B5340
 #WRITE(ptr,$18FA00)
-[Sign_Shield]Terra[END]
+[Sign_Shield]Mumbane[END]
 
 
 //Text $1B52F8
@@ -14491,9 +14491,9 @@ Can only be acquired by the chosen ones.[END]
 
 //Text $1B42B0
 #WRITE(ptr,$1903DC)
-Leathern cloak. Favored by[LINE]
-female adventurers due to its[LINE]
-lighteness and fair protection.[END]
+Favored by female adventurers[LINE]
+due to its lighteness and fair[LINE]
+protection.[END]
 
 //Text $1B4298
 #WRITE(ptr,$190414)
@@ -14756,13 +14756,13 @@ who collected oral traditions into a book.[END]
 
 //Text $1B3A30
 #WRITE(ptr,$190978)
-[Sign_Shield]Rubberbull[END]
+[Sign_Shield]Lovable[END]
 
 
 //Text $1B39E0
 #WRITE(ptr,$19097C)
 Cloak of lovely design.[LINE]
-It's beauty lowers[LINE]
+Its beauty lowers[LINE]
 enemies' guards.[END]
 
 //Text $1B39D0
@@ -17581,7 +17581,7 @@ we've eaten.[LINE]
 //Text $1BAE70
 #WRITE(ptr,$19276C)
 An encyclopedia of all the things[LINE]
-we found in the world.[LINE]
+you found in the world.[LINE]
 A record of our encounters while traveling.[END]
 
 
@@ -18700,7 +18700,6 @@ Custom Made[END]
 Improved Balance[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB0C8
 #WRITE(ptr,$194108)
 Clandestine Weaponry[END]
@@ -18711,6 +18710,7 @@ Clandestine Weaponry[END]
 Functional Beauty[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB0B0
 #WRITE(ptr,$194178)
 Custom Made[END]
@@ -19308,13 +19308,15 @@ who love and protect nature and culture.[END]
 
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
 #WRITE(ptr,$194760)
-Leane Official[END]
+Lienean Official[END]
+
 
 //POINTER #47 @ $194764 - STRING #47 @ $1BEA78
 #WRITE(ptr,$194764)
-[Stahn] Aileron (19) from the village of Leane.[LINE]
+[Stahn] Aileron (19) from the village of Lienea.[LINE]
 １７２ｃｍ ６３ｋｇ[LINE]
 Dymlos Swordian Master.[END]
+
 
 //POINTER #48 @ $194768 - STRING #48 @ $1BEA68
 #WRITE(ptr,$194768)
