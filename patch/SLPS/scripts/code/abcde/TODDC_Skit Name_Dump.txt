@@ -61,7 +61,7 @@ Innocence?[END]
 
 //Text $16448
 #WRITE(ptr,$548C)
-Someday, I too will..[END]
+Someday, I too will...[END]
 
 
 //Text $16438
@@ -111,7 +111,7 @@ Let's Go Inside[END]
 
 //Text $16378
 #WRITE(ptr,$54B4)
-Janos is Southwest of [Alba's] Hut[END]
+Janos is Southwest of [Alba]'s Hut[END]
 
 
 //Text $16360
@@ -156,7 +156,7 @@ Questioning Yourself?[END]
 
 //Text $162C0
 #WRITE(ptr,$54D8)
-Despite appearances..[END]
+Despite appearances...[END]
 
 
 //Text $162A0
@@ -311,7 +311,7 @@ The Awakened Swordian[END]
 
 //Text $16030
 #WRITE(ptr,$5554)
-Entering Seinegald through the North Gate [END]
+Entering Seinegald through the North Gate[END]
 
 
 //Text $16010
@@ -401,7 +401,7 @@ The Seven Generals[END]
 
 //Text $15E70
 #WRITE(ptr,$559C)
-Who Was That Man in the Villas? [END]
+Who Was That Man in the Villas?[END]
 
 
 //Text $15E58
@@ -496,7 +496,7 @@ Mystery of the Barrier Stone[END]
 
 //Text $15C90
 #WRITE(ptr,$55E8)
-A Man Is.[END]
+A Man Is...[END]
 
 
 //Text $15C80
@@ -1626,7 +1626,7 @@ Let's Go Back to Darilsheid[END]
 
 //Text $14860
 #WRITE(ptr,$5974)
-What Kind of Person is Ritora?[END]
+What Kind of Person is [Ritora]?[END]
 
 //Text $14848
 #WRITE(ptr,$5978)
@@ -1660,7 +1660,7 @@ Let's Go to Radisrol Immediately[END]
 
 //Text $14778
 #WRITE(ptr,$5994)
-Ritora is at Radisrol's Center[END]
+[Ritora] is at Radisrol's Center[END]
 
 //Text $14760
 #WRITE(ptr,$5998)
@@ -1904,7 +1904,7 @@ One Job Done[END]
 
 //Text $142D8
 #WRITE(ptr,$5A5C)
-What Kind of Person is Igtenos?[END]
+What Kind of Person is [Igtenos]?[END]
 
 
 //Text $142B0
@@ -1914,7 +1914,7 @@ Qualifications of a Swordian Master?[END]
 
 //Text $14298
 #WRITE(ptr,$5A64)
-Igtenos' Pain[END]
+[Igtenos]' Pain[END]
 
 
 //Text $14270
@@ -1964,7 +1964,7 @@ Let's return to Radirol[END]
 
 //Text $14190
 #WRITE(ptr,$5A8C)
-Hurry to Raiker[END]
+Hurry to [Ritora][END]
 
 
 //Text $14170
@@ -2063,7 +2063,7 @@ Cresta is East of Darilsheid[END]
 
 //Text $13FA8
 #WRITE(ptr,$5ADC)
-What Happened to Phandaria[END]
+What Happened to Phandaria?[END]
 
 
 //Text $13F98
@@ -2173,7 +2173,7 @@ The Final Test[END]
 
 //Text $13DA0
 #WRITE(ptr,$5B34)
-Junkland is West of Calvalese [END]
+Junkland is West of Calvalese[END]
 
 
 //Text $13D78
@@ -2341,12 +2341,12 @@ To the Lens Cannon[END]
 
 //Text $13A50
 #WRITE(ptr,$5BBC)
-Let's Go to the Dycroft![END]
+Let's Go to Dycroft![END]
 
 
 //Text $13A30
 #WRITE(ptr,$5BC0)
-To the Dycroft![END]
+To Dycroft![END]
 
 
 //Text $13A20
@@ -2356,7 +2356,7 @@ Let's Stay in Town[END]
 
 //Text $13A08
 #WRITE(ptr,$5BC8)
-It's Better to Go Now..[END]
+It's Better to Go Now...[END]
 
 
 //Text $139F8
@@ -2421,7 +2421,7 @@ It's Going to Blow![END]
 
 //Text $13918
 #WRITE(ptr,$5BFC)
-To the Dycroft![END]
+To Dycroft![END]
 
 
 //Text $13908
@@ -2986,7 +2986,7 @@ Tales of Destiny[END]
 
 //Text $13088
 #WRITE(ptr,$5DC0)
-Reiker's Hologram Is Amazing![END]
+[Ritora]'s Hologram Is Amazing![END]
 
 
 //Text $13070
@@ -3061,7 +3061,7 @@ Why?[END]
 
 //Text $13030
 #WRITE(ptr,$5DFC)
-[Marian]'s Lecture..[END]
+[Marian]'s Lecture...[END]
 
 
 //Text $13020
@@ -3076,7 +3076,7 @@ We're up against three People![END]
 
 //Text $12FF0
 #WRITE(ptr,$5E08)
-Not [Dymlos] and [Atwight]..[END]
+Not [Dymlos] and [Atwight]...[END]
 
 
 //Text $12FE0
@@ -3311,7 +3311,7 @@ Report to His Majesty[END]
 
 //Text $12BF0
 #WRITE(ptr,$5EC4)
-I Should Say Goodbye..[END]
+I Should Say Goodbye...[END]
 
 
 //Text $12BD8
