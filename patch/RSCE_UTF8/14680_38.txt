@@ -21,30 +21,33 @@
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-How'd it go?
+Well? How did
+everything go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yes, thank you very, very much.
+Great! Thanks again
+for all your help.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 What's wrong?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-The other day I told you guys that
-some Calvalese want to change.
+I told you before that there are
+Calvalese who want to change...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-I haven't done anything since.
+But I've done nothing since then.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-I wish I could help you, but I'm not...
+I wish I could help you,
+but I'm just a...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -53,57 +56,57 @@ Don't worry about it.
 <Stahn>
 [ENDBLOCK]
 We're always fighting 
-somewhere in the world.
+somewhere out in the world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If you can just be our moral support, 
+As long as we're in your thoughts,
 that's good enough for us.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Anywhere in the world...?
+Out in the world...?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-That's right!
+That's it!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-In fact, some of us Calvalese are hiding
-and living in other continents.
+You see, there are some Calvalese
+who are secretly living in other continents.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Those people might be able to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Are there people like that?
+Are they really out there?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-There is only one hidden 
-Calvalese that I know of.
+I only know of
+one of them.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-That person is in Darilshied, 
-and he runs the tool shop.
+They run an item shop
+in Darilshied.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-I'm sure they can help you.
+I'm sure they'll help you.
 Please go and see them.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-That person is in Darilshied, 
-and he runs the tool shop.
+They run an item shop
+in Darilshied.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-I'm sure they can help you.
+I'm sure they'll help you.
 Please go and see them.
 [ENDBLOCK]
 notice
@@ -345,81 +348,82 @@ without regret.
 [ENDBLOCK]
 I see! Thank you!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-...Right.
+...I see.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Are there still other Calvalese
-trying to make it besides us!
+There still other Calvalese
+thriving out in the world!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-I was triying to help you guys,
-I guess I did the opposite...
+I wanted to help you guys,
+but you ended up helping me.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-This is me genuinely helping.
+This is my genuine aid.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Come on! Do something usefull!
+I'm sure it'll come in handy.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-If you wanna live, don't go in there.
-It's filled with toxic gas...
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-All this shit you see here is garbage
-thrown away by people a long time ago.
+If you value your lives,
+don't go in there.
+You'll die to the toxic gas...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Whatever happens does
-change shit for me.
+This is all garbage thrown away
+by people from long, long ago.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Doesn't matter what happens,
+it's got nothing to do with us.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 Never thought I'd see the day
-where the blue stone would
-be more than garbage.
+those blue stones would prove useful.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-What're ya buyin?
+...Buyin' somethin'?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-What're ya buyin?
+...Buyin' somethin'?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you have no business here, get out
-of town. Our misery's not a freak show.
+If you don't need anything, get out.
+We're not here to entertain you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-...If there's anything else you
-need, I'd love to hear it.
+...Let us know if you
+need anything else.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Hey, you're foreigners right!?
+Are you outlanders...?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-If you wanna live, don't go in there.
-It's filled with toxic gas...
+If you value your lives,
+stay away from here.
+You'll die to the toxic gas...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 ...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 You don't have any more <ITEM_009>s...
 
@@ -428,76 +432,76 @@ notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_031>
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Buy three for <x0E><x08><x00><x00><x00><x09><x78><x00><x00><x00> Gald?
 Yes
 No
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I gotta live too. I can't just
-give them away for nothin'.
+give them away for nothing.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I gotta live too. I can't just
-give them away for nothin'.
+give them away for nothing.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Hurry up, If the others find you
-doing business with me, I'm toast.
+Finish your business fast.
+There'll be trouble if
+the others see you.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Also, if you run out of neutralizer.
-Talk to me or the Shopkeeper.
+If you run out of neutralizers,
+visit me or the item shop.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-Good luck to you. I'll be 
-cheering you on from here.
+Good luck. I'll be cheering
+you on from here.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-There's hidden Calvalese people all
-over the world. You should meet them.
+There are Calvalese in hiding all over
+the world. Please go and meet with them.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
-It's the least I can do.
-I'll leave the rest to you.
-[ENDBLOCK]
-Girl
-[ENDBLOCK]
-You know how people in
-this city make a living?
+This is all we can do,
+the rest is up to you.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-They scavenge through the garbage
-and find things they can use.
+Do you know how people
+make a living here?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-I wonder if they can 
-take us up to the sky.
+They scavenge through the
+garbage for things they can use.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-I've had enough. Why are
-they doing this to me?
+I wonder if they'll take
+us back up to the sky.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-If you need more blue
-rocks, feel free to ask.
+I can't take it anymore.
+Why is this happening?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-You guys, I beg you,
-do something.
+If you need any more
+blue rocks, just ask.
+[ENDBLOCK]
+Girl
+[ENDBLOCK]
+You guys, it's up to you.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -505,23 +509,24 @@ I'm starving...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-The sky is getting darker,
-and it's getting cooler.
+The sky got darker,
+and it got colder out.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-There was a very big thunderstorm.
-I was so scared.
+There was a huuuuge
+bolt of lightning.
+It was so scary.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-What's going on inside
-the Trash Mountain?
+What's it like inside
+of Trash Mountain?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-I've never been in one before.
-It's forbidden by adults.
+I've never been inside before.
+the grownups won't let me go.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
