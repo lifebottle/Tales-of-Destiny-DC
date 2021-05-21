@@ -1613,7 +1613,7 @@ His song becomes the star of the show.[END]
 
 //Text $19CA38
 #WRITE(ptr,$184B08)
-[Sign_7]Slash![END]
+[Sign_7]Zan![END]
 
 
 //Text $19CA30
@@ -13621,7 +13621,7 @@ A standard for corporal punishment.[LINE]
 
 //Text $1B0BE8
 #WRITE(ptr,$18F1CC)
-[Sign_Sword]C. Ladle[END]
+[Sign_Sword]Copper Ladle[END]
 
 
 //Text $1B0BA8
@@ -13633,7 +13633,7 @@ Wait, doesn't copper conduct a lot of heat?[LINE]
 
 //Text $1B0B98
 #WRITE(ptr,$18F208)
-[Sign_Sword]S. Ladle[END]
+[Sign_Sword]Silver Ladle[END]
 
 
 //Text $1B0B60
@@ -18654,12 +18654,12 @@ Awe-Inspiring Beauty[END]
 Junktown Grocer[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB110
 #WRITE(ptr,$193F10)
 Scavenger Market[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB100
 #WRITE(ptr,$193F48)
 Awe-Inspiring Beauty[END]
