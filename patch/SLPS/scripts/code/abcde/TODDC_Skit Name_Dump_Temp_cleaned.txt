@@ -2250,7 +2250,7 @@ Let's Get out of Here[END]
 
 //Text $15329
 #WRITE(ptr,$5B64)
-Darilsheid is South East of Junkland[END]
+Darilsheid is Southeast of Junkland[END]
 // current address: $1534E
 
 //Text $1534E
