@@ -1064,7 +1064,6 @@ Embossing Nap[END]
 #WRITE(ptr,$18122C)
 [Circle_ani]Shop[END]
 
-
 //Text $19C068
 #WRITE(ptr,$181230)
 [Circle_ani]Inspect[END]
@@ -13489,7 +13488,7 @@ then pours in a paralyzing poison.[END]
 
 //Text $1B1000
 #WRITE(ptr,$18EF38)
-[Sign_Sword]With Teeth[END]
+[Sign_Sword]Ivory Fang[END]
 
 
 //Text $1B0FA8
