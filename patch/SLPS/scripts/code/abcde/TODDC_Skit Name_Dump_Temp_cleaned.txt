@@ -1435,2130 +1435,2130 @@ Let's Go Home[END]
 
 //Text $1437E
 #WRITE(ptr,$58D8)
-Neuestadt is Northwest of Lienea[END]
+Neuestadt is Southeast of Lienea[END]
 // current address: $1439F
 
 //Text $1439F
 #WRITE(ptr,$58DC)
-Lienea is Southeast of Neuestadt[END]
-// current address: $143C0
+Southeast from Lienea is Neuestadt[END]
+// current address: $143C2
 
-//Text $143C0
+//Text $143C2
 #WRITE(ptr,$58E0)
 You Need a Ship to Get to Phandaria[END]
-// current address: $143E4
+// current address: $143E6
 
-//Text $143E4
+//Text $143E6
 #WRITE(ptr,$58E4)
 I Have to Buy Something for Dinner[END]
-// current address: $14407
+// current address: $14409
 
-//Text $14407
+//Text $14409
 #WRITE(ptr,$58E8)
 It's Fine, Right?[END]
-// current address: $14419
+// current address: $1441B
 
-//Text $14419
+//Text $1441B
 #WRITE(ptr,$58EC)
 [Kongman], Aren't You Cold?[END]
-// current address: $14431
+// current address: $14433
 
-//Text $14431
+//Text $14433
 #WRITE(ptr,$58F0)
 The Same Rank?[END]
-// current address: $14440
+// current address: $14442
 
-//Text $14440
+//Text $14442
 #WRITE(ptr,$58F4)
 In Good Spirits?[END]
-// current address: $14451
+// current address: $14453
 
-//Text $14451
+//Text $14453
 #WRITE(ptr,$58F8)
 Revelation from Dreams?[END]
-// current address: $14469
+// current address: $1446B
 
-//Text $14469
+//Text $1446B
 #WRITE(ptr,$58FC)
 [Kongman], Aren't You Embarrassed?[END]
-// current address: $14488
+// current address: $1448A
 
-//Text $14488
+//Text $1448A
 #WRITE(ptr,$5900)
 [Rutee]'s Dream[END]
-// current address: $14496
+// current address: $14498
 
-//Text $14496
+//Text $14498
 #WRITE(ptr,$5904)
 What's [Atwight] Like?[END]
-// current address: $144A9
+// current address: $144AB
 
-//Text $144A9
+//Text $144AB
 #WRITE(ptr,$5908)
 My Hair will Probably Grow[END]
-// current address: $144C4
+// current address: $144C6
 
-//Text $144C4
+//Text $144C6
 #WRITE(ptr,$590C)
 [Rutee]'s Nature[END]
-// current address: $144D3
+// current address: $144D5
 
-//Text $144D3
+//Text $144D5
 #WRITE(ptr,$5910)
 Our Intent?[END]
-// current address: $144DF
+// current address: $144E1
 
-//Text $144DF
+//Text $144E1
 #WRITE(ptr,$5914)
 Has [Mary] Changed?[END]
-// current address: $144F2
+// current address: $144F4
 
-//Text $144F2
+//Text $144F4
 #WRITE(ptr,$5918)
 Towards Heidelberg[END]
-// current address: $14505
+// current address: $14507
 
-//Text $14505
+//Text $14507
 #WRITE(ptr,$591C)
 Let's Go See [Woodrow][END]
-// current address: $14518
+// current address: $1451A
 
-//Text $14518
+//Text $1451A
 #WRITE(ptr,$5920)
 Heidelberg is North through the Forest[END]
-// current address: $1453F
+// current address: $14541
 
-//Text $1453F
+//Text $14541
 #WRITE(ptr,$5924)
 Let's Leave the Forest through the North[END]
-// current address: $14568
+// current address: $1456A
 
-//Text $14568
+//Text $1456A
 #WRITE(ptr,$5928)
 Let's Meet [Woodrow] at the Castle[END]
-// current address: $14587
+// current address: $14589
 
-//Text $14587
+//Text $14589
 #WRITE(ptr,$592C)
 [Woodrow] on the Throne[END]
-// current address: $1459B
+// current address: $1459D
 
-//Text $1459B
+//Text $1459D
 #WRITE(ptr,$5930)
 Let's Head Towards Seinegald[END]
-// current address: $145B8
+// current address: $145BA
 
-//Text $145B8
+//Text $145BA
 #WRITE(ptr,$5934)
 Let's Go to Seinegald[END]
-// current address: $145CE
+// current address: $145D0
 
-//Text $145CE
+//Text $145D0
 #WRITE(ptr,$5938)
 Cresta is to the East of Darilsheid[END]
-// current address: $145F2
+// current address: $145F4
 
-//Text $145F2
+//Text $145F4
 #WRITE(ptr,$593C)
 Let's Meet [Rutee] in Cresta[END]
-// current address: $1460D
+// current address: $1460F
 
-//Text $1460D
+//Text $1460F
 #WRITE(ptr,$5940)
 Is [Rutee] Anywhere in the City?[END]
-// current address: $1462C
+// current address: $1462E
 
-//Text $1462C
+//Text $1462E
 #WRITE(ptr,$5944)
 Let's Meet Everyone in the Square[END]
-// current address: $1464E
+// current address: $14650
 
-//Text $1464E
+//Text $14650
 #WRITE(ptr,$5948)
 Darilsheid is to the West of Cresta[END]
-// current address: $14672
+// current address: $14674
 
-//Text $14672
+//Text $14674
 #WRITE(ptr,$594C)
 To the West of Cresta[END]
-// current address: $14688
+// current address: $1468A
 
-//Text $14688
+//Text $1468A
 #WRITE(ptr,$5950)
 Let's Rush to Where the King is[END]
-// current address: $146A8
+// current address: $146AA
 
-//Text $146A8
+//Text $146AA
 #WRITE(ptr,$5954)
 To Reach the Factory, We Need a Ship[END]
-// current address: $146CD
+// current address: $146CF
 
-//Text $146CD
+//Text $146CF
 #WRITE(ptr,$5958)
 Take the Ship to the Oberon Factory[END]
-// current address: $146F1
+// current address: $146F3
 
-//Text $146F1
+//Text $146F3
 #WRITE(ptr,$595C)
 What Do You Think?[END]
-// current address: $14704
+// current address: $14706
 
-//Text $14704
+//Text $14706
 #WRITE(ptr,$5960)
 Why was this Place Abandoned?[END]
-// current address: $14722
+// current address: $14724
 
-//Text $14722
+//Text $14724
 #WRITE(ptr,$5964)
 Let's Examine the Factory[END]
-// current address: $1473C
+// current address: $1473E
 
-//Text $1473C
+//Text $1473E
 #WRITE(ptr,$5968)
 Let's Go Back to Oberon's Factory[END]
-// current address: $1475E
+// current address: $14760
 
-//Text $1475E
+//Text $14760
 #WRITE(ptr,$596C)
 Where is the Eye of Atamoni in this Cave?[END]
-// current address: $14788
+// current address: $1478A
 
-//Text $14788
+//Text $1478A
 #WRITE(ptr,$5970)
 Let's Go Back to Darilsheid[END]
-// current address: $147A4
+// current address: $147A6
 
-//Text $147A4
+//Text $147A6
 #WRITE(ptr,$5974)
 What Kind of Person is [Ritora]?[END]
-// current address: $147C2
+// current address: $147C4
 
-//Text $147C2
+//Text $147C4
 #WRITE(ptr,$5978)
 The Ones Left Behind - 1[END]
-// current address: $147DB
+// current address: $147DD
 
-//Text $147DB
+//Text $147DD
 #WRITE(ptr,$597C)
 The Ones Left Behind - 2[END]
-// current address: $147F4
+// current address: $147F6
 
-//Text $147F4
+//Text $147F6
 #WRITE(ptr,$5980)
 The Ones Left Behind - 3[END]
-// current address: $1480D
+// current address: $1480F
 
-//Text $1480D
+//Text $1480F
 #WRITE(ptr,$5984)
 Their Feelings[END]
-// current address: $1481C
+// current address: $1481E
 
-//Text $1481C
+//Text $1481E
 #WRITE(ptr,$5988)
 Radisrol is to the East of Calvalese[END]
-// current address: $14841
+// current address: $14843
 
-//Text $14841
+//Text $14843
 #WRITE(ptr,$598C)
 Radisrol is East of Calvalese[END]
-// current address: $1485F
+// current address: $14861
 
-//Text $1485F
+//Text $14861
 #WRITE(ptr,$5990)
 Let's Go to Radisrol Immediately[END]
-// current address: $14880
+// current address: $14882
 
-//Text $14880
+//Text $14882
 #WRITE(ptr,$5994)
 [Ritora] is at Radisrol's Center[END]
-// current address: $1489E
+// current address: $148A0
 
-//Text $1489E
+//Text $148A0
 #WRITE(ptr,$5998)
 Ruins Near Lienea[END]
-// current address: $148B0
+// current address: $148B2
 
-//Text $148B0
+//Text $148B2
 #WRITE(ptr,$599C)
 The Ruins Near Lienea Bay[END]
-// current address: $148CA
+// current address: $148CC
 
-//Text $148CA
+//Text $148CC
 #WRITE(ptr,$59A0)
 Ghost Story?[END]
-// current address: $148D7
+// current address: $148D9
 
-//Text $148D7
+//Text $148D9
 #WRITE(ptr,$59A4)
 The Seal is Secured[END]
-// current address: $148EB
+// current address: $148ED
 
-//Text $148EB
+//Text $148ED
 #WRITE(ptr,$59A8)
 What's [Kongman]'s Dream?[END]
-// current address: $14901
+// current address: $14903
 
-//Text $14901
+//Text $14903
 #WRITE(ptr,$59AC)
 Get the R Key[END]
-// current address: $1490F
+// current address: $14911
 
-//Text $1490F
+//Text $14911
 #WRITE(ptr,$59B0)
 The R Key Is at the Far End[END]
-// current address: $1492B
+// current address: $1492D
 
-//Text $1492B
+//Text $1492D
 #WRITE(ptr,$59B4)
 Let's Leave the Temple[END]
-// current address: $14942
+// current address: $14944
 
-//Text $14942
+//Text $14944
 #WRITE(ptr,$59B8)
 Radisrol is East of Calvalese[END]
-// current address: $14960
+// current address: $14962
 
-//Text $14960
+//Text $14962
 #WRITE(ptr,$59BC)
 Let's Go Back to Radisrol[END]
-// current address: $1497A
+// current address: $1497C
 
-//Text $1497A
+//Text $1497C
 #WRITE(ptr,$59C0)
 Women are Amazing[END]
-// current address: $1498C
+// current address: $1498E
 
-//Text $1498C
+//Text $1498E
 #WRITE(ptr,$59C4)
 Aeth'er Army Attack[END]
-// current address: $149A0
+// current address: $149A2
 
-//Text $149A0
+//Text $149A2
 #WRITE(ptr,$59C8)
 Doesn't Your Hair Bother You?[END]
-// current address: $149BE
+// current address: $149C0
 
-//Text $149BE
+//Text $149C0
 #WRITE(ptr,$59CC)
 Like-Minded[END]
-// current address: $149CA
+// current address: $149CC
 
-//Text $149CA
+//Text $149CC
 #WRITE(ptr,$59D0)
 [Kongman]'s Daily Routine[END]
-// current address: $149E0
+// current address: $149E2
 
-//Text $149E0
+//Text $149E2
 #WRITE(ptr,$59D4)
 Hurry to the Central Area[END]
-// current address: $149FA
+// current address: $149FC
 
-//Text $149FA
+//Text $149FC
 #WRITE(ptr,$59D8)
 Let's Check up on [Rutee][END]
-// current address: $14A12
+// current address: $14A14
 
-//Text $14A12
+//Text $14A14
 #WRITE(ptr,$59DC)
 Head to Ignasea[END]
-// current address: $14A22
+// current address: $14A24
 
-//Text $14A22
+//Text $14A24
 #WRITE(ptr,$59E0)
 Going to Ignasea[END]
-// current address: $14A33
+// current address: $14A35
 
-//Text $14A33
+//Text $14A35
 #WRITE(ptr,$59E4)
 Enter Ignasea through the Outer Shell[END]
-// current address: $14A59
+// current address: $14A5B
 
-//Text $14A59
+//Text $14A5B
 #WRITE(ptr,$59E8)
 We Shouldn't Go Out Right Now[END]
-// current address: $14A77
+// current address: $14A79
 
-//Text $14A77
+//Text $14A79
 #WRITE(ptr,$59EC)
 Observer[END]
-// current address: $14A80
+// current address: $14A82
 
-//Text $14A80
+//Text $14A82
 #WRITE(ptr,$59F0)
 What's a Transporter?[END]
-// current address: $14A96
+// current address: $14A98
 
-//Text $14A96
+//Text $14A98
 #WRITE(ptr,$59F4)
 [Philia]'s Experiment[END]
-// current address: $14AA9
+// current address: $14AAB
 
-//Text $14AA9
+//Text $14AAB
 #WRITE(ptr,$59F8)
 Creating Bombs is Dangerous[END]
-// current address: $14AC5
+// current address: $14AC7
 
-//Text $14AC5
+//Text $14AC7
 #WRITE(ptr,$59FC)
 Secure the Transporter[END]
-// current address: $14ADC
+// current address: $14ADE
 
-//Text $14ADC
+//Text $14ADE
 #WRITE(ptr,$5A00)
 It's so Dark in Here[END]
-// current address: $14AF1
+// current address: $14AF3
 
-//Text $14AF1
+//Text $14AF3
 #WRITE(ptr,$5A04)
 [Philia]'s Dreams?[END]
-// current address: $14B01
+// current address: $14B03
 
-//Text $14B01
+//Text $14B03
 #WRITE(ptr,$5A08)
 A Serious Gaze?[END]
-// current address: $14B11
+// current address: $14B13
 
-//Text $14B11
+//Text $14B13
 #WRITE(ptr,$5A0C)
 Leaving Deimos for Cloudius[END]
-// current address: $14B2D
+// current address: $14B2F
 
-//Text $14B2D
+//Text $14B2F
 #WRITE(ptr,$5A10)
 Find the Security Unit[END]
-// current address: $14B44
+// current address: $14B46
 
-//Text $14B44
+//Text $14B46
 #WRITE(ptr,$5A14)
 Get the Energy Unit Back[END]
-// current address: $14B5D
+// current address: $14B5F
 
-//Text $14B5D
+//Text $14B5F
 #WRITE(ptr,$5A18)
 Catch the Rat[END]
-// current address: $14B6B
+// current address: $14B6D
 
-//Text $14B6B
+//Text $14B6D
 #WRITE(ptr,$5A1C)
 Hurry to the Main System[END]
-// current address: $14B84
+// current address: $14B86
 
-//Text $14B84
+//Text $14B86
 #WRITE(ptr,$5A20)
 We Need to Get out of Deimos[END]
-// current address: $14BA1
+// current address: $14BA3
 
-//Text $14BA1
+//Text $14BA3
 #WRITE(ptr,$5A24)
 Hurry to Cloudius[END]
-// current address: $14BB3
+// current address: $14BB5
 
-//Text $14BB3
+//Text $14BB5
 #WRITE(ptr,$5A28)
 Stop the Guardian Dragon![END]
-// current address: $14BCD
+// current address: $14BCF
 
-//Text $14BCD
+//Text $14BCF
 #WRITE(ptr,$5A2C)
 We Need to Stop the Guardian Dragon[END]
-// current address: $14BF1
+// current address: $14BF3
 
-//Text $14BF1
+//Text $14BF3
 #WRITE(ptr,$5A30)
 To Ignasea via Deimos[END]
-// current address: $14C07
+// current address: $14C09
 
-//Text $14C07
+//Text $14C09
 #WRITE(ptr,$5A34)
 Deimos to Ignasea[END]
-// current address: $14C19
+// current address: $14C1B
 
-//Text $14C19
+//Text $14C1B
 #WRITE(ptr,$5A38)
 Return to Radisrol[END]
-// current address: $14C2C
+// current address: $14C2E
 
-//Text $14C2C
+//Text $14C2E
 #WRITE(ptr,$5A3C)
 To Helraios via Rodeon[END]
-// current address: $14C43
+// current address: $14C45
 
-//Text $14C43
+//Text $14C45
 #WRITE(ptr,$5A40)
 Rodeon to Helraios[END]
-// current address: $14C56
+// current address: $14C58
 
-//Text $14C56
+//Text $14C58
 #WRITE(ptr,$5A44)
 It Still Won't Open[END]
-// current address: $14C6A
+// current address: $14C6C
 
-//Text $14C6A
+//Text $14C6C
 #WRITE(ptr,$5A48)
 Thoughts on the Aetherians?[END]
-// current address: $14C86
+// current address: $14C88
 
-//Text $14C86
+//Text $14C88
 #WRITE(ptr,$5A4C)
 Learning Experience[END]
-// current address: $14C9A
+// current address: $14C9C
 
-//Text $14C9A
+//Text $14C9C
 #WRITE(ptr,$5A50)
 Natural Enemies?[END]
-// current address: $14CAB
+// current address: $14CAD
 
-//Text $14CAB
+//Text $14CAD
 #WRITE(ptr,$5A54)
 What are [Ilene]'s True Intentions?[END]
-// current address: $14CCD
+// current address: $14CCF
 
-//Text $14CCD
+//Text $14CCF
 #WRITE(ptr,$5A58)
 One Job Done[END]
-// current address: $14CDA
+// current address: $14CDC
 
-//Text $14CDA
+//Text $14CDC
 #WRITE(ptr,$5A5C)
 What Kind of Person is Igtenos?[END]
-// current address: $14CFA
+// current address: $14CFC
 
-//Text $14CFA
+//Text $14CFC
 #WRITE(ptr,$5A60)
 Qualifications of a Swordian Master?[END]
-// current address: $14D1F
+// current address: $14D21
 
-//Text $14D1F
+//Text $14D21
 #WRITE(ptr,$5A64)
 Igtenos' Pain[END]
-// current address: $14D2D
+// current address: $14D2F
 
-//Text $14D2D
+//Text $14D2F
 #WRITE(ptr,$5A68)
 Through Rodeon to Helraios[END]
-// current address: $14D48
+// current address: $14D4A
 
-//Text $14D48
+//Text $14D4A
 #WRITE(ptr,$5A6C)
 Enter Helraios through the Outer Shell[END]
-// current address: $14D6F
+// current address: $14D71
 
-//Text $14D6F
+//Text $14D71
 #WRITE(ptr,$5A70)
 We're Heading for Helraios[END]
-// current address: $14D8A
+// current address: $14D8C
 
-//Text $14D8A
+//Text $14D8C
 #WRITE(ptr,$5A74)
 Attacking Helraios[END]
-// current address: $14D9D
+// current address: $14D9F
 
-//Text $14D9D
+//Text $14D9F
 #WRITE(ptr,$5A78)
 Is [Ilene] at the Center?[END]
-// current address: $14DB5
+// current address: $14DB7
 
-//Text $14DB5
+//Text $14DB7
 #WRITE(ptr,$5A7C)
 Let's go to the Central Area[END]
-// current address: $14DD2
+// current address: $14DD4
 
-//Text $14DD2
+//Text $14DD4
 #WRITE(ptr,$5A80)
 Let's Return to the Others[END]
-// current address: $14DED
+// current address: $14DEF
 
-//Text $14DED
+//Text $14DEF
 #WRITE(ptr,$5A84)
 We're Heading to Radisrol[END]
-// current address: $14E07
+// current address: $14E09
 
-//Text $14E07
+//Text $14E09
 #WRITE(ptr,$5A88)
 Let's return to Radirol[END]
-// current address: $14E1F
+// current address: $14E21
 
-//Text $14E1F
+//Text $14E21
 #WRITE(ptr,$5A8C)
 Hurry to [Ritora][END]
-// current address: $14E2E
+// current address: $14E30
 
-//Text $14E2E
+//Text $14E30
 #WRITE(ptr,$5A90)
 To Mikheil via Josaia[END]
-// current address: $14E44
+// current address: $14E46
 
-//Text $14E44
+//Text $14E46
 #WRITE(ptr,$5A94)
 From Josaia to Mikheil[END]
-// current address: $14E5B
+// current address: $14E5D
 
-//Text $14E5B
+//Text $14E5D
 #WRITE(ptr,$5A98)
 What If?[END]
-// current address: $14E64
+// current address: $14E66
 
-//Text $14E64
+//Text $14E66
 #WRITE(ptr,$5A9C)
 Swordian Conference[END]
-// current address: $14E78
+// current address: $14E7A
 
-//Text $14E78
+//Text $14E7A
 #WRITE(ptr,$5AA0)
 Reckless [Philia]?[END]
-// current address: $14E88
+// current address: $14E8A
 
-//Text $14E88
+//Text $14E8A
 #WRITE(ptr,$5AA4)
 Pass Through Josaia to Mikheil[END]
-// current address: $14EA7
+// current address: $14EA9
 
-//Text $14EA7
+//Text $14EA9
 #WRITE(ptr,$5AA8)
 Let's Leave Josaia for Mikheil[END]
-// current address: $14EC6
+// current address: $14EC8
 
-//Text $14EC6
+//Text $14EC8
 #WRITE(ptr,$5AAC)
 Traverse the Aethersphere to Mikheil[END]
-// current address: $14EEB
+// current address: $14EED
 
-//Text $14EEB
+//Text $14EED
 #WRITE(ptr,$5AB0)
 Finding an Aeth'er Cruiser[END]
-// current address: $14F06
+// current address: $14F08
 
-//Text $14F06
+//Text $14F08
 #WRITE(ptr,$5AB4)
 The Depths of the Aeth'er Cruiser[END]
-// current address: $14F28
+// current address: $14F2A
 
-//Text $14F28
+//Text $14F2A
 #WRITE(ptr,$5AB8)
 [Hugo]'s True Motives?[END]
-// current address: $14F3E
+// current address: $14F40
 
-//Text $14F3E
+//Text $14F40
 #WRITE(ptr,$5ABC)
 Aim for Belcrant's Zenith[END]
-// current address: $14F58
+// current address: $14F5A
 
-//Text $14F58
+//Text $14F5A
 #WRITE(ptr,$5AC0)
 To the Top of Belcrant[END]
-// current address: $14F6F
+// current address: $14F71
 
-//Text $14F6F
+//Text $14F71
 #WRITE(ptr,$5AC4)
 Stopping [Hugo]'s Plan[END]
-// current address: $14F85
+// current address: $14F87
 
-//Text $14F85
+//Text $14F87
 #WRITE(ptr,$5AC8)
 For the Living[END]
-// current address: $14F94
+// current address: $14F96
 
-//Text $14F94
+//Text $14F96
 #WRITE(ptr,$5ACC)
 Meeting after a Long Absence[END]
-// current address: $14FB1
+// current address: $14FB3
 
-//Text $14FB1
+//Text $14FB3
 #WRITE(ptr,$5AD0)
 A Rivalry Emerges?[END]
-// current address: $14FC4
+// current address: $14FC6
 
-//Text $14FC4
+//Text $14FC6
 #WRITE(ptr,$5AD4)
 Hurry to Cresta[END]
-// current address: $14FD4
+// current address: $14FD6
 
-//Text $14FD4
+//Text $14FD6
 #WRITE(ptr,$5AD8)
 Cresta is East of Darilsheid[END]
-// current address: $14FF1
+// current address: $14FF3
 
-//Text $14FF1
+//Text $14FF3
 #WRITE(ptr,$5ADC)
 What Happened to Phadaria[END]
-// current address: $1500B
+// current address: $1500D
 
-//Text $1500B
+//Text $1500D
 #WRITE(ptr,$5AE0)
 Quickly, to the Orphanage[END]
-// current address: $15025
+// current address: $15027
 
-//Text $15025
+//Text $15027
 #WRITE(ptr,$5AE4)
 Returning to Darilsheid[END]
-// current address: $1503D
+// current address: $1503F
 
-//Text $1503D
+//Text $1503F
 #WRITE(ptr,$5AE8)
 We Must Return to Darilsheid[END]
-// current address: $1505A
+// current address: $1505C
 
-//Text $1505A
+//Text $1505C
 #WRITE(ptr,$5AEC)
 Defend Darilsheid from the Monsters[END]
-// current address: $1507E
+// current address: $15080
 
-//Text $1507E
+//Text $15080
 #WRITE(ptr,$5AF0)
 Let's Get to the Inn[END]
-// current address: $15093
+// current address: $15095
 
-//Text $15093
+//Text $15095
 #WRITE(ptr,$5AF4)
 To [Reynolds]' Lab[END]
-// current address: $150A1
+// current address: $150A3
 
-//Text $150A1
+//Text $150A3
 #WRITE(ptr,$5AF8)
 [Reynolds]' Lab is in the Castle[END]
-// current address: $150BD
+// current address: $150BF
 
-//Text $150BD
+//Text $150BF
 #WRITE(ptr,$5AFC)
 [Kongman]'s Training[END]
-// current address: $150CE
+// current address: $150D0
 
-//Text $150CE
+//Text $150D0
 #WRITE(ptr,$5B00)
 What's it Like to Talk to a Sword?[END]
-// current address: $150F1
+// current address: $150F3
 
-//Text $150F1
+//Text $150F3
 #WRITE(ptr,$5B04)
 Hurry to the Audience Chamber[END]
-// current address: $1510F
+// current address: $15111
 
-//Text $1510F
+//Text $15111
 #WRITE(ptr,$5B08)
 Riding the Dragon[END]
-// current address: $15121
+// current address: $15123
 
-//Text $15121
+//Text $15123
 #WRITE(ptr,$5B0C)
 Taking the Dragon to the Swordian R&D Lab[END]
-// current address: $1514B
+// current address: $1514D
 
-//Text $1514B
+//Text $1514D
 #WRITE(ptr,$5B10)
 The Lab is West of Darilsheid[END]
-// current address: $15169
+// current address: $1516B
 
-//Text $15169
+//Text $1516B
 #WRITE(ptr,$5B14)
 The Lab Right in Front of Darilsheid[END]
-// current address: $1518E
+// current address: $15190
 
-//Text $1518E
+//Text $15190
 #WRITE(ptr,$5B18)
 What is that Song?[END]
-// current address: $151A1
+// current address: $151A3
 
-//Text $151A1
+//Text $151A3
 #WRITE(ptr,$5B1C)
 [Chelsea]'s Feelings[END]
-// current address: $151B2
+// current address: $151B4
 
-//Text $151B2
+//Text $151B4
 #WRITE(ptr,$5B20)
 Talking in Private[END]
-// current address: $151C5
+// current address: $151C7
 
-//Text $151C5
+//Text $151C7
 #WRITE(ptr,$5B24)
 Hang in There, [Chelsea][END]
-// current address: $151DA
+// current address: $151DC
 
-//Text $151DA
+//Text $151DC
 #WRITE(ptr,$5B28)
 Where's the Lab Equipment?[END]
-// current address: $151F5
+// current address: $151F7
 
-//Text $151F5
+//Text $151F7
 #WRITE(ptr,$5B2C)
 Goal: Innermost Depths[END]
-// current address: $1520C
+// current address: $1520E
 
-//Text $1520C
+//Text $1520E
 #WRITE(ptr,$5B30)
 The Final Test[END]
-// current address: $1521B
+// current address: $1521D
 
-//Text $1521B
+//Text $1521D
 #WRITE(ptr,$5B34)
 Junkland is West of Calvalese[END]
-// current address: $15239
+// current address: $1523B
 
-//Text $15239
+//Text $1523B
 #WRITE(ptr,$5B38)
 West of Calvalese is Junkland[END]
-// current address: $15257
+// current address: $15259
 
-//Text $15257
+//Text $15259
 #WRITE(ptr,$5B3C)
 Just the Way You Are[END]
-// current address: $1526C
+// current address: $1526E
 
-//Text $1526C
+//Text $1526E
 #WRITE(ptr,$5B40)
 [Woodrow]'s Dream?[END]
-// current address: $1527B
+// current address: $1527D
 
-//Text $1527B
+//Text $1527D
 #WRITE(ptr,$5B44)
 [Johnny]'s Dream?[END]
-// current address: $1528A
+// current address: $1528C
 
-//Text $1528A
+//Text $1528C
 #WRITE(ptr,$5B48)
 Who Do You Like? (Girls)[END]
-// current address: $152A3
+// current address: $152A5
 
-//Text $152A3
+//Text $152A5
 #WRITE(ptr,$5B4C)
 Who Do You Like? (Boys)[END]
-// current address: $152BB
+// current address: $152BD
 
-//Text $152BB
+//Text $152BD
 #WRITE(ptr,$5B50)
 Enthusiastic [Chelsea][END]
-// current address: $152CE
+// current address: $152D0
 
-//Text $152CE
+//Text $152D0
 #WRITE(ptr,$5B54)
 Let's Go to Trash Mountain[END]
-// current address: $152E9
+// current address: $152EB
 
-//Text $152E9
+//Text $152EB
 #WRITE(ptr,$5B58)
 Finding Berselium[END]
-// current address: $152FB
+// current address: $152FD
 
-//Text $152FB
+//Text $152FD
 #WRITE(ptr,$5B5C)
 Searching for Berselium[END]
-// current address: $15313
+// current address: $15315
 
-//Text $15313
+//Text $15315
 #WRITE(ptr,$5B60)
 Let's Get out of Here[END]
-// current address: $15329
+// current address: $1532B
 
-//Text $15329
+//Text $1532B
 #WRITE(ptr,$5B64)
 Darilsheid is South East of Junkland[END]
-// current address: $1534E
+// current address: $15350
 
-//Text $1534E
+//Text $15350
 #WRITE(ptr,$5B68)
 The Draconis is near Darilsheid[END]
-// current address: $1536E
+// current address: $15370
 
-//Text $1536E
+//Text $15370
 #WRITE(ptr,$5B6C)
 Let's See [Reynolds] in Seinegald[END]
-// current address: $1538B
+// current address: $1538D
 
-//Text $1538B
+//Text $1538D
 #WRITE(ptr,$5B70)
 [Chelsea]'s Dream?[END]
-// current address: $1539A
+// current address: $1539C
 
-//Text $1539A
+//Text $1539C
 #WRITE(ptr,$5B74)
 [Johnny]'s Songwriting[END]
-// current address: $153AE
+// current address: $153B0
 
-//Text $153AE
+//Text $153B0
 #WRITE(ptr,$5B78)
 Chance Encounter[END]
-// current address: $153BF
+// current address: $153C1
 
-//Text $153BF
+//Text $153C1
 #WRITE(ptr,$5B7C)
 Songs are Magical[END]
-// current address: $153D1
+// current address: $153D3
 
-//Text $153D1
+//Text $153D3
 #WRITE(ptr,$5B80)
 Stay Positive[END]
-// current address: $153DF
+// current address: $153E1
 
-//Text $153DF
+//Text $153E1
 #WRITE(ptr,$5B84)
 Searching for Lens around the World[END]
-// current address: $15403
+// current address: $15405
 
-//Text $15403
+//Text $15405
 #WRITE(ptr,$5B88)
 Seeking Lens in Neuestadt[END]
-// current address: $1541D
+// current address: $1541F
 
-//Text $1541D
+//Text $1541F
 #WRITE(ptr,$5B8C)
 Seeking Lens in Heidelberg[END]
-// current address: $15438
+// current address: $1543A
 
-//Text $15438
+//Text $1543A
 #WRITE(ptr,$5B90)
 Seeking Lens in Calviola[END]
-// current address: $15451
+// current address: $15453
 
-//Text $15451
+//Text $15453
 #WRITE(ptr,$5B94)
 Seeing Lens in Terazzi[END]
-// current address: $15468
+// current address: $1546A
 
-//Text $15468
+//Text $1546A
 #WRITE(ptr,$5B98)
 Delivering the Lens to [Reynolds][END]
-// current address: $15485
+// current address: $15487
 
-//Text $15485
+//Text $15487
 #WRITE(ptr,$5B9C)
 A Change in [Philia]'s Image[END]
-// current address: $1549F
+// current address: $154A1
 
-//Text $1549F
+//Text $154A1
 #WRITE(ptr,$5BA0)
 Discussing Darilsheid[END]
-// current address: $154B5
+// current address: $154B7
 
-//Text $154B5
+//Text $154B7
 #WRITE(ptr,$5BA4)
 Preparing for Tomorrow at the Inn[END]
-// current address: $154D7
+// current address: $154D9
 
-//Text $154D7
+//Text $154D9
 #WRITE(ptr,$5BA8)
 If You Need a Break, Go to the Inn[END]
-// current address: $154FA
+// current address: $154FC
 
-//Text $154FA
+//Text $154FC
 #WRITE(ptr,$5BAC)
 What I Need to Do Now[END]
-// current address: $15510
+// current address: $15512
 
-//Text $15510
+//Text $15512
 #WRITE(ptr,$5BB0)
 Let's Head Back to the Others[END]
-// current address: $1552E
+// current address: $15530
 
-//Text $1552E
+//Text $15530
 #WRITE(ptr,$5BB4)
 Getting to the Lens Cannon[END]
-// current address: $15549
+// current address: $1554B
 
-//Text $15549
+//Text $1554B
 #WRITE(ptr,$5BB8)
 To the Lens Cannon[END]
-// current address: $1555C
+// current address: $1555E
 
-//Text $1555C
+//Text $1555E
 #WRITE(ptr,$5BBC)
 Let's Go to the Dycroft![END]
-// current address: $15575
+// current address: $15577
 
-//Text $15575
+//Text $15577
 #WRITE(ptr,$5BC0)
 To Dycroft![END]
-// current address: $15581
+// current address: $15583
 
-//Text $15581
+//Text $15583
 #WRITE(ptr,$5BC4)
 Let's Stay in Town[END]
-// current address: $15594
+// current address: $15596
 
-//Text $15594
+//Text $15596
 #WRITE(ptr,$5BC8)
 It's Better to Go Now..[END]
-// current address: $155AC
+// current address: $155AE
 
-//Text $155AC
+//Text $155AE
 #WRITE(ptr,$5BCC)
 Where are You Going?[END]
-// current address: $155C1
+// current address: $155C3
 
-//Text $155C1
+//Text $155C3
 #WRITE(ptr,$5BD0)
 It Happens Tomorrow[END]
-// current address: $155D5
+// current address: $155D7
 
-//Text $155D5
+//Text $155D7
 #WRITE(ptr,$5BD4)
 Let's Take Down [Miktran]![END]
-// current address: $155EC
+// current address: $155EE
 
-//Text $155EC
+//Text $155EE
 #WRITE(ptr,$5BD8)
 We're going to Beat [Miktran]![END]
-// current address: $15607
+// current address: $15609
 
-//Text $15607
+//Text $15609
 #WRITE(ptr,$5BDC)
 Keep Pushing Onward![END]
-// current address: $1561C
+// current address: $1561E
 
-//Text $1561C
+//Text $1561E
 #WRITE(ptr,$5BE0)
 At All Costs![END]
-// current address: $1562A
+// current address: $1562C
 
-//Text $1562A
+//Text $1562C
 #WRITE(ptr,$5BE4)
 Hurry![END]
-// current address: $15631
+// current address: $15633
 
-//Text $15631
+//Text $15633
 #WRITE(ptr,$5BE8)
 With All Our Might![END]
-// current address: $15645
+// current address: $15647
 
-//Text $15645
+//Text $15647
 #WRITE(ptr,$5BEC)
 Take Him Down![END]
-// current address: $15654
+// current address: $15656
 
-//Text $15654
+//Text $15656
 #WRITE(ptr,$5BF0)
 Let's Finish Him Off![END]
-// current address: $1566A
+// current address: $1566C
 
-//Text $1566A
+//Text $1566C
 #WRITE(ptr,$5BF4)
 We're Going to Take Him Down![END]
-// current address: $15688
+// current address: $1568A
 
-//Text $15688
+//Text $1568A
 #WRITE(ptr,$5BF8)
 It's Going to Blow![END]
-// current address: $1569C
+// current address: $1569E
 
-//Text $1569C
+//Text $1569E
 #WRITE(ptr,$5BFC)
 To Dycroft![END]
-// current address: $156A8
+// current address: $156AA
 
-//Text $156A8
+//Text $156AA
 #WRITE(ptr,$5C00)
 Enemy Headquarters[END]
-// current address: $156BB
+// current address: $156BD
 
-//Text $156BB
+//Text $156BD
 #WRITE(ptr,$5C04)
 Stoping a Century Old Ambition[END]
-// current address: $156DA
+// current address: $156DC
 
-//Text $156DA
+//Text $156DC
 #WRITE(ptr,$5C08)
 Restoring Light to the World[END]
-// current address: $156F7
+// current address: $156F9
 
-//Text $156F7
+//Text $156F9
 #WRITE(ptr,$5C0C)
 Your Courage is Inspiring[END]
-// current address: $15711
+// current address: $15713
 
-//Text $15711
+//Text $15713
 #WRITE(ptr,$5C10)
 To the Leviathan[END]
-// current address: $15722
+// current address: $15724
 
-//Text $15722
+//Text $15724
 #WRITE(ptr,$5C14)
 Harsh Reality[END]
-// current address: $15730
+// current address: $15732
 
-//Text $15730
+//Text $15732
 #WRITE(ptr,$5C18)
 I'm a Bit Nervous[END]
-// current address: $15742
+// current address: $15744
 
-//Text $15742
+//Text $15744
 #WRITE(ptr,$5C1C)
 Burning Glare[END]
-// current address: $15750
+// current address: $15752
 
-//Text $15750
+//Text $15752
 #WRITE(ptr,$5C20)
 A More Intense Glare[END]
-// current address: $15765
+// current address: $15767
 
-//Text $15765
+//Text $15767
 #WRITE(ptr,$5C24)
 You're the Future Champion!?[END]
-// current address: $15782
+// current address: $15784
 
-//Text $15782
+//Text $15784
 #WRITE(ptr,$5C28)
 War of the Women?[END]
-// current address: $15794
+// current address: $15796
 
-//Text $15794
+//Text $15796
 #WRITE(ptr,$5C2C)
 The Key to Strength[END]
-// current address: $157A8
+// current address: $157AA
 
-//Text $157A8
+//Text $157AA
 #WRITE(ptr,$5C30)
 Legendary Champion[END]
-// current address: $157BB
+// current address: $157BD
 
-//Text $157BB
+//Text $157BD
 #WRITE(ptr,$5C34)
 Female Friendship?[END]
-// current address: $157CE
+// current address: $157D0
 
-//Text $157CE
+//Text $157D0
 #WRITE(ptr,$5C38)
 Ghosts of the Past[END]
-// current address: $157E1
+// current address: $157E3
 
-//Text $157E1
+//Text $157E3
 #WRITE(ptr,$5C3C)
 Enthralling Brilliance[END]
-// current address: $157F8
+// current address: $157FA
 
-//Text $157F8
+//Text $157FA
 #WRITE(ptr,$5C40)
 The Life of a Lens Hunter[END]
-// current address: $15812
+// current address: $15814
 
-//Text $15812
+//Text $15814
 #WRITE(ptr,$5C44)
 I Don't Want to Do This[END]
-// current address: $1582A
+// current address: $1582C
 
-//Text $1582A
+//Text $1582C
 #WRITE(ptr,$5C48)
 I'm Stuffed![END]
-// current address: $15837
+// current address: $15839
 
-//Text $15837
+//Text $15839
 #WRITE(ptr,$5C4C)
 You Need to Recover[END]
-// current address: $1584B
+// current address: $1584D
 
-//Text $1584B
+//Text $1584D
 #WRITE(ptr,$5C50)
 Don't Get Confused![END]
-// current address: $1585F
+// current address: $15861
 
-//Text $1585F
+//Text $15861
 #WRITE(ptr,$5C54)
 Common Sense[END]
-// current address: $1586C
+// current address: $1586E
 
-//Text $1586C
+//Text $1586E
 #WRITE(ptr,$5C58)
 A Token of Apology[END]
-// current address: $1587F
+// current address: $15881
 
-//Text $1587F
+//Text $15881
 #WRITE(ptr,$5C5C)
 Potential Substitute?[END]
-// current address: $15895
+// current address: $15897
 
-//Text $15895
+//Text $15897
 #WRITE(ptr,$5C60)
 Personal Responsibility[END]
-// current address: $158AD
+// current address: $158AF
 
-//Text $158AD
+//Text $158AF
 #WRITE(ptr,$5C64)
 Positive and Negative Words[END]
-// current address: $158C9
+// current address: $158CB
 
-//Text $158C9
+//Text $158CB
 #WRITE(ptr,$5C68)
 Are We Forgetting Something?[END]
-// current address: $158E6
+// current address: $158E8
 
-//Text $158E6
+//Text $158E8
 #WRITE(ptr,$5C6C)
 I Know How You're Feeling[END]
-// current address: $15900
+// current address: $15902
 
-//Text $15900
+//Text $15902
 #WRITE(ptr,$5C70)
 Where Are My Brother's Thoughts?[END]
-// current address: $15921
+// current address: $15923
 
-//Text $15921
+//Text $15923
 #WRITE(ptr,$5C74)
 Thank You, Everyone![END]
-// current address: $15936
+// current address: $15938
 
-//Text $15936
+//Text $15938
 #WRITE(ptr,$5C78)
 [Mary]'s Dream[END]
-// current address: $15944
+// current address: $15946
 
-//Text $15944
+//Text $15946
 #WRITE(ptr,$5C7C)
 Why Won't He Tell Me His Name?[END]
-// current address: $15963
+// current address: $15965
 
-//Text $15963
+//Text $15965
 #WRITE(ptr,$5C80)
 I Love Sleeping[END]
-// current address: $15973
+// current address: $15975
 
-//Text $15973
+//Text $15975
 #WRITE(ptr,$5C84)
 Looking for Gald[END]
-// current address: $15984
+// current address: $15986
 
-//Text $15984
+//Text $15986
 #WRITE(ptr,$5C88)
 I've Got Your Back[END]
-// current address: $15997
+// current address: $15999
 
-//Text $15997
+//Text $15999
 #WRITE(ptr,$5C8C)
 Intuition on the Field?[END]
-// current address: $159AF
+// current address: $159B1
 
-//Text $159AF
+//Text $159B1
 #WRITE(ptr,$5C90)
 Suprising Suited for Command?[END]
-// current address: $159CD
+// current address: $159CF
 
-//Text $159CD
+//Text $159CF
 #WRITE(ptr,$5C94)
 I'm Enjoying This[END]
-// current address: $159DF
+// current address: $159E1
 
-//Text $159DF
+//Text $159E1
 #WRITE(ptr,$5C98)
 Growing Seeds is Fun[END]
-// current address: $159F4
+// current address: $159F6
 
-//Text $159F4
+//Text $159F6
 #WRITE(ptr,$5C9C)
 Merits and Demerits[END]
-// current address: $15A08
+// current address: $15A0A
 
-//Text $15A08
+//Text $15A0A
 #WRITE(ptr,$5CA0)
 Tireless Effort is the Secret to Victory[END]
-// current address: $15A31
+// current address: $15A33
 
-//Text $15A31
+//Text $15A33
 #WRITE(ptr,$5CA4)
 The Fun After Battle[END]
-// current address: $15A46
+// current address: $15A48
 
-//Text $15A46
+//Text $15A48
 #WRITE(ptr,$5CA8)
 Under the Eyes of Atamoni[END]
-// current address: $15A60
+// current address: $15A62
 
-//Text $15A60
+//Text $15A62
 #WRITE(ptr,$5CAC)
 Above the Aethersphere[END]
-// current address: $15A77
+// current address: $15A79
 
-//Text $15A77
+//Text $15A79
 #WRITE(ptr,$5CB0)
 Let's Go after Him[END]
-// current address: $15A8A
+// current address: $15A8C
 
-//Text $15A8A
+//Text $15A8C
 #WRITE(ptr,$5CB4)
 We Need to Stop [Hugo][END]
-// current address: $15AA0
+// current address: $15AA2
 
-//Text $15AA0
+//Text $15AA2
 #WRITE(ptr,$5CB8)
 We Won't Let You Harm the Surface[END]
-// current address: $15AC2
+// current address: $15AC4
 
-//Text $15AC2
+//Text $15AC4
 #WRITE(ptr,$5CBC)
 Get Back Here, Now[END]
-// current address: $15AD5
+// current address: $15AD7
 
-//Text $15AD5
+//Text $15AD7
 #WRITE(ptr,$5CC0)
 Not This Way[END]
-// current address: $15AE2
+// current address: $15AE4
 
-//Text $15AE2
+//Text $15AE4
 #WRITE(ptr,$5CC4)
 Hurry[END]
-// current address: $15AE8
+// current address: $15AEA
 
-//Text $15AE8
+//Text $15AEA
 #WRITE(ptr,$5CC8)
 We Should Hurry[END]
-// current address: $15AF8
+// current address: $15AFA
 
-//Text $15AF8
+//Text $15AFA
 #WRITE(ptr,$5CCC)
 Don't Dawdle[END]
-// current address: $15B05
+// current address: $15B07
 
-//Text $15B05
+//Text $15B07
 #WRITE(ptr,$5CD0)
 Not That Way[END]
-// current address: $15B12
+// current address: $15B14
 
-//Text $15B12
+//Text $15B14
 #WRITE(ptr,$5CD4)
 I Have Other Things to Do[END]
-// current address: $15B2C
+// current address: $15B2E
 
-//Text $15B2C
+//Text $15B2E
 #WRITE(ptr,$5CD8)
 What We Need to Do[END]
-// current address: $15B3F
+// current address: $15B41
 
-//Text $15B3F
+//Text $15B41
 #WRITE(ptr,$5CDC)
 Let's See What's Happening[END]
-// current address: $15B5A
+// current address: $15B5C
 
-//Text $15B5A
+//Text $15B5C
 #WRITE(ptr,$5CE0)
 Let's Talk First[END]
-// current address: $15B6B
+// current address: $15B6D
 
-//Text $15B6B
+//Text $15B6D
 #WRITE(ptr,$5CE4)
 Anyways, Let's Hear Him Out[END]
-// current address: $15B87
+// current address: $15B89
 
-//Text $15B87
+//Text $15B89
 #WRITE(ptr,$5CE8)
 Other Things to Do[END]
-// current address: $15B9A
+// current address: $15B9C
 
-//Text $15B9A
+//Text $15B9C
 #WRITE(ptr,$5CEC)
 I Have Other Things to Do Right Now[END]
-// current address: $15BBE
+// current address: $15BC0
 
-//Text $15BBE
+//Text $15BC0
 #WRITE(ptr,$5CF0)
 Let's Talk to the People in Town[END]
-// current address: $15BDF
+// current address: $15BE1
 
-//Text $15BDF
+//Text $15BE1
 #WRITE(ptr,$5CF4)
 Let's Check it Out[END]
-// current address: $15BF2
+// current address: $15BF4
 
-//Text $15BF2
+//Text $15BF4
 #WRITE(ptr,$5CF8)
 Let's Head Outside First[END]
-// current address: $15C0B
+// current address: $15C0D
 
-//Text $15C0B
+//Text $15C0D
 #WRITE(ptr,$5CFC)
 Let's Stay Here[END]
-// current address: $15C1B
+// current address: $15C1D
 
-//Text $15C1B
+//Text $15C1D
 #WRITE(ptr,$5D00)
 North from Here[END]
-// current address: $15C2B
+// current address: $15C2D
 
-//Text $15C2B
+//Text $15C2D
 #WRITE(ptr,$5D04)
 Northeast from Here[END]
-// current address: $15C3F
+// current address: $15C41
 
-//Text $15C3F
+//Text $15C41
 #WRITE(ptr,$5D08)
 East from Here[END]
-// current address: $15C4E
+// current address: $15C50
 
-//Text $15C4E
+//Text $15C50
 #WRITE(ptr,$5D0C)
 Southeast from Here[END]
-// current address: $15C62
+// current address: $15C64
 
-//Text $15C62
+//Text $15C64
 #WRITE(ptr,$5D10)
 South from Here[END]
-// current address: $15C72
+// current address: $15C74
 
-//Text $15C72
+//Text $15C74
 #WRITE(ptr,$5D14)
 Southwest from Here[END]
-// current address: $15C86
+// current address: $15C88
 
-//Text $15C86
+//Text $15C88
 #WRITE(ptr,$5D18)
 West from Here[END]
-// current address: $15C95
+// current address: $15C97
 
-//Text $15C95
+//Text $15C97
 #WRITE(ptr,$5D1C)
 Northwest from Here[END]
-// current address: $15CA9
+// current address: $15CAB
 
-//Text $15CA9
+//Text $15CAB
 #WRITE(ptr,$5D20)
 Let's Get on the Leviathan[END]
-// current address: $15CC4
+// current address: $15CC6
 
-//Text $15CC4
+//Text $15CC6
 #WRITE(ptr,$5D24)
 Anyway, to the Leviathan[END]
-// current address: $15CDD
+// current address: $15CDF
 
-//Text $15CDD
+//Text $15CDF
 #WRITE(ptr,$5D28)
 Let's Take the Draconis[END]
-// current address: $15CF5
+// current address: $15CF7
 
-//Text $15CF5
+//Text $15CF7
 #WRITE(ptr,$5D2C)
 Anyway, to the Draconis[END]
-// current address: $15D0D
+// current address: $15D0F
 
-//Text $15D0D
+//Text $15D0F
 #WRITE(ptr,$5D30)
 Let's Head to the Harbor[END]
-// current address: $15D26
+// current address: $15D28
 
-//Text $15D26
+//Text $15D28
 #WRITE(ptr,$5D34)
 Let's Head to the Castle[END]
-// current address: $15D3F
+// current address: $15D41
 
-//Text $15D3F
+//Text $15D41
 #WRITE(ptr,$5D38)
 Respite[END]
-// current address: $15D47
+// current address: $15D49
 
-//Text $15D47
+//Text $15D49
 #WRITE(ptr,$5D3C)
 The Guardian Dragon is Important[END]
-// current address: $15D68
+// current address: $15D6A
 
-//Text $15D68
+//Text $15D6A
 #WRITE(ptr,$5D40)
 [Igtenos] First[END]
-// current address: $15D74
+// current address: $15D76
 
-//Text $15D74
+//Text $15D76
 #WRITE(ptr,$5D44)
 Take the Device to Radisrol[END]
-// current address: $15D90
+// current address: $15D92
 
-//Text $15D90
+//Text $15D92
 #WRITE(ptr,$5D48)
 Top Priorty: Aeth'er Cruiser[END]
-// current address: $15DAD
+// current address: $15DAF
 
-//Text $15DAD
+//Text $15DAF
 #WRITE(ptr,$5D4C)
 No Business at This Town[END]
-// current address: $15DC6
+// current address: $15DC8
 
-//Text $15DC6
+//Text $15DC8
 #WRITE(ptr,$5D50)
 My Sister's Thoughts[END]
-// current address: $15DDB
+// current address: $15DDD
 
-//Text $15DDB
+//Text $15DDD
 #WRITE(ptr,$5D54)
 Race - 1[END]
-// current address: $15DE4
+// current address: $15DE6
 
-//Text $15DE4
+//Text $15DE6
 #WRITE(ptr,$5D58)
 Race - 2[END]
-// current address: $15DED
+// current address: $15DEF
 
-//Text $15DED
+//Text $15DEF
 #WRITE(ptr,$5D5C)
 Question![END]
-// current address: $15DF7
+// current address: $15DF9
 
-//Text $15DF7
+//Text $15DF9
 #WRITE(ptr,$5D60)
 Ready![END]
-// current address: $15DFE
+// current address: $15E00
 
-//Text $15DFE
+//Text $15E00
 #WRITE(ptr,$5D64)
 Absolutely Correct![END]
-// current address: $15E12
+// current address: $15E14
 
-//Text $15E12
+//Text $15E14
 #WRITE(ptr,$5D68)
 Still Practicing[END]
-// current address: $15E23
+// current address: $15E25
 
-//Text $15E23
+//Text $15E25
 #WRITE(ptr,$5D6C)
 Expedition [Stahn][END]
-// current address: $15E34
+// current address: $15E36
 
-//Text $15E34
+//Text $15E36
 #WRITE(ptr,$5D70)
 Fortune - 1[END]
-// current address: $15E40
+// current address: $15E42
 
-//Text $15E40
+//Text $15E42
 #WRITE(ptr,$5D74)
 Fortune - 2[END]
-// current address: $15E4C
+// current address: $15E4E
 
-//Text $15E4C
+//Text $15E4E
 #WRITE(ptr,$5D78)
 Fortune - 3[END]
-// current address: $15E58
+// current address: $15E5A
 
-//Text $15E58
+//Text $15E5A
 #WRITE(ptr,$5D7C)
 Fortune - 4[END]
-// current address: $15E64
+// current address: $15E66
 
-//Text $15E64
+//Text $15E66
 #WRITE(ptr,$5D80)
 Fortune - 5[END]
-// current address: $15E70
+// current address: $15E72
 
-//Text $15E70
+//Text $15E72
 #WRITE(ptr,$5D84)
 Fortune - 6[END]
-// current address: $15E7C
+// current address: $15E7E
 
-//Text $15E7C
+//Text $15E7E
 #WRITE(ptr,$5D88)
 Fortune - 7[END]
-// current address: $15E88
+// current address: $15E8A
 
-//Text $15E88
+//Text $15E8A
 #WRITE(ptr,$5D8C)
 "[Batista] Bomb"[END]
-// current address: $15E95
+// current address: $15E97
 
-//Text $15E95
+//Text $15E97
 #WRITE(ptr,$5D90)
 [Philia]'s True Feelings[END]
-// current address: $15EAB
+// current address: $15EAD
 
-//Text $15EAB
+//Text $15EAD
 #WRITE(ptr,$5D94)
 A Time for Dreaming[END]
-// current address: $15EBF
+// current address: $15EC1
 
-//Text $15EBF
+//Text $15EC1
 #WRITE(ptr,$5D98)
 He's Me, I'm Him, so he's...[END]
-// current address: $15EDC
+// current address: $15EDE
 
-//Text $15EDC
+//Text $15EDE
 #WRITE(ptr,$5D9C)
 [Rembrandt]'s Talent[END]
-// current address: $15EEB
+// current address: $15EED
 
-//Text $15EEB
+//Text $15EED
 #WRITE(ptr,$5DA0)
 Outtake 1[END]
-// current address: $15EF5
+// current address: $15EF7
 
-//Text $15EF5
+//Text $15EF7
 #WRITE(ptr,$5DA4)
 Outtake 2[END]
-// current address: $15EFF
+// current address: $15F01
 
-//Text $15EFF
+//Text $15F01
 #WRITE(ptr,$5DA8)
 Bonus Footage: Backstage[END]
-// current address: $15F18
+// current address: $15F1A
 
-//Text $15F18
+//Text $15F1A
 #WRITE(ptr,$5DAC)
 Phantasia[END]
-// current address: $15F22
+// current address: $15F24
 
-//Text $15F22
+//Text $15F24
 #WRITE(ptr,$5DB0)
 The Abyss[END]
-// current address: $15F2C
+// current address: $15F2E
 
-//Text $15F2C
+//Text $15F2E
 #WRITE(ptr,$5DB4)
 "Tales of" Series[END]
-// current address: $15F3E
+// current address: $15F40
 
-//Text $15F3E
+//Text $15F40
 #WRITE(ptr,$5DB8)
 Tales of Destiny[END]
-// current address: $15F4F
+// current address: $15F51
 
-//Text $15F4F
+//Text $15F51
 #WRITE(ptr,$5DBC)
 [Reynolds] is Useful[END]
-// current address: $15F5F
+// current address: $15F61
 
-//Text $15F5F
+//Text $15F61
 #WRITE(ptr,$5DC0)
 [Ritora]'s Hologram Is Amazing![END]
-// current address: $15F7C
+// current address: $15F7E
 
-//Text $15F7C
+//Text $15F7E
 #WRITE(ptr,$5DC4)
 We've Been Together All Along[END]
-// current address: $15F9A
-
-//Text $15F9A
-#WRITE(ptr,$5DC8)
-[END]
-// current address: $15F9B
-
-//Text $15F9B
-#WRITE(ptr,$5DCC)
-[END]
 // current address: $15F9C
 
 //Text $15F9C
-#WRITE(ptr,$5DD0)
+#WRITE(ptr,$5DC8)
 [END]
 // current address: $15F9D
 
 //Text $15F9D
-#WRITE(ptr,$5DD4)
+#WRITE(ptr,$5DCC)
 [END]
 // current address: $15F9E
 
 //Text $15F9E
-#WRITE(ptr,$5DD8)
+#WRITE(ptr,$5DD0)
 [END]
 // current address: $15F9F
 
 //Text $15F9F
-#WRITE(ptr,$5DDC)
+#WRITE(ptr,$5DD4)
 [END]
 // current address: $15FA0
 
 //Text $15FA0
-#WRITE(ptr,$5DE0)
+#WRITE(ptr,$5DD8)
 [END]
 // current address: $15FA1
 
 //Text $15FA1
-#WRITE(ptr,$5DE4)
+#WRITE(ptr,$5DDC)
 [END]
 // current address: $15FA2
 
 //Text $15FA2
-#WRITE(ptr,$5DE8)
+#WRITE(ptr,$5DE0)
 [END]
 // current address: $15FA3
 
 //Text $15FA3
-#WRITE(ptr,$5DEC)
+#WRITE(ptr,$5DE4)
 [END]
 // current address: $15FA4
 
 //Text $15FA4
-#WRITE(ptr,$5DF0)
+#WRITE(ptr,$5DE8)
 [END]
 // current address: $15FA5
 
 //Text $15FA5
+#WRITE(ptr,$5DEC)
+[END]
+// current address: $15FA6
+
+//Text $15FA6
+#WRITE(ptr,$5DF0)
+[END]
+// current address: $15FA7
+
+//Text $15FA7
 #WRITE(ptr,$5DF4)
 Another Swordian[END]
-// current address: $15FB6
+// current address: $15FB8
 
-//Text $15FB6
+//Text $15FB8
 #WRITE(ptr,$5DF8)
 Why?[END]
-// current address: $15FBB
+// current address: $15FBD
 
-//Text $15FBB
+//Text $15FBD
 #WRITE(ptr,$5DFC)
 [Marian]'s Lecture..[END]
-// current address: $15FCD
+// current address: $15FCF
 
-//Text $15FCD
+//Text $15FCF
 #WRITE(ptr,$5E00)
 We're up Against 3 People![END]
-// current address: $15FE8
+// current address: $15FEA
 
-//Text $15FE8
+//Text $15FEA
 #WRITE(ptr,$5E04)
 [Hugo] and [Rutee][END]
-// current address: $15FF8
+// current address: $15FFA
 
-//Text $15FF8
+//Text $15FFA
 #WRITE(ptr,$5E08)
 Not [Dymlos] and [Atwight]..[END]
-// current address: $1600E
+// current address: $16010
 
-//Text $1600E
+//Text $16010
 #WRITE(ptr,$5E0C)
 [Hugo]'s Plan[END]
-// current address: $1601B
+// current address: $1601D
 
-//Text $1601B
+//Text $1601D
 #WRITE(ptr,$5E10)
 Chal's Concern[END]
-// current address: $1602A
+// current address: $1602C
 
-//Text $1602A
+//Text $1602C
 #WRITE(ptr,$5E14)
 [Atwight] the Oasis[END]
-// current address: $1603A
+// current address: $1603C
 
-//Text $1603A
+//Text $1603C
 #WRITE(ptr,$5E18)
 The Two of Us[END]
-// current address: $16048
+// current address: $1604A
 
-//Text $16048
+//Text $1604A
 #WRITE(ptr,$5E1C)
 Softy Kreem![END]
-// current address: $16055
+// current address: $16057
 
-//Text $16055
+//Text $16057
 #WRITE(ptr,$5E20)
 So Dashing![END]
-// current address: $16061
+// current address: $16063
 
-//Text $16061
+//Text $16063
 #WRITE(ptr,$5E24)
 Irritated [Lion][END]
-// current address: $16071
+// current address: $16073
 
-//Text $16071
+//Text $16073
 #WRITE(ptr,$5E28)
 Always Together!?[END]
-// current address: $16083
+// current address: $16085
 
-//Text $16083
+//Text $16085
 #WRITE(ptr,$5E2C)
 Family..[END]
-// current address: $1608C
+// current address: $1608E
 
-//Text $1608C
+//Text $1608E
 #WRITE(ptr,$5E30)
 [Lion] Needs Glasses[END]
-// current address: $160A0
+// current address: $160A2
 
-//Text $160A0
+//Text $160A2
 #WRITE(ptr,$5E34)
 Will and Jobs[END]
-// current address: $160AE
+// current address: $160B0
 
-//Text $160AE
+//Text $160B0
 #WRITE(ptr,$5E38)
 Weeping [Chaltier][END]
-// current address: $160BC
+// current address: $160BE
 
-//Text $160BC
+//Text $160BE
 #WRITE(ptr,$5E3C)
 Nothing Important. Just Killing Time[END]
-// current address: $160E1
+// current address: $160E3
 
-//Text $160E1
+//Text $160E3
 #WRITE(ptr,$5E40)
 A Real Nice Place?[END]
-// current address: $160F4
+// current address: $160F6
 
-//Text $160F4
+//Text $160F6
 #WRITE(ptr,$5E44)
 About [Lion]'s Mother[END]
-// current address: $16109
+// current address: $1610B
 
-//Text $16109
+//Text $1610B
 #WRITE(ptr,$5E48)
 Kind Master [lion] Isn't![END]
-// current address: $16123
+// current address: $16125
 
-//Text $16123
+//Text $16125
 #WRITE(ptr,$5E4C)
 The Beach[END]
-// current address: $1612D
+// current address: $1612F
 
-//Text $1612D
+//Text $1612F
 #WRITE(ptr,$5E50)
 A Building Visible on That Island[END]
-// current address: $1614F
+// current address: $16151
 
-//Text $1614F
+//Text $16151
 #WRITE(ptr,$5E54)
 [Lion] and Chal's Quarrel[END]
-// current address: $16168
+// current address: $1616A
 
-//Text $16168
+//Text $1616A
 #WRITE(ptr,$5E58)
 Where Are We?[END]
-// current address: $16176
+// current address: $16178
 
-//Text $16176
+//Text $16178
 #WRITE(ptr,$5E5C)
 Farewell!?[END]
-// current address: $16181
+// current address: $16183
 
-//Text $16181
+//Text $16183
 #WRITE(ptr,$5E60)
 [Philia]'s Glasses - 2[END]
-// current address: $16195
+// current address: $16197
 
-//Text $16195
+//Text $16197
 #WRITE(ptr,$5E64)
 Thirsty[END]
-// current address: $1619D
+// current address: $1619F
 
-//Text $1619D
+//Text $1619F
 #WRITE(ptr,$5E68)
 [Philia]'s Shampoo[END]
-// current address: $161AD
+// current address: $161AF
 
-//Text $161AD
+//Text $161AF
 #WRITE(ptr,$5E6C)
 Pow Hammer![END]
-// current address: $161B9
+// current address: $161BB
 
-//Text $161B9
+//Text $161BB
 #WRITE(ptr,$5E70)
 Onigiri[END]
-// current address: $161C1
+// current address: $161C3
 
-//Text $161C1
+//Text $161C3
 #WRITE(ptr,$5E74)
 Hamburger[END]
-// current address: $161CB
+// current address: $161CD
 
-//Text $161CB
+//Text $161CD
 #WRITE(ptr,$5E78)
 To the Village of Harmentz[END]
-// current address: $161E6
+// current address: $161E8
 
-//Text $161E6
+//Text $161E8
 #WRITE(ptr,$5E7C)
 Harmentz is West of Darilsheid[END]
-// current address: $16205
+// current address: $16207
 
-//Text $16205
+//Text $16207
 #WRITE(ptr,$5E80)
 No Business at the Castle[END]
-// current address: $1621F
+// current address: $16221
 
-//Text $1621F
+//Text $16221
 #WRITE(ptr,$5E84)
 Let's go to Harmentz[END]
-// current address: $16234
+// current address: $16236
 
-//Text $16234
+//Text $16236
 #WRITE(ptr,$5E88)
 Let's Return to Darilsheid[END]
-// current address: $1624F
+// current address: $16251
 
-//Text $1624F
+//Text $16251
 #WRITE(ptr,$5E8C)
 Darilsheid is East of Harmentz[END]
-// current address: $1626E
+// current address: $16270
 
-//Text $1626E
+//Text $16270
 #WRITE(ptr,$5E90)
 To the King at Seinegald Castle[END]
-// current address: $1628E
+// current address: $16290
 
-//Text $1628E
+//Text $16290
 #WRITE(ptr,$5E94)
 To the Seinegald Castle Dungeon[END]
-// current address: $162AE
+// current address: $162B0
 
-//Text $162AE
+//Text $162B0
 #WRITE(ptr,$5E98)
 Let's Return to the Manor[END]
-// current address: $162C8
+// current address: $162CA
 
-//Text $162C8
+//Text $162CA
 #WRITE(ptr,$5E9C)
 Let's Return to the Manor[END]
-// current address: $162E2
+// current address: $162E4
 
-//Text $162E2
+//Text $162E4
 #WRITE(ptr,$5EA0)
 Straylize Temple Is North of Darilsheid[END]
-// current address: $1630A
+// current address: $1630C
 
-//Text $1630A
+//Text $1630C
 #WRITE(ptr,$5EA4)
 To the Temple Interior[END]
-// current address: $16321
+// current address: $16323
 
-//Text $16321
+//Text $16323
 #WRITE(ptr,$5EA8)
 To the Cathedral[END]
-// current address: $16332
+// current address: $16334
 
-//Text $16332
+//Text $16334
 #WRITE(ptr,$5EAC)
 Further Within the Hidden Passage[END]
-// current address: $16354
+// current address: $16356
 
-//Text $16354
+//Text $16356
 #WRITE(ptr,$5EB0)
 To Darilsheid[END]
-// current address: $16362
+// current address: $16364
 
-//Text $16362
+//Text $16364
 #WRITE(ptr,$5EB4)
 To the Harbor[END]
-// current address: $16370
+// current address: $16372
 
-//Text $16370
+//Text $16372
 #WRITE(ptr,$5EB8)
 Hurry to the Harbor[END]
-// current address: $16384
+// current address: $16386
 
-//Text $16384
+//Text $16386
 #WRITE(ptr,$5EBC)
 Before the King of Seinegald[END]
-// current address: $163A1
+// current address: $163A3
 
-//Text $163A1
+//Text $163A3
 #WRITE(ptr,$5EC0)
 Report to His Majesty[END]
-// current address: $163B7
+// current address: $163B9
 
-//Text $163B7
+//Text $163B9
 #WRITE(ptr,$5EC4)
 I Should Say Goodbye..[END]
-// current address: $163CE
+// current address: $163D0
 
-//Text $163CE
+//Text $163D0
 #WRITE(ptr,$5EC8)
 To Where [Marian] Is...[END]
-// current address: $163E3
+// current address: $163E5
 
-//Text $163E3
+//Text $163E5
 #WRITE(ptr,$5ECC)
 Let's Go to the Harbor[END]
-// current address: $163FA
+// current address: $163FC
 
-//Text $163FA
+//Text $163FC
 #WRITE(ptr,$5ED0)
 To the Inn for Now[END]
-// current address: $1640D
+// current address: $1640F
 
-//Text $1640D
+//Text $1640F
 #WRITE(ptr,$5ED4)
 Let's Look Around Town[END]
-// current address: $16424
+// current address: $16426
 
-//Text $16424
+//Text $16426
 #WRITE(ptr,$5ED8)
 It's Dangerous Outside![END]
-// current address: $1643C
+// current address: $1643E
 
-//Text $1643C
+//Text $1643E
 #WRITE(ptr,$5EDC)
 Let's Head Back to the Inn Soon[END]
-// current address: $1645C
+// current address: $1645E
 
-//Text $1645C
+//Text $1645E
 #WRITE(ptr,$5EE0)
 Go to the Temple's Back Door![END]
-// current address: $1647A
+// current address: $1647C
 
-//Text $1647A
+//Text $1647C
 #WRITE(ptr,$5EE4)
 Chase After [Greybum][END]
-// current address: $1648C
+// current address: $1648E
 
-//Text $1648C
+//Text $1648E
 #WRITE(ptr,$5EE8)
 To the Front Door[END]
-// current address: $1649E
+// current address: $164A0
 
-//Text $1649E
+//Text $164A0
 #WRITE(ptr,$5EEC)
 In Search of the Softy Kreem Stand[END]
-// current address: $164C1
+// current address: $164C3
 
-//Text $164C1
+//Text $164C3
 #WRITE(ptr,$5EF0)
 We're Not Going Out of Town[END]
-// current address: $164DD
+// current address: $164DF
 
-//Text $164DD
+//Text $164DF
 #WRITE(ptr,$5EF4)
 From the Harbor to the Armada[END]
-// current address: $164FB
+// current address: $164FD
 
-//Text $164FB
+//Text $164FD
 #WRITE(ptr,$5EF8)
 My Target is Greybum[END]
-// current address: $16510
+// current address: $16512
 
-//Text $16510
+//Text $16512
 #WRITE(ptr,$5EFC)
 We're Returning to Shiden[END]
-// current address: $1652A
+// current address: $1652C
 
-//Text $1652A
+//Text $1652C
 #WRITE(ptr,$5F00)
 We're Heading Back to Shiden[END]
-// current address: $16547
+// current address: $16549
 
-//Text $16547
+//Text $16549
 #WRITE(ptr,$5F04)
 Let's Find Some Rope[END]
-// current address: $1655C
+// current address: $1655E
 
-//Text $1655C
+//Text $1655E
 #WRITE(ptr,$5F08)
 Let's Explore Moreau[END]
-// current address: $16571
+// current address: $16573
 
-//Text $16571
+//Text $16573
 #WRITE(ptr,$5F0C)
 To Seinegald Castle[END]
-// current address: $16585
+// current address: $16587
 
-//Text $16585
+//Text $16587
 #WRITE(ptr,$5F10)
 Let's Head to Harmentz[END]
-// current address: $1659C
+// current address: $1659E
 
-//Text $1659C
+//Text $1659E
 #WRITE(ptr,$5F14)
 Harmentz is West of the Capital[END]
-// current address: $165BC
+// current address: $165BE
 
-//Text $165BC
+//Text $165BE
 #WRITE(ptr,$5F18)
 To Straylize Temple[END]
-// current address: $165D0
+// current address: $165D2
 
-//Text $165D0
+//Text $165D2
 #WRITE(ptr,$5F1C)
 Let's Return to the Manor[END]
-// current address: $165EA
+// current address: $165EC
 
-//Text $165EA
+//Text $165EC
 #WRITE(ptr,$5F20)
 Let's Return to the Manor[END]
-// current address: $16604
+// current address: $16606
 
-//Text $16604
+//Text $16606
 #WRITE(ptr,$5F24)
 Visit the King at Seinegald Castle[END]
-// current address: $16627
+// current address: $16629
 
-//Text $16627
+//Text $16629
 #WRITE(ptr,$5F28)
 Go to Cresta, East of Darilsheid[END]
-// current address: $16648
+// current address: $1664A
 
-//Text $16648
+//Text $1664A
 #WRITE(ptr,$5F2C)
 Cresta is East of Darilsheid[END]
-// current address: $16665
+// current address: $16667
 
-//Text $16665
+//Text $16667
 #WRITE(ptr,$5F30)
 Let's Find the Seinegald Soldiers in Cresta[END]
-// current address: $16691
+// current address: $16693
 
-//Text $16691
+//Text $16693
 #WRITE(ptr,$5F34)
 Let's Find the Orphanage[END]
-// current address: $166AA
+// current address: $166AC
 
-//Text $166AA
+//Text $166AC
 #WRITE(ptr,$5F38)
 Find the Beach North of Cresta[END]
-// current address: $166C9
+// current address: $166CB
 
-//Text $166C9
+//Text $166CB
 #WRITE(ptr,$5F3C)
 Let's Debrief the Mission[END]
-// current address: $166E3
+// current address: $166E5
 
-//Text $166E3
+//Text $166E5
 #WRITE(ptr,$5F40)
 No Business Outside[END]
-// current address: $166F7
+// current address: $166F9
 
-//Text $166F7
+//Text $166F9
 #WRITE(ptr,$5F44)
 Let's Hurry Back to the Manor[END]
-// current address: $16715
+// current address: $16717
 
-//Text $16715
+//Text $16717
 #WRITE(ptr,$5F48)
 We Need to Find [Marian][END]
-// current address: $1672B
+// current address: $1672D
 
-//Text $1672B
+//Text $1672D
 #WRITE(ptr,$5F4C)
 The Draconis is in the Castle[END]
-// current address: $16749
+// current address: $1674B
 
-//Text $16749
+//Text $1674B
 #WRITE(ptr,$5F50)
 Let's hear Hugo's Orders[END]
-// current address: $16762
+// current address: $16764
 
-//Text $16762
+//Text $16764
 #WRITE(ptr,$5F54)
 We'll Enter the Sealing Facility from Behind[END]
-// current address: $1678F
+// current address: $16791
 
-//Text $1678F
+//Text $16791
 #WRITE(ptr,$5F58)
 To the Sealing Facility[END]
-// current address: $167A7
+// current address: $167A9
 
-//Text $167A7
+//Text $167A9
 #WRITE(ptr,$5F5C)
 To the Depths[END]
-// current address: $167B5
+// current address: $167B7
 
-//Text $167B5
+//Text $167B7
 #WRITE(ptr,$5F60)
 Where's Hugo and the Others?[END]
-// current address: $167D2
+// current address: $167D4
 
-//Text $167D2
+//Text $167D4
 #WRITE(ptr,$5F64)
 Sorcerer's Ring goes Boom[END]
-// current address: $167EC
+// current address: $167EE
 
-//Text $167EC
+//Text $167EE
 #WRITE(ptr,$5F68)
 There's Still Places We Can Destroy[END]
-// current address: $16810
+// current address: $16812
 
-//Text $16810
+//Text $16812
 #WRITE(ptr,$5F6C)
 Not This Way[END]
-// current address: $1681D
+// current address: $1681F
 
-//Text $1681D
+//Text $1681F
 #WRITE(ptr,$5F70)
 We Can't Afford to Dawdle![END]
-// current address: $16838
+// current address: $1683A
 
-//Text $16838
+//Text $1683A
 #WRITE(ptr,$5F74)
 Let's Not Do That Now..[END]
-// current address: $16850
+// current address: $16852
 
-//Text $16850
+//Text $16852
 #WRITE(ptr,$5F78)
 Let's Go[END]
-// current address: $16859
+// current address: $1685B
 
-//Text $16859
+//Text $1685B
 #WRITE(ptr,$5F7C)
 I Have Somewhere Else to Be[END]
-// current address: $16875
+// current address: $16877
