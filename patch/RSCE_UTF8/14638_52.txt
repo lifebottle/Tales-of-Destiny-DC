@@ -3,7 +3,7 @@ reset_camera_honimg!!!!!!!!!!!!!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Here's Belcrant.
+So this is Belcrant...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -34,8 +34,8 @@ is supposed to do?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-We can't get a signal from here.
-I guess we'll have to give up.
+We won't be able to communicate with
+him from here. Guess we're on our own.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -306,10 +306,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

@@ -58,8 +58,8 @@ reasons!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-Is that <Rutee>'s voice.
-I knew you were there.
+Was that <Rutee>'s voice just now?
+As expected, she's here with you.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -114,8 +114,8 @@ I'm not kidding. How dare you!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>!	I'm going to get
-you to that woman!
+<Stahn>! Let go and find
+that woman, now!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -384,10 +384,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

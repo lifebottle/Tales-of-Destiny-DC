@@ -1,7 +1,7 @@
 Young Girl
 [ENDBLOCK]
-There's been an incident
-at that house.
+It seems there's been an
+incident at that house.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -9,6 +9,7 @@ at that house.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
+There's been a bit of an incident.
 One of my soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
@@ -17,7 +18,7 @@ Who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Well, she's been caught...
+Well, they've been caught...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -71,7 +72,7 @@ It seems I'll have to get involved.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、can you wait a bit before
+<Fayte>, can you wait a bit before
 you deal with her?
 [ENDBLOCK]
 <Fayte>
@@ -123,27 +124,27 @@ gave you all the time you needed.
 Soldier
 [ENDBLOCK]
 It's a long story, but would you like
-to hear a sum<Mary> of the case?
+to hear a summary of the case?
 Yes
 No
 
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yeah, I heard about the death.
+Yeah, I heard about the attack.
 But she was playing with her cat
 under the house at that time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The guy that's dressed in
-Shiden gear. I'm sure he'll stand
-out. Besides he was talking 
-to the cat in a big voice.
+She was dressed in
+Shiden gear. I'm sure she'll stand
+out. Besides, she was talking 
+to the cat really loudly.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Can he really talk to a cat?
+Can she really talk to a cat?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
@@ -152,10 +153,10 @@ at the store at that time.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-He was looking for quite a while, and
-when I thought he made up his mind
-and started to wrap the product, he
-said he wanted something different.
+She was looking for quite a while, and
+when I thought she made up her mind
+and started to wrap the product, she
+said she wanted something different.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
@@ -181,8 +182,9 @@ Came from near the weapons shop.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-No one know of a secret passage 
-in this city. It's a mystery.
+There is no such thing as a secret
+passage in this city that no one 
+knows about. It's a mystery.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -444,10 +446,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

@@ -8,7 +8,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Slowly pulsing beneath the floor
+<TAG_005><center>Slowly pulsing beneath the floor
 are the remnants of what
 was once a living thing.
 [ENDBLOCK]
@@ -18,8 +18,9 @@ We managed to escape...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Dear <Woodrow>, something is wrong 
-with the ocean! Something's coming up?
+Lord <Woodrow>, something is wrong 
+with the ocean! Is...is something
+coming out of it?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -40,34 +41,34 @@ What in Atamoni's name is a Dycroft?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-It is an aerial city that was
+It is an aeropolis that was
 once used in the Aeth'er Wars.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Aeth'er Wars...? Aerial city...?
+Aeth'er Wars...? Aeropolis...?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-There are energy reactions all
+I'm picking up energy readings all
 over the world. Perhaps it's
-the work of other airborne cities.
+the work of other aeropoleis.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 I didn't expect for them all to be
-revived simultaneously. He must have
-accounted for everything.
+revived simultaneously. He must 
+have accounted for everything.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
 It seems that <Hugo>'s goal was
-to revive the aerial city.
+to revive the aeropoleis.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-The Eye of Atamoni is also the power
-source for these aerial cities.
+He must be using the Eye of Atamoni
+as the power source for the aeropoleis.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -78,13 +79,13 @@ of the divine eye!
 <Atwight>
 [ENDBLOCK]
 Now we know why <Greybum> had
-been touring the world.
+been travelling the world.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 He was preparing to use the 
 Eye of Atamoni to revive the
-aerial cities around the world.
+aeropoleis around the world.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -93,8 +94,8 @@ all makes sense.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-What's that? The Aerial city?
-The bottom is glowing...
+What's that...? The bottom of the
+aeropleis, it's... glowing.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -102,8 +103,8 @@ No, it's Belcrant!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Oh no... There's a big
-hole in the Earth!
+This cannot be.... It cut a
+giant hole into the Earth.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -126,11 +127,11 @@ Don't be ridiculous...
 [ENDBLOCK]
 You can't be serious!
 The Aeth'er Wars!
-The Sky Cities!
+The Aeropoleis!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's because of all this shit That
+It's because of all this shit that
 <Lion> is...!
 [ENDBLOCK]
 <Philia>
@@ -374,10 +375,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

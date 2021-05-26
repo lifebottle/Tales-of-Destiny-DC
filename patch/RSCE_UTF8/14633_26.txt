@@ -4,8 +4,8 @@ Instrument check, complete.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If you'll just do as you're taught.
-I'm ready to fly!
+If you get how all this works,
+then we can fly whenever!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -32,9 +32,8 @@ is ready to go.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-After that, when you get close
-to the mirror barrier, you can 
-release it at once.
+Upon approaching the mirror barrier,
+you must neutralize it immediately.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -42,8 +41,9 @@ Okay.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-After breaking through the barrier, 
-get to Belcrant and infiltrate.
+Once the barrier is disabled,
+you must infiltrate Belcrant
+and head for its core.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -311,10 +311,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

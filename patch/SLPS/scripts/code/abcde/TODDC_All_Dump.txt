@@ -1064,7 +1064,6 @@ Embossing Nap[END]
 #WRITE(ptr,$18122C)
 [Circle_ani]Shop[END]
 
-
 //Text $19C068
 #WRITE(ptr,$181230)
 [Circle_ani]Inspect[END]
@@ -1613,7 +1612,7 @@ His song becomes the star of the show.[END]
 
 //Text $19CA38
 #WRITE(ptr,$184B08)
-[Sign_7]Slash![END]
+[Sign_7]Zan![END]
 
 
 //Text $19CA30
@@ -3449,8 +3448,8 @@ Restore HP to surrounding allies.[LINE]
 
 //Text $19EE80
 #WRITE(ptr,$183D10)
-Shout out those lungs to manifest[LINE]
-"ワーオ!"[END]
+Scream at the top of your lungs[LINE]
+"Whoa!"[END]
 
 //Text $19EE68
 #WRITE(ptr,$183D28)
@@ -12763,9 +12762,9 @@ the Dwarves.[END]
 
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
-A small axe that is very easy to.[LINE]
-handle. You can even wield it with[LINE]
-one hand with a bit of strength.[END]
+A small axe that is very easy to[LINE]
+handle. You don't need to be[LINE]
+very strong to wield in one hand.[END]
 
 
 //Text $1B2668
@@ -13489,7 +13488,7 @@ then pours in a paralyzing poison.[END]
 
 //Text $1B1000
 #WRITE(ptr,$18EF38)
-[Sign_Sword]With Teeth[END]
+[Sign_Sword]Ivory Fang[END]
 
 
 //Text $1B0FA8
@@ -13621,7 +13620,7 @@ A standard for corporal punishment.[LINE]
 
 //Text $1B0BE8
 #WRITE(ptr,$18F1CC)
-[Sign_Sword]C. Ladle[END]
+[Sign_Sword]Copper Ladle[END]
 
 
 //Text $1B0BA8
@@ -13633,7 +13632,7 @@ Wait, doesn't copper conduct a lot of heat?[LINE]
 
 //Text $1B0B98
 #WRITE(ptr,$18F208)
-[Sign_Sword]S. Ladle[END]
+[Sign_Sword]Silver Ladle[END]
 
 
 //Text $1B0B60
@@ -13871,8 +13870,8 @@ Extremely valuable.[END]
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
 Upper body armor sewn with steel scales.[LINE]
-A historied and ancient armor. It's only[LINE]
-fault is making sounds when walking.[END]
+A storied and ancient armor. It's only[LINE]
+fault is that it's noisy when moving.[END]
 
 //Text $1B57F0
 #WRITE(ptr,$18F730)
@@ -14491,7 +14490,7 @@ Can only be acquired by the chosen ones.[END]
 //Text $1B42B0
 #WRITE(ptr,$1903DC)
 Favored by female adventurers[LINE]
-due to its lighteness and fair[LINE]
+due to its lightness and fair[LINE]
 protection.[END]
 
 //Text $1B4298
@@ -15295,8 +15294,8 @@ who collected oral traditions.[END]
 
 //Text $1B7F30
 #WRITE(ptr,$19138C)
-Leathern Gloves. Somewhat stiff,[LINE]
-but strong. A regular companion[LINE]
+Somewhat stiff, but strong gloves.[LINE]
+A regular companion[LINE]
 of female travellers.[END]
 
 //Text $1B7F18

@@ -92,10 +92,9 @@ That man?
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-That's right. Even though he is a
-civilian employee, he is the one
-who thinks about safety and
-happiness first.
+That's right. Despite being a
+civilian, he always prioritizes
+the saftey and happiness of others.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -764,8 +763,8 @@ into the mountains...Is it okay?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you guys know the situation?
-Tell me what's going on!
+You guys seem to know what's
+happening. Tell me what's going on!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -996,7 +995,7 @@ break around here?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I agree. we need to 
+I agree. We need to 
 rest while we can.
 [ENDBLOCK]
 I will inform His Majesty 
@@ -1432,10 +1431,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave

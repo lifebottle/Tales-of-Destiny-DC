@@ -10,8 +10,8 @@ the last time you were on board.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You were having too much 
-fun at a time like that.
+I can't believe that you enjoyed
+yourself as much as you did.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -29,7 +29,7 @@ for a spy. Isn't that crazy?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-You've lead a very tumultuous life, it seems.
+You've lead a very crazy life, it seems.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -47,7 +47,8 @@ Hey, where's <Lion>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think he went inside earlier.
+He was a little green in the face
+earlier. I think he went inside.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -92,7 +93,7 @@ a ride to Seinegald!
 [ENDBLOCK]
 Hey, wait!
 [ENDBLOCK]
-If we weren't carrying 'that', things
+If we weren't carrying 'that,' things
 might have been different...
 [ENDBLOCK]
 Who threw that!?
@@ -348,10 +349,10 @@ to clear certain objectives.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>Here's the basic rules.
+<TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the 
 	city will start the game.
-2: Battles doesn't affect the clearing
+2: Battles don't affect the clearing
 	objective of the Rock Rally game.
 3: The rock will return to its original
 	location when you enter or leave
