@@ -6,16 +6,16 @@ are you? Well then...
 Innkeeper
 [ENDBLOCK]
 Do you have any info
-about the cat?
+about the cats?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 No, we're here to help
-you find your cat.
+you find your cats.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Really? !
+Really?!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK] 
@@ -47,7 +47,7 @@ other information?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-As a matter of fact, I do.  I have a
+As a matter of fact, I do. I have a
 report that a cat that looks like
 that was seen in the Tilso Forest.
 [ENDBLOCK]
@@ -112,7 +112,7 @@ Money is no object!
 <Millie>
 [ENDBLOCK]
 Yes, yes. Once we get the
-country  back, the royal family
+country back, the royal family
 will re-pay everything back!
 [ENDBLOCK]
 <John>
@@ -130,7 +130,7 @@ In that case!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-We are Dark,the Dark Wings♪
+We are Dark, the Dark Wings♪
 Awesome mercenaries, yeah!
 [ENDBLOCK]
 <Stahn>
@@ -202,124 +202,121 @@ Did you con those people?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Um, excuse me.
+Umm, excuse me.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Yes, what is it?
+Yes, what can I for you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-There's actually
-something I'm 
-looking for.
+Actually, there's something
+I'm looking for...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-If that's the case, I've heard
-that it's deep in the forest of
-Tilso in the north.
+If that's the case, I've heard it's deep
+in the Tilso Forest to the north.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Are you sure? !
+Is that true!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Thank you. I'll go to that Tilso
-forest as soon as possible then.
+Thank you. Well then, I'll go to Tilso
+Forest as soon as possible.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Excuse me, miss, are
-you going alone?
+Excuse me, miss, but are you
+going there alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Where are your friends?
+What about your companions!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Please don't tell anyone.
+Please keep this a secret from everyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I want to do it by myself.
+I want to do this alone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now, let me go to the Tilso
-Forest in the north that 
-the innkeeper mentioned.
+Now then, I think I'll head over to that
+Tilso Forest up north that the
+innkeeper mentioned.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're going to surprise
-your brother.
+I'm going to give a big surpise
+to my brother.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
 I've heard that it's deep
-in the forest of Tilso.
+within the Tilso Forest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-But I can't believe you're going alone.
-Please don't do anything rash.
+But I can't believe you're going alone...
+Please be careful.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Do you want to give up today?
+Do you want to give up for today?
 Yes
 No
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now, let's go to the Tilso
-Forest in the north that 
-the innkeeper mentioned.
+Now then, I think I'll head over to that
+Tilso Forest up north that the
+innkeeper mentioned.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're going to surprise
-your brother.
+I'm going to give a big surpise
+to my brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Oh... big brother.
+Ah... big bro.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, <Lilith>. Where have you
+Oi, <Lilith>. Where have you
 been all by yourself?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I was worried because you
-left without saying anything.
+We were worried when you left
+without telling us.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm sorry. I just wanted
-to get out of the house.
+I'm sorry.
+I just wanted to get out for a bit.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on, let's get back
-to the others.
+Come on, let's get back with the others.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Hey, big brother.
+Hey, big bro?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'll give you this.
+I'm giving this to you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is this a ... medicinal herb?
+Is this... an herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -327,47 +324,48 @@ Yeah.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But why?
+But, why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I was walking outside 
-and stumbled upon it.
+I stumbled upon it while
+I was out walking.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then why don't you use it?
+Then, why don't you use it, <Lilith>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Oh, God!
+Jeez!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're in a fight to save the world.
+My big bro is out fighting
+to save the world.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You need it more than I!
+So just use it, alright!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 All right.
-I'll take it.
+Then I'll be sure to take it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Okay. Make good use of it.
+Take it? Make sure to use it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 If you don't use it properly,
-even when you're awake...
+then even when you're awake, I'll...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wait, <Lilith>. I'll use it.
-I promise I'll use it!
+H-hold up <Lilith>.
+I'll use it! I definitely promise to use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -375,7 +373,7 @@ Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-See you soon.
+See you later then.
 Thank you, <Lilith>.
 [ENDBLOCK]
 <Lilith>
@@ -384,7 +382,7 @@ You're welcome.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother.
+Big bro.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
