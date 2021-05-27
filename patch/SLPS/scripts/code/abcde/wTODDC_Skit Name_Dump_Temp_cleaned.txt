@@ -3175,7 +3175,7 @@ About [Lion]'s Mother[END]
 
 //Text $1610B
 #WRITE(ptr,$5E48)
-Kind Master [lion] Isn't![END]
+Kind Master [Lion] Isn't![END]
 // current address: $16125
 
 //Text $16125
