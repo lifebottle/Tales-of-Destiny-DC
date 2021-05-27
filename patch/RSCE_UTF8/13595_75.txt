@@ -505,7 +505,7 @@ OK, let's do this!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thank you so very much!!!
+Huh? Are you giving up?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -515,7 +515,7 @@ No
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Huh? You're giving up?
+Huh? You wanna stop?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -617,10 +617,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

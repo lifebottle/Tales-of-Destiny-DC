@@ -95,7 +95,7 @@ to a stranger's house alone.
 Young Man
 [ENDBLOCK]
 From what I've heard, it seems that
-the Capital has been overrun by rebels.
+the capital has been overrun by rebels.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -111,7 +111,7 @@ not to fall asleep.
 Young Man
 [ENDBLOCK]
 <Greybum>, the rebel leader, had
-no connection to this country, ok!
+no connection to this country.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -207,10 +207,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

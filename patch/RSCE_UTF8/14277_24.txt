@@ -30,7 +30,7 @@ Ahh!!
 select
 [ENDBLOCK]
 <TAG_007>I'm not related to the Royal Family.
-Is something wrong boy?
+Is something wrong, boy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -58,7 +58,7 @@ son <Woodrow>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-... Yes.
+...Yes.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -93,7 +93,7 @@ Eh, aren't you...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Who, Me?
+Who, me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -133,7 +133,7 @@ even if it's only my face.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-When I came back to this town I
+When I came back to this town, I
 wondered if I would see you again.
 [ENDBLOCK]
 <Mary>
@@ -173,7 +173,7 @@ Thanks to the King of Phandaria.
 Woman
 [ENDBLOCK]
 We can still live in this
-world thanks to the King.
+world, thanks to the King.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -267,7 +267,7 @@ He never liked conflict.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Amid all the violence 2 years ago
+Amid all the violence 2 years ago,
 someone had to be chosen to lead us.
 [ENDBLOCK]
 Old Woman
@@ -276,7 +276,7 @@ We are all sick and tired of war.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-At this rate, not only this city but the
+At this rate, not only this city, but the
 entire country will be smothered by ice.
 [ENDBLOCK]
 Old Woman
@@ -359,7 +359,7 @@ You too have this duty.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-You come back alive you hear me.
+You come back alive, you hear me?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -465,10 +465,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

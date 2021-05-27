@@ -436,7 +436,7 @@ is still safe or not.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-... I'm sorry. I can't 
+...I'm sorry. I can't 
 even begin to fill you in.
 [ENDBLOCK]
 <Stahn>
@@ -496,7 +496,7 @@ I can tell just by looking at you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-With such nagging ...?
+Even with all this nagging...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -592,7 +592,7 @@ in front of you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright, I'll try it out.'
+Alright, I'll try it out.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -693,10 +693,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

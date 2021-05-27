@@ -553,8 +553,8 @@ What? Don't you know?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-It's cool, it's kind, 
-it's strong, and it's nice.
+He's cool, he's kind, 
+he's strong, and he's nice.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
@@ -1004,10 +1004,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

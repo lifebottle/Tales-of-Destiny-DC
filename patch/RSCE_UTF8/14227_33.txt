@@ -643,7 +643,7 @@ in your half-dress?
 Little Girl
 [ENDBLOCK]
 Is it true that I'm going
-to lose my Phandria?
+to lose my Phandaria?
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
@@ -662,7 +662,7 @@ can't lose my Phandaria, right?
 Soldier
 [ENDBLOCK]
 There are many monsters
-in the forest of Tilso.
+in Tilso Forest.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -682,13 +682,13 @@ and made to join the rebellion.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, this is <Woodrow>!
+This is His Majesty <Woodrow>!
 It's an honor to have you come
 to our aid!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Woodrow> For the sake of His
+<Woodrow>, for the sake of His
 Majesty and this country, I 
 will never run away.
 [ENDBLOCK]
@@ -715,8 +715,8 @@ get out of here!
 Child
 [ENDBLOCK]
 Even though they were threatened
-by <Greybum>, Are Cyril's people
-really blameless.
+by <Greybum>, are Cyril's people
+really blameless?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -849,10 +849,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice

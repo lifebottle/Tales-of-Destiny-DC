@@ -948,7 +948,7 @@ if I couldn't bring myself to fight her...
 <Lion>
 [ENDBLOCK]
 ...Chal, what's wrong? You've been
-silent for a while, now.
+silent for a while now.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -1148,10 +1148,10 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+You already have
+the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
 notice
