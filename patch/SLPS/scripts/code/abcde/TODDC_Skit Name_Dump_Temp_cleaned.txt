@@ -2,7 +2,7 @@
 
 // Define required TABLE variables and load the corresponding tables
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\TOD\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 
 
@@ -3175,7 +3175,7 @@ About [Lion]'s Mother[END]
 
 //Text $1610B
 #WRITE(ptr,$5E48)
-Kind Master [Lion] Isn't![END]
+Kind Master [lion] Isn't![END]
 // current address: $16125
 
 //Text $16125
