@@ -7,6 +7,8 @@ import pandas as pd
 import pygsheets
 from os import fdopen, remove
 import re
+import binascii
+import numpy as np
 
 class Helper:
     
@@ -71,16 +73,24 @@ class Helper:
             block = row['English']
             lines = block.split("\n")
             
-            textOffset  = lines[0][lines[0].find("$")+1:].replace("\n","")
-            pointer     = lines[1][lines[1].find("$")+1:].replace(")\n","")
-            text        = block[block.find(")")+1:]
-            finalList.append( [block,text, textOffset, pointer])
+            textOffset  = re.findall("\$(\w+)\)", block)[0]
+            
+            pointers     = ",".join( re.findall("\$(\w+)\)", block))
+            text        = block[block.rfind(")")+1:].replace("\n","")
+            finalList.append( [block,text, textOffset, pointers])
         
         
         
         
+        dfOriginal=  pd.DataFrame( finalList, columns=['block', 'text', 'textOffset', 'pointer'])
+        #dfOriginal.to_excel("googleSheet_Extracted.xlsx")
+        dfOriginal['textOffsetInt'] = dfOriginal['textOffset'].apply(lambda x: int(x, 16))
+        #dfOriginal.to_excel("googleSheet_Extracted.xlsx")
+        dfOriginal['index'] = np.arange(1, dfOriginal.shape[0] + 1)
         
-        
+        dfGroup = dfOriginal.groupby('text').min('textOffSetInt')  
+        dfGroup.to_excel("googleSheet_Extracted2.xlsx")
+        #finalList = removeDuplicates
         return finalList
     
 
@@ -506,7 +516,7 @@ class Helper:
         self.cleanData()
         finalList = self.parseGoogleSheet()
         dfFinal = pd.DataFrame(finalList, columns=["TextOffset", "Text", "TextOffset", "Pointer"])
-        dfFinal.to_excel("dfFinal.xlsx")
+       
         
         #Create the script as is in the original file (first section file)
         allText = "\n".join(self.dfData['English'].tolist())  
@@ -529,10 +539,8 @@ class Helper:
         dfTemp = pd.DataFrame(listText, columns=["Block", "Text", "TextOffset", "EndOffset", "Pointer"])
         dfTemp["Length"] = dfTemp['EndOffset'].apply(lambda x : int(x, 16)) - dfTemp['TextOffset'].apply(lambda x : int(x,16))
         dfTemp["TextOffsetInt"] = dfTemp["TextOffset"].apply(lambda x: int(x,16))
-  
-        #dfFinal.to_excel("final.xlsx")
-        
-        dfTemp.to_excel("temp_Prep.xlsx")
+
+        #dfTemp.to_excel("temp_Prep.xlsx")
         
         #Find the cutting line and separate the text in the different file
         sections = [[ele['SectionId'], ele['File'], ele['PointerHeader'], ele['TextStart'], ele['TextEnd']] for ele in block['Sections']]
@@ -561,7 +569,7 @@ class Helper:
             dfTemp.loc[ dfTemp['TextOffsetCumul'] < textEndInt, 'File'] =  file
             dfTemp.loc[ dfTemp['TextOffsetCumul'] < textEndInt, 'PointerHeaderInt'] =  pointerHeaderInt
             
-        dfTemp.to_excel("temp.xlsx")   
+        #dfTemp.to_excel("temp.xlsx")   
         dfTemp.loc[:,"NewTextOffSetInt"] = dfTemp["TextOffsetCumul"] - dfTemp["Length"]
         dfTemp["NewTextSum"]   = [hex(ele)[2:].capitalize() for ele in dfTemp["NewTextOffSetInt"] + dfTemp["PointerHeaderInt"].astype(int) ]
         dfTemp["NewPointerValue"]   = [ ele[4:6] + ele[2:4] + ele[0:2] for ele in dfTemp["NewTextSum"]]
@@ -584,7 +592,7 @@ class Helper:
             
             self.PointerHeader = hex(int(dfText['PointerHeaderInt'].tolist()[0]))[2:].capitalize()
             
-            print(self.PointerHeader)
+            #print(self.PointerHeader)
             header = self.getHeader()
             with open(os.path.join(self.basePath,"abcde", "TODDC_{}_Dump.txt".format(blockDesc)),encoding="utf-8", mode="w") as finalScript:
                 finalScript.write(header + jumpText + allText)
@@ -603,24 +611,28 @@ class Helper:
            
             self.reinsertText_Block(blockDesc)
     
-            
+         
             #Update the pointers
+            
+            print("File: {} FilePointer: {}".format(file, block['FilePointer']))
             if file != block['FilePointer']:
                self.updatePointersBaseFile(block['FilePointer'], dfTemp[ dfTemp['File'] == file])
             
     def updatePointersBaseFile(self, filePointerPath, dfTemp):
         
         filePointer = os.path.basename(filePointerPath) 
-        hexString = "00".join(dfTemp['NewPointerValue'].tolist())
-        arrayHex = bytearray.fromhex(hexString)
+        mybytes = binascii.a2b_hex('00'.join(dfTemp['NewPointerValue'].tolist()))
+        #print(mybytes)
+   
         pointerTableOffset = int(dfTemp['Pointer'].tolist()[0], 16)
         print("PointerOffset: {}".format(pointerTableOffset))
         
         #Open the file
         with open(os.path.join(self.basePath,"abcde", filePointer), mode="r+b") as f:
             f.seek(pointerTableOffset)
-            f.write(arrayHex)
-            
+            f.write(mybytes)
+        
+        shutil.copyfile( os.path.join(self.basePath, "abcde", filePointer), os.path.join(self.basePath, "..",filePointer))
             
     def createAtlasScript_All(self):
         
