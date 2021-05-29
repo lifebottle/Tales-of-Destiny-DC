@@ -46,7 +46,7 @@ the North side of town.
 [ENDBLOCK]
 He's been undergoing medical
 treatment at the Frostheim
-Hot Springs, lately, as well.
+Hot Springs lately, as well.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -61,7 +61,7 @@ most important thing.
 <Mary>
 [ENDBLOCK]
 You've come all this way.
-You should stay for dinner, tonight!
+You should stay for dinner tonight!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -98,7 +98,7 @@ I need to get going.
 <Mary>
 [ENDBLOCK]
 Sure. Come visit
-again, sometime.
+again sometime.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -510,6 +510,7 @@ he was going back to Heidelberg.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
+//TODO rewrite this
 His, and our destination, is the same.
 [ENDBLOCK]
 <Stahn>
