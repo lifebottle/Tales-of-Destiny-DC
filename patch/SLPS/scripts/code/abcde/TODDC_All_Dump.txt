@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -13870,7 +13870,7 @@ Extremely valuable.[END]
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
 Upper body armor sewn with steel scales.[LINE]
-A storied and ancient armor. It's only[LINE]
+A storied and ancient armor. Its only[LINE]
 fault is that it's noisy when moving.[END]
 
 //Text $1B57F0
