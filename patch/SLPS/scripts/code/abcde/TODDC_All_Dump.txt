@@ -4294,7 +4294,7 @@ Revives one KO'd ally and restores[LINE]
 //Text $19D600
 #WRITE(ptr,$184690)
 Drops a toy hammer that may[LINE]
-stuns. Is it a spell?[END]
+stun. Is it a spell?[END]
 
 
 //Text $19D5E8
