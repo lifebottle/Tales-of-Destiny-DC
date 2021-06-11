@@ -692,7 +692,7 @@ Treasure it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Strawberry...?
+Con...tact?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -705,6 +705,7 @@ I see! Thank you!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
+//TODO look at this whole exchange
 Ah, what a mess...
 [ENDBLOCK]
 <Stahn>
@@ -713,7 +714,8 @@ What's the matter?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Well, my cat is not in good health.
+Actually, my cat at home
+is in poor health.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -767,7 +769,7 @@ Now, let's get...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Wa...wait!
+W-Wait!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -876,7 +878,7 @@ tell me. I'll get it eventually.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-...Vi...Vi...
+...Vei...Vei...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -1091,8 +1093,8 @@ it ready to be used?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, look who's here. Everyone's
-here. Thanks for picking me up! 
+Oh, look, everyone's here.
+Thanks for picking me up! 
 What a surprise.
 [ENDBLOCK]
 <Philia>
@@ -1123,16 +1125,16 @@ match for you.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Woodrow> and <Chelsea>.
-You look great!
+<Woodrow>, <Chelsea>, you
+look like you're doing fine!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Oh.
+Yeah.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Hello.
+Yes.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1145,8 +1147,8 @@ Yes, you're right.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Whoa. Did one of you 
-forget to say hello?
+Whoa. Didn't you forget 
+to say hello to someone?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1159,7 +1161,7 @@ You are the champion...)
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh yeah, I'm just kidding.
+I'm kidding, it's just a joke.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
