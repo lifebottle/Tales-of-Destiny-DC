@@ -2080,7 +2080,7 @@ Cresta is East of Darilsheid[END]
 
 //Text $14FF3
 #WRITE(ptr,$5ADC)
-What Happened to Phadaria[END]
+What Happened to Phandaria[END]
 // current address: $1500D
 
 //Text $1500D
