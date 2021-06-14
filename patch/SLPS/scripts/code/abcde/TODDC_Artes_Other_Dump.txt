@@ -230,7 +230,7 @@ A cold embrace that brings death.[END]
 //Text $19CE98
 #WRITE(ptr,$1849D0)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 1 BG＞[/color][LINE]
-A divine light to pass judgement on the wicked.[END]
+A divine light to pass judgment on the wicked.[END]
 
 
 //Text $19CE80
@@ -252,7 +252,7 @@ Four elemental artes unleashed in succession.[END]
 //Text $19CDB0
 #WRITE(ptr,$184A10)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 3 BG＞[/color][LINE]
-Call upon the lightning of judgement.[END]
+Call upon the lightning of judgment.[END]
 
 
 //Text $19CDA0
