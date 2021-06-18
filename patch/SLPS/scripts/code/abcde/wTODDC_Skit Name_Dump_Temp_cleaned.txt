@@ -2080,7 +2080,7 @@ Cresta is East of Darilsheid[END]
 
 //Text $14FF3
 #WRITE(ptr,$5ADC)
-What Happened to Phandaria[END]
+What Happened to Phadaria[END]
 // current address: $1500D
 
 //Text $1500D
@@ -2450,7 +2450,7 @@ Enemy Headquarters[END]
 
 //Text $156BD
 #WRITE(ptr,$5C04)
-Stopping a Century Old Ambition[END]
+Stoping a Century Old Ambition[END]
 // current address: $156DC
 
 //Text $156DC
