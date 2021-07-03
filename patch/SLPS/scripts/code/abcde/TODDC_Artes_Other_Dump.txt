@@ -4499,7 +4499,7 @@ Calviola[END]
 
 //Text $1A4F78
 #WRITE(ptr,$1878F8)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1A4F68
@@ -4684,7 +4684,7 @@ Petrified Monster Battle[END]
 
 //Text $1A4C40
 #WRITE(ptr,$186CF0)
-Fitzgald F1(around Neuestadt)[END]
+Fitzgald F1(around Neustadt)[END]
 
 
 //Text $1A4C20
@@ -4814,7 +4814,7 @@ Battle of Grebam[END]
 
 //Text $1A4A28
 #WRITE(ptr,$186E28)
-Fitzgald F2(around Neuestadt)[END]
+Fitzgald F2(around Neustadt)[END]
 
 
 //Text $1A4A08
@@ -5397,7 +5397,7 @@ Arena Level６[END]
 
 //Text $1A3E80
 #WRITE(ptr,$1873A4)
-Additional Battles in Neuestadt[END]
+Additional Battles in Neustadt[END]
 
 
 //Text $1A3E60
@@ -5492,22 +5492,22 @@ Heidelberg Snowfield 3[END]
 
 //Text $1A3CA8
 #WRITE(ptr,$186290)
-Neuestadt Grasslands 0[END]
+Neustadt Grasslands 0[END]
 
 
 //Text $1A3C90
 #WRITE(ptr,$186298)
-Neuestadt Grasslands 1[END]
+Neustadt Grasslands 1[END]
 
 
 //Text $1A3C78
 #WRITE(ptr,$1862A0)
-Neuestadt Grasslands 2[END]
+Neustadt Grasslands 2[END]
 
 
 //Text $1A3C60
 #WRITE(ptr,$1862A8)
-Neuestadt Grasslands 3[END]
+Neustadt Grasslands 3[END]
 
 
 //Text $1A3C38
@@ -5652,22 +5652,22 @@ Heidelberg Snow-Covered Forest 3[END]
 
 //Text $1A38E8
 #WRITE(ptr,$186390)
-Neuestadt Forest 0[END]
+Neustadt Forest 0[END]
 
 
 //Text $1A38D0
 #WRITE(ptr,$186398)
-Neuestadt Forest 1[END]
+Neustadt Forest 1[END]
 
 
 //Text $1A38B8
 #WRITE(ptr,$1863A0)
-Neuestadt Forest 2[END]
+Neustadt Forest 2[END]
 
 
 //Text $1A38A0
 #WRITE(ptr,$1863A8)
-Neuestadt Forest 3[END]
+Neustadt Forest 3[END]
 
 
 //Text $1A3878
@@ -5772,22 +5772,22 @@ Heidelberg Snowy High Road 3[END]
 
 //Text $1A3608
 #WRITE(ptr,$186450)
-Neuestadt High Road 0[END]
+Neustadt High Road 0[END]
 
 
 //Text $1A35F0
 #WRITE(ptr,$186458)
-Neuestadt High Road1[END]
+Neustadt High Road1[END]
 
 
 //Text $1A35D8
 #WRITE(ptr,$186460)
-Neuestadt High Road2[END]
+Neustadt High Road2[END]
 
 
 //Text $1A35C0
 #WRITE(ptr,$186468)
-Neuestadt High Road 3[END]
+Neustadt High Road 3[END]
 
 
 //Text $1A3598

@@ -1435,12 +1435,12 @@ Let's Go Home[END]
 
 //Text $14381
 #WRITE(ptr,$58D8)
-Neuestadt is Southeast of Lienea[END]
+Neustadt is Southeast of Lienea[END]
 // current address: $143A2
 
 //Text $143A2
 #WRITE(ptr,$58DC)
-Southeast from Lienea is Neuestadt[END]
+Southeast from Lienea is Neustadt[END]
 // current address: $143C5
 
 //Text $143C5
@@ -2295,7 +2295,7 @@ Searching for Lens around the World[END]
 
 //Text $15408
 #WRITE(ptr,$5B88)
-Seeking Lens in Neuestadt[END]
+Seeking Lens in Neustadt[END]
 // current address: $15422
 
 //Text $15422

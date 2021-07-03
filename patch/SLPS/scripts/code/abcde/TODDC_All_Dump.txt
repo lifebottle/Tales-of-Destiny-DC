@@ -5754,7 +5754,7 @@ Calviola[END]
 
 //Text $1A4F78
 #WRITE(ptr,$1878F8)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1A4F68
@@ -5940,7 +5940,7 @@ Petrified Monster Battle[END]
 
 //Text $1A4C40
 #WRITE(ptr,$186CF0)
-Fitzgald F1(around Neuestadt)[END]
+Fitzgald F1(around Neustadt)[END]
 
 
 //Text $1A4C20
@@ -6070,7 +6070,7 @@ Battle of Greybum[END]
 
 //Text $1A4A28
 #WRITE(ptr,$186E28)
-Fitzgald F2(around Neuestadt)[END]
+Fitzgald F2(around Neustadt)[END]
 
 
 //Text $1A4A08
@@ -6653,7 +6653,7 @@ Arena Level６[END]
 
 //Text $1A3E80
 #WRITE(ptr,$1873A4)
-Additional Battles in Neuestadt[END]
+Additional Battles in Neustadt[END]
 
 
 //Text $1A3E60
@@ -6748,22 +6748,22 @@ Heidelberg Snowfield 3[END]
 
 //Text $1A3CA8
 #WRITE(ptr,$186290)
-Neuestadt Grasslands 0[END]
+Neustadt Grasslands 0[END]
 
 
 //Text $1A3C90
 #WRITE(ptr,$186298)
-Neuestadt Grasslands 1[END]
+Neustadt Grasslands 1[END]
 
 
 //Text $1A3C78
 #WRITE(ptr,$1862A0)
-Neuestadt Grasslands 2[END]
+Neustadt Grasslands 2[END]
 
 
 //Text $1A3C60
 #WRITE(ptr,$1862A8)
-Neuestadt Grasslands 3[END]
+Neustadt Grasslands 3[END]
 
 
 //Text $1A3C38
@@ -6908,22 +6908,22 @@ Heidelberg Snow-Covered Forest 3[END]
 
 //Text $1A38E8
 #WRITE(ptr,$186390)
-Neuestadt Forest 0[END]
+Neustadt Forest 0[END]
 
 
 //Text $1A38D0
 #WRITE(ptr,$186398)
-Neuestadt Forest 1[END]
+Neustadt Forest 1[END]
 
 
 //Text $1A38B8
 #WRITE(ptr,$1863A0)
-Neuestadt Forest 2[END]
+Neustadt Forest 2[END]
 
 
 //Text $1A38A0
 #WRITE(ptr,$1863A8)
-Neuestadt Forest 3[END]
+Neustadt Forest 3[END]
 
 
 //Text $1A3878
@@ -7028,22 +7028,22 @@ Heidelberg Snowy High Road 3[END]
 
 //Text $1A3608
 #WRITE(ptr,$186450)
-Neuestadt High Road 0[END]
+Neustadt High Road 0[END]
 
 
 //Text $1A35F0
 #WRITE(ptr,$186458)
-Neuestadt High Road1[END]
+Neustadt High Road1[END]
 
 
 //Text $1A35D8
 #WRITE(ptr,$186460)
-Neuestadt High Road2[END]
+Neustadt High Road2[END]
 
 
 //Text $1A35C0
 #WRITE(ptr,$186468)
-Neuestadt High Road 3[END]
+Neustadt High Road 3[END]
 
 
 //Text $1A3598
@@ -8057,7 +8057,7 @@ Calviola Temple[END]
 //Text $1A6410
 #WRITE(ptr,$18951C)
 #WRITE(ptr,$189528)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1A63F0
@@ -9191,7 +9191,7 @@ traveling charm.[END]
 #WRITE(ptr,$18BEC8)
 If you've got a wish you want granted,[LINE]
 you might want to take a look around[LINE]
-Neuestadt for a certain dazzling plant.[END]
+Neustadt for a certain dazzling plant.[END]
 
 //Text $1A9F28
 #WRITE(ptr,$18BEDC)
@@ -9552,7 +9552,7 @@ who witness it gliding.[END]
 
 //Text $1A8E78
 #WRITE(ptr,$18C114)
-There's a creature near Neuestadt that's said to be[LINE]
+There's a creature near Neustadt that's said to be[LINE]
 a hit with young men. It should be easy enough[LINE]
 to identify upon spotting it.[END]
 
@@ -9571,7 +9571,7 @@ but makes a nice soup base.[END]
 //Text $1A8D90
 #WRITE(ptr,$18C130)
 There seems to be a prolific creature[LINE]
-on the shores near Neuestad that[LINE]
+on the shores near Neustadt that[LINE]
 makes an excellent ingredient.[END]
 
 
@@ -9697,7 +9697,7 @@ Its purpose is unknown.[END]
 //Text $1A87A8
 #WRITE(ptr,$18C1F4)
 There seems to be a strange wooden figure[LINE]
-near Neuestadt with an unknown purpose.[LINE]
+near Neustadt with an unknown purpose.[LINE]
 [END]
 
 
@@ -18065,7 +18065,7 @@ Calviola[END]
 
 //Text $1BB5B8
 #WRITE(ptr,$194200)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1BB5A8
