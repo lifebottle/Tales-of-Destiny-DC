@@ -103,7 +103,7 @@ I would like to ride one just once.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-Are you going to Neuestadt?
+Are you going to Neustadt?
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
@@ -195,7 +195,7 @@ The people here are kinda cold...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We wish to depart to Neuestadt.
+We wish to depart to Neustadt.
 Baruk has given authorization.
 [ENDBLOCK]
 Captain
@@ -209,7 +209,7 @@ What would you like to do?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Embark to Neuestadt?
+<TAG_007>Embark to Neustadt?
 Set Sail
 Not Yet
 
@@ -460,7 +460,7 @@ Darilsheid Harbor
 Cherik Harbor
 
 [ENDBLOCK]
-Neuestadt Harbor
+Neustadt Harbor
 
 [ENDBLOCK]
 Shiden Harbor

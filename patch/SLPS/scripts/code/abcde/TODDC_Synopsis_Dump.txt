@@ -553,7 +553,7 @@ he ultimately manages to escape.[LINE]
 [Baruk] assists the party[LINE]
 who decide to head to Cherik,[LINE]
 in order to pursue [Greybum][LINE]
-to Neuestadt by sea.[LINE]
+to Neustadt by sea.[LINE]
 [END]
 
 
@@ -579,7 +579,7 @@ Jolly Co-Op[END]
 //Text $AC68
 #WRITE(ptr,$1B2C)
 Following [Greybum]'s trail,[LINE]
-the party arrives in Neuestadt,[LINE]
+the party arrives in Neustadt,[LINE]
 capital of Fitzgald.[LINE]
 Their first order of business is[LINE]
 visiting the residence of[LINE]
@@ -591,7 +591,7 @@ Oberon Coporation branch.[LINE]
 //Text $ABD0
 #WRITE(ptr,$1B3C)
 The group is taken by the beauty of[LINE]
-Neuestadt. [Stahn] happens upon[LINE]
+Neustadt. [Stahn] happens upon[LINE]
 an acquaintance from his hometown,[LINE]
 [Bacchus], and they then once again[LINE]
 make their way toward [Ilene]'s home.[LINE]
@@ -648,7 +648,7 @@ takes place within the Arena,[LINE]
 and the two become friends[LINE]
 after exchanging blows.[LINE]
 [Lion] then appears and gives[LINE]
-troubling news: Neuestadt is[LINE]
+troubling news: Neustadt is[LINE]
 currently under siege by monsters.[LINE]
 [END]
 
@@ -725,7 +725,7 @@ Strike the Armada![END]
 //Text $A618
 #WRITE(ptr,$1BCC)
 Saying their farewells to[LINE]
-their new friends in Neuestadt,[LINE]
+their new friends in Neustadt,[LINE]
 [Stahn] and the others leave[LINE]
 for Aquaveil. What could await them[LINE]
 at this new location?[LINE]
@@ -1340,7 +1340,7 @@ Home, Finally[END]
 //Text $8F18
 #WRITE(ptr,$1E2C)
 [Stahn] and [Philia] arrive in[LINE]
-Neuestadt, and decide to head[LINE]
+Neustadt, and decide to head[LINE]
 to the harbor to charter[LINE]
 a ship to Phandalia.[LINE]
 [END]
@@ -2442,7 +2442,7 @@ Not Enough Lens![END]
 
 //Text $65C8
 #WRITE(ptr,$226C)
-After collecting the lens in Neuestadt,[LINE]
+After collecting the lens in Neustadt,[LINE]
 [Stahn], [Kongman] and the others[LINE]
 are met with a cacophony of cheers[LINE]
 that renew their fighting spirit.[LINE]
@@ -3118,7 +3118,7 @@ An Odd Temple[END]
 //Text $4C30
 #WRITE(ptr,$250C)
 The group returns to Cherik,[LINE]
-where they board a ship to Neuestadt[LINE]
+where they board a ship to Neustadt[LINE]
 following the information[LINE]
 they received from [Baruk].[LINE]
 [END]
@@ -3151,7 +3151,7 @@ Jolly Co-Op[END]
 Tired of waiting for [Ilene][LINE]
 at her estate, [Lion] sets out[LINE]
 to search for a popsicle stand[LINE]
-somewhere in Neuestadt.[LINE]
+somewhere in Neustadt.[LINE]
 [END]
 
 
@@ -3239,7 +3239,7 @@ Strike the Armada![END]
 //Text $4758
 #WRITE(ptr,$258C)
 Saying their farewells to[LINE]
-their new friends in Neuestadt,[LINE]
+their new friends in Neustadt,[LINE]
 [Lion] and the others leave[LINE]
 for Aquaveil. What could await them[LINE]
 at this new location?[LINE]
