@@ -472,7 +472,7 @@ It's nice to meet you.
 <Stahn>
 [ENDBLOCK]
 What were you doing
-here Mr. <Isard>?
+here, Mr. <Isard>?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -1165,8 +1165,8 @@ Captain
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>We're leaving for the Secret Factory.
-Are you Ready?
+<TAG_007>We're leaving for the secret factory.
+Are you ready?
 Yes
 No
 
