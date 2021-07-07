@@ -1,12 +1,12 @@
 notice
 [ENDBLOCK]
-The rats took the energy unit.
+The rat took the energy unit.
 [ENDBLOCK]
 <IGNORE>
 
 [ENDBLOCK]
 We have to get the energy
-unit back from the rats!
+unit back from the rat!
 [ENDBLOCK]
 What the hell is that rat? 
 Let's get that energy unit back.
@@ -27,7 +27,7 @@ I don't like rats, but we have
 to get the energy unit back.
 [ENDBLOCK]
 We've got to get the energy
-unit back from the rats.
+unit back from the rat.
 [ENDBLOCK]
 I'll get the energy unit back.
 [ENDBLOCK]
@@ -70,7 +70,7 @@ now_light_b <x17><x71><x47><xE8><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-It doesn't have the energy unit.
+You don't have an energy unit.
 [ENDBLOCK]
  <TAG_031> ------------------ <x17><x24><x4F><x72><x00><x8B><x14><x2F><x80>
 
