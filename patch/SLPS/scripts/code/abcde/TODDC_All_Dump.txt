@@ -5754,7 +5754,7 @@ Calviola[END]
 
 //Text $1A4F78
 #WRITE(ptr,$1878F8)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1A4F68
@@ -5940,7 +5940,7 @@ Petrified Monster Battle[END]
 
 //Text $1A4C40
 #WRITE(ptr,$186CF0)
-Fitzgald F1(around Neuestadt)[END]
+Fitzgald F1(around Neustadt)[END]
 
 
 //Text $1A4C20
@@ -6070,7 +6070,7 @@ Battle of Greybum[END]
 
 //Text $1A4A28
 #WRITE(ptr,$186E28)
-Fitzgald F2(around Neuestadt)[END]
+Fitzgald F2(around Neustadt)[END]
 
 
 //Text $1A4A08
@@ -6653,7 +6653,7 @@ Arena Level６[END]
 
 //Text $1A3E80
 #WRITE(ptr,$1873A4)
-Additional Battles in Neuestadt[END]
+Additional Battles in Neustadt[END]
 
 
 //Text $1A3E60
@@ -6748,22 +6748,22 @@ Heidelberg Snowfield 3[END]
 
 //Text $1A3CA8
 #WRITE(ptr,$186290)
-Neuestadt Grasslands 0[END]
+Neustadt Grasslands 0[END]
 
 
 //Text $1A3C90
 #WRITE(ptr,$186298)
-Neuestadt Grasslands 1[END]
+Neustadt Grasslands 1[END]
 
 
 //Text $1A3C78
 #WRITE(ptr,$1862A0)
-Neuestadt Grasslands 2[END]
+Neustadt Grasslands 2[END]
 
 
 //Text $1A3C60
 #WRITE(ptr,$1862A8)
-Neuestadt Grasslands 3[END]
+Neustadt Grasslands 3[END]
 
 
 //Text $1A3C38
@@ -6908,22 +6908,22 @@ Heidelberg Snow-Covered Forest 3[END]
 
 //Text $1A38E8
 #WRITE(ptr,$186390)
-Neuestadt Forest 0[END]
+Neustadt Forest 0[END]
 
 
 //Text $1A38D0
 #WRITE(ptr,$186398)
-Neuestadt Forest 1[END]
+Neustadt Forest 1[END]
 
 
 //Text $1A38B8
 #WRITE(ptr,$1863A0)
-Neuestadt Forest 2[END]
+Neustadt Forest 2[END]
 
 
 //Text $1A38A0
 #WRITE(ptr,$1863A8)
-Neuestadt Forest 3[END]
+Neustadt Forest 3[END]
 
 
 //Text $1A3878
@@ -7028,22 +7028,22 @@ Heidelberg Snowy High Road 3[END]
 
 //Text $1A3608
 #WRITE(ptr,$186450)
-Neuestadt High Road 0[END]
+Neustadt High Road 0[END]
 
 
 //Text $1A35F0
 #WRITE(ptr,$186458)
-Neuestadt High Road1[END]
+Neustadt High Road1[END]
 
 
 //Text $1A35D8
 #WRITE(ptr,$186460)
-Neuestadt High Road2[END]
+Neustadt High Road2[END]
 
 
 //Text $1A35C0
 #WRITE(ptr,$186468)
-Neuestadt High Road 3[END]
+Neustadt High Road 3[END]
 
 
 //Text $1A3598
@@ -8057,7 +8057,7 @@ Calviola Temple[END]
 //Text $1A6410
 #WRITE(ptr,$18951C)
 #WRITE(ptr,$189528)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1A63F0
@@ -8490,7 +8490,6 @@ Radisrol[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F90
 #WRITE(ptr,$18A040)
 A ship once known for its heroics.[LINE]
@@ -8508,6 +8507,7 @@ Harmentz[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
@@ -8832,7 +8832,6 @@ Josaia[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A4D8)
 One of the aerial cities connected[LINE]
@@ -8865,6 +8864,7 @@ Rodeon[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -10178,7 +10178,6 @@ Restores 70% of max HP for one ally.[END]
 [Sign_Apple_Gel]Durian Gel[END]
 
 
-#JMP($1AB970)
 //Text $1AFB88
 #WRITE(ptr,$18C664)
 Full HP recovery, but sometimes...[LINE]
@@ -10201,6 +10200,7 @@ Only usable during battle.[END]
 [Sign_Apple_Gel]Gamble Gel[END]
 
 
+#JMP($1AB970)
 //Text $1AFAD8
 #WRITE(ptr,$18C69C)
 Changes HP to a random value.[LINE]
@@ -10458,7 +10458,6 @@ increases evasion rate by 1.[END]
 [Sign_9]Jasmine[END]
 
 
-#JMP($1AC530)
 //Text $1AF2E0
 #WRITE(ptr,$18C920)
 A medicinal herb that[LINE]
@@ -10490,6 +10489,7 @@ Increases physical attack by 2.[END]
 [Sign_9]Blue Verbena[END]
 
 
+#JMP($1AC530)
 //Text $1AF238
 #WRITE(ptr,$18C974)
 Increases defense by 2.[END]
@@ -18065,7 +18065,7 @@ Calviola[END]
 
 //Text $1BB5B8
 #WRITE(ptr,$194200)
-Neuestadt[END]
+Neustadt[END]
 
 
 //Text $1BB5A8
@@ -18658,7 +18658,6 @@ Junktown Grocer[END]
 Scavenger Market[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB100
 #WRITE(ptr,$193F48)
 Awe-Inspiring Beauty[END]
@@ -18714,6 +18713,7 @@ Functional Beauty[END]
 Custom Made[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB0A0
 #WRITE(ptr,$1941B0)
 Fly High[END]
