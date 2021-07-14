@@ -664,16 +664,16 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 更新人数：<x17><x6A><x02><x21><x8C><x80>、戦闘要員：<x17><x69><x49><x91><x80>
 
 [ENDBLOCK]
-<yellow>Selected (<x17><x69><x46><x98><x21><x8C><x80> Left) <Stahn>
+<yellow>Selected (<x17><x69><x46><x98><x21><x8C><x80> Left)  <Stahn>
 
 [ENDBLOCK]
-<grey1>Not Selected (<x17><x69><x46><x98><x80> Left) <Stahn>
+<grey1>Not Selected (<x17><x69><x46><x98><x80> Left)  <Stahn>
 
 [ENDBLOCK]
 <yellow>Selected (<x17><x69><x46><x99><x21><x8C><x80> Left)  <Rutee>
 
 [ENDBLOCK]
-<grey1>Not Selected (<x17><x69><x46><x9A><x80>  Left)  <Rutee>
+<grey1>Not Selected (<x17><x69><x46><x9A><x80> Left)  <Rutee>
 
 [ENDBLOCK]
 <yellow>Selected (<x17><x69><x46><x9A><x21><x8C><x80> Left)  <Philia>

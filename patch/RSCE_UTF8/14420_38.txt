@@ -7,9 +7,9 @@ This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-What is it <Rutee>?
-Even if I know you, I will still
-take your money. 
+What is it, <Rutee>?
+Even if I know you, I still
+have to charge you. 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -22,7 +22,7 @@ You should get some rest.
 Innkeeper
 [ENDBLOCK]
 Welcome. Will you be
-staying the night? 
+staying the night?
 [ENDBLOCK]
  Gald.
 Is that okay?
@@ -41,9 +41,9 @@ This is a pretty nice town, isn't it?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-What is it <Rutee>?
-Even if I know you, I will still
-take your money. 
+What is it, <Rutee>?
+Even if I know you, I still
+have to charge you. 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -55,6 +55,7 @@ You should get some rest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
+Welcome. Will you be
 staying the night?
 [ENDBLOCK]
  Gald.
