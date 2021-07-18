@@ -1040,44 +1040,45 @@ it was Sir <Lion>, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Oh, <Mary>, is that you?
+<Mary>, dear. Is that you?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-You are...
+You're...
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>It's been a while.
-Let's see...
+Who are you...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Yeah. By the way, <Mary>?
-I heard you had lost your memory.
+It has. Mary, I had heard that you
+you had lost your memory...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Oh, I'd forgotten all about you.
+Oh, yeah. 
+It's a great weight off my shoulders.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Hahaha. You're
-really funny, <Mary>.
+Hahaha. You're quite
+funny, <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I'm going to visit Cyril next time.
-I want to see <Dalis>' face again.
+I'm going to be visiting Cyril soon.
+I really wanted to see <Dalis> again.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm looking forward to it.
+I'm sure he's looking forward to it.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-You're still a bit of a jerk,
-aren't you, <Mary>?
+Feigning ignorance as always,
+aren't you <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1086,27 +1087,27 @@ with you and <Dalis>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Oh!	You are!
+Oh, it's you!
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Who? I hope it's not
-some kind of blur.
+I knew you were joking earlier
+with this "Who are you" business.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-You are the lady who lived next door
-to <Dalis> as a child, and who took
-good care of the young <Dalis>.
+You are the nice neighbor lady who
+helped taking care of <Dalis> when
+he was a young, immature rascal.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Hey, you remember me well.
+Well, you have quite the memory...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Well, okay. A wife like you is just
-fine for a hard man like <Dalis>.
+A wife like you is just right for
+a hard headed dolt like <Dalis>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1114,13 +1115,13 @@ Thank you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I hope you can get along with
-<Dalis> and let your auntie
-carry your child soon.
+Keep <Dalis> in line. 
+his old lady wants to hold 
+our child in her arms soon.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Hey...
+Uhm, excuse me...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1128,56 +1129,57 @@ Hmm?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Ma'am, what about me?
-I'm in private now. You can sign later.
+<TAG_007>Yes, young miss?
+Sorry, no autographs on my down time.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I'm uncomfortable
-when you're naked.
+You're bare chest 
+makes me uncomfortable.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-That's ridiculous. There's no 
-such thing as a woman like that.
+Nonsense. I doubt women
+like that actually exsist.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I'm here. I'm here.
+Except this woman, right here.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hahahaha.
-There's no such thing.
+Gahaha.
+You can't be serious!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Huh?
+What...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-So I'll sign it later.
+You can get my autograph later...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Huh?
+That's not...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Hey, you. Why are
-you naked...?
+Hey, why aren't you
+wearing a shirt?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Your people don't say anything?
+I'm sure your companions
+are wondering the same thing.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hahahaha.
-Who wouldn't want to see
-these muscles of mine!
+Gahaha.
+I wouldn't want to deprive everyone
+the chance to see these muscles.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-(Look of fear)...<x00>
+He's insane...<x00>
 [ENDBLOCK]
