@@ -2,7 +2,7 @@ Young Woman
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-Um, excuse me, mister...
+Um, excuse me, sir...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -10,13 +10,13 @@ Do you mean me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>I'm busy now.
-Do you have business with me?
+<TAG_007>I'm sorry, I'm in a hurry.
+How can I be of assistance.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Don't say that.
-Just listen to me.
+Please, just listen
+to what I have to say?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -24,35 +24,34 @@ Just listen to me.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Actually, I'd like to meet
-the King of Phandaria.
+Frankly speaking, I want to
+meet the King of Pandaria.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I approached you because I felt that
-you were different from the others.
+The way you speak tells me that you
+are different from the others.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Maybe you're someone who
-has access to the castle?
+Perhaps a man who can gain
+access to the castle?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-What do you want
-with the King?
+What business do you
+have with the king?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-It's none of your business.
+That is none of your concern.
 All that matters is that you
-let me see the King.
+help me meet with the King.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I can't do that without
-knowing what's going on.
-Now if you'll excuse me.
+If you won't be honest with me, I can't
+help you. Now, if you'll excuse me.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -61,7 +60,7 @@ able to meet with the King?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-...Well, yes, I am.
+...Yes, I can.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -75,8 +74,8 @@ to see him?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I see...well, since you didn't
-turn me away, I'll tell you.
+Since you were kind enough to
+hear me out, I'll tell you.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -91,14 +90,14 @@ were killed.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I begged the sailors that were there,
-and they wanted to help, but said I'd
-have to wait for my turn.
+I begged the soldiers in the area to
+help. They said they want to, but
+I needed to wait my turn.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
 But... if I have to wait any
-longer... my siblings will...!
+longer... my siblings...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
