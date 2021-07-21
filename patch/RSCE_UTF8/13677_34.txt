@@ -135,13 +135,13 @@ just lying around his house.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Walt> is probably just trying to get
-himself out of harms way, anyway.
+<Walt> is only concerned with
+getting himself out of harms way.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-In this town, <Walt> took the
-initiative to gather the lens.
+<Walt> is the one who spearheaded
+collecting lens in this town..
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -150,9 +150,9 @@ about that guy...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I'm not going to let <Walt> get
-the better of me. I'll do my
-best to protect the village.
+I can't let <Walt> do this alone.
+I also need to do my best
+to protect this town.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -160,23 +160,23 @@ I love Rock Rally.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The world is getting weird, 
+The world may be going crazy,
 but I still love Rock Rally.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Sir, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Sir, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Miss, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -190,18 +190,18 @@ I love Rock Rally.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Sir, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Sir, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Miss, I'll teach you
-guys how to play.
+Let me teach you guys
+how to play.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -211,74 +211,77 @@ the way to Armeida.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Oh I know,try and get under
+Oh, I almost forgot. 
+Get it there in less than
 2 minutes 20 seconds.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Next time, get under
-2 minutes.
+Try and do it under
+2 minutes next time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Next time, get under
-1 minute 40 seconds.
+Try and do it in less than
+1 minute 40 seconds. next time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Next time, go for under
-1 minute 20 seconds.
+Try and do it in less than
+1 minute 20 seconds next time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Aim for less than
+Try and do it in less than
 1 minute next time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-From now on, it'll always be 
-2 minutes or less.
+From now on, you'll have to
+do it in 2 minutes or less.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you have the Battle Record book?
+What? Don't tell me you don't
+have the Battle Record book.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You seem reliable enough. 
-Here, take this with you.
+You seem skilled enough. 
+Here, let me give this to you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-This shows the [Definite Strike] 
-coordination that is effective 
-against the monsters.
+It demonstrates an effective monster
+killing technique, "Definite Strike."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Take good care of it.
+You'd do well to master it.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+To perform a Definite Strike, access
+the Customize menu from the 
+Main menu and change the setting
+of Definite Strike to "ON."
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-You can also view each monster's
-Definite Strike in the Monster Book
-if Definite Strike is [ON].
+Once Definite Strike is set to "ON,"
+you will see the conditions by which
+to perform a Definite Strike for 
+each monster in the Monster Book.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I have nothing to give anymore. 
+Hmm? I have nothing more for you. 
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I have nothing to say to you now.
+I have nothing else to
+say to you..
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -565,15 +568,15 @@ Maybe next time.
 [ENDBLOCK]
 Well, I'll see you the next time.
 [ENDBLOCK]
-It's an easy job.
+Come on, it's an easy job.
 
 [ENDBLOCK]
-Just obtain the designated items
-and take them to my cohort
-in another city!
+All you have to do is obtain the
+correct items and bring them to
+my associate in another city!
 [ENDBLOCK]
-I mean, there's money to be made
-in this, so why not do it, right?
+I mean, there's money to be made.
+It's a no brainer, right?
 [ENDBLOCK]
 You could at least give me an answer.
 [ENDBLOCK]
@@ -608,24 +611,27 @@ after taking the difference
 for the payment advance.
 
 [ENDBLOCK]
-You're short the requested number of items.
+You don't have the necessary
+number of items....
 
 [ENDBLOCK]
 Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-You'll have to pay a penalty if you
-quit the job you've accepted.
+If you back out and don't
+finish a job, you'll have to pay
+a penalty for breach of contract.
 [ENDBLOCK]
-You know you have to pay a penalty to
-cancel an order you've accepted?
+You know you have to pay a penalty
+due to a breach in contract, right?
 [ENDBLOCK]
-It's great to work with you.
+It's great working with ya.
 [ENDBLOCK]
-Well, good luck then.
+Well then, good luck.
 [ENDBLOCK]
-Are you serious? If you're having 
-second thoughts, now's the time.
+You can't be serious. You're not
+having second thoughts, are you?
 [ENDBLOCK]
+I must say,
 I'm a little disappointed...
 
 [ENDBLOCK]
@@ -639,8 +645,8 @@ notice
 fee of <TAG_076> Gald.
 
 [ENDBLOCK]
-You can't cancel the contract
-unless you pay the penalty.
+The contract cannot be cancelled until
+the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
 you to pay me the money you 
@@ -661,8 +667,7 @@ I'm counting on you, man.
 Are you serious?
 This is your last chance?
 [ENDBLOCK]
-Seriously... You're 
-such a burden.
+What a pain in the ass...
 
 [ENDBLOCK]
 Return of advance payment and penalties
@@ -674,8 +679,8 @@ notice
 <TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
 [ENDBLOCK]
-I can't cancel the contract
-without charging a penalty.
+The contract cannot be cancelled until
+the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to
 ask  you to pay all the money
