@@ -4,7 +4,7 @@
 # Current Progress (First Draft)
 Scenario Files Translated: 100%
 
-Menus: 96%
+Menus: 98%
 
 Skits: 100%
 
