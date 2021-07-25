@@ -2478,7 +2478,7 @@ consecutive slashes.[END]
 
 //Text $1A0348
 #WRITE(ptr,$1834E8)
-[Sign_4]Dranconis[END]
+[Sign_4]Flying Dragon[END]
 
 
 //Text $1A0338
@@ -2896,7 +2896,7 @@ at his back.[END]
 
 //Text $19FA70
 #WRITE(ptr,$183870)
-Lift foes with an upward strike from[LINE]
+Lifts foes with an upward strike from[LINE]
 his sheath. Follow up with anti-air artes.[END]
 
 
@@ -4515,7 +4515,7 @@ Ranged Attack[END]
 //Text $1A13D8
 #WRITE(ptr,$184E5C)
 Stay at mid/long range, fight using[LINE]
-ranged attacks.[END]
+mainly archery attacks.[END]
 
 
 //Text $1A13C0
@@ -8497,6 +8497,7 @@ It is now submerged deep in the sea,[LINE]
 and no one knows of its existence.[END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F80
 #WRITE(ptr,$18A070)
 Harmentz[END]
@@ -8507,7 +8508,6 @@ Harmentz[END]
 [END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F28
 #WRITE(ptr,$18A078)
 A village in the western region of[LINE]
