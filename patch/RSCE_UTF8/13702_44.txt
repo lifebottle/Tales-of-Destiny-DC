@@ -500,7 +500,7 @@ Please come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-please come on through.
+Please come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -524,7 +524,7 @@ behavior in the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Thank you for your services
+Thank you for your service
 Sir <Lion>!
 [ENDBLOCK]
 Soldier
@@ -534,11 +534,11 @@ behavior in the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Thank you for all your services!
+Thank you for all your service!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Thank you for your services
+Thank you for your service
 Sir <Lion>!
 [ENDBLOCK]
 Soldier
@@ -599,13 +599,14 @@ That's crazy!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-When the king talks about the
-decisive battle, it finally feels real.
+To hear the King say this is
+a decisive battle makes the
+situation feel more real.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Whether we laugh or cry,
-tomorrow is the last day...
+No matter how we feel,
+it ends tomorrow...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -613,12 +614,12 @@ Tomorrow...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Well, the day has finally come.
+The day has finally come.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Don't worry. As long as I'm here, 
-we're sure to win. Ga-ha-ha-ha！
+As long as I'm around, we'll win.
+Don't worry. Gahahahahaha!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -627,45 +628,43 @@ nervous. Ugh...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Hey, since we'll be busy soon,
-how about some free time until
-tomorrow morning?
+We've been working towards this
+moment for a long time. How about
+we take some time for ourselves?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Does that mean we'll be on
-our own until then?
+You mean everyone on their own?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Yep. In times like these, we each
-have our own business to attend to,
-don't we?
+Yes. In times like these, we all have
+our things to take care of, don't we?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-For example, you can try writing a 
-letter to those you left behind in 
-your homeland...
+For example, write a letter
+to loved ones we left behind.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-You can convey your thoughts to
-someone who needs to know.
+Maybe even confess your feelings to 
+someone that needs to hear it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Then, I will write a
-letter to my country.
+I shall write a letter
+back to my country.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I'll be doing a victory chant
-for tomorrow.
+I will make a good luck charm
+to help in our victory tomorrow.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'll be taking care of my weapons.
+I will make sure our
+weapons are ready..
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -674,95 +673,95 @@ drink and get a good night's sleep.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Oh, come on, Are you all like that?
-You aren't a very colorful bunch,
-are you?
+Oh, come on, No way you're all
+that lame. These all lack passion.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Well, you're free to do
-whatever you like.
+I suppose we are all free to
+do whatever we like.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Then, I think I'll go on a little
-stroll around the area...?
+I guess I could take a stroll
+around the area...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>, what're you going to do now?
+<Stahn>, what about you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I guess I'll go to bed...
+Well... I think I'll go to bed.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Seriously!?
+Seriously?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, it's already dark.
+I mean... it's night.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-It's always dark now, though.
+It's always night 
+at the moment, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The king just told us to get
-some rest for tomorrow.
+The King said we should get plenty
+of rest in preparation for tomorrow.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-"Get some rest" is what he told us.
+"Take it easy and relax," he said.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, yeah. I get it.
+Of course.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-As expected of a Fitzgaldian.
-You're a healthy bunch.
+I should have expected this from a
+country bumpkin from Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's got you so angry?
+What are you angry about?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Nothing. I'm not mad at you.
+Nothing. I'm not angry.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-What crap, as always...
-It's all about the timing.
+As usual, this is nonsense...
+You really don't get it, do you?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-If you don't do what's needed
-at the right time, you may
-never get another chance.
+This is the time to do what needs
+to be done. You won't get another
+chance, okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What I need to do...?
+What needs to be done...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Oops, that's all I'm going to say.
-You'll have to figure the rest
-out on your own.
+Well, that's all I'm going to say
+about that. You'll have to figure
+out the rest on your own.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ha...
+Huh...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Let's break up here. Those who want
-to rest will go to the inn, alright?
+I'll take my leave. If you want
+to rest, you can go to the inn, okay?
 [ENDBLOCK]
 select
 [ENDBLOCK]
