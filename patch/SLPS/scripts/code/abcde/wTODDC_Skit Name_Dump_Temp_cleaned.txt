@@ -3175,390 +3175,390 @@ About [Lion]'s Mother[END]
 
 //Text $1610C
 #WRITE(ptr,$5E48)
-Kind Master [lion] Isn't![END]
-// current address: $16126
+Kind Master [Lion] Isn't![END]
+// current address: $16125
 
-//Text $16126
+//Text $16125
 #WRITE(ptr,$5E4C)
 The Beach[END]
-// current address: $16130
+// current address: $1612F
 
-//Text $16130
+//Text $1612F
 #WRITE(ptr,$5E50)
 A Building Visible on That Island[END]
-// current address: $16152
+// current address: $16151
 
-//Text $16152
+//Text $16151
 #WRITE(ptr,$5E54)
 [Lion] and Chal's Quarrel[END]
-// current address: $1616B
+// current address: $1616A
 
-//Text $1616B
+//Text $1616A
 #WRITE(ptr,$5E58)
 Where Are We?[END]
-// current address: $16179
+// current address: $16178
 
-//Text $16179
+//Text $16178
 #WRITE(ptr,$5E5C)
 Farewell!?[END]
-// current address: $16184
+// current address: $16183
 
-//Text $16184
+//Text $16183
 #WRITE(ptr,$5E60)
 [Philia]'s Glasses - 2[END]
-// current address: $16198
+// current address: $16197
 
-//Text $16198
+//Text $16197
 #WRITE(ptr,$5E64)
 Thirsty[END]
-// current address: $161A0
+// current address: $1619F
 
-//Text $161A0
+//Text $1619F
 #WRITE(ptr,$5E68)
 [Philia]'s Shampoo[END]
-// current address: $161B0
+// current address: $161AF
 
-//Text $161B0
+//Text $161AF
 #WRITE(ptr,$5E6C)
 Pow Hammer![END]
-// current address: $161BC
+// current address: $161BB
 
-//Text $161BC
+//Text $161BB
 #WRITE(ptr,$5E70)
 Onigiri[END]
-// current address: $161C4
+// current address: $161C3
 
-//Text $161C4
+//Text $161C3
 #WRITE(ptr,$5E74)
 Hamburger[END]
-// current address: $161CE
+// current address: $161CD
 
-//Text $161CE
+//Text $161CD
 #WRITE(ptr,$5E78)
 To the Village of Harmentz[END]
-// current address: $161E9
+// current address: $161E8
 
-//Text $161E9
+//Text $161E8
 #WRITE(ptr,$5E7C)
 Harmentz is West of Darilsheid[END]
-// current address: $16208
+// current address: $16207
 
-//Text $16208
+//Text $16207
 #WRITE(ptr,$5E80)
 No Business at the Castle[END]
-// current address: $16222
+// current address: $16221
 
-//Text $16222
+//Text $16221
 #WRITE(ptr,$5E84)
 Let's go to Harmentz[END]
-// current address: $16237
+// current address: $16236
 
-//Text $16237
+//Text $16236
 #WRITE(ptr,$5E88)
 Let's Return to Darilsheid[END]
-// current address: $16252
+// current address: $16251
 
-//Text $16252
+//Text $16251
 #WRITE(ptr,$5E8C)
 Darilsheid is East of Harmentz[END]
-// current address: $16271
+// current address: $16270
 
-//Text $16271
+//Text $16270
 #WRITE(ptr,$5E90)
 To the King at Seinegald Castle[END]
-// current address: $16291
+// current address: $16290
 
-//Text $16291
+//Text $16290
 #WRITE(ptr,$5E94)
 To the Seinegald Castle Dungeon[END]
-// current address: $162B1
+// current address: $162B0
 
-//Text $162B1
+//Text $162B0
 #WRITE(ptr,$5E98)
 Let's Return to the Manor[END]
-// current address: $162CB
+// current address: $162CA
 
-//Text $162CB
+//Text $162CA
 #WRITE(ptr,$5E9C)
 Let's Return to the Manor[END]
-// current address: $162E5
+// current address: $162E4
 
-//Text $162E5
+//Text $162E4
 #WRITE(ptr,$5EA0)
 Straylize Temple Is North of Darilsheid[END]
-// current address: $1630D
+// current address: $1630C
 
-//Text $1630D
+//Text $1630C
 #WRITE(ptr,$5EA4)
 To the Temple Interior[END]
-// current address: $16324
+// current address: $16323
 
-//Text $16324
+//Text $16323
 #WRITE(ptr,$5EA8)
 To the Cathedral[END]
-// current address: $16335
+// current address: $16334
 
-//Text $16335
+//Text $16334
 #WRITE(ptr,$5EAC)
 Further Within the Hidden Passage[END]
-// current address: $16357
+// current address: $16356
 
-//Text $16357
+//Text $16356
 #WRITE(ptr,$5EB0)
 To Darilsheid[END]
-// current address: $16365
+// current address: $16364
 
-//Text $16365
+//Text $16364
 #WRITE(ptr,$5EB4)
 To the Harbor[END]
-// current address: $16373
+// current address: $16372
 
-//Text $16373
+//Text $16372
 #WRITE(ptr,$5EB8)
 Hurry to the Harbor[END]
-// current address: $16387
+// current address: $16386
 
-//Text $16387
+//Text $16386
 #WRITE(ptr,$5EBC)
 Before the King of Seinegald[END]
-// current address: $163A4
+// current address: $163A3
 
-//Text $163A4
+//Text $163A3
 #WRITE(ptr,$5EC0)
 Report to His Majesty[END]
-// current address: $163BA
+// current address: $163B9
 
-//Text $163BA
+//Text $163B9
 #WRITE(ptr,$5EC4)
 I Should Say Goodbye..[END]
-// current address: $163D1
+// current address: $163D0
 
-//Text $163D1
+//Text $163D0
 #WRITE(ptr,$5EC8)
 To Where [Marian] Is...[END]
-// current address: $163E6
+// current address: $163E5
 
-//Text $163E6
+//Text $163E5
 #WRITE(ptr,$5ECC)
 Let's Go to the Harbor[END]
-// current address: $163FD
+// current address: $163FC
 
-//Text $163FD
+//Text $163FC
 #WRITE(ptr,$5ED0)
 To the Inn for Now[END]
-// current address: $16410
+// current address: $1640F
 
-//Text $16410
+//Text $1640F
 #WRITE(ptr,$5ED4)
 Let's Look Around Town[END]
-// current address: $16427
+// current address: $16426
 
-//Text $16427
+//Text $16426
 #WRITE(ptr,$5ED8)
 It's Dangerous Outside![END]
-// current address: $1643F
+// current address: $1643E
 
-//Text $1643F
+//Text $1643E
 #WRITE(ptr,$5EDC)
 Let's Head Back to the Inn Soon[END]
-// current address: $1645F
+// current address: $1645E
 
-//Text $1645F
+//Text $1645E
 #WRITE(ptr,$5EE0)
 Go to the Temple's Back Door![END]
-// current address: $1647D
+// current address: $1647C
 
-//Text $1647D
+//Text $1647C
 #WRITE(ptr,$5EE4)
 Chase After [Greybum][END]
-// current address: $1648F
+// current address: $1648E
 
-//Text $1648F
+//Text $1648E
 #WRITE(ptr,$5EE8)
 To the Front Door[END]
-// current address: $164A1
+// current address: $164A0
 
-//Text $164A1
+//Text $164A0
 #WRITE(ptr,$5EEC)
 In Search of the Softy Kreem Stand[END]
-// current address: $164C4
+// current address: $164C3
 
-//Text $164C4
+//Text $164C3
 #WRITE(ptr,$5EF0)
 We're Not Going Out of Town[END]
-// current address: $164E0
+// current address: $164DF
 
-//Text $164E0
+//Text $164DF
 #WRITE(ptr,$5EF4)
 From the Harbor to the Armada[END]
-// current address: $164FE
+// current address: $164FD
 
-//Text $164FE
+//Text $164FD
 #WRITE(ptr,$5EF8)
 My Target is Greybum[END]
-// current address: $16513
+// current address: $16512
 
-//Text $16513
+//Text $16512
 #WRITE(ptr,$5EFC)
 We're Returning to Shiden[END]
-// current address: $1652D
+// current address: $1652C
 
-//Text $1652D
+//Text $1652C
 #WRITE(ptr,$5F00)
 We're Heading Back to Shiden[END]
-// current address: $1654A
+// current address: $16549
 
-//Text $1654A
+//Text $16549
 #WRITE(ptr,$5F04)
 Let's Find Some Rope[END]
-// current address: $1655F
+// current address: $1655E
 
-//Text $1655F
+//Text $1655E
 #WRITE(ptr,$5F08)
 Let's Explore Moreau[END]
-// current address: $16574
+// current address: $16573
 
-//Text $16574
+//Text $16573
 #WRITE(ptr,$5F0C)
 To Seinegald Castle[END]
-// current address: $16588
+// current address: $16587
 
-//Text $16588
+//Text $16587
 #WRITE(ptr,$5F10)
 Let's Head to Harmentz[END]
-// current address: $1659F
+// current address: $1659E
 
-//Text $1659F
+//Text $1659E
 #WRITE(ptr,$5F14)
 Harmentz is West of the Capital[END]
-// current address: $165BF
+// current address: $165BE
 
-//Text $165BF
+//Text $165BE
 #WRITE(ptr,$5F18)
 To Straylize Temple[END]
-// current address: $165D3
+// current address: $165D2
 
-//Text $165D3
+//Text $165D2
 #WRITE(ptr,$5F1C)
 Let's Return to the Manor[END]
-// current address: $165ED
+// current address: $165EC
 
-//Text $165ED
+//Text $165EC
 #WRITE(ptr,$5F20)
 Let's Return to the Manor[END]
-// current address: $16607
+// current address: $16606
 
-//Text $16607
+//Text $16606
 #WRITE(ptr,$5F24)
 Visit the King at Seinegald Castle[END]
-// current address: $1662A
+// current address: $16629
 
-//Text $1662A
+//Text $16629
 #WRITE(ptr,$5F28)
 Go to Cresta, East of Darilsheid[END]
-// current address: $1664B
+// current address: $1664A
 
-//Text $1664B
+//Text $1664A
 #WRITE(ptr,$5F2C)
 Cresta is East of Darilsheid[END]
-// current address: $16668
+// current address: $16667
 
-//Text $16668
+//Text $16667
 #WRITE(ptr,$5F30)
 Let's Find the Seinegald Soldiers in Cresta[END]
-// current address: $16694
+// current address: $16693
 
-//Text $16694
+//Text $16693
 #WRITE(ptr,$5F34)
 Let's Find the Orphanage[END]
-// current address: $166AD
+// current address: $166AC
 
-//Text $166AD
+//Text $166AC
 #WRITE(ptr,$5F38)
 Find the Beach North of Cresta[END]
-// current address: $166CC
+// current address: $166CB
 
-//Text $166CC
+//Text $166CB
 #WRITE(ptr,$5F3C)
 Let's Debrief the Mission[END]
-// current address: $166E6
+// current address: $166E5
 
-//Text $166E6
+//Text $166E5
 #WRITE(ptr,$5F40)
 No Business Outside[END]
-// current address: $166FA
+// current address: $166F9
 
-//Text $166FA
+//Text $166F9
 #WRITE(ptr,$5F44)
 Let's Hurry Back to the Manor[END]
-// current address: $16718
+// current address: $16717
 
-//Text $16718
+//Text $16717
 #WRITE(ptr,$5F48)
 We Need to Find [Marian][END]
-// current address: $1672E
+// current address: $1672D
 
-//Text $1672E
+//Text $1672D
 #WRITE(ptr,$5F4C)
 The Draconis is in the Castle[END]
-// current address: $1674C
+// current address: $1674B
 
-//Text $1674C
+//Text $1674B
 #WRITE(ptr,$5F50)
 Let's hear Hugo's Orders[END]
-// current address: $16765
+// current address: $16764
 
-//Text $16765
+//Text $16764
 #WRITE(ptr,$5F54)
 We'll Enter the Sealing Facility from Behind[END]
-// current address: $16792
+// current address: $16791
 
-//Text $16792
+//Text $16791
 #WRITE(ptr,$5F58)
 To the Sealing Facility[END]
-// current address: $167AA
+// current address: $167A9
 
-//Text $167AA
+//Text $167A9
 #WRITE(ptr,$5F5C)
 To the Depths[END]
-// current address: $167B8
+// current address: $167B7
 
-//Text $167B8
+//Text $167B7
 #WRITE(ptr,$5F60)
 Where's Hugo and the Others?[END]
-// current address: $167D5
+// current address: $167D4
 
-//Text $167D5
+//Text $167D4
 #WRITE(ptr,$5F64)
 Sorcerer's Ring goes Boom[END]
-// current address: $167EF
+// current address: $167EE
 
-//Text $167EF
+//Text $167EE
 #WRITE(ptr,$5F68)
 There's Still Places We Can Destroy[END]
-// current address: $16813
+// current address: $16812
 
-//Text $16813
+//Text $16812
 #WRITE(ptr,$5F6C)
 Not This Way[END]
-// current address: $16820
+// current address: $1681F
 
-//Text $16820
+//Text $1681F
 #WRITE(ptr,$5F70)
 We Can't Afford to Dawdle![END]
-// current address: $1683B
+// current address: $1683A
 
-//Text $1683B
+//Text $1683A
 #WRITE(ptr,$5F74)
 Let's Not Do That Now..[END]
-// current address: $16853
+// current address: $16852
 
-//Text $16853
+//Text $16852
 #WRITE(ptr,$5F78)
 Let's Go[END]
-// current address: $1685C
+// current address: $1685B
 
-//Text $1685C
+//Text $1685B
 #WRITE(ptr,$5F7C)
 I Have Somewhere Else to Be[END]
-// current address: $16878
+// current address: $16877
