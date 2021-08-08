@@ -466,13 +466,12 @@ Are you from Calvalese?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Stop! What are 
-you talking about?
+Now wait just a minute!
+What are you getting at?
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-...So, where did you
-hear about this?
+...Where did you hear that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -480,12 +479,13 @@ The truth is...
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-I see, the thing is...
+I see...I think I know
+what's going on here.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Alright, I get it. If you don't
-say anything, you can take this.
+Don't worry. It isn't much
+but this might help.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -493,33 +493,33 @@ Thank you!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-The hidden Calvalese person
-I know is in Janos, I believe.
-[ENDBLOCK]
-Item Shop
-[ENDBLOCK]
-But right now, I don't know
-what to do with myself.
-[ENDBLOCK]
-Item Shop
-[ENDBLOCK]
-Just be careful when you ask
-them if they're from Calvalese.
-[ENDBLOCK]
-Item Shop
-[ENDBLOCK]
-If they find out I'm from Calvalese,
-I'm afraid I'll lose all my business.
-[ENDBLOCK]
-Item Shop
-[ENDBLOCK]
-The hidden Calvalese person
+The only secret Calvalesians 
 I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Just be careful when you ask
-them if they're from Calvalese.
+I have no idea what they
+are currently up to.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Watch yourself if you're going to
+ask people if they're from Calvalese.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+If it's found out that they're from
+Calvalese, they'll lose their livelihood.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+The only secret Calvalesians 
+I know are in Janos, I believe.
+[ENDBLOCK]
+Item Shop
+[ENDBLOCK]
+Watch yourself if you're going to
+ask people if they're from Calvalese.
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -531,12 +531,12 @@ woman at <Hugo>'s Mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I think she said her name is <Marian>...
+I'm pretty sure her name is <Marian>...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've been trying to talk to <Marian>,
-but I haven't seen her lately.
+I've been meaning to ask <Marian> out,
+but no one has seen her around lately.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -545,13 +545,13 @@ I can't believe it hit the city...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Damn, the sky is completely covered.
-And there's nothing we can do about it.
+Damn, the sky is completely covered,
+and there's nothing we can do about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 <Marian> seems to have returned
-to <Hugo>'s Mansion.
+to <Hugo>'s mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -561,8 +561,8 @@ has become more melancholy.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I thought I would talk 
-to <Marian>, But I can't.
+I thought I could finally ask <Marian>
+out, but it's probably not a good idea.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -900,17 +900,17 @@ recognize you...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-No worries... Normally, you'd figure
-it out based on the ongoing conversation.
+Good grief...normally people keep up
+in these kind of conversations.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-That's no way to live in the city.
+There's no way you 
+are from the city.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're quite the country boy,
-aren't you?
+I got it, you're a country bumpkin!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -923,7 +923,7 @@ Ah, is it a countryside thing?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey, listen to me.
+Hey, lend me your ear for a moment.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -932,33 +932,33 @@ of my sick mother.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey, please, will you buy one?
+Look, I beg you, please buy one.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well let's see...
+Of...of course....
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Thank you so much.
+Many blessings and thanks!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You don't have any Gald,
-you can go over there.
+You're broke, eh...?
+It's best if you leave.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Damn it, I can't hold it any
-longer. You're a lucky guy.
+Damn it, I can't bear it any longer.
+You're such a lucky guy.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Some of the Seven Generals are...
-Incompetent.
+One of the members of the
+Seven Generals is...incompetent.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You know Leo?
-That's, <Ashley>.<x00>
+Oh, you wanna know who?
+Their name is <Ashley>.<x00>
 [ENDBLOCK]
