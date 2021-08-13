@@ -25,7 +25,7 @@ Hey, a little bird.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you think they're
+Do you think it's
 building a nest?
 [ENDBLOCK]
 Clerk
@@ -42,7 +42,7 @@ Clerk
 [ENDBLOCK]
 Oh, I'm pretty sure we saw them
 leave the nest already this year,
-but come back frequently and check.
+but come back later and check.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -57,7 +57,7 @@ Clerk
 [ENDBLOCK]
 This bird is very rare. The male
 builds the nest first in order
-to invite the mate.
+to attract a mate.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -108,13 +108,13 @@ Shift change?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Stahn>, did you see that?
+<Stahn>, do you see that?
 There's an egg!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah. I definitely see two eggs,
-so they must be twins.
+Yeah. I definitely see two eggs.
+They must be twins.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -178,7 +178,7 @@ left the nest.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, well, where's
+Oh, well.
 Wait, what about the birds' parents?
 [ENDBLOCK]
 <Stahn>
@@ -368,7 +368,7 @@ Clerk
 [ENDBLOCK]
 That was a great catch.
 When you run out of Gels,
-don't forget to buy some.
+don't forget to buy more.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
@@ -422,8 +422,8 @@ I hope you guys win.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>. 
-This village is thriving.
+Thanks to <Walt>,
+this village is thriving.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -432,8 +432,8 @@ that guy, but I'm grateful to him.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>. 
-This village is thriving.
+Thanks to <Walt>,
+this village is thriving.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -442,8 +442,8 @@ the peace of the village was preserved.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>. 
-This village is thriving.
+Thanks to <Walt>,
+this village is thriving.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -457,8 +457,8 @@ thanks to <Walt>.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Is there any truth to the rumor
-that Darilsheid was attacked?
+Is it true that Darilsheid
+was attacked?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -501,13 +501,13 @@ make an effort ourselves.
 <Rutee>
 [ENDBLOCK]
 This is the town of Harmentz!
-It's so depressing, makes you wanna 
+It's so depressing it makes you wanna 
 laugh, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 But everything seems so grand...
-there are all those big houses and stuff.
+There are all those big houses and stuff.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -532,12 +532,12 @@ It's a great town, okay?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-So you admit it, 
+So you admit it. 
 You are a hick!
 [ENDBLOCK]
 Village Woman
 [ENDBLOCK]
-It's so rare for travelers to 
+It's rare for travelers to 
 visit this village. Are you
 looking for someone?
 [ENDBLOCK]
@@ -738,7 +738,7 @@ a fellow Swordian Master.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>! Are you ok!?
+<Stahn>! Are you okay!?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -781,12 +781,12 @@ H-Hey...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I would run into someone like this...
+To think I'd run into someone like this...
 Right after what <Marian> told me, too...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-"Remember what's expected of you,
+"Remember what's expected of
 someone of your rank."
 [ENDBLOCK]
 <Chaltier>
@@ -811,7 +811,7 @@ things to do right now.
 <Lion>
 [ENDBLOCK]
 I don't need you to 
-tell me that, I know.
+tell me that. I know.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -821,7 +821,7 @@ the current situation is.
 Soldier
 [ENDBLOCK]
 Just a few moments ago, the criminals
-came out of the Inn. Our most elite 
+came out of the inn. Our most elite 
 troops were waiting and immediately
 surrounded them.
 [ENDBLOCK]
@@ -874,7 +874,7 @@ been fond of him...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I see...so there are two Swordians..
+I see...so there are two Swordians...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -882,14 +882,14 @@ N-No way...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hmph. I see our "Elite Troops" are
+Hmph. I see our "elite troops" are
 really earning their gald today.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 N-No, you've got it wrong!
 They're just... waiting for
-their chance to strike!!
+their chance to strike!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -912,7 +912,7 @@ Do you feel like talking now?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-How dare you..!!
+How dare you..!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -930,7 +930,7 @@ Yes sir. I'll be off, now.
 <Lion>
 [ENDBLOCK]
 <Rutee> Katrea, huh.
-She definitely resembled me..
+She definitely resembled me...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1076,7 +1076,7 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
 is now an active 
 party member.
@@ -1215,7 +1215,7 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
+Titles are one of the parameters
 that can be set on a character. The
 specific set method is as follows.
 [ENDBLOCK]
@@ -1224,13 +1224,13 @@ notice
 <TAG_007>After opening the main menu,
 the character status will display.
 On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+be able to change the character's status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles]. On this screen, press <Triangle_ani> 
 and it'll let you pick from all the titles
 you've acquired.
 
