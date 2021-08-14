@@ -178,7 +178,6 @@ left the nest.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, well.
 Wait, what about the birds' parents?
 [ENDBLOCK]
 <Stahn>
@@ -367,7 +366,7 @@ Come on in.
 Clerk
 [ENDBLOCK]
 That was a great catch.
-When you run out of Gels,
+When you run out of gels,
 don't forget to buy more.
 [ENDBLOCK]
 Clerk
@@ -501,8 +500,8 @@ make an effort ourselves.
 <Rutee>
 [ENDBLOCK]
 This is the town of Harmentz!
-It's so depressing it makes you wanna 
-laugh, right?
+It's so depressing, it makes you
+wanna laugh, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -874,7 +873,7 @@ been fond of him...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I see...so there are two Swordians...
+I see... So there are two Swordians...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -1076,7 +1075,7 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-has joined the party.
+has joined the Party.
 [ENDBLOCK]
 is now an active 
 party member.
@@ -1215,7 +1214,7 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the parameters
+Titles are one of the character parameters
 that can be set on a character. The
 specific set method is as follows.
 [ENDBLOCK]
@@ -1224,13 +1223,13 @@ notice
 <TAG_007>After opening the main menu,
 the character status will display.
 On this screen, hit <Square_ani> and you'll
-be able to change the character's status.
+be able to change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles]. On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani> 
 and it'll let you pick from all the titles
 you've acquired.
 
