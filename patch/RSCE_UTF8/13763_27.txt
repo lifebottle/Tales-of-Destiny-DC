@@ -18,26 +18,27 @@
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Well, if it isn't <Lion>.
+Well, if it
+isn't Sir <Lion>.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-What happened here?
+Has something happened?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Currently on a mission,
-Mr. <Lewein>.
+I'm currently on an assignment,
+General <Lewein>.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Well well. 
-How about that?
+Aha, I see!
+So who's that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Just as you would
-have it, <Lewein>...
+Of course you just
+have to ask...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -45,27 +46,27 @@ My name is <Stahn> Aileron.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Is that so? My name is
-<Lewein>. Nicholas <Lewein>.
+Is that so? I'm <Lewein>.
+Nicholas <Lewein>.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-I am one of the Seven 
+I'm one of the Seven 
 Generals of Seinegald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-General <Lewein>,
-thank you.
+Nice to meet you,
+General <Lewein>.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Oh, nice to meet you.
-<Stahn> Aileron.
+Oh, same here.
+<Stahn> Aileron, huh?
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Aileron? Is it possible you're
+Aileron...Might you be
 related to Thomas Aileron...?
 [ENDBLOCK]
 <Stahn>
@@ -75,13 +76,13 @@ That's my grandpa.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Is that so! I'm surprised to
+Really, now! I'm surprised to
 see his grandson here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hmm? Maybe the officer who
-my grandpa saved...
+Wait, could it be?
+The officer gramps told me about...
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -90,9 +91,9 @@ a great deal for saving my life.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-When I was little, he would
-tell me the story of when he
-helped you all the time.
+When I was little, he'd
+tell me the story of how he
+saved you all the time.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -100,27 +101,26 @@ By the way, how is your grandmother?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Are you...?
+My grandmother...she's-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Excuse me, General.  
-We're in a hurry to  
-get a jump start on our mission.
+Excuse me, General <Lewein>.
+We must hurry on with our mission.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, that's right.
+Ah, right.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
 Yes, of course.
-Sorry about that.
+My apologies.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
 I need to send a letter to Thomas.
-I hope to talk to you again.
+I hope we meet again, sometime.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -140,7 +140,7 @@ important mission?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, those people are...
+Hey, it's those guys...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -154,16 +154,16 @@ Yes, master!
 <Stahn>
 [ENDBLOCK]
 It's been a while!
-To think we would meet again.
+To think we would meet again...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-Huh? You are...
+Huh? Aren't you...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Did you forget? It was
-back in Janos...
+Did you forget?
+We met back at Janos.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -177,12 +177,12 @@ Yeah, for sure!
 <John>
 [ENDBLOCK]
 This is the first
-time we've met.
+time we've met!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ehh? But you guys said
-you were lens hunters?
+Huh? But you guys said
+you were lens hunters!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -227,12 +227,12 @@ something we need to butt into.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, sure. Well then
-everyone, take care!
+Oh, sure. Well then,
+take care, you guys!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, those people...
+Ah, it's them...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -240,16 +240,15 @@ This is a nice village...
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-Yeah, it is...
+You got that right, boss...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey everyone. It's
-been a while.
+Hey guys! It's been a while!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-Oh, you're...
+Oh...it's you...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -257,57 +256,56 @@ What are you doing here?
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-Nothing. Just living out my days.
+Nothing. Just living out our days.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-Now I'm just resting.
+Doing nothin' but restin'...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-He ran away from his hometown to
-become famous, but no matter
-what he tried, it didn't work out...
-
+We left our hometown to become
+famous, but no matter what
+we did, nothing worked...
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-In the end, I decided to settle
-down in this village, where they
-were most kind to me.
+In the end, we decided to 
+settle down here, since
+they were the kindest to us.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
 We came back heartbroken and
-devastated, but the people here
-welcomed us warmly.
+down in the dumps, but the people here
+were real happy to see us.
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-Teacher! How is your health?
+Master! How's your health?
 Get some rest, and then let's get
 back to practicing!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-That kid... still calls us teacher?
+That kid... still calls us master?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...There are things that have
-worked, too, aren't there?
+...Looks like you got what
+you wanted after all, huh? 
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-Oh, no! This story's going
-to bring me to tears!
+Whahh! What a
+heartwarming ending!!!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
 Okay, I've decided! I'll bury my
-bones in this village! From now
-on, let's do our best for the
-village!
+bones in this village!
+From now on, let's dedicate
+our lives to this place!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
@@ -315,17 +313,16 @@ Me too!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-Me too!
+Same!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I think this was for the best. It's good
-for these people, and for the
-people of the village.
+This is for the best. Not just
+for them, but for the townspeople too.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, it is.
+I think so, too.
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
@@ -335,18 +332,17 @@ is Archbishop Merton.
 Former Priest
 [ENDBLOCK]
 The one who will succeed him will
-probably be Bishop Eilts.
+probably be Bishop <Ayles>.
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
 High Priest <Greybum> has revolted?
-You've got to be kidding me. Hahaha...
+That's a good one! Hahahaha...
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
 I heard that High Priest <Greybum>
-is dead. I've suspected him from
-the beginning.
+is dead. I suspected him from the start!
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
@@ -355,15 +351,14 @@ this happening to us?
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
-He couldn't stand the boring life
-in the temple, so he came out to 
+I couldn't stand the boring life
+in the temple, so I came out to 
 the outside world...
 [ENDBLOCK]
 Former Priest
 [ENDBLOCK]
-When the world is resolved as
-they say, I'll go back to the
-temple.
+I'll go back to the temple
+once peace is restored...
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
@@ -378,19 +373,18 @@ protect my mom and grandpa!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-The teacher is now going to tell
-us the story of how he defeated
-the Dark Lord.
+The master's gonna tell me about
+the time he beat up the Dark Lord!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-Even though you're gone, I'll
-never forget what you taught me!
+Even though they're gone, I'll
+never forget what they taught me!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-Teacher... I hope
-you're back.
+Master...please come
+back soon!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
@@ -400,29 +394,27 @@ always stand out!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-Teacher is now going to tell
-us the story of how he defeated
-the Dark Lord.
+The master's gonna tell me about
+the time he beat up the Dark Lord!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-Even though you're gone, I'll
-never forget what you taught me!
+Even though they're gone, I'll
+never forget what they taught me!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-I'm so glad you're
-back, teacher!
+I'm so glad they're back!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
 Some people had bad things to
-say about the teacher, but I
+say about the master, but I
 always believed in him!
 [ENDBLOCK]
 Chief's Grandson
 [ENDBLOCK]
-I'll work together with you to
+I'll work together with them to
 protect this village!
 [ENDBLOCK]
 Shepherd
@@ -439,8 +431,8 @@ well lately.
 [ENDBLOCK]
 Shepherd
 [ENDBLOCK]
-I'm rooting for you guys,
-me and the sheep.
+The sheep and I are
+rooting for you guys!
 [ENDBLOCK]
 Blue-Haired Girl
 [ENDBLOCK]
@@ -454,8 +446,8 @@ for a sword tutor for the kid.
 [ENDBLOCK]
 Blue-Haired Girl
 [ENDBLOCK]
-Since those three guys disappeared,
-he's always in a daze.
+Since those three disappeared,
+he's been in a daze.
 [ENDBLOCK]
 Blue-Haired Girl
 [ENDBLOCK]
@@ -465,20 +457,19 @@ are heroes? That sounds like a lie.
 Blue-Haired Girl
 [ENDBLOCK]
 Ever since they came back, the
-three of them have always been
-in a daze.
+three of them have been in a daze.
 [ENDBLOCK]
 Blue-Haired Girl
 [ENDBLOCK]
-If you were a real hero, you
-would have done something
-about this situation, wouldn't you?
+If they were really heroes,
+they'd do something about
+this situation, right?
 [ENDBLOCK]
 Blue-Haired Girl
 [ENDBLOCK]
-I've reviewed those three
-people. They are doing their
-best to protect the village.
+I've changed my mind
+about those three. They're
+doing their best for us.
 [ENDBLOCK]
 Village Leader
 [ENDBLOCK]
@@ -497,22 +488,20 @@ really expensive.
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-Well, it's time to take a nap,
-isn't it?
+OK! Time to take a nap!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-Napping is important for your skin.
+Napping is important
+for your skin, y'know.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-Oh, my God,
-Father.
+Boss! It's an emergency!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-It's time for
-a snack.
+It's snacktime already!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
