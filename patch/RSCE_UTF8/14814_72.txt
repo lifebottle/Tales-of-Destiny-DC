@@ -18,7 +18,7 @@ glory...it was supposed to be mine...
 [ENDBLOCK]
 <TAG_005>Reverence is our only protection...
 [ENDBLOCK]
-<TAG_005>My only desire, to be supreme...
+<TAG_005>My only desire is to be supreme...
 [ENDBLOCK]
 <TAG_005>The weakest are most 
 prone to evil deeds...
@@ -147,7 +147,7 @@ spend your EX Points at the entrance.
 Cyglorg
 [ENDBLOCK]
 Whether or not you take my offer, as 
-soon as this talk ends, I'm gone.
+soon as this conversation ends, I'm gone.
 
 [ENDBLOCK]
 Cyglorg
@@ -173,15 +173,14 @@ completely restore your strength.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course, it will cost you
-<TAG_034> EX Points.
-Do we have a deal?
+Of course, it will cost you <TAG_034> EX Points.
+What do you say, do we have a deal?
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>Remaining EX Points <TAG_035>
-Please
-No, thank you
+Yes, we do.
+Absolutely not!
 
 [ENDBLOCK]
 notice
@@ -208,7 +207,8 @@ Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Hopefully we'll see each other soon.
+I do hope that you survive long
+enough to regret that choice.
 [ENDBLOCK]
 ★HP Recovery Complete.
 
@@ -280,7 +280,7 @@ notice
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-See you next time.
+Until we meet again.
 [ENDBLOCK]
 ★アイテム取得終了
 
@@ -369,16 +369,16 @@ Removes Food.
 Cyglorg
 [ENDBLOCK]
 Let me give you some information
-about the chest on this floor.
+about the chests on this floor.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
 On this floor, <TAG_054> colored chests</color> provide the
-following effect: <TAG_055>
+following effect: <TAG_055>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-See you next time.
+Until we meet again.
 [ENDBLOCK]
 ★宝箱情報終了
 
@@ -520,7 +520,7 @@ Party Bonus：<TAG_075>
 全滅割り込み
 
 [ENDBLOCK]
-<TAG_005>We don't need weaklings.
+<TAG_005>Weaklings must be purged.
 [ENDBLOCK]
 <TAG_031>はEXダンジョン番号ではありません。
 
@@ -584,7 +584,7 @@ party_list[<TAG_031>] = <x17><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>�
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The party is chosen.
+<TAG_007>The party has been chosen.
 [ENDBLOCK]
 Party Selection
 [ENDBLOCK]
@@ -865,13 +865,13 @@ MAX:<x1D><x66><x14><x13><x74><x0C><xAB><x80>, MIN:<x1D><x66><x14><x13><x74><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The objects here indicate the
+The object here indicate the
 direction of your objective.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Utilize their assistance to navigate
+Use it to help navigate
 the maze-like path before you.
 
 [ENDBLOCK]
