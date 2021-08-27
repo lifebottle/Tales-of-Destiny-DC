@@ -474,8 +474,8 @@ Brr, it's cold.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We've made it to the end of the
-forest. What do we do now?
+We're at the end of the path.
+What do we do now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -490,7 +490,7 @@ Oh, sorry. I let my mind wander.
 <Mary>
 [ENDBLOCK]
 Watching the snow like this, I feel
-like I'm remembering the past...
+like I'm starting to remember...
 
 [ENDBLOCK]
 <Stahn>
@@ -504,7 +504,7 @@ any memory of my past.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-What...?
+How...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -518,46 +518,41 @@ I guess you're right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you have any clues
-about your past?
+Do you have any kind of clues?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Sometimes it's like I'm catching
-on to something. Cooking, the snow...
+Sometimes things catch in my mind.
+Like cooking, and the snow...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-But, the best clue I have right now
-is this short sword.
+But, the best clue I have right
+now is this short sword.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There are some letters
-carved into it. "D.V."...
-Initials, maybe...?
+There are letters carved into it.
+"D.V."...Initials, maybe?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I don't know who the original
-owner of this sword is,
-or why I have it...
+I don't know who it belonged
+to or why I have it now...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...But when I look at it...
-I get the feeling that
-it's very important to me...
+But when I look at it...
+It feels like it's very important...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is that so...
+I see...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If you need help regaining your
-memory, just say the word.
-I'll help you.
+If you ever want help regaining your
+memories, say the word and I'm there.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -566,9 +561,8 @@ Now then...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Just beyond here is the entrance
-to the hidden passage that leads
-to the temple.
+Beyond here is the hidden passage
+that leads to the temple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -576,63 +570,60 @@ Got it, let's go.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Are you tired from walking in the snow?
-You aren't used to it, after all.
+How are you handling the snow?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm fine. It's a new experience,
-so it's fun.
+I'm fine. It's fun to see new things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Um... <Woodrow>?
+Say, <Woodrow>?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I wanted to ask you a question,
-but I don't want you to get angry.
+It might be kinda rude
+to ask you this, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>, do you not like the
-idea of succeeding your dad?
+Do you not want to take
+over for your dad?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-When Master <Alba> was talking
-about it, it kinda looked
-like you were upset.
+When you and Master <Alba>
+were talking, it looked like you
+were thinking pretty hard...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So I was thinking, maybe you're
-worried about something? But if I'm
-wrong, then sorry, just forget it.
+So you seemed unsure about it.
+Hope I'm not being too nosy.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-You can see right through me...
+You've seen right through me...
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Perhaps you're the kind of
-person who can see the very
-essence of people.
+I suppose you're the kind
+of person who can grasp
+the true nature of things.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I don't dislike the idea. It's more
-like I'm doubting myself? If I really
-am qualified to succeed my father.
+I'm not opposed to it,
+but I do have my doubts
+about whether I'm fit to.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It feels strange to call myself
-his son. My father is such an
-amazing person.
+It might sound strange
+coming from his son,
+but my father is great man.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -641,29 +632,28 @@ possibly call myself his equal.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You have someone close to you who
-you can try to live up to. Isn't
-that wonderful in itself?
+You've got someone close
+whose footsteps you can follow.
+Don't you think that's great?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I don't have a dad, so I'm kinda
-jealous of you.
+I haven't got a dad,
+so I'm kinda jealous.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-...I see. That's one way
+...I see. That is one way
 of thinking about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sorry if I've asked too much.
+Sorry if I'm being too forward.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-No, you have a valuable
-perspective. Thank you. You've
-given me something to consider.
+No, your perspective has merit.
+Thank you for sharing it with me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
