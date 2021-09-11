@@ -467,7 +467,7 @@ Ugh...
 <Chaltier>
 [ENDBLOCK]
 Are you alright, 
-young master?
+Master <Lion>?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -542,7 +542,8 @@ anyone you like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-D-Don't ask me something so stupid!
+D-Don't ask me
+something so stupid!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -616,13 +617,12 @@ overly-friendly people like you.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...What's up?
+...What's wrong?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 If I go over there, I'd just be
-a wet blanket. Oh, I guess that's
-kinda ironic.
+a wet blanket. Hah, kinda ironic, eh?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -631,7 +631,8 @@ I'll stay here by your side.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You don't have to worry about it.
+You don't have
+to worry about me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -658,7 +659,7 @@ we'll cross the boundary.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right. We'll switch out for
+All right. Let's switch to
 the rowboat and get to Shiden!
 [ENDBLOCK]
 <Dymlos>
