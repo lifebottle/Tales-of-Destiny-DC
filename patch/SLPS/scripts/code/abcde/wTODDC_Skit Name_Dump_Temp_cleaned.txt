@@ -1730,7 +1730,7 @@ Women are Amazing[END]
 
 //Text $14990
 #WRITE(ptr,$59C4)
-Aetherian Army Attack[END]
+Aeth'er Army Attack[END]
 // current address: $149A4
 
 //Text $149A4
