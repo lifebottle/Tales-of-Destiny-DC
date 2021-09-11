@@ -27,12 +27,12 @@ You look well.
 <Ayles>
 [ENDBLOCK]
 If you're looking for <Philia>,
-I think she's outside the temple.
+I believe she's outside the temple.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
 The rumors of your success
-have reached here.
+have reached even here.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -48,7 +48,7 @@ and the others.
 <Ayles>
 [ENDBLOCK]
 <Philia>, I know you have a lot 
-of work to do for His Majesty, 
+of work to do for the king, 
 but I'm counting on you.
 [ENDBLOCK]
 <Ayles>
@@ -58,18 +58,19 @@ Thank you all for your hard work.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-It's the Eye of Atamoni that's
-the source of all this commotion...
+The Eye of Atamoni
+is the cause of this...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-To have power equal to that of a god with
-a human body is nothing short of arrogance.
+To have the power of a god with
+the body of a human is nothing
+short of arrogance.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
 The Eye of Atamoni should've
-never fallen into the hands of men.
+never fallen into the hands of man.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -81,18 +82,20 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Our god in heaven, the truth
-which governs all of creation.
+You who rule from heaven,
+the truth that which
+governs all creation...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Rising from the deep silence, the
-Guardian of the ocean at dawn...
+The guardian of the ocean
+rising from the silence
+of the deep at dawn...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-I beseech you. The Goddess called
-Atamoni, please show us the way.
+I beseech thee, our Goddess! 
+Atamoni, show us the way!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
