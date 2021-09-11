@@ -438,7 +438,7 @@ is the one the soldiers fear the most.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-But, that's cause he puts his
+However, that's because he puts his
 country and its people first.
 [ENDBLOCK]
 Meat merchant
@@ -448,7 +448,7 @@ Darilsheid than you might think.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Hmm? You are...
+Hm? Aren't you...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -456,8 +456,8 @@ Have we met before?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-No, I've never spoken with you before.
-However, I've heard a lot about you.
+No, we've never spoken before.
+I've certainly heard of you, though.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -471,25 +471,28 @@ It's nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What were you doing
-here, Mr. <Isard>?
+What are you up to
+here, General <Isard>?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-I was looking at the ocean...
+I'm just looking
+out at the ocean...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Did I interrupt you?
+I'm not bothering you, am I?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-No. I was just looking for
+Not at all!
+I was just looking for
 someone to chat with.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Umm... I can talk with you if you want.
+Um...sure, I can talk,
+if you'd like.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -502,8 +505,8 @@ Hehe, thank you very much.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-To tell the truth, I'm...
-not a Seinegaldian.
+Let me tell you something.
+I'm not actually from Seinegald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -511,33 +514,34 @@ Really!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If people knew that, would you
-have to leave the Seven Generals!?
+If people knew that, wouldn't you
+be expelled from the Seven Generals!?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-Hahaha. It's a well known fact.
-Don't worry.
+Hahaha! Fear not.
+It's well known already.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-In the past, there was a civil war in
-my country. At the time, I was exiled.
+Years ago, civil war ravaged
+my homeland. During that
+war, I was exiled here.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-And then, this country accepted
+And yet, this country accepted
 me with open arms.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, you're still worried about
-your... hometown.
+But...surely you must worry.
+About your homeland, I mean.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-I've left so much behind...
-And you may hate me for it.
+I left a lot behind me, then.
+...It's likely they hate me, now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -545,8 +549,8 @@ Hate...?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-I've rambled on too long...
-So long, <Stahn>.
+Ah, I've rambled enough.
+Take care, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -554,11 +558,11 @@ Mr. <Isard>!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-<Stahn>, it seems you're safe...
+<Stahn>, looks like you're alright.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-Wait, you're...!?
+Y-You! It's you...!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -566,59 +570,62 @@ What's wrong？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you... know <Johnny>?
+Do you know <Johnny>?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-As I thought... Master <Johnny>.
+I knew it, you're
+Lord <Johnny>!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-You... are from Aquaveil?
+Are you...from Aquaveil?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-...Indeed.
+...I am.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-This is Mr. <Isard>.
+This is General <Isard>.
 He's one of the Seven Generals.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Oh, that's impressive.
+Well, isn't that something!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-I'm...
+I...
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-Please pass judgment on me!
-Master <Johnny>!
+Lord <Johnny>, please
+pass judgement on me!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Whoa, whoa, what are you on about?
-Why do I have to pass judgment on you?
+Woah, hey now. What's this
+all of a sudden? Why would
+I need to judge you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why is that, Mr. <Isard>!?
+He's right, General <Isard>!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-Because... I left Master Gino to die...
+I'm...I'm the reason
+that Lord Geno is dead...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-You know <Fayte>'s dad?
+...<Fayte>'s father, eh?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Alright, let's hear it.
-Then we'll decide.
+Alright, explain yourself.
+Then I'll pass my judgement.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -626,29 +633,29 @@ Then we'll decide.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Stahn>, this is our problem.
+<Stahn>, this is between us.
 Please don't interfere.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
 //TODO Check Translation
-When <Tiberius> succeeded the throne,
-I abandoned my country... Master Gino...
-and went into exile to this country.
+When <Tiberius> took the throne,
+Lord Gino...the country itself...
+I abandoned them both and fled here!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-The regret of fleeing 
-always follows me.
+My regret for fleeing has
+haunted me to this day.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-The only information I could
-get in this country was...
+I wandered this land for some time,
+and the only news I had of home was...
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-that Master Gino had passed away...
+...was that Lord Gino was dead...
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -656,32 +663,32 @@ If only I hadn't fled...!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-If only I stayed by Master
-Gino's side...!
+If only I stayed
+by Lord Gino's side...!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-None of this would
-have happened...
+Maybe things would
+have been different!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Well, he might not have died.
+Ah, survivor's guilt, eh?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-But, if you stayed, you might
-have died.
+If you had stayed, though, you
+likely would have perished, too.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Who knows what would have
-happened if you stayed.
+Noone can truly
+know "what if", you know?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-But, Master <Johnny>, Master
-<Fayte> should know...
+But Lord <Johnny>! Lord <Fayte>
+should know about my-
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -689,24 +696,25 @@ Don't be so vain.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-It's not like <Fayte> would remember
-every single soldier.
+Of all the soldiers in the army, 
+do you really think <Fayte>
+would remember you?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Well, if I had to pass judgment,
-it would be...
+But as long as we're
+talking about your punishment..
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-To protect the people of this land
-at all costs, as a member of
-the Seven Generals!
+I hereby sentence you to protect
+this land with your life as a
+member of it's Seven Generals.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-And for you to visit your hometown
-once in a while. That's all.
+And also, come visit home
+once in a while. That is all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -714,9 +722,8 @@ once in a while. That's all.
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-...Thank you. I, <Isard>, accept this
-judgment and dedicate the rest of
-my days to seeing it through.
+Thank you...I swear to serve my
+sentence even if it costs me my life!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
