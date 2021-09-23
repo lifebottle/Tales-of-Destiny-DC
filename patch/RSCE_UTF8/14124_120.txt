@@ -330,46 +330,49 @@ Hop in, Where would you like to go?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-They said they were friends, 
-but this can't be...
+He said he gave it to
+a friend, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't expect you to be an adult.
+I didn't think
+he meant an adult!
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
-What do you want?
+Need something?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Let me ask you something. Did a kid
-give you an instrument once?
+Excuse me for prying, but did
+a kid give you an instrument
+a while ago?
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
-Yeah, I got an instrument
-from a kid on a boat.
+Oh, yeah. This real nice
+kid gave it to me when
+I ferried him and his family.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I see. Actually, that
-instrument was mine.
+I see. Well, that instrument
+happens to belong to me.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I'd like to have it back
-if you don't mind.
+I'm sorry, but may
+I please have it back?
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
-I'm sorry, but I can't do that.
+Sorry, but
+that's impossible.
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
-Actually, I used to play
-that instrument while I 
-was picking up passengers.
+I actually started playing
+it for my customers during rides.
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
@@ -378,12 +381,12 @@ much asked me to give it to him.
 [ENDBLOCK]
 Ferryman.
 [ENDBLOCK]
-I got it as a gift. I thought
-it was okay, so I gave it away.
+I figured since it was gifted
+to me, why not pay it forward?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Is that the guy from Moreau?
+Is this person from Moreau?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -393,11 +396,12 @@ he was here on business.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-This is getting a little interesting.
+This is starting
+to get fun!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Let's go to Terazzi. Come on.
+Let's get to Terazzi.
 [ENDBLOCK]
 Young Girl
 [ENDBLOCK]
@@ -415,11 +419,12 @@ One of my soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Who did it?
+Do you know who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Well, they've been caught...
+Oh, we arrested
+someone, alright.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -442,20 +447,21 @@ this girl attacked the soldier!?
 Girl
 [ENDBLOCK]
 Lord <Fayte>!
-I'm not the one who did it!
+I'm innocent!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>, please believe me.
+Lord <Johnny>!
+You have to believe me!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I can't believe such a small child
-would have attacked a soldier.
+It is pretty hard to believe
+a little girl would attack a soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-But...
+But still...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -464,22 +470,23 @@ Such a small girl...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>, please
-help me!
+Lord <Johnny>!
+Help me! Please!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-It seems I'll have to get involved.
+Well, with the way she's pleading,
+we've got no choice but to help.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>, can you wait a bit before
-you deal with her?
+<Fayte>, can you wait a bit
+before you deal with her?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-All right. But, I'll take her
-into custody for now.
+Very well. We'll be
+holding her here, though.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -488,8 +495,8 @@ in Moreau for more info?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-There might be some people
-who know about the attack.
+There may be people
+who saw it happen nearby.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -498,34 +505,38 @@ soldier was attacked in Moreau.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Actually, there's been similar
-incidents in the past few days.
+Actually, this is just one of
+many similar incidents, lately.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The soldiers attacked were left
-with two scratches on their bodies.
+The soldiers who are attacked
+are always left with two
+distinct cuts on their bodies.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Based on the soldiers' testimony
-and witnesses, we concluded that
-the girl was the culprit.
+Based on the testimony of the
+soldiers who were attacked, as well
+as witness testimony, we concluded
+that the culprit was this little girl.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-However, there was a witness who saw
-the girl at the time of the incident.
+That said, another witness claims
+to have seen the same girl
+elsewhere when the attack took place.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I think that's why Mr. <Fayte> 
-gave you all the time you needed.
+I believe that is why
+Lord <Fayte> is allowing
+you to investigate like this.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 It's a long story, but would you like
-to hear a summary of the case?
+to hear a summary of the incident?
 Yes
 No
 
@@ -533,76 +544,80 @@ No
 Boy
 [ENDBLOCK]
 Yeah, I heard about the attack.
-But she was playing with her cat
-under the house at that time.
+The girl they think did it
+was playing with that
+cat at the time, though.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-She was dressed in
-Shiden gear. I'm sure she'll stand
-out. Besides, she was talking 
-to the cat really loudly.
+Someone wearing clothes from Shiden
+really sticks out here, you know?
+Plus, she was being really loud.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Can she really talk to a cat?
+I wonder if she can
+really talk to cats...?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-It was a girl? Yeah, I was
-at the store at that time.
+A little girl, huh?
+Yeah, she was here buying
+fish when the incident happened.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-She was looking for quite a while, and
-when I thought she made up her mind
-and started to wrap the product, she
-said she wanted something different.
+She sure took up a lot of time.
+Every time I started packing up
+what she said she wanted, she'd
+suddenly decide on something else.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-I remember it well, because I've done 
-it so many times.
+Anyone would remember
+a weird customer like her.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The other day, I saw a girl causing a
-scene in the fish shop at the harbor.
+It was a while back, but I saw
+a young girl making a fuss
+at the fish market at the harbor.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I was kind of curious, so I came
-straight back to this inn.
+I was kind of curious,
+but I came right back to this Inn.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-As soon as I got home, I opened the
-sliding door and there was the girl,
-who was supposed to be at the port.
-Came from near the weapons shop.
+After I got back here, I opened
+up that sliding door, and saw what
+had to be the same girl coming out
+of that house by the weapons shop!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-There is no such thing as a secret
-passage in this city that no one 
-knows about. It's a mystery.
+It's quite the mystery. There's not
+a secret passage in this town
+everyone else doesn't know about.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Did you find the culprit?
+Do you know who the culprit is?!
 Yes
 No
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Now please go inside
-and brief <Fayte> on
-the situation.
+Then please head inside
+and explain your 
+findings to Lord <Fayte>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I see... Well, when you do find
-the culprit, please come back.
+I see. Please return
+once you've concluded
+your investigation.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -647,7 +662,7 @@ Aquaveil a better country.
 [ENDBLOCK]
 <TAG_005>In order for everyone 
 to live safely, if you see something
-suspicious, say something, You will 
+suspicious, say something. You will 
 receive monetary compensation.
 					Moreau Military PR
 [ENDBLOCK]
@@ -658,27 +673,28 @@ come to the boarding area.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This is Moreau Territory. You 
-couldn't have come at a worse time.
+This is Moreau. You couldn't
+have come at a worse time.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Anyway, I don't think you should
+I don't think you should
 stay in this city for too long.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This is Moreau Territory. It's the
+This is Moreau. It's the
 most cultured city in Aquaveil.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-I wonder if it was Seinegald 
-behind the voice in the sky?
+I wonder if Seinegald was
+behind that voice in the sky?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Are we all going to die like this?
+Are we all going
+to die like this?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -692,8 +708,8 @@ May the world return to normal.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-<Tiberius> remember that.
-Oops ...did I say that out loud?
+Damn you, <Tiberius>...
+Oops! Did I say that out loud?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -708,8 +724,9 @@ when that net thing fills up?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-My friends were killed by monsters.
-It's the end of the world.
+I lost my closest
+friends to the monsters.
+Our world must be ending!
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -719,8 +736,9 @@ of being a loner?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-I don't know what you're up
-to, but I'm asking you anyway.
+What are you planning?
+It doesn't matter.
+We're counting on you.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -734,17 +752,17 @@ Good luck in Terazzi.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-But don't do anything rash.
+Please do be careful, though.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-Hey, hey, what the hell
-are you worried about?
+Hey, come on, what are
+you worried about?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-Clown won't do anything
-rash or hard.
+Our clown won't do anything
+rash or unreasonable!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -758,30 +776,30 @@ you have done for me.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Well, gentlemen. Thank you very
-much for that opportunity.
+Thank you all so much
+for saving me back then!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-My husband is also working
-with <Johnny> on ways to
-deal with this.
+My husband and <Johnny> are
+currently discussing ways
+to deal with this situation.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I hope we can do 
-something effective.
+I'm sure they'll be able
+to come up with something.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
 <Johnny>, don't worry about 
-the country. Just do what 
+Aquaveil. Just do what 
 you have to do.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
 I believe in you guys.
-Please do this for me.
+We're all counting on you.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -790,44 +808,47 @@ I could count on in a pinch.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I'll do what I can. So,
-good luck to <Johnny>.
+I'll do what I can, too,
+so you'd better give
+it your all, <Johnny>!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I'm never going to give up.
-Let's definitely take back the world.
+I'll never give up!
+We will take
+back this world we love!
 [ENDBLOCK]
 Young lady
 [ENDBLOCK]
-Don't say anything out of the
-ordinary. You never know 
+Be careful what you say.
+You never know
 who might be listening.
 [ENDBLOCK]
-Sister
+Young Lady
 [ENDBLOCK]
-I'm sure <Fayte> will be
-able to fix this country.
+I'm certain Lord <Fayte>
+will be able to fix this country.
 [ENDBLOCK]
-Sister
+Young Lady
 [ENDBLOCK]
-Do we not have the 
+I know Lord <Fayte> will be
+able to fix this country!
+[ENDBLOCK]
+Young Lady
+[ENDBLOCK]
+Don't we have the
 right to live in peace?
 [ENDBLOCK]
-Sister
+Young Lady
 [ENDBLOCK]
-The city was attacked by a 
-monster. My father was... ugh...
-[ENDBLOCK]
-Sister
-[ENDBLOCK]
-Please, please, please.
-You are my last hope.
+Please, please, please!
+You're our last hope!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-A foreigner showed up out of 
-nowhere. He's become our deputy.
+Some foreigner showed up
+out of nowhere and
+suddenly became our magistrate.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -837,57 +858,59 @@ on my business.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-What a mess we've gotten 
-ourselves into again. What is
-this, the Aeth'er Wars?
+This is another fine mess, huh?
+What's this Aeth'er Wars
+thing he mentioned?
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-No matter what happens, I'm not
-going to stop doing business.
+Well, whatever happens,
+I'm not letting it
+stop me from doing business!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I haven't seen much of the ship lately.
+I haven't seen
+many ships lately.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Moreau's Black Cross fleet is the
-strongest. Even against Seinegald,
-it's unbeatable.
+Moreau's Black Cross Armada is the
+strongest in the world!
+Even Siengald's navy is no match!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 There are bad guys in the sky.
-I wonder if even the Black Cross
-fleet can't get a hold of them.
+I guess even the Black Cross
+Armada can't get up there...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-If I could fly. I'd go take
-out the bad guys.
+If only I could fly.
+I'd take those bad guys out!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're going up to take
-out the bad guys, right?
+You're gonna go get
+those bad guys right??
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're going up to take
-out the bad guys, right?
+You're gonna go get
+those bad guys right??
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-You trampled our land 
-with your feet. I can't 
-forgive <Tiberius>.
+He trampled our land with
+his unclean feet.
+<Tiberius> is unforgivable!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-As long as <Tiberius> is alive
-and well, something like this
-might happen again.
+As long as <Tiberius> continues
+to draw breath, something like
+this will surely happen again.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -898,7 +921,7 @@ for his crimes.
 Old Womain
 [ENDBLOCK]
 I hear <Tiberius> is dead.
-I'm sorry to hear that.
+Hmph. It's the least he deserved.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -908,14 +931,15 @@ What's going on now?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-As soon as Master
-<Fayte> became Lord.
+Master <Fayte> only just became
+our ruler, too. I cannot believe
+something so awful has happened.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
 I offered you my lens too.
-I don't like the idea of collecting
-them for Terazzi, though.
+I can't stand the thought of 
+Toukei gathering more than us!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1464,82 +1488,89 @@ Depot
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>, you're the queen of
-the Moreau territory, right?
+Lady <Rihanna>, you're like
+the queen of Moreau, right?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Yes, I am.
+Yes, that's right.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Um, could I ask you 
-something, I'd like to know
+Uhm, could I ask you something?
+I'd like to know
 what you do as a queen.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Oh?	Do you want to be
-a queen, <Chelsea>?
+Oh?	Do you wish to
+become a queen, <Chelsea>?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-No. I'm going to be a princess.
+It's not that. I'm already
+certain to be queen!
+I just want to be ready.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Well, first of all, a queen has
-to work harder than she looks.
+I see. Well, first of all,
+being a queen is far
+more difficult than it appears.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-First of all, when you wake
-up in the morning, you have
-to get dressed right away.
+First, in the morning,
+one must immediately
+dress themselves when they wake.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That much.
+R-Really...?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I can't go out, looking like 
-I just woke up.
+When you go out, as well.
+One must always appear pristine.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's a bit of a bother.
+That sounds
+kinda annoying...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I had time to practice, every day.
+There are always
+lessons to attend
+every single day, as well.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Hey, I don't like it either.
-But it's easy enough.
+That sounds tough,
+but I can handle that.
+...I think...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-The best part is...
+And on top of everything...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I'm so busy every day,
-I'm indulging more and more.
+You get wrinkles on
+your face from being so busy!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's how much...!
+W-W-Wrinkles...!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-...I knew it, I knew it, I knew it!
+Noooooooo!!!!!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>, do you not
-like being queen?
+Don't you hate
+being queen, Lady <Rihanna>?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1553,58 +1584,62 @@ the same path as my husband.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Good luck to you too, <Chelsea>!
+Please don't lose heart, <Chelsea>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yes, I will be a great queen!
+Yes! I'll become a
+great Queen, just like you!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>, you're the queen of
-the Moreau territory, right?
+Lady <Rihanna>, you're like
+the queen of Moreau, right?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Yes, I am, but a queen is 
+That's right, but being queen is 
 a lot different from what
 you imagine, <Chelsea>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-It's more of a struggle, and
-it's given me more wrinkles.
+It's quite difficult.
+I swear it'll give me wrinkles.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>, you're beautiful,
+Lady <Rihanna>,
+you're beautiful,
 so you'll be fine.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-But you see. They say 
-that beautiful women
-have short lives.
+Maybe, but they say
+beautiful women
+live short lives...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I wonder if there is 
-anyone who can destroy
-this situation in the world.
+It feels like everything is
+alright with the world. 
+I hope nobody ruins this peace.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-We'll figure it out.
+You can count
+on us if that happens.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well, if push comes to shove,
-I'll ask for <Johnny>'s help.
+Yeah. If push comes
+to shove, we can always
+get help from Johnny, too.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Yeah. You'll have to
-work me then.
+Really? Then I'll
+be counting on you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1613,38 +1648,41 @@ is <Johnny> doing?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-He doesn't tell me how
-he really feels, so I can't
-tell if he's tired or not.
+He's doing well, I believe.
+He never tells anyone how
+he really feels, so it's
+hard to tell if he ever gets tired.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Anyway, why is <Johnny>
-acting like such a clown?
+So what's the deal with
+that clown act he puts on?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's <Mary>. I'll ask
-you something that's
-hard to hear.
+That's our <Mary>.
+Always asking what noone
+else can bring themselves to.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Yes... but first we need
-to talk about <Fayte>.
+Well...First, I need
+to talk about <Feyt>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You mean <Fayte>?
+About <Fayte>?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Yes, <Fayte> used to have a 
-girlfriend named <Eleanor>.
+That's right.
+A long time ago, <Fayte>
+had a girlfriend named <Eleanor>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-How can you talk so calmly?
+You seem strangly calm
+talking about his old flame~.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1653,53 +1691,50 @@ are childhood friends.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny> doesn't say it,
-but I think he was in
-love with <Eleanor>.
+<Johnny> would never
+say it, but he was
+in love with <Eleanor>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-But <Eleanor> was
-killed by <Tiberius>.
+However...<Eleanor> was
+murdered  by <Tiberius>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte> was so rough,
-I can't imagine what he's
-going through now.
+<Fayte> was devestated.
+Compared to how he is now,
+he became very short-tempered.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-And to <Johnny>, who encouraged 
-<Fayte> at that time. <Fayte>
-gave me a hard time.
+He was even cruel to <Johnny>,
+who would normally cheer him up.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-And in the end, he said, "You, 
-with your unrequited love You
-will never understand my pain!".
+In the end, <Fayte> lost his temper
+with <Johnny>. "You could never
+understand my suffering!" he said.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's a bit much, isn't it?
+That was kind of harsh, huh...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It must have been a very painful
-experience for you too, <Fayte>.
+<Fayte> also had
+a hard time, didn't he...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I think he understands
-that if  he talks like that,
-<Johnny> will be hurt.
+I think <Johnny> did understand
+how much <Fayte> was suffering.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But I had to say it...
-It's because I was 
-really suffering.
+But...even though he wouldn't
+say it, he was hurting just as much.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1707,18 +1742,19 @@ Thank you, <Stahn>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-After that incident, <Johnny>
-seems to have changed.
+After that day,
+<Johnny> seemed to change.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-He began to dress flamboyantly,
-never stepping into another person's
-mind, and never letting them into his.
+He started wearing flashy clothing,
+never stepping into anyone's mind,
+and never letting anyone into his...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte> I still regret that, too.
+<Fayte> still regrets what
+he said to this day.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1728,22 +1764,22 @@ make <Johnny> happy.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It's kind of a surprising
-past, isn't it?
+Gotta say, I wasn't expecting
+them to have this kind of history.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's why <Johnny> seems
-to be such a kind person.
+So that's why <Johnny> seems
+like such a gentle guy.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You seem like a nice person,
-That's kind of a sad thing to say.
+Gentle, huh?
+That's a kinda sad way to put it.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-I wonder if there's anyone
-who can change the situation
-of the world.<x00>
+It feels like everything is
+alright with the world. 
+I hope nobody ruins this peace.<x00>
 [ENDBLOCK]
