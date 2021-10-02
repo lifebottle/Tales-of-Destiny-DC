@@ -16,36 +16,36 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+A new valve.
+We can use this to
+get the water system working.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+It's a new valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working..
+A new valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
 It's a new valve. It'll get
 the water system going.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+A valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+It's a valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
 Default
 [ENDBLOCK]
@@ -54,22 +54,22 @@ Default
 notice
 [ENDBLOCK]
 There's a device to control
-the water volume, but no 
+the water level, but no 
 valve is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The valve I have doesn't
-seem to be able to connect.
+The valve you have doesn't
+seem to be compatible.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Let's try another location.
+Try using it at another location.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 A valve has been installed on the
-device to regulate the water volume.
+device to regulate the water level.
 [ENDBLOCK]
 CUBE1=<x1D><x75><x44><xA4><x80>,<x1D><x75><x44><xA8><x80>,<x1D><x75><x44><xAC><x80>
 
@@ -181,12 +181,13 @@ the drums again?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-These drums are in the way,
-so we can't go forward.
+These drums are
+blocking our progress...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Stand in front of a drum, <Stahn>.
+Stand in front
+of a drum, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

@@ -28,84 +28,89 @@ reset---------
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-Huh? I believe you are...
+Hm? Aren't you..?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What about me?
+You talking about me?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-That's right. You're the one that 
-defeated <Lilith> in the arena?
+Oh that's right!
+You're that guy who managed
+to beat <Lilith> in the arena right?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What about me?
+You talking about me??!
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-And there it is!
+I-It's you!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What? Don't talk to 
-me like that.
+You've got some nerve,
+talking like I'm not here!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So, what can I do for you?
+Well, anyway, is
+there something you need?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-What is it? Eh, uh~...
+Wh-What? W-Well, Uhh...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's okay to talk about <Lilith>,
-you can talk about her.
+<Lilith> will be OK.
+Please tell us.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-That's the one. I thought I'd
-give you some good information.
+In that case, I was thinking
+of telling you about
+an interesting report I received.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What do you mean?
+Really?
+What is it?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-Didn't we once have a pirate
-invasion of this city?
+A while back, some pirates
+attacked this city, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I think you mean <Batista>.
+Right, when we
+fought <Batista>.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-One of them is a sunken pirate ship.
-in this area of the ocean.
+Well, it seems that one of the
+ships was sunk during the fighting.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-It's also possible that some
+It's possible that some
 treasure had sunk with it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Are you sure you want to share
-such valuable information with me?
+Is it really OK for you to
+share this report with us like this?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-It's at the bottom of the sea,
-anyway. I'll never get there.
+Well, the ship's underwater.
+It's not like I can go there myself.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thank you.
+Well, thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -113,12 +118,12 @@ Come on, <Lilith>, say thank you.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Thank you!
+Thank you very much!
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
 I wish I was stronger.
-I can't do it, can I?
+I'm kinda useless, huh?
 [ENDBLOCK]
 Begin creating the ocean.
 
@@ -128,8 +133,8 @@ Begin creating the ocean.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-I carry some fine arms.
-Have a look around.
+My weapons are the best.
+Have a look around!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -139,8 +144,8 @@ should be well prepared.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-I carry some fine arms.
-Have a look around.
+My weapons are the best.
+Have a look around!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -150,7 +155,8 @@ You should be well prepared.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
-Fitzgald meat is delicious!
+Fitzgald meat
+is delicious!
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
@@ -171,7 +177,7 @@ feel free to shop.
 Produce Merchant
 [ENDBLOCK]
 Welcome.
-Make a purchase!
+Wanna buy something?
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
@@ -181,7 +187,7 @@ worried about our crop production.
 Kid
 [ENDBLOCK]
 If you hang around here long
-enough, you can get leftovers.
+enough, you can get leftovers!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -194,8 +200,8 @@ I'm hungry...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-I saw a strange ship get into the harbor
-and put some kinda priest on board.
+I saw a weird ship dock here.
+Some priest-looking guy got on board.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -204,13 +210,13 @@ to eat but scraps recently.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-<Kongman>, please! Bring back
-the light of day!
+<Kongman>, please!
+Bring the sun back!
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-The city's opinion of
-Oberon is controversial.
+The Oberon Corporation's presence
+in the city has been controversial.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -219,17 +225,18 @@ it's good for the city to develop.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-I think that Ms. <Ilene> is fine with
-evacuating the residents without
-taking their own risks.
+Ms. <Ilene> evacuating the citizens
+without worrying about
+herself was so admirable...
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Has <Ilene> gotten over this city?
+Has <Ilene> given up
+on this city...?
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Seinegald has sent a large number
+Seinegald sent a large number
 of soldiers to the damaged area.
 [ENDBLOCK]
 Lady
@@ -240,14 +247,14 @@ doesn't do anything in this situation.
 Lady
 [ENDBLOCK]
 The government doesn't do anything,
-even though we don't know when the
-city will be attacked.
+even though we don't know if the
+city will be attacked again or not!
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
 Rather than waiting for the powers
 that be, I was thinking of doing
-what I could.
+what I could, myself.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -256,13 +263,13 @@ gave what lens I could.
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-I don't know why that barbarian,
-<Kongman> or whatever, is so popular.
+I don't know why that brute
+<Kongman> is so popular.
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-<Kongman> took out a fleet of armed
-ships? Hmmm, can't get it out of my head.
+<Kongman> took out an armada alone??
+Hmm...maybe I was wrong about him.
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
@@ -270,12 +277,12 @@ Young Lady
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-Hey, Where's <Kongman> going to go?
+Hey, Where's <Kongman> going?
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-<Kongman> is the hero of this city,
-right? Then protect this city!
+<Kongman>, you're the hero of
+this city right? Then do your job!
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
@@ -285,27 +292,28 @@ for being so selfish.
 Young Lady
 [ENDBLOCK]
 Good luck in your quest to save
-the world. Mighty! Mighty! Mighty!
+the world! Mighty! Mighty! Mighty!
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-Go for it! <Kongman>!
+Go get 'em, <Kongman>!
 Mighty! Mighty!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-People who are satisfied with material
-things are not necessarily mentally
-satisfied as well.
+Those obsessed with
+material gains are always
+lacking in spiritual fulfillment.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-What this city needs most right now,
-is a Straylize Temple.
+More than ever, this city
+needs a branch of Straylize Temple.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I wish we had a temple in this city.
+I wish we had
+a temple in this city.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -325,14 +333,15 @@ on your path ahead.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-We are preparing for the next
-sailing. Please wait for a while.
+We're still getting ready
+for our next voyage.
+Come on back later, okay?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-No matter what happens, we won't
-cancel the flight. I'll show you what
-a sailor is capable of.
+I don't care what, we're still
+setting sail. I'll show you
+what a man of the sea can do!
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -343,7 +352,7 @@ freshly caught fish?
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-I'll sell fish
+I'll stay open
 no matter what!
 [ENDBLOCK]
 Man
@@ -399,36 +408,38 @@ at the heart of Fitzgald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-My hometown, Lienea,
-is also here in Fitzgald.
+My hometown Lienea's
+here in Fitzgald, too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's not my only motivation, but we've
-gotta find <Greybum> soon.
+No time for that now, though.
+We gotta find <Greybum>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-First, we're going to <Ilene>'s estate.
+First, we're going
+to visit <Ilene>'s estate.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene> is the head of
-Oberon's Fitzgald branch.
+<Ilene> is head of the Oberon
+Corporation's Fitzgald branch.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It'd be a good idea to make
-use of her influence.
+Good idea. We could certainly
+make use of her influence.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We need a ship. We're going to
+Prepare a ship. We're going to
 strike back at that armada.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Wait! I'm going with you!
+Wait!
+I'm going with you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -436,7 +447,8 @@ Wait! I'm going with you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-We have to protect our town.
+We have to
+protect our town!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -445,7 +457,8 @@ not going to let her out-do me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right. Let's fight together!
+All right!
+Let's fight together!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
@@ -466,7 +479,7 @@ last one of 'em to bits!
 <Dymlos>
 [ENDBLOCK]
 Our goal is the flagship. We don't have
-enough time to do a thorough search.
+time to do a thorough search.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -486,7 +499,7 @@ warm welcome, folks!
 [ENDBLOCK]
 Your Champion, <Kongman> has
 crushed the evil armada, and
-brought peace back to the town!
+brought peace back to the city!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -527,32 +540,34 @@ older women...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Philia>, are you...disappointed?
+<Philia>, are you...jealous?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-N-Not at all! I would never. 
-It's impossible. Completely out
+N-Not at all! I would never! 
+It's impossible! Completely out
 of the question!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Wow, you really shot that down 
-with everything you've got.
+Wow, you shot that down 
+with everything you could!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Mmmm...What was with that ship?
+Hmm...What was
+with that ship?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What are you talking about?
+What are you
+talking about?
 [ENDBLOCK]
-When you all were fighting 
+while you all were fighting 
 out at sea, a ship from the
 armada came this way...
 [ENDBLOCK]
-But then it left almost right away.
+But then it left almost immediately.
 So what the heck was that about?
 [ENDBLOCK]
 <Philia>
@@ -566,53 +581,54 @@ please use a rowboat to get to land.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Thanks for taking
-care of us, <Ilene>.
+Thanks for setting
+this up, <Ilene>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Uh... <Philia>, you're
-really going, aren't you?
+Wahh... <Philia>, you're
+really leaving, aren't you?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If I weren't helping to rebuild the
-town, I would come along with you!
+If I weren't helping
+to rebuild the city, I'd
+come with you in a heartbeat!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It'll be okay. You're needed
-here in town, <Kongman>.
+There, there. The
+townspeople need you, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, how are you so kind?
+<Philia>, you're so kind!!
 What an inspiration!! Uwahhhhh!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What a nice interpretation.
-That's good.
+That's one way to put it.
+Glad he's taking it so well.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Stahn>! Please protect
-<Philia> properly in my place.
+<Stahn>! You are to protect
+<Philia> in my place!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If anything happens to <Philia>,
+If anything happens to her,
 I will destroy you!!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Don't worry, it'll be fine.
-Leave everything to me.
+You can count on me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, we're leaving now.
-Really, thank you so much.
+Well then, we're off.
+Really, thank you so much!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -622,17 +638,17 @@ challenge from earlier, okay?
 <Stahn>
 [ENDBLOCK]
 I won't forget. Who'll realize
-their ideal first, right?
+their ideals first, right?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-I hope we'll have some results
-the next time we meet.
+I hope next time we meet,
+we'll both have made progress.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 Ideals, huh...wonder if that's
-something easier said than done.
+something easier said than done?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -640,15 +656,16 @@ something easier said than done.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-N-Nothing.
+F-Forget it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, take care!
+Well then,
+take care!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Let's get on the ship.
+Let's get onboard.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -661,12 +678,12 @@ Hold on, you guys!
 <Stahn>
 [ENDBLOCK]
 Oh, hey, <Kongman>!
-You been well?
+How've you been?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 I'm the champion!
-Of course I've been well!!
+I've been great!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

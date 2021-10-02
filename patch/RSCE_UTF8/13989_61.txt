@@ -375,7 +375,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Excuse me, Sir?
+Hey, mister!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -406,8 +406,8 @@ Don't be like that. Listen!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yesterday, when I left some veggies
-I didn't like, my mother got angry.
+Yesterday, when I didn't
+eat my veggies, my mom got mad!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -457,8 +457,8 @@ grow big if I eat lots of sweets!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, in the end, neither we nor
-<Lion> got to eat any Softy Kreem.
+Oh yeah, neither we nor <Lion>
+ever got to eat that Softy Kreem...
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -520,21 +520,22 @@ reset---------
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Does anyone have a... 
-stunning shirtless physique... 
+If only I could find a man
+with a perfect, shirtless physique!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Oh, it's only you!
+Ah! You!
+Noone but you will do!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hmm? You wanted to see me?
+Eh? You talkin' to me?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Suddenly, I'm in love with
-that body of yours.
+I know it's sudden, but
+I've fallen for your muscles!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -542,21 +543,20 @@ Ha, ha, ha...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-To each his own. Good
-for you, <Kongman>.
+To each his own.
+I'm happy for you, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Even <Philia>, is
-being terrible?
+Not you too, <Philia>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-No, I don't want that!
+Dang it, I ain't like that!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Oh, no sir. Please
+Oh no, sir. Please
 don't misunderstand.
 [ENDBLOCK]
 Rookie Director
@@ -565,8 +565,8 @@ I'm a stage director.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Actually, the actor got sick, We're
-looking for a replacement.
+Our lead actor is out sick,
+so we need a replacement!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -579,28 +579,28 @@ Yes, that's correct.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's great,
+That's so cool!
 <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You've got to be kidding me. I'm the
-champion, not an understudy!
+You're kidding me! I'm the Champion,
+not some prima donna's substitute!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I'm sorry. My future as a
+Please! My future as a
 stage director is at stake.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>, aren't you amazing?
+<Kongman>, isn't this great?
 I love theatrical performances.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Well, well, if <Philia> wants to
-see me as an actor, she will...
+W-Well, if <Philia> wants to
+see me act so bad, then so be it!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -609,7 +609,7 @@ I...wouldn't go that far...
 Rookie Director
 [ENDBLOCK]
 Really!?
-Thank you very much.
+Thank you so much!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -617,31 +617,31 @@ Well, let's get to it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What, we're doing this now?
+What, we're doin' this now?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Yes! There's already
-a crowd in the hall!
+Yeah! The audience
+is already waiting!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-...seriously?
+You're kiddin' me...
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Don't worry, there are no lines.
+Don't worry, there aren't any lines.
 Just act as I tell you to.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Now, the stage is about to
-begin. Let's hurry up.
+OK, let's hurry! The play
+is about to begin!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Please follow the Director's
-instructions and perform.
+Perform according to
+the director's instructions.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -657,7 +657,7 @@ notice
 [ENDBLOCK]
 <Circle_ani> Triumpant Stance
 <Cross_ani> Laugh
-<Triangle_ani> Pose
+<Triangle_ani> Propose
 <Square_ani> Weep
 [ENDBLOCK]
 notice
@@ -672,8 +672,8 @@ No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-As soon as you leave here,
-you're on the stage.
+As soon as you head out
+there, the play will begin.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -681,8 +681,8 @@ I will direct from here.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Please follow those instructions
-and perform. Okay?
+Just follow along with
+my directions. Got it?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -691,11 +691,11 @@ I know you can do it.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Now, you're up!
+Alright, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on!
+Knock 'em dead!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -704,107 +704,117 @@ Good luck!
 ret <x17><x66><x14><x03><xE8><x80><x80>
 
 [ENDBLOCK]
-Hostess
+Actress
 [ENDBLOCK]
-I am a princess trapped in a tower.
+Oh, woe to me, to be imprisoned
+so in this dreadful tower!
 [ENDBLOCK]
-Hostess
+Actress
 [ENDBLOCK]
-Oh, prince of the white horse.
-When are you going to rescue me?
+When, oh when will my Prince Charming
+come and whisk me away to a better life??
 [ENDBLOCK]
-Hostess
+Actress
 [ENDBLOCK]
-Oh, and you are?
-[ENDBLOCK]
-Rookie Director
-[ENDBLOCK]
-Come on, you've got to court her.
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-You are the prince on the white horse
-who will rescue me, aren't you?
+Oh my! Who might you be?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Show them you're a strong man!
+Ok, down on one knee!
+Get her to fall for you!
 [ENDBLOCK]
-Hostess
+Actress
 [ENDBLOCK]
-Oh!	How dependable!
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-Come on, let's get out of here.
+Could it be? Are you my prince,
+come to save me from my captivity?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Now, again. Let's be cool.
+Now! Show her
+how strong you are!
 [ENDBLOCK]
-Man
+Actress
 [ENDBLOCK]
-You will not touch the princess!
+Aah! How wonderous!
 [ENDBLOCK]
-Hostess
+Actress
 [ENDBLOCK]
-What the hell are you...?
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-I completely adore the princess.
-But I'm the son of a simple farmer.
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-I know that we differ in status,
-my heart yearns for her still.
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-Well, do you love me that much?
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-A relationship that transcends status.
-That's the pure love I've always wanted!
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-Save my body, my 
-soul. Save me.
-[ENDBLOCK]
-Man
-[ENDBLOCK]
-I will protect the princess
-for the rest of her life.
-[ENDBLOCK]
-Hostess
-[ENDBLOCK]
-...Yes.
+Quickly, take me
+away from this place!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I don't know what's going
-on anymore!	That's the laugh!
+OK, again! Be cool!
+[ENDBLOCK]
+Actor
+[ENDBLOCK]
+You there! Don't you
+dare lay a finger upon her!
+[ENDBLOCK]
+Actress
+[ENDBLOCK]
+Wh-Who are you..?
+[ENDBLOCK]
+Actor
+[ENDBLOCK]
+I am but a man head over heels
+in love with you, though I be 
+a mere farmer's son.
+[ENDBLOCK]
+Actor
+[ENDBLOCK]
+I know in my head we
+could never be, but
+my heart won't let you go!
+[ENDBLOCK]
+Actress
+[ENDBLOCK]
+You truly have such
+love in your heart for me?
+[ENDBLOCK]
+Actress
+[ENDBLOCK]
+Then let us cast aside what
+society thinks!
+What we have together is true love!
+[ENDBLOCK]
+Actress
+[ENDBLOCK]
+Please rescue me,
+both body and soul!
+[ENDBLOCK]
+Actor
+[ENDBLOCK]
+I shall protect you
+with my life, milady!
+[ENDBLOCK]
+Actress
+[ENDBLOCK]
+...Yes!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-But then I start to understand
-the situation. I cry...!
+At times like this,
+all you can do is laugh!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Well, it was wonderful.
+But then reality hits you,
+and you just can't handle it!!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-You can be a top star without a doubt.
+Wowie!! That was splendid!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Well, it's your first performance.
-It's enough.
+I bet you could be a leading
+actor someday! A true star!
+[ENDBLOCK]
+Rookie Director
+[ENDBLOCK]
+Well, for your first performance,
+it was alright.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -812,14 +822,15 @@ Please join us again.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Once again. Would you like to
-take the stage again?
+Would you like to
+take to the stage again?
 Yes
 No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I'll explain it again then.
+I'll explain
+it again, then.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -827,78 +838,83 @@ I'll be waiting.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Neustadt's specialty. Would you 
-like to try a Softy Kreem?
+Would you like
+to try a Softy Kreem?
+It's Neustadt's specialty!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-The other day's attack caused a
-lot of damage to the store.
+That attack the other day
+really did a number on my stand.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-But we can't afford to lose the city's
-specialty to something like this.
+We can't afford to lose
+the city's specialty
+because of that, though!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Welcome. It's cold
-and delicious.
+Welcome!
+It's extra kreemy today!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Sales have not been good lately.
+Sales haven't been good lately.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-I guess we don't have time
-to sell Softy Kreem anymore.
+Guess this ain't the time
+to be selling Softy Kreem.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-I couldn't stop selling after all.
+I couldn't bring myself
+to close up, after all.
 Keep up the good work!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Neustadt's specialty. Would you 
-like to try a Softy Kreem?
+Would you like
+to try a Softy Kreem?
+It's Neustadt's specialty!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
 I lost all my Gald in the arena. 
-I don't have Gald for food.
+I can't even buy lunch, now!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-You have to get your food for free.
-...Whoa, did you pull that off?
+I'll have to rely
+on what I can catch.
+Oh! Do I have one!?
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-I thought I pulled a... but 
-I guess I was imagining it.
+I thought I had a fish...
+Guess it was my imagination.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-Well, thank God this place is
+Well, thank goodness this place is
 back up and running so quickly.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-If we were to fish in the harbor, the
-fishermen would give us the evil eye.
+If I were to fish in the harbor, the
+fishermen would give me the evil eye.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-Where did you guys hear that broadcast?
-I'm really surprised, aren't I?
+Did you guys hear a voice
+from somewhere?
+It really startled me.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-You never know when a monster is
-going to attack. Fishing is also
-a deadly business.
+Fishing's pretty dangerous too.
+You never know when a mons
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -917,24 +933,23 @@ injured in the commotion...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I got spotted by that girl from
-the lower quarters when I was
-with my sister earlier...
+That girl saw me with my
+sister the other day...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I hope I'm not misunderstood...
+I hope I'm
+not misunderstood...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I wonder how they're feeling right now.
+I wonder how she's feeling right now.
 I want to go check on her, but... hmmm.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've heard that if I were
-to go to the downtown area,
-I wouldn't be safe.
+I heard it's not
+safe downtown now.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -953,9 +968,9 @@ suffered the most damage.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-On the contrary, it was fortunate
-that the damage was concentrated
-so that it could be quickly restored.
+However, it's fortunate
+the damage was concentrated.
+It was easier to fix, that way.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -970,27 +985,27 @@ I don't care about the rest.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-It's an awful situation indeed.
+This is truly an awful situation.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 Are you sure you just want lens?
-I'll provide you funds for the army.
+I can provide money too, you know.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 So please, please, please!
-Please help us.
+Please help us!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'm not gonna do it just to watch you.
-Get away from me.
+Stop staring at me.
+Leave me alone!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 I have my Softy Kreem Shop
-back. I'm so relieved. 
+back. I'm so happy! 
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1005,18 +1020,18 @@ hanging around here these days.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'm sure Neustadt isn't the only
-one that doesn't want to be hit.
+I feel like Neustadt's
+the only place that gets attacked!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I wish I could ask my dad to
-move me somewhere brighter.
+I wanna ask papa to
+move us somewhere brighter.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Dad, wants me to try and get along with
-people going forward. I wonder why?
+Papa says I should get along
+with downtown kids. Why?
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
@@ -1029,8 +1044,8 @@ lady is okay...
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
-Oh, my God.
-She's gone...
+I haven't seen that
+nice lady at all lately...
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
@@ -1040,7 +1055,7 @@ too. I'm sure I'd be happy.
 Poor Child
 [ENDBLOCK]
 I wonder what's going on 
-on top of that shell.
+on top of that thing in the sky?
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
@@ -1073,7 +1088,8 @@ any more <ITEM_006>.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-You don't seem to have enough Gald.
+You don't seem
+to have enough Gald.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -1101,31 +1117,34 @@ This is the Softy Kreem stand
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Excuse me, can I get five please?
+Excuse me,
+can I get five, please?
 [ENDBLOCK]
 Softy Kreem Stand
 [ENDBLOCK]
-Which flavors would you like?
+Which flavors
+would you like?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ohh, there are a bunch to choose
-from. Which one, which one...?
+Woah, there's a lot
+to pick from.
+Hmm...which one...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Hmm, which should I pick?
+Mmmh, which should I pick?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
 The standard mocha flavor, or the
-limited cherry... Which one should
-I choose...? How troublesome.
+limited cherry? Which one should
+I choose...? Oh dear...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Hey, if it were you, which
-would you choose?
+Hey, which one
+would you pick?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1133,7 +1152,7 @@ Eh? Me?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If it were me... I'd definitely
+Me? I'd definitely
 go with vanilla.
 [ENDBLOCK]
 ???
@@ -1145,21 +1164,25 @@ say mocha or cherry, right?
 [ENDBLOCK]
 If you can't decide between two
 options, then your answer is a
-third option... or is that wrong?
+third option...right?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I see, I hadn't thought of that...
+I see. I hadn't
+thought of that...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Then I'll do that. Sir, one vanilla!
+Ok, then I'll take
+one vanilla, please!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah, me too. Five vanilla!
+Ah, me too.
+Five vanilla!
 [ENDBLOCK]
-Sorry for the wait. Here's five vanillas.
+Sorry for the wait.
+Here's five vanillas.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1168,8 +1191,8 @@ here is really the best!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-If you eat here just once, no other
-shop will be able to satisfy you.
+Just one visit to this place
+and nowhere else can compare!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1191,18 +1214,21 @@ You flatter me, thank you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Hmm...? Those children...
+Hmm...?
+Those children...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Yoohoo~ Do you all want some, too?
+Yoohoo~
+Would you like some, too?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
 Sir, I'd like one for these children
 here, if you please. All of them.
 [ENDBLOCK]
-Are you sure that's alright, miss?
+Are you sure
+that's alright, miss?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1211,8 +1237,8 @@ with everyone, after all.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Everyone, here you go. I'm
-treating you to Softy Kreem.
+Here you go, everyone!
+Softy Kreem, my treat!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1229,7 +1255,8 @@ Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ha, where're you seeing that?
+Hah!
+Do you think so?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1259,7 +1286,7 @@ Ah! It's <Kongman>!
 [ENDBLOCK]
 <Kongman>...?
 [ENDBLOCK]
-Waaah! <Kongman>!
+Eee! <Kongman>!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -1267,27 +1294,28 @@ Girl
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hey, kids. Make sure you're
-living for the day.
+Yo, kids.
+Y'all hangin' in there?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Well ain't that sweet. It must feel
-good to give to the poor.
+Well ain't that sweet! 
+Must feel good to give to the poor!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I don't think of it as charity.
+I don't think
+of it as charity.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Don't think that money can buy
-everything, <Ilene> <Rembrandt>!
+Don't think you can buy everything
+with money, <Ilene> <Rembrandt>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You even want the people of Fitzgald
-to sell their souls to you!
+I betcha'd try to buy everyone
+in Fitzgald's souls if you could!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1307,13 +1335,13 @@ the hopes of developing Fitzgald.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You newcomers are just trying to turn
-a profit. The people who've been here
-since the beginning are still poor.
+Hah! You're just tryin' to turn a profit!
+The people who've lived here
+from the start are still poor!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-That's... surely we're...
+That's... but...we're...!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1322,27 +1350,27 @@ Seinegald know about Fitzgald?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-This is of no concern to outsiders.
-So hurry up and leave our country!
+Outsiders have no business here.
+Hurry up and get lost already!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's... isn't that wrong?
+Hey...You can't say that!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's not good to judge people
-based on their birth.
+You shouldn't judge someone
+because of where they're from!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What's it to you, kid? Are
-you trying to preach to me?
+What's it to you, kid?
+You tryin' to preach to me?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>... Isn't it better
-not to interfere?
+<Stahn>...maybe we
+shouldn't interfere?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1350,12 +1378,12 @@ But...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Th-This is!?
+Y-You...! You're...!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-My, who is this lovely
-maiden in glasses?
+Ah, truly, my eyes are blessed
+to gaze upon you, fair maiden...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1363,8 +1391,8 @@ Who, m-me?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-My heart is racing? 
-You're my ideal woman!
+My heart! It races!
+You're exactly my type!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1372,17 +1400,17 @@ Okay...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Shall we have energy drinks together?
-Or perhaps do Hindu squats!
+Would you care to
+share an energy drink?
+Or we could do squats together!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Well that's an exciting pickup line.
+Well well, some pickup artist this fellow is.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-His personality changed
-all of a sudden...
+His personality's completely changed...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1390,16 +1418,17 @@ Ah? Uh, that's, um, I...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Cut it out, you're scaring <Philia>.
+Cut it out,
+you're scaring <Philia>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You're interfering, boy. Who are
-you to this beauty, anyway?
+Butt out, kid!
+Who's she to ya!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia> is my friend.
+<Philia> is my friend!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1412,15 +1441,17 @@ are destined to battle!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-A duel! C'mon, to my arena!
+I challenge you to a duel!
+I'll see you at my arena!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why do we have to duel!?
+Why do we
+have to duel!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>, you do not have to play
+<Stahn>, you don't have to play
 along. We don't have time for games.
 [ENDBLOCK]
 <Kongman>
@@ -1435,8 +1466,9 @@ What did you say, you insolent-!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If you are truly a man, you will accept
-my duel! IF you are a true man!
+If you're a real man,
+you'll duel me!
+IF you're a real man, that is!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1446,12 +1478,12 @@ much to you, I'll do it!
 <Dymlos>
 [ENDBLOCK]
 I'll make you regret insulting me.
-<Stahn>, let's give him hell.
+<Stahn>, let's give him hell!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, make sure to watch this.
-I will meet with you after my victory!
+<Philia>, please be sure to watch.
+Afterwards, we will toast my victory!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -1464,8 +1496,8 @@ Ugh... but...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Do whatever you like? It
-doesn't really concern me.
+Do whatever you like.
+It doesn't bother me.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1475,21 +1507,23 @@ Because of me, you...
 <Stahn>
 [ENDBLOCK]
 It's not really your fault, <Philia>.
-It was a decision I made by myself.
+It was a decision I made myself.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So, where is the arena anyway?
+So, where is
+the arena anyway?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
 If you go up the main street in
-town to the north, there's an
+town to the North, there's an
 entrance at the end.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thank you. I'll go now.
+Thank you.
+I'll head there now.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
