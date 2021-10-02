@@ -366,7 +366,7 @@ the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-This is just a coincidence. 
+Another once in a life time meeting.
 Would you like to take a rest?
 [ENDBLOCK]
 select
@@ -400,9 +400,10 @@ The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<Chelsea>'s room in <Alba>'s cabin. If
-you wish, your friends can show you
-their various faces on that blank canvas.
+By interacting with the blank canvas
+in <Chelsea>'s room in <Alba>'s cabin,
+you can view different facial
+expressions of your friends.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
@@ -420,13 +421,13 @@ do their best to be that new possibity.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-The land east of here is a silvery new world.
-Head for your old husband!!!!
+Lands to the east, filled with silver.
+Return to the side of your beloved!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Listen to this old man's words. Go to <Dalis>.
-There might be something there.
+Heed the words of the old man. Go to <Dalis>.
+Who knows what you may find there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><xEC><x80>
 
@@ -534,11 +535,12 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Do you think it looks like fun.
+Don't you think this will be
+a bit entertaining...?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I've never seen you around before.
+I've never seen your face before.
 Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
@@ -576,34 +578,34 @@ without regret.
 [ENDBLOCK]
 I see! Thank you!
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Stahn><x18><x65><x58><x74><x00><x80>		<x0C><x0F><x00><x05><x00>
+<Stahn><x18><x65><x58><x74><x00><x80>: <x0C><x0F><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Rutee><x18><x65><x58><x78><x00><x80>		<x0C><x22><x00><x05><x00>
+<Rutee><x18><x65><x58><x78><x00><x80>: <x0C><x22><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Philia><x18><x65><x58><x7C><x00><x80>		<x0C><x32><x00><x05><x00>
+<Philia>: <x0C><x32><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Woodrow><x18><x65><x58><x80><x00><x80>		<x0C><x40><x00><x05><x00>
+<Woodrow>: <x0C><x40><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Lion><x18><x65><x58><x84><x00><x80>		<x0C><x4A><x00><x05><x00>
+<Lion>: <x0C><x4A><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Mary><x18><x65><x58><x88><x00><x80>		<x0C><x57><x00><x05><x00>
+<Mary>: <x0C><x57><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Chelsea><x18><x65><x58><x8C><x00><x80>		<x0C><x65><x00><x05><x00>
+<Chelsea>: <x0C><x65><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Johnny><x18><x65><x58><x90><x00><x80>		<x0C><x73><x00><x05><x00>
+<Johnny>: <x0C><x73><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Kongman><x18><x65><x58><x94><x00><x80>		<x0C><x81><x00><x05><x00>
+<Kongman>: <x0C><x81><x00><x05><x00>
 
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00><Lilith><x18><x65><x58><x98><x00><x80>		<x0C><x8B><x00><x05><x00>
+<Lilith>: <x0C><x8B><x00><x05><x00>
 
 [ENDBLOCK]
 
@@ -857,6 +859,6 @@ Free title change
  create Mbox!!!!!!!!
 
 [ENDBLOCK]
-<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80></color>	終	了	
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80></color>Confirm	
 <x00>
 [ENDBLOCK]
