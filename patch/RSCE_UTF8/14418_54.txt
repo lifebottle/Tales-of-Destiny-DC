@@ -575,7 +575,7 @@ the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Another once in a life time meeting.
+This is just a coincidence. 
 Would you like to take a rest?
 [ENDBLOCK]
 select
@@ -609,10 +609,9 @@ The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
-expressions of your friends.
+<Chelsea>'s room in <Alba>'s cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
@@ -630,13 +629,13 @@ do their best to be that new possibity.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Lands to the east, filled with silver.
-Return to the side of your beloved!!!
+The land east of here is a silvery new world.
+Head for your old husband!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Heed the words of the old man. Go to <Dalis>.
-Who knows what you may find there.
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x49><xEC><x80>
 
@@ -744,12 +743,11 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Don't you think this will be
-a bit entertaining...?
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I've never seen your face before.
+I've never seen you around before.
 Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>

@@ -26,26 +26,26 @@ Me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>I'm just the clown known as...
-I'm just someone who...
+<TAG_007>Clown...
+I'm not...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're <Johnny>, right?
+<Johnny>, right?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I knew it.
+Huh, I know.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Glad to meet a fan.
+Thanks for that.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A fan? Hah! What good
-are you doing, running around
-playing those foppish songs?
+What have you learned from
+running around playing that
+useless music?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -53,7 +53,7 @@ playing those foppish songs?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-What? Cat's got your 
+What the hell? Cat's got your 
 tongue all of a sudden?
 [ENDBLOCK]
 <Johnny>
@@ -62,24 +62,25 @@ tongue all of a sudden?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Careless people like
-you are the worst.
+I really hate careless
+people like you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 I don't know if you're a 
-friend of Lord <Fayte>'s or 
+friend of Master <Fayte>'s or 
 what, but I don't like you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-And while I'm glad
-you saved Lord <Fayte>...
+And while I appreciate your
+help in rescuing Master <Fayte>...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I won't tolerate you going
-anywhere near him again!!
+I refuse to let you go anywhere
+else with him.
+I won't tolerate it!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -87,11 +88,12 @@ Man
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Yeah, I knew it.
+Yeah, I know.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-...He doesn't seem to like me.
+What is it?	Do 
+they hate me?
 [ENDBLOCK]
 Young Girl
 [ENDBLOCK]
@@ -109,12 +111,11 @@ One of my soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you know who did it?
+Who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Oh, we arrested
-someone, alright.
+Well, they've been caught...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -137,21 +138,20 @@ this girl attacked the soldier!?
 Girl
 [ENDBLOCK]
 Lord <Fayte>!
-I'm innocent!
+I'm not the one who did it!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>!
-You have to believe me!
+Lord <Johnny>, please believe me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It is pretty hard to believe
-a little girl would attack a soldier.
+I can't believe such a small child
+would have attacked a soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-But still...
+But...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -160,23 +160,22 @@ Such a small girl...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>!
-Help me! Please!
+Lord <Johnny>, please
+help me!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Well, with the way she's pleading,
-we've got no choice but to help.
+It seems I'll have to get involved.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>, can you wait a bit
-before you deal with her?
+<Fayte>, can you wait a bit before
+you deal with her?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Very well. We'll be
-holding her here, though.
+All right. But, I'll take her
+into custody for now.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -185,8 +184,8 @@ in Moreau for more info?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-There may be people
-who saw it happen nearby.
+There might be some people
+who know about the attack.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -195,38 +194,34 @@ soldier was attacked in Moreau.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Actually, this is just one of
-many similar incidents, lately.
+Actually, there's been similar
+incidents in the past few days.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The soldiers who are attacked
-are always left with two
-distinct cuts on their bodies.
+The soldiers attacked were left
+with two scratches on their bodies.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Based on the testimony of the
-soldiers who were attacked, as well
-as witness testimony, we concluded
-that the culprit was this little girl.
+Based on the soldiers' testimony
+and witnesses, we concluded that
+the girl was the culprit.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-That said, another witness claims
-to have seen the same girl
-elsewhere when the attack took place.
+However, there was a witness who saw
+the girl at the time of the incident.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I believe that is why
-Lord <Fayte> is allowing
-you to investigate like this.
+I think that's why Mr. <Fayte> 
+gave you all the time you needed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 It's a long story, but would you like
-to hear a summary of the incident?
+to hear a summary of the case?
 Yes
 No
 
@@ -234,80 +229,76 @@ No
 Boy
 [ENDBLOCK]
 Yeah, I heard about the attack.
-The girl they think did it
-was playing with that
-cat at the time, though.
+But she was playing with her cat
+under the house at that time.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Someone wearing clothes from Shiden
-really sticks out here, you know?
-Plus, she was being really loud.
+She was dressed in
+Shiden gear. I'm sure she'll stand
+out. Besides, she was talking 
+to the cat really loudly.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I wonder if she can
-really talk to cats...?
+Can she really talk to a cat?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-A little girl, huh?
-Yeah, she was here buying
-fish when the incident happened.
+It was a girl? Yeah, I was
+at the store at that time.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-She sure took up a lot of time.
-Every time I started packing up
-what she said she wanted, she'd
-suddenly decide on something else.
+She was looking for quite a while, and
+when I thought she made up her mind
+and started to wrap the product, she
+said she wanted something different.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-Anyone would remember
-a weird customer like her.
+I remember it well, because I've done 
+it so many times.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It was a while back, but I saw
-a young girl making a fuss
-at the fish market at the harbor.
+The other day, I saw a girl causing a
+scene in the fish shop at the harbor.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I was kind of curious,
-but I came right back to this Inn.
+I was kind of curious, so I came
+straight back to this inn.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-After I got back here, I opened
-up that sliding door, and saw what
-had to be the same girl coming out
-of that house by the weapons shop!
+As soon as I got home, I opened the
+sliding door and there was the girl,
+who was supposed to be at the port.
+Came from near the weapons shop.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It's quite the mystery. There's not
-a secret passage in this town
-everyone else doesn't know about.
+There is no such thing as a secret
+passage in this city that no one 
+knows about. It's a mystery.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Do you know who the culprit is?!
+Did you find the culprit?
 Yes
 No
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Then please head inside
-and explain your 
-findings to Lord <Fayte>.
+Now please go inside
+and brief <Fayte> on
+the situation.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I see. Please return
-once you've concluded
-your investigation.
+I see... Well, when you do find
+the culprit, please come back.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -627,13 +618,13 @@ Now, where are we going?
 Girl
 [ENDBLOCK]
 What will happen to our school if 
-this becomes part of Terazzi?
+this becomes Terazzi territory?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Since the new magistrate
-arrived, a lot of scary looking
-people have been going to the castle.
+Since the arrival of the new governor,
+the people in the castle have become
+a bunch of scary people.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -643,101 +634,99 @@ poison to a knife he was carrying.
 Girl
 [ENDBLOCK]
 Moreau's school is the best
-in Aquaveil. The nobles of 
-each province all went there.
+in Aquaveil. The royalty of each
+territory are also alumni.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Everyone knows <Fayte>
-and <Johnny> fought
-over <Eleanor>.
+It is well known that
+<Fayte> and <Johnny>
+fought over <Eleanor>.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 When I look at <Fayte> and 
-<Rihanna> now, I feel 
-things turned out for the best.
+<Rihanna> now. I think things
+turned out for the best.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 The school has been closed.
-I don't know if it'll
-ever open again...
+There is no indication of
+when it will reopen...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-I wanna go to
-school again.
+I want to go to school again.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Please save the
-world, <Johnny>!
+Please save the world, <Johnny>!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Please take
-care of <Johnny>!
+Please take care of <Johnny>!
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Meow, miaow. 
-Meow, mew, mrrow?
+Meow , miaow. Meow, mew, mrrow?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Those scary guys are gone
-now, right? That's a reflief...
+Well, the scary people are 
+gone, aren't they? Oh, thank
+goodness.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Lord <Fayte> said we'll
-get along with other
-countries from now on.
+<Fayte> said that from
+now on, we will get along
+with other countries.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-That weird thing in the sky's
-getting bigger and bigger!
+The weird thing floating in
+the sky seems to be getting
+bigger and bigger.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Kitty says he's rooting
-for you, too. Good luck!
+He said he's rooting for you, too.
+Good luck!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hmm! I hear it, I hear all!
-The people of Moreau are troubled!
+Huh, I can hear it, I can
+hear it! The lamenting of
+the people of the city!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Fear not, good men and women
-of the city! The righteous
-shall surely prevail!
+Don't worry, guys.
+The righteous will
+take care of it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You see, good people?
-We had nothing to fear!
-Good prevailed in the end!
+Hey, guys, what did I
+tell you? The righteous
+did something about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-There is a great hero
-of justice lurking in the shadows!
-What? No, it's not me! No no no!
+Don't tell anyone you're on
+the side of justice. No, no,
+no, it's not me.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-People of the city, do not fear!
-This is the part where
-the hero arrives to save the day!
+Everybody, calm down! This is
+when the heroes come in!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-...No, who am I kidding?
-It's hopeless. We're done for...
+...No, he said there's 
+nothing he can do about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -779,8 +768,7 @@ of the Watchman."
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-Thank you all
-for listening.
+I'm grateful you came to listen.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -790,7 +778,7 @@ have other songs?
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-Would you like to hear them?
+Would you like to listen?
 Requests are always welcome.
 [ENDBLOCK]
 <Stahn>
@@ -822,8 +810,7 @@ at the port immediately!
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-Uh oh, here come
-the music haters.
+Oh, here come the tasteless.
 [ENDBLOCK]
 His Majesty, King <Tiberius> has
 graciously decided to give a speech
@@ -852,8 +839,8 @@ Right, sure.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? Where'd that
-singing guy go?
+Huh? The guy that was
+singing, where'd he go?
 [ENDBLOCK]
 ????
 [ENDBLOCK]

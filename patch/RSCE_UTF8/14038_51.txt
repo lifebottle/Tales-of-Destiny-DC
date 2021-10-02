@@ -95,22 +95,21 @@ Give him this gift, okay~
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-If only I could find a man
-with a perfect, shirtless physique!
+Does anyone have a... 
+stunning shirtless physique... 
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Ah! You!
-Noone but you will do!!
+Oh, it's only you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Eh? You talkin' to me?
+Hmm? You wanted to see me?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I know it's sudden, but
-I've fallen for your muscles!
+Suddenly, I'm in love with
+that body of yours.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -118,20 +117,21 @@ Ha, ha, ha...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-To each his own.
-I'm happy for you, <Kongman>.
+To each his own. Good
+for you, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Not you too, <Philia>!
+Even <Philia>, is
+being terrible?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Dang it, I ain't like that!
+No, I don't want that!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Oh no, sir. Please
+Oh, no sir. Please
 don't misunderstand.
 [ENDBLOCK]
 Rookie Director
@@ -140,8 +140,8 @@ I'm a stage director.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Our lead actor is out sick,
-so we need a replacement!
+Actually, the actor got sick, We're
+looking for a replacement.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -154,28 +154,28 @@ Yes, that's correct.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's so cool!
+That's great,
 <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You're kidding me! I'm the Champion,
-not some prima donna's substitute!
+You've got to be kidding me. I'm the
+champion, not an understudy!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Please! My future as a
+I'm sorry. My future as a
 stage director is at stake.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>, isn't this great?
+<Kongman>, aren't you amazing?
 I love theatrical performances.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-W-Well, if <Philia> wants to
-see me act so bad, then so be it!
+Well, well, if <Philia> wants to
+see me as an actor, she will...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -184,7 +184,7 @@ I...wouldn't go that far...
 Rookie Director
 [ENDBLOCK]
 Really!?
-Thank you so much!
+Thank you very much.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -192,31 +192,31 @@ Well, let's get to it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What, we're doin' this now?
+What, we're doing this now?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Yeah! The audience
-is already waiting!
+Yes! There's already
+a crowd in the hall!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You're kiddin' me...
+...seriously?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Don't worry, there aren't any lines.
+Don't worry, there are no lines.
 Just act as I tell you to.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-OK, let's hurry! The play
-is about to begin!
+Now, the stage is about to
+begin. Let's hurry up.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Perform according to
-the director's instructions.
+Please follow the Director's
+instructions and perform.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -247,17 +247,17 @@ No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-As soon as you head out
-there, the play will begin.
+As soon as you leave here,
+you're on the stage.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I will direct you from here.
+I will direct from here.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Just follow along with
-my directions. Got it?
+Please follow those instructions
+and perform. Okay?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -266,11 +266,11 @@ I know you can do it.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Alright, you're up!
+Now, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Knock 'em dead!
+Come on!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -279,117 +279,107 @@ Good luck!
 ret <x17><x66><x14><x03><xE8><x80><x80>
 
 [ENDBLOCK]
-Actress
+Hostess
 [ENDBLOCK]
-Oh, woe to me, to be imprisoned
-so in this dreadful tower!
+I am a princess trapped in a tower.
 [ENDBLOCK]
-Actress
+Hostess
 [ENDBLOCK]
-When, oh when will my Prince Charming
-come and whisk me away to a better life??
+Oh, prince of the white horse.
+When are you going to rescue me?
 [ENDBLOCK]
-Actress
+Hostess
 [ENDBLOCK]
-Oh my! Who might you be?
-[ENDBLOCK]
-Rookie Director
-[ENDBLOCK]
-Ok, down on one knee!
-Get her to fall for you!
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-Could it be? Are you my prince,
-come to save me from my captivity?
+Oh, and you are?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Now! Show her
-how strong you are!
+Come on, you've got to court her.
 [ENDBLOCK]
-Actress
+Hostess
 [ENDBLOCK]
-Aah! How wonderous!
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-Quickly, take me
-away from this place!
+You are the prince on the white horse
+who will rescue me, aren't you?
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-OK, again! Be cool!
+Show them you're a strong man!
 [ENDBLOCK]
-Actor
+Hostess
 [ENDBLOCK]
-You there! Don't you
-dare lay a finger upon her!
+Oh!	How dependable!
 [ENDBLOCK]
-Actress
+Hostess
 [ENDBLOCK]
-Wh-Who are you..?
-[ENDBLOCK]
-Actor
-[ENDBLOCK]
-I am but a man head over heels
-in love with you, though I be 
-a mere farmer's son.
-[ENDBLOCK]
-Actor
-[ENDBLOCK]
-I know in my head we
-could never be, but
-my heart won't let you go!
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-You truly have such
-love in your heart for me?
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-Then let us cast aside what
-society thinks!
-What we have together is true love!
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-Please rescue me,
-both body and soul!
-[ENDBLOCK]
-Actor
-[ENDBLOCK]
-I shall protect you
-with my life, milady!
-[ENDBLOCK]
-Actress
-[ENDBLOCK]
-...Yes!
+Come on, let's get out of here.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-At times like this,
-all you can do is laugh!
+Now, again. Let's be cool.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+You will not touch the princess!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+What the hell are you...?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I completely adore the princess.
+But I'm the son of a simple farmer.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I know that we differ in status,
+my heart yearns for her still.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Well, do you love me that much?
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+A relationship that transcends status.
+That's the pure love I've always wanted!
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+Save my body, my 
+soul. Save me.
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+I will protect the princess
+for the rest of her life.
+[ENDBLOCK]
+Hostess
+[ENDBLOCK]
+...Yes.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-But then reality hits you,
-and you just can't handle it!!
+I don't know what's going
+on anymore!	That's the laugh!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Wowie!! That was splendid!
+But then I start to understand
+the situation. I cry...!
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I bet you could be a leading
-actor someday! A true star!
+Well, it was wonderful.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Well, for your first performance,
-it was alright.
+You can be a top star without a doubt.
+[ENDBLOCK]
+Rookie Director
+[ENDBLOCK]
+Well, it's your first performance.
+It's enough.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -397,15 +387,14 @@ Please join us again.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Would you like to
-take to the stage again?
+Once again. Would you like to
+take the stage again?
 Yes
 No
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-I'll explain
-it again, then.
+I'll explain it again then.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -414,8 +403,8 @@ I'll be waiting.
 Guard
 [ENDBLOCK]
 Welcome to the arena, the temple
-of entertainment. Here, you'll enjoy
-blood-boiling battles!
+of entertainment. Where you'll enjoy
+blood-boiling battles.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -424,17 +413,16 @@ city park. What's going on?
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-What was with
-those monsters??
+What the hell was
+that monster!?
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-Wh-what's
-going on??
+Hey, what's going on?
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-Our champion! We'll keep the
+Champion, we'll keep the
 arena going, no matter what!
 [ENDBLOCK]
 Guard
@@ -453,71 +441,66 @@ How can I help you?
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-It's not typical for
-monsters to attack a city.
+It's not like monsters usually
+just attack a city.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-They're attacking
-from the sky!
-That's cheating!!
+They're attacking us from the sky,
+that's a foul thing to do.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-We're still open
-for business, but I'm not
-sure how long we'll last...
+We're still open for business,
+but I'm not sure how long we'll last...
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-I'm looking forward to the day
-when the champion will
-make his triumphant return!
+I'm looking forward to the day when the
+champion will make his triumphant return!
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-I-I came out here from the country
+I came out here from the country
 to make a name for myself. 
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-But, when i-it comes down to it, I'm
-t-too freaked out to go in there.
+But, when it comes down to it, I'm
+too freaked out to go in there.
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-I t-thought I heard someone scream...
-I hope it was j-just my imagination!
+I think I heard a scream. I hope... 
+it was just my imagination.
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-I-I helped with the
-evactuation, too!
+Oh, I helped people
+evacuate the city too!
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-T-The champion!
-Can I get an autograph??
+Cha-Champion! An autograph, please!
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-Y-Yeah! I-I'll go
-in this time, for s-sure!
+Ye-yeah! This time I'm in!
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-I wonder if the sky looks
-like this everywhere now...
+I wonder if the sky is like this
+everywhere in the world...
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-What kinda person goes to
-the arena at a time like this??
+I wonder what kind of people come
+to the arena at this kind of time.
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-As usual, I'm just loitering
-out here, not doing anything.
+As usual, I loiter outside and 
+wonder what the hell is in my future.
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
@@ -526,8 +509,7 @@ able to compete in the arena again.
 [ENDBLOCK]
 Armored Man
 [ENDBLOCK]
-I don't care if
-I'm just a cheerleader!
+I don't care if I'm just a cheerleader.
 Mighty, Mighty, Mighty!
 [ENDBLOCK]
 notice

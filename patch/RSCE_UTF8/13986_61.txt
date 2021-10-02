@@ -60,7 +60,7 @@ I'm not!!
 <Dymlos>
 [ENDBLOCK]
 Idiot! You can't just
-blurt that out!
+blurt that out.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -99,7 +99,7 @@ Yeah!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>You bet I am!
+<TAG_007>I'm <Kongman>!
 Waddaya want, geezer?
 [ENDBLOCK]
 Old Man
@@ -135,8 +135,7 @@ can brag about it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Sir, I'm sorry.
-I can't do that.
+Sir, I'm sorry. I can't do that.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -153,8 +152,8 @@ And so..!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If you are ever in danger, then
-I won't hesitate to use 'em!
+If you are ever in danger, I will not
+hesitate to use these fists.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -431,13 +430,13 @@ Maybe he's doing well there.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You seem like a decent guy.
-Why don'tcha challenge me, bro?
+You seem like a decent guy. You're
+going to have to play the brother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Yeah, okay, but...
-Who's this guy?
+What about this guy?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -456,8 +455,7 @@ the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow! 
-But why?
+Wow, but why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -466,13 +464,12 @@ lot of time and money on your hands.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, come on,
-that's enough.
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Let me know
-when you're ready, bro!
+You can decide what to 
+do after this, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -481,13 +478,13 @@ so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You sure you
-wanna race, dude?
+Are you sure that's who
+you want to race with?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It doesn't matter.
-Who's this guy, anyway?
+Yeah, no problem.
+Who's this guy anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -510,18 +507,17 @@ this kind of event?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Haha, I don't have a reason.
+Haha, I don't have a purpose.
 I'm just rich and bored.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, come on,
-that's enough.
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Let me know when
-you're ready, dude.
+What to do after this?
+It's up to you to decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -543,7 +539,7 @@ I'm serious today.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, decide already!
+Come on, you can decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -560,12 +556,12 @@ Today... I'm serious, too.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, make your choice!!
+Come on, you can decide.
 [ENDBLOCK]
 	・Setting up course data
 
 [ENDBLOCK]
-	・Initializing footrace setup
+	・Initialize the management of kake
 
 [ENDBLOCK]
 	・Player initialization
@@ -607,25 +603,25 @@ Quit
 Continue
 
 [ENDBLOCK]
-Hey hey! You're quitting?
+Oh, my God, you're quitting?
 [ENDBLOCK]
 I knew you couldn't
 beat me, ya know!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What's the matter, loser?
-You wanna try again?
+What's the matter loser?
+Do you wanna play again?
 [ENDBLOCK]
-What's the matter, loser?
-You wanna try again?
+What's the matter loser?
+Do you wanna play again?
 [ENDBLOCK]
 Are you still going to play?
 [ENDBLOCK]
 Are you still going to play?
 [ENDBLOCK]
 I'm the fastest
-guy in the city!
+man in the city.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -647,11 +643,11 @@ Then follow me.
 [ENDBLOCK]
 ...
 [ENDBLOCK]
-Whaaat? How boring!
+What a boring thing to do.
 [ENDBLOCK]
 Oh, no, that's fine then.
 [ENDBLOCK]
-Whaaat? How boring!
+What a boring thing to do.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -674,7 +670,7 @@ What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Pfff! Running away, huh!
+Pfff you're fleeing!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -694,7 +690,7 @@ Finish!
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
@@ -702,11 +698,11 @@ Please take this.
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too celeritous, bro!
+You're too fast, brother!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
@@ -714,16 +710,16 @@ You're too celeritous, bro!
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I...I lost...?
+Did I lose...?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 But you did your best, too,
-bro. I'll give you the win.
+brother. I'll give you the win.
 [ENDBLOCK]
 □□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
@@ -731,20 +727,19 @@ bro. I'll give you the win.
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too fast, bro!
+You're too fast, brother!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I won't lose
-next time though!
+But next time, I won't lose!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come back and race again!!
+Please come back again, for sure.
 [ENDBLOCK]
 Finish...
 [ENDBLOCK]
@@ -754,7 +749,7 @@ Yay, I win!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You lose!
+You lost.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -767,7 +762,7 @@ Yay, I'm faster than you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too slow, bro!
+You're late, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -849,8 +844,8 @@ before crossing the fountain.
 Then back at the start.
 That's the goal.
 [ENDBLOCK]
-Don't even think
-about cheating, or I'll know!
+I'll know
+if you cheat, too.
 [ENDBLOCK]
 We run 2 laps. Don't forget!
 [ENDBLOCK]
@@ -946,15 +941,14 @@ City Lady
 [ENDBLOCK]
 Give him this gift, okay~
 [ENDBLOCK]
-Youth
+Boy
 [ENDBLOCK]
 I wonder what kind of girl she is...?
 I hope she's the sexy type.
 [ENDBLOCK]
-Youth
+Boy
 [ENDBLOCK]
-Oh, my gosh!
-Is that you!?
+Oh, my gosh! Is that you!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -969,56 +963,55 @@ met this person before.
 [ENDBLOCK]
 Um, do I know you?
 [ENDBLOCK]
-Youth
+Boy
 [ENDBLOCK]
-Aww, I was wrong...Sorry,
-I thought you were someone else.
+Whaaaat, it's the wrong... Sorry,
+I mistook you for someone else.
 [ENDBLOCK]
-Youth
+Boy
 [ENDBLOCK]
 Oh, could it be!?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Are you the one
-from the letter?
+Are you the one from the letter?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-AAAAAAAAH!
+Ahh!!!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-What are you doing here, <Stahn>!?!
+What are you doing here, <Stahn>!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 I see, the village chief's daughter and
-this boy were exchanging letters.
+this person were exchanging letters.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-That's right. This is the
-first time we've met, though.
+That's right. But, this is the first
+time I'm meeting him in person.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 So he mistook <Philia> for you.
 [ENDBLOCK]
-Youth
+Boy
 [ENDBLOCK]
 So, let's go somewhere
 to relax, shall we?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Sure. We don't want to get
-in the way of <Stahn> and his friend.
+Sure. It'd be bad to keep bothering
+<Stahn> and his girlfriend like this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh. Weird.
-I feel a little sad...
+It's strange, I feel a
+little sad now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1026,7 +1019,7 @@ Why is that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, a long time ago,
+It's because, a long time ago,
 she told me that she liked me...
 [ENDBLOCK]
 <Philia>
@@ -1039,28 +1032,28 @@ Yes?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-G-Girls tend to forget
-the past and move on...
+Wo-women can forget about the
+past without a second thought...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-B-But boys seem
-to always h-hold onto it.
+O-On the contrary, men seem to
+dwell on the past forever you see...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 T-This behavior by men is commonly
-di-disliked by wo-Woman...
+di-disliked by wo-women...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, I see. I won't care
-about it at all then!
+Oh, I see. Well then, I guess I won't
+give it a second thought too!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 Um, no, but...
-girls hate that, too...!
+that's disliked by women as well...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1181,7 +1174,7 @@ It is a resting place for residents.
 [ENDBLOCK]
 <TAG_005>Neustadt New Business Opportunity
     For more information, 
-   inquire at Oberon Corp. HQ.
+   please contact Oberon.
 [ENDBLOCK]
 Dummy Store
 [ENDBLOCK]
@@ -1193,32 +1186,32 @@ Accessory Shop：Silver Thread
 Oberon Co.: West Continent Branch
 
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
-This is the capital city 
+This is the central city 
 of Fitzgald, Neustadt.
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
-What's all the fuss about?!
+What's all the fuss about?
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
-Oh, you're that arena fighter.
-Mr...Kong...Guy...was it?
+You are... in the arena.
+Uh, Mr. Kong Guy?
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
 Maybe it's because there are so
 many things floating in the sky, but
 the sun stays hidden these days.
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
-The daylight's been
-completely blocked off...
+Daylight has finally been
+completely cut off.
 [ENDBLOCK]
-Woman
+Women
 [ENDBLOCK]
 Thank you for coming! 
 Please save this city!
@@ -1226,48 +1219,48 @@ Please save this city!
 Gentleman
 [ENDBLOCK]
 What do you think?	Isn't
-this a beautiful town?
+it a beautiful town?
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Even now, this city
-doesn't come close
-to Darilsheid's prosperity.
+The prosperity of this
+city is nowhere near as
+great as Darilsheid.
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
 What do you think?	Isn't
-this a beautiful town?
+it a beautiful town?
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Where did that armada come from??
-At this rate,
-the city will be destroyed!
+What force is that armed fleet!?
+They're gonna tear the city apart!
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-I'll pay you anything!
-Just do something about that armada!
+I'll pay you anything you
+want. Please do something
+about the armed fleet!
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Mighty!	Mighty! ...haha!
-Even I joined in!
+Mighty!	Mighty! ...haha,
+that's what I did.
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Who knows if or when this
-city will be attacked, too.
+I don't know when this city
+will be attacked.
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-It's all over...!
+Is it all over now?
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
 Mighty!	Mighty!
-Our hero! Save us!
+Please take care of her!
 [ENDBLOCK]
 Lens Shop
 [ENDBLOCK]
@@ -1276,22 +1269,22 @@ redeem your lens.
 [ENDBLOCK]
 Lens Shop
 [ENDBLOCK]
-Hahh...HQ ordered
-me to stay put...
+Hmm, the company told
+me not to leave.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This city only got big by
-sucking the money outta Seinegald!
+This city has grown by sucking
+the money out of Seinegald.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-That's what dad said,
-so it must be true!
+That's what my dad said.
+I'm sure of it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-He said that this city grew
+He said that this city has developed
 entirely because of Seinegald.
 [ENDBLOCK]
 Boy
@@ -1301,67 +1294,66 @@ Whoo! POW!
 Boy
 [ENDBLOCK]
 You guys really did it!
-I can't wait to tell dad!
+I'll be sure to tell my dad.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're always
-welcome here.
+You're always welcome here.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hey you!
-D-Do something!!
+Hey, you guys, do 
+something about it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Guys, please!
+You guys, please. 
 Please, do something!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Uhm, uhh...
-Good luck, <Leader>!
+Um, let's see...
+Good luck, <Leader>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-The natives of this city
-were undignified savages.
+Those who originally lived
+in this city lack dignity.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Eek! Help me!!
+H-help me!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Oh, you're not a monster...
+Oh, you're not a monster.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
 Let's see what you can
-do to those savages!
+do to these savages!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I know it wasn't that
-savage muscle guy from the
-arena who kept the peace here!
+Wasn't it that savage Muscle
+Man who kept the peace in the city?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-All cities are the same
-when attacked from above like that...
+If we were attacked from above,
+it would be the same no matter 
+where we were.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Will humanity have
-no choice but to perish?
+Will humanity have no choice
+but to perish?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I never thought the day would
-come when I would be working
-with the natives of this city.
+I never thought the day would come
+when I would be working with the 
+original inhabitants of this city.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -1376,18 +1368,19 @@ child. I hope she's okay.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-Someone from this city might
-have been leading those ruffians!
+It might be someone from this city
+who guided those ruffians.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-Ms. <Ilene> hasn't
+Ms. <Ilene> from Oberon hasn't
 been around for a while.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-I'm worried...That armada
-was nothing compared to this!
+I'm more worried this time than
+I was when we were attacked by
+an armed fleet before.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -1401,7 +1394,7 @@ sunshine with my daughter again.
 Child
 [ENDBLOCK]
 Do you know what Softy Kreem is?
-It's the specialty of this city.
+It's a specialty of this city.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -1409,25 +1402,25 @@ Mommy!?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-When I tell mom that 
-<Kongman> protects the
-city, she gets really mad.
+Whenever I tell her that 
+<Kongman> has saved the
+city, she gets in a bad mood.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-I heard that a lotta people are
-suddenly complaining
-about the Oberon Corporation.
+He said that the number of people 
+complaining about Oberon has suddenly 
+increased.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-There's a shadow in the sky!
+There's a shadow in the sky.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-If it's always nighttime,
-I won't have to worry
-about sunburns, right?
+If it's nighttime outside all
+the time, I'll be able to avoid
+getting sunburned?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -1441,45 +1434,45 @@ confident in the product line.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-You're going after the armada, right?
+You guys are in pursuit of the armada.
 Please rely on our store.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
 Our shop is always open.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 The climate is great, and there is so much
 to do. This city is a great place to live.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 I hope this will be a good opportunity
 for the residents to get to know each
 other a little better.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 As the gap between rich and poor grew
 in size, so too did the animosity the
 people felt towards Oberon.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 I'm sure Ms. <Ilene> is disappointed.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 It's times like this that
 we need to unite...
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 Without Ms. <Ilene>,
 it would be very difficult.
 [ENDBLOCK]
-Old Woman
+Grandmother
 [ENDBLOCK]
 I wanted to show Ms. <Ilene> that
 I was working with the residents
@@ -1513,23 +1506,23 @@ Go for that sun!
 Boy
 [ENDBLOCK]
 When the sun goes out
-of sight, it's a race!
+of sight, it's a go!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Race so we can see the sun!
+Go so we can see the sun!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 You should race that kid. If you 
-think that's all he is, you're 
+think that's all he is. You're 
 in for a world of hurt.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 You're asking me if I'm going to 
-gamble in this situation? I gamble
-BECAUSE of situations like this!
+gamble in this situation? I do it
+because of situations like this.
 [ENDBLOCK]
 Oberon Employee
 [ENDBLOCK]
@@ -1593,7 +1586,7 @@ There's a high possibility.
 <Clemente>
 [ENDBLOCK]
 Normally monsters would never
-organize and attack a human town.
+systematically attack a human town.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1617,8 +1610,8 @@ Woman
 [ENDBLOCK]
 Help me! Please help me!
 [ENDBLOCK]
-Out of my way you bum!
-You poor are all in the way!
+Out of my way! You poor
+people are such a nuisance!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1636,12 +1629,11 @@ the monsters into the arena!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-What?!
+What's that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh no, we've
-got to get back!
+Oh no, we've got to get back!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1666,7 +1658,7 @@ in public for a while.
 <Stahn>
 [ENDBLOCK]
 I wonder if she's
-gone somewhere?
+going somewhere.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1681,27 +1673,25 @@ Okay, okay.
 <Philia>
 [ENDBLOCK]
 What a magnificent town. There are
-so many big, beautiful buildings.
+so many new, beautiful buildings.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-With the Oberon Corporation's
-funding, it looks like this
-place has grown quickly.
+With the Oberon Company funding, 
+it looks like there's been a lot of
+rapid growth here recently.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I had no idea it
-was this developed...
+I had no idea it was this developed...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What, did you think
-it was all rural?
+What, did you think it was all rural?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Wh-What? I...!
+Th-That's?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1709,7 +1699,7 @@ S-Sorry, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, isn't that...?
+Hey, that guy...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1740,7 +1730,7 @@ It kicked up a huge fuss.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh? Well...
+Ah? yeah...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1749,17 +1739,16 @@ home. You really are something else.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh shut up!
+Shut up.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So, uh, when are you coming
+So yeah, when are you coming
 back to the village?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...I'm probably
-not coming back.
+...I'm probably not coming back.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1768,17 +1757,18 @@ Hey...
 <Stahn>
 [ENDBLOCK]
 There's something I have
-to do, no matter what.
+to do no matter what.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't tell you the details,
-but I just can't go home yet.
+I can't really tell you the details...
+But at any rate, I can't come home 
+right now.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Jeez, fine. If you put it
-that way, I won't pry.
+Jeez. If you say it like that,
+I'm not gonna ask.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1800,21 +1790,21 @@ Okay, see you around.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't want to needlessly
-worry them, so I kept
-quiet about <Greybum>...
+I didn't want to needlessly worry
+them, so I've kept quiet about
+<Greybum>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-That was the right choice.
+That's the right choice.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey, where did <Mary> go?
+I don't see <Mary> anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Where were you?
+Where did you go?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1822,8 +1812,8 @@ Softy Kreem stand!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Why'd you go
-get one alone!?
+Why are you going off and
+getting one by yourself?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1869,13 +1859,13 @@ at a time like this, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Oh, no, nothing. You're right.
-I wonder where everyone went?
+Oh, no, no. That's right. I wonder
+where everyone went.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm also worried about <Ilene>.
-Hopefully she's alright.
+And I'm also worried about <Ilene>.
+I hope she's okay...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -1903,8 +1893,8 @@ are <Stahn> and the others?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's something to hope for.
-Alright, let's head for the arena.
+I'd rather that be the case. All
+right, let's head for the arena.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

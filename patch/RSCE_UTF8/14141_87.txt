@@ -16,36 +16,36 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-A new valve.
-We can use this to
-get the water system working.
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-It's a new valve...
-We can use this to
-get the water system working.
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-A new valve...
-We can use this to
-get the water system working.
+I found a new valve. 
+Now we can get the 
+water system working..
 [ENDBLOCK]
-A valve...?
+Valve...?
 [ENDBLOCK]
 It's a new valve. It'll get
 the water system going.
 [ENDBLOCK]
-A valve...
-We can use this to
-get the water system working.
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-A valve...?
+Valve...?
 [ENDBLOCK]
-It's a valve...
-We can use this to
-get the water system working.
+I found a new valve. 
+Now we can get the 
+water system working.
 [ENDBLOCK]
-A valve...?
+Valve...?
 [ENDBLOCK]
-A valve...?
+Valve...?
 [ENDBLOCK]
 Default
 [ENDBLOCK]
@@ -54,22 +54,22 @@ Default
 notice
 [ENDBLOCK]
 There's a device to control
-the water level, but no 
+the water volume, but no 
 valve is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The valve you have doesn't
-seem to be compatible.
+The valve I have doesn't
+seem to be able to connect.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Try using it at another location.
+Let's try another location.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 A valve has been installed on the
-device to regulate the water level.
+device to regulate the water volume.
 [ENDBLOCK]
 ××<TAG_077>の作成失敗（CNO=<x17><x72><x40><x20><x80>）
 
@@ -145,7 +145,7 @@ by the impact.
 
 [ENDBLOCK]
 The top of the crate can also
-be moved and used as a platform.
+be moved and used as a scaffold.
 
 [ENDBLOCK]
 Use the crates to your

@@ -75,13 +75,13 @@
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You seem like a decent guy.
-Why don'tcha challenge me, bro?
+You seem like a decent guy. You're
+going to have to play the brother.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Yeah, okay, but...
-Who's this guy?
+What about this guy?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -100,8 +100,7 @@ the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow! 
-But why?
+Wow, but why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -110,13 +109,12 @@ lot of time and money on your hands.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, come on,
-that's enough.
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Let me know
-when you're ready, bro!
+You can decide what to 
+do after this, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -125,13 +123,13 @@ so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You sure you
-wanna race, dude?
+Are you sure that's who
+you want to race with?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It doesn't matter.
-Who's this guy, anyway?
+Yeah, no problem.
+Who's this guy anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -154,18 +152,17 @@ this kind of event?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Haha, I don't have a reason.
+Haha, I don't have a purpose.
 I'm just rich and bored.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, come on,
-that's enough.
+Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Let me know when
-you're ready, dude.
+What to do after this?
+It's up to you to decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -187,7 +184,7 @@ I'm serious today.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, decide already!
+Come on, you can decide.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -204,7 +201,7 @@ Today... I'm serious, too.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, make your choice!!
+Come on, you can decide.
 [ENDBLOCK]
 	・Setting up course data
 
@@ -251,25 +248,25 @@ Quit
 Continue
 
 [ENDBLOCK]
-Hey hey! You're quitting?
+Oh, my God, you're quitting?
 [ENDBLOCK]
 I knew you couldn't
 beat me, ya know!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What's the matter, loser?
-You wanna try again?
+What's the matter loser?
+Do you wanna play again?
 [ENDBLOCK]
-What's the matter, loser?
-You wanna try again?
+What's the matter loser?
+Do you wanna play again?
 [ENDBLOCK]
 Are you still going to play?
 [ENDBLOCK]
 Are you still going to play?
 [ENDBLOCK]
 I'm the fastest
-guy in the city!
+man in the city.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -291,11 +288,11 @@ Then follow me.
 [ENDBLOCK]
 ...
 [ENDBLOCK]
-Whaaat? How boring!
+What a boring thing to do.
 [ENDBLOCK]
 Oh, no, that's fine then.
 [ENDBLOCK]
-Whaaat? How boring!
+What a boring thing to do.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -318,7 +315,7 @@ What a shame.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Pfff! Running away, huh!
+Pfff you're fleeing!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -338,7 +335,7 @@ Finish!
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
@@ -346,11 +343,11 @@ Please take this.
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too fast, bro!
+You're too fast, brother!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
@@ -358,11 +355,11 @@ You're too fast, bro!
 Man
 [ENDBLOCK]
 You've won.
-Please take this.
+Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I...I lost...?
+Did I lose...?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -379,7 +376,7 @@ Please take this one.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too celeritous, bro!
+You're too fast, brother!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -397,7 +394,7 @@ Yay, I win!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You lose!
+You lost.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -410,7 +407,7 @@ Yay, I'm faster than you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too slow, bro!
+You're late, brother.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -492,8 +489,8 @@ before crossing the fountain.
 Then back at the start.
 That's the goal.
 [ENDBLOCK]
-Don't even think
-about cheating, or I'll know!
+I'll know
+if you cheat, too.
 [ENDBLOCK]
 We run 2 laps. Don't forget!
 [ENDBLOCK]
@@ -540,23 +537,21 @@ so many new, beautiful buildings.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-With the Oberon Corporation's
-funding, it looks like this
-place has grown quickly.
+With the Oberon Company funding,
+it looks like there's been a lot of
+rapid growth here recently.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I had no idea it
-was this developed...
+I had no idea it was this developed...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What, did you think
-it was all rural?
+What, did you think it was all rural?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Wh-What? I...!
+Th-that's?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -564,7 +559,7 @@ S-Sorry, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, isn't that...?
+Hey, that guy...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -595,7 +590,7 @@ It kicked up a huge fuss.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh? Well...
+Ah? Yeah...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -604,17 +599,16 @@ home. You really are something else.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh shut up!
+Shut up.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So, uh, when are you coming
+So yeah, when are you coming
 back to the village?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...I'm probably
-not coming back.
+...I'm probably not coming back.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -623,17 +617,18 @@ Hey...
 <Stahn>
 [ENDBLOCK]
 There's something I have
-to do, no matter what.
+to do no matter what.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't tell you the details,
-but I just can't go home yet.
+I can't really tell you the details...
+But at any rate, I can't come
+home right now.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Jeez, fine. If you put it
-that way, I won't pry.
+Jeez. If you say it like that,
+I'm not gonna ask.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -655,21 +650,21 @@ Okay, see you around.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't want to needlessly
-worry them, so I kept
-quiet about <Greybum>...
+I didn't want to needlessly worry
+them, so I've kept quiet about
+<Greybum>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-That was the right choice.
+That's the right choice.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey, where did <Mary> go?
+I don't see <Mary> anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Where were you?
+Where did you go?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -677,8 +672,8 @@ Softy Kreem stand!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Why'd you go
-get one alone!?
+Why are you going off and
+getting one by yourself?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -712,7 +707,7 @@ in public for a while.
 <Stahn>
 [ENDBLOCK]
 I wonder if she's
-gone somewhere?
+going somewhere.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

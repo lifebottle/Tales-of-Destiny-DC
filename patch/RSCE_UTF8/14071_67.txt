@@ -41,7 +41,7 @@ Come on, don't cry.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Poor kid...
+I'm sorry.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -142,7 +142,7 @@ the Traveler's Hut in Fitzgald.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Another once in a life time meeting.
+This is just a coincidence. 
 Would you like to take a rest?
 [ENDBLOCK]
 select
@@ -176,10 +176,9 @@ The Canvas has been unlocked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
-expressions of your friends.
+<Chelsea>'s room in <Alba>'s cabin. If
+you wish, your friends can show you
+their various faces on that blank canvas.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
@@ -197,13 +196,13 @@ do their best to be that new possibity.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Lands to the east, filled with silver.
-Return to the side of your beloved!!!
+The land east of here is a silvery new world.
+Head for your old husband!!!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Heed the words of the old man. Go to <Dalis>.
-Who knows what you may find there.
+Listen to this old man's words. Go to <Dalis>.
+There might be something there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x98><x80>
 
@@ -238,14 +237,13 @@ to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The Canvas has been unlocked.
+The Canvas has been released.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
-expressions of your friends.
+In <Chelsea>'s room at Alba's Cabin.
+On the canvas you can see your 
+friends' various faces.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -313,12 +311,11 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Don't you think this will be
-a bit entertaining...?
+Do you think it looks like fun.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I've never seen your face before.
+I've never seen you around before.
 Are you from Fitzgald?
 [ENDBLOCK]
 <Stahn>
@@ -338,108 +335,108 @@ Well, it's nice to meet you.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-A once in a life-time enounter is
-something that should be cherised.
+Hmmm. Contact with people is
+Once in a lifetime. Treasure it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Cher...ry..shed?
+Con...tact?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-He means to socialize with others for
-you may never encounter them agian. 
+He means, socialize
+without regret.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 I see! Thanks!
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
 Oh, that time!
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-I was angry with that girly man you
-were with earlier, don't you remember?
+I was angry with that girly brother
+of yours before, don't you remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh...Yeah, good times?
+Oh...Yeah. How are you?
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
 You don't remember do you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah, well not...
+Ah, no...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 ...I'm sorry.
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-It's not that big of a deal. For real,
-though, where' that girly man?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Uhm...
-[ENDBLOCK]
-Child
-[ENDBLOCK]
-I wanted to thank him!
+I don't mind. But where's that
+girly brother of yours?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Really?
+Let's see...
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-I changed my way of thinking like
-he said, and my dad is different too!
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Hey, do you like this "new" dad?
-[ENDBLOCK]
-Child
-[ENDBLOCK]
-Yeah, and I think it's because
-I have grown up a little. 
-[ENDBLOCK]
-Child
-[ENDBLOCK]
-He can still be a bit pig-headed but
-he is now showing me a nicer side.
+I just wanted to say thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Our friend isn't here right now,
-but I know he would be happy
-with what you just told me.
+Thank you?
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-Really? He doesn't seem like the
-kind of person who would be
-happy listening to a kid's story.
+When I changed like my
+brother told me to, my
+father changed too!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-This kid has only met <Lion> once
-but can see straight into his soul...
+Hey, do you like your dad?
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-Anyway, if you see that girly man
-again, please pass along my thanks!
+Yeah, if I thought as
+an adult myself.
 [ENDBLOCK]
-Child
+Man
 [ENDBLOCK]
-Bye~
+Even my father's stubbornness
+is starting to look kind of cute.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+He's not here right now, but 
+I'm sure he'd love to hear
+what you just said.
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
+It didn't look like he was going
+to be honestly happy about it.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+How can you see through <Lion>'s
+personality after just one meeting?
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Well then, if you see that brother
+of yours, give him this!
+[ENDBLOCK]
+Man
+[ENDBLOCK]
+Bye~.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -447,42 +444,44 @@ Bye~
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>In Aquaveil's history. "Shiden" references
-a great ninja who commanded lightning.
+<TAG_005>In Aquaveil's language. Shiden 
+seem to be written as "Shiden".
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey there! You're in Shiden, the
+Hey there! You're in Shidan, the
 greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I can tell you're not from around here.
-I'm watching you, don't try anything.
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+No way!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey there! You're in Shiden, the
+Hey there! You're in Shidan, the
 greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 You're looking for a rope?
-Can't think of where some could be.
+I have no idea.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey there! You're in Shiden, the
+Hey there! You're in Shidan, the
 greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I can tell you're not from around here.
-I'm watching you, don't try anything.
+You guys don't look familiar, do you?
+What are you, some kind of smugglers?
+No way!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey there! You're in Shiden, the
+Hey there! You're in Shidan, the
 greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
@@ -492,7 +491,7 @@ Hey, what the hell is going on?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're the third prince!
+This is the third youngest!
 I'm glad to see you are well.
 [ENDBLOCK]
 Man
@@ -545,7 +544,7 @@ May I interest you in some jewelry?
 Accessory Shop
 [ENDBLOCK]
 We are an Accessory Shop,
-We don't have rope.
+We don't have Rope.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
@@ -615,14 +614,14 @@ monster.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-After we managed to escape, my
-whole body became numb. It was
-really hard to make it back to town.
+I managed to escape, but afterwards
+I was so numb, it was hard to come
+back.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I heard that Lord <Fayte> of the
-Moreau territory was captured.
+I heard that Lord <Fayte> of the Moreau
+territory was captured.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -657,8 +656,8 @@ you'd do something about it.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Isn't there anything fun
-to do around here?
+I wonder if there are 
+more fun things to do.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -666,13 +665,13 @@ I love some Rock Rally.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-No matter how the world changes,
-people still need to play fun games.
+Even if the world changes, I'm 
+showing everyone this game.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Keep honing your skills on
-the rocks outside of town.
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -684,21 +683,21 @@ I'm teaching everyone this game.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Keep honing your skills on
-the rocks outside of town.
+Keep kicking the rocks
+outside of towns.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-First you need to get
+Well, first of all, it's
 more than 32 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, now it's more than 64 times.
+Well, it's more than 64 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, it's more than 96 times now.
+Well, it's more than 96 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -706,69 +705,69 @@ Well, it's more than 128 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Wow, now you need over 160 times.
+Well, it's over 160 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 Well, from now on, it's okay
 to have more than 48 times.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 There is a cave south of the city,
 but don't enter it carelessly.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 The ground is loose, there are a lot 
 of monsters, and if you're not
 careful, you'll never come out again.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 There is a cave south of the city,
 but don't enter it carelessly.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 ...Rope.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
-There should be some
-at the port, right?
+If it was a port,
+it would be there.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 There is a cave south of the city,
 but don't enter it carelessly.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 The ground is loose, there are a lot 
 of monsters, and if you're not
 careful, you'll never come out again.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 There is a cave south of the city,
 but don't enter it carelessly.
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
 The cave south of the city, Is it
 connected to the Moreau territory?
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
-That weird broadcast is
-related to the weird rock
-formation across the sky, right?
+It has something to do with the
+mesh... that's forming in the sky
+and that weird broadcast, right?
 [ENDBLOCK]
-Young Man
+Man
 [ENDBLOCK]
-How much of the earth is being
-pulled up to block out the sky?
+How much land was pulled up to
+cover the sky with a ceiling?
 [ENDBLOCK]
 Man
 [ENDBLOCK]

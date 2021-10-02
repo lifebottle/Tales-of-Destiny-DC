@@ -16,8 +16,8 @@ Mr. <Baruk>?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Oh, excuse me.
-Who are you?
+I'm not. Um,
+who is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -25,55 +25,56 @@ I'm <Stahn>, and you?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Please excuse me.
-I work at this office.
+I beg your pardon. I'm the
+one who works here now.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-I'm Nash. It's nice
-to meet you.
+I'm Nash,
+It's a pleasure to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Nash, huh...?
-Nice to meet you too.
+Nash you said...
+It's my pleasure.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What is it, <Stahn>?
+What do you want
+to do, <Stahn>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Hey, <Philia>.
-We've heard the name
-Nash before, right?
+Do you remember the 
+name Nash anywhere?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Have we? Actually,
-Yes, we have...!
+Nash...?
+Oh, I'm pretty sure it's...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Aah! It's Elena's father!
-From Seinegald!
+Aah! It's Elena's father
+from Seinegald.
 [ENDBLOCK]
 Nash
 [ENDBLOCK]
-You know Elena?
+Do you know Elena?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-We do. You see...
+In fact, we do...
 [ENDBLOCK]
 Nash
 [ENDBLOCK]
-Ah. So she wants to live with me,
+I see. She wants to live with me,
 not with her grandparents...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yep.
+That's right.
 [ENDBLOCK]
 Nash
 [ENDBLOCK]
@@ -82,7 +83,7 @@ I'll go meet Elena.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Oh, That's great!
+Oh, That's a relief!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -90,31 +91,30 @@ Oh, That's great!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-A company shouldn't just focus
-on profits, it should
-help the people, too. 
+While companies are making profits, 
+they should also contribute to the
+community. 
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-My goal is to do just that 
+I want to support people here,
 through the <Baruk> Foundation.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-If I hear anything,
-I'll tell you. Feel free
-to stay here in the meantime.
+I'll let you know if I get
+any information. Until then,
+you may stay here.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I wish you hadn't been so
-reckless. President <Hugo>
-could have gotten angry with me.
+I wish you hadn't been so reckless.
+I'd be pissed off at General <Hugo>.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-Mr. <Baruk> truly wants
-the best for Calvalese.
+Mr. <Baruk> is really hoping for
+the development of Calvalese.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
@@ -134,33 +134,33 @@ won't be coming back.
 [ENDBLOCK]
 Deputy
 [ENDBLOCK]
-Now I'll never be promoted
-to Seinegald Headquarters...
-[ENDBLOCK]
-Deputy
-[ENDBLOCK]
-Ack! P-Please don't tell
-anyone I said that!!
-[ENDBLOCK]
-Deputy
-[ENDBLOCK]
 I can't wait to be transferred
-to Seine-Ahh, no, nevermind!
+to Seinegald's headquarters.
 [ENDBLOCK]
 Deputy
 [ENDBLOCK]
-Mr. <Baruk> is currently
-on a business trip to Darilsheid.
+Ha!	What I just said?
+Please don't tell anyone!
 [ENDBLOCK]
 Deputy
 [ENDBLOCK]
-I heard Seinegald was attacked!
-Is Oberon HQ alright??
+Hurry up to Seinegald's
+headquesters. No, no, no.
+[ENDBLOCK]
+Deputy
+[ENDBLOCK]
+<Baruk> is at Darilsheid's
+headquarters.
+[ENDBLOCK]
+Deputy
+[ENDBLOCK]
+I heard Seinegald was attacked?
+Is Oberon's headquarters okay?
 [ENDBLOCK]
 Deputy
 [ENDBLOCK]
 Even if Mr. <Baruk> doesn't come back.
-I will continue his work here.
+I will inherit his aspiration.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -168,13 +168,14 @@ It's been a while, <Baruk>.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>, good to see you.
-Did you get directions here?
+<Lion>, you've come. Did you ask the
+townspeople where this place was?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, I found my way on my own. 
-Noone in this town has any manners.
+No, I found my way on my own. The
+people in this town don't have any
+manners at all.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -183,23 +184,24 @@ be saying that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>, look! There's something
-cute over there!
+<Mary>, look. There's something
+cute over there.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Where??
+Where?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Hahaha. The people of Calvalese
-are somewhat wary of outsiders.
+Hahaha. The people of Calvalese have
+a strong wariness toward outsiders.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-They developed that
-wariness over a long history.
-Don't let it bother you too much.
+This prejudice has developed
+over many years throughout 
+history. Don't let it bother you
+too much.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -207,12 +209,12 @@ What kind of history...?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-The Calvalesians descend from
-those defeated in an ancient war.
+The ancestors of the Calvalesians
+lost the ancient war.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Was it... the Aeth'er War?
+Was it... the Aeth'er Wars?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -225,19 +227,19 @@ It was.
 <Rutee>
 [ENDBLOCK]
 I don't know how long ago this war
-was, but they shouldn't be letting
-it affect them for so long like this!
+was, but they shouldn't let it affect
+them forever.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-That is the logic of the victor.
-Think about it from their perspective.
+That is a victor's logic. You have to
+think about it from a loser's perspective.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
 Even now, the standard of living
 in Calvalese is much lower than 
-in other lands.
+in other countries.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -247,99 +249,100 @@ current tension.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-The reason we set up the
-Baruk Foundation here is so
-these people can enjoy
-a higher standard of living.
+Baruk Foundation is stationed here, so
+that the people here can have a greater
+standard of living.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, <Baruk>, that's incredible!
+Baruk, you're an incredible person,
+to be able to think like that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I never knew places
-like this existed!
+I never knew a place
+like this existed.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-It's easier said than done.
-I've yet to achieve all of my goals.
+It's easier said than done. I still
+haven't achieved my goals.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Well, we're getting off topic.
+Anyway, we're getting off topic.
 I received word from <Hugo>.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Whatever this Eye of Atamoni is...
-It seems important you find it.
+Whatever this Eye of Atamoni is... it
+looks like you're searching for it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Right! Do you know
+Yes, that's right. Do you know
 anything about it?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I've tried asking around, but
-I'm afraid I've not heard anything.
+I've tried asking around, but so
+far I don't have any clues.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-However, we will thoroughly investigate
-every boat that comes to Calvalese.
+We are thoroughly investigating every
+ship that docks in Calvalese.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-If I hear anything, I'll let
-you know. Until then,
-you're welcome to stay in town.
+If I hear anything, I'll let you know.
+Until then, you're welcome to stay 
+in town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright.
-Thank you so much!
+Got it. Then we'll
+be in your care!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Don't mention it.
-You know, I'm surprised.
+Let us handle it. In any case,
+that is quite a surprise.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-About what?
+What is?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-It's rare to see <Lion> get along
-with people his age.
+Watching <Lion> get along with
+people his own age.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, we're buddies!
-A frendship forged in fire!!
+It's because we're friends.
+We've gotten really close.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...Right, <Lion>??
+...Right, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Baruk>, don't even joke about that.
-I'm not friends with these people.
+Don't say such disreputable things,
+Baruk. These people and I are not
+friends.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-C'mon, don't talk like that!
-We've been through a lot together!
+Don't say things like that. Haven't
+we come all this way together?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The only reason I've tolerated you
-morons is because I was ordered to.
-I never needed your help!
+The only reason why I've tolerated you
+morons is because I was ordered to. I
+never needed your help.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -348,38 +351,38 @@ I never needed your help!
 <Lion>
 [ENDBLOCK]
 I'm disgusted that you would think
-we're friends, or even that get
-along. Got it? Don't say it again!
+we're friends, or that we even get
+along. Got it? Don't say it again.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 I can't stand laid-back, careless,
-overly-friendly people like you!
+overly-friendly people like you.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
 Don't let the boy's words get to you.
-He's always been somewhat abrasive.
+He's always been rather abrasive.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 It's fine. I know one day we'll
-be the best of friends!
+be able to get along.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I like <Lion>. I'm sure
+Because I like <Lion>, I believe
 he's a good guy deep down.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-You may find him
-surprisingly easy to understand.
+That's something that's unexpectedly
+easy to agree with.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-If his feelings ever do change,
-you'll surely notice immediately.
+If his feelings ever do change, you'll
+be sure to know immediately.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
