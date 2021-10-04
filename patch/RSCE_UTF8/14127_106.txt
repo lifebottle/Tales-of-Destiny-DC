@@ -103,11 +103,12 @@ One of my soldiers was attacked.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Who did it?
+Do you know who did it?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Well, they've been caught...
+Oh, we arrested
+someone, alright.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -130,20 +131,21 @@ this girl attacked the soldier!?
 Girl
 [ENDBLOCK]
 Lord <Fayte>!
-I'm not the one who did it!
+I'm innocent!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>, please believe me.
+Lord <Johnny>!
+You have to believe me!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I can't believe such a small child
-would have attacked a soldier.
+It is pretty hard to believe
+a little girl would attack a soldier.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-But...
+But still...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -152,22 +154,23 @@ Such a small girl...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Lord <Johnny>, please
-help me!
+Lord <Johnny>!
+Help me! Please!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-It seems I'll have to get involved.
+Well, with the way she's pleading,
+we've got no choice but to help.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>, can you wait a bit before
-you deal with her?
+<Fayte>, can you wait a bit
+before you deal with her?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-All right. But, I'll take her
-into custody for now.
+Very well. We'll be
+holding her here, though.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -176,8 +179,8 @@ in Moreau for more info?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-There might be some people
-who know about the attack.
+There may be people
+who saw it happen nearby.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -186,111 +189,119 @@ soldier was attacked in Moreau.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Actually, there's been similar
-incidents in the past few days.
+Actually, this is just one of
+many similar incidents, lately.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The soldiers attacked were left
-with two scratches on their bodies.
+The soldiers who are attacked
+are always left with two
+distinct cuts on their bodies.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Based on the soldiers' testimony
-and witnesses, we concluded that
-the girl was the culprit.
+Based on the testimony of the
+soldiers who were attacked, as well
+as witness testimony, we concluded
+that the culprit was this little girl.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-However, there was a witness who saw
-the girl at the time of the incident.
+That said, another witness claims
+to have seen the same girl
+elsewhere when the attack took place.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I think that's why Mr. <Fayte> 
-gave you all the time you needed.
+I believe that is why
+Lord <Fayte> is allowing
+you to investigate like this.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 It's a long story, but would you like
-to hear a summary of the case?
+to hear a summary of the incident?
 Yes
 No
- 
+
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 Yeah, I heard about the attack.
-But she was playing with her cat
-under the house at that time.
+The girl they think did it
+was playing with that
+cat at the time, though.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-She was dressed in
-Shiden gear. I'm sure she'll stand
-out. Besides, she was talking 
-to the cat really loudly.
+Someone wearing clothes from Shiden
+really sticks out here, you know?
+Plus, she was being really loud.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Can she really talk to a cat?
+I wonder if she can
+really talk to cats...?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-It was a girl? Yeah, I was
-at the store at that time.
+A little girl, huh?
+Yeah, she was here buying
+fish when the incident happened.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-She was looking for quite a while, and
-when I thought she made up her mind
-and started to wrap the product, she
-said she wanted something different.
+She sure took up a lot of time.
+Every time I started packing up
+what she said she wanted, she'd
+suddenly decide on something else.
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-I remember it well, because I've done 
-it so many times.
+Anyone would remember
+a weird customer like her.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The other day, I saw a girl causing a
-scene in the fish shop at the harbor.
+It was a while back, but I saw
+a young girl making a fuss
+at the fish market at the harbor.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I was kind of curious, so I came
-straight back to this inn.
+I was kind of curious,
+but I came right back to this Inn.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-As soon as I got home, I opened the
-sliding door and there was the girl,
-who was supposed to be at the port.
-Came from near the weapons shop.
+After I got back here, I opened
+up that sliding door, and saw what
+had to be the same girl coming out
+of that house by the weapons shop!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-There is no such thing as a secret
-passage in this city that no one 
-knows about. It's a mystery.
+It's quite the mystery. There's not
+a secret passage in this town
+everyone else doesn't know about.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Did you find the culprit?
+Do you know who the culprit is!?
 Yes
 No
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Now please go inside
-and brief <Fayte> on
-the situation.
+Then please head inside
+and explain your 
+findings to Lord <Fayte>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I see... Well, when you do find
-the culprit, please come back.
+I see. Please return
+once you've concluded
+your investigation.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
