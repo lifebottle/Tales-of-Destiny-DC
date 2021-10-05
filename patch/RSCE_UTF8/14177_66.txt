@@ -43,8 +43,8 @@ Hello, where would you like to go?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-Sorry. The floodgates are
-blocked. I can't get through.
+Sorry. The flood gates are
+closed. We can't get through.
 [ENDBLOCK]
 Ready to move.
 
@@ -63,17 +63,16 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-You are!
+You are...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Let's see ...who was it?
+Let's see ...who are you again?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I'm sorry. I've been
-forgetting things 
-a lot lately.
+I'm sorry. My memory
+isn't what it used to be.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -82,33 +81,33 @@ is <Johnny>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Oh, that's the same name
-as Shiden's musician son.
+Really...that's the same name
+of Shiden's profligate son.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-By the way, what can I do for you?
+Anyway, what do you want?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I've been looking for something, 
-have you ever given away an 
-instrument in the mortuary before?
+I've been looking for something. I was
+wondering if you've ever aquired an
+instrument from Moreau.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Oh, I asked Mr. Ferryman for
-it before and he gave it to me.
+Ah, I believe the ferryman had
+asked me to hold it for him.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Actually, I came here to see if you
-could give me that instrument.
+I actually came here today to see
+if you could give me that instrument.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I'm sorry. I had actually given 
-that instrument to another man.
+I'm sorry. I have already given
+it away to another bloke.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -116,43 +115,43 @@ He had quite a talent for music.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-So, he has the instrument now.
+You would need to
+ask him about it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's his name?
+Great, do you know his name?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Huh? What was it? At my age,
-I tend to forget things.
+Huh? His name...? Sorry, when you
+reach my age, you tend to forget things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's a problem.
+This is hopeless.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I don't have a choice. There's
-nothing more we can do. Let's
+It is what it is. There's nothing
+more we can do here. Let's
 just go back to my place.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yes, you're right.
+If you say so.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-We can't sneak into the castle without
-opening the floodgates. Can you
-please go and open the floodgates?
+We can't infiltrate the castle
+until the floodgates are open. 
+Please go and open them, will ya?
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Martial law has been 
-declared, and all residents are 
-asked to follow the instructions
-of the military.
+<TAG_005>Martial law has been
+declared. All residents must obey
+instructions for military personnel.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -161,8 +160,8 @@ We can leave at any time.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Oh, it's unusual to have a 
-guest from another country.
+Well, it's quite rare to have a
+customer from another country
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -185,8 +184,8 @@ Why is it dark when it's not night?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-We're gonna be okay, aren't we?
-We're gonna be okay, right? Hey!
+Some one is going to save us, right?
+We're gonna be okay, aren't we?!
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
@@ -195,49 +194,47 @@ there's still a lot of work ahead.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-The people of Moreau will never
-forget the humiliation of having
-their land trampled upon...
+The people of Moreau won't soon forget
+the disgrace brought to their lands...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-I don't like to say it, but this
-whole mess is going to deflect
-the people of Moreau.
+It's terrible, but thanks to this
+whole mess the people of Moreau
+are are blinded by anger.
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-We can't blame Moreau
-or Terazzi anymore...
+Such is the state of affairs for
+Terazzi and Moreau...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-Seinegald is collecting all the lens.
-Are we sure we can trust that country?
+Seinegald is collecting all the lens for
+some weapon. Can they truly be trusted?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-I'm counting on you, heroes!
+We're counting on you!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Hurray for Terazzi,
-hurray for Terazzi!
+Long live Terazzi!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Mom and Dad said it's going
-to be a great place to live.
+My mom and dad say that from now
+on it will be a better place to live.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-The roof in the sky～♪
-is full of holes～♪
+The sky crust is crumbling~♪
+Now it's full of holes～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-What will happen to the sun
-when the roof in the sky closes?
+If the sky is gobbled up
+what will happen to the sun?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -255,28 +252,29 @@ together to defeat His Majesty.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I hope they'll take this opportunity
-to get along with Seinegald.
+I hope they seize this opportunity
+and repair relations with Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-A war between Heaven and Earth?
-We don't want to fight anymore.
+A war between mankind and those
+that live in the heavens? We have
+no desire to fight in such a war.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I can't stop worrying about
-my grandchildren's future.
+When I think about our grandchildren's
+future, I can't help but feel anxious.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Times have changed since we
-started working with Seinegald.
+Cooperating with Seinegald?
+Time's sure are a-changin'.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-For the sake of my grandson's
-future, I'm counting on you.
+Please, for the sake of our
+grandchildren, do what you can.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -284,55 +282,52 @@ Aych-cha...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-It's rumored that the third son
-of the Shiden clan is going to
-be the lord of Terazzi.
+There's a rumor that the youngest
+prince of Shiden will rule Terazzi.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Who was running the broadcast?
+Who in the world was
+behind that broadcast?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-I wonder if I'm going to die without
-knowing the outside world...
+I wonder if I'm going to die before
+I get a chance to explore the world...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Nice to meet you, guys!
+I'm counting on you guys!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-His Majesty must have been
-thinking about this country
-in his own way.
+I think His Majesty had his own way
+of showing concern for his country.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-But the conquest of Moreau
-was too much. He lost the
-hearts of the people.
+But Moreau's conquest was too far.
+He's lost the hearts of the people.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I wonder what will happen to 
-Terazzi now that His Majesty
-the Great is gone.
+What will become of Terazzi
+now that His Majesty is gone?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-A blow from Belcrant... 
-What does it mean?
+A strike from Belcrant...
+What's the meaning of this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-The sky has been completely blocked...
-I can't believe this is peoples work.
+Completely blocking out the sky...
+How can anyone be capable of this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If it was made by men, there's no
-reason why people can't destroy it.
+If it's man made then is stands to
+reason that we cant also destroy it.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -340,30 +335,30 @@ Hey, welcome!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-Congratulations. I'll give you
-a discount, big as a smile!
+I can't give you a discount but I can
+give you great service with a smile!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-That was a hell of a thing to do...
+What an outrageous thing to say...	
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-The ship is ready. We can
-leave at any time.
+Our preparations are complete.
+We can set sail at your command.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
 I'm in your debt.
 [ENDBLOCK]
-I've always believed that
+I had always known that
 this day would come.
 [ENDBLOCK]
-I wish you the best of luck.
+Hopefully lady luck is with us today.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Shall we take the boat?
+<TAG_007>Ready to set sail?
 Yes
 No
 
