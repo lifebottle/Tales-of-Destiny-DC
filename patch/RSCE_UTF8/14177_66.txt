@@ -1,38 +1,27 @@
+//beware 4096
 ××××××空開始××××××
-
 [ENDBLOCK]
 ××××××空終了××××××
-
 [ENDBLOCK]
 ◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
-
 [ENDBLOCK]
 ◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
-
 [ENDBLOCK]
 ●●●●●●雲開始●●●●●●
-
 [ENDBLOCK]
 ●●●●●●雲終了●●●●●●
-
 [ENDBLOCK]
 Weapons Shop
-
 [ENDBLOCK]
 Accessory Shop
-
 [ENDBLOCK]
 Dock
-
 [ENDBLOCK]
 Accessory Shop
-
 [ENDBLOCK]
 Dock
-
 [ENDBLOCK]
 Weapons Shop
-
 [ENDBLOCK]
 Don't Go
 [ENDBLOCK]
@@ -47,19 +36,14 @@ Sorry. The floodgates are
 closed. We can't get through.
 [ENDBLOCK]
 Ready to move.
-
 [ENDBLOCK]
 Ready to move.
-
 [ENDBLOCK]
 Ready to move.
-
 [ENDBLOCK]
 <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
-
 [ENDBLOCK]
 aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80>
-
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -67,17 +51,16 @@ You are...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-...Who are you again?
+...Who are ya again?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Sorry. My memory ain't
+Sorry, memory ain't
 what it used to be.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-No problem. My name
-is <Johnny>.
+No problem. My name's <Johnny>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -96,18 +79,18 @@ instrument from Moreau.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Ah, I believe the ferryman had
+Ah, I think the ferryman had
 asked me to hold it for him.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I came here today to see if
-you could give me that instrument.
+I came here today hoping you
+could give me that instrument.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I'm sorry. I've given
-it away to another bloke.
+Sorry. I've given it away
+to another bloke.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -147,7 +130,6 @@ We can't infiltrate the castle
 until the floodgates are open. 
 Please go and open them, will ya?
 [ENDBLOCK]
-
 [ENDBLOCK]
 <TAG_005>Martial law has been
 declared. All residents must obey
@@ -258,13 +240,13 @@ and repair relations with Seinegald.
 Old Man
 [ENDBLOCK]
 A war between mankind and those
-that live in the heavens? We have
-no desire to fight in such a war.
+in the heavens? We have no desire
+to fight in such a war.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-When I think about our grandchildren's
-future, I can't help but feel anxious.
+Thinking about our grandchildren's
+future makes me feel anxious.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -293,7 +275,7 @@ behind that broadcast?
 Girl
 [ENDBLOCK]
 I wonder if I'm going to die before
-I get a chance to explore the world...
+I get a chance to explore the world.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -321,7 +303,7 @@ What's the meaning of this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Completely blocking out the sky...
+Completely blocking out the sky.
 How can anyone be capable of this?
 [ENDBLOCK]
 Woman
@@ -331,7 +313,7 @@ reason that we cant also destroy it.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-Hey, welcome!
+Welcome!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -361,7 +343,6 @@ select
 <TAG_007>Ready to set sail?
 Yes
 No
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -401,7 +382,6 @@ notice
 the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x38><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x34><x00><x80></color>.
-
 [ENDBLOCK]
 <x19><x69><x48><x28><x80>'s party received
 [ENDBLOCK]
@@ -439,13 +419,10 @@ notice
 <x18><x65><x58><x30><x00><x80>
 [ENDBLOCK]
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
-
 [ENDBLOCK]
-
 [ENDBLOCK]
 You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -475,22 +452,16 @@ notice
 <TAG_007>website
 [ENDBLOCK]
 外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
-
 [ENDBLOCK]
 第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
-
 [ENDBLOCK]
 第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
-
 [ENDBLOCK]
 第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
-
 [ENDBLOCK]
 最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
-
 [ENDBLOCK]
 設定がなされません！（tod=<TAG_059>）
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -522,7 +493,6 @@ notice
 the character status will display.
 On this screen, hit <Square_ani> and you'll
 be able to change the character status.
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -530,7 +500,6 @@ notice
 [Titles] On this screen, press <Triangle_ani> 
 and it'll let you pick from all the titles
 you've acquired.
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -569,7 +538,6 @@ notice
 <TAG_007>[Rock Rally] is a game in which 
 players kick rocks on the field 
 to clear certain objectives.
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -581,15 +549,12 @@ notice
 3: The rock will return to its original
 	location when you enter or leave
 	a city or dungeon.
-
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
-
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...<x00>
 [ENDBLOCK]
