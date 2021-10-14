@@ -16,36 +16,36 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+A new valve.
+We can use this to
+get the water system working.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+It's a new valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working..
+A new valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
 It's a new valve. It'll get
 the water system going.
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+A valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
-I found a new valve. 
-Now we can get the 
-water system working.
+It's a valve...
+We can use this to
+get the water system working.
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
-Valve...?
+A valve...?
 [ENDBLOCK]
 Default
 [ENDBLOCK]
@@ -59,12 +59,12 @@ valve is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-The valve I have doesn't
-seem to be able to connect.
+The valve you have doesn't
+seem to be compatible.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Let's try another location.
+Try using it at another location.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -127,8 +127,8 @@ WALL_2なり!!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Are you hurt? Stay here
-and get some rest.
+Are you hurt?
+Please, rest here awhile.
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -138,11 +138,12 @@ No
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Save <Fayte>, and come back safely.
+Please... save <Fayte>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-We've come to save you, baby.
+Hey, baby, we're
+here to rescue you.
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -151,12 +152,13 @@ We've come to save you, baby.
 <Johnny>
 [ENDBLOCK]
 Yo, <Rihanna>.
-Are you doing okay?
+Are they treating you right?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I haven't seen <Fayte> yet. So I take
-it he's in a different prison?
+I haven't seen <Fayte> yet.
+They must have him
+in a different prison.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -165,8 +167,8 @@ you even get here...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-What? I just came
-in from outside.
+What do you mean?
+I used the door, of course.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -175,17 +177,17 @@ the wife of the next lord of Moreau.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-You're safe now, I'm here. Please
-wait here just a little longer.
+You're safe now that we're here.
+Just wait here a little longer, OK?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny>, that person...
+<Johnny>, about...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Yes, just leave it all to me. I will
-without fail, rescue <Fayte>.
+Yes, leave it to me.
+I'll save <Fayte> without fail!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -194,13 +196,13 @@ I could do to help...
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Oh! This cell has everything you
-need for treating your wounds.
+I know! This cell is actually
+a storage room for medicines.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
 When you're hurt, return here.
-Don't push yourself too much.
+Don't push yourself too hard.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -216,7 +218,7 @@ he's safe, I will remain here.
 [ENDBLOCK]
 You won't listen to anything
 I say, huh? Then we shall finish
-up here as quickly as we can.
+up here as quick as we can.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
