@@ -54,7 +54,7 @@ Default
 notice
 [ENDBLOCK]
 There's a device to control
-the water volume, but no 
+the water level, but no 
 valve is installed.
 [ENDBLOCK]
 notice
@@ -69,7 +69,7 @@ Try using it at another location.
 notice
 [ENDBLOCK]
 A valve has been installed on the
-device to regulate the water volume.
+device to regulate the water level.
 [ENDBLOCK]
 CUBE1=<x1D><x75><x44><xA4><x80>,<x1D><x75><x44><xA8><x80>,<x1D><x75><x44><xAC><x80>
 
