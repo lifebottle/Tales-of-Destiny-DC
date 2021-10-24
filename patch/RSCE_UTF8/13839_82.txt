@@ -54,7 +54,6 @@ but I'm counting on you.
 <Ayles>
 [ENDBLOCK]
 Thank you all for your hard work.
-
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -63,7 +62,7 @@ is the cause of this...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-To have the power of a god with
+To wield the power of a god from
 the body of a human is nothing
 short of arrogance.
 [ENDBLOCK]
@@ -75,7 +74,7 @@ never fallen into the hands of man.
 <Ayles>
 [ENDBLOCK]
 If it was possible, I wish it could
-remain with the Goddess.
+have remained with the Goddess.
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 
@@ -343,21 +342,21 @@ appreciated back then.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-And you..err..who might you be?
+And you... err... who might you be?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-So, you're <Philia>'s boss, right.
+So, you're <Philia>'s boss, right?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 At this time, I would like for
-you to join <Philia> and I in..
+you to join <Philia> and I in...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 W-What are you saying
-Mr. <Kongman>!!
+Mr. <Kongman>!?
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -413,7 +412,7 @@ already married.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-A-Already..m-m-married!?
+A-Already... m-m-married!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -481,7 +480,7 @@ Y-Yes sir!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Youu...You talked to me like
+Youu... You talked to me like
 I was some kinda demon!
 [ENDBLOCK]
 <Kongman>
@@ -543,7 +542,7 @@ dedicated to this temple again.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I..Th-That's..
+I... Th-That's...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -645,8 +644,8 @@ Well then, <Philia> Phillis.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Do your best to pray for
-happiness for all people.
+Do your best to pray for the
+happiness of all people.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -659,8 +658,8 @@ the temple the other day?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-I immediately thought so when I heard
-they were talking to their swords
+When I saw you speaking with your
+swords, I knew it had to be you.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -669,8 +668,8 @@ the temple the other day?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-I figured immediately when they said
-someone came by talking to their swords.
+Oh, of course you did. Who else would
+go around talking to their blades?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -679,7 +678,7 @@ reason to come here...?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Huh? But...we gave them the lens
+Huh? But... we gave them the lens
 that we were accumulating...
 [ENDBLOCK]
 <Rutee>
@@ -693,7 +692,7 @@ Aah! You can't be serious!
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Bishop <Ayles>! Those swordsman
+Bishop <Ayles>! Those swordsmen
 from the other day are back
 demanding more lens!
 [ENDBLOCK]
