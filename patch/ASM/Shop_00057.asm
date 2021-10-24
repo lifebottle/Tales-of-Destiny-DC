@@ -14,5 +14,23 @@
     lui at, 0x428D  ; "Cancel" width
     ; float 70.5
 
+.org 0x003bdf08
+    .asciiz "Sell Lens"
+
+.org 0x003bdf18
+    .asciiz "Equip"
+
+.org 0x003bdf20
+    .asciiz "Food Sack"
+
+.org 0x003bdf30
+    .asciiz "Refill"
+
+.org 0x003bdf38
+    .asciiz "Sell"
+
+.org 0x003bdf40
+    .asciiz "Buy"
+
 .close
 
