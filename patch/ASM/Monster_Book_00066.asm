@@ -19,4 +19,7 @@
 .org 0x003CB010
     lui at, 0x428A      ; "Level" highlight width?
 
+.org 0x003d2060
+    .asciiz "Level"
+
 .close
