@@ -3,17 +3,17 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There's a spring water valve.
+<TAG_007>There's a valve within the fountain.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Do you want to switch?
+<TAG_007>Manipulate the switch?
 Yes 
 No
 [ENDBLOCK]
-You let the water out.
+You raised the level of the water.
 [ENDBLOCK]
-You turned the water off.
+You lowered the level of the water.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
