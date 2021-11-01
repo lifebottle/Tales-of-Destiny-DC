@@ -3,8 +3,8 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The room is full of water and
-the door can't be opened.
+<TAG_007>The room is flooded.
+The door won't budge.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -13,16 +13,16 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>It's a switch that opens the
-door only when it's pressed.
+<TAG_007>It seems this switch opens
+a door only while it remains pressed.
 [ENDBLOCK]
-I heard the door open.
+You hear a door open.
 [ENDBLOCK]
-I heard the door close.
+You hear a door close.
 [ENDBLOCK]
-I heard the door open.
+You hear a door open..
 [ENDBLOCK]
-I heard the door close.
+You hear a door close.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
