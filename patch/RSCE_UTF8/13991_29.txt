@@ -610,7 +610,7 @@ They think we should just leave!
 Old man
 [ENDBLOCK]
 You've come back, Champion! I was
-so nervous without you.
+so anxious without you.
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
@@ -1159,8 +1159,8 @@ Yes...?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Is this about...my glasses?
-Is this about...me?
+<TAG_007>Is this about... my glasses?
+Is this about... me?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1230,7 +1230,7 @@ Old Woman
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Uhm...is
+Uhm... is
 something wrong?
 [ENDBLOCK]
 Old Woman
@@ -1303,7 +1303,7 @@ Stayin' healthy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hey hey <Kongman>! How come
+Hey, hey <Kongman>! How come
 you didn't use any weapons in
 that match a while back?
 [ENDBLOCK]
