@@ -24,7 +24,7 @@ notice
 My cats have gone missing.
 If you see any of them, please
 contact me.
-I love my cats very much...
+I miss them so very much...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -36,43 +36,47 @@ What's wrong, <Mary>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I have a request.
-I want to help find the cats.
+I want to help
+find these cats.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You want to look for cats...?
+You want to
+look for cats...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Please! As you know, I love cats!
+Please!
+You know I love cats!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No, I didn't know that.
+Uhm... No,
+I didn't know that...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Hey, come on, <Stahn>.
+Aw, come on, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, that's fine. If you're so sure
-you want to do this, let's do it.
+Well, OK. If you really want
+to, then let's give it a try.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-And we'll be helping someone!
+We'll be helping
+someone, after all!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The client seems to be...
-an innkeeper.
+Let's see... Looks like
+the Innkeeper posted this.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I see.
-Then let's go to the inn.
+I see. Let's go
+to the Inn, then.
 [ENDBLOCK]
 <x17><x28><xE5><x06><x14><x2F><x80>, <x17><x28><xE6><x06><x14><x2F><x80>, <x17><x28><xE7><x06><x14><x2F><x80>
 [ENDBLOCK]
@@ -86,101 +90,105 @@ Yes, what can I for you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Actually, there's something
-I'm looking for...
+Well, I'm looking
+for a certain something...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-If that's the case, I've heard it's deep
-in the Tilso Forest to the north.
+I see! Rumor has it what
+you're looking for is deep
+in Tilso Forest to the North.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Is that true!?
+Really?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Thank you. Well then, I'll go to Tilso
-Forest as soon as possible.
+Thank you so much!
+Well, off I go, then!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Excuse me, miss, but are you
-going there alone?
+Excuse me, are you
+really going there alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-What about your companions!?
+What about your friends?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Please keep this a secret from everyone.
+Please keep this a
+secret from everyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I want to do this alone.
+This is something
+I have to do alone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now then, I think I'll head over to that
-Tilso Forest up north that the
-innkeeper mentioned.
+Alrighty, I reckon
+I'm off to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm going to give a big surpise
-to my brother.
+Hehe! Big bro'll
+be so surprised!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-I've heard that it's deep
-within the Tilso Forest.
+What you're looking for
+should be in Tilso Forest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-But I can't believe you're going alone...
-Please be careful.
+I can't believe you're
+going alone, though...
+Please be careful!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Do you want to give up for today?
+Give up the search for now?
+(Stay at the Inn to try again)
 Yes
 No
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now then, I think I'll head over to that
-Tilso Forest up north that the
-innkeeper mentioned.
+Alrighty, I reckon
+I'm off to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm going to give a big surpise
-to my brother.
+Hehe! Big bro'll
+be so surprised!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ah... big bro.
+Ah... Big bro...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oi, <Lilith>. Where have you
-been all by yourself?
+<Lilith>! Where have you
+been all by yourself??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We were worried when you left
-without telling us.
+You left without a word!
+We were so worried!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm sorry.
-I just wanted to get out for a bit.
+Sorry...
+I just wanted to go for a walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on, let's get back with the others.
+Come on, let's go
+back to the others.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -192,56 +200,59 @@ I'm giving this to you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is this... an herb?
+Is this...
+an herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah.
+Yep!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, why?
+But... why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I stumbled upon it while
-I was out walking.
+It's just something
+I came across on my walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then, why don't you use it, <Lilith>?
+Well here, why don't
+you use it, <Lilith>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Jeez!
+Ugh, seriously??
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-My big bro is out fighting
-to save the world.
+You're fighting and risking
+your life, trying to save the world!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-So just use it, alright!
+So no, YOU use it!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right.
-Then I'll be sure to take it.
+Alright, fine!
+I'll take it, then.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Take it? Make sure to use it.
+Don't just take it!
+Make sure you use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-If you don't use it properly,
-then even when you're awake, I'll...
+If you don't, then even
+when you're awake, I'll...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-H-hold up <Lilith>.
-I'll use it! I definitely promise to use it!
+W-wait, <Lilith>!
+I'll use it! I promise! I swear!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -249,42 +260,41 @@ Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-See you later then.
-Thank you, <Lilith>.
+Thanks again, <Lilith>. Seriously.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're welcome.
+You're welcome...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big bro.
+...Big bro.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>In this time of peace, we  
-should have a sword in the house.
+<TAG_005><center>Even in this age of peace,
+keep a sword at home! You never know!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
 If you're headed for Tilso Forest,
-it's just north of the city.
+it's just North of the city.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
 This is the city of Frostheim.
-You guys have come at a bad time.
+You've come at a very bad time.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Welcome, you're in Frostheim, the
-ocean gateway to Phandaria.
+Welcome! You're in Frostheim,
+Phandaria's port city.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Just when you thought the
-rebellion was over, now there's
-an Aeth'er War...?
+First there was the rebellion
+that just ended, now
+there's this Aeth'er War thing...?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -292,23 +302,25 @@ It's been horrible.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-If it's a lens from this city, I've
-already taken it to Heidelberg.
+I've already taken the lens
+from this city to Heidelberg.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Finish the fight. I'm asking you.
+Finish the fight.
+I'm begging you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-You're going out of town by yourself?
+You're going out
+of town by yourself?
 
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Monsters don't show mercy
-even if they're dealing with
-a single girl, so be careful.
+Monsters don't care if you're
+a bunch of strong men or just
+one little girl. Be careful.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -317,27 +329,28 @@ get the injured to safety.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I wondered what would happen
+I was worred about what would happen
 for a while, but I'm relieved now.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-The war in heaven and earth is
-...what we have done, you say?
+What does Aeth'er War even mean?
+What did we do to deserve this?
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I don't have much in the way of food
-reserves. If things continue like this...
+I don't have a lot of food
+saved up. If this keeps up, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I heard that they are making
-amazing weapons in Seinegald.
+Rumor has it they're working
+on quite the weapon at Seinegald.
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-Sis, where are you going?
+Where are you
+off to, miss lady?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
@@ -360,8 +373,8 @@ with weird stuff?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
-I wonder if the lens has
-fallen off somewhere?
+Did I drop a
+lens around here?
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
@@ -371,34 +384,34 @@ in the sky? That's awesome!
 Soldier
 [ENDBLOCK]
 What? You're going to Tilso Forest
-by yourself for your friend?
+by yourself for your brother?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-What a sweet girl who
-loves her brother.
+He's one lucky guy. You must
+care about him a lot!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I heard there was a rebellion
-in the capital. This is all the info
-we have at the moment though.
+I heard there was
+a rebellion at the capital.
+That's all I know right now, though.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Even though it ended without
-incident, our capital city was
-brought down by the rebels.
+It all worked out in the end,
+but the fact remains that 
+our capital fell to the rebels.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-This fact must be taken
-seriously by all citizens.
+We would do well
+to remember that.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Is there any way to prevent
-an attack from the sky?
+How do we stop an
+attack from the air?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -407,14 +420,14 @@ threat from monsters.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Can we collect the lens and
-do something about it now?
+Should we gather more lens
+so we can do something about it?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-For now, we will wait for
-good news and do our best
-to defend the city.
+All we can do now is wait
+for your triumph.
+We'll keep this city safe!
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -440,13 +453,13 @@ Weapon Shop
 [ENDBLOCK]
 I once saw a large bird
 flying far above us on an
-island southeast of here.
+island Southeast of here.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-If you're going to help
-the wounded, you'd better
-be ready.
+If you want to help
+the wounded, make sure
+you're well stocked, first.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -456,12 +469,12 @@ Make sure you're prepared.
 Uniques Shop
 [ENDBLOCK]
 If you're going to go help the
-wounded, you better be ready.
+wounded, you'd better be ready.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-The weather around here is harsh.
-Be prepared for it.
+The weather here can get nasty.
+Don't take it lightly.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -516,11 +529,11 @@ turn on the royal family...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Uh-uh.
+Uurghh...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<King> Your Majesty... I'm sorry...
+Forgive me... King Isaac...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -1032,20 +1045,20 @@ Oh, you're...?
 select
 [ENDBLOCK]
 <TAG_007>What is it?
-(... ignore ...)
+(...Just ignore her...)
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-That's a girl, right?
+You're a girl, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What the hell?	Say that
-again. See what happens...
+What was that!? Say that
+again, see what happens...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Oh, God, I'm sorry. I'm sorry.
+Eeek! I'm sorry, I'm sorry!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1053,37 +1066,38 @@ Hey, are you from Seinegald?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Then do you know a swordsman
-by the name of <Lion>?
+If so, do you know a
+swordsman by the name of <Lion>?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I've only seen your face
-from a distance once.
+I've only seen his face
+from a distance, once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-He's a very handsome swordsman,
-and I adore him.
+I utterly adore him,
+he's so dreamy!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-She has such a small body, yet she's
-so graceful on  the battlefield 
+He's got such a small body, yet he's
+so graceful on the battlefield 
 with all those strong men in tow.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-That's why I call you Sir, <Lion>.
+So I've come up with the
+perfect title for Sir <Lion>.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-It's called "The Rose of Seinegald.
+"The Rose of Seinegald."
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I'm the same woman.
-If you're Sir, <Lion>.
+I may be a girl, but if
+it was Sir <Lion>, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1096,36 +1110,37 @@ You're...
 select
 [ENDBLOCK]
 <TAG_007>It's been a while.
-Who are you...
+Who are you...?
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-It has. Mary, I had heard that you
-you had lost your memory...
+It has, Mary.
+I heard you lost your memory.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Oh, yeah. 
-It's a great weight off my shoulders.
+Yep. Made lots of room
+in my head, that's for sure.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Hahaha. You're quite
+Hahaha. You're so
 funny, <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I'm going to be visiting Cyril soon.
-I really wanted to see <Dalis> again.
+I wanted to see <Dalis>'s handsome
+face again, so I'll be
+visiting Cyril sometime soon!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm sure he's looking forward to it.
+I'm sure he's
+looking forward to it!
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Feigning ignorance as always,
-aren't you <Mary>.
+You're such a kidder, <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1138,22 +1153,23 @@ Oh, it's you!
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I knew you were joking earlier
-with this "Who are you" business.
+Hah! I knew you recognized me!
+"Who are you?", indeed!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-You are the nice neighbor lady who
-helped taking care of <Dalis> when
-he was a young, immature rascal.
+<Dalis> told me about you.
+He said you looked after him
+when he was just a little brat.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Well, you have quite the memory...
+Well, you have
+quite the memory...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-A wife like you is just right for
+You're the perfect wife for
 a hard-headed dolt like <Dalis>.
 [ENDBLOCK]
 <Mary>
@@ -1162,9 +1178,9 @@ Thank you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Keep <Dalis> in line. 
-His old lady wants to hold 
-his child in her arms soon.
+Keep <Dalis> in line.
+I want to hold his 
+child in my arms soon!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1186,29 +1202,30 @@ makes me uncomfortable.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Nonsense. I doubt women
-like that actually exist.
+Nonsense! All women
+dig my shirtless style!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Except this woman, right here.
+Not this one...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gahaha.
+Gahaha!
 You can't be serious!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-What...?
+I... what?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You can get my autograph later...
+You can get my
+autograph later!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-That's not...
+That's not what I...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1222,11 +1239,11 @@ are wondering the same thing.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gahaha.
-I wouldn't want to deprive everyone
-the chance to see these muscles.
+Gahaha! Ain't it obvious!
+I wouldn't want to deprive anyone
+a chance to see these muscles!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-He's insane...<x00>
+What a weirdo...<x00>
 [ENDBLOCK]
