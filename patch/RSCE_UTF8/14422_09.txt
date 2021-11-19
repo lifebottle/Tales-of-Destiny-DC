@@ -1,7 +1,7 @@
 Mayor
 [ENDBLOCK]
-I want to turn this city into 
-a metropolis on par with 
+I want to turn this city into
+a metropolis on par with
 the Royal Capital.
 [ENDBLOCK]
 Mayor
@@ -12,8 +12,8 @@ highly of you.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-I want to turn this city into 
-a metropolis on par with 
+I want to turn this city into
+a metropolis on par with
 the Royal Capital.
 [ENDBLOCK]
 Mayor
@@ -46,21 +46,21 @@ if and when they will arrive...
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-There is little I can do, but if 
+There is little I can do, but if
 there is something you need,
 just let me know.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
 My wife adores children. You can
-trust us to take care of 
+trust us to take care of
 the orphanage.
 [ENDBLOCK]
 Mayor's Wife
 [ENDBLOCK]
 The orphanage that the sisters are
 running on the outskirts of town
-is a blemish on this fine city. 
+is a blemish on this fine city.
 [ENDBLOCK]
 Mayor's Wife
 [ENDBLOCK]
@@ -76,7 +76,7 @@ who abandong their children.
 [ENDBLOCK]
 Mayor's Wife
 [ENDBLOCK]
-...but because of people like that, 
+...but because of people like that,
 I was able to meet my children.
 [ENDBLOCK]
 Mayor's Wife
@@ -93,7 +93,7 @@ Mayor's Wife
 [ENDBLOCK]
 The orphanage that the sisters are
 running on the outskirts of town
-is a blemish on this fine city. 
+is a blemish on this fine city.
 [ENDBLOCK]
 Mayor's Wife
 [ENDBLOCK]
@@ -109,7 +109,7 @@ who abandong their children.
 [ENDBLOCK]
 Mayor's Wife
 [ENDBLOCK]
-...but because of people like that, 
+...but because of people like that,
 I was able to meet my children.
 [ENDBLOCK]
 Mayor's Wife
@@ -171,11 +171,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -190,7 +190,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -327,15 +327,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -352,8 +352,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -366,15 +366,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

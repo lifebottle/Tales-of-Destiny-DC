@@ -126,7 +126,7 @@ the director's instructions.
 notice
 [ENDBLOCK]
 After the Director's instructions are given,
-press the correct acting button while the 
+press the correct acting button while the
 clock is ticking, and you will succeed.
 [ENDBLOCK]
 notice
@@ -446,7 +446,7 @@ The Canvas has been unlocked.
 notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your 
+On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
 notice
@@ -457,7 +457,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -586,7 +586,7 @@ by the arena to create a new game.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-<Kongman> has been unable to fight 
+<Kongman> has been unable to fight
 in the arena for a while now.
 [ENDBLOCK]
 Technician
@@ -656,7 +656,7 @@ to play again.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-<center>Do you want play 
+<center>Do you want play
 [Strange Shot]?
 Yes
 No
@@ -752,7 +752,7 @@ No
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-Welcome. This is the reception area 
+Welcome. This is the reception area
 for those who wish to participate.
 [ENDBLOCK]
 Information Desk
@@ -780,7 +780,7 @@ participate in the battle.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-The only items you can use in 
+The only items you can use in
 battle are the ones we give you.
 [ENDBLOCK]
 Information Desk
@@ -1239,7 +1239,7 @@ sold out in an instant.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-You need to knock <Kongman> 
+You need to knock <Kongman>
 down a few notches.
 [ENDBLOCK]
 Challenger
@@ -1263,7 +1263,7 @@ Hmph. I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-You need to knock <Kongman> 
+You need to knock <Kongman>
 down a few notches.
 [ENDBLOCK]
 Challenger
@@ -1282,7 +1282,7 @@ going to challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-Should we really be  
+Should we really be
 making a fuss here?
 [ENDBLOCK]
 Challenger
@@ -1294,7 +1294,7 @@ That's really something, huh?
 Old Man
 [ENDBLOCK]
 This is the waiting room. Please
-refrain from using it unless you 
+refrain from using it unless you
 are a competitor.
 [ENDBLOCK]
 Old Man
@@ -1396,11 +1396,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1415,7 +1415,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -1552,15 +1552,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -1577,8 +1577,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -1591,15 +1591,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -6,7 +6,7 @@ The rat took the energy unit.
 We have to get the energy
 unit back from the rat!
 [ENDBLOCK]
-What the hell is that rat? 
+What the hell is that rat?
 Let's get that energy unit back.
 [ENDBLOCK]
 We have to get the
@@ -36,7 +36,7 @@ Default
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<TAG_034>       ++++    
+<TAG_034>       ++++
 
 [ENDBLOCK]
 traenow_light<x17><x71><x48><xA0><x80>
@@ -130,7 +130,7 @@ This door won't open.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-It's because the entire 
+It's because the entire
 Deimos system is down.
 [ENDBLOCK]
 <Clemente>
@@ -154,7 +154,7 @@ is on the other side of here.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-We can divert the energy 
+We can divert the energy
 from the security units.
 [ENDBLOCK]
 <Clemente>
@@ -197,22 +197,22 @@ you step on the switch.
 Looks like the wall moves when
 you step on the switch.
 [ENDBLOCK]
-You step on the switch 
+You step on the switch
 and the wall moves.
 [ENDBLOCK]
-Stepping on the switch seems 
+Stepping on the switch seems
 to make the walls move.
 [ENDBLOCK]
-It looks like the wall moves 
+It looks like the wall moves
 when you step on the switch.
 [ENDBLOCK]
 You step on the switch
 and the wall moves.
 [ENDBLOCK]
-Looks like the wall moves 
+Looks like the wall moves
 when you step on the switch.
 [ENDBLOCK]
-Stepping on the switch seems 
+Stepping on the switch seems
 to make the wall move.
 [ENDBLOCK]
 Default
@@ -233,7 +233,7 @@ transporter room.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then I guess we can use it 
+Then I guess we can use it
 to get back to Ignasea.
 [ENDBLOCK]
 <Dymlos>
@@ -265,7 +265,7 @@ and we're going to Cloudius.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-That's right. You can use this warp 
+That's right. You can use this warp
 device when you return to Ignasea.
 [ENDBLOCK]
 mouserad -><x1D><x75><x49><x24><x80>
@@ -289,11 +289,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x4D><x50><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x4D><x50><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -308,7 +308,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x4D><x50><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x4D><x50><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -445,15 +445,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -470,8 +470,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -484,15 +484,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
