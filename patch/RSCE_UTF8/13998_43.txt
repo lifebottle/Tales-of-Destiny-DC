@@ -56,7 +56,7 @@ become vacant, soon.
 Maid
 [ENDBLOCK]
 If Ms. <Ilene> were here, she would
-have taken the initiative to 
+have taken the initiative to
 collect the lens.
 [ENDBLOCK]
 Maid
@@ -209,7 +209,7 @@ Nobody's come back yet, Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chal, isn't the 
+Chal, isn't the
 air kind of warm here?
 [ENDBLOCK]
 <Chaltier>
@@ -274,7 +274,7 @@ you to leave the house for me.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Still, it would be a 
+Still, it would be a
 problem if <Ilene> came
 back and no one was here.
 [ENDBLOCK]
@@ -310,11 +310,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -329,7 +329,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -466,15 +466,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -491,8 +491,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -505,15 +505,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
