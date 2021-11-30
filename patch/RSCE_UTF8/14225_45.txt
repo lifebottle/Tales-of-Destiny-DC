@@ -60,7 +60,7 @@ Aw, come on, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, OK. If you really want
+Well, okay. If you really want
 to, then let's give it a try.
 [ENDBLOCK]
 <Stahn>
@@ -173,7 +173,7 @@ Ah... Big bro...
 <Stahn>
 [ENDBLOCK]
 <Lilith>! Where have you
-been all by yourself??
+been all by yourself!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -223,7 +223,7 @@ you use it, <Lilith>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ugh, seriously??
+Ugh, seriously!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -314,7 +314,6 @@ Old Lady
 [ENDBLOCK]
 You're going out
 of town by yourself?
-
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -334,7 +333,7 @@ for a while, but I'm relieved now.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-What does Aeth'er War even mean?
+What does "Aeth'er War" even mean?
 What did we do to deserve this?
 [ENDBLOCK]
 Old Lady
@@ -344,8 +343,8 @@ saved up. If this keeps up, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Rumor has it they're working
-on quite the weapon at Seinegald.
+Rumor has it Seinegald is
+working on quite the weapon.
 [ENDBLOCK]
 Daughter
 [ENDBLOCK]
@@ -400,7 +399,7 @@ That's all I know right now, though.
 Soldier
 [ENDBLOCK]
 It all worked out in the end,
-but the fact remains that 
+but the fact remains that
 our capital fell to the rebels.
 [ENDBLOCK]
 Soldier
@@ -411,7 +410,7 @@ to remember that.
 Soldier
 [ENDBLOCK]
 How do we stop an
-attack from the air?
+attack from the sky?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -436,8 +435,8 @@ city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-The better prepared you are,
-the better off you are.
+The more prepared you are,
+the better off you'll be.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -446,8 +445,8 @@ city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-The better prepared you are,
-the better off you are.
+The more prepared you are,
+the better off you'll be.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -498,7 +497,7 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
+by setting [Definite Strike] to
 "ON" from the Customize menu
 in the Main menu.
 
@@ -524,7 +523,7 @@ honed your skills more.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Those rebels, how dare they 
+Those rebels, how dare they
 turn on the royal family...
 [ENDBLOCK]
 Soldier
@@ -537,7 +536,7 @@ Forgive me... King Isaac...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Who is that <Greybum> guy? How 
+Who is that <Greybum> guy? How
 can he so easily control monsters?
 [ENDBLOCK]
 Soldier
@@ -553,11 +552,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -572,7 +571,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -709,15 +708,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -734,8 +733,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -748,15 +747,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -778,7 +777,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -808,7 +807,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -906,7 +905,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -946,7 +945,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -1058,7 +1057,7 @@ again, see what happens...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Eeek! I'm sorry, I'm sorry!
+Eeek! I'm sorry! I'm sorry!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1067,28 +1066,28 @@ Hey, are you from Seinegald?
 Young Woman
 [ENDBLOCK]
 If so, do you know a
-swordsman by the name of <Lion>?
+knight by the name of <Lion>?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I've only seen his face
+I've only seen their face
 from a distance, once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I utterly adore him,
-he's so dreamy!
+I utterly adore them.
+They're so dreamy!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-He's got such a small body, yet he's
-so graceful on the battlefield 
+They've got such a small body, yet
+they're so graceful on the battlefield
 with all those strong men in tow.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
 So I've come up with the
-perfect title for Sir <Lion>.
+perfect title for <Lion>.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1097,7 +1096,7 @@ Young Woman
 Young Woman
 [ENDBLOCK]
 I may be a girl, but if
-it was Sir <Lion>, then...
+it was <Lion>, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1179,7 +1178,7 @@ Thank you.
 Old Lady
 [ENDBLOCK]
 Keep <Dalis> in line.
-I want to hold his 
+I want to hold his
 child in my arms soon!
 [ENDBLOCK]
 Young Woman
@@ -1197,7 +1196,7 @@ Sorry, no autographs on my down time.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Your bare chest 
+Your bare chest
 makes me uncomfortable.
 [ENDBLOCK]
 <Kongman>

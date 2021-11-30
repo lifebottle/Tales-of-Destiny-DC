@@ -539,9 +539,9 @@ Hey, what's wrong with this bird?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Since the creation of the land in
-the sky, small animals do not live
-particularly long.
+Since the sky lands were created,
+the lifespans of small animals
+have been cut short.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -633,22 +633,22 @@ warehouse is closed to the public.
 Boy
 [ENDBLOCK]
 Everyone says bad things about the
-third young prince, but I love him.
+youngest prince, but I love him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I heard that the third youngest was
+I heard that <Johnny> has been
 very active in the Moreau territory.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The third youngest has been getting
-good reviews lately. I'm glad too.
+People's opinions on <Johnny> have become
+a lot more positive. I'm happy about it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 I wonder if there are people living
-in the world floating in the sky.
+on that shell floating in the sky.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -693,26 +693,27 @@ but also in the open sea.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've heard it called the net of the
-sky and the outer shell. There's also
-something that looks like a building.
+That mesh covering the sky...
+Some call it "the outer shell."
+It appears to house some
+building-like structures.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 The number of monster attacks have
-increased recently. Is this the doing
-of those who live up in the sky?
+increased recently. Is this the
+work of those sky denizens?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Now is the time we need the 
+Now is the time we need the
 combined strength of Shiden,
 Moreau, and Terazzi!
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-We've been ordered not to send 
-any ships to Moreau or Terazzi 
+We've been ordered not to send
+any ships to Moreau or Terazzi
 territory at this time.
 [ENDBLOCK]
 Sailor
@@ -731,8 +732,8 @@ supplies without my lord's permission.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-We've been ordered not to send 
-any ships to Moreau or Terazzi 
+We've been ordered not to send
+any ships to Moreau or Terazzi
 territory at this time.
 [ENDBLOCK]
 Sailor
@@ -750,8 +751,8 @@ It reminds me of Moreau.
 Old Woman
 [ENDBLOCK]
 Thanks to Mr. <Fayte> and <Johnny>,
-there has been a better communication
-between the various territories.
+relations among the territories
+have improved significantly.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -783,11 +784,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -802,7 +803,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -939,15 +940,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -964,8 +965,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -978,15 +979,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -1050,7 +1051,7 @@ Frostheim Harbor
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -1080,7 +1081,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -1178,7 +1179,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -1218,7 +1219,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
