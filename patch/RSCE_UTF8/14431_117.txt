@@ -4,8 +4,8 @@ It's sealed by a strange power.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Back to Darilsheid
-Go outside
+<TAG_007>Return to Darilsheid
+Go Outside
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -28,16 +28,15 @@ No
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Is this Oberon's factory?
+This is Oberon's factory?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>... are you sure we're
-in the right place?
+<Lion>... could he really be inside?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Anyway, let's check it out.
+Let's head inside and check it out.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
