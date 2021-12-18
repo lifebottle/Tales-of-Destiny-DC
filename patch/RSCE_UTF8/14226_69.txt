@@ -146,7 +146,7 @@ The Canvas has been unlocked.
 notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your 
+On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
 notice
@@ -157,7 +157,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -235,13 +235,13 @@ Chatty Old Man. Nice to meet you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The...Chatty Old Man...?
+The... Chatty Old Man...?
 Well, it's nice to meet you.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
 Hmmm. Contact with people is a
-once in a lifetime opportunity. 
+once in a lifetime opportunity.
 Treasure it.
 
 [ENDBLOCK]
@@ -307,7 +307,7 @@ the weird naked guy?
 [ENDBLOCK]
 Lightly Clothed Tourist
 [ENDBLOCK]
-Yo, handsome~!
+Yo, handsome!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -315,12 +315,12 @@ Are you talking to me...?
 [ENDBLOCK]
 Dressed Tourist
 [ENDBLOCK]
-Oh yeah~! You're so hot
+Oh yeah! You're so hot!
 [ENDBLOCK]
 Lightly Clothed Tourist
 [ENDBLOCK]
-Sayy~ We should all go to
-the hot spring together~
+Say, I know! We should all go to
+the hot spring together!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -337,11 +337,12 @@ kinda cute. You can come too.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-A-And..what about me?
+A-And...
+what about me?
 [ENDBLOCK]
 Rich Tourist
 [ENDBLOCK]
-Nah, you're fine.
+You can bring us our towels.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -354,7 +355,7 @@ clue who you're talking to!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-How disrespectful...
+You're so disrespectful!
 [ENDBLOCK]
 Lightly Clothed Tourist
 [ENDBLOCK]
@@ -373,7 +374,7 @@ take your big brother away.
 [ENDBLOCK]
 Lightly Clothed Tourist
 [ENDBLOCK]
-I can understand that. I, too-
+I can understand that. Why, I also-
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -399,7 +400,7 @@ Be...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-..trothed...?
+...trothed...?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -430,12 +431,12 @@ ogling those girls like that...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-T-That's..!
+T-That's...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 But... you looked pretty
-angry there, <Kongman>.
+angry back there, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -453,8 +454,8 @@ how you speak your mind.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-However, begging and telling lies
-isn't good. Understand, <Chelsea>?
+However, you know that telling lies
+isn't good, right, <Chelsea>?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -471,7 +472,7 @@ Ehehe..
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>Welcome to Frostheim Hot Springs, 
+<TAG_005><center>Welcome to Frostheim Hot Springs,
 designated by the Phandarian Tourism Bureau.
 [ENDBLOCK]
 Reception Desk
@@ -516,11 +517,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -535,7 +536,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xF8><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -672,15 +673,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -697,8 +698,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -711,15 +712,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -741,21 +742,22 @@ notice
 <Johnny>
 [ENDBLOCK]
 Ahh... A hot spring in the middle
-of the snow is quite elegant.
+of the snow... How poetic.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yeahh~ this is a warrior's rest.
+You got that right!
+This is how warriors relax!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Aah... It's good to rest
-every now and then...
+Aah... Indeed, it's good
+to take a rest now and then.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Think <Rutee> and the others
-are enjoying this too?
+are enjoying this, too?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -764,40 +766,42 @@ Just what do you eat to get like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Despite it all,
-you're so flexible...
+You're so flexible, too...
+C'mon, what's your secret?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I... guess it's just in my blood.
+I... guess it's
+just in my blood.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hmph, I'm jealous...At least I've got
-<Chelsea> beat, as expected, eh~?
+I'm so jealous! Oh well, at least
+I got <Chelsea> beat.
+No surprise there though, eh?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Wh-What are you saying!?
+Wh-What??
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I'm still growing you know!
-Come on, Miss <Rutee>...
+Don't tease me, Miss <Rutee>!
+You know I'm still growing!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Teehee, I bet you wouldn't be saying
-that if you were 14 too~, hehe.
+Besides, I bet you wouldn't be saying
+that if you were 14 too, Hehe~!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh you~!
+Oh, you~!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 Hey, <Philia>, where do
-you think you're going!
+you think you're going!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -809,7 +813,8 @@ N-No, please, stooop!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Ughh! I can't take it anymore!
+Ughh! I can't
+take it anymore!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -831,11 +836,13 @@ front of them! That's why, right!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Uhm...I guess...?
+Uhm...
+I guess...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-You're also a man, right?
+C'mon, you're
+a man too, right?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -844,7 +851,7 @@ mountain together!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay??
+Okay...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -858,11 +865,12 @@ Come on, it'll be fine!
 <Kongman>
 [ENDBLOCK]
 Even if we get separated,
-we'll regroup!
+we'll surely meet again at the top!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Now let's aim for the summit!
+Now let's aim
+for the summit!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -880,7 +888,7 @@ Whuh?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oooops, sorry...
+Oooops, Sorrry~!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -889,7 +897,7 @@ hand and right through that crack~!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-GYAAAAAAAAAAA
+GYAAAAAAAA!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -921,14 +929,14 @@ I-I won't, I promise!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-No need to say anything. 
-(When it comes to me, with you
-being lightly dressed..hehehe!)
+You don't need to tell us!
+We'll already know
+you're in the bath, so... hehehe...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 Wh-What!? What's with
-that creepy look...
+that creepy look...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -955,16 +963,17 @@ Very well, let's go.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Haah...This feels incredible.
+Haah... This feels incredible.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Whew~..it's so good
-for the skin, too.
+Whew~! It's so good
+for the skin, too!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Mmhm, this is a nice hot bath~
+Mhm, it's good
+for my tired bones, too!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -974,7 +983,7 @@ like an old man, hehe.
 <Chelsea>
 [ENDBLOCK]
 I don't dare show this
-side to King <Woodrow>.
+side to King <Woodrow>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -982,8 +991,8 @@ Gyah! C-Cold!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gaahahaha! Whaddaya think?
-That was my patented SuperSnowball!
+Gaahahaha! Whaddaya think
+of my Mighty Snowball??
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1003,7 +1012,7 @@ nothin' but children...
 <Chelsea>
 [ENDBLOCK]
 King <Woodrow>'s also
-havin' fun. It's so cute~!
+havin' fun. It's so cute!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1057,20 +1066,21 @@ Perhaps I should invite
 <Woodrow>
 [ENDBLOCK]
 What's wrong?
-Why is everyone staring at me like that?
+Why is everyone staring
+at me like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You look like <Kongman>
-before we went into the bath...
+It's that same look <Kongman>
+was giving before going in...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ah, n-nope nothing!
+Ah, n-nope, it's nothing!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's nothing at all.
+It's nothing at all!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

@@ -25,36 +25,36 @@ Ahh!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-		!?		
+		!?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>I'm not related to the royal family.
+<TAG_007>I'm not connected to the royal family.
 Is something wrong, boy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Eh? Is that so?
+Eh? Really?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yes, that is so.
+Yes, really.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Oh. I thought you were
-<Woodrow> for sure.
+Huh - I would have sworn
+you were definitely <Woodrow>.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-But you should be more careful.
-You look just like this bad guy
-called <Woodrow>.
+Any way, watch yourself. You look
+alot like him. People may do crazy
+things if they think you're <Woodrow>.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Aren't you King Isaac's
-son <Woodrow>?
+Are you...<Woodrow>?
+King Isaac's son?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -66,11 +66,12 @@ Eh? Really?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yes.
+Really.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Eh, but why aren't you hiding it?
+You aren't worried about people
+finding out who you are?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -79,17 +80,17 @@ evade the question...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I don't want to lie.
-That's simply it.
+It does no good to lie to others.
+That's all, really.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Umm, <Woodrow> seems a lot
-cooler than I thought he'd be.
+Wow, you are so much cooler than
+I thought you would be, <Woodrow>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Eh, aren't you...?
+Eh, it can't be...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -97,8 +98,8 @@ Who, me?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007> I think I remember you, but...
-I'm sorry. I don't remember you.
+<TAG_007> You seem familiar...
+I'm sorry. I don't know who you are.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -115,16 +116,16 @@ Hahaha. Don't worry about it.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Is that so...?
+Are you sure...?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Well, I used to be a mercenary you see.
+I was just a simple mercany, you see.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-And I remember seeing you once in
-this town when I still working.
+I was working a job here a while back
+and remember seeing your around.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -133,8 +134,8 @@ even if it's only my face.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-When I came back to this town, I
-wondered if I would see you again.
+You haven't been back for sometime.
+I was about to give up seeing you again.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -142,17 +143,19 @@ Is that so.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Well, in any case.
+It doesn't matter now.
+It's a good day to be alive.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
 If a beauty like you were to die,
-I would be deprived of some
-viewing pleasure.
+there wouldn't be much to look
+forward to in life.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-How unfortunate. I kinda feel dejected.
+In such a case, I would want
+you to take me with you.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -164,48 +167,52 @@ No, no, don't worry about it.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-We can still live in this world.
+We should be able to survive
+in the world as it is.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Thanks to the King of Phandaria.
+It's all thanks to the leadership
+of the King of Phandaria.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 We can still live in this
-world, thanks to the King.
+world thanks to the King.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-They used to hate him so much...
-It's so strange.
+How strange...
+I thought people hated the king.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Right, <Woodrow>.
+Right, <Woodrow>?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 King <Woodrow>!
-I-I was rude.
+Wh-where are my manners...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-No. Those words were from your heart,
-it makes me happy to hear them.
+Your words came from your heart.
+I'm glad you shared them with me.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-But it is also thanks to
-<Mary> and <Dalis>.
+However, I alone cannot take all
+the credit. We need to give thanks
+to <Mary> and <Dalis>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It also makes me happy to hear that.
+I'm so happy to hear that.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-So, <Mary>, are you going to see <Dalis>?
+Speaking of <Dalis>,
+are you going to see him <Mary>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -221,12 +228,12 @@ Go ahead.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Captain <Dalis> is the hero of Cyril.
-He spent 2 years in a cell and survived.
+Captain <Dalis> is amazing. Even two
+years in a cell couldn't take him out.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-It would be good if he got better quickly.
+I hope that he gets better soon.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -238,41 +245,44 @@ Belcrant...?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-It's been very cold lately.
-I wonder if it's because the sky is dark.
+Recently it's been getting colder
+and colder. I wonder if it's 
+because the sky is totally black.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Those craters were opened using
-a secret Lens weapon right?
+It was the secret lens weapon that
+blasted holes through that thing
+covering the sky, right?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-GO! GO! GO!
-King <Woodrow>!
+Go, King <Woodrow>, go!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-GO! GO! GO!
-
+You got this!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-I'm very glad Captain <Dalis> is still alive.
+I'm so glad Captain <Dalis>
+is still with us.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Captain <Dalis> was originally a moderate.
-He never liked conflict.
+Captain <Dalis> was always a kind
+and gentle man, not the kind of
+person who liked conflict.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Amid all the violence 2 years ago,
-someone had to be chosen to lead us.
+Amid the turmoil two years ago,
+he carried the burden of becoming
+a leader to his people.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-We are all sick and tired of war.
+Now, I think everyone is sick of war.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -281,22 +291,8 @@ entire country will be smothered by ice.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-We only have to hand over our lens
-right? We can keep our food?
-[ENDBLOCK]
-Old Woman
-[ENDBLOCK]
-<Mary>? So you were fine after all!
-[ENDBLOCK]
-Old Woman
-[ENDBLOCK]
-I've never seen you people before.
-[ENDBLOCK]
-Old Woman
-[ENDBLOCK]
-If I were <Mary> I'd be going to a hot
-spring in Frostheim with Captain <Dalis>
-right about now.
+You are only gathering lens?
+What about food?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -308,54 +304,66 @@ I've never seen you people before.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-<Mary>, you were separated from
-your husband once again.
+If I were <Mary>, I'd be with Captain
+<Dalis> at a hot spring in Frostheim.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-<Mary> was separated from her
-husband once again.
+<Mary>? You're still alive!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-But they have a strong bond,
-so it will be fine.
+I've never seen you people before.
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+<Mary> and her husband are
+not able to be together...
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+<Mary> and her husband are
+not able to be together...
+[ENDBLOCK]
+Old Woman
+[ENDBLOCK]
+With such a strong bond,
+I'm sure they will be alright.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
 I wonder when the day will come
-when we will be able to live in peace.
+where we will have peace mind.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
 If that Belcrant were to attack our
-town directly... that's dreadful...
+town directly... it'd be devestating.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-I wonder if this punishment is
-due to the sins of our life.
+I wonder if this is punishment
+for our sinful existance.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-<Mary> went through so much and fought
-so hard, I don't think we have a right
-to complain.
+If <Mary> was able to persevere,
+we should be able to do the same.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-There are lens in in Heidelberg.
-You should go get them.
+There's plenty of lens in Heidelberg.
+Go on, now. Collect it.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-There are lens in in Heidelberg.
-You should go get them.
+There's plenty of lens in Heidelberg.
+Go on, now. Collect it.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-<Mary> was able to come back alive.
-You too have this duty.
+It is your duty to ensure that
+<Mary> makes it back alive.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -363,24 +371,23 @@ You come back alive, you hear me?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-If it wasn't for Lord <Greybum> on
-our side, it wouldn't have worked
-out this way.
+Lord <Greybum> is the reason
+we are where we are today.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-<Greybum> used us to take
-control of this country.
+<Greybum> only used us in order
+to subhect the entire country.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-We were finally able to reconcile with
-the royal family, but what happens now?
+Now that we have reconciled with
+the royal family...what happens next?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-No matter how much snow you shovel,
-it won't matter if the city is destroyed...
+What's the point in shoveling snow
+if the city is going to be destroyed...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -395,11 +402,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -414,7 +421,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -551,15 +558,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -576,8 +583,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -590,15 +597,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

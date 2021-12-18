@@ -18,36 +18,34 @@ Terazzi. Before that, it was his father...
 [ENDBLOCK]
 I'm glad that the Moreau territory
 has been liberated. Now you just
-have to figure out what to do with
-the Terazzi territory.
+have to figure out how to free
+Terazzi as well.
 [ENDBLOCK]
-It's too late to say, but your father
-was tricked by <Tiberius>.
+It's a little late to say this, but
+your father was tricked by <Tiberius>.
 [ENDBLOCK]
 I can't say this out loud, but when
-that guy died, my stomach dropped.
+he died, I felt my stomach drop.
 [ENDBLOCK]
-There is a widespread rumor
-that Seinegald is to blame for
-this incident.
+It's widely believed that Seinegald
+is to blame for this incident.
 [ENDBLOCK]
-I didn't expect this to happen
-just when we were showing
-signs of friendship...
+I didn't expect something like this
+to happen right as the countries
+started getting along...
 [ENDBLOCK]
-Don't bother your fellow foreigners
-The Shiden family's shame will be
-transmitted to foreign countries.
+Be on your best behavior during your
+travels, <Johnny>. We don't need
+you causing an international incident.
 [ENDBLOCK]
 Everyone, please take care
-of <Johnny>. No need to spoil him.
+of <Johnny>. ...But don't spoil him.
 [ENDBLOCK]
-<Johnny>, please take
-care of the world.
+<Johnny>, please save the world.
 [ENDBLOCK]
-<Johnny> is my youngest brother,
-and I still think he's cute.
-
+<Johnny> may be the youngest
+of my brothers, but he has a
+unique charm all his own.
 [ENDBLOCK]
 Everyone, please take
 care of my brother.
@@ -61,11 +59,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -80,7 +78,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -217,15 +215,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -242,8 +240,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -256,15 +254,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

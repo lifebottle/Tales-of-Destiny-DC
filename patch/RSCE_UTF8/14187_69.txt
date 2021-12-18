@@ -80,8 +80,8 @@ No problem. My name's <Johnny>.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Really... That's the same name
-as Shiden's profligate son.
+Really...? That's the same name
+as Shiden's youngest prince.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -91,7 +91,7 @@ Anyway, what do you want?
 [ENDBLOCK]
 I'm looking for something.
 Have you ever acquired an
-instrument from Moreau.
+instrument from Moreau?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -144,12 +144,12 @@ If you say so.
 [ENDBLOCK]
 <TAG_005>Martial law has been
 declared. All residents must obey
-instructions for military personnel.
+orders from military personnel.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
 Well, it's quite rare to have a
-customer from another country
+customer from another country.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -187,8 +187,8 @@ the disgrace brought to their lands...
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-It's terrible, but thanks to this
-whole mess the people of Moreau
+It's terrible. Thanks to this
+whole mess, the people of Moreau
 are blinded by anger.
 [ENDBLOCK]
 Ferryman
@@ -221,7 +221,7 @@ Now it's full of holes～♪
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-If the sky is gobbled up
+If the sky is gobbled up,
 what will happen to the sun?
 [ENDBLOCK]
 Girl
@@ -235,7 +235,7 @@ Good luck!
 Old Man
 [ENDBLOCK]
 I heard that the new lord of Moreau
-and the young lord of Shiden fought
+and the youngest prince of Shiden fought
 together to defeat His Majesty.
 [ENDBLOCK]
 Old Man
@@ -247,7 +247,7 @@ Old Man
 [ENDBLOCK]
 A war between mankind and those
 in the heavens? We have no desire
-to fight in such a war.
+to fight such a war.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -294,8 +294,8 @@ of showing concern for his country.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-But Moreau's conquest was too far.
-He's lost the hearts of the people.
+But conquering Moreau went too far.
+He lost the hearts of the people.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -309,13 +309,13 @@ What's the meaning of this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Completely blocking out the sky.
+The sky has been covered entirely.
 How can anyone be capable of this?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If it's man made then is stands to
-reason that we cant also destroy it.
+If it's man-made then it stands to
+reason that we can also destroy it.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -323,7 +323,7 @@ Welcome!
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-I can't give you a discount but I can
+I can't give you a discount, but I can
 give you great service with a smile!
 [ENDBLOCK]
 Armor Shop
@@ -338,11 +338,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x14><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x14><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -357,7 +357,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x14><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x14><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -494,15 +494,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -519,8 +519,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -533,15 +533,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
