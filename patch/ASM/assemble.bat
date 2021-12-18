@@ -1,0 +1,1 @@
+"armips.exe" "DESTINYDC.asm"
