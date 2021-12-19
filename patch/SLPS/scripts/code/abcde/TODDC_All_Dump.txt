@@ -2944,7 +2944,7 @@ Create shockwaves by shooting an arrow.[LINE]
 
 //Text $19F978
 #WRITE(ptr,$1838D0)
-A tackle followed by an upward slice,[LINE]
+A tackle followed by an upward slice.[LINE]
 Axes have the strike attribute.[END]
 
 
@@ -8527,7 +8527,7 @@ Armeida[END]
 
 //Text $1A6EC0
 #WRITE(ptr,$18A0B0)
-A village in the southern region of[LINE]
+A village in the northern region of[LINE]
 Seinegald. Pilgrims of Straylize Temple[LINE]
 stop by to rest and relax.[END]
 
