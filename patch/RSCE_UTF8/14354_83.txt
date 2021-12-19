@@ -10,90 +10,93 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Your Majesty, the report on the
-damage caused by the recent
-<Greybum> Rebellion is here.
+Your Majesty, here is the
+report on the damage caused
+by the <Greybum> Rebellion.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yes, I'll look it over
-as soon as I can.
+Thank you. I'll look
+over it once I am able.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Your Majesty, I've prepared the documents
-for the queen candidates, please be sure
-to read through them!
+Your Majesty! I've prepared a list
+of potential queen candidates.
+Please be sure to read through them!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 I'm not sure I want to...
-but I'll take a look.
+I mean, I'll be sure to.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, the draft of
-the military budget for this
-year has been finalized.
+My liege! The military budget
+for this year has been drafted,
+and is awaiting your approval!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Understood.
+Very well.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, I have submitted
-a proposal for the reserves of
-the castle and I hope you will
-take a look at it.
+Your Highness, I have submitted
+a proposal regarding the castle
+reserves. I hope you will consider it!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Thank you. I'll keep that in mind.
+Thank you.
+I'll keep that in mind.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I drew everyone
-and His Majesty!
+King <Woodrow>!
+I drew a picture
+of you and your friends!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Wow! I'll definitely look at it.
+Really?
+I can't wait to see it.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-As you know, his father, Isaac,
-passed away during the recent
-<Greybum> Rebellion.
+You already know his father,
+King Isaac, passed away
+during the <Greybum> Rebellion.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And his mother passed
-away before that...
+And before that, his
+mother succumbed to illness...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-His Majesty was very young when he
-lost his mother, and he spent many
-days holed up in his room.
+King <Woodrow> was very young
+when that happened. He locked
+himself in his room, refusing to leave.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And after three days
-and three nights...
+After three straight
+days and nights...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-King Isaac dragged His Highness
-out of the room by force.
+His father forced the door
+open and dragged him out.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That mild-mannered Lord Isaac?
+Mild-mannered King Isaac did that?!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Yes, and he scolded him severely.
+He certainly did.
+He scolded him harshly, too.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -112,12 +115,13 @@ nation will never prosper.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Tough life...
+That sounds
+really tough...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Kingship means existing between
-a country and its people.
+Being a king means being
+between a country and it's people!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -127,28 +131,32 @@ and hold back his grief.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-For the country, he had to
-escape without looking back.
+He knew he had to escape,
+that it was his duty
+to Phandaria to survive.
 [ENDBLOCK]
 サブシナリオチェック:<x17><x72><x40><x20><x80>
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Your Majesty, what is it?
+What is it, my liege?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It looks like I have work to do.
+Well, it seems
+I've got a lot
+of work to do.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-You should have leave
-such matters to me.
+Such matters are beneath you.
+I'd be happy to handle them.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-No, I've been asked to do it.
+That won't do.
+They asked me personally for help.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -161,8 +169,8 @@ Okay!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I understand,
-Do your best!
+Gotcha.
+Go get 'em!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -175,8 +183,7 @@ What is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What happened to your
-family, <Woodrow>?
+What happened to <Woodrow>'s family?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -186,7 +193,7 @@ like you're back.
 <Woodrow>
 [ENDBLOCK]
 Sorry to keep you
-waiting. Now, let's go.
+waiting. Let's go.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -195,40 +202,43 @@ playing in the castle again!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Chelsea>, I'll give you
-that candy you wanted.
+Oh hi, <Chelsea>!
+D'ya want some candy?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-<Chelsea>You're going away...?
-
+<Chelsea>, you're
+going away? Aww!!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I heard that when the shell is
-completed, it will be completely
-dark even in the daytime.
+I heard when that shell
+up there gets completed,
+it'll be dark even at daytime!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What will happen now?
+The shell's been completed!
+What's gonna happen now!?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I heard that it collects the energy
-of the lens to destroy the shell.
+I heard you're gonna use the
+energy of lens to destroy the shell!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hey! Good luck!
+Oh, King <Woodrow>!
+Good luck, Your Majesty!!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I-Impossible!
+P-Please don't
+overdo it!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come back for sure!
+Come back safe!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
