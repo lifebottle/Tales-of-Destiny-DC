@@ -8,13 +8,13 @@
 RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-Light the flame.
+You lit the torch.
 [ENDBLOCK]
-Extinguished the flame.
+You put out the fire.
 [ENDBLOCK]
-You were able to pass.
+You are now able to pass.
 [ENDBLOCK]
-You couldn't get through.
+You're not able to get through.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
