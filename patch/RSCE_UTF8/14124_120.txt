@@ -30,19 +30,19 @@
 
 [ENDBLOCK]
 最大角度<x1D><x76><x40><x30><x80>
- 
+
 [ENDBLOCK]
 最少角度<x1D><x76><x40><x34><x80>
- 
+
 [ENDBLOCK]
 最大角度============<x1D><x76><x40><x30><x80>
- 
+
 [ENDBLOCK]
 角度================<x1D><x76><x40><x18><x80>
 
 [ENDBLOCK]
 最少角度============<x1D><x76><x40><x34><x80>
- 
+
 [ENDBLOCK]
 <TAG_076>
 
@@ -62,10 +62,10 @@
 限界<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 限界<D_FOG_COLOR_B>
@@ -77,10 +77,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 限界<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 Plaza
@@ -390,7 +390,7 @@ Is this person from Moreau?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-No... from Terazzi, I 
+No... from Terazzi, I
 believe. I think he said
 he was here on business.
 [ENDBLOCK]
@@ -506,7 +506,7 @@ soldier was attacked in Moreau.
 Soldier
 [ENDBLOCK]
 Actually, this is just one of
-many similar incidents, lately.
+many similar, recent incidents.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -581,12 +581,12 @@ Soldier
 [ENDBLOCK]
 It was a while back, but I saw
 a young girl making a fuss
-at the fish market at the harbor.
+at the harbor fish market.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 I was kind of curious,
-but I came right back to this Inn.
+but I came right back to this inn.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -610,7 +610,7 @@ No
 Soldier
 [ENDBLOCK]
 Then please head inside
-and explain your 
+and explain your
 findings to Lord <Fayte>.
 [ENDBLOCK]
 Soldier
@@ -653,7 +653,7 @@ tells me she's expecting a baby.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>We are looking for input 
+<TAG_005>We are looking for input
 from you to help make
 Aquaveil a better country.
 							Fayte Moreau
@@ -662,7 +662,7 @@ Aquaveil a better country.
 [ENDBLOCK]
 <TAG_005>In order for everyone
 to live safely, if you see something
-suspicious, say something. You will 
+suspicious, say something. You will
 receive monetary compensation.
 					Moreau Military PR
 [ENDBLOCK]
@@ -713,8 +713,8 @@ Oops! Did I say that out loud?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-This city is known for its water 
-transportation, so we use small 
+This city is known for its water
+transportation, so we use small
 boats to get around.
 [ENDBLOCK]
 Ferryman
@@ -730,14 +730,14 @@ Our world must be ending!
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-Is that the young lord of
-Shiden with the reputation
-of being a loner?
+Is that the youngest prince of
+Shiden? The one who's known
+for being a drifter?
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-What are you planning?
-It doesn't matter.
+I hope you've cooked up
+a decent plan. Regardless...
 We're counting on you.
 [ENDBLOCK]
 Old Man
@@ -761,8 +761,8 @@ you worried about?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-Our clown won't do anything
-rash or unreasonable!
+The Clown Prince knows
+exactly what he's doing.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -792,8 +792,8 @@ to come up with something.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Johnny>, don't worry about 
-Aquaveil. Just do what 
+<Johnny>, don't worry about
+Aquaveil. Just do what
 you have to do.
 [ENDBLOCK]
 <Rihanna>
@@ -848,7 +848,7 @@ Armor Shop
 [ENDBLOCK]
 Some foreigner showed up
 out of nowhere and
-suddenly became our magistrate.
+became our magistrate.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
@@ -875,7 +875,7 @@ many ships lately.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Moreau's Black Cross Armada is the
+Moreau's Black Cross Fleet is the
 strongest in the world!
 Even Sienegald's navy is no match!
 [ENDBLOCK]
@@ -883,11 +883,11 @@ Boy
 [ENDBLOCK]
 There are bad guys in the sky.
 I guess even the Black Cross
-Armada can't get up there...
+Fleet can't get up there...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-If only I could fly.
+If only I could fly...
 I'd take those bad guys out!
 [ENDBLOCK]
 Boy
@@ -925,9 +925,9 @@ Hmph. It's the least he deserved.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Just when I thought things
-were getting peaceful.
-What's going on now?
+Just when I thought peace
+had been restored...
+What will happen now?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -963,14 +963,14 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
+by setting [Definite Strike] to
 "ON" from the Customize menu
 in the Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-You can also view each monster's 
+You can also view each monster's
 Definite Strike in the Monster Book
 if Definite Strike is "ON".
 
@@ -1005,11 +1005,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1024,7 +1024,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x44><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -1161,15 +1161,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -1186,8 +1186,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -1200,15 +1200,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -1230,7 +1230,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -1260,7 +1260,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -1358,7 +1358,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -1392,13 +1392,13 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to
-ask  you to pay all the money
+ask you to pay all the money
 you have as an annoyance fee.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -1598,7 +1598,7 @@ the queen of Moreau, right?
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-That's right, but being queen is 
+That's right, but being queen is
 a lot different from what
 you imagine, <Chelsea>.
 [ENDBLOCK]
@@ -1622,7 +1622,7 @@ live short lives...
 <Rihanna>
 [ENDBLOCK]
 It feels like everything is
-alright with the world. 
+alright with the world.
 I hope nobody ruins this peace.
 [ENDBLOCK]
 <Mary>
@@ -1719,12 +1719,12 @@ understand my suffering!" he said.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That was kind of harsh, huh...
+That was kind of harsh, huh...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Fayte> also had
-a hard time, didn't he...
+a hard time, didn't he...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1733,8 +1733,8 @@ how much <Fayte> was suffering.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But... even though he wouldn't
-say it, he was hurting just as much.
+But... even though he was hurting
+just as much, he wouldn't admit it.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1780,6 +1780,6 @@ That's a kinda sad way to put it.
 <Rihanna>
 [ENDBLOCK]
 It feels like everything is
-alright with the world. 
+alright with the world.
 I hope nobody ruins this peace.<x00>
 [ENDBLOCK]

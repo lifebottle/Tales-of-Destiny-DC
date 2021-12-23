@@ -369,19 +369,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 
 [ENDBLOCK]
 最大角度<x1D><x76><x40><x30><x80>
- 
+
 [ENDBLOCK]
 最少角度<x1D><x76><x40><x34><x80>
- 
+
 [ENDBLOCK]
 最大角度============<x1D><x76><x40><x30><x80>
- 
+
 [ENDBLOCK]
 角度================<x1D><x76><x40><x18><x80>
 
 [ENDBLOCK]
 最少角度============<x1D><x76><x40><x34><x80>
- 
+
 [ENDBLOCK]
 <TAG_076>
 
@@ -401,10 +401,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 限界<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 限界<D_FOG_COLOR_B>
@@ -416,10 +416,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 限界<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 ××××××空開始××××××
@@ -543,7 +543,7 @@ soldier was attacked in Moreau.
 Soldier
 [ENDBLOCK]
 Actually, this is just one of
-many similar incidents, lately.
+many similar, recent incidents.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -618,12 +618,12 @@ Soldier
 [ENDBLOCK]
 It was a while back, but I saw
 a young girl making a fuss
-at the fish market at the harbor.
+at the harbor fish market.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 I was kind of curious,
-but I came right back to this Inn.
+but I came right back to this inn.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -647,7 +647,7 @@ No
 Soldier
 [ENDBLOCK]
 Then please head inside
-and explain your 
+and explain your
 findings to Lord <Fayte>.
 [ENDBLOCK]
 Soldier
@@ -671,7 +671,7 @@ though, so I can't go home.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
-Lord <Johnny>? What 
+Lord <Johnny>? What
 are you doing here!?
 [ENDBLOCK]
 Meat Merchant
@@ -731,7 +731,7 @@ though, so I can't go home.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
-Young Prince...What
+Young Prince... What
 should we do?
 [ENDBLOCK]
 Meat Merchant
@@ -864,7 +864,7 @@ I'll never forgive them...
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-I have always viewed 
+I have always viewed
 Seinegald as our enemy.
 [ENDBLOCK]
 Fruit Merchant
@@ -876,7 +876,7 @@ That's reasonable, right?
 Fruit Merchant
 [ENDBLOCK]
 I heard that the head of
-a huge company in Seinegald 
+a huge company in Seinegald
 had something to do with this.
 [ENDBLOCK]
 Fruit Merchant
@@ -905,7 +905,7 @@ I'll never forgive them...
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-I have always viewed 
+I have always viewed
 Seinegald as our enemy.
 [ENDBLOCK]
 Fruit Merchant
@@ -917,7 +917,7 @@ That's reasonable, right?
 Fruit Merchant
 [ENDBLOCK]
 I heard that the head of
-a huge company in Seinegald 
+a huge company in Seinegald
 had something to do with this.
 [ENDBLOCK]
 Fruit Merchant
@@ -984,12 +984,12 @@ during one of your shows!
 Kid
 [ENDBLOCK]
 I know you!
-You're the youngest lord of Shiden!
+You're the youngest prince of Shiden!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
 They say the real fluttery looking
-guy's the youngest lord of Shiden!
+guy's the youngest prince of Shiden!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -997,7 +997,7 @@ Hooray for Lord <Fayte>!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-What's that thing 
+What's that thing
 floating in the sky?
 [ENDBLOCK]
 Kid
@@ -1062,7 +1062,7 @@ What are we gonna do?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-I'll turn the monsters back myself
+I'll drive the monsters back myself
 if I have to! Don't underestimate
 the guts of a Moreau man!
 [ENDBLOCK]
@@ -1089,7 +1089,7 @@ What are we gonna do?
 [ENDBLOCK]
 Fish Seller
 [ENDBLOCK]
-I'll turn the monsters back myself
+I'll drive the monsters back myself
 if I have to! Don't underestimate
 the guts of a Moreau man!
 [ENDBLOCK]
@@ -1160,7 +1160,7 @@ Shiden Local
 [ENDBLOCK]
 Shiden Local
 [ENDBLOCK]
-My lord! I'm glad you're back 
+My lord! I'm glad you're back
 safe and sound!
 [ENDBLOCK]
 Shiden Local
@@ -1175,7 +1175,7 @@ I became a fan at first sight.
 Shiden Local
 [ENDBLOCK]
 I'll observe the situation in Moreau
-and report to the young lord
+and report to the Young Prince
 immediately if anything happens.
 [ENDBLOCK]
 Shiden Local
@@ -1210,7 +1210,7 @@ Your Majesty, if you please.
 <Tiberius>
 [ENDBLOCK]
 People of Moreau, the time
-is upon us! Soon all of 
+is upon us! Soon all of
 Aquaveil shall be united!
 [ENDBLOCK]
 <Tiberius>
@@ -1223,7 +1223,7 @@ desired for so long!
 [ENDBLOCK]
 We will strike down our foe,
 the nation of Seinegald, and
-it's vassal state Fitzgald!
+its vassal state Fitzgald!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1280,11 +1280,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1299,7 +1299,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -1436,15 +1436,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -1461,8 +1461,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -1475,15 +1475,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

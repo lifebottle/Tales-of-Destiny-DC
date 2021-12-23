@@ -101,7 +101,7 @@ It's too far  to jump over. We're going
 to need scaffolding.
 
 [ENDBLOCK]
-If you have a scaffold, 
+If you have a scaffold,
 you can cross it.
 
 [ENDBLOCK]
@@ -125,7 +125,7 @@ I can't jump over it, as expected.
 I'll have to get a foothold somewhere.
 
 [ENDBLOCK]
-There's no way I can jump over 
+There's no way I can jump over
 this thing. What's going on?
 [ENDBLOCK]
 <Leader>
@@ -135,13 +135,13 @@ this thing. What's going on?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-In Rodeon, pressing the switch will 
+In Rodeon, pressing the switch will
 cause a foothold to the warp device.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Use bombs to destroy obstacles and 
+Use bombs to destroy obstacles and
 find switches in various ways.
 
 [ENDBLOCK]
@@ -152,16 +152,16 @@ are located on this level.
 
 [ENDBLOCK]
 Bombs can be kicked farther
-away with <Cross_ani> or moved 
+away with <Cross_ani> or moved
 closer and smaller.
 
 [ENDBLOCK]
-The bombs that start to move will 
+The bombs that start to move will
 turn red over time and finally flicker
 and explode.
 
 [ENDBLOCK]
-Be careful, as you will take 
+Be careful, as you will take
 damage if you are too close.
 
 [ENDBLOCK]
@@ -171,7 +171,7 @@ carrying explodes.
 
 [ENDBLOCK]
 Note, however, that if you
-are on top of the generator, 
+are on top of the generator,
 it will not create a bomb.
 
 [ENDBLOCK]
@@ -205,11 +205,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor> 
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -224,7 +224,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor> 
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -361,15 +361,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -386,8 +386,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -400,15 +400,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

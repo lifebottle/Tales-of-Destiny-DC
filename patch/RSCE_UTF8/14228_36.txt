@@ -1,17 +1,17 @@
 Innkeeper
 [ENDBLOCK]
-You're not staying overnight,
-are you? Well then...
+You're not staying
+the night? Then...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Do you have any info
-about the cats?
+...D-Did you find my kitties??
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-No, we're here to help
-you find your cats.
+Sorry, no, but we are
+here to help you
+look for them.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -19,50 +19,52 @@ Really!?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Thank you.
+Thank you!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-As you can see, I can't
-leave this place.
+As you can see,
+I'm kind of stuck here.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-But I'm so worried about my cats.
+Still, I'm beside myself
+with worry about my poor kitties...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Hmmm. I know exactly how you feel.
+I know exactly
+how you feel.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-But hey, if you don't know
-where they are at all, there's
-no way to find them, right?
+Wait a sec. We don't even
+know where to start looking!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you have any
-other information?
+Do you know
+where they might be?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-As a matter of fact, I do. I have a
-report that a cat that looks like
-that was seen in the Tilso Forest.
+Well, yes, actually. I heard that
+some cats that resembled my babies
+were in Tilso forest a little bit ago!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Then let's hurry to Tilso Forest!
+Then let's hurry
+to Tilso Forest!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-...Quickly...
+...She dashed off...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then we'll head for
-the Tilso Forest, too.
+Let's go to
+Tilso Forest, too.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -71,7 +73,7 @@ I have ten cats in total.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ten of them!!
+Wha-?! TEN?! WHAT!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -79,30 +81,31 @@ Let's go, <Rutee>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Yeah, yeah.
+Fiiiiine....
 [ENDBLOCK]
 s  <x17><x69><x46><x7D><x80>
 
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-I'm sorry. The cat 
-has escaped again.
+Sorry... My kitties seem
+to have run off, again.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Could you please go
-and get him again?
+You think you could go
+after them one more time?
 Yes
 No
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Thank you so much for your help.
+Thank you so
+much for your help!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, those people again...
+Oh, hey, it's them again!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -111,22 +114,22 @@ Money is no object!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-Yes, yes. Once we get the
-country back, the royal family
-will repay everything back!
+Yeah! Once we retake the capital,
+the Royal Family will cover it!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-We can't fight on an empty stomach!
+We can't fight on
+an empty stomach!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-With us, there's no doubt we'll win!
-Because we are the heroes!
+Our victory is assured,
+and that's because...
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-In that case!
+Because...!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -135,68 +138,67 @@ Awesome mercenaries, yeah!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hello, everyone.
-I never thought I'd 
-see you in Phandaria.
+Hey guys! Never thought
+I'd run into you
+here in Phandaria!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-Hmm. I used to be in
-Aquaveil, but we hitched
-a ride and came here.
+Heh, yeah. We were in Aquaveil
+a bit ago, but we managed to 
+sneak a ride over here.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-I'm going to take advantage
-of the commotion in this country
-and raise a flag this time.
+The chaos going on in
+this country's a prime
+opportunity for some quick gald!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I can't believe they'll take
-advantage of the commotion.
-That's awful.
+How awful! You'd really
+take advantage of our
+country like that??
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-I need a favor from you guys.
-I need you guys to clear the
-snow off the roof for me.
+Hey, mercenaries.
+I have a job for you.
+My roof is covered
+in snow. Clear it for me.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
 Snow removal?
-Why are we doing this!?
+Why would we bother with that?
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-The rooftops are an important
-base of operations in the event
-there's a battle in the city.
-
+Rooftops are important
+strategic locations in urban warfare.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-It's a given, you must be ready to go
-into action. If you're a good mercenary,
-you already know that, don't you?
+Our victory may depend on this.
+Being seasoned mercenaries, you're
+well aware of this, right?
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-Oh, uh... of course I know that.
-I don't have a choice, I'll do it.
-<John>, <Millie>, let's go.
+I, uh, well, of course I am!
+Heh, looks like it's up to us.
+<John>, <Millie>, let's go!
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-Now I don't have to do the snow
-removal myself. I guess it's all 
-about how you use the commotion.
+Ah, excellent. Now I don't
+have to clear it myself.
+Those mercenaries sure proved useful.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 Grandpa...
-Did you con those people?
+Did you just con those guys?
 [ENDBLOCK]
 <x17><x28><xE5><x06><x14><x2F><x80>, <x17><x28><xE6><x06><x14><x2F><x80>, <x17><x28><xE7><x06><x14><x2F><x80>
 [ENDBLOCK]
@@ -210,101 +212,105 @@ Yes, what can I for you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Actually, there's something
-I'm looking for...
+Well, I'm looking
+for a certain something...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-If that's the case, I've heard it's deep
-in the Tilso Forest to the north.
+I see! Rumor has it what
+you're looking for is deep
+in Tilso Forest to the North.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Is that true!?
+Really?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Thank you. Well then, I'll go to Tilso
-Forest as soon as possible.
+Thank you so much!
+Well, off I go, then!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Excuse me, miss, but are you
-going there alone?
+Excuse me, are you
+really going there alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-What about your companions!?
+What about your friends?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Please keep this a secret from everyone.
+Please keep this a
+secret from everyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I want to do this alone.
+This is something
+I have to do alone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now then, I think I'll head over to that
-Tilso Forest up north that the
-innkeeper mentioned.
+Alrighty, I reckon
+I'm off to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm going to give a big surpise
-to my brother.
+Hehe! Big bro'll
+be so surprised!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-I've heard that it's deep
-within the Tilso Forest.
+What you're looking for
+should be in Tilso Forest.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-But I can't believe you're going alone...
-Please be careful.
+I can't believe you're
+going alone, though...
+Please be careful!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Do you want to give up for today?
+Give up the search for now?
+(Stay at the Inn to try again)
 Yes
 No
 
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now then, I think I'll head over to that
-Tilso Forest up north that the
-innkeeper mentioned.
+Alrighty, I reckon
+I'm off to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm going to give a big surpise
-to my brother.
+Hehe! Big bro'll
+be so surprised!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ah... big bro.
+Ah... Big bro...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oi, <Lilith>. Where have you
-been all by yourself?
+<Lilith>! Where have you
+been all by yourself??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We were worried when you left
-without telling us.
+You left without a word!
+We were so worried!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm sorry.
-I just wanted to get out for a bit.
+Sorry...
+I just wanted to go for a walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on, let's get back with the others.
+Come on, let's go
+back to the others.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -316,56 +322,59 @@ I'm giving this to you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is this... an herb?
+Is this...
+an herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah.
+Yep!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, why?
+But... why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I stumbled upon it while
-I was out walking.
+It's just something
+I came across on my walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then, why don't you use it, <Lilith>?
+Well here, why don't
+you use it, <Lilith>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Jeez!
+Ugh, seriously??
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-My big bro is out fighting
-to save the world.
+You're fighting and risking
+your life, trying to save the world!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-So just use it, alright!
+So no, YOU use it!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right.
-Then I'll be sure to take it.
+Alright, fine!
+I'll take it, then.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Take it? Make sure to use it.
+Don't just take it!
+Make sure you use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-If you don't use it properly,
-then even when you're awake, I'll...
+If you don't, then even
+when you're awake, I'll...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-H-hold up <Lilith>.
-I'll use it! I definitely promise to use it!
+W-wait, <Lilith>!
+I'll use it! I promise! I swear!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -373,16 +382,15 @@ Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-See you later then.
-Thank you, <Lilith>.
+Thanks again, <Lilith>. Seriously.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're welcome.
+You're welcome...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big bro.
+...Big bro.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -397,9 +405,9 @@ global.cat_event   <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-I don't like the idea of
-taking money to do business
-at a time like this, though.
+I don't like the idea
+of taking money
+at a time like this, but...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -440,13 +448,14 @@ Go ahead and take a look.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-You're going to the 
+You're going to the
 forest by yourself?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-If things get dangerous, you
-need to get out of there.
+Remember, there's no shame
+in running if you end
+up in serious danger.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -455,29 +464,31 @@ capital and killed the <King>.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-The new king is apparently working
-tirelessly to restore the country.
+Apparently, the new
+king's workin' his butt off
+to fix things around here.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-It's hard to tell with all the snow, but
-does the sky look strange to you?
+It's hard to tell with
+all the snow, but does the
+sky look off to you?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-At this rate, the city will be covered 
+At this rate, the city will be covered
 in ice. Can't we do something about it?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
 With Seinegald's technological
-prowess, I'm sure they can 
+prowess, I'm sure they can
 create an amazing weapon.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-The secret weapon worked,
-didn't it? Good.
+Seinegald's secret
+weapon worked, right? Great!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -487,11 +498,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -506,7 +517,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -643,15 +654,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -668,8 +679,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -682,15 +693,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -6,7 +6,7 @@
 [ENDBLOCK]
 <S03><yellow>Lock-On Count: <x17><x71><x46><xDC><x80>x
 [ENDBLOCK]
-<S06>The rock returned to 
+<S06>The rock returned to
 its starting position.
 [ENDBLOCK]
 notice
@@ -16,7 +16,7 @@ has gone up a tier.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Congratulations! 
+Congratulations!
 You have increased the lens rate on
 this continent to the maximum tier!
 [ENDBLOCK]
@@ -76,7 +76,7 @@ No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Do you want to go 
+<TAG_007>Do you want to go
 to the Outer Shell?
 Yes
 No
@@ -211,7 +211,7 @@ the flagship, I'd bet my belt on it!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: If we waste too much time, they'll be reinforced. 
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: If we waste too much time, they'll be reinforced.
 We want to take the enemy general when he's alone!
 [ENDBLOCK]
 
@@ -225,7 +225,7 @@ Leviathan Tutorial 1
 <Left+Right_blink> or <L1_ani><R1_ani> To steer
 <R_stick_Press> Change angle
 <Cross_ani> Disembark the Leviathan
- 
+
 Approach the beach, point the head
 of the Leviathan in the direction you
 want to disembark and then press <Cross_ani>.

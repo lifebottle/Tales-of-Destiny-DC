@@ -7,28 +7,29 @@
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Now that Captain <Dalis> is back,
+Now that Captain <Dalis> has returned,
 the volunteer army is back in full force.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-If Captain <Dalis> makes peace with
-the royal family, we will simply follow suit.
+If Captain <Dalis> is able to broker
+peace with the royals, we'll follow suit.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Greybum> took advantage of the
-volunteer army when it had lost its leader.
+When the volunteer army lost its leader,
+<Greybum> used that to his advantage.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-This time, our volunteer army will
-do its utmost to protect the people.
+In times like these, the volunteer
+army must do everything they can
+to safeguard our people.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-If it weren't for Captain <Dalis>, the
-city would be in chaos right now.
+Without Captain <Dalis>, the city
+would be in chaos right now.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -75,11 +76,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -94,7 +95,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -231,15 +232,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -256,8 +257,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -270,15 +271,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

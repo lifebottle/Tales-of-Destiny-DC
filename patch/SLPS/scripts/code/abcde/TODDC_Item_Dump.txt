@@ -3247,7 +3247,7 @@ created by dwarven craftsmen.[END]
 //Text $1B1378
 #WRITE(ptr,$18ED20)
 These reinforced knuckles are 30%[LINE]
-more durrable than your bare fists![LINE]
+more durable than your bare fists![LINE]
 [END]
 
 

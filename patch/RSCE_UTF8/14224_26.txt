@@ -1,25 +1,26 @@
 Young Person
 [ENDBLOCK]
-Y-You're..!?
+Wait, aren't you..!?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>What do you want?
-（What a cute guy）
+<TAG_007>What is it?
+（Hey, he's kinda cute!）
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-You're the hurt girl who
-was carried to the Inn...
+You're that injured
+girl I saw being carried to the inn.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-W-Well, that's right...
+Oh, yes, that was me!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Well, you're kind of like my sister,
-so I couldn't think of you as a stranger.
+You reminded me of my sister,
+so I couldn't help
+but worry about you.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -28,17 +29,17 @@ for your concern.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-You're the hurt girl who
-was carried to the Inn..
+You're that injured
+girl I saw being carried to the inn.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-W-Well, that's right...
+Oh, yes, that was me!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
 You're better...
-thank goodness.
+That's a huge relief...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -46,7 +47,7 @@ N-No way...!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-The truth is..I..
+The truth is...I...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -54,30 +55,33 @@ Y-Yes?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Ever since I saw you that day...
+Ever since I
+saw you that day...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Ah, I... I can't... Lord
-<Woodrow> is my...
+A-Ah, no... I couldn't!
+What about Lord <Woodrow>...?
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-No, please don't say that...
+He doesn't
+need to know...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Y-You're such a tease~.
+Oh, please
+don't tease me...!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
 Uh, are you okay?
-You looked a little...out there.
+You spaced out for a moment.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Are you still injured?
-Do you need help?
+Are you still hurt?
+Do you need help??
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -85,13 +89,13 @@ NONONONONONONONO!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I-It's okay!
-I'm just a Cursed Beauty!
+I-I'll be OK!
+My beauty's also a curse, that's all!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-A woman should never come
-to a stranger's house alone.
+Women probably shouldn't go
+into a stranger's house alone...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -100,19 +104,21 @@ the capital has been overrun by rebels.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I was walking through the Tilso forest
-when I suddenly felt sleepy. I'd be
-horrified if I had fallen asleep like that...
+I was walking through
+Tilso forest when I
+suddenly felt sleepy.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-You'd better be careful
-not to fall asleep.
+It would've been bad if
+I had fallen asleep.
+Be careful out there!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Greybum>, the rebel leader, had
-no connection to this country.
+Apparently the rebel's leader,
+<Greybum>, had no
+connection to this country at all...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -122,12 +128,12 @@ increasing... Is it my imagination?
 Young Man
 [ENDBLOCK]
 The sky is gone...
-What an onminous sign.
+Talk about ominous.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-If we are going to do something
-about this, we need all the people
+If we're gonna something
+about this, we'll need everyone
 in the world to work together.
 [ENDBLOCK]
 notice
@@ -138,11 +144,11 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -157,7 +163,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -294,15 +300,15 @@ be able to change the character status.
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
+[Titles] On this screen, press <Triangle_ani>
 and it'll let you pick from all the titles
 you've acquired.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
+<TAG_007>There are two purposes to titles.
+The first is to [Set your title and
 talk to the townspeople].
 [ENDBLOCK]
 notice
@@ -319,8 +325,8 @@ notice
 <TAG_007>Hint: When talking to townspeople, a
 [?] will appear over your character's
 head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+seems to be related to the dialogue,
+and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
@@ -333,15 +339,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
