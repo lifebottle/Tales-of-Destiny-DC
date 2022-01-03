@@ -1,10 +1,10 @@
 notice
 [ENDBLOCK]
-It's locked.
+It's currently locked.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-It's unlocked.
+It's been unlocked.
 [ENDBLOCK]
 Insert
 [ENDBLOCK]
@@ -20,12 +20,12 @@ Lock released.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Recognizing special codes.
-Supplies will be provided.
+Special codes recognized.
+Commencing provision distribution.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-It has already been inputted.
+This input has already been used.
 
 [ENDBLOCK]
 
@@ -45,8 +45,8 @@ from a normal earthquake.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Ah! Master <Lion>,
-look over there!
+Ah! Young Master,
+we have company!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -69,22 +69,22 @@ installed the Eye of Atamoni.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Is this a problem?
+Will this be an issue?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-No. We have already set up
-measures to deal with this.
+No. We have countermeasures in
+place to deal with issues like these.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Regardless, this has
-delayed us considerably.
+It seems these countermeasures
+were too late. We're behind schedule.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I fear this delay will allow
-those after us to catch up...
+Then this delay has afforded
+those after us more time...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -130,7 +130,7 @@ You're such an annoyance.
 <Baruk>
 [ENDBLOCK]
 <Lion>, stop! You're no match
-for Master <Hugo> at all!
+for Master <Hugo>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -158,7 +158,7 @@ to see just how weak you are.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Think about it after this...
+You should remember this well...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
