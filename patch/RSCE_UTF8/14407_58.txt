@@ -529,7 +529,7 @@ notice
 [ENDBLOCK]
 By interacting with the blank canvas
 in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
+you can view the different facial
 expressions of your friends.
 [ENDBLOCK]
 Chatty Old Man
@@ -707,8 +707,7 @@ I see! Thank you!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-//TODO look at this whole exchange
-Ah, what a mess...
+Aah, what do I do...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -716,21 +715,20 @@ What's the matter?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Actually, my cat at home
-is in poor health.
+Well, my poor kitty is sick...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-What am I going to do?
+I don't know what to do!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah...
+I see...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I have some medicine that I'm
-happy to share with you.
+I have some medicine.
+Maybe I could help you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -738,70 +736,72 @@ Really?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, yeah. <Philia>'s medicines
-work wonders!
+Oh, yeah. <Philia>'s
+medicines work wonders!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Then, I must ask for some.
+In that case,
+I'll go get him!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Are you sure...I can have it?
+Are you sure
+this will work?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's all yours!
+Never know until you try!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Well, let's go!
+Alright, here we go!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Woah...hold on!
+Wh-What did you do...!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's fine, I assure you.
+I-It's fine! Don't worry!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Now, let's get...
+I'll just...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-W-Wait!
+Hey!!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's fine, I promise.
+N-No, I can fix this!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Now, let's...
+Alley-oop!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-N...now, just one last bit...
+Oh no...I-I mean,
+now for the final dose!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Oh, thank God.
+Oh, thank you, Atamoni!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I was wondering what was going
-to happen for moment...
+I was worried for a second...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Wha...
+Wha...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm super impressed with your
-medicines, <Philia>.
+Wow, <Philia>!
+Your medicines are incredible!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -809,11 +809,13 @@ It's...really not that impressive...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So, how healthy will the cat be now?
+So, how healthy
+will the cat be, now?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What do you mean by "healthy?"
+What do you
+mean by "healthy?"
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -906,8 +908,8 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A coin is tossed
-into the fountain.
+<TAG_005>You see several coins
+at the bottom of the fountain.
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -918,17 +920,17 @@ No
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-How's it going, <Stahn>?
+Yo, <Stahn>.
 Did you find <Rutee>?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Bah, I wanted to join Lord <Woodrow>
-and look for Miss <Rutee>.
+Bah! How'd I end up with <Kongman>
+and not Lord <Woodrow>??
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You've found me!
+Ah! You've found me!
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -945,7 +947,7 @@ Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-Don't neglect your weapons.
+Don't neglect your weapons!
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -962,25 +964,27 @@ Hey, welcome to my shop.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-Don't neglect your weapons.
+Don't neglect your weapons!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-This fountain is a symbol of our city.
+This fountain is
+a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Oh, they are friends of <Rutee>.
+Oh, it's <Rutee>'s friends!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-This fountain is a symbol of our city.
+This fountain is
+a symbol of our city.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-That thing in the sky seems to be
-more of an aerial fotress
-than an aerial city.
+That thing in the sky
+looks more like
+a castle than a city!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -990,74 +994,74 @@ attacking the city?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Who knows when the monsters will
+Who knows when monsters will
 invade our city again...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Rutee>, you have always been the
-kind of woman who never gives in.
+<Rutee>, you've always been the
+kind of woman who never gives up.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I know that you will take care of it.
-I'm counting on you.
+I know you'll take care of this.
+I know we can count on you.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I beg you. Please don't
-let <Rutee> die.
+I beg you.
+Please keep <Rutee> safe!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
 Chasing my dreams and in search
-of romance, I've come to Cresta.
+of romance, I've come to Cresta!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-What the hell is going on?
-It's making me depressed.
+What the heck's goin' on?
+This is depressing!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-The secret to victory is to
-outsmart your opponent.
+The key to victory is to
+undermine your opponent's confidence!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-Give them a good booing. Boo-boo,
-they are terrified~!
+Give 'em a good booing!
+"Boo! Boo, you stink!"
+That'll throw 'em off guard!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-A house full of children on the
-outskirts of town. I wonder how
-long that will be there.
-
+There's an orphanage on the
+outskirts of town. I don't know
+how much longer it'll be there, though.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-I heard that they were going to
-be evicted because they had
-accumulated a lot of debt.
+Rumor has it they're buried under
+a mountain of debt. It's likely
+they'll be evicted, soon.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-The Seinegald soldier's house?
-Oh right! it's the house right here!
+You're looking for
+a soldier from the capital?
+He lives in that house, right there.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-A house full of children on the
-outskirts of town. I wonder how
-long that will be there.
-
+There's an orphanage on the
+outskirts of town. I don't know
+how much longer it'll be there, though.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-I heard that they were going to
-be evicted because they had
-accumulated a lot of debt.
+Rumor has it they're buried under
+a mountain of debt. It's likely
+they'll be evicted, soon.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -1066,111 +1070,114 @@ hunter? Guess the rumors were true.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-I heard a rumor that the only reason
-you were so hungry for money was
-to pay off your family's debt.
+I heard the reason you were
+so greedy was because you
+wanted to pay off your family's debt.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Looks like <Rutee> has quit
+I heard that <Rutee> quit
 being a lens hunter.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
 This is a global crisis. Seinegald is
-not the only region affected.
+not the only region affected!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Those things in the sky, are they
-trying to wipe us out?
+Do those things in the
+sky want to wipe
+us out or something?!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-The city is ours to defend. We're not
-going to be defeated so easily.
+This is our city!
+We won't let it fall so easily!
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
-Is the secret weapon complete? Is
-it ready to be used?
+Is the secret weapon ready?
+Are they gonna use it soon!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, look, everyone's here.
-Thanks for picking me up!
-What a surprise.
+Woah, everyone's here!
+Shall I make tea? Just kidding!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 Hello <Rutee>, it's been a while.
-So, this is your hometown.
+So, this is your hometown?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well, yeah.
+Something like that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>, why are you here, too?
-Was your husband really okay
-with letting you go?
+<Mary>? You're here, too?
+I'm surprised you left 
+your husband behind like that!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Even though we are far apart,
-our hearts are connected.
+We might be far apart,
+but our hearts are one.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Wow, you've suddenly come out of
-nowhere with your sincerity. I'm no
-match for you.
+Yeesh, laying it on
+a bit thick there...
+Well, that's nice, still.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Woodrow>, <Chelsea>, you
-look like you're doing fine!
+<Woodrow>, <Chelsea>,
+You seem to be doing well!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yeah.
+Indeed.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yes.
+Yep!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, let's head to Darilsheid.
-<Lion> might be back too.
+Alright, let's head
+back to Darilsheid.
+Maybe <Lion>'s come back by now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, you're right.
+Yes, let's go.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Whoa. Didn't you forget
-to say hello to someone?
+Woah hold up!
+Aren't ya forgetting
+to say hi to someone else?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, Kong, you're here?
+Oh. Kong's here too. Neat, I guess.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-(You are the champion.
-You are the champion...)
+I...am the champion...
+I am...the champion...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm kidding, it's just a joke.
+I'm kidding,
+it's just a joke!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 Darilsheid is west of Cresta.
-We'll go around the mountain.
+Let's go around the mountain.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
