@@ -93,40 +93,44 @@ j = <TAG_032>
 箱からNPC作成→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF><x72><x40><x74><x8B><xE8><xD0><xEF><x70><x40><x5C><xAA><x80>
 
 [ENDBLOCK]
-We can't get through. You'll need
-scaffolding to get across.
+We can't reach that. We need to find
+a way to create a bridge across.
 
 [ENDBLOCK]
-It's too far  to jump over. We're going
-to need scaffolding.
+No way we can jump there. We need
+to find something to brdige the gap.
 
 [ENDBLOCK]
-If you have a scaffold,
-you can cross it.
+If only we had a something to
+bridge the gap, we could cross.
 
 [ENDBLOCK]
-It's too far  to jump over. We're going
-to need scaffolding.
-[ENDBLOCK]
-Without scaffolding...
+No way we can jump there. We need
+to find something to brdige the gap.
 
 [ENDBLOCK]
-If there was a scaffold,
-I could cross it.
+Without a way to cross...
 
 [ENDBLOCK]
-You can't get through. You need
-a scaffold to cross.
-[ENDBLOCK]
-It's too far to jump over.
-We're going to need scaffolding.
-[ENDBLOCK]
-I can't jump over it, as expected.
-I'll have to get a foothold somewhere.
+If there was a bridge,
+we could get across.
 
 [ENDBLOCK]
-There's no way I can jump over
-this thing. What's going on?
+We can't reach that. We need to find
+a way to create a bridge across.
+
+[ENDBLOCK]
+No way we can jump there. We need
+to find something to brdige the gap.
+
+[ENDBLOCK]
+It's impossible to jump over this.
+We'll have to find a way across.
+
+[ENDBLOCK]
+There is no way we can make that
+jump. What are we going to do?
+
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -135,44 +139,46 @@ this thing. What's going on?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-In Rodeon, pressing the switch will
-cause a foothold to the warp device.
+There are switches in Rodeon that,
+once pressed, will create paths to
+warp points otherwise inaccessable.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Use bombs to destroy obstacles and
-find switches in various ways.
+Bombs can be used to stun your
+enemies or destroy obsticles
+to open paths to switches.
 
 [ENDBLOCK]
 Rodeon
 [ENDBLOCK]
-Bombs and bomb generators
-are located on this level.
+Bombs are available ontop of
+bomb generators found throughout.
 
 [ENDBLOCK]
-Bombs can be kicked farther
-away with <Cross_ani> or moved
-closer and smaller.
+Bombs can be kicked a far distance
+with <Cross_ani> or the can be moved
+short distances by pushing them.
 
 [ENDBLOCK]
-The bombs that start to move will
-turn red over time and finally flicker
-and explode.
+Once a bomb has been moved, they
+will turn a darker red over time.
+Once flickering, they're about to blow.
 
 [ENDBLOCK]
-Be careful, as you will take
-damage if you are too close.
+Be careful. You will take damage if
+you're too close when they explode.
 
 [ENDBLOCK]
-The bomb generator creates
-a bomb when the bomb you were
-carrying explodes.
+After a bomb explodes,
+the bomb generators will
+create another bomb.
 
 [ENDBLOCK]
-Note, however, that if you
-are on top of the generator,
-it will not create a bomb.
+Watch where you stand. If you're
+standing on a bomb generator
+it will not create another bomb.
 
 [ENDBLOCK]
 
