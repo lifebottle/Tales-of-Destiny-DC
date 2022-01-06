@@ -472,22 +472,22 @@ is slightly frozen.
 notice
 [ENDBLOCK]
 <TAG_007><center><yellow>Emotional Chat System</color>
-(referred to as Chats) is a system
+(referred to as Skits) is a system
 that lets you watch conversations
 between your party members.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>[Button Usage]
-<Select_ani>:Watch a Chat.
-<x06><xED><x00><x00><x00>	<S15><L2_ani>:Select a Chat to watch.
+<Select_ani>:Watch a Skit.
+<x06><xED><x00><x00><x00>	<S15><L2_ani>:Select a Skit to watch.
 [Chat Types]
-<x06><xED><x00><x00><x00>	<S15><N_Skit>:Navigational Chat
-<x06><xED><x00><x00><x00>		<S15>		Destination revealed by party member.
-<x06><xED><x00><x00><x00>	<S15><F_Skit>:Free Chat
+<x06><xED><x00><x00><x00>	<S15><N_Skit>:Navigational Skit
+<x06><xED><x00><x00><x00>		<S15>		Places revealed by a party member.
+<x06><xED><x00><x00><x00>	<S15><F_Skit>:Free Skit
 <x06><xED><x00><x00><x00>		<S15>		Chit-chat among your party members.
-<x06><xED><x00><x00><x00>	<S15><R_Skit>:Rare Chat
-<x06><xED><x00><x00><x00>		<S15>		Triggered once the condition is met.
+<x06><xED><x00><x00><x00>	<S15><R_Skit>:Rare Skit
+<x06><xED><x00><x00><x00>		<S15>		Triggered once a condition is met.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
