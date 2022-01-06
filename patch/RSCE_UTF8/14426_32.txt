@@ -1,13 +1,12 @@
 
 [ENDBLOCK]
-<TAG_005>What looks like a portrait
-of <Rutee> hangs on the wall.
+<TAG_005>You see what looks like
+a portrait of <Rutee> hanging on the wall.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Oh!	That's not...big sis.
-Yuck, yuck, yuck.
-//TODO: get more context here, seems more likely to be crying
+Oh! Where's
+Miss <Rutee>!? Waaah! 
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -25,8 +24,8 @@ we can live here, isn't it?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Miss <Rutee> is my big sister
-and I am very proud of her.
+Miss <Rutee> is my big sister!
+I'm super proud of her!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -40,34 +39,35 @@ We are a family.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-If you bully <Rutee>, I'll get mad.
+If you bully Miss <Rutee>,
+I'll never forgive you!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-We will be fine, so please help
-the rest of the city.
+We'll be fine! Please help
+the rest of the town!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-You've come from the royal capital,
+You've come from the  capital,
 haven't you? Do you have some
 business with this orphanage?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
 Take care of yourself, <Rutee>.
-I'm worried about you since you're
-always so reckless.
+You're always so reckless,
+so I can't help but worry...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I used to manage the finances of
-this house by myself...
+She paid our debt
+entirely by herself...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-...I promised not to mention this,
-didn't I? I'm sorry.
+Ah... I promised I wouldn't
+bring it up. Forgive me.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -76,7 +76,7 @@ Sister
 Sister
 [ENDBLOCK]
 Despite her looks, <Rutee> is still
-a child. Please support her.
+a child. Please take car of her.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -85,7 +85,8 @@ safety with all my heart.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I will pray for your safety from
+I will pray for
+your safety from
 the bottom of my heart.
 [ENDBLOCK]
 notice
@@ -325,29 +326,30 @@ Oh, <Rutee>？
 select
 [ENDBLOCK]
 <TAG_007>What's up?
-（...I didn't say hello, did I...）
+（...I didn't say goodbye to the sister....）
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-Aren't you going shopping
-with your brothers?
+I thought you were
+going shopping with the kids?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I had some business to attend to
-and I couldn't make it.
+I had something I
+needed to do, so I
+couldn't go with them.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Besides, the little ones are so
-energetic that shopping together
-wears me out♪
+Besides, the little ones are
+so energetic that shopping
+together wears me out!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-What are you talking about?
-You're not old enough to talk
-like that.
+What are you saying??
+You're nowhere near
+old enough to talk like that!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -355,75 +357,80 @@ It is what it is♪
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-God, this girl.
+By Atamoni, this girl...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-OMG, this girl.
+By Atamoni, this girl...
 [ENDBLOCK]
 Oh, by the way, I see you had
 some company.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-They were the ones I was telling
-you about. And about that, there is
-something we need to discuss.
+They're the ones I told you about.
+About that. I need to tell you...
 [ENDBLOCK]
 Sister
+[ENDBLOCK]
 ...I already know.
-You're going back, aren't you?
+You're leaving again, right?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-And it is dangerous, right?
+Off on another
+dangerous trip...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Of course you understand.
-But, sister...
+Of course you'd figure it out.
+But don't worry, sister.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I know I don't have to tell you this.
-But don't forget, <Rutee>.
+I know I don't have
+to tell you this,
+but remember, <Rutee>.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-The children are always waiting
-for you to come home.
+The children are always
+waiting for you to come home.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-If you have the children's best
-interest at heart, the only thing
-you should care about most is...
+If the children are truly
+so important to you, then
+you'll take care of yourself
+and come home to us.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-Don't forget that you are the one
-who has to do this.
+This is something
+only you can do.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Yeah, thanks.
+You're right.
+Thank you.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm off!
+Well... I'm off!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-As the children get older, so do
-their belongings.
+As the kids get
+bigger, so do their messes.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-This room is such a mess.
+Seriously. 
+This room is such a pigsty!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-You've come at the perfect time.
+You've come at a good time.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -431,35 +438,38 @@ Huh？
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I was going through some things
-and I found your notebook.
+I was cleaning the room,
+and a notebook with
+your name turned up!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Do I really have such a thing?
+With my name...?
+Did I have something like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why don't your read it and see
-what is inside.
+Won't we know for sure
+if we take a look at it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I suppose you are right.
+Yeah.
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-I can't believe it. I found 10 gald!
+Today I picked up 10 gald! Woohoo!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What is this? Is it a diary from
-when I was a little girl?
+What the heck is this?
+A diary from when I was little?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's so cute that you were happy
-finding 10 gald.
+It's kinda adorable
+how happy you
+were to find ten gald...
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
@@ -471,28 +481,32 @@ Today I picked up 15 gald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It is all about money...
+Looks like its...
+Only about money..?
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-Today I bought a lot of gels
-with all the money I had saved.
+Today, I bought a buncha
+gels from the money I saved up.
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-When I sold the gels to some
-travellers, I made a profit of 50 gald!
+From selling them to
+that traveler, I made
+a cool 50 gald profit!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is so embarrasing...
+Jeez, this is
+kinda embarrassing...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You were just a kid, but were you
-keeping a budget?
+You kept a budget
+even as a kid?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-No, this is a ledger.<x00>
+It's more like
+a ledger, isn't it?<x00>
 [ENDBLOCK]
