@@ -540,6 +540,11 @@ Well, see ya.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
+Those other guys
+aren't with you?
+[ENDBLOCK]
+Boy
+[ENDBLOCK]
 There's a lotta hurt people
 in town. It's a real mess...
 [ENDBLOCK]
@@ -777,7 +782,7 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color> 
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
@@ -796,7 +801,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color> 
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]

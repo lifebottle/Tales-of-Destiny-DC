@@ -8,69 +8,68 @@ We've entered Cloudius.
 <Ritora>
 [ENDBLOCK]
 Copy that. The Guardian Dragon's
-control unit is at the furthest point
-inside.
+control terminal is located in
+the heart of this place.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-I pray for the success of the
-mission and for your safety.
+Good luck and stay safe.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-So this is an aerial city, too.
-The atmosphere is different
-from the previous places.
+This is an aerial city as well?
+It's nothing like the ones 
+we've encountered thus far.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's so green, it's like a jungle.
+It like an overgrown verdant jungle.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-The samples from the experimental
-plants must have overflowed and
-multiplied naturally over time.
+The experimental plant 
+samples must have had a
+long time to freely propegate.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Cloudius is one of the most important
-facilities in the airborne city group.
+Of all the Aeropoleis, Cloudius
+is the most important.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-If we don't capture this place,
-we will never win.
+If we cannot seize control of
+it, we can never achieve victory.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, let's do it.
+We will succeed.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Can you hear me, everyone?
-I forgot to tell you that I have
-something to report.
+Do you read me, everyone?
+There is an additional thing
+to I forgot to report.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-What's going on?
+What is it?
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-While you were on your mission,
-I've brought some shops onto Radisrol
-to replenish our supplies.
+Since you've left Radisrol, I have
+been able to establish means for
+you to replenish your supplies.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-You don't have to go down to the
-earth anymore. You can make use
-of them if you like.
+As a result, you should no longer
+have to visit the surface. Return
+and stock up as you see fit.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-That's helpful.
+That should save us precious time.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -80,7 +79,7 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x34><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x48><x34><x80></color> 
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
@@ -99,7 +98,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x34><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x48><x34><x80></color> 
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]

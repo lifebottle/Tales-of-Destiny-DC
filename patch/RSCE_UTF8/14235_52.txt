@@ -509,7 +509,7 @@ Huh? You giving up?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Give up the search?
+Give up for now?
 Yes
 No
 [ENDBLOCK]
@@ -520,7 +520,7 @@ Wanna call it quits?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Give up the search?
+Give up for now?
 Yes
 No
 [ENDBLOCK]
@@ -536,7 +536,7 @@ notice
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x4B><xAC><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x4B><xAC><x80></color> 
 [ENDBLOCK]
 has joined the Party.
 [ENDBLOCK]
@@ -555,7 +555,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x4B><xAC><x80></color>
+<TAG_007><S03><turquoise><x19><x71><x4B><xAC><x80></color> 
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
