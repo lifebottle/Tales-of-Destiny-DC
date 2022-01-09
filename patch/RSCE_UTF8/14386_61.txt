@@ -24,74 +24,75 @@ set_drgn
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Hey, <Stahn>. Are you
-going somewhere?
+Hey, <Stahn>!
+Where you going?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Let's see...
+Uhhh...
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>We're going to save the world.
-Kind of, you know...
+<TAG_007>I'm off save the world!
+Nowhere special...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-The world! You, <Stahn>?
+The world!? You, <Stahn>?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah... Well, yeah.
+Well, yeah.
+...Kinda...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-And you're going to lie and run
+Don't lie to me. You're just running
 away from home again, aren't you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No, it's true.
+No, it's true!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Oh, <Stahn>, you're such a little kid
-sometimes!
-
+Sometimes I wonder if you'll
+ever grow up, <Stahn>.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-But I think that's
-typical of you, <Stahn>.
+Then I figure if you did,
+you wouldn't be my <Stahn>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're terrible.
+Jeez, you're awful! Haha...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You can't help it, considering
-the precedent. In fact, you're
-still just a child.
+I wonder that sometimes, myself.
+Based on what I've seen, you'll 
+be a child forever, though.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos> is terrible too.
+Oh shut up, <Dymlos>!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-You've become quite secretive,
-haven't you, <Stahn>?
+Ooh, keeping
+secrets from me, <Stahn>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No, it's not like that.
+What? No, I'm not!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-But I guess I don't have a choice.
-You have such a pretty girl with you.
+Guess that's to be expected.
+You've got such a pretty
+girl with you, after all!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -100,135 +101,147 @@ You mean <Philia>?
 <Philia>
 [ENDBLOCK]
 //TODO
-I'm not, I'm not, I'm not,
-I'm not involved!
+Wh-What? N-No!
+I-It's not l-like
+that at all!!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-I see. <Stahn>, I thought you
-were always going to be a child.
+Hehe, I see. Well, <Stahn>,
+I guess I underestimated you.
+I thought you'd never grow up, but...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-You're a great guy now.
+You've become
+quite the man, huh?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-I can't be a little girl forever.
+I better not fall behind...
+I can't be a little girl forever!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Well then, have a safe trip, <Stahn>.
+Ah well. Have a safe trip, <Stahn>.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-He's missing. I don't know who to
-turn to in a situation like this!
+The nerve of that man, up and
+vanishing like that! Who d'you
+turn to at a time like this??
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-He's missing. I don't know who to
-turn to in a situation like this!
+The nerve of that man, up and
+vanishing like that! Who d'you
+turn to at a time like this??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Aunt Maggie. I'm here, aren't I?
-This boy detective, <Stahn>, you know.
+Aunt Maggie, there's no need to fear.
+Boy Detective <Stahn> is on the case!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You look more dependable when
-you're acting like that.
+Hah, You almost look halfway
+reliable when you act like that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're definitely better off doing
-that on a regular basis.
+You should totally
+consider doing it more often.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You know, <Rutee>, there's a
-limit to what one can do.
+My dear <Rutee>, it is said
+that there is a limit to all things.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-After all, it's exhausting to
-play someone you're not!
+Whew, okay, I'm sick
+of acting like that now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-More importantly, Aunt Maggie,
-how could you have known that
-Uncle was gone?
+Anyway, Auntie Maggie, when did you
+realise that Uncle Bob was missing?
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-Apparently, he was caught right
-in the middle of an aerial attack.
+Well, if I recall right, that idiot
+was right dead center of where
+that big ol' blast from the sky hit.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-Just then, someone who had
-seen it told me about it.
+At least, that's
+what someone said they saw.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, then, Uncle is...
+I-In that case,
+Uncle Bob is...!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-No, I know what I'm saying.
-That man is alive.
+Nah, I know for a fact,
+that fool ain't dead.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-I'm not trying to hang on.
-I just know.
+I ain't clingin' to
+hope or nothin', I just know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I understand.
-I'm sure I'll find him.
+Gotcha.
+We'll track him down for sure.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-He's a bit of a misanthrope, you know.
-And he's always had horrible luck.
+I swear, that man
+is beyond human.
+He has the devil's luck.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-But, I don't have a clue as
-to where he could be.
+We've got nothing
+to go on though, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-If you got hit by a Belcrant cannon,
-surely you'd end up on the outer shell?
+Well, if she meant the
+Belcrant Cannon, then...
+He's on the Aethersphere?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-How could you come up with
-such an outlandish idea?
+You come up with the
+most ridiculous ideas,
+you know that?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Well, I have a feeling we'll
-see each other soon.
+run into him at some point.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I have a reputation for having
-good instincts. It'll be fine.
+I've got famously sharp
+intuition, you know!
+It'll be fine!
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-I can't take her into
-another's home.
+I probably shouldn't
+take her into
+someone else's house.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-It's not safe for you to
-go out there with her.
+I really shouldn't leave
+town with her following me.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -237,51 +250,53 @@ carved into the railing.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-What's that?
-
+What the heck is that!?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hi, <Lilith>. Are you
-shopping again today?
+Hi, <Lilith>.
+Out shopping again?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Welcome. This is Lienea Village.
+Welcome.
+This is Lienea Village.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hello, <Stahn>. You're
-looking good today.
+Hello, <Stahn>.
+You're looking good today.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Welcome. This is Lienea Village.
+Welcome.
+This is Lienea Village.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-<Stahn>, you have such a such pretty girl with you.
-When did you get a girlfriend?
+That's quite the cutie you
+got with you, <Stahn>.
+I didn't know you had a girlfriend!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hey, you're not with <Stahn>,
-are you? ...Huh!?
+Hey, aren't you
+<Stahn>'s... Wh-Whaaat?!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hey, <Stahn>, what country is
-causing all this trouble?
+Hey, <Stahn>!
+Who's responsible for all of this??
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Seinegald? Phandaria?
-It's not Fitzgald, is it?
+Is it Seinegald? Phandaria?
+It's not Fitzgald, is it??
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-What is all this? Where did
-this come from?
+What is all this?
+Where did this come from?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -290,23 +305,24 @@ were nice and peaceful.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hey, <Stahn>. I've heard a lot about you.
-I hear you're doing great!
+Hey, <Stahn>. I've heard a
+lot about you. They say
+you've been doing great things!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Hey, <Stahn>. I've heard a lot about you.
-I hear you're doing great!
+Hey, <Stahn>. I've heard a
+lot about you. They say
+you've been doing great things!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
 ...<Lilith>?
-
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Heh, from an egg.
-I'm glad to hear that.
+Ahh, it hatched from an egg.
+Whew, that's a relief.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
@@ -315,20 +331,20 @@ for some fresh meat.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-The fun of going to Neustadt is
-kicking rocks, even if the sky has
-gotten weird.
+Even if the sky's weird,
+it's still fun to play Rock Rally
+on the road to Neustadt.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-The only thing I look forward
-to when I go shopping in Neustadt
-is kicking rocks.
+The only thing I look
+forward to when I go shopping
+in Neustadt is Rock Rally.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-I'll show you how much
-fun it is, <Stahn>.
+You should see how much
+fun it is, <Stahn>!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
@@ -342,32 +358,34 @@ how to have fun, too.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Try kicking a rock that's fallen
-in front of the village to Neustadt.
+Try kicking a loose rock from
+in front of the village
+all the way to Neustadt!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Yes, we'll try first.
+Go on, give it a try!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Next time, it'll be twice.
+Next time, you'll have done it twice.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Next time, it'll be three.
+Next will be three times.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Next time, it'll be four.
+Do it again, and that'll make four.
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Next time, it'll be five.
+Once more, and that'll be five times!
 [ENDBLOCK]
 Meat merchant
 [ENDBLOCK]
-Try as many times as you like.
+At this point, you must
+love Rock Rally as much as me!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
@@ -376,28 +394,26 @@ It's adorable!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-We've increased our stocking capacity.
-We won't be out of stock anymore.
+We've increased our storage capacity.
+We'll never run out of fish again!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Would you like some fresh fish?
-
+Care for some fresh fish?
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-We've increased our stocking capacity.
-We won't be out of stock anymore.
+We've increased our storage capacity.
+We'll never run out of fish again!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-If I'm going to travel, I can't have fish.
-
+I'd hate to travel without fish!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Whoever was running that broadcast,
-why would they go to all this trouble?
+Whoever's voice that was...
+Why would they go to all this trouble?
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
@@ -405,7 +421,7 @@ I'm counting on you, <Stahn>!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Honey, I'm begging you!
+I'm counting on you!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
@@ -414,28 +430,28 @@ It's adorable!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-We've increased our stocking capacity.
-We won't be out of stock anymore.
+We've increased our storage capacity.
+We'll never run out of fish again!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Would you like some fresh fish?
+Care for some fresh fish?
 
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-We've increased our stocking capacity.
-We won't be out of stock anymore.
+We've increased our storage capacity.
+We'll never run out of fish again!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-If I'm going to travel, I can't have fish.
+I'd hate to travel without fish!
 
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Whoever was running that broadcast,
-why would they go to all this trouble?
+Whoever's voice that was...
+Why would they go to all this trouble?
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
@@ -443,7 +459,7 @@ I'm counting on you, <Stahn>!
 [ENDBLOCK]
 Fish Merchant
 [ENDBLOCK]
-Honey, I'm begging you!
+I'm counting on you!
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
@@ -619,15 +635,15 @@ my tasty pound cakes!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-That monster looks really cool.
+That monster's so cool!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hey, hey, where'd you get him?
+Hey, hey, where'd you get it?!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big sis <Lilith>, let's play!
+Miss <Lilith>, let's play!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -635,19 +651,19 @@ Hey, hey, let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big bro <Stahn>, let's play!
+Yo, big <Stahn>! Let's play!
 Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hey, hey, hey.
+Hey! Hey!!!
 Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big bro <Stahn>, are you
-going on a trip? That's great,
-take me with you!
+Big <Stahn>, are you
+going on a trip? Cool!
+Take me with you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -655,22 +671,23 @@ Take me on a trip, too!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big bro <Stahn>, what's this about
-Belcrant and the Aeth'er War?
+Big <Stahn>, what's this about
+Belcrants and Aeth'er Wars?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 Belcrant?
-Aeth'er War? What's that?
+Aeth'er War?
+What's that?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 The other day, a monster
-came into the village.
+came into the village!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-It didn't used to be like that.
+That never happened before...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -684,15 +701,16 @@ was that strong!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-Aah! You scared me.
+Aah! You scared me!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-What have you got there, <Lilith>?
+What have you
+got there, <Lilith>?
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-Well, <Lilith>'s got a boyfriend.
+Well well! <Lilith>'s got a boyfriend!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
@@ -712,21 +730,22 @@ to the countryside.
 Fruit Merchant
 [ENDBLOCK]
 You don't want to get hungry
-on the road. Buy some fruit.
+on the road. Buy some fruit!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-It's a dangerous world we live in.
+It's a dangerous
+world we live in.
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
 I heard you're a hero now.
-Take the fruit.
+Take some fruit, on me!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-I hear you're a hero.
-Good luck.
+I hear you're a hero!
+Best of luck to you!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -736,7 +755,7 @@ you got there, ain't it?
 Aunt Maggie
 [ENDBLOCK]
 It's said that their babies bring
-more happiness than God does.
+more happiness than the Goddess!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -750,13 +769,13 @@ Even the women do the heavy lifting.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-Hotch... potch...
-Yeah? I think it's <Stahn>.
+Till and plant, till and plant...
+Eh? Well, if it ain't <Stahn>!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-That's a lot of energy, isn't it?
-This is as easy as it gets!
+You think I got a lotta energy?
+Hah! Somethin' like this is nothin'!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -765,14 +784,13 @@ Even the women do the heavy lifting.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-When you are young, you should
-travel as much as you want. I used
-to do the same.
+You outta live while
+you're young! I know I sure did!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-It's not a good feeling to be
-looked down upon from the sky.
+It just don't feel right,
+like the sky's lookin' down on us.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -781,19 +799,18 @@ You do your thing.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-I still think I'm young, but your
-grandfather is quite old, too.
+I was fine because I'm still young.
+Your gramps is somethin' else, though!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-I was amazed at how easily
-they took care of the monster
-that attacked the village.
+He took that other monster
+out like it was nothin'!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-Me and Thomas took care
-of the monsters.
+Me an' Thomas took care of
+the monsters attacking the village.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -802,7 +819,7 @@ before, but it's pretty cute.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Lilith> are you my mother?
+<Lilith>, are you it's mama?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -813,60 +830,57 @@ but...
 Chief's Daughter
 [ENDBLOCK]
 He hasn't come home yet.
-
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Well, you traveled from Seinegald?
-
+Wait, you came from Seinegald?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-If that's the case, have you seen
-any pointy-headed people who have
-fallen by the wayside?
+If that's the case,
+you haven't seen a pointy-haired
+guy passed out on the road, have you?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-A stray peckerhead?
-I haven't seen him.
+A pointy-haired guy...?
+...No, I haven't.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-I see. I'm a little relieved
-to hear that.
+I see. I'm actually
+kinda relieved to hear that.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
 <Stahn>, do you remember
-when we used to pluck all
-the flowers in our garden?
+when we used to pick
+flowers in our garden?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-In those days, I used to play
-pranks and my father used
-to get angry with me.
+We used to play pranks
+all the time. How papa would scold us!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>, is this someone you know?
+<Stahn>, is this
+someone you know?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>, you know, if you ever
-want to come back to the village,
-you're always welcome.
+<Stahn>, if you ever want
+to come back to the village,
+you're always welcome...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>, please take care.
+Please take care, <Stahn>.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Who is the person running
-that broadcast?
-
+Who's voice was
+that in the sky?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -875,9 +889,9 @@ stories in dark from now on?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-I wish I could have talked to
-you one more time under the
-sun, <Stahn>.
+I wish we coulda talked
+under sun at least
+one more time, <Stahn>...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -886,52 +900,54 @@ I have to protect the village.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>? I was wondering
-if there were any monsters
-in the village.
+<Lilith>? What's that
+monster doing in the village?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
 If you need help, just let me know.
-It's just you and me!
+It's my destiny to protect you!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Oh, no. <Lilith>, why won't
-you turn around?
+Aah, <Lilith>...
+Why won't you look my way?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I'll take care of that guy for you.
+Take care of that guy for me.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I wanted you to stay in the village
-because <Lilith> would be sad.
+I wanted you to stay in the village.
+You made <Lilith> sad by leaving...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-But, well, it can't be helped.
-I'll take care of you, <Lilith>!
+Alas, it can't be helped!
+Don't worry about <Lilith>.
+I'll look after her for you!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Please take care of <Stahn>.
+Please take
+care of <Stahn>.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
 <Stahn>, don't you want to come
 back to the village instead of
-walking around outside?
+wandering around outside?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-If you're here, I'm sure <Lilith>
-will feel a little more at ease.
+I'm sure <Lilith> would be
+a lot happier if you did.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith> will be safe with you.
+I know <Lilith> will
+be safe with you.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -940,7 +956,8 @@ a hard time with <Stahn>.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Are you being a good boy, <Stahn>?
+Are you being
+a good boy, <Stahn>?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -950,15 +967,16 @@ carried them to Neustadt.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Just don't waste any of it, okay?
+Just don't waste
+any of them, okay?
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's for dinner?
-What should I buy?
+Something to go with dinner...
+Wonder what I should get?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
@@ -987,23 +1005,22 @@ good cook, isn't she?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I'm sure there are other
-guys. We have to do something
-about it now.
+I bet a lotta guys have
+their eyes on her. I need an edge...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-All right, let's get you what you need.
+I got it! I know just the ticket!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Stahn>, you can have this if
-you want. It's bargain beef!
+Here, <Stahn>, you can
+have this cut of bargain beef!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, you'll give it to me?
-Then I'll take it.
+I can?
+Well, okay, thanks...?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1011,33 +1028,34 @@ Tell <Lilith> that I gave it to you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright, I got it. It's a big,
-delicious-looking fish.
+Hah! Got it!
+Look at the size of this fish!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-She'll make this for dinner.
+This'll make a great dinner!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-(Giggling)... <Stahn>, you
+Hehehe... <Stahn>, you
 look like you're having fun.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, there.
+Oh, hey there!
 [ENDBLOCK]
-Suddenly you're back in the
-village, and now you're fishing
-in the pond?
+First you come home
+out of nowhere, now you're
+diving in the river for fish?
 [ENDBLOCK]
-You are such a funny guy.
+You're so silly!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm not so sure.
+Aw, come on...
 [ENDBLOCK]
-I've always liked you, <Stahn>.
+I've always
+liked you, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1045,37 +1063,39 @@ It's embarrassing to hear you
 say that out of the blue.
 ...Do you want some fish?
 [ENDBLOCK]
-Thanks. But that fish is carefully
-kept by everyone in the village.
+Thanks, but no thanks.
+That's the fish we've all
+been raising together.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, no.
+What the?!
+It is?!
 [ENDBLOCK]
-If they find out, they'll be upset.
-You'd better put it back quickly.
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-No, but this...
-I was thinking of making
-this for dinner.
-[ENDBLOCK]
-Then you can take this with you.
-I've just been shopping.
+Yep. If the others found
+out you ate it, they'd be
+pretty mad. You should let it go.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's extra-fine beef!
-I shouldn't take this.
+Aw man. What am I
+gonna have for dinner, then?
 [ENDBLOCK]
-It's okay. <Stahn>, If I can
-help you, I'm happy too.
+Here, you can have this.
+I bought too much, anyway.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then I'll take it without
-reservation. Thank you!
+L-Luxury Beef?!
+I can't take this!
+[ENDBLOCK]
+It's okay. <Stahn>.
+I'm just happy to help you!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Well, if you insist...
+Thanks a lot!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -1590,12 +1610,12 @@ Depot
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I knew it, <Lilith>.
-My brother, in front of you.
+As expected, <Lilith>'s
+got her brother with her...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Yo, yo <Stahn>...
+H-Hello, <Stahn>...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1608,13 +1628,12 @@ are traveling with you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, yes.
+That's right.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-That means that...
-<Lilith> You're with me,
-aren't you?
+So that means...
+<Lilith>'s with you too?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1622,30 +1641,31 @@ Of course.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Oh, you know, <Stahn> and <Lilith>.
+Uhm... <Stahn>? <Lilith>?
 Can I talk to you about something?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-So, shall we leave
-the room for a while?
+We'll leave you
+guys alone.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What do you mean, talk?
+What'd you want to talk about?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-You know, I lost <Lilith> to...
+W-Well... Ever since
+<Lilith> left, I've felt like...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I felt like I had a...
-hole in my heart.
+Like there's a hole
+in my heart, y'know?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Is that...
+A hole?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1654,7 +1674,7 @@ you all the time, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Oh, um, I am.
+O-Oh, uhm, I see...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1662,34 +1682,35 @@ If <Lilith> disappears too, I...!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-And me...?
+You...?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I have no one to make fun of!
-<Stahn>!
+I become the butt
+of everyone's jokes!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Huh?
+...What.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Me, if I don't have someone
-I think is beneath me...
+Listen! If there's noone
+lower than me on the totem pole...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I'm starting to feel like I'm the
-lowest person in this village!
+Then that makes me
+the village idiot, now!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother, give me that.
+Big bro, may I
+borrow that for a second?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What? What is it?
+Huh? What do you-
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1697,12 +1718,12 @@ What? What is it?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Bacchus>, you idiot!
+<Bacchus>, you BONEHEAD!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hahaha. Only <Bacchus>
-says it's stupid.
+Hahaha! <Bacchus> the Bonehead,
+I like the sound of that!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1711,7 +1732,7 @@ I almost died!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-What? You look fine.
+Then again, I actually feel better...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1719,97 +1740,99 @@ What? You look fine.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Well, I'll be patient. I'm counting
-on you, big brother.
+Well, I'll be patient.
+I'm counting  on you, big bro.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-My dream is that by the time I die,
-I'll be able to say, "I lived for
-... love!"
+My dream is to be known up
+to the day of my death
+as "He who lived to love!"
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-My dream is that by the time I die,
-I'll be able to say, "I lived for
-... love!"
+My dream is to be known up
+to the day of my death
+as "He who lived to love!"
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Bacchus>, what's with
-the abruptness?
+<Bacchus>, what's this
+all of a sudden?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-No, I know what you're talking about!
-<Bacchus>！
+Yeah, I get what
+you're sayin', <Bacchus>！
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Oh, you understand!
+Aha! Someone who understands me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Oh, yeah!
-I'm living in love, too.
+You got it!
+I live for love, too, you see.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Oh, and you are?
+Oh, it's you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lewein>, aren't you a General?
+Oh, hello, General <Lewein>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Did you come to see
-grandpa by any chance?
+Did you come
+to see gramps?
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Yes, sir. Is Thomas there?
+That's right.
+Is Thomas here?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll go get him now.
-Please wait for me.
+Wait here a sec.
+I'll go get him.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Mr. <Lewein>...
+Ah, <Lewein>...
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-It's been a long time since I've
-seen you, Thomas. I'm glad to
-hear you're doing well.
+It's been a long time,
+Thomas. I'm glad to
+see you're doing well.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Yes, I'm only getting older.
+Yeah, the years
+are piling up though.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-So, that one is...?
+If I may ask, where is...?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-My wife, a long time ago.
+My wife... passed some time ago..
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-I'm very sorry to hear that.
+I see... That is truly
+unfortunate. I am sorry.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lewein>, does the general
-know about grandma?
+You knew Grandma, General <Lewein>?
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Yes, of course.
-After all...
+Yes, of course
+I did. After all...
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
@@ -1817,34 +1840,35 @@ Thomas
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-That's unusual, Thomas,
-that you're upset.
+It's rare to see
+Thomas get flustered like this.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Actually, <Stahn>. I liked
-your grandmother too.
+Well, you see, <Stahn>...
+I was quite fond of your
+grandmother back in the day.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, no!	So you're saying that
-I might have been the grandson
-of a Seinegald general?
+Woaaah! So you mean, I might
+have been the grandson
+of a general of Seingald!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Don't be ridiculous, <Stahn>.
+Don't be stupid, <Stahn>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If that were true, you wouldn't
-even be in this world!
+If that were the case,
+you wouldn't even be here!
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
 I don't know about that.
-<Stahn> You could really be
-my grandson, you know.
+<Stahn> could have very
+well been my grandson.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1852,9 +1876,9 @@ Hmmm...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I guess that's not a bad idea, but I'm
-more comfortable being my grandpa's
-grandson and brother of <Lilith>.
+I don't hate the idea,
+but I'm still perfectly
+happy with gramps and <Lilith>.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
@@ -1862,7 +1886,9 @@ Thomas
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-That's one way to love a man!
+Aah, a man's love
+for his family!!
+It's so inspirin'!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1884,7 +1910,7 @@ It's no big deal. Forget it.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're...forgiving me?
+You're... forgiving me?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1912,7 +1938,7 @@ the Legendary Carrot!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Legendary...carrot...?
+Legendary... Carrot...?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1927,7 +1953,7 @@ What did you need to do, here?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Here? I...uh...
+Here? I... uh...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1984,8 +2010,8 @@ from grandpa.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-"Somewhere in a forest south
-of here there surely rests
+"Somewhere in a forest South
+of here, there surely rests
 the Legendary Carrot of Legend!"
 [ENDBLOCK]
 <Lion>
@@ -2000,8 +2026,8 @@ get that carrot!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-This is the second time
-you've escorted me home safely...
+You even brought
+me back home again...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
