@@ -713,15 +713,15 @@ I see! Thank you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Woohoo!
+Wheeeee!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What is it, Jonathan?
+Whatcha got there, Jonathan?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Are you going?
+You headed out?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -733,12 +733,13 @@ You'll be home soon, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I don't know. But I don't think it's
-easy to go back.
+I'm not sure...
+I probably won't be able
+to come back easily, though.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Okay.
+Got it.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -747,7 +748,7 @@ care of <Lilith>.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So go ahead, don't worry.
+So go ahead. It's fine.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -755,7 +756,7 @@ So go ahead, don't worry.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Here are some gifts.
+Here, take this, too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -763,7 +764,7 @@ Thank you.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Take care.
+Be careful out there.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -809,59 +810,58 @@ You went from sheep to dragons?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I saw you run out of the village a
-while ago, what happened?
+I saw you dash
+out of the village
+a while ago. What happened?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-What? You're looking for
-the legendary carrot?
-[ENDBLOCK]
-Young Man
-[ENDBLOCK]
-You're a city person, aren't you?
-I've been to the city, I know what
-you mean.
-[ENDBLOCK]
-Young Man
-[ENDBLOCK]
-The sheep that you used to
-take care of, is Mr. Thomas
-taking care of them now?
+Huh? You're looking
+for the Legendary Carrot?!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
 You're a city person, aren't you?
-I've been to the city, I know what
-you mean.
+I've been to the city before,
+so I know what it's like!
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+Is Thomas looking after
+your sheep for you?
+[ENDBLOCK]
+Young Man
+[ENDBLOCK]
+You're a city person, aren't you?
+I've been to the city before,
+so I know what it's like!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
 <Stahn>, what about the sheep?
-Do you want me to take them
+Do you want me to take him
 back to my place?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
 You're a city person, aren't you?
-I've been to the city, I know what
-you mean.
+I've been to the city before,
+so I know what it's like!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-The sheep are acting strangely
-frightened. I think they're sensing
-a disturbance.
+The sheep are acting frightened.
+They must sense that something is off...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-If you go out of the village, you'll
-be attacked by monsters.
+If you leave town, monsters'll
+attack you almost immediately.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-He was too dangerous to go
-out to pasture.
+It's too dangerous to let
+my sheep graze now...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -869,55 +869,56 @@ I'm counting on you, <Stahn>.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I want my sheep to be able to
-graze comfortably, and I want
-my leeks back.
+I want my sheep to be
+able to graze comfortably.
+I want my leeks back, too!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Please bring back such a renaissance
-where sheep can graze leisurely.
+Please make it so our sheep
+can graze without worry again...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Aww! <Lilith> is a monster!
+A-Ack! Look out, <Lilith>!
+It's a monster!!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Oh, no?
+Oh, wait, it's friendly?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Even though I'm supposed to protect
-the village, there's no way anything
-can happen in a village like this.
+They stationed me here to guard
+the village, but nothing happens here.
+What's there to guard? Sheep?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I like you, <Stahn>. You can leave the
-village whenever you want, however
-you want.
+You're so lucky, <Stahn>. You get
+to leave the village whenever you want.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I want to leave the village whenever
-I want and however I want, too.
+I'm so jealous.
+I wish I could do that...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-There's an emergency. ...but the
-enemy is still in the air.
+Well, something actually
+happened... Can't do much
+about an enemy in the air, though.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-We've been getting a lot of
-monster attacks lately. I've
-been extremely busy.
+There's been a lot of
+monster attacks, lately.
+It's sure kept me busy!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I'd rather be free than busy
-with this stuff.
+I miss back when
+things were quiet...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -999,12 +1000,12 @@ you were always dependable.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Whenever I had a problem, you would
-rush over and help me out.
+Whenever I had a problem,
+you'd always come running...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Was I really?
+Did I really?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1017,7 +1018,8 @@ feels the same way.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm going. I've already decided.
+I'm going.
+I've already decided.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1025,29 +1027,30 @@ I'm going. I've already decided.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's partly because the king
-asked me to, but that isn't the
-only reason.
+Sure, it's partly because
+the King summoned me,
+but that's not the only reason.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The most important reason is
-because I want to do it.
+I'm going because...
+Because I want to.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother...
+Big bro...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm torn though, because I'm
-supposed to make my family happy,
-but then I'm making you cry.
+I know I'm supposed to make
+my family happy, and that
+all I've done is make you cry...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But now that I've heard what's going
-on from <Philia>, I can't just let it go.
+...But now that I've heard
+from <Philia> about what's
+happened, I can't just let it be!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1064,8 +1067,8 @@ work it out with Grandpa.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-"Never abandon a person in need" is
-the Aileron family motto, isn't it?
+"Never abandon a person in need."
+It's the Aileron family motto, isn't it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1077,9 +1080,9 @@ But remember this.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-This is where you will come home to.
-No matter what happens, make sure
-you come back safely.
+You will come home, someday.
+Above everything, you make
+sure you come back to us safely.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1091,12 +1094,14 @@ That's a promise, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll be back.
+I promise.
+I will return.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah! Then we should go back into
-the house and get ready real quick!
+Okay! In that case,
+let's hurry back inside.
+You've got some packing to do!
 [ENDBLOCK]
 
 [ENDBLOCK]
