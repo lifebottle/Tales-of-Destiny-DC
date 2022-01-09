@@ -6,7 +6,8 @@ set_drgn
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>I saw something I shouldn't have seen.
+<TAG_005>You saw something
+you shouldn't have!
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -16,29 +17,30 @@ No
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Oh, by the way, <Lilith> is gone.
-Where did she go?
+That reminds me, <Lilith>'s not back yet.
+Wonder where she got off to?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
 When I told my granddaughter
-about the legendary carrot, she
-ran out of the village.
+about the Legendary Carrot, she
+dashed off out of the village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I think she's still near the village.
+She's probably still
+somewhere near Lienea.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-The legendary carrots are
-said to be in the forest far
-to the south of this village.
+The Legendary Carrot is
+said to sleep in the forest far
+to the South of this village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I've heard that some monsters
-are guarding the carrots.
+I've heard a mighty beast
+guards the carrot, as well.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
@@ -47,100 +49,103 @@ Be careful.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-The legendary carrots are
-said to be in the forest far
-to the south of this village.
+The Legendary Carrot is
+said to sleep in the forest far
+to the South of this village.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I've heard that some monsters
-are guarding the carrots.
+I've heard a mighty beast
+guards the carrot, as well.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Please take care of <Lilith> for me.
+Please take care
+of <Lilith> for me.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I used to be a soldier of Seinegald.
+I used to be a soldier
+of Seinegald, you know.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-//TODO take a closer look at this
-I'm sure my grandchildren
-are in the midst of working
-on that dream right now.
+I reckon my grandkid's
+out chasing his dream of
+following in my footsteps.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-If we meet somewhere else,
-please let me know.
+If you ever meet him, I hope
+you'll take good care of him.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
 This is your home. Make yourself
-at home as much as you like.
+as comfortable as you'd like.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I hope you will all feel at home here
-and relax as much as you like.
+I hope you will all
+feel at home here.
+By all means, put your feet up.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Follow the path you believe in,
-<Stahn>. That is the way of life
-for a man of House Aileron.
+<Stahn>, follow the path you
+believe in. That is the way
+of life for an Aileron man!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
 From my point of view, <Stahn>
-is still a child. Thank you very
-much for your cooperation.
+is still a child.
+Please take good care of him.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Stahn>, you have your work cut
-out for you. You can't just sit
-here and dawdle.
+<Stahn>, you have your work
+cut out for you.
+You can't just sit here and dawdle.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Lilith> and <Stahn>, please.
+<Lilith>, keep
+<Stahn> in line, now.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-If you are tired, please
-come back anytime.
+If you ever get tired,
+come back any time.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Hmm, you've got a good look.
-You'll be fine then.
+Hmm, you've got
+strong willed eyes.
+I know you'll be fine.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ah... You're the one
-from back then?
+Oh, it's you again!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Did you come to see me, by chance?
+Did you come back to visit me?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 In the end, I gave up looking
-for the legendary carrot.
+for the Legendary Carrot...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Um, I don't want you to come
-into mine and my brother's room
-without permission.
+Um... You shouldn't barge
+into people's rooms
+without permission, you know.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Welcome back, big brother!
+Welcome back, big bro!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -149,17 +154,17 @@ me to make you something?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Are you hungry, also?
+Are you hungry, too?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Take care of the shopping
-for dinner, big brother.
+I'm trusting you with
+the dinner shopping, big bro!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I won't forgive you if you forget
-your promise, big brother.
+If you forget our promise,
+I'll never forgive you, big bro!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -176,8 +181,8 @@ Please take care of my brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-When it's all over and you come
-back, I'll make you a feast.
+When it's all over,
+come back and I'll make you a feast!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -186,7 +191,7 @@ brother to come home soon.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Wake up, brother.
+Big bro! Wake up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -194,8 +199,8 @@ Uhhhzz...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You better wake up soon.
-Your breakfast will get cold.
+You better wake up soon!
+Your breakfast will get cold!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -221,40 +226,42 @@ Then you leave me with no choice...
 <Lilith>
 [ENDBLOCK]
 Ladle in my right hand!	Frying
-pan in my left hand! Let justice
+pan in my left! Let justice
 be done to those who lie in wait!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Roar! House Aileron's Secret Technique:
+Howl! The Aileron Family's
+Secret Technique:
  "Wake the Dead"!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Whoa!?
+UWHAOH!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, <Lilith>. Good morning.
+Oh, hey <Lilith>.
+Good morning.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 It's so hard to get you
-up in the morning.
+up in the morning...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 I'm sorry for making you
-wake me. Keep up the good work.
+wake me. Keep up the good work!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah, okay.
+Yeah, you got it!
 Leave it to me.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Anyway, come quickly.
+Anyway, hurry up!
 Grandpa's hungry.
 [ENDBLOCK]
 Thomas
@@ -264,17 +271,17 @@ Well, I'm off to work.
 <Stahn>
 [ENDBLOCK]
 I'm coming with you. If there's
-anything I can do to help, just
-let me know.
+anything I can do
+to help, just let me know.
 [ENDBLOCK]
 I'll be fine today.
 [ENDBLOCK]
-Thanks to your help, I've been
+Thanks to you, I've been
 able to get a lot done lately.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, ...that's a shame.
+Well that's... too bad...
 [ENDBLOCK]
 Now that you're back from your
 travels, you seem to have a lot
@@ -286,8 +293,8 @@ I don't think so, but...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-After all, home is the best
-place to be, right?
+After all, home is
+where the heart is, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -296,17 +303,17 @@ Oh, yeah... well...
 <Lilith>
 [ENDBLOCK]
 Oh, come on.
-That's such a vague response.
+What a half-hearted response!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother...maybe you're
-wanting to go on another trip
-or something?
+Big bro... Maybe you're longing
+to go on another trip or something?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hmm? Did you just say something?
+Hmm? Did you
+just say something?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -320,40 +327,42 @@ help out around the house!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Uh, yeah. What do you want me to do?
+Uh, right.
+What do you want me to do?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Alright. Go do some shopping.
-Get something to eat for dinner.
+Oh, I know! You can go
+shopping for me. Go get me
+something to cook for dinner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, I got it!
+Okay, I got this!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-His response worries me.
+...Something tells me
+I'm going to regret this...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother! Where'd
-you go shopping!
+Big bro! Well?
+Where's my ingredients?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, no!
-I-I'm sorry!
+A-Agh! Right, sorry!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Here it is.
-Bargain beef.
+Here you go!
+Bargain beef!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Heh. You've bought something
-decent for a change, haven't you?
+Well well! You actually
+went and got something nice, huh?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -366,81 +375,86 @@ it to me. Out of the blue.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-...Hello, little <Lilith>.
+Yo! <Lilith>!
 Did you get my present?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Bargain beef, straight from my heart.
-Think of me when you eat it! Bye!
+Bargain beef, straight from my heart!
+Think of me when you eat it! Well Bye!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Now... what?
+...What just happened?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on...
+No clue...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I don't care if you emphasize
-the bargain part.
+He sure stressed
+that it was "bargain", too...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Here it is. It's extra-fine beef!
+Ta-daa!
+Luxury Beef!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-No way.	How could you afford that?
-I thought you didn't have any money.
+Really? How could you afford that?
+I thought you were broke!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Actually, I got it. You know,
-from the village chief's place.
+Well, it was given to me.
+It's from the chief's house!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I know she likes you, but...
+...I know his daughter's
+got a crush on you, but...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Isn't it weird to get beef from her?
+...She gave you... beef??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Actually, it totally is...
+Well, actually, what happened was...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're welcome.
+...Then she gave it to me.
+She said she was happy to help!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hmm? What's with the red face?
-Something wrong with your stomach?
+Huh? Your face is getting red...
+Is your stomache hurting or something?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What the hell! That means you
-got that beef as a gift!
+Are you kidding me?!
+She gave it to you because
+she felt sorry for you!!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 What if they get the wrong idea
-and think that we can't make
-ends meet?
+and think we can't afford food?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No, I don't think that's the case.
+What? No, they don't think tha-
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yes it is! I'm so embarrassed I
-can't show my face in public!
+They totally do!
+Aah, I'm so embarrassed!
+How will I ever show my
+face around the village again?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -449,22 +463,22 @@ about it too much.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Hurry up and give it back!
-Go! Do it right now!
+You! Take it back to them!
+Now! Go! GO! GO! NOW!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, okay.
+Okay, okay!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You have to return it to them.
-If you don't, I won't let you in
-the house!
+Go give it back to them
+right now! I'm not letting
+you back in the house until you do!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Wake up, big brother.
+Big bro, wake up!
 You have a visitor!
 [ENDBLOCK]
 <Stahn>
@@ -482,14 +496,13 @@ Please wait a moment.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ladle in my right hand!	Frying
-pan in my left hand!
+Ladle in my right hand!
+Frying pan in my left!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Come on, get up! What are you
-doing, lazily sleeping in the middle
-of all this!
+Come on, get up! How can you
+be sleeping through all this?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -501,13 +514,13 @@ Oh, is he waking up now?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I thought I heard <Dymlos>'
-voice just now.
+I thought I heard
+<Dymlos>' voice just now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But it can't be, can it?
-It must be just a dream, yeah.
+That can't be though, right?
+Musta just been a dream...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -515,12 +528,14 @@ Long time no see, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>... are you a dream too?
+<Philia>...?
+Are you a dream too?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're still not awake. Why don't
-you go to the living room?
+Ah, he's not awake, after all.
+I'll handle this. Go to the
+living room and take cover!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -529,7 +544,7 @@ Secret Technique:
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What the...?
+UNGWHA!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -538,17 +553,17 @@ It's been a while, <Philia>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm so glad you came all the
-way out here to see me.
+I'm so glad you came all
+the way out here to see me!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-This isn't the time for greetings.
-Something terrible has happened.
+This isn't the time for small talk.
+Something terrible has happened!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Actually, the Eye of Atamoni
+You see, the Eye of Atamoni
 has gone missing again.
 [ENDBLOCK]
 <Stahn>
@@ -558,28 +573,28 @@ What!?	The Eye of Atamoni!?
 <Dymlos>
 [ENDBLOCK]
 You don't have to yell.
-Please calm yourself.
+Calm down, already.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I mean, I thought they built a
-facility to keep it sealed off.
+But... Didn't they put it in
+a special facility or something?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I heard that the Draconis suddenly
+Apparently, the Draconis suddenly
 attacked and destroyed the facility.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-So they just took the Eye
-of Atamoni with them.
+After that, the Eye of Atamoni
+was simply taken away.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 The Draconis is from
 Seinegald, right?
-Why is that...
+I don't understand...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -588,9 +603,9 @@ things to consider as well.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-The location of the Eye of Atamoni
-seal must have been known by
-only a few people.
+The location where we sealed
+the Eye of Atamoni was known
+only to a select few people.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -599,7 +614,7 @@ work of someone from Seinegald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-No way.
+No way!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -613,11 +628,11 @@ you up, so here I am.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, all right!
+Okay, gotcha!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm going with the others.
+I'll gladly go with you.
 I can't just leave this be.
 [ENDBLOCK]
 <Philia>
@@ -626,7 +641,8 @@ I knew you would say that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Just give me a minute, will you?
+Just give me
+a minute, will you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -634,40 +650,40 @@ You're going away again!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lilith>... the thing is...
+<Lilith>... The thing is...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-We had a deal. You promised
-you would never leave me again.
+We had a deal! You promised
+you would never leave me again!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I told you before how
-worried I was when you
-left, didn't I?
+I told you before, didn't I?
+I was worried sick
+when you left, last time!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, yeah.
+Y-Yeah...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-And yet, you're still going.
+Even so, you're still gonna go?!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 You don't care about
-me or Grandpa.
+me or Grandpa!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's not true! You and Grandpa
+That's not true! You and gramps
 are both very important to me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But this time it's...
+But this time... I...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -680,8 +696,8 @@ your brother's help.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-That has nothing to do with me!
-Do what you want!
+That's no concern of mine!
+Fine. Do what you want!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -689,7 +705,7 @@ Do what you want!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-...Big brother, you're an idiot!
+...Big bro, you idiot!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -697,45 +713,41 @@ Ahh...
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-You've made a big mess.
+You're in a bind now, hm?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Grandpa, I...
 [ENDBLOCK]
-You may go, <Stahn>.
+Go, <Stahn>.
 [ENDBLOCK]
-You're in a lot of trouble,
-aren't you? I can see it in
-your eyes.
+I see it in your eyes.
+Something serious has happened.
 [ENDBLOCK]
-Go forth. And accomplish
-what only you can do.
+Go forth. Do what only you can.
 [ENDBLOCK]
 I'll take care of <Lilith>.
-Don't worry, it's nothing
-to worry about.
+Don't worry about her.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Thank you, Grandpa.
-It made me feel better to
-hear you say that.
+I feel better hearing you say that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll talk to <Lilith>
-myself as well.
+I'll talk to <Lilith>, too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's good to see you again, <Dymlos>.
+It's good to see
+you again, <Dymlos>.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 From now on, I'm going to be
-tougher on you than ever. Be
-prepared for that.
+tougher on you than ever.
+Be prepared for that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -743,31 +755,31 @@ You're the same as always.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-So, let's get going.
+Well, let's get going.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-First, let's go out to Neustadt
+First, let's go to Neustadt
 and take a boat to Phandaria.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're going to see
-<Woodrow>, aren't you?
+We're going to see
+<Woodrow>, aren't we?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Take this with you, big brother.
+Take this with you, big bro.
 It'll come in handy.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, thanks a lot. You're
-very thoughtful after all.
+Wow, thanks a lot!
+You're pretty nice, after all, huh?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-After all, how else am I supposed
+How else am I supposed
 to take care of you?
 [ENDBLOCK]
 <Stahn>
@@ -776,12 +788,13 @@ Okay... fair enough.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right, then, let's go!
+Alright, then, let's go!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother, it's morning!
-Come on, wake up.
+Big Bro! It's morning!
+Come on come on, You...
+You're out of bed...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -789,34 +802,36 @@ Good morning, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-...Big brother, you've really gotten
-better at sleeping and waking up.
+You've gotten better at
+getting up, huh, big bro?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't keep giving
-you trouble, <Lilith>.
+Well, I didn't want
+to burden you forever <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-That's just boring.
+Well that's nice...
+A bit boring for me, though.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Besides...
+Well, besides...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's a special day. I woke
-up earlier than usual.
+Today's a special day.
+I needed to get up much
+earlier than usual.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-...I see.
+...That's right!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I hope we can all get together.
+I hope everyone can make it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1060,8 +1075,8 @@ don't hesitate to come back.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Why don't you go home and rest
-for the first time in a while?
+It's been a while since you
+came home. Why don't you rest a while?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1116,14 +1131,14 @@ Confess immediately!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're under suspicion
-too you know!?
+You're under
+suspicion too, you know!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-M-Me too!?
+I-I am!?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I've got nothing to do with this.
 Besides, it was <Bacchus>, right?
@@ -1171,7 +1186,7 @@ Thomas
 [ENDBLOCK]
 What!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I-It wasn't me though...
 [ENDBLOCK]
@@ -1184,7 +1199,7 @@ into the bathroom then?
 [ENDBLOCK]
 Peeked into the...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 ...Bathroom?
 [ENDBLOCK]
@@ -1211,8 +1226,8 @@ Bathroom Peeper Mystery!
 <Stahn>
 [ENDBLOCK]
 When I was gathering everyone up,
-I didn't dare explain exactly why
-I was doing it!
+I didn't dare explain
+my reasons for doing so!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1278,7 +1293,7 @@ completely different person.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-N-Nah... I just... was actin' like
+N-Nah... I just... was acting like
 the main character in a book
 I read a long time ago...
 [ENDBLOCK]
@@ -1292,7 +1307,7 @@ You're the best, big bro!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-...Good.
+Thank goodness...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1306,12 +1321,12 @@ worrying about you for so long,
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Whew, but I'm really glad. It looks
-like your business is done, too.
+Whew... I'm so relieved.
+You've come back for good, this time...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah, no...
+Ah, no, I...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1319,12 +1334,12 @@ Grandpa will be home soon...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You know...
+About that...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-That's right. What do you
-want to eat, big brother?
+Oh, right! What do you
+want to eat, big bro?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1342,21 +1357,22 @@ anything special today?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lilith>...
-I'm not done with my business yet.
+<Lilith>, I...
+I still have things to do.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-No, no, no... I knew it.
+No...
+I knew it...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I knew it would come to this, ever
-since I saw my brother off.
+Ever since I saw you off,
+I knew this would happen.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm sorry, big brother.
+I'm sorry, big bro...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1364,13 +1380,13 @@ Eh?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-So, you're still in the middle
-of your business...
+So... You're still
+not done with your duty.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-So what should you be doing
-right now, big brother!?
+So what should you
+be doing right now, big bro!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1378,21 +1394,22 @@ W-What!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Ever since you left, I've been
-determined to do something.
+When you left, I made
+a promise to myself.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Your decision...
-You said that I shouldn't sway it.
+You said I wouldn't
+sway your decision.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-And most importantly...
+But most importantly...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You said I had to be strong too!
+You said I had
+to be strong too!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1400,8 +1417,8 @@ You said I had to be strong too!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-...Come on, big brother. Swear to
-me that you'll do it!
+...Come on, big bro!
+Swear to me that you'll do it!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1413,8 +1430,7 @@ I swear, <Lilith>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll bring back the peaceful
-sky once again!
+I'll bring the sky back. I promise.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1422,9 +1438,9 @@ I swear to you, big brother.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I will be stronger than anyone
-else so that my favorite brother's
-promise can be kept!
+I will become stronger than anyone
+else, so my beloved brother
+can keep his promise to me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1432,12 +1448,12 @@ promise can be kept!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother, you must
+Big bro, you have to
 keep your promise!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-And you too, <Lilith>.
+You too, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1688,7 +1704,7 @@ I see! Thank you!
 Thomas
 [ENDBLOCK]
 You know, it's been a while since
-you've helped me with anything.
+you've helped me out. How about it?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1697,20 +1713,21 @@ No
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Okay. Now, go
-herd the sheep.
+Alright. I'll leave
+the sheep to you, then.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Well, you've got things to do now.
+Well, you still have
+something you must do, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Woohoo!
+Wheeeee!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What is it, Jonathan?
+Whatcha got there, Jonathan?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
@@ -1729,39 +1746,41 @@ girl you need to know!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-This young lady?
+Who's this little lady?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Chelsea> is very good with a bow.
+<Chelsea>'s really
+good with a bow, gramps!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I'll ask you to do it, then.
+Really? Then I have a favor to ask.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-There was something stuck on the
-top of the tree in front of my house.
+There's something caught
+in the tree just outside the house.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I think if you hit the arrow
-close enough, it will fall.
+If you were to hit a spot
+close enough to it with
+an arrow, I reckon it'd fall out.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 Yes, I understand.
-I think I'll be fine.
+I think I can do that.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-We'll have to help with something.
+There must be
+something we can do to help...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-It's okay, <Lilith>.
-
+Don't worry, Miss <Lilith>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1769,71 +1788,74 @@ I'll be right back.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Oh, you're early.
+Well, that was fast.
 Are you done already?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yes, I'm done with it.
+Yes, what's done is done but...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What is this?
+Wh-What is THAT?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-It's an egg.
+It's an egg!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Is this what's been bugging you?
+This is what was stuck in the tree?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yeah.
+Yep.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's hatched!
+It hatched!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Oh, she's so cute.
+Eee! It's so cuuute!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm a little afraid of...
+It's... Kind of creepy...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Why me?
+What the?
+Why me!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's not fair, <Lilith>!
-I'm the one who found you. Buu.
+Oh, that's not fair, Miss <Lilith>!
+I'm the one who found it! Boo!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you think <Lilith>
-is your mother?
+Does it think <Lilith>
+is it's mother?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-<Lilith> will be responsible
-for taking care of you.
+Looks like you've got
+someone to take care of, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Eh~. My brother is enough for me.
+Ehh?! My brother's
+enough hassle for one girl!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Come on, take him for a walk.
+Hey, you should
+take it for a walk.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Come on, take him for a walk.
+Come on, take it for a walk.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
@@ -1841,72 +1863,72 @@ How'd it go?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-It was really nice.
+Pretty well, actually.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Okay, but what are you
-going to do now?
+That's good, but what
+should we do with it now?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Grandpa. Can I ask you to
-take care of her for a while?
+Grandpa, could I ask you
+to take care of it for a while?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-You're still going to be
-with <Stahn>, aren't you?
+You still want
+to travel with <Stahn>?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah. I'm sad to leave her, though.
+Mhm. I'll be sad to part
+with this little girl but..
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-It's cute to think of him
-as our third grandchild.
+I reckon I can consider this cute
+little fellow my third grandchild.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What are you talking about, Grandpa?
-"Great-grandchild".
+What are you on about, grandpa?
+If anything, it's your great-grandchild!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Ho-ho-ho. That's right.
-You're <Lilith>'s child, aren't you?
+Hohohoh, I reckon you're right;
+it's your foster-child, after all.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Hey, Grandpa.
-Where's the girl?
+Hey, grandpa.
+here's the baby dragon?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-I don't know where she is.
+I have no idea where it went...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-What?
+What?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then we have to find her!
+We have to go look for it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Did that girl just spontaneously
-disappear?
+Did it go away on it's own?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Ah, yes.
+Indeed, it did.
 I'm sorry, <Lilith>.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Did she grow up?
+Was it getting big?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1914,60 +1936,61 @@ Did she grow up?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Oh. she's much, much more grown
-than I was when I was born.
+Yes. It had gotten much,
+much bigger than when it was born.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Okay.
+I see...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Maybe it was a nesting trip.
+I guess it had to leave the nest someday...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 I'm sad that I won't be able
-to see him anymore, but...
+to see her anymore, but...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-As a mother.
+As a mother,
 I should be happy!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, that's right <Lilith>!
+That's the spirit, <Lilith>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, then.
+Well, then...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-It's too early for your
-brother to leave the nest.
+It's still too early
+for you to leave
+the nest, though, big bro.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Next time you see him, maybe
-he'll bring his wife and kids!
+Next time we see her, maybe
+she'll bring her own kids!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-If something like that happens,
-<Lilith> can't be bothered with
-<Stahn>.
+In that case, I wouldn't be able
+to take care of them and
+you two at the same time!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Give me a break~.
+Give me a break...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Hahahaha.
+Hehehe!
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Ho-ho-ho.<x00>
+Hohohoh!<x00>
 [ENDBLOCK]
