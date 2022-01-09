@@ -8,30 +8,29 @@ No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>The letters are floating in the light.
-Do you want to read it?
+<TAG_007>Letters of light float before you.
+Do you want to read them?
 Read
 Don't Read
 [ENDBLOCK]
-<TAG_007>The gates of God have
-been opened again...
+<TAG_007>The gates of the heavenly
+gods have been opened once again...
 [ENDBLOCK]
-<TAG_007>There is a stone tablet with the words of
-Tenchi Shinmei. The four apostles who
-descended from Heaven and fought for
-it and fell never having wavered.
+<TAG_007>A stone tablet exists that 
+house their words. Four apostles,
+descended from the heavens, fighting
+to the death over it.
 [ENDBLOCK]
-<TAG_007>A stone slab split into four parts: Heaven,
-Earth, God, and Light. When it regains its
-original form and receives the piercing
-light from the heavens, the closed gate
-of God will be opened again.
-[ENDBLOCK]
-notice
+<TAG_007> The heavens, the earth, the soul, and light.
+Four parts, when rejoined, shall be
+pierced by light from the heavens
+opening the gates of the heavenly gods. 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><TAG_007>The door is tightly closed.
+notice
+[ENDBLOCK]
+<TAG_007><TAG_007>The door sealed.
 [ENDBLOCK]
 ●●●赤ルートの描画制御を実行します●●●
 
@@ -50,7 +49,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007>The seal on the sigil was
-broken and the door has opened.
+broken and the door is now open.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
