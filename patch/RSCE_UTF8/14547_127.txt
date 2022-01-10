@@ -93,12 +93,12 @@ j = <TAG_032>
 箱からNPC作成→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF><x72><x40><x74><x8B><xE8><xD0><xEF><x70><x40><x5C><xAA><x80>
 
 [ENDBLOCK]
-We can't reach that. We need to find
-a way to create a bridge across.
+We can't reach that. We need to
+create a "bridge" to get to it.
 
 [ENDBLOCK]
 No way we can jump there. We need
-to find something to brdige the gap.
+to find something to bridge the gap.
 
 [ENDBLOCK]
 If only we had a something to
@@ -106,7 +106,7 @@ bridge the gap, we could cross.
 
 [ENDBLOCK]
 No way we can jump there. We need
-to find something to brdige the gap.
+to find something to bridge the gap.
 
 [ENDBLOCK]
 Without a way to cross...
@@ -116,12 +116,12 @@ If there was a bridge,
 we could get across.
 
 [ENDBLOCK]
-We can't reach that. We need to find
-a way to create a bridge across.
+We can't reach that. We need to
+create a "bridge" to get to it.
 
 [ENDBLOCK]
 No way we can jump there. We need
-to find something to brdige the gap.
+to find something to bridge the gap.
 
 [ENDBLOCK]
 It's impossible to jump over this.
