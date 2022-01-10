@@ -7,62 +7,62 @@
 #CREATEPTR(ptr, "LINEAR", $-57b6c0, 32)
 
 #JMP($50)
-//Text $16667
+//Text $1665D
 Let's Find the Seinegald Soldiers in Cresta[END]
 
-//Text $16693
+//Text $16689
 Let's Find the Orphanage[END]
 
-//Text $166AC
+//Text $166A2
 Find the Beach North of Cresta[END]
 
-//Text $166CB
+//Text $166C1
 Let's Debrief the Mission[END]
 
-//Text $166E5
+//Text $166DB
 No Business Outside[END]
 
-//Text $166F9
+//Text $166EF
 Let's Hurry Back to the Manor[END]
 
-//Text $16717
+//Text $1670D
 We Need to Find [Marian][END]
 
-//Text $1672D
+//Text $16723
 The Draconis is in the Castle[END]
 
-//Text $1674B
+//Text $16741
 Let's hear Hugo's Orders[END]
 
-//Text $16764
+//Text $1675A
 We'll Enter the Sealing Facility from Behind[END]
 
-//Text $16791
+//Text $16787
 To the Sealing Facility[END]
 
-//Text $167A9
+//Text $1679F
 To the Depths[END]
 
-//Text $167B7
+//Text $167AD
 Where's Hugo and the Others?[END]
 
-//Text $167D4
+//Text $167CA
 Sorcerer's Ring goes Boom[END]
 
-//Text $167EE
+//Text $167E4
 There's Still Places We Can Destroy[END]
 
-//Text $16812
+//Text $16808
 Not This Way[END]
 
-//Text $1681F
+//Text $16815
 We Can't Afford to Dawdle![END]
 
-//Text $1683A
+//Text $16830
 Let's Not Do That Now..[END]
 
-//Text $16852
+//Text $16848
 Let's Go[END]
 
-//Text $1685B
+//Text $16851
 I Have Somewhere Else to Be[END]
