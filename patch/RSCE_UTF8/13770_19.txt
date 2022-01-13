@@ -91,9 +91,9 @@ Your Food is full.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Title "Straylize Clear Stream"
+<TAG_005>Title: "Straylize Clear Stream"
 [ENDBLOCK]
-Innkeeprer
+Innkeeper
 [ENDBLOCK]
 Welcome, travelers.
 Would you like a room?
@@ -109,7 +109,7 @@ Have a good day.
 [ENDBLOCK]
 You don't have enough Gald.
 [ENDBLOCK]
-Innkeeprer
+Innkeeper
 [ENDBLOCK]
 Welcome, travelers.
 Would you like a room?

@@ -8273,7 +8273,7 @@ EX Dungeon[END]
 //Text $1A5F20
 #WRITE(ptr,$189870)
 #WRITE(ptr,$18987C)
-Traveller's Lodge[END]
+Traveler's Lodge[END]
 
 
 //Text $1A5F00
@@ -15296,7 +15296,7 @@ who collected oral traditions.[END]
 #WRITE(ptr,$19138C)
 Somewhat stiff, but strong gloves.[LINE]
 A regular companion[LINE]
-of female travellers.[END]
+of female travelers.[END]
 
 //Text $1B7F18
 #WRITE(ptr,$1913A8)
@@ -16195,7 +16195,7 @@ pickled as a side dish.[END]
 #WRITE(ptr,$191D9C)
 Strap with an Rice Ball.[LINE]
 Carefully molded with love.[LINE]
-One's best travelling companion.[END]
+One's best traveling companion.[END]
 
 //Text $1BA180
 #WRITE(ptr,$191DC8)
@@ -18360,7 +18360,7 @@ Gut Buster[END]
 
 //Text $1BB3E0
 #WRITE(ptr,$193228)
-Traveller's Friend[END]
+Traveler's Friend[END]
 
 
 //Text $1BB3D0
