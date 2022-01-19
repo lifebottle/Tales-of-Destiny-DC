@@ -57,14 +57,14 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Treasure chests have special effects
-within the <x18><x66><x1C><x00><x80>.
+Treasure chests have special
+effects within the <x18><x66><x1C><x00><x80>.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 Some will restore your strength and
-replenish your food supply, while
+replenish your food supply, whilst
 others will deplete your strength
 and leave you hungry.
 
@@ -72,8 +72,8 @@ and leave you hungry.
 notice
 [ENDBLOCK]
 All chests that share a color on a
-floor have the same effect.
-Open one to discover what it is.
+floor have the same effect. Open
+one to discover what it is.
 
 [ENDBLOCK]
 ×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07><x66><x10><x0B><x70><x08><xAB><x8B><xE8><xCF><x70><x00><xAA><x80>	×
@@ -91,8 +91,8 @@ Treasure Chest: HP Reduction
 <center>Chests of this color seem
 to drain your strength.
 [ENDBLOCK]
-<center>Chests of this color seem to
-<center>increase EX Points.
+<center>Chests of this color seem
+to <center>increase EX Points.
 [ENDBLOCK]
 Treasure Chest: EX Points Increase
 Amount: <TAG_032>	Current: <TAG_034>
@@ -134,14 +134,17 @@ you assistance on your journey.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course it may cost you EX Points,
-or maybe I'll just give you a present.
+Of course, it'll cost you some of
+your EX Points. But who knows?
+If I feel like it, I might just help
+you out for free.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Either way, don't forget you can
-spend your EX Points at the entrance.
+Either way, don't forget
+you can spend your EX
+Points at the entrance.
 
 [ENDBLOCK]
 Cyglorg
@@ -235,8 +238,8 @@ How may I be of assistance?
 select
 [ENDBLOCK]
 Exchange <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -307,8 +310,8 @@ How may I be of assistance?
 select
 [ENDBLOCK]
 EX Points Remaining	<x17><x72><x40><x20><x80>
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -360,9 +363,9 @@ Gives EX Points
 [ENDBLOCK]
 Reduces EX Points
 [ENDBLOCK]
-Adds Food
+Adds food to the sack.
 [ENDBLOCK]
-Removes Food.
+Diminishes food supply.
 [ENDBLOCK]
 この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
 [ENDBLOCK]
@@ -404,8 +407,8 @@ How may I be of assistance?
 select
 [ENDBLOCK]
 Exchange <TAG_075> <x1A><x72><x40><x1C><x80>?  Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -422,7 +425,7 @@ Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Your Food is now full.
+Your Food Sack is now full.
 
 [ENDBLOCK]
 Cyglorg
@@ -640,7 +643,7 @@ No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Is <TAG_007><x18><x66><x50><x58><x00><x80> correct?
+Is <TAG_007><x18><x66><x50><x58><x00><x80> your support of choice?
 Yes
 No
 
@@ -778,9 +781,9 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Some platforms on this floor
-are different than others.
-They react to additional weight.
+Some platforms on this floor are
+different than others. They react
+to additional weight.
 
 [ENDBLOCK]
 notice
@@ -792,8 +795,9 @@ to the added weight.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-However, some platforms are linked.
-Lowering one will cause another to rise.
+However, some platforms
+are linked. Lowering one
+will cause another to rise.
 
 [ENDBLOCK]
 
