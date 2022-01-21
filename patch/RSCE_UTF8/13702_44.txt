@@ -469,7 +469,7 @@ come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Please come on through.
+You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -478,7 +478,7 @@ come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Please come on through.
+You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -487,7 +487,7 @@ Please come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Please come on through.
+You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -500,7 +500,7 @@ Please come on through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Please come on through.
+You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -929,8 +929,8 @@ notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
