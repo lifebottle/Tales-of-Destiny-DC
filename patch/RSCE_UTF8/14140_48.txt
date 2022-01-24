@@ -146,7 +146,7 @@ WALL_2なり!!
 ▼CheckHitTriPointUp2Fto1F開始
 
 [ENDBLOCK]
-→→ヒットしたので、z座標を「-0.75f」へずらします
+→→ヒットしたので、z座標を[-0.75f]へずらします
 
 [ENDBLOCK]
 →→ヒットしませんでした
@@ -154,7 +154,7 @@ WALL_2なり!!
 ▼CheckHitTriPointDown2Fto1F開始
 
 [ENDBLOCK]
-→→ヒットしたので、z座標を「-4.5f」へずらします
+→→ヒットしたので、z座標を[-4.5f]へずらします
 
 [ENDBLOCK]
 →→ヒットしませんでした
@@ -162,7 +162,7 @@ WALL_2なり!!
 ▼CheckHitTriPointDown1Fto2F開始
 
 [ENDBLOCK]
-→→ヒットしたので、z座標を「-0.75f」へずらします
+→→ヒットしたので、z座標を[-0.75f]へずらします
 
 [ENDBLOCK]
 →→ヒットしませんでした
