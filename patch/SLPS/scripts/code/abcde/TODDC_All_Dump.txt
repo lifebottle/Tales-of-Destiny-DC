@@ -1553,7 +1553,7 @@ Slices foes with a vortex of wind.[END]
 //Text $19CC30
 #WRITE(ptr,$184A70)
 [turquoise]＜Hold [L1_copy][turquoise] while landing an attack. Consumes 3 BG＞[/color][LINE]
-Breaks his limiters to protect his comrades.[END]
+Disengages his limiter to protect his comrades.[END]
 
 
 //Text $19CC20
@@ -2547,8 +2547,8 @@ Slash foes down, then up into the air.[LINE]
 
 //Text $1A01D0
 #WRITE(ptr,$183570)
-Pass through enemy attacks and[LINE]
-slice them.[END]
+Pass through enemy attacks[LINE]
+and slice them.[END]
 
 
 //Text $1A01C0
@@ -3875,7 +3875,8 @@ Conjures a vortex of cold air.[LINE]
 
 //Text $19E130
 #WRITE(ptr,$1841D0)
-Creates a wall of ice in front of the caster[LINE]
+Creates a wall of ice
+in front of the caster.[LINE]
 [END]
 
 
@@ -4029,8 +4030,8 @@ into the air.[END]
 
 //Text $19DCC8
 #WRITE(ptr,$184390)
-Creates a spear of stone in front of the[LINE]
-castor. Inflicts seal.[END]
+Creates a spear of stone in front[LINE]
+of the caster. Inflicts seal.[END]
 
 
 //Text $19DCB0
@@ -4293,8 +4294,8 @@ Revives one KO'd ally and restores[LINE]
 
 //Text $19D600
 #WRITE(ptr,$184690)
-Drops a toy hammer that may[LINE]
-stun. Is it a spell?[END]
+Drops a toy hammer that[LINE]
+may stun. Is it a spell?[END]
 
 
 //Text $19D5E8
@@ -8273,7 +8274,7 @@ EX Dungeon[END]
 //Text $1A5F20
 #WRITE(ptr,$189870)
 #WRITE(ptr,$18987C)
-Traveler's Lodge[END]
+Traveller's Lodge[END]
 
 
 //Text $1A5F00
@@ -10248,8 +10249,8 @@ Recover abnormal status effect.[END]
 
 //Text $1AF970
 #WRITE(ptr,$18C70C)
-Protects against all abnormal status,[LINE]
-as well as de-buffs.[END]
+Protects against all abnormal[LINE]
+status, as well as de-buffs.[END]
 
 
 //Text $1AF958
@@ -11031,9 +11032,9 @@ for some medicine.[END]
 
 //Text $1AE1F0
 #WRITE(ptr,$18CED0)
-A smelly purple liquid.[LINE]
-Rumored to be an ingredient[LINE]
-for some medicine.[END]
+A smelly purple liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+medicine.[END]
 
 
 //Text $1AE1E0
@@ -12763,8 +12764,8 @@ the Dwarves.[END]
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
 A small axe that is very easy to[LINE]
-handle. You don't need to be[LINE]
-very strong to wield in one hand.[END]
+use. You don't need to be very[LINE]
+strong to wield in one hand.[END]
 
 
 //Text $1B2668
@@ -12859,7 +12860,7 @@ valuable. A warrior's dream axe.[END]
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
 An axe whose name means[LINE]
-"A tool for cutting". If you're[LINE]
+"A tool for cutting." If you're[LINE]
 skillful, you can throw it.[END]
 
 
@@ -12968,7 +12969,7 @@ of metal.[END]
 #WRITE(ptr,$18E4EC)
 An axe reinforced with metal[LINE]
 for extra strength. Can be[LINE]
-used as an everday tool.[END]
+used as an everyday tool.[END]
 
 
 //Text $1B1FE0
@@ -13541,9 +13542,9 @@ made of a tortoiseshell.[END]
 
 //Text $1B0E30
 #WRITE(ptr,$18F02C)
-An instrument popularized in Aquaveil.[LINE]
-It is generally plucked with a bachi instead of[LINE]
-fingers and is often used while telling stories.[END]
+An instrument popularized in Aquaveil. It[LINE]
+is usually plucked with a bachi instead of[LINE]
+fingers and is often used while storytelling.[END]
 
 
 //Text $1B0E20
@@ -13892,7 +13893,7 @@ Armor, but also heavier.[END]
 
 //Text $1B5750
 #WRITE(ptr,$18F770)
-A beautiful and shinning[LINE]
+A beautiful and shining[LINE]
 black armor. Jet black[LINE]
 armor used in rituals.[END]
 
@@ -14071,7 +14072,7 @@ traditional breastplate.[END]
 //Text $1B5118
 #WRITE(ptr,$18FB30)
 Breastplate strengthened[LINE]
-with steel plates. A fovorite[LINE]
+with steel plates. A favorite[LINE]
 of soldiers.[END]
 
 //Text $1B5100
@@ -14770,9 +14771,9 @@ enemies' guards.[END]
 
 //Text $1B3970
 #WRITE(ptr,$1909B8)
-Cloak made of fine cloth.[LINE]
+A Cloak made of fine cloth.[LINE]
 Vestment of the Straylize[LINE]
-clergy. Has Atamoni's blessing.[END]
+clergy. Blessed by Atamoni.[END]
 
 //Text $1B3958
 #WRITE(ptr,$1909F0)
@@ -15003,8 +15004,8 @@ Extremely valuable.[END]
 //Text $1B31F8
 #WRITE(ptr,$190EA4)
 Robe of the Straylize Temple.[LINE]
-Uniform handed out to those who[LINE]
-become disciples of God.[END]
+Uniform handed out to those[LINE]
+who become disciples of God.[END]
 
 
 //Text $1B31E0
@@ -15171,8 +15172,8 @@ A necessity for apprentice swordsmen. [END]
 
 //Text $1B8338
 #WRITE(ptr,$19122C)
-Gauntlet made of thin[LINE]
-bronze. Traditional gauntlets used[LINE]
+Gauntlet made of thin bronze.[LINE]
+Traditional gauntlets used[LINE]
 since the age of the Aeth'er War.[END]
 
 //Text $1B8318
@@ -15296,7 +15297,7 @@ who collected oral traditions.[END]
 #WRITE(ptr,$19138C)
 Somewhat stiff, but strong gloves.[LINE]
 A regular companion[LINE]
-of female travelers.[END]
+of female travellers.[END]
 
 //Text $1B7F18
 #WRITE(ptr,$1913A8)
@@ -15635,8 +15636,8 @@ the ring and the dagger throw.[END]
 
 //Text $1B7168
 #WRITE(ptr,$19176C)
-Dagger with a sharp point used by[LINE]
-knights. Besides cutting enemies[LINE]
+A Dagger with a sharp point used by[LINE]
+knights. Aside from cutting enemies[LINE]
 down it can also be used for etiquette.[END]
 
 //Text $1B7150
@@ -15880,8 +15881,8 @@ Allows one to move excitedly.[END]
 //Text $1B68B0
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
-Aiming to be classy with a stylish[LINE]
-hat. That's Johnny''s style.[END]
+Aiming to be classy with a stylish hat.[LINE]
+That's Johnny''s style.[END]
 
 
 //Text $1B6898
@@ -16188,14 +16189,14 @@ pickled as a side dish.[END]
 
 //Text $1BA218
 #WRITE(ptr,$191D98)
-[Sign_3]Rice Ball[END]
+[Sign_3]Rice Balls[END]
 
 
 //Text $1BA1C8
 #WRITE(ptr,$191D9C)
-Strap with an Rice Ball.[LINE]
+Strap with some Rice Balls.[LINE]
 Carefully molded with love.[LINE]
-One's best traveling companion.[END]
+One's best travelling companion.[END]
 
 //Text $1BA180
 #WRITE(ptr,$191DC8)
@@ -16372,9 +16373,9 @@ Packed with stamina.[END]
 
 //Text $1B98A8
 #WRITE(ptr,$19206C)
-Strap with a Muffin.[LINE]
-Small, round, and puffy sweet pastry.The one[LINE]
-stuffed with fresh cream is recommended.[END]
+Strap with a Muffin. Small, round, and [LINE]
+puffy sweet pastry. The one stuffed with [LINE]
+fresh cream is recommended.[END]
 
 
 //Text $1B9870
@@ -17566,8 +17567,8 @@ press [Circle_ani2] to view the enemy's entry.[END]
 
 //Text $1BAED0
 #WRITE(ptr,$192750)
-A record of all the foods[LINE]
-we've eaten.[LINE]
+A record of all the[LINE]
+foods we've eaten.[LINE]
 [END]
 
 
@@ -17722,9 +17723,9 @@ It's tough without one...[END]
 
 //Text $1BA9B8
 #WRITE(ptr,$1928BC)
-A tool used to dig up hard[LINE]
-ground. Both of its ends are[LINE]
-pointed like a beak.[END]
+A tool used to dig through[LINE]
+hard dirt. Both of its ends[LINE]
+are pointed like a beak.[END]
 
 
 //Text $1BA9A8
@@ -18360,7 +18361,7 @@ Gut Buster[END]
 
 //Text $1BB3E0
 #WRITE(ptr,$193228)
-Traveler's Friend[END]
+Traveller's Friend[END]
 
 
 //Text $1BB3D0
@@ -18708,12 +18709,12 @@ Clandestine Weaponry[END]
 Functional Beauty[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB0B0
 #WRITE(ptr,$194178)
 Custom Made[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB0A0
 #WRITE(ptr,$1941B0)
 Fly High[END]
@@ -19877,9 +19878,10 @@ Sweet Boy[END]
 
 //POINTER #155 @ $194914 - STRING #155 @ $1BD6B0
 #WRITE(ptr,$194914)
-He says he hates sweets,[LINE]
-but actually enjoys them.[LINE]
-A sweet secret known only to men...[END]
+He says he hates sweets, but[LINE]
+actually enjoys them. A sweet[LINE]
+secret known only to men...[END]
+
 
 //POINTER #156 @ $194918 - STRING #156 @ $1BD698
 #WRITE(ptr,$194918)
