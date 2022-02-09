@@ -455,7 +455,7 @@ The Temple is North of Darilsheid[END]
 
 //Text $130A6
 #WRITE(ptr,$55C8)
-From Armedia to the Temple[END]
+From Armeida to the Temple[END]
 // current address: $130C1
 
 //Text $130C1
@@ -465,12 +465,12 @@ Straylize Temple is to the East[END]
 
 //Text $130E1
 #WRITE(ptr,$55D0)
-Straylize Temple is East of Armedia[END]
+Straylize Temple is East of Armeida[END]
 // current address: $13105
 
 //Text $13105
 #WRITE(ptr,$55D4)
-We'll Take the Road East to Armedia[END]
+We'll Take the Road East to Armeida[END]
 // current address: $13129
 
 //Text $13129
