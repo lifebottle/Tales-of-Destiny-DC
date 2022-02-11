@@ -185,7 +185,7 @@ NorthEast - Cyril Area
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>: Enemy ship on the left!
+<TAG_009><Stahn>: Ship! Left side!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -211,8 +211,8 @@ the flagship, I'd bet my belt on it!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: If we waste too much time, they'll be reinforced.
-We want to take the enemy general when he's alone!
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: Hurry, before reinforcements arrive.
+Our main objective, take out the general!
 [ENDBLOCK]
 
 [ENDBLOCK]
