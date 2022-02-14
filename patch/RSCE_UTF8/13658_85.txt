@@ -1229,8 +1229,8 @@ get what we wanted because of you!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>, you're thankful, aren't you?
-I'm glad I found <Stahn>.
+Show a little appreciation, will ya,
+<Rutee>, I'm glad I found <Stahn>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1314,7 +1314,7 @@ Hey, why...
 <Rutee>
 [ENDBLOCK]
 All right, you're coming with us.
-You can't stay here!
+We can't just leave you here!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1375,9 +1375,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x04><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x04><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5A><x00><x00><x80></color>.
+<x18><x65><x5A><x00><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><xF4><x80>'s party received
@@ -1408,7 +1408,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xF4><x80> has received
+<x19><x69><x49><xF4><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]

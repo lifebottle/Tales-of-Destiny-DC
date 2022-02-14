@@ -86,9 +86,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>.
+<x18><x65><x57><xE4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>'s party received
@@ -119,7 +119,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80> has received
+<x19><x69><x47><xD8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
