@@ -570,16 +570,20 @@ along with foreigners now...
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Do you have a <ITEM_065>,
-<ITEM_066>, <ITEM_067>,
-<ITEM_068> and a <ITEM_069>?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-If you procure the necessary items
-and bring them here, we will mix them
-together and give you an <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-You have all
-the ingredients.
+You have all the
+ingredients.
 
 [ENDBLOCK]
 <TAG_007>Would you like to replace the
@@ -613,8 +617,8 @@ have the ingredients.
 
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but
-you can hold any more.
+[<ITEM_Elixir>] acquired but you
+can't hold any more.
 
 [ENDBLOCK]
 Priest
@@ -646,7 +650,7 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x28><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
 is now an active
 party member.
