@@ -572,8 +572,7 @@ head for the port town of Frostheim.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Do you want
-to go to Frostheim?
+<TAG_007>Do you want to go to Frostheim?
 Yes
 No
 
@@ -618,9 +617,9 @@ King's influence over his people.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-That ends today. From now on
-I will dedicate myself to protecting
-the people of Terazzi.
+That ends today. From now on I will 
+dedicate myself to protecting the
+people of Terazzi.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
