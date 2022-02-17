@@ -2315,8 +2315,8 @@ Deals additional damage on impact.[END]
 
 //Text $1A0668
 #WRITE(ptr,$183350)
-A gald stealing attack.[LINE]
-Increases recovery rate of spells?[END]
+An arte to find dropped Gald. Does it affect[LINE]
+the recovery rate of healing spells?[END]
 
 
 //Text $1A0650
@@ -8491,6 +8491,7 @@ Radisrol[END]
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F90
 #WRITE(ptr,$18A040)
 A ship once known for its heroics.[LINE]
@@ -8498,7 +8499,6 @@ It is now submerged deep in the sea,[LINE]
 and no one knows of its existence.[END]
 
 
-#JMP($1A5EE7)
 //Text $1A6F80
 #WRITE(ptr,$18A070)
 Harmentz[END]
@@ -8833,6 +8833,7 @@ Josaia[END]
 [END]
 
 
+#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A4D8)
 One of the aerial cities connected[LINE]
@@ -8865,7 +8866,6 @@ Rodeon[END]
 [END]
 
 
-#JMP($1A6870)
 //Text $1A77B8
 #WRITE(ptr,$18A548)
 One of the aerialcities connected[LINE]
@@ -10179,6 +10179,7 @@ Restores 70% of max HP for one ally.[END]
 [Sign_Apple_Gel]Durian Gel[END]
 
 
+#JMP($1AB970)
 //Text $1AFB88
 #WRITE(ptr,$18C664)
 Full HP recovery, but sometimes...[LINE]
@@ -10201,7 +10202,6 @@ Only usable during battle.[END]
 [Sign_Apple_Gel]Gamble Gel[END]
 
 
-#JMP($1AB970)
 //Text $1AFAD8
 #WRITE(ptr,$18C69C)
 Changes HP to a random value.[LINE]
@@ -10239,7 +10239,7 @@ Only usable during battle.[END]
 
 //Text $1AF9C8
 #WRITE(ptr,$18C6F0)
-Recover abnormal status effect.[END]
+Recover from abnormal status effects.[END]
 
 
 //Text $1AF9B0
@@ -10250,7 +10250,7 @@ Recover abnormal status effect.[END]
 //Text $1AF970
 #WRITE(ptr,$18C70C)
 Protects against all abnormal[LINE]
-status, as well as de-buffs.[END]
+statuses, as well as de-buffs.[END]
 
 
 //Text $1AF958
@@ -10459,6 +10459,7 @@ increases evasion rate by 1.[END]
 [Sign_9]Jasmine[END]
 
 
+#JMP($1AC530)
 //Text $1AF2E0
 #WRITE(ptr,$18C920)
 A medicinal herb that[LINE]
@@ -10490,7 +10491,6 @@ Increases physical attack by 2.[END]
 [Sign_9]Blue Verbena[END]
 
 
-#JMP($1AC530)
 //Text $1AF238
 #WRITE(ptr,$18C974)
 Increases defense by 2.[END]
@@ -12871,7 +12871,7 @@ skillful, you can throw it.[END]
 
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
-A heavy axe with a shart cutting[LINE]
+A heavy axe with a sharp cutting[LINE]
 edge. Can shatter even the heaviest[LINE]
 of armors.[END]
 
@@ -14266,9 +14266,9 @@ Can only be acquired by the chosen ones.[END]
 
 //Text $1B4AA8
 #WRITE(ptr,$18FF2C)
-Garment sewn with bronze sheets.[LINE]
-Favored by travelers due to its[LINE]
-lightness and fair protection.[END]
+A man's garment made of bronze plates[LINE]
+stitched together. Favored by travelers[LINE]
+due to lightness and fair protection.[END]
 
 //Text $1B4A90
 #WRITE(ptr,$18FF64)
@@ -14277,9 +14277,9 @@ lightness and fair protection.[END]
 
 //Text $1B4A48
 #WRITE(ptr,$18FF68)
-Garment sewn with iron[LINE]
-plates. Heavy but tough.[LINE]
-Made for combat.[END]
+A man's garment made of iron plates[LINE]
+stitched together. Heavy but rigid and[LINE]
+made for combat.[END]
 
 //Text $1B4A30
 #WRITE(ptr,$18FFA0)
@@ -14288,9 +14288,9 @@ Made for combat.[END]
 
 //Text $1B49E0
 #WRITE(ptr,$18FFA4)
-Garment sewn with steel[LINE]
-plates. Used by guards[LINE]
-and local militias.[END]
+A man's garment made of steel plates[LINE]
+stitched together. Used by guards and[LINE]
+local militias.[END]
 
 //Text $1B49C8
 #WRITE(ptr,$18FFDC)
@@ -14299,9 +14299,9 @@ and local militias.[END]
 
 //Text $1B4990
 #WRITE(ptr,$18FFE0)
-Garment decorated with[LINE]
-gold. Also known as the[LINE]
-"Opulent Wear".[END]
+A man's garment decorated with gold.[LINE]
+Also known as the "Opulent Wear".[LINE]
+[END]
 
 //Text $1B4978
 #WRITE(ptr,$190018)
@@ -14310,9 +14310,9 @@ gold. Also known as the[LINE]
 
 //Text $1B4930
 #WRITE(ptr,$19001C)
-Garment decorated with[LINE]
-Mithril. Considered to be[LINE]
-a Dwarven work of art.[END]
+A man's garment decorated with Mithril.[LINE]
+Considered to be a Dwarven work of art.[LINE]
+[END]
 
 //Text $1B4918
 #WRITE(ptr,$190054)
@@ -14321,9 +14321,9 @@ a Dwarven work of art.[END]
 
 //Text $1B48D0
 #WRITE(ptr,$190058)
-Chest protecting garment.[LINE]
-Sports a high defense[LINE]
-but poor balance.[END]
+A man's garment with enhanced chest[LINE]
+protection. Maintains a high defense.[LINE]
+but rather poor balance.[END]
 
 //Text $1B48B8
 #WRITE(ptr,$190090)
@@ -14332,9 +14332,9 @@ but poor balance.[END]
 
 //Text $1B4860
 #WRITE(ptr,$190094)
-A beautiful white garment. Holy[LINE]
-clothes used in rituals. Said to[LINE]
-hold the divine protection of light.[END]
+A man's beautiful white garment. Holy[LINE]
+clothes used in rituals. Said to hold[LINE]
+the divine protection of light.[END]
 
 //Text $1B4848
 #WRITE(ptr,$1900CC)
@@ -15295,8 +15295,8 @@ who collected oral traditions.[END]
 
 //Text $1B7F30
 #WRITE(ptr,$19138C)
-Somewhat stiff, but strong gloves.[LINE]
-A regular companion[LINE]
+Bound together by leather. Somewhat stiff,[LINE]
+but strong gloves. A regular companion[LINE]
 of female travellers.[END]
 
 //Text $1B7F18
@@ -15625,9 +15625,9 @@ the body and relieves fatigue.[END]
 
 //Text $1B71E0
 #WRITE(ptr,$19174C)
-Dagger with a ring-shapped[LINE]
-pommel. A string can be tied to[LINE]
-the ring and the dagger throw.[END]
+A dagger with a ring-shaped[LINE]
+pommel. Attach a wire and[LINE]
+you can throw and reel it in[END]
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
@@ -15636,9 +15636,9 @@ the ring and the dagger throw.[END]
 
 //Text $1B7168
 #WRITE(ptr,$19176C)
-A Dagger with a sharp point used by[LINE]
-knights. Aside from cutting enemies[LINE]
-down it can also be used for etiquette.[END]
+A sharp dagger carried by the knights.[LINE]
+It is more often used for ceremonial[LINE]
+purposes than for actual combat.[END]
 
 //Text $1B7150
 #WRITE(ptr,$191788)
@@ -15647,8 +15647,8 @@ down it can also be used for etiquette.[END]
 
 //Text $1B7108
 #WRITE(ptr,$19178C)
-Dagger with a ear-shaped[LINE]
-pommel. Is easy to grip and[LINE]
+A dagger with an ear-shaped[LINE]
+pommel. It's easy to grip and[LINE]
 has great piercing power.[END]
 
 //Text $1B70F0
@@ -15659,7 +15659,7 @@ has great piercing power.[END]
 //Text $1B7098
 #WRITE(ptr,$1917AC)
 Left-hand held dagger, a necessity for[LINE]
-double-handed swordsman. Has a sharp[LINE]
+ambidextrous swordsmen. Has a sharp[LINE]
 blade and can block enemy attacks.[END]
 
 //Text $1B7080
@@ -15669,9 +15669,9 @@ blade and can block enemy attacks.[END]
 
 //Text $1B7038
 #WRITE(ptr,$1917CC)
-Dagger made for stabbing.[LINE]
-When used in duel can cause[LINE]
-a lot of bloodshed.[END]
+A dagger made for thrusting.[LINE]
+When used in a duel it can[LINE]
+inflict severe bloodshed.[END]
 
 //Text $1B7020
 #WRITE(ptr,$1917E8)
@@ -18609,6 +18609,7 @@ Snow Country Branch[END]
 Mercenary Soul[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB170
 #WRITE(ptr,$193D18)
 Angel of Repose[END]
@@ -18709,7 +18710,6 @@ Clandestine Weaponry[END]
 Functional Beauty[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB0B0
 #WRITE(ptr,$194178)
 Custom Made[END]
@@ -19707,7 +19707,9 @@ Proof for she who has all wisdom.[END]
 
 //POINTER #122 @ $194890 - STRING #122 @ $1BDCD0
 #WRITE(ptr,$194890)
-Small Profits and Quick Returns[END]
+Small Profits and[LINE]
+Quick Returns[END]
+
 
 //POINTER #123 @ $194894 - STRING #123 @ $1BDC80
 #WRITE(ptr,$194894)
@@ -19721,8 +19723,10 @@ Sword and bow warrior[END]
 
 //POINTER #125 @ $19489C - STRING #125 @ $1BDC30
 #WRITE(ptr,$19489C)
-An all-rounder wielding sword and bow,[LINE]
-leaving the enemy no blind spot.[END]
+A versatile warrior, adept at handling[LINE]
+the sword and bow. His prowess in[LINE]
+battle leaves the enemy with no[LINE]
+weaknesses to exploit.[END]
 //[END]
 
 
@@ -19885,7 +19889,8 @@ secret known only to men...[END]
 
 //POINTER #156 @ $194918 - STRING #156 @ $1BD698
 #WRITE(ptr,$194918)
-Seinegald's Rose[END]
+Rose of Seinegald[END]
+
 
 //POINTER #157 @ $19491C - STRING #157 @ $1BD660
 #WRITE(ptr,$19491C)
@@ -20023,9 +20028,10 @@ Breaker[END]
 
 //POINTER #183 @ $194984 - STRING #183 @ $1BD0F0
 #WRITE(ptr,$194984)
-A being known as 'The Breaker'.[LINE]
+A being known as "The Breaker."[LINE]
 She breaks through any foes, difficulties,[LINE]
 and even subtle atmospheres.[END]
+
 
 //POINTER #184 @ $194988 - STRING #184 @ $1BD0E0
 #WRITE(ptr,$194988)

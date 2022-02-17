@@ -465,12 +465,12 @@ Straylize Temple is to the East[END]
 
 //Text $130E1
 #WRITE(ptr,$55D0)
-Straylize Temple is East of Armeida[END]
+Straylize Temple is East of Armedia[END]
 // current address: $13105
 
 //Text $13105
 #WRITE(ptr,$55D4)
-We'll Take the Road East to Armeida[END]
+We'll Take the Road East to Armedia[END]
 // current address: $13129
 
 //Text $13129
