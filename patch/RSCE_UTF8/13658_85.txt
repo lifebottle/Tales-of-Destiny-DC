@@ -237,7 +237,7 @@ I will increase your EX Points.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -309,7 +309,7 @@ to purchase <TAG_034> [<x1A><x72><x40><x14><x80>].
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -406,7 +406,7 @@ I can replenish all your food.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -813,8 +813,8 @@ No
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Please feel free
-to visit me anytime.
+Please feel free to
+visit me anytime.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -834,17 +834,17 @@ Undefined Msg ID...
 Undefined Msg ID
 
 [ENDBLOCK]
-Plum
+Plum	
 [ENDBLOCK]
-Plum
+Plum	
 [ENDBLOCK]
-Bamboo
+Bamboo	
 [ENDBLOCK]
-Bamboo
+Bamboo	
 [ENDBLOCK]
-Pine
+Pine	
 [ENDBLOCK]
-Pine
+Pine	
 [ENDBLOCK]
 Undecided
 [ENDBLOCK]
