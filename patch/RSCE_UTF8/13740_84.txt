@@ -201,14 +201,14 @@ South: Exit
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>When you come to the royal
+<TAG_005><center>When you come to the royal
 capital, please stay at our hotel.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A bar directly managed by
-the hotel. Please feel free
-to use it.
+<TAG_005><center>A bar directly managed
+by the hotel. Please feel
+free to use it.
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -486,8 +486,9 @@ Today, the city is at peace.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It seems that a platoon just left for
-the village of Harmentz, what's going on?
+It seems that a platoon just left
+for the village of Harmentz, what's
+going on?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -620,8 +621,8 @@ talking about you.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Are you <Lion>? Wow, you're
-a beautiful guy even up close!
+Are you <Lion>? Wow, you're a
+beautiful guy even up close!
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -670,8 +671,9 @@ Don't you dare lose!
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-<Lion>, I wish you great success. After
-all, the era of the Seven Generals is over.
+<Lion>, I wish you great success.
+After all, the era of the Seven 
+Generals is over.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -725,8 +727,9 @@ was attacked by monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It seems that it was in the process of
-carrying some very important cargo!
+It seems that it was in the
+process of carrying some
+very important cargo!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
