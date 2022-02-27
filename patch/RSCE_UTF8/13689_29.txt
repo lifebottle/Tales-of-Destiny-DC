@@ -463,7 +463,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 Soldier
 [ENDBLOCK]
 Sir <Lion>, please
-come on through.
+proceed through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -472,7 +472,7 @@ You may proceed.
 Soldier
 [ENDBLOCK]
 Sir <Lion>, please
-come on through.
+proceed through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -481,7 +481,7 @@ You may proceed.
 Soldier
 [ENDBLOCK]
 Sir <Lion>, please
-come on through.
+proceed through.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -489,26 +489,28 @@ You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
+Everyone, please
+proceed through.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Ah, Sir <Lion>. Please
+proceed through.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
 You may proceed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Sir <Lion>, please
-come on through.
+Thank you for your
+service, Sir <Lion>!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-You may proceed.
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-Sir <Lion>, please
-come on through.
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-Be mindful of your
-behavior in the castle.
+Be mindful of
+your behavior
+in the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -517,8 +519,9 @@ service, Sir <Lion>!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Be mindful of your
-behavior in the castle.
+Be mindful of
+your behavior
+in the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -527,8 +530,14 @@ service, Sir <Lion>!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Be mindful of your
-behavior in the castle.
+Be mindful of
+your behavior
+in the castle.
+[ENDBLOCK]
+Soldier
+[ENDBLOCK]
+Thank you for all
+your service!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -537,13 +546,9 @@ service, Sir <Lion>!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Thank you for your
-service, Sir <Lion>!
-[ENDBLOCK]
-Soldier
-[ENDBLOCK]
-Be mindful of your
-behavior in the castle.
+Be mindful of
+your behavior
+in the castle.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
