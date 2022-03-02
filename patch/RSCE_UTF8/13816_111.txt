@@ -253,9 +253,9 @@ Wh-Whew...!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-All the barrier stones should
-have been destroyed. You will be
-able to open the door.
+<center>All the barrier stones should
+have been destroyed. You will
+be able to open the door.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -272,9 +272,9 @@ Then we'll open it.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-All the barrier stones have been
-destroyed. You should now be able
-to open the door.
+<center>All the barrier stones should
+have been destroyed. You will
+be able to open the door.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -283,9 +283,9 @@ through this door.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-All the barrier stones have been
-destroyed. You should now be able
-to open the door.
+<center>All the barrier stones should
+have been destroyed. You will
+be able to open the door.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -302,9 +302,9 @@ Let's get this door open.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-All the barrier stones should have
-been destroyed. You will be able
-to open the door.
+<center>All the barrier stones should
+have been destroyed. You will
+be able to open the door.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -491,14 +491,14 @@ Hello! Is anyone here?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Don't just shout like that!
+<center>Don't just shout like that!
 What if an enemy heard you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There might be someone in
-trouble here. They need to
-know that we've come to help!
+There might be someone in trouble
+here. They need to know that we've
+come to help!
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -527,12 +527,12 @@ you out of there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Hold on, <Stahn>. A barrier has
+<center>Hold on, <Stahn>. A barrier has
 been placed upon this door.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Barrier Stones...!
+<center>Barrier Stones...!
 Those are ancient technology!
 [ENDBLOCK]
 <Lion>
@@ -542,7 +542,7 @@ this barrier?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-There should be Barrier Stones
+<center>There should be Barrier Stones
 around here. Destroy them all,
 and the barrier will dissolve.
 [ENDBLOCK]

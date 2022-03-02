@@ -3965,7 +3965,7 @@ Unleashes blades of wind at a target.[LINE]
 //Text $19DEC0
 #WRITE(ptr,$1842D0)
 Releases jets of wind pressure in front[LINE]
-of the castor and weakens foes.[END]
+of the caster and weakens foes.[END]
 
 
 //Text $19DEA8
@@ -11217,7 +11217,7 @@ Should we look for the owner?[LINE]
 //Text $1ADBC0
 #WRITE(ptr,$18D090)
 A gorgeous, crystal blue scarf.[LINE]
-The person who wear's it must[LINE]
+The person who wears it must[LINE]
 have a beautiful heart.[END]
 
 
@@ -11350,7 +11350,7 @@ So, sell this pebble for a Gald.[LINE]
 #WRITE(ptr,$18D1C4)
 During the Aeth'er War, this ore[LINE]
 was often used in construction.[LINE]
-It sell for a high price.[END]
+It sells for a high price.[END]
 
 
 //Text $1AD7B0
@@ -12775,9 +12775,9 @@ strong to wield in one hand.[END]
 
 //Text $1B2628
 #WRITE(ptr,$18E12C)
-A thick-walled axe with a sharp[LINE]
+A thick-tapered axe with a sharp[LINE]
 edge. As its name suggests, it[LINE]
-is specialized for battle.[END]
+is optimized for battle.[END]
 
 
 //Text $1B2610
@@ -12921,7 +12921,7 @@ from its eye-shaped axe head.[LINE]
 #WRITE(ptr,$18E3FC)
 An improved Eye Axe that is[LINE]
 easier to handle. The attack power[LINE]
-has increased and it weights less.[END]
+has increased and it weighs less.[END]
 
 
 //Text $1B2148
@@ -13520,7 +13520,7 @@ These shining fists crush all evil.[LINE]
 #WRITE(ptr,$18EFB4)
 These knuckles represent the world.[LINE]
 With their power, you could conquer all.[LINE]
-Only the mightist of men can wield them.[END]
+Only the mightiest of men can wield them.[END]
 
 
 //Text $1B0ED0
@@ -16589,7 +16589,7 @@ Irresistibly tender.[END]
 
 //Text $1B8DD0
 #WRITE(ptr,$1923CC)
-Strap with a Boat Sushi.[LINE]
+Strap with a Sushi Boat.[LINE]
 Traditionally arranged fresh[LINE]
 seafood. Still alive.[END]
 
@@ -17650,9 +17650,9 @@ lens. Fire with [Square_ani].[LINE]
 
 //Text $1BAC18
 #WRITE(ptr,$192814)
-A divine rod that detects hidden signs.[LINE]
-Activate it by pressing [R2_ani] on[LINE]
-the field.[END]
+A divine rod that detects hidden[LINE]
+signs. Activate it by pressing [R2_ani] on the[LINE]
+field.[END]
 
 
 //Text $1BAC00
@@ -19707,27 +19707,26 @@ Proof for she who has all wisdom.[END]
 
 //POINTER #122 @ $194890 - STRING #122 @ $1BDCD0
 #WRITE(ptr,$194890)
-Small Profits and[LINE]
-Quick Returns[END]
+Quantity over Quality[END]
 
 
 //POINTER #123 @ $194894 - STRING #123 @ $1BDC80
 #WRITE(ptr,$194894)
 Everyone has their own qualities in business.[LINE]
-I'm doing low-cost business today,[LINE]
-hoping that everyone will be happy.[END]
+I'm doing low-cost business today, hoping[LINE]
+that everyone will be happy.[END]
+
 
 //POINTER #124 @ $194898 - STRING #124 @ $1BDC70
 #WRITE(ptr,$194898)
-Sword and bow warrior[END]
+Sword and Bow Warrior[END]
+
 
 //POINTER #125 @ $19489C - STRING #125 @ $1BDC30
 #WRITE(ptr,$19489C)
-A versatile warrior, adept at handling[LINE]
-the sword and bow. His prowess in[LINE]
-battle leaves the enemy with no[LINE]
-weaknesses to exploit.[END]
-//[END]
+A versatile warrior, adept at handlingLINE]
+the sword and bow. His combat prowess[LINE]
+leaves no weakness to be exploited[END]
 
 
 //POINTER #126 @ $1948A0 - STRING #126 @ $1BDC20
@@ -19862,8 +19861,9 @@ National Merchant[END]
 //POINTER #151 @ $194904 - STRING #151 @ $1BD790
 #WRITE(ptr,$194904)
 Everyone has their own qualities in business.[LINE]
-I will turn even the smallest enterprise[LINE]
-into a national project.[END]
+I will turn even the smallest enterprise into[LINE]
+a national project.[END]
+
 
 //POINTER #152 @ $194908 - STRING #152 @ $1BD780
 #WRITE(ptr,$194908)
