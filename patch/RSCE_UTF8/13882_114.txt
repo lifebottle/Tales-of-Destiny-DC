@@ -23,7 +23,8 @@ You pried the door open.
 notice
 [ENDBLOCK]
 It seems to be stuck.
-You can't open it by hand.
+You can't open it by 
+hand.
 [ENDBLOCK]
 現在の拡大率：<x1D><x75><x48><x74><x80>
 
@@ -552,9 +553,8 @@ Where are you?
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-I await you further within
-this place. Come to me,
-young <Philia>.
+I await you further within this
+place. Come to me, young <Philia>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
