@@ -24,8 +24,8 @@ reset---------
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yo, blondie!
-That sword you've got...
+Yo, blondie! That
+sword you've got...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -59,8 +59,8 @@ I'm not!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Idiot! You can't just
-blurt that out!
+<center>Idiot! You can't just
+blurt that out.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -191,7 +191,8 @@ I need help with.
 <Rutee>
 [ENDBLOCK]
 Oh! A damsel in distress?
-Come on, come on, let's hear it!
+Come on, come on, let's
+hear it!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -483,13 +484,13 @@ so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You sure you
-wanna race, dude?
+You sure you wanna
+race, dude?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It doesn't matter.
-Who's this guy, anyway?
+It doesn't matter. Who's 
+this guy, anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -831,8 +832,8 @@ I'll explain the course.
 [ENDBLOCK]
 You start here.
 [ENDBLOCK]
-I'll walk you through the
-course once. Pay attention, now!
+I'll walk you through the course
+once. Pay attention, now!
 [ENDBLOCK]
 We start across the fountain.
 [ENDBLOCK]
@@ -851,8 +852,8 @@ before crossing the fountain.
 Then back at the start.
 That's the goal.
 [ENDBLOCK]
-Don't even think
-about cheating, or I'll know!
+Don't even think about
+cheating, or I'll know!
 [ENDBLOCK]
 We run 2 laps. Don't forget!
 [ENDBLOCK]
@@ -1444,8 +1445,8 @@ confident in the product line.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-You're going after the armada, right?
-Please rely on our store.
+You're going after the armada,
+right? Please rely on our store.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
@@ -1453,8 +1454,9 @@ Our shop is always open.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-The climate is nice, and there is so much
-to do. This city is a great place to live.
+The climate is nice, and there
+is so much to do. This city is
+a great place to live.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1464,9 +1466,10 @@ other a little better.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-As the gap between rich and poor grew
-in size, so too did the animosity the
-people felt towards Oberon.
+As the gap between rich and
+poor grew in size, so too did
+the animosity the people felt
+towards Oberon.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1525,8 +1528,8 @@ Race so we can see the sun!
 Man
 [ENDBLOCK]
 You should race that kid. If you
-think that's all he is, you're in
-for a world of hurt.
+think that's all he is, you're in for
+a world of hurt.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1536,19 +1539,24 @@ BECAUSE of situations like this!
 [ENDBLOCK]
 Oberon Employee
 [ENDBLOCK]
-You will need the following materials:
-<ITEM_065>, <ITEM_066>, <ITEM_067>,
-<ITEM_068>, <ITEM_069>. Proceed?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-When you have everything ready,
-please bring the materials and
-we'll exchange them for an <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-You have all the materials.
+You have all the
+ingredients.
 
 [ENDBLOCK]
-<TAG_007>Do you want to exchange the
-materials for the <ITEM_Elixir>?
+<TAG_007>Would you like to exchange
+the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
 Replace One
@@ -1586,7 +1594,7 @@ This is...!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Could it be that these monsters
+ Could it be that these monsters
 are being controlled by <Greybum>?
 [ENDBLOCK]
 <Clemente>
@@ -1595,7 +1603,7 @@ There's a high possibility.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Normally monsters would never
+<center>Normally monsters would never
 organize and attack a human town.
 [ENDBLOCK]
 <Ilene>
@@ -1613,15 +1621,16 @@ arena! You'll be safe there!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-You all, please! Please help
-the townspeople to the arena!
+You all, please! Please help the
+townspeople to the arena!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 Help me! Please help me!
 [ENDBLOCK]
-Out of my way you bum! You
-vermin are always in the way!
+Out of my way you bum!
+You vermin are always
+in the way!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1873,7 +1882,7 @@ at a time like this, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Oh, no, nothing. You're right.
+ Oh, no, nothing. You're right.
 I wonder where everyone went?
 [ENDBLOCK]
 <Lion>
@@ -1902,13 +1911,14 @@ Okay, go.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Do you think the people with <Ilene>,
+<center>Do you think the people with <Ilene>,
 are <Stahn> and the others?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's something to hope for.
-All right, let's head for the arena.
+That's something to hope
+for. All right, let's head 
+for the arena.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
