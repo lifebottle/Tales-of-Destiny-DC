@@ -52,9 +52,9 @@ Default
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-There's a device to control
-the water level, but no
-valve is installed.
+There's a device to control 
+the water level, but no valve
+is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -161,21 +161,21 @@ notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-The crates in the castle
-can be pushed and pulled.
+Crates in the castle can
+be pushed and pulled.
 
 [ENDBLOCK]
 In certain places, crates can be
-dropped from steps and broken
-by the impact.
+pushed over ledges. They will
+break upon impact.
 
 [ENDBLOCK]
-The top of the crate can also
-be moved and used as a platform.
+Also, you can move crates and 
+use the top as a platform.
 
 [ENDBLOCK]
 Use the crates to your
-advantage and move on.
+advantage to progress.
 
 [ENDBLOCK]
 Try to operate the device
