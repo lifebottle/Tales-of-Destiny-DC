@@ -825,7 +825,7 @@ in trouble, I'll lend you my aid again.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young Master, may I
+ Young Master, may I
 have a word with you?
 [ENDBLOCK]
 <Lion>
@@ -877,7 +877,7 @@ Yes, it does. Please listen.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I felt like I needed to repay <Johnny>
+<center>I felt like I needed to repay <Johnny>
 because of you, Master <Lion>.
 [ENDBLOCK]
 <Lion>
@@ -886,8 +886,8 @@ What...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-...So that from now on, you and I
-could continue to be Master and Swordian.
+...So that from now on, you and I could
+ continue to be Master and Swordian.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -897,7 +897,7 @@ about other people forever...
 <Chaltier>
 [ENDBLOCK]
 ...Because I only want to be
-your sword, Master <Lion>.
+ your sword, Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -905,7 +905,7 @@ Chal...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-So, my young master, I'll stay
+ So, my young master, I'll stay
 by your side until the very end.
 [ENDBLOCK]
 <Lion>
