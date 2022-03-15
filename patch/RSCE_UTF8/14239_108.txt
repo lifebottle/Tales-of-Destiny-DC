@@ -407,7 +407,7 @@ as cold and pale as a ghost!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-In her current condition,
+ In her current condition,
 first aid won't be enough.
 [ENDBLOCK]
 <Stahn>
@@ -436,9 +436,8 @@ a safe place to go, but...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-...I'm sorry. I don't
-know even that much
-about this situation...
+...I'm sorry. I know very
+little of the situation...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -454,8 +453,8 @@ we can to help you!
 <Woodrow>
 [ENDBLOCK]
 <Stahn>, you seem well on
-your way to becoming
-a great master.
+your way to becoming a
+great master.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -465,13 +464,14 @@ a lot since last we met.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you really think I've got what
-it takes to be a Swordian Master?
+Do you really think I've
+got what it takes to be
+a Swordian Master?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 Absolutely not. You've still got
-a long way to go until then.
+  a long way to go until then.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -479,15 +479,14 @@ I wasn't asking you, <Dymlos>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You've gotten stronger physically,
-I'll admit that much. However, you
-still have very poor control over
-your emotions.
+<center>You've gotten stronger physically, I'll
+admit that much. However, you still have
+very poor control over your emotions.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 You'd be very easy to manipulate,
-especially in a crisis situation.
+  especially in a crisis situation.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -539,18 +538,18 @@ but at the same time, I don't...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-What's going on...?
-What's wrong with me...?
-I just don't understand...
+What's going on...? What's
+wrong with me...? I just
+don't understand...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-It's posssible that her
+<center>It's posssible that her
 memories are coming back.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Perhaps the snowy landscape here
+<center>Perhaps the snowy landscape here
 sparked something within her.
 [ENDBLOCK]
 <Rutee>
@@ -565,9 +564,9 @@ your memory back, Okay?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Looks like the road's
-blocked by snow. Guess
-we're not going this way.
+Looks like the road's blocked
+by snow. Guess we're not going
+this way.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -586,8 +585,8 @@ of being able to generate heat.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Here, I have a ring
-with such a lens in it.
+Here, I have a ring with
+such a lens in it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -606,16 +605,16 @@ All right, I'll try it out.
 notice
 [ENDBLOCK]
 <TAG_007><center>Press <Square_ani> to shoot a beam of energy
-out of the Sorcerer Ring.
+out of the Sorcerer's Ring.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><center>Use the Sorcerer Ring to melt the snow
+<TAG_007><center>Use the Sorcerer's Ring to melt the snow
 blocking the path and move on.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><center><red>Hint</color>: You can use the Sorcerer Ring
+<TAG_007><center><red>Hint</color>: You can use the Sorcerer's Ring
 in other dungeons as well.
 [ENDBLOCK]
 notice
