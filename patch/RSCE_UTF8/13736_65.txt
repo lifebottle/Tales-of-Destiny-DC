@@ -765,12 +765,12 @@ on to Harmentz.
 [ENDBLOCK]
 <x06><xD8><x00><x00><x00><TAG_007>"...To become an adult..."
 [ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>I wonder if I really
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>I wonder if I really
 got what I was after...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>Ironically, I got something
+<TAG_007><center>Ironically, I got something
 else on this journey. something
 I didn't even know I wanted.
 [ENDBLOCK]
@@ -778,21 +778,21 @@ I didn't even know I wanted.
 [ENDBLOCK]
 <x06><xD8><x00><x00><x00><TAG_007> "...Friendship..."
 [ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>Now I get it, what had
-been growing within me every day...
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>Now I get it, what had been
+growing within me every day...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>Chal said something to me
+<TAG_007><center>Chal said something to me
 in the middle of the journey.
 [ENDBLOCK]
-"You shouldn't be so focused
+ "You shouldn't be so focused
 only on serious things like that."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>I wonder if I'll
-ever be able to admit it...
+<TAG_007>I wonder if I'll ever
+be able to admit it...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -800,13 +800,13 @@ Good morning, <Marian>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Well! You're up
-early today, Emilio.
+Well! You're up early
+today, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-I'll hurry and
-get breakfast ready.
+I'll hurry and get 
+breakfast ready.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -820,13 +820,13 @@ but I believe I will pass.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm expected at
-the castle, today.
+I'm expected at the
+castle, today.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-You seem to have
-become very busy, lately.
+You seem to have become
+very busy, lately.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -835,14 +835,14 @@ the world, this is nothing.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-It's already been two
-months since then, hasn't it?
+It's already been two months
+since then, hasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It feels like yesterday that
-I was saying goodbye to
-<Stahn> and the others...
+It feels like yesterday that I 
+was saying goodbye to <Stahn>
+and the others...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -851,13 +851,13 @@ your friends aren't with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Oh come on.
-You know I'm not like that.
+...Oh come on. You know
+I'm not like that.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Hehehe~! You've
-changed so much, Emilio.
+Hehehe~! You've changed
+so much, Emilio.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -866,8 +866,8 @@ Did you like me better before?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Not at all. The way
-you are now is wonderful.
+Not at all. The way you
+are now is wonderful.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
