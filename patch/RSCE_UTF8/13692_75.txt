@@ -1431,9 +1431,9 @@ each one's personalities.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Jobs puts others before himself.
-He focuses on the well-being of
-his friends and whoever he's guarding.
+Jobs prioritizes others over himself.
+He is concerned about the safety of
+his friends and those he's guarding.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1447,8 +1447,8 @@ puts the mission first.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He knows what is expected of him,
-as well as what it takes
+He knows what is expected of
+him, as well as what it takes 
 to complete the mission.
 [ENDBLOCK]
 <Lion>
@@ -1464,9 +1464,9 @@ I want to hear your opinion.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Jobs or Will?
-Which one is more qualified
-to be Captain?
+Jobs or Will? Which one
+is more qualified to be
+Captain?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1489,8 +1489,8 @@ next time, too, Sir <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I believe that Jobs is the right
-choice for promotion.
+Jobs, I feel, is the ideal
+candidate for promotion.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1505,8 +1505,8 @@ counterproductive for a soldier.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's not true. Job's focus on the
-well-being of his companions is 
+Quite the opposite is true. Job's focus
+on the well-being of his companions is
 what brings about success.
 [ENDBLOCK]
 <Dryden>
@@ -1515,19 +1515,19 @@ What do you mean?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I learned something when the
-<Greybum> Incident took me 
-around the world.
+I discovered something when
+the <Greybum> Incident took
+me around the world.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 You cannot overcome everything
-alone. It's important to have 
+on your own. It's crucial to have 
 reliable companions.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The more powerful the foe, the
+The more powerful the foe, the 
 more important it becomes to 
 have friends you can trust.
 [ENDBLOCK]
@@ -1709,7 +1709,8 @@ Yes, sir!
 <Lion>
 [ENDBLOCK]
 <Lion> Magnus,
-reporting for duty.
+reporting for
+duty.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1728,9 +1729,9 @@ on your next mission.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Early this morning, we received an
-urgent report from the soldiers 
-stationed at Cresta.
+Early this morning, the soldiers 
+stationed at Cresta delivered an
+urgent report.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1788,15 +1789,15 @@ No, your Majesty, not at all.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Due to the nature of the mission,
-I won't be able to send any
-soldiers with you, this time.
+Due to the nature of the mission, I 
+won't be able to send any soldiers
+with you, this time.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Therefore, if this monster does
-show itself, you are under no
-obligation to engage.
+Therefore, if this monster does show
+itself, you are under no obligation to
+engage.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1814,14 +1815,15 @@ Master <Lion>...
 <Dryden>
 [ENDBLOCK]
 At any rate, it is imperative that we
-understand what is truly going on.
-It is requested that you depart at
+understand what is truly going on. It
+is requested that you depart at
 once.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 Understood.
-Leave it to me.
+Leave it to
+me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
