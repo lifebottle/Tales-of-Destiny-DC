@@ -2622,7 +2622,7 @@ Conjures a vortex of cold air.[LINE]
 
 //Text $19E130
 #WRITE(ptr,$1841D0)
-Creates a wall of ice in front of the castor。[LINE]
+Creates a wall of ice in front of the caster.[LINE]
 [END]
 
 
@@ -2711,7 +2711,7 @@ Unleashes blades of wind at a target.[LINE]
 //Text $19DEC0
 #WRITE(ptr,$1842D0)
 Releases jets of wind pressure in front[LINE]
-of the castor and weakens foes.[END]
+of the caster and weakens foes.[END]
 
 
 //Text $19DEA8
@@ -2777,7 +2777,7 @@ into the air.[END]
 //Text $19DCC8
 #WRITE(ptr,$184390)
 Creates a spear of stone in front of the[LINE]
-castor. Inflicts seal.[END]
+caster. Inflicts seal.[END]
 
 
 //Text $19DCB0
