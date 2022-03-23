@@ -1144,7 +1144,7 @@ to this honesty.[END]
 
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
-Sword-what User[END]
+Swatian User[END]
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
