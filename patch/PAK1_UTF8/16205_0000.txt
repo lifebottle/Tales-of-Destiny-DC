@@ -2,9 +2,9 @@
 おまけ
 
 [ENDBLOCK]
-ge
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
-t_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+<IGNORE>
 
 [ENDBLOCK]
 <S09><center>Normal
@@ -27,7 +27,7 @@ t_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <S09><center>Bashful (Without Glasses)
 [ENDBLOCK]
-<S09>Philia Bomb
+<S09><Philia> Bomb
 [ENDBLOCK]
-<S09>Philia Bomb (Without Glasses)<x00>
+<S09><Philia> Bomb (Without Glasses)<x00>
 [ENDBLOCK]
