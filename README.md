@@ -52,8 +52,13 @@ Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNH
 - https://tales-of-destiny-dc.vercel.app/hexToJpn
 - https://tales-of-destiny-dc.vercel.app/jpnToHex
 - https://tales-of-destiny-dc.vercel.app/engToHex
-- https://darklegolasx.neocities.org/TOD_DC_Items_Food_Food_Effect_spellcheck.html
 - https://darklegolasx.neocities.org/TOD_DC_Artes_Strategy_SwordianDev_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Items_Food_Food_Effect_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Locations_Map_location_Shop_City_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Names_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Skit_Name_Battle_Tutorial_Discovery_Tutorial_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Synopsis_spellcheck.html
+- https://darklegolasx.neocities.org/TOD_DC_Titles_Support_spellcheck.html
 - https://darklegolasx.neocities.org/RSCE_spellcheck.html
 - https://darklegolasx.neocities.org/PAK1_spellcheck.html
 - https://darklegolasx.neocities.org/PAK0_spellcheck.html
