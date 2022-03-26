@@ -37,8 +37,8 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<L1_ani>、<R1_ani> toggle the animation,
-<L2_ani>、<R2_ani>toggle background,
+<L1_ani>, <R1_ani> toggle the animation,
+<L2_ani>, <R2_ani>toggle background,
 <Cross_ani>finished.
 [ENDBLOCK]
 
@@ -230,7 +230,7 @@ stayed behind at Heidelberg.
 <Alba>
 [ENDBLOCK]
 You should
-go vist them.
+go visit them.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
