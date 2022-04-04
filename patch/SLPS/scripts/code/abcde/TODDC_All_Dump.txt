@@ -474,7 +474,7 @@ The Hidden Key[END]
 
 //Text $19A350
 #WRITE(ptr,$D8804)
-Objective: Aethershpere[END]
+Objective: Aetherspere[END]
 
 
 //Text $19A338
@@ -494,7 +494,7 @@ Grieving Beauty[END]
 
 //Text $19A308
 #WRITE(ptr,$D8814)
-Suprise Attack![END]
+Surprise Attack![END]
 
 
 //Text $19A2F8
@@ -554,7 +554,7 @@ A New Mission[END]
 
 //Text $19A220
 #WRITE(ptr,$D8844)
-ｖｓSwordians[END]
+VS Swordians[END]
 
 
 //Text $19A210
@@ -1823,8 +1823,8 @@ His overflowing spirit shakes the earth.[END]
 
 //Text $19C4D0
 #WRITE(ptr,$184D10)
-Increase accuracy and restores HP.[LINE]
-More effective at the end of an arte chain.[END]
+Increase accuracy and restores HP. More[LINE]
+effective at the end of an arte chain.[END]
 
 
 //Text $19C4C0
@@ -1907,7 +1907,7 @@ Unleash accumulated energies in one swift strike.[END]
 //Text $1A0F38
 #WRITE(ptr,$182FF0)
 Blasts the enemy with an exploding sword.[LINE]
-[Sign_Wing]：Can be activated midair[END]
+[Sign_Wing]: Can be activated midair[END]
 
 
 //Text $1A0F28
@@ -1922,8 +1922,8 @@ Blasts the enemy with an exploding sword.[LINE]
 
 //Text $1A0ED0
 #WRITE(ptr,$183010)
-Release a cutting shockwave along the ground.[LINE]
-Can be linked to various actions.[END]
+Release a cutting shockwave along the[LINE]
+ground. Can be linked to various actions.[END]
 
 
 //Text $1A0EC0
@@ -2488,8 +2488,8 @@ consecutive slashes.[END]
 
 //Text $1A0300
 #WRITE(ptr,$1834F0)
-Slash through the foe and[LINE]
-return with a diagonal slash.[END]
+Slash through the foe and return[LINE]
+with a diagonal slash.[END]
 
 
 //Text $1A02F0
@@ -2638,7 +2638,7 @@ eye can't see.[END]
 
 //Text $1A0050
 #WRITE(ptr,$183630)
-Raise the user's M. Atk temporarily.[LINE]
+Raise the user's M. ATK temporarily.[LINE]
 [END]
 
 
@@ -2683,7 +2683,7 @@ Inflicts seal.[END]
 //Text $19FEE0
 #WRITE(ptr,$1836B0)
 Temporarily protects the party from[LINE]
-attacks and raises M. Def.[END]
+attacks and raises M. DEF.[END]
 
 
 //Text $19FED0
@@ -3393,7 +3393,7 @@ Gives 1 CC to each ally.[END]
 
 //Text $19EFE0
 #WRITE(ptr,$183C70)
-Temporarily raise party's M. Atk.[LINE]
+Temporarily raise party's M. ATK.[LINE]
 Effect is enhanced by cooperation.[END]
 
 
@@ -3492,7 +3492,7 @@ Use defensively or hit hard up close.[END]
 //Text $19ED10
 #WRITE(ptr,$183D90)
 Place a damaging musical note in[LINE]
-front. Reduces M. Atk of foes.[END]
+front. Reduces M. ATK of foes.[END]
 
 
 //Text $19ECF8
@@ -3503,7 +3503,7 @@ front. Reduces M. Atk of foes.[END]
 //Text $19ECB0
 #WRITE(ptr,$183DB0)
 Creates a sound wave barrier. [LINE]
-Reduces M. Atk of foes.[END]
+Reduces M. ATK of foes.[END]
 
 
 //Text $19EC98
@@ -3986,7 +3986,7 @@ slice the enemy.[END]
 
 //Text $19DE20
 #WRITE(ptr,$184310)
-Two tornadoes join to create a cylone[LINE]
+Two tornadoes join to create a cyclone[LINE]
 around the enemy.[END]
 
 
@@ -4009,7 +4009,7 @@ crush foes with a mighty gale.[END]
 //Text $19DD78
 #WRITE(ptr,$184350)
 Shoots a series of rocks as projectiles.[LINE]
-Temporarily raises M. Atk.[END]
+Temporarily raises M. ATK.[END]
 
 
 //Text $19DD68
@@ -4327,7 +4327,7 @@ of inflicting status ailments and critical hits.[END]
 
 //Text $19D4D8
 #WRITE(ptr,$1846F0)
-Reduces M. Def of enemies in range.[LINE]
+Reduces M. DEF of enemies in range.[LINE]
 Also removes enemy buffs.[END]
 
 
@@ -4579,7 +4579,7 @@ Disturb Enemy[END]
 //Text $1A1238
 #WRITE(ptr,$184EA4)
 Move behind the enemies and attack them,[LINE]
-targetting enemies in the rear.[END]
+targeting enemies in the rear.[END]
 
 
 //Text $1A1228
@@ -5045,7 +5045,7 @@ HEAL HP[END]
 
 //Text $1A2368
 #WRITE(ptr,$1852C0)
-IncreasesP. ATK when charging[END]
+Increases P. ATK when charging[END]
 
 
 //Text $1A2358
@@ -8152,7 +8152,7 @@ Heidelberg Castle[END]
 
 //Text $1A61A0
 #WRITE(ptr,$1896B4)
-Draconis around Seingald[END]
+Draconis around Seinegald[END]
 
 
 //Text $1A6198
@@ -8307,7 +8307,7 @@ Torn's Cabin[END]
 //Text $1A74A0
 #WRITE(ptr,$189DD8)
 A hut in a snowy mountain forest.[LINE]
-Home to master archer Alba Torn.[END]
+Home to master archer [Alba] Torn.[END]
 
 
 //Text $1A7488
@@ -8868,7 +8868,7 @@ Rodeon[END]
 
 //Text $1A77B8
 #WRITE(ptr,$18A548)
-One of the aerialcities connected[LINE]
+One of the aerial cities connected[LINE]
 to Ignasea via a transporter.[END]
 
 
@@ -9192,7 +9192,7 @@ traveling charm.[END]
 #WRITE(ptr,$18BEC8)
 If you've got a wish you want granted,[LINE]
 you might want to take a look around[LINE]
-Neuestadt for a certain dazzling plant.[END]
+Neustadt for a certain dazzling plant.[END]
 
 //Text $1A9F28
 #WRITE(ptr,$18BEDC)
@@ -9328,7 +9328,8 @@ not actually resemble a hat.[END]
 #WRITE(ptr,$18BFA8)
 It is said that somewhere in the ocean there[LINE]
 lives an animal with interesting horns, but its[LINE]
-scarcity makes it a rare sight.{END]
+scarcity makes it a rare sight.[END]
+
 //Text $1A98A0
 #WRITE(ptr,$18BFBC)
 Flying Manta[END]
@@ -9499,7 +9500,7 @@ amidst the pitch black sea.[END]
 
 //Text $1A9100
 #WRITE(ptr,$18C0C0)
-There seems to be vista on the beaches near Liene[LINE]
+There seems to be vista on the beaches near Lienea[LINE]
 that's so beautiful it draws you in for hours.[LINE]
 [END]
 
@@ -9512,7 +9513,7 @@ Stelladybug[END]
 //Text $1A90A0
 #WRITE(ptr,$18C0D8)
 Bug whose mass emergence in spring foretells[LINE]
-a heatwave that year. Quite hot to the touch.[LINE]
+a heat wave that year. Quite hot to the touch.[LINE]
 [END]
 
 //Text $1A9030
@@ -9535,7 +9536,7 @@ cosmic prank, but no definitive proof exists.[END]
 
 //Text $1A8F78
 #WRITE(ptr,$18C0F8)
-There's apparently an enormous mass of snowLINE]
+There's apparently an enormous mass of snow[LINE]
 that appeared overnight near Frostheim.[LINE]
 [END]
 
@@ -9553,7 +9554,7 @@ who witness it gliding.[END]
 
 //Text $1A8E78
 #WRITE(ptr,$18C114)
-There's a creature near Neuestadt that's said to be[LINE]
+There's a creature near Neustadt that's said to be[LINE]
 a hit with young men. It should be easy enough[LINE]
 to identify upon spotting it.[END]
 
@@ -9572,7 +9573,7 @@ but makes a nice soup base.[END]
 //Text $1A8D90
 #WRITE(ptr,$18C130)
 There seems to be a prolific creature[LINE]
-on the shores near Neuestad that[LINE]
+on the shores near Neustadt that[LINE]
 makes an excellent ingredient.[END]
 
 
@@ -9589,7 +9590,7 @@ mixed into the sand. Remains silent if dirtied.[END]
 
 //Text $1A8CB8
 #WRITE(ptr,$18C14C)
-It seems there's a beach near Liene where[LINE]
+It seems there's a beach near Lienea where[LINE]
 a tune can be heard amid the abounding[LINE]
 natural beauty.[END]
 
@@ -9663,7 +9664,7 @@ through frozen rivers with its stiff snout.[END]
 #WRITE(ptr,$18C1BC)
 There's apparently a fish with a real steel will[LINE]
 that can be found in the river between[LINE]
-Seinegald and Phandalia.[END]
+Seinegald and Phandaria.[END]
 
 
 //Text $1A8938
@@ -9698,7 +9699,7 @@ Its purpose is unknown.[END]
 //Text $1A87A8
 #WRITE(ptr,$18C1F4)
 There seems to be a strange wooden figure[LINE]
-near Neuestadt with an unknown purpose.[LINE]
+near Neustadt with an unknown purpose.[LINE]
 [END]
 
 
@@ -9716,7 +9717,7 @@ Adorned with 90 metallic feathers.[LINE]
 //Text $1A86C8
 #WRITE(ptr,$18C210)
 It's said that a flickering light was spotted near[LINE]
-Liene, but its source was unfortunately not found.[LINE]
+Lienea, but its source was unfortunately not found.[LINE]
 [END]
 
 
@@ -9788,7 +9789,7 @@ the recent chaos.[END]
 //Text $1A8368
 #WRITE(ptr,$18C280)
 For some unknown reason, a relic of the[LINE]
-Phandalian royal family that went missing[LINE]
+Phandarian royal family that went missing[LINE]
 seems to have reappeared near Ignasea.[END]
 
 
@@ -9927,12 +9928,12 @@ Methane Hydrate[END]
 #WRITE(ptr,$18C35C)
 Curious substance that leaves nothing but water after[LINE]
 it's burned. Said to be the child of the fire and ice[LINE]
-spirites. Also known as fire ice, it is cold to the touch.[END]
+spirits. Also known as fire ice, it is cold to the touch.[END]
 
 //Text $1A7CD0
 #WRITE(ptr,$18C360)
 They say there's a shore somewhere where the[LINE]
-lovechild of the fire and ice spirits can be found.[LINE]
+love child of the fire and ice spirits can be found.[LINE]
 [END]
 
 
@@ -10109,7 +10110,7 @@ a higher Party level and better lens to Rerise.[END]
 #WRITE(ptr,$18C5DC)
 [turquoise]Gems[/color] can only be obtained by Rerising [turquoise]Materials[/color].[LINE]
 With Rerise, you can also add [yellow]Special effects[/color][LINE]
-such as increasing P. Atk or P. Def.[END]
+such as increasing P. ATK or P. DEF.[END]
 
 
 //Text $1ABAF0
@@ -10148,8 +10149,8 @@ Rerising can also change its special effects.[LINE]
 
 //Text $1AFCA8
 #WRITE(ptr,$18C610)
-A gelatin-based medicine.[LINE]
-Restores 30% of max HP for one ally.[END]
+A gelatin-based medicine. Restores[LINE]
+30% of max HP for one ally.[END]
 
 
 //Text $1AFC98
@@ -10239,7 +10240,8 @@ Only usable during battle.[END]
 
 //Text $1AF9C8
 #WRITE(ptr,$18C6F0)
-Recover from abnormal status effects.[END]
+Recover from abnormal 
+status effects.[END]
 
 
 //Text $1AF9B0
@@ -10282,8 +10284,8 @@ restores HP and cures KO.[END]
 
 //Text $1AF860
 #WRITE(ptr,$18C760)
-All damage halved.[LINE]
-Using another one negates this effect.[END]
+All damage is halved for everyone.[LINE]
+Use another to negate the effect.[END]
 
 
 //Text $1AF848
@@ -10303,11 +10305,11 @@ Only usable during battle.[LINE]
 [Sign_9]Oberol C[END]
 
 
-//Text $1AF798
+//Text $1AE318
 #WRITE(ptr,$18C798)
-A liquid medicine from Oberon Corp.[LINE]
-Restores 40% of max HP.[LINE]
-Not usable during battle.[END]
+A smelly blue liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+kind of medicine.[END]
 
 
 //Text $1AF780
@@ -10318,8 +10320,8 @@ Not usable during battle.[END]
 //Text $1AF720
 #WRITE(ptr,$18C7B4)
 A liquid medicine from Oberon Corp.[LINE]
-Restores 60% of max HP.[LINE]
-Not usable during battle.[END]
+Restores 60% of max HP. Not usable [LINE]
+during battle.[END]
 
 
 //Text $1AF700
@@ -10330,8 +10332,8 @@ Not usable during battle.[END]
 //Text $1AF6A8
 #WRITE(ptr,$18C7D0)
 A liquid medicine from Oberon Corp.[LINE]
-Restores 100% of max HP.[LINE]
-Not usable during battle.[END]
+Restores 100% of max HP. Not [LINE]
+usable during battle.[END]
 
 
 //Text $1AF690
@@ -10352,8 +10354,8 @@ Restores 10% of max HP.[END]
 
 //Text $1AF5E8
 #WRITE(ptr,$18C808)
-Contains holy essence.[LINE]
-Wards off enemies for a fixed duration.[END]
+Contains holy essence. Wards[LINE]
+off enemies for a fixed duration.[END]
 
 
 //Text $1AF5D0
@@ -10374,7 +10376,7 @@ Attracts enemies for a fixed duration.[END]
 
 //Text $1AF548
 #WRITE(ptr,$18C840)
-Neutralize environmental poisons.[END]
+Neutralizes environmental poisons.[END]
 
 
 //Text $1AF538
@@ -10384,8 +10386,8 @@ Neutralize environmental poisons.[END]
 
 //Text $1AF500
 #WRITE(ptr,$18C85C)
-A medicinal herb that[LINE]
-increases vitality by 3.[END]
+A medicinal herb that increases[LINE]
+vitality by 3.[END]
 
 
 //Text $1AF4F0
@@ -10395,8 +10397,8 @@ increases vitality by 3.[END]
 
 //Text $1AF4B8
 #WRITE(ptr,$18C878)
-A medicinal herb that[LINE]
-increases physical attack by 1.[END]
+A medicinal herb that increases[LINE]
+physical attack by 1.[END]
 
 
 //Text $1AF4A8
@@ -10406,8 +10408,8 @@ increases physical attack by 1.[END]
 
 //Text $1AF470
 #WRITE(ptr,$18C894)
-A medicinal herb that[LINE]
-increases physical defense by 1.[END]
+A medicinal herb that increases[LINE]
+physical defense by 1.[END]
 
 
 //Text $1AF458
@@ -10417,8 +10419,8 @@ increases physical defense by 1.[END]
 
 //Text $1AF420
 #WRITE(ptr,$18C8B0)
-A medicinal herb that[LINE]
-increases magic attack by 1.[END]
+A medicinal herb that increases[LINE]
+magic attack by 1.[END]
 
 
 //Text $1AF410
@@ -10428,8 +10430,8 @@ increases magic attack by 1.[END]
 
 //Text $1AF3D8
 #WRITE(ptr,$18C8CC)
-A medicinal herb that[LINE]
-increases magic defense by 1.[END]
+A medicinal herb that increases[LINE]
+magic defense by 1.[END]
 
 
 //Text $1AF3C8
@@ -10439,8 +10441,8 @@ increases magic defense by 1.[END]
 
 //Text $1AF388
 #WRITE(ptr,$18C8E8)
-A medicinal herb that[LINE]
-increases accuracy by 1.[END]
+A medicinal herb that increases[LINE]
+accuracy by 1.[END]
 
 
 //Text $1AF378
@@ -10450,8 +10452,8 @@ increases accuracy by 1.[END]
 
 //Text $1AF330
 #WRITE(ptr,$18C904)
-A medicinal herb that[LINE]
-increases evasion rate by 1.[END]
+A medicinal herb that increases[LINE]
+evasion rate by 1.[END]
 
 
 //Text $1AF320
@@ -10462,8 +10464,8 @@ increases evasion rate by 1.[END]
 #JMP($1AC530)
 //Text $1AF2E0
 #WRITE(ptr,$18C920)
-A medicinal herb that[LINE]
-increases critical hit rate by 1.[END]
+A medicinal herb that increases[LINE]
+critical hit rate by 1.[END]
 
 
 //Text $1AF2C8
@@ -10644,7 +10646,7 @@ A support item for cultivation.[END]
 
 //Text $1AEEA0
 #WRITE(ptr,$18CB18)
-Seeds intended for not-so-beginners.[LINE]
+Seeds for seasoned gardeners.[LINE]
 A support item for cultivation.[END]
 
 
@@ -10655,7 +10657,7 @@ A support item for cultivation.[END]
 
 //Text $1AEE40
 #WRITE(ptr,$18CB34)
-Seeds for learners.[LINE]
+Seeds for learnerning gardening.[LINE]
 A support item for cultivation.[END]
 
 
@@ -10904,7 +10906,7 @@ because bugs ate it.[END]
 //Text $1AE600
 #WRITE(ptr,$18CD9C)
 Slimy to the touch. You'd get coated[LINE]
-in gross liquid if touched[END]
+in gross liquid if touched.[END]
 
 
 //Text $1AE5F0
@@ -10915,7 +10917,7 @@ in gross liquid if touched[END]
 //Text $1AE5B0
 #WRITE(ptr,$18CDB8)
 They say it's ripe when it looks rotten.[LINE]
-Stay away if it stinks[END]
+Stay away if it stinks.[END]
 
 
 //Text $1AE5A0
@@ -10984,10 +10986,9 @@ Support Talents in the EX Dungeon![END]
 
 //Text $1AE378
 #WRITE(ptr,$18CE60)
-A smelly red liquid.[LINE]
-Rumored to be an ingredient[LINE]
-for some medicine.[END]
-
+A smelly red liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+kind of medicine.[END]
 
 //Text $1AE360
 #WRITE(ptr,$18CE78)
@@ -10996,9 +10997,9 @@ for some medicine.[END]
 
 //Text $1AE318
 #WRITE(ptr,$18CE7C)
-A smelly blue liquid.[LINE]
-Rumored to be an ingredient[LINE]
-for some medicine.[END]
+A smelly blue liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+kind of medicine.[END]
 
 
 //Text $1AE300
@@ -11008,9 +11009,9 @@ for some medicine.[END]
 
 //Text $1AE2B8
 #WRITE(ptr,$18CE98)
-A smelly green liquid.[LINE]
-Rumored to be an ingredient[LINE]
-for some medicine.[END]
+A smelly green liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+kind of medicine.[END]
 
 
 //Text $1AE2A0
@@ -11020,9 +11021,9 @@ for some medicine.[END]
 
 //Text $1AE258
 #WRITE(ptr,$18CEB4)
-A smelly orange liquid.[LINE]
-Rumored to be an ingredient[LINE]
-for some medicine.[END]
+A smelly orange liquid. Rumored[LINE]
+to be an ingredient for some[LINE]
+kind of medicine.[END]
 
 
 //Text $1AE238
@@ -11034,7 +11035,7 @@ for some medicine.[END]
 #WRITE(ptr,$18CED0)
 A smelly purple liquid. Rumored[LINE]
 to be an ingredient for some[LINE]
-medicine.[END]
+kind of medicine.[END]
 
 
 //Text $1AE1E0
@@ -11045,7 +11046,7 @@ medicine.[END]
 //Text $1AE1B0
 #WRITE(ptr,$18CEEC)
 Lucky! You can get another one.[LINE]
-Let's cash it in！[LINE]
+Let's cash it in![LINE]
 [END]
 
 
@@ -11204,7 +11205,7 @@ It makes everyone feel like a hero.[LINE]
 
 //Text $1ADC28
 #WRITE(ptr,$18D074)
-It looks like somone dropped this pendant.[LINE]
+It looks like someone dropped this pendant.[LINE]
 Should we look for the owner?[LINE]
 [END]
 
@@ -11361,7 +11362,7 @@ It sells for a high price.[END]
 //Text $1AD768
 #WRITE(ptr,$18D1E0)
 Grass that smells like gold.[LINE]
-Are you realy that obsessed with gold?[LINE]
+Are you really that obsessed with gold?[LINE]
 Sell it for some Gald already![END]
 
 
@@ -11456,8 +11457,8 @@ prevents the use of artes.[END]
 
 //Text $1AD440
 #WRITE(ptr,$18D2C0)
-Rerise into a gem that[LINE]
-reduces [Sign_Fire] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Fire] damage by half.[LINE]
 [END]
 
 
@@ -11468,8 +11469,8 @@ reduces [Sign_Fire] damage by half.[LINE]
 
 //Text $1AD3D0
 #WRITE(ptr,$18D2DC)
-Rerise into a gem that[LINE]
-reduces [Sign_Water] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Water] damage by half.[LINE]
 [END]
 
 
@@ -11480,8 +11481,8 @@ reduces [Sign_Water] damage by half.[LINE]
 
 //Text $1AD360
 #WRITE(ptr,$18D2F8)
-Rerise into a gem that[LINE]
-reduces [Sign_Earth] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Earth] damage by half.[LINE]
 [END]
 
 
@@ -11492,8 +11493,8 @@ reduces [Sign_Earth] damage by half.[LINE]
 
 //Text $1AD2F0
 #WRITE(ptr,$18D314)
-Rerise into a gem that[LINE]
-reduces [Sign_Wind] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Wind] damage by half.[LINE]
 [END]
 
 
@@ -11504,8 +11505,8 @@ reduces [Sign_Wind] damage by half.[LINE]
 
 //Text $1AD280
 #WRITE(ptr,$18D330)
-Rerise into a gem that[LINE]
-reduces [Sign_Light] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Light] damage by half.[LINE]
 [END]
 
 
@@ -11516,8 +11517,8 @@ reduces [Sign_Light] damage by half.[LINE]
 
 //Text $1AD210
 #WRITE(ptr,$18D34C)
-Rerise into a gem that[LINE]
-reduces [Sign_Dark] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Dark] damage by half.[LINE]
 [END]
 
 
@@ -11528,8 +11529,8 @@ reduces [Sign_Dark] damage by half.[LINE]
 
 //Text $1AD198
 #WRITE(ptr,$18D368)
-Rerise into a gem that[LINE]
-reduces [Sign_Slash] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Slash] damage by half.[LINE]
 [END]
 
 
@@ -11540,8 +11541,8 @@ reduces [Sign_Slash] damage by half.[LINE]
 
 //Text $1AD128
 #WRITE(ptr,$18D384)
-Rerise into a gem that[LINE]
-reduces [Sign_Strike] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Strike] damage by half.[LINE]
 [END]
 
 
@@ -11552,8 +11553,8 @@ reduces [Sign_Strike] damage by half.[LINE]
 
 //Text $1AD0B8
 #WRITE(ptr,$18D3A0)
-Rerise into a gem that[LINE]
-reduces [Sign_Shot] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Shot] damage by half.[LINE]
 [END]
 
 
@@ -11564,8 +11565,8 @@ reduces [Sign_Shot] damage by half.[LINE]
 
 //Text $1AD048
 #WRITE(ptr,$18D3BC)
-Rerise into a gem that[LINE]
-reduces [Sign_Sonic] damage by half.[LINE]
+Rerise into a gem that reduces[LINE]
+[Sign_Sonic] damage by half.[LINE]
 [END]
 
 
@@ -11601,7 +11602,7 @@ with [Square_ani2]＋[Down_blink].[END]
 //Text $1ACF00
 #WRITE(ptr,$18D410)
 Rerise into a gem that[LINE]
-temporily increases P. DEF[LINE]
+temporarily increases P. DEF[LINE]
 with [Square_ani2]＋[Down_blink].[END]
 
 
@@ -11756,8 +11757,8 @@ increases max CC by 2.[LINE]
 
 //Text $1AC9D0
 #WRITE(ptr,$18D57C)
-Rerise into a gem that[LINE]
-increases min and max CC by 1.[LINE]
+Rerise into a gem that increases[LINE]
+min and max CC by 1.[LINE]
 [END]
 
 
@@ -12848,7 +12849,7 @@ even with little strength.[END]
 //Text $1B23A0
 #WRITE(ptr,$18E294)
 A masterpiece filled with the soul[LINE]
-of master craftsman Keith. It's [LINE]
+of master craftsman Giese. It's [LINE]
 valuable. A warrior's dream axe.[END]
 
 
@@ -13184,7 +13185,7 @@ birds flying high in the sky.[END]
 //Text $1B19C0
 #WRITE(ptr,$18E924)
 An unparalleled masterpiece that contains[LINE]
-the soul of Gies, a master craftsman.[LINE]
+the soul of Giese, a master craftsman.[LINE]
 An irreplaceable treasure to any archer.[END]
 
 //Text $1B19A8
@@ -13219,7 +13220,7 @@ It is as light as a feather.[LINE]
 //Text $1B18A8
 #WRITE(ptr,$18E9D8)
 A small bow in the shape of a crescent moon.[LINE]
-It is said that even the mighiest beasts[LINE]
+It is said that even the mightiest beasts[LINE]
 are paralyzed by its beauty.[END]
 
 
@@ -13423,7 +13424,7 @@ blades. Sharp, hard and hurts like hell![LINE]
 //Text $1B1228
 #WRITE(ptr,$18EDD4)
 An unparalleled masterpiece that contains[LINE]
-the soul of Gies, a master craftsman.[LINE]
+the soul of Giese, a master craftsman.[LINE]
 An irreplaceable treasure to any warrior.[END]
 
 
@@ -13482,7 +13483,7 @@ who transcribed many legends.[END]
 
 //Text $1B1018
 #WRITE(ptr,$18EF00)
-Knuckles of pure mallice.[LINE]
+Knuckles of pure malice.[LINE]
 This weapon tears flesh with its horns,[LINE]
 then pours in a paralyzing poison.[END]
 
@@ -13544,7 +13545,7 @@ made of a tortoiseshell.[END]
 #WRITE(ptr,$18F02C)
 An instrument popularized in Aquaveil. It[LINE]
 is usually plucked with a bachi instead of[LINE]
-fingers and is often used while storytelling.[END]
+fingers and is often used when storytelling.[END]
 
 
 //Text $1B0E20
@@ -13592,7 +13593,7 @@ Peng! Peng![END]
 #WRITE(ptr,$18F11C)
 A guitar of infinite potential.[LINE]
 Its tone reaches the depths of space.[LINE]
-It can only be weilded by the chosen one.[END]
+It can only be wielded by the chosen one.[END]
 
 
 //Text $1B0C98
@@ -13826,8 +13827,8 @@ this you too can feel like a Knight.[END]
 
 //Text $1B59A0
 #WRITE(ptr,$18F608)
-Extremely light upper body armor made with[LINE]
-a special process. Allows one to move as fast[LINE]
+Extremely light upper body armor made with a[LINE]
+special process. Allows one to move as fast[LINE]
 as a falling star. Or so it is advertised.[END]
 
 //Text $1B5988
@@ -13860,7 +13861,7 @@ it doesn't hinder one's movements.[END]
 //Text $1B5880
 #WRITE(ptr,$18F6BC)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 //Text $1B5868
@@ -14049,7 +14050,7 @@ balance. Can only be acquired by the chosen ones.[END]
 #WRITE(ptr,$18FAB8)
 Leathern breastplate.[LINE]
 Favored by adventurers due to its[LINE]
-lighteness and fair protection.[END]
+lightness and fair protection.[END]
 
 
 //Text $1B51A0
@@ -14128,8 +14129,8 @@ a Dwarven work of art.[END]
 
 //Text $1B4F30
 #WRITE(ptr,$18FC5C)
-Extremely light breastplate made with[LINE]
-a special process. Allows one to move as fast[LINE]
+Extremely light breastplate made using a[LINE]
+special process. Allows one to move as fast[LINE]
 as a falling star. Or so it is advertised.[END]
 
 
@@ -14165,7 +14166,7 @@ it doesn't hinder one's movements.[END]
 //Text $1B5880
 #WRITE(ptr,$18FD10)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 //Text $1B4E40
@@ -14224,7 +14225,7 @@ who collected oral traditions into a book.[END]
 #WRITE(ptr,$18FE3C)
 Breastplate refered to as a[LINE]
 rampart. Provides a staunch defense[LINE]
-unpenatrable by even heavy bows.[END]
+impenetrable by even heavy bows.[END]
 
 //Text $1B4C48
 #WRITE(ptr,$18FE74)
@@ -14366,7 +14367,7 @@ Sturdy and easy to move in.[END]
 //Text $1B5880
 #WRITE(ptr,$190148)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 //Text $1B4758
@@ -14658,7 +14659,7 @@ its wearers mental fortitude.[END]
 //Text $1B5880
 #WRITE(ptr,$190760)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 //Text $1B3D70
@@ -14816,7 +14817,7 @@ Warmth for cold days.[END]
 //Text $1B37E8
 #WRITE(ptr,$190AA8)
 Cloak made for ease of[LINE]
-movement. Hightens the[LINE]
+movement. Heightens the[LINE]
 wearers physical abilities.[END]
 
 //Text $1B37D0
@@ -14993,7 +14994,7 @@ its wearers mental fortitude.[END]
 //Text $1B5880
 #WRITE(ptr,$190E68)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 //Text $1B3240
@@ -15262,7 +15263,7 @@ the power of the King of Beasts.[END]
 //Text $1B5880
 #WRITE(ptr,$19132C)
 Masterpiece imbued with[LINE]
-the soul of Egith.[LINE]
+the soul of Giese.[LINE]
 Extremely valuable.[END]
 
 
@@ -15882,7 +15883,7 @@ Allows one to move excitedly.[END]
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
 Aiming to be classy with a stylish hat.[LINE]
-That's Johnny''s style.[END]
+That's [Johnny]''s style.[END]
 
 
 //Text $1B6898
@@ -15916,9 +15917,9 @@ Imbues attacks with earth.[END]
 
 //Text $1B6738
 #WRITE(ptr,$191A8C)
-A sorceror made this hat so it won't[LINE]
-be blown by the wind. That's happiness.[LINE]
-Imbues attacks with wind.[END]
+A sorcerer made this hat so it won't[LINE]
+be blown away by the wind. That's[END]
+happiness. Imbues attacks with wind.[END]
 
 
 //Text $1B6720
@@ -16001,7 +16002,7 @@ have a slight chance of downing foes.[END]
 //Text $1B6448
 #WRITE(ptr,$191B6C)
 Proof he has conquered the arena's[LINE]
-lightweight divison. Normal attacks have a[LINE]
+lightweight division. Normal attacks have a[LINE]
 considerable chance of downing foes.[END]
 
 
@@ -16196,7 +16197,7 @@ pickled as a side dish.[END]
 #WRITE(ptr,$191D9C)
 Strap with some Rice Balls.[LINE]
 Carefully molded with love.[LINE]
-One's best travelling companion.[END]
+One's best traveling companion.[END]
 
 //Text $1BA180
 #WRITE(ptr,$191DC8)
@@ -16530,8 +16531,8 @@ Gratin at the same time. Give it a try.[END]
 //Text $1B90E0
 #WRITE(ptr,$1922DC)
 Strap with a Hamburger Steak.[LINE]
-Simmered with carrots.[LINE]
-Well kneaded to deliciousness.[END]
+Simmered with carrots. Well[LINE]
+kneaded to deliciousness.[END]
 
 
 //Text $1B9098
@@ -17297,7 +17298,8 @@ First-class Riceball[END]
 
 //Text $1B8D20
 #WRITE(ptr,$19240C)
-Wonderful[ END]
+Wonderful[END]
+
 
 //Text $1B8D10
 #WRITE(ptr,$192410)
@@ -17638,8 +17640,8 @@ in the Monster Book.[END]
 
 //Text $1BAC80
 #WRITE(ptr,$1927F8)
-A ring that shoots heat by consuming[LINE]
-lens. Fire with [Square_ani].[LINE]
+A ring that shoots heat by[LINE]
+consuming lens. Fire with [Square_ani].[LINE]
 [END]
 
 
@@ -17712,7 +17714,7 @@ like a backpack.[LINE]
 //Text $1BAA18
 #WRITE(ptr,$1928A0)
 A pass that's required to enter[LINE]
-Phandaria from Seingald.[LINE]
+Phandaria from Seinegald.[LINE]
 It's tough without one...[END]
 
 
@@ -17915,8 +17917,8 @@ Dungeon [Arcana Ruins].[LINE]
 
 //Text $1BA470
 #WRITE(ptr,$192A7C)
-Scratched lens.[LINE]
-It's not worth much, but tradeable.[LINE]
+Scratched lens. It's not worth[LINE]
+much, but is tradeable.[LINE]
 [END]
 
 
@@ -18156,7 +18158,7 @@ Armor Shop[END]
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-Uniques Shop[END]
+Accessory Shop[END]
 
 
 //Text $1BB4C8
@@ -18206,7 +18208,7 @@ Armor Shop[END]
 
 //Text $1BB4D0
 #WRITE(ptr,$19424C)
-Uniques Shop[END]
+Accessory Shop[END]
 
 
 //Text $1BB4C8
@@ -18216,7 +18218,7 @@ Arms Dealer[END]
 
 //Text $1BB4C0
 #WRITE(ptr,$194254)
-Uniques Shop[END]
+Accessory Shop[END]
 
 
 //Text $1BB4B0
@@ -18421,7 +18423,7 @@ Northwestern Branch[END]
 
 //Text $1BB348
 #WRITE(ptr,$1934C8)
-Packed Pavillion[END]
+Packed Pavilion[END]
 
 
 //Text $1BB330
@@ -18589,6 +18591,7 @@ Southern Cross[END]
 Disregard[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB1A8
 #WRITE(ptr,$193C38)
 Grim Curios[END]
@@ -18609,7 +18612,6 @@ Snow Country Branch[END]
 Mercenary Soul[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB170
 #WRITE(ptr,$193D18)
 Angel of Repose[END]
@@ -19031,7 +19033,8 @@ Revives a fallen ally once in battle[END]
 
 //Text $1BB9E0
 #WRITE(ptr,$19468C)
-END]
+[END]
+
 
 //Text $1BB9D0
 #WRITE(ptr,$194690)
@@ -19171,6 +19174,8 @@ to this honesty.[END]
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
 Swatian User[END]
+
+
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
@@ -19301,8 +19306,8 @@ NatuRanger[END]
 //POINTER #45 @ $19475C - STRING #45 @ $1BEAE8
 #WRITE(ptr,$19475C)
 Honorary title for adventurers[LINE]
-who love and protect nature and culture.[END]
-//[END]
+who love and protect nature[END]
+and culture.//[END]
 
 
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
@@ -19502,9 +19507,9 @@ NatuRanger[END]
 
 //POINTER #83 @ $1947F4 - STRING #83 @ $1BEAE8
 #WRITE(ptr,$1947F4)
-Love and protect all nature[LINE]
-and civilization. An honorable[LINE] 
-title bestowed upon such adventurers.[END]
+Love and protect all nature and[LINE]
+civilization. An honorable title[LINE] 
+bestowed upon such adventurers.[END]
 
 
 //POINTER #84 @ $1947F8 - STRING #84 @ $1BE418
@@ -19659,9 +19664,9 @@ Quiz Club Director[END]
 
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
-A club created out of an intellectual[LINE]
-desire to acquire all knowledge.[LINE]
-As the head of its women's division, she has reigned ever since.[END]
+A club created out of an intellectual desire[LINE]
+to acquire all knowledge. As the head of its[LINE]
+women's division, she has reigned ever since.[END]
 
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
 #WRITE(ptr,$194870)
@@ -19724,7 +19729,7 @@ Sword and Bow Warrior[END]
 
 //POINTER #125 @ $19489C - STRING #125 @ $1BDC30
 #WRITE(ptr,$19489C)
-A versatile warrior, adept at handlingLINE]
+A versatile warrior, adept at handling[LINE]
 the sword and bow. His combat prowess[LINE]
 leaves no weakness to be exploited[END]
 
@@ -19819,10 +19824,9 @@ NatuRanger[END]
 
 //POINTER #143 @ $1948E4 - STRING #143 @ $1BEAE8
 #WRITE(ptr,$1948E4)
-Love and protect all nature and civilization.[LINE]
-An honorable title bestowed upon[LINE]
-such adventurers[END]
-
+Love and protect all nature and[LINE]
+civilization. An honorable title[LINE] 
+bestowed upon such adventurers.[END]
 
 //POINTER #144 @ $1948E8 - STRING #144 @ $1BD938
 #WRITE(ptr,$1948E8)
@@ -20060,8 +20064,8 @@ NatuRanger[END]
 //POINTER #189 @ $19499C - STRING #189 @ $1BEAE8
 #WRITE(ptr,$19499C)
 Honorary title for adventurers[LINE]
-who love and protect[LINE]
-nature and culture.[END]
+who love and protect nature[END]
+and culture.[END]
 
 
 //POINTER #190 @ $1949A0 - STRING #190 @ $1BCFF8
@@ -20173,8 +20177,9 @@ White Ape[END]
 //POINTER #211 @ $1949F4 - STRING #211 @ $1BCBE0
 #WRITE(ptr,$1949F4)
 A rising star in the world of archery.[LINE]
-The white ape,[LINE]
-shooting through any target[MUSIC][END]
+The white ape, shooting[LINE]
+through any target[MUSIC][END]
+
 
 //POINTER #212 @ $1949F8 - STRING #212 @ $1BCBD0
 #WRITE(ptr,$1949F8)
@@ -20204,8 +20209,8 @@ NatuRanger[END]
 //POINTER #217 @ $194A0C - STRING #217 @ $1BEAE8
 #WRITE(ptr,$194A0C)
 Honorary title for adventurers[LINE]
-who love and protect[LINE]
-nature and culture.[END]
+who love and protect nature[END]
+and culture.[END]
 
 
 //POINTER #218 @ $194A10 - STRING #218 @ $1BCB08
@@ -20236,9 +20241,10 @@ Artemis Eyes[END]
 
 //POINTER #223 @ $194A24 - STRING #223 @ $1BC9C0
 #WRITE(ptr,$194A24)
-Is it your foes doom[LINE]
-gazing beyond your Godlike-Aim?[LINE]
+Is it your foes' doom gazing[LINE]
+beyond your Godlike-Aim?[LINE]
 Blessed by the bow and beauty goddess.[END]
+
 
 //POINTER #224 @ $194A28 - STRING #224 @ $1BC9B0
 #WRITE(ptr,$194A28)
@@ -20247,8 +20253,8 @@ Rising Merchant[END]
 //POINTER #225 @ $194A2C - STRING #225 @ $1BC968
 #WRITE(ptr,$194A2C)
 Each has their own business talent.[LINE]
-I'll take a shot at it[LINE] 
-and become a big hit someday[END]
+I'll take a shot at it and become a[LINE]
+big hit someday.[END]
 
 //POINTER #226 @ $194A30 - STRING #226 @ $1BC958
 #WRITE(ptr,$194A30)
@@ -20351,8 +20357,8 @@ NatuRanger[END]
 //POINTER #245 @ $194A7C - STRING #245 @ $1BEAE8
 #WRITE(ptr,$194A7C)
 Honorary title for adventurers[LINE]
-who love and protect[LINE]
-nature and culture.[END]
+who love and protect nature[END]
+and culture.[END]
 
 
 //POINTER #246 @ $194A80 - STRING #246 @ $1BC688
@@ -20493,8 +20499,8 @@ NatuRanger[END]
 //POINTER #273 @ $194AEC - STRING #273 @ $1BEAE8
 #WRITE(ptr,$194AEC)
 Honorary title for adventurers[LINE]
-who love and protect[LINE]
-nature and culture.[END]
+who love and protect nature[END]
+and culture.[END]
 
 
 //POINTER #274 @ $194AF0 - STRING #274 @ $1BC170
