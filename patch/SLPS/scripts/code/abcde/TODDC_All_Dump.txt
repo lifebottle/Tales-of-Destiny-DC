@@ -10307,9 +10307,9 @@ Only usable during battle.[LINE]
 
 //Text $1AE318
 #WRITE(ptr,$18C798)
-A smelly blue liquid. Rumored[LINE]
-to be an ingredient for some[LINE]
-kind of medicine.[END]
+A liquid medicine from Oberon Corp,[LINE]
+Restores 40% of max HP. Not usable[LINE]
+during battle.[END]
 
 
 //Text $1AF780
@@ -10456,12 +10456,12 @@ A medicinal herb that increases[LINE]
 evasion rate by 1.[END]
 
 
+#JMP($1AC530)
 //Text $1AF320
 #WRITE(ptr,$18C91C)
 [Sign_9]Jasmine[END]
 
 
-#JMP($1AC530)
 //Text $1AF2E0
 #WRITE(ptr,$18C920)
 A medicinal herb that increases[LINE]
@@ -18586,12 +18586,12 @@ Far Vent[END]
 Southern Cross[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB1B8
 #WRITE(ptr,$193C00)
 Disregard[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB1A8
 #WRITE(ptr,$193C38)
 Grim Curios[END]
