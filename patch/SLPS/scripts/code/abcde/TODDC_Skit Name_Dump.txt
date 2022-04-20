@@ -109,7 +109,7 @@ Let's Go Inside[END]
 
 //Text $16378
 #WRITE(ptr,$54B4)
-Janos Is Southwest of [Alba’s] Hut[END]
+Janos Is Southwest of [Alba]'s Hut[END]
 
 
 //Text $16360
