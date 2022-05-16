@@ -8274,7 +8274,7 @@ EX Dungeon[END]
 //Text $1A5F20
 #WRITE(ptr,$189870)
 #WRITE(ptr,$18987C)
-Traveller's Lodge[END]
+Traveler's Lodge[END]
 
 
 //Text $1A5F00
