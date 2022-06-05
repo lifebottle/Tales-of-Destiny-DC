@@ -8752,7 +8752,7 @@ You may have a strange encounter here.[END]
 
 //Text $1A6970
 #WRITE(ptr,$18A3B8)
-Food Sack Master's Hermitage[END]
+Food Sack Master's Haven[END]
 
 
 //Text $1A6950
@@ -8762,8 +8762,8 @@ Food Sack Master's Hermitage[END]
 
 //Text $1A6928
 #WRITE(ptr,$18A3C0)
-A hermitage for those who have[LINE]
-mastered the art of making food sacks.[LINE]
+A haven for those who have mastered[LINE]
+the art of making food sacks.[LINE]
 [END]
 
 
