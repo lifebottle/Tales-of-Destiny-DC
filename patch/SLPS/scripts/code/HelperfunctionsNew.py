@@ -89,7 +89,7 @@ class Helper:
         dfOriginal['index'] = np.arange(1, dfOriginal.shape[0] + 1)
         
         dfGroup = dfOriginal.groupby('text').min('textOffSetInt')  
-        dfGroup.to_excel("googleSheet_Extracted2.xlsx")
+        #dfGroup.to_excel("googleSheet_Extracted2.xlsx")
         #finalList = removeDuplicates
         return finalList
     
