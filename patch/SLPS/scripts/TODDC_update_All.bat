@@ -1,5 +1,5 @@
-python "code/updateBlock.py" All
-python "code/updateBlock.py" "Battle Tutorial"
-python "code/updateBlock.py" "Minigame"
-python "code/updateBlock.py" "Skit Name"
+@ECHO OFF
+SET ThisScriptsDirectory=%~dp0
+SET PowerShellScriptPath=%ThisScriptsDirectory%Run_All.ps1
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '%PowerShellScriptPath%'";
 pause
