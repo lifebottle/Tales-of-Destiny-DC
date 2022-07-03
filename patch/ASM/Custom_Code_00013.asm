@@ -111,14 +111,21 @@
     ;=================================
 	addiu sp, sp, -0x20
 	sw ra, 0x1c(sp)
+    sw s0, 0x18(sp)
+    
+    ; need to save a0 for sound test sound area thingy
+    sw a0, 0x14(sp)
 
     jal 0x003b80c0
     nop
 
+    lw a0, 0x14(sp)
+    addiu a0, a0, 0x4000    ; add 8000
     jal Process_Display_Text_Sound_Test
-    nop
+    addiu a0, a0, 0x4000    ; add 8000
 
     @@end:
+    lw s0, 0x18(sp)
     lw ra, 0x1c(sp)
     jr ra
     addiu sp, sp, 0x20
@@ -551,25 +558,25 @@
     sw s1, 0x14(sp)
     sw s2, 0x10(sp)
     sw s3, 0xc(sp)
-
+    move s0, a0     ; sound area thingy in s0
     li a0, TextA
     jal Check_Frame_Count_Ended_Sound_Text
-    nop
+    move a1, s0
     
     li a0, TextB
     jal Check_Frame_Count_Ended_Sound_Text
-    nop
+    move a1, s0
 
     li a0, TextA
     jal Check_Sound_Done_Playing_Sound_Test
-    nop
+    move a1, s0
 
     li a0, TextB
     jal Check_Sound_Done_Playing_Sound_Test
-    nop
+    move a1, s0
 
     jal Process_Sound_Queue_Sound_Test
-    nop
+    move a1, s0
 
 
     ;4. If Text A exists, print it
@@ -615,7 +622,8 @@
     beq s0, zero, @@end     ; if no buffer area, blank, do nothing, end
     lhu s1, 0xC(a0)
 
-    li s0, 0xF53A90
+    ;li s0, 0xF53A90
+    move s0, a1
     lw s0, 0x1190(s0)
     addiu s0, s0, -0x1
     ; s0 = frame counter, s1 = text max frame counter
@@ -666,7 +674,8 @@
     ; sound is playing - 0x1188 is not FFFFFFFF
     ; sound is done playing - 0x1188 is FFFFFFFF
 
-    li v0, 0xF53A90
+    ;li v0, 0xF53A90
+    move v0, a1
     lw v0, 0x1188(v0)   ; check if this is 0xFFFFFFFF
                         ; if yes, not playing anything
     
@@ -726,14 +735,17 @@
     ; Check if items from Sound Queue need to be assigned to TextA/B
     ; -- Is sound playing and does current frame == starting frame?
     ;=================================
-	addiu sp, sp, -0x20
-	sw ra, 0x1c(sp)
-    sw s0, 0x18(sp)
-    sw s1, 0x14(sp)
-    sw s2, 0x10(sp)
-    sw s3, 0xc(sp)
-    sw s4, 0x8(sp)
-    sw s5, 0x4(sp)
+	addiu sp, sp, -0x30
+	sw ra, 0x2c(sp)
+    sw s0, 0x28(sp)
+    sw s1, 0x24(sp)
+    sw s2, 0x20(sp)
+    sw s3, 0x1c(sp)
+    sw s4, 0x18(sp)
+    sw s5, 0x14(sp)
+    sw s6, 0x10(sp)
+
+    move s6, a1
 
     ;3. Loop through all dialog text objects assigned to this battle voice id:
     ;3a. If current frame = starting frame, set up string in A/B (whichever is empty)
@@ -767,8 +779,8 @@
     sw zero, 0x4(s0)
 
 @@continue:
-    li s1, 0xF53A90
-    lw s1, 0x1190(s1)    ; current frame
+    ;li s1, 0xF53A90
+    lw s1, 0x1190(s6)    ; current frame
     addiu s1, s1, -0x1   ; decrement frame by 1 since its already 1 here - want to start at 0
 
     ; 2 loops: 
@@ -810,15 +822,16 @@
     addiu s0, s0, 0x8
 
 @@end:
-    lw ra, 0x1c(sp)
-    lw s0, 0x18(sp)
-    lw s1, 0x14(sp)
-    lw s2, 0x10(sp)
-    lw s3, 0xc(sp)
-    lw s4, 0x8(sp)
-    lw s5, 0x4(sp)
+    lw ra, 0x2c(sp)
+    lw s0, 0x28(sp)
+    lw s1, 0x24(sp)
+    lw s2, 0x20(sp)
+    lw s3, 0x1c(sp)
+    lw s4, 0x18(sp)
+    lw s5, 0x14(sp)
+    lw s6, 0x10(sp)
     jr ra
-    addiu sp, sp, 0x20
+    addiu sp, sp, 0x30
 .endfunc
 
 ;=================================

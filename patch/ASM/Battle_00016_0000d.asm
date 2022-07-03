@@ -43,15 +43,15 @@
 ; Sleep / Weak Pointer Swap
 ;=================================
 
-orig_file equ "../DAT_FILES_ORIGINAL/00016_0000d.unknown"
+;orig_file equ "../DAT_FILES_ORIGINAL/00016_0000d.unknown"
 ; Starts at 0x03d4080
 ; first pointer at 39CE0
 ; second pointer at 39CE8
 
-.org 0x0040dd60     ; Originally pointing to "WEAK"
-    .word readU32(orig_file, 0x39CE8)   ; point to "SLEEP" now
+;.org 0x0040dd60     ; Originally pointing to "WEAK"
+    ;.word readU32(orig_file, 0x39CE8)   ; point to "SLEEP" now
 
-.org 0x0040dd68     ; Originally pointing to "SLEEP"
-    .word readU32(orig_file, 0x39CE0)   ; point to "WEAK" now
+;.org 0x0040dd68     ; Originally pointing to "SLEEP"
+    ;.word readU32(orig_file, 0x39CE0)   ; point to "WEAK" now
 
 .close

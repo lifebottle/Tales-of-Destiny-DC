@@ -1,1 +1,1 @@
-"armips.exe" "DESTINYDC.asm"
+"armips.exe" "DESTINYDC.asm" -sym2 destinydc.sym -temp destinydc.asm.txt
