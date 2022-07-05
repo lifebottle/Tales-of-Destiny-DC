@@ -119,7 +119,7 @@ I don't know?
 <TAG_005>There's a children's book titled
 "The Kind Angel and the Red Demon."
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Would you like to read it?
 Yes
@@ -167,7 +167,7 @@ work are lined up.
 World Famous Cities
 [Junkland, City of Garbage]
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Would you like to read it?
 Yes
@@ -190,7 +190,7 @@ Their main source of income is...
 <TAG_005>There's part of the novel
 "Calendar of the Stars Pt.2"
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Would you like to read it?
 Yes
@@ -236,7 +236,7 @@ by the <Baruk> Foundation.
 <TAG_005>There's a monthly publication called
 "Four Secrets of the World."
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Would you like to read it?
 Just the table of contents

@@ -124,7 +124,7 @@ WALL_2なり!!
 ここはおよみにおなりでございますでしょうかね
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <x18><x66><x14><x00><x80>
 Yes
@@ -226,7 +226,7 @@ Do you want to play the drums?
 What's the matter, you don't
 want to play the drums?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Do you want to leave the room?
 Yes

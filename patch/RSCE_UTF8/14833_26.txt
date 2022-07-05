@@ -233,7 +233,7 @@ EP Selection
 -----page = <x17><x71><x48><xD4><x80>------
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007><x18><x65><x5A><x88><x00><x80>
 [ENDBLOCK]
@@ -487,7 +487,7 @@ Page10
 <x18><x65><x57><xDC><x00><x80>
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 ♪♪♪~
 ...
@@ -1679,7 +1679,7 @@ If you're not too busy, maybe you
 could help me with my work.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Take on a job
 I don't have time for this.
@@ -1852,7 +1852,7 @@ and then come back.
 Well, good luck.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Continue the Job
 Confirm Details

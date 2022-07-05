@@ -578,7 +578,7 @@ Chatty Old Man
 Another once in a lifetime meeting.
 Would you like to take a rest?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Are you going to rest?
 Yes
@@ -899,7 +899,7 @@ the cat be, now?
 [ENDBLOCK]
 What do you mean by "healthy?"
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Give up looking for the children?
 Yes
@@ -911,7 +911,7 @@ No
 <TAG_005>You see several coins at
 the bottom of the fountain.
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Give up looking for the children?
 Yes
