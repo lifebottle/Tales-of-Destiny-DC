@@ -55,13 +55,13 @@ my resentment is eternal...
 [ENDBLOCK]
 Arcana Ruins
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Treasure chests have special
 effects within the <x18><x66><x1C><x00><x80>.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Some will restore your strength and
 replenish your food supply, whilst
@@ -69,7 +69,7 @@ others will deplete your strength
 and leave you hungry.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 All chests that share a color on a
 floor have the same effect. Open
@@ -186,7 +186,7 @@ Yes, we do.
 Absolutely not!
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 HP has been restored.
 
@@ -254,7 +254,7 @@ Cyglorg
 [ENDBLOCK]
 Fabulous! I'll take <x17><x72><x40><x24><x80> <x1A><x72><x40><x14><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 You have gained <TAG_077> EX Points.
 [ENDBLOCK]
@@ -277,7 +277,7 @@ Cyglorg
 [ENDBLOCK]
 I present you with [<x1A><x72><x40><x14><x80>].
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
@@ -326,7 +326,7 @@ Cyglorg
 [ENDBLOCK]
 All right, I'll take <TAG_077> EX Points.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_034> <x1A><x72><x40><x14><x80> acquired.
 [ENDBLOCK]
@@ -423,7 +423,7 @@ Cyglorg
 [ENDBLOCK]
 Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Your Food Sack is now full.
 
@@ -504,7 +504,7 @@ Yes
 No
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 You are out of EX Points.
 [ENDBLOCK]
@@ -567,7 +567,7 @@ Party: <Lilith> <TAG_031>
 [ENDBLOCK]
 Party Selection
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x06><xF8><x00><x00><x00>Please choose the party you will
 take on this floor. You can select
@@ -585,7 +585,7 @@ party_list[0] = <x17><x6A><x40><x9C><x80>（パーティ人数）
 party_list[<TAG_031>] = <x17><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>（<x19><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The party has been chosen.
 [ENDBLOCK]
@@ -779,25 +779,25 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 On this floor, platforms are moved
 by flipping red and blue switches.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 These platforms move in tandem
 when a switch is flipped.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Flipping the switch to red will move
 red platforms up. Flipping the switch
 to blue will move blue platforms up.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Making good use of these interlocking
 platforms will create the necessary
@@ -842,7 +842,7 @@ EECS_COLOR_BLUE階層番号：<x17><x72><x40><x28><x80>
 [ENDBLOCK]
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
@@ -865,9 +865,9 @@ has returned to the party.
 [ENDBLOCK]
 <x18><x65><x90><xFC><x11><x00><x80><x18><x65><x90><x00><x12><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x80><x0C><x12><x80><x3C><x2F>color>
 [ENDBLOCK]
@@ -875,7 +875,7 @@ has left the party.
 [ENDBLOCK]
 <x18><x65><x90><xFC><x11><x00><x80><x18><x65><x90><x00><x12><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80>0<x98><x80>
 [ENDBLOCK]
@@ -912,7 +912,7 @@ notice
 [ENDBLOCK]
 <x19><x69><x80> <x80> has received the title:
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x90><x24><x12><x00><x80>
 <x18><x65><x90><x28><x12><x00><x80>
@@ -926,30 +926,30 @@ You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>詳しくは下記のURLでご確認ください。
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
@@ -971,31 +971,31 @@ notice
 設定がなされません！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Device not activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Warp device activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x80><x0C><x12><x80><x99><xD5>ソーディアンデバイスが
 使用可能になりました。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
 Titles are one of the character
 parameters that can be set. 
 The specific method is as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
@@ -1003,27 +1003,27 @@ On this screen, press <Square_ani> to
 change the character status.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen will be
 [Titles]. Press <Triangle_ani> to pick
 from all acquired titles.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Titles serve two purposes:
 The first is to [affect dialogue 
 when talking to NPCs].
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Set a title to have certain NPCs interested
 while passing them. When talking with NPCs
 multiple times you may get different responses.
 Change the title and try talking to them again.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Hint: When talking to certain NPCs, a [?] will 
 appear over the character's head. If this 
@@ -1031,7 +1031,7 @@ happens, set a title that seems to be related
 to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The second purpose for titles is...
 to make your status screen look cool!
@@ -1039,14 +1039,14 @@ When collecting titles, you might pick
 up one you like, so you can set it on
 your status for a little flair!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Rock Rally] is a game in which
 players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the
