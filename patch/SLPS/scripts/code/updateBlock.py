@@ -9,7 +9,7 @@ if __name__ == "__main__":
     
     helper = Helper()
   
-    if blockDesc in ["Skit Name", "Synopsis", "Minigame"]:
+    if blockDesc in ["Synopsis", "Minigame"]:
         helper.createBlock_Multi(blockDesc)
         
     elif blockDesc != "All":
