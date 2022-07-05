@@ -19,6 +19,9 @@
 .org 0x0040642c
     jal Battle_Victory_Wrapper
 
+.org 0x003eafd4
+    jal Blast_Caliber_Wrapper
+
 ;=================================
 ; Blast Caliber Text Adjustments
 ;=================================
@@ -34,7 +37,9 @@
     li a2, 0x7a80           ; "BLAST" blue line y-pos adj from 0x7c00
 
 .org 0x03eb9fc
-    nop                     ; nop out printing the 2nd text "CALIBER"
+    nop
+    ;jal Clear_Queue         ; nop out printing the 2nd text "CALIBER"
+                            ;
 
 .org 0x3eb930
     nop                     ; nop out the 2nd blue line

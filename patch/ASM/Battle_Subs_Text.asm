@@ -53,8 +53,16 @@ KING equ 0x0B, 0x2F, 0x00, 0x00, 0x00
 QUEEN equ 0x0B, 0x30, 0x00, 0x00, 0x00
 ALBA equ 0x0B, 0x31, 0x00, 0x00, 0x00
 
+; Text Locations
+VICTORY_QUOTE equ 0x0
+IN_BATTLE_QUOTE equ 0x1
+BLAST_CALIBER_QUOTE equ 0x2
+
 ; Table with all IDs and a "pointer"/label to the corresponding table
 ; Need to add ID here and label to the table
+; If any line needs to have their sub disabled
+; Just comment the line out in the table below
+; by placing a ; in front of the line
 BattleTable:
 ; Stahn Blast Caliber
 .word 0x20, Table_020
@@ -62,6 +70,92 @@ BattleTable:
 .word 0x62, Table_062
 .word 0x63, Table_063
 .word 0x64, Table_064
+.word 0x59, Table_059
+.word 0x5b, Table_05B
+.word 0x65, Table_065
+.word 0x50, Table_050
+.word 0x60, Table_060
+
+; Stahn In Battle Quotes
+.word 0x25, Table_025
+.word 0x26, Table_026
+.word 0x27, Table_027
+.word 0x28, Table_028
+.word 0x29, Table_029
+.word 0x1E, Table_01E
+
+; Rutee In Battle Quotes
+.word 0x9C, Table_09C
+.word 0x9D, Table_09D
+.word 0x9F, Table_09F
+.word 0xA0, Table_0A0
+.word 0x9E, Table_09E
+.word 0x95, Table_095
+
+; Philia In Battle Quotes
+.word 0x105, Table_105
+.word 0x104, Table_104
+.word 0x107, Table_107
+.word 0x108, Table_108
+.word 0x106, Table_106
+.word 0xFD, Table_0FD
+
+; Leon In Battle Quotes
+.word 0x1C0, Table_1C0
+.word 0x1BF, Table_1BF
+.word 0x1C2, Table_1C2
+.word 0x1C3, Table_1C3
+.word 0x1C1, Table_1C1
+.word 0x1B8, Table_1B8
+
+; Woodrow In Battle Quotes
+.word 0x16C, Table_16C
+.word 0x16B, Table_16B
+.word 0x16E, Table_16E
+.word 0x16F, Table_16F
+.word 0x16D, Table_16D
+.word 0x164, Table_164
+
+; Mary In Battle Quotes
+.word 0x21F, Table_21F
+.word 0x21E, Table_21E
+.word 0x221, Table_221
+.word 0x222, Table_222
+.word 0x220, Table_220
+.word 0x217, Table_217
+
+; Kongman In Battle Quotes
+.word 0x2F0, Table_2F0
+.word 0x2F1, Table_2F1
+.word 0x2F3, Table_2F3
+.word 0x2F4, Table_2F4
+.word 0x2F2, Table_2F2
+.word 0x2E9, Table_2E9
+
+; Johnny In Battle Quotes
+.word 0x2AA, Table_2AA
+.word 0x2AB, Table_2AB
+.word 0x2AD, Table_2AD
+.word 0x2AE, Table_2AE
+.word 0x2AC, Table_2AC
+.word 0x2A3, Table_2A3
+
+; Chelsea In Battle Quotes
+.word 0x264, Table_264
+.word 0x265, Table_265
+.word 0x267, Table_267
+.word 0x268, Table_268
+.word 0x266, Table_266
+.word 0x25D, Table_25D
+
+; Lilith In Battle Quotes
+.word 0x347, Table_347
+.word 0x348, Table_348
+.word 0x34A, Table_34A
+.word 0x34B, Table_34B
+.word 0x349, Table_349
+.word 0x340, Table_340
+
 
 ; Stahn Single Victory Quotes
 .word 0x2A, Table_02A
@@ -212,7 +306,12 @@ BattleTable:
 ; Label for Table, "Table_{id}"
 Table_226:
     ; halfword (2 bytes) - voice id repeated here (sorry)
-    .halfword 0x226 ; Voice Id
+    ; **This has changed to **
+    ;   VICTORY_QUOTE equ 0x0
+    ;   IN_BATTLE_QUOTE equ 0x1
+    ;   BLAST_CALIBER_QUOTE equ 0x2
+    ;.halfword 0x226 ; Voice Id
+    .halfword VICTORY_QUOTE
     ; next 2 bytes are the # of extra frames, and then the # of lines to print
     ; if a sound is really short but you want the subs to hang out a little longer
     ; then add some frames here
@@ -241,8 +340,9 @@ Table_226_1:
 
 ; Multi Line Example
 Table_5dc:
-    .halfword 0x5dc         ; Voice Id
-    .byte 0x20          ; 32 Extra Frames 
+    ;.halfword 0x5dc         ; Voice Id
+    .halfword VICTORY_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5dc_1       ; pointer to each of the 4 sub tables in order
     .word Table_5dc_2
@@ -273,46 +373,53 @@ Table_5dc_4:
 ; Stahn Blast Caliber
 
 ; This one (0x20) gets re-used a lot and causes some issues
+; There is no delay between the end of 0x20 and the start of the next line
+; so the "is sound done playing"? never procs
+; Need to set a manual end frame. 
 ; Need to make sure the line duration (0x48) lasts into the start of the next line
 ; otherwise weird things happen
 ; (there is no delay between 0x20 and 0x61, and it uses the same sound buffer)
 ; (so code to check if sound is done playing never triggers until after 0x61 is done)
 ; (if this ends before next one starts, it will print again)
+; ABOVE ISSUE SHOULD BE FIXED... hopefully
 Table_020:
-    .halfword 0x020     ; voice id
-    .byte 0x0          ; 0 Extra Frames 
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 0 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_020_1
 Table_020_1:
     .halfword 0x0       ; start  
-    .halfword 0x48    ; end
+    ;.halfword 0x48    ; end
+    .halfword 0xFFFF    ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": Haaaaaaah!"
     .align 4
 
 Table_061:
-    .halfword 0x061     ; voice id
-    .byte 0020          ; 0 Extra Frames 
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 10 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_061_1
 Table_061_1:
     .halfword 0x0       ; start  
+    ;.halfword 0xF8    ; end
     .halfword 0xFFFF    ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": Sword of eternal flame... Unleash your power!"
     .align 4
 
 Table_062:
-    .halfword 0x062     ; voice id
-    .byte 0x20          ; 32 Extra Frames 
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 16 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_062_1
 Table_062_1:
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
+    ;.halfword 0x120    ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": Scorch my enemies down to their very souls!"
     .align 4
 
 Table_063:
-    .halfword 0x063     ; voice id
+    .halfword BLAST_CALIBER_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_063_1
@@ -323,7 +430,7 @@ Table_063_1:
     .align 4
 
 Table_064:
-    .halfword 0x064     ; voice id
+    .halfword BLAST_CALIBER_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2           ; 2 lines
     .word Table_064_1
@@ -339,11 +446,748 @@ Table_064_2:
     .asciiz COLOR_START,STAHN,COLOR_END,": Blazing Apocalypse!"
     .align 4
 
+Table_059:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_059_1
+Table_059_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": I'm not going down without a fight!"
+    .align 4
+
+Table_05B:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_05B_1
+Table_05B_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Regal Phoenix!"
+    .align 4
+
+Table_065:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_065_1
+Table_065_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Burning Phoenix!"
+    .align 4
+
+Table_050:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_050_1
+Table_050_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": BURN!"
+    .align 4
+
+Table_060:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x50          ; no Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_060_1
+Table_060_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF      ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Final Fury!"
+    .align 4
+
+
+; Stahn In Battle Quotes
+Table_025:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_025_1
+Table_025_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": The enemy!"
+    .align 4
+
+Table_026:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_026_1
+Table_026_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Let's go!"
+    .align 4
+
+Table_027:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_027_1
+Table_027_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Let's go, everyone!"
+    .align 4
+
+Table_028:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_028_1
+Table_028_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Behind us!"
+    .align 4
+
+Table_029:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_029_1
+Table_029_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": This is bad!"
+    .align 4
+
+Table_01E:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_01E_1
+Table_01E_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Let's get outta here!"
+    .align 4
+
+; Rutee in battle quotes
+
+Table_09c:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_09c_1
+Table_09c_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": Let's get this over with!"
+    .align 4
+
+Table_09d:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_09d_1
+Table_09d_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": I'll be taking that!"
+    .align 4
+    
+Table_09f:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_09f_1
+Table_09f_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": They're behind us!?"
+    .align 4
+    
+Table_0a0:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_0a0_1
+Table_0a0_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": They're on...both sides?"
+    .align 4
+    
+Table_09e:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_09e_1
+Table_09e_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": This is going to be fun!"
+    .align 4
+    
+Table_095:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_095_1
+Table_095_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": You'll pay for this!"
+    .align 4
+
+
+; Philia In Battle Quotes
+
+Table_105:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_105_1
+Table_105_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Let's do our best, everyone."
+    .align 4
+
+Table_104:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_104_1
+Table_104_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": A threat..."
+    .align 4
+
+Table_107:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_107_1
+Table_107_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Enemy attack!"
+    .align 4
+
+Table_108:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_108_1
+Table_108_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": They're coming from both sides!"
+    .align 4
+
+Table_106:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_106_1
+Table_106_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Atamoni..."
+    .align 4
+
+Table_0fd:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_0fd_1
+Table_0fd_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": We must escape, quickly!"
+    .align 4
+
+; Leon In Battle Quotes
+Table_1C0:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1C0_1
+Table_1C0_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Shall we begin?"
+    .align 4
+
+Table_1BF:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1BF_1
+Table_1BF_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Now, let's move!"
+    .align 4
+
+Table_1C2:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1C2_1
+Table_1C2_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Oh, is that their plan?"
+    .align 4
+
+Table_1C3:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1C3_1
+Table_1C3_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Looks like we're trapped."
+    .align 4
+
+Table_1C1:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1C1_1
+Table_1C1_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Don't hold back!"
+    .align 4
+
+Table_1B8:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_1B8_1
+Table_1B8_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Let's regroup."
+    .align 4
+
+
+; Woodrow In Battle Quotes
+Table_16C:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_16C_1
+Table_16C_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": They've come."
+    .align 4
+    
+Table_16B:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_16B_1
+Table_16B_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": Looks hostile."
+    .align 4
+    
+Table_16E:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_16E_1
+Table_16E_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": Surprise attack, watch out!"
+    .align 4
+    
+Table_16F:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_16F_1
+Table_16F_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": Pincer attack! Take your positions!"
+    .align 4
+    
+Table_16D:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_16D_1
+Table_16D_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": We must be on our guard!"
+    .align 4
+    
+Table_164:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_164_1
+Table_164_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,WOODROW,COLOR_END,": Retreat!"
+    .align 4
     
 
+; Mary In Battle Quotes
+Table_21F:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_21F_1
+Table_21F_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": They don't look like much trouble."
+    .align 4
+
+Table_21E:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_21E_1
+Table_21E_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": Well, let's get a move on."
+    .align 4
+
+Table_221:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_221_1
+Table_221_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": Here they come!"
+    .align 4
+
+Table_222:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_222_1
+Table_222_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": We're surrounded!"
+    .align 4
+
+Table_220:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_220_1
+Table_220_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": Let me show you what I got!"
+    .align 4
+
+Table_217:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_217_1
+Table_217_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,MARY,COLOR_END,": Let's bail!"
+    .align 4
+    
+
+; Kongman In Battle Quotes
+
+Table_2F0:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2F0_1
+Table_2F0_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": I'mma knock you out!"
+    .align 4
+
+Table_2F1:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2F1_1
+Table_2F1_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": Who wants a piece of this?"
+    .align 4
+
+Table_2F3:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2F3_1
+Table_2F3_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": Fight fair and square!"
+    .align 4
+
+Table_2F4:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2F4_1
+Table_2F4_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": I'll take you on from any direction!"
+    .align 4
+
+Table_2F2:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2F2_1
+Table_2F2_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": NEVER underestimate a CHAMPION!"
+    .align 4
+
+Table_2E9:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2E9_1
+Table_2E9_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,KONGMAN,COLOR_END,": Let's get outta here!"
+    .align 4
+    
+
+; Johnny In Battle Quotes
+Table_2AA:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2AA_1
+Table_2AA_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": Let's get it on!"
+    .align 4
+
+Table_2AB:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2AB_1
+Table_2AB_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": Shall we dance?"
+    .align 4
+
+Table_2AD:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2AD_1
+Table_2AD_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": Hooligans have arrived!"
+    .align 4
+
+Table_2AE:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2AE_1
+Table_2AE_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": What do we d o?"
+    .align 4
+
+Table_2AC:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2AC_1
+Table_2AC_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": Come on! I'm coming for you!"
+    .align 4
+
+Table_2A3:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_2A3_1
+Table_2A3_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": Run for your life!"
+    .align 4
+
+
+; Chelsea In Battle Quotes
+Table_264:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_264_1
+Table_264_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": I'll do my best!"
+    .align 4
+
+Table_265:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_265_1
+Table_265_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": I'll bring up the rear."
+    .align 4
+
+Table_267:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_267_1
+Table_267_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": What? When did they..."
+    .align 4
+
+Table_268:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_268_1
+Table_268_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": We're completely surrounded!"
+    .align 4
+
+Table_266:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_266_1
+Table_266_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": We won't lose to the likes of you!"
+    .align 4
+
+Table_25d:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_25d_1
+Table_25d_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,CHELSEA,COLOR_END,": That was close..."
+    .align 4
+
+
+; Lilith In Battle Quotes
+Table_347:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_347_1
+Table_347_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": Let's do it!"
+    .align 4
+
+Table_348:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_348_1
+Table_348_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": Shall we?"
+    .align 4
+
+Table_34A:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_34A_1
+Table_34A_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": They seem to be behind us."
+    .align 4
+
+Table_34B:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_34B_1
+Table_34B_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": We're stuck."
+    .align 4
+
+Table_349:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_349_1
+Table_349_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": Are you really that tough?"
+    .align 4
+
+Table_340:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x1           ; 1 line
+    .word Table_340_1
+Table_340_1:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz COLOR_START,LILITH,COLOR_END,": Retreat. Retreat!"
+    .align 4
+
+
+
+; Victory Quotes
 ; Stahn Single Victory Quotes
 Table_02A:
-    .halfword 0x02A     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02A_1
@@ -354,7 +1198,7 @@ Table_02A_1:
     .align 4
 
 Table_02B:
-    .halfword 0x02B     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02B_1
@@ -365,7 +1209,7 @@ Table_02B_1:
     .align 4
 
 Table_02C:
-    .halfword 0x02C     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02C_1
@@ -376,7 +1220,7 @@ Table_02C_1:
     .align 4
 
 Table_02D:
-    .halfword 0x02D     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02D_1
@@ -387,7 +1231,7 @@ Table_02D_1:
     .align 4
 
 Table_02E:
-    .halfword 0x02E     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02E_1
@@ -398,7 +1242,7 @@ Table_02E_1:
     .align 4
 
 Table_02F:
-    .halfword 0x02F     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_02F_1
@@ -409,7 +1253,7 @@ Table_02F_1:
     .align 4
 
 Table_030:
-    .halfword 0x030     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_030_1
@@ -420,7 +1264,7 @@ Table_030_1:
     .align 4
 
 Table_031:
-    .halfword 0x031     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_031_1
@@ -433,7 +1277,7 @@ Table_031_1:
 ; Rutee Single Victory Quotes
 
 Table_0A1:
-    .halfword 0x0A1     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A1_1
@@ -444,7 +1288,7 @@ Table_0A1_1:
     .align 4
 
 Table_0A2:
-    .halfword 0x0A2     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A2_1
@@ -455,7 +1299,7 @@ Table_0A2_1:
     .align 4
 
 Table_0A3:
-    .halfword 0x0A3     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A3_1
@@ -466,7 +1310,7 @@ Table_0A3_1:
     .align 4
 
 Table_0A4:
-    .halfword 0x0A4     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A4_1
@@ -477,7 +1321,7 @@ Table_0A4_1:
     .align 4
 
 Table_0A5:
-    .halfword 0x0A5     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A5_1
@@ -488,7 +1332,7 @@ Table_0A5_1:
     .align 4
 
 Table_0A6:
-    .halfword 0x0A6     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A6_1
@@ -499,7 +1343,7 @@ Table_0A6_1:
     .align 4
 
 Table_0A7:
-    .halfword 0x0A7     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A7_1
@@ -510,7 +1354,7 @@ Table_0A7_1:
     .align 4
 
 Table_0A8:
-    .halfword 0x0A8     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_0A8_1
@@ -523,7 +1367,7 @@ Table_0A8_1:
 ; Philia Single Victory Quotes
 
 Table_109:
-    .halfword 0x109     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_109_1
@@ -534,7 +1378,7 @@ Table_109_1:
     .align 4
 
 Table_10a:
-    .halfword 0x10a     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10a_1
@@ -545,7 +1389,7 @@ Table_10a_1:
     .align 4
 
 Table_10B:
-    .halfword 0x10B     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10B_1
@@ -556,7 +1400,7 @@ Table_10B_1:
     .align 4
 
 Table_10C:
-    .halfword 0x10C     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10C_1
@@ -567,7 +1411,7 @@ Table_10C_1:
     .align 4
 
 Table_10D:
-    .halfword 0x10D     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10D_1
@@ -578,7 +1422,7 @@ Table_10D_1:
     .align 4
 
 Table_10E:
-    .halfword 0x10E     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10E_1
@@ -589,7 +1433,7 @@ Table_10E_1:
     .align 4
 
 Table_10F:
-    .halfword 0x10F     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_10F_1
@@ -600,7 +1444,7 @@ Table_10F_1:
     .align 4
 
 Table_110:
-    .halfword 0x110     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_110_1
@@ -613,7 +1457,7 @@ Table_110_1:
 ; Leon Single Victory Quotes
 
 Table_1C4:
-    .halfword 0x1C4     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C4_1
@@ -624,7 +1468,7 @@ Table_1C4_1:
     .align 4
 
 Table_1C5:
-    .halfword 0x1C5     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C5_1
@@ -635,7 +1479,7 @@ Table_1C5_1:
     .align 4
 
 Table_1C6:
-    .halfword 0x1C6     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C6_1
@@ -646,7 +1490,7 @@ Table_1C6_1:
     .align 4
 
 Table_1C7:
-    .halfword 0x1C7     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C7_1
@@ -657,7 +1501,7 @@ Table_1C7_1:
     .align 4
 
 Table_1C8:
-    .halfword 0x1C8     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C8_1
@@ -668,7 +1512,7 @@ Table_1C8_1:
     .align 4
 
 Table_1C9:
-    .halfword 0x1C9     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1C9_1
@@ -679,7 +1523,7 @@ Table_1C9_1:
     .align 4
 
 Table_1Ca:
-    .halfword 0x1Ca     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1Ca_1
@@ -690,7 +1534,7 @@ Table_1Ca_1:
     .align 4
 
 Table_1Cb:
-    .halfword 0x1Cb     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_1Cb_1
@@ -703,7 +1547,7 @@ Table_1Cb_1:
 ; Woodrow Single Victory Quotes
 
 Table_170:
-    .halfword 0x170     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_170_1
@@ -714,7 +1558,7 @@ Table_170_1:
     .align 4
 
 Table_171:
-    .halfword 0x171     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_171_1
@@ -725,7 +1569,7 @@ Table_171_1:
     .align 4
 
 Table_172:
-    .halfword 0x172     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_172_1
@@ -736,7 +1580,7 @@ Table_172_1:
     .align 4
 
 Table_173:
-    .halfword 0x173     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_173_1
@@ -747,7 +1591,7 @@ Table_173_1:
     .align 4
 
 Table_174:
-    .halfword 0x174     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_174_1
@@ -758,7 +1602,7 @@ Table_174_1:
     .align 4
 
 Table_175:
-    .halfword 0x175     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_175_1
@@ -769,7 +1613,7 @@ Table_175_1:
     .align 4
 
 Table_176:
-    .halfword 0x176     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_176_1
@@ -780,7 +1624,7 @@ Table_176_1:
     .align 4
 
 Table_177:
-    .halfword 0x177     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_177_1
@@ -793,7 +1637,7 @@ Table_177_1:
 ; Mary Single Victory Quotes
 
 Table_223:
-    .halfword 0x223     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_223_1
@@ -804,7 +1648,7 @@ Table_223_1:
     .align 4
 
 Table_224:
-    .halfword 0x224     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_224_1
@@ -815,7 +1659,7 @@ Table_224_1:
     .align 4
 
 Table_225:
-    .halfword 0x225     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_225_1
@@ -826,7 +1670,7 @@ Table_225_1:
     .align 4
 
 Table_227:
-    .halfword 0x227     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_227_1
@@ -837,7 +1681,7 @@ Table_227_1:
     .align 4
 
 Table_228:
-    .halfword 0x228     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_228_1
@@ -848,7 +1692,7 @@ Table_228_1:
     .align 4
 
 Table_229:
-    .halfword 0x229     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_229_1
@@ -859,7 +1703,7 @@ Table_229_1:
     .align 4
 
 Table_22A:
-    .halfword 0x22A     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_22A_1
@@ -872,7 +1716,7 @@ Table_22A_1:
 ; Kongman Single Victory Quotes
 
 Table_2F5:
-    .halfword 0x2F5     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2F5_1
@@ -883,7 +1727,7 @@ Table_2F5_1:
     .align 4
 
 Table_2F6:
-    .halfword 0x2F6     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2F6_1
@@ -894,7 +1738,7 @@ Table_2F6_1:
     .align 4
 
 Table_2F7:
-    .halfword 0x2F7     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2F7_1
@@ -905,7 +1749,7 @@ Table_2F7_1:
     .align 4
 
 Table_2F8:
-    .halfword 0x2F8     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2F8_1
@@ -916,7 +1760,7 @@ Table_2F8_1:
     .align 4
 
 Table_2F9:
-    .halfword 0x2F9     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2F9_1
@@ -927,7 +1771,7 @@ Table_2F9_1:
     .align 4
 
 Table_2FA:
-    .halfword 0x2FA     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2FA_1
@@ -938,7 +1782,7 @@ Table_2FA_1:
     .align 4
 
 Table_2FB:
-    .halfword 0x2FB     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2FB_1
@@ -949,7 +1793,7 @@ Table_2FB_1:
     .align 4
 
 Table_2FC:
-    .halfword 0x2FC     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2FC_1
@@ -963,7 +1807,7 @@ Table_2FC_1:
 ; Johnny Single Victory Quotes
 
 Table_2AF:
-    .halfword 0x2AF     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2AF_1
@@ -974,7 +1818,7 @@ Table_2AF_1:
     .align 4
 
 Table_2B0:
-    .halfword 0x2B0     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B0_1
@@ -985,7 +1829,7 @@ Table_2B0_1:
     .align 4
 
 Table_2B1:
-    .halfword 0x2B1     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B1_1
@@ -996,7 +1840,7 @@ Table_2B1_1:
     .align 4
 
 Table_2B2:
-    .halfword 0x2B2     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B2_1
@@ -1007,7 +1851,7 @@ Table_2B2_1:
     .align 4
 
 Table_2B3:
-    .halfword 0x2B3     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B3_1
@@ -1018,7 +1862,7 @@ Table_2B3_1:
     .align 4
 
 Table_2B4:
-    .halfword 0x2B4     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B4_1
@@ -1029,7 +1873,7 @@ Table_2B4_1:
     .align 4
 
 Table_2B5:
-    .halfword 0x2B5     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B5_1
@@ -1040,7 +1884,7 @@ Table_2B5_1:
     .align 4
 
 Table_2B6:
-    .halfword 0x2B6     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_2B6_1
@@ -1054,7 +1898,7 @@ Table_2B6_1:
 ; Chelsea Single Quotes
 
 Table_269:
-    .halfword 0x269     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_269_1
@@ -1065,7 +1909,7 @@ Table_269_1:
     .align 4
 
 Table_26A:
-    .halfword 0x26A     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26A_1
@@ -1076,7 +1920,7 @@ Table_26A_1:
     .align 4
 
 Table_26B:
-    .halfword 0x26B     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26B_1
@@ -1087,7 +1931,7 @@ Table_26B_1:
     .align 4
 
 Table_26C:
-    .halfword 0x26C     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26C_1
@@ -1098,7 +1942,7 @@ Table_26C_1:
     .align 4
 
 Table_26D:
-    .halfword 0x26D     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26D_1
@@ -1109,7 +1953,7 @@ Table_26D_1:
     .align 4
 
 Table_26E:
-    .halfword 0x26E     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26E_1
@@ -1120,7 +1964,7 @@ Table_26E_1:
     .align 4
 
 Table_26F:
-    .halfword 0x26F     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_26F_1
@@ -1131,7 +1975,7 @@ Table_26F_1:
     .align 4
 
 Table_270:
-    .halfword 0x270     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_270_1
@@ -1144,7 +1988,7 @@ Table_270_1:
 ; Lilith Single Quotes
 
 Table_34C:
-    .halfword 0x34C     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_34C_1
@@ -1155,7 +1999,7 @@ Table_34C_1:
     .align 4
 
 Table_34D:
-    .halfword 0x34D     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_34D_1
@@ -1166,7 +2010,7 @@ Table_34D_1:
     .align 4
 
 Table_34E:
-    .halfword 0x34E     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_34E_1
@@ -1177,7 +2021,7 @@ Table_34E_1:
     .align 4
 
 Table_34F:
-    .halfword 0x34F     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_34F_1
@@ -1188,7 +2032,7 @@ Table_34F_1:
     .align 4
 
 Table_350:
-    .halfword 0x350     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_350_1
@@ -1199,7 +2043,7 @@ Table_350_1:
     .align 4
 
 Table_351:
-    .halfword 0x351     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_351_1
@@ -1210,7 +2054,7 @@ Table_351_1:
     .align 4
 
 Table_352:
-    .halfword 0x352     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_352_1
@@ -1221,7 +2065,7 @@ Table_352_1:
     .align 4
 
 Table_353:
-    .halfword 0x353     ; voice id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_353_1
@@ -1233,7 +2077,7 @@ Table_353_1:
 
 
 Table_58f:
-    .halfword 0x58f         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_58f_1       
@@ -1257,7 +2101,7 @@ Table_58f_3:
 
 
 Table_592:
-    .halfword 0x592         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_592_1       
@@ -1275,7 +2119,7 @@ Table_592_2:
 
 
 Table_594:
-    .halfword 0x594         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_594_1       
@@ -1293,7 +2137,7 @@ Table_594_2:
 
 
 Table_596:
-    .halfword 0x596         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_596_1       
@@ -1311,7 +2155,7 @@ Table_596_2:
 
 
 Table_598:
-    .halfword 0x598         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_598_1       
@@ -1329,7 +2173,7 @@ Table_598_2:
 
 
 Table_59a:
-    .halfword 0x59a         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_59a_1       
@@ -1347,7 +2191,7 @@ Table_59a_2:
 
 
 Table_59c:
-    .halfword 0x59c         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_59c_1       
@@ -1365,7 +2209,7 @@ Table_59c_2:
 
 
 Table_59e:
-    .halfword 0x59e         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_59e_1       
@@ -1383,7 +2227,7 @@ Table_59e_2:
 
 
 Table_5a0:
-    .halfword 0x5a0         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5a0_1       
@@ -1401,7 +2245,7 @@ Table_5a0_2:
 
 
 Table_5a2:
-    .halfword 0x5a2         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5a2_1       
@@ -1419,7 +2263,7 @@ Table_5a2_2:
 
 
 Table_5a4:
-    .halfword 0x5a4         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5a4_1       
@@ -1437,7 +2281,7 @@ Table_5a4_2:
 
 
 Table_5a6:
-    .halfword 0x5a6         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5a6_1       
@@ -1455,7 +2299,7 @@ Table_5a6_2:
 
 
 Table_5a8:
-    .halfword 0x5a8         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5a8_1       
@@ -1473,7 +2317,7 @@ Table_5a8_2:
 
 
 Table_5aa:
-    .halfword 0x5aa         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5aa_1       
@@ -1491,7 +2335,7 @@ Table_5aa_2:
 
 
 Table_5ac:
-    .halfword 0x5ac         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5ac_1       
@@ -1509,7 +2353,7 @@ Table_5ac_2:
 
 
 Table_5ae:
-    .halfword 0x5ae         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5ae_1       
@@ -1527,7 +2371,7 @@ Table_5ae_2:
 
 
 Table_5b0:
-    .halfword 0x5b0         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5b0_1       
@@ -1545,7 +2389,7 @@ Table_5b0_2:
 
 
 Table_5b2:
-    .halfword 0x5b2         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5b2_1       
@@ -1563,7 +2407,7 @@ Table_5b2_2:
 
 
 Table_5b7:
-    .halfword 0x5b7         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5b7_1       
@@ -1581,7 +2425,7 @@ Table_5b7_2:
 
 
 Table_5b9:
-    .halfword 0x5b9         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5b9_1       
@@ -1611,7 +2455,7 @@ Table_5b9_4:
 
 
 Table_5bd:
-    .halfword 0x5bd         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5bd_1       
@@ -1629,7 +2473,7 @@ Table_5bd_2:
 
 
 Table_5bf:
-    .halfword 0x5bf         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5bf_1       
@@ -1647,7 +2491,7 @@ Table_5bf_2:
 
 
 Table_5c3:
-    .halfword 0x5c3         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_5c3_1       
@@ -1665,7 +2509,7 @@ Table_5c3_2:
 
 
 Table_5d1:
-    .halfword 0x5d1         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5d1_1       
@@ -1695,7 +2539,7 @@ Table_5d1_4:
 
 
 Table_5d5:
-    .halfword 0x5d5         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1               ; 1 lines
     .word Table_5d5_1 
@@ -1707,7 +2551,7 @@ Table_5d5_1:
 
 
 Table_5d6:
-    .halfword 0x5d6         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x30          ; 48 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5d6_1       
@@ -1737,7 +2581,7 @@ Table_5d6_4:
 
 
 Table_5d9:
-    .halfword 0x5d9         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_5d9_1       
@@ -1761,7 +2605,7 @@ Table_5d9_3:
 
 
 Table_5e0:
-    .halfword 0x5e0         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_5e0_1       
@@ -1785,7 +2629,7 @@ Table_5e0_3:
 
 
 Table_5e3:
-    .halfword 0x5e3         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5e3_1       
@@ -1815,7 +2659,7 @@ Table_5e3_4:
 
 
 Table_5e7:
-    .halfword 0x5e7         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x40          ; 64 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_5e7_1       
@@ -1847,7 +2691,7 @@ Table_5e7_4:
 
 
 Table_5ea:
-    .halfword 0x5ea         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5ea_1       
@@ -1877,7 +2721,7 @@ Table_5ea_4:
 
 
 Table_5ee:
-    .halfword 0x5ee         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5ee_1       
@@ -1907,7 +2751,7 @@ Table_5ee_4:
 
 
 Table_5f2:
-    .halfword 0x5f2         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_5f2_1       
@@ -1931,7 +2775,7 @@ Table_5f2_3:
 
 
 Table_5f5:
-    .halfword 0x5f5         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5f5_1       
@@ -1961,7 +2805,7 @@ Table_5f5_4:
 
 
 Table_609:
-    .halfword 0x609         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1               ; 1 lines
     .word Table_609_1      
@@ -1973,7 +2817,7 @@ Table_609_1:
 
 
 Table_60a:
-    .halfword 0x60a         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x1               ; 1 lines
     .word Table_60a_1      
@@ -1985,7 +2829,7 @@ Table_60a_1:
 
 
 Table_60b:
-    .halfword 0x60b         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 1 lines
     .word Table_60b_1       
@@ -1997,7 +2841,7 @@ Table_60b_1:
 
 
 Table_60c:
-    .halfword 0x60c         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_60c_1       
@@ -2015,7 +2859,7 @@ Table_60c_2:
 
 
 Table_60e:
-    .halfword 0x60e         ; Voice Id
+    .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_60e_1       

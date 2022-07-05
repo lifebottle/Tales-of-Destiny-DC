@@ -40,6 +40,7 @@
     sw a1, 0x14(sp)
     sw a2, 0x10(sp)
     sw a3, 0xc(sp)
+    ; a3 = A --> victory quote
 
     jal Setup_Text
     move a0, s0     ; sound buffer
@@ -100,6 +101,32 @@
     jr ra
     addiu sp, sp, 0x20
 .endfunc
+
+.func Blast_Caliber_Wrapper
+    ;=================================
+    ; Hooked at Battle:0x003eafd4
+    ; Runs when a Blast Caliber is triggered,
+    ; right before the sound is queued
+    ; Clear out queue and any existing texts
+    ;=================================
+	addiu sp, sp, -0x20
+	sw ra, 0x1c(sp)
+
+    jal Clear_Queue
+    nop
+
+    li a1, 0x5
+    li a2, 0x1
+    li a3, 0x1
+    jal 0x003F8FD0
+    li t0, 0x0
+    
+    @@end:
+    lw ra, 0x1c(sp)
+    jr ra
+    addiu sp, sp, 0x20
+.endfunc
+
 
 ;=================================
 ; Sound Test Hook Wrappers
@@ -183,6 +210,28 @@
     ; a0 = sound info area - we save
     ; a1 = sound id
     
+    ; check if a0 is already in TextA/B, if so, replace with 0xBEEF
+@@CheckA:
+    li s0, TextA
+    lw s2, 0x0(s0)
+    ; check if a1 == s2
+    bne a0, s2, @@CheckB
+    li s2, 0xBEEF
+    sw s2, 0x0(s0)
+@@CheckB:
+    li s0, TextB
+    lw s2, 0x0(s0)
+    ; check if a1 == s2
+    bne a0, s2, @@aftercheck
+    li s2, 0xBEEF
+    sw s2, 0x0(s0)
+
+@@aftercheck:
+    ; also clear sound queue
+    jal Remove_From_Sound_Queue
+    nop
+
+
     ; check if a1 is in our table AND get pointer?
     li s0, BattleTable
 @@start_loop:
@@ -278,6 +327,8 @@
     sw s2, 0x10(sp)
     sw s3, 0xc(sp)
 
+    ;s0 has thingy we use
+
     li a0, TextA
     jal Check_Frame_Count_Ended
     nop
@@ -300,14 +351,18 @@
     li a0, TextA
     li a1, TextParamA
     li a2, TextWidthA
+    move t0, s0
     jal Print_Text      ; switch a3/y pos later to variable
-    li a3, 0x80E0
+    ;li a3, 0x80E0
+    li a3, 0x0
 
     li a0, TextB
     li a1, TextParamB
     li a2, TextWidthB
+    move t0, s0
     jal Print_Text      ; switch a3/y pos later to variable
-    li a3, 0x8170
+    li a3, 0x0
+    ;li a3, 0x8170
 
 @@end:
     lw ra, 0x1c(sp)
@@ -346,6 +401,29 @@
     ; s0 = frame counter, s1 = text max frame counter
     blt s0, s1, @@end       ; if frame counter < max frame, do nothing -- end
     nop
+    ; before emptying TextA/B, lets search sound queue
+    ; but ONLY if text is ONE LINE
+    lw s0, 0x1c(a0)
+    li v1, 0x1
+    bne s0, v1, @@clear_text_a_b    ; if 0x1c is not 1, skip this step and go clear
+    ; otherwise, go clear it!
+    lw s0, 0x0(a0) ; pointer also in sound queue
+    li v0, SoundQueue
+    li a1, 0x5
+@@sound_queue_loop_start:
+    lw s1, 0x0(v0)
+    bne s0, s1, @@sound_queue_loop_end  ; if not equal skip the clearing
+    nop
+    sw zero, 0x0(v0)
+    sw zero, 0x4(v0)
+@@sound_queue_loop_end:
+    addiu v0, v0, 0x4
+    bne a1, zero, @@sound_queue_loop_start
+    addiu a1, a1, -0x1
+
+
+    
+@@clear_text_a_b:
     ; else, we empty out a0 (Text A/B)
     sw zero, 0x0(a0)
     sw zero, 0x4(a0)
@@ -354,6 +432,7 @@
     sw zero, 0x10(a0)
     sw zero, 0x14(a0)
     sw zero, 0x18(a0)
+    sw zero, 0x1c(a0)
 
 @@end:
     lw ra, 0x1c(sp)
@@ -380,11 +459,16 @@
 
     move s0, a0
 
-    ; a0 = text area
+    ; a0 = text a/b
     ; 0x0(a0) = buffer area
     ; 0x8(a0) = last frame
+    ; 0x10(a0) = current post frame
     lw a0, 0x0(s0)
     beq a0, zero, @@end     ; if no buffer area, blank, do nothing, end
+    nop
+
+    li s1, 0xBEEF
+    beq a0, s1, @@post_frame_checks
     nop
 
     lw s1, 0x10(s0)
@@ -433,6 +517,8 @@
     sw zero, 0xC(s0)
     sw zero, 0x10(s0)
     sw zero, 0x14(s0)
+    sw zero, 0x18(s0)
+    sw zero, 0x1c(s0)
     ; need to also remove from soundqueue
 
 @@end:
@@ -448,7 +534,8 @@
     ; Check if items from Sound Queue need to be assigned to TextA/B
     ; -- Is sound playing and does current frame == starting frame?
     ;=================================
-	addiu sp, sp, -0x20
+	addiu sp, sp, -0x30
+    sw s6, 0x2c(sp)
 	sw ra, 0x1c(sp)
     sw s0, 0x18(sp)
     sw s1, 0x14(sp)
@@ -456,7 +543,7 @@
     sw s3, 0xc(sp)
     sw s4, 0x8(sp)
     sw s5, 0x4(sp)
-
+    move s6, s0     ; store s0 in s6
     ;3. Loop through all dialog text objects assigned to this battle voice id:
     ;3a. If current frame = starting frame, set up string in A/B (whichever is empty)
 
@@ -464,6 +551,9 @@
     li s5, 0x5          ; number of times for outer loop to loop
 @@start_outer_loop:
     lw a2, 0x0(s0)      ; TABLE_xxx pointer
+    ; if this is zero then end loop
+    beq a2, zero, @@end_inner_loop
+    nop
     lw a2, 0x0(a2)
     move s3, a2         ; s3 keeping track of where were at in the table_xxx structure
     lw a1, 0x4(s0)      ; sound buffer
@@ -532,6 +622,7 @@
     addiu s0, s0, 0x8
 
 @@end:
+    lw s6, 0x2c(sp)
     lw ra, 0x1c(sp)
     lw s0, 0x18(sp)
     lw s1, 0x14(sp)
@@ -540,7 +631,7 @@
     lw s4, 0x8(sp)
     lw s5, 0x4(sp)
     jr ra
-    addiu sp, sp, 0x20
+    addiu sp, sp, 0x30
 .endfunc
 
 .func Process_Display_Text_Sound_Test
@@ -585,12 +676,14 @@
     li a0, TextA
     li a1, TextParamA
     li a2, TextWidthA
+    li t0, 0x0
     jal Print_Text
     li a3, 0x7c00
 
     li a0, TextB
     li a1, TextParamB
     li a2, TextWidthB
+    li t0, 0x0
     jal Print_Text
     li a3, 0x7d00
 
@@ -636,6 +729,8 @@
     sw zero, 0xC(a0)
     sw zero, 0x10(a0)
     sw zero, 0x14(a0)
+    sw zero, 0x18(a0)
+    sw zero, 0x1c(a0)
 
 @@end:
     lw ra, 0x1c(sp)
@@ -719,6 +814,8 @@
     sw zero, 0xC(s0)
     sw zero, 0x10(s0)
     sw zero, 0x14(s0)
+    sw zero, 0x18(s0)
+    sw zero, 0x1c(s0)
     ; need to also remove from soundqueue
 
 @@end:
@@ -754,6 +851,8 @@
     li s5, 0x5          ; number of times for outer loop to loop
 @@start_outer_loop:
     lw a2, 0x0(s0)      ; TABLE_xxx pointer
+    beq a2, zero, @@end_inner_loop
+    nop
     lw a2, 0x0(a2)
     move s3, a2         ; s3 keeping track of where were at in the table_xxx structure
     lw a1, 0x4(s0)      ; sound buffer
@@ -895,6 +994,9 @@
     lbu s1, 0x2(a2)      ; load num of extra frames
     sw s1, 0x14(s0)
     sw a3, 0x18(s0)     ; current frame overall
+    lbu s1, 0x3(a2)      ; load num of lines
+    sw s1, 0x1c(s0)
+    
 
 @@end:
     lw ra, 0x1c(sp)
@@ -917,7 +1019,8 @@
     sw s3, 0xc(sp)
     sw s4, 0x8(sp)
     sw s5, 0x4(sp)
-
+    ; t0 has battle state thingy
+    ; 0x6334(t0+8000) = 0 (in battle) or 2 (post battle)
     ; first check if TextA is populated
     lw s0, 0x0(a0)  ; s0 --> first item in TextA/B
     ; if its zero go to end
@@ -930,8 +1033,59 @@
     move s0, a0
     move s1, a1
     move s2, a2
-    move s3, a3
+    
+    ; if a3 == 0 then
+    ; check for quote type (0x4 Text Area)
+    ; to determine y-pos
+    ; else, a3 IS y-pos
 
+    bne a3, zero, @@continue    ; if a3 is not 0
+    move s3, a3                 ; put a3 in s3 and continue
+
+    ; its 0 so lets check 0x4(a0)
+    ;   VICTORY_QUOTE equ 0x0
+    ;   IN_BATTLE_QUOTE equ 0x1
+    ;   BLAST_CALIBER_QUOTE equ 0x2
+
+    lw a1, 0x4(s0)  ; quote type
+    li a0, 0x1
+    beq a0, a1, @@IN_BATTLE_QUOTE
+    li a0, 0x2
+    beq a0, a1, @@BLAST_CALIBER_QUOTE
+    nop
+    beq a1, zero, @@VICTORY_QUOTE
+    nop
+    ; ERROR?
+
+@@IN_BATTLE_QUOTE:
+    b @@Text_B_Adjustment
+    li s3, 0x8210
+
+@@BLAST_CALIBER_QUOTE:
+    b @@Text_B_Adjustment
+    li s3, 0x8400
+
+@@VICTORY_QUOTE:
+    ; can add check here if boxes are spawned/etc at some point...
+    li s3, 0x80E0
+    ; check battle status
+    beq t0, zero, @@Text_B_Adjustment   ; if t0 is zero continue
+    addiu t0, t0, 0x4000
+    addiu t0, t0, 0x4000
+    lb t0, 0x6334(t0)
+    li t1, 0x2
+    beq t0, t1, @@IN_BATTLE_QUOTE   ; if t0 == 2 then do in battle instead
+    nop
+
+@@Text_B_Adjustment:
+    li a0, TextB
+    ; check if s0 == a0
+    ; if yes, add 0x90 to s3
+    bne s0, a0, @@continue  ; Text A - continue
+    nop
+    addi s3, s3, 0x90
+
+@@continue:
     ; write size
     li a0, 0x90
     sh a0, 0x1c(s1)
@@ -1045,6 +1199,7 @@
     sw zero, 0x10(s0)
     sw zero, 0x14(s0)
     sw zero, 0x18(s0)
+    sw zero, 0x1c(s0)
 
     li s0, TextB
     sw zero, 0x0(s0)
@@ -1054,6 +1209,7 @@
     sw zero, 0x10(s0)
     sw zero, 0x14(s0)
     sw zero, 0x18(s0)
+    sw zero, 0x1c(s0)
 
     li s0, SoundQueue
     sw zero, 0x0(s0)
@@ -1075,13 +1231,46 @@
     addiu sp, sp, 0x20
 .endfunc
 
+.func Remove_From_Sound_Queue
+    ;=================================
+    ; Remove item from sound queue
+    ; a0 = Sound Buffer
+    ;=================================
+	addiu sp, sp, -0x20
+	sw ra, 0x1c(sp)
+    sw s0, 0x18(sp)
+    sw s1, 0x14(sp)
+    sw s1, 0x10(sp)
+
+    li v0, SoundQueue
+    li s2, 0x5
+@@sound_queue_loop_start:
+    lw s1, 0x4(v0)
+    bne a0, s1, @@sound_queue_loop_end  ; if not equal skip the clearing
+    nop
+    sw zero, 0x0(v0)
+    sw zero, 0x4(v0)
+@@sound_queue_loop_end:
+    addiu v0, v0, 0x4
+    bne s2, zero, @@sound_queue_loop_start
+    addiu s2, s2, -0x1
+
+@@end:
+    lw ra, 0x1c(sp)
+    lw s0, 0x18(sp)
+    lw s1, 0x14(sp)
+    lw s2, 0x10(sp)
+    jr ra
+    addiu sp, sp, 0x20
+.endfunc
+
 ;=================================
 ; Store structures in ram
 ;=================================
 TextA:
 ; Sound Buffer Area A
     .word 0x0
-; Battle Voice ID A
+; Battle Voice ID A -- Now is Text Location
     .word 0x0 
 ; String Pointer B
     .word 0x0
@@ -1093,13 +1282,15 @@ TextA:
     .word 0x0
 ; Current Frame Overall
     .word 0x0
+; Total lines   
+    .word 0x0
 
 TextB:
 ; Sound Buffer Area B
     .word 0x0
 ; Battle Voice ID B
     .word 0x0
-; String Pointer B
+; String Pointer B -- Now is Text Location
     .word 0x0 
 ; LastFrame B
     .word 0x0
@@ -1108,6 +1299,8 @@ TextB:
 ; Extra Frames B
     .word 0x0
 ; Current Frame Overall
+    .word 0x0
+; Total lines
     .word 0x0
 
 TextParamA:
