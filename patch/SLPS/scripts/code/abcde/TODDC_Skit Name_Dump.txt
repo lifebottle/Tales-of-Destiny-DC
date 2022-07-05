@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -179,7 +179,7 @@ Go Through the Woods to Reach the Temple[END]
 
 //Text $16240
 #WRITE(ptr,$54EC)
-The Temple’s Hidden Passage Is in the Woods[END]
+Temple’s Hidden Passage in the Woods[END]
 
 
 //Text $16230
@@ -2430,7 +2430,7 @@ Enemy Headquarters[END]
 
 //Text $138E8
 #WRITE(ptr,$5C04)
-Stoping a Century Old Ambition[END]
+Stopping a Century Old Ambition[END]
 
 
 //Text $138D0
@@ -3425,7 +3425,7 @@ Let's Return to the Manor[END]
 
 //Text $12A00
 #WRITE(ptr,$5F20)
-Return to the Manor Quickly[END]
+Quickly to the Manor[END]
 
 
 //Text $129E0
@@ -3445,7 +3445,7 @@ Cresta Is East of Darilsheid[END]
 
 //Text $12998
 #WRITE(ptr,$5F30)
-Let’s Look For the Seinegald Solder in Cresta[END]
+Locate the Seinegaldian Solder in Cresta[END]
 
 
 //Text $12980
@@ -3455,7 +3455,7 @@ Try Searching for the Orphanage[END]
 
 //Text $12960
 #WRITE(ptr,$5F38)
-Let’s Look For the Beach North of Cresta[END]
+Find the Beach North of Cresta[END]
 
 
 //Text $12948
@@ -3481,7 +3481,6 @@ We Need to Find [Marian][END]
 //Text $12900
 #WRITE(ptr,$5F4C)
 The Draconis Should Be at the Castle[END]
-
 
 //Text $128E8
 #WRITE(ptr,$5F50)
@@ -3525,7 +3524,7 @@ Not This Way[END]
 
 //Text $12840
 #WRITE(ptr,$5F70)
-We Can't Afford to Dawdle![END]
+No Dawdling![END]
 
 
 //Text $12828

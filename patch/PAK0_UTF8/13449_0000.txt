@@ -10,13 +10,13 @@
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Do you want to enter?
 Yes
 No
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Do you want to go
 to the Earth surface?
@@ -86,7 +86,7 @@ debug
 [ENDBLOCK]
 <TAG_007>ホール５の賞品ＧＥＴ!!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>選択できるホールが追加されました!!
 [ENDBLOCK]
@@ -126,7 +126,7 @@ Re-try
 はい
 いいえ
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>他に選択できるホールがありません。
 [ENDBLOCK]

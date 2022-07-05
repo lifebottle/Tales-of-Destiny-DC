@@ -1,0 +1,2372 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-3B5980, 32)
+
+#JMP($3BCC0)
+//Section Battle Tutorial
+
+//Text $3CA30
+#WRITE(ptr,$3A768)
+[Circle_ani2] Normal attacks![END]
+
+
+//Text $3C9F8
+#WRITE(ptr,$3A76C)
+[Circle_ani2]Normal attack[LINE]
+　Use [L+U+R+D] for combo attacks.[END]
+
+
+//Text $3C9E0
+#WRITE(ptr,$3A774)
+[Cross_ani2] Artes![END]
+
+
+//Text $3C990
+#WRITE(ptr,$3A778)
+[Cross_ani2]:Artes[LINE]
+Unleash powerful attacks[LINE]
+set in the [Triangle_ani2] Artes menu[LINE]
+[END]
+
+
+//Text $3C968
+#WRITE(ptr,$3A780)
+[Circle_ani2]Normal attacks and [Cross_ani2]Artes[END]
+
+
+//Text $3C908
+#WRITE(ptr,$3A784)
+CC: Chain Capacity[LINE]
+With CC you can link any action![LINE]
+You can even link Demon Fang+Demon Fang![END]
+
+
+//Text $3C8F0
+#WRITE(ptr,$3A78C)
+[Square_copy] to Guard![END]
+
+
+//Text $3C898
+#WRITE(ptr,$3A790)
+[Square_copy]Guard[LINE]
+　Reduce P. ATK and prevent knockback.[END]
+
+
+//Text $3C878
+#WRITE(ptr,$3A798)
+[R1_copy][L+U+R+D] to change targets![END]
+
+
+//Text $3C818
+#WRITE(ptr,$3A79C)
+[R1_copy]Targeting[LINE]
+　Check enemy weaknesses and resistances![LINE]
+　Press it briefly to select the nearest target.[LINE]
+[END]
+
+
+//Text $3C7F0
+#WRITE(ptr,$3A7A4)
+[L1_Press2]Blast Caliber while attacking![END]
+
+
+//Text $3C7A8
+#WRITE(ptr,$3A7A8)
+[L1_Press2]Blast Caliber[LINE]
+　Use your Blast Gauge to unleash powerful moves![LINE]
+[END]
+
+
+//Text $3C780
+#WRITE(ptr,$3A7B0)
+(facing right) [Square_copy][Left]to Backstep![END]
+
+
+//Text $3C718
+#WRITE(ptr,$3A7B4)
+[Square_copy][Left]Backstep[LINE]
+Use this to dodge short-ranged attacks.[LINE]
+Can be use after an attack![END]
+
+
+//Text $3C700
+#WRITE(ptr,$3A7BC)
+[Square_copy][Down]to Charge![END]
+
+
+//Text $3C698
+#WRITE(ptr,$3A7C0)
+[Square_copy][Down]Charge[LINE]
+Protects against spells and restore ACC.[LINE]
+Your next attack will break the enemy's guard.[LINE]
+[END]
+
+
+//Text $3F6A8
+#WRITE(ptr,$3A7C8)
+What's Chain Capacity?[END]
+
+
+//Text $3F670
+#WRITE(ptr,$3A7CC)
+[yellow]Chain Capacity (CC) [/color]lets you take actions.[END]
+
+
+//Text $3F638
+#WRITE(ptr,$3A7D4)
+It allows you to [turquoise]link most attacks and moves.[/color][END]
+
+
+//Text $3F608
+#WRITE(ptr,$3A7DC)
+You quickly recover CC after any action, so try[END]
+
+
+//Text $3F5E8
+#WRITE(ptr,$3A7E4)
+chaining various actions.[END]
+
+
+//Text $3F5C8
+#WRITE(ptr,$3A7FC)
+Shifting Chain Capacity[END]
+
+
+//Text $3F598
+#WRITE(ptr,$3A800)
+Weapon Stats: CC2~5[END]
+
+
+//Text $3F558
+#WRITE(ptr,$3A808)
+CC will shift from [turquoise]2→3→4→5→2→[/color][END]
+
+
+//Text $3F528
+#WRITE(ptr,$3A810)
+Developing the [yellow]Swordian Device[/color][END]
+
+
+//Text $3F4F8
+#WRITE(ptr,$3A818)
+can also increase the min CC and max CC,[END]
+
+
+//Text $3F4C8
+#WRITE(ptr,$3A820)
+so use the weapon that best fits your style.[END]
+
+
+//Text $3F4A8
+#WRITE(ptr,$3A830)
+Bonuses[END]
+
+
+//Text $3F470
+#WRITE(ptr,$3A834)
+By fighting strong foes on a high difficulty, you[END]
+
+
+//Text $3F440
+#WRITE(ptr,$3A83C)
+will receive a [yellow]Device Point[/color] Bonus.[END]
+
+
+//Text $3F400
+#WRITE(ptr,$3A844)
+Experience Bonus from Max Hits also [turquoise]increases,[/color][END]
+
+
+//Text $3F3D0
+#WRITE(ptr,$3A84C)
+so take your battles seriously![END]
+
+
+//Text $3F3B8
+#WRITE(ptr,$3A864)
+Exploiting Weaknesses[END]
+
+
+//Text $3F390
+#WRITE(ptr,$3A868)
+If you strike an enemy's weak point...[END]
+
+
+//Text $3F368
+#WRITE(ptr,$3A870)
+Damage increases by [turquoise]1.5x![/color][END]
+
+
+//Text $3F348
+#WRITE(ptr,$3A878)
+Accuracy [turquoise]increases by 4x![/color][END]
+
+
+//Text $3F320
+#WRITE(ptr,$3A880)
+Critical rate [turquoise]increases by 4x![/color][END]
+
+
+//Text $3F2F0
+#WRITE(ptr,$3A888)
+Check enemy weaknesses with [R1_copy] and strike[END]
+
+
+//Text $3F2D8
+#WRITE(ptr,$3A890)
+their weak points.[END]
+
+
+//Text $3F2C0
+#WRITE(ptr,$3A898)
+Weaknesses and Chains[END]
+
+
+//Text $3F290
+#WRITE(ptr,$3A89C)
+By hitting an enemy's [yellow]weakness[/color], all attacks in the[END]
+
+
+//Text $3F258
+#WRITE(ptr,$3A8A4)
+combo will count as weaknesses, [turquoise]even if they normally[/color][END]
+
+
+//Text $3F230
+#WRITE(ptr,$3A8AC)
+[turquoise]resist it.[/color]. Once you've hit their weakness, follow up[END]
+
+
+//Text $3F210
+#WRITE(ptr,$3A8B4)
+with any arte you like![END]
+
+
+//Text $3F1F8
+#WRITE(ptr,$3A8CC)
+Criticals Hurt![END]
+
+
+//Text $3F1B8
+#WRITE(ptr,$3A8D0)
+High CRT sometimes results in [yellow]critical hits.[/color][END]
+
+
+//Text $3F178
+#WRITE(ptr,$3A8D8)
+They deal [turquoise]twice[/color] the damage and [turquoise]stun.[/color][END]
+
+
+//Text $3F148
+#WRITE(ptr,$3A8E0)
+You also [turquoise]recover 2CC,[/color] allowing[END]
+
+
+//Text $3F128
+#WRITE(ptr,$3A8E8)
+you to chain more artes![END]
+
+
+//Text $3F0F8
+#WRITE(ptr,$3A8F0)
+Avoid critical hits by increasing your EVA.[END]
+
+
+//Text $3F0E0
+#WRITE(ptr,$3A900)
+Blast Caliber![END]
+
+
+//Text $3F0A8
+#WRITE(ptr,$3A904)
+The Blast Gauge rises with attacks, damage, etc.[END]
+
+
+//Text $3F078
+#WRITE(ptr,$3A90C)
+[turquoise]The character will glow blue[/color] when the[END]
+
+
+//Text $3F058
+#WRITE(ptr,$3A914)
+gauge is full. Press [L1_Press2] while attacking[END]
+
+
+//Text $3F030
+#WRITE(ptr,$3A91C)
+to use your Blast Caliber![END]
+
+
+//Text $3EFF8
+#WRITE(ptr,$3A924)
+Use it in a pinch or to string attacks together![END]
+
+
+//Text $3EFD8
+#WRITE(ptr,$3A934)
+Building the Blast Gauge[END]
+
+
+//Text $3EFA8
+#WRITE(ptr,$3A938)
+The [yellow]Blast Gauge[/color] increases in[END]
+
+
+//Text $3EF58
+#WRITE(ptr,$3A940)
+proportion to [turquoise]longer chains and damage dealt.[/color][END]
+
+
+//Text $3EF30
+#WRITE(ptr,$3A948)
+If you want to build up the gauge,[END]
+
+
+//Text $3EF08
+#WRITE(ptr,$3A950)
+increase the chain with [Circle_ani2] normal [END]
+
+
+//Text $3EED8
+#WRITE(ptr,$3A958)
+attacks and [Cross_ani2] strong artes.[END]
+
+
+//Text $3EEB8
+#WRITE(ptr,$3A968)
+Reduce Damage in a Pinch[END]
+
+
+//Text $3EE88
+#WRITE(ptr,$3A96C)
+The [yellow]blast gauge[/color] has a secret function.[END]
+
+
+//Text $3EE68
+#WRITE(ptr,$3A974)
+While taking damage, hold [Down] and press [L1_Press2] [yellow]repeatedly[/color][END]
+
+
+//Text $3EE40
+#WRITE(ptr,$3A97C)
+to escape your staggered state and[END]
+
+
+//Text $3EE00
+#WRITE(ptr,$3A984)
+[turquoise]restore some HP![/color][END]
+
+
+//Text $3EDC8
+#WRITE(ptr,$3A98C)
+Using this will [turquoise]consume 50% of the Blast Gauge.[/color][END]
+
+
+//Text $3ED90
+#WRITE(ptr,$3A994)
+It's better to struggle to the bitter end than lose![END]
+
+
+//Text $3ED78
+#WRITE(ptr,$3A99C)
+Changing Characters[END]
+
+
+//Text $3ED58
+#WRITE(ptr,$3A9A0)
+The main character is [Stahn],[END]
+
+
+//Text $3ED18
+#WRITE(ptr,$3A9A8)
+but [turquoise]any party member in combat[/color] can be controlled.[END]
+
+
+//Text $3ECE8
+#WRITE(ptr,$3A9B0)
+In the party menu, sort with [Triangle_ani] and bring[END]
+
+
+//Text $3ECB8
+#WRITE(ptr,$3A9B8)
+the character you want to control to the top.[END]
+
+
+//Text $3EC80
+#WRITE(ptr,$3A9C0)
+Swap characters in combat with [L1_Press2] in the [Triangle_ani] Menu.[END]
+
+
+//Text $3EC60
+#WRITE(ptr,$3A9C8)
+You may find new combat skills.[END]
+
+
+//Text $3EC48
+#WRITE(ptr,$3A9D0)
+Replenishing Food[END]
+
+
+//Text $3EC10
+#WRITE(ptr,$3A9D4)
+Food sacks can be easily replenished in town.[END]
+
+
+//Text $3EBE0
+#WRITE(ptr,$3A9DC)
+Always look for grocery stores in town.[END]
+
+
+//Text $3EBA0
+#WRITE(ptr,$3A9E4)
+As you use it, its [turquoise]max capacity[/color] will increase,[END]
+
+
+//Text $3EB80
+#WRITE(ptr,$3A9EC)
+so try to use it all the time![END]
+
+
+//Text $3EB60
+#WRITE(ptr,$3AA04)
+Food Straps[END]
+
+
+//Text $3EB38
+#WRITE(ptr,$3AA08)
+Food sacks grow as you eat from them.[END]
+
+
+//Text $3EB00
+#WRITE(ptr,$3AA10)
+Rationing hurts you in the long run, so use it![END]
+
+
+//Text $3EAD8
+#WRITE(ptr,$3AA18)
+Many beneficial effects can activate based[END]
+
+
+//Text $3EAA0
+#WRITE(ptr,$3AA20)
+your food strap setup, like periodic healing or[END]
+
+
+//Text $3EA88
+#WRITE(ptr,$3AA28)
+being revived in battle.[END]
+
+
+//Text $3BEA8
+#WRITE(ptr,$3AA38)
+Collaboration![END]
+
+
+//Text $3EA58
+#WRITE(ptr,$3AA3C)
+A miracle that combines the HP recovery effects[END]
+
+
+//Text $3EA30
+#WRITE(ptr,$3AA44)
+from two well-used food straps for the[END]
+
+
+//Text $3EA00
+#WRITE(ptr,$3AA4C)
+price of the lower costing one![END]
+
+
+//Text $3E9C8
+#WRITE(ptr,$3AA54)
+It even boosts one of your ally's stats![END]
+
+
+//Text $3E998
+#WRITE(ptr,$3AA5C)
+The combinations for collaboration are fixed,[END]
+
+
+//Text $3E960
+#WRITE(ptr,$3AA64)
+so check out the [yellow]Food Book.[/color][END]
+
+
+//Text $3E940
+#WRITE(ptr,$3AA6C)
+Critical Hits with Artes[END]
+
+
+//Text $3E918
+#WRITE(ptr,$3AA70)
+Chain various artes to [turquoise]double[/color] your critical rate![END]
+
+
+//Text $3E8E8
+#WRITE(ptr,$3AA78)
+If you hit a weak point, any arte chained after[END]
+
+
+//Text $3E8B8
+#WRITE(ptr,$3AA80)
+will hurt like a weak point, so try out different[END]
+
+
+//Text $3E890
+#WRITE(ptr,$3AA88)
+combinations of artes![END]
+
+
+//Text $3E880
+#WRITE(ptr,$3AAA0)
+Petrification[END]
+
+
+//Text $3E858
+#WRITE(ptr,$3AAA4)
+If [yellow]Petrified,[/color] you cannot move[END]
+
+
+//Text $3E838
+#WRITE(ptr,$3AAAC)
+for a period of time and will[END]
+
+
+//Text $3E808
+#WRITE(ptr,$3AAB4)
+take 1.5x more damage.[END]
+
+
+//Text $3E7D8
+#WRITE(ptr,$3AABC)
+Though it heals faster than other ailments[END]
+
+
+//Text $3E7A8
+#WRITE(ptr,$3AAC4)
+it's too risky being vulnerable that long.[END]
+
+
+//Text $3E798
+#WRITE(ptr,$3AAD4)
+Sleep[END]
+
+
+//Text $3E770
+#WRITE(ptr,$3AAD8)
+When afflicted with [yellow]Sleep,[/color] you[END]
+
+
+//Text $3E740
+#WRITE(ptr,$3AAE0)
+can't act until hit, and you will almost always[END]
+
+
+//Text $3E718
+#WRITE(ptr,$3AAE8)
+receive a critical hit.[END]
+
+
+//Text $3E6E8
+#WRITE(ptr,$3AAF0)
+Don't be naive to think you can afford the hit.[END]
+
+
+//Text $3E6C0
+#WRITE(ptr,$3AAF8)
+[Stahn] [turquoise]won't ever wake up[/color] if he's afflicted...[END]
+
+
+//Text $3E6B0
+#WRITE(ptr,$3AB08)
+Poison[END]
+
+
+//Text $3E688
+#WRITE(ptr,$3AB0C)
+[yellow]Poison[/color] will rapidly diminish[END]
+
+
+//Text $3E668
+#WRITE(ptr,$3AB14)
+your HP.[END]
+
+
+//Text $3E640
+#WRITE(ptr,$3AB1C)
+Equip [yellow]Gems[/color] to prevent poison,[END]
+
+
+//Text $3E610
+#WRITE(ptr,$3AB24)
+so either Rerise gem materials[END]
+
+
+//Text $3E5E0
+#WRITE(ptr,$3AB2C)
+or buy some in town.[END]
+
+
+//Text $3E5D0
+#WRITE(ptr,$3AB3C)
+Weak[END]
+
+
+//Text $3E5A8
+#WRITE(ptr,$3AB40)
+When afflicted with [yellow]Weak,[/color][END]
+
+
+//Text $3E578
+#WRITE(ptr,$3AB48)
+your movements will slow down and[END]
+
+
+//Text $3E550
+#WRITE(ptr,$3AB50)
+CC will recover very slowly.[END]
+
+
+//Text $3E520
+#WRITE(ptr,$3AB58)
+Inflicting it on foes reduces how often they[END]
+
+//Text $3E4E8
+#WRITE(ptr,$3AB60)
+attack, so use it on quick foes.[END]
+
+
+//Text $3E4D8
+#WRITE(ptr,$3AB70)
+Paralysis[END]
+
+
+//Text $3E4B0
+#WRITE(ptr,$3AB74)
+[yellow]Paralysis[/color] has a chance of[END]
+
+
+//Text $3E480
+#WRITE(ptr,$3AB7C)
+stunning you when taking any action.[END]
+
+
+//Text $3E460
+#WRITE(ptr,$3AB84)
+It's annoying, and can easily[END]
+
+
+//Text $3E428
+#WRITE(ptr,$3AB8C)
+put you at a disadvantage if you don't heal it.[END]
+
+
+//Text $3E3E0
+#WRITE(ptr,$3AB94)
+[yellow]Items[/color] aren't affected, so use [yellow]a Panacea Bottle.[/color][END]
+
+
+//Text $3E3D0
+#WRITE(ptr,$3ABA4)
+Seal[END]
+
+
+//Text $3E3A8
+#WRITE(ptr,$3ABA8)
+If afflicted with [yellow]Seal,[/color] you[END]
+
+
+//Text $3E380
+#WRITE(ptr,$3ABB0)
+won't be able to use any artes. It's no[END]
+
+
+//Text $3E350
+#WRITE(ptr,$3ABB8)
+fun using only normal attacks, so cure it fast.[END]
+
+
+//Text $3E320
+#WRITE(ptr,$3ABC0)
+It can be inflicted on foes to prevent their[END]
+
+
+//Text $3E2F0
+#WRITE(ptr,$3ABC8)
+Blast arte, so use it on foes vulnerable to it.[END]
+
+
+//Text $3E2D8
+#WRITE(ptr,$3ABD8)
+Main Stats and Artes[END]
+
+
+//Text $3E2A8
+#WRITE(ptr,$3ABDC)
+Here's a brief overview of the Main Stats.[END]
+
+
+//Text $3E268
+#WRITE(ptr,$3ABE4)
+[yellow]P. Atk:[/color] Affects normal and [Sign_4]・[Sign_5] Artes[END]
+
+
+//Text $3E238
+#WRITE(ptr,$3ABEC)
+[yellow]P. Def:[/color] Reduces damage from P. Atk[END]
+
+
+//Text $3E200
+#WRITE(ptr,$3ABF4)
+[yellow]M. Atk:[/color] Affects [Sign_5]・[Sign_6] Artes[END]
+
+
+//Text $3E1C8
+#WRITE(ptr,$3ABFC)
+[yellow]M. Def:[/color] Reduces damage from M. Atk[END]
+
+
+//Text $3E198
+#WRITE(ptr,$3AC04)
+Use Rerise to strengthen your characters.[END]
+
+
+//Text $3E180
+#WRITE(ptr,$3AC0C)
+Sub Stats and Secrets[END]
+
+
+//Text $3E150
+#WRITE(ptr,$3AC10)
+Let's go over the Sub Stats.[END]
+
+
+//Text $3E120
+#WRITE(ptr,$3AC18)
+[yellow]ACC:[/color] Reduces the chance of attacks being blocked[END]
+
+
+//Text $3E0E8
+#WRITE(ptr,$3AC20)
+[yellow]CRT:[/color] Increases the chance of landing critical hits[END]
+
+
+//Text $3E0B8
+#WRITE(ptr,$3AC28)
+[yellow]EVA:[/color] Reduces the chance of receiving critical hits[END]
+
+
+//Text $3E090
+#WRITE(ptr,$3AC30)
+[yellow]VIT:[/color] Increases Maximum HP[END]
+
+
+//Text $3E050
+#WRITE(ptr,$3AC38)
+Could the Main and Sub Stats be related?[END]
+
+
+//Text $3E030
+#WRITE(ptr,$3AC40)
+[Rutee]: Healing & Search Gald[END]
+
+
+//Text $3DFF8
+#WRITE(ptr,$3AC44)
+For treasure hunters, [yellow]Search Gald[/color] is their[END]
+
+
+//Text $3DFD8
+#WRITE(ptr,$3AC4C)
+raison d'etre.[END]
+
+
+//Text $3DFB0
+#WRITE(ptr,$3AC54)
+...So, that's why her healing artes[END]
+
+
+//Text $3DF70
+#WRITE(ptr,$3AC5C)
+will be more effective after using [turquoise]Search Gald.[/color][END]
+
+
+//Text $3DF38
+#WRITE(ptr,$3AC64)
+It can be more effective to mix up actions[END]
+
+
+//Text $3DF18
+#WRITE(ptr,$3AC6C)
+than to spam healing artes.[END]
+
+
+//Text $3DEF8
+#WRITE(ptr,$3AC74)
+[Philia]: Chaining Spells[END]
+
+
+//Text $3DEC8
+#WRITE(ptr,$3AC78)
+You may think casting time makes CC pointless,[END]
+
+
+//Text $3DE88
+#WRITE(ptr,$3AC80)
+but by [turquoise]chaining spells together,[/color] casting will[END]
+
+
+//Text $3DE60
+#WRITE(ptr,$3AC88)
+be much [turquoise]quicker.[/color] By the third[END]
+
+
+//Text $3DE38
+#WRITE(ptr,$3AC90)
+spell, casting time [turquoise]halves![/color][END]
+
+
+//Text $3DE10
+#WRITE(ptr,$3AC98)
+It's best to start with low CC spells.[END]
+
+
+//Text $3DDF0
+#WRITE(ptr,$3ACA8)
+Woodrow: Master of Spacing[END]
+
+
+//Text $3DDD0
+#WRITE(ptr,$3ACAC)
+He will swap his bow and sword based[END]
+
+
+//Text $3DDB0
+#WRITE(ptr,$3ACB4)
+on his distance from the enemy.[END]
+
+
+//Text $3DD80
+#WRITE(ptr,$3ACBC)
+Though he requires much skill to use properly,[END]
+
+
+//Text $3DD58
+#WRITE(ptr,$3ACC4)
+he has the potential to be a great all-rounder.[END]
+
+
+//Text $3DD28
+#WRITE(ptr,$3ACCC)
+Try shooting after a backstep.[END]
+
+
+//Text $3DD08
+#WRITE(ptr,$3ACDC)
+[Lion]: Chaining Sword Artes[END]
+
+
+//Text $3DCF0
+#WRITE(ptr,$3ACE0)
+By chaining the same arte twice, like[END]
+
+
+//Text $3DCC8
+#WRITE(ptr,$3ACE8)
+Demon Fang→Demon Fang, the second use will[END]
+
+
+//Text $3DC98
+#WRITE(ptr,$3ACF0)
+alter: Demon Fang→[yellow]Double Demon Fang[/color][END]
+
+
+//Text $3DC70
+#WRITE(ptr,$3ACF8)
+His other sword artes act similarly.[END]
+
+
+//Text $3DC38
+#WRITE(ptr,$3AD00)
+Use a variety of artes to keep enemies pressured![END]
+
+
+//Text $3DC18
+#WRITE(ptr,$3AD10)
+Mary: Unstoppable Attacks[END]
+
+
+//Text $3DBF0
+#WRITE(ptr,$3AD14)
+Several of her artes give her[END]
+
+
+//Text $3DBB8
+#WRITE(ptr,$3AD1C)
+[yellow]Iron Stance,[/color] which prevents her from being[END]
+
+
+//Text $3DB90
+#WRITE(ptr,$3AD24)
+staggered during the arte, even if hit.[END]
+
+
+//Text $3DB60
+#WRITE(ptr,$3AD2C)
+Keep an eye on your HP and rush down foes![END]
+
+
+//Text $3DB40
+#WRITE(ptr,$3AD44)
+Chelsea: Shooting from Midair[END]
+
+
+//Text $3DB28
+#WRITE(ptr,$3AD48)
+She's a skilled archer.[END]
+
+
+//Text $3DB00
+#WRITE(ptr,$3AD50)
+She boasts a variety of bow artes that[END]
+
+
+//Text $3DAD0
+#WRITE(ptr,$3AD58)
+that can [turquoise]all be used midair.[/color][END]
+
+
+//Text $3DA90
+#WRITE(ptr,$3AD60)
+Utilize her [yellow]double jump[/color] and shoot where[END]
+
+
+//Text $3DA78
+#WRITE(ptr,$3AD68)
+enemies can't reach![END]
+
+
+//Text $3DA58
+#WRITE(ptr,$3AD78)
+[Johnny]: Supportive Singing Artes[END]
+
+
+//Text $3DA30
+#WRITE(ptr,$3AD7C)
+Don't underestimate his singing artes.[END]
+
+
+//Text $3DA08
+#WRITE(ptr,$3AD84)
+They're effective when used in tandem![END]
+
+
+//Text $3D9D8
+#WRITE(ptr,$3AD8C)
+They also restore 1 CC to your allies, so if you[END]
+
+
+//Text $3D9A8
+#WRITE(ptr,$3AD94)
+add one more... you'd have some great support![END]
+
+
+//Text $3D970
+#WRITE(ptr,$3AD9C)
+Call on his artes when up against foes weak to [Sign_Sonic].[END]
+
+
+//Text $3D958
+#WRITE(ptr,$3ADAC)
+[Kongman]: If You're a Man, Then Get Up[END]
+
+
+//Text $3D938
+#WRITE(ptr,$3ADB0)
+His martial arts utilize his huge body. When used in[END]
+
+
+//Text $3D908
+#WRITE(ptr,$3ADB8)
+the air, his artes change radically, making him reliable[END]
+
+
+//Text $3D8F0
+#WRITE(ptr,$3ADC0)
+both when grounded and airborne.[END]
+
+
+//Text $3D8B0
+#WRITE(ptr,$3ADC8)
+Use his artes that [turquoise]force downed opponents to[/color][END]
+
+
+//Text $3D890
+#WRITE(ptr,$3ADD0)
+[turquoise]get up[/color] and combo them sensless with your allies![END]
+
+
+//Text $3D860
+#WRITE(ptr,$3ADD8)
+Don't count on his [yellow]magic attack[/color] though.[END]
+
+
+//Text $3D848
+#WRITE(ptr,$3ADE0)
+[Lilith]: That's about it[END]
+
+
+//Text $3D818
+#WRITE(ptr,$3ADE4)
+Her artes may or may not be easy to use, but[END]
+
+
+//Text $3D7E8
+#WRITE(ptr,$3ADEC)
+their low CC allows for different combinations.[END]
+
+
+//Text $3D7B8
+#WRITE(ptr,$3ADF4)
+They have various attributes, so if you like to[END]
+
+
+//Text $3D780
+#WRITE(ptr,$3ADFC)
+[turquoise]target weaknesses,[/color] they're quite useful.[END]
+
+
+//Text $3D768
+#WRITE(ptr,$3AE14)
+Mastering the Device[END]
+
+
+//Text $3D730
+#WRITE(ptr,$3AE18)
+When you set a [yellow]Swordian Device [/color]and fight,[END]
+
+
+//Text $3D6E8
+#WRITE(ptr,$3AE20)
+you'll gain [yellow]proficiency[/color] and eventually [yellow]master it.[/color][END]
+
+
+//Text $3D6B0
+#WRITE(ptr,$3AE28)
+The device points will then be [turquoise]reduced by 20%[/color][END]
+
+
+//Text $3D688
+#WRITE(ptr,$3AE30)
+Try to set a variety of devices.[END]
+
+
+//Text $3D670
+#WRITE(ptr,$3AE48)
+Unlocking Devices[END]
+
+
+//Text $3D640
+#WRITE(ptr,$3AE4C)
+Any device you can't set can be unlocked by[END]
+
+
+//Text $3D608
+#WRITE(ptr,$3AE54)
+mastering the devices adjacent to it in the[END]
+
+
+//Text $3D5F0
+#WRITE(ptr,$3AE5C)
+inner circle.[END]
+
+
+//Text $3D5C8
+#WRITE(ptr,$3AE64)
+Should you focus on increasing stats?[END]
+
+
+//Text $3D5B0
+#WRITE(ptr,$3AE6C)
+Should you focus on development?[END]
+
+
+//Text $3D578
+#WRITE(ptr,$3AE74)
+[turquoise]Evaluate your foes,[/color] then decide accordingly.[END]
+
+
+//Text $3D560
+#WRITE(ptr,$3AE7C)
+Definite Strikes![END]
+
+
+//Text $3D518
+#WRITE(ptr,$3AE80)
+A[yellow] Definite Strike[/color] is a [turquoise]specific chain of attacks[/color][END]
+
+
+//Text $3D4E0
+#WRITE(ptr,$3AE88)
+[turquoise]each character[/color] can perform against a foe.[END]
+
+
+//Text $3D4C0
+#WRITE(ptr,$3AE90)
+Use [R1_copy]＋[Circle_ani2] to view the details in battle.[END]
+
+
+//Text $3D488
+#WRITE(ptr,$3AE98)
+When you're ready to try it out, unleash those[END]
+
+
+//Text $3D470
+#WRITE(ptr,$3AEA0)
+series of attacks![END]
+
+
+//Text $3D448
+#WRITE(ptr,$3AEA8)
+...Just don't cry if your party messes it up.[END]
+
+
+//Text $3D430
+#WRITE(ptr,$3AEB0)
+Why use Definite Strike[END]
+
+
+//Text $3D3F8
+#WRITE(ptr,$3AEB4)
+A [yellow]Definite Strike...[/color][END]
+
+
+//Text $3D3D0
+#WRITE(ptr,$3AEBC)
+・[turquoise]Always[/color] stuns the enemy![END]
+
+
+//Text $3D3A8
+#WRITE(ptr,$3AEC4)
+・[turquoise]Doubles[/color] the item drop rate![END]
+
+
+//Text $3D370
+#WRITE(ptr,$3AECC)
+It only works [turquoise]once[/color] on enemies with the same[END]
+
+
+//Text $3D340
+#WRITE(ptr,$3AED4)
+name, so save it for the last one standing.[END]
+
+
+//Text $3D320
+#WRITE(ptr,$3AEE4)
+Finishing Definite Strikes[END]
+
+
+//Text $3D2F8
+#WRITE(ptr,$3AEE8)
+Some enemies' [yellow]Definite Strike[/color][END]
+
+
+//Text $3D2C0
+#WRITE(ptr,$3AEF0)
+won't work if you just use the listed attacks.[END]
+
+
+//Text $3D298
+#WRITE(ptr,$3AEF8)
+Chain [turquoise]other attacks between[/color][END]
+
+
+//Text $3D268
+#WRITE(ptr,$3AF00)
+the listed attacks while the enemy is still[END]
+
+
+//Text $3D230
+#WRITE(ptr,$3AF08)
+[turquoise]staggered[/color] to complete it![END]
+
+
+//Text $3D210
+#WRITE(ptr,$3AF18)
+[END]
+
+
+//Text $3D1E0
+#WRITE(ptr,$3AF1C)
+Try mastering the [yellow]Definite Strike.[/color][END]
+
+
+//Text $3D1C0
+#WRITE(ptr,$3AF24)
+Too Powerful to Combo[END]
+
+
+//Text $3D180
+#WRITE(ptr,$3AF2C)
+If you want to practice combos but can't because[END]
+
+
+//Text $3D160
+#WRITE(ptr,$3AF34)
+[turquoise]your party's too strong,[/color] try using an [yellow]All Divide[/color][END]
+
+
+//Text $3D138
+#WRITE(ptr,$3AF3C)
+or battle items to [turquoise]raise the difficulty of battles.[/color][END]
+
+
+//Text $3D0F8
+#WRITE(ptr,$3AF44)
+[END]
+
+
+//Text $3D0D8
+#WRITE(ptr,$3AF4C)
+Front Step Everywhere[END]
+
+
+//Text $3D0A8
+#WRITE(ptr,$3AF50)
+In [yellow]Manual Mode,[/color]use a [Up_blink]jump (double jump) or[END]
+
+
+//Text $3D078
+#WRITE(ptr,$3AF58)
+a [Square_Press]＋[Right_blink] front step (if facing right) to approach[/color][END]
+
+
+//Text $3D038
+#WRITE(ptr,$3AF60)
+enemies in the air.[END]
+
+
+//Text $3D018
+#WRITE(ptr,$3AF68)
+Use [Right_blink][Right_blink] or [Left_blink][Left_blink] to dash. You can[END]
+
+
+//Text $3CFE8
+#WRITE(ptr,$3AF70)
+even use it mid-combo to chase foes in the air![END]
+
+
+//Text $3CFB0
+#WRITE(ptr,$3AF78)
+[END]
+
+
+//Text $3CF98
+#WRITE(ptr,$3AF80)
+The Road to Comboing[END]
+
+
+//Text $3CF68
+#WRITE(ptr,$3AF84)
+If you [yellow]keep comboing[/color] foes,you can[END]
+
+
+//Text $3CF40
+#WRITE(ptr,$3AF8C)
+take them down without taking damage![END]
+
+
+//Text $3CF08
+#WRITE(ptr,$3AF94)
+You also get bonus experience, so it's a good deal.[END]
+
+
+//Text $3CEE0
+#WRITE(ptr,$3AF9C)
+Once you've master chaining with CC,[END]
+
+
+//Text $3CEB8
+#WRITE(ptr,$3AFA4)
+you can combo foes with your friends![END]
+
+
+//Text $3CEA0
+#WRITE(ptr,$3AFB4)
+A Barrier to Combos[END]
+
+
+//Text $3CE80
+#WRITE(ptr,$3AFB8)
+When you've got a combo going,[END]
+
+
+//Text $3CE50
+#WRITE(ptr,$3AFC0)
+you'll see a number below the Hit Count...[END]
+
+
+//Text $3CE08
+#WRITE(ptr,$3AFC8)
+If the [yellow]BLAST[/color] reaches [turquoise]100,[/color] the enemy will retaliate![END]
+
+
+//Text $3CDD0
+#WRITE(ptr,$3AFD0)
+The enemy will [turquoise]glow red,[/color] so back off and[END]
+
+
+//Text $3CDB8
+#WRITE(ptr,$3AFD8)
+avoid his attack![END]
+
+
+//Text $3CDA0
+#WRITE(ptr,$3AFE8)
+Keeping the Combo[END]
+
+
+//Text $3CD70
+#WRITE(ptr,$3AFEC)
+How to reduce the rate a foe's BLAST increases:[END]
+
+
+//Text $3CD58
+#WRITE(ptr,$3AFF4)
+・Reduce the foe's EVA[END]
+
+
+//Text $3CD30
+#WRITE(ptr,$3AFFC)
+・Increase ACC with charge[END]
+
+
+//Text $3CD18
+#WRITE(ptr,$3B004)
+・Attack the foe midair[END]
+
+
+//Text $3CCE0
+#WRITE(ptr,$3B00C)
+...etc. [yellow]Critical Hits[/color] also help![END]
+
+
+//Text $3CCC8
+#WRITE(ptr,$3B01C)
+Hard Difficulty![END]
+
+
+//Text $3CC90
+#WRITE(ptr,$3B020)
+You're quite the daredevil to try HARD![END]
+
+
+//Text $3CC70
+#WRITE(ptr,$3B028)
+・Enemy Atk and HP will increase[END]
+
+
+//Text $3CC40
+#WRITE(ptr,$3B030)
+・Weaknesses hurt [turquoise]twice[/color] as much[END]
+
+
+//Text $3CC10
+#WRITE(ptr,$3B038)
+・Critical Hits recover [turquoise]3 CC[/color][END]
+
+
+//Text $3CBD0
+#WRITE(ptr,$3B040)
+・Beating strong foes yields [turquoise]Bonus Device Points[/color][END]
+
+
+//Text $3CBA0
+#WRITE(ptr,$3B048)
+...If you're confident, I won't stop you.[END]
+
+
+//Text $3CB80
+#WRITE(ptr,$3B050)
+Evil Difficulty![END]
+
+
+//Text $3CB48
+#WRITE(ptr,$3B054)
+You're quite the daredevil to try [yellow]Evil![/color][END]
+
+
+//Text $3CB18
+#WRITE(ptr,$3B05C)
+・Enemy Atk and HP will [turquoise]increase even more[/color][END]
+
+
+//Text $3CAD8
+#WRITE(ptr,$3B064)
+・Weakness and critical hits will do [turquoise]more damage[/color][END]
+
+
+//Text $3CAB0
+#WRITE(ptr,$3B06C)
+・The EXP bonus will further increase[END]
+
+
+//Text $3CA80
+#WRITE(ptr,$3B074)
+・The enemy's BLAST will [turquoise]rise slower[/color][END]
+
+
+//Text $3CA48
+#WRITE(ptr,$3B07C)
+...If you want to master combos, I won't stop you.[END]
+
+
+//Text $3C690
+#WRITE(ptr,$39B60)
+PAUSE[END]
+
+
+//Text $3C688
+#WRITE(ptr,$39B64)
+AUTO[END]
+
+
+//Text $3C678
+#WRITE(ptr,$39B68)
+SEMIAUTO[END]
+
+
+//Text $3C670
+#WRITE(ptr,$39B6C)
+MANUAL[END]
+
+
+//Text $3C660
+#WRITE(ptr,$39B70)
+ Escaped[END]
+
+
+//Text $3C650
+#WRITE(ptr,$39B74)
+Defeated...[END]
+
+
+//Text $3C648
+#WRITE(ptr,$39B78)
+GUARD[END]
+
+
+//Text $3C640
+#WRITE(ptr,$39B7C)
+RESERVE[END]
+
+
+//Text $3C638
+#WRITE(ptr,$39B80)
+RETRY?[END]
+
+
+//Text $3C620
+#WRITE(ptr,$39B84)
+[Circle_ani2]Yes　[Cross_ani2]No[END]
+
+
+//Text $3C618
+#WRITE(ptr,$39B88)
+NAME[END]
+
+
+//Text $3C610
+#WRITE(ptr,$39B8C)
+HP[END]
+
+
+//Text $3C608
+#WRITE(ptr,$39B90)
+WEAK[END]
+
+
+//Text $3C600
+#WRITE(ptr,$39B94)
+RESIST[END]
+
+
+//Text $3C5F8
+#WRITE(ptr,$39B98)
+STATUS[END]
+
+
+//Text $3C5F0
+#WRITE(ptr,$39B9C)
+？[END]
+
+
+//Text $3C5E8
+#WRITE(ptr,$39BA0)
+Soldier[END]
+
+
+//Text $3C5D8
+#WRITE(ptr,$39BA4)
+WEAK POINT[END]
+
+
+//Text $3C600
+#WRITE(ptr,$39BA8)
+RESIST[END]
+
+
+//Text $3C5C8
+#WRITE(ptr,$39BAC)
+ESCAPE GAUGE[END]
+
+
+//Text $3C5B8
+#WRITE(ptr,$39BB0)
+CANNOT ESCAPE[END]
+
+
+//Text $3C5B0
+#WRITE(ptr,$39BB4)
+ESCAPED[END]
+
+
+//Text $3C5A8
+#WRITE(ptr,$39BB8)
+[Sign_Slash][END]
+
+
+//Text $3C5A0
+#WRITE(ptr,$39BBC)
+[Sign_Strike][END]
+
+
+//Text $3C598
+#WRITE(ptr,$39BC0)
+[Sign_Shot][END]
+
+
+//Text $3C590
+#WRITE(ptr,$39BC4)
+[Sign_Sonic][END]
+
+
+//Text $3C588
+#WRITE(ptr,$39BC8)
+[Sign_Earth][END]
+
+
+//Text $3C580
+#WRITE(ptr,$39BCC)
+[Sign_Wind][END]
+
+
+//Text $3C578
+#WRITE(ptr,$39BD0)
+[Sign_Fire][END]
+
+
+//Text $3C570
+#WRITE(ptr,$39BD4)
+[Sign_Water][END]
+
+
+//Text $3C568
+#WRITE(ptr,$39BD8)
+[Sign_Light][END]
+
+
+//Text $3C560
+#WRITE(ptr,$39BDC)
+[Sign_Dark][END]
+
+
+//Text $3C558
+#WRITE(ptr,$39BE0)
+　装備[END]
+
+
+//Text $3C548
+#WRITE(ptr,$39BE4)
+アイテム[END]
+
+
+//Text $3C540
+#WRITE(ptr,$39BE8)
+　作戦[END]
+
+
+//Text $3C538
+#WRITE(ptr,$39BEC)
+　術技[END]
+
+
+//Text $3C530
+#WRITE(ptr,$39BF0)
+-EQUIP[END]
+
+
+//Text $3C528
+#WRITE(ptr,$39BF4)
+ARMS-[END]
+
+
+//Text $3C520
+#WRITE(ptr,$39BF8)
+-USE[END]
+
+
+//Text $3C518
+#WRITE(ptr,$39BFC)
+ITEM-[END]
+
+
+//Text $3C508
+#WRITE(ptr,$39C00)
+-STRATEGIC[END]
+
+
+//Text $3C4F8
+#WRITE(ptr,$39C04)
+MANEUVER-[END]
+
+
+//Text $3C4E8
+#WRITE(ptr,$39C08)
+-SKILL &[END]
+
+
+//Text $3C4E0
+#WRITE(ptr,$39C0C)
+SPELL-[END]
+
+
+//Text $3C4D0
+#WRITE(ptr,$39C10)
+BLAST[END]
+
+
+//Text $3C4C0
+#WRITE(ptr,$39C14)
+CALIBER[END]
+
+
+//Text $3C4B8
+#WRITE(ptr,$39C18)
+BLAST[END]
+
+
+//Text $3C4A8
+#WRITE(ptr,$39C1C)
+[Circle_ani][Cross_ani][END]
+
+
+//Text $3C4A0
+#WRITE(ptr,$39C20)
+%d GALD[END]
+
+
+//Text $3C490
+#WRITE(ptr,$39C24)
+GOT ITEM![END]
+
+
+//Text $3C488
+#WRITE(ptr,$39C28)
+EMPTY[END]
+
+
+//Text $3C480
+#WRITE(ptr,$39C2C)
+MISS[END]
+
+
+//Text $3C478
+#WRITE(ptr,$39C30)
+SMASH![END]
+
+
+//Text $3C470
+#WRITE(ptr,$39C34)
+DOWN![END]
+
+
+//Text $3C468
+#WRITE(ptr,$39C38)
+CC[END]
+
+
+//Text $3C460
+#WRITE(ptr,$39C3C)
+CHARGE[END]
+
+
+//Text $3C458
+#WRITE(ptr,$39C40)
+Coil[END]
+
+
+//Text $3C448
+#WRITE(ptr,$39C44)
+ENEMY APPEARED![END]
+
+
+//Text $3C438
+#WRITE(ptr,$39C48)
+DAMAGE BREAK[END]
+
+
+//Text $3C430
+#WRITE(ptr,$39C4C)
+USER[END]
+
+
+//Text $3C428
+#WRITE(ptr,$39C50)
+TARGET[END]
+
+
+//Text $3C420
+#WRITE(ptr,$39C54)
+ー[END]
+
+
+//Text $3C418
+#WRITE(ptr,$39C58)
+＋[END]
+
+
+//Text $3C410
+#WRITE(ptr,$39C5C)
+FORCE[END]
+
+
+//Text $3C400
+#WRITE(ptr,$39C60)
+Weak to P. ATK[END]
+
+
+//Text $3C3F0
+#WRITE(ptr,$39C64)
+Weak to M. ATK[END]
+
+
+//Text $3C3E0
+#WRITE(ptr,$39C68)
+[Circle_ani]Details[END]
+
+
+//Text $3C3C8
+#WRITE(ptr,$39C6C)
+[R1_ani]Camera: [TAG_015][END]
+
+
+//Text $3C3B8
+#WRITE(ptr,$39C70)
+Target[END]
+
+
+//Text $3C3A8
+#WRITE(ptr,$39C74)
+Party[END]
+
+
+//Text $3C398
+#WRITE(ptr,$39C78)
+Enemy[END]
+
+
+//Text $3C390
+#WRITE(ptr,$39C7C)
+All[END]
+
+
+//Text $3C378
+#WRITE(ptr,$39C80)
+[L1_ani]Switch Characters[END]
+
+
+//Text $3C370
+#WRITE(ptr,$39C84)
+ [END]
+
+
+//Text $3C368
+#WRITE(ptr,$39C88)
+Petrify[END]
+
+
+//Text $3C360
+#WRITE(ptr,$39C8C)
+Sleep[END]
+
+
+//Text $3C358
+#WRITE(ptr,$39C90)
+Poison[END]
+
+
+//Text $3C350
+#WRITE(ptr,$39C94)
+Weak[END]
+
+
+//Text $3C348
+#WRITE(ptr,$39C98)
+Paralyze[END]
+
+
+//Text $3C340
+#WRITE(ptr,$39C9C)
+Seal[END]
+
+
+//Text $3C338
+#WRITE(ptr,$39CA0)
+Downsize[END]
+
+
+//Text $3C330
+#WRITE(ptr,$39CA4)
+Stop[END]
+
+
+//Text $3C320
+#WRITE(ptr,$39CA8)
+Prevent All[END]
+
+
+//Text $3C310
+#WRITE(ptr,$39CAC)
+Splash[END]
+
+
+//Text $3C308
+#WRITE(ptr,$39CB0)
+げそり[END]
+
+
+//Text $3C2F8
+#WRITE(ptr,$39CB4)
+Iron Stance[END]
+
+
+//Text $3C2E8
+#WRITE(ptr,$39CB8)
+P. ATK[TAG_015][END]
+
+
+//Text $3C2D8
+#WRITE(ptr,$39CBC)
+M. ATK[TAG_015][END]
+
+
+//Text $3C2C8
+#WRITE(ptr,$39CC0)
+P. DEF[TAG_015][END]
+
+
+//Text $3C2B8
+#WRITE(ptr,$39CC4)
+M. DEF[TAG_015][END]
+
+
+//Text $3C2A8
+#WRITE(ptr,$39CC8)
+ACC[TAG_015][END]
+
+
+//Text $3C298
+#WRITE(ptr,$39CCC)
+EVA[TAG_015][END]
+
+
+//Text $3C288
+#WRITE(ptr,$39CD0)
+CRT[TAG_015][END]
+
+
+//Text $3C278
+#WRITE(ptr,$39CD4)
+VIT[TAG_015][END]
+
+
+//Text $3C370
+#WRITE(ptr,$39CD8)
+ [END]
+
+
+//Text $3C270
+#WRITE(ptr,$39CDC)
+STONE[END]
+
+
+//Text $3C268
+#WRITE(ptr,$39CE0)
+WEAK[END]
+
+
+//Text $3C260
+#WRITE(ptr,$39CE4)
+POISON[END]
+
+
+//Text $3C258
+#WRITE(ptr,$39CE8)
+SLEEP[END]
+
+
+//Text $3C248
+#WRITE(ptr,$39CEC)
+PARALYZE[END]
+
+
+//Text $3C240
+#WRITE(ptr,$39CF0)
+SEAL[END]
+
+
+//Text $3C230
+#WRITE(ptr,$39CF4)
+DOWNSIZE[END]
+
+
+//Text $3C228
+#WRITE(ptr,$39CF8)
+STOP[END]
+
+
+//Text $3C218
+#WRITE(ptr,$39CFC)
+P.ATK+[END]
+
+
+//Text $3C210
+#WRITE(ptr,$39D00)
+M.ATK+[END]
+
+
+//Text $3C200
+#WRITE(ptr,$39D04)
+P.DEF+[END]
+
+
+//Text $3C1F0
+#WRITE(ptr,$39D08)
+M.DEF+[END]
+
+
+//Text $3C1E0
+#WRITE(ptr,$39D0C)
+ACC+[END]
+
+
+//Text $3C1D0
+#WRITE(ptr,$39D10)
+EVA+[END]
+
+
+//Text $3C1C0
+#WRITE(ptr,$39D14)
+CRT+[END]
+
+
+//Text $3C1B0
+#WRITE(ptr,$39D18)
+VIT+[END]
+
+
+//Text $3C1A0
+#WRITE(ptr,$39D1C)
+P.ATK-[END]
+
+
+//Text $3C190
+#WRITE(ptr,$39D20)
+M.ATK-[END]
+
+
+//Text $3C180
+#WRITE(ptr,$39D24)
+P.DEF-[END]
+
+
+//Text $3C170
+#WRITE(ptr,$39D28)
+M.DEF-[END]
+
+
+//Text $3C160
+#WRITE(ptr,$39D2C)
+ACC-[END]
+
+
+//Text $3C150
+#WRITE(ptr,$39D30)
+EVA-[END]
+
+
+//Text $3C138
+#WRITE(ptr,$39D34)
+CRT-[END]
+
+
+//Text $3C128
+#WRITE(ptr,$39D38)
+VIT-[END]
+
+
+//Text $3C120
+#WRITE(ptr,$39D3C)
+BLOCK[END]
+
+
+//Text $3C110
+#WRITE(ptr,$39D40)
+CRITICAL[END]
+
+
+//Text $3C108
+#WRITE(ptr,$39D44)
+CLEAR[END]
+
+
+//Text $3C0F8
+#WRITE(ptr,$39D48)
+CANNOT USE ITEM[END]
+
+
+//Text $3C0E8
+#WRITE(ptr,$39D4C)
+RESERVE ITEM[END]
+
+
+//Text $3C0D8
+#WRITE(ptr,$39D50)
+CANNOT EQUIP[END]
+
+
+//Text $3C0C8
+#WRITE(ptr,$39D54)
+STRIKE CHAIN![END]
+
+
+//Text $3C0B0
+#WRITE(ptr,$39D58)
+DEFINITE STRIKE!![END]
+
+
+//Text $3C0A0
+#WRITE(ptr,$39D5C)
+TRY AGAIN...[END]
+
+
+//Text $3C090
+#WRITE(ptr,$39D60)
+BONUS EXP[END]
+
+
+//Text $3C080
+#WRITE(ptr,$39D64)
+[Circle_copy]WAIT[END]
+
+
+//Text $3C070
+#WRITE(ptr,$39D68)
+[Cross_copy]SKIP[END]
+
+
+//Text $3C060
+#WRITE(ptr,$39D6C)
+Items Dropped[END]
+
+
+//Text $3C058
+#WRITE(ptr,$39D70)
+x[TAG_015][END]
+
+
+//Text $3C048
+#WRITE(ptr,$39D74)
+Level Up[END]
+
+
+//Text $3C040
+#WRITE(ptr,$39D78)
+Artes[END]
+
+
+//Text $3C030
+#WRITE(ptr,$39D7C)
+[turquoise][TAG_015] [END]
+
+
+//Text $3C010
+#WRITE(ptr,$39D80)
+Level [TAG_015][TAG_016][TAG_017][END]
+
+
+//Text $3C008
+#WRITE(ptr,$39D84)
+０[END]
+
+
+//Text $3C000
+#WRITE(ptr,$39D88)
+１[END]
+
+
+//Text $3BFF8
+#WRITE(ptr,$39D8C)
+２[END]
+
+
+//Text $3BFF0
+#WRITE(ptr,$39D90)
+３[END]
+
+
+//Text $3BFE8
+#WRITE(ptr,$39D94)
+４[END]
+
+
+//Text $3BFE0
+#WRITE(ptr,$39D98)
+５[END]
+
+
+//Text $3BFD8
+#WRITE(ptr,$39D9C)
+６[END]
+
+
+//Text $3BFD0
+#WRITE(ptr,$39DA0)
+７[END]
+
+
+//Text $3BFC8
+#WRITE(ptr,$39DA4)
+８[END]
+
+
+//Text $3BFC0
+#WRITE(ptr,$39DA8)
+９[END]
+
+
+//Text $3BFA8
+#WRITE(ptr,$39DAC)
+Learned [yellow][TAG_015][/color][END]
+
+
+//Text $3BF90
+#WRITE(ptr,$39DB0)
+Learned [TAG_015] artes[END]
+
+
+//Text $3BF78
+#WRITE(ptr,$39DB4)
+Swordian Device[END]
+
+
+//Text $3BF50
+#WRITE(ptr,$39DB8)
+Mastered [TAG_015] Swordian Devices[END]
+
+
+//Text $3BF28
+#WRITE(ptr,$39DBC)
+New Swordian Device Awakened[END]
+
+
+//Text $3BF10
+#WRITE(ptr,$39DC0)
+Rank Bonus![END]
+
+
+//Text $3BEE8
+#WRITE(ptr,$39DC4)
+Device points increased by [TAG_015]![END]
+
+
+//Text $3BED0
+#WRITE(ptr,$39DC8)
+Indignation[END]
+
+
+//Text $3BEC0
+#WRITE(ptr,$39DCC)
+Food Sack[END]
+
+
+//Text $3BEA8
+#WRITE(ptr,$39DD0)
+Collaboration![END]
+
+
+//Text $3BE88
+#WRITE(ptr,$39DD4)
+Party prepared [PlaceHolder1][TAG_015].[END]
+
+
+//Text $3BE60
+#WRITE(ptr,$39DD8)
+[TAG_015] ranks up to [yellow][PlaceHolder1][/color]![END]
+
+
+//Text $3BE50
+#WRITE(ptr,$39DDC)
+TRY THIS![END]
+
+
+//Text $3BE40
+#WRITE(ptr,$39DE0)
+がっかり[END]
+
+
+//Text $3BE30
+#WRITE(ptr,$39DE4)
+[Cross_ani2]:Skip[END]
+
+
+//Text $3BE20
+#WRITE(ptr,$39DE8)
+PENETRATE[END]
+
+
+//Text $3BE18
+#WRITE(ptr,$39DEC)
+REST[END]
+
+
+//Text $3BE00
+#WRITE(ptr,$39DF0)
+Head has regrown![END]
+
+
+//Text $3BDE8
+#WRITE(ptr,$39DF4)
+Shoulders have regrown![END]
+
+
+//Text $3BDD8
+#WRITE(ptr,$39DF8)
+%s VICTORY![END]
+
+
+//Text $3BDC8
+#WRITE(ptr,$39DFC)
+DEVASTATING[END]
+
+
+//Text $3BDB8
+#WRITE(ptr,$39E00)
+INSTANTANEOUS[END]
+
+
+//Text $3BDA8
+#WRITE(ptr,$39E04)
+IMMEDIATE[END]
+
+
+//Text $3BDA0
+#WRITE(ptr,$39E08)
+LAZY[END]
+
+
+//Text $3BD90
+#WRITE(ptr,$39E0C)
+UNSCATHED[END]
+
+
+//Text $3BD88
+#WRITE(ptr,$39E10)
+SUPREME[END]
+
+
+//Text $3BD78
+#WRITE(ptr,$39E14)
+SKILLFUL[END]
+
+
+//Text $3BD68
+#WRITE(ptr,$39E18)
+CONSUMERISTIC[END]
+
+
+//Text $3BD58
+#WRITE(ptr,$39E1C)
+EXCELLENT[END]
+
+
+//Text $3BD48
+#WRITE(ptr,$39E20)
+MARVELOUS[END]
+
+
+//Text $3BD38
+#WRITE(ptr,$39E24)
+MIRACULOUS[END]
+
+
+//Text $3BD30
+#WRITE(ptr,$39E28)
+TRAGIC[END]
+
+
+//Text $3BD20
+#WRITE(ptr,$39E2C)
+VALUABLE[END]
+
+
+//Text $3BD10
+#WRITE(ptr,$39E30)
+MAJESTIC[END]
+
+
+//Text $3BD00
+#WRITE(ptr,$39E34)
+MORIBUND[END]
+
+
+//Text $3BCF8
+#WRITE(ptr,$39E38)
+CLASSY[END]
+
+
+//Text $3BCE8
+#WRITE(ptr,$39E3C)
+DELIGHTFUL[END]
+
+
+//Text $3BCE0
+#WRITE(ptr,$39E40)
+BLESSED[END]
+
+
+//Text $3BCD8
+#WRITE(ptr,$39E44)
+WORTHY [END]
+
+
+//Text $3BCD0
+#WRITE(ptr,$39E48)
+BORING[END]
+
+
+//Text $3BCC8
+#WRITE(ptr,$39E4C)
+MUNDANE[END]
+
+
+//Text $3BCC0
+#WRITE(ptr,$39E50)
+Focus[END]
+
+

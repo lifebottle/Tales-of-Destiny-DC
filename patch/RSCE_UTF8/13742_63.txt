@@ -524,12 +524,12 @@ Item Shop
 Watch yourself if you're going to
 ask people if they're from Calvalese.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>It's locked.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 The door is locked.
 [ENDBLOCK]
@@ -656,7 +656,7 @@ Accessory Shop
 [ENDBLOCK]
 We can't lose to our neighbors!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
@@ -679,9 +679,9 @@ has returned to the party.
 [ENDBLOCK]
 <x18><x65><x59><xB4><x00><x80><x18><x65><x59><xB8><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color> 
 [ENDBLOCK]
@@ -689,7 +689,7 @@ has left the party.
 [ENDBLOCK]
 <x18><x65><x59><xB4><x00><x80><x18><x65><x59><xB8><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 [<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xE8><x98><x80>
 [ENDBLOCK]
@@ -726,7 +726,7 @@ notice
 [ENDBLOCK]
 <x19><x69><x49><xD8><x80> has received the title:
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><xDC><x00><x80>
 <x18><x65><x59><xE0><x00><x80>
@@ -740,30 +740,30 @@ You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>詳しくは下記のURLでご確認ください。
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
@@ -785,31 +785,31 @@ notice
 設定がなされません！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Device not activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Warp device activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x49><xC4><x80>'s Swordian device
 can now be used.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
 Titles are one of the character
 parameters that can be set. 
 The specific method is as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
@@ -817,7 +817,7 @@ On this screen, hit <Square_ani> and you'll
  be able to change the character status.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
 [Titles]On this screen, press <Triangle_ani>
@@ -825,13 +825,13 @@ and it'll let you pick from all the
 titles you've acquired.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>There are two purposes to titles.
 The first is townspeople will address you
 as the title you set!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>By setting a title, certain townspeople
 will take interest in you. When you talk
@@ -840,7 +840,7 @@ interesting responses. When that
 happens, reset the title you have on and
 try talking to them one more time.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Hint: When talking to townspeople, a
 "?" will appear over your character's
@@ -850,7 +850,7 @@ the title you have equipped, so try
 talking to them again. Maybe something
 fun will happen!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The second purpose of titles
 is...to make your status screen look
@@ -859,14 +859,14 @@ might pick up one you like, so you
 can set it on your status for a
 little flair!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Rock Rally] is a game in which
 players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the
@@ -896,7 +896,7 @@ Hey, long time no see!
 [ENDBLOCK]
 Huh?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Who are you?
 Y-Yeah, good to see you...
