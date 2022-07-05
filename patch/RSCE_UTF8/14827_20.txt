@@ -158,7 +158,7 @@ Chatty Old Man
 Another once in a lifetime meeting.
 Would you like to take a rest?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Are you going to rest?
 Yes
@@ -415,14 +415,14 @@ Wait, you look familiar to me...
 Ugh, I can't remember. Am I
 just imagining things?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Stones across the world...
 Turn into a toy duck
 Turn into a turtle figurine
 Return back to stone
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>TOD OUTPUT <x17><x20><x20><x16><x4F><x80><x17><x20><x21><x16><x4F><x80><x17><x20><x24><x02><x16><x4F><x80><x17><x20><x24><x03><x16><x4F><x80><x17><x20><x24><x04><x16><x4F><x80><x17><x20><x24><x05><x16><x4F><x80><x17><x20><x24><x06><x16><x4F><x80><x17><x20><x24><x07><x16><x4F><x80>
 WEB INPUT  <x17><x21><x20><x16><x4F><x80><x17><x21><x21><x16><x4F><x80><x17><x21><x24><x02><x16><x4F><x80><x17><x21><x24><x03><x16><x4F><x80><x17><x21><x24><x04><x16><x4F><x80><x17><x21><x24><x05><x16><x4F><x80><x17><x21><x24><x06><x16><x4F><x80><x17><x21><x24><x07><x16><x4F><x80>

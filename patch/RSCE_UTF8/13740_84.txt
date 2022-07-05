@@ -210,7 +210,7 @@ capital, please stay at our hotel.
 by the hotel. Please feel
 free to use it.
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>It's a zero-gravity elevator.
 Do you want to go to Radisrol?
@@ -838,7 +838,7 @@ Cancel
 Exchange
 Don't Exchange
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <x18><x66><x1C><x00><x80><TAG_052>
 [ENDBLOCK]

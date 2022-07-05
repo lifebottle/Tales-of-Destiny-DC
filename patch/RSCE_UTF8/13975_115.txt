@@ -104,7 +104,7 @@ I don't know?
 [ENDBLOCK]
 <TAG_005><center>A book on mixing bombs.
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Read it?
 Yes
@@ -161,7 +161,7 @@ I'm not interested at all.
 <TAG_005><center>A children's book titled
 "The Kind Angel and the Red Demon."
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Read it?
 Yes
@@ -209,7 +209,7 @@ work are lined up.
 World Famous Cities
 [Junkland, City of Garbage]
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Read it?
 Yes
@@ -233,7 +233,7 @@ Their main source of income is...
 <TAG_005><center>There's part of the novel
 "Calendar of the Stars Pt.2"
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Read it?
 Yes
@@ -278,7 +278,7 @@ by <Baruk> Foundation.
 <TAG_005><center>There's a monthly publication called
 "Four Secrets of the World."
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Read it?
 Just the table of contents

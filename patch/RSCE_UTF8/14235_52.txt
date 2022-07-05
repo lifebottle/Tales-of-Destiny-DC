@@ -508,7 +508,7 @@ Okay, let's do this!
 [ENDBLOCK]
 Huh? You giving up?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Give up for now?
 Yes
@@ -519,7 +519,7 @@ No
 What's wrong?
 Wanna call it quits?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Give up for now?
 Yes

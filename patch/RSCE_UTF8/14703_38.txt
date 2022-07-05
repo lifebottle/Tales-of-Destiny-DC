@@ -40,7 +40,7 @@ Trash Mountain	Ｂ２
 [ENDBLOCK]
 Trash Mountain
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007><center>The area is filled with poisonous gas.
 Do you want to use a neutralizer?
@@ -49,7 +49,7 @@ Yes
 No
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007><center>The neutralizer has worn off.
 Use a fresh one?

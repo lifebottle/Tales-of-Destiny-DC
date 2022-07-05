@@ -31,7 +31,7 @@ sword you've got...
 [ENDBLOCK]
 My sword...!?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>How in the...!?
 You know about the Swordians?
@@ -97,7 +97,7 @@ Oh, you're <Kongman>!
 [ENDBLOCK]
 Yeah!
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>You bet I am!
 Waddaya want, geezer?
@@ -604,7 +604,7 @@ Come on, make your choice!!
 	・Initializing Mach Boy
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Quit
 Continue
@@ -639,7 +639,7 @@ Hey, do you want to race again?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Yes
 No
@@ -661,7 +661,7 @@ Boy
 Winner: <x17><x69><x44><x29><x80>
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Let the games begin!
 Course description
@@ -1070,7 +1070,7 @@ girls hate that, too...!
 Oh... Did you wanna stop
 looking for the Legendary Carrot?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Keep looking for the carrot
 Give it up
@@ -1566,7 +1566,7 @@ Do Not Exchange
 Exchange
 Do Not Exchange
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <x18><x66><x1C><x00><x80><TAG_052>
 [ENDBLOCK]

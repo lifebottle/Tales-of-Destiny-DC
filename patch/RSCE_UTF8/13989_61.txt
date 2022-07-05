@@ -381,7 +381,7 @@ Hey, mister!
 [ENDBLOCK]
 Me?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>What do you want?
 I have no business with children.
@@ -666,7 +666,7 @@ Notice
 That's all. Would you like
 to see the explanation again?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Yes
 No
@@ -1073,7 +1073,7 @@ Softy Kreem Shop
 It will be 60 Gald each.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Notice
 [ENDBLOCK]

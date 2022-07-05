@@ -267,7 +267,7 @@ to me like this, big bro.
 <TAG_005>You saw something
 you shouldn't have!
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Do you want to rest?
 Yes
@@ -1137,7 +1137,7 @@ Chatty Old Man
 Another once in a lifetime meeting.
 Would you like to take a rest?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Are you going to rest?
 Yes
@@ -1351,7 +1351,7 @@ Thomas
 You know, it's been a while since
 you've helped me out. How about it?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Yeah
 No

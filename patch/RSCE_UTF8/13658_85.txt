@@ -183,7 +183,7 @@ Cyglorg
 Of course, it will cost you <TAG_034> EX Points.
 What do you say, do we have a deal?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Remaining EX Points <TAG_035>
 Yes, we do.
@@ -239,7 +239,7 @@ Cyglorg
 [ENDBLOCK]
 Are you interested in my offer?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Exchange <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
 Deal.
@@ -311,7 +311,7 @@ Cyglorg
 [ENDBLOCK]
 Are you interested in my offer?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 EX Points Remaining	<x17><x72><x40><x20><x80>
 Deal.
@@ -408,7 +408,7 @@ Cyglorg
 [ENDBLOCK]
 Are you interested in my offer?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Exchange <TAG_075> <x1A><x72><x40><x1C><x80>?  Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
 Deal.
@@ -478,7 +478,7 @@ Leave Arcana Ruins
 [ENDBLOCK]
 Cancel
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>EX Points	<x17><x08><x96><x74><x00><x80>
 <x18><x66><x50><x24><x00><x80>
@@ -487,21 +487,21 @@ select
 <x18><x66><x50><x30><x00><x80>
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Are you sure?
 Yes
 No
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Are you sure?
 Yes
 No
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Are you sure?
 Yes
@@ -608,7 +608,7 @@ Party Selection
 <TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Continue with this party?
 Yes
@@ -638,14 +638,14 @@ None Selected
 [ENDBLOCK]
 no support member
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Return to party selection?
 Yes
 No
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Is <TAG_007><x18><x66><x50><x58><x00><x80> your support of choice?
 Yes
@@ -787,25 +787,25 @@ Notice
 [ENDBLOCK]
 It's sealed by a strange power.
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Return to Oberon's Hidden Factory?
 Yes
 No
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Go to the secret facility?
 Yes
 No
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Go to the Arena?
 Yes
 No
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Go to the Swordian R&D Lab?
 Yes

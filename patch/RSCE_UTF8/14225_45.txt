@@ -148,7 +148,7 @@ I can't believe you're
 going alone, though...
 Please be careful!
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Give up the search for now?
 (Stay at the Inn to try again)
@@ -781,7 +781,7 @@ If you're not too busy, maybe you
 could help me with my work.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Take on a job
 I don't have time for this.
@@ -954,7 +954,7 @@ and then come back.
 Well, good luck.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Continue the Job
 Confirm Details
@@ -1041,7 +1041,7 @@ Oh, you're...?
 [ENDBLOCK]
 ...
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>What is it?
 (...Just ignore her...)
@@ -1112,7 +1112,7 @@ Old Lady
 [ENDBLOCK]
 You're...
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>It's been a while.
 Who are you...?
@@ -1193,7 +1193,7 @@ Uhm, excuse me...
 [ENDBLOCK]
 Hmm?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Yes, young miss?
 Sorry, no autographs on my down time.

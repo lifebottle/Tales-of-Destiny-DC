@@ -1167,7 +1167,7 @@ We're about to set sail.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>We're leaving for the secret factory.
 Are you ready?
@@ -1175,7 +1175,7 @@ Yes
 No
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 We're leaving for the secret factory.
 Are you ready?
