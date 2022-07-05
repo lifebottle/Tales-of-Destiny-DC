@@ -23,28 +23,6 @@
 		]
 	},
 	{
-		"FilePointer":		"../../../PAK3/00016_0003.unknown.new",
-		"PointerHeader":	"3D4080",
-		"GoogleSheetId":	"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
-		"BlockDesc":		"Skit Name",
-		"Sections":[
-		{
-			"SectionId":	1,
-			"File":			"../../../PAK3/00016_0003.unknown.new",
-			"PointerHeader":"3D4080",
-			"TextStart":	"12800",
-			"TextEnd":		"1666E"
-		},
-		{
-			"SectionId":	2,
-			"File":			"../../../UNSORTED/00014.bin",
-			"PointerHeader":"57B6C0",
-			"TextStart":	"50",
-			"TextEnd":		"2FE"
-		}
-		]
-	},
-	{
 		"FilePointer":		"../../../DAT_FILES/00019.md1",
 		"PointerHeader":	"3D4080",
 		"GoogleSheetId":	"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
@@ -58,6 +36,7 @@
 				"TextEnd":		"19420"
 			}
 		]
-	}]
+	}
+	]
 	
 }
