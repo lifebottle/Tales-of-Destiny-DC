@@ -469,29 +469,29 @@ mapno lien_03m group
 set_drgn
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 A community password will be issued.
 By entering this password on the site,
 you can expand the world of Destiny.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 The password is xxxxxxxxx
 (The website's dead, sorry).
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Passwords may be issued after
 completing events and mini-games.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 A community password will be issued.
 By entering this password on the site,
 you can expand the world of Destiny.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 If you forget the password for the
 community site, you can find it at
@@ -516,13 +516,13 @@ Chatty Old Man
 [ENDBLOCK]
 Menu Customization Unlocked!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 A new item, [Portrait type] has been
 unlocked in the Custom section of
 the main menu.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 To open the custom screen: Press <Triangle_ani>
 to open the menu, and then press <Select_ani>.
@@ -531,7 +531,7 @@ Chatty Old Man
 [ENDBLOCK]
 The Canvas has been unlocked.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 By interacting with the blank canvas
 in <Chelsea>'s room in <Alba>'s cabin,
@@ -547,7 +547,7 @@ Chatty Old Man
 You may want to check this room
 from different angles.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Rocks abound in the world. They will
 do their best to be that new possibility.
@@ -557,7 +557,7 @@ Chatty Old Man
 Lands to the east, filled with silver.
 Return to the side of your beloved!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Heed the words of the old man. Go to <Dalis>.
 Who knows what you may find there.
@@ -574,46 +574,46 @@ diffflag -><x17><x71><x4A><x24><x80>
 openflag -><x17><x71><x4A><x24><x80>
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Web passwords are now unlocked.
 New possibilities have opened up
 in this world, please listen carefully
 to the Chatty old man.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 A new item, [Portrait type] has been
 unlocked in the Custom section of
 the main menu.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 To open the custom screen: Press <Triangle_ani>
 to open the menu, and then press <Select_ani>.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 The Canvas has been unlocked.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
 On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 It is now possible to change the
 rocks that fall around the world.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
 By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <Dalis>' sub-event has been added.
 Let's go to Cyril.
@@ -630,7 +630,7 @@ diffflag -><x17><x71><x4A><x24><x80>
 openflag -><x17><x71><x4A><x24><x80>
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
@@ -642,18 +642,18 @@ If you forget the game password
 you enter on the website, you can
 always ask me for it.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 When you complete an event or mini-game
 in the game, you may be issued a link ID
 and game password.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 By entering this password on the site,
 you can expand the world of Destiny.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 If you have forgotten the ID and password
 you entered on the website, talk to Chatty
@@ -770,31 +770,31 @@ Be careful out there.
 [ENDBLOCK]
 Yeah.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Pressing <R2_ani> in the field will activate
 the dowsing rod and allow you to
 find the discovery point.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The crystal at the tip of the rod is a
 straight line away from the direction
 of the nearest discovery point.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>As you get closer to the discovery
 point, the crystal will turn red.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>You can only search for discovery points
 while the dowsing rod is activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Activate your dowsing rod and explore
 discovery points around the world.
@@ -1106,7 +1106,7 @@ packing to do!
 [ENDBLOCK]
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
@@ -1129,9 +1129,9 @@ has returned to the party.
 [ENDBLOCK]
 <x18><x65><x5A><x60><x00><x80><x18><x65><x5A><x64><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4A><x70><x80></color> 
 [ENDBLOCK]
@@ -1139,7 +1139,7 @@ has left the party.
 [ENDBLOCK]
 <x18><x65><x5A><x60><x00><x80><x18><x65><x5A><x64><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x94><x98><x80>
 [ENDBLOCK]
@@ -1176,7 +1176,7 @@ notice
 [ENDBLOCK]
 <x19><x69><x4A><x84><x80> has received the title:
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x5A><x88><x00><x80>
 <x18><x65><x5A><x8C><x00><x80>
@@ -1190,30 +1190,30 @@ You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>詳しくは下記のURLでご確認ください。
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
@@ -1235,31 +1235,31 @@ notice
 設定がなされません！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Device not activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Warp device activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x4A><x70><x80>'s Swordian device
 can now be used.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
 Titles are one of the character
 parameters that can be set. 
 The specific method is as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
@@ -1267,27 +1267,27 @@ On this screen, press <Square_ani> to
 change the character status.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen will be
 [Titles]. Press <Triangle_ani> to pick
 from all acquired titles.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Titles serve two purposes:
 The first is to [affect dialogue 
 when talking to NPCs].
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Set a title to have certain NPCs interested
 while passing them. When talking with NPCs
 multiple times you may get different responses.
 Change the title and try talking to them again.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Hint: When talking to certain NPCs, a [?] will 
 appear over the character's head. If this 
@@ -1295,7 +1295,7 @@ happens, set a title that seems to be related
 to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The second purpose for titles is...
 to make your status screen look cool!
@@ -1303,14 +1303,14 @@ When collecting titles, you might pick
 up one you like, so you can set it on
 your status for a little flair!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Rock Rally] is a game in which
 players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the
