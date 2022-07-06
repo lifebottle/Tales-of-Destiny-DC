@@ -381,15 +381,15 @@ Hey, mister!
 [ENDBLOCK]
 Me?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>What do you want?
 I have no business with children.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-What kind of food do
-you usually eat?
+What kind of food 
+do you usually eat?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -406,8 +406,8 @@ Don't be like that. Listen!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yesterday, when I didn't eat my
-veggies, my mom got mad!
+Yesterday, when I didn't eat
+my veggies, my mom got mad!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -633,34 +633,34 @@ Rookie Director
 Okay, let's hurry! The play
 is about to begin!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Perform according to
 the director's instructions.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 After the Director's instructions are given,
 press the correct acting button while the
 clock is ticking, and you will succeed.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 The performance goes as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <Circle_ani> Triumphant Stance
 <Cross_ani> Laugh
 <Triangle_ani> Propose
 <Square_ani> Weep
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 That's all. Would you like
 to see the explanation again?
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 Yes
 No
@@ -833,9 +833,9 @@ I'll be waiting.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Would you like
-to try a Softy Kreem?
-It's Neustadt's specialty!
+Would you like to try
+a Softy Kreem? It's 
+Neustadt's specialty!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -871,9 +871,9 @@ Keep up the good work!
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-Would you like
-to try a Softy Kreem?
-It's Neustadt's specialty!
+Would you like to try
+a Softy Kreem? It's 
+Neustadt's specialty!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -1068,9 +1068,9 @@ Softy Kreem Shop
 It will be 60 Gald each.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Total Gald: <TAG_031>
 [ENDBLOCK]
@@ -1111,7 +1111,7 @@ Softy Kreem Shop
 If you have <ITEM_070> I can
 exchange it for you.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
@@ -1134,9 +1134,9 @@ has returned to the party.
 [ENDBLOCK]
 <x18><x65><x58><xF8><x00><x80><x18><x65><x58><xFC><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x08><x80></color> 
 [ENDBLOCK]
@@ -1144,44 +1144,44 @@ has left the party.
 [ENDBLOCK]
 <x18><x65><x58><xF8><x00><x80><x18><x65><x58><xFC><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x2C><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x2C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><x28><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Trading Titles
+[<center><turquoise>Trading Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Hot Springs Titles
+[<center><turquoise>Hot Springs Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Free Titles
+[<center><turquoise>Free Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>NatuRanger Titles
+[<center><turquoise>NatuRanger Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Dash Titles
+[<center><turquoise>Dash Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Strongest Titles
+[<center><turquoise>Strongest Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Quiz Titles
+[<center><turquoise>Quiz Titles
 [ENDBLOCK]
 <x19><x69><x49><x1C><x80> has received the title:
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><x20><x00><x80>
 <x18><x65><x59><x24><x00><x80>
@@ -1195,30 +1195,30 @@ You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>詳しくは下記のURLでご確認ください。
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
@@ -1240,31 +1240,31 @@ notice
 設定がなされません！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Device not activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Warp device activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x49><x08><x80>'s Swordian device
 can now be used.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
 Titles are one of the character
 parameters that can be set. 
 The specific method is as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
@@ -1272,27 +1272,27 @@ On this screen, press <Square_ani> to
 change the character status.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen will be
 [Titles]. Press <Triangle_ani> to pick
 from all acquired titles.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Titles serve two purposes:
 The first is to [affect dialogue 
 when talking to NPCs].
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Set a title to have certain NPCs interested
 while passing them. When talking with NPCs
 multiple times you may get different responses.
 Change the title and try talking to them again.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Hint: When talking to certain NPCs, a [?] will 
 appear over the character's head. If this 
@@ -1300,7 +1300,7 @@ happens, set a title that seems to be related
 to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The second purpose for titles is...
 to make your status screen look cool!
@@ -1308,14 +1308,14 @@ When collecting titles, you might pick
 up one you like, so you can set it on
 your status for a little flair!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Rock Rally] is a game in which
 players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the

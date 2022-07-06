@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -1986,8 +1986,8 @@ Attack the enemy with spinning slashes.[LINE]
 
 //Text $1A0D80
 #WRITE(ptr,$183090)
-Shear the enemy with a vacuum formed[LINE]
-by spinning slashes.[LINE]
+Shear the enemy with a vacuum[LINE]
+formed by spinning slashes.[LINE]
 [END]
 
 
@@ -2035,8 +2035,8 @@ Unleashes a rising burning strike.[LINE]
 
 //Text $1A0C88
 #WRITE(ptr,$1830F0)
-An upward slash that pulls in[LINE]
-nearby foes.[END]
+An upward slash that[LINE]
+pulls in nearby foes.[END]
 
 
 //Text $1A0C78
@@ -2051,8 +2051,8 @@ nearby foes.[END]
 
 //Text $1A0C28
 #WRITE(ptr,$183110)
-A combination of Demon Fang and[LINE]
-Tiger Blade.[END]
+A combination of Demon Fang[LINE]
+and Tiger Blade.[END]
 
 
 //Text $1A0C18
@@ -2067,8 +2067,8 @@ Tiger Blade.[END]
 
 //Text $1A0BC8
 #WRITE(ptr,$183130)
-Down the enemy with the force of[LINE]
-a charging lion.[END]
+Down the enemy with the[LINE]
+force of a charging lion.[END]
 
 
 //Text $1A0BB8
@@ -2115,8 +2115,8 @@ Has light and shoot attributes.[END]
 
 //Text $1A0AB8
 #WRITE(ptr,$183190)
-Lift an enemy with a spinning slash, finishing[LINE]
-with a powerful thrust.[END]
+Lift an enemy with a spinning slash,[LINE]
+finishing with a powerful thrust.[END]
 
 
 //Text $1A0AA8
@@ -2147,8 +2147,8 @@ from on high. Lifts downed enemies.[END]
 
 //Text $1A09F0
 #WRITE(ptr,$1831D0)
-Throws a flaming spinning slash at[LINE]
-an enemy from midair.[END]
+Throws a flaming spinning slash[LINE]
+at an enemy from midair.[END]
 
 
 //Text $1A09E0
@@ -2315,7 +2315,7 @@ Deals additional damage on impact.[END]
 
 //Text $1A0668
 #WRITE(ptr,$183350)
-An arte to find dropped Gald. Does it affect[LINE]
+An arte to find dropped Gald. It affects[LINE]
 the recovery rate of healing spells?[END]
 
 
@@ -2768,8 +2768,8 @@ Fire 3 shots consecutively.[LINE]
 
 //Text $1A0C88
 #WRITE(ptr,$183770)
-An upward slash that pulls in[LINE]
-nearby foes.[END]
+An upward slash that[LINE]
+pulls in nearby foes.[END]
 
 
 //Text $19FD58
@@ -2784,8 +2784,8 @@ nearby foes.[END]
 
 //Text $19FCF8
 #WRITE(ptr,$183790)
-A surprise attack from above that[LINE]
-leaves an after image.[END]
+A surprise attack from above[LINE]
+that leaves an after image.[END]
 
 
 //Text $19FCE8
@@ -2800,7 +2800,7 @@ leaves an after image.[END]
 
 //Text $19FCB0
 #WRITE(ptr,$1837B0)
-Rain several arrows over foes.[LINE]
+Rain several arrows down upon foes.[LINE]
 [END]
 
 
@@ -2864,8 +2864,8 @@ instantly. May inflict weak.[END]
 
 //Text $19FB40
 #WRITE(ptr,$183830)
-A multi-hit stab from above the[LINE]
-enemy.[END]
+A multi-hit stab from[LINE]
+above the enemy.[END]
 
 
 //Text $19FB30
@@ -2880,8 +2880,8 @@ enemy.[END]
 
 //Text $19FAD8
 #WRITE(ptr,$183850)
-Thrusts at the enemy, then thrust[LINE]
-at his back.[END]
+A forward thrust at the enemy
+followed by one from the back.[END]
 
 
 //Text $19FAC8
@@ -2960,8 +2960,8 @@ Axes have the strike attribute.[END]
 
 //Text $19F908
 #WRITE(ptr,$1838F0)
-Stronger than Demon Fang, but[LINE]
-has less range.[END]
+Stronger than Demon Fang,[LINE]
+but has less range.[END]
 
 
 //Text $19F8F8
@@ -2992,8 +2992,8 @@ Two slashes infused with lightning.[LINE]
 
 //Text $19F848
 #WRITE(ptr,$183930)
-Creates a shockwave in front that[LINE]
-may inflict weak.[END]
+Creates a shockwave in front[LINE]
+that may inflict weak.[END]
 
 
 //Text $1A0C18
@@ -3008,8 +3008,8 @@ may inflict weak.[END]
 
 //Text $19F808
 #WRITE(ptr,$183950)
-Releases built-up energy to blow[LINE]
-away foes.[END]
+Releases built-up energy[LINE]
+to blow away foes.[END]
 
 
 //Text $19FD58
@@ -3024,8 +3024,8 @@ away foes.[END]
 
 //Text $19FCF8
 #WRITE(ptr,$183970)
-A surprise attack from above that[LINE]
-leaves an after image.[END]
+A surprise attack from above[LINE]
+that leaves an after image.[END]
 
 
 //Text $19F7F8
@@ -3072,8 +3072,8 @@ Lowers foes' evasion.[END]
 
 //Text $19F6C0
 #WRITE(ptr,$1839D0)
-Slams the ground, creating an[LINE]
-explosion. Inflicts poison.[END]
+Slams the ground, creating[LINE]
+an explosion. Inflicts poison.[END]
 
 
 //Text $19F6B0
@@ -3104,8 +3104,8 @@ Used to move the vanguards.[END]
 
 //Text $19F600
 #WRITE(ptr,$183A10)
-Slices, then charges while kicking up[LINE]
-rocks behind.[END]
+A jumping slash followed by a[LINE]
+charge that dislodges earth.[END]
 
 
 //Text $19F5F0
@@ -3136,8 +3136,8 @@ axe. Effective when surrounded.[END]
 
 //Text $19F538
 #WRITE(ptr,$183A50)
-Charges lightning before slashing[LINE]
-twice.[END]
+Imbue yourself with lightning[LINE]
+before slashing twice.[END]
 
 
 //Text $19F528
@@ -3168,8 +3168,8 @@ Hits foes' back if used near them.[END]
 
 //Text $19F468
 #WRITE(ptr,$183A90)
-Shoots a Beast diagonally and follows[LINE]
-up with a slice.[END]
+Launches a Beast diagonally[LINE]
+and follows up with a slice.[END]
 
 
 //Text $19FE38
@@ -3216,8 +3216,8 @@ Can use in midair.[END]
 
 //Text $19F398
 #WRITE(ptr,$183AF0)
-Arrow that shocks surrounding foes[LINE]
-upon impact.[END]
+Arrow that shocks surrounding[LINE]
+foes upon impact.[END]
 
 
 //Text $19F388
@@ -3248,7 +3248,7 @@ Shoots curving arrows from midair.[LINE]
 
 //Text $19FCB0
 #WRITE(ptr,$183B30)
-Rain several arrows over foes.[LINE]
+Rain several arrows down upon foes.[LINE]
 [END]
 
 
@@ -3264,8 +3264,8 @@ Rain several arrows over foes.[LINE]
 
 //Text $19F2F0
 #WRITE(ptr,$183B50)
-Shoots homing arrows that hit[LINE]
-the target twice.[END]
+Shoots homing arrows that[LINE]
+hit the target twice.[END]
 
 
 //Text $19F2E0
@@ -3280,8 +3280,8 @@ the target twice.[END]
 
 //Text $19F288
 #WRITE(ptr,$183B70)
-Foes hit by this arrow receive damage[LINE]
-over time.[END]
+Foes hit by this arrow receive[LINE]
+damage over time.[END]
 
 
 //Text $19F270
@@ -3307,8 +3307,8 @@ Heals 15% HP to an ally pierced by this arrow.[LINE]
 
 //Text $19F1F0
 #WRITE(ptr,$183BB0)
-Fires a powerful arrow that blasts the[LINE]
-ground.[END]
+Fires a powerful arrow[LINE]
+that blasts the ground.[END]
 
 
 //Text $19F1E0
@@ -3323,8 +3323,8 @@ ground.[END]
 
 //Text $19F1A0
 #WRITE(ptr,$183BD0)
-Fires spiraling arrows that cover[LINE]
-a wide area.[END]
+Fires spiraling arrows that[LINE]
+cover a wide area.[END]
 
 
 //Text $19F190
@@ -3557,8 +3557,8 @@ A hurricane spin when used in midair.[END]
 
 //Text $19EAB0
 #WRITE(ptr,$183E50)
-A dive bomb with his hip.[LINE]
-The higher it's used, the more damage it does![END]
+A dive bomb with his hip. The higher[LINE]
+it's used, the more damage it does![END]
 
 
 //Text $19EA98
@@ -3694,8 +3694,8 @@ I think this is her answer to[LINE]
 
 //Text $19E630
 #WRITE(ptr,$183FD0)
-Water your plants on a hot,[LINE]
-summer day.[END]
+Water your plants on[LINE]
+a hot, summer day.[END]
 
 
 //Text $19E618
@@ -3710,8 +3710,8 @@ summer day.[END]
 
 //Text $19E5C0
 #WRITE(ptr,$183FF0)
-Bang a frying pan to attack with[LINE]
-sound waves. Wakes even the sleepiest.[END]
+Bang a frying pan to attack with sound[LINE]
+waves. Wakes even the sleepiest.[END]
 
 
 //Text $19E5A8
@@ -3732,8 +3732,8 @@ Her timing reveals her mastery.[END]
 
 //Text $19E510
 #WRITE(ptr,$184030)
-Experience the terror of being hit by[LINE]
-a frying pan from above. Tonk-Tonk-Tonk.[END]
+Experience the terror of being hit by a[LINE]
+frying pan from above. Tonk-Tonk-Tonk.[END]
 
 
 //Text $19E4F8
@@ -3755,7 +3755,7 @@ wives under the cover of flashing lights.[END]
 //Text $19E468
 #WRITE(ptr,$184070)
 Kicks a rock.[LINE]
-Err.., that's it.[END]
+Err... that's it.[END]
 
 
 //Text $19E450
@@ -3798,8 +3798,8 @@ lava to erupt from the ground.[END]
 
 //Text $19E338
 #WRITE(ptr,$1840F0)
-Conjures a wall of fire around the[LINE]
-caster.[END]
+Conjures a wall of fire[LINE]
+around the caster.[END]
 
 
 //Text $19E320
@@ -3820,8 +3820,8 @@ around the target.[END]
 
 //Text $19E298
 #WRITE(ptr,$184130)
-Rains flaming shots from above.[LINE]
-Inflicts poison.[END]
+Rains flaming shots from[LINE]
+above. Inflicts poison.[END]
 
 
 //Text $19E280
@@ -3887,8 +3887,8 @@ in front of the caster.[LINE]
 
 //Text $19E0F0
 #WRITE(ptr,$1841F0)
-Shoots icicles in bursts from a[LINE]
-block of ice.[END]
+Shoots icicles in bursts[LINE]
+from a block of ice.[END]
 
 
 //Text $19E0E0
@@ -3931,8 +3931,8 @@ Creates a huge tsunami to engulf foes.[LINE]
 
 //Text $19DF98
 #WRITE(ptr,$184270)
-Strikes foes with arrows of wind from[LINE]
-above and raises evasion.[END]
+Strikes foes with arrows of wind[LINE]
+from above and raises evasion.[END]
 
 
 //Text $19DF88
@@ -3975,8 +3975,8 @@ of the caster and weakens foes.[END]
 
 //Text $19DE60
 #WRITE(ptr,$1842F0)
-Creates blades of wind in an area to[LINE]
-slice the enemy.[END]
+Creates blades of wind in[LINE]
+an area to slice the enemy.[END]
 
 
 //Text $19DE50
@@ -3986,8 +3986,8 @@ slice the enemy.[END]
 
 //Text $19DE20
 #WRITE(ptr,$184310)
-Two tornadoes join to create a cyclone[LINE]
-around the enemy.[END]
+Two tornadoes join to create[LINE]
+a cyclone around the enemy.[END]
 
 
 //Text $19DE08
@@ -3997,8 +3997,8 @@ around the enemy.[END]
 
 //Text $19DDD0
 #WRITE(ptr,$184330)
-Conjure a magic circle in the sky to[LINE]
-crush foes with a mighty gale.[END]
+Conjure a magic circle in the sky[LINE]
+to crush foes with a mighty gale.[END]
 
 
 //Text $19DDB8
@@ -4085,8 +4085,8 @@ foes. May paralyze the enemy.[END]
 
 //Text $19DB58
 #WRITE(ptr,$184430)
-Gathers light to a single point which[LINE]
-launches several lasers.[END]
+Gathers light to a single point[LINE]
+which launches several lasers.[END]
 
 
 //Text $19DB40
@@ -4107,7 +4107,8 @@ spears of light.[END]
 
 //Text $19DAD0
 #WRITE(ptr,$184470)
-Rains the lightning of god on the enemy.[LINE]
+Rains down the lightning[LINE]
+of god upon the enemy.[LINE]
 [END]
 
 
@@ -4349,8 +4350,8 @@ Seals spells and artes of one enemy.[LINE]
 
 //Text $19D438
 #WRITE(ptr,$184730)
-Temporarily raises P. DEF of one ally and[LINE]
-removes status ailments.[END]
+Temporarily raises P. DEF of one ally[LINE]
+and removes status ailments.[END]
 
 
 //Text $19D420
@@ -4360,8 +4361,8 @@ removes status ailments.[END]
 
 //Text $19D3D0
 #WRITE(ptr,$184750)
-Temporarily raises P. ATK of one ally and[LINE]
-removes status ailments.[END]
+Temporarily raises P. ATK of one ally[LINE]
+and removes status ailments.[END]
 
 
 //Text $19D3C0
@@ -4371,8 +4372,8 @@ removes status ailments.[END]
 
 //Text $19D388
 #WRITE(ptr,$184770)
-Removes buffs and debuffs from everyone[LINE]
-on the battlefield.[END]
+Removes buffs and debuffs from[LINE]
+everyone on the battlefield.[END]
 
 //Section Strategy
 
@@ -10149,8 +10150,8 @@ Rerising can also change its special effects.[LINE]
 
 //Text $1AFCA8
 #WRITE(ptr,$18C610)
-A gelatin-based medicine. Restores[LINE]
-30% of max HP for one ally.[END]
+A gelatin-based healing medicine.
+Restores 30% of max HP for one ally.[END]
 
 
 //Text $1AFC98
@@ -10217,7 +10218,7 @@ Only usable during battle.[END]
 //Text $1AFA68
 #WRITE(ptr,$18C6B8)
 Max HP increase to 150%,[LINE]
-but recovery halved.[LINE]
+but recovery is halved.[LINE]
 Only usable during battle.[END]
 
 
@@ -10882,8 +10883,8 @@ A support item for mixing.[END]
 
 //Text $1AE6B0
 #WRITE(ptr,$18CD64)
-Spice used to remove stench[LINE]
-from meat and fish.[LINE]
+Spice used to remove the[LINE]
+stench from meat and fish.[LINE]
 A support item for mixing.[END]
 
 
@@ -10894,8 +10895,8 @@ A support item for mixing.[END]
 
 //Text $1AE658
 #WRITE(ptr,$18CD80)
-An apple that can no longer be sold[LINE]
-because bugs ate it.[END]
+An apple that can no longer[LINE]
+be sold because bugs ate it.[END]
 
 
 //Text $1AE640
@@ -11083,7 +11084,7 @@ Only those who know "axes" can answer.[END]
 //Text $1AE098
 #WRITE(ptr,$18CF40)
 A mysterious sphere with "II" on it.[LINE]
-Only those who know "short bow" can answer.[END]
+Only those who know "short bows" can answer.[END]
 
 
 //Text $1AE080
@@ -12208,8 +12209,8 @@ fill up the blast gauge.[LINE]
 
 //Text $1B02C8
 #WRITE(ptr,$18D9A8)
-During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-increase the party's CC except the user's.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] to increase[LINE]
+the party's CC except the user's.[LINE]
 [END]
 
 
@@ -12220,8 +12221,8 @@ increase the party's CC except the user's.[LINE]
 
 //Text $1B0288
 #WRITE(ptr,$18D9C4)
-During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-restore HP.[LINE]
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to restore HP.[LINE]
 [END]
 
 
@@ -12232,8 +12233,8 @@ restore HP.[LINE]
 
 //Text $1B0238
 #WRITE(ptr,$18D9E0)
-During battle, press [Square_ani2]＋[Down_blink] near an[LINE]
-enemy to break his guard.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] near[LINE]
+an enemy to break his guard.[LINE]
 [END]
 
 
@@ -12244,8 +12245,8 @@ enemy to break his guard.[LINE]
 
 //Text $1B01F0
 #WRITE(ptr,$18D9FC)
-During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-remove de-buffs.[LINE]
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to remove debuffs.[LINE]
 [END]
 
 
@@ -12316,8 +12317,8 @@ Locks CC to 15.[LINE]
 
 //Text $1B00C8
 #WRITE(ptr,$18DAA4)
-Sets the CC to the average of[LINE]
-the min and max CC.[LINE]
+Sets the CC to the average[LINE]
+of the min and max CC.[LINE]
 [END]
 
 
@@ -12328,8 +12329,8 @@ the min and max CC.[LINE]
 
 //Text $1B0090
 #WRITE(ptr,$18DAC0)
-A gem that gives +1 CC on[LINE]
-critical hits.[LINE]
+A gem that gives +1 CC[LINE]
+on critical hits.[LINE]
 [END]
 
 
@@ -12352,8 +12353,8 @@ over time.[LINE]
 
 //Text $1B0020
 #WRITE(ptr,$18DAF8)
-Restores HP when you defeat[LINE]
-an enemy.[LINE]
+Restores HP when you[LINE]
+defeat an enemy.[LINE]
 [END]
 
 
@@ -12364,8 +12365,8 @@ an enemy.[LINE]
 
 //Text $1AFFE8
 #WRITE(ptr,$18DB14)
-Gain +2 CC when you defeat[LINE]
-an enemy.[LINE]
+Gain +2 CC when you[LINE]
+defeat an enemy.[LINE]
 [END]
 
 
@@ -12401,8 +12402,8 @@ during a front step.[LINE]
 //Text $1AFEF8
 #WRITE(ptr,$18DB68)
 A gem that adds 2 CC upon a[LINE]
-Flash Guard (Guard just before you[LINE]
-receive an attack).[END]
+Flash Guard. (Guard just before[LINE]
+you receive an attack).[END]
 
 
 //Text $1AFEE8
@@ -12413,8 +12414,8 @@ receive an attack).[END]
 //Text $1AFEA0
 #WRITE(ptr,$18DB84)
 A gem that restores HP upon a[LINE]
-Flash Guard (Guard just before you[LINE]
-receive an attack).[END]
+Flash Guard. (Guard just before[LINE]
+you receive an attack).[END]
 
 
 //Text $1AFE90
@@ -12766,7 +12767,7 @@ the Dwarves.[END]
 #WRITE(ptr,$18E0F0)
 A small axe that is very easy to[LINE]
 use. You don't need to be very[LINE]
-strong to wield in one hand.[END]
+strong to wield it in one hand.[END]
 
 
 //Text $1B2668
@@ -12885,8 +12886,8 @@ of armors.[END]
 //Text $1B2278
 #WRITE(ptr,$18E348)
 An axe with a spear-shaped tip.[LINE]
-Not only can it cut, but it can also[LINE]
-stab.[END]
+Not only can it cut, but it can[LINE]
+also stab.[END]
 
 
 //Text $1B2260
@@ -12932,7 +12933,7 @@ has increased and it weighs less.[END]
 
 //Text $1B2100
 #WRITE(ptr,$18E438)
-An axe is named after the Earth.[LINE]
+An axe named after the Earth itself.[LINE]
 Its slender shape belies its power.[LINE]
 [END]
 
@@ -13293,7 +13294,7 @@ of those it slays into power for its wielder.[LINE]
 #WRITE(ptr,$18EB40)
 A small bow made from an ancient[LINE]
 meteorite. Its unique craftsmanship[LINE]
-baffle tradesmen to this day.[END]
+baffles tradesmen to this day.[END]
 
 
 //Text $1B1610
@@ -13412,7 +13413,7 @@ makes it better for people with large swings.[END]
 //Text $1B12A0
 #WRITE(ptr,$18ED98)
 Beautiful knuckles with diamond polished[LINE]
-blades. Sharp, hard and hurts like hell![LINE]
+blades. Sharp, hard, and hurts like hell![LINE]
 [END]
 
 
@@ -13459,8 +13460,8 @@ and tear apart your opponents.[END]
 
 //Text $1B10F0
 #WRITE(ptr,$18EE88)
-Venerable knuckles that were said[LINE]
-to have been used by the first champion.[LINE]
+Venerable knuckles that were said to[LINE]
+have been used by the first champion.[LINE]
 [END]
 
 
@@ -13495,8 +13496,8 @@ then pours in a paralyzing poison.[END]
 
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
-Terrifying knuckles that will deal[LINE]
-a lethal blow no matter where they hit.[LINE]
+Terrifying knuckles that will deal a[LINE]
+lethal blow no matter where they hit.[LINE]
 It's name means "A Powerful Organization."[END]
 
 
@@ -13532,8 +13533,8 @@ Only the mightiest of men can wield them.[END]
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
 An offshoot of the lute.[LINE]
-Its strings are plucked with a pick[LINE]
-made of a tortoiseshell.[END]
+Its strings are plucked with a[LINE]
+pick made of a tortoiseshell.[END]
 
 
 //Text $1B0E80
@@ -13556,7 +13557,7 @@ fingers and is often used when storytelling.[END]
 //Text $1B0DE0
 #WRITE(ptr,$18F068)
 The instrument of a Bard.[LINE]
-It has many stings that are [LINE]
+It has many strings that are [LINE]
 strung in pairs.[END]
 
 
@@ -13690,8 +13691,8 @@ cook it in butter or oil.[END]
 //Text $1B5E60
 #WRITE(ptr,$18F338)
 Upper body armor made of leather.[LINE]
-Favored by adventurers due to its[LINE]
-lightness and fair protection.[END]
+Favored by adventurers due to[LINE]
+its lightness and fair protection.[END]
 
 
 //Text $1B5E48
@@ -14223,8 +14224,8 @@ who collected oral traditions into a book.[END]
 
 //Text $1B4C60
 #WRITE(ptr,$18FE3C)
-Breastplate refered to as a[LINE]
-rampart. Provides a staunch defense[LINE]
+Breastplate referred to as a rampart.[LINE]
+Provides a staunch defense[LINE]
 impenetrable by even heavy bows.[END]
 
 //Text $1B4C48
@@ -14323,8 +14324,8 @@ Considered to be a Dwarven work of art.[LINE]
 //Text $1B48D0
 #WRITE(ptr,$190058)
 A man's garment with enhanced chest[LINE]
-protection. Maintains a high defense.[LINE]
-but rather poor balance.[END]
+protection. Maintains a high defense,[LINE]
+but has rather poor balance.[END]
 
 //Text $1B48B8
 #WRITE(ptr,$190090)
@@ -14558,7 +14559,7 @@ white brilliance.[END]
 //Text $1B40B0
 #WRITE(ptr,$190544)
 Cloak decorated with[LINE]
-gold.Also known as[LINE]
+gold. Also known as[LINE]
 the "Opulent Cloak".[END]
 
 
@@ -14761,7 +14762,7 @@ who collected oral traditions into a book.[END]
 
 //Text $1B39E0
 #WRITE(ptr,$19097C)
-Cloak of lovely design.[LINE]
+Cloak with a lovely design.[LINE]
 Its beauty lowers[LINE]
 enemies' guards.[END]
 
@@ -15308,8 +15309,8 @@ of female travellers.[END]
 //Text $1B7EC0
 #WRITE(ptr,$1913AC)
 Cute mittens made of soft[LINE]
-fur. For you who is stylish[LINE]
-but feels cold.[END]
+fur. For those who are[LINE]
+stylish but feel cold.[END]
 
 //Text $1B7EA8
 #WRITE(ptr,$1913C8)
@@ -15319,7 +15320,7 @@ but feels cold.[END]
 //Text $1B7E48
 #WRITE(ptr,$1913CC)
 Beautiful gloves made of silk.[LINE]
-Elegant and nice to the touch.[LINE]
+Elegant and soft to the touch.[LINE]
 You too can be a lady.[END]
 
 //Text $1B7E30
@@ -15362,7 +15363,7 @@ to heal with a touch.[END]
 
 //Text $1B7C88
 #WRITE(ptr,$19144C)
-Glove made of unknown materials[LINE]
+Glove made from unknown materials.[LINE]
 Its colors change with viewing angle.[LINE]
 Goes well with its cloak.[END]
 
@@ -15408,7 +15409,7 @@ who collected oral traditions into a book.[END]
 #WRITE(ptr,$1914CC)
 Necklace given to the priests of[LINE]
 the Straylize temple. Increases[LINE]
-the wearer's concentration.[END]
+the wearers concentration.[END]
 
 //Text $1B7AC8
 #WRITE(ptr,$1914E8)
@@ -15472,8 +15473,8 @@ Increases the damage of [Sign_Light] spells.[END]
 
 //Text $1B77D0
 #WRITE(ptr,$19158C)
-Necklace imbued with the Earth Spirits.[LINE]
-Goddess' blessing and love.[LINE]
+Necklace imbued with the Earth Spirits[LINE]
+and Goddess' blessings and love.[LINE]
 Decreases the casting time of [Sign_Earth] spells.[END]
 
 //Text $1B77B0
@@ -15516,7 +15517,7 @@ Decreases the casting time of [Sign_Water] spells.[END]
 
 //Text $1B75D0
 #WRITE(ptr,$19160C)
-Necklace imbued with the God of Light.[LINE]
+Necklace imbued with the God of Light's[LINE]
 blessing and eternal integrity.[LINE]
 Decreases the casting time of [Sign_Light] spells.[END]
 
@@ -15527,9 +15528,9 @@ Decreases the casting time of [Sign_Light] spells.[END]
 
 //Text $1B7570
 #WRITE(ptr,$19162C)
-Longbow made of a single piece of[LINE]
-lumber. To advance through the Way[LINE]
-of Bow one needs to make one's own.[END]
+Longbow made from a single piece of[LINE]
+lumber. To master the art of archery,[LINE]
+one must craft a bow of their own.[END]
 
 //Text $1B7558
 #WRITE(ptr,$191648)
@@ -15582,7 +15583,7 @@ the skies. Made for experienced hunters.[END]
 
 //Text $1B7368
 #WRITE(ptr,$1916CC)
-One-hit one kill. Longbow used in[LINE]
+One hit, one kill. Longbow used in[LINE]
 assassinations. Shoots death silently.[LINE]
 [END]
 
@@ -15593,8 +15594,8 @@ assassinations. Shoots death silently.[LINE]
 
 //Text $1B7308
 #WRITE(ptr,$1916EC)
-Longbow made for use in[LINE]
-battlefields. Strong enough to[LINE]
+Longbow made for use on the[LINE]
+battlefield. Strong enough to[LINE]
 pierce the enemy's armor.[END]
 
 //Text $1B72F8
@@ -15628,7 +15629,7 @@ the body and relieves fatigue.[END]
 #WRITE(ptr,$19174C)
 A dagger with a ring-shaped[LINE]
 pommel. Attach a wire and[LINE]
-you can throw and reel it in[END]
+you can throw and reel it in.[END]
 
 //Text $1B71C8
 #WRITE(ptr,$191768)
@@ -15681,9 +15682,9 @@ inflict severe bloodshed.[END]
 
 //Text $1B6FB8
 #WRITE(ptr,$1917EC)
-The worlds most refined weapon.[LINE]
+The world's most refined weapon.[LINE]
 Its double-edged blade undulates.[LINE]
-Protects the body and expels evil.[END]
+Protects the user and expels evil.[END]
 
 //Text $1B6FA8
 #WRITE(ptr,$191808)
@@ -15848,7 +15849,7 @@ Increases wind resistance.[END]
 //Text $1B6A00
 #WRITE(ptr,$1919CC)
 Ribbon decorated with angel feathers.[LINE]
-Class up by wearing it![LINE]
+Wearing it makes a girl look classy![LINE]
 Increases light resistance.[END]
 
 
@@ -15859,8 +15860,8 @@ Increases light resistance.[END]
 
 //Text $1B6998
 #WRITE(ptr,$1919EC)
-A mysterious black ribbon. For you[LINE]
-who wants to surpass adult women.[LINE]
+A mysterious black ribbon. For those[LINE]
+who want to surpass adult women.[LINE]
 Increases dark resistance.[END]
 
 //Text $1B6980
@@ -15918,7 +15919,7 @@ Imbues attacks with earth.[END]
 //Text $1B6738
 #WRITE(ptr,$191A8C)
 A sorcerer made this hat so it won't[LINE]
-be blown away by the wind. That's[END]
+be blown away by the wind. That's[LINE]
 happiness. Imbues attacks with wind.[END]
 
 
@@ -15929,8 +15930,8 @@ happiness. Imbues attacks with wind.[END]
 
 //Text $1B66C0
 #WRITE(ptr,$191AAC)
-A hat for a seeker of mysteries.[LINE]
-A sign pops over your head when you find[LINE]
+A hat for a seeker of mysteries. A sign[LINE]
+pops up above your head when you find[LINE]
 the answer. Imbues attacks with water.[END]
 
 
@@ -15966,7 +15967,7 @@ Imbues attacks with dark.[END]
 //Text $1B6560
 #WRITE(ptr,$191B0C)
 A replica of the Champion's belt.[LINE]
-The original was returned to leave[LINE]
+He turned the original in when he left[LINE]
 the city. We can get it back again![END]
 
 
@@ -16206,8 +16207,8 @@ One's best traveling companion.[END]
 
 //Text $1BA120
 #WRITE(ptr,$191DCC)
-Strap with a Sandwich.[LINE]
-Vegetable and ham sandwich.[LINE]
+Strap with a vegetable[LINE]
+and ham sandwich.[LINE]
 Can be easily eaten anywhere.[END]
 
 
@@ -16218,9 +16219,9 @@ Can be easily eaten anywhere.[END]
 
 //Text $1BA068
 #WRITE(ptr,$191DFC)
-Strap with a Hamburger. [LINE]
-Juicy hamburger in between[LINE]
-two buns. Very filling![END]
+Strap with a Hamburger.
+A juicy beef patty between
+two buns... Very filling![END]
 
 
 //Text $1BA020
@@ -16302,7 +16303,7 @@ Gulped down with a slurping sound.[END]
 
 //Text $1B9C60
 #WRITE(ptr,$191F4C)
-Strap with Fried Rice[LINE]
+Strap with Fried Rice.[LINE]
 Rice fried in oil with meat and[LINE]
 vegetables. Simple but filling.[END]
 
@@ -16398,9 +16399,9 @@ Has a stimulating smell and taste.[END]
 
 //Text $1B9788
 #WRITE(ptr,$1920CC)
-Strap with Meat Bun.[LINE]
+Strap with a Meat Bun.[LINE]
 Fills the mouth with meat juices when bit into.[LINE]
-The sort of stuff one wants to eat in cold days.[END]
+The sort of stuff one wants to eat on cold days.[END]
 
 
 //Text $1B9750
@@ -16460,7 +16461,7 @@ change with the seasons. A luxurious dish.[END]
 #WRITE(ptr,$1921BC)
 Strap with Clam Chowder.[LINE]
 Soup with simmered clams, bacon,[LINE]
-and vegetables. Wonderful in cold days.[END]
+and vegetables. Wonderful on cold days.[END]
 
 
 //Text $1B9450
@@ -17653,8 +17654,8 @@ consuming lens. Fire with [Square_ani].[LINE]
 //Text $1BAC18
 #WRITE(ptr,$192814)
 A divine rod that detects hidden[LINE]
-signs. Activate it by pressing [R2_ani] on the[LINE]
-field.[END]
+signs. Activate it by pressing [R2_ani][LINE]
+on the field.[END]
 
 
 //Text $1BAC00
@@ -18566,6 +18567,7 @@ Snowy Vista[END]
 Thawing Snow[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB1F0
 #WRITE(ptr,$193B20)
 Glass Forest[END]
@@ -18586,7 +18588,6 @@ Far Vent[END]
 Southern Cross[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB1B8
 #WRITE(ptr,$193C00)
 Disregard[END]
@@ -19167,9 +19168,10 @@ Country Boy[END]
 
 //POINTER #19 @ $1946F4 - STRING #19 @ $1BF030
 #WRITE(ptr,$1946F4)
-An honest country man.[LINE]
+An honest country boy.[LINE]
 Some might be receptive[LINE]
 to this honesty.[END]
+
 
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
@@ -19199,8 +19201,9 @@ Gentle Liar[END]
 //POINTER #25 @ $19470C - STRING #25 @ $1BEEE8
 #WRITE(ptr,$19470C)
 We lie to protect those we love.[LINE]
-Could those gentle lies[LINE]
-protect peace and security...?[END]
+Could those gentle lies protect[LINE]
+peace and security...?[END]
+
 
 //POINTER #26 @ $194710 - STRING #26 @ $1BEED8
 #WRITE(ptr,$194710)
@@ -19297,7 +19300,8 @@ Quiz Club Member[END]
 #WRITE(ptr,$194754)
 A club created out of an intellectual desire[LINE]
 to acquire all knowledge.[LINE]
-He is an active a member.[END]
+He is an active member.[END]
+
 
 //POINTER #44 @ $194758 - STRING #44 @ $1BEB30
 #WRITE(ptr,$194758)
@@ -19319,7 +19323,7 @@ Lienean Official[END]
 #WRITE(ptr,$194764)
 [Stahn] Aileron (19) from the village of Lienea.[LINE]
 １７２ｃｍ ６３ｋｇ[LINE]
-Dymlos Swordian Master.[END]
+Master of the Swordian Dymlos.[END]
 
 
 //POINTER #48 @ $194768 - STRING #48 @ $1BEA68
@@ -19328,9 +19332,9 @@ Eyes of Justice[END]
 
 //POINTER #49 @ $19476C - STRING #49 @ $1BEA18
 #WRITE(ptr,$19476C)
-Criminal peeking at the girl's[LINE]
-bath with [Kongman].Unforgivable![LINE]
-「No, I was trying to sto..!」[END]
+A criminal peeking into the girls'[LINE]
+bath with [Kongman]. Unforgivable![LINE]
+(No, I was trying to sto--...!)[END]
 
 
 //POINTER #50 @ $194770 - STRING #50 @ $1BEA00

@@ -42,8 +42,8 @@ with a kid like that?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Welcome.
-We've got warm rooms available.
+Welcome. Our lodgings
+are nice and warm.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -128,7 +128,7 @@ Let me pay for it.
 I owe you for the help.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Your Food has been refilled.
 [ENDBLOCK]
@@ -148,8 +148,8 @@ Different recipes have
 different effects.
 
 [ENDBLOCK]
-You can manage your Food Straps
-at any Grocery.
+You can manage your Food
+Straps at any Grocery.
 [ENDBLOCK]
 Feel free to swap and
 refill your Food any time.
@@ -171,7 +171,7 @@ for the temple again.
 Okay. Let's head for that temple.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
@@ -194,9 +194,9 @@ has returned to the party.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
 [ENDBLOCK]
@@ -204,44 +204,44 @@ has left the party.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
-<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Trading Titles
+[<center><turquoise>Trading Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Hot Springs Titles
+[<center><turquoise>Hot Springs Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Free Titles
+[<center><turquoise>Free Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>NatuRanger Titles
+[<center><turquoise>NatuRanger Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Dash Titles
+[<center><turquoise>Dash Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Strongest Titles
+[<center><turquoise>Strongest Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received the
 [ENDBLOCK]
-<center>[<turquoise>Quiz Titles
+[<center><turquoise>Quiz Titles
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80> has received the title:
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xE0><x00><x80>
 <x18><x65><x57><xE4><x00><x80>
@@ -255,30 +255,30 @@ You already have
 the [<x1A><x20><x72><x0C><x98><x80>].
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>詳しくは下記のURLでご確認ください。
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>です。
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>website
 [ENDBLOCK]
@@ -300,31 +300,31 @@ notice
 設定がなされません！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Device not activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 Warp device activated.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x47><xC8><x80>'s Swordian device
 can now be used.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
 Titles are one of the character
 parameters that can be set. 
 The specific method is as follows.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
@@ -332,27 +332,27 @@ On this screen, press <Square_ani> to
 change the character status.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen will be
 [Titles]. Press <Triangle_ani> to pick
 from all acquired titles.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Titles serve two purposes:
 The first is to [affect dialogue 
 when talking to NPCs].
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Set a title to have certain NPCs interested
 while passing them. When talking with NPCs
 multiple times you may get different responses.
 Change the title and try talking to them again.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>Hint: When talking to certain NPCs, a [?] will 
 appear over the character's head. If this 
@@ -360,7 +360,7 @@ happens, set a title that seems to be related
 to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>The second purpose for titles is...
 to make your status screen look cool!
@@ -368,14 +368,14 @@ When collecting titles, you might pick
 up one you like, so you can set it on
 your status for a little flair!
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>[Rock Rally] is a game in which
 players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
 1: Kicking a rock outside the
@@ -407,7 +407,7 @@ If you're not too busy, maybe you
 could help me with my work.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Take on a job
 I don't have time for this.
@@ -434,7 +434,7 @@ In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>You received <TAG_032> Gald
 as advanced payment.
@@ -485,7 +485,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
@@ -520,7 +520,7 @@ I am charging a cancellation
 [ENDBLOCK]
 Breach of Contact Fee
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x28><x00><x80>
 fee of <TAG_076> Gald.
@@ -533,7 +533,7 @@ In the meantime, I'm going to ask
 you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>I've charged <TAG_075> Gald
 for the inconvenience.
@@ -555,7 +555,7 @@ Return of advance payment and penalties
 [ENDBLOCK]
 penalty.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
 
@@ -567,7 +567,7 @@ In the meantime, I'm going to
 ask you to pay all the money
 you have as an annoyance fee.
 [ENDBLOCK]
-notice
+Notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
 for cancelling.
@@ -579,7 +579,7 @@ and then come back.
 Well, good luck.
 
 [ENDBLOCK]
-select
+Select
 [ENDBLOCK]
 <TAG_007>Continue the Job
 Confirm Details

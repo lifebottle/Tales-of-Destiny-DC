@@ -339,6 +339,36 @@
 			"PointerStart":	"1946E8",
 			"PointerEnd":	"194B5C"
 		}]
+	},
+	{
+		"File":				"../../../PAK3/00016_0000d.unknown",
+		"PointerHeader":	"3B5980",
+		"BlockDesc":		"Battle Tutorial",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Battle Tutorial",
+			"GoogleSheetId":"1OVDvDyaKKpNFnSKIvCLSBVb7WRLa33ytp5_FY98Cc6Y",
+			"TextStart":	"3BCC0",
+			"TextEnd":		"3F6CE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
+	},
+	{
+		"File":				"../../../PAK3/00016_0003.unknown.new",
+		"PointerHeader":	"3D4080",
+		"BlockDesc":		"Skit Name",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Skit Name",
+			"GoogleSheetId":"1rU6gCJhsbSEXrxufcuyRcjKK8ckYaRrpQBnfkQ21CoU",
+			"TextStart":	"12800",
+			"TextEnd":		"1666E",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
 	}
 	
 	]
