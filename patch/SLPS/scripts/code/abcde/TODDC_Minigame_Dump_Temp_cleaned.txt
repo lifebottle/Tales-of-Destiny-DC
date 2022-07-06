@@ -2,7 +2,7 @@
 
 // Define required TABLE variables and load the corresponding tables
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 
 
