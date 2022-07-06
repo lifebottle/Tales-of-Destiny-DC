@@ -1063,7 +1063,7 @@
 
 @@BLAST_CALIBER_QUOTE:
     b @@Text_B_Adjustment
-    li s3, 0x8400
+    li s3, 0x8210
 
 @@VICTORY_QUOTE:
     ; can add check here if boxes are spawned/etc at some point...
