@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -7,6 +7,8 @@
 #CREATEPTR(ptr, "LINEAR", $-3D4080, 32)
 
 #JMP($12800)
+//Section Skit Name
+
 //Text $164F8
 #WRITE(ptr,$5464)
 Need a Weapon, Fast![END]
@@ -549,7 +551,7 @@ Hidden Passage[END]
 
 //Text $15B90
 #WRITE(ptr,$5614)
-“Darilsheid Is South of the Temple”[END]
+Darilsheid Is South of the Temple[END]
 
 
 //Text $15B78
@@ -3540,4 +3542,5 @@ Let's Hurry![END]
 //Text $12800
 #WRITE(ptr,$5F7C)
 More Important Places to Be[END]
+
 

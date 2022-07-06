@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("G:\TalesHacking\TOD\GitProject\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -10150,7 +10150,7 @@ Rerising can also change its special effects.[LINE]
 
 //Text $1AFCA8
 #WRITE(ptr,$18C610)
-A gelatin-based healing medicine.
+A gelatin-based healing medicine.[LINE]
 Restores 30% of max HP for one ally.[END]
 
 
@@ -16219,8 +16219,8 @@ Can be easily eaten anywhere.[END]
 
 //Text $1BA068
 #WRITE(ptr,$191DFC)
-Strap with a Hamburger.
-A juicy beef patty between
+Strap with a Hamburger.[LINE]
+A juicy beef patty between[LINE]
 two buns... Very filling![END]
 
 
@@ -18562,12 +18562,12 @@ Setsugekka[END]
 Snowy Vista[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB200
 #WRITE(ptr,$193AE8)
 Thawing Snow[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB1F0
 #WRITE(ptr,$193B20)
 Glass Forest[END]
@@ -18984,7 +18984,7 @@ No special effects[END]
 
 //Text $1BBA80
 #WRITE(ptr,$194664)
-Revives a fallen ally once in battle[END]
+Revives a fallen ally once[END]
 
 
 //Text $1BBA70
@@ -19881,8 +19881,9 @@ Hedge Knight[END]
 //POINTER #153 @ $19490C - STRING #153 @ $1BD720
 #WRITE(ptr,$19490C)
 A reputable knight serving under[LINE]
-the Kingdom's army. The king and people[LINE]
-trust him very much.[END]
+the Kingdom's army. The king and [LINE]
+people trust him very much.[END]
+
 
 //POINTER #154 @ $194910 - STRING #154 @ $1BD708
 #WRITE(ptr,$194910)
