@@ -36,6 +36,21 @@
 				"TextEnd":		"19420"
 			}
 		]
+	},
+	{
+		"FilePointer":		"../../../DAT_FILES/00070.md1",
+		"PointerHeader":	"3C7A80",
+		"GoogleSheetId":	"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
+		"BlockDesc":		"Map Menu",
+		"Sections":[
+			{
+				"SectionId":	1,
+				"File":			"../../../DAT_FILES/00070.md1",
+				"PointerHeader":"3C7A80",
+				"TextStart":	"5CA8",
+				"TextEnd":		"60AE"
+			}
+		]
 	}
 	]
 	

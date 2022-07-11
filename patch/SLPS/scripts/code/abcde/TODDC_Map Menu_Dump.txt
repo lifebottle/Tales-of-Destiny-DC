@@ -1,0 +1,83 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-3C7A80, 32)
+
+#JMP($5CA8)
+//Section Map Menu
+
+//Text $ $5CE8
+#WRITE(ptr,$5B70)
+[Triangle_ani]Autopilot [Circle_ani]Shop [Square_ani]Zoom In [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5CA8
+#WRITE(ptr,$5B74)
+[Triangle_ani]Autopilot [Circle_ani]Shop [Square_ani]Zoom In [L1_ani][R1_ani]Category[END]
+
+//Text $ $5D78
+#WRITE(ptr,$5B78)
+[Triangle_ani]Autopilot [Circle_ani]Shop [Square_ani]Reduce [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5D38
+#WRITE(ptr,$5B7C)
+[Triangle_ani]Autopilot [Circle_ani]Shop [Square_ani]Reduce [L1_ani][R1_ani]Category[END]
+
+//Text $ $5DF8
+#WRITE(ptr,$5B80)
+[Circle_ani]Shop [Square_ani]Zoom In [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5DC8
+#WRITE(ptr,$5B84)
+[Circle_ani]Shop [Square_ani]Zoom In [L1_ani][R1_ani]Category[END]
+
+//Text $ $5E70
+#WRITE(ptr,$5B88)
+[Circle_ani]Shop [Square_ani]Reduce [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5E40
+#WRITE(ptr,$5B8C)
+[Circle_ani]Shop [Square_ani]Reduce [L1_ani][R1_ani]Category[END]
+
+//Text $ $5EE8
+#WRITE(ptr,$5B90)
+[Triangle_ani]Autopilot [Square_ani]Zoom In [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5EB8
+#WRITE(ptr,$5B94)
+[Triangle_ani]Autopilot [Square_ani]Zoom In [L1_ani][R1_ani]Category[END]
+
+//Text $ $5F60
+#WRITE(ptr,$5B98)
+[Triangle_ani]Autopilot [Square_ani]Reduce [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5F30
+#WRITE(ptr,$5B9C)
+[Triangle_ani]Autopilot [Square_ani]Reduce [L1_ani][R1_ani]Category[END]
+
+//Text $ $5FD0
+#WRITE(ptr,$5BA0)
+[Square_ani]Zoom In [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $5FA8
+#WRITE(ptr,$5BA4)
+[Square_ani]Zoom In [L1_ani][R1_ani]Category[END]
+
+//Text $ $6030
+#WRITE(ptr,$5BA8)
+[Square_ani]Zoom Out [L1_ani][R1_ani]Category [L3_ani][R3_ani]Switch[END]
+
+//Text $ $6008
+#WRITE(ptr,$5BAC)
+[Square_ani]Zoom Out [L1_ani][R1_ani]Category[END]
+
+//Text $ $6090
+#WRITE(ptr,$5BE8)
+[Right_blink]Item List [Cross_ani]Back[END]
+
+//Text $ $6068
+#WRITE(ptr,$5BEC)
+[Left_blink]Shop List [Cross_ani]Back [Square_ani]Info[END]
+

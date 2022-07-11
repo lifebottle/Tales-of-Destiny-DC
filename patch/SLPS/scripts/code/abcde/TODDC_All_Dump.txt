@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -211,7 +211,7 @@ Fayte[END]
 
 //Text $199AF8
 #WRITE(ptr,$D7D20)
-Leianna[END]
+Rihanna[END]
 
 
 //Text $199AE8
@@ -2880,7 +2880,7 @@ above the enemy.[END]
 
 //Text $19FAD8
 #WRITE(ptr,$183850)
-A forward thrust at the enemy
+A forward thrust at the enemy[LINE]
 followed by one from the back.[END]
 
 

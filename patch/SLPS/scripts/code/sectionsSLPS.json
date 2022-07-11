@@ -369,6 +369,21 @@
 			"PointerStart":	"",
 			"PointerEnd":	""
 		}]
+	},
+		{
+		"File":		"../../../DAT_FILES/00070.md1",
+		"PointerHeader":	"3C7A80",
+		"BlockDesc":		"Map Menu",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Map Menu",
+			"GoogleSheetId":"18JEcqQFlXSj4mZMcP627ezXjPdVx1Oer_HkY44sew7w",
+			"TextStart":	"5CA8",
+			"TextEnd":		"60AE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
 	}
 	
 	]
