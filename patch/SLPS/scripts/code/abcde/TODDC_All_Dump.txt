@@ -211,7 +211,7 @@ Fayte[END]
 
 //Text $199AF8
 #WRITE(ptr,$D7D20)
-Leianna[END]
+Rihanna[END]
 
 
 //Text $199AE8
@@ -2880,7 +2880,7 @@ above the enemy.[END]
 
 //Text $19FAD8
 #WRITE(ptr,$183850)
-A forward thrust at the enemy
+A forward thrust at the enemy[LINE]
 followed by one from the back.[END]
 
 
