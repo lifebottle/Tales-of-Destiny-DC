@@ -341,7 +341,7 @@
 		}]
 	},
 	{
-		"File":				"../../../PAK3/00016_0000d.unknown",
+		"File":				"../../../DAT_FILES_PATCHED/00016_0000d.unknown",
 		"PointerHeader":	"3D4080",
 		"BlockDesc":		"Battle Tutorial",
 		"Sections":[
@@ -384,8 +384,63 @@
 			"PointerStart":	"",
 			"PointerEnd":	""
 		}]
+	},
+		{
+		"File":		"../../../DAT_FILES/00053.md1",
+		"PointerHeader":	"3B5980",
+		"BlockDesc":		"Customize Button Bar",
+		"Sections":[
+			{
+				"SectionId":	1,
+				"SectionDesc":	"Customize Button Bar",
+				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
+				"TextStart":	"7560",
+				"TextEnd":		"7658",
+				"PointerStart":	"6580",
+				"PointerEnd":	"6598"
+			},
+			{
+				"SectionId":	2,
+				"SectionDesc":	"Customize Display",
+				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
+				"TextStart":	"7659",
+				"TextEnd":		"7715",
+				"PointerStart":	"659C",
+				"PointerEnd":	"66F0"
+			},
+			{
+				"SectionId":	3,
+				"SectionDesc":	"Customize Display 2",
+				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
+				"TextStart":	"7716",
+				"TextEnd":		"7C6B",
+				"PointerStart":	"65A0",
+				"PointerEnd":	"66F4"
+			},
+			{
+				"SectionId":	4,
+				"SectionDesc":	"Customize Description",
+				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
+				"TextStart":	"7C6C",
+				"TextEnd":		"7E5F",
+				"PointerStart":	"6700",
+				"PointerEnd":	"6750"
+			}]
+	},
+		{
+		"File":		"../../../DAT_FILES_PATCHED/00066.md1",
+		"PointerHeader":	"3C7A80",
+		"BlockDesc":		"Monster Descriptions",
+		"Sections":[
+		{
+			"SectionId":	1,
+			"SectionDesc":	"Monster Descriptions",
+			"GoogleSheetId":"1l9FJDzLVYFPyH7FuPIXDm1GZC2HDBn6xaZaQGmHTE7Q",
+			"TextStart":	"4888",
+			"TextEnd":		"A4EE",
+			"PointerStart":	"",
+			"PointerEnd":	""
+		}]
 	}
-	
 	]
-	
 }

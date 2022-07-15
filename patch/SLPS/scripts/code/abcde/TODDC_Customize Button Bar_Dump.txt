@@ -1,0 +1,305 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-3B5980, 32)
+
+#JMP($7560)
+//Section Customize Button Bar
+
+//Text $7560
+#WRITE(ptr,$6580)
+[Left+Right_blink]Change [L1_ani]Undo [R1_ani]Default [Cross_ani]Back[END]
+
+
+//Text $758D
+#WRITE(ptr,$6584)
+[Circle_ani]Change [L1_ani]Undo [R1_ani]Default [Cross_ani]Back[END]
+
+
+//Text $75BA
+#WRITE(ptr,$6588)
+[Circle_ani]+[L+U+R+D_blink]Change [L1_ani]Undo [R1_ani]Default [Cross_ani]Back[END]
+
+
+//Text $75ED
+#WRITE(ptr,$658C)
+[Circle_ani][Cross_ani][Square_ani][Triangle_ani][L1_ani][R1_ani][L2_ani][R2_ani]Change[Left_blink]Back[END]
+
+
+//Text $7625
+#WRITE(ptr,$6590)
+[Circle_ani]+[Left+Right_blink]Change [Cross_ani]Back[END]
+
+
+//Text $7641
+#WRITE(ptr,$6594)
+[Circle_ani]Select [Cross_ani]Cancel[END]
+
+//Section Customize Display
+
+//Text $7659
+#WRITE(ptr,$659C)
+Message Speed[END]
+
+
+//Text $7667
+#WRITE(ptr,$65B4)
+Auto message[END]
+
+
+//Text $7674
+#WRITE(ptr,$65CC)
+Difficulty[END]
+
+
+//Text $767F
+#WRITE(ptr,$65E4)
+Battle Controls[END]
+
+
+//Text $768F
+#WRITE(ptr,$65FC)
+Screen Position[END]
+
+
+//Text $769F
+#WRITE(ptr,$6614)
+Vibrate[END]
+
+
+//Text $76A7
+#WRITE(ptr,$662C)
+Subs[END]
+
+
+//Text $76AC
+#WRITE(ptr,$6644)
+Battle Camera[END]
+
+
+//Text $76BA
+#WRITE(ptr,$665C)
+Horizontal Camera[END]
+
+
+//Text $76CC
+#WRITE(ptr,$6674)
+Vertical Camera[END]
+
+
+//Text $76DC
+#WRITE(ptr,$668C)
+Vehicle Speed[END]
+
+
+//Text $76EA
+#WRITE(ptr,$66A4)
+Output[END]
+
+
+//Text $76F1
+#WRITE(ptr,$66BC)
+Volume[END]
+
+
+//Text $76F8
+#WRITE(ptr,$66D4)
+Definite Strike[END]
+
+
+//Text $7708
+#WRITE(ptr,$66EC)
+Portrait Type[END]
+
+//Section Customize Display 2
+
+//Text $7716
+#WRITE(ptr,$65A0)
+Changes the display speed of the[LINE]
+message. 1 to be instantaneous.[LINE]
+[END]
+
+
+//Text $7758
+#WRITE(ptr,$65B8)
+When ON, messages auto-advance[LINE]
+without the need to press any buttons.[END]
+
+
+//Text $779E
+#WRITE(ptr,$65D0)
+dummy[END]
+
+
+//Text $77A4
+#WRITE(ptr,$65E8)
+Alter buttons layout in battle.[END]
+
+
+//Text $77C4
+#WRITE(ptr,$6600)
+Adjusts the screen position.[END]
+
+
+//Text $77E1
+#WRITE(ptr,$6618)
+Switch controller vibration.[END]
+
+
+//Text $77FE
+#WRITE(ptr,$6630)
+Switch subtitles on FMV's.[END]
+
+
+//Text $7819
+#WRITE(ptr,$6648)
+dummy[END]
+
+
+//Text $7B20
+#WRITE(ptr,$6660)
+Changes the rotation direction[LINE]
+of the [L1_ani][R1_ani] button.[END]
+
+
+//Text $7B59
+#WRITE(ptr,$6678)
+Invert vehicle movement by pressing[LINE]
+[Up+Down_blink] on the d-pad or left stick.[END]
+
+
+//Text $7B9F
+#WRITE(ptr,$6690)
+Changes vehicles speed. Lower is faster.[END]
+
+
+//Text $7BC8
+#WRITE(ptr,$66A8)
+Change whether the sound is played[LINE]
+in stereo or mono.[END]
+
+
+//Text $7BFE
+#WRITE(ptr,$66C0)
+Changes specific game sound.[END]
+
+
+//Text $7C1B
+#WRITE(ptr,$66D8)
+dummy[END]
+
+
+//Text $7C21
+#WRITE(ptr,$66F0)
+Change the appearence of the character's[LINE]
+in the main menu and status menu.[END]
+
+//Section Customize Description
+
+//Text $7C6C
+#WRITE(ptr,$6700)
+[Simple][END]
+
+
+//Text $7C75
+#WRITE(ptr,$6704)
+Reduced difficulty with enemy [LINE]
+using less artes[END]
+
+
+//Text $7CA5
+#WRITE(ptr,$6708)
+[Normal][END]
+
+
+//Text $7CAE
+#WRITE(ptr,$670C)
+Normal difficulty.[END]
+
+
+//Text $7CC1
+#WRITE(ptr,$6710)
+[Second][END]
+
+
+//Text $7CCA
+#WRITE(ptr,$6714)
+Harder than Normal.[LINE]
+Damage multiplier changes for friend/foe.[END]
+
+
+//Text $7D08
+#WRITE(ptr,$6718)
+[Hard][END]
+
+
+//Text $7D0F
+#WRITE(ptr,$671C)
+Higher Difficulty, but increase bonuses[LINE]
+in experience and device points.[END]
+
+
+//Text $7D58
+#WRITE(ptr,$6720)
+[Evil][END]
+
+
+//Text $7D5F
+#WRITE(ptr,$6724)
+Evil Difficulty, the experience bonus[LINE]
+for consecutive hits is even higher.[END]
+
+
+//Text $7DAA
+#WRITE(ptr,$6728)
+[Chaos][END]
+
+
+1//Text $7DB2
+#WRITE(ptr,$672C)
+The worst combat difficulty. Both friend and[LINE]
+foe will get a 4X critical multiplier.[END]
+
+
+//Text $7E06
+#WRITE(ptr,$6730)
+[Target][END]
+
+
+//Text $7E0F
+#WRITE(ptr,$6734)
+Focus on Target.[END]
+
+
+//Text $7E20
+#WRITE(ptr,$6738)
+[Party][END]
+
+
+//Text $7E28
+#WRITE(ptr,$673C)
+Focus on Allies.[END]
+
+
+//Text $7E39
+#WRITE(ptr,$6740)
+[Enemy][END]
+
+
+//Text $7E41
+#WRITE(ptr,$6744)
+Focus on Enemies.[END]
+
+
+//Text $7E53
+#WRITE(ptr,$6748)
+[All][END]
+
+
+//Text $7E59
+#WRITE(ptr,$674C)
+Focus [END]
+
