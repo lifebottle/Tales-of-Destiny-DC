@@ -1,0 +1,1694 @@
+#VAR(Table_0, TABLE)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+
+//BLOCK #000 NAME:
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+#VAR(ptr, CUSTOMPOINTER)
+#CREATEPTR(ptr, "LINEAR", $-3C7A80, 32)
+
+#JMP($4888)
+//Section Monster Descriptions
+
+//Text $4888
+#WRITE(ptr,$3DA0)
+#WRITE(ptr,$3DAC)
+Mystery?[LINE]
+[LINE]
+[END]
+
+//Text $4893
+#WRITE(ptr,$3DA4)
+#WRITE(ptr,$3DA8)
+#WRITE(ptr,$3DB4)
+#WRITE(ptr,$3DB8)
+#WRITE(ptr,$3DBC)
+[LINE]
+[LINE]
+[END]
+
+
+//Text $48A4
+#WRITE(ptr,$3DB0)
+Hedge Knight of Seinegald.[LINE]
+Chaltier's Swordian Master. Uses[LINE]
+many sword artes and earth spells.[END]
+
+
+//Text $490C
+#WRITE(ptr,$3DC0)
+Hero of the arena, a champion among[LINE]
+champions. Better be careful![END]
+
+
+//Text $494E
+#WRITE(ptr,$3DC4)
+Appears upset with her brother playing[LINE]
+in the arena. Beware of unusual feints.[LINE]
+Her [Turn Over] is dangerous.[END]
+
+
+//Text $49BB
+#WRITE(ptr,$3DC8)
+A master Qigong swordsman,[LINE]
+he uses a powerful attack on low[LINE]
+HP opponents called [Head Cutter].[END]
+
+
+//Text $4A1A
+#WRITE(ptr,$3DCC)
+A priest under Greybum's command[LINE]
+Attacks with his claws.[LINE]
+He targets those low on HP.[END]
+
+
+//Text $4A6F
+#WRITE(ptr,$3DD0)
+A master swordsman, wielding the[LINE]
+water demon sword. His blade is[LINE]
+so sharp, a simple cut may kill you.[END]
+
+
+//Text $4AD5
+#WRITE(ptr,$3DD4)
+His large sword wielding skill is[LINE]
+authentic, but can't turn while[LINE]
+dashing or attacking.[END]
+
+
+//Text $4B2D
+#WRITE(ptr,$3DD8)
+The forbidden spell gave him a hard[LINE]
+shell and bug commanding powers.[LINE]
+Calls pesky bugs that can't be ignored.[END]
+
+
+//Text $4B9A
+#WRITE(ptr,$3DDC)
+Attacks by controlling remote units.[LINE]
+Defends against P. Atk with an energy[LINE]
+barrier. Spends energy creating bots.[END]
+
+
+//Text $4C0B
+#WRITE(ptr,$3DE0)
+Switches between walking/flying[LINE]
+states to gain the advantage.[LINE]
+Synchronize your attacks.[END]
+
+
+//Text $4C63
+#WRITE(ptr,$3DE4)
+Wields the Light and Darkness Swordian[LINE]
+Berselius. Creates barriers when casting.[LINE]
+Spread out to avoid being wiped out.[END]
+
+
+//Text $4CD9
+#WRITE(ptr,$3DE8)
+Wields Berselius with light/dark[LINE]
+attacks. Better have resistance to[LINE]
+status ailments and attributes.[END]
+
+
+//Text $4D3D
+#WRITE(ptr,$3DEC)
+Strange creature that uses its large[LINE]
+mouth to swallow enemies whole.[LINE]
+You will be paralyzed if swallowed.[END]
+
+
+//Text $4DA6
+#WRITE(ptr,$3DF0)
+Female priest in service of Straylize[LINE]
+Temple. Attacks and heals with spells.[LINE]
+Thinks of Bishop as only an escort.[END]
+
+
+//Text $4E17
+#WRITE(ptr,$3DF4)
+A soldier in service of Seinegald.[LINE]
+Unleashes powerful strikes[LINE]
+with no blind spots.[END]
+
+
+//Text $4E6A
+#WRITE(ptr,$3DF8)
+A pirate who doesn't steal items.[LINE]
+He prefers to target those who[LINE]
+are vulnerable.[END]
+
+
+//Text $4EBB
+#WRITE(ptr,$3DFC)
+A medium-sized bird from Seinegald[LINE]
+region. It has a sharp beak,[LINE]
+and attacks with its wings.[END]
+
+
+//Text $4F17
+#WRITE(ptr,$3E00)
+A gel-like creature living in caves.[LINE]
+It throws parts of itself at you.[LINE]
+Very weak to spells.[END]
+
+
+//Text $4F73
+#WRITE(ptr,$3E04)
+A bee monster with a powerful[LINE]
+poisonous stinger. It moves quickly[LINE]
+to target enemies in the back.[END]
+
+
+//Text $4FD4
+#WRITE(ptr,$3E08)
+It invaded the Draconis with[LINE]
+wyverns. It's fast, but observe and[LINE]
+defend with [Square_copy], then attack![END]
+
+
+//Text $5035
+#WRITE(ptr,$3E0C)
+A strange creature with many[LINE]
+tentacles living near Seinegald's sea.[LINE]
+Watch out for its long reach![END]
+
+
+//Text $5097
+#WRITE(ptr,$3E10)
+Phandarian snow rabbit that became[LINE]
+ferocious. Its strong legs unleash[LINE]
+extremely powerful kicks![END]
+
+
+//Text $50F7
+#WRITE(ptr,$3E14)
+This bear monster is notable for its[LINE]
+huge claws. It's slow but powerful,[LINE]
+so guard and then strike.[END]
+
+
+//Text $515A
+#WRITE(ptr,$3E18)
+This rabbit developed a spike-tail to[LINE]
+survive the desert full of enemies.[LINE]
+Its tail attack is powerful.[END]
+
+
+//Text $51C1
+#WRITE(ptr,$3E1C)
+A squid-like monster from the deep[LINE]
+sea. Its squid ink stays in place,[LINE]
+so be careful attacking it.[END]
+
+
+//Text $5223
+#WRITE(ptr,$3E20)
+A male priest in service of Straylize[LINE]
+Temple. Skilled at using a staff.[LINE]
+Has a secret crush on Priestess...[END]
+
+
+//Text $528E
+#WRITE(ptr,$3E24)
+It invaded the Draconis carrying[LINE]
+wolves. Spits powerful fire breaths,[LINE]
+so be careful when attacking.[END]
+
+
+//Text $52F2
+#WRITE(ptr,$3E28)
+A small bird monster that lives in the[LINE]
+Phandaria region. Its ramming attack[LINE]
+is surprising for its small body.[END]
+
+
+//Text $5360
+#WRITE(ptr,$3E2C)
+A monster formed by dust in the air,[LINE]
+almost as if it has no real body.[LINE]
+Physical attacks are ineffective.[END]
+
+
+//Text $53C9
+#WRITE(ptr,$3E30)
+A boar monster with huge tusks. Has[LINE]
+a fierce temper and uses its tusks[LINE]
+to trample targets in its path.[END]
+
+
+//Text $5430
+#WRITE(ptr,$3E34)
+A monkey living in Staylize Forest. Its[LINE]
+aggressiveness limits temple visitors.[LINE]
+Man may have fed it too much...[END]
+
+
+//Text $549F
+#WRITE(ptr,$3E38)
+A mushroom monster.[LINE]
+The spores it releases[LINE]
+are mixed with poison.[END]
+
+
+//Text $54E1
+#WRITE(ptr,$3E3C)
+A tree that mutated. Its spells from[LINE]
+the rear are a nuisance. As a plant,[LINE]
+it resists water but burns easily.[END]
+
+
+//Text $554E
+#WRITE(ptr,$3E40)
+Stone that seals the Straylize Temple[LINE]
+doors. It attacks with spells and[LINE]
+summons golems, so destroy it first![END]
+
+
+//Text $55BB
+#WRITE(ptr,$3E44)
+A puppet powered by an ancient[LINE]
+force. It resists physical attacks,[LINE]
+but is weak to blunt objects.[END]
+
+
+//Text $561C
+#WRITE(ptr,$3E48)
+A bipedal starfish monster.[LINE]
+It's weak, but will disrupt our[LINE]
+formation with its nimble movements.[END]
+
+
+//Text $567D
+#WRITE(ptr,$3E4C)
+Its water-attribute tentacles bring[LINE]
+trouble for [Stahn]. Its name comes[LINE]
+from the color of its tentacles.[END]
+
+
+//Text $56E4
+#WRITE(ptr,$3E50)
+A large fly living in the desert.[LINE]
+It spits fire, so don't[LINE]
+engage carelessly![END]
+
+
+//Text $5731
+#WRITE(ptr,$3E54)
+A three-headed snake monster.[LINE]
+Its venomous body can inflict poison[LINE]
+with every attack.[END]
+
+
+//Text $5787
+#WRITE(ptr,$3E58)
+A reptile with hard scales.[LINE]
+If you stare at its hidden eye,[LINE]
+it will be agitated.[END]
+
+
+//Text $57D8
+#WRITE(ptr,$3E5C)
+Sea monster that sprays water from[LINE]
+its mouth. It face-plants the ground[LINE]
+before spraying, so watch out.[END]
+
+
+//Text $583F
+#WRITE(ptr,$3E60)
+A bipedal lizard monster.[LINE]
+Be careful of its quick bite and[LINE]
+resistance to earth skills.[END]
+
+
+//Text $5896
+#WRITE(ptr,$3E64)
+A leech that compresses to[LINE]
+launch its body as an attack.[LINE]
+It is weak to dark attacks.[END]
+
+
+//Text $58EB
+#WRITE(ptr,$3E68)
+Bats live as a colony in caves.[LINE]
+They target various enemies with[LINE]
+their echolocation.[END]
+
+
+//Text $5940
+#WRITE(ptr,$3E6C)
+A large bird with beautiful wings.[LINE]
+It has grown too big to fly,[LINE]
+but runs fast.[END]
+
+
+//Text $598F
+#WRITE(ptr,$3E70)
+A monster with a long,[LINE]
+extendable horn. Uses its horns[LINE]
+to blow away anything in its way.[END]
+
+
+//Text $59E8
+#WRITE(ptr,$3E74)
+A soldier in service of Moreau. His[LINE]
+attack has a long reach. Take care[LINE]
+that allies behind you aren't hit.[END]
+
+
+//Text $5A52
+#WRITE(ptr,$3E78)
+Large carnivorous beast from the[LINE]
+Aquaveil region. It's fierce but[LINE]
+smart, and seen in freak shows.[END]
+
+
+//Text $5AB4
+#WRITE(ptr,$3E7C)
+An insect with hard armor.[LINE]
+The scythe has debilitating effects.[LINE]
+Vulnerable in the eyes or...[END]
+
+
+//Text $5B11
+#WRITE(ptr,$3E80)
+A mass of negative energy gathered[LINE]
+in Heidelberg. It's incorporeal[LINE]
+and thus resistant to P.Atk.[END]
+
+
+//Text $5B71
+#WRITE(ptr,$3E84)
+A former prisoner of Heidelberg turned[LINE]
+undead. It cannot feel pain and pushes[LINE]
+onward, ignoring any attacks.[END]
+
+
+//Text $5BDD
+#WRITE(ptr,$3E88)
+A lens powered skeleton. It always[LINE]
+attacks by aiming at your feet.[LINE]
+It cast spell that lowers your P.Atk.[END]
+
+
+//Text $5C46
+#WRITE(ptr,$3E8C)
+A mad man under the lens' influence.[LINE]
+They're usually stunned, but can[LINE]
+charge out of nowhere.[END]
+
+
+//Text $5CA3
+#WRITE(ptr,$3E90)
+Automated surveillance bot that summons[LINE]
+backup. Also has a small machine gun that[LINE]
+will fire if the warning is not obeyed.[END]
+
+
+//Text $5D1D
+#WRITE(ptr,$3E94)
+Interceptor robot for repelling[LINE]
+intruders. Its head fires missiles.[LINE]
+It may go berserk...[END]
+
+
+//Text $5D76
+#WRITE(ptr,$3E98)
+Oberon researcher, clad in defensive[LINE]
+gear. His handgun has different utilities,[LINE]
+a special one is the sleep gas effect.[END]
+
+
+//Text $5DED
+#WRITE(ptr,$3E9C)
+An artificial life created with the[LINE]
+Aetherian tech. Attacks with the its[LINE]
+tails sword. Counter after guarding.[END]
+
+
+//Text $5E5B
+#WRITE(ptr,$3EA0)
+Lifeform created with Ae'ther tech.[LINE]
+Has plenty of elemental magic.[LINE]
+Often counters after you guard it.[END]
+
+
+//Text $5EC1
+#WRITE(ptr,$3EA4)
+Artificial weapon created for support.[LINE]
+Has melee and ranged attacks.[LINE]
+It's fast, can disrupt your formation![END]
+
+
+//Text $5F2D
+#WRITE(ptr,$3EA8)
+Artificial lifeform created for[LINE]
+support. Low P. ATK, mainly uses[LINE]
+Healing and Support spells.[END]
+
+
+//Text $5F8A
+#WRITE(ptr,$3EAC)
+A security bot following Anthzoon.[LINE]
+Only calls backup, really annoying so[LINE]
+defeat it as soon as possible![END]
+
+
+//Text $5FF2
+#WRITE(ptr,$3EB0)
+A robot guarding Deimos. Offers[LINE]
+ranged support with its turrets.[LINE]
+Its shots hurt more when hit at close range.[END]
+
+
+//Text $6060
+#WRITE(ptr,$3EB4)
+A spider with large amounts of[LINE]
+venom on its back. The liquid it[LINE]
+drops can be dashed through.[END]
+
+
+//Text $60BD
+#WRITE(ptr,$3EB8)
+A giant insect eating plant.[LINE]
+Seeds reduce attack power.[LINE]
+Upon breaking, they will suck you in.[END]
+
+
+//Text $611B
+#WRITE(ptr,$3EBC)
+A bioweapon with a huge shield.[LINE]
+it can attack and provide assistance,[LINE]
+small attacks won't hurt it.[END]
+
+
+//Text $617E
+#WRITE(ptr,$3EC0)
+A turret that fires a sound beam.[LINE]
+Rear fired missiles petrifies.[LINE]
+Has a hidden needle in its foot.[END]
+
+
+//Text $61E0
+#WRITE(ptr,$3EC4)
+An Aetherian weapon developed to[LINE]
+counter Swordians. But unlike them,[LINE]
+it can act on its own.[END]
+
+
+//Text $623C
+#WRITE(ptr,$3EC8)
+A flying aquatic creature.[LINE]
+Lunges at you when hit by artes.[END]
+
+
+//Text $6278
+#WRITE(ptr,$3ECC)
+A giant, bipedal patrol robot.[LINE]
+It has no special weapons but its[LINE]
+giant feet. Don't let it kick you.[END]
+
+
+//Text $62DC
+#WRITE(ptr,$3ED0)
+A bioweapon called [Bomb].[LINE]
+As the name implies, it explodes.[LINE]
+Avoid using fire.[END]
+
+
+//Text $632B
+#WRITE(ptr,$3ED4)
+A terrifying carnivorous plant that[LINE]
+protects Belcrant. Reacts to[LINE]
+resistant attributes and fights back.[END]
+
+
+//Text $6392
+#WRITE(ptr,$3ED8)
+The offspring of a dragon[LINE]
+that spits fire breaths.[LINE]
+Equip fire resistance![END]
+
+
+//Text $63DC
+#WRITE(ptr,$3EDC)
+Trash Mountain's dusty toxic gas[LINE]
+turned sentient due to lens influence.[LINE]
+Attacks cause [Weakness] effect.[END]
+
+
+//Text $6445
+#WRITE(ptr,$3EE0)
+Headless, humanoid bioweapon.[LINE]
+Attacks by using its tentacles.[LINE]
+When HP is low...[END]
+
+
+//Text $6495
+#WRITE(ptr,$3EE4)
+A one eyed mysterious flying[LINE]
+creature. Warps behind you to strike.[LINE]
+Also casts support spells.[END]
+
+
+//Text $64F3
+#WRITE(ptr,$3EE8)
+Dragon with a strong body.[LINE]
+Immune to normal P.Atk.[LINE]
+Its blast attacks are ultra strong.[END]
+
+
+//Text $654A
+#WRITE(ptr,$3EEC)
+Factory security dog. It's quick[LINE]
+and comes up behind you.[LINE]
+His bites can cause weakness.[END]
+
+
+//Text $65A2
+#WRITE(ptr,$3EF0)
+Senior soldier in service of Seinegald.[LINE]
+Has three soldiers under his command[LINE]
+who must follow his orders.[END]
+
+
+//Text $660B
+#WRITE(ptr,$3EF4)
+A giant aquatic creature. Difficult[LINE]
+fight because of its slimy body.[LINE]
+Can deflect up to 3 attacks.[END]
+
+
+//Text $666D
+#WRITE(ptr,$3EF8)
+※非表示[LINE]
+[LINE]
+[END]
+
+
+//Text $6678
+#WRITE(ptr,$3EFC)
+Latest Aetherian bioweapon. Fires[LINE]
+strong guided and penetrating lasers.[LINE]
+Never misses a target.[END]
+
+
+//Text $66D7
+#WRITE(ptr,$3F00)
+His attacks and spells hurt![LINE]
+Best equip light and dark resistance.[LINE]
+Focus on stopping his spells.[END]
+
+
+//Text $6738
+#WRITE(ptr,$3F04)
+Swordian Master of Fire. His technique[LINE]
+is overwhelming. He acts defensively,[LINE]
+but won't hesitate to enter the fray.[END]
+
+
+//Text $67AB
+#WRITE(ptr,$3F08)
+A bee living in Fitzgald. Like the[LINE]
+bee in Seinegald, it has a powerful[LINE]
+venom in its stinger.[END]
+
+
+//Text $6808
+#WRITE(ptr,$3F0C)
+This wild boar inhabits the Fitzgald[LINE]
+region. It is a wild and somewhat[LINE]
+ferocious creature.[END]
+
+
+//Text $6863
+#WRITE(ptr,$3F10)
+A hardwood tree in the Fitzgald[LINE]
+region that mutated because of lens.[LINE]
+It casts earth spells.[END]
+
+
+//Text $68BF
+#WRITE(ptr,$3F14)
+Rebel soldier who attacked Heidelberg[LINE]
+Castle. Regular troops have joined the[LINE]
+rebels, and are well organized[END]
+
+
+//Text $692B
+#WRITE(ptr,$3F18)
+A flying squid using light spells.[LINE]
+He can bind enemies with his arms.[END]
+
+
+//Text $6971
+#WRITE(ptr,$3F1C)
+Using items in his presence is fatal,[LINE]
+he hates to bring them into fights.[LINE]
+But you're here for the challenge![END]
+
+
+//Text $69DE
+#WRITE(ptr,$3F20)
+A creature that "seems" to be a[LINE]
+fusion of Cave Sharks. Each part acts[LINE]
+on its own. It can create cave sharks.[END]
+
+
+//Text $6A4B
+#WRITE(ptr,$3F24)
+A creature that acts independently[LINE]
+from the Cave Queen. It can easily[LINE]
+swallow humans.[END]
+
+
+//Text $6AA1
+#WRITE(ptr,$3F28)
+Swells on the shoulders of Cave[LINE]
+Queen's main body. Casts spells,[LINE]
+but is weak to spells.[END]
+
+
+//Text $6AF9
+#WRITE(ptr,$3F2C)
+A vulture living in the desert.[LINE]
+He roasts lost travelers with his[LINE]
+signature fireball.[END]
+
+
+//Text $6B4F
+#WRITE(ptr,$3F30)
+A high-ranking priestess[LINE]
+serving in the Calvalese temple.[LINE]
+She uses advanced spells.[END]
+
+
+//Text $6BA3
+#WRITE(ptr,$3F34)
+A high-ranking priest serving in the[LINE]
+Calvalese temple. He is physically and[LINE]
+mentally trained.[END]
+
+
+//Text $6C01
+#WRITE(ptr,$3F38)
+A battle-type Crystal.[LINE]
+It can use earth spells and summon[LINE]
+two types of golems.[END]
+
+
+//Text $6C50
+#WRITE(ptr,$3F3C)
+An enhanced golem with improved[LINE]
+stats and attack pattern.[END]
+
+
+//Text $6C8A
+#WRITE(ptr,$3F40)
+A creature summoned by Baruk.[LINE]
+It flies fast and self-destructs[LINE]
+at low HP, so be careful.[END]
+
+
+//Text $6CE3
+#WRITE(ptr,$3F44)
+A strange, large-mouthed creature[LINE]
+that lurks in caves.[END]
+
+
+//Text $6D1A
+#WRITE(ptr,$3F48)
+A slime that paralyzes when touched.[LINE]
+Resists physical attacks and splits[LINE]
+in a pinch.[END]
+
+
+//Text $6D6F
+#WRITE(ptr,$3F4C)
+A mushroom that grows in caves.[LINE]
+Its spores will paralyze you.[LINE]
+Casts spells when you move away.[END]
+
+
+//Text $6DCE
+#WRITE(ptr,$3F50)
+A mercenary Moreau hired.[LINE]
+He specializes in assassinating those[LINE]
+he paralyzed with his knives.[END]
+
+
+//Text $6E2C
+#WRITE(ptr,$3F54)
+A guard dog of Moreau Castle.[LINE]
+He has high evasion. His shockwave[LINE]
+blast always paralyzes.[END]
+
+
+//Text $6E85
+#WRITE(ptr,$3F58)
+An insect with hard scales. It casts[LINE]
+wind spells and breathes poisonous[LINE]
+fire.[END]
+
+
+//Text $6ED3
+#WRITE(ptr,$3F5C)
+Descended from a dragon with a[LINE]
+strong body. He can use both[LINE]
+Fire Breath and Fire Ball.[END]
+
+
+//Text $6F2A
+#WRITE(ptr,$3F60)
+It poisons its foes and eats them.[LINE]
+It spreads its fins wide and jumps[LINE]
+while spinning.[END]
+
+
+//Text $6F80
+#WRITE(ptr,$3F64)
+A soldier of Tokei Castle.[LINE]
+Uses his three-pronged thrust[LINE]
+in a pinch.[END]
+
+
+//Text $6FC5
+#WRITE(ptr,$3F68)
+Water crystals drifting in the air.[LINE]
+Often appears in cold regions or[LINE]
+locations.[END]
+
+
+//Text $7015
+#WRITE(ptr,$3F6C)
+A bat that lives underground[LINE]
+Heidelberg. It weakens enemies[LINE]
+using hypnotic waves. [END]
+
+
+//Text $7068
+#WRITE(ptr,$3F70)
+A mischievous monkey living in[LINE]
+Aquaveil. However, its rock-throwing[LINE]
+attacks are serious.[END]
+
+
+//Text $70C1
+#WRITE(ptr,$3F74)
+An insect from the depths of[LINE]
+Phandaria's forests. Tries to[LINE]
+keep its distance from others.[END]
+
+
+//Text $711B
+#WRITE(ptr,$3F78)
+A bandit for hire. He will jump to[LINE]
+throw knives that can petrify.[END]
+
+
+//Text $715D
+#WRITE(ptr,$3F7C)
+Casts spells with the Eye of Atamoni's[LINE]
+power. When using [Iron Stance], he'll[LINE]
+have super armor for 4 attacks.[END]
+
+
+//Text $71CB
+#WRITE(ptr,$3F80)
+Remote unit that attacks targets[LINE]
+based on Irene's command. You must[LINE]
+destroy them one by one carefully.[END]
+
+
+//Text $7232
+#WRITE(ptr,$3F84)
+A rabbit that mutated. They became[LINE]
+smarter, and may target specific[LINE]
+people in groups.[END]
+
+
+//Text $7288
+#WRITE(ptr,$3F88)
+Bear gone berserk due to some kind[LINE]
+of influence. Watch out for the arms,[LINE]
+they do a wide range attack![END]
+
+
+//Text $72EE
+#WRITE(ptr,$3F8C)
+A small bird living in the Phandaria[LINE]
+region. Lives and attacks any[LINE]
+enemies as a flock.[END]
+
+
+//Text $7345
+#WRITE(ptr,$3F90)
+A medium-sized bird with a[LINE]
+distinctive crest. Its feathers[LINE]
+may reduce your accuracy.[END]
+
+
+//Text $739A
+#WRITE(ptr,$3F94)
+A dhalia of the Phandaria region.[LINE]
+Its berries have soporific effects.[LINE]
+[Stahn] will not wake if he sleeps...[END]
+
+
+//Text $7404
+#WRITE(ptr,$3F98)
+A cute, fluffy creature.[LINE]
+Printed on its pouch are [Fate],[LINE]
+[Rebirth] and [Eternity].[END]
+
+
+//Text $7458
+#WRITE(ptr,$3F9C)
+Gentleman Luine is not at all worried about[LINE]
+not hearing much about the rumored guardian[LINE]
+of the bream called Mentai.[END]
+
+
+//Text $74CC
+#WRITE(ptr,$3FA0)
+Gentleman Lester prides himself on never[LINE]
+being extremely frustrated with the strange[LINE]
+rebirth of the Seaweed Turtle.[END]
+
+
+//Text $7540
+#WRITE(ptr,$3FA4)
+Gentleman Rhambling seems to secretly[LINE]
+dream that someday he will not have a[LINE]
+weakness on the soles of his feet.[END]
+
+
+//Text $75AF
+#WRITE(ptr,$3FA8)
+Gentleman Valens travels to the neighborhood[LINE]
+of a stubborn friend who refuses[LINE]
+to make the legendary ito-saw.[END]
+
+
+//Text $761C
+#WRITE(ptr,$3FAC)
+A monster modified with Oberon's[LINE]
+technology. Became unstable due[LINE]
+to its excessive reinforcement.[END]
+
+
+//Text $767D
+#WRITE(ptr,$3FB0)
+A pesky starfish that runs around.[LINE]
+Has dark attributes.[END]
+
+
+//Text $76B5
+#WRITE(ptr,$3FB4)
+Blue roppers self-destructs with[LINE]
+low HP. Try to move when they're[LINE]
+about to explode.[END]
+
+
+//Text $7709
+#WRITE(ptr,$3FB8)
+A monster with water and[LINE]
+fire attributes. The tail attack[LINE]
+is a down attack![END]
+
+
+//Text $7755
+#WRITE(ptr,$3FBC)
+Armored warrior protecting the R Key.[LINE]
+Wields a sword for each element and[LINE]
+performs elemental skills.[END]
+
+
+//Text $77BA
+#WRITE(ptr,$3FC0)
+A statue protecting the temple.[LINE]
+Blasts shatters your guard.[END]
+
+
+//Text $77F6
+#WRITE(ptr,$3FC4)
+A monster with dark[LINE]
+attack attributes. When hit,[LINE]
+greatly reduces its P. Atk.[END]
+
+
+//Text $7843
+#WRITE(ptr,$3FC8)
+Incorporeal foe lurking in the temple.[LINE]
+Casts dark magic, lowers your[LINE]
+defense when hit.[END]
+
+
+//Text $789A
+#WRITE(ptr,$3FCC)
+......[END]
+
+
+//Text $78A1
+#WRITE(ptr,$3FD0)
+Monster that went berserk with[LINE]
+Belcrant's bombardment.[LINE]
+It specializes in earth spells.[END]
+
+
+//Text $78F8
+#WRITE(ptr,$3FD4)
+A monster that went berserk with[LINE]
+Belcrant's bombardment. If stung[LINE]
+by its powerful needle, you're dead.[END]
+
+
+//Text $795F
+#WRITE(ptr,$3FD8)
+Monster that went berserk with[LINE]
+Belcrant's bombardment. Rampages when[LINE]
+HP is low or is the last foe left.[END]
+
+
+//Text $79C7
+#WRITE(ptr,$3FDC)
+Monster that went berserk with[LINE]
+Belcrant's bombardment. Attacks with[LINE]
+its tail and targets the weaker enemies.[END]
+
+
+//Text $7A34
+#WRITE(ptr,$3FE0)
+A deformed monster that roams[LINE]
+Ansoon. Its bodily fluids will[LINE]
+instantly seal you.[END]
+
+
+//Text $7A85
+#WRITE(ptr,$3FE4)
+A 3-head dark snake.[LINE]
+Produces a poisonous liquid[LINE]
+that causes seal if bitten.[END]
+
+
+//Text $7AD2
+#WRITE(ptr,$3FE8)
+They don't usually move around[LINE]
+much but it will suck your blood[LINE]
+and heal, so be careful![END]
+
+
+//Text $7B2B
+#WRITE(ptr,$3FEC)
+A flying squid that adapts to[LINE]
+formation, covering the vanguard[LINE]
+or using spells.[END]
+
+
+//Text $7B7B
+#WRITE(ptr,$3FF0)
+A rampaging white monkey.[LINE]
+Throws fainting stones.[LINE]
+When in rage, it becomes unstopable.[END]
+
+
+//Text $7BD2
+#WRITE(ptr,$3FF4)
+A wild peacock gone berserk.[LINE]
+Since it cannot fly, attacks as soon[LINE]
+as it sees anything flying.[END]
+
+
+//Text $7C30
+#WRITE(ptr,$3FF8)
+Plant that lives in Claudius.[LINE]
+Aggressive and casts wind spells.[LINE]
+When near, it'll jump and trample you.[END]
+
+
+//Text $7C97
+#WRITE(ptr,$3FFC)
+Insect flying around Claudius.[LINE]
+Spits flames. Blasting cloaks[LINE]
+its body in flames.[END]
+
+
+//Text $7CE8
+#WRITE(ptr,$4000)
+A mantis-shaped monster.[LINE]
+When slashed by its blade[LINE]
+your accuracy will drop.[END]
+
+
+//Text $7D34
+#WRITE(ptr,$4004)
+A machine built to banish foreign[LINE]
+enemies. Fires volleys of missiles[LINE]
+that degrade your defense.[END]
+
+
+//Text $7D94
+#WRITE(ptr,$4008)
+The bioweapon that guards Rodion.[LINE]
+It will power up over time, so deal[LINE]
+with it fast![END]
+
+
+//Text $7DE8
+#WRITE(ptr,$400C)
+This bioweapon releases bombs[LINE]
+that reduce attack power.[LINE]
+Launches them in intervals.[END]
+
+
+//Text $7E3C
+#WRITE(ptr,$4010)
+A giant dark tree.[LINE]
+Unleashes a powerful attack[LINE]
+when hit by dark spells.[END]
+
+
+//Text $7E84
+#WRITE(ptr,$4014)
+An immortal shell that wanders[LINE]
+endlessly, attacks low HP targets[LINE]
+like mad.[END]
+
+
+//Text $7ECF
+#WRITE(ptr,$4018)
+Skeleton of a celestial being.[LINE]
+When cornered, they'll become[LINE]
+aggressive.[END]
+
+
+//Text $7F18
+#WRITE(ptr,$401C)
+A violent moth that lived in[LINE]
+the depths of Phandaria.[LINE]
+It spreads paralyzing powders.[END]
+
+
+//Text $7F6D
+#WRITE(ptr,$4020)
+A fast-moving bat that releases[LINE]
+a hypnotic wave. It has attack[LINE]
+power reducing skills.[END]
+
+
+//Text $7FC3
+#WRITE(ptr,$4024)
+A bioweapon specializing in fire[LINE]
+spells. Increases M.Atk over time.[LINE]
+Fire resistance required![END]
+
+
+//Text $8021
+#WRITE(ptr,$4028)
+A biological weapon user of recovery[LINE]
+artes. It can also cast spells.[END]
+
+
+//Text $8066
+#WRITE(ptr,$402C)
+A creature that causes paralysis.[LINE]
+Changes<$10>its pattern according to[LINE]
+distance. Spits acid that decreases P.Def.[END]
+
+
+//Text $80D4
+#WRITE(ptr,$4030)
+Nasty foe that moves quickly to attack[LINE]
+from behind. They do little damage, but[LINE]
+knocks back and are incredibly fast.[END]
+
+
+//Text $8148
+#WRITE(ptr,$4034)
+An aquatic creature that casts[LINE]
+wind spells according to distance.[LINE]
+Its spit has water/wind attributes.[END]
+
+
+//Text $81AE
+#WRITE(ptr,$4038)
+An evolved small bird. With a flap of[LINE]
+its wings, creates small tornadoes to[LINE]
+blow foes away.[END]
+
+
+//Text $820A
+#WRITE(ptr,$403C)
+A snake that causes petrification if[LINE]
+exposed to its fluid and sealing if[LINE]
+bitten.[END]
+
+
+//Text $825B
+#WRITE(ptr,$4040)
+A solid scaled basilisk. Attacks[LINE]
+enemies in the air with a spin attack.[END]
+
+
+//Text $82A3
+#WRITE(ptr,$4044)
+Evolved form of Tabby living in the[LINE]
+Aquaveil region. Uses strong attacks[LINE]
+when powered up by [Roar of Rage].[END]
+
+
+//Text $830F
+#WRITE(ptr,$4048)
+A security robot that calls for[LINE]
+backup if it spots you. Defeat[LINE]
+it before you're overwhelmed.[END]
+
+
+//Text $836C
+#WRITE(ptr,$404C)
+An interceptor unit with missiles.[LINE]
+May go berserk and charge after[LINE]
+being guarded.[END]
+
+
+//Text $83BE
+#WRITE(ptr,$4050)
+Oberon employees dressed in the latest[LINE]
+HS, OBHS002. They fixed many weak[LINE]
+points, but it's still vulnerable to rust...[END]
+
+
+//Text $8434
+#WRITE(ptr,$4054)
+Walking support turret.[LINE]
+The [Energy Bullet] released from[LINE]
+its feet will inflict paralysis.[END]
+
+
+//Text $848F
+#WRITE(ptr,$4058)
+A large horned dragon. Spits out[LINE]
+powerful fire breaths. Beware of[LINE]
+counterattacks after guarding.[END]
+
+
+//Text $84F0
+#WRITE(ptr,$405C)
+Mysterious floating mineral. Counter[LINE]
+attacks if you jump to get close.[LINE]
+Uses earth ranged artes.[END]
+
+
+//Text $8550
+#WRITE(ptr,$4060)
+A mobile bioweapon for local defense.[LINE]
+It makes a powerful counterattack[LINE]
+when it breaks.[END]
+
+
+//Text $85A8
+#WRITE(ptr,$4064)
+An aquatic creature that casts fire[LINE]
+spells. Will use stronger magic with[LINE]
+time, so deal with them quickly.[END]
+
+
+//Text $8612
+#WRITE(ptr,$4068)
+A fire elemental bat that petrifies[LINE]
+with its sound waves.[END]
+
+
+//Text $864C
+#WRITE(ptr,$406C)
+A fire bird. Powers up when hit by[LINE]
+fire, increasing its P.Atk dramatically.[END]
+
+
+//Text $8698
+#WRITE(ptr,$4070)
+A crystalline form of gas and light[LINE]
+from Trash Mountain. All attacks have[LINE]
+a 'paralysis' effect. Splits at low HP.[END]
+
+
+//Text $870A
+#WRITE(ptr,$4074)
+A leech that petrifies[LINE]
+with every attack.[END]
+
+
+//Text $8734
+#WRITE(ptr,$4078)
+The embodiment of hatred.[LINE]
+All attacks have a [Seal] effect.[END]
+
+
+//Text $8770
+#WRITE(ptr,$407C)
+Treasure hunter who ventured into[LINE]
+Trash Mountain looking for loot.[LINE]
+All attacks have [Poison] effects.[END]
+
+
+//Text $87D6
+#WRITE(ptr,$4080)
+Security weapon deployed in Dycroft.[LINE]
+Excels at close-range and[LINE]
+provides cover with beams.[END]
+
+
+//Text $8830
+#WRITE(ptr,$4084)
+Bioweapon guarding Dycroft.[LINE]
+Casts mid tier elemental spells.[LINE]
+Best to defeat it first.[END]
+
+
+//Text $8886
+#WRITE(ptr,$4088)
+The latest bomb support bioweapon.[LINE]
+The missiles reduce M.Attack.[END]
+
+
+//Text $88C7
+#WRITE(ptr,$408C)
+Armor haunted by a dark warrior. [LINE]
+Fire, Water, Earth, Wind swords[LINE]
+cause Petrify, Weak, Poison, Sleep.[END]
+
+
+//Text $892D
+#WRITE(ptr,$4090)
+A support mobile turret.[LINE]
+Dangerous in close/long range.[LINE]
+Will also attack enemies in the rear.[END]
+
+
+//Text $898B
+#WRITE(ptr,$4094)
+An explosive with a will.[LINE]
+It sneaks up and explodes.[LINE]
+Don't use artes that it resists.[END]
+
+
+//Text $89E1
+#WRITE(ptr,$4098)
+A nice, but tough guy. He's full of[LINE]
+pride as champion of the arena.[LINE]
+Attack while avoiding his.[END]
+
+
+//Text $8A40
+#WRITE(ptr,$409C)
+He look so much like [Kongman] that no[LINE]
+one can tell them apart![LINE]
+Even I can't see any differences![END]
+
+
+//Text $8A9E
+#WRITE(ptr,$40A0)
+A giant octopus that occupied a[LINE]
+sunken ship. It's fierce, so inflict[LINE]
+status ailments to attack it.[END]
+
+
+//Text $8B01
+#WRITE(ptr,$40A4)
+Once, there was a man known as "Demon[LINE]
+God" who formed the Seven[LINE]
+Generals. However, he was assassinated.[END]
+
+
+//Text $8B69
+#WRITE(ptr,$40A8)
+Abnormally evolved insect, capable of[LINE]
+casting spells. Will attack the party[LINE]
+with strong magic attacks.[END]
+
+
+//Text $8BD0
+#WRITE(ptr,$40AC)
+A humanoid weapon that looks[LINE]
+familiar. Is it my imagination? She[LINE]
+fires an annoying barrage of arrows.[END]
+
+
+//Text $8C36
+#WRITE(ptr,$40B0)
+Part of [Rune] that supplies energy[LINE]
+to other parts and regenerates[LINE]
+them.[END]
+
+
+//Text $8C7F
+#WRITE(ptr,$40B4)
+A part of [Rune] that focuses in[LINE]
+P.Atk. If swallowed, it will chew until[LINE]
+you're digested. Watch your head![END]
+
+
+//Text $8CEA
+#WRITE(ptr,$40B8)
+Part of [Rune] that casts advanced[LINE]
+spells. Interrupt its casting by using[LINE]
+fast-casting spells.[END]
+
+
+//Text $8D49
+#WRITE(ptr,$40BC)
+A monster nesting in the ruins.[LINE]
+Use guard-breaking artes against[LINE]
+him![END]
+
+
+//Text $8D8F
+#WRITE(ptr,$40C0)
+A gel-like object born from water.[LINE]
+Naturally, it has water attacks.[END]
+
+
+//Text $8DD3
+#WRITE(ptr,$40C4)
+These bees toy with their foes.[LINE]
+Defeat them when they are clumped[LINE]
+together.[END]
+
+
+//Text $8E1F
+#WRITE(ptr,$40C8)
+Once this wolf bites,[LINE]
+it's hard to get him off...[END]
+
+
+//Text $8E51
+#WRITE(ptr,$40CC)
+A roper using water spells and dark[LINE]
+attacks. Its behavior changes based[LINE]
+on its remaining HP.[END]
+
+
+//Text $8EAE
+#WRITE(ptr,$40D0)
+A rabbit that works in groups.[LINE]
+Atk rises as their friends die.[END]
+
+
+//Text $8EED
+#WRITE(ptr,$40D4)
+A rampaging bear.[LINE]
+Every strike is dangerous, exploit[LINE]
+its weakness and kill it fast.[END]
+
+
+//Text $8F41
+#WRITE(ptr,$40D8)
+A monster with a deformed head.[LINE]
+The smoke it spits out lingers[LINE]
+and reduces attack power.[END]
+
+
+//Text $8F9A
+#WRITE(ptr,$40DC)
+A dragon that constantly spits fire.[LINE]
+They guard and counterattack.[LINE]
+Don't be hasty![END]
+
+
+//Text $8FED
+#WRITE(ptr,$40E0)
+A pale, red orb of light.[LINE]
+Only weak to light.[END]
+
+
+//Text $901B
+#WRITE(ptr,$40E4)
+A numbing mushroom that grows[LINE]
+in ruins. Use guard-breaking artes![END]
+
+
+//Text $905D
+#WRITE(ptr,$40E8)
+Ancient ember statue fueled by[LINE]
+mineral energy.[LINE]
+Crashes foes in its way.[END]
+
+
+//Text $90A5
+#WRITE(ptr,$40EC)
+A super-starfish.[LINE]
+It speeds behind you and strikes[LINE]
+with a monstrous strength.[END]
+
+
+//Text $90F3
+#WRITE(ptr,$40F0)
+Nasty enemy that will tackle you from[LINE]
+anywhere. Rarely moves on its own.[LINE]
+Uses scythe attacks if too close.[END]
+
+
+//Text $915E
+#WRITE(ptr,$40F4)
+An aquatic creature that spits water[LINE]
+with earth effects. You will be blown[LINE]
+sky high if hit by its water geyser.[END]
+
+
+//Text $91CE
+#WRITE(ptr,$40F8)
+A lizard with hard scales.[LINE]
+It can spin from behind while[LINE]
+smacking its tail.[END]
+
+
+//Text $921A
+#WRITE(ptr,$40FC)
+Bats that nest in ruins.[LINE]
+Targets foes with high HP en masse.[END]
+
+
+//Text $9257
+#WRITE(ptr,$4100)
+A fiery beast living in the ruins.[LINE]
+Attacks with its entire body.[LINE]
+Use guard-breaking artes![END]
+
+
+//Text $92B2
+#WRITE(ptr,$4104)
+A beast revered as sacred.[LINE]
+Its patterns changes with time.[END]
+
+
+//Text $92ED
+#WRITE(ptr,$4108)
+Dark in his right and light in his left.[LINE]
+Weak to light.[LINE]
+Boosts spells based on enemies.[END]
+
+
+//Text $9345
+#WRITE(ptr,$410C)
+This pesky machine keeps calling[LINE]
+its friends. Destroy it with water![END]
+
+
+//Text $938A
+#WRITE(ptr,$4110)
+A fragile security robot.[LINE]
+As its HP drops, its attacks go out[LINE]
+of control...[END]
+
+
+//Text $93D6
+#WRITE(ptr,$4114)
+Envoy from Hell.[LINE]
+Ironically has no resistance to dark![END]
+
+
+//Text $940D
+#WRITE(ptr,$4118)
+A weapon who mastered all spells.[LINE]
+Uses the advanced spell of each[LINE]
+element.[END]
+
+
+//Text $9458
+#WRITE(ptr,$411C)
+Attacks in groups using bombs.[LINE]
+You should defeat them first.[END]
+
+
+//Text $9495
+#WRITE(ptr,$4120)
+A mobile turret used for long[LINE]
+distance support. Its stomp will[LINE]
+ward any melee users.[END]
+
+
+//Text $94EA
+#WRITE(ptr,$4124)
+This annoying monster drops acid[LINE]
+everywhere. Watch where you step.[END]
+
+
+//Text $952D
+#WRITE(ptr,$4128)
+A dangerous man-eating plant.[LINE]
+It will suck you in even if you are[LINE]
+a short distance away.[END]
+
+
+//Text $9586
+#WRITE(ptr,$412C)
+Impregnable weapon that uses various[LINE]
+spells. Changes spells based on the[LINE]
+enemies left.[END]
+
+
+//Text $95DD
+#WRITE(ptr,$4130)
+A pesky enemy that fires from the[LINE]
+rear. Keeps track of your position.[END]
+
+
+//Text $9623
+#WRITE(ptr,$4134)
+A magical malevolent sword.[LINE]
+All attacks have M. Atk reducing[LINE]
+effects.[END]
+
+
+//Text $9669
+#WRITE(ptr,$4138)
+A giant bipedal machine.[LINE]
+Beware of its jumps and stomps,[LINE]
+as they cause massive damage.[END]
+
+
+//Text $96C0
+#WRITE(ptr,$413C)
+A monster nicknamed Doom. Don't get[LINE]
+hit by its explosions. Has exceptional[LINE]
+defense, use guard breaking artes![END]
+
+
+//Text $972E
+#WRITE(ptr,$4140)
+The child of a dragon enchanted[LINE]
+by darkness. It allows him to breathe[LINE]
+fire and water.[LINE]
+[END]
+
+
+//Text $9785
+#WRITE(ptr,$4144)
+A humanoid weapon with tentacles.[LINE]
+Has immense attack power that[LINE]
+increases with low HP.[END]
+
+
+//Text $97DC
+#WRITE(ptr,$4148)
+Monster with demon eyes.[LINE]
+Uses magic that reduces all stats.[END]
+
+
+//Text $9818
+#WRITE(ptr,$414C)
+A jet-black scaled dragon.[LINE]
+Watch out for his break attack[LINE]
+when 1 remains![END]
+
+
+//Text $9862
+#WRITE(ptr,$4150)
+A weapon made with advanced tech.[LINE]
+It will attack from any distance.[END]
+
+
+//Text $98A6
+#WRITE(ptr,$4154)
+A cute, fluffy creature. The pouch on[LINE]
+its belly has [Hero?] inscribed.[END]
+
+
+//Text $98ED
+#WRITE(ptr,$4158)
+This armor resists all attributes[LINE]
+except non-attribute attacks.[END]
+
+
+//Text $992D
+#WRITE(ptr,$415C)
+A rare monster with non-elemental[LINE]
+attacks. Counter it by guarding and[LINE]
+dodging.[END]
+
+
+//Text $997C
+#WRITE(ptr,$4160)
+Sea demon controlling death.[LINE]
+Buries his opponents in one blow...[END]
+
+
+//Text $99BD
+#WRITE(ptr,$4164)
+A deep sea fighter.[LINE]
+He fights fair and square,[LINE]
+targeting the strongest.[END]
+
+
+//Text $9A05
+#WRITE(ptr,$4168)
+Monster of the deep sea.[LINE]
+It spits out water that[LINE]
+inflicts [Seal] condition.[END]
+
+
+//Text $9A51
+#WRITE(ptr,$416C)
+Flying aquatic foe with a hard shell.[LINE]
+Usually passive, but retaliates if[LINE]
+attacked.[END]
+
+
+//Text $9AA4
+#WRITE(ptr,$4170)
+Aetherian's new bioweapon.[LINE]
+Excels in one-on-one close combat.[END]
+
+
+//Text $9AE2
+#WRITE(ptr,$4174)
+Aetherian's new weapon.[LINE]
+Commands many spells.[END]
+
+
+//Text $9B10
+#WRITE(ptr,$4178)
+A creature born of organic matter.[LINE]
+Able to fly(to some extent) and hurt[LINE]
+more than necessary(unknown).[END]
+
+
+//Text $9B76
+#WRITE(ptr,$417C)
+Mysterious giant weapon.[LINE]
+Uses advanced spells at any opening.[END]
+
+
+//Text $9BB4
+#WRITE(ptr,$4180)
+A divine monster that speaks human[LINE]
+language. What is its purpose...[END]
+
+
+//Text $9BF8
+#WRITE(ptr,$4868)
+[Cross_ani]Back [Square_ani]Info [L1_ani][R1_ani]Sort [L3_ani][R3_ani]Switch[END]
+
+
+//Text $9C2C
+#WRITE(ptr,$486C)
+[Cross_ani]Back [Square_ani]Info [L1_ani][R1_ani]Sort[END]
