@@ -8,3 +8,4 @@
 .include "Custom_Code_00013.asm"
 .include "Sound_Test_00054.asm"
 .include "Battle_00016_0000d.asm"
+.include "font_tables.asm"
