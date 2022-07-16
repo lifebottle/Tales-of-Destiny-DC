@@ -10,7 +10,7 @@ where the sword was placed.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The screen seems to be showing
+<TAG_005><CENTER)The screen seems to be showing
 the status of the ship.
 [ENDBLOCK]
 <Stahn>
@@ -33,7 +33,7 @@ Huh?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Oh, you can hear my voice.
+<CENTER>Oh, you can hear my voice.
 Perhaps you have the potential.
 [ENDBLOCK]
 <Stahn>
@@ -42,7 +42,7 @@ Wh-Who's there?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Have I sparked your interest?
+<CENTER>Have I sparked your interest?
 I suggest you come closer, then.
 [ENDBLOCK]
 <Stahn>
@@ -51,7 +51,7 @@ Closer...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Something was shining...
+Was something shining...
 way over there?
 [ENDBLOCK]
 <Stahn>
