@@ -1,5 +1,6 @@
 .ps2
-.open "SLPS_258.42", 0x00100000
+.relativeinclude on
+.open "../SLPS/scripts/code/abcde/SLPS_original/SLPS_258.42", 0x00100000
 .headersize 0xFF000
 
 ; Tables

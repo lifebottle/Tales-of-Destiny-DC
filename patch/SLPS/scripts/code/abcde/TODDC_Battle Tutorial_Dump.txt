@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -173,7 +173,7 @@ By fighting strong foes on a high difficulty, you[END]
 
 //Text $3F440
 #WRITE(ptr,$3A83C)
-will receive a [yelloe]Device Point[/color] Bonus. Experience[END]
+will receive a [yellow]Device Point[/color] Bonus. Experience[END]
 
 
 //Text $3F400
@@ -308,28 +308,27 @@ Building the Blast Gauge[END]
 
 //Text $3EFA8
 #WRITE(ptr,$3A938)
-The [yellow]Blast Gauge[/color] increases in[END]
+The [yellow]Blast Gauge[/color] increases in proportion to [turquoise]longer[END]
 
 
 //Text $3EF58
 #WRITE(ptr,$3A940)
-proportion to [turquoise]longer chains and damage dealt.[/color][END]
+[turquoise]combo and damage dealt[/color]. If you want  to build up[END]
 
 
 //Text $3EF30
 #WRITE(ptr,$3A948)
-If you want to build up the gauge,[END]
+the gauge, increase the combo  with [Circle_ani2] normal[END]
 
 
 //Text $3EF08
 #WRITE(ptr,$3A950)
-increase the chain with [Circle_ani2] normal [END]
+attacks and [Cross_ani2] strong artes.[END]
 
 
 //Text $3EED8
 #WRITE(ptr,$3A958)
-attacks and [Cross_ani2] strong artes.[END]
-
+[END]
 
 //Text $3EEB8
 #WRITE(ptr,$3A968)
@@ -553,27 +552,25 @@ Sleep[END]
 
 //Text $3E770
 #WRITE(ptr,$3AAD8)
-When afflicted with [yellow]Sleep,[/color] you[END]
-
+When afflicted with [yellow]Sleep[/color], you can't act until hit,[END]
 
 //Text $3E740
 #WRITE(ptr,$3AAE0)
-can't act until hit, and you will almost always[END]
+and you will almost always receive a critical hit.[END]
 
 
 //Text $3E718
 #WRITE(ptr,$3AAE8)
-receive a critical hit.[END]
-
+Don't be naive to think you can afford the hit![END]
 
 //Text $3E6E8
 #WRITE(ptr,$3AAF0)
-Don't be naive to think you can afford the hit.[END]
+Also, [Stahn] [red]won't ever wake up[/color] if he's afflicted...[END]
 
 
 //Text $3E6C0
 #WRITE(ptr,$3AAF8)
-[Stahn] [turquoise]won't ever wake up[/color] if he's afflicted...[END]
+[END]
 
 
 //Text $3E6B0
@@ -642,22 +639,22 @@ Paralysis[END]
 
 //Text $3E4B0
 #WRITE(ptr,$3AB74)
-[yellow]Paralysis[/color] has a chance of[END]
+[yellow]Paralysis[/color] has a chance of stunning you when[END]
 
 
 //Text $3E480
 #WRITE(ptr,$3AB7C)
-stunning you when taking any action.[END]
+taking any action. It's annoying, and can easily[END]
 
 
 //Text $3E460
 #WRITE(ptr,$3AB84)
-It's annoying, and can easily[END]
+put you at a disadvantage if you don't heal it.[END]
 
 
 //Text $3E428
 #WRITE(ptr,$3AB8C)
-put you at a disadvantage if you don't heal it.[END]
+[yellow]Items[/color] aren't affected, so use a [yellow]Panacea Bottle[/color][END]
 
 
 //Text $3E3E0
