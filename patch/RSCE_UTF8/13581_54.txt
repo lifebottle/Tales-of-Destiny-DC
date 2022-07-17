@@ -466,8 +466,8 @@ It's locked.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The surface of the well water
-is slightly frozen.
+<TAG_005><center>The surface of the well 
+water is slightly frozen.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -505,14 +505,14 @@ this area. Don't let your guard down.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm confident in
-my swordsmanship.
+I'm confident in my
+swordsmanship. 
 Leave it to me!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 Don't get cocky just because
-you've become my master.
+  you've become my master.
 
 [ENDBLOCK]
 <Stahn>
@@ -521,13 +521,13 @@ You're awful bossy.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Before engaging in a real fight, you 
+ Before engaging in a real fight, you 
 need to learn how to use a Swordian.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you really have to?
-I just stab and slice, right?
+Do I really have to? I just
+stab and slice, right?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -536,37 +536,34 @@ that is not the case with a Swordian.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-First, we have the ability
-to use Crystal Artes. In my
-case, they are fire-based.
+<center>First, we have the ability to use Crystal
+Artes. In my case, they are fire-based.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-They require casting time,
-but are often more powerful
-than Physical Artes.
+<center>They require casting time, but are often
+more powerful than Physical Artes.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Further, the abilities of a
-Swordian can be adjusted
-through the Swordian Device.
+Furthermore, the abilities of a Swordian can
+  be adjusted through the Swordian Device.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It would be quicker to
-explain by actually doing it.
+<center>It would be quicker to explain
+by actually doing it. 
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-The Crystal Artes and the Swordian
+<center>The Crystal Artes and the Swordian
 Device functions available to you
 will grow as you master using me.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Experiment with everything
+<center>Experiment with everything
 to learn more artes.
 [ENDBLOCK]
 <Stahn>
@@ -576,7 +573,7 @@ Got it!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Right now you are still lacking.
+<center>Right now you are still lacking.
 You must remain aware of your
 shortcomings and hone yourself.
 [ENDBLOCK]
@@ -591,7 +588,8 @@ Heheh...
 <Woodrow>
 [ENDBLOCK]
 Sorry, you seemed like you were
-enjoying yourself. Are you ready to go?
+enjoying yourself. Are you ready
+to go?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
