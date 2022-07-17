@@ -72,7 +72,7 @@ Vibrate[END]
 
 //Text $76A7
 #WRITE(ptr,$662C)
-Subs[END]
+Subtitles[END]
 
 
 //Text $76AC
@@ -194,7 +194,7 @@ dummy[END]
 
 //Text $7C21
 #WRITE(ptr,$66F0)
-Change the appearence of the character's[LINE]
+Change the appearance of the characters[LINE]
 in the main menu and status menu.[END]
 
 //Section Customize Description
@@ -258,7 +258,7 @@ for consecutive hits is even higher.[END]
 [Chaos][END]
 
 
-1//Text $7DB2
+//Text $7DB2
 #WRITE(ptr,$672C)
 The worst combat difficulty. Both friend and[LINE]
 foe will get a 4X critical multiplier.[END]
@@ -301,5 +301,5 @@ Focus on Enemies.[END]
 
 //Text $7E59
 #WRITE(ptr,$674C)
-Focus [END]
+Focus on Everyone [END]
 
