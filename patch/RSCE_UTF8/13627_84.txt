@@ -759,9 +759,9 @@ But he's in very poor health.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Stop by the inn for a good night's
+<TAG_005>Stop by the inn for a good night's 
 rest before crossing the border.
- - Janos Lodging Association
+        - Janos Loding Association
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -894,8 +894,8 @@ We're here to help.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-To get to Harmentz, leave from
-the north gate and head northwest.
+To get to Harmentz, leave from the
+north gate and head northwest.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -964,8 +964,8 @@ I wanna talk to her, but...
 Man
 [ENDBLOCK]
 What if I said...
-Here's looking at you, kid.
-No, no, no...
+Here's looking at you,
+kid. No, no, no...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1052,8 +1052,9 @@ I'll find a way...
 [ENDBLOCK]
 Seinegald Soldier
 [ENDBLOCK]
-Halt. You'll need to show us your
-passport if you want to pass through.
+Halt. You'll need to show us
+your passport if you want
+to pass through.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1072,7 +1073,7 @@ What if I forced my way through?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Do you intend to enter
+<center>Do you intend to enter
 Seinegald a wanted man?
 [ENDBLOCK]
 <Stahn>
@@ -1143,11 +1144,11 @@ Yeah, I guess.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-...
+<center>...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-The temple is out of the east gate
+The temple is out the east gate
 and up through the mountain.
 [ENDBLOCK]
 <Mary>
@@ -1167,8 +1168,8 @@ Seinegald Soldier
 [ENDBLOCK]
 Here's your passport.
 [ENDBLOCK]
-It's vital you have it if you
-want to get back into Seinegald.
+It's vital you have it if you want
+to get back into Seinegald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1185,8 +1186,9 @@ We'd like to thank you for your help.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm sure <Atwight> and <Dymlos> have
-tons they want to talk about. Right?
+I'm sure <Atwight> and <Dymlos>
+have tons they want to talk 
+about. Right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
