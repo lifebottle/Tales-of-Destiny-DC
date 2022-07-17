@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -3394,7 +3394,7 @@ Gives 1 CC to each ally.[END]
 //Text $19EFE0
 #WRITE(ptr,$183C70)
 Temporarily raise party's M. ATK.[LINE]
-Effect is enhanced by cooperation.[END]
+Effect is enhanced by comboing.[END]
 
 
 //Text $19EFC8
@@ -14263,7 +14263,7 @@ Can only be acquired by the chosen ones.[END]
 
 //Text $1B4AF8
 #WRITE(ptr,$18FF28)
-[Sign_Shield]Bronze Wear[END]
+[Sign_Shield]Bronze Tunic[END]
 
 
 //Text $1B4AA8
@@ -14274,7 +14274,7 @@ due to lightness and fair protection.[END]
 
 //Text $1B4A90
 #WRITE(ptr,$18FF64)
-[Sign_Shield]Iron Wear[END]
+[Sign_Shield]Iron Tunic[END]
 
 
 //Text $1B4A48
@@ -14285,7 +14285,7 @@ made for combat.[END]
 
 //Text $1B4A30
 #WRITE(ptr,$18FFA0)
-[Sign_Shield]Steel Wear[END]
+[Sign_Shield]Steel Tunic[END]
 
 
 //Text $1B49E0
@@ -14296,7 +14296,7 @@ local militias.[END]
 
 //Text $1B49C8
 #WRITE(ptr,$18FFDC)
-[Sign_Shield]Gold Wear[END]
+[Sign_Shield]Gold Tunic[END]
 
 
 //Text $1B4990
@@ -14307,7 +14307,7 @@ Also known as the "Opulent Wear".[LINE]
 
 //Text $1B4978
 #WRITE(ptr,$190018)
-[Sign_Shield]Mithril Wear[END]
+[Sign_Shield]Mithril Tunic[END]
 
 
 //Text $1B4930
@@ -14318,7 +14318,7 @@ Considered to be a Dwarven work of art.[LINE]
 
 //Text $1B4918
 #WRITE(ptr,$190054)
-[Sign_Shield]Breast Wear[END]
+[Sign_Shield]Breast Tunic[END]
 
 
 //Text $1B48D0
@@ -14329,7 +14329,7 @@ but has rather poor balance.[END]
 
 //Text $1B48B8
 #WRITE(ptr,$190090)
-[Sign_Shield]White Wear[END]
+[Sign_Shield]White Tunic[END]
 
 
 //Text $1B4860
@@ -14340,7 +14340,7 @@ the divine protection of light.[END]
 
 //Text $1B4848
 #WRITE(ptr,$1900CC)
-[Sign_Shield]Knight Wear[END]
+[Sign_Shield]Knight Tunic[END]
 
 
 //Text $1B47F0
@@ -14351,7 +14351,7 @@ made, but is very sturdy.[END]
 
 //Text $1B47D8
 #WRITE(ptr,$190108)
-[Sign_Shield]Battle Wear[END]
+[Sign_Shield]Battle Tunic[END]
 
 
 //Text $1B4780
@@ -14362,7 +14362,7 @@ Sturdy and easy to move in.[END]
 
 //Text $1B4770
 #WRITE(ptr,$190144)
-[Sign_Shield]Rare Wear[END]
+[Sign_Shield]Rare Tunic[END]
 
 
 //Text $1B5880
@@ -14373,7 +14373,7 @@ Extremely valuable.[END]
 
 //Text $1B4758
 #WRITE(ptr,$190180)
-[Sign_Shield]Holy Wear[END]
+[Sign_Shield]Holy Tunic[END]
 
 
 //Text $1B46F0
@@ -14384,7 +14384,7 @@ the life of its wearers.[END]
 
 //Text $1B46D8
 #WRITE(ptr,$1901BC)
-[Sign_Shield]Black Wear[END]
+[Sign_Shield]Black Tunic[END]
 
 
 //Text $1B4678
@@ -14396,7 +14396,7 @@ Said to be imbued with dark powers.[END]
 
 //Text $1B4660
 #WRITE(ptr,$1901F8)
-[Sign_Shield]Gothic Wear[END]
+[Sign_Shield]Gothic Tunic[END]
 
 
 //Text $1B4618
@@ -14408,7 +14408,7 @@ from a bygone era.[END]
 
 //Text $1B4600
 #WRITE(ptr,$190234)
-[Sign_Shield]Dragon Wear[END]
+[Sign_Shield]Dragon Tunic[END]
 
 
 //Text $1B45B0
@@ -14420,7 +14420,7 @@ sharp claws and fiery breath.[END]
 
 //Text $1B4598
 #WRITE(ptr,$190270)
-[Sign_Shield]Grimm Wear[END]
+[Sign_Shield]Grimm Tunic[END]
 
 
 //Text $1B4540
@@ -14476,7 +14476,7 @@ as it makes no rustling sounds.[END]
 
 //Text $1B4378
 #WRITE(ptr,$19039C)
-[Sign_Shield]Myth Wear[END]
+[Sign_Shield]Myth Tunic[END]
 
 
 //Text $1B4318
@@ -15523,7 +15523,7 @@ Decreases the casting time of [Sign_Light] spells.[END]
 
 //Text $1B75C0
 #WRITE(ptr,$191628)
-[Sign_1]Auto Bow[END]
+[Sign_1]Otto Bow[END]
 
 
 //Text $1B7570
@@ -18557,12 +18557,12 @@ Snow Labyrinth[END]
 Setsugekka[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB210
 #WRITE(ptr,$193AB0)
 Snowy Vista[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB200
 #WRITE(ptr,$193AE8)
 Thawing Snow[END]
@@ -20572,11 +20572,13 @@ Well..., it just so happens.[END]
 #WRITE(ptr,$194B20)
 Dragon Nurturer[END]
 
+
 //POINTER #287 @ $194B24 - STRING #287 @ $1BBEC8
 #WRITE(ptr,$194B24)
 Kind dragon's nurturer.[LINE]
 Creates life connections.[LINE]
-In time, a journey.[END][END]
+In time, a journey.[END]
+
 
 //POINTER #288 @ $194B28 - STRING #288 @ $1BBEB0
 #WRITE(ptr,$194B28)

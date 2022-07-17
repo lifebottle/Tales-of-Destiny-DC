@@ -365,7 +365,7 @@ smart, and seen in freak shows.[END]
 //Text $5AB4
 #WRITE(ptr,$3E7C)
 An insect with hard armor.[LINE]
-The scythe has debilitating effects.[LINE]
+His scythe inflict the sleep status.[LINE]
 Vulnerable in the eyes or...[END]
 
 
@@ -415,7 +415,7 @@ It may go berserk...[END]
 #WRITE(ptr,$3E98)
 Oberon researcher, clad in defensive[LINE]
 gear. His handgun has different utilities,[LINE]
-a special one is the sleep gas effect.[END]
+a special one is the weak gas effect.[END]
 
 
 //Text $5DED
