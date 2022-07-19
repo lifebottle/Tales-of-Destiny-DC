@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -10366,8 +10366,8 @@ off enemies for a fixed duration.[END]
 
 //Text $1AF580
 #WRITE(ptr,$18C824)
-Contains evil spirits.[LINE]
-Attracts enemies for a fixed duration.[END]
+Contains evil spirits. Attracts[LINE]
+enemies for a fixed duration.[END]
 
 
 //Text $1AF570
@@ -20091,7 +20091,8 @@ Hot Mama[END]
 #WRITE(ptr,$1949AC)
 With that extraordinary body,[LINE]
 she exudes flexibility and femininity.[LINE]
-..... Damn you, Dalis.[END]
+...Damn you, Dalis.[END]
+
 
 //POINTER #194 @ $1949B0 - STRING #194 @ $1BCF08
 #WRITE(ptr,$1949B0)
