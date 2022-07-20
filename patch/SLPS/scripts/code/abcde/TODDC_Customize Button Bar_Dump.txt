@@ -6,7 +6,7 @@
 #VAR(ptr, CUSTOMPOINTER)
 #CREATEPTR(ptr, "LINEAR", $-3B5980, 32)
 
-#JMP($7560)
+#JMP($67B0)
 //Section Customize Button Bar
 
 //Text $7560
@@ -54,6 +54,7 @@ Auto message[END]
 #WRITE(ptr,$65CC)
 Difficulty[END]
 
+#JMP($7560)
 
 //Text $767F
 #WRITE(ptr,$65E4)
@@ -241,6 +242,7 @@ Damage multiplier changes for friend/foe.[END]
 Higher Difficulty, but increase bonuses[LINE]
 in experience and device points.[END]
 
+#JMP($7B20)
 
 //Text $7D58
 #WRITE(ptr,$6720)
@@ -301,5 +303,136 @@ Focus on Enemies.[END]
 
 //Text $7E59
 #WRITE(ptr,$674C)
-Focus on Everyone [END]
+Focus on Everyone[END]
+
+//Text $7E68
+#WRITE(ptr,$6750)
+[ON][END]
+
+
+
+//Text $7E18
+#WRITE(ptr,$6754)
+Take advantage by performing[LINE]
+the indicated combinations in the battle.[END]
+
+
+
+//Text $7E08
+#WRITE(ptr,$6758)
+[OFF][END]
+
+
+
+//Text $7DD8
+#WRITE(ptr,$675C)
+Turn off Definite Strike display.[END]
+
+
+
+//Text $7EF0
+#WRITE(ptr,$6760)
+Attack[END]
+
+
+
+//Text $7EE8
+#WRITE(ptr,$6764)
+Artes[END]
+
+
+
+//Text $7EE0
+#WRITE(ptr,$6768)
+Guard[END]
+
+
+
+//Text $7ED0
+#WRITE(ptr,$676C)
+Menu[END]
+
+
+
+//Text $7EB8
+#WRITE(ptr,$6770)
+Blast Caliber[END]
+
+
+
+//Text $7EA0
+#WRITE(ptr,$6774)
+Change Target[END]
+
+
+
+//Text $7E88
+#WRITE(ptr,$6778)
+Shortcut 1[END]
+
+
+
+//Text $7E70
+#WRITE(ptr,$677C)
+Shortcut 2[END]
+
+
+
+//Text $7F70
+#WRITE(ptr,$6780)
+Red[END]
+
+
+
+//Text $7F68
+#WRITE(ptr,$6784)
+Green[END]
+
+
+
+//Text $7F60
+#WRITE(ptr,$6788)
+Blue[END]
+
+
+
+//Text $7F58
+#WRITE(ptr,$678C)
+Opacity[END]
+
+
+
+//Text $8010
+#WRITE(ptr,$6790)
+BGM[END]
+
+
+
+//Text $8008
+#WRITE(ptr,$6794)
+SE[END]
+
+
+
+//Text $7FF8
+#WRITE(ptr,$6798)
+Battle Voice[END]
+
+
+
+//Text $7FE8
+#WRITE(ptr,$679C)
+Voice[END]
+
+
+
+//Text $7FD8
+#WRITE(ptr,$67A0)
+Skit[END]
+
+
+
+//Text $7FC8
+#WRITE(ptr,$67A4)
+Movie[END]
 

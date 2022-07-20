@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Nick\Documents\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -29,36 +29,37 @@ Mystery?[LINE]
 
 //Text $48A4
 #WRITE(ptr,$3DB0)
-Hedge Knight of Seinegald.[LINE]
+A Hedge Knight of Seinegald.[LINE]
 Chaltier's Swordian Master. Uses[LINE]
 many sword artes and earth spells.[END]
 
 
 //Text $490C
 #WRITE(ptr,$3DC0)
-Hero of the arena, a champion among[LINE]
-champions. Better be careful![END]
+A champion among champions and the[LINE]
+hero of the arena. If you're not careful,[LINE]
+you'll be in a world of hurt![END]
 
 
 //Text $494E
 #WRITE(ptr,$3DC4)
-Appears upset with her brother playing[LINE]
-in the arena. Beware of unusual feints.[LINE]
+Appears upset with her brother goofing off[LINE]
+in the arena. Beware of her unusual feints.[LINE]
 Her [Turn Over] is dangerous.[END]
 
 
 //Text $49BB
 #WRITE(ptr,$3DC8)
-A master Qigong swordsman,[LINE]
-he uses a powerful attack on low[LINE]
-HP opponents called [Head Cutter].[END]
+A master Qigong swordsman. He will[LINE]
+unleash a devistating attack called [LINE]
+[Head Cutter] when low on HP.[END]
 
 
 //Text $4A1A
 #WRITE(ptr,$3DCC)
-A priest under Greybum's command[LINE]
-Attacks with his claws.[LINE]
-He targets those low on HP.[END]
+A priest under [Greybum]'s command[LINE]
+His quick claw attacks will always[LINE]
+target those low on HP.[END]
 
 
 //Text $4A6F
@@ -303,7 +304,7 @@ with every attack.[END]
 #WRITE(ptr,$3E58)
 A reptile with hard scales.[LINE]
 If you stare at its hidden eye,[LINE]
-it will be agitated.[END]
+you will get paralysed.[END]
 
 
 //Text $57D8
@@ -455,9 +456,9 @@ defeat it as soon as possible![END]
 
 //Text $5FF2
 #WRITE(ptr,$3EB0)
-A robot guarding Deimos. Offers[LINE]
-ranged support with its turrets.[LINE]
-Its shots hurt more when hit at close range.[END]
+A robot guarding Deimos. Offers ranged[LINE]
+support with its turrets. Its shots  hurt [LINE]
+more when hit at close range.[END]
 
 
 //Text $6060
@@ -766,7 +767,7 @@ while spinning.[END]
 
 //Text $6F80
 #WRITE(ptr,$3F64)
-A soldier of Tokei Castle.[LINE]
+A soldier of Terazzi Castle.[LINE]
 Uses his three-pronged thrust[LINE]
 in a pinch.[END]
 
@@ -904,7 +905,7 @@ Has dark attributes.[END]
 
 //Text $76B5
 #WRITE(ptr,$3FB4)
-Blue roppers self-destructs with[LINE]
+Blue ropers self-destructs with[LINE]
 low HP. Try to move when they're[LINE]
 about to explode.[END]
 
@@ -1020,7 +1021,7 @@ as it sees anything flying.[END]
 
 //Text $7C30
 #WRITE(ptr,$3FF8)
-Plant that lives in Claudius.[LINE]
+Plant that lives in Cloudius.[LINE]
 Aggressive and casts wind spells.[LINE]
 When near, it'll jump and trample you.[END]
 
@@ -1048,7 +1049,7 @@ that degrade your defense.[END]
 
 //Text $7D94
 #WRITE(ptr,$4008)
-The bioweapon that guards Rodion.[LINE]
+The bioweapon that guards Rodeon.[LINE]
 It will power up over time, so deal[LINE]
 with it fast![END]
 
@@ -1111,8 +1112,8 @@ artes. It can also cast spells.[END]
 //Text $8066
 #WRITE(ptr,$402C)
 A creature that causes paralysis.[LINE]
-Changes<$10>its pattern according to[LINE]
-distance. Spits acid that decreases P.Def.[END]
+Changes its pattern according to distance[LINE]
+Spits acid that decreases P.Def.[END]
 
 
 //Text $80D4
@@ -1555,8 +1556,8 @@ rear. Keeps track of your position.[END]
 //Text $9623
 #WRITE(ptr,$4134)
 A magical malevolent sword.[LINE]
-All attacks have M. Atk reducing[LINE]
-effects.[END]
+All attacks have M. Atk reducing effects.[LINE]
+[END]
 
 
 //Text $9669
