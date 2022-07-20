@@ -394,37 +394,55 @@
 				"SectionId":	1,
 				"SectionDesc":	"Customize Button Bar",
 				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
-				"TextStart":	"7560",
-				"TextEnd":		"7658",
-				"PointerStart":	"6580",
-				"PointerEnd":	"6598"
-			},
+				"TextStart":	"67B0",
+				"TextEnd":		"68DE",
+				"PointerStart":	"",
+				"PointerEnd":	""
+		}]
+	},
+		{
+		"File":		"../../../DAT_FILES/00053.md1",
+		"PointerHeader":	"3B5980",
+		"BlockDesc":		"Customize Display",
+		"Sections":[
 			{
-				"SectionId":	2,
+				"SectionId":	1,
 				"SectionDesc":	"Customize Display",
 				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
-				"TextStart":	"7659",
-				"TextEnd":		"7715",
-				"PointerStart":	"659C",
-				"PointerEnd":	"66F0"
-			},
+				"TextStart":	"7560",
+				"TextEnd":		"793E",
+				"PointerStart":	"",
+				"PointerEnd":	""
+		}]
+	},
+		{
+		"File":		"../../../DAT_FILES/00053.md1",
+		"PointerHeader":	"3B5980",
+		"BlockDesc":		"Customize Display 2",
+		"Sections":[
 			{
-				"SectionId":	3,
+				"SectionId":	1,
 				"SectionDesc":	"Customize Display 2",
 				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
-				"TextStart":	"7716",
-				"TextEnd":		"7C6B",
-				"PointerStart":	"65A0",
-				"PointerEnd":	"66F4"
-			},
+				"TextStart":	"7B20",
+				"TextEnd":		"7E7E",
+				"PointerStart":	"",
+				"PointerEnd":	""
+		}]
+	},
+		{
+		"File":		"../../../DAT_FILES/00053.md1",
+		"PointerHeader":	"3B5980",
+		"BlockDesc":		"Customize Description",
+		"Sections":[
 			{
-				"SectionId":	4,
+				"SectionId":	1,
 				"SectionDesc":	"Customize Description",
 				"GoogleSheetId":"1L3ZMr1qJGL2noKM67krv5AEGKONhdTaLP9uMCJOluVw",
-				"TextStart":	"7C6C",
-				"TextEnd":		"7E5F",
-				"PointerStart":	"6700",
-				"PointerEnd":	"6750"
+				"TextStart":	"7B20",
+				"TextEnd":		"7E7E",
+				"PointerStart":	"",
+				"PointerEnd":	""
 			}]
 	},
 		{
