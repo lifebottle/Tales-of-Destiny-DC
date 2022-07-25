@@ -1144,7 +1144,7 @@ Mmmh, which should I pick?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-The standard matcha flavor, or the
+The standard mocha flavor, or the
 limited cherry? Which one should I
 choose...? Oh dear...
 [ENDBLOCK]
@@ -1212,8 +1212,9 @@ Nah, I'm good.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Oh my, these are your companions?
-You're both so cute.
+Oh my, these are your
+companions? You're 
+both so cute.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1363,8 +1364,9 @@ Hey... You can't say that!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You shouldn't judge someone
-because of where they're from!
+You shouldn't judge
+someone because of
+where they're from!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1396,7 +1398,8 @@ Who, m-me?
 <Kongman>
 [ENDBLOCK]
 My heart! It races!
-You're exactly my type!
+You're exactly my
+type!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1410,7 +1413,7 @@ do squats together!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Well, well. Some pickup
+<center>Well, well. Some pickup
 artist this fellow is.
 [ENDBLOCK]
 <Atwight>
@@ -1454,7 +1457,7 @@ Why do we have to duel!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>, you don't have to play along.
+<center><Stahn>, you don't have to play along.
 We don't have time for games.
 [ENDBLOCK]
 <Kongman>
@@ -1479,17 +1482,18 @@ much to you, I'll do it!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-I'll make you regret insulting me.
+<center>I'll make you regret insulting me.
 <Stahn>, let's give him hell!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, please be sure to watch.
-Afterwards, we will toast my victory!
+<Philia>, please be sure to
+watch. Afterwards, we will
+toast my victory!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Dymlos>... If you won't stop him,
+<center><Dymlos>... If you won't stop him,
 what are we going to do?
 [ENDBLOCK]
 <Dymlos>
@@ -1504,7 +1508,8 @@ It doesn't bother me.
 <Philia>
 [ENDBLOCK]
 I'm sorry, <Stahn>.
-Because of me, you...
+Because of me,
+you...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1524,8 +1529,8 @@ an entrance at the end.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thank you.
-I'll head there now.
+Thank you. I'll head
+there now.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1563,7 +1568,7 @@ want anything.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Master <Lion>, don't be shy.
+<center>Master <Lion>, don't be shy.
 You wanted to come here.
 [ENDBLOCK]
 <Lion>
@@ -1589,7 +1594,7 @@ A-A monster...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Master <Lion>, we need
+<center>Master <Lion>, we need
 to help her!
 [ENDBLOCK]
 <Lion>
