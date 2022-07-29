@@ -11,17 +11,17 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <center>The mysterious barrier
 has been disabled.
 [ENDBLOCK]
-The hallway has been blocked
+<center>The hallway has been blocked
 by a mysterious barrier.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>A mysterious barrier is
+<TAG_007><center>A mysterious barrier is
 blocking the hallway.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>There seems to be some kind of
+<TAG_007><center>There seems to be some kind of
 trick in the placement of the flames.
 [ENDBLOCK]
 Notice
