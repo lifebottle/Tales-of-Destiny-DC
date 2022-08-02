@@ -3466,7 +3466,7 @@ FFFFFFFF .open ""C:\\Users\\Scott\\Documents\\GitHub\\Tales-of-Destiny-DC\\patch
 004B9C64 table_60b:                                                   ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2831
 004B9C64 .halfword 0x0000                                             ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2832
 004B9C66 .byte 0x20                                                   ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2833
-004B9C67 .byte 0x02                                                   ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2834
+004B9C67 .byte 0x01                                                   ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2834
 004B9C68 .word 0x004B9C6C                                             ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2835
 004B9C6C table_60b_1:                                                 ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2836
 004B9C6C .halfword 0x0000                                             ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Battle_Subs_Text.asm line 2837
