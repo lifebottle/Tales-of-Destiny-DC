@@ -253,23 +253,28 @@ Criticals Hurt![END]
 
 //Text $3F1B8
 #WRITE(ptr,$3A8D0)
-High CRT sometimes results in [yellow]critical hits[/color].
+High CRT sometimes results in [yellow]critical hits[/color].[END]
+
 
 //Text $3F178
 #WRITE(ptr,$3A8D8)
-They deal [turquoise]twice[/color] the damage and also [turquoise]stun[/color].
+They deal [turquoise]twice[/color] the damage and also [turquoise]stun[/color].[END]
+
 
 //Text $3F148
 #WRITE(ptr,$3A8E0)
-You also [turquoise]recover 2CC[/color], allowing you to chain
+You also [turquoise]recover 2CC[/color], allowing you to chain[END]
+
 
 //Text $3F128
 #WRITE(ptr,$3A8E8)
-more artes! You can avoid critical hits by 
+more artes! You can avoid critical hits by[END]
+
 
 //Text $3F0F8
 #WRITE(ptr,$3A8F0)
-increasing your EVA.
+increasing your EVA.[END]
+
 
 //Text $3F0E0
 #WRITE(ptr,$3A900)
@@ -283,22 +288,22 @@ The Blast Gauge rises with attacks, damage, etc.[END]
 
 //Text $3F078
 #WRITE(ptr,$3A90C)
-[turquoise]The character will glow blue[/color] when the[END]
+[turquoise]The character will glow blue[/color] when the gauge is[END]
 
 
 //Text $3F058
 #WRITE(ptr,$3A914)
-gauge is full. Press [L1_Press2] while attacking[END]
+full. Press [L1_Press2] while attacking to use your Blast[END]
 
 
 //Text $3F030
 #WRITE(ptr,$3A91C)
-to use your Blast Caliber![END]
+Caliber! Use it in a pinch or to sring attacks[END]
 
 
 //Text $3EFF8
 #WRITE(ptr,$3A924)
-Use it in a pinch or to string attacks together![END]
+together![END]
 
 
 //Text $3EFD8
@@ -372,17 +377,17 @@ Changing Characters[END]
 
 //Text $3ED58
 #WRITE(ptr,$3A9A0)
-The main character is [Stahn],[END]
+The main character is [Stahn], but [turquoise]any party member[END]
 
 
 //Text $3ED18
 #WRITE(ptr,$3A9A8)
-but [turquoise]any party member in combat[/color] can be controlled.[END]
+in combat[/color] can be controlled. In the party menu, sort[END]
 
 
 //Text $3ECE8
 #WRITE(ptr,$3A9B0)
-In the party menu, sort with [Triangle_ani] and bring[END]
+with [Triangle_ani] and bring the character you want to control[END]
 
 
 //Text $3ECB8
@@ -392,12 +397,12 @@ the character you want to control to the top.[END]
 
 //Text $3EC80
 #WRITE(ptr,$3A9C0)
-Swap characters in combat with [L1_Press2] in the [Triangle_ani] Menu.[END]
+to the top. Swap characters in combat with [L1_Press2] in the[END]
 
 
 //Text $3EC60
 #WRITE(ptr,$3A9C8)
-You may find new combat skills.[END]
+[Triangle_ani] Menu. You may find new combat skills.[END]
 
 
 //Text $3EC48
@@ -585,17 +590,17 @@ Poison[END]
 
 //Text $3E668
 #WRITE(ptr,$3AB14)
-Equip [yellow]Gems[/color] to prevent poison, so either [END]
+The best way to prevent poison is to[END]
 
 
 //Text $3E640
 #WRITE(ptr,$3AB1C)
-Rerise gem materials or buy some in town.[END]
+Equip [yellow]Gems[/color]. Rerise gem material or[END]
 
 
 //Text $3E610
 #WRITE(ptr,$3AB24)
-[END]
+buy some in town.[END]
 
 
 //Text $3E5E0
@@ -659,7 +664,7 @@ put you at a disadvantage if you don't heal it.[END]
 
 //Text $3E3E0
 #WRITE(ptr,$3AB94)
-[yellow]Items[/color] aren't affected, so use [yellow]a Panacea Bottle.[/color][END]
+[END]
 
 
 //Text $3E3D0

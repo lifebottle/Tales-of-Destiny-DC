@@ -10838,7 +10838,7 @@ A support item for mixing.[END]
 //Text $1AE848
 #WRITE(ptr,$18CCF4)
 A spice that is sometimes used[LINE]
-to preserve meat and fish.[LINE]
+in preservation of meat and fish.[LINE]
 A support item for mixing.[END]
 
 
@@ -11058,8 +11058,8 @@ Let's cash it in![LINE]
 
 //Text $1AE168
 #WRITE(ptr,$18CF08)
-Shoot! no luck this time.[LINE]
-Make sure to recycle it properly.[LINE]
+Shoot! no luck this time. Make[LINE]
+sure to recycle it properly.[LINE]
 [END]
 
 
@@ -11182,9 +11182,9 @@ Only those who know "robes" can answer.[END]
 
 //Text $1ADCE0
 #WRITE(ptr,$18D03C)
-A Sunfish...The more of[LINE]
-these you have, the stronger[LINE]
-Lilith's Sunfish Screech gets![END]
+A Sunfish...The more of these[LINE]
+you have, the stronger Lilith's[LINE]
+Sunfish Screech gets![END]
 
 
 //Text $1ADCC8
@@ -14692,9 +14692,9 @@ enemies from approaching.[END]
 
 //Text $1B3C50
 #WRITE(ptr,$190814)
-Cloak made for a Grand[LINE]
-Priest. Dyed with his[LINE]
-beloved Elderberries.[END]
+A cloak named after a grand[LINE]
+priest, dyed with the flowers[LINE[
+of his beloved elderberries.[END]
 
 //Text $1B3C38
 #WRITE(ptr,$19084C)
@@ -15017,9 +15017,9 @@ who become disciples of God.[END]
 
 //Text $1B3188
 #WRITE(ptr,$190EE0)
-Robe made for a Grand[LINE]
-Priest. Dyed with his[LINE]
-beloved Elderberries.[END]
+A robe named after a grand[LINE]
+priest, dyed with the flowers[LINE]
+of his beloved elderberries.[END]
 
 //Text $1B3170
 #WRITE(ptr,$190F18)
@@ -17547,8 +17547,8 @@ Supreme Dark Bowl[END]
 //Text $1BAF80
 #WRITE(ptr,$192718)
 Maps are essential for travelers.[LINE]
-While on the field, press[LINE]
-[R3_ani] to activate it.[END]
+While on the field, press [R3_ani] to[LINE]
+activate it.[END]
 
 
 //Text $1BAF68
@@ -17582,9 +17582,9 @@ foods we've eaten.[LINE]
 
 //Text $1BAE70
 #WRITE(ptr,$19276C)
-An encyclopedia of all the things[LINE]
-you found in the world.[LINE]
-A record of our encounters while traveling.[END]
+An encyclopedia of all the things you found in[LINE]
+the world. A record of our encounters while[LINE]
+traveling.[END]
 
 
 //Text $1BAE58
@@ -18537,6 +18537,7 @@ Beautiful Spring[END]
 Emergency Exit[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB230
 #WRITE(ptr,$1939D0)
 Emergency Exit[END]
@@ -18557,7 +18558,6 @@ Snow Labyrinth[END]
 Setsugekka[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB210
 #WRITE(ptr,$193AB0)
 Snowy Vista[END]
