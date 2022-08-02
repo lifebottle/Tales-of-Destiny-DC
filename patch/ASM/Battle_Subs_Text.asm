@@ -2830,8 +2830,8 @@ Table_60a_1:
 
 Table_60b:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
-    .byte 0x2               ; 1 lines
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
     .word Table_60b_1       
 Table_60b_1:
     .halfword 0x0           ; start 
