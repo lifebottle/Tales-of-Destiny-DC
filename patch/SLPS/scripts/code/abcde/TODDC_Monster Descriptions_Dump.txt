@@ -595,8 +595,8 @@ Never misses a target.[END]
 
 //Text $66D7
 #WRITE(ptr,$3F00)
-His attacks and spells hurt![LINE]
-Best equip light and dark resistance.[LINE]
+His attacks and spells hurt! Best[LINE]
+equip light and dark resistance.[LINE]
 Focus on stopping his spells.[END]
 
 
