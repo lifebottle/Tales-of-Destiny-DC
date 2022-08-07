@@ -674,27 +674,27 @@ Seal[END]
 
 //Text $3E3A8
 #WRITE(ptr,$3ABA8)
-If afflicted with [yellow]Seal,[/color] you[END]
+If afflicted with [yellow]Seal,[/color] you won't be[END]
 
 
 //Text $3E380
 #WRITE(ptr,$3ABB0)
-won't be able to use any artes. It's no[END]
+able to use any artes. It's no fun using only[END]
 
 
 //Text $3E350
 #WRITE(ptr,$3ABB8)
-fun using only normal attacks, so cure it fast.[END]
+normal attacks, so cure it fast. It can be [END]
 
 
 //Text $3E320
 #WRITE(ptr,$3ABC0)
-It can be inflicted on foes to prevent their[END]
+inflicted on foes to prevent their Blast arte,[END]
 
 
 //Text $3E2F0
 #WRITE(ptr,$3ABC8)
-Blast arte, so use it on foes vulnerable to it.[END]
+so use it on foes vulnerable to it.[END]
 
 
 //Text $3E2D8

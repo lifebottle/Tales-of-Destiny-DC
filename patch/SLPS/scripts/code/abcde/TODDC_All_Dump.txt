@@ -10714,7 +10714,8 @@ A support item for cultivation.[END]
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
 Seeds for masters.[LINE]
-A support item for cultivation.[END]
+A support item for[LINE]
+cultivation.[END]
 
 
 //Text $1AEC50
@@ -11436,7 +11437,7 @@ slows CC recovery.[END]
 #WRITE(ptr,$18D288)
 Rerise into a gem that prevents[LINE]
 [Paralyze], a status ailment that[LINE]
-paralyzes you when you take an action.[END]
+paralyzes you when you take action.[END]
 
 
 //Text $1AD500
@@ -11650,8 +11651,8 @@ increases CC by 1 with [Square_ani2]＋[Down_blink].[LINE]
 
 //Text $1ACD50
 #WRITE(ptr,$18D480)
-Rerise into a gem that allows[LINE]
-you to avoid damage for a short[LINE]
+Rerise into a gem that allows you[LINE]
+to avoid damage for a short[LINE]
 time with [Square_ani2]＋[Down_blink].[END]
 
 
@@ -13174,8 +13175,8 @@ A small bow made for assassins.[LINE]
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
 A small bow with an arch that resembles[LINE]
-a hawk's claw. It is said to be able to shoot[LINE]
-birds flying high in the sky.[END]
+a hawk's claw. It is said to be able to[LINE]
+shoot birds flying high in the sky.[END]
 
 
 //Text $1B1A18
@@ -14189,9 +14190,9 @@ of mind to never be disheartened.[END]
 
 //Text $1B4D80
 #WRITE(ptr,$18FD88)
-Breastplate decorated with[LINE]
-platinum. Not only expensive and[LINE]
-beautiful, but also very functional.[END]
+Breastplate decorated with platinum.[LINE]
+Not only expensive and beautiful[LINE]
+but also very functional.[END]
 
 //Text $1B4D68
 #WRITE(ptr,$18FDC0)
@@ -16759,8 +16760,8 @@ the melted cheese solidified.[END]
 //Text $1B8550
 #WRITE(ptr,$19266C)
 Strap with a Half-baked Kebab.[LINE]
-Please, cook meat properly.[LINE]
-So that you won't hurt your stomach....[END]
+Please, cook meat properly. So[LINE]
+you won't hurt your stomach....[END]
 
 
 //Text $1B8518
@@ -16770,9 +16771,9 @@ So that you won't hurt your stomach....[END]
 
 //Text $1B84B8
 #WRITE(ptr,$19269C)
-Strap with a Dark Bowl.[LINE]
-Dreaded Bowl filled with mystery ingredients.[LINE]
-Some days it's good, some days it's bad.[END]
+Strap with a Dark Bowl. Dreaded Bowl[LINE]
+filled with mystery ingredients. Some[LINE]
+days it's good, some days it's bad.[END]
 
 
 //Text $1B8480
@@ -17738,9 +17739,9 @@ are pointed like a beak.[END]
 
 //Text $1BA968
 #WRITE(ptr,$1928D8)
-A trumpet made out of animal horns.[LINE]
-Use it near the sea to call the Leviathan.[LINE]
-[END]
+A trumpet made out of animal[LINE]
+horns. Use it near the sea to[LINE]
+call the Leviathan.[END]
 
 
 //Text $1BA958
@@ -17822,8 +17823,8 @@ a door in Helraios.[LINE]
 
 //Text $1BA748
 #WRITE(ptr,$19299C)
-A device to neutralize the[LINE]
-Mirror Shield.[LINE]
+A device to neutralize[LINE]
+the Mirror Shield.[LINE]
 [END]
 
 
@@ -17942,9 +17943,9 @@ This is the common type of lens.[LINE]
 
 //Text $1BA3B0
 #WRITE(ptr,$192AB4)
-A rare, dark blue lens.[LINE]
-Sometimes used to decorate[LINE]
-valuable furniture.[END]
+A rare, dark blue lens. Sometimes[LINE]
+used to decorate valueable furniture.[LINE]
+[END]
 
 
 //Text $1BA3A0
@@ -17954,8 +17955,8 @@ valuable furniture.[END]
 
 //Text $1BA360
 #WRITE(ptr,$192AD0)
-A very durable lens.[LINE]
-It is used in military armor.[LINE]
+A very durable lens. It is[LINE]
+used in military armor.[LINE]
 [END]
 
 
@@ -18003,9 +18004,9 @@ I feel a mysterious power...[LINE]
 
 //Text $1BA270
 #WRITE(ptr,$192B40)
-A tablet with some kind of[LINE]
-emblem on it.[LINE]
-I feel a mysterious power...[LINE]
+A tablet with some kind[LINE]
+of emblem on it. I feel a [LINE]
+mysterious power...[LINE]
 [END]
 
 
@@ -18537,12 +18538,12 @@ Beautiful Spring[END]
 Emergency Exit[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB230
 #WRITE(ptr,$1939D0)
 Emergency Exit[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB228
 #WRITE(ptr,$193A08)
 Mealy Primrose[END]
