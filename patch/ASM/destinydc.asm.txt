@@ -1,5 +1,5 @@
 ﻿; 10 files included
-; 4860 lines
+; 4861 lines
 ; 612 labels
 ; 55 equations
 
@@ -218,8 +218,8 @@ FFFFFFFF .open ""C:\\Users\\Scott\\Documents\\GitHub\\Tales-of-Destiny-DC\\patch
 003CC24C .byte 0x80,0x7F,0x81,0x82,0x90,0x29,0x7D,0x1B,0x0A,0x56      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 36
 003CC256 .byte 0xB6,0x98,0x79,0x42,0xA2,0xDD,0x65,0x64,0x5A,0xBA      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 37
 003CC260 .byte 0x11,0xD6,0xB8,0xEE,0xE5,0xB2,0x46,0x0F,0x07,0x9E      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 38
-003CC26A .byte 0x93,0x94,0x08,0x55,0x58,0xDF,0x31,0x04,0x8B,0x83      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 39
-003CC274 .byte 0x09,0x6F,0xF2,0xE8,0x9D,0x30,0x86,0xE3,0x05,0xDE      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 40
+003CC26A .byte 0x93,0x94,0x08,0x55,0xDF,0x31,0x04,0x8B,0x83,0x09      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 39
+003CC274 .byte 0x6F,0xF2,0xE8,0x9D,0x30,0x86,0xE3,0x05,0xDE,0x58      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 40
 003CC27E .byte 0x12,0x35,0x75,0x3B,0x89,0x26,0x92,0xD7,0x3E,0xAC      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 41
 003CC288 .byte 0x7A,0x27,0xCC,0x48,0x6A,0x33,0x22,0x4E,0x02,0x66      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 42
 003CC292 .byte 0xA6,0xEF,0x16,0xBF,0x14,0xEC,0x41,0xCB,0xDC,0xD0      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 43
@@ -230,7 +230,7 @@ FFFFFFFF .open ""C:\\Users\\Scott\\Documents\\GitHub\\Tales-of-Destiny-DC\\patch
 003CC2C4 .byte 0x36,0xC0,0x71,0x47,0x76,0x52,0x0C,0xD1,0xB4,0x5B      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 48
 003CC2CE .byte 0x9C,0xD9,0xE0,0x9F,0xB0,0x3C,0xB5,0x17,0x88,0x43      ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 49
 003CC2D8 .byte 0x5C,0xB9,0xE9,0x1A,0x6D,0x21,0x2B,0x37,0x39           ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 50
-003CC2E1 .close                                                       ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 54
+003CC2E1 .close                                                       ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Monster_Book_00066.asm line 55
 FFFFFFFF .open ""C:\\Users\\Scott\\Documents\\GitHub\\Tales-of-Destiny-DC\\patch\\DAT_FILES_ORIGINAL\\00013.bin"",""C:\\Users\\Scott\\Documents\\GitHub\\Tales-of-Destiny-DC\\patch\\DAT_FILES_PATCHED\\00013.bin"",0x004A36C0; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Custom_Code_00013.asm line 1
 004A36C0 .ps2                                                         ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Custom_Code_00013.asm line 2
 004A36C0 .org 0x004B5000                                              ; C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\ASM\Custom_Code_00013.asm line 4
