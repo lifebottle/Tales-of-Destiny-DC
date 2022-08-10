@@ -868,8 +868,8 @@ For the sake of one…[END]
 
 //Text $19AFE8
 #WRITE(ptr,$180E3C)
-[center]It's true. The more I had to help you,[LINE]
-[center]the more you grew on me.[END]
+It's true. The more I had to help you,[LINE]
+     the more you grew on me.[END]
 
 //Text $19AFD8
 #WRITE(ptr,$180E4C)
@@ -5092,7 +5092,7 @@ BLAST PLUS[END]
 
 //Text $1A22B8
 #WRITE(ptr,$185310)
-May heal [TAG_015]％HP near death[END]
+May heal [TAG_015]％ HP near death[END]
 
 
 //Text $1A22B0
@@ -9532,9 +9532,9 @@ Giant Snowman[END]
 
 //Text $1A8FC8
 #WRITE(ptr,$18C0F4)
-Giant snowman found the morning[LINE]
-after a great blizzard. Theorized to be a[LINE]
-cosmic prank, but no definitive proof exists.[END]
+Giant snowman found the morning after a[LINE]
+great blizzard. Theorized to be a cosmic [LINE]
+prank, but no definitive proof exists.[END]
 
 //Text $1A8F78
 #WRITE(ptr,$18C0F8)
@@ -9642,7 +9642,7 @@ Calviola Viola[END]
 #WRITE(ptr,$18C19C)
 Drought-resistant annual plant found in Calviola.[LINE]
 Short in height with small-sized flowers. In the[LINE]
-language of flowers it means "Please think of me".[END]
+language of flowers it means "Please think of me."[END]
 
 //Text $1A8A08
 #WRITE(ptr,$18C1A0)
@@ -10334,8 +10334,8 @@ during battle.[END]
 //Text $1AF6A8
 #WRITE(ptr,$18C7D0)
 A liquid medicine from Oberon Corp.[LINE]
-Restores 100% of max HP. Not [LINE]
-usable during battle.[END]
+Restores 100% of max HP. Not usable[LINE]
+during battle.[END]
 
 
 //Text $1AF690
@@ -10714,9 +10714,8 @@ A support item for cultivation.[END]
 
 //Text $1AEC60
 #WRITE(ptr,$18CBC0)
-Seeds for masters.[LINE]
-A support item for[LINE]
-cultivation.[END]
+Seeds for masters. A support[LINE]
+item for cultivation.[END]
 
 
 //Text $1AEC50
@@ -10827,8 +10826,8 @@ A support item for mixing. [END]
 
 //Text $1AE8B8
 #WRITE(ptr,$18CCD8)
-Adds flavor to cooking and[LINE]
-helps with digestion.[LINE]
+Adds flavor to cooking[LINE]
+and helps with digestion.[LINE]
 A support item for mixing.[END]
 
 
@@ -10919,8 +10918,8 @@ in gross liquid if touched.[END]
 
 //Text $1AE5B0
 #WRITE(ptr,$18CDB8)
-They say it's ripe when it looks rotten.[LINE]
-Stay away if it stinks.[END]
+They say it's ripe when it looks[LINE]
+rotten. Stay away if it stinks.[END]
 
 
 //Text $1AE5A0
@@ -11086,8 +11085,8 @@ Only those who know "axes" can answer.[END]
 //Text $1AE098
 #WRITE(ptr,$18CF40)
 A mysterious sphere with "II" on it.[LINE]
-Only those who know "short bows" can answer.[END]
-
+Only those who know "short bows"[LINE]
+can answer.[END]
 
 //Text $1AE080
 #WRITE(ptr,$18CF58)
@@ -11108,8 +11107,8 @@ Only those who know "knuckles" can answer.[END]
 //Text $1ADFC0
 #WRITE(ptr,$18CF78)
 A mysterious sphere with "IV" on it.[LINE]
-Only those who know "instruments" can answer.[END]
-
+Only those who know "instruments"[LINE]
+can answer.[END]
 
 //Text $1ADFA8
 #WRITE(ptr,$18CF90)
@@ -11130,8 +11129,8 @@ Only those who know "ladles" can answer.[END]
 //Text $1ADEE8
 #WRITE(ptr,$18CFB0)
 A mysterious sphere with "VI" on it.[LINE]
-Only those who know "armors" can answer.[END]
-
+Only those who know "armors" can[END]
+answer.[END]
 
 //Text $1ADED0
 #WRITE(ptr,$18CFC8)
@@ -13222,9 +13221,9 @@ It is as light as a feather.[LINE]
 
 //Text $1B18A8
 #WRITE(ptr,$18E9D8)
-A small bow in the shape of a crescent moon.[LINE]
-It is said that even the mightiest beasts[LINE]
-are paralyzed by its beauty.[END]
+A small bow in the shape of a crescent[LINE]
+moon. It is said that even the mightiest[LINE]
+beasts are paralyzed by its beauty.[END]
 
 
 //Text $1B1890
@@ -14304,7 +14303,7 @@ local militias.[END]
 //Text $1B4990
 #WRITE(ptr,$18FFE0)
 A man's garment decorated with gold.[LINE]
-Also known as the "Opulent Wear".[LINE]
+Also known as the "Opulent Wear."[LINE]
 [END]
 
 //Text $1B4978
@@ -14695,8 +14694,9 @@ enemies from approaching.[END]
 //Text $1B3C50
 #WRITE(ptr,$190814)
 A cloak named after a grand[LINE]
-priest, dyed with the flowers[LINE[
+priest, dyed with the flowers[LINE]
 of his beloved elderberries.[END]
+
 
 //Text $1B3C38
 #WRITE(ptr,$19084C)
