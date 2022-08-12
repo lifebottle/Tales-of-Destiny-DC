@@ -1838,7 +1838,7 @@ Hurry to Cloudius[END]
 
 //Text $14410
 #WRITE(ptr,$5A28)
-Stop the Guardian Dragon![END]
+Stop the Arco Draconis![END]
 
 
 //Text $143F8
@@ -2822,7 +2822,7 @@ Respite[END]
 
 //Text $13320
 #WRITE(ptr,$5D3C)
-Stop the Guardian Dragon![END]
+Stop the Arco Draconis![END]
 
 
 //Text $13308
