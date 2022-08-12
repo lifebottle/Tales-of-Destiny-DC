@@ -17,7 +17,7 @@
 //Text $3C9F8
 #WRITE(ptr,$3A76C)
 [Circle_ani2]Normal attack[LINE]
-　Use [L+U+R+D] for combo attacks.[END]
+Use [L+U+R+D] for combo attacks.[END]
 
 
 //Text $3C9E0
@@ -53,7 +53,7 @@ You can even link Demon Fang+Demon Fang![END]
 //Text $3C898
 #WRITE(ptr,$3A790)
 [Square_copy]Guard[LINE]
-　Reduce P. ATK and prevent knockback.[END]
+Reduce P. ATK and prevent knockback.[END]
 
 
 //Text $3C878
@@ -64,8 +64,8 @@ You can even link Demon Fang+Demon Fang![END]
 //Text $3C818
 #WRITE(ptr,$3A79C)
 [R1_copy]Targeting[LINE]
-　Check enemy weaknesses and resistances![LINE]
-　Press it briefly to select the nearest target.[LINE]
+Check enemy weaknesses and resistances![LINE]
+Press it briefly to select the nearest target.[LINE]
 [END]
 
 
@@ -77,7 +77,7 @@ You can even link Demon Fang+Demon Fang![END]
 //Text $3C7A8
 #WRITE(ptr,$3A7A8)
 [L1_Press2]Blast Caliber[LINE]
-　Use your Blast Gauge to unleash powerful moves![LINE]
+Use your Blast Gauge to unleash powerful moves![LINE]
 [END]
 
 
@@ -1269,7 +1269,7 @@ The Road to Comboing[END]
 
 //Text $3CF68
 #WRITE(ptr,$3AF84)
-If you [yellow]keep comboing[/color] foes,you can take[END]
+If you [yellow]keep comboing[/color] foes, you can take[END]
 
 
 //Text $3CF40
