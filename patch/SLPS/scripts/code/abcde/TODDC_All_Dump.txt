@@ -1907,8 +1907,8 @@ Unleash accumulated energies in one swift strike.[END]
 
 //Text $1A0F38
 #WRITE(ptr,$182FF0)
-Blasts the enemy with an exploding sword.[LINE]
-[Sign_Wing]: Can be activated midair[END]
+Blasts the enemy with an exploding[LINE]
+sword. [Sign_Wing]: Can be activated midair[END]
 
 
 //Text $1A0F28
@@ -2052,8 +2052,8 @@ pulls in nearby foes.[END]
 
 //Text $1A0C28
 #WRITE(ptr,$183110)
-A combination of Demon Fang[LINE]
-and Tiger Blade.[END]
+A combination of Demon[LINE]
+Fang and Tiger Blade.[END]
 
 
 //Text $1A0C18
@@ -2084,8 +2084,8 @@ force of a charging lion.[END]
 
 //Text $1A0B70
 #WRITE(ptr,$183150)
-Advance while delivering 4[LINE]
-consecutive slashes.[END]
+Advance while delivering[LINE]
+4 consecutive slashes.[END]
 
 
 //Text $1A0B60
@@ -2100,8 +2100,9 @@ consecutive slashes.[END]
 
 //Text $1A0B08
 #WRITE(ptr,$183170)
-Light speed thrusts pierce the enemy.[LINE]
-Has light and shoot attributes.[END]
+Light speed thrusts[LINE] 
+pierce the enemy.[LINE]
+[END]
 
 
 //Text $1A0AF8
@@ -2721,8 +2722,8 @@ Heals HP.[END]
 
 //Text $19FDE8
 #WRITE(ptr,$183710)
-Shoots a powerful shot.[LINE]
-The arrow penetrates one foe.[END]
+Shoots a powerful shot. The[LINE]
+arrow penetrates one foe.[END]
 
 
 //Text $19FDD8
@@ -2849,8 +2850,8 @@ Cut enemies with a barrage of thrusts.[LINE]
 
 //Text $19FBA0
 #WRITE(ptr,$183810)
-A feint with the bow that cuts foes[LINE]
-instantly. May inflict weak.[END]
+A feint with the bow that cuts[LINE]
+foes instantly. May inflict weak.[END]
 
 
 //Text $19FB90
@@ -3185,8 +3186,8 @@ and follows up with a slice.[END]
 
 //Text $19F418
 #WRITE(ptr,$183AB0)
-Shoots a powerful shot.[LINE]
-Her crouching lets her hit short foes.[END]
+Shoots a powerful shot. Her crouching[LINE]
+lets her hit short foes.[END]
 
 
 //Text $19FD90
@@ -4877,7 +4878,7 @@ Resist Slash[END]
 
 //Text $1A2600
 #WRITE(ptr,$185108)
-Resist Blow[END]
+Resist Strike[END]
 
 
 //Text $1A25F0
@@ -7668,7 +7669,7 @@ Slash[END]
 
 //Text $1A5268
 #WRITE(ptr,$187AFC)
-Blow[END]
+Strike[END]
 
 
 //Text $1A5260
@@ -7843,7 +7844,7 @@ Bioweapon[END]
 
 //Text $1A5130
 #WRITE(ptr,$187B88)
-[Sign_Strike]Blow[END]
+[Sign_Strike]Strike[END]
 
 
 //Text $1A5120
@@ -8481,13 +8482,13 @@ The people there live by reusing piles[LINE]
 of industrial waste from long ago.[END]
 
 
-#JMP($1A5EE7)
 //Text $1A6FF0
 #WRITE(ptr,$18A038)
 #WRITE(ptr,$18A460)
 Radisrol[END]
 
 
+#JMP($1A5EE7)
 //Text $1A6FE0
 #WRITE(ptr,$18A03C)
 #WRITE(ptr,$18A464)
@@ -8921,7 +8922,7 @@ Cloudius[END]
 #WRITE(ptr,$18A5F0)
 One of the most important bases of[LINE]
 the aerial cities. There is a control[LINE]
-facility for the Arco Draconis.[END]
+facility for the guardian dragons.[END]
 
 
 //Text $1A7658
@@ -9158,9 +9159,9 @@ The twinkling lights are a sight to behold.[END]
 
 //Text $1AA0E0
 #WRITE(ptr,$18BE90)
-Despite the incident two years ago taking a toll[LINE]
-on even the vegetation around the city, it's said there's[LINE]
-still something precious there that nobody can take away.[END]
+Despite the incident two years ago taking a toll on even[LINE]
+the vegetation around the city, it's said there's still[LINE]
+something precious there that nobody can take away.[END]
 
 //Text $1AA0D0
 #WRITE(ptr,$18BEA4)
@@ -10196,8 +10197,8 @@ Only usable during battle.[END]
 
 //Text $1AFB28
 #WRITE(ptr,$18C680)
-Increase Blast Gauge of one ally.[LINE]
-Only usable during battle.[END]
+Increase Blast Gauge of one[LINE]
+ally. Only usable during battle.[END]
 
 
 //Text $1AFB18
@@ -10356,8 +10357,8 @@ Restores 10% of max HP.[END]
 
 //Text $1AF5E8
 #WRITE(ptr,$18C808)
-Contains holy essence. Wards[LINE]
-off enemies for a fixed duration.[END]
+Contains holy essence. Wards off[LINE]
+enemies for a fixed duration.[END]
 
 
 //Text $1AF5D0
@@ -10388,8 +10389,8 @@ Neutralizes environmental poisons.[END]
 
 //Text $1AF500
 #WRITE(ptr,$18C85C)
-A medicinal herb that increases[LINE]
-vitality by 3.[END]
+A medicinal herb that[LINE]
+increases vitality by 3.[END]
 
 
 //Text $1AF4F0
@@ -10703,8 +10704,8 @@ A support item for cultivation.[END]
 
 //Text $1AECC0
 #WRITE(ptr,$18CBA4)
-Seeds for experts.[LINE]
-A support item for cultivation.[END]
+Seeds for experts. A support[LINE]
+item for cultivation.[END]
 
 
 //Text $1AECA8
@@ -10747,8 +10748,8 @@ A support item for mixing.[END]
 
 //Text $1AEB58
 #WRITE(ptr,$18CC14)
-Round, fleshy fruits formed in a bunch.[LINE]
-A support item for mixing.[END]
+Round, fleshy fruits formed in a[LINE]
+bunch. A support item for mixing.[END]
 
 
 //Text $1AEB48
@@ -10769,8 +10770,8 @@ A support item for mixing.[END]
 
 //Text $1AEAA0
 #WRITE(ptr,$18CC4C)
-Known as a pitaya and is actually a cactus.[LINE]
-A support item for mixing.[END]
+Known as a pitaya and is actually a[LINE]
+cactus. A support item for mixing.[END]
 
 
 //Text $1AEA88
@@ -10791,9 +10792,9 @@ A support item for mixing.[END]
 
 //Text $1AE9E0
 #WRITE(ptr,$18CC84)
-Native to the mountains[LINE]
-and is ripe when amber.[LINE]
-A support item for mixing.[END]
+Native to the mountains and is[LINE]
+ripe when amber. A support[LINE]
+item for mixing.[END]
 
 
 //Text $1AE9D0
@@ -10826,9 +10827,9 @@ A support item for mixing. [END]
 
 //Text $1AE8B8
 #WRITE(ptr,$18CCD8)
-Adds flavor to cooking[LINE]
-and helps with digestion.[LINE]
-A support item for mixing.[END]
+Adds flavor to cooking[ and helpsLINE]
+with digestion. A support item for[LINE]
+mixing.[END]
 
 
 //Text $1AE8A0
@@ -10930,8 +10931,7 @@ rotten. Stay away if it stinks.[END]
 //Text $1AE550
 #WRITE(ptr,$18CDD4)
 Looks like it can be used for meds,[LINE]
-but definitely looks sketchy.[LINE]
-Trash![END]
+but definitely looks sketchy. Trash![END]
 
 
 //Text $1AE540
@@ -10976,9 +10976,9 @@ for each one that you have.[END]
 
 //Text $1AE3D8
 #WRITE(ptr,$18CE44)
-Depending on how many[LINE]
-you have, decreases time between[LINE]
-Support Talents in the EX Dungeon![END]
+Depending on how many you have,[LINE]
+decreases time between Support[LINE]
+Talents in the EX Dungeon![END]
 
 
 //Text $1AE3C0
@@ -11047,8 +11047,8 @@ kind of medicine.[END]
 
 //Text $1AE1B0
 #WRITE(ptr,$18CEEC)
-Lucky! You can get another one.[LINE]
-Let's cash it in![LINE]
+Lucky! You can get another[LINE]
+one. Let's cash it in![LINE]
 [END]
 
 
@@ -11072,8 +11072,8 @@ sure to recycle it properly.[LINE]
 //Text $1AE100
 #WRITE(ptr,$18CF24)
 A mysterious sphere with "I" on it.[LINE]
-Only those who know "axes" can answer.[END]
-
+Only those who know "axes" can[LINE]
+answer.[END]
 
 //Text $1AE0E8
 #WRITE(ptr,$18CF3C)
@@ -11096,8 +11096,8 @@ can answer.[END]
 //Text $1AE028
 #WRITE(ptr,$18CF5C)
 A mysterious sphere with "III" on it.[LINE]
-Only those who know "knuckles" can answer.[END]
-
+Only those who know "knuckles" can[LINE]
+answer.[END]
 
 //Text $1AE010
 #WRITE(ptr,$18CF74)
@@ -11118,8 +11118,8 @@ can answer.[END]
 //Text $1ADF58
 #WRITE(ptr,$18CF94)
 A mysterious sphere with "V" on it.[LINE]
-Only those who know "ladles" can answer.[END]
-
+Only those who know "ladles" can[LINE]
+answer.[END]
 
 //Text $1ADF40
 #WRITE(ptr,$18CFAC)
@@ -11140,8 +11140,8 @@ answer.[END]
 //Text $1ADE78
 #WRITE(ptr,$18CFCC)
 A mysterious sphere with "VII" on it.[LINE]
-Only those who know "plates" can answer.[END]
-
+Only those who know "plates" can[LINE]
+answer.[END]
 
 //Text $1ADE60
 #WRITE(ptr,$18CFE4)
@@ -11162,8 +11162,8 @@ Only those who know "wear" can answer.[END]
 //Text $1ADDA0
 #WRITE(ptr,$18D004)
 A mysterious sphere with "IX" on it.[LINE]
-Only those who know "cloaks" can answer.[END]
-
+Only those who know "cloaks" can[LINE]
+answer.[END]
 
 //Text $1ADD88
 #WRITE(ptr,$18D01C)
@@ -11173,8 +11173,8 @@ Only those who know "cloaks" can answer.[END]
 //Text $1ADD38
 #WRITE(ptr,$18D020)
 A mysterious sphere with "X" on it.[LINE]
-Only those who know "robes" can answer.[END]
-
+Only those who know "robes" can[LINE]
+answer.[END]
 
 //Text $1ADD28
 #WRITE(ptr,$18D038)
@@ -11243,8 +11243,8 @@ I want to see the face of its owner...[LINE]
 
 //Text $1ADB00
 #WRITE(ptr,$18D0C8)
-A wig so long, it could cover any head.[LINE]
-Who should we have wear it?[LINE]
+A wig so long, it could cover any[LINE]
+head. Who should we have wear it?[LINE]
 It looks like it's for a woman.[END]
 
 
@@ -11255,8 +11255,8 @@ It looks like it's for a woman.[END]
 
 //Text $1ADAA8
 #WRITE(ptr,$18D0E4)
-A mischievous black hat.[LINE]
-Do you dare don the Bonbon?[LINE]
+A mischievous black hat. Do[LINE]
+you dare don the Bonbon?[LINE]
 [END]
 
 
@@ -11267,9 +11267,9 @@ Do you dare don the Bonbon?[LINE]
 
 //Text $1ADA40
 #WRITE(ptr,$18D100)
-This doll may not be cute, but it's still lovable.[LINE]
-When you press its tummy, it makes a sound[LINE]
-like a dull thud.[END]
+This doll may not be cute, but it's still[LINE]
+lovable. When you press its tummy, it[LINE]
+makes a sound like a dull thud.[END]
 
 
 //Text $1ADA28
@@ -11280,8 +11280,8 @@ like a dull thud.[END]
 //Text $1AD9E0
 #WRITE(ptr,$18D11C)
 A dangerous doll that spews fire[LINE]
-when you press its tummy.[LINE]
-Urge. To kick! RISING![END]
+when you press its tummy. Urge.[LINE]
+To kick! RISING![END]
 
 
 //Text $1AD9C8
@@ -11291,9 +11291,9 @@ Urge. To kick! RISING![END]
 
 //Text $1AD980
 #WRITE(ptr,$18D138)
-Convenient! Removable! Grows on its own![LINE]
-Created by the one and only Marimo![LINE]
-Harmony![END]
+Convenient! Removable! Grows on its[LINE]
+own! Created by the one and only[LINE]
+Marimo! Harmony![END]
 
 
 //Text $1AD968
@@ -11327,9 +11327,9 @@ you can sell it.[END]
 
 //Text $1AD870
 #WRITE(ptr,$18D18C)
-An unrefined Lens.[LINE]
-It's very rare, so it sells[LINE]
-for a lot of gald.[END]
+An unrefined Lens. It's very[LINE]
+rare, so it sells for a lot of[LINE]
+gald.[END]
 
 
 //Text $1AD860
@@ -11363,9 +11363,9 @@ It sells for a high price.[END]
 
 //Text $1AD768
 #WRITE(ptr,$18D1E0)
-Grass that smells like gold.[LINE]
-Are you really that obsessed with gold?[LINE]
-Sell it for some Gald already![END]
+Grass that smells like gold. Are you[LINE]
+really that obsessed with gold? Sell[LINE]
+it for some Gald already![END]
 
 
 //Text $1AD758
@@ -11376,8 +11376,8 @@ Sell it for some Gald already![END]
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
 A piece of the meteor that sparked[LINE]
-the Aeth'er War......[LINE]
-Bet you could sell it...[END]
+the Aeth'er War...... Bet you could[LINE]
+sell it...[END]
 
 
 //Text $1AD6F8
@@ -11579,9 +11579,8 @@ Rerise into a gem that reduces[LINE]
 
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
-Rerise into a gem that[LINE]
-temporarily increases P. ATK[LINE]
-with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that temporarily[LINE]
+increases P. ATK with with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACFC8
@@ -11591,9 +11590,8 @@ with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACF70
 #WRITE(ptr,$18D3F4)
-Rerise into a gem that[LINE]
-temporarily increases M. ATK[LINE]
-with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that temporarily[LINE]
+increases M. ATK with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACF50
@@ -11603,9 +11601,8 @@ with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACF00
 #WRITE(ptr,$18D410)
-Rerise into a gem that[LINE]
-temporarily increases P. DEF[LINE]
-with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that temporarily[LINE]
+increases P. DEF with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACEE8
@@ -11615,9 +11612,8 @@ with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACE90
 #WRITE(ptr,$18D42C)
-Rerise into a gem that[LINE]
-temporarily increases M. DEF[LINE]
-with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that temporarily[LINE]
+increases M. DEF with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACE78
@@ -11639,8 +11635,8 @@ ailments with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACDC0
 #WRITE(ptr,$18D464)
-Rerise into a gem that[LINE]
-increases CC by 1 with [Square_ani2]＋[Down_blink].[LINE]
+Rerise into a gem that increases[LINE]
+CC by 1 with [Square_ani2]＋[Down_blink].[LINE]
 [END]
 
 
@@ -11652,8 +11648,8 @@ increases CC by 1 with [Square_ani2]＋[Down_blink].[LINE]
 //Text $1ACD50
 #WRITE(ptr,$18D480)
 Rerise into a gem that allows you[LINE]
-to avoid damage for a short[LINE]
-time with [Square_ani2]＋[Down_blink].[END]
+to avoid damage for a short time[LINE]
+with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACD38
@@ -11663,9 +11659,8 @@ time with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACCE8
 #WRITE(ptr,$18D49C)
-Rerise into a gem that[LINE]
-fills up the blast gauge[LINE]
-with [Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that fills up[LINE]
+the blast gauge with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACCD0
@@ -11687,8 +11682,8 @@ with [Square_ani2]＋[Down_blink].[END]
 
 //Text $1ACC18
 #WRITE(ptr,$18D4D4)
-Rerise into a gem that restores[LINE]
-HP with [Square_ani2]＋[Down_blink].[LINE]
+Rerise into a gem that[LINE]
+restores HP with [Square_ani2]＋[Down_blink].[LINE]
 [END]
 
 
@@ -11711,9 +11706,8 @@ an enemy's guard with [Square_ani2]＋[Down_blink].[LINE]
 
 //Text $1ACB30
 #WRITE(ptr,$18D50C)
-Rerise into a gem that will[LINE]
-remove de-buffs with[LINE]
-[Square_ani2]＋[Down_blink].[END]
+Rerise into a gem that removes[LINE]
+de-buffs with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACB18
@@ -11808,8 +11802,7 @@ Rerise into a gem that gives[LINE]
 //Text $1AC870
 #WRITE(ptr,$18D5EC)
 Rerise into a gem that restores[LINE]
-a small amount of HP over[LINE]
-time.[END]
+a small amount of HP over time.[END]
 
 
 //Text $1AC858
@@ -11831,9 +11824,9 @@ HP when you defeat an enemy.[LINE]
 
 //Text $1AC7C0
 #WRITE(ptr,$18D624)
-Rerise into a gem that gives[LINE]
-+2 CC when you defeat an[LINE]
-enemy.[END]
+Rerise into a gem that gives +2[LINE]
+CC when you defeat an enemy.[LINE]
+[END]
 
 
 //Text $1AC7A0
@@ -11892,8 +11885,7 @@ before you receive an attack).[END]
 //Text $1AC590
 #WRITE(ptr,$18D6B0)
 Rerise into a gem that doubles[LINE]
-the experience gained.[LINE]
-However...[END]
+the experience gained. However...[END]
 
 
 //Text $1AC578
@@ -11904,8 +11896,7 @@ However...[END]
 //Text $1AC530
 #WRITE(ptr,$18D6CC)
 Rerise into a gem that doubles[LINE]
-the damage dealt.[LINE]
-However...[END]
+the damage dealt. However...[END]
 
 
 //Section Jewel
@@ -11917,8 +11908,8 @@ However...[END]
 
 //Text $1B09F0
 #WRITE(ptr,$18D708)
-A gem that prevents [Poison],[LINE]
-a status ailment that reduces HP.[LINE]
+A gem that prevents [Poison], a[LINE]
+status ailment that reduces HP.[LINE]
 [END]
 
 
@@ -11981,8 +11972,8 @@ you when you take any action.[LINE]
 
 //Text $1B0888
 #WRITE(ptr,$18D794)
-A gem that prevents [Seal],[LINE]
-a status ailment that prevents[LINE]
+A gem that prevents [Seal], a[LINE]
+status ailment that prevents[LINE]
 the use of artes.[LINE]
 [END]
 
@@ -11994,8 +11985,8 @@ the use of artes.[LINE]
 
 //Text $1B0838
 #WRITE(ptr,$18D7B0)
-A gem that reduces [Sign_Fire][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Fire] damage by half.[LINE]
 [END]
 
 
@@ -12006,8 +11997,8 @@ damage by half.[LINE]
 
 //Text $1B07E8
 #WRITE(ptr,$18D7CC)
-A gem that reduces [Sign_Water][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Water] damage by half.[LINE]
 [END]
 
 
@@ -12018,8 +12009,8 @@ damage by half.[LINE]
 
 //Text $1B0798
 #WRITE(ptr,$18D7E8)
-A gem that reduces [Sign_Earth][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Earth] damage by half.[LINE]
 [END]
 
 
@@ -12030,8 +12021,8 @@ damage by half.[LINE]
 
 //Text $1B0748
 #WRITE(ptr,$18D804)
-A gem that reduces [Sign_Wind][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Wind] damage by half.[LINE]
 [END]
 
 
@@ -12042,8 +12033,8 @@ damage by half.[LINE]
 
 //Text $1B06F8
 #WRITE(ptr,$18D820)
-A gem that reduces [Sign_Light][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Light] damage by half.[LINE]
 [END]
 
 
@@ -12054,8 +12045,8 @@ damage by half.[LINE]
 
 //Text $1B06A8
 #WRITE(ptr,$18D83C)
-A gem that reduces [Sign_Dark][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Dark] damage by half.[LINE]
 [END]
 
 
@@ -12066,8 +12057,8 @@ damage by half.[LINE]
 
 //Text $1B0658
 #WRITE(ptr,$18D858)
-A gem that reduces [Sign_Slash][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Slash] damage by half.[LINE]
 [END]
 
 
@@ -12078,8 +12069,8 @@ damage by half.[LINE]
 
 //Text $1B0608
 #WRITE(ptr,$18D874)
-A gem that reduces [Sign_Strike][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Strike] damage by half.[LINE]
 [END]
 
 
@@ -12090,8 +12081,8 @@ damage by half.[LINE]
 
 //Text $1B05B8
 #WRITE(ptr,$18D890)
-A gem that reduces [Sign_Shot][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Shot] damage by half.[LINE]
 [END]
 
 
@@ -12102,8 +12093,8 @@ damage by half.[LINE]
 
 //Text $1B0568
 #WRITE(ptr,$18D8AC)
-A gem that reduces [Sign_Sonic][LINE]
-damage by half.[LINE]
+A gem that reduces[LINE]
+[Sign_Sonic] damage by half.[LINE]
 [END]
 
 
@@ -12162,8 +12153,8 @@ temporarily increase M. DEF.[LINE]
 
 //Text $1B03E8
 #WRITE(ptr,$18D938)
-During battle, press [Square_ani2]＋[Down_blink] for a high chance[LINE]
-to remove status ailments.[LINE]
+During battle, press [Square_ani2]＋[Down_blink] for a high[LINE]
+chance to remove status ailments.[LINE]
 [END]
 
 
@@ -12174,8 +12165,8 @@ to remove status ailments.[LINE]
 
 //Text $1B03A8
 #WRITE(ptr,$18D954)
-During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-increase CC by 1.[LINE]
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to increase CC by 1.[LINE]
 [END]
 
 
@@ -12198,8 +12189,8 @@ avoid damage for a short time.[LINE]
 
 //Text $1B0318
 #WRITE(ptr,$18D98C)
-During battle, press [Square_ani2]＋[Down_blink] to[LINE]
-fill up the blast gauge.[LINE]
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to fill up the blast gauge.[LINE]
 [END]
 
 
@@ -12222,8 +12213,8 @@ the party's CC except the user's.[LINE]
 
 //Text $1B0288
 #WRITE(ptr,$18D9C4)
-During battle, press [Square_ani2]＋[Down_blink][LINE]
-to restore HP.[LINE]
+During battle, press[LINE]
+ [Square_ani2]＋[Down_blink] to restore HP.[LINE]
 [END]
 
 
@@ -12330,8 +12321,8 @@ of the min and max CC.[LINE]
 
 //Text $1B0090
 #WRITE(ptr,$18DAC0)
-A gem that gives +1 CC[LINE]
-on critical hits.[LINE]
+A gem that gives +1[LINE]
+CC on critical hits.[LINE]
 [END]
 
 
@@ -12342,8 +12333,8 @@ on critical hits.[LINE]
 
 //Text $1B0058
 #WRITE(ptr,$18DADC)
-Restores a small amount of HP[LINE]
-over time.[LINE]
+Restores a small amount[LINE]
+of HP over time.[LINE]
 [END]
 
 
@@ -12426,8 +12417,8 @@ you receive an attack).[END]
 
 //Text $1AFE60
 #WRITE(ptr,$18DBA0)
-A gem that doubles the experience gained.[LINE]
-However...[LINE]
+A gem that doubles the experience[LINE]
+gained. However...[LINE]
 [END]
 
 
@@ -12438,8 +12429,8 @@ However...[LINE]
 
 //Text $1AFE20
 #WRITE(ptr,$18DBBC)
-A gem that doubles damage dealt.[LINE]
-However...[LINE]
+A gem that doubles damage[LINE]
+dealt. However...[LINE]
 [END]
 
 
@@ -12575,9 +12566,9 @@ to impersonate Lilith?[LINE]
 
 //Text $1B2C80
 #WRITE(ptr,$18DD30)
-Swordian of Fire.[LINE]
-Leader of an army.[LINE]
-His full name is Dymlos Timber.[END]
+Swordian of Fire. Leader of an[LINE]
+army. His full name is Dymlos[LINE]
+Timber.[END]
 
 
 //Text $1B2C70
@@ -12587,9 +12578,9 @@ His full name is Dymlos Timber.[END]
 
 //Text $1B2C20
 #WRITE(ptr,$18DD6C)
-Swordian of Water.[LINE]
-Fierce and intelligent woman.[LINE]
-Her full name is Atwight Ecks.[END]
+Swordian of Water. A fierce and[LINE]
+intelligent woman. Her full name[LINE]
+name is Atwight Ecks.[END]
 
 
 //Text $1B2C10
@@ -12599,9 +12590,9 @@ Her full name is Atwight Ecks.[END]
 
 //Text $1B2BC0
 #WRITE(ptr,$18DDA8)
-Swordian of Light.[LINE]
-A wise old man.[LINE]
-His full name is Laville Clemente.[END]
+Swordian of Light. A wise old[LINE]
+man. His full name is Laville[LINE]
+Clemente.[END]
 
 
 //Text $1B2BA8
@@ -12611,9 +12602,9 @@ His full name is Laville Clemente.[END]
 
 //Text $1B2B50
 #WRITE(ptr,$18DDE4)
-Swordian of Wind.[LINE]
-A rational and intelligent man.[LINE]
-His full name is Igtenos Mindarde.[END]
+Swordian of Wind. A rational[LINE]
+and intelligent man. His full [LINE]
+name is Igtenos Mindarde.[END]
 
 
 //Text $1B2B38
@@ -12671,9 +12662,9 @@ A powerful aura can be felt[END]
 
 //Text $1B2940
 #WRITE(ptr,$18DF10)
-A knapped stone axe. Although[LINE]
-obsolete, it's still a human milestone.[END]
-
+A knapped stone axe.[LINE]
+Although obsolete, it's[LINE]
+still a human milestone.[END]
 
 //Text $1B2928
 #WRITE(ptr,$18DF48)
@@ -12706,9 +12697,9 @@ The most common metal.[END]
 
 //Text $1B2840
 #WRITE(ptr,$18DFC4)
-An axe made of steel.[LINE]
-Steel is an alloy formed by[LINE]
-mixing iron with carbon.[END]
+An axe made of steel. Steel is[LINE]
+an alloy formed by mixing iron[LINE]
+with carbon.[END]
 
 
 //Text $1B2828
@@ -12720,7 +12711,7 @@ mixing iron with carbon.[END]
 #WRITE(ptr,$18E000)
 This axe is used for a variety[LINE]
 of tasks. It is very light, with[LINE]
-extraordinary corrosion resistance.[END]
+incredible corrosion resistance.[END]
 
 
 //Text $1B27C0
@@ -12754,9 +12745,9 @@ as the "Luxurious Axe".[END]
 
 //Text $1B26E0
 #WRITE(ptr,$18E0B4)
-An axe forged with mithril.[LINE]
-It is said to be a product of[LINE]
-the Dwarves.[END]
+An axe forged with mithril. It[LINE]
+is said to be a product of the[LINE]
+Dwarves.[END]
 
 
 //Text $1B26C8
@@ -12779,8 +12770,8 @@ strong to wield it in one hand.[END]
 //Text $1B2628
 #WRITE(ptr,$18E12C)
 A thick-tapered axe with a sharp[LINE]
-edge. As its name suggests, it[LINE]
-is optimized for battle.[END]
+edge. As its name suggests, it is[LINE]
+optimized for battle.[END]
 
 
 //Text $1B2610
@@ -12827,8 +12818,8 @@ for thrusting into the ground.[END]
 //Text $1B2480
 #WRITE(ptr,$18E21C)
 An axe designed to fight swordsmen.[LINE]
-The gap in its edge is used for[LINE]
-hooking and breaking swords.[END]
+Hook and break swords by using the[LINE]
+gap in its edge.[END]
 
 
 //Text $1B2468
@@ -12875,7 +12866,7 @@ skillful, you can throw it.[END]
 //Text $1B22E0
 #WRITE(ptr,$18E30C)
 A heavy axe with a sharp cutting[LINE]
-edge. Can shatter even the heaviest[LINE]
+edge. Shatters even the heaviest[LINE]
 of armors.[END]
 
 
@@ -12910,8 +12901,8 @@ down foes on horseback.[END]
 
 //Text $1B21C8
 #WRITE(ptr,$18E3C0)
-An axe whose name comes[LINE]
-from its eye-shaped axe head.[LINE]
+An axe whose name comes from[LINE]
+its eye-shaped axe head.[LINE]
 [END]
 
 
@@ -12922,9 +12913,9 @@ from its eye-shaped axe head.[LINE]
 
 //Text $1B2160
 #WRITE(ptr,$18E3FC)
-An improved Eye Axe that is[LINE]
-easier to handle. The attack power[LINE]
-has increased and it weighs less.[END]
+An improved Eye Axe that is easier[LINE]
+to handle. The attack power has[LINE]
+increased and it weighs less.[END]
 
 
 //Text $1B2148
@@ -12946,9 +12937,9 @@ Its slender shape belies its power.[LINE]
 
 //Text $1B2098
 #WRITE(ptr,$18E474)
-An axe with legendary powers that[LINE]
-appears in folklore. It bears the name of[LINE]
-the brothers who recorded oral traditions.[END]
+An axe with legendary powers that appears[LINE]
+in folklore. It bears the name of the brothers[LINE]
+who recorded oral traditions.[END]
 
 
 //Text $1B2088
@@ -13102,8 +13093,8 @@ It is very versatile.[LINE]
 
 //Text $1B1C38
 #WRITE(ptr,$18E780)
-A small bow decorated with silver.[LINE]
-It shines beautifully. [LINE]
+A small bow decorated with[LINE]
+silver. It shines beautifully. [LINE]
 [END]
 
 
@@ -13139,8 +13130,8 @@ created by dwarven craftsmen.[END]
 //Text $1B1B38
 #WRITE(ptr,$18E834)
 A smaller version of a hunter's bow.[LINE]
-Good performance at an affordable price![LINE]
-[END]
+Good performance at an affordable[LINE]
+price![END]
 
 
 //Text $1B1B20
@@ -13162,8 +13153,8 @@ struck by enemy attacks.[END]
 
 //Text $1B1A90
 #WRITE(ptr,$18E8AC)
-It only takes one shot.[LINE]
-A small bow made for assassins.[LINE]
+It only takes one shot. A small[LINE]
+bow made for assassins.[LINE]
 [END]
 
 
@@ -13175,7 +13166,7 @@ A small bow made for assassins.[LINE]
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
 A small bow with an arch that resembles[LINE]
-a hawk's claw. It is said to be able to[LINE]
+a griffon's claw. It is said to be able to[LINE]
 shoot birds flying high in the sky.[END]
 
 
@@ -13209,8 +13200,8 @@ from a variety of woods.[LINE]
 
 //Text $1B1918
 #WRITE(ptr,$18E99C)
-A small bow said to be used by elves.[LINE]
-It is as light as a feather.[LINE]
+A small bow said to be used by[LINE]
+elves. It is as light as a feather.[LINE]
 [END]
 
 
@@ -13305,9 +13296,9 @@ baffles tradesmen to this day.[END]
 
 //Text $1B15B8
 #WRITE(ptr,$18EB7C)
-A small bow that symbolizes destiny.[LINE]
-Those who use it can bend fate to their will.[LINE]
-Only those who are worthy may wield it.[END]
+A small bow that symbolizes destiny. Those[LINE]
+who use it can bend fate to their will. Only[LINE]
+those who are worthy may wield it.[END]
 
 
 //Text $1B15A8
@@ -13401,9 +13392,9 @@ more durable than your bare fists![LINE]
 
 //Text $1B1308
 #WRITE(ptr,$18ED5C)
-Knuckles focused on stabbing rather[LINE]
-than punching. The length of the needles[LINE]
-makes it better for people with large swings.[END]
+Knuckles focused on stabbing rather than[LINE]
+punching. The length of the needles makes[LINE]
+it better for people with large swings.[END]
 
 
 //Text $1B12F0
@@ -13497,9 +13488,9 @@ then pours in a paralyzing poison.[END]
 
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
-Terrifying knuckles that will deal a[LINE]
-lethal blow no matter where they hit.[LINE]
-It's name means "A Powerful Organization."[END]
+Terrifying knuckles that will deal a lethal[LINE]
+blow no matter where they hit. It's name[LINE]
+means "A Powerful Organization."[END]
 
 
 //Text $1B0F90
@@ -13521,9 +13512,9 @@ These shining fists crush all evil.[LINE]
 
 //Text $1B0EE0
 #WRITE(ptr,$18EFB4)
-These knuckles represent the world.[LINE]
-With their power, you could conquer all.[LINE]
-Only the mightiest of men can wield them.[END]
+These knuckles represent the world. With[LINE]
+their power, you could conquer all. Only[LINE]
+the mightiest of men can wield them.[END]
 
 
 //Text $1B0ED0
@@ -13533,9 +13524,9 @@ Only the mightiest of men can wield them.[END]
 
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
-An offshoot of the lute.[LINE]
-Its strings are plucked with a[LINE]
-pick made of a tortoiseshell.[END]
+An offshoot of the lute. Its stings[LINE]
+are plucked with a pick made of[LINE]
+a tortoiseshell.[END]
 
 
 //Text $1B0E80
@@ -13558,8 +13549,8 @@ fingers and is often used when storytelling.[END]
 //Text $1B0DE0
 #WRITE(ptr,$18F068)
 The instrument of a Bard.[LINE]
-It has many strings that are [LINE]
-strung in pairs.[END]
+It has many strings that[LINE]
+are strung in pairs.[END]
 
 
 //Text $1B0DD0
@@ -13593,9 +13584,9 @@ Peng! Peng![END]
 
 //Text $1B0CB0
 #WRITE(ptr,$18F11C)
-A guitar of infinite potential.[LINE]
-Its tone reaches the depths of space.[LINE]
-It can only be wielded by the chosen one.[END]
+A guitar of infinite potential. Its tone[LINE]
+reaches the depths of space. It can[LINE]
+only be wielded by the chosen one.[END]
 
 
 //Text $1B0C98
@@ -13629,8 +13620,8 @@ A standard for corporal punishment.[LINE]
 
 //Text $1B0BA8
 #WRITE(ptr,$18F1D0)
-A rather expensive copper ladle.[LINE]
-Wait, doesn't copper conduct a lot of heat?[LINE]
+A rather expensive copper ladle. Wait,[LINE]
+doesn't copper conduct a lot of heat?[LINE]
 [END]
 
 
@@ -13641,8 +13632,8 @@ Wait, doesn't copper conduct a lot of heat?[LINE]
 
 //Text $1B0B60
 #WRITE(ptr,$18F20C)
-A rare Silver Ladle.[LINE]
-Make sure to take care of your silverware![LINE]
+A rare Silver Ladle. Make sure[LINE]
+to take care of your silverware![LINE]
 [END]
 
 
@@ -13653,8 +13644,8 @@ Make sure to take care of your silverware![LINE]
 
 //Text $1B0B10
 #WRITE(ptr,$18F248)
-A ladle made of gold, to flex your Gald.[LINE]
-Disclaimer: Not for cooking.[LINE]
+A ladle made of gold, to flex your[LINE]
+Gald. Disclaimer: Not for cooking.[LINE]
 [END]
 
 
@@ -13692,8 +13683,8 @@ cook it in butter or oil.[END]
 //Text $1B5E60
 #WRITE(ptr,$18F338)
 Upper body armor made of leather.[LINE]
-Favored by adventurers due to[LINE]
-its lightness and fair protection.[END]
+Favored by adventurers due to its[LINE]
+lightness and fair protection.[END]
 
 
 //Text $1B5E48
@@ -13716,8 +13707,8 @@ since the age of the Aeth'er War.[END]
 //Text $1B5D98
 #WRITE(ptr,$18F3B0)
 Upper body armor made of iron,[LINE]
-the most familiar of metals.[LINE]
-Sturdy and tough, but heavy.[END]
+the most familiar of metals. Sturdy[LINE]
+and tough, but heavy.[END]
 
 
 //Text $1B5D80
@@ -13852,8 +13843,8 @@ with its brightness.[END]
 //Text $1B58D8
 #WRITE(ptr,$18F680)
 Upper body armor made specially for combat.[LINE]
-Since it is made with functionality in mind[LINE]
-it doesn't hinder one's movements.[END]
+Since it is made with functionality in mind it[LINE]
+doesn't hinder one's movements.[END]
 
 //Text $1B58C0
 #WRITE(ptr,$18F6B8)
@@ -13874,8 +13865,8 @@ Extremely valuable.[END]
 //Text $1B5808
 #WRITE(ptr,$18F6F8)
 Upper body armor sewn with steel scales.[LINE]
-A storied and ancient armor. Its only[LINE]
-fault is that it's noisy when moving.[END]
+A storied and ancient armor. Its only fault[LINE]
+is that it's noisy when moving.[END]
 
 //Text $1B57F0
 #WRITE(ptr,$18F730)
@@ -13896,9 +13887,9 @@ Armor, but also heavier.[END]
 
 //Text $1B5750
 #WRITE(ptr,$18F770)
-A beautiful and shining[LINE]
-black armor. Jet black[LINE]
-armor used in rituals.[END]
+A beautiful and shining black[LINE]
+armor. Jet black armor used[LINE]
+in rituals.[END]
 
 //Text $1B5738
 #WRITE(ptr,$18F7A8)
@@ -13984,7 +13975,7 @@ wall with no openings.[END]
 
 //Text $1B5420
 #WRITE(ptr,$18F950)
-Named after the deity that protects[LINE]
+Designated after the deity that protects[LINE]
 soldiers on the battlefield. Praised as the[LINE]
 armor that guarantees their return.[END]
 
@@ -14050,9 +14041,9 @@ balance. Can only be acquired by the chosen ones.[END]
 
 //Text $1B51B8
 #WRITE(ptr,$18FAB8)
-Leathern breastplate.[LINE]
-Favored by adventurers due to its[LINE]
-lightness and fair protection.[END]
+Leathern breastplate. Favored by[LINE]
+adventurers due to its lightness[LINE]
+and fair protection.[END]
 
 
 //Text $1B51A0
@@ -14191,8 +14182,8 @@ of mind to never be disheartened.[END]
 //Text $1B4D80
 #WRITE(ptr,$18FD88)
 Breastplate decorated with platinum.[LINE]
-Not only expensive and beautiful[LINE]
-but also very functional.[END]
+Not only expensive and beautiful but[LINE]
+also very functional.[END]
 
 //Text $1B4D68
 #WRITE(ptr,$18FDC0)
@@ -14483,8 +14474,8 @@ as it makes no rustling sounds.[END]
 //Text $1B4318
 #WRITE(ptr,$1903A0)
 Garment that carries the meaning of "Myths".[LINE]
-Its wearers are celebrated as heroes.[LINE]
-Can only be acquired by the chosen ones.[END]
+Its wearers are celebrated as heroes. Can[LINE]
+only be acquired by the chosen ones.[END]
 
 //Text $1B4300
 #WRITE(ptr,$1903D8)
@@ -14505,8 +14496,8 @@ protection.[END]
 //Text $1B4258
 #WRITE(ptr,$190418)
 Cloak decorated with white[LINE]
-cloth. Its tidy style is[LINE]
-popular with city girls.[END]
+cloth. Its tidy style is popular[LINE]
+with city girls.[END]
 
 //Text $1B4240
 #WRITE(ptr,$190450)
@@ -14559,9 +14550,9 @@ white brilliance.[END]
 
 //Text $1B40B0
 #WRITE(ptr,$190544)
-Cloak decorated with[LINE]
-gold. Also known as[LINE]
-the "Opulent Cloak".[END]
+Cloak decorated with gold.[LINE]
+Also known as the "Opulent[LINE]
+Cloak".[END]
 
 
 //Text $1B4098
@@ -14671,9 +14662,9 @@ Extremely valuable.[END]
 
 //Text $1B3D28
 #WRITE(ptr,$19079C)
-Cloak decorated with amber.[LINE]
-Imbues the wearer with the divine[LINE]
-protection of amber jewels.[END]
+Cloak decorated with amber. Imbues[LINE]
+the wearer with the divine protection[LINE]
+of amber jewels.[END]
 
 //Text $1B3D10
 #WRITE(ptr,$1907D4)
@@ -14682,9 +14673,9 @@ protection of amber jewels.[END]
 
 //Text $1B3CC0
 #WRITE(ptr,$1907D8)
-Cloak blessed by holy[LINE]
-powers. Said to prevent[LINE]
-enemies from approaching.[END]
+Cloak blessed by holy powers.[LINE]
+Said to prevent enemies from[LINE]
+approaching.[END]
 
 //Text $1B3CA8
 #WRITE(ptr,$190810)
@@ -14765,8 +14756,8 @@ who collected oral traditions into a book.[END]
 //Text $1B39E0
 #WRITE(ptr,$19097C)
 Cloak with a lovely design.[LINE]
-Its beauty lowers[LINE]
-enemies' guards.[END]
+Its beauty lowers enemies'[LINE]
+guards.[END]
 
 //Text $1B39D0
 #WRITE(ptr,$1909B4)
@@ -14830,9 +14821,9 @@ wearers physical abilities.[END]
 
 //Text $1B3780
 #WRITE(ptr,$190AE4)
-Cloak named after the[LINE]
-Heavens. Worn by those living[LINE]
-in Paradise. Eases all pains.[END]
+Cloak named after the Heavens.[LINE]
+Worn by those living in Paradise.[LINE]
+Eases all pains.[END]
 
 //Text $1B3768
 #WRITE(ptr,$190B1C)
@@ -14852,9 +14843,9 @@ be acquired by the chosen ones.[END]
 
 //Text $1B36B0
 #WRITE(ptr,$190B5C)
-Robe decorated with white[LINE]
-cloth. Its tidy style is[LINE]
-popular with city girls.[END]
+Robe decorated with white cloth.[LINE]
+Its tidy style is popular with city[LINE]
+girls.[END]
 
 //Text $1B3698
 #WRITE(ptr,$190B94)
@@ -14897,8 +14888,8 @@ feels nice to the touch.[END]
 
 //Text $1B3560
 #WRITE(ptr,$190C4C)
-Robe decorated with silver.[LINE]
-Has a beautiful white brilliance.[LINE]
+Robe decorated with silver. Has[LINE]
+a beautiful white brilliance.[LINE]
 [END]
 
 //Text $1B3548
@@ -14908,8 +14899,8 @@ Has a beautiful white brilliance.[LINE]
 
 //Text $1B3510
 #WRITE(ptr,$190C88)
-Robe decorated with gold.[LINE]
-Also known as the "Opulent Robe".[LINE]
+Robe decorated with gold. Also[LINE]
+known as the "Opulent Robe".[LINE]
 [END]
 
 //Text $1B34F8
@@ -14941,9 +14932,9 @@ of its wearers.[END]
 
 //Text $1B33F8
 #WRITE(ptr,$190D3C)
-Robe for those pursuing[LINE]
-cuteness. Its fluffy skirt is[LINE]
-admired by girls everywhere.[END]
+Robe for those pursuing cuteness.[LINE]
+Its fluffy skirt is admired by girls[LINE]
+everywhere.[END]
 
 //Text $1B33E0
 #WRITE(ptr,$190D74)
@@ -15030,9 +15021,9 @@ of his beloved elderberries.[END]
 
 //Text $1B3130
 #WRITE(ptr,$190F1C)
-Robe made by an unknown[LINE]
-process and materials. Its colors [LINE]
-change with viewing angle.[END]
+Robe made by an unknown process[LINE]
+and materials. Its colors change with[LINE]
+viewing angle.[END]
 
 //Text $1B3118
 #WRITE(ptr,$190F54)
@@ -15097,8 +15088,8 @@ cuteness even while doing housework.[END]
 //Text $1B2EB8
 #WRITE(ptr,$191084)
 Risky, thin, and see-through dress.[LINE]
-Feels pleasantly refreshing.[LINE]
-Requires a little confidence to wear.[END]
+Feels pleasantly refreshing. Requires[LINE]
+a little confidence to wear.[END]
 
 //Text $1B2EA0
 #WRITE(ptr,$1910BC)
@@ -15119,8 +15110,8 @@ Popular among nostalgic aristocrats.[LINE]
 //Text $1B2E00
 #WRITE(ptr,$1910FC)
 Dress created in Aquaveil.[LINE]
-Emphasizes the beauty[LINE]
-of the female figure.[END]
+Emphasizes the beauty of[LINE]
+the female figure.[END]
 
 //Text $1B2DE8
 #WRITE(ptr,$191134)
@@ -15165,8 +15156,8 @@ Can only be acquired by the chosen ones.[END]
 //Text $1B83A8
 #WRITE(ptr,$19120C)
 Gauntlets strung together with leather. [LINE]
-Light and reasonably strong. [LINE]
-A necessity for apprentice swordsmen. [END]
+Light and reasonably strong. Essential[LINE]
+for apprentice swordsmen. [END]
 
 
 //Text $1B8388
@@ -15177,8 +15168,8 @@ A necessity for apprentice swordsmen. [END]
 //Text $1B8338
 #WRITE(ptr,$19122C)
 Gauntlet made of thin bronze.[LINE]
-Traditional gauntlets used[LINE]
-since the age of the Aeth'er War.[END]
+Traditional gauntlets used since[LINE]
+the age of the Aeth'er War.[END]
 
 //Text $1B8318
 #WRITE(ptr,$191248)
@@ -15187,10 +15178,9 @@ since the age of the Aeth'er War.[END]
 
 //Text $1B82D0
 #WRITE(ptr,$19124C)
-Gauntlets made of iron,[LINE]
-the most familiar of metals.[LINE]
-Sturdy and tough, but heavy.[END]
-
+Gauntlets made of iron, the most[LINE]
+familiar of metals. Sturdy and[LINE]
+tough, but heavy.[END]
 
 //Text $1B82B0
 #WRITE(ptr,$191268)
@@ -15210,9 +15200,9 @@ knight apprentices.[END]
 
 //Text $1B8218
 #WRITE(ptr,$19128C)
-Gauntlets strengthened with[LINE]
-a titanium alloy. Very light[LINE]
-and corrosion resistant.[END]
+Gauntlets strengthened with a[LINE]
+titanium alloy. Very light and[LINE]
+corrosion resistant.[END]
 
 //Text $1B81F8
 #WRITE(ptr,$1912A8)
@@ -15221,8 +15211,8 @@ and corrosion resistant.[END]
 
 //Text $1B81C0
 #WRITE(ptr,$1912AC)
-Gauntlets decorated with[LINE]
-silverwork. Has a beautiful luster.[LINE]
+Gauntlets decorated with silverwork.[LINE]
+Has a beautiful luster.[LINE]
 [END]
 
 //Text $1B81A0
@@ -15232,9 +15222,9 @@ silverwork. Has a beautiful luster.[LINE]
 
 //Text $1B8160
 #WRITE(ptr,$1912CC)
-Gauntlets decorated with[LINE]
-gold. Also known as the[LINE]
-"Opulent Gauntlets".[END]
+Gauntlets decorated with gold.[LINE]
+Also known as the "Opulent[LINE]
+Gauntlets."[END]
 
 //Text $1B8140
 #WRITE(ptr,$1912E8)
@@ -15254,9 +15244,9 @@ a Dwarven work of art.[END]
 
 //Text $1B8090
 #WRITE(ptr,$19130C)
-Gauntlets made with lion teeth[LINE]
-and fire rat skin. Imbued with[LINE]
-the power of the King of Beasts.[END]
+Gauntlets made with lion teeth and[LINE]
+fire rat skin. Imbued with the power[LINE]
+of the King of Beasts.[END]
 
 //Text $1B8078
 #WRITE(ptr,$191328)
@@ -15265,9 +15255,9 @@ the power of the King of Beasts.[END]
 
 //Text $1B5880
 #WRITE(ptr,$19132C)
-Masterpiece imbued with[LINE]
-the soul of Giese.[LINE]
-Extremely valuable.[END]
+Masterpiece imbued with the[LINE]
+soul of Giese. Extremely valuable.[LINE]
+[END]
 
 
 //Text $1B8060
@@ -15300,8 +15290,8 @@ who collected oral traditions.[END]
 //Text $1B7F30
 #WRITE(ptr,$19138C)
 Bound together by leather. Somewhat stiff,[LINE]
-but strong gloves. A regular companion[LINE]
-of female travellers.[END]
+but strong gloves. A regular companion of[LINE]
+female travellers.[END]
 
 //Text $1B7F18
 #WRITE(ptr,$1913A8)
@@ -15310,9 +15300,9 @@ of female travellers.[END]
 
 //Text $1B7EC0
 #WRITE(ptr,$1913AC)
-Cute mittens made of soft[LINE]
-fur. For those who are[LINE]
-stylish but feel cold.[END]
+Cute mittens made of soft fur.[LINE]
+For those who are stylish but[LINE]
+feel cold.[END]
 
 //Text $1B7EA8
 #WRITE(ptr,$1913C8)
@@ -15399,8 +15389,8 @@ pickpocket even hidden targets.[END]
 //Text $1B7B50
 #WRITE(ptr,$1914AC)
 Gloves imbued with the hidden power of[LINE]
-fantasies. Named after the brothers[LINE]
-who collected oral traditions into a book.[END]
+fantasies. Named after the brothers who[LINE]
+collected oral traditions into a book.[END]
 
 //Text $1B7B38
 #WRITE(ptr,$1914C8)
@@ -15454,8 +15444,8 @@ Increases the damage of [Sign_Fire] spells.[END]
 //Text $1B78C8
 #WRITE(ptr,$19154C)
 Necklace imbued with the Water Spirits.[LINE]
-Sharpens one's willpower.[LINE]
-Increases the damage of [Sign_Water] spells.[END]
+Sharpens one's willpower. Increases the[LINE]
+damage of [Sign_Water] spells.[END]
 
 //Text $1B78B0
 #WRITE(ptr,$191568)
@@ -15486,9 +15476,9 @@ Decreases the casting time of [Sign_Earth] spells.[END]
 
 //Text $1B7750
 #WRITE(ptr,$1915AC)
-Necklace imbued with the Lord of[LINE]
-Winds' blessing and warped heart.[LINE]
-Decreases the casting time of [Sign_Wind] spells.[END]
+Necklace imbued with the Lord of Winds'[LINE]
+blessing and warped heart. Decreases[LINE]
+the casting time of [Sign_Wind] spells.[END]
 
 //Text $1B7738
 #WRITE(ptr,$1915C8)
@@ -15520,8 +15510,8 @@ Decreases the casting time of [Sign_Water] spells.[END]
 //Text $1B75D0
 #WRITE(ptr,$19160C)
 Necklace imbued with the God of Light's[LINE]
-blessing and eternal integrity.[LINE]
-Decreases the casting time of [Sign_Light] spells.[END]
+blessing and eternal integrity. Decreases[LINE]
+the casting time of [Sign_Light] spells.[END]
 
 //Text $1B75C0
 #WRITE(ptr,$191628)
@@ -15608,8 +15598,8 @@ pierce the enemy's armor.[END]
 //Text $1B72A8
 #WRITE(ptr,$19170C)
 Longbow imbued with the hidden power of[LINE]
-fantasies. Named after the brothers[LINE]
-who collected oral traditions into a book.[END]
+fantasies. Named after the brothers who[LINE]
+collected oral traditions into a book.[END]
 
 //Text $1B7298
 #WRITE(ptr,$191728)
@@ -15618,9 +15608,9 @@ who collected oral traditions into a book.[END]
 
 //Text $1B7248
 #WRITE(ptr,$19172C)
-Used as a medicinal plant[LINE]
-since ancient times, it warms[LINE]
-the body and relieves fatigue.[END]
+Used as a medicinal plant since[LINE]
+ancient times, it warms the body[LINE]
+and relieves fatigue.[END]
 
 //Text $1B7230
 #WRITE(ptr,$191748)
@@ -15695,9 +15685,9 @@ Protects the user and expels evil.[END]
 
 //Text $1B6F60
 #WRITE(ptr,$19180C)
-The extremely expensive king of[LINE]
-mushrooms. Acquires a powerful[LINE]
-taste and smell when its cap opens.[END]
+The utterly expensive king of mushrooms.[LINE]
+Acquires a powerful taste and smell when[LINE]
+its cap opens.[END]
 
 //Text $1B6F48
 #WRITE(ptr,$191828)
@@ -15718,8 +15708,8 @@ Increases attack when worn.[LINE]
 //Text $1B6EA8
 #WRITE(ptr,$19184C)
 A "Fury" bandana. Protects[LINE]
-against poison and increases[LINE]
-attack when worn.[END]
+wearer against poison and[LINE]
+increases attack when worn.[END]
 
 //Text $1B6E90
 #WRITE(ptr,$191868)
@@ -15728,9 +15718,9 @@ attack when worn.[END]
 
 //Text $1B6E48
 #WRITE(ptr,$19186C)
-A "Stout" bandana. Protects[LINE]
+A "Stout" bandana. Protects wearer[LINE]
 against petrification and increases[LINE]
-defense when worn.[END]
+defense.[END]
 
 //Text $1B6E30
 #WRITE(ptr,$191888)
@@ -15740,8 +15730,8 @@ defense when worn.[END]
 //Text $1B6DF0
 #WRITE(ptr,$19188C)
 A "Sky" bandana. Protects[LINE]
-against paralysis and increases[LINE]
-endurance when worn.[END]
+wearer against paralysis and[LINE]
+increases endurance.[END]
 
 //Text $1B6DD8
 #WRITE(ptr,$1918A8)
@@ -15751,8 +15741,8 @@ endurance when worn.[END]
 //Text $1B6D90
 #WRITE(ptr,$1918AC)
 An "Awakening" bandana. Protects[LINE]
-against sleep and increases[LINE]
-concentration when worn.[END]
+wearer against sleep and increases[LINE]
+concentration.[END]
 
 //Text $1B6D78
 #WRITE(ptr,$1918C8)
@@ -15762,8 +15752,8 @@ concentration when worn.[END]
 //Text $1B6D30
 #WRITE(ptr,$1918CC)
 A "Gale" bandana. Protects[LINE]
-against weakness and increases[LINE]
-evasion when worn.[END]
+wearer against weakness and[LINE]
+increases evasion.[END]
 
 //Text $1B6D18
 #WRITE(ptr,$1918E8)
@@ -15773,8 +15763,8 @@ evasion when worn.[END]
 //Text $1B6CD0
 #WRITE(ptr,$1918EC)
 An "Annihilation" bandana. Protects[LINE]
-against seal and increases[LINE]
-accuracy when worn.[END]
+wearer against seal and increases[LINE]
+accuracy.[END]
 
 //Text $1B6CB8
 #WRITE(ptr,$191908)
@@ -15784,7 +15774,7 @@ accuracy when worn.[END]
 //Text $1B6C80
 #WRITE(ptr,$19190C)
 A "Hero" bandana. Greatly[LINE]
-increases attack when worn.[LINE]
+increases wearer's attack.[LINE]
 [END]
 
 //Text $1B6C68
@@ -15794,9 +15784,9 @@ increases attack when worn.[LINE]
 
 //Text $1B6C10
 #WRITE(ptr,$19192C)
-A "Revolution" bandana.[LINE]
-"Nothing will shake me!"[LINE]
-Protects against all ailments.[END]
+A "Revolution" bandana. Protects[LINE]
+against all ailments. "Nothing will[LINE] 
+shake me!"[END]
 
 //Text $1B6BF8
 #WRITE(ptr,$191948)
@@ -15805,9 +15795,9 @@ Protects against all ailments.[END]
 
 //Text $1B6BB0
 #WRITE(ptr,$19194C)
-A simple red ribbon.[LINE]
-A necessity for girls.[LINE]
-Increases fire resistance.[END]
+A simple red ribbon. A necessity[LINE]
+for girls. Increases fire resistance.[LINE]
+[END]
 
 //Text $1B6B98
 #WRITE(ptr,$191968)
@@ -15827,9 +15817,9 @@ Increases water resistance.[END]
 
 //Text $1B6AE0
 #WRITE(ptr,$19198C)
-An orange satin ribbon.[LINE]
-For girls who look up to ladies.[LINE]
-Increases earth resistance.[END]
+An orange satin ribbon. For girls[LINE]
+who look up to ladies. Increases[LINE]
+earth resistance.[END]
 
 //Text $1B6AC8
 #WRITE(ptr,$1919A8)
@@ -15838,8 +15828,8 @@ Increases earth resistance.[END]
 
 //Text $1B6A70
 #WRITE(ptr,$1919AC)
-A tropical green ribbon. For[LINE]
-girls who want to become different.[LINE]
+A tropical green ribbon. For girls[LINE]
+who want to become different.[LINE]
 Increases wind resistance.[END]
 
 
@@ -15873,9 +15863,9 @@ Increases dark resistance.[END]
 
 //Text $1B6920
 #WRITE(ptr,$191A0C)
-A ribbon for children.[LINE]
-Filled with love, hopes, and dreams.[LINE]
-Allows one to move excitedly.[END]
+A ribbon for children. Filled with[LINE]
+love, hopes, and dreams. Allows[LINE]
+one to move excitedly.[END]
 
 //Text $1B6908
 #WRITE(ptr,$191A28)
@@ -15885,8 +15875,8 @@ Allows one to move excitedly.[END]
 //Text $1B68B0
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
-Aiming to be classy with a stylish hat.[LINE]
-That's [Johnny]''s style.[END]
+decoration. Aiming to be classy with a[LINE]
+stylish hat. That's [Johnny]'s style.[END]
 
 
 //Text $1B6898
@@ -15896,8 +15886,8 @@ That's [Johnny]''s style.[END]
 
 //Text $1B6838
 #WRITE(ptr,$191A4C)
-Only the strong are allowed to wear it.[LINE]
-With it, you're sure to be admired.[LINE]
+Only the strong are allowed to wear[LINE]
+it. With it, you're sure to be admired.[LINE]
 Imbues attacks with fire.[END]
 
 
@@ -15957,8 +15947,8 @@ Imbues attacks with light.[END]
 //Text $1B65D0
 #WRITE(ptr,$191AEC)
 The hat of a legendary poet. His voice[LINE]
-enchants even the sleeping kings.[LINE]
-Imbues attacks with dark.[END]
+enchants even the sleeping kings. Imbues[LINE]
+attacks with dark.[END]
 
 
 //Text $1B65B8
@@ -15968,8 +15958,8 @@ Imbues attacks with dark.[END]
 
 //Text $1B6560
 #WRITE(ptr,$191B0C)
-A replica of the Champion's belt.[LINE]
-He turned the original in when he left[LINE]
+A replica of the Champion's belt. He[LINE]
+turned the original in when he left[LINE]
 the city. We can get it back again![END]
 
 
@@ -15992,8 +15982,8 @@ a low chance of downing foes.[END]
 
 //Text $1B64A8
 #WRITE(ptr,$191B4C)
-Proof he has conquered the arena's[LINE]
-bantamweight division. Normal attacks[LINE]
+Proof of having conquered the arena's[LINE]
+heavyweight division. Normal attacks[LINE]
 have a slight chance of downing foes.[END]
 
 
@@ -16004,9 +15994,9 @@ have a slight chance of downing foes.[END]
 
 //Text $1B6448
 #WRITE(ptr,$191B6C)
-Proof he has conquered the arena's[LINE]
-lightweight division. Normal attacks have a[LINE]
-considerable chance of downing foes.[END]
+Proof of conquering the arena's lightweight[LINE]
+division. Normal attacks have a increased[LINE]
+chance of downing foes.[END]
 
 
 //Text $1B6430
@@ -16041,8 +16031,8 @@ have a significant chance of downing foes.[END]
 //Text $1B6328
 #WRITE(ptr,$191BCC)
 The greatest proof for those who have[LINE]
-conquered the arena![LINE]
-Bounce back from a pinch with your spirit![END]
+conquered the arena! Bounce back[LINE]
+from a pinch with your spirit![END]
 
 
 //Text $1B6310
@@ -16113,8 +16103,8 @@ in the Phandaria region![LINE]
 //Text $1B6118
 #WRITE(ptr,$191C8C)
 The sign of a champion who has[LINE]
-conquered every monster![LINE]
-You will never yield to any challenge.[END]
+conquered every monster! You[LINE]
+will never yield to any challenge.[END]
 
 
 //Text $1B6108
@@ -16172,9 +16162,9 @@ It's a pity it will be burned.[END]
 
 //Text $1B5F30
 #WRITE(ptr,$191D2C)
-A frying pan made of gold. Also known[LINE]
-as the "Gorgeous Frying Pan". Now you[LINE]
-too can be the royal family's personal chef.[END]
+A frying pan made of gold. Also known as[LINE]
+the "Gorgeous Frying Pan". Now you too[LINE]
+can be the royal family's personal chef.[END]
 
 
 //Text $1B5F20
@@ -16209,9 +16199,9 @@ One's best traveling companion.[END]
 
 //Text $1BA120
 #WRITE(ptr,$191DCC)
-Strap with a vegetable[LINE]
-and ham sandwich.[LINE]
-Can be easily eaten anywhere.[END]
+Strap with a vegetable and ham[LINE]
+sandwich. Can be easily eaten[LINE]
+anywhere.[END]
 
 
 //Text $1BA0C8
@@ -16221,9 +16211,9 @@ Can be easily eaten anywhere.[END]
 
 //Text $1BA068
 #WRITE(ptr,$191DFC)
-Strap with a Hamburger.[LINE]
-A juicy beef patty between[LINE]
-two buns... Very filling![END]
+Strap with a Hamburger. A juicy[LINE]
+beef patty between two buns...[LINE]
+Very filling![END]
 
 
 //Text $1BA020
@@ -16233,9 +16223,9 @@ two buns... Very filling![END]
 
 //Text $1B9FC0
 #WRITE(ptr,$191E2C)
-Strap with a Hotdog.[LINE]
-Hot sausage in a[LINE]
-lengthwise-cut long bun.[END]
+Strap with a Hotdog. Hot sausage[LINE]
+in a lengthwise-cut long bun.[LINE]
+[END]
 
 
 //Text $1B9F88
@@ -16245,9 +16235,9 @@ lengthwise-cut long bun.[END]
 
 //Text $1B9F30
 #WRITE(ptr,$191E5C)
-Strap with a Burrito.[LINE]
-Rice, meat, beans, and[LINE]
-vegetables wrapped in a tortilla.[END]
+Strap with a Burrito. Rice, meat,[LINE]
+beans, and vegetables wrapped[LINE]
+in a tortilla.[END]
 
 
 //Text $1B9EF8
@@ -16257,9 +16247,9 @@ vegetables wrapped in a tortilla.[END]
 
 //Text $1B9EA0
 #WRITE(ptr,$191E8C)
-Strap with a Kebab.[LINE]
-Slowly and carefully roasted[LINE]
-skewered meat.[END]
+Strap with a Kebab. Slowly and[LINE]
+carefully roasted skewered[LINE]
+meat.[END]
 
 
 //Text $1B9E68
@@ -16269,9 +16259,9 @@ skewered meat.[END]
 
 //Text $1B9E10
 #WRITE(ptr,$191EBC)
-Strap with an Inarizushi.[LINE]
-Sushi with sweet boiled, deep-fried,[LINE]
-vinegared tofu. Popular with children.[END]
+Strap with an Inarizushi. Sushi with[LINE]
+sweet boiled, deep-fried, vinegared[LINE]
+tofu. Popular with children.[END]
 
 
 //Text $1B9DD8
@@ -16293,9 +16283,9 @@ Easy to eat.[END]
 
 //Text $1B9CF8
 #WRITE(ptr,$191F1C)
-Strap with an Ochazuke.[LINE]
-Rice with flavored tea-based broth.[LINE]
-Gulped down with a slurping sound.[END]
+Strap with an Ochazuke. Rice with[LINE]
+flavored tea-based broth. Gulped[LINE]
+down with a slurping sound.[END]
 
 
 //Text $1B9CC0
@@ -16305,9 +16295,9 @@ Gulped down with a slurping sound.[END]
 
 //Text $1B9C60
 #WRITE(ptr,$191F4C)
-Strap with Fried Rice.[LINE]
-Rice fried in oil with meat and[LINE]
-vegetables. Simple but filling.[END]
+Strap with Fried Rice. Rice fried[LINE]
+in oil with meat and vegetables.[LINE]
+Simple but filling.[END]
 
 
 //Text $1B9C20
@@ -16317,9 +16307,9 @@ vegetables. Simple but filling.[END]
 
 //Text $1B9BC0
 #WRITE(ptr,$191F7C)
-Strap with Omelette Rice.[LINE]
-Ketchuppy Rice folded in an Omelette.[LINE]
-A favorite of children.[END]
+Strap with Omelette Rice. Ketchuppy[LINE]
+Rice folded in an Omelette. A favorite[LINE]
+of children.[END]
 
 
 //Text $1B9B78
@@ -16329,9 +16319,9 @@ A favorite of children.[END]
 
 //Text $1B9B18
 #WRITE(ptr,$191FAC)
-Strap with Curry Rice.[LINE]
-Made with apple and honey. Sweet[LINE]
-but slightly spicy. Tastes like home.[END]
+Strap with Curry Rice. Made with[LINE]
+apple and honey. Sweet but slightly[LINE]
+spicy. Tastes like home.[END]
 
 
 //Text $1B9AE0
@@ -16341,8 +16331,8 @@ but slightly spicy. Tastes like home.[END]
 
 //Text $1B9A78
 #WRITE(ptr,$191FDC)
-Strap with Minced Meat Omelette.[LINE]
-Fusion between Minced Meat Rice and Omelette[LINE]
+Strap with Minced Meat Omelette. A fusion[LINE]
+between Minced Meat Rice and Omelette[LINE]
 Rice. Voluminous and extravagant in taste.[END]
 
 
@@ -16353,9 +16343,9 @@ Rice. Voluminous and extravagant in taste.[END]
 
 //Text $1B99E0
 #WRITE(ptr,$19200C)
-Strap with a Paella.[LINE]
-Contains rice, meat, and seafood,[LINE]
-stewed with olive oil and saffron.[END]
+Strap with a Paella. Contains rice,[LINE]
+meat, and seafood, stewed with[LINE]
+olive oil and saffron.[END]
 
 
 //Text $1B99A0
@@ -16366,8 +16356,8 @@ stewed with olive oil and saffron.[END]
 //Text $1B9948
 #WRITE(ptr,$19203C)
 Strap with Oriental Rice.[LINE]
-Rice with chives and pork rib.[LINE]
-Packed with stamina.[END]
+Rice with chives and pork[LINE]
+rib. Packed with stamina.[END]
 
 
 //Text $1B9908
@@ -16389,9 +16379,9 @@ fresh cream is recommended.[END]
 
 //Text $1B9820
 #WRITE(ptr,$19209C)
-Strap with Kimchi.[LINE]
-People bad with spicy stuff be cautious.[LINE]
-Has a stimulating smell and taste.[END]
+Strap with Kimchi. Those who can't [LINE]
+handle spicy stuff be cautious. Has[LINE]
+a stimulating smell and taste.[END]
 
 
 //Text $1B97E0
@@ -16401,9 +16391,9 @@ Has a stimulating smell and taste.[END]
 
 //Text $1B9788
 #WRITE(ptr,$1920CC)
-Strap with a Meat Bun.[LINE]
-Fills the mouth with meat juices when bit into.[LINE]
-The sort of stuff one wants to eat on cold days.[END]
+Strap with a Meat Bun. Fills the mouth[LINE]
+with meat juices when bit into. The sort[LINE]
+of stuff one wants to eat on cold days.[END]
 
 
 //Text $1B9750
@@ -16413,9 +16403,9 @@ The sort of stuff one wants to eat on cold days.[END]
 
 //Text $1B96F0
 #WRITE(ptr,$1920FC)
-Strap with Loco Moco.[LINE]
-Rice topped with steak and a sunny-side[LINE]
-up egg. Simple, but delicious.[END]
+Strap with Loco Moco. Rice topped[LINE]
+with steak and a sunny-side up[LINE]
+egg. Simple, but delicious.[END]
 
 
 //Text $1B96B8
@@ -16425,9 +16415,9 @@ up egg. Simple, but delicious.[END]
 
 //Text $1B9660
 #WRITE(ptr,$19212C)
-Strap with a Beef Bowl.[LINE]
-Rice bowl topped with stewed meat[LINE]
-and green onions. Unforgettable taste.[END]
+Strap with a Beef Bowl. Rice bowl[LINE]
+topped with stewed meat and green[LINE]
+onions. Unforgettable taste.[END]
 
 
 //Text $1B9628
@@ -16437,9 +16427,9 @@ and green onions. Unforgettable taste.[END]
 
 //Text $1B95D0
 #WRITE(ptr,$19215C)
-Strap with an Oyakodon.[LINE]
-Rice topped with stewed chicken and[LINE]
-egg in a bowl. Please eat it with rice.[END]
+Strap with an Oyakodon. Rice topped[LINE]
+with stewed chicken and egg in a bowl.[LINE]
+Please eat it with rice.[END]
 
 
 //Text $1B9598
@@ -16449,9 +16439,9 @@ egg in a bowl. Please eat it with rice.[END]
 
 //Text $1B9538
 #WRITE(ptr,$19218C)
-Strap with a Seafood Bowl.[LINE]
-Rice topped with fresh seafood. Its ingredients[LINE]
-change with the seasons. A luxurious dish.[END]
+Strap with a Seafood Bowl. Rice topped[LINE]
+with fresh seafood. Its ingredients change[LINE]
+with the seasons. A luxurious dish.[END]
 
 
 //Text $1B94F8
@@ -16461,9 +16451,9 @@ change with the seasons. A luxurious dish.[END]
 
 //Text $1B9490
 #WRITE(ptr,$1921BC)
-Strap with Clam Chowder.[LINE]
-Soup with simmered clams, bacon,[LINE]
-and vegetables. Wonderful on cold days.[END]
+Strap with Clam Chowder. Soup with[LINE]
+simmered clams, bacon, and various[LINE]
+vegetables. Wonderful on cold days.[END]
 
 
 //Text $1B9450
@@ -16473,9 +16463,9 @@ and vegetables. Wonderful on cold days.[END]
 
 //Text $1B93F8
 #WRITE(ptr,$1921EC)
-Strap with a Risotto.[LINE]
-Rice, meat, fish, and[LINE]
-mushrooms stir-fried in oil.[END]
+Strap with a Risotto. Rice, meat,[LINE]
+fish, and mushrooms stir-fried[LINE]
+in oil.[END]
 
 
 //Text $1B93B0
@@ -16485,8 +16475,8 @@ mushrooms stir-fried in oil.[END]
 
 //Text $1B9348
 #WRITE(ptr,$19221C)
-Strap with Beef Stroganoff.[LINE]
-Beef stewed in sour cream sauce. Has[LINE]
+Strap with Beef Stroganoff. Beef[LINE]
+stewed in sour cream sauce. Has[LINE]
 an extravagant and luxurious flavor.[END]
 
 
@@ -16497,9 +16487,9 @@ an extravagant and luxurious flavor.[END]
 
 //Text $1B92A8
 #WRITE(ptr,$19224C)
-Strap with Meat Sauce.[LINE]
-Packed with onion and ground[LINE]
-meat. Beware of splashing.[END]
+Strap with Meat Sauce. Packed[LINE]
+with onion and ground meant.[LINE]
+Beware of splashing.[END]
 
 
 //Text $1B9268
@@ -16509,9 +16499,9 @@ meat. Beware of splashing.[END]
 
 //Text $1B9208
 #WRITE(ptr,$19227C)
-Strap with Gratin.[LINE]
-A plethora of ingredients bathed in cheese. The[LINE]
-smell of scorched cheese wets one's appetite.[END]
+Strap with Gratin. A plethora of ingredients[LINE]
+bathed in cheese. The smell of scorched[LINE]
+cheese wets one's appetite.[END]
 
 
 //Text $1B91D0
@@ -16521,9 +16511,9 @@ smell of scorched cheese wets one's appetite.[END]
 
 //Text $1B9178
 #WRITE(ptr,$1922AC)
-Strap with Spaghetti Gratin.[LINE]
-Allows one to enjoy Spaghetti and[LINE]
-Gratin at the same time. Give it a try.[END]
+Strap with Spaghetti Gratin. Allows[LINE]
+one to enjoy Spaghetti and Gratin [LINE]
+at the same time. Give it a try.[END]
 
 
 //Text $1B9140
@@ -16545,9 +16535,9 @@ kneaded to deliciousness.[END]
 
 //Text $1B9040
 #WRITE(ptr,$19230C)
-Strap with a Steak.[LINE]
-Just a grilled slab of meat. One can[LINE]
-feel the splendor of meat coming off it.[END]
+Strap with a Steak. Just a grilled[LINE]
+slab of meat. One can feel the[LINE]
+splendor of meat coming off it.[END]
 
 
 //Text $1B8FF8
@@ -16557,9 +16547,9 @@ feel the splendor of meat coming off it.[END]
 
 //Text $1B8F98
 #WRITE(ptr,$19233C)
-Strap with an Okonomiyaki. [LINE]
-Fried batter garnished to one's preferences.[LINE]
-Top it with Nori and and bonito slices.[END]
+Strap with an Okonomiyaki. Fried batter[LINE]
+garnished to one's preferences. Top it[LINE]
+with Nori and and bonito slices.[END]
 
 
 //Text $1B8F60
@@ -16569,9 +16559,9 @@ Top it with Nori and and bonito slices.[END]
 
 //Text $1B8F00
 #WRITE(ptr,$19236C)
-Strap with Sukiyaki.[LINE]
-Simmered sweet-salty beef in an[LINE]
-iron pot. Also goes well with rice.[END]
+Strap with Sukiyaki.Simmered[LINE]
+sweet-salty beef in an iron pot.[LINE]
+Also goes well with rice.[END]
 
 
 //Text $1B8EC8
@@ -16581,9 +16571,9 @@ iron pot. Also goes well with rice.[END]
 
 //Text $1B8E70
 #WRITE(ptr,$19239C)
-Strap with Sashimi.[LINE]
-Fresh thinly sliced seafood.[LINE]
-Irresistibly tender.[END]
+Strap with Sashimi. Fresh thinly[LINE]
+sliced seafood. Irresistibly tender.[LINE]
+[END]
 
 
 //Text $1B8E30
@@ -16605,9 +16595,9 @@ seafood. Still alive.[END]
 
 //Text $1B8D28
 #WRITE(ptr,$1923FC)
-Strap with a Fruit Parfait.[LINE]
-Topped with fruits, cream, and[LINE]
-ice cream. Deliciously sweet.[END]
+Strap with a Fruit Parfait. Topped[LINE]
+with fruits, cream, and ice cream.[LINE]
+Deliciously sweet.[END]
 
 
 //Text $1B8CE8
@@ -16617,9 +16607,9 @@ ice cream. Deliciously sweet.[END]
 
 //Text $1B8C80
 #WRITE(ptr,$19242C)
-Strap with Fruit Cheese.[LINE]
-Cheese mixed with milk and[LINE]
-mashed fruit. Perfect for a snack![END]
+Strap with Fruit Cheese. Cheese[LINE]
+mixed with milk and mashed fruit.[LINE]
+Perfect for a snack![END]
 
 
 //Text $1B8C38
@@ -16629,9 +16619,9 @@ mashed fruit. Perfect for a snack![END]
 
 //Text $1B8BD8
 #WRITE(ptr,$19245C)
-Strap with Fruit Tofu.[LINE]
-Tofu mixed with fruits.[LINE]
-Has an indescribable texture.[END]
+Strap with Fruit Tofu. A mix[LINE]
+of tofu with fruits. Has an [LINE]
+indescribable texture.[END]
 
 
 //Text $1B8BA0
@@ -16641,9 +16631,9 @@ Has an indescribable texture.[END]
 
 //Text $1B8B48
 #WRITE(ptr,$19248C)
-Strap with a Hot Pot.[LINE]
-Meat hot pot. Filled with meat stock.[LINE]
-Leftover soup can be eaten with Udon.[END]
+Strap with a Hot Pot. Meat hot pot.[LINE]
+Filled with meat stock. Leftover[LINE]
+soup can be eaten with Udon.[END]
 
 
 //Text $1B8B10
@@ -16653,9 +16643,9 @@ Leftover soup can be eaten with Udon.[END]
 
 //Text $1B8AB8
 #WRITE(ptr,$1924BC)
-Strap with a Fish Hot Pot.[LINE]
-Fish hot pot. Filled with fish stock.[LINE]
-Leftover soup can be eaten with Rice.[END]
+Strap with a Fish Hot Pot. Filled[LINE]
+with fish stock. Leftover soup can[LINE]
+be eaten with Rice.[END]
 
 
 //Text $1B8A78
@@ -16665,8 +16655,8 @@ Leftover soup can be eaten with Rice.[END]
 
 //Text $1B8A30
 #WRITE(ptr,$1924EC)
-Strap with a Sunfish Skewer.[LINE]
-Because eating delicious stuff is important.[END]
+Strap with a Sunfish Skewer. Because[LINE]
+eating delicious stuff is important.[END]
 
 
 //Text $1B89F0
@@ -16676,9 +16666,9 @@ Because eating delicious stuff is important.[END]
 
 //Text $1B8988
 #WRITE(ptr,$19251C)
-Strap with Miso Oden.[LINE]
-The sweetness of fine miso sauce spreads[LINE]
-in one's mouth. Goes well with sake.[END]
+Strap with Miso Oden. The sweetness[LINE]
+of fine miso sauce spreads in one's[LINE]
+mouth. Goes well with sake.[END]
 
 
 //Text $1B8948
@@ -16688,9 +16678,9 @@ in one's mouth. Goes well with sake.[END]
 
 //Text $1B88E8
 #WRITE(ptr,$19254C)
-Strap with Mabo Curry.[LINE]
-A secret handed down by the military. The[LINE]
-utmost harmony between pungent and spicy![END]
+Strap with Mabo Curry. A secret handed[LINE]
+down by the military. The utmost harmony[LINE]
+between pungent and spicy![END]
 
 
 //Text $1B88A8
@@ -16712,9 +16702,9 @@ Tempers one's jaw.[END]
 
 //Text $1B87B8
 #WRITE(ptr,$1925AC)
-Strap with a Dry Sandwich.[LINE]
-Eat it as quickly as possible. Getting[LINE]
-it stuck in your throat is inevitable.[END]
+Strap with a Dry Sandwich. Eat it[LINE]
+as quickly as possible. Getting it[LINE]
+stuck in your throat is inevitable.[END]
 
 
 //Text $1B8778
@@ -16724,9 +16714,9 @@ it stuck in your throat is inevitable.[END]
 
 //Text $1B8710
 #WRITE(ptr,$1925DC)
-Strap with a Squashed Burger.[LINE]
-Not much different from a sat-on[LINE]
-burger. Easy to eat.[END]
+Strap with a Squashed Burger. Not[LINE]
+much different from a sat-on burger.[LINE]
+Easy to eat.[END]
 
 
 //Text $1B86D8
@@ -16784,9 +16774,9 @@ days it's good, some days it's bad.[END]
 
 //Text $1B8430
 #WRITE(ptr,$1926CC)
-Strap with a Dark Pot.[LINE]
-No one knows what's inside it.[LINE]
-Better eaten in the dark.[END]
+Strap with a Dark Pot. No one[LINE]
+knows what's inside it. Better[LINE]
+eaten in the dark.[END]
 
 
 //Text $1BA1B8
@@ -17668,8 +17658,8 @@ on the field.[END]
 //Text $1BAB98
 #WRITE(ptr,$192830)
 A mysterious bag that serves food.[LINE]
-Don't forget to refill it![LINE]
-4 food straps can be attached.[END]
+Don't forget to refill it! 4 food straps[LINE]
+can be attached.[END]
 
 
 //Text $1BAB80
@@ -17680,8 +17670,8 @@ Don't forget to refill it![LINE]
 //Text $1BAB38
 #WRITE(ptr,$19284C)
 A convenient shoulder bag used for [LINE]
-shopping and other activities.[LINE]
-6 food straps can be attached.[END]
+shopping and other activities. 6 food[LINE]
+straps can be attached.[END]
 
 
 //Text $1BAB20
@@ -17703,9 +17693,9 @@ A backpack for long journeys.[LINE]
 
 //Text $1BAA78
 #WRITE(ptr,$192884)
-A remodeled box that works[LINE]
-like a backpack.[LINE]
-16 food straps can be attached.[LINE]
+A remodeled box that works like[LINE]
+a backpack. 16 food straps can[LINE]
+be attached.[LINE]
 [END]
 
 
@@ -17717,8 +17707,8 @@ like a backpack.[LINE]
 //Text $1BAA18
 #WRITE(ptr,$1928A0)
 A pass that's required to enter[LINE]
-Phandaria from Seinegald.[LINE]
-It's tough without one...[END]
+Phandaria from Seinegald. It's[LINE]
+tough without one...[END]
 
 
 //Text $1BAA08
@@ -18539,12 +18529,12 @@ Beautiful Spring[END]
 Emergency Exit[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB230
 #WRITE(ptr,$1939D0)
 Emergency Exit[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB228
 #WRITE(ptr,$193A08)
 Mealy Primrose[END]
@@ -19164,6 +19154,7 @@ Stowaway found in the Draconis.[LINE]
 Escaped with his life as he[LINE]
 was about to be executed.[END]
 
+
 //POINTER #18 @ $1946F0 - STRING #18 @ $1BF070
 #WRITE(ptr,$1946F0)
 Country Boy[END]
@@ -19177,23 +19168,25 @@ to this honesty.[END]
 
 //POINTER #20 @ $1946F8 - STRING #20 @ $1BF020
 #WRITE(ptr,$1946F8)
-Swatian User[END]
+"Swatian" User?[END]
 
 
 //POINTER #21 @ $1946FC - STRING #21 @ $1BEFC0
 #WRITE(ptr,$1946FC)
 Wielder of a mysterious sword.[LINE]
-No one knows about Swordians,[LINE]
-so it's just a strange sword.[END]
+Since none know of the "Swatians,"[LINE]
+he simply wields a strange sword.[END]
+
+
 //POINTER #22 @ $194700 - STRING #22 @ $1BEFB0
 #WRITE(ptr,$194700)
 Lienean Man[END]
 
 //POINTER #23 @ $194704 - STRING #23 @ $1BEF50
 #WRITE(ptr,$194704)
-A young lad from Lienea in Neustadt.[LINE]
-He eventually learned about the[LINE]
-world and became a young man.[END]
+Heralding from the village of Lienea[LINE]
+in Neustadt, he became a young man[LINE]
+after learning more of the world.[END]
 
 
 //POINTER #24 @ $194708 - STRING #24 @ $1BEF40
@@ -19203,8 +19196,8 @@ Gentle Liar[END]
 //POINTER #25 @ $19470C - STRING #25 @ $1BEEE8
 #WRITE(ptr,$19470C)
 We lie to protect those we love.[LINE]
-Could those gentle lies protect[LINE]
-peace and security...?[END]
+Perhaps telling of these lies can[LINE]
+safeguard peace and security...?[END]
 
 
 //POINTER #26 @ $194710 - STRING #26 @ $1BEED8
@@ -19213,9 +19206,10 @@ Arena Champion[END]
 
 //POINTER #27 @ $194714 - STRING #27 @ $1BEE80
 #WRITE(ptr,$194714)
-One who conquered the arena.[LINE]
-His show of strength will be[LINE]
-engraved in people's hearts.[END]
+One who has conquered the arena.[LINE]
+Their display of martial prowess will[LINE]
+remain in people's hearts forever.[END]
+
 
 //POINTER #28 @ $194718 - STRING #28 @ $1BEE70
 #WRITE(ptr,$194718)
@@ -19224,9 +19218,10 @@ Genuine Master[END]
 
 //POINTER #29 @ $19471C - STRING #29 @ $1BEE00
 #WRITE(ptr,$19471C)
-A master recognized as a truly[LINE]
-legitimate swordsman. Inherited even[LINE]
-the original Swordian's temperament.[END]
+An individual recognized as a true[LINE]
+swordsman. Remarkably is also a[LINE]
+fit for the swordian's own disposition.[END]
+
 
 //POINTER #30 @ $194720 - STRING #30 @ $1BEDF0
 #WRITE(ptr,$194720)
@@ -19235,9 +19230,9 @@ Child of Fate[END]
 
 //POINTER #31 @ $194724 - STRING #31 @ $1BEDA8
 #WRITE(ptr,$194724)
-A small coincidence[LINE]
-and feelings of two people[LINE]
-beget this fated birth.[END]
+A mere coincidence and the[LINE]
+honest feelings of two people [LINE]
+begot this fated birth.[END]
 
 
 //POINTER #32 @ $194728 - STRING #32 @ $1BED98
@@ -19246,9 +19241,9 @@ beget this fated birth.[END]
  current address: $1BEDA2
 //POINTER #33 @ $19472C - STRING #33 @ $1BED58
 #WRITE(ptr,$19472C)
-[Lilith]'s older brother.[LINE]
-She still wakes him up[LINE]
-in the mornings.[END]
+[Lilith]'s older brother. Despite this,[LINE]
+she still wakes him every morning.[END]
+//[END]
 
 
 //POINTER #34 @ $194730 - STRING #34 @ $1BED48
@@ -19257,8 +19252,8 @@ Young Detective[END]
 
 //POINTER #35 @ $194734 - STRING #35 @ $1BECE8
 #WRITE(ptr,$194734)
-[Stahn]'s new side.[LINE]
-His purity to see through people[LINE]
+Events have unlocked [Stahn]'s alter[LINE]
+ego. Purity to see through people[LINE]
 is this boy detective's only weapon![END]
 
 
@@ -19267,9 +19262,10 @@ is this boy detective's only weapon![END]
 Great Detective![END]
 //POINTER #37 @ $19473C - STRING #37 @ $1BEC78
 #WRITE(ptr,$19473C)
-Talent brings new cases.[LINE]
-Worthy only for he who sees the truth[LINE]
-hidden before his very eyes.[END]
+New talent brings new cases. Title[LINE]
+bestowed only for those who see the[LINE]
+truth hidden before his very eyes.[END]
+
 
 //POINTER #38 @ $194740 - STRING #38 @ $1BEC68
 #WRITE(ptr,$194740)
@@ -19279,7 +19275,7 @@ Stahndum[END]
 //POINTER #39 @ $194744 - STRING #39 @ $1BEC18
 #WRITE(ptr,$194744)
 [MUSIC]Drumming and banging,[LINE]
-[Stahn] beats the drums, DUMdumdum[LINE]
+[Stahn] beats the drums, DUMdadum[LINE]
 Yes the drums, DUM badum[MUSIC][END]
 
 
@@ -19290,8 +19286,8 @@ Dashing Bumpkin[END]
 //POINTER #41 @ $19474C - STRING #41 @ $1BEBC0
 #WRITE(ptr,$19474C)
 A young country bumpkin who[LINE]
-aspires for glory in the city.[END]
-//[END]
+gained just a tiny bit of glory in[LINE]
+the city by following his dreams.[END]
 
 
 //POINTER #42 @ $194750 - STRING #42 @ $1BEBB0
@@ -19300,9 +19296,9 @@ Quiz Club Member[END]
 
 //POINTER #43 @ $194754 - STRING #43 @ $1BEB48
 #WRITE(ptr,$194754)
-A club created out of an intellectual desire[LINE]
-to acquire all knowledge.[LINE]
-He is an active member.[END]
+Currently an active member of a[LINE]
+club created out of an intellectual[LINE]
+desire to acquire all knowledge.[END]
 
 
 //POINTER #44 @ $194758 - STRING #44 @ $1BEB30
@@ -19311,9 +19307,9 @@ NatuRanger[END]
 
 //POINTER #45 @ $19475C - STRING #45 @ $1BEAE8
 #WRITE(ptr,$19475C)
-Honorary title for adventurers[LINE]
-who love and protect nature[END]
-and culture.//[END]
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
@@ -19323,8 +19319,8 @@ Lienean Official[END]
 
 //POINTER #47 @ $194764 - STRING #47 @ $1BEA78
 #WRITE(ptr,$194764)
-[Stahn] Aileron (19) from the village of Lienea.[LINE]
-１７２ｃｍ ６３ｋｇ[LINE]
+[Stahn] Aileron (19), from Lienea.[LINE]
+172cm, 65kg[LINE]
 Master of the Swordian Dymlos.[END]
 
 
@@ -19341,7 +19337,8 @@ bath with [Kongman]. Unforgivable![LINE]
 
 //POINTER #50 @ $194770 - STRING #50 @ $1BEA00
 #WRITE(ptr,$194770)
-Sun's Courage Heir[END]
+Inheritor of the Sun's Courage[END]
+
 
 //POINTER #51 @ $194774 - STRING #51 @ $1BE988
 #WRITE(ptr,$194774)
@@ -19351,13 +19348,15 @@ the power of the sun.[END]
 
 //POINTER #52 @ $194778 - STRING #52 @ $1BE978
 #WRITE(ptr,$194778)
-Rising Merchant[END]
+Merchant in Training[END]
+
 
 //POINTER #53 @ $19477C - STRING #53 @ $1BE928
 #WRITE(ptr,$19477C)
-Each has his own business talent.[LINE]
-Making my name known[LINE]
-accepting capital requests.[END]
+Everyone has their own strengths in[LINE]
+business. To become famous, he[LINE]
+will do whatever is asked of him.[END]
+
 
 //POINTER #54 @ $194780 - STRING #54 @ $1BE918
 #WRITE(ptr,$194780)
@@ -19365,9 +19364,9 @@ Lens Hunter[END]
 
 //POINTER #55 @ $194784 - STRING #55 @ $1BE8E0
 #WRITE(ptr,$194784)
-The lens hunter. Seeking lens[LINE]
-from around the world.[END]
-//[END]
+Scouring the world to accumulate[LINE]
+as much lens as possible. This is[LINE]
+what it means to be a Lens Hunter.[END]
 
 
 //POINTER #56 @ $194788 - STRING #56 @ $1BE8D0
@@ -19376,9 +19375,10 @@ Greedy Witch[END]
 
 //POINTER #57 @ $19478C - STRING #57 @ $1BE878
 #WRITE(ptr,$19478C)
-An alias known to the world.[LINE]
-Not a speck of lens remains[LINE]
-on her path.[END]
+An alias known around the world.[LINE]
+Where the greedy witch walks[LINE]
+Not a speck of lens remains.[END]
+
 
 //POINTER #58 @ $194790 - STRING #58 @ $1BE860
 #WRITE(ptr,$194790)
@@ -19396,9 +19396,10 @@ Ex-Lens Hunter[END]
 
 //POINTER #61 @ $19479C - STRING #61 @ $1BE798
 #WRITE(ptr,$19479C)
-Former well-known lens hunter.[LINE]
-No longer in business, but you[LINE]
-can catch a glimpse of her true face.[END]
+Formerly well-known lens hunter.[LINE]
+While she is no longer in business,[LINE]
+old habits die hard.[END]
+
 
 //POINTER #62 @ $1947A0 - STRING #62 @ $1BE788
 #WRITE(ptr,$1947A0)
@@ -19417,9 +19418,9 @@ Invisible Hand[END]
 
 //POINTER #65 @ $1947AC - STRING #65 @ $1BE6E8
 #WRITE(ptr,$1947AC)
-Her hands hold the world's economy.[LINE]
-She shouldn't be given this title...[END]
-//[END]
+The hand that silently guides the[LINE]
+worlds' economy. In hindsight, she[LINE]
+probably shouldn't be given this title...[END]
 
 
 //POINTER #66 @ $1947B0 - STRING #66 @ $1BE6D8
@@ -19428,9 +19429,9 @@ Gald Maiden[END]
 
 //POINTER #67 @ $1947B4 - STRING #67 @ $1BE690
 #WRITE(ptr,$1947B4)
-She swore she didn't want it anymore.[LINE]
-But there she goes again, after money.[END]
-//[END]
+Despite swearing she no longer[LINE]
+desired money, she continues to[LINE]
+covet Gald every waking moment.[END]
 
 
 //POINTER #68 @ $1947B8 - STRING #68 @ $1BE688
@@ -19439,9 +19440,10 @@ Mother-like[END]
 
 //POINTER #69 @ $1947BC - STRING #69 @ $1BE620
 #WRITE(ptr,$1947BC)
-A face I can't remember.[LINE]
-Still I can relate to such a woman.[LINE]
-A new excuse to obsess over money...[END]
+A woman with an unrememberable[LINE]
+face who is still quite relatable. She[LINE]
+is a new excuse to covet Gald....[END]
+
 
 //POINTER #70 @ $1947C0 - STRING #70 @ $1BE610
 #WRITE(ptr,$1947C0)
@@ -19449,9 +19451,8 @@ Realist[END]
 
 //POINTER #71 @ $1947C4 - STRING #71 @ $1BE5A8
 #WRITE(ptr,$1947C4)
-One who doesn't look away from reality.[LINE]
-Even if it hurts, she has the strength[LINE]
-to accept the truth.[END]
+One who has the strength to face the[LINE]
+truth, regardless of the pain it causes.[END]
 //[END]
 
 
@@ -19513,9 +19514,9 @@ NatuRanger[END]
 
 //POINTER #83 @ $1947F4 - STRING #83 @ $1BEAE8
 #WRITE(ptr,$1947F4)
-Love and protect all nature and[LINE]
-civilization. An honorable title[LINE] 
-bestowed upon such adventurers.[END]
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 
 //POINTER #84 @ $1947F8 - STRING #84 @ $1BE418
@@ -19565,8 +19566,8 @@ Straylize Priest[END]
 
 //POINTER #93 @ $19481C - STRING #93 @ $1BE220
 #WRITE(ptr,$19481C)
-A priestess who devotes her life[LINE]
-to serve god in the temple.[END]
+A priestess who devotes her life to serve[LINE]
+the goddess in the temple.[END]
 //[END]
 
 
@@ -19660,9 +19661,10 @@ Dashing Priestess[END]
 
 //POINTER #111 @ $194864 - STRING #111 @ $1BDEC8
 #WRITE(ptr,$194864)
-With god's power, she runs[LINE]
+With the goddess' power, she runs[LINE]
 at a divine speed.[LINE]
 The Dashing Priestess.[END]
+
 
 //POINTER #112 @ $194868 - STRING #112 @ $1BDEB0
 #WRITE(ptr,$194868)
@@ -19680,9 +19682,9 @@ NatuRanger[END]
 
 //POINTER #115 @ $194874 - STRING #115 @ $1BEAE8
 #WRITE(ptr,$194874)
-全ての自然と文明を愛し守り抜く、[LINE]
-そんな冒険家に贈られる名誉ある称号。[END]
-//[END]
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 
 //POINTER #116 @ $194878 - STRING #116 @ $1BDE28
@@ -19830,9 +19832,9 @@ NatuRanger[END]
 
 //POINTER #143 @ $1948E4 - STRING #143 @ $1BEAE8
 #WRITE(ptr,$1948E4)
-Love and protect all nature and[LINE]
-civilization. An honorable title[LINE] 
-bestowed upon such adventurers.[END]
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #144 @ $1948E8 - STRING #144 @ $1BD938
 #WRITE(ptr,$1948E8)
@@ -19995,13 +19997,15 @@ battles for the secession of Cyril.[END]
 
 //POINTER #174 @ $194960 - STRING #174 @ $1BD300
 #WRITE(ptr,$194960)
-Dalis's Wife[END]
+Dalis' Wife[END]
+
 
 //POINTER #175 @ $194964 - STRING #175 @ $1BD2B8
 #WRITE(ptr,$194964)
-Dalis Vincent's wife.[LINE]
-We vowed to share[LINE]
-our joys and sorrows together.[END]
+Dalis Vincent's wife. They vowed to[LINE]
+share their joys and sorrows[LINE]
+together.[END]
+
 
 //POINTER #176 @ $194968 - STRING #176 @ $1BD2A8
 #WRITE(ptr,$194968)
@@ -20070,10 +20074,9 @@ NatuRanger[END]
 
 //POINTER #189 @ $19499C - STRING #189 @ $1BEAE8
 #WRITE(ptr,$19499C)
-Honorary title for adventurers[LINE]
-who love and protect nature[END]
-and culture.[END]
-
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #190 @ $1949A0 - STRING #190 @ $1BCFF8
 #WRITE(ptr,$1949A0)
@@ -20216,10 +20219,9 @@ NatuRanger[END]
 
 //POINTER #217 @ $194A0C - STRING #217 @ $1BEAE8
 #WRITE(ptr,$194A0C)
-Honorary title for adventurers[LINE]
-who love and protect nature[END]
-and culture.[END]
-
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #218 @ $194A10 - STRING #218 @ $1BCB08
 #WRITE(ptr,$194A10)
@@ -20364,10 +20366,9 @@ NatuRanger[END]
 
 //POINTER #245 @ $194A7C - STRING #245 @ $1BEAE8
 #WRITE(ptr,$194A7C)
-Honorary title for adventurers[LINE]
-who love and protect nature[END]
-and culture.[END]
-
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #246 @ $194A80 - STRING #246 @ $1BC688
 #WRITE(ptr,$194A80)
@@ -20452,12 +20453,13 @@ Sometimes to beat the bad guys.[END]
 
 //POINTER #262 @ $194AC0 - STRING #262 @ $1BC348
 #WRITE(ptr,$194AC0)
-God Challenger[END]
+Goddess Challenger[END]
+
 
 //POINTER #263 @ $194AC4 - STRING #263 @ $1BC318
 #WRITE(ptr,$194AC4)
-To satisfy his own desires.[LINE]
-The man challenges God to battle.[END]
+To satisfy his own desires. The man[LINE]
+challenges the Goddess to battle.[END]
 //[END]
 
 //POINTER #264 @ $194AC8 - STRING #264 @ $1BC308
@@ -20506,9 +20508,9 @@ NatuRanger[END]
 
 //POINTER #273 @ $194AEC - STRING #273 @ $1BEAE8
 #WRITE(ptr,$194AEC)
-Honorary title for adventurers[LINE]
-who love and protect nature[END]
-and culture.[END]
+Protect all nature and culture through[LINE]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 
 //POINTER #274 @ $194AF0 - STRING #274 @ $1BC170

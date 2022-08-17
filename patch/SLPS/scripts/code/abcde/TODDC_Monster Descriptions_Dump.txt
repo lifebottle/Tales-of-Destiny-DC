@@ -511,8 +511,8 @@ giant feet. Don't let it kick you.[END]
 
 //Text $62DC
 #WRITE(ptr,$3ED0)
-A bioweapon called [Bomb].[LINE]
-As the name implies, it explodes.[LINE]
+A bioweapon called [Exocet]. As[LINE]
+the name implies, it explodes.[LINE]
 Avoid using fire.[END]
 
 
