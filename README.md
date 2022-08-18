@@ -2,11 +2,11 @@
 ![image](https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png)
 
 # Current Progress (First Draft)
-Scenario Files Translated: 100%
+Scenario Files Translated and edited: 100%
 
-Menus: 98%
+Menus translated: 100% (minus the credit roll)
 
-Skits: 100%
+Skits translated and edited: 100%
 
 Discord: 
 https://discord.gg/NUvvgUtdXW
