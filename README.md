@@ -1,7 +1,7 @@
 # Tales of Destiny DC
 ![image](https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png)
 
-# Current Progress (First Draft)
+# Current Progress (Final Verification)
 Scenario Files Translated and edited: 100%
 
 Menus translated: 100% (minus the credit roll)
