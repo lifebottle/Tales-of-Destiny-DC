@@ -503,13 +503,15 @@ are currently up to.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Watch yourself if you're going to
-ask people if they're from Calvalese.
+Watch yourself if you're going
+to ask people if they're from
+Calvalese.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-If it's found out that they're from
-Calvalese, they'll lose their livelihood.
+If it's found out that they're
+from Calvalese, they'll lose
+their livelihood.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -518,8 +520,9 @@ I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Watch yourself if you're going to
-ask people if they're from Calvalese.
+Watch yourself if you're going
+to ask people if they're from
+Calvalese.
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -546,8 +549,9 @@ I can't believe it hit the city...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Damn, the sky is completely covered,
-and there's nothing we can do about it.
+Damn, the sky is completely covered
+up now, and there's nothing we can
+do about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -573,13 +577,13 @@ We're open until midnight.
 Item Shop
 [ENDBLOCK]
 We have a wide range of products
-that only the royal capital can offer.
+only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
 We have a wide range of products
-that only the royal capital can offer.
+only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
 Item Shop
@@ -595,13 +599,13 @@ We're open until midnight.
 Item Shop
 [ENDBLOCK]
 We have a wide range of products
-that only the royal capital can offer.
+only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
 We have a wide range of products
-that only the royal capital can offer.
+only the royal capital can offer.
 Please take a look!
 [ENDBLOCK]
 Item Shop
@@ -611,6 +615,26 @@ we'll keep the store going!
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
+Good evening. Please
+take a look.
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+You won't be disappointed.
+Please take a look!
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+You won't be disappointed.
+Please take a look!
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
+We can't lose to
+our neighbors!
+[ENDBLOCK]
+Accessory Shop
+[ENDBLOCK]
 Good evening.
 Please take a look.
 [ENDBLOCK]
@@ -626,26 +650,8 @@ Please take a look!
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-We can't lose to our neighbors!
-[ENDBLOCK]
-Accessory Shop
-[ENDBLOCK]
-Good evening.
-Please take a look.
-[ENDBLOCK]
-Accessory Shop
-[ENDBLOCK]
-You won't be disappointed.
-Please take a look!
-[ENDBLOCK]
-Accessory Shop
-[ENDBLOCK]
-You won't be disappointed.
-Please take a look!
-[ENDBLOCK]
-Accessory Shop
-[ENDBLOCK]
-We can't lose to our neighbors!
+We can't lose to
+our neighbors!
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -923,12 +929,13 @@ Hey, hear me out, pal.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm selling gummies in
-my sick mother's stead.
+I'm selling gummies in my
+sick mother's stead.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Could you buy one? Pretty please?
+Could you buy one?
+Pretty please?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -936,7 +943,8 @@ Ehhh...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Many blessings and thanks!
+Many blessings
+and thanks!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
