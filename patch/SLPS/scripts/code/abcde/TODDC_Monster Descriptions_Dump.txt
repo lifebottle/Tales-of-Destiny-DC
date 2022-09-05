@@ -602,9 +602,9 @@ Focus on stopping his spells.[END]
 
 //Text $6738
 #WRITE(ptr,$3F04)
-Swordian Master of Fire. His technique[LINE]
-is overwhelming. He acts defensively,[LINE]
-but won't hesitate to enter the fray.[END]
+Swordian Master of Fire. His artes are[LINE]
+overwhelming. He acts defensively, but [LINE]
+won't hesitate to enter the fray.[END]
 
 
 //Text $67AB

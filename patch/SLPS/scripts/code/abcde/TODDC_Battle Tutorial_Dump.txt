@@ -298,7 +298,7 @@ full. Press [L1_Press2] while attacking to use your Blast[END]
 
 //Text $3F030
 #WRITE(ptr,$3A91C)
-Caliber! Use it in a pinch or to sring attacks[END]
+Caliber! Use it in a pinch or to string attacks[END]
 
 
 //Text $3EFF8
@@ -392,17 +392,17 @@ with [Triangle_ani] and bring the character you want to control[END]
 
 //Text $3ECB8
 #WRITE(ptr,$3A9B8)
-the character you want to control to the top.[END]
+to the top. Swap characters in combat with [L1_Press2] in the[END]
 
 
 //Text $3EC80
 #WRITE(ptr,$3A9C0)
-to the top. Swap characters in combat with [L1_Press2] in the[END]
+[Triangle_ani] Menu.[END]
 
 
 //Text $3EC60
 #WRITE(ptr,$3A9C8)
-[Triangle_ani] Menu. You may find new combat skills.[END]
+[END]
 
 
 //Text $3EC48

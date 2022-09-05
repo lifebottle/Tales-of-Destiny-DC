@@ -509,7 +509,7 @@ A World in Darkness[END]
 
 //Text $19A2D0
 #WRITE(ptr,$D8820)
-Demons Attack[END]
+Monsters Attack[END]
 
 
 //Text $19A2B8
@@ -1282,7 +1282,7 @@ Embossing Nap[END]
 //Text $19D310
 #WRITE(ptr,$1847B0)
 Stops enemy movement for 3 seconds.[LINE]
-Don't waste your time.[END]
+It's too fast for any dancing this time.[END]
 
 
 //Text $19D2F8
@@ -4109,8 +4109,8 @@ spears of light.[END]
 
 //Text $19DAD0
 #WRITE(ptr,$184470)
-Rains down the lightning[LINE]
-of god upon the enemy.[LINE]
+Rains down the lightning of Atamoni[LINE]
+upon the enemy.[LINE]
 [END]
 
 
@@ -4933,7 +4933,7 @@ Flash Guard raises  CC＋[TAG_015][END]
 
 //Text $1A2540
 #WRITE(ptr,$1851D4)
-PLUS CC+[END]
+CC+[END]
 
 
 //Text $1A2520
@@ -5003,7 +5003,7 @@ CC＋1 when charging[END]
 
 //Text $1A2428
 #WRITE(ptr,$185260)
-CHAIN CC+1[END]
+CC+1[END]
 
 
 //Text $1A2408
@@ -5023,7 +5023,7 @@ Fill Blast gauge when charging[END]
 
 //Text $1A23D0
 #WRITE(ptr,$185288)
-BLAST PLUS[END]
+BLAST+[END]
 
 
 //Text $1A23B0
@@ -5033,7 +5033,7 @@ Give allies CC with Charge[END]
 
 //Text $1A23A0
 #WRITE(ptr,$18529C)
-CHAIN SUPPLY[END]
+CC SUPPLY[END]
 
 
 //Text $1A2388
@@ -5053,7 +5053,7 @@ Increases P. ATK when charging[END]
 
 //Text $1A2358
 #WRITE(ptr,$1852C4)
-CHARGE P.ATK[END]
+P.ATK+[END]
 
 
 //Text $1A2338
@@ -5063,7 +5063,7 @@ Removes de-buffs when charging[END]
 
 //Text $1A2328
 #WRITE(ptr,$1852D8)
-DISPEL EFFECT[END]
+DISPEL[END]
 
 
 //Text $1A2308
@@ -5088,7 +5088,7 @@ Fills the blast gauge periodically[END]
 
 //Text $1A23D0
 #WRITE(ptr,$185300)
-BLAST PLUS[END]
+BLAST+[END]
 
 
 //Text $1A22B8
@@ -5128,7 +5128,7 @@ Defeat an enemy to gain CC＋[TAG_015][END]
 
 //Text $1A2240
 #WRITE(ptr,$18533C)
-GAIN CC[END]
+CC+[END]
 
 
 //Text $1A2230
@@ -5142,7 +5142,7 @@ Fills the blast gauge upon defeating an enemy[END]
 
 //Text $1A21F8
 #WRITE(ptr,$185350)
-GAIN BLAST[END]
+BLAST+[END]
 
 
 //Text $1A21E8
@@ -5207,7 +5207,7 @@ Critical attacks stun foes longer[END]
 
 //Text $1A20D0
 #WRITE(ptr,$1853DC)
-ADD STUN[END]
+STUN+[END]
 
 
 //Text $1A20C0
@@ -5222,7 +5222,7 @@ Critical attack CC＋[TAG_015][END]
 
 //Text $1A2090
 #WRITE(ptr,$185404)
-ADD CC[END]
+CC+[END]
 
 
 //Text $1A2080
@@ -5532,7 +5532,7 @@ Periodical food recovery[END]
 
 //Text $1A1BA8
 #WRITE(ptr,$1856AC)
-CHARGE @FOOD[END]
+FOOD+[END]
 
 
 //Text $1A1B88
@@ -5607,7 +5607,7 @@ Chance to steal item up by [TAG_015]％[END]
 
 //Text $1A19F0
 #WRITE(ptr,$1857E8)
-Block abnormal status[END]
+Prevents status ailments[END]
 
 
 //Text $1A19D0
@@ -5627,7 +5627,7 @@ Life Bottle fully restores HP[END]
 
 //Text $1A1980
 #WRITE(ptr,$185828)
-FULL @HEAL[END]
+FULL HEAL[END]
 
 
 //Text $1A1958
@@ -5637,7 +5637,7 @@ Reduce time to use next item by [TAG_015]％[END]
 
 //Text $1A1948
 #WRITE(ptr,$18583C)
-REDUSE @TIME[END]
+REDUSE ITEM TIME[END]
 
 
 //Text $1A1928
@@ -5647,7 +5647,7 @@ Recovery items heal [TAG_015]% more[END]
 
 //Text $1A1918
 #WRITE(ptr,$185850)
-BONUS @HEAL[END]
+BONUS HEAL[END]
 
 
 //Text $1A1900
@@ -8488,13 +8488,13 @@ of industrial waste from long ago.[END]
 Radisrol[END]
 
 
-#JMP($1A5EE7)
 //Text $1A6FE0
 #WRITE(ptr,$18A03C)
 #WRITE(ptr,$18A464)
 [END]
 
 
+#JMP($1A5EE7)
 //Text $1A6F90
 #WRITE(ptr,$18A040)
 A ship once known for its heroics.[LINE]
@@ -8739,7 +8739,7 @@ was revealed by Belcrant's bombardment.[END]
 
 //Text $1A69E8
 #WRITE(ptr,$18A380)
-Traveler's Lodge [END]
+Traveler's Lodge[END]
 
 
 //Text $1A69D0
@@ -10827,7 +10827,7 @@ A support item for mixing. [END]
 
 //Text $1AE8B8
 #WRITE(ptr,$18CCD8)
-Adds flavor to cooking[ and helpsLINE]
+Adds flavor to cooking and helps[LINE]
 with digestion. A support item for[LINE]
 mixing.[END]
 
@@ -12674,8 +12674,8 @@ still a human milestone.[END]
 //Text $1B28E0
 #WRITE(ptr,$18DF4C)
 An axe made of copper with excellent[LINE]
-erosion resistance. This metal was used[LINE]
-since the age of the Aeth'er War.[END]
+erosion resistance. Metal that has been[LINE]
+used since the age of the Aeth'er War.[END]
 
 
 //Text $1B28C8
@@ -12685,8 +12685,8 @@ since the age of the Aeth'er War.[END]
 
 //Text $1B2888
 #WRITE(ptr,$18DF88)
-An axe made of iron. This metal[LINE]
-is used in a variety of structures.[LINE]
+An axe made of iron. Metal that is[LINE]
+used in a variety of structures.[LINE]
 The most common metal.[END]
 
 
@@ -12722,7 +12722,7 @@ incredible corrosion resistance.[END]
 //Text $1B2790
 #WRITE(ptr,$18E03C)
 An axe adorned with silverwork.[LINE]
-It has a beautiful white shine[LINE]
+It has a beautiful white shine.[LINE]
 [END]
 
 
@@ -12734,8 +12734,8 @@ It has a beautiful white shine[LINE]
 //Text $1B2740
 #WRITE(ptr,$18E078)
 An axe made by using a rich[LINE]
-mixture of gold. It's also known[LINE]
-as the "Luxurious Axe".[END]
+mixture of gold. Known as the[LINE]
+"Luxurious Axe".[END]
 
 
 //Text $1B2728
@@ -12745,9 +12745,9 @@ as the "Luxurious Axe".[END]
 
 //Text $1B26E0
 #WRITE(ptr,$18E0B4)
-An axe forged with mithril. It[LINE]
-is said to be a product of the[LINE]
-Dwarves.[END]
+An axe forged out of mithril.[LINE]
+It is said to be a product of[LINE]
+the Dwarves.[END]
 
 
 //Text $1B26C8
@@ -12757,8 +12757,8 @@ Dwarves.[END]
 
 //Text $1B2680
 #WRITE(ptr,$18E0F0)
-A small axe that is very easy to[LINE]
-use. You don't need to be very[LINE]
+A small, very easy-to-use small[LINE]
+axe. You don't need to be very[LINE]
 strong to wield it in one hand.[END]
 
 
@@ -12781,7 +12781,7 @@ optimized for battle.[END]
 
 //Text $1B25B0
 #WRITE(ptr,$18E168)
-A famous wood cutter once praised this[LINE]
+A famous lumberjack once praised this[LINE]
 axe with the words: "Wow! It's great!",[LINE]
 which was how it received its name.[END]
 
@@ -12794,7 +12794,7 @@ which was how it received its name.[END]
 //Text $1B2548
 #WRITE(ptr,$18E1A4)
 An axe shaped like a crescent moon.[LINE]
-This milky-white blade looks more like[LINE]
+This milky-white blade more resembles[LINE]
 a moon when wielded in the dark.[END]
 
 
@@ -12805,9 +12805,9 @@ a moon when wielded in the dark.[END]
 
 //Text $1B24D8
 #WRITE(ptr,$18E1E0)
-An axe whose edge extends to[LINE]
-the other side of the blade. Used[LINE]
-for thrusting into the ground.[END]
+An axe with an edge that extends to[LINE]
+the other side of the blade. Used for[LINE]
+thrusting into the ground.[END]
 
 
 //Text $1B24C0
@@ -12830,8 +12830,8 @@ gap in its edge.[END]
 //Text $1B2410
 #WRITE(ptr,$18E258)
 An axe characterized by its thin,[LINE]
-round edge. It can easily cut flesh,[LINE]
-even with little strength.[END]
+round edge. Easily cuts through[LINE]
+flesh, even with little strength.[END]
 
 
 //Text $1B23F8
@@ -12853,9 +12853,9 @@ valuable. A warrior's dream axe.[END]
 
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
-An axe whose name means[LINE]
-"A tool for cutting." If you're[LINE]
-skillful, you can throw it.[END]
+An axe whose name means "A tool[LINE]
+for cutting."If you're skillful, you can[LINE]
+throw it.[END]
 
 
 //Text $1B2320
@@ -12901,8 +12901,8 @@ down foes on horseback.[END]
 
 //Text $1B21C8
 #WRITE(ptr,$18E3C0)
-An axe whose name comes from[LINE]
-its eye-shaped axe head.[LINE]
+An axe whose name is taken[LINE]
+from its eye-shaped axe head.[LINE]
 [END]
 
 
@@ -12999,7 +12999,7 @@ luxurious, but sharp.[END]
 #WRITE(ptr,$18E5A0)
 A battle axe decorated to look[LINE]
 like a plant. It's light, but is an[LINE]
-excellent bludgeoning tool.[END]
+excellent tool for  bludgeoning.[END]
 
 
 //Text $1B1ED0
@@ -13021,9 +13021,9 @@ remnant from its use in rituals.[END]
 
 //Text $1B1E20
 #WRITE(ptr,$18E618)
-A battle axe with a broad,[LINE]
-crescent-shaped head. Specializes[LINE]
-in cutting down foes.[END]
+A battle axe with a broad, crescent[LINE]
+shaped head. Specializes in cutting[LINE]
+down foes.[END]
 
 
 //Text $1B1E08
@@ -13117,7 +13117,7 @@ Also known as "The Beautiful Bow."[LINE]
 
 //Text $1B1B88
 #WRITE(ptr,$18E7F8)
-Weaved of the finest mithril,[LINE]
+Weaved out of the finest mithril,[LINE]
 this small bow is a work of art[LINE]
 created by dwarven craftsmen.[END]
 
@@ -13166,7 +13166,7 @@ bow made for assassins.[LINE]
 //Text $1B1A28
 #WRITE(ptr,$18E8E8)
 A small bow with an arch that resembles[LINE]
-a griffon's claw. It is said to be able to[LINE]
+a griffin's claw. It is said to be able to[LINE]
 shoot birds flying high in the sky.[END]
 
 
@@ -13225,8 +13225,8 @@ beasts are paralyzed by its beauty.[END]
 //Text $1B1838
 #WRITE(ptr,$18EA14)
 A smaller version of "The Madman's Bow."[LINE]
-The originals were owned by archers[LINE]
-claiming to be invincible.[END]
+The originals were owned by archers who[LINE]
+claimied to be invincible.[END]
 
 
 //Text $1B1820
@@ -13248,9 +13248,9 @@ like you are the huntsman himself.[END]
 
 //Text $1B1750
 #WRITE(ptr,$18EA8C)
-A smaller version of a bow used by[LINE]
-passionate and beautiful female warriors.[LINE]
-Its precision could thread a needle.[END]
+A smaller bow used by passionate and[LINE]
+beautiful female warriors. Its precision[LINE]
+could thread a needle.[END]
 
 
 //Text $1B1738
@@ -13272,8 +13272,9 @@ fires arrows at lightning speed![LINE]
 
 //Text $1B16A0
 #WRITE(ptr,$18EB04)
-A diabolical weapon that turns the souls[LINE]
-of those it slays into power for its wielder.[LINE]
+A diabolical weapon that turns[LINE]
+the souls of those it slays into[LINE]
+power for its wielder.[LINE]
 [END]
 
 
@@ -13308,9 +13309,9 @@ those who are worthy may wield it.[END]
 
 //Text $1B1558
 #WRITE(ptr,$18EBB8)
-The more prickly the warts, the fresher they are.[LINE]
-The key is to harvest them while they are still[LINE]
-immature.[END]
+The more prickly the warts, the more[LINE]
+fresh they are. The key is to harvest[LINE]
+them while they are still immature.[END]
 
 
 //Text $1B1540
@@ -13368,7 +13369,7 @@ They are also known as "The Fabulous Fists."[LINE]
 
 //Text $1B13D0
 #WRITE(ptr,$18ECE4)
-Weaved of the finest mithril,[LINE]
+Weaved out of the finest mithril,[LINE]
 these knuckles are works of art[LINE]
 created by dwarven craftsmen.[END]
 
@@ -13476,9 +13477,9 @@ who transcribed many legends.[END]
 
 //Text $1B1018
 #WRITE(ptr,$18EF00)
-Knuckles of pure malice.[LINE]
-This weapon tears flesh with its horns,[LINE]
-then pours in a paralyzing poison.[END]
+Knuckles of pure malice. This weapon[LINE]
+tears flesh with its horns, then pours in[LINE]
+a paralyzing poison.[END]
 
 
 //Text $1B1000
@@ -13525,8 +13526,8 @@ the mightiest of men can wield them.[END]
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
 An offshoot of the lute. Its stings[LINE]
-are plucked with a pick made of[LINE]
-a tortoiseshell.[END]
+are plucked with a pick made of a[LINE]
+tortoiseshell.[END]
 
 
 //Text $1B0E80
@@ -13632,8 +13633,8 @@ doesn't copper conduct a lot of heat?[LINE]
 
 //Text $1B0B60
 #WRITE(ptr,$18F20C)
-A rare Silver Ladle. Make sure[LINE]
-to take care of your silverware![LINE]
+A rare Silver Ladle. Make sure to[LINE]
+take care of your silverware![LINE]
 [END]
 
 
@@ -13706,9 +13707,9 @@ since the age of the Aeth'er War.[END]
 
 //Text $1B5D98
 #WRITE(ptr,$18F3B0)
-Upper body armor made of iron,[LINE]
-the most familiar of metals. Sturdy[LINE]
-and tough, but heavy.[END]
+Upper body armor made of iron, the[LINE]
+most familiar of metals. Sturdy and[LINE]
+tough, but heavy.[END]
 
 
 //Text $1B5D80
@@ -13719,8 +13720,8 @@ and tough, but heavy.[END]
 //Text $1B5D40
 #WRITE(ptr,$18F3EC)
 Upper body armor made of[LINE]
-several steel plates. A favorite[LINE]
-of knight apprentices.[END]
+several steel plates. Favored[LINE]
+by knight apprentices.[END]
 
 
 //Text $1B5D28
@@ -15167,9 +15168,9 @@ for apprentice swordsmen. [END]
 
 //Text $1B8338
 #WRITE(ptr,$19122C)
-Gauntlet made of thin bronze.[LINE]
-Traditional gauntlets used since[LINE]
-the age of the Aeth'er War.[END]
+Gauntlets made of thin bronze.[LINE]
+Traditionally used since the age[LINE]
+of the Aeth'er War.[END]
 
 //Text $1B8318
 #WRITE(ptr,$191248)
@@ -15255,8 +15256,8 @@ of the King of Beasts.[END]
 
 //Text $1B5880
 #WRITE(ptr,$19132C)
-Masterpiece imbued with the[LINE]
-soul of Giese. Extremely valuable.[LINE]
+Masterpiece imbued with the soul[LINE]
+of Giese. Extremely valuable.[LINE]
 [END]
 
 
@@ -15355,7 +15356,7 @@ to heal with a touch.[END]
 
 //Text $1B7C88
 #WRITE(ptr,$19144C)
-Glove made from unknown materials.[LINE]
+Gloves made from unknown materials.[LINE]
 Its colors change with viewing angle.[LINE]
 Goes well with its cloak.[END]
 
@@ -15465,9 +15466,9 @@ Increases the damage of [Sign_Light] spells.[END]
 
 //Text $1B77D0
 #WRITE(ptr,$19158C)
-Necklace imbued with the Earth Spirits[LINE]
-and Goddess' blessings and love.[LINE]
-Decreases the casting time of [Sign_Earth] spells.[END]
+Necklace imbued with the Earth Spirits and[LINE]
+Goddess' blessings and love. Decreases[LINE]
+the casting time of [Sign_Earth] spells.[END]
 
 //Text $1B77B0
 #WRITE(ptr,$1915A8)
@@ -15575,9 +15576,9 @@ the skies. Made for experienced hunters.[END]
 
 //Text $1B7368
 #WRITE(ptr,$1916CC)
-One hit, one kill. Longbow used in[LINE]
-assassinations. Shoots death silently.[LINE]
-[END]
+One hit, one kill. Longbow used[LINE]
+in assassinations. Shoots death[LINE]
+silently.[END]
 
 //Text $1B7358
 #WRITE(ptr,$1916E8)
@@ -15730,8 +15731,8 @@ defense.[END]
 //Text $1B6DF0
 #WRITE(ptr,$19188C)
 A "Sky" bandana. Protects[LINE]
-wearer against paralysis and[LINE]
-increases endurance.[END]
+wearer against paralysis[LINE]
+and increases endurance.[END]
 
 //Text $1B6DD8
 #WRITE(ptr,$1918A8)
@@ -15752,8 +15753,8 @@ concentration.[END]
 //Text $1B6D30
 #WRITE(ptr,$1918CC)
 A "Gale" bandana. Protects[LINE]
-wearer against weakness and[LINE]
-increases evasion.[END]
+wearer against weakness[LINE]
+and increases evasion.[END]
 
 //Text $1B6D18
 #WRITE(ptr,$1918E8)
@@ -15795,8 +15796,8 @@ shake me!"[END]
 
 //Text $1B6BB0
 #WRITE(ptr,$19194C)
-A simple red ribbon. A necessity[LINE]
-for girls. Increases fire resistance.[LINE]
+A simple red ribbon. A necessity for[LINE]
+girls. Increases fire resistance.[LINE]
 [END]
 
 //Text $1B6B98
@@ -16006,9 +16007,9 @@ chance of downing foes.[END]
 
 //Text $1B63E8
 #WRITE(ptr,$191B8C)
-Proof he has conquered the arena's[LINE]
-middleweight division. Normal attacks[LINE]
-have a high chance of downing foes.[END]
+Proof of conquering the arena's middleweight[LINE]
+division. Normal attacks have a high chance[LINE]
+of downing foes.[END]
 
 
 //Text $1B63D0
@@ -16018,9 +16019,9 @@ have a high chance of downing foes.[END]
 
 //Text $1B6388
 #WRITE(ptr,$191BAC)
-Proof he has conquered the arena's[LINE]
-heavyweight division. Normal attacks[LINE]
-have a significant chance of downing foes.[END]
+Proof of conquering the arena's heavyweight[LINE]
+division. Normal attacks have a significant[LINE]
+chance of downing foes.[END]
 
 
 //Text $1B6370
@@ -16031,8 +16032,8 @@ have a significant chance of downing foes.[END]
 //Text $1B6328
 #WRITE(ptr,$191BCC)
 The greatest proof for those who have[LINE]
-conquered the arena! Bounce back[LINE]
-from a pinch with your spirit![END]
+conquered the arena! Rebound back[LINE]
+when in a pinch with your spirit![END]
 
 
 //Text $1B6310
@@ -19182,6 +19183,7 @@ he simply wields a strange sword.[END]
 #WRITE(ptr,$194700)
 Lienean Man[END]
 
+
 //POINTER #23 @ $194704 - STRING #23 @ $1BEF50
 #WRITE(ptr,$194704)
 Heralding from the village of Lienea[LINE]
@@ -19193,6 +19195,7 @@ after learning more of the world.[END]
 #WRITE(ptr,$194708)
 Gentle Liar[END]
 
+
 //POINTER #25 @ $19470C - STRING #25 @ $1BEEE8
 #WRITE(ptr,$19470C)
 We lie to protect those we love.[LINE]
@@ -19203,6 +19206,7 @@ safeguard peace and security...?[END]
 //POINTER #26 @ $194710 - STRING #26 @ $1BEED8
 #WRITE(ptr,$194710)
 Arena Champion[END]
+
 
 //POINTER #27 @ $194714 - STRING #27 @ $1BEE80
 #WRITE(ptr,$194714)
@@ -19225,14 +19229,14 @@ fit for the swordian's own disposition.[END]
 
 //POINTER #30 @ $194720 - STRING #30 @ $1BEDF0
 #WRITE(ptr,$194720)
-Child of Fate[END]
+Destiny's Child[END]
 
 
 //POINTER #31 @ $194724 - STRING #31 @ $1BEDA8
 #WRITE(ptr,$194724)
 A mere coincidence and the[LINE]
 honest feelings of two people [LINE]
-begot this fated birth.[END]
+begot this destined birth.[END]
 
 
 //POINTER #32 @ $194728 - STRING #32 @ $1BED98
@@ -19250,6 +19254,7 @@ she still wakes him every morning.[END]
 #WRITE(ptr,$194730)
 Young Detective[END]
 
+
 //POINTER #35 @ $194734 - STRING #35 @ $1BECE8
 #WRITE(ptr,$194734)
 Events have unlocked [Stahn]'s alter[LINE]
@@ -19260,6 +19265,8 @@ is this boy detective's only weapon![END]
 //POINTER #36 @ $194738 - STRING #36 @ $1BECD8
 #WRITE(ptr,$194738)
 Great Detective![END]
+
+
 //POINTER #37 @ $19473C - STRING #37 @ $1BEC78
 #WRITE(ptr,$19473C)
 New talent brings new cases. Title[LINE]
@@ -19394,6 +19401,7 @@ I wonder if something important happened?[END]
 #WRITE(ptr,$194798)
 Ex-Lens Hunter[END]
 
+
 //POINTER #61 @ $19479C - STRING #61 @ $1BE798
 #WRITE(ptr,$19479C)
 Formerly well-known lens hunter.[LINE]
@@ -19405,6 +19413,7 @@ old habits die hard.[END]
 #WRITE(ptr,$1947A0)
 Eldest Orphan[END]
 
+
 //POINTER #63 @ $1947A4 - STRING #63 @ $1BE750
 #WRITE(ptr,$1947A4)
 The eldest of Cresta Orphanage.[LINE]
@@ -19415,6 +19424,7 @@ her younger siblings.[END]
 //POINTER #64 @ $1947A8 - STRING #64 @ $1BE738
 #WRITE(ptr,$1947A8)
 Invisible Hand[END]
+
 
 //POINTER #65 @ $1947AC - STRING #65 @ $1BE6E8
 #WRITE(ptr,$1947AC)
@@ -19449,6 +19459,7 @@ is a new excuse to covet Gald....[END]
 #WRITE(ptr,$1947C0)
 Realist[END]
 
+
 //POINTER #71 @ $1947C4 - STRING #71 @ $1BE5A8
 #WRITE(ptr,$1947C4)
 One who has the strength to face the[LINE]
@@ -19459,6 +19470,7 @@ truth, regardless of the pain it causes.[END]
 //POINTER #72 @ $1947C8 - STRING #72 @ $1BE590
 #WRITE(ptr,$1947C8)
 Forever Young[END]
+
 
 //POINTER #73 @ $1947CC - STRING #73 @ $1BE558
 #WRITE(ptr,$1947CC)
@@ -19471,6 +19483,7 @@ For those with a rockin' soul.[END]
 #WRITE(ptr,$1947D0)
 Honest Girl[END]
 
+
 //POINTER #75 @ $1947D4 - STRING #75 @ $1BE510
 #WRITE(ptr,$1947D4)
 An upfront honest girl.[LINE]
@@ -19480,6 +19493,7 @@ Answers even tricky questions.[END]
 //POINTER #76 @ $1947D8 - STRING #76 @ $1BE500
 #WRITE(ptr,$1947D8)
 Gambler [Rutee][END]
+
 
 //POINTER #77 @ $1947DC - STRING #77 @ $1BE4D8
 #WRITE(ptr,$1947DC)
@@ -19562,7 +19576,7 @@ a lot of money today.[END]
 
 //POINTER #92 @ $194818 - STRING #92 @ $1BE260
 #WRITE(ptr,$194818)
-Straylize Priest[END]
+Straylize Priestess[END]
 
 //POINTER #93 @ $19481C - STRING #93 @ $1BE220
 #WRITE(ptr,$19481C)
@@ -19575,6 +19589,7 @@ the goddess in the temple.[END]
 #WRITE(ptr,$194820)
 Gaze of Resolve[END]
 
+
 //POINTER #95 @ $194824 - STRING #95 @ $1BE1C8
 #WRITE(ptr,$194824)
 A firm will in her gaze.[LINE]
@@ -19584,6 +19599,7 @@ a strong resolve dwells.[END]
 //POINTER #96 @ $194828 - STRING #96 @ $1BE1B8
 #WRITE(ptr,$194828)
 Maiden’s Gaze[END]
+
 
 //POINTER #97 @ $19482C - STRING #97 @ $1BE170
 #WRITE(ptr,$19482C)
@@ -19626,13 +19642,14 @@ through a divine marriage pact.[END]
 
 //POINTER #104 @ $194848 - STRING #104 @ $1BE030
 #WRITE(ptr,$194848)
-Class A Agent[END]
+Secret Agent[END]
 
 //POINTER #105 @ $19484C - STRING #105 @ $1BDFD8
 #WRITE(ptr,$19484C)
 An agent on a Class A mission[LINE]
 whose obligation unleashes[LINE]
 a power she normally can't![END]
+
 
 //POINTER #106 @ $194850 - STRING #106 @ $1BDFC8
 #WRITE(ptr,$194850)
@@ -19746,15 +19763,18 @@ leaves no weakness to be exploited[END]
 #WRITE(ptr,$1948A0)
 Isaac's Son[END]
 
+
 //POINTER #127 @ $1948A4 - STRING #127 @ $1BDBC8
 #WRITE(ptr,$1948A4)
 Phandaria's prince.[LINE]
 A wise military man of great beauty.[LINE]
 The symbol of his country.[END]
 
+
 //POINTER #128 @ $1948A8 - STRING #128 @ $1BDBB8
 #WRITE(ptr,$1948A8)
 Phandaria's King[END]
+
 
 //POINTER #129 @ $1948AC - STRING #129 @ $1BDB68
 #WRITE(ptr,$1948AC)
@@ -19775,6 +19795,7 @@ Maybe a little bit of both.[END]
 //POINTER #132 @ $1948B8 - STRING #132 @ $1BDAE0
 #WRITE(ptr,$1948B8)
 Doppelganger[END]
+
 
 //POINTER #133 @ $1948BC - STRING #133 @ $1BDA90
 #WRITE(ptr,$1948BC)
@@ -19797,6 +19818,7 @@ Well, anyway...[END]
 //POINTER #136 @ $1948C8 - STRING #136 @ $1BDA40
 #WRITE(ptr,$1948C8)
 Original King of Trivia[END]
+
 
 //POINTER #137 @ $1948CC - STRING #137 @ $1BDF20
 #WRITE(ptr,$1948CC)
@@ -19893,6 +19915,7 @@ people trust him very much.[END]
 #WRITE(ptr,$194910)
 Sweet Boy[END]
 
+
 //POINTER #155 @ $194914 - STRING #155 @ $1BD6B0
 #WRITE(ptr,$194914)
 He says he hates sweets, but[LINE]
@@ -19987,7 +20010,8 @@ skinned, red haired female warrior.[END]
 
 //POINTER #172 @ $194958 - STRING #172 @ $1BD378
 #WRITE(ptr,$194958)
-Former Army Soldier[END]
+Former Soldier[END]
+
 
 //POINTER #173 @ $19495C - STRING #173 @ $1BD310
 #WRITE(ptr,$19495C)
@@ -20010,6 +20034,7 @@ together.[END]
 //POINTER #176 @ $194968 - STRING #176 @ $1BD2A8
 #WRITE(ptr,$194968)
 Cat-Lover[END]
+
 
 //POINTER #177 @ $19496C - STRING #177 @ $1BD248
 #WRITE(ptr,$19496C)
@@ -20132,6 +20157,7 @@ she bravely shoots her enemies.[END]
 #WRITE(ptr,$1949C8)
 Kidult[END]
 
+
 //POINTER #201 @ $1949CC - STRING #201 @ $1BCDB8
 #WRITE(ptr,$1949CC)
 Adult children?[LINE]
@@ -20153,6 +20179,7 @@ into a great woman.[END]
 #WRITE(ptr,$1949D8)
 Little Lady[END]
 
+
 //POINTER #205 @ $1949DC - STRING #205 @ $1BCCF0
 #WRITE(ptr,$1949DC)
 A girl dreams of growing fast.[LINE]
@@ -20164,6 +20191,7 @@ On the flip side, she's still a child.[END]
 #WRITE(ptr,$1949E0)
 Innocent[END]
 
+
 //POINTER #207 @ $1949E4 - STRING #207 @ $1BCCA0
 #WRITE(ptr,$1949E4)
 An innocent heart person.[LINE]
@@ -20174,6 +20202,7 @@ It doesn't matter how old you are.[END]
 //POINTER #208 @ $1949E8 - STRING #208 @ $1BCC90
 #WRITE(ptr,$1949E8)
 Actress Guise[END]
+
 
 //POINTER #209 @ $1949EC - STRING #209 @ $1BCC38
 #WRITE(ptr,$1949EC)
@@ -20281,6 +20310,7 @@ Living a rootless life.[END]
 #WRITE(ptr,$194A38)
 Shiden's Youngest[END]
 
+
 //POINTER #229 @ $194A3C - STRING #229 @ $1BC8E0
 #WRITE(ptr,$194A3C)
 As Shiden's youngest,[LINE]
@@ -20292,14 +20322,18 @@ he lives a carefree life.[END]
 #WRITE(ptr,$194A40)
 Sealed Man[END]
 
+
 //POINTER #231 @ $194A44 - STRING #231 @ $1BC898
 #WRITE(ptr,$194A44)
 The elusive clown.[LINE]
-What might be sealed deep in his heart?[END]
+What might be sealed deep[LINE] 
+in his heart?[END]
+
 
 //POINTER #232 @ $194A48 - STRING #232 @ $1BC888
 #WRITE(ptr,$194A48)
 Sorrowful Musician[END]
+
 
 //POINTER #233 @ $194A4C - STRING #233 @ $1BC860
 #WRITE(ptr,$194A4C)
@@ -20312,16 +20346,18 @@ What does the musician think?[END]
 #WRITE(ptr,$194A50)
 Royal Clown[END]
 
+
 //POINTER #235 @ $194A54 - STRING #235 @ $1BC818
 #WRITE(ptr,$194A54)
 Though you may be a clown.[LINE]
-Inside… you're still royalty.[END]
+Inside... you're still royalty.[END]
 //[END]
 
 
 //POINTER #236 @ $194A58 - STRING #236 @ $1BC808
 #WRITE(ptr,$194A58)
 Live Musician[END]
+
 
 //POINTER #237 @ $194A5C - STRING #237 @ $1BC7C8
 #WRITE(ptr,$194A5C)
@@ -20331,7 +20367,8 @@ A live musician.[END]
 
 //POINTER #238 @ $194A60 - STRING #238 @ $1BC7B8
 #WRITE(ptr,$194A60)
-JohnnyBeats[END]
+Johnny Beats[END]
+
 
 //POINTER #239 @ $194A64 - STRING #239 @ $1BC768
 #WRITE(ptr,$194A64)
@@ -20425,6 +20462,7 @@ Whatever your background.[END]
 #WRITE(ptr,$194AA8)
 Topless Man[END]
 
+
 //POINTER #257 @ $194AAC - STRING #257 @ $1BC418
 #WRITE(ptr,$194AAC)
 Showing off his wonderful body.[LINE]
@@ -20435,6 +20473,7 @@ Display it to the world.[END]
 #WRITE(ptr,$194AB0)
 City Hero[END]
 
+
 //POINTER #259 @ $194AB4 - STRING #259 @ $1BC3C0
 #WRITE(ptr,$194AB4)
 Whenever there is a cry for help.[LINE]
@@ -20443,7 +20482,8 @@ The hero of Neustadt.[END]
 
 //POINTER #260 @ $194AB8 - STRING #260 @ $1BC3B8
 #WRITE(ptr,$194AB8)
-Iron Fist King[END]
+Tekken King[END]
+
 
 //POINTER #261 @ $194ABC - STRING #261 @ $1BC360
 #WRITE(ptr,$194ABC)
@@ -20466,6 +20506,7 @@ challenges the Goddess to battle.[END]
 #WRITE(ptr,$194AC8)
 Man in Love[END]
 
+
 //POINTER #265 @ $194ACC - STRING #265 @ $1BC2D0
 #WRITE(ptr,$194ACC)
 For the sake of the one he loves.[LINE]
@@ -20475,6 +20516,7 @@ A man vows to live in love.[END]
 //POINTER #266 @ $194AD0 - STRING #266 @ $1BC2C0
 #WRITE(ptr,$194AD0)
 ☆Star☆[END]
+
 
 //POINTER #267 @ $194AD4 - STRING #267 @ $1BC268
 #WRITE(ptr,$194AD4)
