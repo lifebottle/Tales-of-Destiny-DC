@@ -883,7 +883,7 @@ It's true. The more I had to help you,[LINE]
 
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
-[center]...and everything that lead us to this moment...[END]
+[center]...and everything that led us to this moment...[END]
 
 
 //Text $19AF90
@@ -1478,8 +1478,7 @@ A cold embrace that brings death.[END]
 
 //Text $19CEF0
 #WRITE(ptr,$1849C8)
-[Sign_7]Sacred Blame[END]
-
+[Sign_7]Sacred Penance[END]
 
 //Text $19CE98
 #WRITE(ptr,$1849D0)
@@ -1500,8 +1499,7 @@ Four elemental artes unleashed in succession.[END]
 
 //Text $19CE08
 #WRITE(ptr,$184A08)
-[Sign_7]Rebirth Crusader[END]
-
+[Sign_7]Heavenly Crusader[END]
 
 //Text $19CDB0
 #WRITE(ptr,$184A10)
@@ -2092,7 +2090,6 @@ Advance while delivering[LINE]
 #WRITE(ptr,$183168)
 [Sign_5]Light Spear Blast[END]
 
-
 //Text $1A0B50
 #WRITE(ptr,$18316C)
 [END]
@@ -2668,7 +2665,7 @@ block attacks. Lowers P. ATK of foes.[END]
 
 //Text $19FF80
 #WRITE(ptr,$183688)
-[Sign_5]Twin bomb[END]
+[Sign_5]Twin Bomb[END]
 
 
 //Text $19FF40
@@ -2701,8 +2698,7 @@ Inflicts petrify.[END]
 
 //Text $19FE80
 #WRITE(ptr,$1836E8)
-[Sign_5]Judgement[END]
-
+[Sign_5]Judgment[END]
 
 //Text $19FE48
 #WRITE(ptr,$1836F0)
