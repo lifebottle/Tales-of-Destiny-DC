@@ -91,17 +91,17 @@ Do Swordians Sleep?[END]
 
 //Text $163D0
 #WRITE(ptr,$54A4)
-Look For the Backwood’s Zelkova Tree[END]
+Look For the Backwood's Zelkova Tree[END]
 
 
 //Text $163B8
 #WRITE(ptr,$54A8)
-Return to the Mountain Hut[END]
+Return to the Mountain Cabin[END]
 
 
 //Text $163A8
 #WRITE(ptr,$54AC)
-Let’s Go Back[END]
+Let's Go Back[END]
 
 
 //Text $16390
@@ -111,12 +111,11 @@ Let's Go Inside[END]
 
 //Text $16378
 #WRITE(ptr,$54B4)
-Janos Is Southwest of [Alba]'s Hut[END]
-
+Janos Is SW of [Alba]'s Cabin[END]
 
 //Text $16360
 #WRITE(ptr,$54B8)
-Janos Is Southwest of the Forest[END]
+Janos Is SW of the Forest[END]
 
 
 //Text $16348
@@ -176,12 +175,12 @@ Take the East Gate to Go to the Ruins[END]
 
 //Text $16258
 #WRITE(ptr,$54E8)
-Go Through the Woods to Reach the Temple[END]
+Reach the Temple Through the Woods[END]
 
 
 //Text $16240
 #WRITE(ptr,$54EC)
-Temple’s Hidden Passage in the Woods[END]
+Temple's Hidden Passage in the Woods[END]
 
 
 //Text $16230
@@ -216,7 +215,7 @@ Easily Distracted[END]
 
 //Text $161C0
 #WRITE(ptr,$5508)
-The Temple Is Through a Hidden Passage[END]
+A Hidden Passage Leads to the Temple[END]
 
 
 //Text $161A8
@@ -281,7 +280,7 @@ Deeper Into the Temple[END]
 
 //Text $160C8
 #WRITE(ptr,$553C)
-Let’s Exit the Temple[END]
+Let's Exit the Temple[END]
 
 
 //Text $160B0
@@ -291,7 +290,7 @@ Take the Front Exit[END]
 
 //Text $16090
 #WRITE(ptr,$5544)
-City at the Forest’s Southern Edge[END]
+City at the Forest's Southern Edge[END]
 
 
 //Text $16080
@@ -301,7 +300,7 @@ The City Is South of the Forest[END]
 
 //Text $16068
 #WRITE(ptr,$554C)
-The Inn’s Tavern[END]
+The Inn's Tavern[END]
 
 
 //Text $16050
@@ -316,12 +315,12 @@ The Northern Gate to Seinegald[END]
 
 //Text $16010
 #WRITE(ptr,$5558)
-Harmentz Is North of Janos[END]
+Harmentz Is N of Janos[END]
 
 
 //Text $15FF0
 #WRITE(ptr,$555C)
-Harmentz Is Northwest of Janos[END]
+Harmentz Is NW of Janos[END]
 
 
 //Text $15FD8
@@ -361,7 +360,7 @@ What's [Dymlos] Like?[END]
 
 //Text $15F20
 #WRITE(ptr,$557C)
-Walt’s House Is the Largest in Town[END]
+Walt's House Is the Largest in Town[END]
 
 
 //Text $15F08
@@ -431,7 +430,7 @@ Family Formalities[END]
 
 //Text $15DF0
 #WRITE(ptr,$55B4)
-What Can Swordians Feel?[END]
+Can Swordians Feel?[END]
 
 
 //Text $15DE0
@@ -446,12 +445,12 @@ What Can Swordians Feel?[END]
 
 //Text $15DA0
 #WRITE(ptr,$55C0)
-Let’s Go to the Largest Mansion in Town[END]
+Let's Go to the Largest Mansion in Town[END]
 
 
 //Text $15D80
 #WRITE(ptr,$55C4)
-The Temple is North of Darilsheid[END]
+The Temple is N of Darilsheid[END]
 
 
 //Text $15D68
@@ -461,27 +460,27 @@ From Armeida to the Temple[END]
 
 //Text $15D48
 #WRITE(ptr,$55CC)
-Straylize Temple Is to the E[END]
+The Temple Is to the E[END]
 
 
 //Text $15D20
 #WRITE(ptr,$55D0)
-Straylize Temple Is East of Armeida[END]
+The Temple Is E of Armeida[END]
 
 
 //Text $15D00
 #WRITE(ptr,$55D4)
-We'll Take the Road East to Armeida[END]
+We'll Take the Road E to Armeida[END]
 
 
 //Text $15CE0
 #WRITE(ptr,$55D8)
-Through the Forest to Straylize Temple[END]
+Through the Forest to the Temple[END]
 
 
 //Text $15CC0
 #WRITE(ptr,$55DC)
-[Hugo]’s Manor Is in the City[END]
+[Hugo]'s Manor Is in the City[END]
 
 
 //Text $15CB0
@@ -521,7 +520,7 @@ What Happened to the Temple?[END]
 
 //Text $15C18
 #WRITE(ptr,$55FC)
-Let’s Go Look Inside the Temple[END]
+Let's Go Look Inside the Temple[END]
 
 
 //Text $15C00
@@ -551,7 +550,7 @@ Hidden Passage[END]
 
 //Text $15B90
 #WRITE(ptr,$5614)
-Darilsheid Is South of the Temple[END]
+Darilsheid Is S of the Temple[END]
 
 
 //Text $15B78
@@ -661,12 +660,12 @@ The Baruk Foundation Office Is in the City[END]
 
 //Text $159A0
 #WRITE(ptr,$566C)
-Calviola Is North of Cherik[END]
+Calviola Is N of Cherik[END]
 
 
 //Text $15980
 #WRITE(ptr,$5670)
-To Calviola, North of Cherik[END]
+To Calviola, N of Cherik[END]
 
 
 //Text $15968
@@ -716,12 +715,12 @@ Waiting at the Inn[END]
 
 //Text $158B8
 #WRITE(ptr,$5698)
-Goal: The Temple’s Back Door[END]
+Goal: The Temple's Back Door[END]
 
 
 //Text $158A0
 #WRITE(ptr,$569C)
-Let’s Head For the Cathedral[END]
+Let's Head For the Cathedral[END]
 
 
 //Text $15888
@@ -741,7 +740,7 @@ Enter the Basement[END]
 
 //Text $15840
 #WRITE(ptr,$56AC)
-Don't Forget to Search Straylize Temple[END]
+Don't Forget to Search the Temple[END]
 
 
 //Text $15828
@@ -751,7 +750,7 @@ Remember to Search the Temple[END]
 
 //Text $15808
 #WRITE(ptr,$56B4)
-Cherik Is South of Calviola[END]
+Cherik Is S of Calviola[END]
 
 
 //Text $157E8
@@ -765,7 +764,7 @@ No Time to Wander Aimlessly[END]
 
 //Text $157B0
 #WRITE(ptr,$56C0)
-We’re Going to the Temple[END]
+We're Going to the Temple[END]
 
 
 //Text $157A0
@@ -775,7 +774,7 @@ Certainly Impressive[END]
 
 //Text $15790
 #WRITE(ptr,$56C8)
-We’re From the Same Country[END]
+We're From the Same Country[END]
 
 
 //Text $15770
@@ -815,7 +814,7 @@ Where [Ilene] Lives[END]
 
 //Text $156C0
 #WRITE(ptr,$56E8)
-Let’s Look For [Ilene]’s Manor[END]
+Let's Look For [Ilene]'s Manor[END]
 
 
 //Text $156A0
@@ -864,7 +863,7 @@ The Square's Softy Kreem Stand[END]
 
 //Text $155C0
 #WRITE(ptr,$5710)
-Once Outside the Arena..[END]
+Once Outside the Arena[END]
 
 
 //Text $155B0
@@ -949,11 +948,11 @@ Let's Head to Town[END]
 
 //Text $15448
 #WRITE(ptr,$5754)
-The Cave Entrance Is to the South of Shiden[END]
+The Cave Entrance Is S of Shiden[END]
 
 //Text $15430
 #WRITE(ptr,$5758)
-The Cave Is South of Shiden[END]
+The Cave Is S of Shiden[END]
 
 
 //Text $15418
@@ -1067,7 +1066,7 @@ Take a Gondola to Moreau Castle[END]
 
 //Text $15220
 #WRITE(ptr,$57B4)
-Aren’t We Going to the Port?[END]
+Aren't We Going to the Port?[END]
 
 
 //Text $15208
@@ -1277,7 +1276,7 @@ Through Tilso Forest to Heidelberg[END]
 
 //Text $14E88
 #WRITE(ptr,$585C)
-Tilso Forest Is West of Frostheim[END]
+Tilso Forest Is W of Frostheim[END]
 
 //Text $14E78
 #WRITE(ptr,$5860)
@@ -1296,7 +1295,7 @@ Righteous Fury?[END]
 
 //Text $14E48
 #WRITE(ptr,$586C)
-When It’s Cold, Find a Hot Spring[END]
+When It's Cold, Find a Hot Spring[END]
 
 
 //Text $14E28
@@ -1326,17 +1325,17 @@ Could Be Dangerous[END]
 
 //Text $14DC0
 #WRITE(ptr,$5884)
-[Mary]’s House Is to the W[END]
+[Mary]'s House Is to the W[END]
 
 
 //Text $14DA0
 #WRITE(ptr,$5888)
-Heidelberg Is North of Cyril[END]
+Heidelberg Is N of Cyril[END]
 
 
 //Text $14D88
 #WRITE(ptr,$588C)
-To the North From Cyril[END]
+To the N From Cyril[END]
 
 
 //Text $14D70
@@ -1431,7 +1430,7 @@ Let's Go Home[END]
 
 //Text $14C00
 #WRITE(ptr,$58D8)
-Neustadt Is Southeast of Lienea[END]
+Neustadt Is SE of Lienea[END]
 
 
 //Text $14BE0
@@ -1521,12 +1520,12 @@ Let's Go See [Woodrow][END]
 
 //Text $14A58
 #WRITE(ptr,$5920)
-Heidelberg Is North Through the Forest[END]
+Heidelberg Is N, Through the Forest[END]
 
 
 //Text $14A48
 #WRITE(ptr,$5924)
-Leave the Forest Through the North Exit[END]
+Leave the Forest Through the N Exit[END]
 
 
 //Text $14A30
@@ -1566,22 +1565,22 @@ Is [Rutee] home?[END]
 
 //Text $14988
 #WRITE(ptr,$5944)
-Let’s Meet Up at the Square[END]
+Let's Meet Up at the Square[END]
 
 
 //Text $14968
 #WRITE(ptr,$5948)
-Darilsheid Is West of Cresta[END]
+Darilsheid Is W of Cresta[END]
 
 
 //Text $14950
 #WRITE(ptr,$594C)
-To the West of Cresta[END]
+To the W of Cresta[END]
 
 
 //Text $14938
 #WRITE(ptr,$5950)
-Let’s Talk to the King[END]
+Let's Talk to the King[END]
 
 
 //Text $14918
@@ -1606,7 +1605,7 @@ Why Was This Place Abandoned?[END]
 
 //Text $148B8
 #WRITE(ptr,$5964)
-Let’s Search the Factory[END]
+Let's Search the Factory[END]
 
 
 //Text $14898
@@ -1647,11 +1646,11 @@ Their Feelings[END]
 
 //Text $147E8
 #WRITE(ptr,$5988)
-Radisrol Is to the East of Calvalese[END]
+Radisrol Is to the E of Calvalese[END]
 
 //Text $147C0
 #WRITE(ptr,$598C)
-Radisrol Is East of Calvalese[END]
+Radisrol Is E of Calvalese[END]
 
 //Text $147A0
 #WRITE(ptr,$5990)
@@ -1659,7 +1658,7 @@ Let's Go to Radisrol Immediately[END]
 
 //Text $14778
 #WRITE(ptr,$5994)
-[Ritora] Is at Radisrol’s Center[END]
+[Ritora] Is at Radisrol's Center[END]
 
 //Text $14760
 #WRITE(ptr,$5998)
@@ -1701,7 +1700,7 @@ Let's Leave the Temple[END]
 
 //Text $146B0
 #WRITE(ptr,$59B8)
-Radisrol Is East of Calvalese[END]
+Radisrol Is E of Calvalese[END]
 
 //Text $14698
 #WRITE(ptr,$59BC)
@@ -1758,7 +1757,7 @@ Enter Ignasea through the Aethersphere[END]
 
 //Text $145A0
 #WRITE(ptr,$59E8)
-I Shouldn’t Go Out Right Now[END]
+I Shouldn't Go Out Right Now[END]
 
 
 //Text $14598
@@ -1788,7 +1787,7 @@ Secure the Transporter[END]
 
 //Text $14520
 #WRITE(ptr,$5A00)
-It’s So Dark in Here[END]
+It's So Dark in Here[END]
 
 
 //Text $14510
@@ -2057,7 +2056,7 @@ Hurry to Cresta[END]
 
 //Text $149D0
 #WRITE(ptr,$5AD8)
-Cresta Is East of Darilsheid[END]
+Cresta Is E of Darilsheid[END]
 
 
 //Text $13FA8
@@ -2087,7 +2086,7 @@ Protect Darilsheid From the Monsters[END]
 
 //Text $13F30
 #WRITE(ptr,$5AF0)
-Let’s Get To the Inn[END]
+Let's Get To the Inn[END]
 
 
 //Text $13F18
@@ -2107,7 +2106,7 @@ To [Reynolds]' Lab[END]
 
 //Text $13EC8
 #WRITE(ptr,$5B00)
-What’s It Like to Talk to a Sword?[END]
+What's It Like to Talk to a Sword?[END]
 
 
 //Text $13EB8
@@ -2127,7 +2126,7 @@ Taking the Dragon to the Swordian R&D Lab[END]
 
 //Text $13E60
 #WRITE(ptr,$5B10)
-The Lab Is West of Darilsheid[END]
+The Lab Is W of Darilsheid[END]
 
 
 //Text $13E40
@@ -2172,12 +2171,12 @@ The Final Test[END]
 
 //Text $13DA0
 #WRITE(ptr,$5B34)
-Junkland Is West of Calvalese[END]
+Junkland Is W of Calvalese[END]
 
 
 //Text $13D78
 #WRITE(ptr,$5B38)
-West of Calvalese Is Junkland[END]
+W of Calvalese Is Junkland[END]
 
 
 //Text $13D68
@@ -2232,7 +2231,7 @@ Let's Get out of Here[END]
 
 //Text $13C80
 #WRITE(ptr,$5B64)
-Darilsheid Is Southeast of Junkland[END]
+Darilsheid Is SE of Junkland[END]
 
 
 //Text $13C60
@@ -2312,7 +2311,7 @@ Discussing Darilsheid[END]
 
 //Text $13AD0
 #WRITE(ptr,$5BA4)
-Preparing for Tomorrow at the Inn[END]
+Prepare for Tomorrow at the Inn[END]
 
 
 //Text $13AB8
@@ -2527,7 +2526,7 @@ You Need to Recover[END]
 
 //Text $13770
 #WRITE(ptr,$5C50)
-Don’t Get Confused![END]
+Don't Get Confused![END]
 
 
 //Text $13768
@@ -2647,7 +2646,7 @@ Above the Aethersphere[END]
 
 //Text $135A0
 #WRITE(ptr,$5CB0)
-Let’s Go After Him[END]
+Let's Go After Him[END]
 
 
 //Text $13588
@@ -3222,7 +3221,7 @@ To the Village of Harmentz[END]
 
 //Text $12D80
 #WRITE(ptr,$5E7C)
-Harmentz is West of Darilsheid[END]
+Harmentz is W of Darilsheid[END]
 
 
 //Text $12D70
@@ -3267,7 +3266,7 @@ To the Manor for Hugo[END]
 
 //Text $12C90
 #WRITE(ptr,$5EA0)
-Straylize Temple Is North of Darilsheid[END]
+The Temple Is N of Darilsheid[END]
 
 
 //Text $12C80
@@ -3347,7 +3346,7 @@ Let's Head Back to the Inn Soon[END]
 
 //Text $12B70
 #WRITE(ptr,$5EE0)
-Not Out of Town, Go to the Temple’s Back Door![END]
+Not out of town, Go to the Temple's Back Door![END]
 
 
 //Text $12B58
@@ -3367,7 +3366,7 @@ In Search of the Softy Kreem Stand[END]
 
 //Text $12B10
 #WRITE(ptr,$5EF0)
-No Business Outside Town[END]
+No Reason to Leave[END]
 
 
 //Text $12AF0
@@ -3382,7 +3381,7 @@ Aim for [Greybum][END]
 
 //Text $12AD8
 #WRITE(ptr,$5EFC)
-Let’s Return to Shiden[END]
+Let's Return to Shiden[END]
 
 
 //Text $12AC0
@@ -3412,7 +3411,7 @@ Let's Head to Harmentz[END]
 
 //Text $12A40
 #WRITE(ptr,$5F14)
-Harmentz Is West of the Capital[END]
+Harmentz Is W of the Capital[END]
 
 
 //Text $12A28
@@ -3437,17 +3436,17 @@ Report to His Majesty at Seinegald Castle[END]
 
 //Text $129C0
 #WRITE(ptr,$5F28)
-To Cresta, East of Darilsheid[END]
+To Cresta, E of Darilsheid[END]
 
 
 //Text $149D0
 #WRITE(ptr,$5F2C)
-Cresta Is East of Darilsheid[END]
+Cresta Is E of Darilsheid[END]
 
 
 //Text $12998
 #WRITE(ptr,$5F30)
-Locate the Seinegaldian Solder in Cresta[END]
+Locate the Soldier in Cresta[END]
 
 
 //Text $12980
@@ -3457,16 +3456,16 @@ Try Searching for the Orphanage[END]
 
 //Text $12960
 #WRITE(ptr,$5F38)
-Find the Beach North of Cresta[END]
+Find the Beach N of Cresta[END]
 
 
 //Text $12948
 #WRITE(ptr,$5F3C)
-Let’s Report on Our Mission[END]
+Let's Report on Our Mission[END]
 
 
 //Text $12BA8
-#WRITE(ptr,$5ED8)
+#WRITE(ptr,$5F40)
 No Reason to Leave[END]
 
 
@@ -3511,12 +3510,12 @@ Hugo and the Others?[END]
 
 //Text $12878
 #WRITE(ptr,$5F64)
-Sorcerer’s Ring Goes Boom[END]
+Sorcerer's Ring Goes Boom[END]
 
 
 //Text $12860
 #WRITE(ptr,$5F68)
-There’s Still Places We Can Destroy[END]
+There's Still Places We Can Destroy[END]
 
 
 //Text $13550
@@ -3531,7 +3530,7 @@ No Dawdling![END]
 
 //Text $12828
 #WRITE(ptr,$5F74)
-Now’s Not the Time[END]
+Now's Not the Time[END]
 
 
 //Text $12820

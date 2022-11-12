@@ -691,179 +691,179 @@ For the sake of one…[END]
 
 //Text $19ADE0
 #WRITE(ptr,$180BCC)
-[center]Aahh!!![END]
+Aahh!!![END]
 
 
 //Text $19ADD0
 #WRITE(ptr,$180BDC)
-[center]Is this...it?[END]
+Is this...it?[END]
 
 
 //Text $19ADC0
 #WRITE(ptr,$180BEC)
-[center]You're giving up?[END]
+You're giving up?[END]
 
 
 //Text $19ADA8
 #WRITE(ptr,$180BFC)
-[center]That voice from before?[END]
+That voice from before?[END]
 
 
 //Text $19AD98
 #WRITE(ptr,$180C0C)
-[center]What is your name?[END]
+What is your name?[END]
 
 
 //Text $19AD80
 #WRITE(ptr,$180C1C)
-[center][Stahn]...Aileron...[END]
+[Stahn]...Aileron...[END]
 
 
 //Text $19AD70
 #WRITE(ptr,$180C2C)
-[center]Listen well, [Stahn].[END]
+Listen well, [Stahn].[END]
 
 
 //Text $19AD58
 #WRITE(ptr,$180C3C)
-[center]I will lend you my power.[END]
+I will lend you my power.[END]
+
+
+//Text $19AD40
+#WRITE(ptr,$180C4C)
+But you must trust me.[END]
 
 
 #JMP($19AC90)
-//Text $19AD40
-#WRITE(ptr,$180C4C)
-[center]But you must trust me.[END]
-
-
 //Text $19AD28
 #WRITE(ptr,$180C5C)
-[center]Now, grab on tightly...[END]
+Now, grab on tightly...[END]
 
 
 //Text $19AD08
 #WRITE(ptr,$180C6C)
-[center]...and call out my name![END]
+...and call out my name![END]
 
 
 //Text $19ACF8
 #WRITE(ptr,$180C7C)
-[center]I hear you...[END]
+I hear you...[END]
 
 
 //Text $19ACE8
 #WRITE(ptr,$180C8C)
-[center]My name is...[END]
+My name is...[END]
 
 
 //Text $19ACD8
 #WRITE(ptr,$180C9C)
-[center]Your name is...![END]
+Your name is...![END]
 
 
 //Text $19ACC8
 #WRITE(ptr,$180CAC)
-[center]Dymlos!!![END]
+Dymlos!!![END]
 
 
 //Text $19ACB8
 #WRITE(ptr,$180CBC)
-[center]Hah...hahh...[END]
+Hah...hahh...[END]
 
 
 //Text $19ACA8
 #WRITE(ptr,$180CCC)
-[center]Hey! [Stahn]![END]
+Hey! [Stahn]![END]
 
 
 //Text $19AC90
 #WRITE(ptr,$180CDC)
-[center]Get up, [Stahn]![END]
+Get up, [Stahn]![END]
 
 
 //Text $19AEA0
 #WRITE(ptr,$180CFC)
-[center][Lion]! [Lion]!![END]
+[Lion]! [Lion]!![END]
 
 
 //Text $19AE80
 #WRITE(ptr,$180D0C)
-[center]The water will fill this place, soon...[END]
+The water will fill this place, soon...[END]
 
 
 //Text $19AE60
 #WRITE(ptr,$180D1C)
-[center]I'm sorry you had to get stuck with me like this, Chal...[END]
+I'm sorry you had to get stuck with me like this, Chal...[END]
 
 
 //Text $19AE48
 #WRITE(ptr,$180D2C)
-[center]I will be by your side, no matter what.[END]
+I will be by your side, no matter what.[END]
 
 
 //Text $19AE28
 #WRITE(ptr,$180D3C)
-[center]You will always be my young master.[END]
+You will always be my young master.[END]
 
 
 //Text $19AE18
 #WRITE(ptr,$180D4C)
-[center]This is...[END]
+This is...[END]
 
 
 //Text $19ADF0
 #WRITE(ptr,$180D5C)
-[center]This is the right thing to do...right, Marian...?[END]
+This is the right thing to do...right, Marian...?[END]
 
 
 //Text $19AEF0
 #WRITE(ptr,$180D7C)
 #WRITE(ptr,$180D9C)
-[center]HAAAAAAAAH!!!!!![END]
+HAAAAAAAAH!!!!!![END]
 
 
 //Text $19AEE0
 #WRITE(ptr,$180D8C)
-[center]Tear it apart!![END]
+Tear it apart!![END]
 
 
 //Text $19AEB8
 #WRITE(ptr,$180DAC)
-[center]It's working! We can attack Belcrant now![END]
+It's working! We can attack Belcrant now![END]
 
 
 //Text $19B098
 #WRITE(ptr,$180DCC)
-[center]Is there really no other way?[END]
+Is there really no other way?[END]
 
 
 //Text $19B090
 #WRITE(ptr,$180DDC)
-[center]There is not.[END]
+There is not.[END]
 
 
 //Text $19B080
 #WRITE(ptr,$180DEC)
-[center]It's alright, [Stahn].[END]
+It's alright, [Stahn].[END]
 
 
 //Text $19B068
 #WRITE(ptr,$180DFC)
-[center]We Swordians have lived very long lives.[END]
+We Swordians have lived very long lives.[END]
 
 
 //Text $19B048
 #WRITE(ptr,$180E0C)
-[center]This might not be the best way to say it but...[END]
+This might not be the best way to say it but...[END]
 
 
 //Text $19B028
 #WRITE(ptr,$180E1C)
-[center]I really enjoyed our time together.[END]
+I really enjoyed our time together.[END]
 
 
 //Text $19B020
 #WRITE(ptr,$180E2C)
-[center]As did I.[END]
+As did I.[END]
 
 
 //Text $19AFE8
@@ -873,52 +873,52 @@ It's true. The more I had to help you,[LINE]
 
 //Text $19AFD8
 #WRITE(ptr,$180E4C)
-[center]This is what I believe.[END]
+This is what I believe.[END]
 
 
 //Text $19AFC8
 #WRITE(ptr,$180E5C)
-[center]Our fateful meeting...[END]
+Our fateful meeting...[END]
 
 
 //Text $19AFA0
 #WRITE(ptr,$180E6C)
-[center]...and everything that led us to this moment...[END]
+...and everything that led us to this moment...[END]
 
 
 //Text $19AF90
 #WRITE(ptr,$180E7C)
-[center]It's something out of a story.[END]
+It's something out of a story.[END]
 
 
-#JMP($19B370)
 //Text $19AF70
 #WRITE(ptr,$180E8C)
-[center]A tale of destiny, if you will.[END]
+A tale of destiny, if you will.[END]
 
 
 //Text $19AF50
 #WRITE(ptr,$180E9C)
-[center]The future of this world is in your hands.[END]
+The future of this world is in your hands.[END]
 
 
 //Text $19AF30
 #WRITE(ptr,$180EAC)
-[center]My master, [Stahn] Aileron...[END]
+My master, [Stahn] Aileron...[END]
 
 
 //Text $19AF10
 #WRITE(ptr,$180EBC)
-[center]Now, let us carry out our final mission!![END]
+Now, let us carry out our final mission!![END]
 
 
 //Text $19AF00
 #WRITE(ptr,$180ECC)
-[center]Dymlos...[END]
+Dymlos...[END]
 
 
 //Section Support
 
+#JMP($19B370)
 //POINTER #19 @ $18108C - STRING #19 @ $19B370
 #WRITE(ptr,$18108C)
 She adds a new twist to dishes made[LINE]
@@ -1014,7 +1014,6 @@ consumable items. Sometimes[LINE]
 they turn out strange.[END]
 
 
-#JMP($19BDC0)
 //POINTER #4 @ $181050 - STRING #4 @ $19B678
 #WRITE(ptr,$181050)
 Synthesis[END]
@@ -1032,6 +1031,7 @@ Also finds valuables.[END]
 Treasure Hunting[END]
 
 
+#JMP($19BDC0)
 //POINTER #1 @ $181044 - STRING #1 @ $19B6E0
 #WRITE(ptr,$181044)
 Takes a nap to recover HP.[LINE]
@@ -1250,7 +1250,6 @@ Embossing Nap[END]
 [Left]Left [Right]Right [Cross_ani]Back[END]
 
 
-#JMP($19C380)
 //Text $19BDD0
 #WRITE(ptr,$1812C4)
 [Circle_ani]Next Level[END]
@@ -1279,6 +1278,7 @@ Embossing Nap[END]
 [Sign_6]Stop Flow[END]
 
 
+#JMP($19C380)
 //Text $19D310
 #WRITE(ptr,$1847B0)
 Stops enemy movement for 3 seconds.[LINE]
@@ -3873,7 +3873,7 @@ Conjures a vortex of cold air.[LINE]
 
 //Text $19E130
 #WRITE(ptr,$1841D0)
-Creates a wall of ice
+Creates a wall of ice[LINE]
 in front of the caster.[LINE]
 [END]
 
