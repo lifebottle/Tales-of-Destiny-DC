@@ -24,8 +24,7 @@ set_drgn
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Hey, <Stahn>!
-Where you going?
+Hey, <Stahn>! Where you going?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -659,9 +658,9 @@ Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big <Stahn>, are you
-going on a trip? Cool!
-Take me with you!
+Big <Stahn>, are you going
+on a trip? Cool! Take me
+with you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -789,8 +788,8 @@ young! I know I sure did!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-It just don't feel right, like
-the sky's lookin' down on us.
+It just don't feel right, like the
+sky's lookin' down on us.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -926,9 +925,9 @@ You made <Lilith> sad by leaving...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Alas, it can't be helped!
-Don't worry about <Lilith>.
-I'll look after her for you!
+Alas, it can't be helped! Don't
+worry about <Lilith>. I'll look
+after her for you!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1236,7 +1235,7 @@ could help me with my work.
 Select
 [ENDBLOCK]
 <TAG_007>Take on a job
-I don't have time for this.
+I don't have time for this
 What kind of work?
 
 [ENDBLOCK]
@@ -1329,17 +1328,17 @@ If you back out and don't finish
 a job, you'll have to pay a penalty
 for breach of contract.
 [ENDBLOCK]
-You know you have to pay a penalty
-due to a breach of contract, right?
+If you back out now and don't finish
+this job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
-It's great working with ya.
+Pleasure working with ya.
 [ENDBLOCK]
 Well then, good luck.
 [ENDBLOCK]
 You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
-I must say,
 I must say, I'm a little
 disappointed...
 
@@ -1370,7 +1369,7 @@ for the inconvenience.
 You don't have enough money.
 Come back when you have it.
 [ENDBLOCK]
-I'm counting on you, man.
+Pleasure working with ya.
 
 [ENDBLOCK]
 Are you serious? This
@@ -1379,21 +1378,22 @@ is your last chance.
 What a pain in the ass...
 
 [ENDBLOCK]
-Return of advance payment and penalties
+I am charging a cancellation
 [ENDBLOCK]
-penalty.
+Breach of Contact Fee
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
 The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
-In the meantime, I'm going to
-ask you to pay all the money
-you have as an annoyance fee.
+In the meantime, I'm going to ask
+you to pay me the money you
+have as an annoyance fee.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -1404,7 +1404,7 @@ for cancelling.
 Get the Gald together
 and then come back.
 [ENDBLOCK]
-Well, good luck.
+Well then, good luck.
 
 [ENDBLOCK]
 Select
@@ -1539,8 +1539,8 @@ like...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Like there's a hole
-in my heart, y'know?
+Like there's a hole in
+my heart, y'know?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1611,7 +1611,8 @@ I almost died!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Then again, I actually feel better...
+Then again, I actually
+feel better...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1769,7 +1770,6 @@ Thomas
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Aah, a man's love
-for his family!!
-It's so inspirin'!!<x00>
+Aah, a man's love for his
+family!! It's so inspirin'!!<x00>
 [ENDBLOCK]
