@@ -1164,7 +1164,7 @@ name, so save it for the last one standing.[END]
 
 //Text $3D320
 #WRITE(ptr,$3AEE4)
-Finishing Definite Strikes[END]
+Definite Strikes Part 2[END]
 
 
 //Text $3D2F8
@@ -1194,7 +1194,7 @@ the listed attacks while the enemy is still[END]
 
 //Text $3D210
 #WRITE(ptr,$3AF18)
-[END]
+Definite Strikes Part 3[END]
 
 
 //Text $3D1E0

@@ -8356,8 +8356,8 @@ Darilsheid[END]
 //Text $1A7328
 #WRITE(ptr,$189E80)
 Capital of Seinegald.[LINE]
-The well-developed town [LINE]
-is filled with people.[END]
+This well-developed town is filled[LINE]
+with people.[END]
 
 
 //Text $1A7318
@@ -8440,8 +8440,8 @@ Cherik[END]
 //Text $1A7100
 #WRITE(ptr,$189F98)
 A port town in the southern region of Calvalese.[LINE]
-A port where supplies can be obtained from other[LINE]
-countries is truly a lifeline in Calvalese's harsh environment.[END]
+Supplies from other countries flow through here,[LINE]
+making it a lifeline against the harsh environment.[END]
 
 
 //Text $1A70F0
@@ -8474,8 +8474,8 @@ Junkland[END]
 //Text $1A7000
 #WRITE(ptr,$18A008)
 A city in the western region of Calvalese.[LINE]
-The people there live by reusing piles[LINE]
-of industrial waste from long ago.[END]
+The people there live by reusing piles of[LINE]
+industrial waste from long ago.[END]
 
 
 //Text $1A6FF0
@@ -8579,8 +8579,8 @@ Frostheim[END]
 //Text $1A6D38
 #WRITE(ptr,$18A158)
 A port town in the eastern region of Phandaria.[LINE]
-Because of its hot springs, tourists[LINE]
-come here for hot spring therapy.[END]
+Because of its hot springs, tourists come here[LINE]
+for hot spring therapy.[END]
 
 
 //Text $1A6D28
@@ -8595,9 +8595,9 @@ Shiden[END]
 
 //Text $1A6CE8
 #WRITE(ptr,$18A190)
-A city in the northern region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Shiden family.[END]
+A city in the northern region of Aquaveil.[LINE]
+Its territory is ruled by the Shiden family.[LINE]
+[END]
 
 
 //Text $1A6CD8
@@ -8612,9 +8612,9 @@ Terazzi[END]
 
 //Text $1A6C98
 #WRITE(ptr,$18A1C8)
-A city in the southern region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Terazzi family.[END]
+A city in the southern region of Aquaveil.[LINE]
+Its territory is ruled by the Terrazi family.[LINE]
+[END]
 
 
 //Text $1A6C88
@@ -8629,9 +8629,9 @@ Moreau[END]
 
 //Text $1A6C48
 #WRITE(ptr,$18A200)
-A city in the western region of[LINE]
-Aquaveil, in the territory ruled by[LINE]
-the Moreau family.[END]
+A city in the western region of Aquaveil.[LINE]
+Its territory is ruled by the Moreau family.[LINE]
+[END]
 
 
 //Text $1A6C30
@@ -8712,9 +8712,8 @@ Straylize Forest[END]
 //Text $1A6A80
 #WRITE(ptr,$18A318)
 A forest at the top of a mountain.[LINE]
-As the path leads to the temple, it's rare[LINE]
-to see anyone use it except temple officials.[END]
-
+As the main path to Straylize Temple, it [LINE]
+mainly is used by missionaries and priests.[END]
 
 //Text $1A6A68
 #WRITE(ptr,$18A348)
@@ -8728,9 +8727,9 @@ Swordian R&D Lab[END]
 
 //Text $1A69F8
 #WRITE(ptr,$18A350)
-A research facility for the Er'ther[LINE]
-forces deep beneath the earth. It[LINE]
-was revealed by Belcrant's bombardment.[END]
+A research facility for the Er'ther forces[LINE]
+deep beneath the earth. It was unearth[LINE]
+by Belcrant's bombardment.[END]
 
 
 //Text $1A69E8
@@ -8778,7 +8777,7 @@ Lumina Draconis[END]
 
 //Text $1A68D8
 #WRITE(ptr,$18A3F8)
-A transport city built by the biometal[LINE]
+A transport vehicle made of the biometal[LINE]
 Berselium.[END]
 
 
@@ -8797,6 +8796,14 @@ Phandaria Pass[END]
 A snow-covered mountain road that[LINE]
 connects Janos with Torn's Cabin.[END]
 
+
+//Text $1A7878
+#WRITE(ptr,$18A468)
+Radisrol[END]
+
+//Text $1A7878
+#WRITE(ptr,$18A468)
+[END]
 
 //Text $1A7878
 #WRITE(ptr,$18A468)
@@ -14549,7 +14556,7 @@ white brilliance.[END]
 #WRITE(ptr,$190544)
 Cloak decorated with gold.[LINE]
 Also known as the "Opulent[LINE]
-Cloak".[END]
+Cloak."[END]
 
 
 //Text $1B4098
@@ -16776,754 +16783,154 @@ knows what's inside it. Better[LINE]
 eaten in the dark.[END]
 
 
-//Text $1BA1B8
-#WRITE(ptr,$191DAC)
-Crispy Nori [END]
 
 
-//Text $1BA1A8
-#WRITE(ptr,$191DB0)
-Collab Crispy Nori [END]
 
 
-//Text $1BA198
-#WRITE(ptr,$191DB4)
-Temaki Sushi[END]
 
 
-//Text $1BA110
-#WRITE(ptr,$191DDC)
-Crispy [END]
 
 
-//Text $1BA0F8
-#WRITE(ptr,$191DE0)
-Collab Crispy [END]
 
 
-//Text $1BA0E0
-#WRITE(ptr,$191DE4)
-Ham and Egg Sandwich[END]
 
 
-//Text $1BA058
-#WRITE(ptr,$191E0C)
-Golden Ratio [END]
 
 
-//Text $1BA048
-#WRITE(ptr,$191E10)
-Collab Golden Ratio [END]
 
 
-//Text $1BA038
-#WRITE(ptr,$191E14)
-Double Burger[END]
 
 
-//Text $1B9FB8
-#WRITE(ptr,$191E3C)
-Double [END]
 
 
-//Text $1B9FA8
-#WRITE(ptr,$191E40)
-Collab Double [END]
 
 
-//Text $1B9F98
-#WRITE(ptr,$191E44)
-Chilli Dog[END]
 
 
-//Text $1B9F20
-#WRITE(ptr,$191E6C)
-Fresh-baked [END]
 
 
-//Text $1B9F10
-#WRITE(ptr,$191E70)
-Collab Fresh-baked [END]
 
 
-//Text $1B9F08
-#WRITE(ptr,$191E74)
-Spring Roll[END]
 
 
-//Text $1B9E90
-#WRITE(ptr,$191E9C)
-Piping Hot [END]
 
 
-//Text $1B9E80
-#WRITE(ptr,$191EA0)
-Collab Piping Hot [END]
 
 
-//Text $1B9E78
-#WRITE(ptr,$191EA4)
-Skewered Chicken[END]
 
 
-//Text $1B9E08
-#WRITE(ptr,$191ECC)
-Amazing [END]
 
 
-//Text $1B9DF8
-#WRITE(ptr,$191ED0)
-Collab Amazing [END]
 
 
-//Text $1B9DE8
-#WRITE(ptr,$191ED4)
-Kitsune Udon[END]
 
 
-//Text $1B9D88
-#WRITE(ptr,$191EFC)
-Thousand-night overnight [END]
 
 
-//Text $1B9D78
-#WRITE(ptr,$191F00)
-Collab Thousand-night overnight [END]
 
 
-//Text $1B9D68
-#WRITE(ptr,$191F04)
-Miso-pickled [END]
 
 
-//Text $1B9CF0
-#WRITE(ptr,$191F2C)
-Cutlet [END]
 
 
-//Text $1B9CE0
-#WRITE(ptr,$191F30)
-Collab Cutlet [END]
 
 
-//Text $1B9CD0
-#WRITE(ptr,$191F34)
-Sake Chazuke[END]
 
 
-//Text $1B9C50
-#WRITE(ptr,$191F5C)
-Crumbly [END]
 
 
-//Text $1B9C40
-#WRITE(ptr,$191F60)
-Collab Crumbly [END]
 
 
-//Text $1B9C30
-#WRITE(ptr,$191F64)
-Shrimp Pilaf[END]
 
 
-//Text $1B9BB0
-#WRITE(ptr,$191F8C)
-Fluffy [END]
 
 
-//Text $1B9BA0
-#WRITE(ptr,$191F90)
-Collab Fluffy [END]
 
 
-//Text $1B9B90
-#WRITE(ptr,$191F94)
-Crepe[END]
 
 
-//Text $1B9B10
-#WRITE(ptr,$191FBC)
-Spicy [END]
 
 
-//Text $1B9B00
-#WRITE(ptr,$191FC0)
-Collab Spicy [END]
 
 
-//Text $1B9AF0
-#WRITE(ptr,$191FC4)
-Curry Udon[END]
 
 
-//Text $1B9A70
-#WRITE(ptr,$191FEC)
-Unintentionally Stirred [END]
 
 
-//Text $1B9A60
-#WRITE(ptr,$191FF0)
-Collab Unintentionally Stirred [END]
 
 
-//Text $1B9A50
-#WRITE(ptr,$191FF4)
-Cheese Omelette[END]
 
 
-//Text $1B99D8
-#WRITE(ptr,$19201C)
-Mountain Vegetable [END]
 
 
-//Text $1B99C8
-#WRITE(ptr,$192020)
-Collab Mountain Vegetable [END]
 
 
-//Text $1B99B8
-#WRITE(ptr,$192024)
-Hodgepodge Ramen[END]
 
 
-//Text $1B9940
-#WRITE(ptr,$19204C)
-Brave [END]
 
 
-//Text $1B9930
-#WRITE(ptr,$192050)
-Collab Brave [END]
 
 
-//Text $1B9918
-#WRITE(ptr,$192054)
-Ginger Pork[END]
 
 
-//Text $1B98A0
-#WRITE(ptr,$19207C)
-Muffled [END]
 
 
-//Text $1B9890
-#WRITE(ptr,$192080)
-Collab Muffled [END]
 
 
-//Text $1B9880
-#WRITE(ptr,$192084)
-Steamed Bun[END]
 
 
-//Text $1B9818
-#WRITE(ptr,$1920AC)
-Extra Spicy [END]
 
 
-//Text $1B9808
-#WRITE(ptr,$1920B0)
-Collab Extra Spicy [END]
 
 
-//Text $1B97F0
-#WRITE(ptr,$1920B4)
-Kimchi Fried Rice[END]
 
 
-//Text $1B9780
-#WRITE(ptr,$1920DC)
-Twice Cooked [END]
 
 
-//Text $1B9770
-#WRITE(ptr,$1920E0)
-Collab Twice Cooked [END]
 
 
-//Text $1B9760
-#WRITE(ptr,$1920E4)
-Curry Bun[END]
 
 
-//Text $1B96E8
-#WRITE(ptr,$19210C)
-Rolling [END]
 
 
-//Text $1B96D8
-#WRITE(ptr,$192110)
-Collab Rolling [END]
 
 
-//Text $1B96C8
-#WRITE(ptr,$192114)
-Rice burger[END]
 
 
-//Text $1B9658
-#WRITE(ptr,$19213C)
-Super-sized [END]
 
 
-//Text $1B9648
-#WRITE(ptr,$192140)
-Collab Super-sized [END]
 
 
-//Text $1B9638
-#WRITE(ptr,$192144)
-Sunfish Bowl[END]
 
 
-//Text $1B95C8
-#WRITE(ptr,$19216C)
-Second Generation [END]
 
 
-//Text $1B95B8
-#WRITE(ptr,$192170)
-Collab Second Generation [END]
 
 
-//Text $1B95A8
-#WRITE(ptr,$192174)
-Salmon Roe Bowl[END]
 
 
-//Text $1B9528
-#WRITE(ptr,$19219C)
-Exceptional [END]
 
 
-//Text $1B9518
-#WRITE(ptr,$1921A0)
-Collab Exceptional [END]
 
 
-//Text $1B9510
-#WRITE(ptr,$1921A4)
-Sea Urchin Bowl[END]
 
 
-//Text $1B9480
-#WRITE(ptr,$1921CC)
-Rich [END]
 
 
-//Text $1B9470
-#WRITE(ptr,$1921D0)
-Collab Rich [END]
 
 
-//Text $1B9460
-#WRITE(ptr,$1921D4)
-Beef Stew[END]
 
 
-//Text $1B93E8
-#WRITE(ptr,$1921FC)
-Resort [END]
 
 
-//Text $1B93D8
-#WRITE(ptr,$192200)
-Collab Resort [END]
 
 
-//Text $1B93C8
-#WRITE(ptr,$192204)
-Kalpi Gukbap[END]
 
 
-//Text $1B9338
-#WRITE(ptr,$19222C)
-Sticky [END]
 
 
-//Text $1B9328
-#WRITE(ptr,$192230)
-Collab Sticky [END]
 
 
-//Text $1B9318
-#WRITE(ptr,$192234)
-Pork Stew[END]
-
-
-//Text $1B92A0
-#WRITE(ptr,$19225C)
-Deluxe [END]
-
-
-//Text $1B9290
-#WRITE(ptr,$192260)
-Collab Deluxe [END]
-
-
-//Text $1B9278
-#WRITE(ptr,$192264)
-Tomato Spaghetti[END]
-
-
-//Text $1B91F8
-#WRITE(ptr,$19228C)
-Onion [END]
-
-
-//Text $1B91E8
-#WRITE(ptr,$192290)
-Collab Onion [END]
-
-
-//Text $1B91E0
-#WRITE(ptr,$192294)
-Doria[END]
-
-
-//Text $1B9170
-#WRITE(ptr,$1922BC)
-Demi [END]
-
-
-//Text $1B9160
-#WRITE(ptr,$1922C0)
-Collab Demi [END]
-
-
-//Text $1B9150
-#WRITE(ptr,$1922C4)
-Carbonara[END]
-
-
-//Text $1B90D0
-#WRITE(ptr,$1922EC)
-Whole [END]
-
-
-//Text $1B90C0
-#WRITE(ptr,$1922F0)
-Collab Whole [END]
-
-
-//Text $1B90A8
-#WRITE(ptr,$1922F4)
-Cheese Hamburger Steak[END]
-
-
-//Text $1B9030
-#WRITE(ptr,$19231C)
-1 Pound [END]
-
-
-//Text $1B9020
-#WRITE(ptr,$192320)
-Collab 1 Pound [END]
-
-
-//Text $1B9008
-#WRITE(ptr,$192324)
-Diced Steak[END]
-
-
-//Text $1B8F90
-#WRITE(ptr,$19234C)
-Loaded [END]
-
-
-//Text $1B8F80
-#WRITE(ptr,$192350)
-Collab Loaded [END]
-
-
-//Text $1B8F70
-#WRITE(ptr,$192354)
-Takoyaki[END]
-
-
-//Text $1B8EF8
-#WRITE(ptr,$19237C)
-Splendid [END]
-
-
-//Text $1B8EE8
-#WRITE(ptr,$192380)
-Collab Splendid [END]
-
-
-//Text $1B8ED8
-#WRITE(ptr,$192384)
-Sizzling [END]
-
-
-//Text $1B8E68
-#WRITE(ptr,$1923AC)
-Big [END]
-
-
-//Text $1B8E58
-#WRITE(ptr,$1923B0)
-Collab Big [END]
-
-
-//Text $1B8E40
-#WRITE(ptr,$1923B4)
-Tuna Belly Riceball[END]
-
-
-//Text $1B8DC8
-#WRITE(ptr,$1923DC)
-Large [END]
-
-
-//Text $1B8DB8
-#WRITE(ptr,$1923E0)
-Collab Large [END]
-
-
-//Text $1B8DA8
-#WRITE(ptr,$1923E4)
-First-class Riceball[END]
-
-
-//Text $1B8D20
-#WRITE(ptr,$19240C)
-Wonderful[END]
-
-
-//Text $1B8D10
-#WRITE(ptr,$192410)
-Collab Wonderful [END]
-
-
-//Text $1B8D00
-#WRITE(ptr,$192414)
-Fruit Salad[END]
-
-
-//Text $1B8C70
-#WRITE(ptr,$19243C)
-Beautiful [END]
-
-
-//Text $1B8C60
-#WRITE(ptr,$192440)
-Collab Beautiful [END]
-
-
-//Text $1B8C50
-#WRITE(ptr,$192444)
-Smoked Cheese[END]
-
-
-//Text $1B8BD0
-#WRITE(ptr,$19246C)
-Powerful [END]
-
-
-//Text $1B8BC0
-#WRITE(ptr,$192470)
-Collab Powerful [END]
-
-
-//Text $1B8BB0
-#WRITE(ptr,$192474)
-Tofu Steak[END]
-
-
-//Text $1B8B40
-#WRITE(ptr,$19249C)
-Fish [END]
-
-
-//Text $1B8B30
-#WRITE(ptr,$1924A0)
-Collab Fish [END]
-
-
-//Text $1B8B20
-#WRITE(ptr,$1924A4)
-Miso Stewed[END]
-
-
-//Text $1B8AB0
-#WRITE(ptr,$1924CC)
-Deep Sea [END]
-
-
-//Text $1B8AA0
-#WRITE(ptr,$1924D0)
-Collab Deep Sea [END]
-
-
-//Text $1B8A90
-#WRITE(ptr,$1924D4)
-Fish Sausage[END]
-
-
-//Text $1B8A28
-#WRITE(ptr,$1924FC)
-Gravid [END]
-
-
-//Text $1B8A18
-#WRITE(ptr,$192500)
-Collab Gravid [END]
-
-
-//Text $1B8A00
-#WRITE(ptr,$192504)
-Deep-fried Sunfish[END]
-
-
-//Text $1B8980
-#WRITE(ptr,$19252C)
-Combined [END]
-
-
-//Text $1B8970
-#WRITE(ptr,$192530)
-Collab Combined [END]
-
-
-//Text $1B8960
-#WRITE(ptr,$192534)
-Miso Skewer[END]
-
-
-//Text $1B88E0
-#WRITE(ptr,$19255C)
-Delicious [END]
-
-
-//Text $1B88D0
-#WRITE(ptr,$192560)
-Collab Delicious [END]
-
-
-//Text $1B88C0
-#WRITE(ptr,$192564)
-Mabo Tofu[END]
-
-
-//Text $1B8850
-#WRITE(ptr,$19258C)
-Bright [END]
-
-
-//Text $1B8840
-#WRITE(ptr,$192590)
-Collab Bright [END]
-
-
-//Text $1B8830
-#WRITE(ptr,$192594)
-Fried Riceball[END]
-
-
-//Text $1B87B0
-#WRITE(ptr,$1925BC)
-Dry [END]
-
-
-//Text $1B87A0
-#WRITE(ptr,$1925C0)
-Collab Dry [END]
-
-
-//Text $1B8790
-#WRITE(ptr,$1925C4)
-Cracker[END]
-
-
-//Text $1B8708
-#WRITE(ptr,$1925EC)
-Non-[END]
-
-
-//Text $1B86F8
-#WRITE(ptr,$1925F0)
-Collab Non-[END]
-
-
-//Text $1B86E8
-#WRITE(ptr,$1925F4)
-Cutlet Sandwich[END]
-
-
-//Text $1B8678
-#WRITE(ptr,$19261C)
-Activated [END]
-
-
-//Text $1B8668
-#WRITE(ptr,$192620)
-Collab Activated [END]
-
-
-//Text $1B8658
-#WRITE(ptr,$192624)
-Well-done Hot Dog[END]
-
-
-//Text $1B85D8
-#WRITE(ptr,$19264C)
-Longed-for [END]
-
-
-//Text $1B85C8
-#WRITE(ptr,$192650)
-Collab Longed-for [END]
-
-
-//Text $1B85C0
-#WRITE(ptr,$192654)
-Naan[END]
-
-
-//Text $1B8548
-#WRITE(ptr,$19267C)
-Half-[END]
-
-
-//Text $1B8538
-#WRITE(ptr,$192680)
-Collab Half-[END]
-
-
-//Text $1B8528
-#WRITE(ptr,$192684)
-Barbecue[END]
-
-
-//Text $1B84B0
-#WRITE(ptr,$1926AC)
-Light and [END]
-
-
-//Text $1B84A0
-#WRITE(ptr,$1926B0)
-Collab Light and [END]
-
-
-//Text $1B8490
-#WRITE(ptr,$1926B4)
-Ultimate Dark Pot[END]
-
-
-//Text $1B8428
-#WRITE(ptr,$1926DC)
-Pure [END]
-
-
-//Text $1B8418
-#WRITE(ptr,$1926E0)
-Collab Pure [END]
-
-
-//Text $1B8408
-#WRITE(ptr,$1926E4)
-Supreme Dark Bowl[END]
 
 
 //Section Key
@@ -18526,7 +17933,6 @@ Beautiful Spring[END]
 Emergency Exit[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB230
 #WRITE(ptr,$1939D0)
 Emergency Exit[END]
@@ -19180,6 +18586,7 @@ he simply wields a strange sword.[END]
 Lienean Man[END]
 
 
+#JMP($1BB0A0)
 //POINTER #23 @ $194704 - STRING #23 @ $1BEF50
 #WRITE(ptr,$194704)
 Heralding from the village of Lienea[LINE]
@@ -19444,6 +18851,7 @@ covet Gald every waking moment.[END]
 #WRITE(ptr,$1947B8)
 Mother-like[END]
 
+
 //POINTER #69 @ $1947BC - STRING #69 @ $1BE620
 #WRITE(ptr,$1947BC)
 A woman with an unrememberable[LINE]
@@ -19482,8 +18890,8 @@ Honest Girl[END]
 
 //POINTER #75 @ $1947D4 - STRING #75 @ $1BE510
 #WRITE(ptr,$1947D4)
-An upfront honest girl.[LINE]
-Answers even tricky questions.[END]
+An upfront, honest girl.[LINE]
+You probably can ask her anything.[END]
 //[END]
 
 //POINTER #76 @ $1947D8 - STRING #76 @ $1BE500
@@ -19504,9 +18912,10 @@ Dashing Huntress[END]
 
 //POINTER #79 @ $1947E4 - STRING #79 @ $1BE468
 #WRITE(ptr,$1947E4)
-With an extra alias in her hands,[LINE]
-she runs worldwide in search of lens.[LINE]
-The Dashing Huntress.[END]
+The Dashing Huntress, an alias[LINE]
+bestowed on she who scours[LINE]
+the world in search of lens.[END]
+
 
 //POINTER #80 @ $1947E8 - STRING #80 @ $1BE460
 #WRITE(ptr,$1947E8)
@@ -19514,9 +18923,10 @@ Go-Home Club[END]
 
 //POINTER #81 @ $1947EC - STRING #81 @ $1BE428
 #WRITE(ptr,$1947EC)
-No way![LINE]
-It's after school,[LINE]
-of course I'm going straight home.[END]
+I mean, of course I'm going[LINE]
+straight home. It's after school,[LINE]
+//[END]
+
 
 //POINTER #82 @ $1947F0 - STRING #82 @ $1BEB30
 #WRITE(ptr,$1947F0)
@@ -19531,7 +18941,8 @@ on adventurers who heed this creed.[END]
 
 //POINTER #84 @ $1947F8 - STRING #84 @ $1BE418
 #WRITE(ptr,$1947F8)
-Pretty Envoy[END]
+Envoy of Beauty[END]
+
 
 //POINTER #85 @ $1947FC - STRING #85 @ $1BE3B8
 #WRITE(ptr,$1947FC)
@@ -19552,23 +18963,27 @@ it's what I wanted, you know.[END]
 
 //POINTER #88 @ $194808 - STRING #88 @ $1BE340
 #WRITE(ptr,$194808)
-Charity Angel[END]
+Guardian Angel[END]
+
 
 //POINTER #89 @ $19480C - STRING #89 @ $1BE2E0
 #WRITE(ptr,$19480C)
-Loving and protecting the ones[LINE]
-you love. Carrying out your will[LINE]
-under any circumstances.[END]
+Asserting her will on the world,[LINE]
+she protects those she loves[LINE]
+no matter the circumstances.[END]
+
 
 //POINTER #90 @ $194810 - STRING #90 @ $1BE2D0
 #WRITE(ptr,$194810)
 Tradeswoman[END]
 
+
 //POINTER #91 @ $194814 - STRING #91 @ $1BE278
 #WRITE(ptr,$194814)
-Each has their business talent.[LINE]
-I'm a businesswoman. I'm making[LINE]
-a lot of money today.[END]
+Each person handles business differently.[LINE]
+Making money is a part of my very soul,[LINE]
+which is why I am so rich.[END]
+
 
 //POINTER #92 @ $194818 - STRING #92 @ $1BE260
 #WRITE(ptr,$194818)
@@ -19577,20 +18992,21 @@ Straylize Priestess[END]
 //POINTER #93 @ $19481C - STRING #93 @ $1BE220
 #WRITE(ptr,$19481C)
 A priestess who devotes her life to serve[LINE]
-the goddess in the temple.[END]
+the will of the Goddess.[END]
 //[END]
 
 
 //POINTER #94 @ $194820 - STRING #94 @ $1BE210
 #WRITE(ptr,$194820)
-Gaze of Resolve[END]
+Resolute Gaze[END]
 
 
 //POINTER #95 @ $194824 - STRING #95 @ $1BE1C8
 #WRITE(ptr,$194824)
-A firm will in her gaze.[LINE]
-Behind those eyes[LINE]
-a strong resolve dwells.[END]
+An unnwavering gaze.[LINE]
+Despite the stillness,[LINE]
+a strong resolve dwells within.[END]
+
 
 //POINTER #96 @ $194828 - STRING #96 @ $1BE1B8
 #WRITE(ptr,$194828)
@@ -19599,9 +19015,9 @@ Maiden’s Gaze[END]
 
 //POINTER #97 @ $19482C - STRING #97 @ $1BE170
 #WRITE(ptr,$19482C)
-The eyes of a woman in love.[LINE]
+Behind the glasses lie a maiden in love. [LINE]
 Those who see her eyes might be misled.[LINE]
-[END]
+//[END]
 
 
 //POINTER #98 @ $194830 - STRING #98 @ $1BE158
@@ -19621,9 +19037,10 @@ Bomb Alchemist[END]
 
 //POINTER #101 @ $19483C - STRING #101 @ $1BE090
 #WRITE(ptr,$19483C)
-A scientist who alchemizes and mixes[LINE]
-bombs. A title only a few in this world[LINE]
-may claim.[END]
+A chemist who concots bombs.[LINE]
+Not many may claim this title.[LINE]
+//[END]
+
 
 //POINTER #102 @ $194840 - STRING #102 @ $1BE088
 #WRITE(ptr,$194840)
@@ -19631,7 +19048,7 @@ Divine Wife[END]
 
 //POINTER #103 @ $194844 - STRING #103 @ $1BE040
 #WRITE(ptr,$194844)
-As a priestess, she receives favors[LINE]
+As a priestess, she receives divine favor[LINE]
 through a divine marriage pact.[END]
 //[END]
 
@@ -19642,9 +19059,9 @@ Secret Agent[END]
 
 //POINTER #105 @ $19484C - STRING #105 @ $1BDFD8
 #WRITE(ptr,$19484C)
-An agent on a Class A mission[LINE]
-whose obligation unleashes[LINE]
-a power she normally can't![END]
+Agent contracted for a Class A mission.[LINE]
+Due to the gravity of the assignment,[LINE]
+she somtimes unleases a hidden power.[END]
 
 
 //POINTER #106 @ $194850 - STRING #106 @ $1BDFC8
@@ -19653,9 +19070,10 @@ Jealous Girl[END]
 
 //POINTER #107 @ $194854 - STRING #107 @ $1BDF60
 #WRITE(ptr,$194854)
-It is well known that there are two[LINE]
-types of jealous people: those[LINE]
-who act out and those who don't.[END]
+The two types of jealous people:[LINE]
+those who lash out and those who[LINE]
+just let their jealousy stew.[END]
+
 
 //POINTER #108 @ $194858 - STRING #108 @ $1BDF50
 #WRITE(ptr,$194858)
@@ -19663,8 +19081,8 @@ Trivia Queen[END]
 
 //POINTER #109 @ $19485C - STRING #109 @ $1BDF20
 #WRITE(ptr,$19485C)
-A queen of trivia.[LINE]
-She claims to be the best.[END]
+She claims to be the best at[LINE]
+recalling miscellanoues facts.[END]
 //[END]
 
 
@@ -19674,9 +19092,9 @@ Dashing Priestess[END]
 
 //POINTER #111 @ $194864 - STRING #111 @ $1BDEC8
 #WRITE(ptr,$194864)
-With the goddess' power, she runs[LINE]
-at a divine speed.[LINE]
-The Dashing Priestess.[END]
+The Dashing Priestess, an alias[LINE]
+bestowerd on those who use divine[LINE]
+power to traverse the realm.[END]
 
 
 //POINTER #112 @ $194868 - STRING #112 @ $1BDEB0
@@ -19685,9 +19103,9 @@ Quiz Club Director[END]
 
 //POINTER #113 @ $19486C - STRING #113 @ $1BDE40
 #WRITE(ptr,$19486C)
-A club created out of an intellectual desire[LINE]
-to acquire all knowledge. As the head of its[LINE]
-women's division, she has reigned ever since.[END]
+A club created out of an intellectual desire to[LINE]
+acquire all knowledge. She reigns supreme[LINE]
+as the head ofthe women's division.[END]
 
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
 #WRITE(ptr,$194870)
@@ -19716,9 +19134,10 @@ Clouded Glasses[END]
 
 //POINTER #119 @ $194884 - STRING #119 @ $1BDD60
 #WRITE(ptr,$194884)
-I don't remove my glasses, even in[LINE]
-a bath. But they fog up and I can't see.[LINE]
-Glasses, glasses...[END]
+I don't remove my glasses, even when I[LINE]
+take a bath. However, they fog up and I.[LINE]
+can't see anything infront of me...[END]
+
 
 //POINTER #120 @ $194888 - STRING #120 @ $1BDD48
 #WRITE(ptr,$194888)
@@ -19726,9 +19145,9 @@ Six Elements Major[END]
 
 //POINTER #121 @ $19488C - STRING #121 @ $1BDCE0
 #WRITE(ptr,$19488C)
-Six elements comprise this world.[LINE]
-A wise woman who controls them all.[LINE]
-Proof for she who has all wisdom.[END]
+Reserved for those who possess true wisdom.[LINE]
+Those who bear this title exert control over[LINE]
+the six elements that comprise this world.[END]
 
 
 //POINTER #122 @ $194890 - STRING #122 @ $1BDCD0
@@ -19738,9 +19157,9 @@ Quantity over Quality[END]
 
 //POINTER #123 @ $194894 - STRING #123 @ $1BDC80
 #WRITE(ptr,$194894)
-Everyone has their own qualities in business.[LINE]
-I'm doing low-cost business today, hoping[LINE]
-that everyone will be happy.[END]
+Everyone controls how they conduct business.[LINE]
+I prefer running an affordable business, hoping[LINE]
+that it will bring joy to others.[END]
 
 
 //POINTER #124 @ $194898 - STRING #124 @ $1BDC70
@@ -19762,9 +19181,9 @@ Isaac's Son[END]
 
 //POINTER #127 @ $1948A4 - STRING #127 @ $1BDBC8
 #WRITE(ptr,$1948A4)
-Phandaria's prince.[LINE]
-A wise military man of great beauty.[LINE]
-The symbol of his country.[END]
+The Crown Prince of Phandaria.[LINE]
+He is a true symbol of the nation,[LINE]
+boasting military prowess and handsome features.[END]
 
 
 //POINTER #128 @ $1948A8 - STRING #128 @ $1BDBB8
@@ -19774,9 +19193,10 @@ Phandaria's King[END]
 
 //POINTER #129 @ $1948AC - STRING #129 @ $1BDB68
 #WRITE(ptr,$1948AC)
-King of Phandaria.[LINE]
-He succeeds the wise king Isaac.[LINE]
-Beloved by his peers.[END]
+Successor to the Isaac the Wise,[LINE]
+he reigns over the Kindom of Phandaria[LINE]
+beloved by the nation and his peers.[END]
+
 
 //POINTER #130 @ $1948B0 - STRING #130 @ $1BDB58
 #WRITE(ptr,$1948B0)
@@ -19785,8 +19205,9 @@ Royal Aura[END]
 //POINTER #131 @ $1948B4 - STRING #131 @ $1BDAF8
 #WRITE(ptr,$1948B4)
 One with a truly noble aura.[LINE]
-Not sure if it's his upbringing or royal blood.[LINE]
-Maybe a little bit of both.[END]
+Was it his upbringing or the royal bloodline?[LINE]
+Perhaps it is a bit of both.[END]
+
 
 //POINTER #132 @ $1948B8 - STRING #132 @ $1BDAE0
 #WRITE(ptr,$1948B8)
@@ -19795,8 +19216,8 @@ Doppelganger[END]
 
 //POINTER #133 @ $1948BC - STRING #133 @ $1BDA90
 #WRITE(ptr,$1948BC)
-Another self exists in this world.[LINE]
-Can't decide if I want to meet him or not.[END]
+There is an other you that exist in this world.[LINE]
+The connudrum, to meet them or not.[END]
 //[END]
 
 
@@ -19804,11 +19225,12 @@ Can't decide if I want to meet him or not.[END]
 #WRITE(ptr,$1948C0)
 Older Brother Figure[END]
 
+
 //POINTER #135 @ $1948C4 - STRING #135 @ $1BDA50
 #WRITE(ptr,$1948C4)
-Feeling like a big brother?[LINE]
-Well, anyway...[END]
-//[END]
+A big brother?[LINE]
+A leader among peers?[LINE]
+I suppose either works well...[END]
 
 
 //POINTER #136 @ $1948C8 - STRING #136 @ $1BDA40
@@ -19818,8 +19240,8 @@ Original King of Trivia[END]
 
 //POINTER #137 @ $1948CC - STRING #137 @ $1BDF20
 #WRITE(ptr,$1948CC)
-A genuine trivia king.[LINE]
-Claims to be the best.[END]
+He claims to be the one true king[LINE]
+of recalling miscellaneous knowledge.[END]
 //[END]
 
 
@@ -19829,9 +19251,10 @@ Dashing Royalty[END]
 
 //POINTER #139 @ $1948D4 - STRING #139 @ $1BD9D0
 #WRITE(ptr,$1948D4)
-With country's future on his shoulders.[LINE]
-It's time prove his royal pride.[LINE]
-Now, run, [Woodrow]![END]
+Carrying the weight of a nation, it is time[LINE]
+demonstrate kingly pride. Now, [Woodrow],[LINE]
+let your strength of conviction carry you![END]
+
 
 //POINTER #140 @ $1948D8 - STRING #140 @ $1BD9B8
 #WRITE(ptr,$1948D8)
@@ -19870,9 +19293,10 @@ Poker Face[END]
 
 //POINTER #147 @ $1948F4 - STRING #147 @ $1BD868
 #WRITE(ptr,$1948F4)
-That neat, unbroken face.[LINE]
-Behind those calm eyes.[LINE]
-Are you scheming something?[END]
+With calm eyes and an unshakeable,[LINE]
+elegant demeanor, the truth may be[LINE]
+he is secretly hatching a scheme.[END]
+
 
 //POINTER #148 @ $1948F8 - STRING #148 @ $1BD850
 #WRITE(ptr,$1948F8)
@@ -19880,9 +19304,10 @@ Guardian of Snow and Wind[END]
 
 //POINTER #149 @ $1948FC - STRING #149 @ $1BD7E8
 #WRITE(ptr,$1948FC)
-One who protects from ice and snow.[LINE]
-Promises a warm spring breeze to come.[LINE]
-A stern and gentle king.[END]
+Protector against the piercing ice and snow,[LINE]
+he promises a warm spring breeze to come.[LINE]
+A true symbol of strength and grace.[END]
+
 
 //POINTER #150 @ $194900 - STRING #150 @ $1BD7D8
 #WRITE(ptr,$194900)
@@ -19890,9 +19315,9 @@ National Merchant[END]
 
 //POINTER #151 @ $194904 - STRING #151 @ $1BD790
 #WRITE(ptr,$194904)
-Everyone has their own qualities in business.[LINE]
-I will turn even the smallest enterprise into[LINE]
-a national project.[END]
+Everyone approaches commerce differently.[LINE]
+No matter how trivial the opporunity, I shall[LINE]
+provision it as a national enterprise.[END]
 
 
 //POINTER #152 @ $194908 - STRING #152 @ $1BD780
@@ -19902,9 +19327,9 @@ Hedge Knight[END]
 
 //POINTER #153 @ $19490C - STRING #153 @ $1BD720
 #WRITE(ptr,$19490C)
-A reputable knight serving under[LINE]
-the Kingdom's army. The king and [LINE]
-people trust him very much.[END]
+A swordsman who does not officially[LINE]
+fight in the King's army. He is trusted[LINE]
+equally by the crown and the people.[END]
 
 
 //POINTER #154 @ $194910 - STRING #154 @ $1BD708
@@ -19914,9 +19339,9 @@ Sweet Boy[END]
 
 //POINTER #155 @ $194914 - STRING #155 @ $1BD6B0
 #WRITE(ptr,$194914)
-He says he hates sweets, but[LINE]
-actually enjoys them. A sweet[LINE]
-secret known only to men...[END]
+He claims to dispise sweets.[LINE]
+In reality, he has quite the sweet tooth.[LINE]
+A sweet secret only endured by men...[END]
 
 
 //POINTER #156 @ $194918 - STRING #156 @ $1BD698
@@ -19926,9 +19351,9 @@ Rose of Seinegald[END]
 
 //POINTER #157 @ $19491C - STRING #157 @ $1BD660
 #WRITE(ptr,$19491C)
-A rose dances in[LINE]
-the land of Seinegald.[LINE]
-But what is it?[END]
+A single rose dancing in the land of Seinegald.LINE]
+Who could they possibly be?![LINE]
+//[END]
 
 
 //POINTER #158 @ $194920 - STRING #158 @ $1BD650
@@ -19937,8 +19362,8 @@ Dashing Knight[END]
 
 //POINTER #159 @ $194924 - STRING #159 @ $1BD618
 #WRITE(ptr,$194924)
-A dark shadow lurking by...[LINE]
-Must've been my imagination[END]
+A dark shadow that rushes past...[LINE]
+Perhaps it was a trick of the light.[END]
 //[END]
 
 
@@ -19948,18 +19373,20 @@ Roaming Knight[END]
 
 //POINTER #161 @ $19492C - STRING #161 @ $1BD5A8
 #WRITE(ptr,$19492C)
-A knight attracted to detours,[LINE]
-even knowing his destination.[LINE]
-It's an adventure until arrival.[END]
+The title of a swordsman who cannot resist[LINE]
+the allure of detours. Every step of your[LINE]
+journey could be a new adventure.[END]
+
 
 //POINTER #162 @ $194930 - STRING #162 @ $1BD598
 #WRITE(ptr,$194930)
 Sudden Visitor[END]
 
+
 //POINTER #163 @ $194934 - STRING #163 @ $1BD558
 #WRITE(ptr,$194934)
-He pops out of nowhere.[LINE]
-Annoying, but occasionally delightful.[END]
+One who pops out of nowhere.[LINE]
+Mostly annoying, but occasionally delightful.[END]
 //[END]
 
 
@@ -19969,19 +19396,22 @@ Mighty Fencer[END]
 
 //POINTER #165 @ $19493C - STRING #165 @ $1BD4E0
 #WRITE(ptr,$19493C)
-A raging demon, sweeping away those[LINE]
-who stood in his way. One who defeated[LINE]
-even the most powerful foes.[END]
+A raging demon, sweeping away those who[LINE]
+stood in his way. This title is bestowed on those[LINE]
+who have defeated the most powerful foes.[END]
+
 
 //POINTER #166 @ $194940 - STRING #166 @ $1BD4D0
 #WRITE(ptr,$194940)
 Chest Towel[END]
 
+
 //POINTER #167 @ $194944 - STRING #167 @ $1BD468
 #WRITE(ptr,$194944)
-The pinnacle of disguise.[LINE]
-A feat only for handsome men.[LINE]
-But in turn, you lost something precious...[END]
+The pinnacle of disguise only achievable[LINE]
+by the most beautiful of men. However,[LINE]
+utilizing this technique may cost your dearly...[END]
+
 
 //POINTER #168 @ $194948 - STRING #168 @ $1BD458
 #WRITE(ptr,$194948)
@@ -19989,9 +19419,9 @@ Abyssal Fencer[END]
 
 //POINTER #169 @ $19494C - STRING #169 @ $1BD400
 #WRITE(ptr,$19494C)
-A knight who reached the world's depths.[LINE]
-He defeated history's most vicious foes.[END]
-//[END]
+A swordsman who has reached the darkest[LINE]
+depths of the world and defeated the most[LINE]
+ferocious and vicious warriors of antiquity.[END]
 
 
 //POINTER #170 @ $194950 - STRING #170 @ $1BD3E8
@@ -20000,9 +19430,10 @@ Amnesiac Warrior[END]
 
 //POINTER #171 @ $194954 - STRING #171 @ $1BD390
 #WRITE(ptr,$194954)
-How many has she slain with[LINE]
-her battle axe? A brown[LINE]
-skinned, red haired female warrior.[END]
+A female warrior with brown skin and red hair.[LINE]
+She wield a battle axe in her right hand,[LINE]
+having slain an untold number of foes.[END]
+
 
 //POINTER #172 @ $194958 - STRING #172 @ $1BD378
 #WRITE(ptr,$194958)
@@ -20012,8 +19443,9 @@ Former Soldier[END]
 //POINTER #173 @ $19495C - STRING #173 @ $1BD310
 #WRITE(ptr,$19495C)
 A member of the volunteer army once[LINE]
-led by Dalis. She endured many[LINE]
-battles for the secession of Cyril.[END]
+led by Dalis. She endured many battles[LINE]
+during the attempted secession of Cyril.[END]
+
 
 //POINTER #174 @ $194960 - STRING #174 @ $1BD300
 #WRITE(ptr,$194960)
@@ -20022,9 +19454,9 @@ Dalis' Wife[END]
 
 //POINTER #175 @ $194964 - STRING #175 @ $1BD2B8
 #WRITE(ptr,$194964)
-Dalis Vincent's wife. They vowed to[LINE]
-share their joys and sorrows[LINE]
-together.[END]
+Dalis Vincent's wife.[LINE]
+Be it joy or sorrow, we[LINE]
+vowed to share them, together.[END]
 
 
 //POINTER #176 @ $194968 - STRING #176 @ $1BD2A8
@@ -20034,9 +19466,10 @@ Cat-Lover[END]
 
 //POINTER #177 @ $19496C - STRING #177 @ $1BD248
 #WRITE(ptr,$19496C)
-She loves and respects cats.[LINE]
-Nothing can stop her blazing heart.[LINE]
-Any cat person understands![END]
+She loves cats with all of her heart.[LINE]
+Once that love is ignited, nothing can stop it.[LINE]
+If you're a cat person, you understand![END]
+
 
 //POINTER #178 @ $194970 - STRING #178 @ $1BD230
 #WRITE(ptr,$194970)
@@ -20044,9 +19477,10 @@ Wife Networker[END]
 
 //POINTER #179 @ $194974 - STRING #179 @ $1BD1D0
 #WRITE(ptr,$194974)
-A housewife needs to[LINE]
-socialize with her neighbors.[LINE]
-It seems appropriate.[END]
+A housewife must build strong relationships[LINE]
+with her neighbors. However, there are some [LINE]
+situations where this may not be the case.[END]
+
 
 //POINTER #180 @ $194978 - STRING #180 @ $1BD1C0
 #WRITE(ptr,$194978)
@@ -20054,9 +19488,10 @@ Home Cook[END]
 
 //POINTER #181 @ $19497C - STRING #181 @ $1BD168
 #WRITE(ptr,$19497C)
-I'm gonna turn my axe into a fryin' pan[LINE]
-I want you to eat my food today too~[LINE]
+Turning my axe into a frying pan,[LINE]
+today is the day we feast~[MUSIC][LINE]
 <$81>@Composed by <$81>@[Mary][END]
+
 
 //POINTER #182 @ $194980 - STRING #182 @ $1BD158
 #WRITE(ptr,$194980)
@@ -20065,8 +19500,8 @@ Breaker[END]
 //POINTER #183 @ $194984 - STRING #183 @ $1BD0F0
 #WRITE(ptr,$194984)
 A being known as "The Breaker."[LINE]
-She breaks through any foes, difficulties,[LINE]
-and even subtle atmospheres.[END]
+The enemy before you, the difficulties of life,[LINE]
+and even subtitley don't stand a chance![END]
 
 
 //POINTER #184 @ $194988 - STRING #184 @ $1BD0E0
@@ -20075,9 +19510,10 @@ Dashing Warrior[END]
 
 //POINTER #185 @ $19498C - STRING #185 @ $1BD088
 #WRITE(ptr,$19498C)
-Show off your running form,[LINE]
-which suits your slender limbs,[LINE]
-and run, [Mary]![END]
+Showing off your running technique[LINE]
+which suits your slender limbs.[LINE]
+Keep running, [Mary]![END]
+
 
 //POINTER #186 @ $194990 - STRING #186 @ $1BD078
 #WRITE(ptr,$194990)
@@ -20087,7 +19523,8 @@ Quiz Club Old Girl[END]
 #WRITE(ptr,$194994)
 A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
-An old girl who once belonged to it.[END]
+A former member, known as an "old girl."[END]
+
 
 //POINTER #188 @ $194998 - STRING #188 @ $1BEB30
 #WRITE(ptr,$194998)
@@ -20115,9 +19552,9 @@ Hot Mama[END]
 
 //POINTER #193 @ $1949AC - STRING #193 @ $1BCF20
 #WRITE(ptr,$1949AC)
-With that extraordinary body,[LINE]
+With that extraordinary physique,[LINE]
 she exudes flexibility and femininity.[LINE]
-...Damn you, Dalis.[END]
+...Dalis, you bastard.[END]
 
 
 //POINTER #194 @ $1949B0 - STRING #194 @ $1BCF08
@@ -20126,9 +19563,10 @@ Binary Stars[END]
 
 //POINTER #195 @ $1949B4 - STRING #195 @ $1BCEA0
 #WRITE(ptr,$1949B4)
-Binary stars joined by attraction,[LINE]
-one in body and soul.[LINE]
+Binary stars joined by mutual attraction,[LINE]
+supporting eachother both body and soul.[LINE]
 Proof that two shine brighter as one.[END]
+
 
 //POINTER #196 @ $1949B8 - STRING #196 @ $1BCE90
 #WRITE(ptr,$1949B8)
@@ -20137,8 +19575,9 @@ Combat Merchant[END]
 //POINTER #197 @ $1949BC - STRING #197 @ $1BCE48
 #WRITE(ptr,$1949BC)
 Each has his own business talent.[LINE]
-As a warrior,[LINE]
-did you fight and trade today?[END]
+As a warrior, must I spend all day fighting and trading?[LINE]
+//[END]
+
 
 //POINTER #198 @ $1949C0 - STRING #198 @ $1BCE38
 #WRITE(ptr,$1949C0)
@@ -20146,8 +19585,9 @@ Small Archer[END]
 
 //POINTER #199 @ $1949C4 - STRING #199 @ $1BCDF0
 #WRITE(ptr,$1949C4)
-Using her small body to the fullest,[LINE]
-she bravely shoots her enemies.[END]
+Using her small size to her advantage, [LINE]
+she bravely shoots down her foes.[END]
+//[END]
 
 //POINTER #200 @ $1949C8 - STRING #200 @ $1BCDE8
 #WRITE(ptr,$1949C8)
@@ -20156,9 +19596,10 @@ Kidult[END]
 
 //POINTER #201 @ $1949CC - STRING #201 @ $1BCDB8
 #WRITE(ptr,$1949CC)
-Adult children?[LINE]
-Child adult?[LINE]
-A difficult age...[END]
+An adult child?[LINE]
+A childish adult?[LINE]
+Such a difficult age...[END]
+
 
 //POINTER #202 @ $1949D0 - STRING #202 @ $1BCDA8
 #WRITE(ptr,$1949D0)
@@ -20167,9 +19608,10 @@ Cursed Beauty[END]
 
 //POINTER #203 @ $1949D4 - STRING #203 @ $1BCD50
 #WRITE(ptr,$1949D4)
-Hey. I'm a beauty queen, right?[LINE]
-She's expected to grow up[LINE]
-into a great woman.[END]
+"Hey. I'm a beauty queen, right?"[LINE]
+This single phrase gives a glimpse[LINE]
+into the great woman she will become.[END]
+
 
 //POINTER #204 @ $1949D8 - STRING #204 @ $1BCD38
 #WRITE(ptr,$1949D8)
@@ -20178,8 +19620,8 @@ Little Lady[END]
 
 //POINTER #205 @ $1949DC - STRING #205 @ $1BCCF0
 #WRITE(ptr,$1949DC)
-A girl dreams of growing fast.[LINE]
-On the flip side, she's still a child.[END]
+A girl who dreams of being an adult ASAP.[LINE]
+However, the reality is she's still a child.[END]
 //[END]
 
 
@@ -20190,8 +19632,8 @@ Innocent[END]
 
 //POINTER #207 @ $1949E4 - STRING #207 @ $1BCCA0
 #WRITE(ptr,$1949E4)
-An innocent heart person.[LINE]
-It doesn't matter how old you are.[END]
+A person possessing a pure heart.[LINE]
+No matter her age, she will retain this quality.[END]
 //[END]
 
 
@@ -20202,9 +19644,10 @@ Actress Guise[END]
 
 //POINTER #209 @ $1949EC - STRING #209 @ $1BCC38
 #WRITE(ptr,$1949EC)
-Even though it was one mistake,[LINE]
-I will wear the mask again,[LINE]
-he'll be sad if I don't.[END]
+Even though it was a one-time mistake,[LINE]
+I cannot complain. I will continue to wear[LINE]
+this mask to maintain his happiness.[END]
+
 
 //POINTER #210 @ $1949F0 - STRING #210 @ $1BCC28
 #WRITE(ptr,$1949F0)
@@ -20212,9 +19655,9 @@ White Ape[END]
 
 //POINTER #211 @ $1949F4 - STRING #211 @ $1BCBE0
 #WRITE(ptr,$1949F4)
-A rising star in the world of archery.[LINE]
-The white ape, shooting[LINE]
-through any target[MUSIC][END]
+A rising star in the world of archery[LINE]
+who inhereted her skills from her grandfather.[LINE]
+The white ape, piercing any target[MUSIC][END]
 
 
 //POINTER #212 @ $1949F8 - STRING #212 @ $1BCBD0
@@ -20223,8 +19666,8 @@ Dashing Kid[END]
 
 //POINTER #213 @ $1949FC - STRING #213 @ $1BCB98
 #WRITE(ptr,$1949FC)
-With her light weight,[LINE]
-she can take any path with ease.[END]
+Taking full advantage of her light wieght,[LINE]
+she traverses any path with ease.[END]
 //[END]
 
 
@@ -20255,7 +19698,7 @@ Kid's Club Representative[END]
 
 //POINTER #219 @ $194A14 - STRING #219 @ $1BCAB0
 #WRITE(ptr,$194A14)
-[Chelsea]Torn (14), archer's granddaughter.[LINE]
+[Chelsea]Torn (14), granddaughter of a master archer.[LINE]
 151cm, 39kg.[LINE]
 Skilled beyond her appearance.[END]
 
@@ -20266,9 +19709,10 @@ Growing Season[END]
 
 //POINTER #221 @ $194A1C - STRING #221 @ $1BCA38
 #WRITE(ptr,$194A1C)
-Her mother was a beautiful woman.[LINE]
-So you can be assured[MUSIC]...[LINE]
-Although she has her father's looks.[END]
+My mother was a beautiful woman.[LINE]
+I can't wait to look just like her[MUSIC]...[LINE]
+Except people say I look exactly like my father.[END]
+
 
 //POINTER #222 @ $194A20 - STRING #222 @ $1BCA20
 #WRITE(ptr,$194A20)
@@ -20276,9 +19720,9 @@ Artemis Eyes[END]
 
 //POINTER #223 @ $194A24 - STRING #223 @ $1BC9C0
 #WRITE(ptr,$194A24)
-Is it your foes' doom gazing[LINE]
-beyond your Godlike-Aim?[LINE]
-Blessed by the bow and beauty goddess.[END]
+Blessed by the goodess of archery and beauty,[LINE]
+she can strike down foes from any distance.[LINE]
+All who are within her sights should tremble in fear.[END]
 
 
 //POINTER #224 @ $194A28 - STRING #224 @ $1BC9B0
@@ -20288,8 +19732,8 @@ Rising Merchant[END]
 //POINTER #225 @ $194A2C - STRING #225 @ $1BC968
 #WRITE(ptr,$194A2C)
 Each has their own business talent.[LINE]
-I'll take a shot at it and become a[LINE]
-big hit someday.[END]
+I'll take a shot at it and make it big someday![LINE]
+//[END]
 
 //POINTER #226 @ $194A30 - STRING #226 @ $1BC958
 #WRITE(ptr,$194A30)
@@ -20297,8 +19741,8 @@ Clown [Johnny][END]
 
 //POINTER #227 @ $194A34 - STRING #227 @ $1BC920
 #WRITE(ptr,$194A34)
-Clown dressed in fancy clothes.[LINE]
-Living a rootless life.[END]
+A traveling jokester and bard,[LINE]
+Dressesd in flamboyant costumes.[END]
 //[END]
 
 
@@ -20309,8 +19753,8 @@ Shiden's Youngest[END]
 
 //POINTER #229 @ $194A3C - STRING #229 @ $1BC8E0
 #WRITE(ptr,$194A3C)
-As Shiden's youngest,[LINE]
-he lives a carefree life.[END]
+The youngest child of the Shiden family,[LINE]
+he lives a bohemian and unrestrained life.[END]
 //[END]
 
 
@@ -20321,9 +19765,9 @@ Sealed Man[END]
 
 //POINTER #231 @ $194A44 - STRING #231 @ $1BC898
 #WRITE(ptr,$194A44)
-The elusive clown.[LINE]
-What might be sealed deep[LINE] 
-in his heart?[END]
+A clown who seems to be completely clueless.[LINE]
+What secrets does such a person hold?[LINE] 
+//[END]
 
 
 //POINTER #232 @ $194A48 - STRING #232 @ $1BC888
@@ -20333,8 +19777,8 @@ Sorrowful Musician[END]
 
 //POINTER #233 @ $194A4C - STRING #233 @ $1BC860
 #WRITE(ptr,$194A4C)
-In the battle of sorrow...[LINE]
-What does the musician think?[END]
+In the midst of sorrow, [LINE]
+what does the musician think...[END]
 //[END]
 
 
@@ -20345,8 +19789,8 @@ Royal Clown[END]
 
 //POINTER #235 @ $194A54 - STRING #235 @ $1BC818
 #WRITE(ptr,$194A54)
-Though you may be a clown.[LINE]
-Inside... you're still royalty.[END]
+Though you may be a clown,[LINE]
+you can never escape your royal blood.[END]
 //[END]
 
 
@@ -20357,9 +19801,10 @@ Live Musician[END]
 
 //POINTER #237 @ $194A5C - STRING #237 @ $1BC7C8
 #WRITE(ptr,$194A5C)
-One reveling the world's[LINE]
-music enjoying life.[LINE]
-A live musician.[END]
+A traveling minstrel who shares[LINE]
+his music around the world.[LINE]
+He revels in the thrill of live performance.[END]
+
 
 //POINTER #238 @ $194A60 - STRING #238 @ $1BC7B8
 #WRITE(ptr,$194A60)
@@ -20372,14 +19817,15 @@ Johnny Beats[END]
 Beat it together boys,[LINE]
 Yes like that, dumdum BADUM[MUSIC][END]
 
+
 //POINTER #240 @ $194A68 - STRING #240 @ $1BC758
 #WRITE(ptr,$194A68)
 Dashing Clown[END]
 
 //POINTER #241 @ $194A6C - STRING #241 @ $1BC728
 #WRITE(ptr,$194A6C)
-It's really hard to run in this costume...[END]
-//[END]
+It seems like a lot of work[LINE]
+to run in such attire...[END]
 //[END]
 
 
@@ -20391,7 +19837,8 @@ Quiz Club Coach[END]
 #WRITE(ptr,$194A74)
 A club created out of an intellectual[LINE]
 desire to acquire all knowledge.[LINE]
-Alright! We're knocking 100 questions![END]
+Alright! We're knocking out 100 questions![END]
+
 
 //POINTER #244 @ $194A78 - STRING #244 @ $1BEB30
 #WRITE(ptr,$194A78)
@@ -20409,7 +19856,7 @@ Island Representative[END]
 
 //POINTER #247 @ $194A84 - STRING #247 @ $1BC620
 #WRITE(ptr,$194A84)
-[Johnny] Shiden (26), Shiden youngest.[LINE]
+[Johnny] Shiden (26), youngest in the family.[LINE]
 174cm, 61kg.[LINE]
 Fights and supports with his signature singing voice.[END]
 
@@ -20424,15 +19871,17 @@ Not heeding everyone's uproar,[LINE]
 while enjoying a firm sideways glance.[LINE]
 He's in a class of his own.[END]
 
+
 //POINTER #250 @ $194A90 - STRING #250 @ $1BC598
 #WRITE(ptr,$194A90)
 [Johnny]HDRX[END]
 
 //POINTER #251 @ $194A94 - STRING #251 @ $1BC530
 #WRITE(ptr,$194A94)
-With his outlandish play style,[LINE]
-rose to unprecedented legend.[LINE]
-HDRX who never ceases to entice people.[END]
+Due to his outlandish style of play,[LINE]
+he has risen to legendary heights.[LINE]
+HDRX proves he never ceases to entice people.[END]
+
 
 //POINTER #252 @ $194A98 - STRING #252 @ $1BC520
 #WRITE(ptr,$194A98)
@@ -20441,8 +19890,9 @@ Overseas Businessmen[END]
 //POINTER #253 @ $194A9C - STRING #253 @ $1BC4D0
 #WRITE(ptr,$194A9C)
 Each has their own business talent.[LINE]
-No wonder I was the first to establish[LINE]
-friendly international relations.[END]
+First to establish friendly foreign relations[LINE]
+is the key to any business enterprise.[END]
+
 
 //POINTER #254 @ $194AA0 - STRING #254 @ $1BC4C0
 #WRITE(ptr,$194AA0)
@@ -20451,8 +19901,9 @@ Champion[END]
 //POINTER #255 @ $194AA4 - STRING #255 @ $1BC470
 #WRITE(ptr,$194AA4)
 Champion of the arena.[LINE]
-Will be greeted with praise.[LINE]
-Whatever your background.[END]
+Greeted with praise and admiration,[LINE]
+regardless of their background.[END]
+
 
 //POINTER #256 @ $194AA8 - STRING #256 @ $1BC460
 #WRITE(ptr,$194AA8)
@@ -20461,9 +19912,10 @@ Topless Man[END]
 
 //POINTER #257 @ $194AAC - STRING #257 @ $1BC418
 #WRITE(ptr,$194AAC)
-Showing off his wonderful body.[LINE]
-Don't be shy.[LINE]
-Display it to the world.[END]
+Showing off his wonderful trained body,[LINE]
+withough any regret (or embarrassment).[LINE]
+//[END]
+
 
 //POINTER #258 @ $194AB0 - STRING #258 @ $1BC408
 #WRITE(ptr,$194AB0)
@@ -20472,9 +19924,10 @@ City Hero[END]
 
 //POINTER #259 @ $194AB4 - STRING #259 @ $1BC3C0
 #WRITE(ptr,$194AB4)
-Whenever there is a cry for help.[LINE]
-He'll show up[LINE]
-The hero of Neustadt.[END]
+The hero of Neustadt.[LINE]
+Whenever there is a cry for help[LINE]
+he is quick to appear on the scene.[END]
+
 
 //POINTER #260 @ $194AB8 - STRING #260 @ $1BC3B8
 #WRITE(ptr,$194AB8)
@@ -20483,9 +19936,10 @@ Tekken King[END]
 
 //POINTER #261 @ $194ABC - STRING #261 @ $1BC360
 #WRITE(ptr,$194ABC)
-These feelings in my fists[LINE]
-Sometimes to soothe a child.[LINE]
-Sometimes to beat the bad guys.[END]
+There is passion within my fists.[LINE]
+Sometimes, they soothe children.[LINE]
+Sometimes, they strike down the wicked.[END]
+
 
 //POINTER #262 @ $194AC0 - STRING #262 @ $1BC348
 #WRITE(ptr,$194AC0)
@@ -20494,8 +19948,8 @@ Goddess Challenger[END]
 
 //POINTER #263 @ $194AC4 - STRING #263 @ $1BC318
 #WRITE(ptr,$194AC4)
-To satisfy his own desires. The man[LINE]
-challenges the Goddess to battle.[END]
+To satisfy his own desires,[LINE]
+he challenges the Goddess to battle.[END]
 //[END]
 
 //POINTER #264 @ $194AC8 - STRING #264 @ $1BC308
@@ -20505,8 +19959,8 @@ Man in Love[END]
 
 //POINTER #265 @ $194ACC - STRING #265 @ $1BC2D0
 #WRITE(ptr,$194ACC)
-For the sake of the one he loves.[LINE]
-A man vows to live in love.[END]
+He vows to devote his life to love[LINE]
+for the sake of a pariculare someone.[END]
 //[END]
 
 //POINTER #266 @ $194AD0 - STRING #266 @ $1BC2C0
@@ -20527,7 +19981,7 @@ Dashing Macho[END]
 //POINTER #269 @ $194ADC - STRING #269 @ $1BC208
 #WRITE(ptr,$194ADC)
 Overdeveloped muscles can be an issue.[LINE]
-They're too heavy to run.[END]
+They are too heavy and weigh you down.[END]
 //[END]
 
 //POINTER #270 @ $194AE0 - STRING #270 @ $1BC1F0
@@ -20557,9 +20011,10 @@ Muscle Officer[END]
 
 //POINTER #275 @ $194AF4 - STRING #275 @ $1BC110
 #WRITE(ptr,$194AF4)
-Hero [Kongman] Khang (39).[LINE]
+Mighty Hero [Kongman] Khang (39).[LINE]
 190cm, 100kg.[LINE]
-The Oldest but a Cheerful mood maker.[END]
+Mischievous, despite being the oldest.[END]
+
 
 //POINTER #276 @ $194AF8 - STRING #276 @ $1BC100
 #WRITE(ptr,$194AF8)
@@ -20567,9 +20022,10 @@ Red Lobster[END]
 
 //POINTER #277 @ $194AFC - STRING #277 @ $1BC0C0
 #WRITE(ptr,$194AFC)
-If you get into too much hot water.[LINE]
-Your face will turn red.[LINE]
-That’s the only explanation...[END]
+The water was too hot.[LINE]
+That's why my face is so red.[LINE]
+Clearly, the only explanation...[END]
+
 
 //POINTER #278 @ $194B00 - STRING #278 @ $1BC0A8
 #WRITE(ptr,$194B00)
@@ -20577,9 +20033,10 @@ Hercules Arms[END]
 
 //POINTER #279 @ $194B04 - STRING #279 @ $1BC040
 #WRITE(ptr,$194B04)
-A god of many legends.[LINE]
-His arms are for grasping glory.[LINE]
-The fighting god that reached the top.[END]
+Namesake from a god of many legends.[LINE]
+His arms are for grasping glory and proof.[LINE]
+that he is the strongest, revered as a god.[END]
+
 
 //POINTER #280 @ $194B08 - STRING #280 @ $1BC028
 #WRITE(ptr,$194B08)
@@ -20587,9 +20044,10 @@ Official Merchant[END]
 
 //POINTER #281 @ $194B0C - STRING #281 @ $1BBFE0
 #WRITE(ptr,$194B0C)
-Each has his own business Talent.[LINE]
-Using his fame,[LINE]
-to develop [Kongman] goods.[END]
+Each has their own business talent.[LINE]
+Taking advantage of his fame,[LINE]
+planning has begun [Kongman] merchandise.[END]
+
 
 //POINTER #282 @ $194B10 - STRING #282 @ $1BBFD0
 #WRITE(ptr,$194B10)
@@ -20607,9 +20065,10 @@ Flame Girl[END]
 
 //POINTER #285 @ $194B1C - STRING #285 @ $1BBF28
 #WRITE(ptr,$194B1C)
-The flame girl, a befitting title[LINE]
-to the flame wielder [Stahn]’s sister[LINE]
-Well..., it just so happens.[END]
+A befitting title for the sister[LINE]
+of the flame wielder [Stahn].[LINE]
+Entirely a coincidence.[END]
+
 
 //POINTER #286 @ $194B20 - STRING #286 @ $1BBF10
 #WRITE(ptr,$194B20)
@@ -20618,9 +20077,9 @@ Dragon Nurturer[END]
 
 //POINTER #287 @ $194B24 - STRING #287 @ $1BBEC8
 #WRITE(ptr,$194B24)
-Kind dragon's nurturer.[LINE]
-Creates life connections.[LINE]
-In time, a journey.[END]
+She rears dragons using kindness.[LINE]
+It is important to make connections[LINE]
+prior to the long journey of life.[END]
 
 
 //POINTER #288 @ $194B28 - STRING #288 @ $1BBEB0
@@ -20629,9 +20088,9 @@ Dashing Housekeeper[END]
 
 //POINTER #289 @ $194B2C - STRING #289 @ $1BBE78
 #WRITE(ptr,$194B2C)
-Helping out with the household chores,[LINE]
-you won't understand until you try it.[LINE]
-It's a hard job...[END]
+Helping out with the household chores is[LINE]
+quite difficult. Only those who have[LINE]
+actually done them understond...[END]
 
 
 //POINTER #290 @ $194B30 - STRING #290 @ $1BBE60
@@ -20652,8 +20111,8 @@ Caretaker[END]
 //POINTER #293 @ $194B3C - STRING #293 @ $1BBD80
 #WRITE(ptr,$194B3C)
 NatuRanger's little sister.[LINE]
-She still wake up every day?[LINE]
-I'm sure you can handle it.[END]
+She can probably handle it but [LINE]
+she's still wakes him every day?[END]
 
 //POINTER #294 @ $194B40 - STRING #294 @ $1BBD70
 #WRITE(ptr,$194B40)
@@ -20673,7 +20132,7 @@ Hot Spring Sister[END]
 //POINTER #297 @ $194B4C - STRING #297 @ $1BBCD0
 #WRITE(ptr,$194B4C)
 We used to take baths together, you know.[LINE]
-... Aren't we like childhood friend?[END]
+... Aren't we like childhood friends?[END]
 //[END]
 
 //POINTER #298 @ $194B50 - STRING #298 @ $1BBCC0
@@ -20682,9 +20141,10 @@ Triple Star[END]
 
 //POINTER #299 @ $194B54 - STRING #299 @ $1BBC60
 #WRITE(ptr,$194B54)
-A triple-star expert.[LINE]
-Becoming the world's center of attention[LINE]
-A chef's highest peak.[END]
+A triple-star expert, becoming the[LINE]
+center of the attention in the world.[LINE]
+A chef's highest achievement.[END]
+
 
 //POINTER #300 @ $194B58 - STRING #300 @ $1BBC58
 #WRITE(ptr,$194B58)
@@ -20694,7 +20154,7 @@ Salesgirl[END]
 //POINTER #301 @ $194B5C - STRING #301 @ $1BBC00
 #WRITE(ptr,$194B5C)
 Each has his own business talent.[LINE]
-With a heartwarming smile.[LINE]
-I'll do my best everyday[END]
+With a heartwarming smile, I'll do[LINE]
+my best every day and win everyone over![END]
 
 

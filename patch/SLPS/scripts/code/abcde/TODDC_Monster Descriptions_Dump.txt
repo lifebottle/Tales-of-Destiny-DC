@@ -421,9 +421,9 @@ a special one is the weak gas effect.[END]
 
 //Text $5DED
 #WRITE(ptr,$3E9C)
-An artificial life created with the[LINE]
-Aetherian tech. Attacks with the its[LINE]
-tails sword. Counter after guarding.[END]
+An artificial life created with Aetherian[LINE]
+tech. Attacks with its tail's sword.[LINE]
+Counters after guarding.[END]
 
 
 //Text $5E5B
@@ -1693,3 +1693,5 @@ language. What is its purpose...[END]
 //Text $9C2C
 #WRITE(ptr,$486C)
 [Cross_ani]Back [Square_ani]Info [L1_ani][R1_ani]Sort[END]
+
+

@@ -730,7 +730,7 @@ Let's Go to the Cathedral[END]
 
 //Text $15878
 #WRITE(ptr,$56A4)
-To the Basement..[END]
+To the Basement...[END]
 
 
 //Text $15868
@@ -2256,7 +2256,7 @@ Let's See [Reynolds] in Seinegald[END]
 
 //Text $13C08
 #WRITE(ptr,$5B78)
-Fateful Encounter[END]
+Destined Encounter[END]
 
 
 //Text $13BE8
@@ -3346,7 +3346,7 @@ Let's Head Back to the Inn Soon[END]
 
 //Text $12B70
 #WRITE(ptr,$5EE0)
-Not out of town, Go to the Temple's Back Door![END]
+Go to the Temple's Back Door![END]
 
 
 //Text $12B58
