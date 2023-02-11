@@ -8,7 +8,7 @@ Menus translated: 100% (minus the credit roll)
 
 Skits translated and edited: 100%
 
-Discord: 
+Discord:  
 https://discord.gg/NUvvgUtdXW
 
 Video on how to use exisiting tools to extract files:  
