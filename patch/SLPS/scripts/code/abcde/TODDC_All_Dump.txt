@@ -11378,9 +11378,9 @@ it for some Gald already![END]
 
 //Text $1AD710
 #WRITE(ptr,$18D1FC)
-A piece of the meteor that sparked[LINE]
-the Aeth'er War...... Bet you could[LINE]
-sell it...[END]
+A piece of the meteor that[LINE]
+sparked the Aeth'er War.[LINE]
+Bet you could sell it.[END]
 
 
 //Text $1AD6F8
@@ -16783,154 +16783,754 @@ knows what's inside it. Better[LINE]
 eaten in the dark.[END]
 
 
+//Text $1BA1B8
+#WRITE(ptr,$191DAC)
+Crispy Nori [END]
 
 
+//Text $1BA1A8
+#WRITE(ptr,$191DB0)
+Collab Crispy Nori [END]
 
 
+//Text $1BA198
+#WRITE(ptr,$191DB4)
+Temaki Sushi[END]
 
 
+//Text $1BA110
+#WRITE(ptr,$191DDC)
+Crispy [END]
 
 
+//Text $1BA0F8
+#WRITE(ptr,$191DE0)
+Collab Crispy [END]
 
 
+//Text $1BA0E0
+#WRITE(ptr,$191DE4)
+Ham and Egg Sandwich[END]
 
 
+//Text $1BA058
+#WRITE(ptr,$191E0C)
+Golden Ratio [END]
 
 
+//Text $1BA048
+#WRITE(ptr,$191E10)
+Collab Golden Ratio [END]
 
 
+//Text $1BA038
+#WRITE(ptr,$191E14)
+Double Burger[END]
 
 
+//Text $1B9FB8
+#WRITE(ptr,$191E3C)
+Double [END]
 
 
+//Text $1B9FA8
+#WRITE(ptr,$191E40)
+Collab Double [END]
 
 
+//Text $1B9F98
+#WRITE(ptr,$191E44)
+Chilli Dog[END]
 
 
+//Text $1B9F20
+#WRITE(ptr,$191E6C)
+Fresh-baked [END]
 
 
+//Text $1B9F10
+#WRITE(ptr,$191E70)
+Collab Fresh-baked [END]
 
 
+//Text $1B9F08
+#WRITE(ptr,$191E74)
+Spring Roll[END]
 
 
+//Text $1B9E90
+#WRITE(ptr,$191E9C)
+Piping Hot [END]
 
 
+//Text $1B9E80
+#WRITE(ptr,$191EA0)
+Collab Piping Hot [END]
 
 
+//Text $1B9E78
+#WRITE(ptr,$191EA4)
+Skewered Chicken[END]
 
 
+//Text $1B9E08
+#WRITE(ptr,$191ECC)
+Amazing [END]
 
 
+//Text $1B9DF8
+#WRITE(ptr,$191ED0)
+Collab Amazing [END]
 
 
+//Text $1B9DE8
+#WRITE(ptr,$191ED4)
+Kitsune Udon[END]
 
 
+//Text $1B9D88
+#WRITE(ptr,$191EFC)
+Thousand-night overnight [END]
 
 
+//Text $1B9D78
+#WRITE(ptr,$191F00)
+Collab Thousand-night overnight [END]
 
 
+//Text $1B9D68
+#WRITE(ptr,$191F04)
+Miso-pickled [END]
 
 
+//Text $1B9CF0
+#WRITE(ptr,$191F2C)
+Cutlet [END]
 
 
+//Text $1B9CE0
+#WRITE(ptr,$191F30)
+Collab Cutlet [END]
 
 
+//Text $1B9CD0
+#WRITE(ptr,$191F34)
+Sake Chazuke[END]
 
 
+//Text $1B9C50
+#WRITE(ptr,$191F5C)
+Crumbly [END]
 
 
+//Text $1B9C40
+#WRITE(ptr,$191F60)
+Collab Crumbly [END]
 
 
+//Text $1B9C30
+#WRITE(ptr,$191F64)
+Shrimp Pilaf[END]
 
 
+//Text $1B9BB0
+#WRITE(ptr,$191F8C)
+Fluffy [END]
 
 
+//Text $1B9BA0
+#WRITE(ptr,$191F90)
+Collab Fluffy [END]
 
 
+//Text $1B9B90
+#WRITE(ptr,$191F94)
+Crepe[END]
 
 
+//Text $1B9B10
+#WRITE(ptr,$191FBC)
+Spicy [END]
 
 
+//Text $1B9B00
+#WRITE(ptr,$191FC0)
+Collab Spicy [END]
 
 
+//Text $1B9AF0
+#WRITE(ptr,$191FC4)
+Curry Udon[END]
 
 
+//Text $1B9A70
+#WRITE(ptr,$191FEC)
+Unintentionally Stirred [END]
 
 
+//Text $1B9A60
+#WRITE(ptr,$191FF0)
+Collab Unintentionally Stirred [END]
 
 
+//Text $1B9A50
+#WRITE(ptr,$191FF4)
+Cheese Omelette[END]
 
 
+//Text $1B99D8
+#WRITE(ptr,$19201C)
+Mountain Vegetable [END]
 
 
+//Text $1B99C8
+#WRITE(ptr,$192020)
+Collab Mountain Vegetable [END]
 
 
+//Text $1B99B8
+#WRITE(ptr,$192024)
+Hodgepodge Ramen[END]
 
 
+//Text $1B9940
+#WRITE(ptr,$19204C)
+Brave [END]
 
 
+//Text $1B9930
+#WRITE(ptr,$192050)
+Collab Brave [END]
 
 
+//Text $1B9918
+#WRITE(ptr,$192054)
+Ginger Pork[END]
 
 
+//Text $1B98A0
+#WRITE(ptr,$19207C)
+Muffled [END]
 
 
+//Text $1B9890
+#WRITE(ptr,$192080)
+Collab Muffled [END]
 
 
+//Text $1B9880
+#WRITE(ptr,$192084)
+Steamed Bun[END]
 
 
+//Text $1B9818
+#WRITE(ptr,$1920AC)
+Extra Spicy [END]
 
 
+//Text $1B9808
+#WRITE(ptr,$1920B0)
+Collab Extra Spicy [END]
 
 
+//Text $1B97F0
+#WRITE(ptr,$1920B4)
+Kimchi Fried Rice[END]
 
 
+//Text $1B9780
+#WRITE(ptr,$1920DC)
+Twice Cooked [END]
 
 
+//Text $1B9770
+#WRITE(ptr,$1920E0)
+Collab Twice Cooked [END]
 
 
+//Text $1B9760
+#WRITE(ptr,$1920E4)
+Curry Bun[END]
 
 
+//Text $1B96E8
+#WRITE(ptr,$19210C)
+Rolling [END]
 
 
+//Text $1B96D8
+#WRITE(ptr,$192110)
+Collab Rolling [END]
 
 
+//Text $1B96C8
+#WRITE(ptr,$192114)
+Rice burger[END]
 
 
+//Text $1B9658
+#WRITE(ptr,$19213C)
+Super-sized [END]
 
 
+//Text $1B9648
+#WRITE(ptr,$192140)
+Collab Super-sized [END]
 
 
+//Text $1B9638
+#WRITE(ptr,$192144)
+Sunfish Bowl[END]
 
 
+//Text $1B95C8
+#WRITE(ptr,$19216C)
+Second Generation [END]
 
 
+//Text $1B95B8
+#WRITE(ptr,$192170)
+Collab Second Generation [END]
 
 
+//Text $1B95A8
+#WRITE(ptr,$192174)
+Salmon Roe Bowl[END]
 
 
+//Text $1B9528
+#WRITE(ptr,$19219C)
+Exceptional [END]
 
 
+//Text $1B9518
+#WRITE(ptr,$1921A0)
+Collab Exceptional [END]
 
 
+//Text $1B9510
+#WRITE(ptr,$1921A4)
+Sea Urchin Bowl[END]
 
 
+//Text $1B9480
+#WRITE(ptr,$1921CC)
+Rich [END]
 
 
+//Text $1B9470
+#WRITE(ptr,$1921D0)
+Collab Rich [END]
 
 
+//Text $1B9460
+#WRITE(ptr,$1921D4)
+Beef Stew[END]
 
 
+//Text $1B93E8
+#WRITE(ptr,$1921FC)
+Resort [END]
 
 
+//Text $1B93D8
+#WRITE(ptr,$192200)
+Collab Resort [END]
 
 
+//Text $1B93C8
+#WRITE(ptr,$192204)
+Kalpi Gukbap[END]
 
 
+//Text $1B9338
+#WRITE(ptr,$19222C)
+Sticky [END]
 
 
+//Text $1B9328
+#WRITE(ptr,$192230)
+Collab Sticky [END]
 
 
+//Text $1B9318
+#WRITE(ptr,$192234)
+Pork Stew[END]
+
+
+//Text $1B92A0
+#WRITE(ptr,$19225C)
+Deluxe [END]
+
+
+//Text $1B9290
+#WRITE(ptr,$192260)
+Collab Deluxe [END]
+
+
+//Text $1B9278
+#WRITE(ptr,$192264)
+Tomato Spaghetti[END]
+
+
+//Text $1B91F8
+#WRITE(ptr,$19228C)
+Onion [END]
+
+
+//Text $1B91E8
+#WRITE(ptr,$192290)
+Collab Onion [END]
+
+
+//Text $1B91E0
+#WRITE(ptr,$192294)
+Doria[END]
+
+
+//Text $1B9170
+#WRITE(ptr,$1922BC)
+Demi [END]
+
+
+//Text $1B9160
+#WRITE(ptr,$1922C0)
+Collab Demi [END]
+
+
+//Text $1B9150
+#WRITE(ptr,$1922C4)
+Carbonara[END]
+
+
+//Text $1B90D0
+#WRITE(ptr,$1922EC)
+Whole [END]
+
+
+//Text $1B90C0
+#WRITE(ptr,$1922F0)
+Collab Whole [END]
+
+
+//Text $1B90A8
+#WRITE(ptr,$1922F4)
+Cheese Hamburger Steak[END]
+
+
+//Text $1B9030
+#WRITE(ptr,$19231C)
+1 Pound [END]
+
+
+//Text $1B9020
+#WRITE(ptr,$192320)
+Collab 1 Pound [END]
+
+
+//Text $1B9008
+#WRITE(ptr,$192324)
+Diced Steak[END]
+
+
+//Text $1B8F90
+#WRITE(ptr,$19234C)
+Loaded [END]
+
+
+//Text $1B8F80
+#WRITE(ptr,$192350)
+Collab Loaded [END]
+
+
+//Text $1B8F70
+#WRITE(ptr,$192354)
+Takoyaki[END]
+
+
+//Text $1B8EF8
+#WRITE(ptr,$19237C)
+Splendid [END]
+
+
+//Text $1B8EE8
+#WRITE(ptr,$192380)
+Collab Splendid [END]
+
+
+//Text $1B8ED8
+#WRITE(ptr,$192384)
+Sizzling [END]
+
+
+//Text $1B8E68
+#WRITE(ptr,$1923AC)
+Big [END]
+
+
+//Text $1B8E58
+#WRITE(ptr,$1923B0)
+Collab Big [END]
+
+
+//Text $1B8E40
+#WRITE(ptr,$1923B4)
+Tuna Belly Riceball[END]
+
+
+//Text $1B8DC8
+#WRITE(ptr,$1923DC)
+Large [END]
+
+
+//Text $1B8DB8
+#WRITE(ptr,$1923E0)
+Collab Large [END]
+
+
+//Text $1B8DA8
+#WRITE(ptr,$1923E4)
+First-class Riceball[END]
+
+
+//Text $1B8D20
+#WRITE(ptr,$19240C)
+Wonderful[END]
+
+
+//Text $1B8D10
+#WRITE(ptr,$192410)
+Collab Wonderful [END]
+
+
+//Text $1B8D00
+#WRITE(ptr,$192414)
+Fruit Salad[END]
+
+
+//Text $1B8C70
+#WRITE(ptr,$19243C)
+Beautiful [END]
+
+
+//Text $1B8C60
+#WRITE(ptr,$192440)
+Collab Beautiful [END]
+
+
+//Text $1B8C50
+#WRITE(ptr,$192444)
+Smoked Cheese[END]
+
+
+//Text $1B8BD0
+#WRITE(ptr,$19246C)
+Powerful [END]
+
+
+//Text $1B8BC0
+#WRITE(ptr,$192470)
+Collab Powerful [END]
+
+
+//Text $1B8BB0
+#WRITE(ptr,$192474)
+Tofu Steak[END]
+
+
+//Text $1B8B40
+#WRITE(ptr,$19249C)
+Fish [END]
+
+
+//Text $1B8B30
+#WRITE(ptr,$1924A0)
+Collab Fish [END]
+
+
+//Text $1B8B20
+#WRITE(ptr,$1924A4)
+Miso Stewed[END]
+
+
+//Text $1B8AB0
+#WRITE(ptr,$1924CC)
+Deep Sea [END]
+
+
+//Text $1B8AA0
+#WRITE(ptr,$1924D0)
+Collab Deep Sea [END]
+
+
+//Text $1B8A90
+#WRITE(ptr,$1924D4)
+Fish Sausage[END]
+
+
+//Text $1B8A28
+#WRITE(ptr,$1924FC)
+Gravid [END]
+
+
+//Text $1B8A18
+#WRITE(ptr,$192500)
+Collab Gravid [END]
+
+
+//Text $1B8A00
+#WRITE(ptr,$192504)
+Deep-fried Sunfish[END]
+
+
+//Text $1B8980
+#WRITE(ptr,$19252C)
+Combined [END]
+
+
+//Text $1B8970
+#WRITE(ptr,$192530)
+Collab Combined [END]
+
+
+//Text $1B8960
+#WRITE(ptr,$192534)
+Miso Skewer[END]
+
+
+//Text $1B88E0
+#WRITE(ptr,$19255C)
+Delicious [END]
+
+
+//Text $1B88D0
+#WRITE(ptr,$192560)
+Collab Delicious [END]
+
+
+//Text $1B88C0
+#WRITE(ptr,$192564)
+Mabo Tofu[END]
+
+
+//Text $1B8850
+#WRITE(ptr,$19258C)
+Bright [END]
+
+
+//Text $1B8840
+#WRITE(ptr,$192590)
+Collab Bright [END]
+
+
+//Text $1B8830
+#WRITE(ptr,$192594)
+Fried Riceball[END]
+
+
+//Text $1B87B0
+#WRITE(ptr,$1925BC)
+Dry [END]
+
+
+//Text $1B87A0
+#WRITE(ptr,$1925C0)
+Collab Dry [END]
+
+
+//Text $1B8790
+#WRITE(ptr,$1925C4)
+Cracker[END]
+
+
+//Text $1B8708
+#WRITE(ptr,$1925EC)
+Non-[END]
+
+
+//Text $1B86F8
+#WRITE(ptr,$1925F0)
+Collab Non-[END]
+
+
+//Text $1B86E8
+#WRITE(ptr,$1925F4)
+Cutlet Sandwich[END]
+
+
+//Text $1B8678
+#WRITE(ptr,$19261C)
+Activated [END]
+
+
+//Text $1B8668
+#WRITE(ptr,$192620)
+Collab Activated [END]
+
+
+//Text $1B8658
+#WRITE(ptr,$192624)
+Well-done Hot Dog[END]
+
+
+//Text $1B85D8
+#WRITE(ptr,$19264C)
+Longed-for [END]
+
+
+//Text $1B85C8
+#WRITE(ptr,$192650)
+Collab Longed-for [END]
+
+
+//Text $1B85C0
+#WRITE(ptr,$192654)
+Naan[END]
+
+
+//Text $1B8548
+#WRITE(ptr,$19267C)
+Half-[END]
+
+
+//Text $1B8538
+#WRITE(ptr,$192680)
+Collab Half-[END]
+
+
+//Text $1B8528
+#WRITE(ptr,$192684)
+Barbecue[END]
+
+
+//Text $1B84B0
+#WRITE(ptr,$1926AC)
+Light and [END]
+
+
+//Text $1B84A0
+#WRITE(ptr,$1926B0)
+Collab Light and [END]
+
+
+//Text $1B8490
+#WRITE(ptr,$1926B4)
+Ultimate Dark Pot[END]
+
+
+//Text $1B8428
+#WRITE(ptr,$1926DC)
+Pure [END]
+
+
+//Text $1B8418
+#WRITE(ptr,$1926E0)
+Collab Pure [END]
+
+
+//Text $1B8408
+#WRITE(ptr,$1926E4)
+Supreme Dark Bowl[END]
 
 
 //Section Key
@@ -17938,6 +18538,7 @@ Emergency Exit[END]
 Emergency Exit[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB228
 #WRITE(ptr,$193A08)
 Mealy Primrose[END]
@@ -18489,7 +19090,7 @@ Every [TAG_015] battles[END]
 
 //Text $1BBBD8
 #WRITE(ptr,$1946BC)
-When someone is KO'd[END]
+After battle, when someone is KO'd[END]
 
 
 //Text $1BBBB8
@@ -18586,7 +19187,6 @@ he simply wields a strange sword.[END]
 Lienean Man[END]
 
 
-#JMP($1BB0A0)
 //POINTER #23 @ $194704 - STRING #23 @ $1BEF50
 #WRITE(ptr,$194704)
 Heralding from the village of Lienea[LINE]
@@ -18650,7 +19250,6 @@ begot this destined birth.[END]
 #WRITE(ptr,$19472C)
 [Lilith]'s older brother. Despite this,[LINE]
 she still wakes him every morning.[END]
-//[END]
 
 
 //POINTER #34 @ $194730 - STRING #34 @ $1BED48
@@ -18794,11 +19393,12 @@ Not a speck of lens remains.[END]
 #WRITE(ptr,$194790)
 Neat Sister[END]
 
-//POINTER #59 @ $194794 - STRING #59 @ $1BE810
-#WRITE(ptr,$194794)
-Your expression has changed, sister.[LINE]
-I wonder if something important happened?[END]
-//[END]
+//POINTER #231 @ $194A44 - STRING #231 @ $1BC898
+#WRITE(ptr,$194A44)
+A clown who seems to be completely clueless.[LINE]
+What secrets does such a person hold?[LINE] 
+[END]
+
 
 //POINTER #60 @ $194798 - STRING #60 @ $1BE7F8
 #WRITE(ptr,$194798)
@@ -18925,7 +19525,7 @@ Go-Home Club[END]
 #WRITE(ptr,$1947EC)
 I mean, of course I'm going[LINE]
 straight home. It's after school,[LINE]
-//[END]
+[END]
 
 
 //POINTER #82 @ $1947F0 - STRING #82 @ $1BEB30
@@ -18993,7 +19593,6 @@ Straylize Priestess[END]
 #WRITE(ptr,$19481C)
 A priestess who devotes her life to serve[LINE]
 the will of the Goddess.[END]
-//[END]
 
 
 //POINTER #94 @ $194820 - STRING #94 @ $1BE210
@@ -19013,10 +19612,10 @@ a strong resolve dwells within.[END]
 Maiden’s Gaze[END]
 
 
-//POINTER #97 @ $19482C - STRING #97 @ $1BE170
-#WRITE(ptr,$19482C)
-Behind the glasses lie a maiden in love. [LINE]
-Those who see her eyes might be misled.[LINE]
+//POINTER #81 @ $1947EC - STRING #81 @ $1BE428
+#WRITE(ptr,$1947EC)
+I mean, of course I'm going[LINE]
+straight home. It's after school,[END]
 //[END]
 
 
@@ -19039,17 +19638,17 @@ Bomb Alchemist[END]
 #WRITE(ptr,$19483C)
 A chemist who concots bombs.[LINE]
 Not many may claim this title.[LINE]
-//[END]
+[END]
 
 
 //POINTER #102 @ $194840 - STRING #102 @ $1BE088
 #WRITE(ptr,$194840)
 Divine Wife[END]
 
-//POINTER #103 @ $194844 - STRING #103 @ $1BE040
-#WRITE(ptr,$194844)
-As a priestess, she receives divine favor[LINE]
-through a divine marriage pact.[END]
+//POINTER #101 @ $19483C - STRING #101 @ $1BE090
+#WRITE(ptr,$19483C)
+A chemist who concots bombs.[LINE]
+Not many may claim this title.[END]
 //[END]
 
 
@@ -19351,8 +19950,8 @@ Rose of Seinegald[END]
 
 //POINTER #157 @ $19491C - STRING #157 @ $1BD660
 #WRITE(ptr,$19491C)
-A single rose dancing in the land of Seinegald.LINE]
-Who could they possibly be?![LINE]
+A single rose dancing in the land of Seinegald.[LINE]
+Who could they possibly be?![END]
 //[END]
 
 
@@ -19410,7 +20009,8 @@ Chest Towel[END]
 #WRITE(ptr,$194944)
 The pinnacle of disguise only achievable[LINE]
 by the most beautiful of men. However,[LINE]
-utilizing this technique may cost your dearly...[END]
+utilizing this technique may cost you[LINE]
+dearly...[END]
 
 
 //POINTER #168 @ $194948 - STRING #168 @ $1BD458
@@ -19575,7 +20175,7 @@ Combat Merchant[END]
 //POINTER #197 @ $1949BC - STRING #197 @ $1BCE48
 #WRITE(ptr,$1949BC)
 Each has his own business talent.[LINE]
-As a warrior, must I spend all day fighting and trading?[LINE]
+As a warrior, must I spend all day fighting and trading?[END]
 //[END]
 
 
@@ -19733,7 +20333,7 @@ Rising Merchant[END]
 #WRITE(ptr,$194A2C)
 Each has their own business talent.[LINE]
 I'll take a shot at it and make it big someday![LINE]
-//[END]
+[END]
 
 //POINTER #226 @ $194A30 - STRING #226 @ $1BC958
 #WRITE(ptr,$194A30)
@@ -19767,7 +20367,7 @@ Sealed Man[END]
 #WRITE(ptr,$194A44)
 A clown who seems to be completely clueless.[LINE]
 What secrets does such a person hold?[LINE] 
-//[END]
+[END]
 
 
 //POINTER #232 @ $194A48 - STRING #232 @ $1BC888
@@ -19914,7 +20514,7 @@ Topless Man[END]
 #WRITE(ptr,$194AAC)
 Showing off his wonderful trained body,[LINE]
 withough any regret (or embarrassment).[LINE]
-//[END]
+[END]
 
 
 //POINTER #258 @ $194AB0 - STRING #258 @ $1BC408
@@ -20053,6 +20653,7 @@ planning has begun [Kongman] merchandise.[END]
 #WRITE(ptr,$194B10)
 [Stahn]’s Sister[END]
 
+#JMP($148210)
 //POINTER #283 @ $194B14 - STRING #283 @ $1BBF80
 #WRITE(ptr,$194B14)
 [Stahn] Aileron's sister.[LINE]
