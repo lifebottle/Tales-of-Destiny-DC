@@ -128,7 +128,7 @@ You quickly recover CC after any action, so [END]
 
 //Text $3F5E8
 #WRITE(ptr,$3A7E4)
-try chaining various actions.[END]
+try chaining various ones.[END]
 
 
 //Text $3F5C8
@@ -148,17 +148,17 @@ CC will shift from [turquoise]2→3→4→5→2→[/color][END]
 
 //Text $3F528
 #WRITE(ptr,$3A810)
-Developing the [yellow]Swordian Device[/color] can also[END]
+Developing the [yellow]Swordian Device[/color] can also increase[END]
 
 
 //Text $3F4F8
 #WRITE(ptr,$3A818)
-increase the min CC and max CC, so use [END]
+your min CC and max CC. For non-Swordian[END]
 
 
 //Text $3F4C8
 #WRITE(ptr,$3A820)
-the weapon that best fits your style.[END]
+users, find the weapon that best fits your style.[END]
 
 
 //Text $3F4A8
@@ -213,12 +213,12 @@ Critical rate [turquoise]increases by 4x![/color][END]
 
 //Text $3F2F0
 #WRITE(ptr,$3A888)
-Check enemy weaknesses with [R1_copy] and strike[END]
+Check enemy weaknesses with [R1_copy][END]
 
 
 //Text $3F2D8
 #WRITE(ptr,$3A890)
-their weak points.[END]
+and exploit their weak points.[END]
 
 
 //Text $3F2C0
@@ -228,22 +228,22 @@ Weaknesses and Chains[END]
 
 //Text $3F290
 #WRITE(ptr,$3A89C)
-By hitting an enemy's [yellow]weakness[/color], all attacks in[END]
+By exploiting an enemy's [yellow]weakness[/color], all attacks in the[END]
 
 
 //Text $3F258
 #WRITE(ptr,$3A8A4)
-the combo will count as weaknesses, [turquoise]even if[/color][END]
+combo will count as weaknesses, [turquoise]even if it[/color][END]
 
 
 //Text $3F230
 #WRITE(ptr,$3A8AC)
-[turquoise]they normally resist it[/color]. Once you've hit their[END]
+[turquoise]would normally be resisted[/color]. Once you've[END]
 
 
 //Text $3F210
 #WRITE(ptr,$3A8B4)
-weakness, follow up with any arte you like![END]
+hit their weakness, follow up with any arte you like![END]
 
 
 //Text $3F1F8
@@ -318,12 +318,12 @@ The [yellow]Blast Gauge[/color] increases in proportion to [turquoise]longer[END
 
 //Text $3EF58
 #WRITE(ptr,$3A940)
-[turquoise]combo and damage dealt[/color]. If you want  to build up[END]
+[turquoise]combos and damage dealt[/color]. If you want  to build up[END]
 
 
 //Text $3EF30
 #WRITE(ptr,$3A948)
-the gauge, increase the combo  with [Circle_ani2] normal[END]
+the gauge, increase the combo with [Circle_ani2] normal[END]
 
 
 //Text $3EF08
@@ -412,12 +412,12 @@ Replenishing Food[END]
 
 //Text $3EC10
 #WRITE(ptr,$3A9D4)
-Food sacks can be easily replenished in town.[END]
+Food sacks can be easily replenished in towns.[END]
 
 
 //Text $3EBE0
 #WRITE(ptr,$3A9DC)
-Always look for grocery stores in town.[END]
+So when in town, always look for grocery stores.[END]
 
 
 //Text $3EBA0
@@ -447,7 +447,7 @@ Rationing hurts you in the long run, so use it![END]
 
 //Text $3EAD8
 #WRITE(ptr,$3AA18)
-Many beneficial effects can activate based[END]
+Many beneficial effects can activate based on[END]
 
 
 //Text $3EAA0
@@ -537,7 +537,7 @@ of time and will take 1.5x more damage.[END]
 
 //Text $3E808
 #WRITE(ptr,$3AAB4)
-Though it heals faster than other ailments[END]
+Though it heals faster than other ailments,[END]
 
 
 //Text $3E7D8
@@ -595,7 +595,7 @@ The best way to prevent poison is to[END]
 
 //Text $3E640
 #WRITE(ptr,$3AB1C)
-Equip [yellow]Gems[/color]. Rerise gem material or[END]
+Equip [yellow]Gems[/color]. Rerise gem materials or[END]
 
 
 //Text $3E610
@@ -654,12 +654,12 @@ taking any action. It's annoying, and can easily[END]
 
 //Text $3E460
 #WRITE(ptr,$3AB84)
-put you at a disadvantage if you don't heal it.[END]
+put you at a disadvantage if you don't cure it.[END]
 
 
 //Text $3E428
 #WRITE(ptr,$3AB8C)
-[yellow]Items[/color] aren't affected, so use a [yellow]Panacea Bottle[/color][END]
+[yellow]Item usage[/color] isn't affected, so use a [yellow]Panacea Bottle.[/color][END]
 
 
 //Text $3E3E0
@@ -824,7 +824,7 @@ be much [turquoise]quicker.[/color] By the third[END]
 
 //Text $3DE38
 #WRITE(ptr,$3AC90)
-spell, casting time [turquoise]halves![/color][END]
+spell, casting time [turquoise] is halved![/color][END]
 
 
 //Text $3DE10
@@ -1009,7 +1009,7 @@ Use his artes that [turquoise]force downed opponents to[/color][END]
 
 //Text $3D860
 #WRITE(ptr,$3ADD8)
-Don't count on his [yellow]magic attack[/color] though.[END]
+Don't count on him for [yellow]magic attacks[/color] though.[END]
 
 
 //Text $3D848
@@ -1054,7 +1054,7 @@ you'll gain [yellow]proficiency[/color] and eventually [yellow]master it.[/color
 
 //Text $3D6B0
 #WRITE(ptr,$3AE28)
-The device points will then be [turquoise]reduced by 20%[/color][END]
+The device point cost will then be [turquoise]reduced by 20%.[/color][END]
 
 
 //Text $3D688
@@ -1119,7 +1119,7 @@ Use [R1_copy]＋[Circle_ani2] to view the details in battle.[END]
 
 //Text $3D488
 #WRITE(ptr,$3AE98)
-When you're ready to try it out, unleash those[END]
+When you're ready to try it out, unleash that[END]
 
 
 //Text $3D470
@@ -1204,7 +1204,7 @@ Try mastering the [yellow]Definite Strike.[/color][END]
 
 //Text $3D1C0
 #WRITE(ptr,$3AF24)
-Too Powerful to Combo[END]
+Too strong to combo?[END]
 
 
 //Text $3D180
@@ -1234,7 +1234,7 @@ Front Step Everywhere[END]
 
 //Text $3D0A8
 #WRITE(ptr,$3AF50)
-In [yellow]Manual Mode,[/color]use a [Up_blink]jump (double jump) or[END]
+In [yellow]Manual Mode,[/color] use a [Up_blink]jump (double jump) or[END]
 
 
 //Text $3D078
@@ -1284,7 +1284,7 @@ also get bonus experience, so it's a good[END]
 
 //Text $3CEE0
 #WRITE(ptr,$3AF9C)
-deal. Once you've master chaining with CC,[END]
+deal. Once you master chaining attacks with CC,[END]
 
 
 //Text $3CEB8
