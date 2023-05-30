@@ -63,100 +63,28 @@ BLAST_CALIBER_QUOTE equ 0x2
 ; If any line needs to have their sub disabled
 ; Just comment the line out in the table below
 ; by placing a ; in front of the line
-BattleTable:
-; Stahn Blast Caliber
-.word 0x20, Table_020
-.word 0x61, Table_061
-.word 0x62, Table_062
-.word 0x63, Table_063
-.word 0x64, Table_064
-.word 0x59, Table_059
-.word 0x5b, Table_05B
-.word 0x65, Table_065
-.word 0x50, Table_050
-.word 0x60, Table_060
+; THIS TABLE MUST BE SORTED!!!!!
+; THIS TABLE MUST BE SORTED!!!!!
+; THIS TABLE MUST BE SORTED!!!!!
+; THIS TABLE MUST BE SORTED!!!!!
+; THIS TABLE MUST BE SORTED!!!!!
 
+Battle_Sub_Initialized:
+    .word 0x0
+Battle_Table_Count:
+    .word 0x0       ; prog calculates on init
+
+BattleTable:
+; Stahn In Battle Quotes
+.word 0x1E, Table_01E
+; Stahn Blast Caliber Init
+.word 0x20, Table_020
 ; Stahn In Battle Quotes
 .word 0x25, Table_025
 .word 0x26, Table_026
 .word 0x27, Table_027
 .word 0x28, Table_028
 .word 0x29, Table_029
-.word 0x1E, Table_01E
-
-; Rutee In Battle Quotes
-.word 0x9C, Table_09C
-.word 0x9D, Table_09D
-.word 0x9F, Table_09F
-.word 0xA0, Table_0A0
-.word 0x9E, Table_09E
-.word 0x95, Table_095
-
-; Philia In Battle Quotes
-.word 0x105, Table_105
-.word 0x104, Table_104
-.word 0x107, Table_107
-.word 0x108, Table_108
-.word 0x106, Table_106
-.word 0xFD, Table_0FD
-
-; Leon In Battle Quotes
-.word 0x1C0, Table_1C0
-.word 0x1BF, Table_1BF
-.word 0x1C2, Table_1C2
-.word 0x1C3, Table_1C3
-.word 0x1C1, Table_1C1
-.word 0x1B8, Table_1B8
-
-; Woodrow In Battle Quotes
-.word 0x16C, Table_16C
-.word 0x16B, Table_16B
-.word 0x16E, Table_16E
-.word 0x16F, Table_16F
-.word 0x16D, Table_16D
-.word 0x164, Table_164
-
-; Mary In Battle Quotes
-.word 0x21F, Table_21F
-.word 0x21E, Table_21E
-.word 0x221, Table_221
-.word 0x222, Table_222
-.word 0x220, Table_220
-.word 0x217, Table_217
-
-; Kongman In Battle Quotes
-.word 0x2F0, Table_2F0
-.word 0x2F1, Table_2F1
-.word 0x2F3, Table_2F3
-.word 0x2F4, Table_2F4
-.word 0x2F2, Table_2F2
-.word 0x2E9, Table_2E9
-
-; Johnny In Battle Quotes
-.word 0x2AA, Table_2AA
-.word 0x2AB, Table_2AB
-.word 0x2AD, Table_2AD
-.word 0x2AE, Table_2AE
-.word 0x2AC, Table_2AC
-.word 0x2A3, Table_2A3
-
-; Chelsea In Battle Quotes
-.word 0x264, Table_264
-.word 0x265, Table_265
-.word 0x267, Table_267
-.word 0x268, Table_268
-.word 0x266, Table_266
-.word 0x25D, Table_25D
-
-; Lilith In Battle Quotes
-.word 0x347, Table_347
-.word 0x348, Table_348
-.word 0x34A, Table_34A
-.word 0x34B, Table_34B
-.word 0x349, Table_349
-.word 0x340, Table_340
-
-
 ; Stahn Single Victory Quotes
 .word 0x2A, Table_02A
 .word 0x2B, Table_02B
@@ -167,6 +95,24 @@ BattleTable:
 .word 0x30, Table_030
 .word 0x31, Table_031
 
+; Stahn Blast Caliber
+.word 0x50, Table_050
+.word 0x59, Table_059
+.word 0x5b, Table_05B
+.word 0x60, Table_060
+.word 0x61, Table_061
+.word 0x62, Table_062
+.word 0x63, Table_063
+.word 0x64, Table_064
+.word 0x65, Table_065
+
+; Rutee In Battle Quotes
+.word 0x95, Table_095
+.word 0x9C, Table_09C
+.word 0x9D, Table_09D
+.word 0x9E, Table_09E
+.word 0x9F, Table_09F
+.word 0xA0, Table_0A0
 ; Rutee Single Victory Quotes
 .word 0xA1, Table_0A1
 .word 0xA2, Table_0A2
@@ -176,6 +122,14 @@ BattleTable:
 .word 0xA6, Table_0A6
 .word 0xA7, Table_0A7
 .word 0xA8, Table_0A8
+
+; Philia In Battle Quotes
+.word 0xFD, Table_0FD
+.word 0x104, Table_104
+.word 0x105, Table_105
+.word 0x106, Table_106
+.word 0x107, Table_107
+.word 0x108, Table_108
 
 ; Philia Single Victory Quotes
 .word 0x109, Table_109
@@ -187,6 +141,14 @@ BattleTable:
 .word 0x10F, Table_10F
 .word 0x110, Table_110
 
+; Leon In Battle Quotes
+.word 0x1B8, Table_1B8
+.word 0x1BF, Table_1BF
+.word 0x1C0, Table_1C0
+.word 0x1C1, Table_1C1
+.word 0x1C2, Table_1C2
+.word 0x1C3, Table_1C3
+
 ; Leon Single Victory Quotes
 .word 0x1C4, Table_1C4
 .word 0x1C5, Table_1C5
@@ -196,6 +158,14 @@ BattleTable:
 .word 0x1C9, Table_1C9
 .word 0x1CA, Table_1CA
 .word 0x1CB, Table_1CB
+
+; Woodrow In Battle Quotes
+.word 0x164, Table_164
+.word 0x16B, Table_16B
+.word 0x16C, Table_16C
+.word 0x16D, Table_16D
+.word 0x16E, Table_16E
+.word 0x16F, Table_16F
 
 ; Woodrow Single Victory Quotes
 .word 0x170, Table_170
@@ -207,6 +177,14 @@ BattleTable:
 .word 0x176, Table_176
 .word 0x177, Table_177
 
+; Mary In Battle Quotes
+.word 0x217, Table_217
+.word 0x21E, Table_21E
+.word 0x21F, Table_21F
+.word 0x220, Table_220
+.word 0x221, Table_221
+.word 0x222, Table_222
+
 ; Mary Single Victory Quotes
 .word 0x223, Table_223
 .word 0x224, Table_224
@@ -216,6 +194,14 @@ BattleTable:
 .word 0x228, Table_228
 .word 0x229, Table_229
 .word 0x22A, Table_22A
+
+; Kongman In Battle Quotes
+.word 0x2E9, Table_2E9
+.word 0x2F0, Table_2F0
+.word 0x2F1, Table_2F1
+.word 0x2F2, Table_2F2
+.word 0x2F3, Table_2F3
+.word 0x2F4, Table_2F4
 
 ; Kongman Single Victory Quotes
 .word 0x2F5, Table_2F5
@@ -227,6 +213,14 @@ BattleTable:
 .word 0x2FB, Table_2FB
 .word 0x2FC, Table_2FC
 
+; Johnny In Battle Quotes
+.word 0x2A3, Table_2A3
+.word 0x2AA, Table_2AA
+.word 0x2AB, Table_2AB
+.word 0x2AC, Table_2AC
+.word 0x2AD, Table_2AD
+.word 0x2AE, Table_2AE
+
 ; Johnny Single Victory Quotes
 .word 0x2AF, Table_2AF
 .word 0x2B0, Table_2B0
@@ -236,6 +230,14 @@ BattleTable:
 .word 0x2B4, Table_2B4
 .word 0x2B5, Table_2B5
 .word 0x2B6, Table_2B6
+
+; Chelsea In Battle Quotes
+.word 0x25D, Table_25D
+.word 0x264, Table_264
+.word 0x265, Table_265
+.word 0x266, Table_266
+.word 0x267, Table_267
+.word 0x268, Table_268
 
 ; Chelsea Single Quotes
 .word 0x269, Table_269
@@ -247,6 +249,14 @@ BattleTable:
 .word 0x26F, Table_26F
 .word 0x270, Table_270
 
+; Lilith In Battle Quotes
+.word 0x340, Table_340
+.word 0x347, Table_347
+.word 0x348, Table_348
+.word 0x349, Table_349
+.word 0x34A, Table_34A
+.word 0x34B, Table_34B
+
 ; Lilith Single Quotes
 .word 0x34C, Table_34C
 .word 0x34D, Table_34D
@@ -256,6 +266,59 @@ BattleTable:
 .word 0x351, Table_351
 .word 0x352, Table_352
 .word 0x353, Table_353
+
+; Boss Quotes / Items in Sound Test?
+
+; Dymlos
+.word 0x36f, Table_36f
+.word 0x370, Table_370
+.word 0x371, Table_371
+
+; Greybum
+.word 0x437, Table_437
+.word 0x443, Table_443
+
+; Batista
+.word 0x44f, Table_44f
+.word 0x450, Table_450
+.word 0x451, Table_451
+
+; Tiberius
+.word 0x45e, Table_45e
+.word 0x45f, Table_45f
+.word 0x460, Table_460
+.word 0x461, Table_461
+
+; Dalis
+.word 0x46f, Table_46f
+.word 0x478, Table_478
+
+; Baruk
+.word 0x484, Table_484
+
+; Irene
+.word 0x48d, Table_48d
+.word 0x48e, Table_48e
+
+; Remembrandt
+.word 0x49d, Table_49d
+.word 0x49e, Table_49e
+.word 0x49f, Table_49f
+
+; Hugo
+.word 0x4a9, Table_4a9
+.word 0x4aa, Table_4aa
+.word 0x4ab, Table_4ab
+
+; Miktran
+.word 0x4c2, Table_4c2
+.word 0x4c3, Table_4c3
+.word 0x4c4, Table_4c4
+
+; Soldiers
+.word 0x508, Table_508
+.word 0x511, Table_511
+.word 0x512, Table_512
 
 ; Multi Line Quotes
 .word 0x58f, Table_58f
@@ -298,6 +361,48 @@ BattleTable:
 .word 0x60b, Table_60b
 .word 0x60c, Table_60c
 .word 0x60e, Table_60e
+
+; Boss Quotes
+; Soldiers
+.word 0x7b7, Table_7b7  ; Stahn
+.word 0x7b8, Table_7b8  ; Rutee
+
+; Leon 1
+.word 0x8e3, Table_8e3
+
+; Lens Hunters
+.word 0x903, Table_903
+
+; Basilisk
+.word 0xC83, Table_c83
+.word 0xC84, Table_c84
+
+; Batista
+.word 0xEAC, Table_eac
+
+; Cave Queen
+.word 0x101a, Table_101a
+.word 0x101b, Table_101b
+
+; Kraken
+.word 0x1134, Table_1134
+.word 0x1135, Table_1135
+
+; Leon 2
+.word 0x1792, Table_1792
+.word 0x1793, Table_1793
+
+; Baruk
+.word 0x1a10, Table_1a10
+
+; Irene
+.word 0x1a7f, Table_1a7f
+
+; Remembrandt
+.word 0x1b1c, Table_1b1c
+
+; MIKTRAN
+.word 0x2060, Table_2060
 
 ; END OF TABLE
 ; KEEP 0000 0000 separator
@@ -384,7 +489,7 @@ Table_5dc_4:
 ; ABOVE ISSUE SHOULD BE FIXED... hopefully
 Table_020:
     .halfword BLAST_CALIBER_QUOTE
-    .byte 0x20          ; 0 Extra Frames 
+    .byte 0x20          ; 20 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_020_1
 Table_020_1:
@@ -396,7 +501,7 @@ Table_020_1:
 
 Table_061:
     .halfword BLAST_CALIBER_QUOTE
-    .byte 0x20          ; 10 Extra Frames 
+    .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_061_1
 Table_061_1:
@@ -408,7 +513,7 @@ Table_061_1:
 
 Table_062:
     .halfword BLAST_CALIBER_QUOTE
-    .byte 0x20          ; 16 Extra Frames 
+    .byte 0x20          ; 32 Extra Frames 
     .byte 0x1           ; 1 line
     .word Table_062_1
 Table_062_1:
@@ -1356,12 +1461,18 @@ Table_0A7_1:
 Table_0A8:
     .halfword VICTORY_QUOTE
     .byte 0x20          ; 32 Extra Frames 
-    .byte 0x1           ; 1 line
+    .byte 0x2           ; 2 line
     .word Table_0A8_1
+    .word Table_0A8_2
 Table_0A8_1:
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,RUTEE,COLOR_END,": The more you borrow, the more you pay back!",0x01,"I don't make the rules!"
+    .asciiz COLOR_START,RUTEE,COLOR_END,": The more you borrow, the more you pay back!"
+    .align 4
+    Table_0A8_2:
+    .halfword 0x0       ; start  
+    .halfword 0xFFFF    ; end
+    .asciiz "I don't make the rules!"
     .align 4
 
 ; Philia Single Victory Quotes
@@ -2113,7 +2224,7 @@ Table_592_1:
     .align 4
 Table_592_2:
     .halfword 0x90          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,JOHNNY,COLOR_END,": Well, that's not fair. Some of them don't even have fingers!"
     .align 4
 
@@ -2131,7 +2242,7 @@ Table_594_1:
     .align 4
 Table_594_2:
     .halfword 0x66          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,DYMLOS,COLOR_END,": Incorrect, you're still a rookie!"
     .align 4
 
@@ -2149,7 +2260,7 @@ Table_596_1:
     .align 4
 Table_596_2:
     .halfword 0x60          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,ATWIGHT,COLOR_END,": You're the one who dealt the final blow..."
     .align 4
 
@@ -2167,7 +2278,7 @@ Table_598_1:
     .align 4
 Table_598_2:
     .halfword 0x80          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CLEMENTE,COLOR_END,": A swordian's strength is reliant on their master's."
     .align 4
 
@@ -2185,7 +2296,7 @@ Table_59a_1:
     .align 4
 Table_59a_2:
     .halfword 0x80          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,IGTENOS,COLOR_END,": Your swift strikes always hit their mark."
     .align 4
 
@@ -2203,7 +2314,7 @@ Table_59c_1:
     .align 4
 Table_59c_2:
     .halfword 0x88          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHALTIER,COLOR_END,": You're amazing, Young Master!"
     .align 4
 
@@ -2221,7 +2332,7 @@ Table_59e_1:
     .align 4
 Table_59e_2:
     .halfword 0x94          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": I've been here the whole time!"
     .align 4
 
@@ -2239,7 +2350,7 @@ Table_5a0_1:
     .align 4
 Table_5a0_2:
     .halfword 0xB0          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": I'm pretty sure that's how you always fight..."
     .align 4
 
@@ -2257,7 +2368,7 @@ Table_5a2_1:
     .align 4
 Table_5a2_2:
     .halfword 0x90          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,KONGMAN,COLOR_END,": I wouldn't call that a song..."
     .align 4
 
@@ -2275,7 +2386,7 @@ Table_5a4_1:
     .align 4
 Table_5a4_2:
     .halfword 0x70          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": *sigh* I have nothing to say..."
     .align 4
 
@@ -2293,7 +2404,7 @@ Table_5a6_1:
     .align 4
 Table_5a6_2:
     .halfword 0xB0          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,LILITH,COLOR_END,": You're one to talk, ",JOHNNY,"..."
     .align 4
 
@@ -2311,7 +2422,7 @@ Table_5a8_1:
     .align 4
 Table_5a8_2:
     .halfword 0x90          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHELSEA,COLOR_END,": They're already nothing but bones..."
     .align 4
 
@@ -2329,7 +2440,7 @@ Table_5aa_1:
     .align 4
 Table_5aa_2:
     .halfword 0xB8          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": I never want to encounter him again."
     .align 4
 
@@ -2347,7 +2458,7 @@ Table_5ac_1:
     .align 4
 Table_5ac_2:
     .halfword 0x168         ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,DYMLOS,COLOR_END,": He's not referring to me, is he...?"
     .align 4
 
@@ -2365,7 +2476,7 @@ Table_5ae_1:
     .align 4
 Table_5ae_2:
     .halfword 0xA8          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHELSEA,COLOR_END,": Wha!? U-Uhm, n-nothing special...?"
     .align 4
 
@@ -2383,7 +2494,7 @@ Table_5b0_1:
     .align 4
 Table_5b0_2:
     .halfword 0xB8          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,JOHNNY,COLOR_END,": Why would you ask me such a question...?"
     .align 4
 
@@ -2401,7 +2512,7 @@ Table_5b2_1:
     .align 4
 Table_5b2_2:
     .halfword 0x60          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,PHILIA,COLOR_END,": ...Are you talking about us or them?"
     .align 4
 
@@ -2419,7 +2530,7 @@ Table_5b7_1:
     .align 4
 Table_5b7_2:
     .halfword 0xA0          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": Seriously..."
     .align 4
 
@@ -2449,7 +2560,7 @@ Table_5b9_3:
     .align 4
 Table_5b9_4:
     .halfword 0x200          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,KONGMAN,COLOR_END,": Mind over matter, girly."
     .align 4
 
@@ -2467,7 +2578,7 @@ Table_5bd_1:
     .align 4
 Table_5bd_2:
     .halfword 0x78          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": If I don't, how can I ever reach one million?"
     .align 4
 
@@ -2485,7 +2596,7 @@ Table_5bf_1:
     .align 4
 Table_5bf_2:
     .halfword 0x40          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,"Everyone",COLOR_END,": UNBEATABLE!"
     .align 4
 
@@ -2503,7 +2614,7 @@ Table_5c3_1:
     .align 4
 Table_5c3_2:
     .halfword 0x68          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHELSEA,COLOR_END,": Even me, Lord ",WOODROW,"?"
     .align 4
 
@@ -2533,7 +2644,7 @@ Table_5d1_3:
     .align 4
 Table_5d1_4:
     .halfword 0x80          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHELSEA,COLOR_END,": Yeah!!"
     .align 4
 
@@ -2545,7 +2656,7 @@ Table_5d5:
     .word Table_5d5_1 
 Table_5d5_1:
     .halfword 0x0           ; start 
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,KONGMAN,COLOR_END,": I am VICTORIOUS... but why do I feel empty?"
     .align 4
 
@@ -2575,7 +2686,7 @@ Table_5d6_3:
     .align 4
 Table_5d6_4:
     .halfword 0x1B8          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": ..."
     .align 4
 
@@ -2599,7 +2710,7 @@ Table_5d9_2:
     .align 4
 Table_5d9_3:
     .halfword 0xC8           ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,PHILIA,COLOR_END,": Yes, please forgive us, ",STAHN,"."
     .align 4
 
@@ -2623,7 +2734,7 @@ Table_5e0_2:
     .align 4
 Table_5e0_3:
     .halfword 0x108          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,LILITH,COLOR_END,": How long until you come back home!?"
     .align 4
 
@@ -2653,7 +2764,7 @@ Table_5e3_3:
     .align 4
 Table_5e3_4:
     .halfword 0x160          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,PHILIA,COLOR_END,": Well..."
     .align 4
 
@@ -2685,7 +2796,7 @@ Table_5e7_3:
     
 Table_5e7_4:
     .halfword 0x198          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,WOODROW,COLOR_END,": ..."
     .align 4
 
@@ -2715,7 +2826,7 @@ Table_5ea_3:
     .align 4
 Table_5ea_4:
     .halfword 0x238          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,RUTEE,COLOR_END,": Wait, what are you two going on about?"
     .align 4
 
@@ -2745,14 +2856,14 @@ Table_5ee_3:
     .align 4
 Table_5ee_4:
     .halfword 0x160          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,STAHN,COLOR_END,": I wonder what causes that feeling..."
     .align 4
 
 
 Table_5f2:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x3               ; 3 lines
     .word Table_5f2_1       
     .word Table_5f2_2      
@@ -2768,15 +2879,15 @@ Table_5f2_2:
     .asciiz COLOR_START,STAHN,COLOR_END,": I could sleep as much as I want with this."
     .align 4
 Table_5f2_3:
-    .halfword 0x160          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0x160         ; start
+    .halfword 0xFFFF        ; end
     .asciiz COLOR_START,JOHNNY,COLOR_END,": That would be the worst use of it ever."
     .align 4
 
 
 Table_5f5:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x4               ; 4 lines
     .word Table_5f5_1       
     .word Table_5f5_2       
@@ -2799,31 +2910,31 @@ Table_5f5_3:
     .align 4
 Table_5f5_4:
     .halfword 0x78          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF        ; end
     .asciiz COLOR_START,CHELSEA,COLOR_END,": Yeah! Wait, what?"
     .align 4
 
 
 Table_609:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x1               ; 1 lines
     .word Table_609_1      
 Table_609_1:
     .halfword 0x0           ; start 
-    .halfword 0xFFFF          ; end
+    .halfword 0xFFFF        ; end
     .asciiz COLOR_START,LEON,COLOR_END,": Get out of my way if you want to live!"
     .align 4
 
 
 Table_60a:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x1               ; 1 lines
     .word Table_60a_1      
 Table_60a_1:
     .halfword 0x0           ; start 
-    .halfword 0xFFFF          ; end
+    .halfword 0xFFFF        ; end
     .asciiz COLOR_START,LEON,COLOR_END,": Don't push your luck, weakling!"
     .align 4
 
@@ -2853,14 +2964,14 @@ Table_60c_1:
     .align 4
 Table_60c_2:
     .halfword 0x42          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF       ; end
     .asciiz COLOR_START,CHALTIER,COLOR_END,": Would be nice if all of them were like that."
     .align 4
 
 
 Table_60e:
     .halfword VICTORY_QUOTE
-    .byte 0x20          ; 32 Extra Frames 
+    .byte 0x20              ; 32 Extra Frames 
     .byte 0x2               ; 2 lines
     .word Table_60e_1       
     .word Table_60e_2   
@@ -2871,7 +2982,546 @@ Table_60e_1:
     .align 4
 Table_60e_2:
     .halfword 0x80          ; start
-    .halfword 0xFFFF         ; end
+    .halfword 0xFFFF        ; end
     .asciiz COLOR_START,LEON,COLOR_END,": Didn't even require much effort."
+    .align 4
+
+; Battle Quotes
+
+; Soldiers
+Table_508:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_508_1
+Table_508_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Seinegald Soldier",COLOR_END,": Get them!"
+    .align 4
+
+Table_511:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_511_1
+Table_511_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Elite Seinegald Soldier",COLOR_END,": Get them!"
+    .align 4
+
+Table_512:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_512_1
+Table_512_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Elite Seinegald Soldier",COLOR_END,": They must be captured at all costs!"
+    .align 4
+
+Table_7b7:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_7b7_1
+Table_7b7_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": What the hell is going on!?"
+    .align 4
+
+Table_7b8:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_7b8_1
+Table_7b8_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": No time for questions! We gotta defend ourselves!"
+    .align 4
+
+; Leon 1
+Table_8e3:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_8e3_1
+Table_8e3_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": I'll wipe that smug look off your face!",0x01,"You'll regret crossing blades with me!"
+    .align 4
+
+; Lens Hunters
+Table_903:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_903_1
+Table_903_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Now, let me show you the true power of the Swordians."
+    .align 4
+
+; Basilisk
+Table_c83:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_c83_1
+Table_c83_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Those monsters...! They are the ones that turned me into stone!"
+    .align 4
+
+Table_c84:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_c84_1
+Table_c84_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": No matter the odds, we won't lose!"
+    .align 4
+
+; Batista
+Table_eac:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_eac_1
+Table_eac_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BATISTA,COLOR_END,": You damn brats!"
+    .align 4
+
+Table_44f:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_44f_1
+Table_44f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BATISTA,COLOR_END,": Enough!"
+    .align 4
+
+Table_450:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_450_1
+Table_450_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BATISTA,COLOR_END,": Such weaklings. Ending you was a mercy!"
+    .align 4
+
+Table_451:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_451_1
+Table_451_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BATISTA,COLOR_END,": Damn you!"
+    .align 4
+
+
+; Cave Queen
+Table_101a:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_101a_1
+Table_101a_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": Could this be the monster?"
+    .align 4
+
+Table_101b:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_101b_1
+Table_101b_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": We've come too far to give up! Let's do this!"
+    .align 4
+
+
+; Kraken
+Table_1134:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1134_1
+Table_1134_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": What IS this thing?! An octopus!?"
+    .align 4
+
+Table_1135:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1135_1
+Table_1135_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DYMLOS,COLOR_END,": A Kraken! This monster is feared as a devil of the sea!"
+    .align 4
+
+
+; Tiberius
+Table_461:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_461_1
+Table_461_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": I am the king of Aquaveil! Kneel, or I'll cut you down!"
+    .align 4
+
+Table_460:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_460_1
+Table_460_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": Ugh, impossible..."
+    .align 4
+
+Table_45e:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_45e_1
+Table_45e_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF        ; end
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": I see your weakness!"
+    .align 4
+
+Table_45f:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_45f_1
+Table_45f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF        ; end
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": You're 100 years too early!"
+    .align 4
+
+
+; Dalis
+Table_478:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_478_1
+Table_478_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DALIS,COLOR_END,": Now that you've come this far, there will be no mercy!"
+    .align 4
+
+Table_46f:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_46f_1
+Table_46f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DALIS,COLOR_END,": It ends now!"
+    .align 4
+
+
+; Greybum
+Table_443:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_443_1
+Table_443_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,GREYBUM,COLOR_END,": Hahahaha. Tremble in despair as I deliver on to you a horrific death!"
+    .align 4
+
+Table_437:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_437_1
+Table_437_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,GREYBUM,COLOR_END,": You won't take me down!"
+    .align 4
+
+
+; Leon 2
+Table_1792:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1792_1
+Table_1792_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Stop, Leon! Why are you doing this!?"
+    .align 4
+
+Table_1793:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1793_1
+Table_1793_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,LEON,COLOR_END,": You shall not go any further!"
+    .align 4
+
+
+; Baruk
+Table_1a10:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1a10_1
+Table_1a10_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": You shall pay for your hubris. From now on, you'll learn the true meaning of war!"
+    .align 4
+
+Table_484:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_484_1
+Table_484_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": So this is your true strength..."
+    .align 4
+
+
+; Irene
+Table_1a7f:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1a7f_1
+Table_1a7f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,ILENE,COLOR_END,": I will not allow YOU to stop me!"
+    .align 4
+
+Table_48d:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_48d_1
+Table_48d_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,ILENE,COLOR_END,": It's time to get serious!"
+    .align 4
+
+Table_48e:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_48e_1
+Table_48e_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,ILENE,COLOR_END,": Please, forgive me...."
+    .align 4
+
+
+; Remembrandt
+Table_1b1c:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_1b1c_1
+Table_1b1c_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Behold the pinacle of innovation! Prepare to face it's terrible power!"
+    .align 4
+
+;0x493?
+
+Table_49d:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_49d_1
+Table_49d_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Go no further!"
+    .align 4
+
+Table_49f:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_49f_1
+Table_49f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Master Hugo!"
+    .align 4
+
+Table_49e:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_49e_1
+Table_49e_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Farewell!"
+    .align 4
+
+
+; Hugo
+Table_4a9:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4a9_1
+Table_4a9_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,HUGO,COLOR_END,": Know your place!"
+    .align 4
+
+Table_4ab:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4ab_1
+Table_4ab_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,HUGO,COLOR_END,": Is this...where it ends?"
+    .align 4
+
+Table_4aa:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4aa_1
+Table_4aa_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,HUGO,COLOR_END,": It's finished! Slip into nothinginess..."
+    .align 4
+
+
+; Dymlos
+Table_36f:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_36f_1
+Table_36f_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": You've left yourself open!"
+    .align 4
+
+Table_371:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_371_1
+Table_371_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": You've done well...to have bested me..."
+    .align 4
+
+Table_370:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_370_1
+Table_370_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,RUTEE,COLOR_END,": I had hoped for a different outcome..."
+    .align 4
+
+
+; MIKTRAN
+Table_2060:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_2060_1
+Table_2060_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": You insects are no match for a god!"
+    .align 4
+
+Table_4c2:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4c2_1
+Table_4c2_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Know your place!"
+    .align 4
+
+Table_4c4:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4c4_1
+Table_4c4_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Did I miscalculate!?"
+    .align 4
+
+Table_4c3:
+    .halfword IN_BATTLE_QUOTE
+    .byte 0x20              ; 32 Extra Frames 
+    .byte 0x1               ; 1 lines
+    .word Table_4c3_1
+Table_4c3_1:
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": As expected, you were not worthy."
     .align 4
 
