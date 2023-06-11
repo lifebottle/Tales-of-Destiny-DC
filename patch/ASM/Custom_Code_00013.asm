@@ -73,7 +73,7 @@
     jal 0x003f9290
     nop
 
-    jal Clear_All_Queues
+    jal Clear_All_Queues_Set_Victory
     nop
 
     @@end:
@@ -94,7 +94,7 @@
     jal 0x003ea9a8
     nop
 
-    jal Clear_All_Queues
+    jal Clear_All_Queues_Clear_Victory
     nop
 
     @@end:

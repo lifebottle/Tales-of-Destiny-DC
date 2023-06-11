@@ -24,12 +24,14 @@ typedef int s32;
 #define TRUE 1
 #define FALSE 0
 
-#define VICTORY_QUOTE 0
-#define IN_BATTLE_QUOTE 1
-#define BLAST_CALIBER_QUOTE 2
+#define VICTORY_QUOTE 1
+#define IN_BATTLE_QUOTE 2
+#define BLAST_CALIBER_QUOTE 3
 struct Sound_Queue;
 struct Voice_Line;
 struct Voice_Table;
+struct Text_Param;
+struct Text_Width;
 //Text_Container text, TextParam param, TextWidth width
 struct Text_Container
 {
@@ -43,6 +45,8 @@ struct Text_Container
 	u32 Extra_Frames;
 	u32 Current_Frame;
 	u32 Total_Lines;	
+	Text_Param* Param;
+	Text_Width* Width;
 };
 
 struct Text_Param
@@ -82,15 +86,17 @@ struct Sound_Queue
 };
 struct Voice_Line
 {
+	u16 Type;
+	u16 Priority;
 	u16 Start_Frame;
 	u16 End_Frame;
 	u8 String;
 };
 struct Voice_Table
 {
-	u16 Type;			// 0
-	u8 Extra_Frames;	// 2
-	u8 Num_Lines;		// 3
+	//u16 Type;			// 0
+	u16 Extra_Frames;	// 2
+	u16 Num_Lines;		// 3
 	Voice_Line* Lines[];	// 4
 };
 struct Battle_Table
@@ -111,4 +117,5 @@ struct Text_Queue
 {
 	Sound_Queue* sound;
 	Battle_Table* battle;
+	u32 Trigger_Type;
 };

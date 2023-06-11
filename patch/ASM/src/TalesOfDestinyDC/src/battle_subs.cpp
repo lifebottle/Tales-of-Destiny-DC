@@ -6,6 +6,8 @@
 extern u32 Battle_Sub_Initialized;
 extern u32 Battle_Table_Count;
 extern u8 Pause_Flag;
+extern u32 BC_FLAG;
+u32 VICTORY_FLAG;
 extern u32 Battle_Table_Count;
 extern Battle_Table BattleTable[0xFFF];
 // need to figure these param and width structs out
@@ -34,7 +36,7 @@ extern "C"
 	bool Is_Sound_Playing(Sound_Queue* sound, u32 voice_id);
 	void Clear_Text_Containers();
 	void Clear_Text_Container(Text_Container* txt);
-	void Print_Text(Text_Container* txt, Text_Param* param, Text_Width* width);
+	void Print_Text(Text_Container* txt);
 	u32 Calculate_Y(u16 Type, u32 Container_Id, u32 size);
 
 	void init_battle_subs()
@@ -42,8 +44,18 @@ extern "C"
 		for (int i = 0; i < NUM_TEXT_CONTAINERS; i++)
 		{
 			text_container[i].Container_Id = i;
+			if (i == 0)
+			{
+				text_container[i].Param = &TextParamA;
+				text_container[i].Width = &TextWidthA;
+			}
+			else if (i == 1)
+			{
+				text_container[i].Param = &TextParamB;
+				text_container[i].Width = &TextWidthB;
+			}
 		}
-		for (int i = 0; i < 0xFFF ; i++)
+		for (int i = 0; i < 0xFFF; i++)
 		{
 			if (BattleTable[i].voice_id == 0)
 			{
@@ -75,6 +87,16 @@ extern "C"
 		{
 			if (text_queue[i].sound == 0)
 			{
+				u32 type = IN_BATTLE_QUOTE;
+				if (VICTORY_FLAG)
+				{
+					type = VICTORY_FLAG;
+				}
+				else if (BC_FLAG)
+				{
+					type = BLAST_CALIBER_QUOTE;
+				}
+				text_queue[i].Trigger_Type = type;
 				text_queue[i].sound = sound;
 				text_queue[i].battle = table;
 				return;
@@ -102,16 +124,7 @@ extern "C"
 		Process_Text_Queue();
 		for (int i = 0; i < NUM_TEXT_CONTAINERS; i++)
 		{
-			// hardcode hack
-			if (text_container[i].Container_Id == 0)
-			{ // use A
-				Print_Text(&text_container[i], &TextParamA, &TextWidthA);
-			}
-			else
-			{
-				// use B
-				Print_Text(&text_container[i], &TextParamB, &TextWidthB);
-			}
+			Print_Text(&text_container[i]);
 		}
 	}
 
@@ -160,7 +173,10 @@ extern "C"
 					{
 						if (text_queue[i].sound->frame_counter == text_queue[i].battle->table->Lines[j]->Start_Frame) {
 							// add text
-							Add_Text_Line(text_queue[i].battle->table->Lines[j], text_queue[i].sound, text_queue[i].battle);
+							if (text_queue[i].Trigger_Type == text_queue[i].battle->table->Lines[j]->Type)
+							{
+								Add_Text_Line(text_queue[i].battle->table->Lines[j], text_queue[i].sound, text_queue[i].battle);
+							}
 						}
 					}
 				}
@@ -193,12 +209,36 @@ extern "C"
 				text_container[i].Sound = sound;
 				text_container[i].Table = battle->table;
 				text_container[i].Total_Lines = battle->table->Num_Lines;
+				text_container[i].Param->rgba = 0x80808080;
 				return;
 			}
 		}
 		// didnt get added :'(
 	}
 
+	void Fade_Text(Text_Container* txt)
+	{
+		u32 fade_timer = 0x10; // limit fade timer to last 16 frames
+		u32 remaining_frames = 0xFF; // some random initial value that wont trip things
+		// use for post
+		if (txt->Current_Post_Frame > 0)
+		{
+			remaining_frames = (txt->Extra_Frames - txt->Current_Post_Frame);
+		}
+		else
+		{
+			remaining_frames = (txt->Line->End_Frame - txt->Current_Frame);
+		}
+		if (remaining_frames < 0x10)
+		{
+			u32 alpha = ((remaining_frames * 0x80) / fade_timer);
+			u32 color = 0x80808000 + alpha;
+			txt->Param->rgba = color;
+			//txt->Param->x_pos = txt->Param->x_pos + (0x10 * (fade_timer - remaining_frames));
+		}
+		
+		
+	}
 
 	void Check_Sound_Done(Text_Container* txt)
 	{
@@ -221,6 +261,7 @@ extern "C"
 				else
 				{
 					txt->Current_Post_Frame++;
+					//Fade_Text(txt);
 				}
 			}
 		}
@@ -252,17 +293,18 @@ extern "C"
 		}
 	}
 
-	void Print_Text(Text_Container* txt, Text_Param* param, Text_Width* width)
+	void Print_Text(Text_Container* txt)
 	{
 		if (txt->Battle_Voice_Id != 0)
 		{
 			u32 size = 0x90;
-			u32 y = Calculate_Y(txt->Table->Type, txt->Container_Id, size);
-			param->x_size = size;
-			param->y_size = size;
-			param->rgba = 0x80808080;
-			Calc_Width(param, &(txt->Line->String), width, y);
-			Print_String(param, &(txt->Line->String));
+			u32 y = Calculate_Y(txt->Line->Type, txt->Container_Id, size);
+			txt->Param->x_size = size;
+			txt->Param->y_size = size;
+			//txt->Param->rgba = 0x80808080;
+			Fade_Text(txt);
+			Calc_Width(txt->Param, &(txt->Line->String), txt->Width, y);
+			Print_String(txt->Param, &(txt->Line->String));
 		}
 	}
 	u32 Calculate_Y(u16 Type, u32 Container_Id, u32 size)
@@ -290,6 +332,14 @@ extern "C"
 		Clear_Text_Containers();
 		Clear_Text_Queues();
 	}
+	void Clear_All_Queues_Set_Victory() {
+		Clear_All_Queues();
+		VICTORY_FLAG = 1;
+	}
+	void Clear_All_Queues_Clear_Victory() {
+		Clear_All_Queues();
+		VICTORY_FLAG = 0;
+	}
 	void Clear_Text_Containers()
 	{
 		for (int i = 0; i < NUM_TEXT_CONTAINERS; i++)
@@ -308,7 +358,7 @@ extern "C"
 		txt->Total_Lines = 0;
 		txt->Extra_Frames = 0;
 	}
-	void Clear_Text_Queue(u32 voice_id) 
+	void Clear_Text_Queue(u32 voice_id)
 	{
 		for (int i = 0; i < NUM_TEXT_QUEUES; i++)
 		{
@@ -318,6 +368,7 @@ extern "C"
 				{
 					text_queue[i].sound = 0;
 					text_queue[i].battle = 0;
+					text_queue[i].Trigger_Type = 0;
 				}
 			}
 		}
@@ -328,6 +379,7 @@ extern "C"
 		{
 			text_queue[i].sound = 0;
 			text_queue[i].battle = 0;
+			text_queue[i].Trigger_Type = 0;
 		}
 	}
 	/*Voice_Table* test()
