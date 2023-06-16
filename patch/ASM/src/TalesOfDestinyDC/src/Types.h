@@ -87,7 +87,8 @@ struct Sound_Queue
 struct Voice_Line
 {
 	u16 Type;
-	u16 Priority;
+	u8 Priority;
+	u8 BC_Id;
 	u16 Start_Frame;
 	u16 End_Frame;
 	u8 String;

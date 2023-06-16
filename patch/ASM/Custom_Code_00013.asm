@@ -115,7 +115,7 @@
     sw s0, 0x18(sp)
 
     move s0, a0
-    jal Clear_All_Queues
+    jal Set_BC_ID_and_Clear
     nop
     move a0, s0
     li a1, 0x5
@@ -144,6 +144,35 @@ BLAST_CALIBER:
 ;=================================
 ; Helper / Shared Functions
 ;=================================
+
+.func Set_BC_ID_and_Clear
+    ;=================================
+    ; Save bc id (in s2) into memory
+    ; and then clear all queues
+    ;=================================
+    addiu sp, sp, -0x20
+	sw ra, 0x1c(sp)
+    sw s0, 0x18(sp)
+    sw s1, 0x14(sp)
+    sw s2, 0x10(sp)
+    sw s3, 0xc(sp)
+    
+    ; store bc id in bc_id
+    li s0, CURRENT_BC_ID
+    sw s2, 0x0(s0)
+
+    jal Clear_All_Queues
+    nop
+
+@@end:
+    lw ra, 0x1c(sp)
+    lw s0, 0x18(sp)
+    lw s1, 0x14(sp)
+    lw s2, 0x10(sp)
+    lw s3, 0xc(sp)
+    jr ra
+    addiu sp, sp, 0x20
+.endfunc
 
 .func Calc_Width
     ;=================================

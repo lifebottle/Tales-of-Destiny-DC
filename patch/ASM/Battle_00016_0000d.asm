@@ -27,17 +27,6 @@
     jal Blast_Caliber_Wrapper
 
 ;=================================
-; Shared Blast Caliber Priority Fix?
-;=================================
-; No idea if this will cause issues or not
-; Ran into issues where Stahns first clip of shared BCs werent playing
-; this a2 seems to be some sort of priority system
-; and a2 being 5 meant it wouldnt play if resources were locked up
-; when it should just overwrite cause its a bc?
-;.org 0x0014752C
-;    li a2, 0x1
-
-;=================================
 ; Blast Caliber Text Adjustments
 ;=================================
 .org 0x3eb96c

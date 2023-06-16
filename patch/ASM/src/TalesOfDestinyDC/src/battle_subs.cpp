@@ -38,6 +38,7 @@ extern "C"
 	void Clear_Text_Container(Text_Container* txt);
 	void Print_Text(Text_Container* txt);
 	u32 Calculate_Y(u16 Type, u32 Container_Id, u32 size);
+	u32 CURRENT_BC_ID;
 
 	void init_battle_subs()
 	{
@@ -175,7 +176,10 @@ extern "C"
 							// add text
 							if (text_queue[i].Trigger_Type == text_queue[i].battle->table->Lines[j]->Type)
 							{
-								Add_Text_Line(text_queue[i].battle->table->Lines[j], text_queue[i].sound, text_queue[i].battle);
+								if (text_queue[i].battle->table->Lines[j]->BC_Id == 0 || (text_queue[i].battle->table->Lines[j]->BC_Id == CURRENT_BC_ID))
+								{
+									Add_Text_Line(text_queue[i].battle->table->Lines[j], text_queue[i].sound, text_queue[i].battle);
+								}
 							}
 						}
 					}
