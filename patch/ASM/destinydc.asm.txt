@@ -313,7 +313,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004B512E .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 141
 004B5130 .byte 0x44,0x45,0x42,0x55,0x47,0x3D,                         ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 142
 004B5136 debug_flag:                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 143
-004B5136 .byte 0x01,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 144
+004B5136 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 144
 004B5137 .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 145
 004B5138 set_bc_id:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 156
 004B5138    addiu   sp,sp,-0x20                                       ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Custom_Code_00013.asm line 161
@@ -2712,7 +2712,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BAE30 line_20f:                                                    ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2739
 004BAE30 .halfword 0x0003,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2740
 004BAE32 .byte 0x03,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2741
-004BAE33 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2742
+004BAE33 .byte 0xE6,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2742
 004BAE34 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2743
 004BAE36 .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2744
 004BAE38 .byte 0x05,0x05,0x00,0x00,0x00,0x0B,0x06,0x00,0x00,0x00,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x59,0x6F,0x75,0x27,0x72,0x65,0x20,0x6E,0x6F,0x74,0x68,0x69,0x6E,0x67,0x20,0x74,0x6F,0x20,0x6D,0x65,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 2745
@@ -5658,16 +5658,16 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BEC16 .byte 0x03,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5985
 004BEC17 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5986
 004BEC18 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5987
-004BEC1A .halfword 0x0050,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5988
-004BEC1C .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x54,0x68,0x65,0x20,0x62,0x65,0x61,0x73,0x74,0x20,0x77,0x69,0x74,0x68,0x69,0x6E,0x20,0x73,0x63,0x72,0x65,0x61,0x6D,0x73,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5989
+004BEC1A .halfword 0x00A8,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5988
+004BEC1C .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x54,0x68,0x65,0x20,0x62,0x65,0x61,0x73,0x74,0x20,0x77,0x69,0x74,0x68,0x69,0x6E,0x20,0x73,0x63,0x72,0x65,0x61,0x6D,0x73,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5989
 004BEC4A .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5990
 004BEC4C line_56b_2:                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5991
 004BEC4C .halfword 0x0004,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5992
 004BEC4E .byte 0x03,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5993
 004BEC4F .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5994
-004BEC50 .halfword 0x0040,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5995
+004BEC50 .halfword 0x00A0,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5995
 004BEC52 .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5996
-004BEC54 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x59,0x4F,0x55,0x20,0x4D,0x55,0x53,0x54,0x20,0x41,0x4C,0x4C,0x20,0x44,0x49,0x45,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5997
+004BEC54 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x59,0x4F,0x55,0x20,0x4D,0x55,0x53,0x54,0x20,0x41,0x4C,0x4C,0x20,0x44,0x49,0x45,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5997
 004BEC7A .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 5998
 004BEC7C table_54c:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6000
 004BEC7C .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6001
@@ -5679,7 +5679,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BEC87 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6007
 004BEC88 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6008
 004BEC8A .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6009
-004BEC8C .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x4E,0x6F,0x6E,0x73,0x65,0x6E,0x73,0x65,0x21,0x20,0x54,0x68,0x69,0x73,0x20,0x69,0x73,0x20,0x69,0x6D,0x70,0x6F,0x73,0x73,0x69,0x62,0x6C,0x65,0x2E,0x20,0x49,0x6D,0x70,0x6F,0x73,0x73,0x69,0x62,0x6C,0x65,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6010
+004BEC8C .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x4E,0x6F,0x6E,0x73,0x65,0x6E,0x73,0x65,0x21,0x20,0x54,0x68,0x69,0x73,0x20,0x69,0x73,0x20,0x69,0x6D,0x70,0x6F,0x73,0x73,0x69,0x62,0x6C,0x65,0x2E,0x20,0x49,0x6D,0x70,0x6F,0x73,0x73,0x69,0x62,0x6C,0x65,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6010
 004BECCA .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6011
 004BECCC table_54b:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6013
 004BECCC .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6014
@@ -5691,7 +5691,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BECD7 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6020
 004BECD8 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6021
 004BECDA .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6022
-004BECDC .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x48,0x65,0x68,0x65,0x68,0x65,0x2C,0x20,0x63,0x6F,0x6E,0x67,0x72,0x61,0x74,0x75,0x6C,0x61,0x74,0x69,0x6F,0x6E,0x73,0x20,0x61,0x72,0x65,0x20,0x69,0x6E,0x20,0x6F,0x72,0x64,0x65,0x72,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6023
+004BECDC .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x48,0x65,0x68,0x65,0x68,0x65,0x2C,0x20,0x63,0x6F,0x6E,0x67,0x72,0x61,0x74,0x75,0x6C,0x61,0x74,0x69,0x6F,0x6E,0x73,0x20,0x61,0x72,0x65,0x20,0x69,0x6E,0x20,0x6F,0x72,0x64,0x65,0x72,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6023
 004BED16 .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6024
 004BED18 table_53f:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6026
 004BED18 .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6027
@@ -5703,7 +5703,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BED23 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6033
 004BED24 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6034
 004BED26 .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6035
-004BED28 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x59,0x6F,0x75,0x20,0x64,0x6F,0x6E,0x27,0x74,0x20,0x64,0x65,0x73,0x65,0x72,0x76,0x65,0x20,0x74,0x6F,0x20,0x6C,0x69,0x76,0x65,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6036
+004BED28 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x59,0x6F,0x75,0x20,0x64,0x6F,0x6E,0x27,0x74,0x20,0x64,0x65,0x73,0x65,0x72,0x76,0x65,0x20,0x74,0x6F,0x20,0x6C,0x69,0x76,0x65,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6036
 004BED57 .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6037
 004BED58 table_565:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6039
 004BED58 .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6040
@@ -5715,7 +5715,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BED63 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6046
 004BED64 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6047
 004BED66 .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6048
-004BED68 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x4E,0x4F,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6049
+004BED68 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x4E,0x4F,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6049
 004BED80 .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6050
 004BED80 table_566:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6052
 004BED80 .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6053
@@ -5727,7 +5727,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BED8B .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6059
 004BED8C .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6060
 004BED8E .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6061
-004BED90 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x49,0x54,0x45,0x4D,0x53,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6062
+004BED90 .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x49,0x54,0x45,0x4D,0x53,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6062
 004BEDAB .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6063
 004BEDAC table_567:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6065
 004BEDAC .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6066
@@ -5739,7 +5739,7 @@ FFFFFFFF .open "C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\DAT_FILES_O
 004BEDB7 .byte 0x00,                                                  ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6072
 004BEDB8 .halfword 0x0000,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6073
 004BEDBA .halfword 0xFFFF,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6074
-004BEDBC .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x41,0x52,0x42,0x41,0x54,0x4F,0x53,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x45,0x56,0x45,0x52,0x21,0x21,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6075
+004BEDBC .byte 0x05,0x05,0x00,0x00,0x00,0x42,0x61,0x72,0x62,0x61,0x74,0x6F,0x73,0x05,0x07,0x00,0x00,0x00,0x3A,0x20,0x45,0x56,0x45,0x52,0x21,0x21,0x21,0x00,; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6075
 004BEDD8 .align 0x00000004                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6076
 004BEDD8 table_508:                                                   ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6081
 004BEDD8 .halfword 0x0020,                                            ; C:\Users\Julian\Documents\Tales-of-Destiny-DC2\patch\ASM\Battle_Subs_Text.asm line 6082

@@ -141,7 +141,7 @@ BLAST_CALIBER:
 .align 4
 .ascii "DEBUG="
 DEBUG_FLAG:
-    .byte DEBUG_ON
+    .byte DEBUG_OFF
 .align 4
 
 
