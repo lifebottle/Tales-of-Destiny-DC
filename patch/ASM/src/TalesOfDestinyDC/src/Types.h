@@ -27,6 +27,7 @@ typedef int s32;
 #define VICTORY_QUOTE 1
 #define IN_BATTLE_QUOTE 2
 #define BLAST_CALIBER_QUOTE 3
+#define BOSS_QUOTE 4
 struct Sound_Queue;
 struct Voice_Line;
 struct Voice_Table;
@@ -35,7 +36,8 @@ struct Text_Width;
 //Text_Container text, TextParam param, TextWidth width
 struct Text_Container
 {
-	u32 Container_Id;
+	u16 Container_Id;
+	u16 ALLOWED_TYPE;
 	Sound_Queue* Sound;
 	u32 Battle_Voice_Id;
 	//u8* String_Pointer;

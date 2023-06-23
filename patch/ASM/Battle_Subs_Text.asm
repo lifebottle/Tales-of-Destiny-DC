@@ -57,6 +57,7 @@ ALBA equ 0x0B, 0x31, 0x00, 0x00, 0x00
 VICTORY_QUOTE equ 0x1
 IN_BATTLE_QUOTE equ 0x2
 BLAST_CALIBER_QUOTE equ 0x3
+BOSS_QUOTE equ 0x4
 
 ; Priority
 PRIORITY_VERY_HIGH equ 0x1
@@ -121,6 +122,7 @@ BattleTable:
 .word 0x6A, Table_06A
 .word 0x6B, Table_06B
 .word 0x6C, Table_06C
+.word 0x6E, Table_06E
 
 ; Rutee In Battle Quotes
 .word 0x7F, Table_07F ; BC
@@ -436,6 +438,8 @@ BattleTable:
 .word 0x36F, Table_36F
 .word 0x370, Table_370
 .word 0x371, Table_371
+.word 0x39A, Table_39A
+.word 0x39B, Table_39B
 
 ; Atwight
 .word 0x3C0, Table_3C0
@@ -443,6 +447,8 @@ BattleTable:
 .word 0x3C4, Table_3C4
 .word 0x3C6, Table_3C6
 .word 0x3D0, Table_3D0
+.word 0x3D2, Table_3D2
+.word 0x3D3, Table_3D3
 
 ; Clemente
 .word 0x3EB, Table_3EB
@@ -450,62 +456,111 @@ BattleTable:
 .word 0x3EF, Table_3EF
 .word 0x3F3, Table_3F3
 .word 0x3F4, Table_3F4
+.word 0x3F7, Table_3F7
+.word 0x3F8, Table_3F8
+.word 0x3F9, Table_3F9
+.word 0x3FA, Table_3FA
+.word 0x3FB, Table_3FB
+.word 0x3FC, Table_3FC
+.word 0x3FD, Table_3FD
 .word 0x401, Table_401
 
 ; Igtenos
 .word 0x40C, Table_40C
 .word 0x40D, Table_40D
+.word 0x410, Table_410
+.word 0x411, Table_411
+.word 0x412, Table_412
+.word 0x413, Table_413
+
 
 ; Chaltier
 .word 0x41D, Table_41D
 .word 0x41F, Table_41F
 .word 0x420, Table_420
+.word 0x421, Table_421
+.word 0x422, Table_422
+.word 0x423, Table_423
+.word 0x424, Table_424
 
 ; Greybum
-.word 0x437, Table_437
-.word 0x443, Table_443
+;.word 0x437, Table_437
 
 ; Batista
-.word 0x44f, Table_44f
+;.word 0x44f, Table_44f
 .word 0x450, Table_450
 .word 0x451, Table_451
 
 ; Tiberius
-.word 0x45e, Table_45e
+;.word 0x45e, Table_45e
 .word 0x45f, Table_45f
 .word 0x460, Table_460
-.word 0x461, Table_461
+
 
 ; Dalis
 .word 0x46f, Table_46f
-.word 0x478, Table_478
 
 ; Baruk
+;.word 0x47D, Table_47D
+;.word 0x47E, Table_47E
+.word 0x482, Table_482
+.word 0x483, Table_483
 .word 0x484, Table_484
 
+
 ; Irene
-.word 0x48d, Table_48d
-.word 0x48e, Table_48e
+;.word 0x487, Table_487
+;.word 0x489, Table_489
+;.word 0x48D, Table_48D
+.word 0x48E, Table_48E
+.word 0x48F, Table_48F
 
 ; Remembrandt
-.word 0x49d, Table_49d
+;.word 0x49d, Table_49d
 .word 0x49e, Table_49e
 .word 0x49f, Table_49f
 
 ; Hugo
-.word 0x4a9, Table_4a9
+;.word 0x4a9, Table_4a9
 .word 0x4aa, Table_4aa
 .word 0x4ab, Table_4ab
 
 ; Miktran
-.word 0x4c2, Table_4c2
+;.word 0x4c2, Table_4c2
 .word 0x4c3, Table_4c3
 .word 0x4c4, Table_4c4
+
+; Miktran Ex
+.word 0x4D9, Table_4D9
+.word 0x4DE, Table_4DE
+.word 0x4E3, Table_4E3
+.word 0x4E7, Table_4E7
+.word 0x4E8, Table_4E8
+.word 0x4EA, Table_4EA
+;.word 0x4ED, Table_4ED
+.word 0x4F0, Table_4F0
+.word 0x4F3, Table_4F3
+.word 0x4F4, Table_4F4
+.word 0x4F7, Table_4F7
+.word 0x4F8, Table_4F8
+;.word 0x4FB, Table_4FB
+.word 0x4FC, Table_4FC
+.word 0x4FD, Table_4FD
+.word 0x4FE, Table_4FE
 
 ; Soldiers
 .word 0x508, Table_508
 .word 0x511, Table_511
 .word 0x512, Table_512
+
+; Barbatos
+.word 0x53F, Table_53F
+.word 0x54B, Table_54B
+.word 0x54C, Table_54C
+.word 0x565, Table_565
+.word 0x566, Table_566
+.word 0x567, Table_567
+.word 0x56B, Table_56B
 
 ; Multi Line Quotes
 .word 0x58f, Table_58f
@@ -575,6 +630,15 @@ BattleTable:
 .word 0x1134, Table_1134
 .word 0x1135, Table_1135
 
+; Tiberius
+.word 0x11A5, Table_11A5
+
+; Dalis
+.word 0x1395, Table_1395
+
+; Greybum
+.word 0x13F4, Table_13F4
+
 ; Leon 2
 .word 0x1792, Table_1792
 .word 0x1793, Table_1793
@@ -590,6 +654,11 @@ BattleTable:
 
 ; MIKTRAN
 .word 0x2060, Table_2060
+
+; MIKTRAN EX
+.word 0x207D, Table_207D
+.word 0x207E, Table_207E
+.word 0x207F, Table_207F
 
 ; END OF TABLE
 ; KEEP 0000 0000 separator
@@ -2670,7 +2739,7 @@ Table_20F:
 Line_20F:
     .halfword BLAST_CALIBER_QUOTE
     .byte PRIORITY_MEDIUM
-    .byte 0x0           ; BC Id -- 0 default/not used
+    .byte 0xE6          ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
     .asciiz COLOR_START,MARY,COLOR_END,": You're nothing to me!"
@@ -5904,6 +5973,108 @@ Line_60e_2:
     .asciiz COLOR_START,LEON,COLOR_END,": Didn't even require much effort."
     .align 4
 
+; Barbatos
+
+Table_56B:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x2               ; 2 lines
+    .word Line_56B_1
+    .word Line_56B_2
+Line_56B_1:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xA8          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": The beast within screams!"
+    .align 4
+Line_56B_2:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0xA0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": YOU MUST ALL DIE!"
+    .align 4
+
+Table_54C:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_54C
+Line_54C:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": Nonsense! This is impossible. Impossible!"
+    .align 4
+
+Table_54B:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_54B
+Line_54B:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": Hehehe, congratulations are in order!"
+    .align 4
+
+Table_53F:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_53F
+Line_53F:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": You don't deserve to live!"
+    .align 4
+
+Table_565:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_565
+Line_565:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": NO!"
+    .align 4
+
+Table_566:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_566
+Line_566:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": ITEMS!"
+    .align 4
+
+Table_567:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_567
+Line_567:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,"Barbatos",COLOR_END,": EVER!!!"
+    .align 4
+
 ; Battle Quotes
 
 ; Soldiers
@@ -5912,7 +6083,7 @@ Table_508:
     .halfword 0x1               ; 1 lines
     .word Line_508_1
 Line_508_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -5925,7 +6096,7 @@ Table_511:
     .halfword 0x1               ; 1 lines
     .word Line_511_1
 Line_511_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -5938,7 +6109,7 @@ Table_512:
     .halfword 0x1               ; 1 lines
     .word Line_512_1
 Line_512_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -5951,7 +6122,7 @@ Table_7b7:
     .halfword 0x1               ; 1 lines
     .word Line_7b7_1
 Line_7b7_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -5964,7 +6135,7 @@ Table_7b8:
     .halfword 0x1               ; 1 lines
     .word Line_7b8_1
 Line_7b8_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -5972,27 +6143,40 @@ Line_7b8_1:
     .asciiz COLOR_START,RUTEE,COLOR_END,": No time for questions! We gotta defend ourselves!"
     .align 4
 
+Table_06E:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_06E
+Line_06E:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Damn! We can't deal with much more of this!"
+    .align 4
+
 ; Leon 1
 Table_8e3:
     .halfword 0x20              ; 32 Extra Frames 
-    .halfword 0x1               ; 1 lines
+    .halfword 0x2               ; 2 lines
     .word Line_8e3_1
     .word Line_8e3_2
 Line_8e3_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,LEON,COLOR_END,": I'll wipe that smug look off your face!"
+    .asciiz COLOR_START,RUTEE,COLOR_END,": I'mma wipe that smug look off your face!"
     .align 4
 Line_8e3_2:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz "You'll regret crossing blades with me!"
+    .asciiz "You'll regret pick a fight with us!"
     .align 4
 
 ; Lens Hunters
@@ -6001,7 +6185,7 @@ Table_903:
     .halfword 0x1               ; 1 lines
     .word Line_903_1
 Line_903_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6014,13 +6198,22 @@ Table_c83:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
     .word Line_c83_1
+    .word Line_c83_2
 Line_c83_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,PHILIA,COLOR_END,": Those monsters...! They are the ones that turned me into stone!"
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Those monsters...! They're the ones that petrified me!"
+    .align 4
+Line_c83_2:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz "turned me into stone!"
     .align 4
 
 Table_c84:
@@ -6028,7 +6221,7 @@ Table_c84:
     .halfword 0x1               ; 1 lines
     .word Line_c84_1
 Line_c84_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6042,7 +6235,7 @@ Table_eac:
     .halfword 0x1               ; 1 lines
     .word Line_eac_1
 Line_eac_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6096,7 +6289,7 @@ Table_101a:
     .halfword 0x1               ; 1 lines
     .word Line_101a_1
 Line_101a_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6109,7 +6302,7 @@ Table_101b:
     .halfword 0x1               ; 1 lines
     .word Line_101b_1
 Line_101b_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6124,7 +6317,7 @@ Table_1134:
     .halfword 0x1               ; 1 lines
     .word Line_1134_1
 Line_1134_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6137,7 +6330,7 @@ Table_1135:
     .halfword 0x1               ; 1 lines
     .word Line_1135_1
 Line_1135_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6147,17 +6340,26 @@ Line_1135_1:
 
 
 ; Tiberius
-Table_461:
+Table_11A5:
     .halfword 0x20              ; 32 Extra Frames 
-    .halfword 0x1               ; 1 lines
-    .word Line_461_1
-Line_461_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword 0x2               ; 2 lines
+    .word Line_11A5_1
+    .word Line_11A5_2
+Line_11A5_1:
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
+    .halfword 0xD8          ; end
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": I am the king of Aquaveil!"
+    .align 4
+Line_11A5_2:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x110           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,TIBERIUS,COLOR_END,": I am the king of Aquaveil! Kneel, or I'll cut you down!"
+    .asciiz COLOR_START,TIBERIUS,COLOR_END,": Kneel, or I'll cut you down!"
     .align 4
 
 Table_460:
@@ -6201,12 +6403,12 @@ Line_45f_1:
 
 
 ; Dalis
-Table_478:
+Table_1395:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_478_1
-Line_478_1:
-    .halfword IN_BATTLE_QUOTE
+    .word Line_1395
+Line_1395:
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6229,17 +6431,26 @@ Line_46f_1:
 
 
 ; Greybum
-Table_443:
+Table_13F4:
     .halfword 0x20              ; 32 Extra Frames 
-    .halfword 0x1               ; 1 lines
-    .word Line_443_1
-Line_443_1:
+    .halfword 0x2               ; 2 lines
+    .word Line_13F4_1
+    .word Line_13F4_2
+Line_13F4_1:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,GREYBUM,COLOR_END,": Hahahaha. Tremble in despair as I deliver on to you a horrific death!"
+    .asciiz COLOR_START,GREYBUM,COLOR_END,": Hahahaha. Tremble in despair"
+    .align 4
+Line_13F4_2:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz "as I deliver onto you a horrific death!"
     .align 4
 
 Table_437:
@@ -6262,7 +6473,7 @@ Table_1792:
     .halfword 0x1               ; 1 lines
     .word Line_1792_1
 Line_1792_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6275,7 +6486,7 @@ Table_1793:
     .halfword 0x1               ; 1 lines
     .word Line_1793_1
 Line_1793_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6290,12 +6501,64 @@ Table_1a10:
     .halfword 0x1               ; 1 lines
     .word Line_1a10_1
 Line_1a10_1:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": From now on, you'll learn the true meaning of war!"
+    .align 4
+
+Table_47E:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_47E
+Line_47E:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,BARUK,COLOR_END,": You shall pay for your hubris. From now on, you'll learn the true meaning of war!"
+    .asciiz COLOR_START,BARUK,COLOR_END,": Swarm!"
+    .align 4
+
+Table_47D:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_47D
+Line_47D:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": This will be your end!"
+    .align 4
+
+Table_482:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_482
+Line_482:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": In the end I remain victorious!"
+    .align 4
+
+Table_483:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_483
+Line_483:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,BARUK,COLOR_END,": You shall pay for your hubris!"
     .align 4
 
 Table_484:
@@ -6318,7 +6581,7 @@ Table_1a7f:
     .halfword 0x1               ; 1 lines
     .word Line_1a7f_1
 Line_1a7f_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6326,11 +6589,11 @@ Line_1a7f_1:
     .asciiz COLOR_START,ILENE,COLOR_END,": I will not allow YOU to stop me!"
     .align 4
 
-Table_48d:
+Table_48D:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_48d_1
-Line_48d_1:
+    .word Line_48D
+Line_48D:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
@@ -6339,11 +6602,11 @@ Line_48d_1:
     .asciiz COLOR_START,ILENE,COLOR_END,": It's time to get serious!"
     .align 4
 
-Table_48e:
+Table_48E:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_48e_1
-Line_48e_1:
+    .word Line_48E
+Line_48E:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
@@ -6352,19 +6615,41 @@ Line_48e_1:
     .asciiz COLOR_START,ILENE,COLOR_END,": Please, forgive me...."
     .align 4
 
-
-; Remembrandt
-Table_1b1c:
+Table_48F:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_1b1c_1
-Line_1b1c_1:
+    .word Line_48F
+Line_48F:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Behold the pinacle of innovation! Prepare to face it's terrible power!"
+    .asciiz COLOR_START,ILENE,COLOR_END,": Kyaaah!"
+    .align 4
+
+
+; Remembrandt
+Table_1b1c:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x2               ; 2 lines
+    .word Line_1b1c_1
+    .word Line_1b1c_2
+Line_1b1c_1:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0x128          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Behold the pinacle of innovation!"
+    .align 4
+Line_1b1c_2:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x130           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,REMBRANDT,COLOR_END,": Prepare to face it's terrible power!"
     .align 4
 
 ;0x493?
@@ -6453,8 +6738,8 @@ Line_4aa_1:
 ; Dymlos
 Table_36F:
     .halfword 0x20              ; 32 Extra Frames 
-    .halfword 0x2               ; 1 lines
-    .word Line_36F_1
+    .halfword 0x1               ; 1 lines
+    ;.word Line_36F_1
     .word Line_36F_2
 Line_36F_1:
     .halfword IN_BATTLE_QUOTE
@@ -6499,6 +6784,260 @@ Line_370_1:
     .asciiz COLOR_START,DYMLOS,COLOR_END,": I had hoped for a different outcome..."
     .align 4
 
+Table_39A:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_39A
+Line_39A:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DYMLOS,COLOR_END,": Flames seem to work well!"
+    .align 4
+
+Table_39B:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_39B
+Line_39B:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DYMLOS,COLOR_END,": They're unaffected by fire!"
+    .align 4
+
+; Atwight
+
+Table_3D2:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3D2
+Line_3D2:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,ATWIGHT,COLOR_END,": Water artes are quite effective!"
+    .align 4
+
+Table_3D3:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3D3
+Line_3D3:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,ATWIGHT,COLOR_END,": It seems water is ineffective."
+    .align 4
+
+; Clemente
+
+Table_3FA:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3FA
+Line_3FA:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Water artes are effective!"
+    .align 4
+
+Table_3F7:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3F7
+Line_3F7:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Earth artes are effective!"
+    .align 4
+
+Table_3F8:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3F8
+Line_3F8:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Wind artes are effective!"
+    .align 4
+
+Table_3F9:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3F9
+Line_3F9:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Fire artes are effective!"
+    .align 4
+
+Table_3FB:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3FB
+Line_3FB:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Light artes are effective!"
+    .align 4
+
+Table_3FC:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3FC
+Line_3FC:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Dark artes are effective!"
+    .align 4
+
+Table_3FD:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_3FD
+Line_3FD:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CLEMENTE,COLOR_END,": Hmm, that didn't work."
+    .align 4
+
+; Chaltier
+
+Table_422:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_422
+Line_422:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CHALTIER,COLOR_END,": Magic is useless against them!"
+    .align 4
+
+Table_424:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_424
+Line_424:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CHALTIER,COLOR_END,": Your blade didn't scratch 'em!"
+    .align 4
+
+Table_421:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_421
+Line_421:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CHALTIER,COLOR_END,": They seem weak to your blade!"
+    .align 4
+
+Table_423:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_423
+Line_423:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,CHALTIER,COLOR_END,": They seem weak to your magic!"
+    .align 4
+
+; Igtenos
+
+Table_411:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_411
+Line_411:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,IGTENOS,COLOR_END,": Wind skills don't work on these guys."
+    .align 4
+
+Table_412:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_412
+Line_412:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,IGTENOS,COLOR_END,": They're vulnerable to your bow attacks!"
+    .align 4
+
+Table_413:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_413
+Line_413:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,IGTENOS,COLOR_END,": They're vulnerable to your sword attacks!"
+    .align 4
+
+Table_410:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_410
+Line_410:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,IGTENOS,COLOR_END,": They seem to be weak to wind artes!"
+    .align 4
 
 ; MIKTRAN
 Table_2060:
@@ -6506,7 +7045,7 @@ Table_2060:
     .halfword 0x1               ; 1 lines
     .word Line_2060_1
 Line_2060_1:
-    .halfword IN_BATTLE_QUOTE
+    .halfword BOSS_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
@@ -6530,8 +7069,8 @@ Line_4c2_1:
 Table_4c4:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_4c4_1
-Line_4c4_1:
+    .word Line_4c4
+Line_4c4:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
@@ -6543,8 +7082,8 @@ Line_4c4_1:
 Table_4c3:
     .halfword 0x20              ; 32 Extra Frames 
     .halfword 0x1               ; 1 lines
-    .word Line_4c3_1
-Line_4c3_1:
+    .word Line_4c3
+Line_4c3:
     .halfword IN_BATTLE_QUOTE
     .byte PRIORITY_MEDIUM
     .byte 0x0           ; BC Id -- 0 default/not used
@@ -6553,3 +7092,318 @@ Line_4c3_1:
     .asciiz COLOR_START,MIKTRAN,COLOR_END,": As expected, you were not worthy."
     .align 4
 
+; Miktran EX
+; start of battle chatter
+Table_207D:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x2               ; 2 lines
+    .word Line_207D_1
+    .word Line_207D_2
+Line_207D_1:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DYMLOS,COLOR_END,": He's no god, just a thousand-year-old"
+    .align 4
+Line_207D_2:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz "ghost driven mad by delusion!"
+    .align 4
+
+Table_207E:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_207E
+Line_207E:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,DYMLOS,COLOR_END,": Thus, by our hand, we shall end this!"
+    .align 4
+
+Table_207F:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_207F
+Line_207F:
+    .halfword BOSS_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,STAHN,COLOR_END,": Yeah!"
+    .align 4
+
+; Artes
+Table_4D9:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 line
+    ;.word Line_4D9_BQ
+    .word Line_4D9_BC
+Line_4D9_BQ:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Heh heh heh!"
+    .align 4
+Line_4D9_BC:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Heh heh heh!"
+    .align 4
+
+Table_4FC:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    ;.word Line_4FC_BQ
+    .word Line_4FC_BC
+Line_4FC_BQ:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Wallow in dispair!"
+    .align 4
+Line_4FC_BC:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": And sink into despair!"
+    .align 4
+
+Table_4ED:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4ED
+Line_4ED:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Fade into the chasm between light and dark!"
+    .align 4
+
+Table_4EA:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4EA
+Line_4EA:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Be consumed by death!"
+    .align 4
+
+Table_4FB:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4FB
+Line_4FB:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": It's your end!"
+    .align 4
+
+Table_4F7:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 line
+    ;.word Line_4F7_BQ
+    .word Line_4F7_BC
+Line_4F7_BQ:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Begone!"
+    .align 4
+Line_4F7_BC:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Begone!"
+    .align 4
+
+Table_4E3:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 2 lines
+    ;.word Line_4E3_BQ
+    .word Line_4E3_BC
+Line_4E3_BQ:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Playtime is over!"
+    .align 4
+Line_4E3_BC:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Playtime is over!"
+    .align 4
+
+Table_4E8:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4E8
+Line_4E8:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": That's impossible!"
+    .align 4
+
+Table_4E7:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x2               ; 2 lines
+    .word Line_4E7_BQ
+    .word Line_4E7_BC
+Line_4E7_BQ:
+    .halfword IN_BATTLE_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": DIE! DIE! DIE! DIE! DIE!!!"
+    .align 4
+Line_4E7_BC:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": DIE! DIE! DIE! DIE! DIE!!!"
+    .align 4
+
+; Miktran BCs
+; Miktrain Raining Orion
+; 4f7
+Table_4DE:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4DE
+Line_4DE:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": You eye sore!"
+    .align 4
+
+Table_4F3:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4F3
+Line_4F3:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Fall into ruin!"
+    .align 4
+; 4e7
+
+; Miktran Surviving Hollin
+; 4f7
+; 4d9
+; 4e3
+Table_4F8:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4F8
+Line_4F8:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Grovel before a god..."
+    .align 4
+; 4FC
+
+; Miktran Celestial Earth
+; 4f7
+Table_4F0:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4F0
+Line_4F0:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Into the void of your own despair..."
+    .align 4
+
+Table_4F4:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4F4
+Line_4F4:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Your flesh torn asunder!"
+    .align 4
+
+; Miktran Melt thing BC
+Table_4FD:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4FD
+Line_4FD:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": I tire of you whelps!"
+    .align 4
+
+Table_4FE:
+    .halfword 0x20              ; 32 Extra Frames 
+    .halfword 0x1               ; 1 lines
+    .word Line_4FE
+Line_4FE:
+    .halfword BLAST_CALIBER_QUOTE
+    .byte PRIORITY_MEDIUM
+    .byte 0x0           ; BC Id -- 0 default/not used
+    .halfword 0x0           ; start 
+    .halfword 0xFFFF          ; end
+    .asciiz COLOR_START,MIKTRAN,COLOR_END,": Behold! The eradication of all!"
+    .align 4

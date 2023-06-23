@@ -5,7 +5,8 @@
 .definelabel Pause_Flag, 0x0041B0AF
 .definelabel Print_String, 0x010fc70
 .definelabel BC_FLAG, 0x004244BC
-
+.definelabel sprintf, 0x001cdb00
+; 03d909c? 
 ;=================================
 ; Battle Sub Hooks
 ;=================================
