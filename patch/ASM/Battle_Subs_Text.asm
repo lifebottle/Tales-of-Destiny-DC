@@ -1021,7 +1021,7 @@ Table_2AE:
 Table_2AE_1:
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,JOHNNY,COLOR_END,": What do we d o?"
+    .asciiz COLOR_START,JOHNNY,COLOR_END,": What do we do?"
     .align 4
 
 Table_2AC:
@@ -1576,7 +1576,7 @@ Table_172:
 Table_172_1:
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,WOODROW,COLOR_END,": I cannot forgive those who block my path!"
+    .asciiz COLOR_START,WOODROW,COLOR_END,": I'll show no mercy to those who stand in my way!"
     .align 4
 
 Table_173:
@@ -1598,7 +1598,7 @@ Table_174:
 Table_174_1:
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,WOODROW,COLOR_END,": Be more carfeul of who you attack next time."
+    .asciiz COLOR_START,WOODROW,COLOR_END,": Be more careful of who you attack next time."
     .align 4
 
 Table_175:
@@ -2127,7 +2127,7 @@ Table_594:
 Table_594_1:
     .halfword 0x0           ; start 
     .halfword 0x80          ; end
-    .asciiz COLOR_START,STAHN,COLOR_END,": I'm a pretty strong figher now."
+    .asciiz COLOR_START,STAHN,COLOR_END,": I'm a pretty strong fighter now."
     .align 4
 Table_594_2:
     .halfword 0x66          ; start
