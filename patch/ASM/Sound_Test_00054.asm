@@ -3,9 +3,9 @@
 .ps2
 
 .org 0x003b8ddc
-    jal Display_Text_Sound_Test_Wrapper
+;    jal Display_Text_Sound_Test_Wrapper
 
 .org 0x003b8348
-    jal Setup_Text_Sound_Test_Wrapper
+;    jal Setup_Text_Sound_Test_Wrapper
 
 .close
