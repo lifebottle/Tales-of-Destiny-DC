@@ -1,8 +1,6 @@
     hight : <x1D><x76><x40><x40><x80>    h : <x1D><x76><x40><x44><x80>
 
 [ENDBLOCK]
-<IGNORE>
-[ENDBLOCK]
 Notice
 [ENDBLOCK]
 <TAG_007>Regroup with the other party?
@@ -231,8 +229,6 @@ appear over the character's head. If this
 happens, set a title that seems to be related
 to the dialogue, and try talking to them again.
 Something fun may happen.
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
