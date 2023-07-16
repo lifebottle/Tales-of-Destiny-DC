@@ -51,6 +51,20 @@ struct Text_Container
 	Text_Width* Width;
 };
 
+struct Skit_Container
+{
+	u8* string;
+	//u32* struct_thing;
+	u32 processed_flag;
+};
+struct Skit_Thing
+{
+	u8 unk[0x215c];
+	u32 address_one;
+	u8 unk2[0x10];
+	u32 address_two;
+};
+
 struct Text_Param
 {
 	u8* Text;				// 0
@@ -67,6 +81,12 @@ struct Text_Param
 	u32 unk_18;				// 18
 	u16 x_size;				// 1c
 	u16 y_size;				// 1e	
+	// 20
+	u8 unk_20[0xC0];		// 20
+	// e0
+	u32 unk_e0;
+	u16 new_x_size;
+	u16 new_y_size;
 };
 struct Text_Width
 {
