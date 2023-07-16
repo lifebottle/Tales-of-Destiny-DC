@@ -1,5 +1,5 @@
 EE_LIB = julian.a
-EE_OBJS = src/battle_subs.o
+EE_OBJS = src/battle_subs.o src/skits.o
 
 INCDIR =
 CFLAGS = -Os -G0 -Wall
