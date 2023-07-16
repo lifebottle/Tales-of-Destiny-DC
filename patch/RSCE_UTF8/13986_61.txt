@@ -1274,12 +1274,12 @@ Gentleman
 Mighty!	Mighty! Our
 hero! Save us!
 [ENDBLOCK]
-Lens Shop
+Lens Shopkeeper
 [ENDBLOCK]
 Welcome! We allow you
 to redeem your lens.
 [ENDBLOCK]
-Lens Shop
+Lens Shopkeeper
 [ENDBLOCK]
 Hahh... HQ ordered
 me to stay put...
@@ -1567,12 +1567,12 @@ ingredients.
 the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
-Replace One
-Replace All (<TAG_077> Pieces)
-Do Not Exchange
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
 Exchange
-Do Not Exchange
+Don't Exchange
 [ENDBLOCK]
 Select
 [ENDBLOCK]

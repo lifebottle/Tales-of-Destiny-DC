@@ -62,7 +62,7 @@ So it was true after all!
 [ENDBLOCK]
 Buy my lens first!
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 King <Woodrow>!
 [ENDBLOCK]
@@ -110,7 +110,7 @@ to maintain public order.
 I had no other choice... I'd like
 to think it was the right one.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 Things'll calm down
 a bit, for sure.
@@ -166,7 +166,7 @@ my people, too.
 [ENDBLOCK]
 I had no choice, this time.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 I believe the lens rate will
 stabilize after this, though.
@@ -299,12 +299,12 @@ Elder
 We'll be waiting for
 your safe return.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 Got any lens? I can exchange
 them for cash.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 Got any lens? I can exchange
 them for cash.
@@ -445,9 +445,9 @@ ingredients.
 the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
-Exchange for 1
-Exchange all （<TAG_077> units）
-Don't exchange
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
 Exchange
 Don't exchange

@@ -143,12 +143,12 @@ Elder
 We'll be waiting for
 your safe return.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 Got any lens? I can exchange
 them for cash.
 [ENDBLOCK]
-Lens Merchant
+Lens Shopkeeper
 [ENDBLOCK]
 Got any lens? I can exchange
 them for cash.
@@ -289,9 +289,9 @@ ingredients.
 the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
-Exchange for 1
-Exchange all （<TAG_077> units）
-Don't exchange
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
 Exchange
 Don't exchange
