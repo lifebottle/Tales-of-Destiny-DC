@@ -1351,7 +1351,7 @@ Line_3C3:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,ATWIGHT,COLOR_END,": Aspirate!"
+    .asciiz COLOR_START,ATWIGHT,COLOR_END,": Engulf them!"
     .align 4
 
 ; Surviving Hollin
@@ -1406,7 +1406,7 @@ Line_080:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,RUTEE,COLOR_END,": Consume!"
+    .asciiz COLOR_START,RUTEE,COLOR_END,": Take this!"
     .align 4
 
 ; Celestial Earth
@@ -1568,7 +1568,7 @@ Line_13E:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,PHILIA,COLOR_END,": O wicked heart, be cleansed by Atamoni's judgement!"
+    .asciiz COLOR_START,PHILIA,COLOR_END,": Divine judgement for an evil soul!"
     .align 4
 
 Table_13F:
@@ -1996,7 +1996,7 @@ Line_1ED_1:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,LEON,COLOR_END,": Look at this filth!"
+    .asciiz COLOR_START,LEON,COLOR_END,": Time to be rid of this filth!"
     .align 4
 
 Table_1EE:
@@ -2466,7 +2466,7 @@ Line_40C:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,IGTENOS,COLOR_END,": An endless barrage!"
+    .asciiz COLOR_START,IGTENOS,COLOR_END,": Let's finish this!"
     .align 4
 
 ; 153
@@ -3716,7 +3716,7 @@ Line_33B:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,LILITH,COLOR_END,": Are you dumb?"
+    .asciiz COLOR_START,LILITH,COLOR_END,": What am I to do with you!?"
     .align 4
 
 Table_32C:
@@ -4367,7 +4367,7 @@ Line_177_VQ:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,WOODROW,COLOR_END,": I have a reason to fight! I won't lose!"
+    .asciiz COLOR_START,WOODROW,COLOR_END,": There's a reason why I won't lose!"
     .align 4
 Line_177_BC:
     .halfword BLAST_CALIBER_QUOTE
