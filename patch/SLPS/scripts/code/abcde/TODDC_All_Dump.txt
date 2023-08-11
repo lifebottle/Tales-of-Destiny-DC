@@ -524,7 +524,7 @@ Ultimate Test[END]
 
 //Text $19A290
 #WRITE(ptr,$D882C)
-Searching for Berselium[END]
+Search for Berselium[END]
 
 
 //Text $19A278
@@ -734,12 +734,12 @@ I will lend you my power.[END]
 But you must trust me.[END]
 
 
-#JMP($19AC90)
 //Text $19AD28
 #WRITE(ptr,$180C5C)
 Now, grab on tightly...[END]
 
 
+#JMP($19AC90)
 //Text $19AD08
 #WRITE(ptr,$180C6C)
 ...and call out my name![END]
@@ -16203,9 +16203,8 @@ One's best traveling companion.[END]
 
 //Text $1BA120
 #WRITE(ptr,$191DCC)
-Strap with a vegetable and ham[LINE]
-sandwich. Can be easily eaten[LINE]
-anywhere.[END]
+Strap with a vegetable and ham sandwich[LINE]
+Can be easily eaten anywhere.[END]
 
 
 //Text $1BA0C8
@@ -16215,9 +16214,9 @@ anywhere.[END]
 
 //Text $1BA068
 #WRITE(ptr,$191DFC)
-Strap with a Hamburger. A juicy[LINE]
-beef patty between two buns...[LINE]
-Very filling![END]
+Strap with a Hamburger.[LINE]
+A juicy beef patty between[LINE]
+two buns... Very filling![END]
 
 
 //Text $1BA020
@@ -16227,9 +16226,9 @@ Very filling![END]
 
 //Text $1B9FC0
 #WRITE(ptr,$191E2C)
-Strap with a Hotdog. Hot sausage[LINE]
-in a lengthwise-cut long bun.[LINE]
-[END]
+Strap with a Hotdog.[LINE]
+Hot sausage in a lengthwise-cut[LINE]
+long bun.[END]
 
 
 //Text $1B9F88
@@ -16239,9 +16238,9 @@ in a lengthwise-cut long bun.[LINE]
 
 //Text $1B9F30
 #WRITE(ptr,$191E5C)
-Strap with a Burrito. Rice, meat,[LINE]
-beans, and vegetables wrapped[LINE]
-in a tortilla.[END]
+Strap with a Burrito.[LINE]
+Rice, meat beans, and, vegetables[LINE]
+wrapped in a tortilla.[END]
 
 
 //Text $1B9EF8
@@ -16251,9 +16250,9 @@ in a tortilla.[END]
 
 //Text $1B9EA0
 #WRITE(ptr,$191E8C)
-Strap with a Kebab. Slowly and[LINE]
-carefully roasted skewered[LINE]
-meat.[END]
+Strap with a Kebab.[LINE]
+Slowly and carefully roasted[LINE]
+meat on a skewer.[END]
 
 
 //Text $1B9E68
@@ -16263,9 +16262,9 @@ meat.[END]
 
 //Text $1B9E10
 #WRITE(ptr,$191EBC)
-Strap with an Inarizushi. Sushi with[LINE]
-sweet boiled, deep-fried, vinegared[LINE]
-tofu. Popular with children.[END]
+Strap with an Inarizushi.[LINE]
+Sushi with sweet boiled, deep-fried, tofu[LINE]
+in vinegar. Popular with children.[END]
 
 
 //Text $1B9DD8
@@ -16287,8 +16286,8 @@ Easy to eat.[END]
 
 //Text $1B9CF8
 #WRITE(ptr,$191F1C)
-Strap with an Ochazuke. Rice with[LINE]
-flavored tea-based broth. Gulped[LINE]
+Strap with an Ochazuke.[LINE]
+Rice with flavored tea-based broth. Gulped[LINE]
 down with a slurping sound.[END]
 
 
@@ -16299,9 +16298,9 @@ down with a slurping sound.[END]
 
 //Text $1B9C60
 #WRITE(ptr,$191F4C)
-Strap with Fried Rice. Rice fried[LINE]
-in oil with meat and vegetables.[LINE]
-Simple but filling.[END]
+Strap with Fried Rice.[LINE]
+Rice fried in oil with meat and[LINE]
+vegetables. Simple but filling.[END]
 
 
 //Text $1B9C20
@@ -16311,9 +16310,9 @@ Simple but filling.[END]
 
 //Text $1B9BC0
 #WRITE(ptr,$191F7C)
-Strap with Omelette Rice. Ketchuppy[LINE]
-Rice folded in an Omelette. A favorite[LINE]
-of children.[END]
+Strap with Omelette Rice.[LINE]
+Ketchuppy rice folded in an Omelette.[LINE]
+A favorite of children.[END]
 
 
 //Text $1B9B78
@@ -16323,9 +16322,9 @@ of children.[END]
 
 //Text $1B9B18
 #WRITE(ptr,$191FAC)
-Strap with Curry Rice. Made with[LINE]
-apple and honey. Sweet but slightly[LINE]
-spicy. Tastes like home.[END]
+Strap with Curry Rice.[LINE]
+Made with apple and honey. Sweet but[LINE]
+slightly spicy. Tastes like home.[END]
 
 
 //Text $1B9AE0
@@ -16335,8 +16334,8 @@ spicy. Tastes like home.[END]
 
 //Text $1B9A78
 #WRITE(ptr,$191FDC)
-Strap with Minced Meat Omelette. A fusion[LINE]
-between Minced Meat Rice and Omelette[LINE]
+Strap with Minced Meat Omelette.[LINE]
+A mix of Minced Meat Rice and Omelette[LINE]
 Rice. Voluminous and extravagant in taste.[END]
 
 
@@ -16347,9 +16346,9 @@ Rice. Voluminous and extravagant in taste.[END]
 
 //Text $1B99E0
 #WRITE(ptr,$19200C)
-Strap with a Paella. Contains rice,[LINE]
-meat, and seafood, stewed with[LINE]
-olive oil and saffron.[END]
+Strap with a Paella.[LINE]
+Contains rice, meat, and seafood,[LINE]
+stewed with olive oil and saffron.[END]
 
 
 //Text $1B99A0
@@ -16371,9 +16370,9 @@ rib. Packed with stamina.[END]
 
 //Text $1B98A8
 #WRITE(ptr,$19206C)
-Strap with a Muffin. Small, round, and [LINE]
-puffy sweet pastry. The one stuffed with [LINE]
-fresh cream is recommended.[END]
+Strap with a Muffin.[LINE]
+Small, round, and puffy sweet pastry. The one[LINE]
+stuffed with fresh cream is recommended.[END]
 
 
 //Text $1B9870
@@ -16383,9 +16382,9 @@ fresh cream is recommended.[END]
 
 //Text $1B9820
 #WRITE(ptr,$19209C)
-Strap with Kimchi. Those who can't [LINE]
-handle spicy stuff be cautious. Has[LINE]
-a stimulating smell and taste.[END]
+Strap with Kimchi.[LINE]
+Those who can't handle spice be cautious.[LINE]
+Has a stimulating smell and taste.[END]
 
 
 //Text $1B97E0
@@ -16395,9 +16394,9 @@ a stimulating smell and taste.[END]
 
 //Text $1B9788
 #WRITE(ptr,$1920CC)
-Strap with a Meat Bun. Fills the mouth[LINE]
-with meat juices when bit into. The sort[LINE]
-of stuff one wants to eat on cold days.[END]
+Strap with a Meat Bun.[LINE]
+Biting into it releases meat juices into the mouth.[LINE]
+The sort of stuff one wants to eat on cold days.[END]
 
 
 //Text $1B9750
@@ -16407,9 +16406,9 @@ of stuff one wants to eat on cold days.[END]
 
 //Text $1B96F0
 #WRITE(ptr,$1920FC)
-Strap with Loco Moco. Rice topped[LINE]
-with steak and a sunny-side up[LINE]
-egg. Simple, but delicious.[END]
+Strap with Loco Moco.[LINE]
+Rice topped with steak and a sunny-side[LINE]
+up egg. Simple, but delicious.[END]
 
 
 //Text $1B96B8
@@ -16419,9 +16418,9 @@ egg. Simple, but delicious.[END]
 
 //Text $1B9660
 #WRITE(ptr,$19212C)
-Strap with a Beef Bowl. Rice bowl[LINE]
-topped with stewed meat and green[LINE]
-onions. Unforgettable taste.[END]
+Strap with a Beef Bowl.[LINE]
+Rice bowl topped with stewed meat and[LINE]
+green onions. Unforgettable taste.[END]
 
 
 //Text $1B9628
@@ -16431,9 +16430,9 @@ onions. Unforgettable taste.[END]
 
 //Text $1B95D0
 #WRITE(ptr,$19215C)
-Strap with an Oyakodon. Rice topped[LINE]
-with stewed chicken and egg in a bowl.[LINE]
-Please eat it with rice.[END]
+Strap with an Oyakodon.[LINE]
+Rice topped with stewed chicken and[LINE]
+egg in a bowl. Please eat it with rice.[END]
 
 
 //Text $1B9598
@@ -16443,9 +16442,9 @@ Please eat it with rice.[END]
 
 //Text $1B9538
 #WRITE(ptr,$19218C)
-Strap with a Seafood Bowl. Rice topped[LINE]
-with fresh seafood. Its ingredients change[LINE]
-with the seasons. A luxurious dish.[END]
+Strap with a Seafood Bowl.[LINE]
+Rice topped with fresh seafood. Its ingredients[LINE]
+change with the seasons. A luxurious dish.[END]
 
 
 //Text $1B94F8
@@ -16455,8 +16454,8 @@ with the seasons. A luxurious dish.[END]
 
 //Text $1B9490
 #WRITE(ptr,$1921BC)
-Strap with Clam Chowder. Soup with[LINE]
-simmered clams, bacon, and various[LINE]
+Strap with Clam Chowder.[LINE]
+Soup with simmered clams, bacon, and mixed[LINE]
 vegetables. Wonderful on cold days.[END]
 
 
@@ -16467,9 +16466,9 @@ vegetables. Wonderful on cold days.[END]
 
 //Text $1B93F8
 #WRITE(ptr,$1921EC)
-Strap with a Risotto. Rice, meat,[LINE]
-fish, and mushrooms stir-fried[LINE]
-in oil.[END]
+Strap with a Risotto.[LINE]
+Rice, meat, fish, and mushrooms[LINE]
+stir-fried in oil.[END]
 
 
 //Text $1B93B0
@@ -16479,8 +16478,8 @@ in oil.[END]
 
 //Text $1B9348
 #WRITE(ptr,$19221C)
-Strap with Beef Stroganoff. Beef[LINE]
-stewed in sour cream sauce. Has[LINE]
+Strap with Beef Stroganoff.[LINE]
+Beef stewed in sour cream sauce. Has[LINE]
 an extravagant and luxurious flavor.[END]
 
 
@@ -16491,9 +16490,9 @@ an extravagant and luxurious flavor.[END]
 
 //Text $1B92A8
 #WRITE(ptr,$19224C)
-Strap with Meat Sauce. Packed[LINE]
-with onion and ground meant.[LINE]
-Beware of splashing.[END]
+Strap with Meat Sauce.[LINE]
+Packed with onion and ground[LINE]
+meat. Beware of splashing.[END]
 
 
 //Text $1B9268
@@ -16503,9 +16502,9 @@ Beware of splashing.[END]
 
 //Text $1B9208
 #WRITE(ptr,$19227C)
-Strap with Gratin. A plethora of ingredients[LINE]
-bathed in cheese. The smell of scorched[LINE]
-cheese wets one's appetite.[END]
+Strap with Gratin.[LINE]
+A plethora of ingredients bathed in cheese. The smell[LINE]
+of scorched cheese wets one's appetite.[END]
 
 
 //Text $1B91D0
@@ -16515,8 +16514,8 @@ cheese wets one's appetite.[END]
 
 //Text $1B9178
 #WRITE(ptr,$1922AC)
-Strap with Spaghetti Gratin. Allows[LINE]
-one to enjoy Spaghetti and Gratin [LINE]
+Strap with Spaghetti Gratin.[LINE]
+Allows one to enjoy Spaghetti and Gratin[LINE]
 at the same time. Give it a try.[END]
 
 
@@ -16539,8 +16538,8 @@ kneaded to deliciousness.[END]
 
 //Text $1B9040
 #WRITE(ptr,$19230C)
-Strap with a Steak. Just a grilled[LINE]
-slab of meat. One can feel the[LINE]
+Strap with a Steak.[LINE]
+Grilled slab of meat. One can feel the[LINE]
 splendor of meat coming off it.[END]
 
 
@@ -16551,9 +16550,9 @@ splendor of meat coming off it.[END]
 
 //Text $1B8F98
 #WRITE(ptr,$19233C)
-Strap with an Okonomiyaki. Fried batter[LINE]
-garnished to one's preferences. Top it[LINE]
-with Nori and and bonito slices.[END]
+Strap with an Okonomiyaki.[LINE]
+Fried batter garnished to one's preferences.[LINE]
+Top it with Nori and bonito slices.[END]
 
 
 //Text $1B8F60
@@ -16563,9 +16562,9 @@ with Nori and and bonito slices.[END]
 
 //Text $1B8F00
 #WRITE(ptr,$19236C)
-Strap with Sukiyaki.Simmered[LINE]
-sweet-salty beef in an iron pot.[LINE]
-Also goes well with rice.[END]
+Strap with Sukiyaki.[LINE]
+Simmered sweet-salty beef in an[LINE]
+iron pot. Also goes well with rice.[END]
 
 
 //Text $1B8EC8
@@ -16575,9 +16574,9 @@ Also goes well with rice.[END]
 
 //Text $1B8E70
 #WRITE(ptr,$19239C)
-Strap with Sashimi. Fresh thinly[LINE]
-sliced seafood. Irresistibly tender.[LINE]
-[END]
+Strap with Sashimi.[LINE]
+Fresh thinly sliced seafood.[LINE]
+Irresistibly tender.[END]
 
 
 //Text $1B8E30
@@ -16599,9 +16598,9 @@ seafood. Still alive.[END]
 
 //Text $1B8D28
 #WRITE(ptr,$1923FC)
-Strap with a Fruit Parfait. Topped[LINE]
-with fruits, cream, and ice cream.[LINE]
-Deliciously sweet.[END]
+Strap with a Fruit Parfait.[LINE]
+Topped with fruits, cream, and[LINE]
+ice cream. Deliciously sweet.[END]
 
 
 //Text $1B8CE8
@@ -16611,9 +16610,9 @@ Deliciously sweet.[END]
 
 //Text $1B8C80
 #WRITE(ptr,$19242C)
-Strap with Fruit Cheese. Cheese[LINE]
-mixed with milk and mashed fruit.[LINE]
-Perfect for a snack![END]
+Strap with Fruit Cheese.[LINE]
+Cheese mixed with milk and mashed[LINE]
+fruit. Perfect for a snack![END]
 
 
 //Text $1B8C38
@@ -16623,8 +16622,8 @@ Perfect for a snack![END]
 
 //Text $1B8BD8
 #WRITE(ptr,$19245C)
-Strap with Fruit Tofu. A mix[LINE]
-of tofu with fruits. Has an [LINE]
+Strap with Fruit Tofu.[LINE]
+A mix of tofu with fruits. Has an [LINE]
 indescribable texture.[END]
 
 
@@ -16635,8 +16634,8 @@ indescribable texture.[END]
 
 //Text $1B8B48
 #WRITE(ptr,$19248C)
-Strap with a Hot Pot. Meat hot pot.[LINE]
-Filled with meat stock. Leftover[LINE]
+Strap with a Hot Pot.[LINE]
+Hot pot filled with meat stock. Leftover[LINE]
 soup can be eaten with Udon.[END]
 
 
@@ -16647,9 +16646,9 @@ soup can be eaten with Udon.[END]
 
 //Text $1B8AB8
 #WRITE(ptr,$1924BC)
-Strap with a Fish Hot Pot. Filled[LINE]
-with fish stock. Leftover soup can[LINE]
-be eaten with Rice.[END]
+Strap with a Fish Hot Pot.[LINE]
+Hot pot filled with fish stock. Leftover[LINE]
+soup can be eaten with Rice.[END]
 
 
 //Text $1B8A78
@@ -16659,8 +16658,9 @@ be eaten with Rice.[END]
 
 //Text $1B8A30
 #WRITE(ptr,$1924EC)
-Strap with a Sunfish Skewer. Because[LINE]
-eating delicious stuff is important.[END]
+Strap with a Sunfish Skewer.[LINE]
+Because eating delicious[LINE]
+stuff is important.[END]
 
 
 //Text $1B89F0
@@ -16670,9 +16670,9 @@ eating delicious stuff is important.[END]
 
 //Text $1B8988
 #WRITE(ptr,$19251C)
-Strap with Miso Oden. The sweetness[LINE]
-of fine miso sauce spreads in one's[LINE]
-mouth. Goes well with sake.[END]
+Strap with Miso Oden.[LINE]
+The sweetness of fine miso sauce spreads[LINE]
+in one's mouth. Goes well with sake.[END]
 
 
 //Text $1B8948
@@ -16682,9 +16682,9 @@ mouth. Goes well with sake.[END]
 
 //Text $1B88E8
 #WRITE(ptr,$19254C)
-Strap with Mabo Curry. A secret handed[LINE]
-down by the military. The utmost harmony[LINE]
-between pungent and spicy![END]
+Strap with Mabo Curry.[LINE]
+A secret handed down by the military. The utmost[LINE]
+harmony between pungent and spicy![END]
 
 
 //Text $1B88A8
@@ -16706,8 +16706,8 @@ Tempers one's jaw.[END]
 
 //Text $1B87B8
 #WRITE(ptr,$1925AC)
-Strap with a Dry Sandwich. Eat it[LINE]
-as quickly as possible. Getting it[LINE]
+Strap with a Dry Sandwich.[LINE]
+Eat it as quickly as possible. Getting it[LINE]
 stuck in your throat is inevitable.[END]
 
 
@@ -16718,9 +16718,9 @@ stuck in your throat is inevitable.[END]
 
 //Text $1B8710
 #WRITE(ptr,$1925DC)
-Strap with a Squashed Burger. Not[LINE]
-much different from a sat-on burger.[LINE]
-Easy to eat.[END]
+Strap with a Squashed Burger.[LINE]
+Not much different from a[LINE]
+sat-on burger. Easy to eat.[END]
 
 
 //Text $1B86D8
@@ -16766,9 +16766,9 @@ you won't hurt your stomach....[END]
 
 //Text $1B84B8
 #WRITE(ptr,$19269C)
-Strap with a Dark Bowl. Dreaded Bowl[LINE]
-filled with mystery ingredients. Some[LINE]
-days it's good, some days it's bad.[END]
+Strap with a Dark Bowl.[LINE]
+Dreaded bowl filled with mystery ingredients.[LINE]
+Some days it's good, some days it's bad.[END]
 
 
 //Text $1B8480
@@ -16778,9 +16778,9 @@ days it's good, some days it's bad.[END]
 
 //Text $1B8430
 #WRITE(ptr,$1926CC)
-Strap with a Dark Pot. No one[LINE]
-knows what's inside it. Better[LINE]
-eaten in the dark.[END]
+Strap with a Dark Pot.[LINE]
+No one knows what's inside it.[LINE]
+Better eaten in the dark.[END]
 
 
 //Text $1BA1B8
@@ -18538,12 +18538,12 @@ Emergency Exit[END]
 Emergency Exit[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB228
 #WRITE(ptr,$193A08)
 Mealy Primrose[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB220
 #WRITE(ptr,$193A40)
 Snow Labyrinth[END]
@@ -19623,6 +19623,7 @@ straight home. It's after school,[END]
 #WRITE(ptr,$194830)
 Cage-free Bird[END]
 
+
 //POINTER #99 @ $194834 - STRING #99 @ $1BE108
 #WRITE(ptr,$194834)
 Wings that found freedom in the sky.[LINE]
@@ -19644,6 +19645,7 @@ Not many may claim this title.[LINE]
 //POINTER #102 @ $194840 - STRING #102 @ $1BE088
 #WRITE(ptr,$194840)
 Divine Wife[END]
+
 
 //POINTER #101 @ $19483C - STRING #101 @ $1BE090
 #WRITE(ptr,$19483C)
@@ -20496,7 +20498,8 @@ is the key to any business enterprise.[END]
 
 //POINTER #254 @ $194AA0 - STRING #254 @ $1BC4C0
 #WRITE(ptr,$194AA0)
-Champion[END]
+チャンピオン[END]
+
 
 //POINTER #255 @ $194AA4 - STRING #255 @ $1BC470
 #WRITE(ptr,$194AA4)
@@ -20578,6 +20581,7 @@ You are everyone's star.[END]
 #WRITE(ptr,$194AD8)
 Dashing Macho[END]
 
+
 //POINTER #269 @ $194ADC - STRING #269 @ $1BC208
 #WRITE(ptr,$194ADC)
 Overdeveloped muscles can be an issue.[LINE]
@@ -20588,6 +20592,7 @@ They are too heavy and weigh you down.[END]
 #WRITE(ptr,$194AE0)
 Denied Club Member[END]
 
+
 //POINTER #271 @ $194AE4 - STRING #271 @ $1BC180
 #WRITE(ptr,$194AE4)
 A club created out of an intellectual[LINE]
@@ -20597,6 +20602,7 @@ Don't say it... I'm NOT ALLOWED!?[END]
 //POINTER #272 @ $194AE8 - STRING #272 @ $1BEB30
 #WRITE(ptr,$194AE8)
 NatuRanger[END]
+
 
 //POINTER #273 @ $194AEC - STRING #273 @ $1BEAE8
 #WRITE(ptr,$194AEC)
@@ -20609,6 +20615,7 @@ on adventurers who heed this creed.[END]
 #WRITE(ptr,$194AF0)
 Muscle Officer[END]
 
+
 //POINTER #275 @ $194AF4 - STRING #275 @ $1BC110
 #WRITE(ptr,$194AF4)
 Mighty Hero [Kongman] Khang (39).[LINE]
@@ -20619,6 +20626,7 @@ Mischievous, despite being the oldest.[END]
 //POINTER #276 @ $194AF8 - STRING #276 @ $1BC100
 #WRITE(ptr,$194AF8)
 Red Lobster[END]
+
 
 //POINTER #277 @ $194AFC - STRING #277 @ $1BC0C0
 #WRITE(ptr,$194AFC)
@@ -20631,6 +20639,7 @@ Clearly, the only explanation...[END]
 #WRITE(ptr,$194B00)
 Hercules Arms[END]
 
+
 //POINTER #279 @ $194B04 - STRING #279 @ $1BC040
 #WRITE(ptr,$194B04)
 Namesake from a god of many legends.[LINE]
@@ -20641,6 +20650,7 @@ that he is the strongest, revered as a god.[END]
 //POINTER #280 @ $194B08 - STRING #280 @ $1BC028
 #WRITE(ptr,$194B08)
 Official Merchant[END]
+
 
 //POINTER #281 @ $194B0C - STRING #281 @ $1BBFE0
 #WRITE(ptr,$194B0C)

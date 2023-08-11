@@ -2221,7 +2221,7 @@ Finding Berselium[END]
 
 //Text $13CB8
 #WRITE(ptr,$5B5C)
-Searching for Berselium[END]
+Search for Berselium[END]
 
 
 //Text $13CA8
@@ -2271,27 +2271,27 @@ She Never Gives Up[END]
 
 //Text $13BB8
 #WRITE(ptr,$5B84)
-A Worldwide Search for Lens[END]
+Collect Lens Across the World[END]
 
 
 //Text $13B98
 #WRITE(ptr,$5B88)
-Seeking Lens in Neustadt[END]
+Collecting Lens in Neustadt[END]
 
 
 //Text $13B78
 #WRITE(ptr,$5B8C)
-Seeking Lens in Heidelberg[END]
+Collecting Lens in Heidelberg[END]
 
 
 //Text $13B58
 #WRITE(ptr,$5B90)
-Seeking Lens in Calviola[END]
+Collecting Lens in Calviola[END]
 
 
 //Text $13B38
 #WRITE(ptr,$5B94)
-Seeking Lens in Terazzi[END]
+Collecting Lens in Terazzi[END]
 
 
 //Text $13B18
