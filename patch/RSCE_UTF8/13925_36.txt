@@ -1,6 +1,7 @@
 ××××××空開始××××××
 [ENDBLOCK]
 <IGNORE>
+
 [ENDBLOCK]
 ××××××空終了××××××
 
@@ -27,6 +28,7 @@ cher_12r：民家へ行きますか？
 <TAG_007>行く
 そのまま
 
+[ENDBLOCK]
 Boy
 [ENDBLOCK]
 If you leave the city and
