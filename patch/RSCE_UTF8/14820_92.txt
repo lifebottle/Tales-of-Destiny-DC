@@ -425,7 +425,8 @@ Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Your Food Sack is now full.
+Your Food Sack
+is now full.
 
 [ENDBLOCK]
 Cyglorg
@@ -825,8 +826,8 @@ On second thought...
 Select
 [ENDBLOCK]
 <TAG_007>Are you sure?
-Yes...?
-No...?
+Yes
+No
 
 [ENDBLOCK]
 Notice

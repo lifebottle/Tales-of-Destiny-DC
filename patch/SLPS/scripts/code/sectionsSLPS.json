@@ -356,7 +356,7 @@
 		}]
 	},
 	{
-		"File":				"../../../PAK3/00016_0003.unknown.new",
+		"File":				"../../../DAT_FILES_PATCHED/00016_0003.unknown.new",
 		"PointerHeader":	"3D4080",
 		"BlockDesc":		"Skit Name",
 		"Sections":[

@@ -944,12 +944,12 @@ City Lady
 [ENDBLOCK]
 Give him this gift, okay~
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 I wonder what kind of girl she is...?
 I hope she's the sexy type.
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Oh, my gosh!
 Is that you!?
@@ -967,13 +967,13 @@ met this person before.
 [ENDBLOCK]
 Um, do I know you?
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Aww, I was wrong...
 Sorry, I thought you
 were someone else.
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Oh, could it be!?
 [ENDBLOCK]
@@ -1006,7 +1006,7 @@ time we've met, though.
 So he mistook
 <Philia> for you.
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 So, let's go somewhere
 to relax, shall we?
@@ -1190,7 +1190,7 @@ It is a resting place for residents.
 [ENDBLOCK]
 Dummy Store
 [ENDBLOCK]
-<TAG_007>Food Shop: Manpuku-tei
+<TAG_007>Food Shop: Packed Pavilion
 Toolmaker: Give and Take
 Weapon Shop: Arcadia
 Armor Shop: Deferent
@@ -1274,12 +1274,12 @@ Gentleman
 Mighty!	Mighty! Our
 hero! Save us!
 [ENDBLOCK]
-Lens Shop
+Lens Shopkeeper
 [ENDBLOCK]
 Welcome! We allow you
 to redeem your lens.
 [ENDBLOCK]
-Lens Shop
+Lens Shopkeeper
 [ENDBLOCK]
 Hahh... HQ ordered
 me to stay put...
@@ -1567,12 +1567,12 @@ ingredients.
 the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
-Replace One
-Replace All (<TAG_077> Pieces)
-Do Not Exchange
+Exchange One
+Exchange All (<TAG_077>x)
+Cancel
 [ENDBLOCK]
 Exchange
-Do Not Exchange
+Don't Exchange
 [ENDBLOCK]
 Select
 [ENDBLOCK]
@@ -1648,7 +1648,7 @@ think such shameful things!
 [ENDBLOCK]
 I-I'm sorry...
 [ENDBLOCK]
-Frantic Man
+Man
 [ENDBLOCK]
 This is terrible! Someone released
 monsters into the arena!

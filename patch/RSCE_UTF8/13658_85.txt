@@ -429,7 +429,8 @@ Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Your Food Sack is now full.
+Your Food Sack
+is now full.
 
 [ENDBLOCK]
 Cyglorg
@@ -1071,12 +1072,12 @@ How can I be of service?
 <TAG_054>
 
 [ENDBLOCK]
-Worker
+Oberon Employee
 [ENDBLOCK]
 Need anything?
 
 [ENDBLOCK]
-Worker
+Oberon Employee
 [ENDBLOCK]
 I'm here if you need me.
 
