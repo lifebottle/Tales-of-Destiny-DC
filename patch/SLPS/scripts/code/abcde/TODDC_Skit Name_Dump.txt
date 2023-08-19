@@ -3061,7 +3061,7 @@ Why in a Place Like That?[END]
 
 //Text $13030
 #WRITE(ptr,$5DFC)
-[Marian]'s Lecture..[END]
+[Marian]'s Lecture[END]
 
 
 //Text $13020
@@ -3076,7 +3076,7 @@ Three Vs One[END]
 
 //Text $12FF0
 #WRITE(ptr,$5E08)
-Not [Dymlos] and [Atwight].[END]
+Not [Dymlos] and [Atwight][END]
 
 
 //Text $12FE0
