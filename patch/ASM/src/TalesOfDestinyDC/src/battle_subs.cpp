@@ -207,6 +207,7 @@ extern "C"
 		{
 			Check_Frame_Count(&text_container[i]);
 			Check_Sound_Done(&text_container[i]);
+			
 		}
 		Process_Text_Queue();
 		for (int i = 0; i < NUM_TEXT_CONTAINERS; i++)
@@ -349,25 +350,28 @@ extern "C"
 	void Check_Sound_Done(Text_Container* txt)
 	{
 		// make sure not paused
-		if (Pause_Flag == 0)
+		if (txt->Sound != 0)
 		{
-			// check if sound done
-			// if yes, process post frames:
-			// - current_post_frame >= extra_frames -- done
-			// - increment current_post_frame
-			if (!Is_Sound_Playing(txt->Sound, txt->Battle_Voice_Id))
+			if (Pause_Flag == 0)
 			{
-				if (txt->Current_Post_Frame >= txt->Extra_Frames)
+				// check if sound done
+				// if yes, process post frames:
+				// - current_post_frame >= extra_frames -- done
+				// - increment current_post_frame
+				if (!Is_Sound_Playing(txt->Sound, txt->Battle_Voice_Id))
 				{
-					// done
-					Clear_Text_Queue(txt->Battle_Voice_Id);
-					Clear_Text_Container(txt);
-					return;
-				}
-				else
-				{
-					txt->Current_Post_Frame++;
-					//Fade_Text(txt);
+					if (txt->Current_Post_Frame >= txt->Extra_Frames)
+					{
+						// done
+						Clear_Text_Queue(txt->Battle_Voice_Id);
+						Clear_Text_Container(txt);
+						return;
+					}
+					else
+					{
+						txt->Current_Post_Frame++;
+						//Fade_Text(txt);
+					}
 				}
 			}
 		}
@@ -375,15 +379,19 @@ extern "C"
 
 	bool Is_Sound_Playing(Sound_Queue* sound, u32 voice_id)
 	{
-		if (sound->current_voice_id == voice_id)
+		if (sound != 0)
 		{
-			// YES
-			return true;
+			if (sound->current_voice_id == voice_id)
+			{
+				// YES
+				return true;
+			}
+			else
+			{
+				return false;
+			}
 		}
-		else
-		{
-			return false;
-		}
+		return false;
 	}
 
 	bool Is_Sound_Queued(Sound_Queue* sound, u32 voice_id)
