@@ -102,8 +102,8 @@ extern "C"
 			}
 			else if (i == 6)
 			{
-				text_container[i].Param = &TextParamA;
-				text_container[i].Width = &TextWidthA;
+				text_container[i].Param = &TextParamB;
+				text_container[i].Width = &TextWidthB;
 				text_container[i].ALLOWED_TYPE = VICTORY_QUOTE;
 			}
 		}
