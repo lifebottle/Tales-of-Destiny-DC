@@ -12653,9 +12653,9 @@ Looks sharp.[END]
 
 //Text $1B29A0
 #WRITE(ptr,$18DED4)
-An oddly shaped sword and comfy in[LINE]
-the hand. It was kept on the Draconis.[LINE]
-A powerful aura can be felt.[END]
+An oddly shaped sword and comfy in the hand.[LINE]
+It was kept on the Draconis.[LINE]
+A powerful aura can be felt[END]
 
 
 //Text $1B2988
@@ -15166,7 +15166,7 @@ for apprentice swordsmen. [END]
 
 //Text $1B8388
 #WRITE(ptr,$191228)
-[Sign_1]Bronze Gauntlets[END]
+[Sign_1]Bronze Gauntlet[END]
 
 
 //Text $1B8338
@@ -15232,7 +15232,7 @@ Gauntlets."[END]
 
 //Text $1B8140
 #WRITE(ptr,$1912E8)
-[Sign_1]Mithril Gauntlets[END]
+[Sign_1]Mithril Gauntlet[END]
 
 
 //Text $1B8100
@@ -19317,8 +19317,9 @@ NatuRanger[END]
 //POINTER #45 @ $19475C - STRING #45 @ $1BEAE8
 #WRITE(ptr,$19475C)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
+
 
 //POINTER #46 @ $194760 - STRING #46 @ $1BEAD8
 #WRITE(ptr,$194760)
@@ -19328,8 +19329,9 @@ Lienean Official[END]
 //POINTER #47 @ $194764 - STRING #47 @ $1BEA78
 #WRITE(ptr,$194764)
 [Stahn] Aileron (19), from Lienea.[LINE]
-172cm, 65kg.[LINE]
+172cm, 65kg[LINE]
 Master of the Swordian Dymlos.[END]
+
 
 //POINTER #48 @ $194768 - STRING #48 @ $1BEA68
 #WRITE(ptr,$194768)
@@ -19391,10 +19393,11 @@ Not a speck of lens remains.[END]
 #WRITE(ptr,$194790)
 Neat Sister[END]
 
-//POINTER #59 @ $194794 - STRING #59 @ $1BE810
-#WRITE(ptr,$194794)
-Your expression has changed, sister.[LINE]
-I wonder if something important happened?[END]
+//POINTER #231 @ $194A44 - STRING #231 @ $1BC898
+#WRITE(ptr,$194A44)
+A clown who seems to be completely clueless.[LINE]
+What secrets does such a person hold?[LINE] 
+[END]
 
 
 //POINTER #60 @ $194798 - STRING #60 @ $1BE7F8
@@ -19453,7 +19456,8 @@ Mother-like[END]
 #WRITE(ptr,$1947BC)
 A woman with an unrememberable[LINE]
 face who is still quite relatable. She[LINE]
-is a new excuse to covet Gald...[END]
+is a new excuse to covet Gald....[END]
+
 
 //POINTER #70 @ $1947C0 - STRING #70 @ $1BE610
 #WRITE(ptr,$1947C0)
@@ -19520,8 +19524,9 @@ Go-Home Club[END]
 //POINTER #81 @ $1947EC - STRING #81 @ $1BE428
 #WRITE(ptr,$1947EC)
 I mean, of course I'm going[LINE]
-straight home. It's after school.[LINE]
+straight home. It's after school,[LINE]
 [END]
+
 
 //POINTER #82 @ $1947F0 - STRING #82 @ $1BEB30
 #WRITE(ptr,$1947F0)
@@ -19530,8 +19535,9 @@ NatuRanger[END]
 //POINTER #83 @ $1947F4 - STRING #83 @ $1BEAE8
 #WRITE(ptr,$1947F4)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
+
 
 //POINTER #84 @ $1947F8 - STRING #84 @ $1BE418
 #WRITE(ptr,$1947F8)
@@ -19606,10 +19612,11 @@ a strong resolve dwells within.[END]
 Maiden’s Gaze[END]
 
 
-//POINTER #97 @ $19482C - STRING #97 @ $1BE170
-#WRITE(ptr,$19482C)
-Behind the glasses lie a maiden in love. [LINE]
-Those who see her eyes might be misled.[END]
+//POINTER #81 @ $1947EC - STRING #81 @ $1BE428
+#WRITE(ptr,$1947EC)
+I mean, of course I'm going[LINE]
+straight home. It's after school,[END]
+//[END]
 
 
 //POINTER #98 @ $194830 - STRING #98 @ $1BE158
@@ -19630,20 +19637,22 @@ Bomb Alchemist[END]
 
 //POINTER #101 @ $19483C - STRING #101 @ $1BE090
 #WRITE(ptr,$19483C)
-A chemist who concocts bombs.[LINE]
+A chemist who concots bombs.[LINE]
 Not many may claim this title.[LINE]
 [END]
+
 
 //POINTER #102 @ $194840 - STRING #102 @ $1BE088
 #WRITE(ptr,$194840)
 Divine Wife[END]
 
 
-/POINTER #103 @ $194844 - STRING #103 @ $1BE040
- #WRITE(ptr,$194844)
-As a priestess, she receives divine favor[LINE]
-through a divine marriage pact.[END]
+//POINTER #101 @ $19483C - STRING #101 @ $1BE090
+#WRITE(ptr,$19483C)
+A chemist who concots bombs.[LINE]
+Not many may claim this title.[END]
 //[END]
+
 
 //POINTER #104 @ $194848 - STRING #104 @ $1BE030
 #WRITE(ptr,$194848)
@@ -19653,7 +19662,8 @@ Secret Agent[END]
 #WRITE(ptr,$19484C)
 Agent contracted for a Class A mission.[LINE]
 Due to the gravity of the assignment,[LINE]
-she sometimes unleashes a hidden power.[END]
+she somtimes unleases a hidden power.[END]
+
 
 //POINTER #106 @ $194850 - STRING #106 @ $1BDFC8
 #WRITE(ptr,$194850)
@@ -19673,8 +19683,9 @@ Trivia Queen[END]
 //POINTER #109 @ $19485C - STRING #109 @ $1BDF20
 #WRITE(ptr,$19485C)
 She claims to be the best at[LINE]
-recalling miscellaneous facts.[END]
+recalling miscellanoues facts.[END]
 //[END]
+
 
 //POINTER #110 @ $194860 - STRING #110 @ $1BDF10
 #WRITE(ptr,$194860)
@@ -19683,8 +19694,9 @@ Dashing Priestess[END]
 //POINTER #111 @ $194864 - STRING #111 @ $1BDEC8
 #WRITE(ptr,$194864)
 The Dashing Priestess, an alias[LINE]
-bestowed on those who use divine[LINE]
+bestowerd on those who use divine[LINE]
 power to traverse the realm.[END]
+
 
 //POINTER #112 @ $194868 - STRING #112 @ $1BDEB0
 #WRITE(ptr,$194868)
@@ -19694,7 +19706,7 @@ Quiz Club Director[END]
 #WRITE(ptr,$19486C)
 A club created out of an intellectual desire to[LINE]
 acquire all knowledge. She reigns supreme[LINE]
-as the head of the women's division.[END]
+as the head ofthe women's division.[END]
 
 //POINTER #114 @ $194870 - STRING #114 @ $1BEB30
 #WRITE(ptr,$194870)
@@ -19703,8 +19715,9 @@ NatuRanger[END]
 //POINTER #115 @ $194874 - STRING #115 @ $1BEAE8
 #WRITE(ptr,$194874)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
+
 
 //POINTER #116 @ $194878 - STRING #116 @ $1BDE28
 #WRITE(ptr,$194878)
@@ -19713,7 +19726,7 @@ Straylize Representative[END]
 //POINTER #117 @ $19487C - STRING #117 @ $1BDDD0
 #WRITE(ptr,$19487C)
 [Philia] Felice, priestess (19).[LINE]
-162cm, <$81>@45kg.[LINE]
+162cm<$81>@45kg[LINE]
 Clemente's Swordian Master.[END]
 
 //POINTER #118 @ $194880 - STRING #118 @ $1BDDC0
@@ -19723,8 +19736,9 @@ Clouded Glasses[END]
 //POINTER #119 @ $194884 - STRING #119 @ $1BDD60
 #WRITE(ptr,$194884)
 I don't remove my glasses, even when I[LINE]
-take a bath. However, they fog up and I[LINE]
-can't see anything in front of me...[END]
+take a bath. However, they fog up and I.[LINE]
+can't see anything infront of me...[END]
+
 
 //POINTER #120 @ $194888 - STRING #120 @ $1BDD48
 #WRITE(ptr,$194888)
@@ -19758,7 +19772,8 @@ Sword and Bow Warrior[END]
 #WRITE(ptr,$19489C)
 A versatile warrior, adept at handling[LINE]
 the sword and bow. His combat prowess[LINE]
-leaves no weakness to be exploited.[END]
+leaves no weakness to be exploited[END]
+
 
 //POINTER #126 @ $1948A0 - STRING #126 @ $1BDC20
 #WRITE(ptr,$1948A0)
@@ -19768,8 +19783,9 @@ Isaac's Son[END]
 //POINTER #127 @ $1948A4 - STRING #127 @ $1BDBC8
 #WRITE(ptr,$1948A4)
 The Crown Prince of Phandaria.[LINE]
-He is a true symbol of the nation, boasting[LINE]
-military prowess and handsome features.[END]
+He is a true symbol of the nation,[LINE]
+boasting military prowess and handsome features.[END]
+
 
 //POINTER #128 @ $1948A8 - STRING #128 @ $1BDBB8
 #WRITE(ptr,$1948A8)
@@ -19859,8 +19875,8 @@ NatuRanger[END]
 //POINTER #143 @ $1948E4 - STRING #143 @ $1BEAE8
 #WRITE(ptr,$1948E4)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #144 @ $1948E8 - STRING #144 @ $1BD938
 #WRITE(ptr,$1948E8)
@@ -19869,7 +19885,7 @@ Celebrity Representative[END]
 //POINTER #145 @ $1948EC - STRING #145 @ $1BD8E0
 #WRITE(ptr,$1948EC)
 King [Woodrow] Kelvin (23).[LINE]
-181cm,<$81>@68kg.[LINE]
+181cm<$81>@68kg[LINE]
 Igtenos' Swordian Master.[END]
 
 //POINTER #146 @ $1948F0 - STRING #146 @ $1BD8C8
@@ -19916,6 +19932,7 @@ A swordsman who does not officially[LINE]
 fight in the King's army. He is trusted[LINE]
 equally by the crown and the people.[END]
 
+
 //POINTER #154 @ $194910 - STRING #154 @ $1BD708
 #WRITE(ptr,$194910)
 Sweet Boy[END]
@@ -19923,9 +19940,10 @@ Sweet Boy[END]
 
 //POINTER #155 @ $194914 - STRING #155 @ $1BD6B0
 #WRITE(ptr,$194914)
-He claims to despise sweets.[LINE]
+He claims to dispise sweets.[LINE]
 In reality, he has quite the sweet tooth.[LINE]
 A sweet secret only endured by men...[END]
+
 
 //POINTER #156 @ $194918 - STRING #156 @ $1BD698
 #WRITE(ptr,$194918)
@@ -20076,6 +20094,7 @@ Turning my axe into a frying pan,[LINE]
 today is the day we feast~[MUSIC][LINE]
 <$81>@Composed by <$81>@[Mary][END]
 
+
 //POINTER #182 @ $194980 - STRING #182 @ $1BD158
 #WRITE(ptr,$194980)
 Breaker[END]
@@ -20084,7 +20103,8 @@ Breaker[END]
 #WRITE(ptr,$194984)
 A being known as "The Breaker."[LINE]
 The enemy before you, the difficulties of life,[LINE]
-and even subtlety don't stand a chance![END]
+and even subtitley don't stand a chance![END]
+
 
 //POINTER #184 @ $194988 - STRING #184 @ $1BD0E0
 #WRITE(ptr,$194988)
@@ -20115,8 +20135,8 @@ NatuRanger[END]
 //POINTER #189 @ $19499C - STRING #189 @ $1BEAE8
 #WRITE(ptr,$19499C)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #190 @ $1949A0 - STRING #190 @ $1BCFF8
 #WRITE(ptr,$1949A0)
@@ -20159,6 +20179,7 @@ Combat Merchant[END]
 Each has his own business talent.[LINE]
 As a warrior, must I spend all day fighting and trading?[END]
 //[END]
+
 
 //POINTER #198 @ $1949C0 - STRING #198 @ $1BCE38
 #WRITE(ptr,$1949C0)
@@ -20247,9 +20268,10 @@ Dashing Kid[END]
 
 //POINTER #213 @ $1949FC - STRING #213 @ $1BCB98
 #WRITE(ptr,$1949FC)
-Taking full advantage of her light weight,[LINE]
+Taking full advantage of her light wieght,[LINE]
 she traverses any path with ease.[END]
 //[END]
+
 
 //POINTER #214 @ $194A00 - STRING #214 @ $1BCB80
 #WRITE(ptr,$194A00)
@@ -20268,8 +20290,8 @@ NatuRanger[END]
 //POINTER #217 @ $194A0C - STRING #217 @ $1BEAE8
 #WRITE(ptr,$194A0C)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #218 @ $194A10 - STRING #218 @ $1BCB08
 #WRITE(ptr,$194A10)
@@ -20427,8 +20449,8 @@ NatuRanger[END]
 //POINTER #245 @ $194A7C - STRING #245 @ $1BEAE8
 #WRITE(ptr,$194A7C)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
 
 //POINTER #246 @ $194A80 - STRING #246 @ $1BC688
 #WRITE(ptr,$194A80)
@@ -20476,7 +20498,7 @@ is the key to any business enterprise.[END]
 
 //POINTER #254 @ $194AA0 - STRING #254 @ $1BC4C0
 #WRITE(ptr,$194AA0)
-Champion[END]
+チャンピオン[END]
 
 
 //POINTER #255 @ $194AA4 - STRING #255 @ $1BC470
@@ -20494,8 +20516,9 @@ Topless Man[END]
 //POINTER #257 @ $194AAC - STRING #257 @ $1BC418
 #WRITE(ptr,$194AAC)
 Showing off his wonderful trained body,[LINE]
-withouth any regret (or embarrassment).[LINE]
+withough any regret (or embarrassment).[LINE]
 [END]
+
 
 //POINTER #258 @ $194AB0 - STRING #258 @ $1BC408
 #WRITE(ptr,$194AB0)
@@ -20540,7 +20563,7 @@ Man in Love[END]
 //POINTER #265 @ $194ACC - STRING #265 @ $1BC2D0
 #WRITE(ptr,$194ACC)
 He vows to devote his life to love[LINE]
-for the sake of a particular someone.[END]
+for the sake of a pariculare someone.[END]
 //[END]
 
 //POINTER #266 @ $194AD0 - STRING #266 @ $1BC2C0
@@ -20584,8 +20607,9 @@ NatuRanger[END]
 //POINTER #273 @ $194AEC - STRING #273 @ $1BEAE8
 #WRITE(ptr,$194AEC)
 Protect all nature and culture through[LINE]
-love. An honorable title bestowed on[LINE]
-adventurers who heed this creed.[END]
+love. An honorable title bestowed[LINE] 
+on adventurers who heed this creed.[END]
+
 
 //POINTER #274 @ $194AF0 - STRING #274 @ $1BC170
 #WRITE(ptr,$194AF0)
@@ -20619,8 +20643,9 @@ Hercules Arms[END]
 //POINTER #279 @ $194B04 - STRING #279 @ $1BC040
 #WRITE(ptr,$194B04)
 Namesake from a god of many legends.[LINE]
-His arms are for grasping glory and proof[LINE]
+His arms are for grasping glory and proof.[LINE]
 that he is the strongest, revered as a god.[END]
+
 
 //POINTER #280 @ $194B08 - STRING #280 @ $1BC028
 #WRITE(ptr,$194B08)
@@ -20630,8 +20655,9 @@ Official Merchant[END]
 //POINTER #281 @ $194B0C - STRING #281 @ $1BBFE0
 #WRITE(ptr,$194B0C)
 Each has their own business talent.[LINE]
-Taking advantage of his fame, planning[LINE]
-for [Kongman] merchandise has begun.[END]
+Taking advantage of his fame,[LINE]
+planning has begun [Kongman] merchandise.[END]
+
 
 //POINTER #282 @ $194B10 - STRING #282 @ $1BBFD0
 #WRITE(ptr,$194B10)
@@ -20706,8 +20732,9 @@ Sister Representative[END]
 //POINTER #295 @ $194B44 - STRING #295 @ $1BBD18
 #WRITE(ptr,$194B44)
 [Lilith] Aileron (17) from Leane Village.[LINE]
-??cm, ??kg.[LINE]
+??cm ?kg.[LINE]
 Her hobby is cooking, even in combat.[END]
+
 
 //POINTER #296 @ $194B48 - STRING #296 @ $1BBD10
 #WRITE(ptr,$194B48)
