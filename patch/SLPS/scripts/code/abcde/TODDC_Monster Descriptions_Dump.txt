@@ -51,7 +51,7 @@ Her [Turn Over] is dangerous.[END]
 //Text $49BB
 #WRITE(ptr,$3DC8)
 A master Qigong swordsman. He will[LINE]
-unleash a devistating attack called [LINE]
+unleash a devastating attack called [LINE]
 [Head Cutter] when low on HP.[END]
 
 
