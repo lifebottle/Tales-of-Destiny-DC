@@ -318,7 +318,7 @@ The [yellow]Blast Gauge[/color] increases in proportion to [turquoise]longer[END
 
 //Text $3EF58
 #WRITE(ptr,$3A940)
-[turquoise]combos and damage dealt[/color]. If you want  to build up[END]
+[turquoise]combos and damage dealt[/color]. If you want to build up[END]
 
 
 //Text $3EF30

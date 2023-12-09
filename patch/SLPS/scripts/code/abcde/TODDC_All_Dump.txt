@@ -734,12 +734,12 @@ I will lend you my power.[END]
 But you must trust me.[END]
 
 
+#JMP($19AC90)
 //Text $19AD28
 #WRITE(ptr,$180C5C)
 Now, grab on tightly...[END]
 
 
-#JMP($19AC90)
 //Text $19AD08
 #WRITE(ptr,$180C6C)
 ...and call out my name![END]
@@ -5044,12 +5044,12 @@ HEAL HP[END]
 
 //Text $1A2368
 #WRITE(ptr,$1852C0)
-Increases P. ATK when charging[END]
+Guard Break when charging[END]
 
 
 //Text $1A2358
 #WRITE(ptr,$1852C4)
-P.ATK+[END]
+CHARGE ATK[END]
 
 
 //Text $1A2338
@@ -20015,7 +20015,7 @@ Amnesiac Warrior[END]
 //POINTER #171 @ $194954 - STRING #171 @ $1BD390
 #WRITE(ptr,$194954)
 A female warrior with brown skin and red hair.[LINE]
-She wield a battle axe in her right hand,[LINE]
+She wields a battle axe in her right hand,[LINE]
 having slain an untold number of foes.[END]
 
 
