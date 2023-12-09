@@ -6101,7 +6101,7 @@ Line_511_1:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,"Elite Seinegald Soldier",COLOR_END,": Get them!"
+    .asciiz COLOR_START,"Soldier",COLOR_END,": Get them!"
     .align 4
 
 Table_512:
@@ -6114,7 +6114,7 @@ Line_512_1:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,"Elite Seinegald Soldier",COLOR_END,": They must be captured at all costs!"
+    .asciiz COLOR_START,"Soldier",COLOR_END,": They must be captured at all costs!"
     .align 4
 
 Table_7b7:
