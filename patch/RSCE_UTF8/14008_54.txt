@@ -1458,16 +1458,16 @@ Notice
 Please come again.
 
 [ENDBLOCK]
-Come back at any time.
+Come back any time.
 
 [ENDBLOCK]
 Please return once you
-have the ingredients,
+have the ingredients.
 
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but
-you can't hold any more.
+You can't carry anymore
+<ITEM_Elixir>s.
 
 [ENDBLOCK]
 Fan
