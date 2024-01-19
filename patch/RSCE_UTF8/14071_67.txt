@@ -148,7 +148,7 @@ Would you like to take a rest?
 [ENDBLOCK]
 Select
 [ENDBLOCK]
-Are you going to rest?
+Would you like to rest?
 Yes
 No
 [ENDBLOCK]
@@ -827,7 +827,7 @@ if Definite Strike is "ON."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've got nothing
+I don't have anything
 else to give you.
 [ENDBLOCK]
 Man

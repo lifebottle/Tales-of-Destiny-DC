@@ -152,7 +152,7 @@ our debts... or else...
 [ENDBLOCK]
 Lens Shopkeeper
 [ENDBLOCK]
-Is that so?
+Really?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -851,18 +851,18 @@ Notice
 [ENDBLOCK]
 <TAG_007><TAG_076>x [<ITEM_Elixir>] acquired.
 [ENDBLOCK]
-Pleasure doing business.
+Please come again.
 
 [ENDBLOCK]
-Come back at any time.
+Come back any time.
 
 [ENDBLOCK]
 Please return once you
-have the ingredients,
+have the ingredients.
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but
-you can't hold any more.
+You can't carry anymore
+<ITEM_Elixir>s.
 
 [ENDBLOCK]
 <Philia>

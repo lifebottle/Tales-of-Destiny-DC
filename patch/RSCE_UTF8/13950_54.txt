@@ -520,9 +520,9 @@ that goes like this:
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-[When the seven angels dance
+"When the seven angels dance
 in the sky, God will unleash
-the thunder of judgment.]
+the thunder of judgment."
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
@@ -608,7 +608,7 @@ Notice
 Please come again.
 
 [ENDBLOCK]
-Come back at any time.
+Come back any time.
 
 [ENDBLOCK]
 Please return once you
@@ -616,8 +616,8 @@ have the ingredients.
 
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but
-you can't hold any more.
+You can't carry anymore
+<ITEM_Elixir>s.
 
 [ENDBLOCK]
 Priest
