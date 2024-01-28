@@ -480,9 +480,10 @@ The Canvas has been unlocked.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your
-friends' various faces.
+By interacting with the blank canvas
+in <Chelsea>'s room inside of <Alba>'s
+cabin, you can view different facial
+expressions of your friends.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -550,7 +551,8 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Doesn't that look fun?
+Don't you think this will
+be a bit entertaining...?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -591,7 +593,7 @@ impression when you meet someone.
 <Stahn>
 [ENDBLOCK]
 Ohh... I get it!
-Thanks a bunch!
+Thank you!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -676,8 +678,7 @@ was very faithfully reproduced.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-(Looks like she
-didn't play. Oh well.)
+(They...didn't even try it...)
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -735,8 +736,8 @@ to launch a new game!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Really!? Please, let
-me play it quick!
+Are you sure? I can't
+wait to fight you!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -749,11 +750,11 @@ Switch... ON!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That was very interesting.
+That was really fun!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-(He...didn't even try it...)
+(They...didn't even try it...)
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -951,31 +952,31 @@ SET_STRINGS ENDDDDDDD
 [ENDBLOCK]
 
 [ENDBLOCK]
-Rank １
+Rank 1
 
 [ENDBLOCK]
-Rank ２
+Rank 2
 
 [ENDBLOCK]
-Rank ３
+Rank 3
 
 [ENDBLOCK]
-Rank ４
+Rank 4
 
 [ENDBLOCK]
 ？？？？？
 
 [ENDBLOCK]
-Rank ５
+Rank 5
 
 [ENDBLOCK]
-Rank ６
+Rank 6
 
 [ENDBLOCK]
 Definite Mode
 
 [ENDBLOCK]
-Return to previous
+Previous
 
 [ENDBLOCK]
 <x18><x65><x58><x44><x00><x80><x18><x65><x58><x48><x00><x80><x18><x65><x58><x4C><x00><x80><x18><x65><x58><x50><x00><x80><x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80><x18><x65><x58><x5C><x00><x80><x18><x65><x58><x60><x00><x80>
@@ -1297,7 +1298,7 @@ ta-Ow, my tongue!
 Challenger
 [ENDBLOCK]
 The next time I see <Kongman>, I'm
-going to challenge him to a match!
+gonna challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
@@ -1344,7 +1345,7 @@ in the back of the arena.
 Old Man
 [ENDBLOCK]
 Monsters in the city? You've
-got to be kidding me.
+got to be kidding me!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
