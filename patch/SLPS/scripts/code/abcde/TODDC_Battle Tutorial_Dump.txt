@@ -929,7 +929,7 @@ She's a skilled archer.[END]
 
 //Text $3DB00
 #WRITE(ptr,$3AD50)
-She boasts a variety of bow artes that[END]
+She boasts a variety of bow artes[END]
 
 
 //Text $3DAD0
@@ -939,12 +939,12 @@ that can [turquoise]all be used midair.[/color][END]
 
 //Text $3DA90
 #WRITE(ptr,$3AD60)
-Utilize her [yellow]double jump[/color] and shoot where[END]
+Utilize her [yellow]double jump[/color] and shoot[END]
 
 
 //Text $3DA78
 #WRITE(ptr,$3AD68)
-enemies can't reach![END]
+where enemies can't reach![END]
 
 
 //Text $3DA58
@@ -1299,12 +1299,12 @@ A Barrier to Combos[END]
 
 //Text $3CE80
 #WRITE(ptr,$3AFB8)
-When you've got a combo going,[END]
+When you've got a combo going, you'll see[END]
 
 
 //Text $3CE50
 #WRITE(ptr,$3AFC0)
-you'll see a number below the Hit Count...[END]
+a number below the Hit Count...[END]
 
 
 //Text $3CE08

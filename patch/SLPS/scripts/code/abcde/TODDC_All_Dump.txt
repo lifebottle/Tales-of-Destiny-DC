@@ -4572,7 +4572,7 @@ Follow-up on the leader's attack.[END]
 
 //Text $1A1268
 #WRITE(ptr,$184EA0)
-Disturb Enemy[END]
+Disrupt Enemy[END]
 
 
 //Text $1A1238
