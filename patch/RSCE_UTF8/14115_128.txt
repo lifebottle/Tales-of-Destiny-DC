@@ -240,7 +240,7 @@ Don't Go
 Ferryman
 
 [ENDBLOCK]
-Hello, where would you like to go?
+Hey, where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -643,10 +643,9 @@ Aquaveil a better country.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>In order for everyone to live safely,
-if you see something suspicious, say
-something. You will receive monetary
-compensation.
+<TAG_005>In order to maintain public safety,
+report any suspicious activity you see.
+Monetary compensation will be issued.
 					            Moreau Military PR
 [ENDBLOCK]
 
