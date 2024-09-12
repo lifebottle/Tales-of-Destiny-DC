@@ -4154,7 +4154,7 @@ Line_1C5_1:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0       ; start  
     .halfword 0xFFFF    ; end
-    .asciiz COLOR_START,LEON,COLOR_END,": They were stupid to face me."
+    .asciiz COLOR_START,LEON,COLOR_END,": They were foolish to face me."
     .align 4
 
 Table_1C6:
