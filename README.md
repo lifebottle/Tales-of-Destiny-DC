@@ -80,82 +80,82 @@ Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNH
 
 Credits up to date 2025
 
-Pegi - Project Manager
-FuriousG4m3r - Patchmaker and Maintenance
-Ethanol - Main programmer
-Stewie - Programmer
+- Pegi / Project Manager
+- FuriousG4m3r / Patchmaker and Maintenance
+- Ethanol - Main programmer
+- Stewie - Programmer
 
-SymphoniaLauren - Graphics Artist, Graphics Reinsertion, Linguistic Help
-amarant01 - Graphics Artist
+- SymphoniaLauren / Graphics Artist, Graphics Reinsertion, Linguistic Help
+- amarant01 / Graphics Artist
 
-Goodguy3 - Main Translator Leon Side
-AstroZana - Main Translator Stahn Side
-Maxle - Translator and Proofreading
-DRAGONBLEAPIECE - Main Proofreader
-Gator - Proofreader
+- Goodguy3 / Main Translator Leon Side
+- AstroZana / Main Translator Stahn Side
+- Maxle / Translator and Proofreading
+- DRAGONBLEAPIECE / Main Proofreader
+- Gator / Proofreader
 
 
 Credits Spring 2021
-pnvnd – Patchmaker
-FuriousG4m3r - Patchmaker
-chucho1224 - Started menu patch, and merged into this project
-dizzycrunch - Analyzed Resources, map menu data to game files
-alizor - Mentor, provided character mapping and resources to get started
-lewnartic - Mentor, taught us how to do pointers to start
-saito - Mentor, taught us how to create patched games
-evilfinal1st - Provided tools to extract files, and many resources to find game resources
-risae - Mentor, taught us how to abcde, atlas, cartographer
-Symphonia Lauren - Graphics Artist, Graphics Reinsertion
-amarant01 - Graphics Artist
-BenFormantes / Jamole - Python Programmer, created scripts to help with translations
-asyndesis - JavaScript programmer, created web app to help with translations
-Joao Portela / jportela5 / Tosui - .NET Programmer, translator
-Stewie TOD / fortiersteven, Python Programmer, Re-worked Menu Patch
-Mc-muffin / Ethanol - C# programmer, fixed everything else
-Goodguy3 - Translator
-ciel / bluefilaments - Translator, provided early Stahn's side Script
-Lightplol - Tester
-Pegi / FistingUranus - Translator, Hex Editor
-maxle / xsonicdragon - Translator, Hex Editor
-Yuri Meitzen / Yurimeitzen0 - Translator, Hex Editor
-Bruno Krieger / Bruno-Krieger
-Rastislav Karczub / karczub.rastislav
-G / gamergrant
-R3quiem17
-anthony colon
-Ardjan / Generalardj
-Arold Sanon / Hokuwokk
-Blck Drgon / blckdrgon1
-Brook Shirley
-Chief Beef / gbesque
-Co Ren / nerazzurro.inter
-Fernando Garza Osorio / Fernando.G.Osorio
-Flynn Marshall / antkneeheavens
-Jeremy Rojas / FierceKyoRE2
-Jiriki I-sa'onserei / Simon.de.la.playa
-Kitti Kajorns / KittiKajorns
-M. Rosales / rosalem87
-Madeleine nessim / madeleinenesssim
-NoBigDeal La / Edmlaikero
-Richard Petrie / LunarCutlass
-Rob Bot / swordjon1
-Romaric Robin / Dess.Rob.R
-Romario Couto / DBSCROLL
-Scott McNutt / AlexEvermore
-Sean Porter / seanporterfake360
-Señor Philia / soniccd.93
-Squerol Boss / SquerolBoss
-Travis Millwood / TMillwood345
-Ulap Strife / ulapstrife2019
-AstroZana
-0Chirri
-DrakeDarkHunter
-DRAGONBLE3API3C3
-CAAAAAAAAAAAW
-AstralToade
-pattycakesatwork
-WaterBlad64
-talesofphatnastia
+- pnvnd – Patchmaker
+- FuriousG4m3r - Patchmaker
+- chucho1224 - Started menu patch, and merged into this project
+- dizzycrunch - Analyzed Resources, map menu data to game files
+- alizor - Mentor, provided character mapping and resources to get started
+- lewnartic - Mentor, taught us how to do pointers to start
+- saito - Mentor, taught us how to create patched games
+- evilfinal1st - Provided tools to extract files, and many resources to find game resources
+- risae - Mentor, taught us how to abcde, atlas, cartographer
+- Symphonia Lauren - Graphics Artist, Graphics Reinsertion
+- amarant01 - Graphics Artist
+- BenFormantes / Jamole - Python Programmer, created scripts to help with translations
+- asyndesis - JavaScript programmer, created web app to help with translations
+- Joao Portela / jportela5 / Tosui - .NET Programmer, translator
+- Stewie TOD / fortiersteven, Python Programmer, Re-worked Menu Patch
+- Mc-muffin / Ethanol - C# programmer, fixed everything else
+- Goodguy3 - Translator
+- ciel / bluefilaments - Translator, provided early Stahn's side Script
+- Lightplol - Tester
+- Pegi / FistingUranus - Translator, Hex Editor
+- maxle / xsonicdragon - Translator, Hex Editor
+- Yuri Meitzen / Yurimeitzen0 - Translator, Hex Editor
+- Bruno Krieger / Bruno-Krieger
+- Rastislav Karczub / karczub.rastislav
+- G / gamergrant
+- R3quiem17
+- anthony colon
+- Ardjan / Generalardj
+- Arold Sanon / Hokuwokk
+- Blck Drgon / blckdrgon1
+- Brook Shirley
+- Chief Beef / gbesque
+- Co Ren / nerazzurro.inter
+- Fernando Garza Osorio / Fernando.G.Osorio
+- Flynn Marshall / antkneeheavens
+- Jeremy Rojas / FierceKyoRE2
+- Jiriki I-sa'onserei / Simon.de.la.playa
+- Kitti Kajorns / KittiKajorns
+- M. Rosales / rosalem87
+- Madeleine nessim / madeleinenesssim
+- NoBigDeal La / Edmlaikero
+- Richard Petrie / LunarCutlass
+- Rob Bot / swordjon1
+- Romaric Robin / Dess.Rob.R
+- Romario Couto / DBSCROLL
+- Scott McNutt / AlexEvermore
+- Sean Porter / seanporterfake360
+- Señor Philia / soniccd.93
+- Squerol Boss / SquerolBoss
+- Travis Millwood / TMillwood345
+- Ulap Strife / ulapstrife2019
+- AstroZana
+- 0Chirri
+- DrakeDarkHunter
+- DRAGONBLE3API3C3
+- CAAAAAAAAAAAW
+- AstralToade
+- pattycakesatwork
+- WaterBlad64
+- talesofphatnastia
 
 - Thanks to the Temple of Tales Translations team for providing tools to edit scenarios and skits (http://temple-tales.ru/translations.html) 
 - Thanks to risae for showing us how to use `abcde`, check out Growlanser 6 project here: https://bitbucket.org/Risae/growlanser-6-english-translation
