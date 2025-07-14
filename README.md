@@ -82,5 +82,6 @@ Menu - Titles: https://docs.google.com/spreadsheets/d/11xHJ_wnVdDqs96-SB30bPmRNH
 - Thanks to dizzycrunch and chucho1224 for sending resources to speed up the patch
 - Thanks to saito for sending tools for packaging ISO files properly, resulting in smaller patch sizes
 - Thanks to alizor for helping us get started with wonderful resources
+- Thanks to DRAGONGELION for refining the translation, ensuring consistency, and polishing the final script for a smoother reading experience.
 - Thanks to everyone on the Tales of Destiny DC discord who had to put up with `Bomb God Mad Temple`
 - Thanks to everyone on the Absolute Zero discord who offered advice
