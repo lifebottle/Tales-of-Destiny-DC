@@ -6731,7 +6731,7 @@ Line_4aa_1:
     .byte 0x0           ; BC Id -- 0 default/not used
     .halfword 0x0           ; start 
     .halfword 0xFFFF          ; end
-    .asciiz COLOR_START,HUGO,COLOR_END,": It's finished! Slip into nothinginess..."
+    .asciiz COLOR_START,HUGO,COLOR_END,": It's finished! Slip into nothingness..."
     .align 4
 
 
