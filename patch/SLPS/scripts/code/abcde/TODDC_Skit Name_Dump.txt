@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Furious\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -1011,7 +1011,7 @@ Moreau: The Floating City[END]
 
 //Text $15308
 #WRITE(ptr,$5788)
-A Helper?[END]
+Backup?[END]
 
 
 //Text $152F0
@@ -1560,7 +1560,7 @@ Let's Meet [Rutee] in Cresta[END]
 
 //Text $149A0
 #WRITE(ptr,$5940)
-Is [Rutee] home?[END]
+Is [Rutee] Home?[END]
 
 
 //Text $14988
@@ -2081,12 +2081,12 @@ We Must Return to Darilsheid[END]
 
 //Text $13F40
 #WRITE(ptr,$5AEC)
-Protect Darilsheid From the Monsters[END]
+Protect Darilsheid from the Monsters[END]
 
 
 //Text $13F30
 #WRITE(ptr,$5AF0)
-Get To the Inn[END]
+Get to the Inn[END]
 
 
 //Text $13F18

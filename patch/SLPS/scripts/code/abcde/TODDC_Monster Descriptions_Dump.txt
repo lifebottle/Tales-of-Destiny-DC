@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Furious\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -57,7 +57,7 @@ unleash a devastating attack called [LINE]
 
 //Text $4A1A
 #WRITE(ptr,$3DCC)
-A priest under [Greybum]'s command[LINE]
+A priest under [Greybum]'s command.[LINE]
 His quick claw attacks will always[LINE]
 target those low on HP.[END]
 
@@ -71,30 +71,30 @@ so sharp, a simple cut may kill you.[END]
 
 //Text $4AD5
 #WRITE(ptr,$3DD4)
-His large sword wielding skill is[LINE]
-authentic, but can't turn while[LINE]
-dashing or attacking.[END]
+His swordsmanship with a greatsword[LINE]
+is fairly orthodox, but he can't turn[LINE]
+while dashing or attacking.[END]
 
 
 //Text $4B2D
 #WRITE(ptr,$3DD8)
-The forbidden spell gave him a hard[LINE]
-shell and bug commanding powers.[LINE]
+Through forbidden spells, he gained the power[LINE]
+to control insects and created a shell-like armor.[LINE]
 Calls pesky bugs that can't be ignored.[END]
 
 
 //Text $4B9A
 #WRITE(ptr,$3DDC)
-Attacks by controlling remote units.[LINE]
-Defends against P. Atk with an energy[LINE]
-barrier. Spends energy creating bots.[END]
+She uses remote units to attack and[LINE]
+defends with an energy barrier, but[LINE]
+will consume HP to create more units.[END]
 
 
 //Text $4C0B
 #WRITE(ptr,$3DE0)
-Switches between walking/flying[LINE]
-states to gain the advantage.[LINE]
-Synchronize your attacks.[END]
+Once he transforms from his walking form to[LINE]
+his flying form, you’ll be at a disadvantage.[LINE]
+Sync your attacks to ground him.[END]
 
 
 //Text $4C63
@@ -106,21 +106,21 @@ Spread out to avoid being wiped out.[END]
 
 //Text $4CD9
 #WRITE(ptr,$3DE8)
-Wields Berselius with light/dark[LINE]
-attacks. Better have resistance to[LINE]
+Wields Berselius and uses light and dark[LINE]
+attacks. Equip resistances to[LINE]
 status ailments and attributes.[END]
 
 
 //Text $4D3D
 #WRITE(ptr,$3DEC)
-Strange creature that uses its large[LINE]
+A strange creature that uses its large[LINE]
 mouth to swallow enemies whole.[LINE]
 You will be paralyzed if swallowed.[END]
 
 
 //Text $4DA6
 #WRITE(ptr,$3DF0)
-Female priest in service of Straylize[LINE]
+A female priest in service of Straylize[LINE]
 Temple. Attacks and heals with spells.[LINE]
 Thinks of Bishop as only an escort.[END]
 
@@ -141,7 +141,7 @@ are vulnerable.[END]
 
 //Text $4EBB
 #WRITE(ptr,$3DFC)
-A medium-sized bird from Seinegald[LINE]
+A medium-sized bird from the Seinegald[LINE]
 region. It has a sharp beak,[LINE]
 and attacks with its wings.[END]
 
@@ -163,7 +163,7 @@ to target enemies in the back.[END]
 //Text $4FD4
 #WRITE(ptr,$3E08)
 It invaded the Draconis with[LINE]
-wyverns. It's fast, but observe and[LINE]
+Wyverns. It's fast, but observe and[LINE]
 defend with [Square_copy], then attack![END]
 
 
@@ -176,8 +176,8 @@ Watch out for its long reach![END]
 
 //Text $5097
 #WRITE(ptr,$3E10)
-Phandarian snow rabbit that became[LINE]
-ferocious. Its strong legs unleash[LINE]
+Monster form of the Phandarian[LINE]
+snow rabbit. Its strong legs unleash[LINE]
 extremely powerful kicks![END]
 
 
@@ -192,7 +192,7 @@ so guard and then strike.[END]
 #WRITE(ptr,$3E18)
 This rabbit developed a spike-tail to[LINE]
 survive the desert full of enemies.[LINE]
-Its tail attack is powerful.[END]
+It has a powerful tail attack.[END]
 
 
 //Text $51C1
@@ -206,13 +206,13 @@ so be careful attacking it.[END]
 #WRITE(ptr,$3E20)
 A male priest in service of Straylize[LINE]
 Temple. Skilled at using a staff.[LINE]
-Has a secret crush on Priestess...[END]
+He has a secret crush on Priestess...[END]
 
 
 //Text $528E
 #WRITE(ptr,$3E24)
 It invaded the Draconis carrying[LINE]
-wolves. Spits powerful fire breaths,[LINE]
+wolves. It spits powerful fire breaths,[LINE]
 so be careful when attacking.[END]
 
 
@@ -220,7 +220,7 @@ so be careful when attacking.[END]
 #WRITE(ptr,$3E28)
 A small bird monster that lives in the[LINE]
 Phandaria region. Its ramming attack[LINE]
-is surprising for its small body.[END]
+is surprisingly strong for its small body.[END]
 
 
 //Text $5360
@@ -248,7 +248,7 @@ Man may have fed it too much...[END]
 #WRITE(ptr,$3E38)
 A mushroom monster.[LINE]
 The spores it releases[LINE]
-are mixed with poison.[END]
+are laced with poison.[END]
 
 
 //Text $54E1
@@ -275,7 +275,7 @@ but is weak to blunt objects.[END]
 //Text $561C
 #WRITE(ptr,$3E48)
 A bipedal starfish monster.[LINE]
-It's weak, but will disrupt our[LINE]
+It's weak, but will disrupt your[LINE]
 formation with its nimble movements.[END]
 
 
@@ -290,7 +290,7 @@ from the color of its tentacles.[END]
 #WRITE(ptr,$3E50)
 A large fly living in the desert.[LINE]
 It spits fire, so don't[LINE]
-engage carelessly![END]
+engage it carelessly![END]
 
 
 //Text $5731
@@ -318,7 +318,7 @@ before spraying, so watch out.[END]
 #WRITE(ptr,$3E60)
 A bipedal lizard monster.[LINE]
 Be careful of its quick bite and[LINE]
-resistance to earth skills.[END]
+resistance to earth artes.[END]
 
 
 //Text $5896
@@ -366,7 +366,7 @@ smart, and seen in freak shows.[END]
 //Text $5AB4
 #WRITE(ptr,$3E7C)
 An insect with hard armor.[LINE]
-His scythe inflict the sleep status.[LINE]
+Its scythe inflicts the sleep status.[LINE]
 Vulnerable in the eyes or...[END]
 
 
@@ -374,7 +374,7 @@ Vulnerable in the eyes or...[END]
 #WRITE(ptr,$3E80)
 A mass of negative energy gathered[LINE]
 in Heidelberg. It's incorporeal[LINE]
-and thus resistant to P.Atk.[END]
+and thus resistant to P. ATK.[END]
 
 
 //Text $5B71
@@ -388,13 +388,13 @@ onward, ignoring any attacks.[END]
 #WRITE(ptr,$3E88)
 A lens powered skeleton. It always[LINE]
 attacks by aiming at your feet.[LINE]
-It cast spell that lowers your P.Atk.[END]
+It casts spells that lowers your P. ATK.[END]
 
 
 //Text $5C46
 #WRITE(ptr,$3E8C)
-A mad man under the lens' influence.[LINE]
-They're usually stunned, but can[LINE]
+A casualty now under the lens' influence.[LINE]
+They're usually spacing out, but may[LINE]
 charge out of nowhere.[END]
 
 
@@ -415,8 +415,8 @@ It may go berserk...[END]
 //Text $5D76
 #WRITE(ptr,$3E98)
 Oberon researcher, clad in defensive[LINE]
-gear. His handgun has different utilities,[LINE]
-a special one is the weak gas effect.[END]
+gear. His handgun has different utilities.[LINE]
+Be careful with his debilitating gas effect.[END]
 
 
 //Text $5DED
@@ -430,14 +430,14 @@ Counters after guarding.[END]
 #WRITE(ptr,$3EA0)
 Lifeform created with Ae'ther tech.[LINE]
 Has plenty of elemental magic.[LINE]
-Often counters after you guard it.[END]
+Often counters after guarding.[END]
 
 
 //Text $5EC1
 #WRITE(ptr,$3EA4)
 Artificial weapon created for support.[LINE]
 Has melee and ranged attacks.[LINE]
-It's fast, can disrupt your formation![END]
+It's fast and can disrupt your formation![END]
 
 
 //Text $5F2D
@@ -450,14 +450,14 @@ Healing and Support spells.[END]
 //Text $5F8A
 #WRITE(ptr,$3EAC)
 A security bot following Anthzoon.[LINE]
-Only calls backup, really annoying so[LINE]
-defeat it as soon as possible![END]
+Only calls backup. Very troublesome,[LINE]
+so defeat it as soon as possible![END]
 
 
 //Text $5FF2
 #WRITE(ptr,$3EB0)
-A robot guarding Deimos. Offers ranged[LINE]
-support with its turrets. Its shots  hurt [LINE]
+A robot guarding Anthzoon. Offers ranged[LINE]
+support with its turrets. Its shots hurt [LINE]
 more when hit at close range.[END]
 
 
@@ -478,14 +478,14 @@ Upon breaking, they will suck you in.[END]
 //Text $611B
 #WRITE(ptr,$3EBC)
 A bioweapon with a huge shield.[LINE]
-it can attack and provide assistance,[LINE]
-small attacks won't hurt it.[END]
+It can attack and provide assistance.[LINE]
+Minor attacks won't hurt it.[END]
 
 
 //Text $617E
 #WRITE(ptr,$3EC0)
-A turret that fires a sound beam.[LINE]
-Rear fired missiles petrifies.[LINE]
+A turret that fires sound beams.[LINE]
+Rear fired missiles poison.[LINE]
 Has a hidden needle in its foot.[END]
 
 
@@ -520,7 +520,7 @@ Avoid using fire.[END]
 #WRITE(ptr,$3ED4)
 A terrifying carnivorous plant that[LINE]
 protects Belcrant. Reacts to[LINE]
-resistant attributes and fights back.[END]
+resistant attributes and counterattacks.[END]
 
 
 //Text $6392
@@ -533,7 +533,7 @@ Equip fire resistance![END]
 //Text $63DC
 #WRITE(ptr,$3EDC)
 Trash Mountain's dusty toxic gas[LINE]
-turned sentient due to lens influence.[LINE]
+turned sentient due to Lens influence.[LINE]
 Attacks cause [Weakness] effect.[END]
 
 
@@ -541,7 +541,7 @@ Attacks cause [Weakness] effect.[END]
 #WRITE(ptr,$3EE0)
 Headless, humanoid bioweapon.[LINE]
 Attacks by using its tentacles.[LINE]
-When HP is low...[END]
+When its HP is low...[END]
 
 
 //Text $6495
@@ -553,9 +553,9 @@ Also casts support spells.[END]
 
 //Text $64F3
 #WRITE(ptr,$3EE8)
-Dragon with a strong body.[LINE]
-Immune to normal P.Atk.[LINE]
-Its blast attacks are ultra strong.[END]
+A dragon with a resilient body.[LINE]
+It is resistant to most normal attacks.[LINE]
+Blast Caliburs are effective against it.[END]
 
 
 //Text $654A
@@ -568,13 +568,13 @@ His bites can cause weakness.[END]
 //Text $65A2
 #WRITE(ptr,$3EF0)
 Senior soldier in service of Seinegald.[LINE]
-Has three soldiers under his command[LINE]
-who must follow his orders.[END]
+He has three soldiers under his command[LINE]
+who must follow his every orders.[END]
 
 
 //Text $660B
 #WRITE(ptr,$3EF4)
-A giant aquatic creature. Difficult[LINE]
+A giant aquatic creature. Difficult to[LINE]
 fight because of its slimy body.[LINE]
 Can deflect up to 3 attacks.[END]
 
@@ -595,16 +595,16 @@ Never misses a target.[END]
 
 //Text $66D7
 #WRITE(ptr,$3F00)
-His attacks and spells hurt! Best[LINE]
-equip light and dark resistance.[LINE]
-Focus on stopping his spells.[END]
+His attacks and spells are vicious. You'll[LINE]
+struggle without light and dark resistances.[LINE]
+Do everything you can to stop his spells.[END]
 
 
 //Text $6738
 #WRITE(ptr,$3F04)
 Swordian Master of Fire. His artes are[LINE]
-overwhelming. He acts defensively, but [LINE]
-won't hesitate to enter the fray.[END]
+overwhelming. Defense alone won't cut it.[LINE]
+Be bold and attack at the right moment![END]
 
 
 //Text $67AB
@@ -643,8 +643,8 @@ He can bind enemies with his arms.[END]
 
 //Text $6971
 #WRITE(ptr,$3F1C)
-Using items in his presence is fatal,[LINE]
-he hates to bring them into fights.[LINE]
+Using items in his presence is dangerous.[LINE]
+He hates bringing them into fights.[LINE]
 But you're here for the challenge![END]
 
 
@@ -734,7 +734,7 @@ Casts spells when you move away.[END]
 #WRITE(ptr,$3F50)
 A mercenary Moreau hired.[LINE]
 He specializes in assassinating those[LINE]
-he paralyzed with his knives.[END]
+he paralyzes with his knives.[END]
 
 
 //Text $6E2C
@@ -788,15 +788,15 @@ using hypnotic waves. [END]
 
 //Text $7068
 #WRITE(ptr,$3F70)
-A mischievous monkey living in[LINE]
+A mischievous monkey native to[LINE]
 Aquaveil. However, its rock-throwing[LINE]
-attacks are serious.[END]
+attacks are no joke.[END]
 
 
 //Text $70C1
 #WRITE(ptr,$3F74)
 An insect from the depths of[LINE]
-Phandaria's forests. Tries to[LINE]
+Phandaria's forests. It will try to[LINE]
 keep its distance from others.[END]
 
 
@@ -934,7 +934,7 @@ Blasts shatters your guard.[END]
 #WRITE(ptr,$3FC4)
 A monster with dark[LINE]
 attack attributes. When hit,[LINE]
-greatly reduces its P. Atk.[END]
+greatly reduces its P. ATK.[END]
 
 
 //Text $7843
@@ -951,7 +951,7 @@ defense when hit.[END]
 
 //Text $78A1
 #WRITE(ptr,$3FD0)
-Monster that went berserk with[LINE]
+A monster that went berserk with[LINE]
 Belcrant's bombardment.[LINE]
 It specializes in earth spells.[END]
 
@@ -1009,7 +1009,7 @@ or using spells.[END]
 #WRITE(ptr,$3FF0)
 A rampaging white monkey.[LINE]
 Throws fainting stones.[LINE]
-When in rage, it becomes unstopable.[END]
+When enraged, it becomes unstopable.[END]
 
 
 //Text $7BD2
@@ -1099,7 +1099,7 @@ power reducing skills.[END]
 //Text $7FC3
 #WRITE(ptr,$4024)
 A bioweapon specializing in fire[LINE]
-spells. Increases M.Atk over time.[LINE]
+spells. Increases M. ATK over time.[LINE]
 Fire resistance required![END]
 
 
@@ -1113,7 +1113,7 @@ artes. It can also cast spells.[END]
 #WRITE(ptr,$402C)
 A creature that causes paralysis.[LINE]
 Changes its pattern according to distance[LINE]
-Spits acid that decreases P.Def.[END]
+Spits acid that decreases P. DEF.[END]
 
 
 //Text $80D4
@@ -1127,7 +1127,7 @@ knocks back and are incredibly fast.[END]
 #WRITE(ptr,$4034)
 An aquatic creature that casts[LINE]
 wind spells according to distance.[LINE]
-Its spit has water/wind attributes.[END]
+Its spit has water and wind attributes.[END]
 
 
 //Text $81AE
@@ -1140,7 +1140,7 @@ blow foes away.[END]
 //Text $820A
 #WRITE(ptr,$403C)
 A snake that causes petrification if[LINE]
-exposed to its fluid and sealing if[LINE]
+exposed to its fluid and seal if[LINE]
 bitten.[END]
 
 
@@ -1154,7 +1154,7 @@ enemies in the air with a spin attack.[END]
 #WRITE(ptr,$4044)
 Evolved form of Tabby living in the[LINE]
 Aquaveil region. Uses strong attacks[LINE]
-when powered up by [Roar of Rage].[END]
+when powered up by [Furious Roar].[END]
 
 
 //Text $830F
@@ -1180,7 +1180,7 @@ points, but it's still vulnerable to rust...[END]
 
 //Text $8434
 #WRITE(ptr,$4054)
-Walking support turret.[LINE]
+A walking support turret.[LINE]
 The [Energy Bullet] released from[LINE]
 its feet will inflict paralysis.[END]
 
@@ -1194,9 +1194,9 @@ counterattacks after guarding.[END]
 
 //Text $84F0
 #WRITE(ptr,$405C)
-Mysterious floating mineral. Counter[LINE]
-attacks if you jump to get close.[LINE]
-Uses earth ranged artes.[END]
+A mysterious floating mineral. It will[LINE]
+counterattack if you jump to get close[LINE]
+and uses earth ranged artes.[END]
 
 
 //Text $8550
@@ -1209,7 +1209,7 @@ when it breaks.[END]
 //Text $85A8
 #WRITE(ptr,$4064)
 An aquatic creature that casts fire[LINE]
-spells. Will use stronger magic with[LINE]
+spells. It will use stronger magic over[LINE]
 time, so deal with them quickly.[END]
 
 
@@ -1221,15 +1221,16 @@ with its sound waves.[END]
 
 //Text $864C
 #WRITE(ptr,$406C)
-A fire bird. Powers up when hit by[LINE]
-fire, increasing its P.Atk dramatically.[END]
+A fire bird. It will power up if hit by[LINE]
+fire attacks, increasing its P. ATK[LINE]
+dramatically.[END]
 
 
 //Text $8698
 #WRITE(ptr,$4070)
 A crystalline form of gas and light[LINE]
-from Trash Mountain. All attacks have[LINE]
-a 'paralysis' effect. Splits at low HP.[END]
+from Trash Mountain. All its attacks can[LINE]
+inflict paralysis. Splits at low HP.[END]
 
 
 //Text $870A
@@ -1241,14 +1242,14 @@ with every attack.[END]
 //Text $8734
 #WRITE(ptr,$4078)
 The embodiment of hatred.[LINE]
-All attacks have a [Seal] effect.[END]
+All of its attacks inflict Seal.[END]
 
 
 //Text $8770
 #WRITE(ptr,$407C)
-Treasure hunter who ventured into[LINE]
-Trash Mountain looking for loot.[LINE]
-All attacks have [Poison] effects.[END]
+The remains of a treasure hunter who[LINE]
+sought the loot in Trash Mountain.[LINE]
+All of its attacks inflict [Poison].[END]
 
 
 //Text $87D6
@@ -1261,14 +1262,14 @@ provides cover with beams.[END]
 //Text $8830
 #WRITE(ptr,$4084)
 Bioweapon guarding Dycroft.[LINE]
-Casts mid tier elemental spells.[LINE]
+Casts mid-tier elemental spells.[LINE]
 Best to defeat it first.[END]
 
 
 //Text $8886
 #WRITE(ptr,$4088)
 The latest bomb support bioweapon.[LINE]
-The missiles reduce M.Attack.[END]
+The missiles reduce M. ATK.[END]
 
 
 //Text $88C7
@@ -1296,7 +1297,7 @@ Don't use artes that it resists.[END]
 #WRITE(ptr,$4098)
 A nice, but tough guy. He's full of[LINE]
 pride as champion of the arena.[LINE]
-Attack while avoiding his.[END]
+Attack while avoiding his hits.[END]
 
 
 //Text $8A40
@@ -1344,7 +1345,7 @@ them.[END]
 //Text $8C7F
 #WRITE(ptr,$40B4)
 A part of [Rune] that focuses in[LINE]
-P.Atk. If swallowed, it will chew until[LINE]
+P. ATK. If swallowed, it will chew until[LINE]
 you're digested. Watch your head![END]
 
 
@@ -1391,13 +1392,13 @@ on its remaining HP.[END]
 //Text $8EAE
 #WRITE(ptr,$40D0)
 A rabbit that works in groups.[LINE]
-Atk rises as their friends die.[END]
+Its ATK rises as their friends die.[END]
 
 
 //Text $8EED
 #WRITE(ptr,$40D4)
-A rampaging bear.[LINE]
-Every strike is dangerous, exploit[LINE]
+The deadliest, fiercest bear.[LINE]
+Every strike is dangerous, so exploit[LINE]
 its weakness and kill it fast.[END]
 
 
@@ -1411,7 +1412,7 @@ and reduces attack power.[END]
 //Text $8F9A
 #WRITE(ptr,$40DC)
 A dragon that constantly spits fire.[LINE]
-They guard and counterattack.[LINE]
+It guards and counterattack.[LINE]
 Don't be hasty![END]
 
 
@@ -1429,9 +1430,9 @@ in ruins. Use guard-breaking artes![END]
 
 //Text $905D
 #WRITE(ptr,$40E8)
-Ancient ember statue fueled by[LINE]
-mineral energy.[LINE]
-Crashes foes in its way.[END]
+An ancient ember statue fueled by[LINE]
+mineral energy. It'll act much faster[LINE]
+if there are other enemies in front.[END]
 
 
 //Text $90A5
@@ -1443,7 +1444,7 @@ with a monstrous strength.[END]
 
 //Text $90F3
 #WRITE(ptr,$40F0)
-Nasty enemy that will tackle you from[LINE]
+A nasty enemy that will tackle you from[LINE]
 anywhere. Rarely moves on its own.[LINE]
 Uses scythe attacks if too close.[END]
 
@@ -1478,13 +1479,13 @@ Use guard-breaking artes![END]
 //Text $92B2
 #WRITE(ptr,$4104)
 A beast revered as sacred.[LINE]
-Its patterns changes with time.[END]
+Its patterns change with time.[END]
 
 
 //Text $92ED
 #WRITE(ptr,$4108)
 Dark in his right and light in his left.[LINE]
-Weak to light.[LINE]
+Ironically, he's weak to light...[LINE]
 Boosts spells based on enemies.[END]
 
 
@@ -1503,8 +1504,8 @@ of control...[END]
 
 //Text $93D6
 #WRITE(ptr,$4114)
-Envoy from Hell.[LINE]
-Ironically has no resistance to dark![END]
+An envoy from hell. It ironically[LINE]
+has no resistance to dark![END]
 
 
 //Text $940D
@@ -1556,7 +1557,7 @@ rear. Keeps track of your position.[END]
 //Text $9623
 #WRITE(ptr,$4134)
 A magical malevolent sword.[LINE]
-All attacks have M. Atk reducing effects.[LINE]
+All of its attacks will reduce your M. ATK.[LINE]
 [END]
 
 
@@ -1599,7 +1600,7 @@ Uses magic that reduces all stats.[END]
 #WRITE(ptr,$414C)
 A jet-black scaled dragon.[LINE]
 Watch out for his break attack[LINE]
-when 1 remains![END]
+when only 1 remains![END]
 
 
 //Text $9862
@@ -1642,15 +1643,15 @@ targeting the strongest.[END]
 
 //Text $9A05
 #WRITE(ptr,$4168)
-Monster of the deep sea.[LINE]
-It spits out water that[LINE]
-inflicts [Seal] condition.[END]
+A monster of the deep sea.[LINE]
+It spits out water that inflicts[LINE]
+[Seal].[END]
 
 
 //Text $9A51
 #WRITE(ptr,$416C)
 Flying aquatic foe with a hard shell.[LINE]
-Usually passive, but retaliates if[LINE]
+It's usually passive, but will retaliate if[LINE]
 attacked.[END]
 
 
@@ -1663,14 +1664,14 @@ Excels in one-on-one close combat.[END]
 //Text $9AE2
 #WRITE(ptr,$4174)
 Aetherian's new weapon.[LINE]
-Commands many spells.[END]
+It commands many powerful spells.[END]
 
 
 //Text $9B10
 #WRITE(ptr,$4178)
 A creature born of organic matter.[LINE]
-Able to fly(to some extent) and hurt[LINE]
-more than necessary(unknown).[END]
+Able to fly (to some extent) and hurt[LINE]
+more than necessary (unknown).[END]
 
 
 //Text $9B76

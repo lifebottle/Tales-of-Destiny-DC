@@ -1,5 +1,5 @@
 #VAR(Table_0, TABLE)
-#ADDTBL("C:\Users\Scott\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
+#ADDTBL("C:\Users\Furious\Documents\GitHub\Tales-of-Destiny-DC\patch\SLPS\scripts\code\abcde\toddc.tbl", Table_0)
 
 //BLOCK #000 NAME:
 #ACTIVETBL(Table_0) // Activate this block's starting TABLE
@@ -984,7 +984,7 @@ Gem Polishing[END]
 //POINTER #9 @ $181064 - STRING #9 @ $19B580
 #WRITE(ptr,$181064)
 Relentless training even on the[LINE]
-move. Boosts P. Atk in battle.[END]
+go. Boosts P. ATK in battle.[END]
 //[END]
 //[END]
 
@@ -2097,8 +2097,8 @@ Advance while delivering[LINE]
 
 //Text $1A0B08
 #WRITE(ptr,$183170)
-Light speed thrusts[LINE] 
-pierce the enemy.[LINE]
+Pierce the enemy with several light[LINE] 
+speed thrusts.[LINE]
 [END]
 
 
@@ -2254,7 +2254,7 @@ it in a devastating blast.[END]
 
 //Text $1A0780
 #WRITE(ptr,$1832B0)
-A striking Arte that blasts the[LINE]
+A striking arte that blasts the[LINE]
 captured enemy with your fist.[END]
 
 
@@ -8712,8 +8712,8 @@ Straylize Forest[END]
 //Text $1A6A80
 #WRITE(ptr,$18A318)
 A forest at the top of a mountain.[LINE]
-As the main path to Straylize Temple, it [LINE]
-mainly is used by missionaries and priests.[END]
+As the main path to Straylize Temple, its [LINE]
+mainly used by missionaries and priests.[END]
 
 //Text $1A6A68
 #WRITE(ptr,$18A348)
@@ -8728,7 +8728,7 @@ Swordian R&D Lab[END]
 //Text $1A69F8
 #WRITE(ptr,$18A350)
 A research facility for the Er'ther forces[LINE]
-deep beneath the earth. It was unearth[LINE]
+deep beneath the earth. It was unearthed[LINE]
 by Belcrant's bombardment.[END]
 
 
@@ -10663,9 +10663,8 @@ A support item for cultivation.[END]
 
 //Text $1AEE40
 #WRITE(ptr,$18CB34)
-Seeds for learnerning gardening.[LINE]
+Seeds for learning gardening.[LINE]
 A support item for cultivation.[END]
-
 
 //Text $1AEE28
 #WRITE(ptr,$18CB4C)
@@ -11062,7 +11061,7 @@ one. Let's cash it in![LINE]
 
 //Text $1AE168
 #WRITE(ptr,$18CF08)
-Shoot! no luck this time. Make[LINE]
+Shoot! No luck this time. Make[LINE]
 sure to recycle it properly.[LINE]
 [END]
 
@@ -11583,7 +11582,7 @@ Rerise into a gem that reduces[LINE]
 //Text $1ACFE0
 #WRITE(ptr,$18D3D8)
 Rerise into a gem that temporarily[LINE]
-increases P. ATK with with [Square_ani2]＋[Down_blink].[END]
+increases P. ATK with [Square_ani2]＋[Down_blink].[END]
 
 
 //Text $1ACFC8
@@ -12569,9 +12568,9 @@ to impersonate Lilith?[LINE]
 
 //Text $1B2C80
 #WRITE(ptr,$18DD30)
-Swordian of Fire. Leader of an[LINE]
-army. His full name is Dymlos[LINE]
-Timber.[END]
+Swordian of Fire. He served as the[LINE]
+hot-blooded commander of shock troopers.[LINE]
+His full name is Dymlos Timber.[END]
 
 
 //Text $1B2C70
@@ -12583,7 +12582,7 @@ Timber.[END]
 #WRITE(ptr,$18DD6C)
 Swordian of Water. A fierce and[LINE]
 intelligent woman. Her full name[LINE]
-name is Atwight Ecks.[END]
+is Atwight Ecks.[END]
 
 
 //Text $1B2C10
@@ -12856,9 +12855,9 @@ valuable. A warrior's dream axe.[END]
 
 //Text $1B2338
 #WRITE(ptr,$18E2D0)
-An axe whose name means "A tool[LINE]
-for cutting."If you're skillful, you can[LINE]
-throw it.[END]
+An axe whose name means[LINE]
+"A tool for cutting." If you're[LINE]
+skillful, you can throw it.[END]
 
 
 //Text $1B2320
@@ -13493,9 +13492,8 @@ a paralyzing poison.[END]
 //Text $1B0FA8
 #WRITE(ptr,$18EF3C)
 Terrifying knuckles that will deal a lethal[LINE]
-blow no matter where they hit. It's name[LINE]
-means "A Powerful Organization."[END]
-
+blow no matter where they hit. Its name[LINE]
+means "A Powerful Constitution."[END]
 
 //Text $1B0F90
 #WRITE(ptr,$18EF74)
@@ -13528,7 +13526,7 @@ the mightiest of men can wield them.[END]
 
 //Text $1B0E90
 #WRITE(ptr,$18EFF0)
-An offshoot of the lute. Its stings[LINE]
+An offshoot of the lute. Its strings[LINE]
 are plucked with a pick made of a[LINE]
 tortoiseshell.[END]
 
@@ -15879,8 +15877,8 @@ one to move excitedly.[END]
 //Text $1B68B0
 #WRITE(ptr,$191A2C)
 A hat with a large feather for decoration.[LINE]
-decoration. Aiming to be classy with a[LINE]
-stylish hat. That's [Johnny]'s style.[END]
+Aiming to be classy with a stylish hat.[LINE]
+That's [Johnny]'s style.[END]
 
 
 //Text $1B6898
@@ -16420,7 +16418,7 @@ up egg. Simple, but delicious.[END]
 #WRITE(ptr,$19212C)
 Strap with a Beef Bowl.[LINE]
 Rice bowl topped with stewed meat and[LINE]
-green onions. Unforgettable taste.[END]
+green onions. The taste is unforgettable.[END]
 
 
 //Text $1B9628
@@ -16503,8 +16501,8 @@ meat. Beware of splashing.[END]
 //Text $1B9208
 #WRITE(ptr,$19227C)
 Strap with Gratin.[LINE]
-A plethora of ingredients bathed in cheese. The smell[LINE]
-of scorched cheese wets one's appetite.[END]
+A plethora of ingredients bathed in cheese.[LINE]
+The smell of scorched cheese wets one's appetite.[END]
 
 
 //Text $1B91D0
@@ -17915,9 +17913,8 @@ Dungeon [Arcana Ruins].[LINE]
 //Text $1BA470
 #WRITE(ptr,$192A7C)
 Scratched lens. It's not worth[LINE]
-much, but is tradeable.[LINE]
+much, but is tradable.[LINE]
 [END]
-
 
 //Text $1BA458
 #WRITE(ptr,$192A94)
@@ -18538,12 +18535,12 @@ Emergency Exit[END]
 Emergency Exit[END]
 
 
+#JMP($1BB0A0)
 //Text $1BB228
 #WRITE(ptr,$193A08)
 Mealy Primrose[END]
 
 
-#JMP($1BB0A0)
 //Text $1BB220
 #WRITE(ptr,$193A40)
 Snow Labyrinth[END]
@@ -19383,8 +19380,8 @@ Greedy Witch[END]
 //POINTER #57 @ $19478C - STRING #57 @ $1BE878
 #WRITE(ptr,$19478C)
 An alias known around the world.[LINE]
-Where the greedy witch walks[LINE]
-Not a speck of lens remains.[END]
+Where the greedy witch walks,[LINE]
+not a speck of lens remains.[END]
 
 
 //POINTER #58 @ $194790 - STRING #58 @ $1BE860
@@ -19551,9 +19548,10 @@ Slender Girl[END]
 
 //POINTER #87 @ $194804 - STRING #87 @ $1BE350
 #WRITE(ptr,$194804)
-Well, let me tell you something,[LINE]
-I've always been Slim,[LINE]
-it's what I wanted, you know.[END]
+Well, let me tell you something.[LINE]
+I've always been Slim, it's[LINE]
+what I wanted, you know.[END]
+
 
 //POINTER #88 @ $194808 - STRING #88 @ $1BE340
 #WRITE(ptr,$194808)
@@ -19801,8 +19799,8 @@ Doppelganger[END]
 
 //POINTER #133 @ $1948BC - STRING #133 @ $1BDA90
 #WRITE(ptr,$1948BC)
-There is an other you that exist in this world.[LINE]
-The connudrum, to meet them or not.[END]
+There is another you that exist's in this world.[LINE]
+The conundrum, to meet them or not.[END]
 //[END]
 
 
@@ -19934,7 +19932,8 @@ Rose of Seinegald[END]
 
 //POINTER #157 @ $19491C - STRING #157 @ $1BD660
 #WRITE(ptr,$19491C)
-A single rose dancing in the land of Seinegald.[LINE]
+A single rose dances in[LINE]
+the land of Seinegald.[LINE]
 Who could they possibly be?![END]
 //[END]
 
@@ -20146,7 +20145,7 @@ Binary Stars[END]
 //POINTER #195 @ $1949B4 - STRING #195 @ $1BCEA0
 #WRITE(ptr,$1949B4)
 Binary stars joined by mutual attraction,[LINE]
-supporting eachother both body and soul.[LINE]
+supporting each other in both body and soul.[LINE]
 Proof that two shine brighter as one.[END]
 
 
@@ -20157,7 +20156,8 @@ Combat Merchant[END]
 //POINTER #197 @ $1949BC - STRING #197 @ $1BCE48
 #WRITE(ptr,$1949BC)
 Each has his own business talent.[LINE]
-As a warrior, must I spend all day fighting and trading?[END]
+As a warrior, must I spend all day[LINE]
+fighting and trading?[END]
 //[END]
 
 //POINTER #198 @ $1949C0 - STRING #198 @ $1BCE38
@@ -20321,8 +20321,8 @@ Clown [Johnny][END]
 
 //POINTER #227 @ $194A34 - STRING #227 @ $1BC920
 #WRITE(ptr,$194A34)
-A traveling jokester and bard,[LINE]
-Dressesd in flamboyant costumes.[END]
+A traveling jokester and bard.[LINE]
+Dressed in flamboyant costumes.[END]
 //[END]
 
 
@@ -20705,7 +20705,7 @@ Sister Representative[END]
 
 //POINTER #295 @ $194B44 - STRING #295 @ $1BBD18
 #WRITE(ptr,$194B44)
-[Lilith] Aileron (17) from Leane Village.[LINE]
+[Lilith] Aileron (17) from Lienea Village.[LINE]
 ??cm, ??kg.[LINE]
 Her hobby is cooking, even in combat.[END]
 
