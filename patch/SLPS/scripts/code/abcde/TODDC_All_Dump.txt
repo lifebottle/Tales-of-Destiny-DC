@@ -19799,7 +19799,7 @@ Doppelganger[END]
 
 //POINTER #133 @ $1948BC - STRING #133 @ $1BDA90
 #WRITE(ptr,$1948BC)
-There is another you that exist's in this world.[LINE]
+There is another you that exists in this world.[LINE]
 The conundrum, to meet them or not.[END]
 //[END]
 
