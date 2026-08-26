@@ -1,4 +1,4 @@
-name: Build and Deploy
+lolname: Build and Deploy
 on: [push]
 jobs:
   deploy:
